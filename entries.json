@@ -20135,15 +20135,35 @@
   "title": "Abysm",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Domination, strength, slavery.",
-  "summary": "Slavers and despots",
+  "subtitle": "Domination, strength, and slavery",
+  "summary": "Abysm is the god of absolute power over others. Slavers and despots are Abysm’s, and the faith teaches that owning another person is the natural reward of being stronger.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Abysm keeps",
     "paragraphs": [
-     "Abysm: domination, strength, slavery.",
-     "Slavers and despots",
-     "Abysm’s slavers and despots see strength as a claim on the lives of others. In his worship, the chain is the logical end of that belief: those who can impose their will expect obedience to outlast the moment of force."
+     "Abysm keeps domination, strength, and slavery. Where Vautun is the chain that is legal, Abysm is the chain itself, with no argument offered. The faithful hold that the weak exist to be used."
+    ]
+   },
+   {
+    "title": "Who turns to Abysm",
+    "paragraphs": [
+     "The slaver-rings of the south and the masters of bound labor. Abysm’s worship is the reason the Hearthkeepers bar their orphanage doors at night, and the reason the Chainbreakers do not take prisoners among overseers."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The wound chain.** A length of chain wound three times around the wrist, under the sleeve.",
+     "**The marked collar.** A slaver who stamps a collar with the fist and chain is naming his god as well as his property.",
+     "**The answer.** Sevrin’s faithful break every such collar they find, and leave the pieces on the slaver’s own door."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The rings have a temple, a real one, with a roof. It’s on an island the Armada patrols twice a year and has never landed on.” (a Chainbreaker)",
+     "“Some of the names in his ledgers are of people who think they are free.” (a Southhaven dock-clerk)"
     ]
    }
   ],
@@ -20155,11 +20175,32 @@
    [
     "Domains",
     "Domination, strength, slavery"
+   ],
+   [
+    "Symbol",
+    "a chain wound around a fist"
+   ],
+   [
+    "Worship",
+    "among the slaver-rings, and never openly in Council lands"
+   ],
+   [
+    "Abysm’s people",
+    "slavers, despots, overseers"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "He didn’t hate us. That would have meant we were people.",
+   "by": "a freed thrall of the southern mines"
+  },
+  "related": [
+   "sevrin-the-chainbreaker",
+   "vautun-the-ledger-keeper",
+   "great-slave-rebellion",
+   "southern-wilds"
+  ]
  },
  {
   "id": "aoifel-the-green-laugh",
@@ -20201,15 +20242,35 @@
   "title": "Asmodul",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Necromancy, pestilence, decay.",
-  "summary": "Plague as deliberate cruelty",
+  "subtitle": "Necromancy, pestilence, and decay: plague as deliberate cruelty",
+  "summary": "Asmodul is the god of rot brought on purpose. Death, decay, and disease are Asmodul’s tools, and the plague-bringers who serve the god spread sickness as a weapon.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Asmodul keeps",
     "paragraphs": [
-     "Asmodul: necromancy, pestilence, decay.",
-     "Plague as deliberate cruelty",
-     "Asmodul brings necromancy, pestilence and decay together through intent. His name belongs to the deliberate spread of sickness, when someone takes a harm that could be contained and cultivates it as an instrument of cruelty."
+     "Asmodul keeps necromancy, pestilence, and decay. The islands tell two plague-gods apart. **Khagun** is plague as blind nature, the swarm and the famine. Asmodul is plague as intent: sickness aimed at someone."
+    ]
+   },
+   {
+    "title": "Who turns to Asmodul",
+    "paragraphs": [
+     "Very few, and none openly. A besieger who fouls a well, a poisoner who works slowly, and a necromancer who has left the Pale Man’s rules behind. Maela’s healers are the god’s sworn enemies, and are usually the first to recognize the work."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The wilted wreath.** Left on a door before the sickness comes, and not after.",
+     "**The pattern.** A sickness that respects walls, banners, or debts.",
+     "**The clean hands.** The god’s servants never fall ill themselves, and that is how they are found."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Plague of the Burning Sea had a wreath on the first door. The Menders took it down and never said so.” (an old Hearthkeeper)",
+     "“The Pale Man’s priests give his people up to the Registry without being asked. It’s the one thing the two faiths agree about.” (a Registry examiner)"
     ]
    }
   ],
@@ -20221,26 +20282,68 @@
    [
     "Domains",
     "Necromancy, pestilence, decay"
+   ],
+   [
+    "Symbol",
+    "a wilted wreath"
+   ],
+   [
+    "Worship",
+    "forbidden; the Menders and the Registry both hunt it"
+   ],
+   [
+    "Asmodul’s people",
+    "plague-bringers, poisoners of wells, the cruelest necromancers"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "A fever that follows the wells and skips the garrison isn’t a fever. It’s a plan.",
+   "by": "a Mender of Southhaven"
+  },
+  "related": [
+   "khagun-the-rotmother",
+   "maela-the-mender",
+   "pale-man",
+   "plague-of-the-burning-sea",
+   "arcane-registry"
+  ]
  },
  {
   "id": "athuraz",
   "title": "Athuraz",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Destruction, chaos, tyranny.",
-  "summary": "Raiders and warlords",
+  "subtitle": "Destruction, chaos, and tyranny: tearing down for gain",
+  "summary": "Athuraz is the god of the raider: of tearing down what others built and taking what is left. Raiders and warlords pray to Athuraz before a burning.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Athuraz keeps",
     "paragraphs": [
-     "Athuraz: destruction, chaos, tyranny.",
-     "Raiders and warlords",
-     "Raiders and warlords turn to Athuraz when destruction itself is a way to rule. A town can remain under a tyrant’s sway long after the raiders have gone if its neighbors still remember what happened to the last place that resisted."
+     "Athuraz keeps destruction, chaos, and tyranny. Elros wants to rule what is conquered. Athuraz wants it broken. The faithful measure a leader by what burned."
+    ]
+   },
+   {
+    "title": "Who turns to Athuraz",
+    "paragraphs": [
+     "Raiding bands, wrecker crews, and the worst of the pirate captains. The Twelve Flags of the Freeholds, who want ports to sell in, do not love these raiders, and more than one has been handed to the Armada by other pirates."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The beach fire.** A fire lit on the landing beach before a raid, and fed with something taken in the last one.",
+     "**The tower mark.** Burned into a door, it means the house is to be left standing as a message.",
+     "**No ransom.** The faithful take no ransom. It is how the Armada tells them from ordinary pirates."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“One warband on the Frontier carries his mark and has started leaving the granaries alone. Somebody is paying them to be choosy.” (a Bastion scout)",
+     "“He and Chaos aren’t the same. His people want something. That makes them worse.” (a Knight of Dawn)"
     ]
    }
   ],
@@ -20252,26 +20355,68 @@
    [
     "Domains",
     "Destruction, chaos, tyranny"
+   ],
+   [
+    "Symbol",
+    "a broken tower in flames"
+   ],
+   [
+    "Worship",
+    "among raiders, on beaches, before a landing"
+   ],
+   [
+    "Athuraz’s people",
+    "raiders, wreckers, warlords of the unruled islands"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "They didn’t want the town. They wanted to have taken it.",
+   "by": "a survivor of a Frontier raid"
+  },
+  "related": [
+   "elros",
+   "chaos",
+   "twelve-flags",
+   "armada",
+   "northern-frontier"
+  ]
  },
  {
   "id": "brakkundr-the-war-forge",
   "title": "Brakkundr, the War-Forge",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the War-Forge.",
-  "summary": "The quenched blade and the marching host",
+  "subtitle": "The War-Forge: war-smithing and the armed host",
+  "summary": "Brakkundr is the smith-god of war: the forging of weapons and the spirit of the army that carries them. He blesses the blade as it is quenched and the host as it marches.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Brakkundr, the War-Forge: war-smithing, the armed host.",
-     "The quenched blade and the marching host",
-     "Brakkundr’s province stretches from the quenched blade to the marching host. A smith who finishes a weapon and a soldier who relies on it meet in the same act of preparation, long before either sees the outcome of a battle."
+     "Brakkundr keeps war-smithing and the armed host. He is not Rhor, the god of lucky craft, and he is not the dwarves’ eternal anvil. He is the god of the weapon made to be used, and of the discipline that makes an army more than a crowd."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "He is sacred to House Emberheart and House Sunforge, to the Armada’s armorers, and to any smith who makes war-gear. Garrison forges on the Frontier keep his anvil by the door."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The quenching.** A blade is quenched in silence, and named only after it has cooled.",
+     "**The marching blessing.** A host is blessed as it sets out, never as it returns.",
+     "**The broken blade.** A weapon that fails its bearer is brought back to the forge that made it, and the smith answers for it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A blade quenched in his name can’t be surrendered. It can be taken, but the hand has to be opened by someone else.” (a Bastion armorer)",
+     "“Emberheart and Sunforge each say he favors their steel. They’ve settled it with duels four times and with a marriage once.” (a Heartland herald)"
     ]
    }
   ],
@@ -20283,6 +20428,18 @@
    [
     "Domains",
     "War-smithing, the armed host"
+   ],
+   [
+    "Symbol",
+    "a sword cooling on a black anvil"
+   ],
+   [
+    "Offerings",
+    "the first blade of a forging, given to someone who will need it"
+   ],
+   [
+    "His people",
+    "armorers, weaponsmiths, sergeants, House Emberheart, House Sunforge"
    ]
   ],
   "source": "The Pantheon",
@@ -20291,7 +20448,14 @@
    "by": "An armorer of the Frontier garrison, to a young recruit who had broken his first sword"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "rhor",
+   "sword",
+   "house-emberheart",
+   "house-sunforge",
+   "armada",
+   "crafts-and-guilds"
+  ]
  },
  {
   "id": "breath-that-wanders",
@@ -20340,15 +20504,35 @@
   "title": "Brother Dog",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Travel, animals, companionship.",
-  "summary": "Loyalty and the joy of the road",
+  "subtitle": "Travel, animals, and companionship: loyalty and the joy of the road",
+  "summary": "Brother Dog is the god who walks beside you. Loyalty, the road, and the animals who share both are his, and travelers and herders pray to him the way they would talk to a friend.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Brother Dog: travel, animals, companionship.",
-     "Loyalty and the joy of the road",
-     "Brother Dog belongs to the shared road: the animal that walks beside a traveler and the companion who waits when the pace slows. Among halflings he is honored alongside Eo, Castellyn and the folk-saint Penny Greenstep."
+     "Brother Dog keeps travel, animals, and companionship. In a land where nearly everyone has a small companion with a job, he is prayed to more often than most of the great gods, and less formally. He asks for one thing: do not leave behind what trusted you."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "He has no temples. He has wayside posts with a water bowl at the bottom, which whoever passes is expected to fill. Halflings count him among their three, with Eo and Castellyn. People say the lodge hound is his own breed."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The bowl.** Fill the bowl at a wayside post, even if you have no animal with you.",
+     "**The shared crust.** The last of a traveler’s food is split with their companion before the traveler eats.",
+     "**The gate.** A dog that waits at a gate for someone who is not coming back is fed by the whole street."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A stray that follows you three days is his. Turn it away and see how your roads go after that.” (a Tarvan drover)",
+     "“He’s the only god nobody has ever been afraid of. The priests of the dark ones can’t stand it.” (a halfling innkeeper)"
     ]
    }
   ],
@@ -20360,6 +20544,18 @@
    [
     "Domains",
     "Travel, animals, companionship"
+   ],
+   [
+    "Symbol",
+    "a pawprint"
+   ],
+   [
+    "Offerings",
+    "the last of your food, shared with an animal"
+   ],
+   [
+    "His people",
+    "travelers, herders, halflings, anyone with a companion"
    ]
   ],
   "source": "The Pantheon",
@@ -20369,7 +20565,12 @@
   },
   "aliases": [],
   "related": [
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "companions",
+   "halflings",
+   "travel",
+   "castellyn-the-open-hearth",
+   "eo"
   ]
  },
  {
@@ -20377,15 +20578,35 @@
   "title": "Cael the Vintner",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Revelry, wine, joy, festival.",
-  "summary": "His festivals are sacred riots; an overflowing cup",
+  "subtitle": "Revelry, wine, joy, and festival",
+  "summary": "Cael is the god of the feast and the cup, of laughter that defies a hard world. His festivals are sacred riots of joy, and every islander pours a cup for him whatever other gods they keep.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Cael the Vintner: revelry, wine, joy, festival.",
-     "His festivals are sacred riots; an overflowing cup",
-     "The overflowing cup suits a god whose festivals spill past the bounds of an orderly feast. Wine, joy and revelry belong together in Cael’s worship, and a celebration that grows louder as the evening wears on is true to his character."
+     "Cael keeps revelry, wine, joy, and festival. He is no trickster: his chaos is pure celebration. His teaching is that joy is a kind of courage, and that a people who can still throw a feast have not been beaten."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Vintners and brewers keep his altars, which are usually a cask. Sunhold’s terraces and the wine-houses of the Heartland are his country, and no festival in the islands begins without a cup poured on the ground for him."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The poured cup.** The first cup of any new cask goes on the ground.",
+     "**The order of toasts.** Drink to the living first, then to the dead, and then to whoever is left.",
+     "**The riot.** At his festivals rank is set aside until dawn, and what was said is not held against anyone."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“What’s said at Cael’s feast can’t be used in a court. Three magistrates have tested it, and all three were at the feast.” (a Sunhold vintner)",
+     "“The only year Goldwind skipped the Riot of Cups was the year of the plague. Some say the order was the other way round.” (a Goldwind tavern-keeper)"
     ]
    }
   ],
@@ -20397,6 +20618,18 @@
    [
     "Domains",
     "Revelry, wine, joy, festival"
+   ],
+   [
+    "Symbol",
+    "an overflowing cup"
+   ],
+   [
+    "Offerings",
+    "the first cup of a new cask, poured out"
+   ],
+   [
+    "His people",
+    "vintners, brewers, revelers, anyone at a festival"
    ]
   ],
   "source": "The Pantheon",
@@ -20407,7 +20640,11 @@
   "aliases": [],
   "related": [
    "tarvan",
-   "gods-of-the-pantheon"
+   "gods-of-the-pantheon",
+   "sunhold",
+   "festivals-everywhere",
+   "food-of-the-islands",
+   "okram"
   ]
  },
  {
@@ -20415,15 +20652,35 @@
   "title": "Castellyn, the Open Hearth",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Open Hearth.",
-  "summary": "To harm one you have fed is among the gravest sins; symbol an open door, bread on the sill",
+  "subtitle": "The Open Hearth: hospitality and guest-right",
+  "summary": "Castellyn is the god of the bond between host and guest. He is the silent witness wherever a stranger is fed, and to harm someone you have fed, or someone who has fed you, is among the gravest sins an islander can commit.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Castellyn, the Open Hearth: hospitality, guest-right.",
-     "To harm one you have fed is among the gravest sins; symbol an open door, bread on the sill",
-     "Castellyn’s open door and bread on the sill mark the moment hospitality becomes a duty. Once a host has fed a guest, even an old grievance must reckon with the protection that the shared meal has placed over that person."
+     "Castellyn keeps hospitality and guest-right. In the Icy Expanse, to deny a traveler food is murder, and Castellyn is the witness to that law everywhere it is honored. In the villages of the south, strangers are welcomed, or judged, at the communal heart-fire first, and guest-right there is his."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Every innkeeper is his priest whether they know it or not. Halflings count him among their three, with Eo and Brother Dog. He has no temples, because any house with bread on the sill is one."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**Bread on the sill.** Bread left on a windowsill says a stranger may ask here.",
+     "**The first bite.** Once a guest has eaten in a house, host and guest are bound, and neither may harm the other under that roof.",
+     "**The parting cup.** A guest who leaves without the parting cup has left a quarrel behind."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Two houses at feud once ate at the same table by mistake. They had to stop the feud until morning, and by morning they’d forgotten why they started.” (a Heartland innkeeper)",
+     "“The man who broke guest-right at Kaldmark is still alive. Nobody will sell him bread. That’s the punishment.” (a Frontier carter)"
     ]
    }
   ],
@@ -20435,6 +20692,18 @@
    [
     "Domains",
     "Hospitality, guest-right"
+   ],
+   [
+    "Symbol",
+    "an open door, with bread upon the sill"
+   ],
+   [
+    "Offerings",
+    "a place at the table for whoever knocks"
+   ],
+   [
+    "His people",
+    "innkeepers, hosts, travelers, halflings"
    ]
   ],
   "source": "The Pantheon",
@@ -20445,7 +20714,12 @@
   "aliases": [],
   "related": [
    "hospitality",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "hearth-customs",
+   "sill",
+   "halflings",
+   "icy-expanse",
+   "brother-dog"
   ]
  },
  {
@@ -20516,9 +20790,9 @@
    "by": "a Hearthkeeper of Southhaven"
   },
   "related": [
+   "gods-of-the-pantheon",
    "law-the-sun-king",
-   "ungoreth-the-hollow-hunger",
-   "gods-of-the-pantheon"
+   "ungoreth-the-hollow-hunger"
   ]
  },
  {
@@ -20526,15 +20800,35 @@
   "title": "Daelhir",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Sand, time, death, destiny.",
-  "summary": "Destiny written in falling sand",
+  "subtitle": "Sand, time, death, and destiny",
+  "summary": "Daelhir is the keeper of time: destiny written in falling sand. Where Fortura rolls, Daelhir counts, and everything that has a length belongs to this god, a watch, a contract, a life.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Daelhir keeps",
     "paragraphs": [
-     "Daelhir: sand, time, death, destiny.",
-     "Destiny written in falling sand",
-     "Falling sand gives Daelhir’s domains a common image. Each grain marks time passing, and the whole descent suggests a destiny whose end can be certain even when those living through it cannot see how much time remains."
+     "Daelhir keeps sand, time, death, and destiny. The faith holds that every life has a measure, already poured, and that the only choice is what is done while it runs. It is a calm faith, and not a comfortable one."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Clockwrights keep a pinch of sand from their first glass. Ships’ timekeepers, who turn the watch-glass through the night, say a word to Daelhir at every turn. The gamblers of Fortura and the counters of Daelhir are old rivals: she rolls, and he counts."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The turning.** The glass is turned with the left hand, and never early.",
+     "**The last sand.** A pinch of sand is put in the hand of the dying, so that they arrive with something to show.",
+     "**The given hour.** An hour spent on someone who can never return it is the usual offering."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a glass in his shrine at Goldwind that has been running since the Landing and hasn’t emptied. The priests won’t let anyone weigh it.” (a Goldwind lens-grinder)",
+     "“A priest of Daelhir can tell you how long you have. The honest ones refuse.” (a Fifth Fleet timekeeper)"
     ]
    }
   ],
@@ -20546,11 +20840,32 @@
    [
     "Domains",
     "Sand, time, death, destiny"
+   ],
+   [
+    "Symbol",
+    "an hourglass"
+   ],
+   [
+    "Offerings",
+    "an hour given to something that cannot repay it"
+   ],
+   [
+    "Daelhir’s people",
+    "clockwrights, timekeepers, the old, those who know their time is short"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "Turn the glass if you like. It’s the same sand.",
+   "by": "a Goldwind clockwright"
+  },
+  "related": [
+   "fortura-the-fickle",
+   "pale-man",
+   "quiet-door",
+   "crafts-and-guilds"
+  ]
  },
  {
   "id": "drowning-mother",
@@ -20602,15 +20917,35 @@
   "title": "Elcifer",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Illusion, trickery, charm, luck, lies.",
-  "summary": "Rogues, gamblers, illusionists",
+  "subtitle": "Illusion, trickery, charm, luck, and lies",
+  "summary": "Elcifer is the trickster of the pantheon: the god of the illusion, the charming lie, and the luck of whoever is quick enough to use it. Rogues, gamblers, and illusionists count themselves Elcifer’s.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Elcifer keeps",
     "paragraphs": [
-     "Elcifer: illusion, trickery, charm, luck, lies.",
-     "Rogues, gamblers, illusionists",
-     "Rogues, gamblers and illusionists all deal in the gap between what someone sees and what they decide to believe. Elcifer governs that moment, when a well-timed charm, a convincing lie or an unexpected turn of luck can change the outcome."
+     "Elcifer keeps illusion, trickery, charm, luck, and lies, and takes a trickster’s delight in the mess. The faithful insist there is a creed under the laughter: the proud should be tripped, and nobody should be so sure of what they see."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Card-sharps, confidence players, and the illusionists of the theaters, who are the only casters in Goldwind applauded for their work. Elcifer’s shrines are never where they were last week."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The harmless trick.** A prank that costs the victim nothing but dignity is an offering.",
+     "**The false bottom.** Every shrine has one, and something is always in it.",
+     "**The honest hour.** Once a year the faithful tell the truth for an hour. They do not say which hour."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Fortura’s people say Elcifer cheats. Elcifer’s people say thank you.” (a Slatemouth dice-maker)",
+     "“The Registry licenses illusionists more strictly than fire-casters. They know which one empties a bank.” (a Registry examiner)"
     ]
    }
   ],
@@ -20622,11 +20957,32 @@
    [
     "Domains",
     "Illusion, trickery, charm, luck, lies"
+   ],
+   [
+    "Symbol",
+    "a mask with a wink"
+   ],
+   [
+    "Offerings",
+    "a trick that hurts nobody, played on someone who deserves it"
+   ],
+   [
+    "Elcifer’s people",
+    "rogues, gamblers, illusionists, stage-conjurers"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "I never lied to you. I let you finish the sentence yourself.",
+   "by": "a Hollowkey card-sharp"
+  },
+  "related": [
+   "fortura-the-fickle",
+   "idel",
+   "arcane-registry",
+   "games-and-pastimes"
+  ]
  },
  {
   "id": "eliol",
@@ -20723,15 +21079,35 @@
   "title": "Elisse",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Envy, lust, passion, fire.",
-  "summary": "The desire that consumes, where Liora's frees",
+  "subtitle": "Envy, lust, passion, and fire: the desire that consumes",
+  "summary": "Elisse is the power of the desire that devours: jealousy, obsession, the wanting that burns down what it wants. The islands set Elisse against Liora, whose love frees. Elisse’s keeps.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Elisse keeps",
     "paragraphs": [
-     "Elisse: envy, lust, passion, fire.",
-     "The desire that consumes, where Liora's frees",
-     "Elisse’s fire gives passion the power to consume its bearer. Her place beside Liora in accounts of desire draws attention to what happens when the longing to be loved turns into envy and the need to possess."
+     "Elisse keeps envy, lust, passion, and fire. This is not the power of wanting something. It is the power of wanting it because someone else has it, and of being unable to stop."
+    ]
+   },
+   {
+    "title": "Who turns to Elisse",
+    "paragraphs": [
+     "The cults run among the ambitious elite: salons within salons, where a rival’s ruin is planned as carefully as a wedding. A lover refused, a younger heir, and a courtier passed over have all lit a candle to Elisse and regretted where it led."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The burned letter.** A letter is written to the one envied and burned unsent. The ash is kept.",
+     "**The red thread.** Tied where the wearer will see it every day, until the thing is had or the rival is gone.",
+     "**The candle.** One lit for Elisse is never blown out. It is left to burn down."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Half the duels of the Goldwind season start at one salon. The hostess has never been challenged herself.” (a Goldwind dancing-master)",
+     "“A knot tied on Liora 1st can be burned. That’s Elisse’s rite, and it’s the only way.” (a Goldwind ropemaker)"
     ]
    }
   ],
@@ -20743,26 +21119,67 @@
    [
     "Domains",
     "Envy, lust, passion, fire"
+   ],
+   [
+    "Symbol",
+    "a flame shaped like a hand"
+   ],
+   [
+    "Worship",
+    "cults among the ambitious elite"
+   ],
+   [
+    "Elisse’s people",
+    "the jealous, the obsessed, rivals in love and in rank"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "Liora’s lovers write to each other. Elisse’s write about each other.",
+   "by": "a Goldwind matchmaker"
+  },
+  "related": [
+   "liora-of-the-open-heart",
+   "goldwind",
+   "noble-houses",
+   "orphanos"
+  ]
  },
  {
   "id": "elros",
   "title": "Elros",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Tyranny, war, law, tempest.",
-  "summary": "Warlords and dictators",
+  "subtitle": "Tyranny, war, law, and tempest: power through force and fear",
+  "summary": "Elros is the god of rule by force. Warlords and dictators pray to Elros, and so does every officer who has decided that fear is quicker than loyalty.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Elros keeps",
     "paragraphs": [
-     "Elros: tyranny, war, law, tempest.",
-     "Warlords and dictators",
-     "Elros’s domains bring law and tempest into the service of war. A dictator who invokes him can speak of order while ruling through the sudden violence of a storm, making the right to command depend on the power to punish."
+     "Elros keeps tyranny, war, law, and tempest. This is law of a particular kind: the rule that exists because someone strong enough said so. The faith is honest about itself. It promises order, and it does not pretend the order is for the good of the ordered."
+    ]
+   },
+   {
+    "title": "Who turns to Elros",
+    "paragraphs": [
+     "Warlords of the unruled islands, captains who rule by the lash, and now and then a lord who has lost patience with a council. Soldiers serving under such a commander learn the signs quickly."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The closed fist.** Worn on a ring turned inward, shown only to those who already know it.",
+     "**The storm-oath.** Elros’s followers swear obedience in bad weather, outdoors, and call the thunder to witness.",
+     "**The tenth.** A commander who punishes one man in ten for the failure of all is keeping the rite, whether or not the god is named."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a fist ring on at least one hand in the Admiralty. The Shieldmaidens know whose.” (an Armada purser)",
+     "“Lilim’s storms judge. Elros’s just arrive. Sailors say you can tell which is which by whether there was a warning.” (a Tidecaller)"
     ]
    }
   ],
@@ -20774,11 +21191,32 @@
    [
     "Domains",
     "Tyranny, war, law, tempest"
+   ],
+   [
+    "Symbol",
+    "a mailed fist closed on a lightning bolt"
+   ],
+   [
+    "Worship",
+    "in private, among the powerful"
+   ],
+   [
+    "Elros’s people",
+    "warlords, tyrants, harsh commanders"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "He kept perfect order. You could hear it from the next island.",
+   "by": "a refugee from a Frontier holdfast"
+  },
+  "related": [
+   "lilim",
+   "abysm",
+   "korthax-the-iron-crown",
+   "law-the-sun-king"
+  ]
  },
  {
   "id": "eo",
@@ -20967,15 +21405,35 @@
   "title": "Fortura the Fickle",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Luck, chance, gambling.",
-  "summary": "She does not love or hate; she rolls",
+  "subtitle": "Luck, chance, and gambling: pure chance made divine",
+  "summary": "Fortura is chance itself. She does not love or hate; she rolls. Gamblers, pirates, and the desperate pray to her knowing she answers at random, and pray anyway.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Fortura the Fickle: luck, chance, gambling.",
-     "She does not love or hate; she rolls",
-     "A gambler can hope for Fortura’s favor without having any assurance of keeping it. Her fickleness belongs to chance itself: the next throw can undo a winning streak as easily as it began it."
+     "Fortura keeps luck, chance, and gambling. She cannot be bribed, flattered, or earned. Her faithful find that restful: whatever else is rigged in the islands, the dice in her temple are not."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Her priests run the fairest tables in any port and feed the fortune geckos that live in the rafters. The faithful say the gecko chooses the lucky, and not the other way round. The cat-kin honor her beside their own Mishri the Nine-Lived. Her old rivalry is with Daelhir: she rolls, and he counts."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The lost stake.** A small bet lost on purpose, to remind yourself whose dice they are.",
+     "**The single throw.** A question put to her is settled by one throw, and not thrown again.",
+     "**The gecko.** Win a bet with a gecko watching, and it may follow you home."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Her temple in Goldwind has never once been robbed. The thieves’ own odds-makers won’t take the bet.” (a Goldwind pit-boss)",
+     "“There’s a pair of dice that always comes up the same. She had them made, to see who would be fool enough to trust them.” (a Freehold quartermaster)"
     ]
    }
   ],
@@ -20987,6 +21445,22 @@
    [
     "Domains",
     "Luck, chance, gambling"
+   ],
+   [
+    "Symbol",
+    "a pair of bone dice"
+   ],
+   [
+    "Companion",
+    "the fortune gecko, which her priests feed"
+   ],
+   [
+    "Offerings",
+    "a stake you can afford to lose, lost on purpose"
+   ],
+   [
+    "Her people",
+    "gamblers, pirates, the desperate, the cat-kin"
    ]
   ],
   "source": "The Pantheon",
@@ -20996,7 +21470,11 @@
   },
   "aliases": [],
   "related": [
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "daelhir",
+   "elcifer",
+   "games-and-pastimes",
+   "kessa-of-the-crossroads"
   ]
  },
  {
@@ -21095,15 +21573,35 @@
   "title": "The Green Hunter",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "The free hunt, wild beasts.",
-  "summary": "The Life-Aspect as a wild god; an antlered skull",
+  "subtitle": "The free hunt and the wild beasts",
+  "summary": "The Green Hunter is the Aspect of Life made into a wild god: neither cruel nor kind, the joy of the chase under an open sky. Wood elves, free hunters, and Hunters who hunt for the love of it honor him.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "The Green Hunter: the free hunt, wild beasts.",
-     "The Life-Aspect as a wild god; an antlered skull",
-     "As a wild face of the Life-Aspect, the Green Hunter holds both the hunt and the beasts that make it possible. The antlered skull brings those together in one sign, carrying the shape of the living animal into the image of its death."
+     "The Green Hunter keeps the free hunt and the wild beasts. He is the Green Fire with a spear in its hand. A clean kill honors him and a wasteful one insults him, and he makes no promise that the hunter will not be the prey next time."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Wood elves honor him beside Ilis and their own Aelthuvar. Some of the cults of the Savage Lords run him together with the great beasts themselves, which his own faithful think is a mistake a hunter makes once."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The clean kill.** One arrow if you can. Nothing wasted.",
+     "**The heart.** The heart of the first kill of a season is left for the forest.",
+     "**The run.** At the turn of the year his faithful run a day’s chase with no weapon, to remember how it feels from the other side."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“He’s been seen. Antlers, no face, running with the pack. The ones who saw him gave up hunting for coin.” (a Hunter Scout)",
+     "“The Lords’ cults say he is their Lord’s shadow. Ask which Lord and you get a different answer in every valley.” (a Verdant Pact warden)"
     ]
    }
   ],
@@ -21115,6 +21613,18 @@
    [
     "Domains",
     "The free hunt, wild beasts"
+   ],
+   [
+    "Symbol",
+    "an antlered skull"
+   ],
+   [
+    "Offerings",
+    "the heart of a clean kill, left for the forest"
+   ],
+   [
+    "His people",
+    "wood elves, free hunters, trackers, some Hunters"
    ]
   ],
   "source": "The Pantheon",
@@ -21123,7 +21633,14 @@
    "by": "A free hunter of the Southern Wilds, at the end of a day's chase, to an Ilis druid who had asked him to stop"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "green-fire",
+   "ilis",
+   "elves",
+   "hunters",
+   "savage-lords",
+   "southern-wilds"
+  ]
  },
  {
   "id": "halvenir-the-reaper-of-grain",
@@ -21201,8 +21718,8 @@
   ],
   "source": "The Pantheon",
   "epigraph": {
-   "quote": "Halvenir has no legends. He has a full barn, and he thinks that’s the better deal.",
-   "by": "a Sunhold terrace-farmer"
+   "quote": "Nobody writes stories about the harvest. We are too busy bringing it in.",
+   "by": "A farmer of the Heartland's Storm Water fields, at the last sheaf of the season"
   },
   "aliases": [],
   "related": [
@@ -21353,15 +21870,35 @@
   "title": "Iliriel, the Perfect Form",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Perfect Form.",
-  "summary": "Perfection, indifferent to whether it comforts or wounds",
+  "subtitle": "The Perfect Form: beauty, art, and aesthetic glory",
+  "summary": "Iliriel is the goddess of beauty made manifest: the painted masterwork, the flawless line, the terrible loveliness of a thing with nothing wrong in it. She is indifferent to whether that perfection comforts or wounds.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Iliriel, the Perfect Form: beauty, art, aesthetic glory.",
-     "Perfection, indifferent to whether it comforts or wounds",
-     "Iliriel’s perfection measures a work by the form it attains. That leaves room for beauty that unsettles its audience: a work may answer every demand of its maker’s art while remaining painful to look at."
+     "Iliriel keeps beauty, art, and aesthetic glory. Where Khadras is the joy of art, Iliriel is its perfection. Her faith asks one question of any made thing, *is it right*, and does not ask whether anyone was happy making it."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Goldwind’s fashion-courts bow to her, and so do the great architects. A dressmaker of the salons, a sculptor of the Mirror Hall, and a jeweler cutting a stone for the third time are all at prayer."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The breaking.** A work that falls short is destroyed by the hand that made it. Selling it is the sin.",
+     "**The mirror.** Her mirrors are kept covered, and uncovered only to judge a finished work.",
+     "**The season.** Goldwind’s salons open their season with a single dress shown in silence."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Rose House’s beauty is hers, and it isn’t natural. Look at a portrait of any Alastor from a hundred years ago, and then at the one in front of you.” (a Goldwind portrait-limner)",
+     "“There’s a statue in the Mirror Hall kept under a cloth. The last apprentice who looked hasn’t worked since.” (a Goldwind stonecutter)"
     ]
    }
   ],
@@ -21373,6 +21910,18 @@
    [
     "Domains",
     "Beauty, art, aesthetic glory"
+   ],
+   [
+    "Symbol",
+    "a mirror framed in laurel"
+   ],
+   [
+    "Offerings",
+    "a flawed work destroyed by its maker"
+   ],
+   [
+    "Her people",
+    "artists, architects, Goldwind’s fashion-courts, the exacting"
    ]
   ],
   "source": "The Pantheon",
@@ -21381,22 +21930,48 @@
    "by": "A sculptor of Goldwind's Mirror Hall, to an apprentice who had wept at the first finished statue"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "khadras",
+   "goldwind",
+   "house-alastor",
+   "dress-and-the-five-glance-read",
+   "luxuries-of-the-isles"
+  ]
  },
  {
   "id": "ilis",
   "title": "Ilis",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Animals, balance, life, plants.",
-  "summary": "Druids and keepers of balance",
+  "subtitle": "Animals, balance, life, and plants",
+  "summary": "Ilis is the god of the balance of living things: what grows, what feeds on it, and what the land can bear. Druids and keepers of the wild places are the faithful of Ilis.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Ilis keeps",
     "paragraphs": [
-     "Ilis: animals, balance, life, plants.",
-     "Druids and keepers of balance",
-     "For the druids and keepers of balance who turn to Ilis, animal and plant life belong to the same living system. A change that seems small in one part of it, such as losing the cover that shelters an animal, can matter far beyond where it began."
+     "Ilis keeps animals, balance, life, and plants. The faith has no quarrel with the axe, the net, or the plough. Its quarrel is with taking more than comes back. A forest cut faster than it grows is, to the faithful, a debt, and Ilis collects."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The druids are the faithful of Ilis. With wood elves and certain tribes they make up the **Verdant Pact**, the coalition sworn to protect the Wilds from over-exploitation, which sabotages loggers, miners, and slavers. Wood elves honor Ilis beside the Green Hunter, and the Liriath say the name at every planting."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The planting.** A tree is planted for a birth, and its fruit is not picked by the one it was planted for.",
+     "**The leaving.** A tenth of any harvest from wild land is left where it grew.",
+     "**The saying.** *Ilis anneth, Ilis shorra:* Ilis gives, Ilis takes."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Pact doesn’t only burn logging camps. Ask the Charterhouse how many surveyors it has lost.” (a Jakupur timber-factor)",
+     "“The druids say there is a count of every living thing, and that it has started going down.” (a Liriath grove-mother)"
     ]
    }
   ],
@@ -21408,26 +21983,68 @@
    [
     "Domains",
     "Animals, balance, life, plants"
+   ],
+   [
+    "Symbol",
+    "a leaf and a tooth, balanced"
+   ],
+   [
+    "Offerings",
+    "something planted that you will not live to harvest"
+   ],
+   [
+    "Ilis’s people",
+    "druids, the Verdant Pact, wood elves, the Liriath"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "Ilis gives; Ilis takes.",
+   "by": "a Liriath saying, spoken at a planting and at a death"
+  },
+  "related": [
+   "green-fire",
+   "green-hunter",
+   "liriath",
+   "elves",
+   "southern-wilds"
+  ]
  },
  {
   "id": "kessa-of-the-crossroads",
   "title": "Kessa of the Crossroads",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Travel, choice, chance meetings.",
-  "summary": "Coins left at crossroads; three roads meeting",
+  "subtitle": "Travel, choice, and chance meetings",
+  "summary": "Kessa is the goddess of the decision not yet made and the stranger you meet on the road. Wanderers leave coins at crossroads for her.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Kessa of the Crossroads: travel, choice, chance meetings.",
-     "Coins left at crossroads; three roads meeting",
-     "Kessa’s sign is three roads meeting, and the coins left at crossroads belong to her. A junction makes her domains tangible: a traveler has to choose a route, and that choice determines which strangers can cross their path."
+     "Kessa keeps travel, choice, and chance meetings. She has nothing to say about which road is right. Her gift is the moment before the choice, and the person you would not have met if you had chosen otherwise."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Her shrines are the crossroads themselves, marked with a post or a pile of small coins. A wayside shrine-keeper tends each one, takes nothing from the pile, and somehow never goes hungry."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The coin.** Leave a coin before you choose your road. Never take one.",
+     "**The stranger’s due.** The first stranger met after a crossroads is given a fair hearing, whatever they look like.",
+     "**The third road.** When two choices are both bad, her faithful say there is a third road, and stop to look for it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The coins at a crossroads are never stolen. Now and then someone tries, and is met on the road by someone.” (a Heartland shrine-keeper)",
+     "“Idel’s merchants leave her a coin going out and nothing coming back. She’s noticed.” (a Pocchin caravan-master)"
     ]
    }
   ],
@@ -21439,6 +22056,18 @@
    [
     "Domains",
     "Travel, choice, chance meetings"
+   ],
+   [
+    "Symbol",
+    "three roads meeting"
+   ],
+   [
+    "Offerings",
+    "a coin left at a crossroads"
+   ],
+   [
+    "Her people",
+    "wanderers, messengers, runaways, anyone who has not decided"
    ]
   ],
   "source": "The Pantheon",
@@ -21447,22 +22076,47 @@
    "by": "A wayside shrine-keeper of the Heartland's southern roads, to a young wanderer who could not decide which road to take"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "travel",
+   "idel",
+   "wanderlight-the-far-strider",
+   "fortura-the-fickle"
+  ]
  },
  {
   "id": "khadras",
   "title": "Khadras",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Life, glory, music, magic.",
-  "summary": "Joy through art and bravery; bards and healers",
+  "subtitle": "Life, glory, music, and magic: joy through art and bravery",
+  "summary": "Khadras is the god of joy made on purpose: the song, the brave act, the healing that comes from being lifted up. Bards, healers, and everyone whose work is to put heart into other people look to Khadras.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Khadras keeps",
     "paragraphs": [
-     "Khadras: life, glory, music, magic.",
-     "Joy through art and bravery; bards and healers",
-     "Khadras gives bards and healers common ground in the joy of life. Music, magic and bravery can restore something to a person even before a wound closes, giving glory a place in acts of care as well as deeds worth singing about."
+     "Khadras keeps life, glory, music, and magic. The faithful say there are three ways to be healed: Eo heals through community, Maela through skill and sacrifice, and Khadras through art. A crew that sings pulls harder, and a sickroom with music in it loses fewer."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Khadras has more singers than priests. Shanty-singers, tavern players, and the heralds of the great houses all count themselves in. So do the players of Tidecall, who win for their towns and are loved for it."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The whole song.** A song begun in Khadras’s name is finished, whatever interrupts it.",
+     "**The brave cup.** After a rescue, the one rescued buys the first drink and the rescuer sings for it.",
+     "**The gold string.** A player’s instrument carries one string wound with gold thread, for luck and for show."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a song that stops bleeding. Three people in the islands know all of it, and they don’t like each other.” (a University music-master)",
+     "“Iliriel’s people say art should be perfect. Khadras’s people say it should be loud. The two temples in Goldwind share a wall.” (a Goldwind stagehand)"
     ]
    }
   ],
@@ -21474,26 +22128,68 @@
    [
     "Domains",
     "Life, glory, music, magic"
+   ],
+   [
+    "Symbol",
+    "a harp strung with gold"
+   ],
+   [
+    "Offerings",
+    "a song sung in full, to whoever is there"
+   ],
+   [
+    "Khadras’s people",
+    "bards, healers, heralds, the inspirers"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "Anyone can sing when the ship’s dry. Khadras listens for the ones who sing while they bail.",
+   "by": "a ship’s fiddler of the Fifth Fleet"
+  },
+  "related": [
+   "iliriel-the-perfect-form",
+   "maela-the-mender",
+   "eo",
+   "games-and-pastimes",
+   "gods-of-the-pantheon"
+  ]
  },
  {
   "id": "khagun-the-rotmother",
   "title": "Khagun the Rotmother",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Plague, famine, the swarm.",
-  "summary": "Plague as blind nature; a fly upon a skull",
+  "subtitle": "The Rotmother: plague, famine, and the swarm",
+  "summary": "Khagun is disease as a force of nature: the locust cloud, the wasting sickness, the famine that follows war. She does not hate. She only eats, and what she eats feeds something else.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Khagun the Rotmother: plague, famine, the swarm.",
-     "Plague as blind nature; a fly upon a skull",
-     "Khagun’s plague follows the blind logic of a swarm, moving wherever it finds a way to spread. The fly upon a skull gives her a fitting sign: the life of the swarm can continue even where famine and sickness have ended other lives."
+     "Khagun keeps plague, famine, and the swarm. The islands tell her apart from **Asmodul**, whose plague is deliberate cruelty. Khagun has no aim. She is what happens when there are too many mouths, too little rain, or an army that leaves its dead in the fields."
+    ]
+   },
+   {
+    "title": "Who turns to her",
+    "paragraphs": [
+     "People pray to Khagun to ask her to go somewhere else. In the dry years the Heartland’s famine-priests walk the fields with a covered dish and bury it at the boundary. It is one of the few dark faiths the Concord tolerates, because nobody has thought of anything better to do."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The buried dish.** A portion of the last good harvest, buried at the field’s edge so that she eats there first.",
+     "**The fly.** Killing a fly in a sickroom is bad luck. It is put out of the window.",
+     "**The fallow year.** A field she has taken is left a full year before anyone plants it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Halvenir’s story, the one the farmers won’t tell, has her in it.” (a chant-keeper of the Wilds)",
+     "“The Sporrn don’t fear her at all. They say she is half of something, and they keep the other half.” (a Hunter of the southern Board)"
     ]
    }
   ],
@@ -21505,6 +22201,18 @@
    [
     "Domains",
     "Plague, famine, the swarm"
+   ],
+   [
+    "Symbol",
+    "a fly upon a skull"
+   ],
+   [
+    "Worship",
+    "by famine-priests, in bad years, to ask her to pass by"
+   ],
+   [
+    "Her people",
+    "famine-priests, plague-ward keepers, those who live where the swarm comes"
    ]
   ],
   "source": "The Pantheon",
@@ -21513,22 +22221,48 @@
    "by": "A famine-priest of the Heartland's dry years, at a field of blackened grain, to a farmer who had asked why the swarm had come"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "asmodul",
+   "halvenir-the-reaper-of-grain",
+   "maela-the-mender",
+   "sporrn",
+   "quiet-door"
+  ]
  },
  {
   "id": "korthax-the-iron-crown",
   "title": "Korthax the Iron Crown",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Conquest, empire, dominion.",
-  "summary": "The whispered truth behind the Empire's Magnus",
+  "subtitle": "The Iron Crown: conquest, empire, and dominion",
+  "summary": "Korthax is the god of the conqueror’s right: that the strong civilization may rule the weak, or erase it. In the Imperium, Magnus is the public face of the faith, and Korthax is the whispered truth behind it.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Korthax the Iron Crown: conquest, empire, dominion.",
-     "The whispered truth behind the Empire's Magnus",
-     "Korthax embodies conquest as a claim to dominion over others. The suggestion that he lies behind the Empire’s public devotion to Magnus remains a whisper, and it is worth keeping that uncertainty when reading accounts of imperial religion."
+     "Korthax keeps conquest, empire, and dominion. His creed says that history belongs to whoever writes it, and that being conquered is proof of having deserved it. Memnara’s faithful, who remember what conquest erases, count him their particular enemy."
+    ]
+   },
+   {
+    "title": "Who turns to him",
+    "paragraphs": [
+     "Across the water, the Imperium’s officers and great houses. In the islands, founded by the houses that fled the Imperium, his worship is close to treason, and is found mostly among those who think the islands would be better run by one hand."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The private feast.** A dinner with no servants in the room and one empty chair at the head.",
+     "**The iron band.** A plain iron ring worn on the hand that signs orders.",
+     "**The word.** His followers speak of *order restored* where anyone else would say *conquest*."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s an island house that keeps his feast. The same night every year, the lamps on the top floor burn until dawn.” (a Goldwind lamplighter)",
+     "“Memnara’s priests keep a list of everyone who has ever toasted him in the islands. It is shorter than you’d fear and longer than you’d like.” (a Goldwind archivist)"
     ]
    }
   ],
@@ -21540,6 +22274,18 @@
    [
     "Domains",
     "Conquest, empire, dominion"
+   ],
+   [
+    "Symbol",
+    "an iron crown"
+   ],
+   [
+    "Worship",
+    "in private; in the Imperium his feast is held behind closed doors, and every great house attends"
+   ],
+   [
+    "His people",
+    "conquerors, imperial officers, those who believe in the right of the strong"
    ]
   ],
   "source": "The Pantheon",
@@ -21548,22 +22294,47 @@
    "by": "A Korvan officer of the imperial frontier, in private, to a native guide who had asked why his village was being burned"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "magnus",
+   "assios-and-the-wider-world",
+   "memnara-the-unbroken-thread",
+   "elros"
+  ]
  },
  {
   "id": "laughing-beast",
   "title": "The Laughing Beast",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Wild instinct, the untamed self.",
-  "summary": "Berserkers and the were-touched",
+  "subtitle": "Wild instinct and the untamed self",
+  "summary": "The Laughing Beast is the god of throwing off civilization and running with the wild. Berserkers, shifters, and everyone who feels the animal under the skin know it.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What it keeps",
     "paragraphs": [
-     "The Laughing Beast: wild instinct, the untamed self.",
-     "Berserkers and the were-touched",
-     "The Laughing Beast appeals to berserkers and the were-touched through the untamed part of the self. Its province is the instant instinct takes charge, when the body has already answered a threat before the mind can give that answer a name."
+     "The Laughing Beast keeps wild instinct and the untamed self. It is no god of cruelty. It is the god of the howl, the sprint, and the meal eaten with the hands, and its creed is that a person who has never once been an animal is missing half of what they are."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Berserkers go into battle under it. **Shifters**, who are born with a beast in the blood, pray to it when they let the beast rise, and to something calmer when they need it to go back down."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The night outside.** A night with no roof, no fire, and no name.",
+     "**The howl.** Its faithful howl at a feast, once, all together, and then go on eating.",
+     "**The return.** Coming back is part of the rite. A worshipper who does not come back has stopped worshipping and started something else."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The cults of the Savage Lords use its rites and call them their own. The Beast doesn’t seem to mind. The Lords might.” (a Hunter Scout)",
+     "“A shifter who can’t bring the beast back down has gone to it for good. Their families leave food at the edge of the trees.” (a Southhaven midwife)"
     ]
    }
   ],
@@ -21575,6 +22346,18 @@
    [
     "Domains",
     "Wild instinct, the untamed self"
+   ],
+   [
+    "Symbol",
+    "a grinning fanged maw"
+   ],
+   [
+    "Offerings",
+    "a night spent outside every wall"
+   ],
+   [
+    "Its people",
+    "berserkers, shifters, the were-touched, the restless"
    ]
   ],
   "source": "The Pantheon",
@@ -21583,7 +22366,12 @@
    "by": "A berserker of the Southern Wilds, after a feast, to a Council soldier who had asked him to sit still"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "shifters",
+   "green-hunter",
+   "savage-lords",
+   "southern-wilds"
+  ]
  },
  {
   "id": "law-the-sun-king",
@@ -21661,8 +22449,8 @@
    "by": "a magistrate of Goldwind"
   },
   "related": [
-   "concord",
    "armada",
+   "concord",
    "council",
    "lunia-the-lady-of-light",
    "veriden-the-oathkeeper",
@@ -21674,15 +22462,35 @@
   "title": "Lilim",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Tempest, sea, protection, glory.",
-  "summary": "The sea's lawful wrath; sailors beg her mercy",
+  "subtitle": "The sea’s lawful wrath: tempest, sea, protection, and glory",
+  "summary": "Lilim is the sea as law. Her storms are judgments, and sailors beg her mercy before dark waters. Where Okram feeds and Mhavros devours, Lilim decides.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Lilim: tempest, sea, protection, glory.",
-     "The sea's lawful wrath; sailors beg her mercy",
-     "Sailors ask Lilim for mercy because her protection and her tempest belong to the same sea. The force that can carry a crew to glory can just as readily put every person aboard in need of shelter."
+     "Lilim keeps tempest, sea, protection, and glory. A crew that sails well, keeps its oaths, and respects the water has her protection. A crew that does not finds out what the other half of her domain means."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The Concord keeps her altar among its sea gods, under the Tidecaller. Captains make their vows to her, and the Armada honors her beside Ezra."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**First-Sail.** At the spring blessing of the ships, the youngest sailor of each crew throws a coin to Lilim.",
+     "**The dark-water prayer.** Said aloud by the whole watch before a crossing out of sight of land.",
+     "**The reckoning.** A ship that comes through a storm with all hands owes her a day ashore doing someone else’s work."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“She keeps a ledger. A captain who breaks a sea-pact gets one storm for each name on the wrong side of it.” (a Tidecaller)",
+     "“Stormcaller Vael’s people say Lilim is a magistrate with a wet coat. They say it ashore.” (a Hollowkey smuggler)"
     ]
    }
   ],
@@ -21694,13 +22502,41 @@
    [
     "Domains",
     "Tempest, sea, protection, glory"
+   ],
+   [
+    "Symbol",
+    "a wave crowned with lightning"
+   ],
+   [
+    "Holy day",
+    "First-Sail"
+   ],
+   [
+    "Offerings",
+    "a coin thrown by the youngest of the crew"
+   ],
+   [
+    "Her people",
+    "captains, pilots, the Armada, anyone crossing deep water"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "You don’t ask Lilim for a fair wind. You ask her what you owe.",
+   "by": "a first mate of the Fifth Fleet"
+  },
   "related": [
    "concord",
-   "gods-of-the-pantheon"
+   "gods-of-the-pantheon",
+   "okram",
+   "mhavros",
+   "stormcaller-vael",
+   "ezra",
+   "armada",
+   "sea-pacts",
+   "sea-customs",
+   "tholmar-the-star-wake"
   ]
  },
  {
@@ -21783,11 +22619,12 @@
   ],
   "source": "The Pantheon",
   "epigraph": {
-   "quote": "Both moons love her, and she has never once chosen. That’s the lesson, if you want one.",
-   "by": "a harbor matchmaker"
+   "quote": "Love freely given is the only kind that does not turn into a debt. I have seen the other kind, and I will not pray to it.",
+   "by": "A Liora chaplain of the Heartland ports, at a wedding where the bride's family had demanded a dowry in writing"
   },
   "aliases": [],
   "related": [
+   "two-moons-and-the-tides",
    "merrin-games",
    "king-tide",
    "elisse",
@@ -21801,15 +22638,35 @@
   "title": "Lunia, the Lady of Light",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Lady of Light.",
-  "summary": "Her clerics root out corruption",
+  "subtitle": "The Lady of Light: purity, exorcism, and the cleansing of corruption",
+  "summary": "Lunia is the goddess who cleans what has gone wrong. Her clerics perform exorcisms and root out darkness, and where they go, things that were hidden stop being hidden.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Lunia, the Lady of Light: purity, exorcism, glory, law.",
-     "Her clerics root out corruption",
-     "Lunia’s clerics put purity and law to work through exorcism and the search for corruption. For her followers, bringing a hidden wrong into the light is part of cleansing it, since secrecy can let it take root again."
+     "Lunia keeps purity, exorcism, glory, and law. She stands close to Law the Sun King, and her faithful put the difference this way: his light judges, and hers cleans. A haunting, a curse, a rot in a house or a family are all hers to drive out."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Her clerics are few and travel constantly, because they are sent for. A Lunian exorcist arrives with a lamp, asks who has been lying, and usually has the worst of the work done before the rite begins."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The night lamp.** A house troubled by something unseen keeps a lamp lit from dusk to dawn in her name.",
+     "**The asking.** Before any rite, everyone in the house is asked, one at a time, what they have not said.",
+     "**White thread.** A length of white thread tied across a door after a cleansing, and left until it falls."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A Lunian won’t take a fee. They take a promise, and they come back to see whether you kept it.” (a Goldwind landlady)",
+     "“Half of what they drive out was never a spirit. They know. They do the rite anyway, because the family needs it done.” (a Hearthkeeper)"
     ]
    }
   ],
@@ -21821,6 +22678,18 @@
    [
     "Domains",
     "Purity, exorcism, glory, law"
+   ],
+   [
+    "Symbol",
+    "a white lamp"
+   ],
+   [
+    "Offerings",
+    "a lamp kept burning through one whole night"
+   ],
+   [
+    "Her people",
+    "exorcists, purifiers, the watchful"
    ]
   ],
   "source": "The Pantheon",
@@ -21829,22 +22698,46 @@
    "by": "A Lunian exorcist of Goldwind, to a Heartland widow who had brought her a husband's old ring, which the exorcist found to be cursed"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "law-the-sun-king",
+   "concord",
+   "gods-of-the-pantheon"
+  ]
  },
  {
   "id": "maela-the-mender",
   "title": "Maela the Mender",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Medicine, healing, mercy, childbirth.",
-  "summary": "Hospices and plague-wards; symbol a green cross of bound reeds",
+  "subtitle": "Medicine, healing, mercy, and childbirth: the goddess of the sickroom",
+  "summary": "Maela is the quiet goddess of the sickroom and the midwife’s hands. She heals through skill and sacrifice, and her clerics run the hospices and plague-wards of the islands and never turn a patient away, friend or foe.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Maela the Mender: medicine, healing, mercy, childbirth.",
-     "Hospices and plague-wards; symbol a green cross of bound reeds",
-     "Maela’s green cross of bound reeds belongs in hospices and plague wards as much as beside a birthing bed. Medicine and mercy meet in the daily work of those places, where someone must continue caring for the sick after the immediate crisis passes."
+     "Maela keeps medicine, healing, mercy, and childbirth. Her rule is the hardest in the pantheon to keep: nobody is turned away. A pirate, a deserter, and the man who burned the village are all patients first, and whatever else they are can wait until they can stand."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "With Eo, she is the goddess of the **Hearthkeepers**, who run the orphanages, hospices, and shelters of the archipelago. Her traveling healers carry their herbs and salves on a chartback tortoise, so a healer smells like a spice market from twenty paces. Her hospices keep a moss sloth in every ward."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The reed cross.** Tied over a door, it means there is sickness inside and help is welcome.",
+     "**The watch.** Sitting up one night with someone else’s sick is the common offering to her.",
+     "**The first breath.** A midwife says Maela’s name before the child’s."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The plague-wards have taken in men the Armada was hunting, and the Armada waited outside. Nobody has ever gone in after one.” (a Southhaven harbor-watchman)",
+     "“There’s a hospice in the south where the worst cases go in by one door and come out by another, at night. I don’t ask.” (a Mender of Pearl Groove)"
     ]
    }
   ],
@@ -21856,6 +22749,18 @@
    [
     "Domains",
     "Medicine, healing, mercy, childbirth"
+   ],
+   [
+    "Symbol",
+    "a green cross of bound reeds"
+   ],
+   [
+    "Offerings",
+    "clean linen, and a night’s watch at a bedside"
+   ],
+   [
+    "Her people",
+    "healers, midwives, surgeons, the Hearthkeepers"
    ]
   ],
   "source": "The Pantheon",
@@ -21866,7 +22771,12 @@
   "aliases": [],
   "related": [
    "chartback-tortoise",
-   "moss-sloth"
+   "moss-sloth",
+   "eo",
+   "khadras",
+   "concord",
+   "learned-work",
+   "gods-of-the-pantheon"
   ]
  },
  {
@@ -21874,15 +22784,35 @@
   "title": "Magnus",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Destiny, civilization, courage, humanity.",
-  "summary": "Perhaps the divinized Korvan; the Empire's public face",
+  "subtitle": "Destiny, civilization, courage, and humanity",
+  "summary": "Magnus is the god of people building things: the city, the road, the law, the will to make a wilderness into a country. He is the public face of the Imperium’s faith, and the old imperial families of the islands still look to him.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Magnus: destiny, civilization, courage, humanity.",
-     "Perhaps the divinized Korvan; the Empire's public face",
-     "Magnus gives the Empire a public language for courage, civilization and human destiny. The possibility that he is Korvan raised to divinity remains unresolved, even where imperial memory brings the two names close together."
+     "Magnus keeps destiny, civilization, courage, and humanity. His faith holds that people were meant to build, and that a thing built well is a kind of virtue. It is a proud creed, and the native peoples of the south, who were here first, find it hard to listen to."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The imperial-descended humans of the north and the Heartland look to Magnus and to the memory of Korvan the Liberator. Some say Magnus is Korvan himself, made a god; the Imperium leaves that question open on purpose. In the islands his shrines stand in founding-squares, over the first stone of a town."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The first stone.** A new town lays its first stone in his name, with the founders’ names cut underneath where nobody will see them.",
+     "**The builder’s oath.** A master mason swears to leave the work stronger than the plan.",
+     "**Founding-day.** Each town keeps its own, and Goldwind keeps its in the month of Rhor."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Magnus is the face they show. There’s another god behind him in the Imperium, with a crown, and every great house over there dines with him in private.” (a Frontier chaplain)",
+     "“Ask a chant-keeper what was under Goldwind’s first stone before it was laid. Then ask a priest of Magnus, and compare.” (a University historian)"
     ]
    }
   ],
@@ -21894,12 +22824,32 @@
    [
     "Domains",
     "Destiny, civilization, courage, humanity"
+   ],
+   [
+    "Symbol",
+    "a tower under a rising star"
+   ],
+   [
+    "Offerings",
+    "a stone laid in something that will outlast you"
+   ],
+   [
+    "His people",
+    "builders, founders, magistrates, the imperial-descended"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "Every wall anyone ever raised is a prayer to Magnus. He isn’t particular about what the wall is for.",
+   "by": "a Bastion mason"
+  },
   "related": [
-   "assios-and-the-wider-world"
+   "assios-and-the-wider-world",
+   "korthax-the-iron-crown",
+   "humans",
+   "exodus-and-the-landing",
+   "goldwind"
   ]
  },
  {
@@ -21983,11 +22933,12 @@
   ],
   "source": "The Pantheon",
   "epigraph": {
-   "quote": "They can sink the ship and burn the log. She still has the crew list.",
-   "by": "a chant-keeper of the Southern Wilds"
+   "quote": "A name that is written down and read aloud is never quite dead. Write it, and I will keep it. Erase it, and I will ask why.",
+   "by": "A clerk of the Imperial Archives, copying the lineage of a noble house that had asked for a forgery"
   },
   "aliases": [],
   "related": [
+   "mirror-plover",
    "orcs",
    "concord",
    "southern-wilds",
@@ -22073,13 +23024,14 @@
   },
   "related": [
    "abyssara-the-black-below",
+   "patrons-of-the-peoples",
+   "gods-of-the-pantheon",
    "sunken-thrones",
    "thalgorath-the-tide-tyrant",
    "coral-peoples",
    "okram",
    "lilim",
-   "tholmar-the-star-wake",
-   "gods-of-the-pantheon"
+   "tholmar-the-star-wake"
   ]
  },
  {
@@ -22118,15 +23070,35 @@
   "title": "The Nameless God",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Hope, purification, meditation.",
-  "summary": "Hope in the darkest hour; his name lost, his mask faceless",
+  "subtitle": "Hope, purification, and meditation: hope in the darkest hour",
+  "summary": "The Nameless God is the god of hope when there is no reason for it. His name is lost to time and his mask has no face. People come to him last, and many say he was the only one who answered.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "The Nameless God: hope, purification, meditation.",
-     "Hope in the darkest hour; his name lost, his mask faceless",
-     "The Nameless God’s faceless mask gives a shape to devotion without restoring the name that was lost. His domains of hope, purification and meditation meet in the darkest hour, when the act of holding on may be all that is possible."
+     "The Nameless God keeps hope, purification, and meditation. Nobody knows what he was called. His images wear a smooth mask, and his faithful hold that this is the point: he can be hoped in by anyone, because he belongs to no one’s story."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "His servants are hermits and solitary keepers of small, bare shrines, most of them in hard places: an ice-cave on the Frontier, a rock off a lee shore, a cell at the end of a prison corridor. They do not preach. They sit with people."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The silent hour.** His one rite is an hour of silence, kept with someone else in the room.",
+     "**The blank stone.** A smooth stone with nothing carved on it, left where someone was lost with no body to bury.",
+     "**The washing.** Hands and face are washed before the silence, in whatever water there is."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Somebody knows the name. The ones who know don’t say it, and they won’t say why.” (a Frontier hermit)",
+     "“Memnara’s priests have gone looking for it more than once. Whatever they found, they didn’t write it down, and they write everything down.” (a Goldwind archivist)"
     ]
    }
   ],
@@ -22138,6 +23110,18 @@
    [
     "Domains",
     "Hope, purification, meditation"
+   ],
+   [
+    "Symbol",
+    "a faceless mask"
+   ],
+   [
+    "Offerings",
+    "an hour of silence"
+   ],
+   [
+    "His people",
+    "hermits, the grieving, prisoners, the besieged"
    ]
   ],
   "source": "The Pantheon",
@@ -22146,22 +23130,45 @@
    "by": "A hermit of the Frontier's ice-caves, to a dying soldier who asked whether the god had a name at all"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "memnara-the-unbroken-thread",
+   "gods-of-the-pantheon"
+  ]
  },
  {
   "id": "naxithe-the-dream-eater",
   "title": "Naxithe the Dream-Eater",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Nightmares, madness, fear.",
-  "summary": "Dreams that hunt you; a weeping, lidless eye",
+  "subtitle": "The Dream-Eater: nightmares, madness, and fear",
+  "summary": "Naxithe is the goddess who lives in the place where dreams turn rotten. Where Skaia keeps dreams and fate, Naxithe is the dream that hunts you. Those who make a weapon of terror serve her, and so do the mad.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Naxithe the Dream-Eater: nightmares, madness, fear.",
-     "Dreams that hunt you; a weeping, lidless eye",
-     "Naxithe’s weeping, lidless eye gives form to a nightmare that pursues the dreamer. Fear is the center of that domain: the sleeper cannot choose to look away from what the dream keeps bringing back."
+     "Naxithe keeps nightmares, madness, and fear. Her faithful say that fear is the truest thing a person feels, and that she only shows people what was already there. Skaia’s faithful say she rots what Skaia keeps."
+    ]
+   },
+   {
+    "title": "Who fears her",
+    "paragraphs": [
+     "Everyone who dreams, and the **kalashtar** above all, who dream every hour they sleep and fear her beyond any other power. Her priests hate the dreamcurl hedgehog, the little companion that sleeps on a child’s pillow and takes the bad dreams."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The shared nightmare.** The same dream, in the same street, on the same night.",
+     "**The open eye.** Her mark, drawn where a sleeper will see it on waking.",
+     "**The sleepless.** Her servants do not sleep, and can be known by it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A dream that comes back three nights isn’t yours. Something is dreaming it for you. Stay awake, and it has to find another.” (a dream-reader of Greyhaven)",
+     "“Her people can’t work under the wandering moon. When Ciel is up, sleep with the shutters open.” (a kalashtar net-mender)"
     ]
    }
   ],
@@ -22173,6 +23180,18 @@
    [
     "Domains",
     "Nightmares, madness, fear"
+   ],
+   [
+    "Symbol",
+    "a lidless eye, weeping"
+   ],
+   [
+    "Worship",
+    "forbidden; Skaia’s dream-readers watch for it"
+   ],
+   [
+    "Her people",
+    "those who weaponize terror, and the mad who serve her"
    ]
   ],
   "source": "The Pantheon",
@@ -22182,7 +23201,12 @@
   },
   "aliases": [],
   "related": [
-   "dreamcurl-hedgehog"
+   "dreamcurl-hedgehog",
+   "skaia",
+   "kalashtar",
+   "greyhaven",
+   "tramica",
+   "ungoreth-the-hollow-hunger"
   ]
  },
  {
@@ -22190,15 +23214,36 @@
   "title": "Nethis, the Sealed Word",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Sealed Word.",
-  "summary": "The pact with teeth; patron of the Marked and of warlocks",
+  "subtitle": "The Sealed Word: pacts, bargains, and the price",
+  "summary": "Nethis is the lord of the bargain with teeth: the warlock’s deal, the binding contract, the price that must be paid. Nethis does not care whether a pact is fair, only that it is kept. To sign in his name is to bind yourself beyond escape.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Nethis, the Sealed Word: pacts, bargains, the binding contract, the price.",
-     "The pact with teeth; patron of the Marked and of warlocks",
-     "Nethis is patron to the Marked and to warlocks, and the price matters as much to him as the promise. His domain begins where an agreement can bind the speaker long after the circumstances that made the bargain attractive have changed."
+     "Nethis keeps pacts, bargains, the binding contract, and the price. He is set against Veriden, who keeps the oath honestly given: Veriden asks whether the word was true, and Nethis asks only whether it was signed."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The **Marked**, feared for their blood through no deed of their own, built the hardest-won culture in the islands under Nethis, whose law is that a debt is paid. A Marked door is never closed to a Marked stranger. **House Alastor**, the Rose House, names him its patron, and its motto is *All Power Has a Price*."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The margin.** A contract in his name is read aloud in full, margin and all, before it is sealed.",
+     "**The seal.** Once sealed it cannot be amended, only fulfilled or breached.",
+     "**The witnessed marriage.** Great houses sometimes marry by a Nethis-witnessed contract, which binds the heart’s conduct as well as the dowry."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Rose House knows another name for him, and only two of them are allowed to say it.” (a Heartland steward)",
+     "“When a Nethis contract is breached, nobody comes to collect. It simply gets collected.” (a notary of the Marked quarter)",
+     "“The Concord has never put him on its altars, and has never said why.” (a Concord deacon)"
     ]
    }
   ],
@@ -22210,6 +23255,18 @@
    [
     "Domains",
     "Pacts, bargains, the binding contract, the price"
+   ],
+   [
+    "Symbol",
+    "a sealed scroll"
+   ],
+   [
+    "Offerings",
+    "a debt paid in full, on the day"
+   ],
+   [
+    "His people",
+    "the Marked, warlocks, House Alastor, contract-makers"
    ]
   ],
   "source": "The Pantheon",
@@ -22220,7 +23277,11 @@
   "aliases": [],
   "related": [
    "marked",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "veriden-the-oathkeeper",
+   "house-alastor",
+   "vautun-the-ledger-keeper",
+   "faewild"
   ]
  },
  {
@@ -22228,15 +23289,35 @@
   "title": "Oda",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Oracle, mystery, shadow, knowledge.",
-  "summary": "She reveals only what she must",
+  "subtitle": "Oracle, mystery, shadow, and knowledge",
+  "summary": "Oda is the goddess of what is known and not said. She reveals only what she deems necessary, and seers and those who walk between look to her.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Oda: oracle, mystery, shadow, knowledge.",
-     "She reveals only what she must",
-     "Oda’s oracles put knowledge and shadow in the same answer. What she reveals may be enough for a person to act, while what she withholds leaves the person responsible for deciding how far the answer can be trusted."
+     "Oda keeps oracle, mystery, shadow, and knowledge. She is not a goddess of lies. She tells the truth, in pieces, when it is needed and not before. Her faithful say that most people who curse her were given the answer and wanted a different one."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Her oracles are scattered and seldom known by that name: a net-mender who is asked things, an old woman at a crossroads well. They share one rule, which is that an oracle never volunteers."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The one question.** You may ask her oracle once about any one matter. Asking twice cancels both answers.",
+     "**The veil.** An oracle covers her face to speak for Oda and uncovers it to speak for herself.",
+     "**The kept secret.** The offering is a secret told at her shrine and nowhere else, ever."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Skaia’s readers tell you what you dreamed. Oda’s tell you what you already know and won’t look at.” (a Greyhaven dream-reader)",
+     "“The oracles write to each other. Nobody has ever caught the letters, and the Chartwrights have tried.” (a postmaster of the Heartland)"
     ]
    }
   ],
@@ -22248,11 +23329,32 @@
    [
     "Domains",
     "Oracle, mystery, shadow, knowledge"
+   ],
+   [
+    "Symbol",
+    "a veiled face with one eye open"
+   ],
+   [
+    "Offerings",
+    "a secret, told to no one else"
+   ],
+   [
+    "Her people",
+    "seers, oracles, keepers of secrets, those who walk between"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "She answered. It took me nine years to work out which question.",
+   "by": "a pilgrim at the Veil of Shadows"
+  },
+  "related": [
+   "skaia",
+   "veil-of-shadows",
+   "tramica",
+   "gods-of-the-pantheon"
+  ]
  },
  {
   "id": "okram",
@@ -22354,15 +23456,35 @@
   "title": "Oorah",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Cold, community, courage, glory.",
-  "summary": "The far south's goddess of surviving together",
+  "subtitle": "Cold, community, courage, and glory: surviving together",
+  "summary": "Oorah is the far south’s goddess of collective survival. Her country is the Icy Expanse, where nobody lives through a winter alone, and her whole teaching is that the cold is beaten by the number of people who face it.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Oorah: cold, community, courage, glory.",
-     "The far south's goddess of surviving together",
-     "Oorah’s courage takes the form of people keeping one another alive in the cold. Her worship belongs both to the far south and to the Frost Elves, whose faith also honors Vukharr and Volvieg."
+     "Oorah keeps cold, community, courage, and glory. She is a goddess of law more than of kindness: her commandments are the rules by which a village on the ice stays alive, and breaking them kills other people."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Every long-house in the Expanse keeps her. Some of the Frost Elves, who lost their own god, have taken her up. She stands opposite **Volvieg**, the cold that kills, and the folk of the ice pray to the one and ward off the other in the same breath."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The Ghostlight Vigil.** When the aurora is strongest the people watch in silence and leave offerings, unsure whether they are thanking one goddess or warding off another.",
+     "**The count.** Every household is counted at dusk in deep winter. A missing name is everyone’s business.",
+     "**The neighbor’s fuel.** Fuel left at a door is never asked about and never refused."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The count at Snowvah came up one too many, three winters ago. They fed whoever it was until the thaw.” (a Frosthold trader)",
+     "“Oorah and Volvieg are the same cold. Which one you get depends on whether you shared your fire.” (an ice-fisher of the Expanse)"
     ]
    }
   ],
@@ -22374,12 +23496,37 @@
    [
     "Domains",
     "Cold, community, courage, glory"
+   ],
+   [
+    "Symbol",
+    "a ring of joined hands around a flame"
+   ],
+   [
+    "Holy night",
+    "the Ghostlight Vigil"
+   ],
+   [
+    "Offerings",
+    "fuel left at a neighbor’s door"
+   ],
+   [
+    "Her people",
+    "the folk of the ice, whalers, the long-house clans"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "The cold counts heads. Make sure it counts all of yours.",
+   "by": "a whaler’s wife of Frosthold"
+  },
   "related": [
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "icy-expanse",
+   "volvieg",
+   "festivals-of-the-ice",
+   "frosthold",
+   "castellyn-the-open-hearth"
   ]
  },
  {
@@ -22387,15 +23534,35 @@
   "title": "Orphanos",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Gluttony, greed, hunger, envy.",
-  "summary": "Hoarders consumed by want",
+  "subtitle": "Gluttony, greed, hunger, and envy: insatiable want",
+  "summary": "Orphanos is the god of the appetite that cannot be filled. Hoarders consumed by want are Orphanos’s, and the faith is less a worship than a condition.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Orphanos keeps",
     "paragraphs": [
-     "Orphanos: gluttony, greed, hunger, envy.",
-     "Hoarders consumed by want",
-     "Orphanos joins gluttony, greed, hunger and envy in an appetite that grows as it is fed. The hoarder in his domain can possess more than they could ever use and still experience another person’s good fortune as a loss."
+     "Orphanos keeps gluttony, greed, hunger, and envy. Venkovolkos’s merchants want to win. The people of Orphanos only want more, and winning does not help. The old stories say the god was the first to be hungry and has never once been full."
+    ]
+   },
+   {
+    "title": "Who turns to Orphanos",
+    "paragraphs": [
+     "Nobody decides to. A lord who cannot stop adding rooms, a miser with a cellar of spoiled grain in a hungry year, and a collector who steals what he could afford. Halvenir’s farmers, who know the difference between plenty and hoarding, call a locked granary in a famine an altar to Orphanos."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The locked store.** Food kept until it rots, with hungry people on the other side of the door.",
+     "**The count.** Counting it again, at night, alone.",
+     "**The empty plate.** The few real cultists eat from a plate with a hole in it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a vault under a house in Goldwind that the family itself can’t open any more. They keep adding to it through a slot.” (a Goldwind locksmith)",
+     "“Ungoreth’s cult calls him a cousin. Emptiness that eats, and emptiness that is. He doesn’t like the comparison.” (a University lecturer)"
     ]
    }
   ],
@@ -22407,26 +23574,67 @@
    [
     "Domains",
     "Gluttony, greed, hunger, envy"
+   ],
+   [
+    "Symbol",
+    "an open mouth with nothing behind it"
+   ],
+   [
+    "Worship",
+    "none that anyone admits; the god is served by habit"
+   ],
+   [
+    "Orphanos’s people",
+    "hoarders, misers, the never-satisfied"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "He had enough for nine lifetimes and he died counting.",
+   "by": "a Goldwind undertaker"
+  },
+  "related": [
+   "venkovolkos",
+   "halvenir-the-reaper-of-grain",
+   "ungoreth-the-hollow-hunger",
+   "elisse"
+  ]
  },
  {
   "id": "pale-man",
   "title": "The Pale Man",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Necromancy, knowledge, death, law.",
-  "summary": "The cold intellect over the passage from life to death",
+  "subtitle": "Necromancy, knowledge, death, and law: the cold intellect over the passage",
+  "summary": "The Pale Man is the god of death understood: the passage from life to death, studied and kept in order. Necromancers and death-scholars are his, and so are the physicians who need to know exactly how a body fails.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "The Pale Man: necromancy, knowledge, death, law.",
-     "The cold intellect over the passage from life to death",
-     "The Pale Man approaches the passage from life to death through necromancy, law and knowledge. His cold intellect gives that passage the character of something that can be studied, classified and subjected to a rule."
+     "The Pale Man keeps necromancy, knowledge, death, and law. He is not the Quiet Door, which receives the dead, and he is not Tholmar, who carries the drowned. He is the mind that watches the crossing and writes down what it sees."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "His servants are scholars before they are priests: anatomists, embalmers, coroners, and the few necromancers who work inside the law. Surgeons who would never call themselves his still keep his small white hand over the dissecting table."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The true cause.** A death is recorded as it happened, whoever it embarrasses.",
+     "**The closed book.** His book is never shown open. What is in it is not for the living.",
+     "**The orderly dead.** Raising the dead outside his rules is an offense against him first, and against the Registry second."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Registry tolerates his priests because they report the other kind of necromancer. That’s the arrangement, and nobody wrote it down.” (a Registry examiner)",
+     "“There’s a company of surgeons in the south who honor him and nobody else, and they’re very interested in silver.” (a Southhaven apothecary)"
     ]
    }
   ],
@@ -22438,11 +23646,33 @@
    [
     "Domains",
     "Necromancy, knowledge, death, law"
+   ],
+   [
+    "Symbol",
+    "a white hand holding a closed book"
+   ],
+   [
+    "Offerings",
+    "a true record of how someone died"
+   ],
+   [
+    "His people",
+    "death-scholars, anatomists, embalmers, lawful necromancers"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "He isn’t cruel. He’s exact. People find that harder.",
+   "by": "a University anatomist"
+  },
+  "related": [
+   "quiet-door",
+   "tholmar-the-star-wake",
+   "arcane-registry",
+   "university",
+   "daelhir"
+  ]
  },
  {
   "id": "patrons-of-the-peoples",
@@ -22743,15 +23973,35 @@
   "title": "Saelthar the Cold Throne",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Hierarchy, ambition, bloodline.",
-  "summary": "Rank as divine right; a throne of frost",
+  "subtitle": "The Cold Throne: hierarchy, ambition, and bloodline",
+  "summary": "Saelthar is the god of the noble who believes rank is divine right and rules through dread, and the whispered patron of the cruelest of the noble houses.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Saelthar keeps",
     "paragraphs": [
-     "Saelthar the Cold Throne: hierarchy, ambition, bloodline.",
-     "Rank as divine right; a throne of frost",
-     "Saelthar’s throne of frost embodies hierarchy as a divine right inherited through blood. Ambition in his domain is caught between the desire to rise and the insistence that rank already belongs to those born to it."
+     "Saelthar keeps hierarchy, ambition, and bloodline. The creed says that birth is a judgment already given, and that those born above are owed fear by those born below. It is a faith with no converts: you are born into its favor or you are not."
+    ]
+   },
+   {
+    "title": "Who turns to Saelthar",
+    "paragraphs": [
+     "No house admits to it. The faith lives in private chapels, in a second altar behind the family’s public one, and in the way certain lords speak to their tenants. Memnara keeps lineages as a record. Saelthar’s faithful keep them as a weapon."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The cold seat.** One chair at the family table that is never warmed and never sat in by a guest.",
+     "**The frost mark.** A snowflake worked small into a signet, where a wax seal will not show it.",
+     "**The reminding.** A servant punished in front of the others, for nothing, on a regular day of the year."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Two houses at the Moot of Banners keep the cold seat. They sit on opposite sides of the hall and vote together.” (a Banner Hall usher)",
+     "“Winter’s court approves of him. Whether he approves of Winter’s court is a question nobody at the Moot will ask aloud.” (a Caelvaron retainer)"
     ]
    }
   ],
@@ -22763,6 +24013,18 @@
    [
     "Domains",
     "Hierarchy, ambition, bloodline"
+   ],
+   [
+    "Symbol",
+    "a throne of frost"
+   ],
+   [
+    "Worship",
+    "in family chapels, behind the public altar"
+   ],
+   [
+    "Saelthar’s people",
+    "the proudest of the old blood"
    ]
   ],
   "source": "The Pantheon",
@@ -22771,22 +24033,53 @@
    "by": "A Heartland noble of an old house, at a feast, to a guest who had asked about the price of bread in the village"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "noble-houses",
+   "the-moot-of-banners",
+   "memnara-the-unbroken-thread",
+   "morthryn-the-pale-empress-of-air-and-ending"
+  ]
  },
  {
   "id": "sevrin-the-chainbreaker",
   "title": "Sevrin the Chainbreaker",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Liberty, rebellion, the broken yoke.",
-  "summary": "Patron of the Southern Rebels; outlawed by the Empire; symbol a snapped iron collar",
+  "subtitle": "Liberty, rebellion, and the broken yoke",
+  "summary": "Sevrin is the god of those who refuse to kneel. The story says he was born from the first slave who killed a master. The Imperium has outlawed his worship, and in the islands he is the god of everyone who has ever broken a cage.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Sevrin the Chainbreaker: liberty, rebellion, the broken yoke.",
-     "Patron of the Southern Rebels; outlawed by the Empire; symbol a snapped iron collar",
-     "Sevrin’s snapped iron collar gives the Southern Rebels a clear image of the freedom they seek. The Empire outlaws his worship, so openly honoring him can carry political weight before a follower has said a word about rebellion."
+     "Sevrin keeps liberty, rebellion, and the broken yoke. His teaching is short: no one is owned. He is honored in the south above all, where the memory of chains is closest."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The **Chainbreakers**, the armed freedom-fighters who strike the slaver-rings and burn their ledgers, fill their ranks with his devout. Freed thralls keep the collar they were freed from, broken, and hang it by the door."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The breaking.** A collar is broken, never unlocked. The one freed keeps the pieces.",
+     "**The standing prayer.** Nobody kneels to Sevrin. His prayers are said on your feet.",
+     "**The open lock.** A lock left broken open on a gate is his mark, and a warning."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Across the water, worship of Sevrin is a hanging matter, and every collar-smith in the Imperium can tell you what a broken collar means. In the islands the Council does not forbid him, and the houses that keep bound labor wish it would."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“One of the great houses pays for the Chainbreakers’ powder. Everyone has a guess, and the guess is always the same house.” (a Southhaven dock-clerk)",
+     "“The first slave had a name. The Imperium burned every book it was in, and Memnara’s people are still looking.” (a chant-keeper)"
     ]
    }
   ],
@@ -22798,6 +24091,18 @@
    [
     "Domains",
     "Liberty, rebellion, the broken yoke"
+   ],
+   [
+    "Symbol",
+    "a snapped iron collar"
+   ],
+   [
+    "Offerings",
+    "a lock broken and left open"
+   ],
+   [
+    "His people",
+    "freed thralls, the Chainbreakers, the rebels of the south"
    ]
   ],
   "source": "The Pantheon",
@@ -22807,7 +24112,11 @@
   },
   "aliases": [],
   "related": [
-   "southern-movements"
+   "southern-movements",
+   "great-slave-rebellion",
+   "southern-wilds",
+   "assios-and-the-wider-world",
+   "memnara-the-unbroken-thread"
   ]
  },
  {
@@ -22983,12 +24292,13 @@
   },
   "related": [
    "aethyn",
+   "patrons-of-the-peoples",
+   "gods-of-the-pantheon",
    "kalashtar",
    "greyhaven",
    "naxithe-the-dream-eater",
    "tramica",
-   "tholmar-the-star-wake",
-   "gods-of-the-pantheon"
+   "tholmar-the-star-wake"
   ]
  },
  {
@@ -23047,15 +24357,35 @@
   "title": "Sruth the Whisper-in-Coin",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Secrets, betrayal, blackmail.",
-  "summary": "A coin pressed to the lips",
+  "subtitle": "The Whisper-in-Coin: secrets, betrayal, and blackmail",
+  "summary": "Sruth is the god of the secret with a price and the friend who sells you out. Spymasters who feel no loyalty, informants, and blackmailers are Sruth’s.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Sruth keeps",
     "paragraphs": [
-     "Sruth the Whisper-in-Coin: secrets, betrayal, blackmail.",
-     "A coin pressed to the lips",
-     "Sruth’s coin pressed to the lips gives secrecy a price. A confidence can buy silence or become leverage against the person who shared it, placing blackmail and betrayal within the same exchange."
+     "Sruth keeps secrets, betrayal, and blackmail. Oda keeps what should not yet be said. Sruth keeps what can be sold. The creed has one line: trust is a thing you spend."
+    ]
+   },
+   {
+    "title": "Who turns to Sruth",
+    "paragraphs": [
+     "Informants in every port, clerks who copy what they should not, and the kind of spymaster who serves a house only until a better offer comes. Honest spies, who exist, despise the faith and watch for it in their own people."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The coin to the lips.** A coin touched to the mouth before a secret is sold.",
+     "**The second copy.** The faithful never make one copy of anything.",
+     "**The price named first.** The secret is priced before it is described, so that the buyer has already agreed to want it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Rose House’s spymaster keeps a shrine to him behind a panel. The Rose House would say that’s slander, and price it.” (a Heartland steward)",
+     "“The Chartwrights open no letters. They don’t have to. Somebody at each end has already sold the contents.” (a Goldwind advocate)"
     ]
    }
   ],
@@ -23067,6 +24397,18 @@
    [
     "Domains",
     "Secrets, betrayal, blackmail"
+   ],
+   [
+    "Symbol",
+    "a coin pressed to the lips"
+   ],
+   [
+    "Worship",
+    "hidden shrines, in houses that employ spies"
+   ],
+   [
+    "Sruth’s people",
+    "informants, blackmailers, spymasters without loyalty"
    ]
   ],
   "source": "The Pantheon",
@@ -23075,22 +24417,47 @@
    "by": "A spymaster of the Council's secret houses, to a young clerk who had just been paid to read a sealed letter"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "oda",
+   "house-alastor",
+   "venkovolkos",
+   "chartwrights"
+  ]
  },
  {
   "id": "stormcaller-vael",
   "title": "Stormcaller Vael",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "The wild sea, the free wind.",
-  "summary": "The storm you ride for the thrill; patron of free captains and smugglers",
+  "subtitle": "The wild sea and the free wind",
+  "summary": "Stormcaller Vael is the sea’s wild freedom: the storm you ride for the thrill, the wind that obeys no chart. Free captains, smugglers, and the Pirate Freeholds sail under Vael.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Vael keeps",
     "paragraphs": [
-     "Stormcaller Vael: the wild sea, the free wind.",
-     "The storm you ride for the thrill; patron of free captains and smugglers",
-     "Vael’s storm appeals to free captains and smugglers who value the wind as a chance to sail beyond someone else’s control. The thrill belongs to a sea that remains wild even for a crew skilled enough to ride it."
+     "Vael keeps the wild sea and the free wind. Where Lilim is the sea’s law and Okram its sustenance, Vael is the sea with no master. The faith has one virtue, nerve, and one sin, which is turning back."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The free captains and the smugglers, and any sailor who has ever carried too much sail because it felt good. Vael has no priests. A captain who has ridden out a storm that should have killed the ship is listened to as one."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The torn sail.** A strip of canvas torn in a real storm, flown from the stern as a boast and a prayer.",
+     "**The late reef.** Sail is shortened a moment later than is wise, as an offering.",
+     "**The shout.** In the worst of the weather Vael’s sailors shout back at it. It is the only prayer they have."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Galven say Vael learned storms from their thunderbird. Vael’s captains say it was the other way round.” (a Galven storm-pilot)",
+     "“Three Armada captains keep a torn sail in a locker. The admirals know, and promote them anyway.” (an Armada purser)"
     ]
    }
   ],
@@ -23102,26 +24469,69 @@
    [
     "Domains",
     "The wild sea, the free wind"
+   ],
+   [
+    "Symbol",
+    "a torn sail"
+   ],
+   [
+    "Offerings",
+    "a reef left unshaken a moment too long"
+   ],
+   [
+    "Vael’s people",
+    "free captains, smugglers, storm-riders, the Pirate Freeholds"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "Lilim gives you the sea you deserve. Vael gives you the one you dared.",
+   "by": "a free captain of the Freeholds"
+  },
+  "related": [
+   "lilim",
+   "okram",
+   "twelve-flags",
+   "galven",
+   "badron-queen-of-feathers",
+   "sea-customs"
+  ]
  },
  {
   "id": "sword",
   "title": "The Sword",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "War, strength, wrath, protection.",
-  "summary": "War as a plain fact of life",
+  "subtitle": "War, strength, wrath, and protection: war as a plain fact",
+  "summary": "The Sword is the god of war as it is: neither a glory nor a sin, a plain fact of life that someone has to be good at. Mercenaries and defenders pray to it alike, often on opposite sides of the same field.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What it keeps",
     "paragraphs": [
-     "The Sword: war, strength, wrath, protection.",
-     "War as a plain fact of life",
-     "The Sword holds wrath and protection within the ordinary fact of war. The strength that lets someone defend another person can be used to harm them just as readily, and both uses belong to this divine figure."
+     "The Sword keeps war, strength, wrath, and protection. It has no name and no stories. It takes no side, and it promises nothing but this: the one who is ready has a better day than the one who is not."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Soldiers of every house and banner honor it, and so do the swords for hire. It is the one god two armies can pray to before the same battle without either feeling cheated."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The clean blade.** A weapon is cleaned before its bearer eats or sleeps.",
+     "**Point down.** A sword set point down in the ground means a truce to bury the dead.",
+     "**No thanks.** Nobody thanks the Sword for a victory. You thank it by being ready for the next one."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“It had a name once. The soldiers who knew it agreed to stop using it, and nobody remembers which war that was.” (a Bastion veteran)",
+     "“Brakkundr’s smiths say the Sword is their god’s unfinished work. The Sword’s soldiers say Brakkundr is their god’s blacksmith.” (a garrison sergeant)"
     ]
    }
   ],
@@ -23133,6 +24543,18 @@
    [
     "Domains",
     "War, strength, wrath, protection"
+   ],
+   [
+    "Symbol",
+    "a plain sword, point down"
+   ],
+   [
+    "Offerings",
+    "a weapon cleaned before you sleep"
+   ],
+   [
+    "Its people",
+    "soldiers, mercenaries, garrison troops, anyone who stands a wall"
    ]
   ],
   "source": "The Pantheon",
@@ -23141,22 +24563,49 @@
    "by": "A Bastion veteran, to a boy who had asked whether the wars would ever end"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "brakkundr-the-war-forge",
+   "swords-and-hunters",
+   "armada",
+   "bastion"
+  ]
  },
  {
   "id": "tholmar-the-star-wake",
   "title": "Tholmar, the Star-Wake",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Star-Wake.",
-  "summary": "The art of crossing the sea alive; carries the drowned; every captain's first cup",
+  "subtitle": "The Star-Wake: navigation, safe passage, and the drowned",
+  "summary": "Tholmar is the god who hangs the guiding stars and walks the deck of every ship that ever sailed. He is the art of crossing the sea alive, and he is the keeper of the drowned: the souls lost at sea pass through his hands, and he carries them to whatever waits.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Tholmar, the Star-Wake: navigation, safe passage, the drowned.",
-     "The art of crossing the sea alive; carries the drowned; every captain's first cup",
-     "Tholmar holds both the skill of making a crossing alive and the care of those who drown. A captain’s first cup acknowledges that the voyage and its losses lie within the reach of the same god."
+     "Tholmar keeps navigation, safe passage, and the drowned. Where Lilim is the sea’s law and Okram its sustenance, Tholmar is the navigator’s reckoning, the lighthouse flame, and the safe return. The same god guides the living across and carries the dead, and sailors find that fitting."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The Concord keeps his altar among its sea gods. His priests are the funeral priests of the ports: they bury the drowned, bless the ships’ bells, and pour the first cup with the captain. Pearl Groove is his own port, where the old hulk *Quiet Passage* serves as the morgue ship for the unclaimed drowned."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The first cup.** Every captain pours the first cup overboard to Tholmar before a long crossing.",
+     "**The bell.** A ship’s bell is blessed in his name, and rung for each of the crew the sea takes.",
+     "**The ferry-fare.** In the southern ports a silver Tide is laid on the tongue of the dead, to pay their passage.",
+     "**The light.** A lighthouse-keeper who lets the flame die has sinned against him, whatever the reason."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The ferry-fare is new. My grandmother never heard of it, and now you can’t bury a man in the south without it.” (a Southhaven sailmaker)",
+     "“His chapels in the south spend more on silver than on candles. A clerk at the Reckoners’ Hall noticed, and was told to stop noticing.” (a Reckoners’ counter)",
+     "“Nobody goes aboard the Quiet Passage who doesn’t have to. The priests go aboard every night.” (a Pearl Groove ferryman)"
     ]
    }
   ],
@@ -23168,6 +24617,22 @@
    [
     "Domains",
     "Navigation, safe passage, the drowned"
+   ],
+   [
+    "Symbol",
+    "a star above a ship’s wake"
+   ],
+   [
+    "Offerings",
+    "the captain’s first cup, poured overboard"
+   ],
+   [
+    "His port",
+    "Pearl Groove"
+   ],
+   [
+    "His people",
+    "navigators, pilots, lighthouse-keepers, funeral priests"
    ]
   ],
   "source": "The Pantheon",
@@ -23177,7 +24642,14 @@
   },
   "aliases": [],
   "related": [
-   "concord"
+   "concord",
+   "lilim",
+   "okram",
+   "skaia",
+   "pearl-groove-and-the-pelagar-isle",
+   "sea-customs",
+   "reckoners-hall",
+   "quiet-door"
   ]
  },
  {
@@ -23185,15 +24657,35 @@
   "title": "Tramica",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Moon, protection, darkness, meditation.",
-  "summary": "Bound to the lesser, wandering moon",
+  "subtitle": "Moon, protection, darkness, and meditation",
+  "summary": "Tramica is the goddess of the night and of protection from what hides in it. She is bound to the lesser moon, the wanderer, which her priests call her lamp.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Tramica: moon, protection, darkness, meditation.",
-     "Bound to the lesser, wandering moon",
-     "Tramica is bound to the lesser, wandering moon. Darkness in her domain can offer protection and room for meditation. The Aethyn honor her alongside Skaia and The Breath That Wanders."
+     "Tramica keeps the moon, protection, darkness, and meditation. Hers is the dark as shelter: the night that hides the hunted, the quiet in which a mind settles. She guards against hidden dangers, and her faithful learn to be at ease where there is no light."
+    ]
+   },
+   {
+    "title": "Her lamp",
+    "paragraphs": [
+     "The islands have two moons. Valtaire, the greater, turns the months. Ciel, the lesser, wanders. Tramica’s priests call Ciel her lamp; the harbors call Ciel one of Liora’s lovers. Both stories are told, sometimes in the same tavern."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The dark walk.** A night walked with no lamp, as an offering and a lesson.",
+     "**The watchman’s word.** A night-watch begins with her name and ends with thanks, whether or not anything happened.",
+     "**Ciel’s return.** When the wandering moon comes back into the sky, her faithful sit up to see it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“When Ciel wanders, she’s gone looking for something. The priests keep a record of where the moon was when it turned back.” (an Aethyn star-reader)",
+     "“Naxithe’s people won’t work under Ciel. They wait until it sets.” (a Goldwind night-watchman)"
     ]
    }
   ],
@@ -23205,13 +24697,37 @@
    [
     "Domains",
     "Moon, protection, darkness, meditation"
+   ],
+   [
+    "Symbol",
+    "a small crescent inside a circle"
+   ],
+   [
+    "Her moon",
+    "Ciel, the wandering moon"
+   ],
+   [
+    "Offerings",
+    "a night walked without a light"
+   ],
+   [
+    "Her people",
+    "night-watchmen, the Aethyn, travelers after dark"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "The big moon keeps the calendar. The little one keeps an eye on you.",
+   "by": "an Aethyn night-flier"
+  },
   "related": [
    "aethyn",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "two-moons-and-the-tides",
+   "liora-of-the-open-heart",
+   "skaia",
+   "naxithe-the-dream-eater"
   ]
  },
  {
@@ -23253,15 +24769,41 @@
   "title": "Ungoreth the Hollow Hunger",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "The Void, annihilation, the unmaking.",
-  "summary": "The god of nothing; a black circle",
+  "subtitle": "The Hollow Hunger: the Void, annihilation, and the unmaking",
+  "summary": "Ungoreth is the god of nothing: the cold between the stars, the hunger of the deep dark, the silence that eats meaning. His cults seek oblivion, and his name is tied to Abyssara, the bottomless trench at the world’s edge.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Ungoreth the Hollow Hunger: the void, annihilation, the unmaking.",
-     "The god of nothing; a black circle",
-     "Ungoreth’s black circle stands for annihilation and the void. His unmaking concerns what is gone altogether, a fate more final than leaving ruins or remains behind for someone to find."
+     "Ungoreth keeps the Void, annihilation, and the unmaking. Mhavros wants the drowned. Ungoreth wants there to have been no one to drown. His faith offers one comfort, an end to fear, and asks for everything in exchange."
+    ]
+   },
+   {
+    "title": "Who turns to him",
+    "paragraphs": [
+     "People who have lost so much that nothing looks like rest. His cultists are quiet and gentle and entirely serious, which makes them harder to recognize than the servants of louder gods. The Knights of Dawn count them the enemy they were founded against."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The black circle.** Painted, never carved: he is not owed permanence.",
+     "**The unsaid name.** His cultists stop using their own names, one syllable at a time.",
+     "**The empty room.** Their meeting-place has nothing in it, and they take away what they brought."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Abyssara, the Black Below, is called his domain: what falls in does not return, and what returns is changed. Sailors do not say his name in the southwest."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The things called Hollows are his. Or he is theirs. The priests won’t say which came first.” (a Knight of Dawn)",
+     "“Skaia’s readers fear Naxithe. They don’t speak of him at all. Ask one why and they’ll stop reading for you.” (a Greyhaven innkeeper)"
     ]
    }
   ],
@@ -23273,6 +24815,18 @@
    [
     "Domains",
     "The Void, annihilation, the unmaking"
+   ],
+   [
+    "Symbol",
+    "a black circle"
+   ],
+   [
+    "Worship",
+    "forbidden everywhere; his cultists do not expect to be forgiven"
+   ],
+   [
+    "His people",
+    "the Hollows’ cultists, the utterly despairing"
    ]
   ],
   "source": "The Pantheon",
@@ -23281,7 +24835,13 @@
    "by": "A cultist of the Hollows, on the edge of the Void, to a man who had lost his wife and wanted to stop feeling the loss"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "abyssara-the-black-below",
+   "chaos",
+   "mhavros",
+   "orphanos",
+   "naxithe-the-dream-eater"
+  ]
  },
  {
   "id": "vael-mournthorn-the-crimson-reaper-king",
@@ -23321,15 +24881,41 @@
   "title": "Varneth, the Threshold Warden",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Threshold Warden.",
-  "summary": "Wards against fae crossings are sworn in his name",
+  "subtitle": "The Threshold Warden: boundaries, doorways, the Veil, and thin places",
+  "summary": "Varneth is the god of the line between: between rooms, between lands, between worlds. In islands threaded with thin places, where the Veil to the Faewild wears through, he is quietly one of the most important gods alive.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Varneth, the Threshold Warden: boundaries, doorways, the veil, thin places.",
-     "Wards against fae crossings are sworn in his name",
-     "Varneth’s thresholds include the thin places where the veil can be crossed. A ward sworn in his name puts a boundary under his protection, marking the difference between a doorway and a passage through which something fae might enter."
+     "Varneth keeps boundaries, doorways, the Veil, and thin places. He neither opens nor closes. He watches the line, and asks that it be crossed honestly: by the door, with a name, and with leave."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "He is invoked at every doorway and border-stone, and above all at the thin places. Wards against fae crossings are sworn in his name. His priests keep a roll of the kalashtar in every Council port, by custom and not by law, and a new dreamer is blessed at a door in his name. His faithful hang a jar of veil butterflies by the door."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The swept sill.** A threshold is swept outward, never in.",
+     "**The name at the door.** A stranger gives a name before crossing. At a thin place, never a true one.",
+     "**The ward.** A line of salt, iron, or carved stone, sworn in his name and renewed each Still Day."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "His wardens are busiest at the King Tide and on the Still Days, when the Veil is thinnest and fae bargains come due."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There is one who walks through his thresholds as if they weren’t there. The wardens won’t say the name, because there isn’t one.” (a Warden of the Veil)",
+     "“The roll of dreamers isn’t only for blessing them. Somebody reads it.” (a kalashtar net-mender)"
     ]
    }
   ],
@@ -23341,6 +24927,18 @@
    [
     "Domains",
     "Boundaries, doorways, the Veil, thin places"
+   ],
+   [
+    "Symbol",
+    "a doorframe with nothing in it"
+   ],
+   [
+    "Offerings",
+    "a threshold swept, and a name given before crossing"
+   ],
+   [
+    "His people",
+    "wardens of the Veil, border-keepers, doorkeepers, gate-guards"
    ]
   ],
   "source": "The Pantheon",
@@ -23350,7 +24948,13 @@
   },
   "aliases": [],
   "related": [
-   "veil-butterfly"
+   "veil-butterfly",
+   "faewild",
+   "kalashtar",
+   "king-tide",
+   "unbound",
+   "concord",
+   "door-coins"
   ]
  },
  {
@@ -23358,15 +24962,35 @@
   "title": "Vautun the Ledger-Keeper",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Cruel law, bondage by contract, debt.",
-  "summary": "The chain that is legal; a quill dripping black",
+  "subtitle": "The Ledger-Keeper: cruel law, bondage by contract, and debt",
+  "summary": "Vautun is the god of the chain that is legal: debt-slavery, the unjust law obeyed to the letter, the clerk who ruins a family by the book. Every word of his contracts is binding, and that is the cruelty.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Vautun the Ledger-Keeper: cruel law, bondage by contract, debt.",
-     "The chain that is legal; a quill dripping black",
-     "Vautun’s quill drips black because a written debt can bind a person as surely as iron. His cruel law gives bondage the appearance of an orderly agreement and lets the holder of the contract enforce it as a right."
+     "Vautun keeps cruel law, bondage by contract, and debt. His faithful never break a rule. They write them. A Vautun contract is exact, lawful, and ruinous, and the one who signed it has no complaint that any court will hear."
+    ]
+   },
+   {
+    "title": "Who turns to him",
+    "paragraphs": [
+     "Corrupt magistrates and the contract-men of the slaver-rings. Across the water he is the patron of the Imperium’s Inquisition clerks, and of every inquisitor who obeys the letter. Veriden’s priests regard his as the worst blasphemy there is: an oath used as a trap."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The black quill.** A pen kept for one kind of document and never used for another.",
+     "**The clause.** A term that turns a debt into a term of service, set where a tired reader will miss it.",
+     "**The heir’s line.** His contracts name the debtor’s children. His faithful say a debt does not end at death."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a clerk in the Reckoners’ Hall who has never lost a case and never raised his voice. His inkwell is the wrong color.” (a Goldwind advocate)",
+     "“In the south there are debts being collected from the dead. I don’t mean from their estates.” (a Southhaven gravedigger)"
     ]
    }
   ],
@@ -23378,6 +25002,18 @@
    [
     "Domains",
     "Cruel law, bondage by contract, debt"
+   ],
+   [
+    "Symbol",
+    "a quill dripping black"
+   ],
+   [
+    "Worship",
+    "at desks, by people who would deny it was worship"
+   ],
+   [
+    "His people",
+    "corrupt magistrates, debt-clerks, the slaver-rings’ contract-men"
    ]
   ],
   "source": "The Pantheon",
@@ -23386,22 +25022,48 @@
    "by": "A debt-clerk of the Heartland's Registry, to a farmer who had asked why his grandmother's debt had never been paid"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "veriden-the-oathkeeper",
+   "nethis-the-sealed-word",
+   "abysm",
+   "reckoners-hall",
+   "assios-and-the-wider-world"
+  ]
  },
  {
   "id": "venkovolkos",
   "title": "Venkovolkos",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Commerce, greed, wealth, charm.",
-  "summary": "Wealth above all",
+  "subtitle": "Commerce, greed, wealth, and charm: wealth above all",
+  "summary": "Venkovolkos is the god of the ruthless merchant: wealth as the only measure, and charm as the tool that gets it. Where Idel blesses the honest deal and the clever one, Venkovolkos blesses whichever pays.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Venkovolkos keeps",
     "paragraphs": [
-     "Venkovolkos: commerce, greed, wealth, charm.",
-     "Wealth above all",
-     "Venkovolkos brings charm to the pursuit of wealth. Under his creed a friendly bargain can be a way to put profit above every other obligation, even when the person across the table mistakes the charm for goodwill."
+     "Venkovolkos keeps commerce, greed, wealth, and charm. The creed is short: everything has a price, and a person who will not name theirs is only bargaining. It is the most pleasant of the dark faiths to sit next to at dinner."
+    ]
+   },
+   {
+    "title": "Who turns to Venkovolkos",
+    "paragraphs": [
+     "Merchants who corner a market in a famine year, lenders who buy up a town’s debts, and factors who price a rescue before launching it. None of them would call it a religion. They keep a coin in a drawer and touch it before a negotiation."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The smiling coin.** A coin struck with a face that is smiling, kept and never spent.",
+     "**The first price.** The faithful never accept a first price, on principle, even a fair one.",
+     "**The gift.** A present from one of them is the opening of a ledger."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The smiling coins all come from one die. Somebody is still striking them, and the Reckoners can’t find the mint.” (a Reckoners’ counter)",
+     "“Idel’s priests won’t settle a dispute if one side is his. They say there’s nothing to settle. He already has it.” (a Slatemouth broker)"
     ]
    }
   ],
@@ -23413,11 +25075,33 @@
    [
     "Domains",
     "Commerce, greed, wealth, charm"
+   ],
+   [
+    "Symbol",
+    "a gold coin with a smiling face"
+   ],
+   [
+    "Worship",
+    "in counting-rooms, as a private joke that is not a joke"
+   ],
+   [
+    "Venkovolkos’s people",
+    "ruthless merchants, profiteers, monopolists"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "He’ll smile, and you’ll thank him, and you’ll be halfway home before you count it.",
+   "by": "a Goldwind coffee-house saying"
+  },
+  "related": [
+   "idel",
+   "mercantile-congress",
+   "orphanos",
+   "sruth-the-whisper-in-coin",
+   "the-great-flows"
+  ]
  },
  {
   "id": "veriden-the-oathkeeper",
@@ -23500,8 +25184,8 @@
   ],
   "source": "The Pantheon",
   "epigraph": {
-   "quote": "Nobody lies in Veriden.",
-   "by": "an island saying; everyone lies in Veriden, they are just more careful"
+   "quote": "Nobody lies in Veriden. Everyone lies in Veriden. They are simply more careful about it, because Veriden is watching.",
+   "by": "A Council magistrate of Sunhold, to a merchant who had sworn an oath on the wrong bell"
   },
   "aliases": [],
   "related": [
@@ -23519,15 +25203,35 @@
   "title": "Veshanna the Two-Faced",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Change, transformation, tides, seasons.",
-  "summary": "All transitions; a coin always mid-flip",
+  "subtitle": "Change, transformation, tides, and seasons",
+  "summary": "Veshanna is the god of every transition: the moult, the turning tide, the changed mind. Those in the middle of becoming something else pray to Veshanna, the dying, the newly made, and the reborn.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Veshanna keeps",
     "paragraphs": [
-     "Veshanna the Two-Faced: change, transformation, tides, seasons.",
-     "All transitions; a coin always mid-flip",
-     "Veshanna’s coin is always turning, suspended between faces. The tides and seasons bring that image into ordinary life: each change has a moment when the old state is passing and the new one has yet to settle."
+     "Veshanna keeps change, transformation, tides, and seasons. The god has two faces and is never shown looking the same way twice. The faith teaches that nothing is lost in a change, only handed on, and that fighting the tide is the one real mistake."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Veshanna has no settled priesthood, which suits the god. Those who serve are people who have been through something: a freed thrall, a widow, a sailor who gave up the sea. Among the Pocchin there are transition-houses where the dying go to be kept company."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The flipped coin.** A coin is flipped and caught, and not looked at. The offering is not knowing.",
+     "**The giving-away.** Starting a new life, you give away one thing from the old one that you would rather keep.",
+     "**The tide-turn.** Vows of change are made at slack water, when the tide is neither coming nor going."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Shifters pray to Veshanna before they let the beast up. So do kalashtar, the night it first happens.” (a Southhaven midwife)",
+     "“The coin on the altar at Stillwater has been in the air for a hundred years. People travel to watch it not land.” (a Pocchin caravan-mother)"
     ]
    }
   ],
@@ -23539,6 +25243,18 @@
    [
     "Domains",
     "Change, transformation, tides, seasons"
+   ],
+   [
+    "Symbol",
+    "a coin always mid-flip"
+   ],
+   [
+    "Offerings",
+    "something from your old life, given away"
+   ],
+   [
+    "Veshanna’s people",
+    "the dying, the newly changed, midwives, anyone starting over"
    ]
   ],
   "source": "The Pantheon",
@@ -23547,22 +25263,48 @@
    "by": "A coin-flipper of the Pocchin's transition-houses, to a dying man who had asked whether he should be afraid"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "two-moons-and-the-tides",
+   "pocchin",
+   "shifters",
+   "kalashtar",
+   "quiet-door"
+  ]
  },
  {
   "id": "volvieg",
   "title": "Volvieg",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Winter, cold, windstorm.",
-  "summary": "The cold that kills; a god of the Frost Elves",
+  "subtitle": "Winter, cold, and the windstorm: the cold that kills",
+  "summary": "Volvieg is the cruelty of winter. Frost-mages and those who survive by letting others freeze pray to Volvieg, and the folk of the ice ward against the name. The old people of the Expanse say it was not always so.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Volvieg keeps",
     "paragraphs": [
-     "Volvieg: winter, cold, windstorm.",
-     "The cold that kills; a god of the Frost Elves",
-     "Volvieg holds the windstorm and the cold that kills. The Frost Elves honor him alongside Vukharr and Oorah, so their faith gives a place to the danger of winter as well as to the courage needed to survive it together."
+     "Volvieg keeps winter, cold, and the windstorm. The faith’s one teaching is that warmth is finite, and the one who shares it dies with the one who needed it. Everything in Oorah’s law exists to answer that."
+    ]
+   },
+   {
+    "title": "The clean cold",
+    "paragraphs": [
+     "The old tellings of the Expanse remember another Volvieg: the clean cold of the aurora, served by purifiers who mended the ice and fought what crawled out of it. They say the worship turned cruel within living memory of the oldest elves, and the god with it. Nobody agrees on which changed first."
+    ]
+   },
+   {
+    "title": "Signs",
+    "paragraphs": [],
+    "list": [
+     "**The Ghostlight Vigil.** When the aurora is strongest the people watch in silence and leave offerings, unsure whether they are thanking Oorah or warding off Volvieg.",
+     "**The shut door.** A door barred against a knock in a storm is Volvieg’s rite, and murder under Castellyn’s law.",
+     "**The white wind.** A storm that comes out of a clear sky is called Volvieg’s, and nobody travels the day after."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Winter Court likes him better this way. Some say that’s why he is this way.” (a Frost Elf of the Unpainted)",
+     "“There are still purifiers. They keep the old Volvieg, and they don’t come into the towns.” (a Frosthold trader)"
     ]
    }
   ],
@@ -23574,13 +25316,35 @@
    [
     "Domains",
     "Winter, cold, windstorm"
+   ],
+   [
+    "Symbol",
+    "a white wind over a closed door"
+   ],
+   [
+    "Holy night",
+    "the Ghostlight Vigil, kept against as much as for"
+   ],
+   [
+    "Volvieg’s people",
+    "frost-mages, the hard-hearted of the ice, some of the Frost Elves"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "Oorah is the winter you get through together. Volvieg is the door that was shut when you knocked.",
+   "by": "an ice-fisher of the Expanse"
+  },
   "related": [
    "elves",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "oorah",
+   "icy-expanse",
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "vukharr-the-white-hunger",
+   "festivals-of-the-ice",
+   "auroral-vault"
   ]
  },
  {
@@ -23588,15 +25352,35 @@
   "title": "Wanderlight the Far-Strider",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Exploration, the horizon, discovery.",
-  "summary": "Cartographers and restless youth; a compass rose with no fixed north",
+  "subtitle": "The Far-Strider: exploration, the horizon, and discovery",
+  "summary": "Wanderlight is the god of those who must see what lies beyond the next island. Cartographers, explorers, and restless youth belong to Wanderlight, and so does the edge of every chart.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Wanderlight keeps",
     "paragraphs": [
-     "Wanderlight the Far-Strider: exploration, the horizon, discovery.",
-     "Cartographers and restless youth; a compass rose with no fixed north",
-     "Wanderlight’s compass rose has no fixed north. It suits cartographers and restless young travelers drawn toward a horizon they have yet to chart, for whom a blank space on the map can be reason enough to set out."
+     "Wanderlight keeps exploration, the horizon, and discovery. Most of the archipelago is still off the Council’s charts, which makes this one of the busiest gods in the islands. The creed is simple: go and look, and come back and say what was there."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The Adventurers’ League and the mapmakers of the Cartographers’ Compact are tied to the faith. Its shrines are cairns on headlands, each built by whoever got there first, with a stone added by everyone who came after."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The stone.** Add a stone to a headland cairn, and take nothing from it.",
+     "**The true account.** An explorer who lies about what they found is said to have blinded the god.",
+     "**The blank corner.** A good chart leaves one corner empty on purpose."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a cairn on an island that isn’t on any chart, and the stones on it are warm. Somebody keeps getting there first.” (a Compact surveyor)",
+     "“The League keeps a book of everyone who sailed past the last chart and didn’t come back. They call it the Far Roll, and they’re proud of it.” (a League quartermaster)"
     ]
    }
   ],
@@ -23608,6 +25392,18 @@
    [
     "Domains",
     "Exploration, the horizon, discovery"
+   ],
+   [
+    "Symbol",
+    "a compass rose with no fixed north"
+   ],
+   [
+    "Offerings",
+    "a new place, described truthfully to someone who has not seen it"
+   ],
+   [
+    "Wanderlight’s people",
+    "explorers, cartographers, the Adventurers’ League, the restless"
    ]
   ],
   "source": "The Pantheon",
@@ -23616,7 +25412,12 @@
    "by": "A cartographer of the Adventurers' League, at the edge of the last sheet of the Charted Isles, to a young surveyor who had been told the far sea was empty"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "chartwrights",
+   "travel",
+   "kalvatar",
+   "kessa-of-the-crossroads"
+  ]
  },
  {
   "id": "badron-queen-of-feathers",

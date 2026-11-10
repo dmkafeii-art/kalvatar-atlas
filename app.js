@@ -219,7 +219,7 @@ $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog
 window.addEventListener('hashchange',route);
 const arbiterPortraits = {
  'radan-sunmere': ['Radan halts a swinging load with magic.', 'Radan detiene una carga suspendida con magia.'],
- 'lysandra-vellune': ['Lysandra dispels an illusion over an object.', 'Lysandra disipa la ilusión que oculta un objeto.'],
+ 'lysandra-vellune': ['Amarise dispels an illusion over an object.', 'Amarise disipa la ilusión que oculta un objeto.'],
  'kettik-ninth-step': ['Kettik lifts a false bottom to inspect hidden cargo.', 'Kettik levanta un doble fondo para inspeccionar la carga oculta.']
 };
 function applyArbiterPortraits(entries) {
@@ -236,8 +236,8 @@ function applyArbiterPortraits(entries) {
  }
 }
 (async()=>{try{
- const response=await fetch('entries.json?v=17');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();applyArbiterPortraits(input);entries=await Pack2.prepare(input);await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
- const optional=async name=>{try{const r=await fetch(name+'?v=17');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
+ const response=await fetch('entries.json?v=18');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();applyArbiterPortraits(input);entries=await Pack2.prepare(input);await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
+ const optional=async name=>{try{const r=await fetch(name+'?v=18');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
  [rumors,timeline]=await Promise.all([optional('rumors.json'),optional('timeline.json')]);
  for(const e of entries)e.searchText=fold([e.title,e.summary,e.subtitle,e.region,categories[e.category].name,...(e.aliases||[]),...e.sections.flatMap(s=>[s.title,...(s.paragraphs||[]),...(s.list||[]),...(s.table?[s.table.caption,...s.table.headers,...s.table.rows.flat()]:[])]),...e.facts.flat(),creatureKinds[e.creatureKind]||''].join(' '));
  saved=new Set([...saved].filter(id=>byId[id]));buildAliases();renderMainNavigation();Pack2.nav();updateSavedCount();route();
