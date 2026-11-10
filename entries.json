@@ -20207,16 +20207,36 @@
   "title": "Aoifel, the Green Laugh",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Green Laugh.",
-  "summary": "Archfey of the Faewild. Spring, the First Bloom. Renewal, youth, games; the gentlest, by fae standards.",
+  "subtitle": "Archfey of Spring: sovereign of the First Bloom",
+  "summary": "Aoifel is the Archfey-Queen of Spring, sovereign of the Court of the First Bloom: renewal, youth, and games. She is the gentlest of the four sovereigns, by fae standards, which is to say her games can still kill.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Who she is",
     "paragraphs": [
-     "Aoifel, the Green Laugh is one of the Archfey, the divine-tier rulers of the Faewild.",
-     "Court: Spring, the First Bloom.",
-     "Holds: Renewal, youth, games; the gentlest, by fae standards.",
-     "Aoifel’s gentleness has the measure of the Faewild. The ruler of the First Bloom delights in youth and games, and a mortal at play in the Spring Court may discover how differently the fae understand a fresh start."
+     "Aoifel rules the Faewild’s Spring. Hers is the Court that best preserves the old innocence of the fae, or best pretends to. It plays the old games, with the old delight, and the players do not always get up afterward."
+    ]
+   },
+   {
+    "title": "Her Court and the islands",
+    "paragraphs": [
+     "The Liriath and the Florians honor the Spring Court beside the Green Fire and their own Yarrowen. Of the four Courts, hers is the one a lost child is most likely to come back from, and the one most likely to have taken the child in the first place."
+    ]
+   },
+   {
+    "title": "If you meet her Court",
+    "paragraphs": [],
+    "list": [
+     "**Never give a true name.**",
+     "**Never say thank you.**",
+     "**Count every bargain three times.**",
+     "**Do not agree to play.** Not a game, not a riddle, not a race. If you must, ask how it ends before it starts."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Something of her Court’s was lost in the islands long ago, and one of her own is here looking for it, wearing whatever face is useful.” (a Jakupur art dealer)",
+     "“She laughed at the Winter Queen once, to her face. Spring has been short ever since.” (a Florian elder)"
     ]
    }
   ],
@@ -20224,6 +20244,22 @@
    [
     "Court",
     "Spring, the First Bloom"
+   ],
+   [
+    "Season",
+    "Spring"
+   ],
+   [
+    "Holds",
+    "renewal, youth, games"
+   ],
+   [
+    "Kalashtar who dream her court",
+    "eyes of green"
+   ],
+   [
+    "Her people",
+    "the Spring Court; honored by the Liriath and the Florians"
    ]
   ],
   "source": "The Pantheon",
@@ -20234,7 +20270,12 @@
   "aliases": [],
   "related": [
    "faewild",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "kalashtar",
+   "liriath",
+   "florians",
+   "green-fire",
+   "house-caelvaron"
   ]
  },
  {
@@ -20462,16 +20503,42 @@
   "title": "The Breath That Wanders",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
-  "summary": "The Aspect of Sky. It holds: Wind, storm, breath, freedom, the five layers of the heavens",
+  "subtitle": "The Aspect of Sky: wind, storm, breath, and freedom",
+  "summary": "The Breath That Wanders is the Aspect of Sky: wind and storm, breath and freedom, and the five layers of the heavens. Sailors and the free-spirited honor it, and the winged Aethyn revere it above all.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What it is",
     "paragraphs": [
-     "The Breath That Wanders is the Aspect of Sky, one of the Six Aspects that the native peoples pray to directly.",
-     "Primal names: Aëthyr-Vol, the Five Skies, the Open Mouth.",
-     "Mundane names: the Wind, the High Blue, the Wanderer.",
-     "It holds: Wind, storm, breath, freedom, the five layers of the heavens."
+     "Sky is the Aspect nobody holds. It fills a sail or does not, and it is in every chest that is still alive. Its faithful say the first thing a child does is take some of it, and the last thing anyone does is give it back."
+    ]
+   },
+   {
+    "title": "Its names",
+    "paragraphs": [
+     "Its primal names are Aëthyr-Vol, the Five Skies, and the Open Mouth. At the hearth it is the Wind, the High Blue, and the Wanderer."
+    ]
+   },
+   {
+    "title": "The Five Skies",
+    "paragraphs": [
+     "The old teaching counts five layers of heaven, one above another, each with its own winds. The Aethyn, who fly the lower ones, say the upper skies are no place for anything with a name. Kayuntu, the Violent Monarch of the Five Skies, is said to rule them all."
+    ]
+   },
+   {
+    "title": "Rites and customs",
+    "paragraphs": [],
+    "list": [
+     "**The first breath.** A newborn is carried outdoors for its first full breath.",
+     "**The whistle.** Sailors whistle for wind in a calm and never in a blow.",
+     "**The far view.** The Aethyn’s faith is one of long patience: seeing the storm while it is still a smudge on the horizon.",
+     "**Storm and Spirit.** Shamans call on its lesser children: Storm with Water, Spirit with Life."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The fifth sky has a floor. An Aethyn flew high enough to touch it, and came down unable to say what it was made of.” (an Aethyn star-reader)",
+     "“Two great things are fighting up there, and have been for years. The weather in the south is what falls off the table.” (a Galven storm-pilot)"
     ]
    }
   ],
@@ -20487,16 +20554,37 @@
    [
     "Mundane names",
     "the Wind, the High Blue, the Wanderer"
+   ],
+   [
+    "It holds",
+    "wind, storm, breath, freedom, the five layers of the heavens"
+   ],
+   [
+    "Offerings",
+    "a breath, held and let go"
+   ],
+   [
+    "Its people",
+    "the native peoples, the Aethyn, the Galven, sailors"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "Whistle for it if you like. It was coming anyway, or it wasn’t.",
+   "by": "a Galven storm-pilot"
+  },
   "related": [
    "six-aspects",
    "noble-houses",
    "aethyn",
    "galven",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "kayuntu-the-violent-monarch-of-the-five-skies",
+   "badron-queen-of-feathers",
+   "skaia",
+   "tramica",
+   "stormcaller-vael"
   ]
  },
  {
@@ -20872,16 +20960,42 @@
   "title": "The Drowning Mother",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
-  "summary": "The Aspect of Water. It holds: Oceans, rain, rivers, blood, birth, dissolution. The most revered Aspect in Kalvatar",
+  "subtitle": "The Aspect of Water: where everything begins and ends",
+  "summary": "The Drowning Mother is the Aspect of Water, and the most revered Aspect in Kalvatar, where everything begins and ends at the water’s edge. The native peoples pray to her directly, with no god’s mask between: oceans, rain, rivers, blood, birth, and dissolution are all hers.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she is",
     "paragraphs": [
-     "The Drowning Mother is the Aspect of Water, one of the Six Aspects that the native peoples pray to directly.",
-     "Primal names: Ysra-Deep, the Unending Grey, She-Who-Was-First.",
-     "Mundane names: the Tide, the Old Wet, Grandmother Salt.",
-     "It holds: Oceans, rain, rivers, blood, birth, dissolution. The most revered Aspect in Kalvatar."
+     "The old peoples of the islands never bothered with the gods’ masks. They pray to the deep powers themselves, as Aspects, and Water is the first of them. She gives the fish and takes the boat, and her faithful do not see two acts there. Her name says both."
+    ]
+   },
+   {
+    "title": "Her names",
+    "paragraphs": [
+     "In the deep places she is called by her primal names: Ysra-Deep, the Unending Grey, She-Who-Was-First. At the hearth she is the Tide, the Old Wet, and Grandmother Salt, and a fisher’s child learns the hearth-names before their own."
+    ]
+   },
+   {
+    "title": "Rites and customs",
+    "paragraphs": [],
+    "list": [
+     "**Salt back.** A pinch of salt is thrown to the sea before a boat is launched.",
+     "**The sea-burial.** The whalers of the Icy Expanse give their dead to her, weighted, with their names said three times.",
+     "**The first water.** A newborn is washed in seawater before fresh.",
+     "**Storm and Ice.** Shamans call on her lesser children for particular work: Storm with the Sky, Marsh with the Earth, Ice with Death."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The coral courts are born from her and honor her in the light, beside their own Coral Sovereign. The Concord’s sea gods are, to her faithful, three of her moods given faces: the one that feeds, the one that judges, and the one that devours."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“She has a heart, a real one, and it is somewhere in the far south. The old songs say it heals whatever is carried to it.” (a chant-keeper of the Wilds)",
+     "“The sea-peoples say she is only half of the sea, and they will not name the other half.” (a coral speaker, off duty)"
     ]
    }
   ],
@@ -20897,6 +21011,18 @@
    [
     "Mundane names",
     "the Tide, the Old Wet, Grandmother Salt"
+   ],
+   [
+    "It holds",
+    "oceans, rain, rivers, blood, birth, dissolution"
+   ],
+   [
+    "Offerings",
+    "salt, given back to the sea"
+   ],
+   [
+    "Her people",
+    "the native peoples, the whalers, the coral courts"
    ]
   ],
   "source": "The Pantheon",
@@ -20909,7 +21035,12 @@
    "six-aspects",
    "coral-peoples",
    "lampet",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "okram",
+   "lilim",
+   "mhavros",
+   "sea-customs",
+   "icy-expanse"
   ]
  },
  {
@@ -21528,16 +21659,42 @@
   "title": "The Green Fire",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
-  "summary": "The Aspect of Life. It holds: Plants, beasts, fertility, hunger, the jungle's reach",
+  "subtitle": "The Aspect of Life: growth, hunger, and the jungle’s reach",
+  "summary": "The Green Fire is the Aspect of Life: plants, beasts, fertility, hunger, and the jungle’s relentless reach. It is strongest in the Southern Wilds, where a cleared field is a forest again in a few years.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What it is",
     "paragraphs": [
-     "The Green Fire is the Aspect of Life, one of the Six Aspects that the native peoples pray to directly.",
-     "Primal names: Ilavash, the Spreading, the Thousand Mouths.",
-     "Mundane names: the Growth, the Green, Mother Leaf.",
-     "It holds: Plants, beasts, fertility, hunger, the jungle's reach."
+     "Life, to its faithful, is a fire that burns green. It spreads, it eats, and it does not stop. The Aspect is as much hunger as growth, and its primal names say so."
+    ]
+   },
+   {
+    "title": "Its names",
+    "paragraphs": [
+     "Its primal names are Ilavash, the Spreading, and the Thousand Mouths. Its hearth-names are the Growth, the Green, and Mother Leaf."
+    ]
+   },
+   {
+    "title": "Rites and customs",
+    "paragraphs": [],
+    "list": [
+     "**The grave-planting.** The dead are put in the earth with a seed. The Liriath say you can hear the green answering.",
+     "**The uninvited seed.** A seed pressed into the ground somewhere it was not asked for, as an offering.",
+     "**The clearing-word.** Before ground is cleared, it is told why, and told when it may have itself back.",
+     "**Spirit.** Shamans call on its lesser child, Spirit, with the Sky."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The Liriath and the Florians keep it beside their own Yarrowen, the Rooted Crown, and the Spring Court. The Green Hunter is this Aspect made into a wild god, and the faithful of Ilis are its bookkeepers."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There are places in the Wilds where it grows fast enough to watch. The guides won’t camp there.” (a Jakupur guide)",
+     "“The Lords’ countries are greener than they should be. The Green Fire likes whatever a Lord is doing.” (a Verdant Pact warden)"
     ]
    }
   ],
@@ -21553,6 +21710,18 @@
    [
     "Mundane names",
     "the Growth, the Green, Mother Leaf"
+   ],
+   [
+    "It holds",
+    "plants, beasts, fertility, hunger, the jungle’s relentless reach"
+   ],
+   [
+    "Offerings",
+    "a seed planted where nobody asked for one"
+   ],
+   [
+    "Its people",
+    "the native peoples, the Liriath, the Florians, druids"
    ]
   ],
   "source": "The Pantheon",
@@ -21565,7 +21734,13 @@
    "six-aspects",
    "liriath",
    "moss-sloth",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "green-hunter",
+   "ilis",
+   "florians",
+   "southern-wilds",
+   "savage-lords",
+   "aoifel-the-green-laugh"
   ]
  },
  {
@@ -21735,16 +21910,42 @@
   "title": "The Hunger That Warms",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
-  "summary": "The Aspect of Fire. It holds: Warmth, destruction, the forge, passion, the volcano. The Keeping is its humblest rite",
+  "subtitle": "The Aspect of Fire: the hearth and the volcano",
+  "summary": "The Hunger That Warms is the Aspect of Fire: warmth and destruction, the forge, passion, and the volcano. It keeps a house alive and it eats a forest, and its faithful are taught from childhood that these are the same appetite.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What it is",
     "paragraphs": [
-     "The Hunger That Warms is the Aspect of Fire, one of the Six Aspects that the native peoples pray to directly.",
-     "Primal names: Kel-Vorrath, the First Spark, the Ever-Eating.",
-     "Mundane names: the Hearth, the Red Tongue, Old Ember.",
-     "It holds: Warmth, destruction, the forge, passion, the volcano. The Keeping is its humblest rite."
+     "Fire is the Aspect that must be fed. Treated well it warms, cooks, and forges. Forgotten once, it remembers. The southern elders say the imperials’ god of war is only this: *Fire that learned to walk.*"
+    ]
+   },
+   {
+    "title": "Its names",
+    "paragraphs": [
+     "Its primal names are Kel-Vorrath, the First Spark, and the Ever-Eating. At home it is the Hearth, the Red Tongue, and Old Ember."
+    ]
+   },
+   {
+    "title": "Rites and customs",
+    "paragraphs": [],
+    "list": [
+     "**The Keeping.** Its humblest rite, and the commonest in the islands: the household fire is banked each night so that it never quite dies.",
+     "**The heart-fire.** In the villages of the south a communal hearth is tended in rotation and never put out. To let it die is the worst of omens.",
+     "**The forge-word.** A smith speaks to the fire before the first heat of the day.",
+     "**Ash and Magma.** Shamans call on its lesser children: Ash with Death, Magma with the Earth."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "It is sacred to the Cindren, who say the Hunger is their fire and Sathrun its steady flame, and to House Emberheart at Everfall. The cults of KakanKal, the Emperor of Flames, hold that their Lord sleeps in its lap."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The fire under Everfall has been fed on purpose for a hundred years. Ask the Emberhearts what with.” (an Everfall glassblower)",
+     "“A house fire that starts on the one night the hearth went cold isn’t an accident. It’s a reminder.” (a forge-mother of Everfall)"
     ]
    }
   ],
@@ -21760,6 +21961,18 @@
    [
     "Mundane names",
     "the Hearth, the Red Tongue, Old Ember"
+   ],
+   [
+    "It holds",
+    "warmth, destruction, the forge, passion, the volcano, transformation"
+   ],
+   [
+    "Offerings",
+    "a little fuel every night, without fail"
+   ],
+   [
+    "Its people",
+    "the native peoples, the Cindren, smiths, the Emberhearts"
    ]
   ],
   "source": "The Pantheon",
@@ -21773,7 +21986,12 @@
    "the-keeping",
    "cindren",
    "hearth-newt",
-   "patrons-of-the-peoples"
+   "patrons-of-the-peoples",
+   "everfall",
+   "house-emberheart",
+   "kakankal-emperor-of-flames",
+   "hearth-customs",
+   "eo"
   ]
  },
  {
@@ -23039,15 +23257,37 @@
   "title": "Morthryn, the Pale Empress of Air and Ending",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Pale Empress of Air and Ending.",
-  "summary": "Archfey of the Faewild. Winter, the Long Silence. Cold, cruelty, silence; exiled the Frost Elves; covets Krysta.",
+  "subtitle": "Archfey of Winter: sovereign of the Long Silence",
+  "summary": "Morthryn is the Archfey-Queen of Winter, sovereign of the Court of the Long Silence: cold, cruelty, silence, and merciless survival. Hers is the Court most hostile to Kalvatar, the one that exiled the Frost Elves, and the only one that covets Krysta.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Who she is",
     "paragraphs": [
-     "Morthryn, the Pale Empress of Air and Ending is one of the Archfey, the divine-tier rulers of the Faewild.",
-     "Court: Winter, the Long Silence.",
-     "Holds: Cold, cruelty, silence; exiled the Frost Elves; covets Krysta."
+     "Morthryn rules the Faewild’s Winter, the Frost That Does Not Forgive. Her Court learned one lesson from the old war, that pity is death, and built a code around it. Winter is cruel, and it keeps its word exactly."
+    ]
+   },
+   {
+    "title": "Her Court and the islands",
+    "paragraphs": [
+     "Winter exiled the forebears of the Frost Elves into the world, and their descendants no longer remember they were ever fae. Krysta does nothing across the Veil, so the Courts ignore it, all but hers: Winter understands what Krysta is worth on this side."
+    ]
+   },
+   {
+    "title": "If you meet her Court",
+    "paragraphs": [],
+    "list": [
+     "**Never give a true name.**",
+     "**Never say thank you.**",
+     "**Count every bargain three times.**",
+     "**Do not ask for mercy.** In Winter it is an insult, and it is remembered.",
+     "**Carry iron.** Iron still limits where and how the fae may cross."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Something of hers was stolen at the last King Tide. A crown, they say. The Long Silence is patient, and it is looking.” (a Frosthold trader)",
+     "“There’s a hand behind half the trouble in the Icy Expanse, and it’s a cold one.” (a Knight of the Northern Lights)"
     ]
    }
   ],
@@ -23055,14 +23295,40 @@
    [
     "Court",
     "Winter, the Long Silence"
+   ],
+   [
+    "Season",
+    "Winter"
+   ],
+   [
+    "Holds",
+    "cold, cruelty, silence"
+   ],
+   [
+    "Kalashtar who dream her court",
+    "eyes of white"
+   ],
+   [
+    "Her people",
+    "the Winter Court; once, the forebears of the Frost Elves"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "Spring forgets. Summer forgives, after a fight. Autumn sends a bill. Winter waits.",
+   "by": "a Caelvaron proverb"
+  },
   "related": [
    "faewild",
    "elves",
-   "krysta"
+   "krysta",
+   "kalashtar",
+   "icy-expanse",
+   "volvieg",
+   "house-caelvaron",
+   "knights-of-the-northern-lights",
+   "king-tide"
   ]
  },
  {
@@ -23807,15 +24073,36 @@
   "title": "Pyraxis, the Unbowed Flame",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Unbowed Flame.",
-  "summary": "Archfey of the Faewild. Summer, the Burning Crown. Passion, glory, fire, heroic war; the most martial sovereign.",
+  "subtitle": "Archfey of Summer: sovereign of the Burning Crown",
+  "summary": "Pyraxis is the Archfey-Queen of Summer, sovereign of the Court of the Burning Crown: passion, glory, fire, and heroic war. She is the most martial of the four sovereigns. She duels for an insult and feasts on defeat.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Who she is",
     "paragraphs": [
-     "Pyraxis, the Unbowed Flame is one of the Archfey, the divine-tier rulers of the Faewild.",
-     "Court: Summer, the Burning Crown.",
-     "Holds: Passion, glory, fire, heroic war; the most martial sovereign."
+     "The Archfey are the divine-tier rulers of the Faewild, and Pyraxis rules its Summer. Her Court is a place of golden knights and endless tourneys. It honors courage and despises weakness, and it has not forgotten the old war in which Summer fought hardest and bled most."
+    ]
+   },
+   {
+    "title": "Her Court and the islands",
+    "paragraphs": [
+     "Summer trades with Kalvatar as every Court does: fae goods for worked iron, art, stories, and secrets. A mortal with a great deed to their name may find a herald of the Burning Crown at the door with a challenge, which is the highest compliment her Court knows how to pay."
+    ]
+   },
+   {
+    "title": "If you meet her Court",
+    "paragraphs": [],
+    "list": [
+     "**Never give a true name.** Not to a knight, a page, or a horse.",
+     "**Never say thank you.** Thanks is an admitted debt.",
+     "**Count every bargain three times.**",
+     "**Do not insult anyone.** In Summer an insult is answered with a blade, and a refusal to answer is worse."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“She has never been beaten in a fair war. Everyone repeats that. Nobody asks about the unfair ones.” (a Caelvaron retainer)",
+     "“A dreamer with gold eyes won a Summer tourney in his sleep and woke with the scar.” (a kalashtar of Sunhold)"
     ]
    }
   ],
@@ -23823,6 +24110,22 @@
    [
     "Court",
     "Summer, the Burning Crown"
+   ],
+   [
+    "Season",
+    "Summer"
+   ],
+   [
+    "Holds",
+    "passion, glory, fire, heroic war"
+   ],
+   [
+    "Kalashtar who dream her court",
+    "eyes of gold"
+   ],
+   [
+    "Her people",
+    "the golden knights of the Summer Court"
    ]
   ],
   "source": "The Pantheon",
@@ -23832,7 +24135,12 @@
   },
   "aliases": [],
   "related": [
-   "faewild"
+   "faewild",
+   "kalashtar",
+   "house-caelvaron",
+   "elves",
+   "vael-mournthorn-the-crimson-reaper-king",
+   "varneth-the-threshold-warden"
   ]
  },
  {
@@ -23840,16 +24148,42 @@
   "title": "The Quiet Door",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
-  "summary": "The Aspect of Death. It holds: Death, decay, memory, ancestors, the passage",
+  "subtitle": "The Aspect of Death: the passage, memory, and the ancestors",
+  "summary": "The Quiet Door is the Aspect of Death: death and decay, memory, the ancestors, and the passage. The native peoples do not fear it so much as respect it. Death is a guest who always comes, so one keeps a clean house.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What it is",
     "paragraphs": [
-     "The Quiet Door is the Aspect of Death, one of the Six Aspects that the native peoples pray to directly.",
-     "Primal names: Morr-Ungal, the Last Cold, the One Who Waits.",
-     "Mundane names: the End, the Long Sleep, the Grey Guest.",
-     "It holds: Death, decay, memory, ancestors, the passage."
+     "The Door opens for everyone, once, and closes behind them. It is not an enemy and it does not bargain. Its faithful hold that the worst thing to do with a death is to cheat it, and the second worst is to be surprised by it."
+    ]
+   },
+   {
+    "title": "Its names",
+    "paragraphs": [
+     "Its primal names are Morr-Ungal, the Last Cold, and the One Who Waits. At the hearth it is the End, the Long Sleep, and the Grey Guest."
+    ]
+   },
+   {
+    "title": "Rites and customs",
+    "paragraphs": [],
+    "list": [
+     "**The clean house.** A household keeps its affairs in order, its debts short, and its quarrels mended, because the guest may come tonight.",
+     "**The guest’s place.** At a funeral meal one place is laid and left empty.",
+     "**The frame.** Nobody stands in a doorway while someone is dying in the house.",
+     "**Ash and Ice.** Shamans call on its lesser children: Ash with Fire, Ice with Water."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The Sporrn honor it as the compost of the next life, and are the calmest people in the islands about dying. Tholmar’s priests say their god carries the drowned as far as the Door and no further."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“In the far south some have come back through it. The Door didn’t send them. That’s the trouble.” (a Southhaven gravedigger)",
+     "“It took a girl halfway once, in the ice, and something else was holding the other half. She’s still there.” (a Frost Elf of the Unpainted)"
     ]
    }
   ],
@@ -23865,6 +24199,18 @@
    [
     "Mundane names",
     "the End, the Long Sleep, the Grey Guest"
+   ],
+   [
+    "It holds",
+    "death, decay, memory, ancestors, the passage"
+   ],
+   [
+    "Offerings",
+    "a clean house, and a place kept for the guest"
+   ],
+   [
+    "Its people",
+    "the native peoples, the Sporrn, gravediggers, the old"
    ]
   ],
   "source": "The Pantheon",
@@ -23876,7 +24222,12 @@
   "related": [
    "six-aspects",
    "patrons-of-the-peoples",
-   "sporrn"
+   "sporrn",
+   "tholmar-the-star-wake",
+   "pale-man",
+   "memnara-the-unbroken-thread",
+   "daelhir",
+   "hearth-customs"
   ]
  },
  {
@@ -24306,22 +24657,42 @@
   "title": "The Sleeping Giant",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
-  "summary": "The Aspect of Earth. It holds: Mountains, stone, soil, endurance, the dead beneath, the giants of old",
+  "subtitle": "The Aspect of Earth: stone, soil, and the dead beneath",
+  "summary": "The Sleeping Giant is the Aspect of Earth: mountains, stone, soil, endurance, and the dead beneath. Many believe the earth literally is a sleeping giant, and that the great ruins of the islands are its dreaming.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What it is",
     "paragraphs": [
-     "The Sleeping Giant is the Aspect of Earth, one of the Six Aspects that the native peoples pray to directly.",
-     "Primal names: Durn-Hakka, the Bone Below, the Stone That Dreams.",
-     "Mundane names: the Ground, the Old Back, Mother Root.",
-     "It holds: Mountains, stone, soil, endurance, the dead beneath, the giants of old."
+     "Earth is the Aspect that does not answer, and its faithful count that a virtue. It holds up everything, takes back everyone, and has never once hurried. What the other Aspects do, they do on its back."
+    ]
+   },
+   {
+    "title": "Its names",
+    "paragraphs": [
+     "Its primal names are Durn-Hakka, the Bone Below, and the Stone That Dreams. Its hearth-names are the Ground, the Old Back, and Mother Root."
+    ]
+   },
+   {
+    "title": "Rites and customs",
+    "paragraphs": [],
+    "list": [
+     "**The standing-stone.** The Tarvan raise stones on the high moors, and say the Giant lies beneath them.",
+     "**The miner’s knock.** Three knocks on the rock before the first cut, to ask leave.",
+     "**The barefoot oath.** An oath sworn with bare feet on bare ground is sworn on the Giant’s back.",
+     "**Marsh and Magma.** Shamans call on its lesser children: Marsh with Water, Magma with Fire."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The giants of old are held to be its children, and the goliaths, who keep the giants’ god, honor it under the mountains. Miners of every people knock, whatever else they believe."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“A Tarvan on the Giant's Table heard the Sleeping Giant turn over in its sleep. She went home and sold every horse she had.” (heard in the Northern Frontier)"
+     "“A Tarvan on the Giant’s Table heard the Sleeping Giant turn over in its sleep. She went home and sold every horse she had.” (heard in the Northern Frontier)",
+     "“The ruins move. Not much. The Chartwrights re-measure the old ones every ten years and don’t publish the difference.” (a University surveyor)"
     ]
    }
   ],
@@ -24337,6 +24708,18 @@
    [
     "Mundane names",
     "the Ground, the Old Back, Mother Root"
+   ],
+   [
+    "It holds",
+    "mountains, stone, soil, endurance, the dead beneath, the giants of old"
+   ],
+   [
+    "Offerings",
+    "a stone set upright"
+   ],
+   [
+    "Its people",
+    "the native peoples, the Tarvan, miners, goliaths"
    ]
   ],
   "source": "The Pantheon",
@@ -24349,7 +24732,11 @@
    "six-aspects",
    "patrons-of-the-peoples",
    "tarvan",
-   "giants-table"
+   "giants-table",
+   "goliaths",
+   "below",
+   "field-mine-and-herd",
+   "quiet-door"
   ]
  },
  {
@@ -24735,15 +25122,37 @@
   "title": "The Unbound",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
-  "summary": "Archfey of the Faewild. No Court. No season, throne, law or name. Summer calls him the Ash-Laugh, Winter the Thaw-That-Shouldn't, Autumn the Unpaid Debt, Spring the Late Frost.",
+  "subtitle": "The Fifth Archfey: no season, no throne, no law, no name",
+  "summary": "The Unbound is the Fifth Archfey, the one the four Courts fear. He has no season, no throne, no law, and no Court, and so there are no rules about him to learn, no bargain to trust, and no door to lock.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Who he is",
     "paragraphs": [
-     "The Unbound is one of the Archfey, the divine-tier rulers of the Faewild.",
-     "Court: No Court.",
-     "Holds: No season, throne, law or name. Summer calls him the Ash-Laugh, Winter the Thaw-That-Shouldn't, Autumn the Unpaid Debt, Spring the Late Frost."
+     "The four sovereigns are terrible, but they are knowable: each has a season, a throne, and bargains with rules. The Fifth has none of these. The fae say he is what all of them were before they learned fear, and what they became after, in one."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "He loves crossing over. He has no plan for Kalvatar that anyone has found, and has still caused catastrophes, by wandering through. Varneth’s wardens keep their wards against every Court. He crosses them as if they were not there, which to the wardens is the ultimate blasphemy."
+    ]
+   },
+   {
+    "title": "If you meet him",
+    "paragraphs": [],
+    "list": [
+     "**You will not know.** That is most of the danger.",
+     "**The usual rules still help.** No true name, no thanks, and count three times.",
+     "**Do not try to bargain.** There is nothing he wants that he cannot simply have.",
+     "**Be good company.** It is the only thing anyone has seen work."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“He comes for the coffee, and for one beach in particular. That is the whole of his business here, and the wardens can’t bear it.” (a Warden of the Veil)",
+     "“There’s a cat a day upriver from Jakupur that the fae step around. Draw your own conclusion.” (a Jakupur river-pilot)",
+     "“Some dreamers’ eyes never take a season’s color. The other kalashtar don’t talk about why.” (a dream-reader of Greyhaven)"
     ]
    }
   ],
@@ -24751,6 +25160,22 @@
    [
     "Court",
     "No Court"
+   ],
+   [
+    "Summer calls him",
+    "the Ash-Laugh"
+   ],
+   [
+    "Winter calls him",
+    "the Thaw-That-Shouldn’t"
+   ],
+   [
+    "Autumn calls him",
+    "the Unpaid Debt"
+   ],
+   [
+    "Spring calls him",
+    "the Late Frost"
    ]
   ],
   "source": "The Pantheon",
@@ -24761,7 +25186,11 @@
   "aliases": [],
   "related": [
    "faewild",
-   "below"
+   "below",
+   "varneth-the-threshold-warden",
+   "kalashtar",
+   "pyraxis-the-unbowed-flame",
+   "morthryn-the-pale-empress-of-air-and-ending"
   ]
  },
  {
@@ -24848,15 +25277,36 @@
   "title": "Vael Mournthorn, the Crimson Reaper-King",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Crimson Reaper-King.",
-  "summary": "Archfey of the Faewild. Autumn, the Red Harvest. Harvest, decline, the price of all things; keeper of the Last Bargain.",
+  "subtitle": "Archfey of Autumn: Keeper of the Last Bargain",
+  "summary": "Vael Mournthorn is the Archfey-King of Autumn, sovereign of the Court of the Red Harvest, and the only king among the four. He holds harvest, decline, and the price of all things. His is the Court of bargains, where a mortal goes to make a deal and almost never leaves the winner.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Who he is",
     "paragraphs": [
-     "Vael Mournthorn, the Crimson Reaper-King is one of the Archfey, the divine-tier rulers of the Faewild.",
-     "Court: Autumn, the Red Harvest.",
-     "Holds: Harvest, decline, the price of all things; keeper of the Last Bargain."
+     "Vael Mournthorn rules the Faewild’s Autumn. He remembers what the Faewild was before its great war, and his melancholy has teeth. His prices are always fair and never kind."
+    ]
+   },
+   {
+    "title": "His Court and the islands",
+    "paragraphs": [
+     "The Red Harvest is the most divided of the Courts, and the one mortals deal with most. Those who want something badly enough find their way to it, at a thin place, on a Still Day, when fae bargains come due."
+    ]
+   },
+   {
+    "title": "If you meet his Court",
+    "paragraphs": [],
+    "list": [
+     "**Never give a true name.**",
+     "**Never say thank you.**",
+     "**Count every bargain three times,** and count what was not said.",
+     "**Ask the price first.** In Autumn a thing accepted before its price is named has no upper limit."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Last Bargain is a real contract. He keeps it, he has never shown it, and all four Courts are party to it.” (a Caelvaron archivist)",
+     "“Half the old families of the Heartland owe Autumn something from the Landing years. The notes come due on Still Days, a few each year.” (a Goldwind notary)"
     ]
    }
   ],
@@ -24864,6 +25314,22 @@
    [
     "Court",
     "Autumn, the Red Harvest"
+   ],
+   [
+    "Season",
+    "Autumn"
+   ],
+   [
+    "Holds",
+    "harvest, decline, the price of all things"
+   ],
+   [
+    "Kalashtar who dream his court",
+    "eyes of red"
+   ],
+   [
+    "His people",
+    "the stewards and reapers of the Autumn Court"
    ]
   ],
   "source": "The Pantheon",
@@ -24873,7 +25339,12 @@
   },
   "aliases": [],
   "related": [
-   "faewild"
+   "faewild",
+   "kalashtar",
+   "house-caelvaron",
+   "nethis-the-sealed-word",
+   "calendar",
+   "varneth-the-threshold-warden"
   ]
  },
  {
