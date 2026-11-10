@@ -1,0 +1,218 @@
+/* Kalvatar, the Living Atlas: the storybook layer.
+ * Load after aesthetic.css. It only restyles; it changes no markup and no behavior.
+ *   <link rel="stylesheet" href="storybook.css?v=1">
+ */
+:root{
+ --label:'Atlas Serif',Georgia,serif;
+ --ink-text:#33453f;
+ --gilt:#a6814a;
+ --r-frontier:#c9a08a;--r-heartland:#e2c98a;--r-wilds:#aec08d;--r-ice:#cfe1e2;--r-sea:#9fcfc7;--r-below:#a59bc0;
+}
+
+/* ---------- 1. Type: engraved capitals for labels, a book page for reading ---------- */
+.mono,.eyebrow,.nav-label,.entry-type,.category-number,.edition-line,.hero-footnote,.hero-corner,.stat span,
+.article-facts dt,.article-source strong,.article-table caption,.article-table thead th,.related-link small,
+.search-result small,.map-caption,.region-pin,.map-scale,.map-region-list>p,.nav-small,.hero-seal span,.wordmark small{
+ font-family:var(--label)!important;text-transform:uppercase;letter-spacing:.17em!important;font-weight:400}
+.eyebrow{font-size:11px!important}
+.edition-line,.mono,.map-scale{font-size:10px!important}
+.entry-type,.related-link small,.search-result small,.article-facts dt,.article-source strong{font-size:10px!important}
+.hero-corner,.hero-footnote,.hero-seal span,.category-number,.nav-small{font-size:9.5px!important}
+.stat span{font-size:9.5px!important;line-height:1.55}
+.entry-card-bottom{font:italic 13.5px var(--serif)!important;letter-spacing:0!important;color:#7d8172!important}
+.entry-card p{font:15px/1.6 var(--serif)!important;color:#55665f!important}
+.article-lead{font:19px/1.7 var(--serif)!important;color:#3f514a!important}
+.article-prose p{font:18px/1.8 var(--serif)!important;color:var(--ink-text)!important;max-width:68ch}
+.article-prose a.wiki-link{color:#8a6a35}
+.article-prose>section:first-child>p:first-of-type::first-letter{float:left;font:4.3em/.8 var(--serif);color:var(--gilt);margin:.09em .1em 0 0}
+.article-prose h2{display:flex;align-items:center;gap:16px}
+.article-prose h2:after{content:'';flex:1;max-width:160px;height:1px;background:linear-gradient(90deg,#c7ad7a,transparent)}
+.article-prose section+section{position:relative;padding-top:12px}
+.article-prose section+section:before{content:'✦ ✦ ✦';display:block;text-align:center;max-width:68ch;color:#c2a066;font-size:13px;letter-spacing:.9em;margin:0 0 24px;opacity:.8}
+
+/* ---------- 2. Paper and light: cards that sit on the page, fewer hard boxes ---------- */
+.entry-card{border-color:#e4d8bd!important;border-radius:4px!important;box-shadow:0 1px 0 #fffdf6 inset,0 16px 30px -22px rgba(74,54,22,.5)!important;transition:transform .4s cubic-bezier(.2,.7,.2,1),box-shadow .4s!important}
+.entry-card:hover{transform:translateY(-4px)!important;box-shadow:0 26px 40px -24px rgba(74,54,22,.55)!important}
+.entry-illustration.has-art{overflow:hidden}
+.entry-illustration.has-art img{transition:transform .8s cubic-bezier(.2,.7,.2,1),filter .25s!important}
+.entry-card:hover .has-art img{transform:scale(1.035)}
+.category-band{background:transparent!important;gap:0!important;border-top:1px solid #d6c7a5;border-bottom:1px solid #d6c7a5;padding:4px 0}
+.category-tile{background:transparent!important;border:0!important;border-radius:0!important;position:relative;padding-block:24px 20px!important}
+.category-tile+.category-tile:before{content:'';position:absolute;left:0;top:22%;bottom:22%;width:1px;background:#dccfb1}
+.category-tile svg{width:38px!important;height:38px!important;color:var(--gilt)!important;stroke-width:.9}
+.category-tile strong{font-size:21px}
+.category-tile:hover{background:rgba(255,250,236,.75)!important}
+.reading-trails a,.related-link{background:#faf5e7!important;border-color:#e4d8bd!important;box-shadow:0 14px 26px -22px rgba(74,54,22,.45)}
+.quote-feature{background:#eef0e2 radial-gradient(120% 90% at 85% 80%,#e3e8d4,transparent 60%)!important;border-color:#d9dcc8!important}
+/* At a glance: an index card taped to the page */
+.article-facts{position:relative;background:#fcf7ea!important;border:1px solid #e3d5b6!important;border-radius:2px!important;box-shadow:0 16px 28px -22px rgba(74,54,22,.55);transform:rotate(-.6deg)}
+.article-facts:before{content:'';position:absolute;top:-11px;left:50%;width:78px;height:22px;transform:translateX(-50%) rotate(-3deg);background:rgba(214,196,146,.55);box-shadow:0 1px 2px rgba(74,54,22,.12)}
+.article-facts dd{font-family:var(--serif);font-size:16px}
+
+/* ---------- 3. The chart: parchment, ink and watercolor, at its true shape ---------- */
+.chart-invitation-image{background:#efe8d3!important}
+.chart-invitation-image:before{content:'';position:absolute;inset:0;z-index:1;pointer-events:none;box-shadow:inset 0 0 70px rgba(112,88,44,.28)}
+.chart-invitation-image .chart-compass{color:#9a7b45;z-index:2}
+.world-chart{align-self:start;background:#efe8d3!important;border-color:#cdbb92!important;color:#5d5a46}
+.map-viewport{background:#efe8d3!important}
+.map-viewport:after{content:'';position:absolute;inset:0;z-index:2;pointer-events:none;box-shadow:inset 0 0 90px rgba(112,88,44,.3)}
+.map-layer{inset:0!important;margin:auto;height:100%;width:auto!important;aspect-ratio:1371/2078}
+.map-grid{z-index:1;background-image:linear-gradient(rgba(120,96,52,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(120,96,52,.07) 1px,transparent 1px)!important}
+.map-frame{border-color:rgba(140,112,60,.35)!important}
+.map-rose{color:#9a7b45!important}
+.map-caption{background:#e9e0c6!important;color:#6b6650!important;border-top-color:#d4c49e!important;font-size:10px!important;letter-spacing:.08em!important;text-transform:none}
+.map-scale{color:#7b6a45!important}
+.map-controls,.map-rose,.map-scale{z-index:3!important}
+.map-controls button{background:#fbf6e7!important;color:#4a5a52!important;border-color:#cdbb92!important}
+.region-pin{background:#fbf6e7f0!important;color:#2f4440!important;border-color:#c9b689!important;font-size:9.5px!important;padding:6px 10px!important;box-shadow:0 6px 14px -8px rgba(60,44,18,.5)}
+.region-pin:before{width:8px!important;height:8px!important;background:var(--rc,#d4c18a)!important;box-shadow:0 0 0 2px #fff8 !important}
+.region-pin:hover,.region-pin.active{background:#2f4a46!important;color:#f3ead2!important;border-color:#2f4a46!important}
+[data-region="northern-frontier"]{--rc:var(--r-frontier)}
+[data-region="heartland"]{--rc:var(--r-heartland)}
+[data-region="southern-wilds"]{--rc:var(--r-wilds)}
+[data-region="icy-expanse"]{--rc:var(--r-ice)}
+[data-region="coral-kingdoms"]{--rc:var(--r-sea)}
+[data-region="below"]{--rc:var(--r-below)}
+.map-region-tabs button{display:inline-flex;align-items:center;gap:8px}
+.map-region-tabs button:before{content:'';width:9px;height:9px;border-radius:50%;background:var(--rc,#d4c18a);box-shadow:0 0 0 1px rgba(60,44,18,.25)}
+
+/* ---------- 4. Gentle motion ---------- */
+@media(prefers-reduced-motion:reduce){.entry-card,.entry-card:hover,.entry-card:hover .has-art img{transform:none!important}}
+@media(max-width:720px){
+ .article-prose p{font-size:17px!important;line-height:1.75!important}
+ .article-lead{font-size:17.5px!important}
+ .category-tile+.category-tile:before{display:none}
+ .category-tile svg{width:32px!important;height:32px!important}
+ .category-tile strong{font-size:18px}
+ .region-pin{font-size:8px!important;padding:4px 7px!important}
+ .edition-line{font-size:8.5px!important;letter-spacing:.1em!important}
+ .stat span{font-size:8px!important;letter-spacing:.08em!important}
+}
+
+/* ---------- 5. Lantern mode: the atlas by lamplight ----------
+ * welcome.js sets <html data-theme="lantern"> before the page paints: from the reader's
+ * choice (the lantern button in the top bar), or from their device's dark setting. */
+:root{--storybook:1}
+[data-theme=lantern]{color-scheme:dark;--paper:#10252a;--white:#17343b;--ink:#e6dcc4;--muted:#9fab9d;--faint:#7f8c81;--line:#2e4f52;--ink-text:#e0d6bd;--gilt:#d9b878}
+[data-theme=lantern] body{background-color:#10252a!important;background-image:radial-gradient(1200px 640px at 62% -10%,rgba(226,176,96,.12),transparent 62%)!important;color:#e6dcc4}
+[data-theme=lantern] .topbar{background:#10252ad9!important;border-bottom-color:#2b4a4e!important}
+[data-theme=lantern] .breadcrumb,[data-theme=lantern] .breadcrumb a,[data-theme=lantern] .topbar-right,[data-theme=lantern] .topbar-random,[data-theme=lantern] #menu-toggle{color:#b9c0ae!important}
+[data-theme=lantern] .sidebar{background:linear-gradient(165deg,#173b3f,#0b1f25 75%)!important;border-right-color:#c9a4652e!important}
+[data-theme=lantern] h1,[data-theme=lantern] h2,[data-theme=lantern] h3,[data-theme=lantern] blockquote{color:#f1e7cd!important}
+[data-theme=lantern] h1 em,[data-theme=lantern] h2 em,[data-theme=lantern] h3 em{color:#d8ad76!important}
+[data-theme=lantern] .eyebrow,[data-theme=lantern] .entry-type,[data-theme=lantern] .category-number{color:#d0a96a!important}
+[data-theme=lantern] .edition-line,[data-theme=lantern] .mono{color:#a7ae9b!important}
+[data-theme=lantern] .section-deck,[data-theme=lantern] .page-intro p{color:#b6bca9!important}
+[data-theme=lantern] .text-link{color:#dccca2!important}
+[data-theme=lantern] .button{background:#d9b878!important;border-color:#d9b878!important;color:#18302f!important}
+[data-theme=lantern] .button.cream{background:#efe3c4!important;border-color:#efe3c4!important}
+[data-theme=lantern] .hero .text-link{color:#e6e0c8!important}
+/* cards and panels */
+[data-theme=lantern] .entry-card{background:#17343b!important;border-color:#2b4b50!important;box-shadow:0 1px 0 #ffffff0a inset,0 18px 32px -22px rgba(0,0,0,.7)!important}
+[data-theme=lantern] .entry-card:hover{box-shadow:0 26px 42px -24px rgba(0,0,0,.8),0 0 0 1px #d9b87833!important}
+[data-theme=lantern] .entry-card h3{color:#f1e7cd!important}
+[data-theme=lantern] .entry-card p{color:#c2c4b1!important}
+[data-theme=lantern] .entry-card-bottom{color:#98a593!important;border-color:#2e4f52!important}
+[data-theme=lantern] .entry-illustration{background:#1c3e45!important;border-color:#2b4b50!important}
+[data-theme=lantern] .entry-illustration svg{color:#8fb0a0!important}
+[data-theme=lantern] .entry-illustration .mono{color:#8fa596!important}
+[data-theme=lantern] .entry-illustration.has-art{background:#132c32!important}
+[data-theme=lantern] .stat strong{color:#f1e7cd!important}
+[data-theme=lantern] .stat span{color:#a6b2a3!important}
+[data-theme=lantern] .stats-strip{border-color:#2e4f52!important}
+[data-theme=lantern] .category-band{border-color:#2e4f52!important}
+[data-theme=lantern] .category-tile+.category-tile:before{background:#2e4f52}
+[data-theme=lantern] .category-tile strong{color:#efe5cb!important}
+[data-theme=lantern] .category-tile .mono{color:#a7ae9b!important}
+[data-theme=lantern] .category-tile:hover{background:rgba(255,236,190,.05)!important}
+[data-theme=lantern] .reading-trails a,[data-theme=lantern] .related-link{background:#17343b!important;border-color:#2b4b50!important;color:#efe4c8!important;box-shadow:0 16px 28px -22px rgba(0,0,0,.7)}
+[data-theme=lantern] .reading-trails p{color:#b8bdab!important}
+[data-theme=lantern] .related-link small{color:#c9a465!important}
+[data-theme=lantern] .quote-feature{background:#17363c radial-gradient(120% 90% at 85% 80%,#1d4147,transparent 60%)!important;border-color:#2b4b50!important}
+[data-theme=lantern] .quote-feature p{color:#b8bdab!important}
+[data-theme=lantern] .question-link{color:#ece2c8!important;border-color:#2e4f52!important}
+[data-theme=lantern] .site-footer{border-top-color:#3a5a5a!important;color:#a9b2a2}
+[data-theme=lantern] .site-footer a{color:#e6dcc4}
+/* the chart, by lamplight */
+[data-theme=lantern] .chart-invitation-image>svg,[data-theme=lantern] .map-layer>svg{filter:brightness(.8) sepia(.12)}
+[data-theme=lantern] .chart-invitation-image{background:#c2bba6!important}
+[data-theme=lantern] .chart-invitation-copy{background:#17363c!important}
+[data-theme=lantern] .chart-invitation-copy p{color:#c2c4b1!important}
+[data-theme=lantern] .world-chart{background:#17343b!important;border-color:#2e4f52!important}
+[data-theme=lantern] .map-viewport{background:#c2bba6!important}
+[data-theme=lantern] .map-caption{background:#132c32!important;color:#a9b2a2!important;border-top-color:#2e4f52!important}
+[data-theme=lantern] .map-region-tabs button{background:#17343b!important;border-color:#2e4f52!important;color:#e6dcc4!important}
+[data-theme=lantern] .map-region-tabs button[aria-pressed=true]{background:#d9b878!important;border-color:#d9b878!important;color:#18302f!important}
+/* the article */
+[data-theme=lantern] .article-subtitle{color:#d6ac78!important}
+[data-theme=lantern] .article-lead{color:#d3ccb6!important}
+[data-theme=lantern] .article-actions,[data-theme=lantern] .article-actions button{color:#aeb6a4!important;border-color:#2e4f52!important}
+[data-theme=lantern] .article-prose a.wiki-link{color:#e3c283!important;border-bottom-color:#e3c28355!important}
+[data-theme=lantern] .article-prose h2:after{background:linear-gradient(90deg,#b8935a,transparent)}
+[data-theme=lantern] .article-facts{background:#1b3a41!important;border-color:#35575b!important;box-shadow:0 18px 30px -22px rgba(0,0,0,.8)}
+[data-theme=lantern] .article-facts:before{background:rgba(217,184,120,.32)}
+[data-theme=lantern] .article-facts dt{color:#c9a465!important}
+[data-theme=lantern] .article-facts dd{color:#ece2c8!important}
+[data-theme=lantern] .article-toc button{color:#aab4a5!important}
+[data-theme=lantern] .article-source{color:#a9b2a2!important;border-color:#2e4f52!important}
+[data-theme=lantern] .article-source strong{color:#c9a465!important}
+[data-theme=lantern] .article-table th,[data-theme=lantern] .article-table td{color:#e0d6bd!important;border-color:#2e4f52!important;background:transparent!important}
+[data-theme=lantern] .article-table thead th,[data-theme=lantern] .article-table caption{background:#17343b!important;color:#c9a465!important}
+[data-theme=lantern] .article-table tbody tr:nth-child(even) th,[data-theme=lantern] .article-table tbody tr:nth-child(even) td{background:#ffffff06!important}
+[data-theme=lantern] .article-table-wrap{border-color:#2e4f52!important;background:#132c32!important}
+[data-theme=lantern] .article-art figcaption,[data-theme=lantern] figcaption{background:#17343b!important;color:#c9c1a8!important;border-color:#2b4b50!important}
+[data-theme=lantern] .article-art,[data-theme=lantern] .article-art-open{border-color:#2b4b50!important;background:#132c32!important}
+[data-theme=lantern] .article-back a{color:#b9c0ae!important}
+/* the directory, search, rumors, and the rest */
+[data-theme=lantern] .chart-invitation,[data-theme=lantern] .reading-trails{background:transparent!important;border-color:#2b4b50!important}
+[data-theme=lantern] .directory-heading{border-bottom-color:#3a5a5a!important}
+[data-theme=lantern] .directory-heading .page-intro>p:not(.eyebrow){color:#b6bca9!important}
+[data-theme=lantern] .directory-frontispiece.with-image:after{background:linear-gradient(90deg,#10252a,#10252ab8 26%,#10252a08 70%),linear-gradient(0deg,#10252a,#10252a00 25%)!important}
+[data-theme=lantern] .directory-frontispiece{color:#7f9c8c!important}
+[data-theme=lantern] .folio-stamp{background:#17343bdf!important;border-color:#a8894f!important;color:#d9b878!important}
+[data-theme=lantern] .directory-refinements{background:#17343b!important;border-color:#2e4f52!important}
+[data-theme=lantern] .directory-refinements label,[data-theme=lantern] .directory-status,[data-theme=lantern] .directory-status .mono{color:#c9a465!important}
+[data-theme=lantern] .directory-refinements select,[data-theme=lantern] .directory-status select,[data-theme=lantern] .rumor-tools select{background:#10252a!important;border-color:#3a5a5a!important;color:#e6dcc4!important}
+[data-theme=lantern] .directory-refinements button,[data-theme=lantern] .load-more{background:transparent!important;border-color:#55705f!important;color:#e6dcc4!important}
+[data-theme=lantern] .load-more:hover,[data-theme=lantern] .directory-refinements button:hover{border-color:#d9b878!important}
+[data-theme=lantern] .directory-search{background:#10252a!important;border-color:#3a5a5a!important}
+[data-theme=lantern] .directory-search>span{color:#c9a465!important}
+[data-theme=lantern] .directory-search input{color:#efe5cb!important}
+[data-theme=lantern] .directory-search input::placeholder{color:#8f9b8d!important}
+[data-theme=lantern] .filter-row a{color:#c8cdb9!important;border-color:#3a5a5a!important;background:transparent!important}
+[data-theme=lantern] .filter-row a.active,[data-theme=lantern] .filter-row a[aria-current]{background:#d9b878!important;border-color:#d9b878!important;color:#18302f!important}
+[data-theme=lantern] .entry-native{color:#d6ac78!important}
+[data-theme=lantern] .empty-state{background:#132c32!important;border-color:#3a5a5a!important}
+[data-theme=lantern] .empty-state>span{color:#c9a465!important}
+[data-theme=lantern] .empty-state p{color:#b6bca9!important}
+[data-theme=lantern] .region-detail{background:#17343b!important;border-color:#2e4f52!important}
+[data-theme=lantern] .region-detail>p,[data-theme=lantern] .map-tip p{color:#b6bca9!important}
+[data-theme=lantern] .region-detail a,[data-theme=lantern] .map-region-list a{color:#e6dcc4!important;border-color:#2e4f52!important}
+[data-theme=lantern] .region-detail a.button{color:#18302f!important;border-color:#d9b878!important}
+[data-theme=lantern] .map-tip{border-color:#3a5a5a!important}
+[data-theme=lantern] .map-tip .mono{color:#c9a465!important}
+[data-theme=lantern] #search-dialog{background:#132c32!important;border-color:#3a5a5a!important;color:#e6dcc4}
+[data-theme=lantern] #search-dialog input{background:transparent!important;color:#efe5cb!important;border-color:#3a5a5a!important}
+[data-theme=lantern] .search-result strong{color:#f1e7cd}
+[data-theme=lantern] .search-result p,[data-theme=lantern] .search-empty{color:#b6bca9!important}
+[data-theme=lantern] .search-result small{color:#c9a465!important}
+[data-theme=lantern] .search-result:hover,[data-theme=lantern] .search-result:focus{background:#1c3e45!important}
+[data-theme=lantern] .rumor-card{background:#17343b!important;border-color:#2b4b50!important}
+[data-theme=lantern] .rumor-heard{color:#a9b2a2!important}
+[data-theme=lantern] .timeline-links{color:#d6ac78!important}
+[data-theme=lantern] .article-table tr{background:transparent!important}
+[data-theme=lantern] .toast{background:#e9dcbc!important;color:#18302f!important;border-color:#d9b878!important}
+[data-theme=lantern] .loading{color:#c9c1a8}
+/* the carousel */
+[data-theme=lantern] .kv-tide-arrow{background:#17343b;border-color:#3a5a5a;color:#e6dcc4}
+[data-theme=lantern] .kv-tide-arrow:hover{background:#1f434a;border-color:#d9b878}
+[data-theme=lantern] .kv-tide-card .kv-tide-quote{color:#cfc6ad!important}
+/* the lantern button */
+.kv-lantern{background:none;border:0;padding:4px;margin-left:12px;width:34px;height:34px;display:grid;place-items:center;color:#6d7f70;cursor:pointer;border-radius:50%;transition:background .2s,color .2s}
+.kv-lantern svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.2;stroke-linejoin:round}
+.kv-lantern .kv-flame{fill:none;transition:fill .3s}
+.kv-lantern:hover{background:rgba(160,130,70,.12)}
+[data-theme=lantern] .kv-lantern{color:#e3c283}
+[data-theme=lantern] .kv-lantern .kv-flame{fill:#e9c27a;stroke:#e9c27a;filter:drop-shadow(0 0 4px #f0c87a)}
+.kv-theme-anim,.kv-theme-anim *{transition:background-color .45s ease,color .45s ease,border-color .45s ease!important}
+@media(max-width:720px){.kv-lantern{margin-left:4px;width:30px;height:30px}}

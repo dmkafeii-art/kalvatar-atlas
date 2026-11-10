@@ -1,0 +1,512 @@
+[
+  {
+    "term": "Aethyn",
+    "say": "AY-thin",
+    "meaning": "The winged star-watchers of Highspire.",
+    "entry": "aethyn"
+  },
+  {
+    "term": "Aetzox",
+    "say": "AYT-zox",
+    "meaning": "Kalvatari name of the skyfin.",
+    "entry": "skyfin"
+  },
+  {
+    "term": "Anchor",
+    "say": "ANG-ker",
+    "meaning": "The gold coin, ten Tides: a laborer's month.",
+    "entry": "coinage"
+  },
+  {
+    "term": "Argentus",
+    "say": "ar-JEN-tus",
+    "meaning": "The world.",
+    "entry": "kalvatar"
+  },
+  {
+    "term": "Assios",
+    "say": "AH-see-os",
+    "meaning": "The great continent to the north, at war for a thousand years.",
+    "entry": "assios-and-the-wider-world"
+  },
+  {
+    "term": "Azarox",
+    "say": "AZ-ah-rox",
+    "meaning": "Kalvatari name of the swordtooth.",
+    "entry": "swordtooth"
+  },
+  {
+    "term": "Badron",
+    "say": "BAD-ron",
+    "meaning": "Queen of Feathers.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Bit",
+    "say": "BIT",
+    "meaning": "The copper coin, holed for stringing.",
+    "entry": "coinage"
+  },
+  {
+    "term": "Brightleaf",
+    "say": "BRITE-leef",
+    "meaning": "The islands' tea, pressed into bricks that pass as money at sea.",
+    "entry": "brightleaf"
+  },
+  {
+    "term": "Bumako",
+    "say": "boo-MAH-koh",
+    "meaning": "Kalvatari name of the bellowback.",
+    "entry": "bellowback"
+  },
+  {
+    "term": "Ciel",
+    "say": "SEE-el",
+    "meaning": "The small far moon, which turns in 57 days.",
+    "entry": "calendar"
+  },
+  {
+    "term": "Cindren",
+    "say": "SIN-dren",
+    "meaning": "The ember-touched forge-folk of Everfall.",
+    "entry": "cindren"
+  },
+  {
+    "term": "Coinsday",
+    "say": "KOINZ-day",
+    "meaning": "Market day, when debts are paid and the Pocchin caravans roll in.",
+    "entry": "calendar"
+  },
+  {
+    "term": "The Cycle",
+    "say": "SY-kul",
+    "meaning": "The ten-day week, from Sunsdawn to Restday.",
+    "entry": "calendar"
+  },
+  {
+    "term": "The Deep King",
+    "say": "DEEP king",
+    "meaning": "The greater alignment, once a generation, when coastlines redraw. Next reckoned for 180 EC.",
+    "entry": "king-tide"
+  },
+  {
+    "term": "EC",
+    "say": "ee-SEE",
+    "meaning": "The Era of the Charter, counted from the Landing. The present is 175 EC.",
+    "entry": "calendar"
+  },
+  {
+    "term": "Everfall",
+    "say": "EV-er-fall",
+    "meaning": "The volcanic isle of House Emberheart and the Cindren.",
+    "entry": "everfall"
+  },
+  {
+    "term": "Florians",
+    "say": "FLOR-ee-anz",
+    "meaning": "The flower-folk who live a single day.",
+    "entry": "florians"
+  },
+  {
+    "term": "Galven",
+    "say": "GAL-ven",
+    "meaning": "The storm-blooded, blue-skinned sailors.",
+    "entry": "galven"
+  },
+  {
+    "term": "Goldwind",
+    "say": "GOLD-wind",
+    "meaning": "The capital, on a gulf of steady wind.",
+    "entry": "goldwind"
+  },
+  {
+    "term": "Golgarma",
+    "say": "gol-GAR-mah",
+    "meaning": "The Orka ruins of the south.",
+    "entry": "golgarma"
+  },
+  {
+    "term": "Gormak",
+    "say": "GOR-mak",
+    "meaning": "Kalvatari name of the craghorn.",
+    "entry": "craghorn"
+  },
+  {
+    "term": "Grommoth",
+    "say": "GROM-moth",
+    "meaning": "The great shaggy beast that carries a Pocchin house.",
+    "entry": "grommoth"
+  },
+  {
+    "term": "Highspire",
+    "say": "HY-spire",
+    "meaning": "The tower-city of House Starborn and the Aethyn.",
+    "entry": "highspire"
+  },
+  {
+    "term": "Honeywrack",
+    "say": "HUN-ee-rak",
+    "meaning": "The sugar-sweet kelp that kellum is made from.",
+    "entry": "kellum"
+  },
+  {
+    "term": "Ilmaroth",
+    "say": "IL-mah-roth",
+    "meaning": "Old Elvish: where the light was buried. The deepest dark.",
+    "entry": "below"
+  },
+  {
+    "term": "The iron",
+    "say": "EYE-urn",
+    "meaning": "Not a rank: the coin a candidate needs to sit the Hunters' Trials.",
+    "entry": "hunters"
+  },
+  {
+    "term": "Ironfort",
+    "say": "EYE-urn-fort",
+    "meaning": "The northern gate, where the Charter was signed.",
+    "entry": "ironfort"
+  },
+  {
+    "term": "Ithrennai",
+    "say": "ith-REN-eye",
+    "meaning": "What the drow call themselves: those who stayed.",
+    "entry": "elves"
+  },
+  {
+    "term": "Jakupur",
+    "say": "JAH-koo-poor",
+    "meaning": "The saurian city-state of the south.",
+    "entry": "jakupur"
+  },
+  {
+    "term": "KakanKal",
+    "say": "KAH-kan-kahl",
+    "meaning": "Emperor of Flames.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Kalvatar",
+    "say": "KAL-vah-tar",
+    "meaning": "The archipelago: more than 5,800 islands from the Frontier to the ice.",
+    "entry": "kalvatar"
+  },
+  {
+    "term": "KAN",
+    "say": "KAN (or kay-ay-EN)",
+    "meaning": "The Kalvatar Armada, nine fleets strong.",
+    "entry": "armada"
+  },
+  {
+    "term": "Karn Sorroch",
+    "say": "KARN SOR-rokh",
+    "meaning": "A dark jungle land of Krysta mines.",
+    "entry": "karn-sorroch"
+  },
+  {
+    "term": "Kayuntu",
+    "say": "kah-YOON-too",
+    "meaning": "The Violent Monarch of the Five Skies.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Kellum",
+    "say": "KEL-lum",
+    "meaning": "The spirit distilled from honeywrack kelp in every harbor.",
+    "entry": "kellum"
+  },
+  {
+    "term": "Kharzûm",
+    "say": "khar-ZOOM",
+    "meaning": "Dwarvish: the debt below. The sealed galleries under the dwarven holds.",
+    "entry": "below"
+  },
+  {
+    "term": "Khaurun",
+    "say": "KHOW-roon",
+    "meaning": "The Fourfold, god of the Vorthani.",
+    "entry": "vorthani"
+  },
+  {
+    "term": "The King Tide",
+    "say": "KING tide",
+    "meaning": "Every third year or so, three days and nights of the highest and lowest sea. Next due in 177 EC.",
+    "entry": "king-tide"
+  },
+  {
+    "term": "korvan",
+    "say": "KOR-van",
+    "meaning": "The imperial gold coin of Assios.",
+    "entry": "coinage"
+  },
+  {
+    "term": "Korzak",
+    "say": "KOR-zak",
+    "meaning": "Kalvatari name of the thornback.",
+    "entry": "thornback"
+  },
+  {
+    "term": "Krysta",
+    "say": "KRIS-tah",
+    "meaning": "The rare crystal that strengthens and stores magic.",
+    "entry": "krysta"
+  },
+  {
+    "term": "Lactinius",
+    "say": "lak-TIN-ee-us",
+    "meaning": "The only publicly known Platinum Hunter.",
+    "entry": "hunters"
+  },
+  {
+    "term": "Lampet",
+    "say": "LAM-pet",
+    "meaning": "The harbor's smallest light, a seal-pup companion.",
+    "entry": "lampet"
+  },
+  {
+    "term": "Liriath",
+    "say": "LEER-ee-ath",
+    "meaning": "The plant-folk of the green.",
+    "entry": "liriath"
+  },
+  {
+    "term": "Malim",
+    "say": "mah-LEEM",
+    "meaning": "The Laughing Flood.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Marrox",
+    "say": "MAR-rox",
+    "meaning": "Kalvatari name of the murkstrider.",
+    "entry": "murkstrider"
+  },
+  {
+    "term": "Mokun",
+    "say": "MOH-koon",
+    "meaning": "Kalvatari name of the loamback.",
+    "entry": "loamback"
+  },
+  {
+    "term": "Momumba",
+    "say": "moh-MOOM-bah",
+    "meaning": "Lord of Apes.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Nadhûr",
+    "say": "nahd-HOOR",
+    "meaning": "Orka: what was swallowed. The drowned undercities.",
+    "entry": "below"
+  },
+  {
+    "term": "Ors",
+    "say": "ORS",
+    "meaning": "The sun, in common speech. People rise with Ors and swear by Ors.",
+    "entry": "calendar"
+  },
+  {
+    "term": "Orsal",
+    "say": "OR-sal",
+    "meaning": "The heavy square gold coin of the vaults, ten Anchors: a laborer's year.",
+    "entry": "coinage"
+  },
+  {
+    "term": "Pirrak",
+    "say": "PEER-rak",
+    "meaning": "Kalvatari name of the quillhen.",
+    "entry": "quillhen"
+  },
+  {
+    "term": "Pocchin",
+    "say": "POH-chin",
+    "meaning": "The fluffy merchant-folk of the caravans.",
+    "entry": "pocchin"
+  },
+  {
+    "term": "Pokok",
+    "say": "POH-kok",
+    "meaning": "Kalvatari name of the cluckmaw.",
+    "entry": "cluckmaw"
+  },
+  {
+    "term": "Razku",
+    "say": "RAHZ-koo",
+    "meaning": "Kalvatari name of the razorfin.",
+    "entry": "razorfin"
+  },
+  {
+    "term": "Shakarr",
+    "say": "shah-KAR",
+    "meaning": "The Shadow of Death.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Sigil",
+    "say": "SIJ-il",
+    "meaning": "A Hunter's badge, forged at the Goldwind Lodge.",
+    "entry": "hunters"
+  },
+  {
+    "term": "Sissix",
+    "say": "SIS-iks",
+    "meaning": "Kalvatari name of the swiftcrest.",
+    "entry": "swiftcrest"
+  },
+  {
+    "term": "Sporrn",
+    "say": "SPORN",
+    "meaning": "The quiet fungal folk of the under-dark.",
+    "entry": "sporrn"
+  },
+  {
+    "term": "Ssvayuk",
+    "say": "SSVAH-yook",
+    "meaning": "The Mud That Breathes.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Sszuka",
+    "say": "SSOO-kah",
+    "meaning": "Kalvatari name of the mirewallow.",
+    "entry": "mirewallow"
+  },
+  {
+    "term": "The Still Days",
+    "say": "STILL dayz",
+    "meaning": "Five days at the end of the year that belong to no god. Debts pause; fae bargains come due.",
+    "entry": "calendar"
+  },
+  {
+    "term": "Sunward",
+    "say": "SUN-ward",
+    "meaning": "A sun-priest of the Concord; the Sunward leads it.",
+    "entry": "concord"
+  },
+  {
+    "term": "Tarvan",
+    "say": "TAR-van",
+    "meaning": "The horned clans of the high moors.",
+    "entry": "tarvan"
+  },
+  {
+    "term": "Thalgorath",
+    "say": "THAL-go-rath",
+    "meaning": "The Tide-Tyrant.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Tide",
+    "say": "TIDE",
+    "meaning": "The silver coin, ten Bits, with the two moons over a wave.",
+    "entry": "coinage"
+  },
+  {
+    "term": "Tidecaller",
+    "say": "TIDE-call-er",
+    "meaning": "A sea-priest of the Concord.",
+    "entry": "concord"
+  },
+  {
+    "term": "Tyrak'Zhul",
+    "say": "TEER-ak ZHOOL",
+    "meaning": "The World-Eater, tyrant-father of all saurians.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Tza'kun",
+    "say": "tsah-KOON",
+    "meaning": "Eldersaur: the revered ancient, a title and not a breed.",
+    "entry": "saurians"
+  },
+  {
+    "term": "Tzharrok",
+    "say": "TSHAR-rok",
+    "meaning": "Kalvatari name of the dreadmaw.",
+    "entry": "dreadmaw"
+  },
+  {
+    "term": "Tzulak",
+    "say": "TSOO-lak",
+    "meaning": "Kalvatari name of the lashtail.",
+    "entry": "lashtail"
+  },
+  {
+    "term": "Ulgrenn",
+    "say": "UL-gren",
+    "meaning": "The Hollow Song.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Valtaire",
+    "say": "val-TAIR",
+    "meaning": "The great near moon. Its 36-day turn is the month.",
+    "entry": "calendar"
+  },
+  {
+    "term": "Varan Port",
+    "say": "VAR-an port",
+    "meaning": "The black market of the far south, called Fairweather by its own.",
+    "entry": "varan-port"
+  },
+  {
+    "term": "Vollun",
+    "say": "VOL-lun",
+    "meaning": "Kalvatari name of the glidetalon.",
+    "entry": "glidetalon"
+  },
+  {
+    "term": "Vorthani",
+    "say": "vor-THAH-nee",
+    "meaning": "The four-armed, horned monk-folk of the Anvil Reach.",
+    "entry": "vorthani"
+  },
+  {
+    "term": "Vukharr",
+    "say": "voo-KHAR",
+    "meaning": "The White Hunger.",
+    "entry": "savage-lords"
+  },
+  {
+    "term": "Xathnatraz",
+    "say": "ZATH-nah-traz",
+    "meaning": "A cursed isle a world away, in sailors' tales.",
+    "entry": "xathnatraz"
+  },
+  {
+    "term": "Xolca",
+    "say": "SHOL-kah",
+    "meaning": "Kalvatari name of the gloamhide.",
+    "entry": "gloamhide"
+  },
+  {
+    "term": "Yaltox",
+    "say": "YAL-tox",
+    "meaning": "Kalvatari name of the altisaur.",
+    "entry": "altisaur"
+  },
+  {
+    "term": "Zal'Kareth",
+    "say": "zahl-KAR-eth",
+    "meaning": "A southern land beyond the deep jungle.",
+    "entry": "zalkareth"
+  },
+  {
+    "term": "Keshix",
+    "say": "KEH-shiks",
+    "meaning": "Kalvatari name for the Twincrest.",
+    "entry": "twincrest"
+  },
+  {
+    "term": "Saalix",
+    "say": "SAA-liks",
+    "meaning": "Kalvatari name for the Songcrest.",
+    "entry": "songcrest"
+  },
+  {
+    "term": "Tammok",
+    "say": "TAM-mok",
+    "meaning": "Kalvatari name for the Loadback.",
+    "entry": "packthumb"
+  }
+]

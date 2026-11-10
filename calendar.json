@@ -1,0 +1,829 @@
+{
+  "year": "175 EC",
+  "months": [
+    {
+      "name": "Eo",
+      "epithet": "Hearth and Home",
+      "keeps": "Family, the house, beginnings (Eo 1st is Landing-Day, New Year)",
+      "season": "Closed Water"
+    },
+    {
+      "name": "Eliol",
+      "epithet": "Chart and Star",
+      "keeps": "Learning, study, finding your way",
+      "season": "Closed Water"
+    },
+    {
+      "name": "Ezra",
+      "epithet": "Mast and Sail",
+      "keeps": "Setting out, voyages, courage",
+      "season": "Open Water"
+    },
+    {
+      "name": "Liora",
+      "epithet": "Heart and Hand",
+      "keeps": "Love and friendship",
+      "season": "Open Water"
+    },
+    {
+      "name": "Rhor",
+      "epithet": "Net and Anvil",
+      "keeps": "Work, craft, a living",
+      "season": "Fair Water"
+    },
+    {
+      "name": "Idel",
+      "epithet": "Coin and Cargo",
+      "keeps": "Trade and fortune",
+      "season": "Fair Water"
+    },
+    {
+      "name": "Veriden",
+      "epithet": "Truth and Justice",
+      "keeps": "Oaths, courts, honesty",
+      "season": "Fair Water"
+    },
+    {
+      "name": "Halvenir",
+      "epithet": "Salt and Harvest",
+      "keeps": "Plenty, and keeping it",
+      "season": "Storm Water"
+    },
+    {
+      "name": "Memnara",
+      "epithet": "Bell and Remembrance",
+      "keeps": "The dead and the drowned",
+      "season": "Storm Water"
+    },
+    {
+      "name": "Okram",
+      "epithet": "Harbor and Rest",
+      "keeps": "Coming home, rest",
+      "season": "Closed Water"
+    }
+  ],
+  "still_days": {
+    "count": 5,
+    "after": "Okram",
+    "keeps": "Five days that belong to no god: debts pause, the courts close, and fae bargains come due."
+  },
+  "cycle": [
+    {
+      "day": "Sunsdawn",
+      "for": "Beginnings, law, Concord worship"
+    },
+    {
+      "day": "Tideturn",
+      "for": "Sailing and trade, the day to weigh anchor"
+    },
+    {
+      "day": "Hearthday",
+      "for": "Home and family"
+    },
+    {
+      "day": "Forgeday",
+      "for": "Craft, labor, the guilds"
+    },
+    {
+      "day": "Wardsday",
+      "for": "Courts, oaths, justice"
+    },
+    {
+      "day": "Greenday",
+      "for": "Fields and harvest"
+    },
+    {
+      "day": "Graveday",
+      "for": "The dead and the ancestors, never set sail on a Graveday"
+    },
+    {
+      "day": "Windsday",
+      "for": "Travel, roads, news"
+    },
+    {
+      "day": "Coinsday",
+      "for": "Market day; debts paid; Pocchin caravans roll into town"
+    },
+    {
+      "day": "Restday",
+      "for": "The islands' day off, temple, tidecall, and the long meal"
+    }
+  ],
+  "fixed_feasts": [
+    {
+      "when": "Eo 1st",
+      "feast": "Landing-Day, the first fire of the year",
+      "keeper": "Eo",
+      "month": "Eo",
+      "day": 1
+    },
+    {
+      "when": "Eo 12th",
+      "feast": "The Common Table",
+      "keeper": "Coriell",
+      "month": "Eo",
+      "day": 12
+    },
+    {
+      "when": "Eo 19th",
+      "feast": "The Crowning Day",
+      "keeper": "Vorthung",
+      "month": "Eo",
+      "day": 19
+    },
+    {
+      "when": "Eo 27th",
+      "feast": "The Clan Hearth",
+      "keeper": "Varganthûr",
+      "month": "Eo",
+      "day": 27
+    },
+    {
+      "when": "Eliol 6th",
+      "feast": "The First Light Walk",
+      "keeper": "Aelthuvar",
+      "month": "Eliol",
+      "day": 6
+    },
+    {
+      "when": "Eliol 10th",
+      "feast": "Hospital Night",
+      "keeper": "Maela",
+      "month": "Eliol",
+      "day": 10
+    },
+    {
+      "when": "Eliol 11th",
+      "feast": "The Fasting of Questions",
+      "keeper": "Oda",
+      "month": "Eliol",
+      "day": 11
+    },
+    {
+      "when": "Eliol 14th",
+      "feast": "Charting Day",
+      "keeper": "Wanderlight, shared with Eliol",
+      "month": "Eliol",
+      "day": 14
+    },
+    {
+      "when": "Eliol 18th",
+      "feast": "Dice Night",
+      "keeper": "Fortura",
+      "month": "Eliol",
+      "day": 18
+    },
+    {
+      "when": "Eliol 19th",
+      "feast": "The Reading of the Long Nights",
+      "keeper": "Eliol",
+      "month": "Eliol",
+      "day": 19
+    },
+    {
+      "when": "Eliol 21st",
+      "feast": "The Long Waking",
+      "keeper": "Naxithe",
+      "month": "Eliol",
+      "day": 21
+    },
+    {
+      "when": "Eliol 25th",
+      "feast": "Lamplight",
+      "keeper": "Lunia",
+      "month": "Eliol",
+      "day": 25
+    },
+    {
+      "when": "Eliol 30th",
+      "feast": "Starfall",
+      "keeper": "Skaia",
+      "month": "Eliol",
+      "day": 30
+    },
+    {
+      "when": "Ezra 3rd",
+      "feast": "The Green Waking",
+      "keeper": "Yarrowen, with Ilavash",
+      "month": "Ezra",
+      "day": 3
+    },
+    {
+      "when": "Ezra 13th",
+      "feast": "The Laughing Thaw",
+      "keeper": "Aoifel",
+      "month": "Ezra",
+      "day": 13
+    },
+    {
+      "when": "Ezra 19th",
+      "feast": "The Crossroads Coins",
+      "keeper": "Kessa",
+      "month": "Ezra",
+      "day": 19
+    },
+    {
+      "when": "Ezra 22nd",
+      "feast": "The Masking of the Quays",
+      "keeper": "Elcifer",
+      "month": "Ezra",
+      "day": 22
+    },
+    {
+      "when": "Ezra 27th",
+      "feast": "The Captain's Cup",
+      "keeper": "Tholmar",
+      "month": "Ezra",
+      "day": 27
+    },
+    {
+      "when": "Ezra 30th",
+      "feast": "The Riot of Cups",
+      "keeper": "Cael",
+      "month": "Ezra",
+      "day": 30
+    },
+    {
+      "when": "Liora 1st",
+      "feast": "Friend-knots",
+      "keeper": "Liora",
+      "month": "Liora",
+      "day": 1
+    },
+    {
+      "when": "Liora 18th",
+      "feast": "The Untying, under Valtaire's full light",
+      "keeper": "Liora, with Valtaire",
+      "month": "Liora",
+      "day": 18
+    },
+    {
+      "when": "Rhor 4th",
+      "feast": "The Quenching",
+      "keeper": "Durmakhâim",
+      "month": "Rhor",
+      "day": 4
+    },
+    {
+      "when": "Rhor 9th",
+      "feast": "The Founding of Goldwind",
+      "keeper": "Rhor",
+      "month": "Rhor",
+      "day": 9
+    },
+    {
+      "when": "Rhor 14th",
+      "feast": "Penny's Supper",
+      "keeper": "Penny Greenstep",
+      "month": "Rhor",
+      "day": 14
+    },
+    {
+      "when": "Rhor 16th",
+      "feast": "The Sword-Cooling",
+      "keeper": "Brakkundr",
+      "month": "Rhor",
+      "day": 16
+    },
+    {
+      "when": "Rhor 21st",
+      "feast": "Tinkers' Night",
+      "keeper": "Tik",
+      "month": "Rhor",
+      "day": 21
+    },
+    {
+      "when": "Rhor 24th",
+      "feast": "Mirror Night",
+      "keeper": "Iliriel",
+      "month": "Rhor",
+      "day": 24
+    },
+    {
+      "when": "Rhor 27th",
+      "feast": "The Road Blessing",
+      "keeper": "Brother Dog",
+      "month": "Rhor",
+      "day": 27
+    },
+    {
+      "when": "Rhor 30th",
+      "feast": "The Tusking",
+      "keeper": "Gorrokar",
+      "month": "Rhor",
+      "day": 30
+    },
+    {
+      "when": "Idel 8th",
+      "feast": "The Turning of the Sand",
+      "keeper": "Daelhir",
+      "month": "Idel",
+      "day": 8
+    },
+    {
+      "when": "Idel 11th",
+      "feast": "The Whisper Night",
+      "keeper": "Sruth",
+      "month": "Idel",
+      "day": 11
+    },
+    {
+      "when": "Idel 12th",
+      "feast": "Sunturn, the sun at its height over Goldwind",
+      "keeper": "Law the Sun King",
+      "month": "Idel",
+      "day": 12
+    },
+    {
+      "when": "Idel 16th",
+      "feast": "The Laughing Water",
+      "keeper": "Malim",
+      "month": "Idel",
+      "day": 16
+    },
+    {
+      "when": "Idel 20th",
+      "feast": "The Opening of the Coral Gate",
+      "keeper": "Vaythra",
+      "month": "Idel",
+      "day": 20
+    },
+    {
+      "when": "Idel 21st",
+      "feast": "The Midsummer Bonfires",
+      "keeper": "Pyraxis",
+      "month": "Idel",
+      "day": 21
+    },
+    {
+      "when": "Idel 24th",
+      "feast": "The Droving",
+      "keeper": "Ulmach",
+      "month": "Idel",
+      "day": 24
+    },
+    {
+      "when": "Idel 25th",
+      "feast": "The Gilded Fair",
+      "keeper": "Venkovolkos",
+      "month": "Idel",
+      "day": 25
+    },
+    {
+      "when": "Idel 28th",
+      "feast": "Mouthday",
+      "keeper": "Skarn",
+      "month": "Idel",
+      "day": 28
+    },
+    {
+      "when": "Veriden 6th",
+      "feast": "The Sunhold Accord",
+      "keeper": "Veriden",
+      "month": "Veriden",
+      "day": 6
+    },
+    {
+      "when": "Veriden 13th",
+      "feast": "The Clan Swearing",
+      "keeper": "Tharuun",
+      "month": "Veriden",
+      "day": 13
+    },
+    {
+      "when": "Veriden 14th",
+      "feast": "The Balancing",
+      "keeper": "Ilis",
+      "month": "Veriden",
+      "day": 14
+    },
+    {
+      "when": "Veriden 17th",
+      "feast": "The Steady",
+      "keeper": "Sathrun",
+      "month": "Veriden",
+      "day": 17
+    },
+    {
+      "when": "Veriden 19th",
+      "feast": "The Dominion Parade, held in private",
+      "keeper": "Korthax",
+      "month": "Veriden",
+      "day": 19
+    },
+    {
+      "when": "Veriden 24th",
+      "feast": "Tally Day",
+      "keeper": "Khazrûkk",
+      "month": "Veriden",
+      "day": 24
+    },
+    {
+      "when": "Veriden 27th",
+      "feast": "Ledger Day, held in private",
+      "keeper": "Vautun",
+      "month": "Veriden",
+      "day": 27
+    },
+    {
+      "when": "Veriden 30th",
+      "feast": "The Raising of Walls",
+      "keeper": "Magnus",
+      "month": "Veriden",
+      "day": 30
+    },
+    {
+      "when": "Halvenir 3rd",
+      "feast": "The Night of Torn Sails",
+      "keeper": "Vael",
+      "month": "Halvenir",
+      "day": 3
+    },
+    {
+      "when": "Halvenir 9th",
+      "feast": "The Open Hunt",
+      "keeper": "The Green Hunter",
+      "month": "Halvenir",
+      "day": 9
+    },
+    {
+      "when": "Halvenir 13th",
+      "feast": "The Empty Feast",
+      "keeper": "Orphanos",
+      "month": "Halvenir",
+      "day": 13
+    },
+    {
+      "when": "Halvenir 17th",
+      "feast": "The Breaking Night",
+      "keeper": "Sevrin",
+      "month": "Halvenir",
+      "day": 17
+    },
+    {
+      "when": "Halvenir 19th",
+      "feast": "Grandmother's Bath",
+      "keeper": "Sszathra",
+      "month": "Halvenir",
+      "day": 19
+    },
+    {
+      "when": "Halvenir 26th",
+      "feast": "The Wild Run",
+      "keeper": "The Laughing Beast",
+      "month": "Halvenir",
+      "day": 26
+    },
+    {
+      "when": "Halvenir 28th",
+      "feast": "The Ember Dance",
+      "keeper": "Elisse",
+      "month": "Halvenir",
+      "day": 28
+    },
+    {
+      "when": "Halvenir 30th",
+      "feast": "The Open Sill Night",
+      "keeper": "Castellyn",
+      "month": "Halvenir",
+      "day": 30
+    },
+    {
+      "when": "Halvenir 34th",
+      "feast": "The Red Harvest and the Last Bargain",
+      "keeper": "Vael Mournthorn",
+      "month": "Halvenir",
+      "day": 34
+    },
+    {
+      "when": "Memnara 22nd",
+      "feast": "Songs for the Drowned",
+      "keeper": "Khadras",
+      "month": "Memnara",
+      "day": 22
+    },
+    {
+      "when": "Memnara 25th",
+      "feast": "The Night of the Ancestors",
+      "keeper": "Yaxqel, with Memnara and the Quiet Door",
+      "month": "Memnara",
+      "day": 25
+    },
+    {
+      "when": "Okram 2nd",
+      "feast": "The Door-Walk",
+      "keeper": "Varneth",
+      "month": "Okram",
+      "day": 2
+    },
+    {
+      "when": "Okram 4th",
+      "feast": "The Lamp Night",
+      "keeper": "Tramica",
+      "month": "Okram",
+      "day": 4
+    },
+    {
+      "when": "Okram 9th",
+      "feast": "The Quiet Count",
+      "keeper": "The Pale Man",
+      "month": "Okram",
+      "day": 9
+    },
+    {
+      "when": "Okram 14th",
+      "feast": "The Tithe-Day",
+      "keeper": "Elros",
+      "month": "Okram",
+      "day": 14
+    },
+    {
+      "when": "Okram 17th",
+      "feast": "The Auction Night, held in secret",
+      "keeper": "Abysm",
+      "month": "Okram",
+      "day": 17
+    },
+    {
+      "when": "Okram 18th",
+      "feast": "The Long Night",
+      "keeper": "Oorah",
+      "month": "Okram",
+      "day": 18
+    },
+    {
+      "when": "Okram 22nd",
+      "feast": "The Long Silence",
+      "keeper": "Morthryn",
+      "month": "Okram",
+      "day": 22
+    },
+    {
+      "when": "Okram 27th",
+      "feast": "The Week of Coughs, held in secret",
+      "keeper": "Asmodul",
+      "month": "Okram",
+      "day": 27
+    },
+    {
+      "when": "Okram 28th",
+      "feast": "The Underscale Night",
+      "keeper": "Vrix",
+      "month": "Okram",
+      "day": 28
+    },
+    {
+      "when": "Okram 29th",
+      "feast": "The Coronation of Frost",
+      "keeper": "Saelthar",
+      "month": "Okram",
+      "day": 29
+    }
+  ],
+  "moveable_feasts": [
+    {
+      "when": "Eo, the month",
+      "feast": "Ironwake, the garrison's bonfires for the dead",
+      "keeper": "Eo",
+      "section": "Eo of Hearth and Home"
+    },
+    {
+      "when": "Eliol, the month",
+      "feast": "The convocations and examinations",
+      "keeper": "Eliol",
+      "section": "Eliol of Chart and Star"
+    },
+    {
+      "when": "Ezra, first calm morning",
+      "feast": "First-Sail, with the coin for Lilim",
+      "keeper": "Ezra, with Lilim",
+      "section": "Ezra of Mast and Sail"
+    },
+    {
+      "when": "Ezra, the month",
+      "feast": "The Bastion tourneys",
+      "keeper": "Ezra, with the Sword",
+      "section": "Ezra of Mast and Sail"
+    },
+    {
+      "when": "Liora 2nd to 17th",
+      "feast": "The Merrin Games, twelve trials",
+      "keeper": "Liora",
+      "section": "Liora of Heart and Hand"
+    },
+    {
+      "when": "Rhor, the month",
+      "feast": "The Artisans' Faire",
+      "keeper": "Rhor",
+      "section": "Rhor of Net and Anvil"
+    },
+    {
+      "when": "Idel, the month",
+      "feast": "The Festival of Winds",
+      "keeper": "Idel",
+      "section": "Idel of Coin and Cargo"
+    },
+    {
+      "when": "Halvenir 30th, in secret",
+      "feast": "The Unfeast",
+      "keeper": "Chaos",
+      "section": "Halvenir of Salt and Harvest"
+    },
+    {
+      "when": "Halvenir, the month",
+      "feast": "The Bounty of the Sea, and the Last Sheaf",
+      "keeper": "Halvenir",
+      "section": "Halvenir of Salt and Harvest"
+    },
+    {
+      "when": "Memnara, the month",
+      "feast": "Storm-Watch, the bells for each name the sea took",
+      "keeper": "Memnara",
+      "section": "Memnara of Bell and Remembrance"
+    },
+    {
+      "when": "Okram, the month",
+      "feast": "The Returning Cups, and on the last night the Lanterns of Unity",
+      "keeper": "Okram",
+      "section": "Okram of Harbor and Rest"
+    },
+    {
+      "when": "Feast",
+      "feast": "Sign",
+      "keeper": "Keeper",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Pour-Out",
+      "feast": "The first rain of Open Water",
+      "keeper": "The Drowning Mother",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "Kindling Night",
+      "feast": "The founding of a house",
+      "keeper": "The Hunger That Warms",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The First Wind",
+      "feast": "The turn of the trade-winds in Fair Water",
+      "keeper": "The Breath That Wanders",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The First Grass",
+      "feast": "The first grazing of spring on the moor",
+      "keeper": "The Sleeping Giant",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Blooming of the Dead",
+      "feast": "About three weeks after a Sporrn burial",
+      "keeper": "Hyssen",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Sinking",
+      "feast": "The dark moon before the King Tide",
+      "keeper": "Mhavros",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Hollow Night",
+      "feast": "Every moonless night",
+      "keeper": "Ungoreth",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Dark Hour",
+      "feast": "Every moonless night, in silence",
+      "keeper": "The Nameless God",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Full Turn",
+      "feast": "Every thirty-six days, when Valtaire is full",
+      "keeper": "Valtaire",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "Ciel's Homecoming",
+      "feast": "The return of Ciel to the full",
+      "keeper": "Ciel",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The High Tide Flight",
+      "feast": "The night Valtaire and Ciel pull together",
+      "keeper": "Aevyr",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Changing Tide",
+      "feast": "The two turns of the tides each year",
+      "keeper": "Veshanna",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Swarm Day",
+      "feast": "The locust cloud seen over the fields",
+      "keeper": "Khagun",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Burning of the Quays",
+      "feast": "The first storm of Storm Water",
+      "keeper": "Athuraz",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Living Lightning",
+      "feast": "The first storm of Storm Water",
+      "keeper": "Eirhal",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Nine Nights",
+      "feast": "Nine nights after the first frost",
+      "keeper": "Mishri",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Ghostlight Vigil",
+      "feast": "The strongest aurora over the Icy Expanse",
+      "keeper": "Volvieg",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Reading of the Wings",
+      "feast": "The sighting of Badron before the storm season",
+      "keeper": "Badron",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Tribute of the Ape",
+      "feast": "The seasonal leaving of fruit in Storm Water",
+      "keeper": "Momumba",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Watch of the Five",
+      "feast": "Each season, when the storm-priests chart the layers",
+      "keeper": "Kayuntu",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Reading of the Mud",
+      "feast": "A stirring in the bog",
+      "keeper": "Ssvayuk",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Skull-Paint",
+      "feast": "Before any Frost Elf raid",
+      "keeper": "Vukharr",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Stopping of the Ears",
+      "feast": "Any descent into the deep dark",
+      "keeper": "Ulgrenn",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The King Tide dread",
+      "feast": "Three days, roughly every third year",
+      "keeper": "Thalgorath",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Stilling",
+      "feast": "When Tyrak'Zhul is known to be moving",
+      "keeper": "Tyrak'Zhul",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Late Frost",
+      "feast": "An unscheduled night each season, at the Courts' borders",
+      "keeper": "The Unbound",
+      "section": "Moveable feasts"
+    },
+    {
+      "when": "The Unspoken",
+      "feast": "Each crossing of the Bonewilds",
+      "keeper": "Shakarr",
+      "section": "Moveable feasts"
+    }
+  ],
+  "king_tide": {
+    "last": "174 EC",
+    "next": "177 EC",
+    "note": "The Tidecallers agree on the year and are publicly arguing over the week."
+  },
+  "site_rule": {
+    "today": "Map the real day of the year onto the Charter year: day 1 is Eo 1st, each month is 36 days in order, and days 361 to 365 are the five Still Days (in a leap year, the last real day repeats the fifth Still Day). The year shown stays 175 EC, the setting's present.",
+    "cycle_epoch": "Site convention: Eo 1st, 175 EC, is a Sunsdawn; the Cycle then runs on without restarting at months or years.",
+    "show": "Today's date (for example: Graveday, Liora 18th, 175 EC), the season, the next three feasts, and a line for the next King Tide."
+  }
+}

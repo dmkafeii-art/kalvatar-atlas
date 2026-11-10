@@ -1,0 +1,58 @@
+[
+  {
+    "date": "Before 1 EC",
+    "title": "The Exodus and the Landing",
+    "text": "About 190 years ago the anti-imperial houses of Assios fled south: fifteen years of desperate crossings, guarded by the companies that became the Hunters.",
+    "related": [
+      "exodus-and-the-landing"
+    ]
+  },
+  {
+    "date": "About 60 EC",
+    "title": "The Great Slave Rebellion",
+    "text": "About 60 EC: the enslaved of the young federation rose, and slavery was abolished in Council lands.",
+    "related": [
+      "great-slave-rebellion"
+    ]
+  },
+  {
+    "date": "About 90 EC",
+    "title": "The Plague of the Burning Sea",
+    "text": "About 90 EC: a great maritime pestilence that swept the archipelago and scarred a generation.",
+    "related": [
+      "plague-of-the-burning-sea"
+    ]
+  },
+  {
+    "date": "91 EC",
+    "title": "The Breakwater",
+    "text": "91 EC: the one time the Armada and the Hunters fought each other in earnest. It gave the islands the Breakwater Protocols and the yearly Wargames.",
+    "related": [
+      "breakwater"
+    ]
+  },
+  {
+    "date": "105 EC",
+    "title": "The Ascendant's War",
+    "text": "105 EC: the Archmage Eldric Morvane raised a Krysta-bound mage-army and nearly took the Heartland. Out of it came the Arcane Registry.",
+    "related": [
+      "ascendants-war"
+    ]
+  },
+  {
+    "date": "148 EC",
+    "title": "The Southern Quarantine",
+    "text": "148 EC: a fever killed the colony of Fairhope and a Charter survey squadron in the far south, and the Council sealed those waters.",
+    "related": [
+      "southern-quarantine"
+    ]
+  },
+  {
+    "date": "165 EC",
+    "title": "The Battle of the Kraken's Maw",
+    "text": "165 EC, sixteen hours: the Coalition of the Navy and the Hunters broke Admiral Blackheart's pirate armada.",
+    "related": [
+      "battle-of-the-krakens-maw"
+    ]
+  }
+]

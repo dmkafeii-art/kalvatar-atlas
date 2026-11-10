@@ -1,0 +1,127 @@
+{
+  "note": "Listening suggestions by region, from the Kalvatar playlist. Link each to a search on the listener's music service; do not host the audio.",
+  "regions": {
+    "heartland": [
+      {
+        "title": "Fódlan Winds",
+        "from": "Fire Emblem: Three Houses"
+      },
+      {
+        "title": "Argentum Trade Guild",
+        "from": "Xenoblade Chronicles 2"
+      },
+      {
+        "title": "Vamo' alla Flamenco",
+        "from": "Final Fantasy IX"
+      }
+    ],
+    "northern-frontier": [
+      {
+        "title": "If I Had a Heart",
+        "from": "Vikings"
+      },
+      {
+        "title": "Steel for Humans",
+        "from": "The Witcher 3"
+      },
+      {
+        "title": "Helvegen",
+        "from": "Wardruna"
+      }
+    ],
+    "southern-wilds": [
+      {
+        "title": "Into the Thick of It",
+        "from": "Secret of Mana"
+      },
+      {
+        "title": "Secret of the Forest",
+        "from": "Chrono Trigger"
+      },
+      {
+        "title": "Gaur Plain",
+        "from": "Xenoblade Chronicles"
+      }
+    ],
+    "icy-expanse": [
+      {
+        "title": "The Fields of Ard Skellig",
+        "from": "The Witcher 3"
+      },
+      {
+        "title": "Kaer Morhen",
+        "from": "The Witcher 3"
+      },
+      {
+        "title": "Helvegen",
+        "from": "Wardruna"
+      }
+    ],
+    "coral-kingdoms": [
+      {
+        "title": "The Great Sea",
+        "from": "The Wind Waker"
+      },
+      {
+        "title": "Eryth Sea",
+        "from": "Xenoblade Chronicles"
+      },
+      {
+        "title": "Dream of the Shore Near Another World",
+        "from": "Chrono Cross"
+      },
+      {
+        "title": "Siren Song",
+        "from": "Tsubasa Chronicle"
+      },
+      {
+        "title": "Hymn of the Fayth",
+        "from": "Final Fantasy X"
+      }
+    ],
+    "below": [
+      {
+        "title": "Hanezeve Caradhina",
+        "from": "Made in Abyss"
+      },
+      {
+        "title": "The First Layer",
+        "from": "Made in Abyss"
+      },
+      {
+        "title": "Resting Grounds",
+        "from": "Hollow Knight"
+      }
+    ],
+    "hunters": [
+      {
+        "title": "Departure!",
+        "from": "Hunter x Hunter"
+      },
+      {
+        "title": "Chasing Daybreak",
+        "from": "Fire Emblem: Three Houses"
+      }
+    ],
+    "armada": [
+      {
+        "title": "Decisive Battle",
+        "from": "Evangelion"
+      },
+      {
+        "title": "The Apex of the World",
+        "from": "Fire Emblem: Three Houses"
+      }
+    ],
+    "faewild": [
+      {
+        "title": "Magic the Sky Has Shown",
+        "from": "Witch Hat Atelier"
+      },
+      {
+        "title": "Schala's Theme",
+        "from": "Chrono Trigger"
+      }
+    ]
+  }
+}

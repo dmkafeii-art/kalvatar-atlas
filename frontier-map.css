@@ -1,0 +1,74 @@
+.frontier-page{padding-bottom:24px}
+.frontier-header{display:flex;justify-content:space-between;align-items:end;gap:28px;margin:20px 0 27px}
+.frontier-header .eyebrow{font-size:8px;letter-spacing:2px;color:#8f805f;margin:0 0 10px}
+.frontier-header h1{font:normal clamp(43px,5vw,68px)/1.05 Georgia,serif;letter-spacing:-2px;margin:0 0 15px;color:#263f3d}
+.frontier-header h1 em{font-weight:normal;color:#78846d}
+.frontier-header p:not(.eyebrow){font:13px/1.7 Arial,sans-serif;color:#6a7871;margin:0;max-width:630px}
+.frontier-back{font:10px/1.4 'Courier New',monospace;letter-spacing:1px;color:#566f65;border-bottom:1px solid #aab9aa;padding-bottom:7px;white-space:nowrap}
+.frontier-back:hover{color:#9b7240}
+.frontier-layout{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(270px,.85fr);gap:22px;align-items:start}
+.frontier-map{background:#e5e8d9;border:1px solid #bbc6b5;box-shadow:0 15px 40px #41564b17;min-width:0}
+.frontier-map-image{background:#f0eedc;position:relative;overflow:hidden}
+.frontier-chart-svg{width:100%;height:auto;display:block;stroke:none;fill:none}
+.frontier-chart-svg image{stroke:none}
+.frontier-chart-svg .fm-route path{stroke:#a07755;stroke-width:.9;stroke-dasharray:2.5 3;opacity:.72;fill:none}
+.frontier-chart-svg .fm-causeway path{stroke:#685d4c;stroke-width:1.3;stroke-dasharray:2 1;fill:none}
+.frontier-chart-svg .fm-streams path{stroke:#577f81;stroke-width:1.5;stroke-linecap:round;opacity:.86;fill:none}
+.frontier-chart-svg .fm-mountain path{stroke:#7b5e4d;stroke-width:1.25;stroke-linejoin:round;stroke-linecap:round;fill:#f4e6d1b5}
+.frontier-chart-svg .fm-hill{stroke:#6e7158;stroke-width:.85;stroke-linecap:round;fill:none}
+.frontier-chart-svg .fm-moor{stroke:#728761;stroke-width:.8;stroke-dasharray:1.2 2;opacity:.8}
+.frontier-chart-svg .fm-pans{stroke:#7e8d80;stroke-width:.8;fill:none}
+.frontier-chart-svg .fm-reef{stroke:#6b8b88;stroke-width:1.25;fill:none;stroke-dasharray:2 1.3}
+.frontier-chart-svg .fm-soundings{stroke:#6a9090;stroke-width:.6;opacity:.65}
+.frontier-chart-svg .fm-land-names text{fill:#593e36;stroke:#e7bd9e;stroke-width:.75;paint-order:stroke;letter-spacing:1.1px;font:5px 'Courier New',monospace}
+.frontier-chart-svg .fm-sea-names text{fill:#5c8282;stroke:#f0efdf;stroke-width:1.4;paint-order:stroke;letter-spacing:1.1px;font:4.6px 'Courier New',monospace}
+.frontier-chart-svg .fm-north path{stroke:#786d58;stroke-width:.7;fill:#e8ddc8}
+.frontier-chart-svg .fm-north text{fill:#6e654f;font:6px Georgia,serif}
+.frontier-site{cursor:pointer}
+.frontier-site .fm-pin-ring{stroke:#fff7e8;stroke-width:1.5;fill:#314c49;opacity:.28}
+.frontier-site .fm-pin{fill:#243b3b;stroke:#f5ecd6;stroke-width:.9;transition:fill .15s,stroke-width .15s}
+.frontier-site .fm-pin-number{fill:#f8f0dc;stroke:none;dominant-baseline:middle;text-anchor:middle;font:bold 4.6px Arial,sans-serif;pointer-events:none}
+.frontier-site:hover .fm-pin,.frontier-site:focus .fm-pin,.frontier-site.is-related .fm-pin{fill:#a56b39;stroke-width:1.7}
+.frontier-site:hover .fm-pin-ring,.frontier-site:focus .fm-pin-ring,.frontier-site.is-related .fm-pin-ring{opacity:.8;fill:#f7dfb0}
+.frontier-site:focus{outline:none}.frontier-site:focus .fm-pin-ring{stroke:#4a3027;stroke-width:2}
+.frontier-map-foot{display:flex;justify-content:space-between;gap:15px;border-top:1px solid #c6d0bf;padding:13px 17px;color:#607669;background:#edf0e5;font:7px/1.5 'Courier New',monospace;letter-spacing:1.4px}
+.frontier-rail{background:#fcfaf2;border:1px solid #d7d8c9;padding:23px 23px 18px}
+.frontier-rail .eyebrow{font:7px 'Courier New',monospace;letter-spacing:1.5px;color:#8b936f;margin:0 0 9px}
+.frontier-rail h2{font:normal 29px/1.15 Georgia,serif;color:#354e4a;margin:0 0 10px}
+.frontier-rail-intro{font-size:11px;color:#768479;margin:0 0 14px;line-height:1.6}
+.frontier-place-list{list-style:none;margin:0;padding:0;max-height:660px;overflow:auto}
+.frontier-place-list li{border-top:1px solid #e4e5d8}
+.frontier-place-list a{display:grid;grid-template-columns:27px minmax(0,1fr) 12px;gap:10px;align-items:center;padding:9px 2px;color:#2e4847}
+.frontier-place-list a:hover,.frontier-place-list a:focus,.frontier-place-list a.is-related{background:#eef1e7;color:#a16c3f}
+.frontier-list-num{font:12px Georgia,serif;color:#a27b4c}
+.frontier-place-list strong{display:block;font:normal 15px/1.2 Georgia,serif}
+.frontier-place-list small{display:block;color:#849087;font:9px/1.35 Arial,sans-serif;margin-top:3px}
+.frontier-key{border-top:1px solid #d8dccd;margin-top:16px;padding-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:7px;font:9px/1.3 Arial,sans-serif;color:#697b72}
+.frontier-symbol{display:inline-block;width:21px;font:17px/1 Georgia,serif;color:#81634f;vertical-align:middle}
+.frontier-symbol.stream,.frontier-symbol.reef{color:#5d8584}.frontier-symbol.pans{color:#839083}
+.frontier-note{margin:24px 0 13px;padding:20px 24px;border-left:2px solid #9ead92;background:#e9ecdf;display:grid;grid-template-columns:145px 1fr auto;gap:20px;align-items:start}
+.frontier-note .mono{font-size:7px;color:#788c78;letter-spacing:1.5px;margin-top:3px}
+.frontier-note p{margin:0;font:11px/1.7 Arial,sans-serif;color:#65746a}
+.frontier-note a{font:9px/1.6 'Courier New',monospace;color:#567068;white-space:nowrap;border-bottom:1px solid #b4bfae}
+.frontier-article-cta{display:inline-flex;align-items:center;gap:15px;background:#e9ede0;border:1px solid #cad3c4;color:#36534b;padding:14px 18px;margin:12px 0 25px;font-size:11px}
+.frontier-article-cta:hover{background:#dce5d6}
+@media(max-width:1050px){.frontier-layout{grid-template-columns:minmax(0,1.35fr) minmax(235px,.85fr)}.frontier-rail{padding:18px}.frontier-note{grid-template-columns:1fr}.frontier-note a{width:max-content}}
+@media(max-width:750px){.frontier-header{display:block;margin-top:8px}.frontier-back{display:inline-block;margin-top:20px}.frontier-layout{display:block}.frontier-map{margin-bottom:17px}.frontier-rail{padding:20px}.frontier-place-list{max-height:none;display:grid;grid-template-columns:1fr 1fr;column-gap:13px}.frontier-rail h2{font-size:26px}.frontier-map-foot{font-size:6px}.frontier-note{padding:18px}}
+@media(max-width:500px){.frontier-place-list{display:block}.frontier-chart-svg{min-width:100%}.frontier-map-foot span:last-child{display:none}.frontier-header h1{font-size:45px}}
+
+/* The finished regional plate takes the full reading width. Its key sits below. */
+.frontier-layout{display:block}
+.frontier-map{border:0;background:#34575a;padding:9px;box-shadow:0 3px 0 #8b826d,0 22px 50px #304b4530}
+.frontier-map-image{background:#527b7e}
+.frontier-chart-svg{filter:drop-shadow(0 1px 1px #182f3055)}
+.frontier-chart-svg .fm-pin-ring{fill:#e9d4a6;stroke:#233d3e;stroke-width:.85;opacity:.94}
+.frontier-chart-svg .fm-pin{fill:#744b39;stroke:#fff2cc;stroke-width:.8}
+.frontier-chart-svg .fm-pin-number{fill:#fff3d1;font:700 4.2px Arial,sans-serif}
+.frontier-map-foot{background:#34575a;color:#d9ceb2;border:0;padding:9px 15px 3px}
+.frontier-rail{margin-top:24px;background:#f8f5e8;border:1px solid #b8bda8;padding:26px 28px 25px}
+.frontier-rail h2{font-size:31px}
+.frontier-place-list{max-height:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 17px}
+.frontier-place-list a{min-height:68px}
+.frontier-key{display:flex;flex-wrap:wrap;gap:16px 25px}
+@media(max-width:850px){.frontier-place-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.frontier-map{padding:5px}.frontier-place-list{display:block}.frontier-rail{padding:20px}.frontier-rail h2{font-size:27px}}

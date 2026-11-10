@@ -1,0 +1,18 @@
+.campaign-score{display:flex;align-items:center;gap:18px;padding:18px 22px;border:1px solid var(--line);border-left:3px solid var(--gold);margin:20px 0 30px;background:var(--white)}
+.campaign-score>span{font-size:30px;color:var(--gold)}
+.campaign-score .eyebrow{display:block;font-size:10px;margin:0 0 7px}
+.campaign-score a{font:21px/1.5 var(--serif)}
+.campaign-score small{display:block;font:11px/1.7 var(--sans);color:var(--muted);margin-top:5px}
+.campaign-music-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+.campaign-music-card{padding:25px;border:1px solid var(--line);background:var(--white);overflow-wrap:anywhere}
+.campaign-music-card.featured{border-top:3px solid var(--gold)}
+.campaign-music-card .eyebrow{font-size:10px}
+.campaign-music-card .music-scene{font-style:italic;color:var(--muted)}
+.campaign-music-card .campaign-actions{margin-bottom:0}
+.atlas-music-suggestions summary,#music-editor-details>summary{cursor:pointer;font:24px/1.5 var(--serif)}
+.atlas-music-suggestions>label{display:flex;flex-direction:column;gap:9px;font:12px var(--sans);margin:25px 0}
+.atlas-music-track{padding:18px 0;border-top:1px solid var(--line)}
+.atlas-music-track p{color:var(--muted)}
+html[data-theme=lantern] .campaign-score,html[data-theme=lantern] .campaign-music-card{background:#142c31;border-color:#385257}
+html[data-theme=lantern] .campaign-music-card.featured{border-top-color:var(--gold)}
+@media(max-width:720px){.campaign-music-grid{grid-template-columns:1fr}.campaign-music-card{padding:20px}.campaign-score{padding:16px}.campaign-score a{font-size:19px}}

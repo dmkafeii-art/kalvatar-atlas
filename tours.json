@@ -1,0 +1,330 @@
+{
+  "start_here": {
+    "title": "Start here",
+    "intro": "New to Kalvatar? Read these ten, in this order.",
+    "steps": [
+      {
+        "entry": "kalvatar",
+        "why": "What the islands are, and how big the sea is."
+      },
+      {
+        "entry": "travel",
+        "why": "Why everything takes weeks, and news takes months."
+      },
+      {
+        "entry": "calendar",
+        "why": "The months, the Cycle, and how to write a date."
+      },
+      {
+        "entry": "coinage",
+        "why": "Bits, Tides, Anchors, and Orsals, and what they buy."
+      },
+      {
+        "entry": "council",
+        "why": "Who governs the charted sixth of the islands."
+      },
+      {
+        "entry": "hunters",
+        "why": "The guild most adventurers join, and how the iron works."
+      },
+      {
+        "entry": "companions",
+        "why": "Why nearly everyone has someone small."
+      },
+      {
+        "entry": "king-tide",
+        "why": "The Three Nights every islander dreads."
+      },
+      {
+        "entry": "savage-lords",
+        "why": "The first rule of the wild."
+      },
+      {
+        "entry": "goldwind",
+        "why": "The capital, where most stories pass through."
+      }
+    ]
+  },
+  "make_a_character": {
+    "title": "Make your character",
+    "intro": "Pick a people, then a background that fits, then read where you come from. The full rules are in the Player's Companion (2024 rules).",
+    "paths": [
+      {
+        "people": "aethyn",
+        "backgrounds": "Chartwright's Apprentice, Registry Scholar, Tidecaller Acolyte",
+        "heritage_feat": "Thermal Rider",
+        "why_you_travel": "you are a message-flier bound to a fleet or a house, a storm-scout, a star-reader chasing a chart's error, or one of the rare skykin who bound themselves to a crew.",
+        "read_next": [
+          "aethyn",
+          "heartland",
+          "highspire",
+          "singing-cliffs",
+          "king-tide"
+        ]
+      },
+      {
+        "people": "cindren",
+        "backgrounds": "Guild Journeyman, Frontier Garrison-Born, Refugee of the Long War",
+        "heritage_feat": "Kindled Heart",
+        "why_you_travel": "you are an Ash Warden sent to watch something, a glassworker with a commission abroad, or someone who can no longer stand what Rankar's mining is doing to the deeps beneath your home.",
+        "read_next": [
+          "cindren",
+          "heartland",
+          "everfall",
+          "vorthani",
+          "glass-forest"
+        ]
+      },
+      {
+        "people": "coral-peoples",
+        "backgrounds": "Pearl Diver, Tidecaller Acolyte, Factor",
+        "heritage_feat": "Court Envoy",
+        "why_you_travel": "you are a pact-warden sent to watch a port, a pearl-factor on business, a tide-pilot for hire, or an envoy the court would rather not admit it sent.",
+        "read_next": [
+          "coral-peoples",
+          "coral-kingdoms",
+          "coral-kingdoms",
+          "sea-pacts",
+          "starfall-reef"
+        ]
+      },
+      {
+        "people": "dragonborn",
+        "backgrounds": "Refugee of the Long War, Frontier Garrison-Born, Grey Coat",
+        "heritage_feat": "Clan-Sworn Scales",
+        "why_you_travel": "you fled the Imperium, you were born to a clan that did, or you came south to trade and never went back.",
+        "read_next": [
+          "dragonborn",
+          "northern-frontier",
+          "northern-frontier",
+          "humans",
+          "kobolds"
+        ]
+      },
+      {
+        "people": "dwarves",
+        "backgrounds": "Guild Journeyman, Factor, Chartwright's Apprentice",
+        "heritage_feat": "The Old Score",
+        "why_you_travel": "a debt in the Tally sent you, a Reckoners' clerkship bored you, or you saw something behind a walled-off gallery that nobody else will talk about.",
+        "read_next": [
+          "dwarves",
+          "below",
+          "krysta",
+          "mercantile-congress"
+        ]
+      },
+      {
+        "people": "elves",
+        "backgrounds": "Registry Scholar, Grove Warden, Chant-Keeper, Cold-Edge Whaler",
+        "heritage_feat": "Long Memory",
+        "why_you_travel": "a High Elf with an argument the Council lost a century ago; a Wood Elf following the green; a Sunwood chant-keeper carrying a dispute between the two laws of the south; a Frost Elf who stopped painting the skull and became Unpainted.",
+        "read_next": [
+          "elves",
+          "faewild",
+          "southern-wilds",
+          "icy-expanse"
+        ]
+      },
+      {
+        "people": "galven",
+        "backgrounds": "Grey Coat, Cold-Edge Whaler, Undertow Runner",
+        "heritage_feat": "Still-Water",
+        "why_you_travel": "every Galven sails. You may be a storm-pilot for hire, a weather-witch's apprentice, or a skirmisher on the boldest ship that would have you.",
+        "read_next": [
+          "galven",
+          "coral-kingdoms",
+          "savage-lords",
+          "coral-kingdoms",
+          "travel"
+        ]
+      },
+      {
+        "people": "gnomes",
+        "backgrounds": "Guild Journeyman, Registry Scholar, Chartwright's Apprentice",
+        "heritage_feat": "Tik's Spark",
+        "why_you_travel": "you opened something you shouldn't have, someone stole your design, or you need a part that only exists at the bottom of a wreck.",
+        "read_next": [
+          "gnomes",
+          "heartland",
+          "goldwind",
+          "university",
+          "krysta"
+        ]
+      },
+      {
+        "people": "goblinoids",
+        "backgrounds": "Undertow Runner, Longshore Hand, Guild Journeyman",
+        "heritage_feat": "Underestimated",
+        "why_you_travel": "someone underestimated you and you made them pay for it; the warren needs coin; or you found salvage too good to sell to anyone but yourself.",
+        "read_next": [
+          "goblinoids",
+          "below",
+          "mercantile-congress",
+          "kobolds"
+        ]
+      },
+      {
+        "people": "goliaths",
+        "backgrounds": "Iron Candidate, Cold-Edge Whaler, Frontier Garrison-Born",
+        "heritage_feat": "Every Feat Counted",
+        "why_you_travel": "you ran out of mountains; you lost a contest and need a bigger feat to win it back; or a Vorthani cousin asked you to carry something.",
+        "read_next": [
+          "goliaths",
+          "southern-wilds",
+          "vorthani",
+          "anvil-reach",
+          "hospitality"
+        ]
+      },
+      {
+        "people": "half-elves",
+        "backgrounds": "Factor, Undertow Runner, Chant-Keeper",
+        "heritage_feat": "Two Tables",
+        "why_you_travel": "you broker deals between people who would rather not meet, or you are tired of being only half of anything.",
+        "read_next": [
+          "half-elves",
+          "elves",
+          "humans",
+          "mercantile-congress"
+        ]
+      },
+      {
+        "people": "halflings",
+        "backgrounds": "Refugee of the Long War, Longshore Hand, Undertow Runner",
+        "heritage_feat": "Penny's Favor",
+        "why_you_travel": "a guest left without paying and took something precious; the river you pilot is changing; adventure happened within earshot, and you followed it.",
+        "read_next": [
+          "halflings",
+          "hospitality",
+          "button-badger",
+          "the-keeping"
+        ]
+      },
+      {
+        "people": "humans",
+        "backgrounds": "every background; a human's current suggests where to start",
+        "heritage_feat": "Many Rivers",
+        "why_you_travel": null,
+        "read_next": [
+          "humans",
+          "northern-frontier",
+          "southern-wilds",
+          "icy-expanse"
+        ]
+      },
+      {
+        "people": "kobolds",
+        "backgrounds": "Guild Journeyman, Undertow Runner, Longshore Hand",
+        "heritage_feat": "Warren Engineer",
+        "why_you_travel": "the warren sent you to learn something; a dragonborn needs adopting, whether they like it or not; or the warren collapsed and you are what is left.",
+        "read_next": [
+          "kobolds",
+          "below",
+          "dragonborn",
+          "button-badger"
+        ]
+      },
+      {
+        "people": "liriath",
+        "backgrounds": "Grove Warden, Chant-Keeper, Refugee of the Long War",
+        "heritage_feat": "Deep Roots",
+        "why_you_travel": "to treat, teach, and bargain for the groves; to hunt the crew that felled your family; or because a grove's last elder sent you with a message only you can carry.",
+        "read_next": [
+          "liriath",
+          "southern-wilds",
+          "cathedral-green",
+          "florians",
+          "southern-wilds"
+        ]
+      },
+      {
+        "people": "lizardfolk",
+        "backgrounds": "Saurian Handler, Grove Warden, Pearl Diver",
+        "heritage_feat": "Clamping Jaws",
+        "why_you_travel": "a bargain sent you; the tribe needs something only the colonies have; or you are studying them, and they are fascinating.",
+        "read_next": [
+          "lizardfolk",
+          "southern-wilds",
+          "southern-wilds",
+          "saurians",
+          "savage-lords"
+        ]
+      },
+      {
+        "people": "marked",
+        "backgrounds": "Factor, Undertow Runner, Registry Scholar",
+        "heritage_feat": "The Chosen Name",
+        "why_you_travel": "you owe a Marked debt, or are owed one; a house wants a fixer it can disown; or your light or your horns finally made a choice for you.",
+        "read_next": [
+          "marked",
+          "hospitality",
+          "mercantile-congress",
+          "concord"
+        ]
+      },
+      {
+        "people": "orcs",
+        "backgrounds": "Longshore Hand, Iron Candidate, Frontier Garrison-Born",
+        "heritage_feat": "The Telling",
+        "why_you_travel": "the Telling gave you a warning to carry; you earned a deed-name and want a better one; or someone is digging up the old empire and your line remembers why it was buried.",
+        "read_next": [
+          "orcs",
+          "southern-wilds",
+          "below",
+          "hunters"
+        ]
+      },
+      {
+        "people": "pocchin",
+        "backgrounds": "Factor, Undertow Runner, Guild Journeyman",
+        "heritage_feat": "Bellowed Titles",
+        "why_you_travel": "the family sent you to open a new trade; you are building a Hoard of your own; or a Deal someone broke needs settling.",
+        "read_next": [
+          "pocchin",
+          "grommoth",
+          "roof-goats",
+          "counting-jackdaw"
+        ]
+      },
+      {
+        "people": "sporrn",
+        "backgrounds": "Grove Warden, Refugee of the Long War, Chant-Keeper",
+        "heritage_feat": "Colony-Link",
+        "why_you_travel": "to trade, to warn, to flee a colony that began to sing, or out of slow curiosity about the soft-skinned peoples.",
+        "read_next": [
+          "sporrn",
+          "below",
+          "below",
+          "moss-sloth",
+          "liriath"
+        ]
+      },
+      {
+        "people": "tarvan",
+        "backgrounds": "Iron Candidate, Frontier Garrison-Born, Cold-Edge Whaler",
+        "heritage_feat": "Clan Weapon-Forms",
+        "why_you_travel": "every Tarvan met beyond the high country is a far-walker, one of the four or five in each generation born with the pull turned outward, or one of the seafaring Saltmanes.",
+        "read_next": [
+          "tarvan",
+          "northern-frontier",
+          "moorhorn",
+          "northern-frontier",
+          "hospitality"
+        ]
+      },
+      {
+        "people": "vorthani",
+        "backgrounds": "Iron Candidate, Grove Warden, Chant-Keeper",
+        "heritage_feat": "Foursworn",
+        "why_you_travel": "you are one of the Descended, walking the world by sanction to test your vows; one of the Unfinished, who broke a vow or Kindled and could not pay; or one of the Summitless, born in the lowlands with no mountain at all.",
+        "read_next": [
+          "vorthani",
+          "southern-wilds",
+          "anvil-reach",
+          "goliaths",
+          "cindren"
+        ]
+      }
+    ]
+  }
+}
