@@ -3,6 +3,7 @@ const $ = s => document.querySelector(s);
 const categories={place:{name:'Places',short:'Place',description:'From the northern strait to the far ice. Ports, regions, and wonders worth a voyage.',icon:'map'},people:{name:'Peoples',short:'People',description:'The many lives of the archipelago, and the customs that make each people their own.',icon:'leaf'},creature:{name:'Beasts & companions',short:'Creature',description:'Small lives that travel beside you, and great beasts that carry the load.',icon:'paw'},culture:{name:'Life & lore',short:'Life & lore',description:'The things islanders know: moons, money, magic, promises, and a place by the fire.',icon:'moon'},power:{name:'Powers & factions',short:'Power',description:'The institutions, guilds, and living powers whose influence crosses the water.',icon:'shield'}};
 
 Object.assign(categories,{
+ trade:{name:'Trade & wages',short:'Trade',description:"What a day's work is worth, and what every shore makes, sells, and needs.",icon:'compass'},
  gods:{name:'Gods & powers',short:'God',description:'The gods islanders name, honor, and argue with.',icon:'moon'},
  houses:{name:'Noble houses',short:'House',description:'Names, banners, and the obligations that travel with them.',icon:'shield'},
  'savage-lords':{name:'Savage Lords',short:'Savage Lord',description:'The great living powers of the wild world.',icon:'paw'},
@@ -125,8 +126,9 @@ function buildAliases(){const map=new Map();for(const e of entries){map.set(e.ti
 function linkify(text,current){
  const valid=aliases.filter(([,id])=>id!==current&&Pack2.canRead(id));const re=new RegExp('\\b('+valid.map(([name])=>name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|')+')\\b','gi');let result='',last=0;
  for(const m of text.matchAll(re)){const found=valid.find(([name])=>fold(name)===fold(m[0]));if(!found)continue;result+=esc(text.slice(last,m.index))+`<a class="wiki-link" href="#entry/${found[1]}">${esc(m[0])}</a>`;last=m.index+m[0].length}
- return result+esc(text.slice(last));
+ return emphasis(result+esc(text.slice(last)));
 }
+function emphasis(html){return html.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g,'$1<em>$2</em>')}
 function renderArticleSection(s,i,current){
  if(s.title==='Rumors'||s.title==='Rumores')return Pack2.rumorSection(s,i,current);
  let body=(s.paragraphs||[]).map(p=>'<p>'+linkify(p,current)+'</p>').join('');
@@ -216,8 +218,8 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 (async()=>{try{
- const response=await fetch('entries.json?v=14');if(!response.ok)throw new Error('Atlas unavailable');entries=await Pack2.prepare(await response.json());await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
- const optional=async name=>{try{const r=await fetch(name+'?v=14');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
+ const response=await fetch('entries.json?v=15');if(!response.ok)throw new Error('Atlas unavailable');entries=await Pack2.prepare(await response.json());await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
+ const optional=async name=>{try{const r=await fetch(name+'?v=15');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
  [rumors,timeline]=await Promise.all([optional('rumors.json'),optional('timeline.json')]);
  for(const e of entries)e.searchText=fold([e.title,e.summary,e.subtitle,e.region,categories[e.category].name,...(e.aliases||[]),...e.sections.flatMap(s=>[s.title,...(s.paragraphs||[]),...(s.list||[]),...(s.table?[s.table.caption,...s.table.headers,...s.table.rows.flat()]:[])]),...e.facts.flat(),creatureKinds[e.creatureKind]||''].join(' '));
  saved=new Set([...saved].filter(id=>byId[id]));buildAliases();renderMainNavigation();Pack2.nav();updateSavedCount();route();

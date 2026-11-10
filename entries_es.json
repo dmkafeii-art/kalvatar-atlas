@@ -10109,7 +10109,7 @@
     "title": "Bastion y el Jubilant",
     "paragraphs": [
      "Lord Johann Faust encabeza la Casa Faust, la Puerta del Norte, una de las Cinco grandes casas nobles. Gobierna desde Bastion y manda el Jubilant como Hunter célebre. Su autoridad pertenece tanto a una casa como a una compañía en el mar.",
-    "Johann ya está en sus cincuenta, aunque aparenta menos edad. Su pelo rubio oscuro, su bigote curvado de mosquetero y su perilla puntiaguda lo hacen fácil de reconocer tanto en la corte como a bordo.",
+     "Johann ya está en sus cincuenta, aunque aparenta menos edad. Su pelo rubio oscuro, su bigote curvado de mosquetero y su perilla puntiaguda lo hacen fácil de reconocer tanto en la corte como a bordo.",
      "Esas responsabilidades traen lealtades distintas. Una casa se sostiene en la familia, la herencia y la tierra; un mando Hunter, en el juramento de la orden y las personas que sirven a bordo. La lealtad dividida de Johann entre sangre y juramento es el conflicto privado del que más se habla en su casa."
     ]
    },
@@ -10297,7 +10297,7 @@
     "title": "Un barco como ningún otro",
     "paragraphs": [
      "Todo marinero ha oído hablar del Iron Swan. Su casco es de metal, sus chimeneas expulsan humo negro y avanza contra el viento sin una sola vela. Lo tripulan llamas vivas. Es el único barco de vapor del mundo.",
-    "Titania es hermosa de una manera casi sobrenatural, y su presencia resulta inquietante. Siempre va descalza: cualquier zapato que se ponga se quema. Sus ropas están hechas de metal y pieles de animales resistentes al fuego.",
+     "Titania es hermosa de una manera casi sobrenatural, y su presencia resulta inquietante. Siempre va descalza: cualquier zapato que se ponga se quema. Sus ropas están hechas de metal y pieles de animales resistentes al fuego.",
      "El barco responde a Titania, Hunter de oro. Su aspecto singular pertenece a las conversaciones de las islas: lo bastante inconfundible para que un puerto lo reconozca y lo bastante extraordinario para mantener vivas las historias de los muelles."
     ]
    },
@@ -11810,13 +11810,20 @@
     "title": "Leoric toma la cubierta",
     "paragraphs": [
      "Leoric tomó el mando del barco de su padre en pleno combate y siguió luchando. Su nombre entra en el relato de la batalla en el instante en que termina la participación de Magnus.",
-     "La Coalición venció y Blackheart murió, pero Serpentfang escapó en la noche. La historia del Sledgehammer guarda así un mando que continuó y una cuenta sin cerrar. Lo que Leoric conserva de su padre más allá de aquel día pertenece a las historias que cuentan los marineros."
+     "La Coalición venció y Blackheart murió, pero Serpentfang escapó en la noche. Leoric juró en la Maw vengar a su padre. Después no quiso capitanear el Sledgehammer ni un día más. Lo dejó a las órdenes del Lodge y se fue de las islas."
+    ]
+   },
+   {
+    "title": "El Sledgehammer desde entonces",
+    "paragraphs": [
+     "El Sledgehammer sigue navegando, a las órdenes del Lodge. En 174 EC, Leoric Thorne volvió a Goldwind bajo custodia de los Hunters, y el Lodge no ha dicho por qué."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Leoric mantiene vacía la silla de su padre en el alcázar del Sledgehammer, y se queda de pie a su lado.” (un Hunter del Lodge de Ventoro)"
+     "“Nadie se sienta en la silla del capitán en el alcázar del Sledgehammer. La tripulación dice que se guarda para un Thorne.” (un Hunter del Lodge de Goldwind)",
+     "“Se fue al continente y le vendió la espada a una dama con una guerra perdida. Lo que ella vino a buscar al sur, no se lo llevó a casa.” (un bebedor de los muelles de Goldwind)"
     ]
    }
   ],
@@ -11832,6 +11839,10 @@
    [
     "Lo mató",
     "Shade Serpentfang"
+   ],
+   [
+    "Leoric",
+    "Entregó el mando; volvió a Goldwind bajo custodia, 174 EC"
    ]
   ],
   "gloss": "el Capitán Magnus y Leoric"
@@ -12082,13 +12093,15 @@
     "title": "Panorama",
     "paragraphs": [
      "Avalan Grant es el capitán y maestro de ceremonias del Karnivool: un barco de Hunters y un espectáculo ambulante a la vez.",
-     "Su primer oficial y director es Henry Friend, y su intendente es Goodwing. En la compañía están Gibits Binclarg, un erudito gnomo; Trip, un malabarista semiorco; Flare, una tragafuegos semielfa de belleza famosa; y Brag, un cocinero enano."
+     "Su primer oficial y director es Henry Friend, y su intendente es Goodwing. En la compañía están Gibits Binclarg, un erudito gnomo; Trip, un malabarista semiorco; Flare, una tragafuegos semielfa de belleza famosa; y Brag, un cocinero enano.",
+     "Desde 174 EC la compañía tiene una más: Lucy Grant, una joven Hunter a quien Avalan adoptó como hija."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“El Karnivool vende entradas para sus propios contratos. La primera fila cuesta más, y la primera fila se moja.” (un cartel de Silverport)"
+     "“El Karnivool vende entradas para sus propios contratos. La primera fila cuesta más, y la primera fila se moja.” (un cartel de Silverport)",
+     "“Pregúntale a cualquier marinero del Karnivool por la última King Tide y te hablará de una isla que las canciones viejas llaman Anukáli, y de un leviatán que los siguió al norte, llamando como una ballena, hasta que se hundió. El Lodge dice que los del Karnivool beben.” (un tabernero de Goldwind)"
     ]
    }
   ],
@@ -12104,6 +12117,10 @@
    [
     "Intendente",
     "Goodwing"
+   ],
+   [
+    "Hija",
+    "Lucy Grant (adoptada, 174 EC)"
    ]
   ]
  },

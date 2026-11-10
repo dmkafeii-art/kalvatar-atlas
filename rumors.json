@@ -1,2313 +1,2332 @@
 [
-  {
-    "id": "rumor-1",
-    "text": "A whaler swears he counted an island off the southern lanes that was there on the way out and gone on the way home. The Chartwrights have filed it anyway.",
-    "heardAt": "heard among the Chartwrights",
-    "region": "All regions",
-    "entries": [
-      "kalvatar"
-    ]
-  },
-  {
-    "id": "rumor-2",
-    "text": "The Gate-Tithe is cheating us in both directions. It keeps the gold in Ironfort and sends the paper to Goldwind.",
-    "heardAt": "heard in the Northern Frontier",
-    "region": "Northern Frontier",
-    "entries": [
-      "northern-frontier",
-      "ironfort",
-      "goldwind",
-      "hospitality"
-    ]
-  },
-  {
-    "id": "rumor-3",
-    "text": "The Widow's Teeth are singing a new tune. The old women say a boat will be lost in the Gap before the Murk is over.",
-    "heardAt": "heard in the Northern Frontier",
-    "region": "Northern Frontier",
-    "entries": [
-      "northern-frontier",
-      "widows-teeth"
-    ]
-  },
-  {
-    "id": "rumor-4",
-    "text": "Johann Faust has been seen in a Greyhaven tavern with a man who wears the Last Psalm's badge. Nobody knows which side he means to take.",
-    "heardAt": "heard in the Northern Frontier",
-    "region": "Northern Frontier",
-    "entries": [
-      "northern-frontier",
-      "greyhaven",
-      "johann-faust"
-    ]
-  },
-  {
-    "id": "rumor-5",
-    "text": "Mortimer Vanris will sell the Stormguard to the Heartland before the year is out. His brother has already written to the Council about it.",
-    "heardAt": "heard in the Northern Frontier",
-    "region": "Northern Frontier",
-    "entries": [
-      "northern-frontier",
-      "heartland",
-      "house-vanris"
-    ]
-  },
-  {
-    "id": "rumor-6",
-    "text": "Tana Sukuun has sold a Dreadmaw to the Heartland. The buyer is a Vol Kaern agent, and the saurian is named after the Vol Kaern tower.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Central Heartland",
-    "entries": [
-      "heartland",
-      "southern-wilds",
-      "jakupur",
-      "saurians",
-      "dreadmaw",
-      "house-vol-kaern"
-    ]
-  },
-  {
-    "id": "rumor-7",
-    "text": "Dio Emberheart has been seen walking in the Sunhold gardens. The people who saw him say he was not quite the same man who walked there last year.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "Central Heartland",
-    "entries": [
-      "heartland",
-      "sunhold",
-      "house-emberheart"
-    ]
-  },
-  {
-    "id": "rumor-8",
-    "text": "Kastan Vol Kaern is buying Bastion's debts through the Zane house. He will own the Frontier's gate before the Council knows he has begun.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "Central Heartland",
-    "entries": [
-      "heartland",
-      "bastion",
-      "house-vol-kaern"
-    ]
-  },
-  {
-    "id": "rumor-9",
-    "text": "Sissix-the-Comet has lost a heat for the first time in two seasons. The jockey who beat her has a Vossreth brand on his wrist and no memory of the race.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "southern-wilds",
-      "swiftcrest",
-      "house-vossreth"
-    ]
-  },
-  {
-    "id": "rumor-10",
-    "text": "A Scarlet Mother's priest was seen in Southhaven buying the Fennick factors' coffee in bulk. Nobody says what he wants with so much of it.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "southern-wilds",
-      "brightleaf",
-      "southhaven",
-      "twelve-flags"
-    ]
-  },
-  {
-    "id": "rumor-11",
-    "text": "The Vorthani First Ascent has taken in a guest who will not carry a stone. The monks say she is not a guest.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "southern-wilds",
-      "vorthani",
-      "anvil-reach"
-    ]
-  },
-  {
-    "id": "rumor-12",
-    "text": "The Frost Elves have stopped raiding the Auroral Vault. The Frost Elves say Vukharr is dreaming of something new.",
-    "heardAt": "heard in the Icy Expanse",
-    "region": "Icy Expanse",
-    "entries": [
-      "icy-expanse",
-      "auroral-vault",
-      "elves",
-      "vukharr-the-white-hunger"
-    ]
-  },
-  {
-    "id": "rumor-13",
-    "text": "Mira has been seen at Crystalhaven with Granny Skerrow's grandson. A smuggler's heir is never seen with a wrecker's grandson unless one of them means to take the other's chair.",
-    "heardAt": "heard in the Icy Expanse",
-    "region": "Icy Expanse",
-    "entries": [
-      "icy-expanse",
-      "crystalhaven"
-    ]
-  },
-  {
-    "id": "rumor-14",
-    "text": "The black circle in the sky is spreading. A whale-fleet that sailed too far last year came back with the sky over its masts gone black.",
-    "heardAt": "heard in the Icy Expanse",
-    "region": "Icy Expanse",
-    "entries": [
-      "icy-expanse"
-    ]
-  },
-  {
-    "id": "rumor-15",
-    "text": "Emri has been seen swimming past the Drowned Colonnade with a bundle of silver on her back. Nobody has asked her what she is carrying.",
-    "heardAt": "heard in the Sea and the Coral Kingdoms",
-    "region": "The Sea",
-    "entries": [
-      "coral-kingdoms",
-      "drowned-colonnade"
-    ]
-  },
-  {
-    "id": "rumor-16",
-    "text": "The Red Choir has started singing on a quiet night, when there is no blood in the water. The Tidecallers say the song is coming up the Starfall Reef.",
-    "heardAt": "heard in the Sea and the Coral Kingdoms",
-    "region": "The Sea",
-    "entries": [
-      "coral-kingdoms",
-      "starfall-reef",
-      "concord",
-      "red-choir"
-    ]
-  },
-  {
-    "id": "rumor-17",
-    "text": "Pelagar has been buying the Starfall coral in bulk. The Glass Gardens have stopped trading with Pelagar in return.",
-    "heardAt": "heard in the Sea and the Coral Kingdoms",
-    "region": "The Sea",
-    "entries": [
-      "coral-kingdoms",
-      "glass-gardens",
-      "pearl-groove-and-the-pelagar-isle"
-    ]
-  },
-  {
-    "id": "rumor-18",
-    "text": "The Old Shells answered a question last month that no one had asked. The answer was the name of a ship, and the ship has not been seen since.",
-    "heardAt": "heard in the Sea and the Coral Kingdoms",
-    "region": "The Sea",
-    "entries": [
-      "coral-kingdoms",
-      "old-shells"
-    ]
-  },
-  {
-    "id": "rumor-19",
-    "text": "The spark ferrets at Ironfort customs won't go near one particular noble's luggage. They don't spark. They hide.",
-    "heardAt": "an Ironfort customs clerk",
-    "region": "Northern Frontier",
-    "entries": [
-      "ironfort",
-      "spark-ferret"
-    ]
-  },
-  {
-    "id": "rumor-20",
-    "text": "The dry road. The roads Below run island to island, and a smuggler who knew them could walk a cargo from Black Harbor to Goldwind without paying a single harbor due.",
-    "heardAt": "common talk",
-    "region": "Central Heartland",
-    "entries": [
-      "goldwind",
-      "below",
-      "black-harbor"
-    ]
-  },
-  {
-    "id": "rumor-21",
-    "text": "Sailors' songs count the great dragons of the world as nine. A Highspire star-reader once counted ten, and the University took her charts away.",
-    "heardAt": "a Highspire lens-grinder",
-    "region": "Central Heartland",
-    "entries": [
-      "highspire",
-      "university"
-    ]
-  },
-  {
-    "id": "rumor-22",
-    "text": "Highspire's astronomers keep one star on their charts that crosses the sky the wrong way.",
-    "heardAt": "a Starborn page",
-    "region": "Central Heartland",
-    "entries": [
-      "highspire"
-    ]
-  },
-  {
-    "id": "rumor-23",
-    "text": "A deep hum comes up through the floor of the Darlath mines at night, and the Cindren who work near it go dim.",
-    "heardAt": "an Everfall glassworker",
-    "region": "Central Heartland",
-    "entries": [
-      "everfall",
-      "cindren"
-    ]
-  },
-  {
-    "id": "rumor-24",
-    "text": "One crate of Darlath stone in twelve leaves Everfall marked 'broken' and is never seen at the refinery.",
-    "heardAt": "an Everfall carter",
-    "region": "Central Heartland",
-    "entries": [
-      "everfall",
-      "krysta",
-      "marked"
-    ]
-  },
-  {
-    "id": "rumor-25",
-    "text": "The Cindren of Everfall say the Glass Forest chimed thirteen times last Graveday, and it has only ever chimed in twelves.",
-    "heardAt": "an Ash Warden",
-    "region": "Central Heartland",
-    "entries": [
-      "everfall",
-      "glass-forest",
-      "cindren",
-      "cycle"
-    ]
-  },
-  {
-    "id": "rumor-26",
-    "text": "The dark elf at the Rusty Blade paid for his rooms with a coin nobody could name. Old Daun has nailed it over the bar.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "jakupur"
-    ]
-  },
-  {
-    "id": "rumor-27",
-    "text": "Pale moons. New Tides ring dull, say the scale-men of Fairweather, and they have started weighing them. The Mint says nothing.",
-    "heardAt": "common talk",
-    "region": "Icy Expanse",
-    "entries": [
-      "varan-port",
-      "two-moons-and-the-tides"
-    ]
-  },
-  {
-    "id": "rumor-28",
-    "text": "The Gilded Shallows are glowing at night now, even when the tide is low. The Concord says it is a blessing. The Registry says it is a fire.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "Central Heartland",
-    "entries": [
-      "gilded-shallows",
-      "concord",
-      "arcane-registry"
-    ]
-  },
-  {
-    "id": "rumor-29",
-    "text": "The Singing Cliffs sounded a chord last spring that no harbor-master had ever heard. The weather that followed was perfectly ordinary, which worried them more.",
-    "heardAt": "heard in Highspire",
-    "region": "Central Heartland",
-    "entries": [
-      "singing-cliffs"
-    ]
-  },
-  {
-    "id": "rumor-30",
-    "text": "The Cathedral Green's trees have started to grow new graves. The Liriath say it is their own dead, but no one of their kind has died in the Green in forty years.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "cathedral-green",
-      "liriath"
-    ]
-  },
-  {
-    "id": "rumor-31",
-    "text": "A Galven crew sailed into a storm off Stormreach and came back with every mark on their arms burning white, laughing.",
-    "heardAt": "heard at the Stormreach yards",
-    "region": "The Sea",
-    "entries": [
-      "galven"
-    ]
-  },
-  {
-    "id": "rumor-32",
-    "text": "A Florian in the Cathedral Green has seen four dawns, and the Liriath have stopped speaking above a whisper near her.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "florians"
-    ]
-  },
-  {
-    "id": "rumor-33",
-    "text": "A Tarvan on the Giant's Table heard the Sleeping Giant turn over in its sleep. She went home and sold every horse she had.",
-    "heardAt": "heard in the Northern Frontier",
-    "region": "Northern Frontier",
-    "entries": [
-      "tarvan",
-      "giants-table",
-      "sleeping-giant"
-    ]
-  },
-  {
-    "id": "rumor-34",
-    "text": "The Tobbin pride say Saffrane's famous Black Rose was theirs first, and that they still have the bill of sale.",
-    "heardAt": "a Pocchin, loudly",
-    "region": "Central Heartland",
-    "entries": [
-      "pocchin",
-      "silverport"
-    ]
-  },
-  {
-    "id": "rumor-35",
-    "text": "A Sporrn healer came up to Southhaven with medicine nobody asked for, three days before the fever arrived.",
-    "heardAt": "heard in Southhaven",
-    "region": "Below",
-    "entries": [
-      "sporrn"
-    ]
-  },
-  {
-    "id": "rumor-36",
-    "text": "A court envoy came ashore at Easthold with bells on both wrists and asked to speak to whoever keeps the harbor's oldest promise.",
-    "heardAt": "heard in Easthold",
-    "region": "The Sea",
-    "entries": [
-      "coral-peoples"
-    ]
-  },
-  {
-    "id": "rumor-37",
-    "text": "A lampet in Greyhaven brought up a gold ring nobody aboard had lost, and the harbor-master's wife has been very quiet since.",
-    "heardAt": "heard on the Greyhaven docks",
-    "region": "All regions",
-    "entries": [
-      "lampet"
-    ]
-  },
-  {
-    "id": "rumor-38",
-    "text": "The lighthouse keeper at Saltreach swears her mouse put its tail out the night a ship went by with no lights at all.",
-    "heardAt": "heard in a Frontier tavern",
-    "region": "All regions",
-    "entries": [
-      "lantern-mouse"
-    ]
-  },
-  {
-    "id": "rumor-39",
-    "text": "A courier's rainfrog sat on a Council dispatch through a whole shipwreck. The dispatch was dry. The courier was not so lucky.",
-    "heardAt": "heard among Harbinger crews",
-    "region": "All regions",
-    "entries": [
-      "pocket-rainfrog"
-    ]
-  },
-  {
-    "id": "rumor-40",
-    "text": "Somewhere below the coral there is a reef made entirely of buttons, and every button badger in the islands knows the way.",
-    "heardAt": "a tailor's back door",
-    "region": "Below",
-    "entries": [
-      "button-badger",
-      "below"
-    ]
-  },
-  {
-    "id": "rumor-41",
-    "text": "A button badger in Silverport keeps bringing home silver buttons with a house crest nobody can place.",
-    "heardAt": "heard in a Silverport tailor's shop",
-    "region": "All regions",
-    "entries": [
-      "button-badger"
-    ]
-  },
-  {
-    "id": "rumor-42",
-    "text": "They say a teacup moth will not warm a cup that has been poisoned. Nobody has been brave enough to test it twice.",
-    "heardAt": "heard in a Goldwind teahouse",
-    "region": "All regions",
-    "entries": [
-      "teacup-moth"
-    ]
-  },
-  {
-    "id": "rumor-43",
-    "text": "A great auroc broke its tether at Bastion and walked straight to the Tarvan moors, as if it knew the way.",
-    "heardAt": "heard in Bastion",
-    "region": "Northern Frontier",
-    "entries": [
-      "aurocs"
-    ]
-  },
-  {
-    "id": "rumor-44",
-    "text": "A Goldwind noble offered a fortune for a street child's mirror plover. The child said no, and the plover said something worse.",
-    "heardAt": "heard in Goldwind",
-    "region": "All regions",
-    "entries": [
-      "companions"
-    ]
-  },
-  {
-    "id": "rumor-45",
-    "text": "A hush owl went quiet at a wedding in Saltreach last Storm Water, and the groom has not been seen since.",
-    "heardAt": "a Frontier tavern",
-    "region": "Icy Expanse",
-    "entries": [
-      "calendar",
-      "hush-owl",
-      "saltreach"
-    ]
-  },
-  {
-    "id": "rumor-46",
-    "text": "Captain Blackstorm: he once outmaneuvered the whole Armada during a King Tide.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "The Sea",
-    "entries": [
-      "king-tide",
-      "armada",
-      "captain-blackstorm"
-    ]
-  },
-  {
-    "id": "rumor-47",
-    "text": "The new Tides are lighter than the old ones. The Mint says it is the wear of the dies.",
-    "heardAt": "heard on the Spire Floor",
-    "region": "All regions",
-    "entries": [
-      "coinage"
-    ]
-  },
-  {
-    "id": "rumor-48",
-    "text": "A Harbinger made Ironfort to Goldwind in eleven days. The Admiralty will not say how.",
-    "heardAt": "heard in Ironfort",
-    "region": "The Sea",
-    "entries": [
-      "travel"
-    ]
-  },
-  {
-    "id": "rumor-49",
-    "text": "A grandmother in Sunhold has a waybook whose blank last page has started filling itself in.",
-    "heardAt": "heard in Sunhold",
-    "region": "All regions",
-    "entries": [
-      "small-ways"
-    ]
-  },
-  {
-    "id": "rumor-50",
-    "text": "The Midnight Patron has been buying every old chart of the far south, and paying in uncut Krysta.",
-    "heardAt": "a Zal'Kareth chart-seller",
-    "region": "All regions",
-    "entries": [
-      "krysta",
-      "midnight-patron"
-    ]
-  },
-  {
-    "id": "rumor-51",
-    "text": "A memory-pearl sold in Pearl Groove shows a woman's face on the Sunken Thrones. She is looking up, and she is smiling.",
-    "heardAt": "heard in the Sea and the Coral Kingdoms",
-    "region": "The Sea",
-    "entries": [
-      "sea-pacts",
-      "pearl-groove-and-the-pelagar-isle",
-      "sunken-thrones"
-    ]
-  },
-  {
-    "id": "rumor-52",
-    "text": "Masons in seven dwarven holds have stopped talking about what they found on the shelf beside the wall.",
-    "heardAt": "a dwarven mason's apprentice",
-    "region": "Below",
-    "entries": [
-      "below",
-      "dwarves"
-    ]
-  },
-  {
-    "id": "rumor-53",
-    "text": "The dwarves have an old word for the drow, and they will not say it in front of a banker.",
-    "heardAt": "a Goldwind money-changer",
-    "region": "Below",
-    "entries": [
-      "below",
-      "dwarves"
-    ]
-  },
-  {
-    "id": "rumor-54",
-    "text": "Progeny of three different Lords were seen hunting side by side in the Southern Wilds, all chasing the same pale animal.",
-    "heardAt": "heard at the Jakupur Lodge",
-    "region": "All regions",
-    "entries": [
-      "savage-lords"
-    ]
-  },
-  {
-    "id": "rumor-55",
-    "text": "The empty chair in the Admiralty's High Command was dusted last week. Nobody admits to ordering it.",
-    "heardAt": "heard among Goldwind clerks",
-    "region": "Central Heartland",
-    "entries": [
-      "council"
-    ]
-  },
-  {
-    "id": "rumor-56",
-    "text": "The Platinum Ten walk among us. Nobody knows who they are.",
-    "heardAt": "common talk",
-    "region": "All regions",
-    "entries": [
-      "hunters"
-    ]
-  },
-  {
-    "id": "rumor-57",
-    "text": "The first of the Ten has held the top of the Ranking since before anyone's grandmother was born. The Chroniclers stopped writing down her age.",
-    "heardAt": "a Lodge Chronicler, after his third kellum",
-    "region": "All regions",
-    "entries": [
-      "hunters"
-    ]
-  },
-  {
-    "id": "rumor-58",
-    "text": "A giant of a Frost Elf walks the ice with a hooded priest who never eats. The Hunters posted a contract on him, and Albion Tempest took it.",
-    "heardAt": "a Frosthold Lodge clerk",
-    "region": "All regions",
-    "entries": [
-      "hunters",
-      "albion-tempest"
-    ]
-  },
-  {
-    "id": "rumor-59",
-    "text": "Siroc the Swift: he has escaped the Armada more than a dozen times.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "The Sea",
-    "entries": [
-      "armada",
-      "siroc-the-swift"
-    ]
-  },
-  {
-    "id": "rumor-60",
-    "text": "A Pursuer came to Southhaven hunting an oath-breaker, and the man she took away was a whaler who could not stop humming.",
-    "heardAt": "a Southhaven harbor-widow",
-    "region": "All regions",
-    "entries": [
-      "concord"
-    ]
-  },
-  {
-    "id": "rumor-61",
-    "text": "The Chartwrights keep the tortoise islands off the public charts. Ask a surveyor where they are and watch his tortoise look at him.",
-    "heardAt": "a Goldwind chart-shop",
-    "region": "All regions",
-    "entries": [
-      "chartwrights"
-    ]
-  },
-  {
-    "id": "rumor-62",
-    "text": "Two of the Twelve Flags have stopped speaking to each other on the Spire Floor, and every factor in Goldwind is buying rope.",
-    "heardAt": "heard on the Spire Floor",
-    "region": "Central Heartland",
-    "entries": [
-      "mercantile-congress"
-    ]
-  },
-  {
-    "id": "rumor-63",
-    "text": "The Registrar exists. He is a tall man in grey who visits the University's cellars at night, and the University denies he has ever come to the city.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "Central Heartland",
-    "entries": [
-      "university",
-      "arcane-registry"
-    ]
-  },
-  {
-    "id": "rumor-64",
-    "text": "The Sunhold terraces grow a brightleaf that the Registry buys every leaf of, and nobody has ever been allowed to taste it.",
-    "heardAt": "a Terrace Guild picker",
-    "region": "Central Heartland",
-    "entries": [
-      "arcane-registry",
-      "brightleaf",
-      "sunhold"
-    ]
-  },
-  {
-    "id": "rumor-65",
-    "text": "A hearth newt in Kaldmark slept on the same coal for a whole winter, and the hold that kept it lost no one to the cold.",
-    "heardAt": "heard in the Icy Expanse",
-    "region": "All regions",
-    "entries": [
-      "hearth-newt"
-    ]
-  },
-  {
-    "id": "rumor-66",
-    "text": "A cricket sang a whole crew to sleep the night their ship was boarded. The thieves took the cargo and left the cricket.",
-    "heardAt": "heard on the southern lanes",
-    "region": "All regions",
-    "entries": [
-      "lullaby-cricket"
-    ]
-  },
-  {
-    "id": "rumor-67",
-    "text": "A pair of promise doves were seen flying out to sea, both of them, together. Nobody wants to think about what that means.",
-    "heardAt": "a fishing village",
-    "region": "All regions",
-    "entries": [
-      "promise-doves"
-    ]
-  },
-  {
-    "id": "rumor-68",
-    "text": "A promise dove flew in circles over Goldwind for three days. Its mate's keeper had sailed into the fog off the Frontier, and the dove could not decide where she was.",
-    "heardAt": "heard in Goldwind",
-    "region": "All regions",
-    "entries": [
-      "promise-doves"
-    ]
-  },
-  {
-    "id": "rumor-69",
-    "text": "There's a mirror plover in Goldwind that talks like a man nobody in the city remembers.",
-    "heardAt": "the Goldwind docks",
-    "region": "All regions",
-    "entries": [
-      "mirror-plover"
-    ]
-  },
-  {
-    "id": "rumor-70",
-    "text": "A mirror plover in Easthold still talks like a captain who drowned eleven years ago. His widow brings it bread every morning.",
-    "heardAt": "heard in Easthold",
-    "region": "All regions",
-    "entries": [
-      "mirror-plover"
-    ]
-  },
-  {
-    "id": "rumor-71",
-    "text": "A pirate in irons at Ironfort walked free because his knot crab picked the rope on the gallows.",
-    "heardAt": "heard in Black Harbor",
-    "region": "All regions",
-    "entries": [
-      "knot-crab"
-    ]
-  },
-  {
-    "id": "rumor-72",
-    "text": "No leak rat will board the new Vindicator at Stormreach. The yard says it is the smell of fresh pitch. The crew says it isn't.",
-    "heardAt": "heard at the Stormreach yards",
-    "region": "All regions",
-    "entries": [
-      "leak-rat"
-    ]
-  },
-  {
-    "id": "rumor-73",
-    "text": "A gutter parrot in Hollowkey knows a Council admiral's private name for his wife, and says it every evening at the sixth bell.",
-    "heardAt": "heard in Hollowkey",
-    "region": "All regions",
-    "entries": [
-      "gutter-parrot"
-    ]
-  },
-  {
-    "id": "rumor-74",
-    "text": "A Greyhaven cormorant came back from the fog with a fish no one in the north had ever seen.",
-    "heardAt": "heard on the Frontier coast",
-    "region": "All regions",
-    "entries": [
-      "net-cormorant"
-    ]
-  },
-  {
-    "id": "rumor-75",
-    "text": "A noble's taster bat refused a cup at a Heartland wedding, and the groom's family left before dessert.",
-    "heardAt": "heard in the salons of Goldwind",
-    "region": "Central Heartland",
-    "entries": [
-      "taster-bat"
-    ]
-  },
-  {
-    "id": "rumor-76",
-    "text": "A counting jackdaw at the Reckoners' Hall will not sit on one clerk's desk. The clerk has asked to be moved.",
-    "heardAt": "heard on the Spire Floor",
-    "region": "Central Heartland",
-    "entries": [
-      "counting-jackdaw"
-    ]
-  },
-  {
-    "id": "rumor-77",
-    "text": "An ink octopus copied a stranger's face onto a ledger page. The stranger has been looking for that page ever since.",
-    "heardAt": "heard in a Goldwind counting-house",
-    "region": "Central Heartland",
-    "entries": [
-      "ink-octopus"
-    ]
-  },
-  {
-    "id": "rumor-78",
-    "text": "A sail-loft in Goldwind has a darning spider that only mends sails for ships that come home.",
-    "heardAt": "heard at the Goldwind sail-lofts",
-    "region": "Central Heartland",
-    "entries": [
-      "darning-spider"
-    ]
-  },
-  {
-    "id": "rumor-79",
-    "text": "Glider squirrels are carrying love notes across Goldwind's roofs for a noble daughter and a dock clerk. Half the city knows; her father does not.",
-    "heardAt": "heard on the Goldwind rooftops",
-    "region": "Central Heartland",
-    "entries": [
-      "glider-squirrel"
-    ]
-  },
-  {
-    "id": "rumor-80",
-    "text": "Silverport's gaming houses have started checking guests' pockets for geckos at the door.",
-    "heardAt": "heard in Silverport",
-    "region": "Central Heartland",
-    "entries": [
-      "fortune-gecko"
-    ]
-  },
-  {
-    "id": "rumor-81",
-    "text": "A bookmark silverfish in the University's library stopped on a page that is not in the book.",
-    "heardAt": "heard among University students",
-    "region": "Central Heartland",
-    "entries": [
-      "bookmark-silverfish"
-    ]
-  },
-  {
-    "id": "rumor-82",
-    "text": "A sailor's snail has been pointing out to sea for a month, toward no island on any chart.",
-    "heardAt": "heard in Saltreach",
-    "region": "Northern Frontier",
-    "entries": [
-      "homeward-snail"
-    ]
-  },
-  {
-    "id": "rumor-83",
-    "text": "Every drum hare on the Northreach moors drummed at once one night last winter, and nobody found anything at all.",
-    "heardAt": "heard among Northreach drovers",
-    "region": "Northern Frontier",
-    "entries": [
-      "drum-hare"
-    ]
-  },
-  {
-    "id": "rumor-84",
-    "text": "An echo finch in Bastion repeats a phrase in a voice nobody in the house recognizes.",
-    "heardAt": "heard in Bastion",
-    "region": "Northern Frontier",
-    "entries": [
-      "echo-finch"
-    ]
-  },
-  {
-    "id": "rumor-85",
-    "text": "A dreamcurl hedgehog left its sleeper's chest in the middle of the night and would not go back. The sleeper has not been the same.",
-    "heardAt": "heard in a Frontier hedgerow village",
-    "region": "Northern Frontier",
-    "entries": [
-      "dreamcurl-hedgehog"
-    ]
-  },
-  {
-    "id": "rumor-86",
-    "text": "A spark ferret at Ironfort's customs house went mad over a crate of 'pottery' bound north.",
-    "heardAt": "heard at the Ironfort Gate",
-    "region": "Northern Frontier",
-    "entries": [
-      "spark-ferret"
-    ]
-  },
-  {
-    "id": "rumor-87",
-    "text": "The thumb raptors of one Jakupur street have started hunting something too small for anyone else to see.",
-    "heardAt": "heard in Jakupur",
-    "region": "Southern Wilds",
-    "entries": [
-      "thumb-raptor"
-    ]
-  },
-  {
-    "id": "rumor-88",
-    "text": "A veil butterfly went clear as glass in the middle of a Goldwind ball, and stayed that way all night.",
-    "heardAt": "heard in the salons of Goldwind",
-    "region": "Southern Wilds",
-    "entries": [
-      "veil-butterfly"
-    ]
-  },
-  {
-    "id": "rumor-89",
-    "text": "A moss sloth's moss kept a Hunter alive for three days in the deep green, and the sloth would not leave until the healers came.",
-    "heardAt": "heard at the Jakupur Lodge",
-    "region": "Southern Wilds",
-    "entries": [
-      "moss-sloth"
-    ]
-  },
-  {
-    "id": "rumor-90",
-    "text": "A trail mongoose followed a stolen saddle across half the Wilds and led its person straight to a Southhaven magistrate's stable.",
-    "heardAt": "heard in Southhaven",
-    "region": "Southern Wilds",
-    "entries": [
-      "trail-mongoose"
-    ]
-  },
-  {
-    "id": "rumor-91",
-    "text": "A Frost Elf left a scarf stoat at a stranger's door in the Long Night, and the stranger lived.",
-    "heardAt": "heard in Frosthold",
-    "region": "Icy Expanse",
-    "entries": [
-      "scarf-stoat"
-    ]
-  },
-  {
-    "id": "rumor-92",
-    "text": "Every hush owl in a Snowvah graveyard puffed up at once on the last King Tide.",
-    "heardAt": "heard in the Icy Expanse",
-    "region": "Icy Expanse",
-    "entries": [
-      "hush-owl"
-    ]
-  },
-  {
-    "id": "rumor-93",
-    "text": "A landfall petrel led a lost whaler to an island that was not there when the Chartwrights went to look.",
-    "heardAt": "heard among the whalers",
-    "region": "Icy Expanse",
-    "entries": [
-      "landfall-petrel"
-    ]
-  },
-  {
-    "id": "rumor-94",
-    "text": "A pearl diver's seahorse blew its bubble for a drowning stranger, and the Glass Gardens sent the diver a pearl the next morning.",
-    "heardAt": "heard in Pearl Groove",
-    "region": "The Sea",
-    "entries": [
-      "bubble-seahorse"
-    ]
-  },
-  {
-    "id": "rumor-95",
-    "text": "Every tide anemone in Southhaven closed at noon on the same day last year, out of turn, for exactly as long as it takes to say a prayer.",
-    "heardAt": "a Southhaven harbor-widow",
-    "region": "The Sea",
-    "entries": [
-      "tide-anemone",
-      "southhaven"
-    ]
-  },
-  {
-    "id": "rumor-96",
-    "text": "An anemone on an Easthold windowsill knew the tide had turned at home, while its keeper was a month's sail away.",
-    "heardAt": "heard in Easthold",
-    "region": "The Sea",
-    "entries": [
-      "tide-anemone"
-    ]
-  },
-  {
-    "id": "rumor-97",
-    "text": "A lodge hound at the Jakupur Lodge has started tracking something the Board has not posted a contract for.",
-    "heardAt": "heard at the Jakupur Lodge",
-    "region": "All regions",
-    "entries": [
-      "lodge-hound"
-    ]
-  },
-  {
-    "id": "rumor-98",
-    "text": "A caravan's roof goats spotted bandits on the Frontier road a full hour before the drivers did, and the bandits are still wondering how.",
-    "heardAt": "heard on the Frontier roads",
-    "region": "All regions",
-    "entries": [
-      "roof-goats"
-    ]
-  },
-  {
-    "id": "rumor-99",
-    "text": "A tidehound at Greyhaven pulled a stranger out of the sea who will not say what ship he came from.",
-    "heardAt": "heard in Greyhaven",
-    "region": "All regions",
-    "entries": [
-      "tidehound"
-    ]
-  },
-  {
-    "id": "rumor-100",
-    "text": "A tern carried a doctor-wanted note to Ironfort's tower from a ship that never came into harbor.",
-    "heardAt": "heard at the Ironfort roadstead",
-    "region": "All regions",
-    "entries": [
-      "roadstead-tern"
-    ]
-  },
-  {
-    "id": "rumor-101",
-    "text": "The pod that guides ships through the Widow's Teeth has stopped answering one pilot's whistle.",
-    "heardAt": "heard in Greyhaven",
-    "region": "All regions",
-    "entries": [
-      "pilot-dolphins"
-    ]
-  },
-  {
-    "id": "rumor-102",
-    "text": "The customs house at Varan Port has started dragging the water under the piers. They have not found an eel yet.",
-    "heardAt": "heard in Varan Port",
-    "region": "All regions",
-    "entries": [
-      "courier-eel"
-    ]
-  },
-  {
-    "id": "rumor-103",
-    "text": "The Stillwrights' wrack cows refused to graze one honeywrack bed all summer, and that bed's kellum tasted wrong.",
-    "heardAt": "heard among the Stillwrights",
-    "region": "Central Heartland",
-    "entries": [
-      "wrack-cow"
-    ]
-  },
-  {
-    "id": "rumor-104",
-    "text": "A ferry turtle in the Heartland channels was late for the first time in sixty years. Nobody knows where it went for that hour.",
-    "heardAt": "heard on the Heartland channels",
-    "region": "Central Heartland",
-    "entries": [
-      "ferry-turtle"
-    ]
-  },
-  {
-    "id": "rumor-105",
-    "text": "The Reckoners' vault geese were silent the night a ledger went missing.",
-    "heardAt": "heard on the Spire Floor",
-    "region": "Central Heartland",
-    "entries": [
-      "vault-geese"
-    ]
-  },
-  {
-    "id": "rumor-106",
-    "text": "The swineherds swear the gutter pigs will not go down one alley in Goldwind's lower streets.",
-    "heardAt": "heard in Goldwind's lower streets",
-    "region": "Central Heartland",
-    "entries": [
-      "gutter-pigs"
-    ]
-  },
-  {
-    "id": "rumor-107",
-    "text": "An Aurelion smith says her bellows toad will not blow for blades meant for the Imperium.",
-    "heardAt": "heard in Aurelion",
-    "region": "Central Heartland",
-    "entries": [
-      "bellows-toad"
-    ]
-  },
-  {
-    "id": "rumor-108",
-    "text": "The dawn duck parade at Sunhold went the wrong way round the terraces one morning, and that season's leaf was the best in twenty years.",
-    "heardAt": "heard in Sunhold",
-    "region": "Central Heartland",
-    "entries": [
-      "terrace-ducks"
-    ]
-  },
-  {
-    "id": "rumor-109",
-    "text": "A Silverport silk farm is raising a moth whose silk shines in the dark. The other farms want to know how.",
-    "heardAt": "heard in Silverport",
-    "region": "Central Heartland",
-    "entries": [
-      "silverport-silkmoth"
-    ]
-  },
-  {
-    "id": "rumor-110",
-    "text": "A moorhorn herd walked off the Northreach moors in a single night, ribbons and all, and was found standing in a circle of stones.",
-    "heardAt": "heard among the Tarvan",
-    "region": "Northern Frontier",
-    "entries": [
-      "moorhorn"
-    ]
-  },
-  {
-    "id": "rumor-111",
-    "text": "A fishing family's kin-knit pattern turned up on a drowned man nobody in the village knew.",
-    "heardAt": "heard on the Frontier coast",
-    "region": "Northern Frontier",
-    "entries": [
-      "oilfleece-sheep"
-    ]
-  },
-  {
-    "id": "rumor-112",
-    "text": "The glint moles of one Frontier mine are digging down, not toward any vein, and the miners have stopped following.",
-    "heardAt": "heard in the Frontier mines",
-    "region": "Northern Frontier",
-    "entries": [
-      "glint-mole"
-    ]
-  },
-  {
-    "id": "rumor-113",
-    "text": "The herd otters of the Nine Mouths have started driving the fish away from one river village. The village has done something.",
-    "heardAt": "heard on the rivers of the Nine Mouths",
-    "region": "Southern Wilds",
-    "entries": [
-      "herd-otter"
-    ]
-  },
-  {
-    "id": "rumor-114",
-    "text": "A rimehound team stopped dead on the ice and would not go on. The sledge went around. The crevasse they smelled is still being measured.",
-    "heardAt": "heard in Frosthold",
-    "region": "Icy Expanse",
-    "entries": [
-      "rimehound"
-    ]
-  },
-  {
-    "id": "rumor-115",
-    "text": "The whale-wolves did not come for the tongue after the last kill. Frosthold has not decided whether to worry.",
-    "heardAt": "heard in Frosthold",
-    "region": "Icy Expanse",
-    "entries": [
-      "whale-wolves"
-    ]
-  },
-  {
-    "id": "rumor-116",
-    "text": "A strider crab walked out of the sea at a market harbor with no rider and a basket full of bells.",
-    "heardAt": "heard on the Heartland coast",
-    "region": "The Sea",
-    "entries": [
-      "strider-crab"
-    ]
-  },
-  {
-    "id": "rumor-117",
-    "text": "A tidesteed with an empty shell saddle has been seen off Easthold three nights running.",
-    "heardAt": "heard in Easthold",
-    "region": "The Sea",
-    "entries": [
-      "tidesteed"
-    ]
-  },
-  {
-    "id": "rumor-118",
-    "text": "One lamp-shoal in Thalassar has started swimming a new round, and the courts are arguing about where it leads.",
-    "heardAt": "heard among pearl divers",
-    "region": "The Sea",
-    "entries": [
-      "lamp-shoal"
-    ]
-  },
-  {
-    "id": "rumor-119",
-    "text": "Someone is selling reefpurple dye in Silverport at half the price. The Coral peoples want to know where it comes from.",
-    "heardAt": "heard in Silverport",
-    "region": "The Sea",
-    "entries": [
-      "reefpurple-whelk"
-    ]
-  },
-  {
-    "id": "rumor-120",
-    "text": "A haulbeetle in a dwarven tunnel stopped and would not move, and the miners found a door behind the rock it stopped at.",
-    "heardAt": "heard in a dwarven hold",
-    "region": "Below",
-    "entries": [
-      "haulbeetle"
-    ]
-  },
-  {
-    "id": "rumor-121",
-    "text": "An old chartback in Goldwind has a shell whose plates match an island no chart shows. Three surveyors have asked to buy its charts. It is not for sale.",
-    "heardAt": "heard among the Chartwrights",
-    "region": "All regions",
-    "entries": [
-      "chartback-tortoise"
-    ]
-  },
-  {
-    "id": "rumor-122",
-    "text": "A Pocchin family turned down a whole island for their oldest grommoth. Twice.",
-    "heardAt": "heard in a caravan camp",
-    "region": "All regions",
-    "entries": [
-      "grommoth"
-    ]
-  },
-  {
-    "id": "rumor-123",
-    "text": "A dragonborn veteran in Bastion still wears his imperial insignia, and the garrison has decided to let him.",
-    "heardAt": "heard in Bastion",
-    "region": "Northern Frontier",
-    "entries": [
-      "dragonborn"
-    ]
-  },
-  {
-    "id": "rumor-124",
-    "text": "The Cistern Door. At the bottom of Goldwind's oldest cistern is a dwarven wall, and someone has been working its mortar from the other side.",
-    "heardAt": "common talk",
-    "region": "Central Heartland",
-    "entries": [
-      "dwarves",
-      "cistern-door"
-    ]
-  },
-  {
-    "id": "rumor-125",
-    "text": "Drow eyes. A drow's eyes shine in the dark, and the older the drow, the dimmer they shine.",
-    "heardAt": "common talk",
-    "region": "All regions",
-    "entries": [
-      "elves"
-    ]
-  },
-  {
-    "id": "rumor-126",
-    "text": "Hrothgar Icevein: he hunts the Frost Elves who exiled him.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "elves",
-      "hrothgar-icevein"
-    ]
-  },
-  {
-    "id": "rumor-127",
-    "text": "A gnome workshop in Goldwind has built a clock that runs backward during the Still Days.",
-    "heardAt": "heard in Goldwind",
-    "region": "Central Heartland",
-    "entries": [
-      "gnomes"
-    ]
-  },
-  {
-    "id": "rumor-128",
-    "text": "A goblin at the Knot is wearing a Council admiral's hat and has a very good story about it.",
-    "heardAt": "heard at the Knot",
-    "region": "All regions",
-    "entries": [
-      "goblinoids"
-    ]
-  },
-  {
-    "id": "rumor-129",
-    "text": "A goliath came down from the high ranges with a bead nobody has the right to wear: one for climbing the Sky Anvil.",
-    "heardAt": "heard in the Anvil Reach",
-    "region": "Southern Wilds",
-    "entries": [
-      "goliaths"
-    ]
-  },
-  {
-    "id": "rumor-130",
-    "text": "A half-elf interpreter in Silverport has been offered a fortune to mistranslate a single word at a treaty table.",
-    "heardAt": "heard in Silverport",
-    "region": "All regions",
-    "entries": [
-      "half-elves"
-    ]
-  },
-  {
-    "id": "rumor-131",
-    "text": "A halfling inn on the Heartland river roads has never once run out of beds, however many guests arrive.",
-    "heardAt": "heard on the river roads",
-    "region": "All regions",
-    "entries": [
-      "halflings"
-    ]
-  },
-  {
-    "id": "rumor-132",
-    "text": "A Jakupur trader and a Frontier lord were seen drinking together in Goldwind, laughing. Both deny it.",
-    "heardAt": "heard in Goldwind",
-    "region": "All regions",
-    "entries": [
-      "humans"
-    ]
-  },
-  {
-    "id": "rumor-133",
-    "text": "A kobold warren under Duskmire has started selling maps of the tunnels below. Every map is a little different.",
-    "heardAt": "heard at the Knot",
-    "region": "All regions",
-    "entries": [
-      "kobolds"
-    ]
-  },
-  {
-    "id": "rumor-134",
-    "text": "A lizardfolk elder repainted herself in a pattern no one has worn in a hundred years.",
-    "heardAt": "heard in the great bogs",
-    "region": "Southern Wilds",
-    "entries": [
-      "lizardfolk"
-    ]
-  },
-  {
-    "id": "rumor-135",
-    "text": "An orc chieftain in the south is said to have buried a daemon-mask at sea, on purpose, with a Telling sung over it.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "All regions",
-    "entries": [
-      "orcs"
-    ]
-  },
-  {
-    "id": "rumor-136",
-    "text": "Someone drew steel at the Soldiers' Rest last winter. The springs ran cold for a week.",
-    "heardAt": "heard in Bastion",
-    "region": "Northern Frontier",
-    "entries": [
-      "soldiers-rest"
-    ]
-  },
-  {
-    "id": "rumor-137",
-    "text": "A swimmer reached the bottom of Malim's Stair laughing, without a scratch, and swore the river had carried her the whole way.",
-    "heardAt": "heard at the Laughing Water",
-    "region": "Southern Wilds",
-    "entries": [
-      "malims-stair"
-    ]
-  },
-  {
-    "id": "rumor-138",
-    "text": "A guide says one of the bones on the white flats has moved, a little, every year since he was a boy.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "bonewilds"
-    ]
-  },
-  {
-    "id": "rumor-139",
-    "text": "On the last night of the King Tide, a third moon was seen in the Mirrormere.",
-    "heardAt": "heard among the chant-keepers",
-    "region": "Southern Wilds",
-    "entries": [
-      "mirrormere"
-    ]
-  },
-  {
-    "id": "rumor-140",
-    "text": "Something pale has been walking the bottom of the Whalefall Gardens at low water, tending them.",
-    "heardAt": "heard in Frosthold",
-    "region": "Icy Expanse",
-    "entries": [
-      "whalefall-gardens"
-    ]
-  },
-  {
-    "id": "rumor-141",
-    "text": "The Stillwater has moved three leagues west. The Armada's charts say it has always been there. The sailors say it has always been moving.",
-    "heardAt": "heard in the Sea and the Coral Kingdoms",
-    "region": "The Sea",
-    "entries": [
-      "stillwater"
-    ]
-  },
-  {
-    "id": "rumor-142",
-    "text": "The Old Shells have surfaced at the Stillwater three times this year. They used to come up once in a generation.",
-    "heardAt": "a Last Psalm Tidecaller",
-    "region": "The Sea",
-    "entries": [
-      "stillwater",
-      "old-shells"
-    ]
-  },
-  {
-    "id": "rumor-143",
-    "text": "In one Frontier village the fire was lit every morning for a year after the last keeper died, and nobody ever saw who lit it.",
-    "heardAt": "heard on the Frontier",
-    "region": "All regions",
-    "entries": [
-      "the-keeping"
-    ]
-  },
-  {
-    "id": "rumor-144",
-    "text": "A Returning Cup in Easthold turned itself upright in the window, and the sailor it waited for walked in the next morning.",
-    "heardAt": "heard in Easthold",
-    "region": "All regions",
-    "entries": [
-      "hearth-customs"
-    ]
-  },
-  {
-    "id": "rumor-145",
-    "text": "A Goldwind stillhouse has a cask of Icebrand old enough to have come off the first whaling ships. It is not for sale, which is why everyone wants it.",
-    "heardAt": "heard in Goldwind",
-    "region": "All regions",
-    "entries": [
-      "kellum"
-    ]
-  },
-  {
-    "id": "rumor-146",
-    "text": "A wild swordtooth pack has learned to wait outside Jakupur's gates at the hour the caravans leave.",
-    "heardAt": "heard in Jakupur",
-    "region": "Southern Wilds",
-    "entries": [
-      "swordtooth"
-    ]
-  },
-  {
-    "id": "rumor-147",
-    "text": "A Jakupur noble walled his garden with live thornbacks instead of stone. His neighbors sleep badly.",
-    "heardAt": "heard in Jakupur",
-    "region": "Southern Wilds",
-    "entries": [
-      "thornback"
-    ]
-  },
-  {
-    "id": "rumor-148",
-    "text": "A lashtail in the Maw-Pit broke three shields in one bout and then refused to fight anyone without one.",
-    "heardAt": "heard at the Maw-Pit",
-    "region": "Southern Wilds",
-    "entries": [
-      "lashtail"
-    ]
-  },
-  {
-    "id": "rumor-149",
-    "text": "A glidetalon carried a scout's message forty miles over the jungle in a single afternoon, and the scout has never been found.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "glidetalon"
-    ]
-  },
-  {
-    "id": "rumor-150",
-    "text": "A Skyfin rider claims she flew high enough to see the whole south at once, and that something was looking back.",
-    "heardAt": "heard in Jakupur",
-    "region": "Southern Wilds",
-    "entries": [
-      "skyfin"
-    ]
-  },
-  {
-    "id": "rumor-151",
-    "text": "The oldest loamback in Jakupur's quarries will only haul stone for one family, and that family is three generations dead.",
-    "heardAt": "heard in Jakupur",
-    "region": "Southern Wilds",
-    "entries": [
-      "loamback"
-    ]
-  },
-  {
-    "id": "rumor-152",
-    "text": "An altisaur carried a wedding party across a flooded river without spilling a single cup.",
-    "heardAt": "heard on the Jakupur road",
-    "region": "Southern Wilds",
-    "entries": [
-      "altisaur"
-    ]
-  },
-  {
-    "id": "rumor-153",
-    "text": "A craghorn gored a tax collector in a southern village and the magistrate ruled it self-defense.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "craghorn"
-    ]
-  },
-  {
-    "id": "rumor-154",
-    "text": "A murkstrider walked a lost child home through the bog and would not leave until it was fed.",
-    "heardAt": "heard among the bog-tribes",
-    "region": "Southern Wilds",
-    "entries": [
-      "murkstrider"
-    ]
-  },
-  {
-    "id": "rumor-155",
-    "text": "A trader camped for a week on an island in the delta. On the eighth morning the island left.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "mirewallow"
-    ]
-  },
-  {
-    "id": "rumor-156",
-    "text": "The razorfins of one river have stopped taking the bait, and the boatmen say they are waiting for something bigger.",
-    "heardAt": "heard on the Murkstrider routes",
-    "region": "Southern Wilds",
-    "entries": [
-      "razorfin"
-    ]
-  },
-  {
-    "id": "rumor-157",
-    "text": "A bellowback herd lay down all at once on the savanna and would not rise until the earthquake had passed.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "bellowback"
-    ]
-  },
-  {
-    "id": "rumor-158",
-    "text": "Every cluckmaw in a Jakupur village laid an egg with a red speckle on the same morning.",
-    "heardAt": "heard in Jakupur",
-    "region": "Southern Wilds",
-    "entries": [
-      "cluckmaw"
-    ]
-  },
-  {
-    "id": "rumor-159",
-    "text": "A Jakupur scribe swears his quillhen's quills only write the truth.",
-    "heardAt": "heard in Jakupur",
-    "region": "Southern Wilds",
-    "entries": [
-      "quillhen"
-    ]
-  },
-  {
-    "id": "rumor-160",
-    "text": "The White Flame's bounty on wild gloamhides was paid twice last year, both times for the same animal.",
-    "heardAt": "heard in Jakupur",
-    "region": "Southern Wilds",
-    "entries": [
-      "gloamhide"
-    ]
-  },
-  {
-    "id": "rumor-162",
-    "text": "Nobody has ever painted the Imperium's Grand Inquisitor. The Frontier spies who claim to have seen him won't say what he looked like.",
-    "heardAt": "an Ironfort customs clerk",
-    "region": "All regions",
-    "entries": [
-      "assios-and-the-wider-world"
-    ]
-  },
-  {
-    "id": "rumor-163",
-    "text": "Sailors back from Khard Muur say Valengrad crowned King Rune last year. They crowned him the year before too, and he was buried in between.",
-    "heardAt": "a sailor back from the west",
-    "region": "The Sea",
-    "entries": [
-      "assios-and-the-wider-world",
-      "xathnatraz"
-    ]
-  },
-  {
-    "id": "rumor-164",
-    "text": "The Wrong Coast. The quarantined waters of the far south are \"plague waters,\" the Council says. Southern sailors tell stories of grey ships with no names that sail without lanterns, and of the Hum: a note under hearing that you feel in the hull on calm nights. Never hum along.",
-    "heardAt": "common talk",
-    "region": "All regions",
-    "entries": [
-      "wrong-coast",
-      "southern-quarantine"
-    ]
-  },
-  {
-    "id": "rumor-165",
-    "text": "Goldspire's heir was seen at a pawnbroker's on the Duskmire road, in a borrowed cloak.",
-    "heardAt": "a Duskmire pawnbroker's boy",
-    "region": "Central Heartland",
-    "entries": [
-      "duskmire-haven"
-    ]
-  },
-  {
-    "id": "rumor-166",
-    "text": "Goldwind's lamps burn cleaner since Frosthold changed its oil. The lamplighters say the smoke smells faintly of coins.",
-    "heardAt": "a Goldwind lamplighter",
-    "region": "Icy Expanse",
-    "entries": [
-      "frosthold"
-    ]
-  },
-  {
-    "id": "rumor-167",
-    "text": "Reinhardt Holst buys a drink for every old pirate in Hollowkey and asks each of them the same question: whose colors sank the Sea Seraph?",
-    "heardAt": "a Hollowkey barkeep",
-    "region": "Southern Wilds",
-    "entries": [
-      "hollowkey",
-      "reinhardt-holst"
-    ]
-  },
-  {
-    "id": "rumor-168",
-    "text": "Damyel's ship made Mumit from Southhaven in five days, against the wind. The fastest Justicar in the Emerald Wrath needs two weeks.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "southhaven",
-      "nine-fleets"
-    ]
-  },
-  {
-    "id": "rumor-169",
-    "text": "Stormwater from the Stormreach spring tastes of the sea where it used to taste of rock.",
-    "heardAt": "heard in the Northern Frontier",
-    "region": "Northern Frontier",
-    "entries": [
-      "stormreach"
-    ]
-  },
-  {
-    "id": "rumor-170",
-    "text": "Fishers off Stormreach netted a brass hatch the size of a door, with a wheel on it.",
-    "heardAt": "a Stormreach fishwife",
-    "region": "Northern Frontier",
-    "entries": [
-      "stormreach"
-    ]
-  },
-  {
-    "id": "rumor-171",
-    "text": "Don't sail west. Out past the edge of the charts lies cursed Xathnatraz, the isle where the dark of the old Eon was sealed. Ships that go looking for it come back with fewer people, or not at all.",
-    "heardAt": "common talk",
-    "region": "The Sea",
-    "entries": [
-      "xathnatraz"
-    ]
-  },
-  {
-    "id": "rumor-172",
-    "text": "The Maw-Pit is holding a fight this month that does not have a condemned man in it. It has a child.",
-    "heardAt": "heard in the Southern Wilds",
-    "region": "Southern Wilds",
-    "entries": [
-      "maw-pit"
-    ]
-  },
-  {
-    "id": "rumor-173",
-    "text": "Abyssara: what falls into the southwestern trench does not come back; what comes back is changed.",
-    "heardAt": "common talk",
-    "region": "The Sea",
-    "entries": [
-      "abyssara-the-black-below"
-    ]
-  },
-  {
-    "id": "rumor-174",
-    "text": "Someone is buying every reefpurple dye that comes through Pearl Groove. The Council cannot find the buyer, and the Pelagar house will not say.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "The Sea",
-    "entries": [
-      "pearl-groove-and-the-pelagar-isle",
-      "dress-and-the-five-glance-read"
-    ]
-  },
-  {
-    "id": "rumor-175",
-    "text": "The center socket. The Spire Floor has a thirteenth flag-socket at its center that has never held a flag, and the Charterhouse Company wants it very badly.",
-    "heardAt": "common talk",
-    "region": "All regions",
-    "entries": [
-      "charterhouse-company"
-    ]
-  },
-  {
-    "id": "rumor-176",
-    "text": "Theodora Nightshade: she has slipped in and out of the Reckoners' Hall.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "reckoners-hall",
-      "theodora-nightshade"
-    ]
-  },
-  {
-    "id": "rumor-177",
-    "text": "The Rose House signs every contract twice: once in ink, and once in something that does not dry.",
-    "heardAt": "a Goldwind scrivener",
-    "region": "All regions",
-    "entries": [
-      "house-alastor"
-    ]
-  },
-  {
-    "id": "rumor-178",
-    "text": "Lady Xanthea Alastor and Lady Lysandria Caelvaron dance together at every Veldane wedding, and at no other.",
-    "heardAt": "a Veldane wedding-guest",
-    "region": "All regions",
-    "entries": [
-      "house-alastor",
-      "house-caelvaron",
-      "house-veldane"
-    ]
-  },
-  {
-    "id": "rumor-179",
-    "text": "Halsof Varselis has been asked to take the Five's chair, and he has said no three times. The fourth time he may say yes.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "All regions",
-    "entries": [
-      "house-varselis"
-    ]
-  },
-  {
-    "id": "rumor-180",
-    "text": "The Long Night will be early this year. The Brine Brotherhood's oil-houses are already sold for the next two winters.",
-    "heardAt": "heard in the Icy Expanse",
-    "region": "Icy Expanse",
-    "entries": [
-      "festivals-of-the-ice"
-    ]
-  },
-  {
-    "id": "rumor-181",
-    "text": "Every year on the night of the Maw, someone leaves a red-bladed knife on the reef where Blackheart fell.",
-    "heardAt": "a Maw salvager",
-    "region": "All regions",
-    "entries": [
-      "battle-of-the-krakens-maw"
-    ]
-  },
-  {
-    "id": "rumor-182",
-    "text": "Children in Goldwind say the Council Hall's copper weathervane turns to face Lactinius Windcaller wherever he walks.",
-    "heardAt": "a Goldwind schoolyard",
-    "region": "All regions",
-    "entries": [
-      "lactinius-windcaller"
-    ]
-  },
-  {
-    "id": "rumor-183",
-    "text": "Nobody has ever seen the Iron Swan take on coal.",
-    "heardAt": "every dockside in the islands",
-    "region": "All regions",
-    "entries": [
-      "titania-and-the-iron-swan"
-    ]
-  },
-  {
-    "id": "rumor-184",
-    "text": "\"Painted\" Cora: she leaves a painted red rose on every ship she plunders.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "painted-cora"
-    ]
-  },
-  {
-    "id": "rumor-185",
-    "text": "\"Painted\" Cora: she can make herself look like anyone.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "painted-cora"
-    ]
-  },
-  {
-    "id": "rumor-186",
-    "text": "\"Painted\" Cora: she is searching for the Brush of Creation.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "painted-cora"
-    ]
-  },
-  {
-    "id": "rumor-187",
-    "text": "\"Red\" Mara: a map is tattooed on her back in sea serpent's blood.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "red-mara"
-    ]
-  },
-  {
-    "id": "rumor-188",
-    "text": "\"Red\" Mara: her crew is bound to her by an unbreakable oath of the sea.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "red-mara"
-    ]
-  },
-  {
-    "id": "rumor-189",
-    "text": "\"Red\" Mara: she keeps a hidden cove where runaway slaves are sheltered.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "red-mara"
-    ]
-  },
-  {
-    "id": "rumor-190",
-    "text": "\"Silverfin\" Davin: his charm turns enemies into friends.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "silverfin-davin"
-    ]
-  },
-  {
-    "id": "rumor-191",
-    "text": "\"Silverfin\" Davin: he once jumped overboard in a raid to save a drowning child.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "silverfin-davin"
-    ]
-  },
-  {
-    "id": "rumor-192",
-    "text": "\"Silverfin\" Davin: a mermaid's curse keeps him at sea.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "silverfin-davin"
-    ]
-  },
-  {
-    "id": "rumor-193",
-    "text": "\"Storm-Eye\" Jorvik: he predicts storms weeks before they come.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "storm-eye-jorvik"
-    ]
-  },
-  {
-    "id": "rumor-194",
-    "text": "\"Storm-Eye\" Jorvik: he has a pact with the spirits of the sea.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "storm-eye-jorvik"
-    ]
-  },
-  {
-    "id": "rumor-195",
-    "text": "\"Storm-Eye\" Jorvik: his missing eye sees the truth in every heart.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "storm-eye-jorvik"
-    ]
-  },
-  {
-    "id": "rumor-196",
-    "text": "Arcturus Ironheart: his ship is plated in iron and cannot be sunk.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "arcturus-ironheart"
-    ]
-  },
-  {
-    "id": "rumor-197",
-    "text": "Arcturus Ironheart: his cannons fire by steam.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "arcturus-ironheart"
-    ]
-  },
-  {
-    "id": "rumor-198",
-    "text": "Arcturus Ironheart: his blades are stronger than anything else at sea.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "arcturus-ironheart"
-    ]
-  },
-  {
-    "id": "rumor-199",
-    "text": "Azura Blackbeak: her singing voice lures ships onto her guns.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "azura-blackbeak-the-siren-of-the-seas"
-    ]
-  },
-  {
-    "id": "rumor-200",
-    "text": "Azura Blackbeak: her crew is all women and has never lost a boarding.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "azura-blackbeak-the-siren-of-the-seas"
-    ]
-  },
-  {
-    "id": "rumor-201",
-    "text": "Bellamy the Bold: he escaped the gallows by charming the executioner.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "bellamy-the-bold"
-    ]
-  },
-  {
-    "id": "rumor-202",
-    "text": "Bellamy the Bold: he has a map to a city of gold and lacks only the key.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "bellamy-the-bold"
-    ]
-  },
-  {
-    "id": "rumor-203",
-    "text": "Bellamy the Bold: his parrot is a rival captain, transformed.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "bellamy-the-bold"
-    ]
-  },
-  {
-    "id": "rumor-204",
-    "text": "Captain Blackstorm: he commands the dead with whispered words.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "captain-blackstorm"
-    ]
-  },
-  {
-    "id": "rumor-205",
-    "text": "Captain Blackstorm: he wears the lost Ring of Depths, which gives him power over sea creatures.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "captain-blackstorm"
-    ]
-  },
-  {
-    "id": "rumor-206",
-    "text": "Captain Sabletooth: his cannons never miss.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "captain-sabletooth"
-    ]
-  },
-  {
-    "id": "rumor-207",
-    "text": "Captain Sabletooth: he found the lost Dwarven Forge under the sea.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "captain-sabletooth"
-    ]
-  },
-  {
-    "id": "rumor-208",
-    "text": "Captain Sabletooth: he is searching for the Hammer of the Deep.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "captain-sabletooth"
-    ]
-  },
-  {
-    "id": "rumor-209",
-    "text": "Captain Umbrel: he is never seen by day and strikes only at night.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "captain-umbrel"
-    ]
-  },
-  {
-    "id": "rumor-210",
-    "text": "Captain Umbrel: his ship appears and vanishes like a mirage.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "captain-umbrel"
-    ]
-  },
-  {
-    "id": "rumor-211",
-    "text": "Captain Umbrel: he stole an invisible cloak from the Skein.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "captain-umbrel",
-      "undertow"
-    ]
-  },
-  {
-    "id": "rumor-212",
-    "text": "Corvath Stormbringer: he cannot die.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "corvath-stormbringer"
-    ]
-  },
-  {
-    "id": "rumor-213",
-    "text": "Corvath Stormbringer: his crew are ghosts that steel passes through.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "corvath-stormbringer"
-    ]
-  },
-  {
-    "id": "rumor-214",
-    "text": "Corvath Stormbringer: he throws lightning from his own hands.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "corvath-stormbringer"
-    ]
-  },
-  {
-    "id": "rumor-215",
-    "text": "Crimson Legion recruiters pay in coin filed smooth, so you can't see whose face was on it.",
-    "heardAt": "a deserter in Southhaven",
-    "region": "All regions",
-    "entries": [
-      "crimson-legion"
-    ]
-  },
-  {
-    "id": "rumor-216",
-    "text": "A Legion deserter swears the Scarlet Mother bleeds like anyone else, and limps on cold mornings.",
-    "heardAt": "the same deserter, later",
-    "region": "All regions",
-    "entries": [
-      "crimson-legion"
-    ]
-  },
-  {
-    "id": "rumor-217",
-    "text": "Grogar the Relentless: he survived a duel with a kraken and wears its eye as a trophy.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "grogar-the-relentless"
-    ]
-  },
-  {
-    "id": "rumor-218",
-    "text": "Grogar the Relentless: his war cries carry over the worst storms.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "grogar-the-relentless"
-    ]
-  },
-  {
-    "id": "rumor-219",
-    "text": "Grogar the Relentless: he means to unite every orc pirate under his banner.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "grogar-the-relentless"
-    ]
-  },
-  {
-    "id": "rumor-220",
-    "text": "Hrothgar Icevein: his breath freezes a man where he stands.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "hrothgar-icevein"
-    ]
-  },
-  {
-    "id": "rumor-221",
-    "text": "The Iceblade Twins: they freeze an enemy's blood with a look.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "iceblade-twins"
-    ]
-  },
-  {
-    "id": "rumor-222",
-    "text": "The Iceblade Twins: their ship sails on a road of ice, even in warm water.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "iceblade-twins"
-    ]
-  },
-  {
-    "id": "rumor-223",
-    "text": "The Iceblade Twins: they stole the Crown of Winter.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "iceblade-twins"
-    ]
-  },
-  {
-    "id": "rumor-224",
-    "text": "Kaida Dragonfire: her scales turn steel.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "kaida-dragonfire"
-    ]
-  },
-  {
-    "id": "rumor-225",
-    "text": "Kaida Dragonfire: she breathes fire.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "kaida-dragonfire"
-    ]
-  },
-  {
-    "id": "rumor-226",
-    "text": "Kaida Dragonfire: she can smell a ship over the horizon.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "kaida-dragonfire"
-    ]
-  },
-  {
-    "id": "rumor-227",
-    "text": "Lirelai the Siren: her voice can calm the wildest storm.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "lirelai-the-siren"
-    ]
-  },
-  {
-    "id": "rumor-228",
-    "text": "Lirelai the Siren: a sea dragon saved her as a child, and she speaks its tongue.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "lirelai-the-siren"
-    ]
-  },
-  {
-    "id": "rumor-229",
-    "text": "Lirelai the Siren: she owns a mirror that shows distant shores.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "lirelai-the-siren"
-    ]
-  },
-  {
-    "id": "rumor-230",
-    "text": "Morga Stormdrum: her shaman's drum calls the storms.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "morga-stormdrum"
-    ]
-  },
-  {
-    "id": "rumor-231",
-    "text": "Morga Stormdrum: she speaks to the beasts of the sea and they obey.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "morga-stormdrum"
-    ]
-  },
-  {
-    "id": "rumor-232",
-    "text": "Morga Stormdrum: her eyes turn the color of a stormy sea when she is angry.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "morga-stormdrum"
-    ]
-  },
-  {
-    "id": "rumor-233",
-    "text": "The Quiet Auction: a floating black-market auction of relics and drowned wonders, by invitation only, never once raided.",
-    "heardAt": "common talk",
-    "region": "All regions",
-    "entries": [
-      "quiet-auction"
-    ]
-  },
-  {
-    "id": "rumor-234",
-    "text": "Seren Blackheart: her father's ghost guides her in battle.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "seren-blackheart-the-last-smile"
-    ]
-  },
-  {
-    "id": "rumor-235",
-    "text": "Seren Blackheart: she knows where the Kraken's Lair lies.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "seren-blackheart-the-last-smile"
-    ]
-  },
-  {
-    "id": "rumor-236",
-    "text": "Seren Blackheart: a sea witch's pact gives her unnatural skill.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "seren-blackheart-the-last-smile"
-    ]
-  },
-  {
-    "id": "rumor-237",
-    "text": "Siroc the Swift: he can outrun the wind and vanish into thin air.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "siroc-the-swift"
-    ]
-  },
-  {
-    "id": "rumor-238",
-    "text": "Siroc the Swift: he carries an ancient elven artifact that commands the winds.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "siroc-the-swift"
-    ]
-  },
-  {
-    "id": "rumor-239",
-    "text": "Theodora Nightshade: she keeps a collection of every poison in the islands.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "theodora-nightshade"
-    ]
-  },
-  {
-    "id": "rumor-240",
-    "text": "Theodora Nightshade: no lock has ever held her.",
-    "heardAt": "the docks, about the Most Wanted",
-    "region": "All regions",
-    "entries": [
-      "theodora-nightshade"
-    ]
-  },
-  {
-    "id": "rumor-241",
-    "text": "A blackened copper Bit on a dead man's tongue means one thing in the Undertow: don't ask.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "All regions",
-    "entries": [
-      "undertow"
-    ]
-  },
-  {
-    "id": "rumor-242",
-    "text": "The Undertow: the smuggler's web that moves what the harbors won't. Everyone has a cousin who knows someone.",
-    "heardAt": "common talk",
-    "region": "All regions",
-    "entries": [
-      "undertow"
-    ]
-  },
-  {
-    "id": "rumor-faust-unacknowledged-son",
-    "text": "A few of Johann Faust’s relatives suspect he may have a son born out of wedlock. None of them can agree on who the mother might have been.",
-    "heardAt": "whispered among the Faust family",
-    "region": "Northern Frontier",
-    "entries": [
-      "johann-faust"
-    ]
-  },
-  {
-    "id": "rumor-hyacinth-reinhardt-midsummer",
-    "text": "“Hyacinth Alastor and Reinhardt Holst were seen together at Lord Vanris’s Midsummer Gala. A chance conversation, they say. Of course. The drawing rooms are already wondering whether there is something more between the Rose House’s heir and the disinherited Holst.” (whispered behind a silk fan)",
-    "heardAt": "whispered in noble drawing rooms after Lord Vanris’s Midsummer Gala",
-    "region": "Central Heartland",
-    "entries": [
-      "hyacinth-alastor",
-      "reinhardt-holst",
-      "house-vanris",
-      "goldwind"
-    ]
-  },
-  {
-    "id": "rumor-giant-betta-heartland-pool",
-    "text": "“His lordship says the second pool is for a different color. The man who delivered the fish asked where the guests would place their wagers.” (a Heartland household servant)",
-    "heardAt": "heard among the servants of a Heartland household",
-    "region": "Central Heartland",
-    "entries": [
-      "giant-betta",
-      "heartland",
-      "jakupur"
-    ]
-  },
-  {
-    "id": "rumor-vellune-radan-hat",
-    "text": "He has a year’s salary now and still comes in just to ask what she thinks of his hat.",
-    "heardAt": "a customer at Vellune, on Radan Sunmere",
-    "region": "Central Heartland",
-    "entries": [
-      "vellune-finery-enchantments",
-      "lysandra-vellune",
-      "radan-sunmere"
-    ]
-  },
-  {
-    "id": "rumor-stormchanter-alliance",
-    "text": "For the first time in seventy years, the Stormchanters are talking about joining the other orc tribes in a war.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "Central Heartland",
-    "entries": [
-      "storm-listeners",
-      "orc-tribes"
-    ]
-  },
-  {
-    "id": "rumor-stormchanter-thunderbird-egg",
-    "text": "A thunderbird egg rests at the very top of the Stormchanters’ shrine. They say the tribe is keeping watch over it.",
-    "heardAt": "heard in the Central Heartland",
-    "region": "Central Heartland",
-    "entries": [
-      "storm-listeners"
-    ]
-  }
+ {
+  "id": "rumor-1",
+  "text": "A whaler swears he counted an island off the southern lanes that was there on the way out and gone on the way home. The Chartwrights have filed it anyway.",
+  "heardAt": "heard among the Chartwrights",
+  "region": "All regions",
+  "entries": [
+   "kalvatar"
+  ]
+ },
+ {
+  "id": "rumor-2",
+  "text": "The Gate-Tithe is cheating us in both directions. It keeps the gold in Ironfort and sends the paper to Goldwind.",
+  "heardAt": "heard in the Northern Frontier",
+  "region": "Northern Frontier",
+  "entries": [
+   "northern-frontier",
+   "ironfort",
+   "goldwind",
+   "hospitality"
+  ]
+ },
+ {
+  "id": "rumor-3",
+  "text": "The Widow's Teeth are singing a new tune. The old women say a boat will be lost in the Gap before the Murk is over.",
+  "heardAt": "heard in the Northern Frontier",
+  "region": "Northern Frontier",
+  "entries": [
+   "northern-frontier",
+   "widows-teeth"
+  ]
+ },
+ {
+  "id": "rumor-4",
+  "text": "Johann Faust has been seen in a Greyhaven tavern with a man who wears the Last Psalm's badge. Nobody knows which side he means to take.",
+  "heardAt": "heard in the Northern Frontier",
+  "region": "Northern Frontier",
+  "entries": [
+   "northern-frontier",
+   "greyhaven",
+   "johann-faust"
+  ]
+ },
+ {
+  "id": "rumor-5",
+  "text": "Mortimer Vanris will sell the Stormguard to the Heartland before the year is out. His brother has already written to the Council about it.",
+  "heardAt": "heard in the Northern Frontier",
+  "region": "Northern Frontier",
+  "entries": [
+   "northern-frontier",
+   "heartland",
+   "house-vanris"
+  ]
+ },
+ {
+  "id": "rumor-6",
+  "text": "Tana Sukuun has sold a Dreadmaw to the Heartland. The buyer is a Vol Kaern agent, and the saurian is named after the Vol Kaern tower.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Central Heartland",
+  "entries": [
+   "heartland",
+   "southern-wilds",
+   "jakupur",
+   "saurians",
+   "dreadmaw",
+   "house-vol-kaern"
+  ]
+ },
+ {
+  "id": "rumor-7",
+  "text": "Dio Emberheart has been seen walking in the Sunhold gardens. The people who saw him say he was not quite the same man who walked there last year.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "Central Heartland",
+  "entries": [
+   "heartland",
+   "sunhold",
+   "house-emberheart"
+  ]
+ },
+ {
+  "id": "rumor-8",
+  "text": "Kastan Vol Kaern is buying Bastion's debts through the Zane house. He will own the Frontier's gate before the Council knows he has begun.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "Central Heartland",
+  "entries": [
+   "heartland",
+   "bastion",
+   "house-vol-kaern"
+  ]
+ },
+ {
+  "id": "rumor-9",
+  "text": "Sissix-the-Comet has lost a heat for the first time in two seasons. The jockey who beat her has a Vossreth brand on his wrist and no memory of the race.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "southern-wilds",
+   "swiftcrest",
+   "house-vossreth"
+  ]
+ },
+ {
+  "id": "rumor-10",
+  "text": "A Scarlet Mother's priest was seen in Southhaven buying the Fennick factors' coffee in bulk. Nobody says what he wants with so much of it.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "southern-wilds",
+   "brightleaf",
+   "southhaven",
+   "twelve-flags"
+  ]
+ },
+ {
+  "id": "rumor-11",
+  "text": "The Vorthani First Ascent has taken in a guest who will not carry a stone. The monks say she is not a guest.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "southern-wilds",
+   "vorthani",
+   "anvil-reach"
+  ]
+ },
+ {
+  "id": "rumor-12",
+  "text": "The Frost Elves have stopped raiding the Auroral Vault. The Frost Elves say Vukharr is dreaming of something new.",
+  "heardAt": "heard in the Icy Expanse",
+  "region": "Icy Expanse",
+  "entries": [
+   "icy-expanse",
+   "auroral-vault",
+   "elves",
+   "vukharr-the-white-hunger"
+  ]
+ },
+ {
+  "id": "rumor-13",
+  "text": "Mira has been seen at Crystalhaven with Granny Skerrow's grandson. A smuggler's heir is never seen with a wrecker's grandson unless one of them means to take the other's chair.",
+  "heardAt": "heard in the Icy Expanse",
+  "region": "Icy Expanse",
+  "entries": [
+   "icy-expanse",
+   "crystalhaven"
+  ]
+ },
+ {
+  "id": "rumor-14",
+  "text": "The black circle in the sky is spreading. A whale-fleet that sailed too far last year came back with the sky over its masts gone black.",
+  "heardAt": "heard in the Icy Expanse",
+  "region": "Icy Expanse",
+  "entries": [
+   "icy-expanse"
+  ]
+ },
+ {
+  "id": "rumor-15",
+  "text": "Emri has been seen swimming past the Drowned Colonnade with a bundle of silver on her back. Nobody has asked her what she is carrying.",
+  "heardAt": "heard in the Sea and the Coral Kingdoms",
+  "region": "The Sea",
+  "entries": [
+   "coral-kingdoms",
+   "drowned-colonnade"
+  ]
+ },
+ {
+  "id": "rumor-16",
+  "text": "The Red Choir has started singing on a quiet night, when there is no blood in the water. The Tidecallers say the song is coming up the Starfall Reef.",
+  "heardAt": "heard in the Sea and the Coral Kingdoms",
+  "region": "The Sea",
+  "entries": [
+   "coral-kingdoms",
+   "starfall-reef",
+   "concord",
+   "red-choir"
+  ]
+ },
+ {
+  "id": "rumor-17",
+  "text": "Pelagar has been buying the Starfall coral in bulk. The Glass Gardens have stopped trading with Pelagar in return.",
+  "heardAt": "heard in the Sea and the Coral Kingdoms",
+  "region": "The Sea",
+  "entries": [
+   "coral-kingdoms",
+   "glass-gardens",
+   "pearl-groove-and-the-pelagar-isle"
+  ]
+ },
+ {
+  "id": "rumor-18",
+  "text": "The Old Shells answered a question last month that no one had asked. The answer was the name of a ship, and the ship has not been seen since.",
+  "heardAt": "heard in the Sea and the Coral Kingdoms",
+  "region": "The Sea",
+  "entries": [
+   "coral-kingdoms",
+   "old-shells"
+  ]
+ },
+ {
+  "id": "rumor-19",
+  "text": "The spark ferrets at Ironfort customs won't go near one particular noble's luggage. They don't spark. They hide.",
+  "heardAt": "an Ironfort customs clerk",
+  "region": "Northern Frontier",
+  "entries": [
+   "ironfort",
+   "spark-ferret"
+  ]
+ },
+ {
+  "id": "rumor-20",
+  "text": "The dry road. The roads Below run island to island, and a smuggler who knew them could walk a cargo from Black Harbor to Goldwind without paying a single harbor due.",
+  "heardAt": "common talk",
+  "region": "Central Heartland",
+  "entries": [
+   "goldwind",
+   "below",
+   "black-harbor"
+  ]
+ },
+ {
+  "id": "rumor-21",
+  "text": "Sailors' songs count the great dragons of the world as nine. A Highspire star-reader once counted ten, and the University took her charts away.",
+  "heardAt": "a Highspire lens-grinder",
+  "region": "Central Heartland",
+  "entries": [
+   "highspire",
+   "university"
+  ]
+ },
+ {
+  "id": "rumor-22",
+  "text": "Highspire's astronomers keep one star on their charts that crosses the sky the wrong way.",
+  "heardAt": "a Starborn page",
+  "region": "Central Heartland",
+  "entries": [
+   "highspire"
+  ]
+ },
+ {
+  "id": "rumor-23",
+  "text": "A deep hum comes up through the floor of the Darlath mines at night, and the Cindren who work near it go dim.",
+  "heardAt": "an Everfall glassworker",
+  "region": "Central Heartland",
+  "entries": [
+   "everfall",
+   "cindren"
+  ]
+ },
+ {
+  "id": "rumor-24",
+  "text": "One crate of Darlath stone in twelve leaves Everfall marked 'broken' and is never seen at the refinery.",
+  "heardAt": "an Everfall carter",
+  "region": "Central Heartland",
+  "entries": [
+   "everfall",
+   "krysta",
+   "marked"
+  ]
+ },
+ {
+  "id": "rumor-25",
+  "text": "The Cindren of Everfall say the Glass Forest chimed thirteen times last Graveday, and it has only ever chimed in twelves.",
+  "heardAt": "an Ash Warden",
+  "region": "Central Heartland",
+  "entries": [
+   "everfall",
+   "glass-forest",
+   "cindren",
+   "cycle"
+  ]
+ },
+ {
+  "id": "rumor-26",
+  "text": "The dark elf at the Rusty Blade paid for his rooms with a coin nobody could name. Old Daun has nailed it over the bar.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-27",
+  "text": "Pale moons. New Tides ring dull, say the scale-men of Fairweather, and they have started weighing them. The Mint says nothing.",
+  "heardAt": "common talk",
+  "region": "Icy Expanse",
+  "entries": [
+   "varan-port",
+   "two-moons-and-the-tides"
+  ]
+ },
+ {
+  "id": "rumor-28",
+  "text": "The Gilded Shallows are glowing at night now, even when the tide is low. The Concord says it is a blessing. The Registry says it is a fire.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "Central Heartland",
+  "entries": [
+   "gilded-shallows",
+   "concord",
+   "arcane-registry"
+  ]
+ },
+ {
+  "id": "rumor-29",
+  "text": "The Singing Cliffs sounded a chord last spring that no harbor-master had ever heard. The weather that followed was perfectly ordinary, which worried them more.",
+  "heardAt": "heard in Highspire",
+  "region": "Central Heartland",
+  "entries": [
+   "singing-cliffs"
+  ]
+ },
+ {
+  "id": "rumor-30",
+  "text": "The Cathedral Green's trees have started to grow new graves. The Liriath say it is their own dead, but no one of their kind has died in the Green in forty years.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "cathedral-green",
+   "liriath"
+  ]
+ },
+ {
+  "id": "rumor-31",
+  "text": "A Galven crew sailed into a storm off Stormreach and came back with every mark on their arms burning white, laughing.",
+  "heardAt": "heard at the Stormreach yards",
+  "region": "The Sea",
+  "entries": [
+   "galven"
+  ]
+ },
+ {
+  "id": "rumor-32",
+  "text": "A Florian in the Cathedral Green has seen four dawns, and the Liriath have stopped speaking above a whisper near her.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "florians"
+  ]
+ },
+ {
+  "id": "rumor-33",
+  "text": "A Tarvan on the Giant's Table heard the Sleeping Giant turn over in its sleep. She went home and sold every horse she had.",
+  "heardAt": "heard in the Northern Frontier",
+  "region": "Northern Frontier",
+  "entries": [
+   "tarvan",
+   "giants-table",
+   "sleeping-giant"
+  ]
+ },
+ {
+  "id": "rumor-34",
+  "text": "The Tobbin pride say Saffrane's famous Black Rose was theirs first, and that they still have the bill of sale.",
+  "heardAt": "a Pocchin, loudly",
+  "region": "Central Heartland",
+  "entries": [
+   "pocchin",
+   "silverport"
+  ]
+ },
+ {
+  "id": "rumor-35",
+  "text": "A Sporrn healer came up to Southhaven with medicine nobody asked for, three days before the fever arrived.",
+  "heardAt": "heard in Southhaven",
+  "region": "Below",
+  "entries": [
+   "sporrn"
+  ]
+ },
+ {
+  "id": "rumor-36",
+  "text": "A court envoy came ashore at Easthold with bells on both wrists and asked to speak to whoever keeps the harbor's oldest promise.",
+  "heardAt": "heard in Easthold",
+  "region": "The Sea",
+  "entries": [
+   "coral-peoples"
+  ]
+ },
+ {
+  "id": "rumor-37",
+  "text": "A lampet in Greyhaven brought up a gold ring nobody aboard had lost, and the harbor-master's wife has been very quiet since.",
+  "heardAt": "heard on the Greyhaven docks",
+  "region": "All regions",
+  "entries": [
+   "lampet"
+  ]
+ },
+ {
+  "id": "rumor-38",
+  "text": "The lighthouse keeper at Saltreach swears her mouse put its tail out the night a ship went by with no lights at all.",
+  "heardAt": "heard in a Frontier tavern",
+  "region": "All regions",
+  "entries": [
+   "lantern-mouse"
+  ]
+ },
+ {
+  "id": "rumor-39",
+  "text": "A courier's rainfrog sat on a Council dispatch through a whole shipwreck. The dispatch was dry. The courier was not so lucky.",
+  "heardAt": "heard among Harbinger crews",
+  "region": "All regions",
+  "entries": [
+   "pocket-rainfrog"
+  ]
+ },
+ {
+  "id": "rumor-40",
+  "text": "Somewhere below the coral there is a reef made entirely of buttons, and every button badger in the islands knows the way.",
+  "heardAt": "a tailor's back door",
+  "region": "Below",
+  "entries": [
+   "button-badger",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-41",
+  "text": "A button badger in Silverport keeps bringing home silver buttons with a house crest nobody can place.",
+  "heardAt": "heard in a Silverport tailor's shop",
+  "region": "All regions",
+  "entries": [
+   "button-badger"
+  ]
+ },
+ {
+  "id": "rumor-42",
+  "text": "They say a teacup moth will not warm a cup that has been poisoned. Nobody has been brave enough to test it twice.",
+  "heardAt": "heard in a Goldwind teahouse",
+  "region": "All regions",
+  "entries": [
+   "teacup-moth"
+  ]
+ },
+ {
+  "id": "rumor-43",
+  "text": "A great auroc broke its tether at Bastion and walked straight to the Tarvan moors, as if it knew the way.",
+  "heardAt": "heard in Bastion",
+  "region": "Northern Frontier",
+  "entries": [
+   "aurocs"
+  ]
+ },
+ {
+  "id": "rumor-44",
+  "text": "A Goldwind noble offered a fortune for a street child's mirror plover. The child said no, and the plover said something worse.",
+  "heardAt": "heard in Goldwind",
+  "region": "All regions",
+  "entries": [
+   "companions"
+  ]
+ },
+ {
+  "id": "rumor-45",
+  "text": "A hush owl went quiet at a wedding in Saltreach last Storm Water, and the groom has not been seen since.",
+  "heardAt": "a Frontier tavern",
+  "region": "Icy Expanse",
+  "entries": [
+   "calendar",
+   "hush-owl",
+   "saltreach"
+  ]
+ },
+ {
+  "id": "rumor-46",
+  "text": "Captain Blackstorm: he once outmaneuvered the whole Armada during a King Tide.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "The Sea",
+  "entries": [
+   "king-tide",
+   "armada",
+   "captain-blackstorm"
+  ]
+ },
+ {
+  "id": "rumor-47",
+  "text": "The new Tides are lighter than the old ones. The Mint says it is the wear of the dies.",
+  "heardAt": "heard on the Spire Floor",
+  "region": "All regions",
+  "entries": [
+   "coinage"
+  ]
+ },
+ {
+  "id": "rumor-48",
+  "text": "A Harbinger made Ironfort to Goldwind in eleven days. The Admiralty will not say how.",
+  "heardAt": "heard in Ironfort",
+  "region": "The Sea",
+  "entries": [
+   "travel"
+  ]
+ },
+ {
+  "id": "rumor-49",
+  "text": "A grandmother in Sunhold has a waybook whose blank last page has started filling itself in.",
+  "heardAt": "heard in Sunhold",
+  "region": "All regions",
+  "entries": [
+   "small-ways"
+  ]
+ },
+ {
+  "id": "rumor-50",
+  "text": "The Midnight Patron has been buying every old chart of the far south, and paying in uncut Krysta.",
+  "heardAt": "a Zal'Kareth chart-seller",
+  "region": "All regions",
+  "entries": [
+   "krysta",
+   "midnight-patron"
+  ]
+ },
+ {
+  "id": "rumor-51",
+  "text": "A memory-pearl sold in Pearl Groove shows a woman's face on the Sunken Thrones. She is looking up, and she is smiling.",
+  "heardAt": "heard in the Sea and the Coral Kingdoms",
+  "region": "The Sea",
+  "entries": [
+   "sea-pacts",
+   "pearl-groove-and-the-pelagar-isle",
+   "sunken-thrones"
+  ]
+ },
+ {
+  "id": "rumor-52",
+  "text": "Masons in seven dwarven holds have stopped talking about what they found on the shelf beside the wall.",
+  "heardAt": "a dwarven mason's apprentice",
+  "region": "Below",
+  "entries": [
+   "below",
+   "dwarves"
+  ]
+ },
+ {
+  "id": "rumor-53",
+  "text": "The dwarves have an old word for the drow, and they will not say it in front of a banker.",
+  "heardAt": "a Goldwind money-changer",
+  "region": "Below",
+  "entries": [
+   "below",
+   "dwarves"
+  ]
+ },
+ {
+  "id": "rumor-54",
+  "text": "Progeny of three different Lords were seen hunting side by side in the Southern Wilds, all chasing the same pale animal.",
+  "heardAt": "heard at the Jakupur Lodge",
+  "region": "All regions",
+  "entries": [
+   "savage-lords"
+  ]
+ },
+ {
+  "id": "rumor-55",
+  "text": "The empty chair in the Admiralty's High Command was dusted last week. Nobody admits to ordering it.",
+  "heardAt": "heard among Goldwind clerks",
+  "region": "Central Heartland",
+  "entries": [
+   "council"
+  ]
+ },
+ {
+  "id": "rumor-56",
+  "text": "The Platinum Ten walk among us. Nobody knows who they are.",
+  "heardAt": "common talk",
+  "region": "All regions",
+  "entries": [
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-57",
+  "text": "The first of the Ten has held the top of the Ranking since before anyone's grandmother was born. The Chroniclers stopped writing down her age.",
+  "heardAt": "a Lodge Chronicler, after his third kellum",
+  "region": "All regions",
+  "entries": [
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-58",
+  "text": "A giant of a Frost Elf walks the ice with a hooded priest who never eats. The Hunters posted a contract on him, and Albion Tempest took it.",
+  "heardAt": "a Frosthold Lodge clerk",
+  "region": "All regions",
+  "entries": [
+   "hunters",
+   "albion-tempest"
+  ]
+ },
+ {
+  "id": "rumor-59",
+  "text": "Siroc the Swift: he has escaped the Armada more than a dozen times.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "The Sea",
+  "entries": [
+   "armada",
+   "siroc-the-swift"
+  ]
+ },
+ {
+  "id": "rumor-60",
+  "text": "A Pursuer came to Southhaven hunting an oath-breaker, and the man she took away was a whaler who could not stop humming.",
+  "heardAt": "a Southhaven harbor-widow",
+  "region": "All regions",
+  "entries": [
+   "concord"
+  ]
+ },
+ {
+  "id": "rumor-61",
+  "text": "The Chartwrights keep the tortoise islands off the public charts. Ask a surveyor where they are and watch his tortoise look at him.",
+  "heardAt": "a Goldwind chart-shop",
+  "region": "All regions",
+  "entries": [
+   "chartwrights"
+  ]
+ },
+ {
+  "id": "rumor-62",
+  "text": "Two of the Twelve Flags have stopped speaking to each other on the Spire Floor, and every factor in Goldwind is buying rope.",
+  "heardAt": "heard on the Spire Floor",
+  "region": "Central Heartland",
+  "entries": [
+   "mercantile-congress"
+  ]
+ },
+ {
+  "id": "rumor-63",
+  "text": "The Registrar exists. He is a tall man in grey who visits the University's cellars at night, and the University denies he has ever come to the city.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "Central Heartland",
+  "entries": [
+   "university",
+   "arcane-registry"
+  ]
+ },
+ {
+  "id": "rumor-64",
+  "text": "The Sunhold terraces grow a brightleaf that the Registry buys every leaf of, and nobody has ever been allowed to taste it.",
+  "heardAt": "a Terrace Guild picker",
+  "region": "Central Heartland",
+  "entries": [
+   "arcane-registry",
+   "brightleaf",
+   "sunhold"
+  ]
+ },
+ {
+  "id": "rumor-65",
+  "text": "A hearth newt in Kaldmark slept on the same coal for a whole winter, and the hold that kept it lost no one to the cold.",
+  "heardAt": "heard in the Icy Expanse",
+  "region": "All regions",
+  "entries": [
+   "hearth-newt"
+  ]
+ },
+ {
+  "id": "rumor-66",
+  "text": "A cricket sang a whole crew to sleep the night their ship was boarded. The thieves took the cargo and left the cricket.",
+  "heardAt": "heard on the southern lanes",
+  "region": "All regions",
+  "entries": [
+   "lullaby-cricket"
+  ]
+ },
+ {
+  "id": "rumor-67",
+  "text": "A pair of promise doves were seen flying out to sea, both of them, together. Nobody wants to think about what that means.",
+  "heardAt": "a fishing village",
+  "region": "All regions",
+  "entries": [
+   "promise-doves"
+  ]
+ },
+ {
+  "id": "rumor-68",
+  "text": "A promise dove flew in circles over Goldwind for three days. Its mate's keeper had sailed into the fog off the Frontier, and the dove could not decide where she was.",
+  "heardAt": "heard in Goldwind",
+  "region": "All regions",
+  "entries": [
+   "promise-doves"
+  ]
+ },
+ {
+  "id": "rumor-69",
+  "text": "There's a mirror plover in Goldwind that talks like a man nobody in the city remembers.",
+  "heardAt": "the Goldwind docks",
+  "region": "All regions",
+  "entries": [
+   "mirror-plover"
+  ]
+ },
+ {
+  "id": "rumor-70",
+  "text": "A mirror plover in Easthold still talks like a captain who drowned eleven years ago. His widow brings it bread every morning.",
+  "heardAt": "heard in Easthold",
+  "region": "All regions",
+  "entries": [
+   "mirror-plover"
+  ]
+ },
+ {
+  "id": "rumor-71",
+  "text": "A pirate in irons at Ironfort walked free because his knot crab picked the rope on the gallows.",
+  "heardAt": "heard in Black Harbor",
+  "region": "All regions",
+  "entries": [
+   "knot-crab"
+  ]
+ },
+ {
+  "id": "rumor-72",
+  "text": "No leak rat will board the new Vindicator at Stormreach. The yard says it is the smell of fresh pitch. The crew says it isn't.",
+  "heardAt": "heard at the Stormreach yards",
+  "region": "All regions",
+  "entries": [
+   "leak-rat"
+  ]
+ },
+ {
+  "id": "rumor-73",
+  "text": "A gutter parrot in Hollowkey knows a Council admiral's private name for his wife, and says it every evening at the sixth bell.",
+  "heardAt": "heard in Hollowkey",
+  "region": "All regions",
+  "entries": [
+   "gutter-parrot"
+  ]
+ },
+ {
+  "id": "rumor-74",
+  "text": "A Greyhaven cormorant came back from the fog with a fish no one in the north had ever seen.",
+  "heardAt": "heard on the Frontier coast",
+  "region": "All regions",
+  "entries": [
+   "net-cormorant"
+  ]
+ },
+ {
+  "id": "rumor-75",
+  "text": "A noble's taster bat refused a cup at a Heartland wedding, and the groom's family left before dessert.",
+  "heardAt": "heard in the salons of Goldwind",
+  "region": "Central Heartland",
+  "entries": [
+   "taster-bat"
+  ]
+ },
+ {
+  "id": "rumor-76",
+  "text": "A counting jackdaw at the Reckoners' Hall will not sit on one clerk's desk. The clerk has asked to be moved.",
+  "heardAt": "heard on the Spire Floor",
+  "region": "Central Heartland",
+  "entries": [
+   "counting-jackdaw"
+  ]
+ },
+ {
+  "id": "rumor-77",
+  "text": "An ink octopus copied a stranger's face onto a ledger page. The stranger has been looking for that page ever since.",
+  "heardAt": "heard in a Goldwind counting-house",
+  "region": "Central Heartland",
+  "entries": [
+   "ink-octopus"
+  ]
+ },
+ {
+  "id": "rumor-78",
+  "text": "A sail-loft in Goldwind has a darning spider that only mends sails for ships that come home.",
+  "heardAt": "heard at the Goldwind sail-lofts",
+  "region": "Central Heartland",
+  "entries": [
+   "darning-spider"
+  ]
+ },
+ {
+  "id": "rumor-79",
+  "text": "Glider squirrels are carrying love notes across Goldwind's roofs for a noble daughter and a dock clerk. Half the city knows; her father does not.",
+  "heardAt": "heard on the Goldwind rooftops",
+  "region": "Central Heartland",
+  "entries": [
+   "glider-squirrel"
+  ]
+ },
+ {
+  "id": "rumor-80",
+  "text": "Silverport's gaming houses have started checking guests' pockets for geckos at the door.",
+  "heardAt": "heard in Silverport",
+  "region": "Central Heartland",
+  "entries": [
+   "fortune-gecko"
+  ]
+ },
+ {
+  "id": "rumor-81",
+  "text": "A bookmark silverfish in the University's library stopped on a page that is not in the book.",
+  "heardAt": "heard among University students",
+  "region": "Central Heartland",
+  "entries": [
+   "bookmark-silverfish"
+  ]
+ },
+ {
+  "id": "rumor-82",
+  "text": "A sailor's snail has been pointing out to sea for a month, toward no island on any chart.",
+  "heardAt": "heard in Saltreach",
+  "region": "Northern Frontier",
+  "entries": [
+   "homeward-snail"
+  ]
+ },
+ {
+  "id": "rumor-83",
+  "text": "Every drum hare on the Northreach moors drummed at once one night last winter, and nobody found anything at all.",
+  "heardAt": "heard among Northreach drovers",
+  "region": "Northern Frontier",
+  "entries": [
+   "drum-hare"
+  ]
+ },
+ {
+  "id": "rumor-84",
+  "text": "An echo finch in Bastion repeats a phrase in a voice nobody in the house recognizes.",
+  "heardAt": "heard in Bastion",
+  "region": "Northern Frontier",
+  "entries": [
+   "echo-finch"
+  ]
+ },
+ {
+  "id": "rumor-85",
+  "text": "A dreamcurl hedgehog left its sleeper's chest in the middle of the night and would not go back. The sleeper has not been the same.",
+  "heardAt": "heard in a Frontier hedgerow village",
+  "region": "Northern Frontier",
+  "entries": [
+   "dreamcurl-hedgehog"
+  ]
+ },
+ {
+  "id": "rumor-86",
+  "text": "A spark ferret at Ironfort's customs house went mad over a crate of 'pottery' bound north.",
+  "heardAt": "heard at the Ironfort Gate",
+  "region": "Northern Frontier",
+  "entries": [
+   "spark-ferret"
+  ]
+ },
+ {
+  "id": "rumor-87",
+  "text": "The thumb raptors of one Jakupur street have started hunting something too small for anyone else to see.",
+  "heardAt": "heard in Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "thumb-raptor"
+  ]
+ },
+ {
+  "id": "rumor-88",
+  "text": "A veil butterfly went clear as glass in the middle of a Goldwind ball, and stayed that way all night.",
+  "heardAt": "heard in the salons of Goldwind",
+  "region": "Southern Wilds",
+  "entries": [
+   "veil-butterfly"
+  ]
+ },
+ {
+  "id": "rumor-89",
+  "text": "A moss sloth's moss kept a Hunter alive for three days in the deep green, and the sloth would not leave until the healers came.",
+  "heardAt": "heard at the Jakupur Lodge",
+  "region": "Southern Wilds",
+  "entries": [
+   "moss-sloth"
+  ]
+ },
+ {
+  "id": "rumor-90",
+  "text": "A trail mongoose followed a stolen saddle across half the Wilds and led its person straight to a Southhaven magistrate's stable.",
+  "heardAt": "heard in Southhaven",
+  "region": "Southern Wilds",
+  "entries": [
+   "trail-mongoose"
+  ]
+ },
+ {
+  "id": "rumor-91",
+  "text": "A Frost Elf left a scarf stoat at a stranger's door in the Long Night, and the stranger lived.",
+  "heardAt": "heard in Frosthold",
+  "region": "Icy Expanse",
+  "entries": [
+   "scarf-stoat"
+  ]
+ },
+ {
+  "id": "rumor-92",
+  "text": "Every hush owl in a Snowvah graveyard puffed up at once on the last King Tide.",
+  "heardAt": "heard in the Icy Expanse",
+  "region": "Icy Expanse",
+  "entries": [
+   "hush-owl"
+  ]
+ },
+ {
+  "id": "rumor-93",
+  "text": "A landfall petrel led a lost whaler to an island that was not there when the Chartwrights went to look.",
+  "heardAt": "heard among the whalers",
+  "region": "Icy Expanse",
+  "entries": [
+   "landfall-petrel"
+  ]
+ },
+ {
+  "id": "rumor-94",
+  "text": "A pearl diver's seahorse blew its bubble for a drowning stranger, and the Glass Gardens sent the diver a pearl the next morning.",
+  "heardAt": "heard in Pearl Groove",
+  "region": "The Sea",
+  "entries": [
+   "bubble-seahorse"
+  ]
+ },
+ {
+  "id": "rumor-95",
+  "text": "Every tide anemone in Southhaven closed at noon on the same day last year, out of turn, for exactly as long as it takes to say a prayer.",
+  "heardAt": "a Southhaven harbor-widow",
+  "region": "The Sea",
+  "entries": [
+   "tide-anemone",
+   "southhaven"
+  ]
+ },
+ {
+  "id": "rumor-96",
+  "text": "An anemone on an Easthold windowsill knew the tide had turned at home, while its keeper was a month's sail away.",
+  "heardAt": "heard in Easthold",
+  "region": "The Sea",
+  "entries": [
+   "tide-anemone"
+  ]
+ },
+ {
+  "id": "rumor-97",
+  "text": "A lodge hound at the Jakupur Lodge has started tracking something the Board has not posted a contract for.",
+  "heardAt": "heard at the Jakupur Lodge",
+  "region": "All regions",
+  "entries": [
+   "lodge-hound"
+  ]
+ },
+ {
+  "id": "rumor-98",
+  "text": "A caravan's roof goats spotted bandits on the Frontier road a full hour before the drivers did, and the bandits are still wondering how.",
+  "heardAt": "heard on the Frontier roads",
+  "region": "All regions",
+  "entries": [
+   "roof-goats"
+  ]
+ },
+ {
+  "id": "rumor-99",
+  "text": "A tidehound at Greyhaven pulled a stranger out of the sea who will not say what ship he came from.",
+  "heardAt": "heard in Greyhaven",
+  "region": "All regions",
+  "entries": [
+   "tidehound"
+  ]
+ },
+ {
+  "id": "rumor-100",
+  "text": "A tern carried a doctor-wanted note to Ironfort's tower from a ship that never came into harbor.",
+  "heardAt": "heard at the Ironfort roadstead",
+  "region": "All regions",
+  "entries": [
+   "roadstead-tern"
+  ]
+ },
+ {
+  "id": "rumor-101",
+  "text": "The pod that guides ships through the Widow's Teeth has stopped answering one pilot's whistle.",
+  "heardAt": "heard in Greyhaven",
+  "region": "All regions",
+  "entries": [
+   "pilot-dolphins"
+  ]
+ },
+ {
+  "id": "rumor-102",
+  "text": "The customs house at Varan Port has started dragging the water under the piers. They have not found an eel yet.",
+  "heardAt": "heard in Varan Port",
+  "region": "All regions",
+  "entries": [
+   "courier-eel"
+  ]
+ },
+ {
+  "id": "rumor-103",
+  "text": "The Stillwrights' wrack cows refused to graze one honeywrack bed all summer, and that bed's kellum tasted wrong.",
+  "heardAt": "heard among the Stillwrights",
+  "region": "Central Heartland",
+  "entries": [
+   "wrack-cow"
+  ]
+ },
+ {
+  "id": "rumor-104",
+  "text": "A ferry turtle in the Heartland channels was late for the first time in sixty years. Nobody knows where it went for that hour.",
+  "heardAt": "heard on the Heartland channels",
+  "region": "Central Heartland",
+  "entries": [
+   "ferry-turtle"
+  ]
+ },
+ {
+  "id": "rumor-105",
+  "text": "The Reckoners' vault geese were silent the night a ledger went missing.",
+  "heardAt": "heard on the Spire Floor",
+  "region": "Central Heartland",
+  "entries": [
+   "vault-geese"
+  ]
+ },
+ {
+  "id": "rumor-106",
+  "text": "The swineherds swear the gutter pigs will not go down one alley in Goldwind's lower streets.",
+  "heardAt": "heard in Goldwind's lower streets",
+  "region": "Central Heartland",
+  "entries": [
+   "gutter-pigs"
+  ]
+ },
+ {
+  "id": "rumor-107",
+  "text": "An Aurelion smith says her bellows toad will not blow for blades meant for the Imperium.",
+  "heardAt": "heard in Aurelion",
+  "region": "Central Heartland",
+  "entries": [
+   "bellows-toad"
+  ]
+ },
+ {
+  "id": "rumor-108",
+  "text": "The dawn duck parade at Sunhold went the wrong way round the terraces one morning, and that season's leaf was the best in twenty years.",
+  "heardAt": "heard in Sunhold",
+  "region": "Central Heartland",
+  "entries": [
+   "terrace-ducks"
+  ]
+ },
+ {
+  "id": "rumor-109",
+  "text": "A Silverport silk farm is raising a moth whose silk shines in the dark. The other farms want to know how.",
+  "heardAt": "heard in Silverport",
+  "region": "Central Heartland",
+  "entries": [
+   "silverport-silkmoth"
+  ]
+ },
+ {
+  "id": "rumor-110",
+  "text": "A moorhorn herd walked off the Northreach moors in a single night, ribbons and all, and was found standing in a circle of stones.",
+  "heardAt": "heard among the Tarvan",
+  "region": "Northern Frontier",
+  "entries": [
+   "moorhorn"
+  ]
+ },
+ {
+  "id": "rumor-111",
+  "text": "A fishing family's kin-knit pattern turned up on a drowned man nobody in the village knew.",
+  "heardAt": "heard on the Frontier coast",
+  "region": "Northern Frontier",
+  "entries": [
+   "oilfleece-sheep"
+  ]
+ },
+ {
+  "id": "rumor-112",
+  "text": "The glint moles of one Frontier mine are digging down, not toward any vein, and the miners have stopped following.",
+  "heardAt": "heard in the Frontier mines",
+  "region": "Northern Frontier",
+  "entries": [
+   "glint-mole"
+  ]
+ },
+ {
+  "id": "rumor-113",
+  "text": "The herd otters of the Nine Mouths have started driving the fish away from one river village. The village has done something.",
+  "heardAt": "heard on the rivers of the Nine Mouths",
+  "region": "Southern Wilds",
+  "entries": [
+   "herd-otter"
+  ]
+ },
+ {
+  "id": "rumor-114",
+  "text": "A rimehound team stopped dead on the ice and would not go on. The sledge went around. The crevasse they smelled is still being measured.",
+  "heardAt": "heard in Frosthold",
+  "region": "Icy Expanse",
+  "entries": [
+   "rimehound"
+  ]
+ },
+ {
+  "id": "rumor-115",
+  "text": "The whale-wolves did not come for the tongue after the last kill. Frosthold has not decided whether to worry.",
+  "heardAt": "heard in Frosthold",
+  "region": "Icy Expanse",
+  "entries": [
+   "whale-wolves"
+  ]
+ },
+ {
+  "id": "rumor-116",
+  "text": "A strider crab walked out of the sea at a market harbor with no rider and a basket full of bells.",
+  "heardAt": "heard on the Heartland coast",
+  "region": "The Sea",
+  "entries": [
+   "strider-crab"
+  ]
+ },
+ {
+  "id": "rumor-117",
+  "text": "A tidesteed with an empty shell saddle has been seen off Easthold three nights running.",
+  "heardAt": "heard in Easthold",
+  "region": "The Sea",
+  "entries": [
+   "tidesteed"
+  ]
+ },
+ {
+  "id": "rumor-118",
+  "text": "One lamp-shoal in Thalassar has started swimming a new round, and the courts are arguing about where it leads.",
+  "heardAt": "heard among pearl divers",
+  "region": "The Sea",
+  "entries": [
+   "lamp-shoal"
+  ]
+ },
+ {
+  "id": "rumor-119",
+  "text": "Someone is selling reefpurple dye in Silverport at half the price. The Coral peoples want to know where it comes from.",
+  "heardAt": "heard in Silverport",
+  "region": "The Sea",
+  "entries": [
+   "reefpurple-whelk"
+  ]
+ },
+ {
+  "id": "rumor-120",
+  "text": "A haulbeetle in a dwarven tunnel stopped and would not move, and the miners found a door behind the rock it stopped at.",
+  "heardAt": "heard in a dwarven hold",
+  "region": "Below",
+  "entries": [
+   "haulbeetle"
+  ]
+ },
+ {
+  "id": "rumor-121",
+  "text": "An old chartback in Goldwind has a shell whose plates match an island no chart shows. Three surveyors have asked to buy its charts. It is not for sale.",
+  "heardAt": "heard among the Chartwrights",
+  "region": "All regions",
+  "entries": [
+   "chartback-tortoise"
+  ]
+ },
+ {
+  "id": "rumor-122",
+  "text": "A Pocchin family turned down a whole island for their oldest grommoth. Twice.",
+  "heardAt": "heard in a caravan camp",
+  "region": "All regions",
+  "entries": [
+   "grommoth"
+  ]
+ },
+ {
+  "id": "rumor-123",
+  "text": "A dragonborn veteran in Bastion still wears his imperial insignia, and the garrison has decided to let him.",
+  "heardAt": "heard in Bastion",
+  "region": "Northern Frontier",
+  "entries": [
+   "dragonborn"
+  ]
+ },
+ {
+  "id": "rumor-124",
+  "text": "The Cistern Door. At the bottom of Goldwind's oldest cistern is a dwarven wall, and someone has been working its mortar from the other side.",
+  "heardAt": "common talk",
+  "region": "Central Heartland",
+  "entries": [
+   "dwarves",
+   "cistern-door"
+  ]
+ },
+ {
+  "id": "rumor-125",
+  "text": "Drow eyes. A drow's eyes shine in the dark, and the older the drow, the dimmer they shine.",
+  "heardAt": "common talk",
+  "region": "All regions",
+  "entries": [
+   "elves"
+  ]
+ },
+ {
+  "id": "rumor-126",
+  "text": "Hrothgar Icevein: he hunts the Frost Elves who exiled him.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "elves",
+   "hrothgar-icevein"
+  ]
+ },
+ {
+  "id": "rumor-127",
+  "text": "A gnome workshop in Goldwind has built a clock that runs backward during the Still Days.",
+  "heardAt": "heard in Goldwind",
+  "region": "Central Heartland",
+  "entries": [
+   "gnomes"
+  ]
+ },
+ {
+  "id": "rumor-128",
+  "text": "A goblin at the Knot is wearing a Council admiral's hat and has a very good story about it.",
+  "heardAt": "heard at the Knot",
+  "region": "All regions",
+  "entries": [
+   "goblinoids"
+  ]
+ },
+ {
+  "id": "rumor-129",
+  "text": "A goliath came down from the high ranges with a bead nobody has the right to wear: one for climbing the Sky Anvil.",
+  "heardAt": "heard in the Anvil Reach",
+  "region": "Southern Wilds",
+  "entries": [
+   "goliaths"
+  ]
+ },
+ {
+  "id": "rumor-130",
+  "text": "A half-elf interpreter in Silverport has been offered a fortune to mistranslate a single word at a treaty table.",
+  "heardAt": "heard in Silverport",
+  "region": "All regions",
+  "entries": [
+   "half-elves"
+  ]
+ },
+ {
+  "id": "rumor-131",
+  "text": "A halfling inn on the Heartland river roads has never once run out of beds, however many guests arrive.",
+  "heardAt": "heard on the river roads",
+  "region": "All regions",
+  "entries": [
+   "halflings"
+  ]
+ },
+ {
+  "id": "rumor-132",
+  "text": "A Jakupur trader and a Frontier lord were seen drinking together in Goldwind, laughing. Both deny it.",
+  "heardAt": "heard in Goldwind",
+  "region": "All regions",
+  "entries": [
+   "humans"
+  ]
+ },
+ {
+  "id": "rumor-133",
+  "text": "A kobold warren under Duskmire has started selling maps of the tunnels below. Every map is a little different.",
+  "heardAt": "heard at the Knot",
+  "region": "All regions",
+  "entries": [
+   "kobolds"
+  ]
+ },
+ {
+  "id": "rumor-134",
+  "text": "A lizardfolk elder repainted herself in a pattern no one has worn in a hundred years.",
+  "heardAt": "heard in the great bogs",
+  "region": "Southern Wilds",
+  "entries": [
+   "lizardfolk"
+  ]
+ },
+ {
+  "id": "rumor-135",
+  "text": "An orc chieftain in the south is said to have buried a daemon-mask at sea, on purpose, with a Telling sung over it.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "All regions",
+  "entries": [
+   "orcs"
+  ]
+ },
+ {
+  "id": "rumor-136",
+  "text": "Someone drew steel at the Soldiers' Rest last winter. The springs ran cold for a week.",
+  "heardAt": "heard in Bastion",
+  "region": "Northern Frontier",
+  "entries": [
+   "soldiers-rest"
+  ]
+ },
+ {
+  "id": "rumor-137",
+  "text": "A swimmer reached the bottom of Malim's Stair laughing, without a scratch, and swore the river had carried her the whole way.",
+  "heardAt": "heard at the Laughing Water",
+  "region": "Southern Wilds",
+  "entries": [
+   "malims-stair"
+  ]
+ },
+ {
+  "id": "rumor-138",
+  "text": "A guide says one of the bones on the white flats has moved, a little, every year since he was a boy.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "bonewilds"
+  ]
+ },
+ {
+  "id": "rumor-139",
+  "text": "On the last night of the King Tide, a third moon was seen in the Mirrormere.",
+  "heardAt": "heard among the chant-keepers",
+  "region": "Southern Wilds",
+  "entries": [
+   "mirrormere"
+  ]
+ },
+ {
+  "id": "rumor-140",
+  "text": "Something pale has been walking the bottom of the Whalefall Gardens at low water, tending them.",
+  "heardAt": "heard in Frosthold",
+  "region": "Icy Expanse",
+  "entries": [
+   "whalefall-gardens"
+  ]
+ },
+ {
+  "id": "rumor-141",
+  "text": "The Stillwater has moved three leagues west. The Armada's charts say it has always been there. The sailors say it has always been moving.",
+  "heardAt": "heard in the Sea and the Coral Kingdoms",
+  "region": "The Sea",
+  "entries": [
+   "stillwater"
+  ]
+ },
+ {
+  "id": "rumor-142",
+  "text": "The Old Shells have surfaced at the Stillwater three times this year. They used to come up once in a generation.",
+  "heardAt": "a Last Psalm Tidecaller",
+  "region": "The Sea",
+  "entries": [
+   "stillwater",
+   "old-shells"
+  ]
+ },
+ {
+  "id": "rumor-143",
+  "text": "In one Frontier village the fire was lit every morning for a year after the last keeper died, and nobody ever saw who lit it.",
+  "heardAt": "heard on the Frontier",
+  "region": "All regions",
+  "entries": [
+   "the-keeping"
+  ]
+ },
+ {
+  "id": "rumor-144",
+  "text": "A Returning Cup in Easthold turned itself upright in the window, and the sailor it waited for walked in the next morning.",
+  "heardAt": "heard in Easthold",
+  "region": "All regions",
+  "entries": [
+   "hearth-customs"
+  ]
+ },
+ {
+  "id": "rumor-145",
+  "text": "A Goldwind stillhouse has a cask of Icebrand old enough to have come off the first whaling ships. It is not for sale, which is why everyone wants it.",
+  "heardAt": "heard in Goldwind",
+  "region": "All regions",
+  "entries": [
+   "kellum"
+  ]
+ },
+ {
+  "id": "rumor-146",
+  "text": "A wild swordtooth pack has learned to wait outside Jakupur's gates at the hour the caravans leave.",
+  "heardAt": "heard in Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "swordtooth"
+  ]
+ },
+ {
+  "id": "rumor-147",
+  "text": "A Jakupur noble walled his garden with live thornbacks instead of stone. His neighbors sleep badly.",
+  "heardAt": "heard in Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "thornback"
+  ]
+ },
+ {
+  "id": "rumor-148",
+  "text": "A lashtail in the Maw-Pit broke three shields in one bout and then refused to fight anyone without one.",
+  "heardAt": "heard at the Maw-Pit",
+  "region": "Southern Wilds",
+  "entries": [
+   "lashtail"
+  ]
+ },
+ {
+  "id": "rumor-149",
+  "text": "A glidetalon carried a scout's message forty miles over the jungle in a single afternoon, and the scout has never been found.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "glidetalon"
+  ]
+ },
+ {
+  "id": "rumor-150",
+  "text": "A Skyfin rider claims she flew high enough to see the whole south at once, and that something was looking back.",
+  "heardAt": "heard in Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "skyfin"
+  ]
+ },
+ {
+  "id": "rumor-151",
+  "text": "The oldest loamback in Jakupur's quarries will only haul stone for one family, and that family is three generations dead.",
+  "heardAt": "heard in Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "loamback"
+  ]
+ },
+ {
+  "id": "rumor-152",
+  "text": "An altisaur carried a wedding party across a flooded river without spilling a single cup.",
+  "heardAt": "heard on the Jakupur road",
+  "region": "Southern Wilds",
+  "entries": [
+   "altisaur"
+  ]
+ },
+ {
+  "id": "rumor-153",
+  "text": "A craghorn gored a tax collector in a southern village and the magistrate ruled it self-defense.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "craghorn"
+  ]
+ },
+ {
+  "id": "rumor-154",
+  "text": "A murkstrider walked a lost child home through the bog and would not leave until it was fed.",
+  "heardAt": "heard among the bog-tribes",
+  "region": "Southern Wilds",
+  "entries": [
+   "murkstrider"
+  ]
+ },
+ {
+  "id": "rumor-155",
+  "text": "A trader camped for a week on an island in the delta. On the eighth morning the island left.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "mirewallow"
+  ]
+ },
+ {
+  "id": "rumor-156",
+  "text": "The razorfins of one river have stopped taking the bait, and the boatmen say they are waiting for something bigger.",
+  "heardAt": "heard on the Murkstrider routes",
+  "region": "Southern Wilds",
+  "entries": [
+   "razorfin"
+  ]
+ },
+ {
+  "id": "rumor-157",
+  "text": "A bellowback herd lay down all at once on the savanna and would not rise until the earthquake had passed.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "bellowback"
+  ]
+ },
+ {
+  "id": "rumor-158",
+  "text": "Every cluckmaw in a Jakupur village laid an egg with a red speckle on the same morning.",
+  "heardAt": "heard in Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "cluckmaw"
+  ]
+ },
+ {
+  "id": "rumor-159",
+  "text": "A Jakupur scribe swears his quillhen's quills only write the truth.",
+  "heardAt": "heard in Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "quillhen"
+  ]
+ },
+ {
+  "id": "rumor-160",
+  "text": "The White Flame's bounty on wild gloamhides was paid twice last year, both times for the same animal.",
+  "heardAt": "heard in Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "gloamhide"
+  ]
+ },
+ {
+  "id": "rumor-162",
+  "text": "Nobody has ever painted the Imperium's Grand Inquisitor. The Frontier spies who claim to have seen him won't say what he looked like.",
+  "heardAt": "an Ironfort customs clerk",
+  "region": "All regions",
+  "entries": [
+   "assios-and-the-wider-world"
+  ]
+ },
+ {
+  "id": "rumor-163",
+  "text": "Sailors back from Khard Muur say Valengrad crowned King Rune last year. They crowned him the year before too, and he was buried in between.",
+  "heardAt": "a sailor back from the west",
+  "region": "The Sea",
+  "entries": [
+   "assios-and-the-wider-world",
+   "xathnatraz"
+  ]
+ },
+ {
+  "id": "rumor-164",
+  "text": "The Wrong Coast. The quarantined waters of the far south are \"plague waters,\" the Council says. Southern sailors tell stories of grey ships with no names that sail without lanterns, and of the Hum: a note under hearing that you feel in the hull on calm nights. Never hum along.",
+  "heardAt": "common talk",
+  "region": "All regions",
+  "entries": [
+   "wrong-coast",
+   "southern-quarantine"
+  ]
+ },
+ {
+  "id": "rumor-165",
+  "text": "Goldspire's heir was seen at a pawnbroker's on the Duskmire road, in a borrowed cloak.",
+  "heardAt": "a Duskmire pawnbroker's boy",
+  "region": "Central Heartland",
+  "entries": [
+   "duskmire-haven"
+  ]
+ },
+ {
+  "id": "rumor-166",
+  "text": "Goldwind's lamps burn cleaner since Frosthold changed its oil. The lamplighters say the smoke smells faintly of coins.",
+  "heardAt": "a Goldwind lamplighter",
+  "region": "Icy Expanse",
+  "entries": [
+   "frosthold"
+  ]
+ },
+ {
+  "id": "rumor-167",
+  "text": "Reinhardt Holst buys a drink for every old pirate in Hollowkey and asks each of them the same question: whose colors sank the Sea Seraph?",
+  "heardAt": "a Hollowkey barkeep",
+  "region": "Southern Wilds",
+  "entries": [
+   "hollowkey",
+   "reinhardt-holst"
+  ]
+ },
+ {
+  "id": "rumor-168",
+  "text": "Damyel's ship made Mumit from Southhaven in five days, against the wind. The fastest Justicar in the Emerald Wrath needs two weeks.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "southhaven",
+   "nine-fleets"
+  ]
+ },
+ {
+  "id": "rumor-169",
+  "text": "Stormwater from the Stormreach spring tastes of the sea where it used to taste of rock.",
+  "heardAt": "heard in the Northern Frontier",
+  "region": "Northern Frontier",
+  "entries": [
+   "stormreach"
+  ]
+ },
+ {
+  "id": "rumor-170",
+  "text": "Fishers off Stormreach netted a brass hatch the size of a door, with a wheel on it.",
+  "heardAt": "a Stormreach fishwife",
+  "region": "Northern Frontier",
+  "entries": [
+   "stormreach"
+  ]
+ },
+ {
+  "id": "rumor-171",
+  "text": "Don't sail west. Out past the edge of the charts lies cursed Xathnatraz, the isle where the dark of the old Eon was sealed. Ships that go looking for it come back with fewer people, or not at all.",
+  "heardAt": "common talk",
+  "region": "The Sea",
+  "entries": [
+   "xathnatraz"
+  ]
+ },
+ {
+  "id": "rumor-172",
+  "text": "The Maw-Pit is holding a fight this month that does not have a condemned man in it. It has a child.",
+  "heardAt": "heard in the Southern Wilds",
+  "region": "Southern Wilds",
+  "entries": [
+   "maw-pit"
+  ]
+ },
+ {
+  "id": "rumor-173",
+  "text": "Abyssara: what falls into the southwestern trench does not come back; what comes back is changed.",
+  "heardAt": "common talk",
+  "region": "The Sea",
+  "entries": [
+   "abyssara-the-black-below"
+  ]
+ },
+ {
+  "id": "rumor-174",
+  "text": "Someone is buying every reefpurple dye that comes through Pearl Groove. The Council cannot find the buyer, and the Pelagar house will not say.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "The Sea",
+  "entries": [
+   "pearl-groove-and-the-pelagar-isle",
+   "dress-and-the-five-glance-read"
+  ]
+ },
+ {
+  "id": "rumor-175",
+  "text": "The center socket. The Spire Floor has a thirteenth flag-socket at its center that has never held a flag, and the Charterhouse Company wants it very badly.",
+  "heardAt": "common talk",
+  "region": "All regions",
+  "entries": [
+   "charterhouse-company"
+  ]
+ },
+ {
+  "id": "rumor-176",
+  "text": "Theodora Nightshade: she has slipped in and out of the Reckoners' Hall.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "reckoners-hall",
+   "theodora-nightshade"
+  ]
+ },
+ {
+  "id": "rumor-177",
+  "text": "The Rose House signs every contract twice: once in ink, and once in something that does not dry.",
+  "heardAt": "a Goldwind scrivener",
+  "region": "All regions",
+  "entries": [
+   "house-alastor"
+  ]
+ },
+ {
+  "id": "rumor-178",
+  "text": "Lady Xanthea Alastor and Lady Lysandria Caelvaron dance together at every Veldane wedding, and at no other.",
+  "heardAt": "a Veldane wedding-guest",
+  "region": "All regions",
+  "entries": [
+   "house-alastor",
+   "house-caelvaron",
+   "house-veldane"
+  ]
+ },
+ {
+  "id": "rumor-179",
+  "text": "Halsof Varselis has been asked to take the Five's chair, and he has said no three times. The fourth time he may say yes.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "All regions",
+  "entries": [
+   "house-varselis"
+  ]
+ },
+ {
+  "id": "rumor-180",
+  "text": "The Long Night will be early this year. The Brine Brotherhood's oil-houses are already sold for the next two winters.",
+  "heardAt": "heard in the Icy Expanse",
+  "region": "Icy Expanse",
+  "entries": [
+   "festivals-of-the-ice"
+  ]
+ },
+ {
+  "id": "rumor-181",
+  "text": "Every year on the night of the Maw, someone leaves a red-bladed knife on the reef where Blackheart fell.",
+  "heardAt": "a Maw salvager",
+  "region": "All regions",
+  "entries": [
+   "battle-of-the-krakens-maw"
+  ]
+ },
+ {
+  "id": "rumor-182",
+  "text": "Children in Goldwind say the Council Hall's copper weathervane turns to face Lactinius Windcaller wherever he walks.",
+  "heardAt": "a Goldwind schoolyard",
+  "region": "All regions",
+  "entries": [
+   "lactinius-windcaller"
+  ]
+ },
+ {
+  "id": "rumor-183",
+  "text": "Nobody has ever seen the Iron Swan take on coal.",
+  "heardAt": "every dockside in the islands",
+  "region": "All regions",
+  "entries": [
+   "titania-and-the-iron-swan"
+  ]
+ },
+ {
+  "id": "rumor-184",
+  "text": "\"Painted\" Cora: she leaves a painted red rose on every ship she plunders.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "painted-cora"
+  ]
+ },
+ {
+  "id": "rumor-185",
+  "text": "\"Painted\" Cora: she can make herself look like anyone.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "painted-cora"
+  ]
+ },
+ {
+  "id": "rumor-186",
+  "text": "\"Painted\" Cora: she is searching for the Brush of Creation.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "painted-cora"
+  ]
+ },
+ {
+  "id": "rumor-187",
+  "text": "\"Red\" Mara: a map is tattooed on her back in sea serpent's blood.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "red-mara"
+  ]
+ },
+ {
+  "id": "rumor-188",
+  "text": "\"Red\" Mara: her crew is bound to her by an unbreakable oath of the sea.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "red-mara"
+  ]
+ },
+ {
+  "id": "rumor-189",
+  "text": "\"Red\" Mara: she keeps a hidden cove where runaway slaves are sheltered.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "red-mara"
+  ]
+ },
+ {
+  "id": "rumor-190",
+  "text": "\"Silverfin\" Davin: his charm turns enemies into friends.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "silverfin-davin"
+  ]
+ },
+ {
+  "id": "rumor-191",
+  "text": "\"Silverfin\" Davin: he once jumped overboard in a raid to save a drowning child.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "silverfin-davin"
+  ]
+ },
+ {
+  "id": "rumor-192",
+  "text": "\"Silverfin\" Davin: a mermaid's curse keeps him at sea.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "silverfin-davin"
+  ]
+ },
+ {
+  "id": "rumor-193",
+  "text": "\"Storm-Eye\" Jorvik: he predicts storms weeks before they come.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "storm-eye-jorvik"
+  ]
+ },
+ {
+  "id": "rumor-194",
+  "text": "\"Storm-Eye\" Jorvik: he has a pact with the spirits of the sea.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "storm-eye-jorvik"
+  ]
+ },
+ {
+  "id": "rumor-195",
+  "text": "\"Storm-Eye\" Jorvik: his missing eye sees the truth in every heart.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "storm-eye-jorvik"
+  ]
+ },
+ {
+  "id": "rumor-196",
+  "text": "Arcturus Ironheart: his ship is plated in iron and cannot be sunk.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "arcturus-ironheart"
+  ]
+ },
+ {
+  "id": "rumor-197",
+  "text": "Arcturus Ironheart: his cannons fire by steam.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "arcturus-ironheart"
+  ]
+ },
+ {
+  "id": "rumor-198",
+  "text": "Arcturus Ironheart: his blades are stronger than anything else at sea.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "arcturus-ironheart"
+  ]
+ },
+ {
+  "id": "rumor-199",
+  "text": "Azura Blackbeak: her singing voice lures ships onto her guns.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "azura-blackbeak-the-siren-of-the-seas"
+  ]
+ },
+ {
+  "id": "rumor-200",
+  "text": "Azura Blackbeak: her crew is all women and has never lost a boarding.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "azura-blackbeak-the-siren-of-the-seas"
+  ]
+ },
+ {
+  "id": "rumor-201",
+  "text": "Bellamy the Bold: he escaped the gallows by charming the executioner.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "bellamy-the-bold"
+  ]
+ },
+ {
+  "id": "rumor-202",
+  "text": "Bellamy the Bold: he has a map to a city of gold and lacks only the key.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "bellamy-the-bold"
+  ]
+ },
+ {
+  "id": "rumor-203",
+  "text": "Bellamy the Bold: his parrot is a rival captain, transformed.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "bellamy-the-bold"
+  ]
+ },
+ {
+  "id": "rumor-204",
+  "text": "Captain Blackstorm: he commands the dead with whispered words.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "captain-blackstorm"
+  ]
+ },
+ {
+  "id": "rumor-205",
+  "text": "Captain Blackstorm: he wears the lost Ring of Depths, which gives him power over sea creatures.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "captain-blackstorm"
+  ]
+ },
+ {
+  "id": "rumor-206",
+  "text": "Captain Sabletooth: his cannons never miss.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "captain-sabletooth"
+  ]
+ },
+ {
+  "id": "rumor-207",
+  "text": "Captain Sabletooth: he found the lost Dwarven Forge under the sea.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "captain-sabletooth"
+  ]
+ },
+ {
+  "id": "rumor-208",
+  "text": "Captain Sabletooth: he is searching for the Hammer of the Deep.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "captain-sabletooth"
+  ]
+ },
+ {
+  "id": "rumor-209",
+  "text": "Captain Umbrel: he is never seen by day and strikes only at night.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "captain-umbrel"
+  ]
+ },
+ {
+  "id": "rumor-210",
+  "text": "Captain Umbrel: his ship appears and vanishes like a mirage.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "captain-umbrel"
+  ]
+ },
+ {
+  "id": "rumor-211",
+  "text": "Captain Umbrel: he stole an invisible cloak from the Skein.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "captain-umbrel",
+   "undertow"
+  ]
+ },
+ {
+  "id": "rumor-212",
+  "text": "Corvath Stormbringer: he cannot die.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "corvath-stormbringer"
+  ]
+ },
+ {
+  "id": "rumor-213",
+  "text": "Corvath Stormbringer: his crew are ghosts that steel passes through.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "corvath-stormbringer"
+  ]
+ },
+ {
+  "id": "rumor-214",
+  "text": "Corvath Stormbringer: he throws lightning from his own hands.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "corvath-stormbringer"
+  ]
+ },
+ {
+  "id": "rumor-215",
+  "text": "Crimson Legion recruiters pay in coin filed smooth, so you can't see whose face was on it.",
+  "heardAt": "a deserter in Southhaven",
+  "region": "All regions",
+  "entries": [
+   "crimson-legion"
+  ]
+ },
+ {
+  "id": "rumor-216",
+  "text": "A Legion deserter swears the Scarlet Mother bleeds like anyone else, and limps on cold mornings.",
+  "heardAt": "the same deserter, later",
+  "region": "All regions",
+  "entries": [
+   "crimson-legion"
+  ]
+ },
+ {
+  "id": "rumor-217",
+  "text": "Grogar the Relentless: he survived a duel with a kraken and wears its eye as a trophy.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "grogar-the-relentless"
+  ]
+ },
+ {
+  "id": "rumor-218",
+  "text": "Grogar the Relentless: his war cries carry over the worst storms.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "grogar-the-relentless"
+  ]
+ },
+ {
+  "id": "rumor-219",
+  "text": "Grogar the Relentless: he means to unite every orc pirate under his banner.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "grogar-the-relentless"
+  ]
+ },
+ {
+  "id": "rumor-220",
+  "text": "Hrothgar Icevein: his breath freezes a man where he stands.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "hrothgar-icevein"
+  ]
+ },
+ {
+  "id": "rumor-221",
+  "text": "The Iceblade Twins: they freeze an enemy's blood with a look.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "iceblade-twins"
+  ]
+ },
+ {
+  "id": "rumor-222",
+  "text": "The Iceblade Twins: their ship sails on a road of ice, even in warm water.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "iceblade-twins"
+  ]
+ },
+ {
+  "id": "rumor-223",
+  "text": "The Iceblade Twins: they stole the Crown of Winter.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "iceblade-twins"
+  ]
+ },
+ {
+  "id": "rumor-224",
+  "text": "Kaida Dragonfire: her scales turn steel.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "kaida-dragonfire"
+  ]
+ },
+ {
+  "id": "rumor-225",
+  "text": "Kaida Dragonfire: she breathes fire.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "kaida-dragonfire"
+  ]
+ },
+ {
+  "id": "rumor-226",
+  "text": "Kaida Dragonfire: she can smell a ship over the horizon.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "kaida-dragonfire"
+  ]
+ },
+ {
+  "id": "rumor-227",
+  "text": "Lirelai the Siren: her voice can calm the wildest storm.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "lirelai-the-siren"
+  ]
+ },
+ {
+  "id": "rumor-228",
+  "text": "Lirelai the Siren: a sea dragon saved her as a child, and she speaks its tongue.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "lirelai-the-siren"
+  ]
+ },
+ {
+  "id": "rumor-229",
+  "text": "Lirelai the Siren: she owns a mirror that shows distant shores.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "lirelai-the-siren"
+  ]
+ },
+ {
+  "id": "rumor-230",
+  "text": "Morga Stormdrum: her shaman's drum calls the storms.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "morga-stormdrum"
+  ]
+ },
+ {
+  "id": "rumor-231",
+  "text": "Morga Stormdrum: she speaks to the beasts of the sea and they obey.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "morga-stormdrum"
+  ]
+ },
+ {
+  "id": "rumor-232",
+  "text": "Morga Stormdrum: her eyes turn the color of a stormy sea when she is angry.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "morga-stormdrum"
+  ]
+ },
+ {
+  "id": "rumor-233",
+  "text": "The Quiet Auction: a floating black-market auction of relics and drowned wonders, by invitation only, never once raided.",
+  "heardAt": "common talk",
+  "region": "All regions",
+  "entries": [
+   "quiet-auction"
+  ]
+ },
+ {
+  "id": "rumor-234",
+  "text": "Seren Blackheart: her father's ghost guides her in battle.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "seren-blackheart-the-last-smile"
+  ]
+ },
+ {
+  "id": "rumor-235",
+  "text": "Seren Blackheart: she knows where the Kraken's Lair lies.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "seren-blackheart-the-last-smile"
+  ]
+ },
+ {
+  "id": "rumor-236",
+  "text": "Seren Blackheart: a sea witch's pact gives her unnatural skill.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "seren-blackheart-the-last-smile"
+  ]
+ },
+ {
+  "id": "rumor-237",
+  "text": "Siroc the Swift: he can outrun the wind and vanish into thin air.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "siroc-the-swift"
+  ]
+ },
+ {
+  "id": "rumor-238",
+  "text": "Siroc the Swift: he carries an ancient elven artifact that commands the winds.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "siroc-the-swift"
+  ]
+ },
+ {
+  "id": "rumor-239",
+  "text": "Theodora Nightshade: she keeps a collection of every poison in the islands.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "theodora-nightshade"
+  ]
+ },
+ {
+  "id": "rumor-240",
+  "text": "Theodora Nightshade: no lock has ever held her.",
+  "heardAt": "the docks, about the Most Wanted",
+  "region": "All regions",
+  "entries": [
+   "theodora-nightshade"
+  ]
+ },
+ {
+  "id": "rumor-241",
+  "text": "A blackened copper Bit on a dead man's tongue means one thing in the Undertow: don't ask.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "All regions",
+  "entries": [
+   "undertow"
+  ]
+ },
+ {
+  "id": "rumor-242",
+  "text": "The Undertow: the smuggler's web that moves what the harbors won't. Everyone has a cousin who knows someone.",
+  "heardAt": "common talk",
+  "region": "All regions",
+  "entries": [
+   "undertow"
+  ]
+ },
+ {
+  "id": "rumor-faust-unacknowledged-son",
+  "text": "A few of Johann Faust’s relatives suspect he may have a son born out of wedlock. None of them can agree on who the mother might have been.",
+  "heardAt": "whispered among the Faust family",
+  "region": "Northern Frontier",
+  "entries": [
+   "johann-faust"
+  ]
+ },
+ {
+  "id": "rumor-hyacinth-reinhardt-midsummer",
+  "text": "“Hyacinth Alastor and Reinhardt Holst were seen together at Lord Vanris’s Midsummer Gala. A chance conversation, they say. Of course. The drawing rooms are already wondering whether there is something more between the Rose House’s heir and the disinherited Holst.” (whispered behind a silk fan)",
+  "heardAt": "whispered in noble drawing rooms after Lord Vanris’s Midsummer Gala",
+  "region": "Central Heartland",
+  "entries": [
+   "hyacinth-alastor",
+   "reinhardt-holst",
+   "house-vanris",
+   "goldwind"
+  ]
+ },
+ {
+  "id": "rumor-giant-betta-heartland-pool",
+  "text": "“His lordship says the second pool is for a different color. The man who delivered the fish asked where the guests would place their wagers.” (a Heartland household servant)",
+  "heardAt": "heard among the servants of a Heartland household",
+  "region": "Central Heartland",
+  "entries": [
+   "giant-betta",
+   "heartland",
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-vellune-radan-hat",
+  "text": "He has a year’s salary now and still comes in just to ask what she thinks of his hat.",
+  "heardAt": "a customer at Vellune, on Radan Sunmere",
+  "region": "Central Heartland",
+  "entries": [
+   "vellune-finery-enchantments",
+   "lysandra-vellune",
+   "radan-sunmere"
+  ]
+ },
+ {
+  "id": "rumor-stormchanter-alliance",
+  "text": "For the first time in seventy years, the Stormchanters are talking about joining the other orc tribes in a war.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "Central Heartland",
+  "entries": [
+   "storm-listeners",
+   "orc-tribes"
+  ]
+ },
+ {
+  "id": "rumor-stormchanter-thunderbird-egg",
+  "text": "A thunderbird egg rests at the very top of the Stormchanters’ shrine. They say the tribe is keeping watch over it.",
+  "heardAt": "heard in the Central Heartland",
+  "region": "Central Heartland",
+  "entries": [
+   "storm-listeners"
+  ]
+ },
+ {
+  "id": "rumor-anukali-karnivool",
+  "text": "Hands off the Karnivool swear that at the last King Tide they saw an island the old songs call Anukáli, with a whole people on it, and a leviathan that followed them north, calling like a whale, until it sank. The Lodge says the Karnivool’s hands drink.",
+  "heardAt": "heard in the Goldwind taverns",
+  "region": "The Sea",
+  "entries": [
+   "avalan-grant",
+   "king-tide"
+  ]
+ },
+ {
+  "id": "rumor-leoric-under-guard",
+  "text": "Leoric Thorne came home last year in a Hunter ship’s hold and not on her quarterdeck. Ten years gone, and the Lodge will not say where it found him.",
+  "heardAt": "heard at the Goldwind Lodge",
+  "region": "Central Heartland",
+  "entries": [
+   "captain-magnus-and-leoric"
+  ]
+ }
 ]
