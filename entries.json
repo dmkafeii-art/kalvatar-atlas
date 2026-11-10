@@ -20453,14 +20453,41 @@
   "title": "Chaos",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
-  "summary": "destruction and madness. The caged first being, prayed to only by the mad and the desperate.",
+  "subtitle": "The caged first being: destruction and madness",
+  "summary": "Chaos is the oldest thing the pantheon names: the first being, vast and unbound, caged by its own children before the world was finished. It is counted among the five Greater Gods, and only the mad and the desperate pray to it.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What it is",
     "paragraphs": [
-     "Chaos is one of the five Greater Gods: destruction and madness. The caged first being, prayed to only by the mad and the desperate.",
-     "The image of a cage gives the old account its force: the first being still exists, and the pantheon remembers what had to be contained. A prayer to Chaos comes from the far edge of desperation, where someone is willing to call on the very power the story warns against."
+     "The old account says that Chaos came first, that Law and the other deep powers came out of it, and that together they caged it, because Chaos unbound would have dissolved everything they had named. The cage is the heart of the story: the first being still exists, and the world was built with it shut inside."
+    ]
+   },
+   {
+    "title": "Who prays to it",
+    "paragraphs": [
+     "No temple stands to Chaos and no priest admits to serving it. A prayer to Chaos comes from the far edge of desperation: a ruined gambler, a prisoner before the rope, someone who wants a thing destroyed and no longer cares what goes with it."
+    ]
+   },
+   {
+    "title": "Signs and customs",
+    "paragraphs": [],
+    "list": [
+     "**The broken ring.** A circle scratched with a gap in it, found on cell walls and the undersides of tables.",
+     "**Naming it.** Sailors will not say its name aboard ship. They say *the First* and spit to leeward.",
+     "**The answer.** Folk wisdom holds that Chaos always answers, and never with what was asked."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The Concord preaches against it without much effort, since almost nobody needs persuading. Its real place in island life is as a curse and a warning: *Chaos take it* is what a captain says when a plan is past saving."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A cage that old leaks. Ask the priests what the Void is and watch them change the subject.” (a University lecturer)",
+     "“There’s a crew in the Freeholds that sails under the broken ring. They’ve never lost a ship. They’ve lost everything else.” (a Hollowkey fence)"
     ]
    }
   ],
@@ -20468,11 +20495,29 @@
    [
     "Rank",
     "Greater God"
+   ],
+   [
+    "Symbol",
+    "none; its faithful draw a broken ring"
+   ],
+   [
+    "Worship",
+    "no temple, no priest, and shunned on every coast"
+   ],
+   [
+    "Its people",
+    "the mad, the ruined, and the desperate"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "Nobody prays to it first. It’s the name you get to when you’ve run out of the others.",
+   "by": "a Hearthkeeper of Southhaven"
+  },
   "related": [
+   "law-the-sun-king",
+   "ungoreth-the-hollow-hunger",
    "gods-of-the-pantheon"
   ]
  },
@@ -20588,15 +20633,42 @@
   "title": "Eliol",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Magic, knowledge, spell, time.",
-  "summary": "Patron of the University. Month: Eliol of Chart and Star",
+  "subtitle": "Chart and Star: magic, knowledge, and time",
+  "summary": "Eliol is the god of magic and knowledge: the spell, the book, and the patient hours both of them cost. He is the patron of the University in all but name, and the second month of the year, the month of long nights and study, is his.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Eliol: magic, knowledge, spell, time.",
-     "Patron of the University. Month: Eliol of Chart and Star",
-     "Eliol’s patronage of the University places spellcraft alongside the work of learning. Chart and Star, the name of his month, gives that relationship a fitting image: knowledge has to be recorded and read before it can guide someone else."
+     "Eliol keeps magic, knowledge, the spell, and time. His teaching is that magic is a tool and takes no side: what matters is whether the working is true. Scholars and arcane casters are his, and so is anyone finding their way with a chart and a star."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The University of Goldwind is his house in practice, though it has never said so in its statutes. Gnomes lean toward him beside Rhor and their own Tik. His priests are more often librarians and examiners than preachers."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**The convocations.** In his month the University holds its convocations and investitures.",
+     "**The copper examinations.** The Arcane Registry examines its new casters in Eliol.",
+     "**The binding.** Apprentices are bound to their masters in his month, in every trade.",
+     "**The long nights.** His month falls in Closed Water, when the lanes are shut and there is nothing to do but study."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "A student carries a stub of candle from the last examination they passed. Starfall, on Eliol 30th, falls in his month and belongs to Skaia, and the two priesthoods have shared the night without a quarrel for longer than the Charter."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“He isn’t on the University’s seal because the Registry wouldn’t have it. A god of magic on the door, in Goldwind?” (a University porter)",
+     "“Every book ever burned is still in his library. The trick is the door.” (a Goldwind bookbinder)"
     ]
    }
   ],
@@ -20612,12 +20684,38 @@
    [
     "Month",
     "Eliol of Chart and Star"
+   ],
+   [
+    "Symbol",
+    "an open book under a single star"
+   ],
+   [
+    "Holy days",
+    "the convocations of his month"
+   ],
+   [
+    "Offerings",
+    "a candle burned to the end over honest work"
+   ],
+   [
+    "His people",
+    "scholars, casters, chart-makers, apprentices, gnomes"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "Eliol doesn’t care what you do with it. He cares whether you got it right.",
+   "by": "a magister of the University"
+  },
   "related": [
-   "university"
+   "university",
+   "arcane-registry",
+   "magic-in-the-islands",
+   "gnomes",
+   "skaia",
+   "rhor",
+   "calendar"
   ]
  },
  {
@@ -20687,15 +20785,42 @@
   "title": "Eo",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Family, earth, healing, community.",
-  "summary": "Greater God. Month: Eo of Hearth and Home",
+  "subtitle": "The hearth-mother: family, earth, healing, and the first fire of the year",
+  "summary": "Eo is the Greater God of the good: the family, the tended earth, the healing that a community does for its own. The year opens in her month, and its first day, Landing-Day, begins with a fire lit in her name in every house in the islands.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Eo: family, earth, healing, community.",
-     "Greater God. Month: Eo of Hearth and Home",
-     "Eo’s month, Hearth and Home, puts the work of healing inside the life of a community. Tending the earth, caring for a relative and keeping a household fed all express the same responsibility for the lives that depend on it."
+     "Eo keeps the things that hold people together: the family, the house, the field that feeds it, and the care a community gives its sick and its old. She is the most loved god in the islands and the least argued about. Farmers and common folk pray to her first, and the halflings count her among their own."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "She has few great temples and a hearth in every home. Her best-known servants are the **Hearthkeepers**, the humble order of Eo and Maela that runs the orphanages, hospices, and shelters of the archipelago. The Slaver Rings prey on those orphanages, which has made a gentle order the patient enemy of organized crime."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**Landing-Day, Eo 1st.** The first fire of the year is lit at dawn. The day is solemn in the morning and rowdy by night.",
+     "**Hearth and Home.** All through her month families gather, and old quarrels are supposed to stay outside.",
+     "**Ironwake.** On the Frontier, the garrisons light bonfires in her month for their dead.",
+     "**The hearth-rite.** A new house is not lived in until a coal from the old one has been carried to its hearth."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The Concord keeps an altar to Eo in every one of its temples. The Heartland has its hearth-cults, and in the Icy Expanse, where a dead fire can kill a household, her hearth-rites are kept more strictly than anywhere else."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A Hearthkeeper will take in anyone, and I mean anyone. Ask the Watch how many wanted men have wintered in an orphanage kitchen.” (a Goldwind watch-sergeant)",
+     "“Let the first fire of the year go out before noon and the house loses someone before the year ends. My grandmother sat up with ours.” (a Greyhaven fishwife)"
     ]
    }
   ],
@@ -20715,26 +20840,79 @@
    [
     "Month",
     "Eo of Hearth and Home"
+   ],
+   [
+    "Symbol",
+    "a lit hearth"
+   ],
+   [
+    "Holy day",
+    "Landing-Day, Eo 1st"
+   ],
+   [
+    "Offerings",
+    "the first bread of a new oven; a place laid for whoever is missing"
+   ],
+   [
+    "Her people",
+    "families, farmers, healers, halflings, the Hearthkeepers"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "You can tell how a house is doing by its hearth. Eo can tell from further off.",
+   "by": "a Hearthkeeper of Goldwind"
+  },
+  "related": [
+   "maela-the-mender",
+   "concord",
+   "halflings",
+   "festivals-everywhere",
+   "gods-of-the-pantheon"
+  ]
  },
  {
   "id": "ezra",
   "title": "Ezra",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Protection, courage, the Shield.",
-  "summary": "She guards the weak; the Armada's own goddess. Month: Ezra of Mast and Sail",
+  "subtitle": "Mast and Sail: protection, courage, and the Shield",
+  "summary": "Ezra is the goddess who guards the weak and asks the strong to stand in front of them. She is the Armada’s own goddess, and the third month, when the lanes open and the ships go out, carries her name.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Ezra: protection, courage, the shield.",
-     "She guards the weak; the Armada's own goddess. Month: Ezra of Mast and Sail",
-     "Ezra’s shield expresses the duty to stand between danger and someone who cannot meet it alone. That protective courage is central to the Armada’s devotion and gives particular weight to her place in the calendar, in the month of Mast and Sail."
+     "Ezra keeps protection and courage. Her sign is the Shield, and her teaching is plain: strength exists to be put between harm and those who cannot stop it. She is also the goddess of setting out, because leaving harbor is the first brave thing most islanders do."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The Armada reveres her above its other gods. The **Shieldmaidens**, a martial sisterhood devoted to her, serve as bodyguards, escorts, and shield-line defenders, and it is said of them that a Shieldmaiden’s charge is safe or the Shieldmaiden is dead. Several great houses and Concord temples retain them."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**First-Sail.** The spring blessing of the ships, when the Armada’s fleets leave their winter stations and the long-haul convoys depart.",
+     "**The Bastion tourneys.** Held in her month at Bastion, the seat of House Faust.",
+     "**The Trials of Ascension.** The Hunters hold their yearly examination in Ezra.",
+     "**The shield-vow.** A guard taking a charge says so aloud, in front of the person guarded."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The companies of the Front Levy sail at First-Sail, under her blessing. Her chapels stand in every Armada station, and a shield hung face-out over a door means the house will shelter whoever asks."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Shieldmaidens keep a book of every charge they ever lost. It’s a short book, and they read it aloud once a year.” (a house steward of the Heartland)",
+     "“Half the Armada prays to Ezra and the other half to Lilim, and the admirals know exactly which captains are which.” (an Armada purser)"
     ]
    }
   ],
@@ -20750,11 +20928,39 @@
    [
     "Month",
     "Ezra of Mast and Sail"
+   ],
+   [
+    "Symbol",
+    "a round shield"
+   ],
+   [
+    "Holy day",
+    "First-Sail"
+   ],
+   [
+    "Offerings",
+    "a vow made aloud, with a witness"
+   ],
+   [
+    "Her people",
+    "the Armada, the Shieldmaidens, guards, escorts, anyone setting out"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "Ezra’s children don’t stay home.",
+   "by": "an island saying"
+  },
+  "related": [
+   "armada",
+   "hunters",
+   "bastion",
+   "lilim",
+   "concord",
+   "festivals-everywhere",
+   "calendar"
+  ]
  },
  {
   "id": "fortura-the-fickle",
@@ -20924,15 +21130,42 @@
   "title": "Halvenir, the Reaper of Grain",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Reaper of Grain.",
-  "summary": "Too busy working for stories. Month: Halvenir of Salt and Harvest",
+  "subtitle": "Salt and Harvest: plenty, and keeping it",
+  "summary": "Halvenir is the god of the planted field and the turning year: harvest, seasons, plenty, and toil. He is the most worshipped god nobody tells stories about, because his followers are too busy working. The eighth month, when the harvest of land and sea comes in, is his.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Halvenir, the Reaper of Grain: harvest, seasons, plenty, toil.",
-     "Too busy working for stories. Month: Halvenir of Salt and Harvest",
-     "Halvenir’s abundance has a season and a cost in work. Salt and Harvest, the month that bears his name, evokes the moment when the labor of many hands has to become provisions that will last after the fields have been cut."
+     "Halvenir keeps the harvest and the labor that earns it. In the islands that means the sea’s harvest as much as the land’s, and his month is called Salt and Harvest for both. His one teaching is that plenty is only half the work, and keeping it is the other half."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "He has almost no priests. His rites are led by whoever owns the field or the boat, and they are short, because there is work waiting. The Concord keeps his altar among its gods of Sun, Sea, and Order."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**The Bounty of the Sea.** The great autumn festival of his month.",
+     "**The putting-by.** Salting, smoking, and storing fill the month, and every windowsill overflows.",
+     "**The last sheaf.** The last sheaf cut is left standing in the field for him.",
+     "**The first barrel.** The first barrel salted in a season is given to a house that has none."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "His month opens Storm Water, and everyone works against the weather. A village that brings its harvest in before the first storm is said to have been early for Halvenir, which is the highest praise a farmer gives."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The year the last sheaf is cut, the next harvest fails. Nobody has tested it in my lifetime, and nobody’s going to.” (a Kaskan farmer)",
+     "“He does have one story. The farmers know it, and they aren’t telling.” (a chant-keeper of the Wilds)"
     ]
    }
   ],
@@ -20948,15 +21181,37 @@
    [
     "Month",
     "Halvenir of Salt and Harvest"
+   ],
+   [
+    "Symbol",
+    "a sickle wrapped in wheat"
+   ],
+   [
+    "Holy days",
+    "the Bounty of the Sea"
+   ],
+   [
+    "Offerings",
+    "the last sheaf; the first barrel salted"
+   ],
+   [
+    "His people",
+    "farmers, fishers, salters, anyone with a winter to get through"
    ]
   ],
   "source": "The Pantheon",
   "epigraph": {
-   "quote": "Nobody writes stories about the harvest. We are too busy bringing it in.",
-   "by": "A farmer of the Heartland's Storm Water fields, at the last sheaf of the season"
+   "quote": "Halvenir has no legends. He has a full barn, and he thinks that’s the better deal.",
+   "by": "a Sunhold terrace-farmer"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "field-mine-and-herd",
+   "concord",
+   "okram",
+   "festivals-everywhere",
+   "calendar"
+  ]
  },
  {
   "id": "hunger-that-warms",
@@ -21009,15 +21264,42 @@
   "title": "Idel",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Trade, trickery, travel, music.",
-  "summary": "The honest deal and the clever one. Month: Idel of Coin and Cargo",
+  "subtitle": "Coin and Cargo: the honest deal and the clever one",
+  "summary": "Idel is the god of trade, travel, trickery, and music: the bargain struck fairly, and the one struck cleverly, which the markets hold to be nearly the same thing. The sixth month, high summer and the fattest weeks of the trading year, is Idel’s.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Idel keeps",
     "paragraphs": [
-     "Idel: trade, trickery, travel, music.",
-     "The honest deal and the clever one. Month: Idel of Coin and Cargo",
-     "Idel’s road runs through the port and the marketplace. The same traveler can bargain over cargo, trade a tune for company and listen carefully for the difference between an honest deal and one that is merely clever."
+     "Idel keeps trade, trickery, travel, and music, and sits at the heart of the trade routes and the festivals that grow along them. A hard bargain honors Idel. A cheat does not, and the difference is the subject of most of the god’s parables."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Merchants touch the doorpost of the market shrine on the way in. The Pocchin, who pray to whichever god seems likeliest to improve the next deal, pray to Idel more often than not."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**The great markets.** Held all through the month, in every port with a quay to hold one.",
+     "**The Festival of Winds.** Kites, regattas, and the season’s Long Pull.",
+     "**The caravan weeks.** The Pocchin caravans’ fattest weeks of the year.",
+     "**The first coin.** The first coin of a day’s trade buys something for someone else."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "A deal closed with music playing is held to be luckier, which is why no great market is ever quiet. Idel’s priests settle small disputes on the spot, for a fee, and are rarely appealed."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Idel has no temple in Goldwind because the banks wouldn’t sell the land. The banks say it was the other way round.” (a Reckoners’ clerk)",
+     "“The best cheat in the islands tithes to Idel every year, on time and in full. Make of that what you like.” (a Slatemouth broker)"
     ]
    }
   ],
@@ -21033,11 +21315,38 @@
    [
     "Month",
     "Idel of Coin and Cargo"
+   ],
+   [
+    "Symbol",
+    "a coin on a string"
+   ],
+   [
+    "Holy days",
+    "the Festival of Winds"
+   ],
+   [
+    "Offerings",
+    "the first coin of a day’s trade, spent on a stranger"
+   ],
+   [
+    "Idel’s people",
+    "merchants, peddlers, caravans, street musicians"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "Idel blesses the honest deal and the clever one. If yours was neither, don’t bring it to the altar.",
+   "by": "a Pocchin caravan-master"
+  },
+  "related": [
+   "pocchin",
+   "mercantile-congress",
+   "the-great-flows",
+   "kessa-of-the-crossroads",
+   "festivals-everywhere",
+   "calendar"
+  ]
  },
  {
   "id": "iliriel-the-perfect-form",
@@ -21281,15 +21590,41 @@
   "title": "Law, the Sun King",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Sun King.",
-  "summary": "Greater God; judges, noble courts, the Navy of the north",
+  "subtitle": "The First Namer: law, sun, fire, and purification",
+  "summary": "Law is the Greater God of order, the blazing ruler whose light sustains and burns. The faithful call him the Sun King and the First Namer. Judges, noble courts, and the Armada’s northern fleets swear by him, and so, across the water, does the Imperium.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Law, the Sun King: law, sun, fire, purification.",
-     "Greater God; judges, noble courts, the Navy of the north",
-     "Judges, noble courts and the northern Navy all find something of their authority in the Sun King. His sun and cleansing fire give divine force to the idea that a judgment can expose a wrong and call for its removal."
+     "Law keeps order, the sun, and the fire that cleans. His oldest title is the First Namer: in the oldest telling, to name a thing was to make it, and he named the world into shape. That is why a true name still carries weight in the islands, and why an oath sworn by name is the heaviest kind."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "He is the first god on the Concord’s altars, and the **Sunward**, the Concord’s high priest of the solar and order gods, speaks for him. The **Knights of Dawn**, a militant order of the sun, keep their vigil in his name; most islanders know them simply as sun-knights and monster-slayers."
+    ]
+   },
+   {
+    "title": "Rites and signs",
+    "paragraphs": [],
+    "list": [
+     "**The dawn oath.** A judge takes office at sunrise, facing east, and a verdict given in full daylight is held to be harder to overturn.",
+     "**Purification.** His priests cleanse with fire and light: a lamp carried through a house, a brand passed over a blade.",
+     "**The courts.** A sun is carved over the bench of every Council court."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Law is a god of the north and of the old houses more than of the fishing quays. The Imperium worships him too, as the Iron Sun whose light the Emperor carries on earth, and the islands’ priests are careful to say that the sun rises on everyone."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Knights of Dawn aren’t waiting for monsters. They’re waiting for a night, and they think it’s coming back.” (a Knight’s former squire)",
+     "“The Imperium’s Sun and ours are the same god. Ask a Sunward whose side he’s on and watch how long the answer takes.” (a Frontier chaplain)"
     ]
    }
   ],
@@ -21301,12 +21636,37 @@
    [
     "Domains",
     "Law, sun, fire, purification"
+   ],
+   [
+    "Rank",
+    "Greater God"
+   ],
+   [
+    "Symbol",
+    "a crowned sun"
+   ],
+   [
+    "Holy hour",
+    "dawn"
+   ],
+   [
+    "His people",
+    "judges, noble courts, the Armada of the north, the Knights of Dawn"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "The sun does not hate what it burns. That is what makes it a judge.",
+   "by": "a magistrate of Goldwind"
+  },
   "related": [
-   "armada"
+   "concord",
+   "armada",
+   "council",
+   "lunia-the-lady-of-light",
+   "veriden-the-oathkeeper",
+   "gods-of-the-pantheon"
   ]
  },
  {
@@ -21348,15 +21708,42 @@
   "title": "Liora of the Open Heart",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Love, desire, union, passion.",
-  "summary": "Love freely given; both moons are her lovers; symbol two clasped hands. Month: Liora of Heart and Hand",
+  "subtitle": "Heart and Hand: love freely given",
+  "summary": "Liora is the goddess of love: romantic, familial, and found. Hers is the love that sets people free, and she is the patron of lovers, the wedded, and the lonely. The harbors say both moons are her lovers, and the fourth month is hers.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Liora of the Open Heart: love, desire, union, passion.",
-     "Love freely given; both moons are her lovers; symbol two clasped hands. Month: Liora of Heart and Hand",
-     "Liora’s two clasped hands make sense as a sign of love freely given: the gesture needs both people. Her love for both moons sets that intimacy on the scale of the sky, and her month bears the name Heart and Hand."
+     "Liora keeps love, desire, union, and passion, and every kind of bond that is chosen. Her faithful set her against **Elisse**, the goddess of the desire that consumes: Liora’s love frees the one who is loved, and that is how they tell the two apart."
+    ]
+   },
+   {
+    "title": "Her lovers",
+    "paragraphs": [
+     "The harbors say both moons love Liora. Valtaire comes full in her month to court her; Ciel wanders off and comes back. When both call on her at once, the King Tide rises with the quarrel."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**Friend-knots.** On Liora 1st, friends tie a knot together and each keeps half the cord.",
+     "**The Merrin Games.** All through her month the Heartland harbors hold twelve trials on the water, and each winner earns a merrin, a red kerchief.",
+     "**The Untying.** Under the full moon of Liora 18th, a girl who wants an evening on the water with a winner unties his merrin.",
+     "**Weddings.** The luckiest weddings of the year are held in Liora."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Her temples raise promise doves, which carry a pledge between two people and no one else. In Goldwind half the city’s romances travel by messenger squirrel, above all in her month."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A knot tied on Liora 1st can’t be untied by anyone but the two who tied it. People have tried, with knives.” (a Goldwind ropemaker)",
+     "“The priests of Liora marry anyone to anyone. The great houses hate that more than they hate piracy.” (a Sunhold notary)"
     ]
    }
   ],
@@ -21372,16 +21759,41 @@
    [
     "Month",
     "Liora of Heart and Hand"
+   ],
+   [
+    "Symbol",
+    "two clasped hands"
+   ],
+   [
+    "Holy day",
+    "the Untying, Liora 18th"
+   ],
+   [
+    "Bird",
+    "the promise dove"
+   ],
+   [
+    "Offerings",
+    "a knot tied by two people"
+   ],
+   [
+    "Her people",
+    "lovers, the wedded, friends, the lonely"
    ]
   ],
   "source": "The Pantheon",
   "epigraph": {
-   "quote": "Love freely given is the only kind that does not turn into a debt. I have seen the other kind, and I will not pray to it.",
-   "by": "A Liora chaplain of the Heartland ports, at a wedding where the bride's family had demanded a dowry in writing"
+   "quote": "Both moons love her, and she has never once chosen. That’s the lesson, if you want one.",
+   "by": "a harbor matchmaker"
   },
   "aliases": [],
   "related": [
-   "two-moons-and-the-tides"
+   "merrin-games",
+   "king-tide",
+   "elisse",
+   "tramica",
+   "festivals-of-the-heartland",
+   "calendar"
   ]
  },
  {
@@ -21495,15 +21907,43 @@
   "title": "Memnara, the Unbroken Thread",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "the Unbroken Thread.",
-  "summary": "Enemy of every forgery and erased name. Month: Memnara of Bell and Remembrance",
+  "subtitle": "Bell and Remembrance: memory, lineage, and the true record",
+  "summary": "Memnara is the goddess of memory: history, lineage, and the record kept true. She is the enemy of every forgery and every erased name. The ninth month, when the islands remember the dead and the drowned, is hers.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Memnara, the Unbroken Thread: memory, history, lineage, the true record.",
-     "Enemy of every forgery and erased name. Month: Memnara of Bell and Remembrance",
-     "Memnara keeps the connection between a name, the record that preserves it and the people who remember it. A forgery or an erased name can break that connection for generations. Her month is known as Bell and Remembrance."
+     "Memnara keeps what happened. Three kinds of people revere her for three reasons: the native peoples as the keeper of the ancestral chants, the nobles as the guardian of lineage, and the scholars as the patron of true history. All three agree that she remembers, whether or not anyone wants her to."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "In the villages of the south, a **chant-keeper** holds the whole history of a people in memorized chant: births, deaths, deeds, pacts, and grudges. In the north, the old houses keep their genealogies as a sacred duty to her. Her temples have bell-towers, and a gravedigger’s apprentice is given an owlet from the tower along with the spade."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**Storm-Watch.** The harbor lights are blessed before the fog comes in.",
+     "**The bells.** In every port a bell is rung for each name the sea took that year.",
+     "**The visiting.** Families visit their dead in her month.",
+     "**The Telling.** The orcs recite the Telling in Memnara.",
+     "**The finches.** During Storm-Watch, echo finches are set in the windows."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Her faithful and the Imperium are natural enemies: the Imperium erases what it conquers, and Memnara remembers it anyway. Her priests are the ones a court sends for when a document is in doubt."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a roll in her temple at Goldwind with every house’s true line on it, bastards and all. Three houses have tried to buy it and one tried to burn it.” (a Goldwind genealogist)",
+     "“A bell that rings by itself in Storm-Watch is ringing for someone the sea hasn’t taken yet.” (a Greyhaven bell-ringer)"
     ]
    }
   ],
@@ -21519,16 +21959,41 @@
    [
     "Month",
     "Memnara of Bell and Remembrance"
+   ],
+   [
+    "Symbol",
+    "an unbroken thread spun between two hands"
+   ],
+   [
+    "Holy days",
+    "Storm-Watch"
+   ],
+   [
+    "Bird",
+    "the mirror plover; owlets are raised in her bell-towers"
+   ],
+   [
+    "Offerings",
+    "a name said aloud"
+   ],
+   [
+    "Her people",
+    "chant-keepers, genealogists, historians, gravediggers"
    ]
   ],
   "source": "The Pantheon",
   "epigraph": {
-   "quote": "A name that is written down and read aloud is never quite dead. Write it, and I will keep it. Erase it, and I will ask why.",
-   "by": "A clerk of the Imperial Archives, copying the lineage of a noble house that had asked for a forgery"
+   "quote": "They can sink the ship and burn the log. She still has the crew list.",
+   "by": "a chant-keeper of the Southern Wilds"
   },
   "aliases": [],
   "related": [
-   "mirror-plover"
+   "orcs",
+   "concord",
+   "southern-wilds",
+   "festivals-everywhere",
+   "tholmar-the-star-wake",
+   "calendar"
   ]
  },
  {
@@ -21536,15 +22001,41 @@
   "title": "Mhavros",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "The ocean depths, hatred, suffering, the abyss.",
-  "summary": "Greater God of evil; the drowned and the things in Abyssara",
+  "subtitle": "The sea as an abyss: the depths, hatred, and suffering",
+  "summary": "Mhavros is the Greater God of evil, and his country is the sea below the light. The drowned belong to his stories, and so do the things that live in Abyssara. Every sailor in the islands fears him, and almost none will admit to having prayed to him.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Mhavros: the ocean depths, hatred, suffering, the abyss.",
-     "Greater God of evil; the drowned and the things in Abyssara",
-     "Mhavros holds the suffering and hatred of the depths, and his reach is associated with the drowned and the things of Abyssara. His place in the pantheon gives the sea below the light a divine presence of its own."
+     "Mhavros keeps the ocean depths, and the hatred and suffering the old stories put there. Where Okram is the sea as a living and Lilim the sea as law, Mhavros is the sea as a mouth. His reach is tied to the drowned, to the Sunken Thrones, and to whatever lairs in Abyssara, the Black Below."
+    ]
+   },
+   {
+    "title": "Who prays to him",
+    "paragraphs": [
+     "On the surface he has no open temples. He has wreckers, drowners, and captains who have run out of better gods. Under the water it is otherwise: the coral peoples honor the Drowning Mother and their own Coral Sovereign in the light, and in the dark of the deeps some courts keep Mhavros."
+    ]
+   },
+   {
+    "title": "Signs and customs",
+    "paragraphs": [],
+    "list": [
+     "**The turned coin.** A sailor who has cursed the sea throws a coin over the wrong shoulder, face down, to pay him to look away.",
+     "**The unlit watch.** No lamp is shown over the side at night in deep water. Something might follow it up.",
+     "**The black wave.** His mark, cut into a keel, is a curse on the ship, and a shipwright who finds one burns the timber."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The Tidecallers name him in their blessings only to shut him out. The Armada’s chaplains say that every man lost overboard is a man Tholmar has to take back from him."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Tide-Tyrant is his hand. When it rises, it’s because he reached.” (a Tidecaller of Pearl Groove)",
+     "“The deep courts have a name for the thing down there, and it isn’t Mhavros. Mhavros is just what we call it so we can sleep.” (a coral speaker, off duty)"
     ]
    }
   ],
@@ -21560,13 +22051,34 @@
    [
     "Domains",
     "The ocean depths, hatred, suffering, the abyss"
+   ],
+   [
+    "Symbol",
+    "a black wave closing over a hand"
+   ],
+   [
+    "Offerings",
+    "nothing given willingly; sailors pay him to look away"
+   ],
+   [
+    "His people",
+    "the dark cults of the deep, and the desperate of every coast"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "Okram is the sea that feeds you. Lilim is the sea that judges you. Mhavros is the sea that wants you.",
+   "by": "a Brine Brotherhood saying"
+  },
   "related": [
    "abyssara-the-black-below",
-   "patrons-of-the-peoples",
+   "sunken-thrones",
+   "thalgorath-the-tide-tyrant",
+   "coral-peoples",
+   "okram",
+   "lilim",
+   "tholmar-the-star-wake",
    "gods-of-the-pantheon"
   ]
  },
@@ -21747,15 +22259,42 @@
   "title": "Okram",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Coast, fishers, survival, protection.",
-  "summary": "The sea as sustenance. Month: Okram of Harbor and Rest",
+  "subtitle": "Harbor and Rest: the sea that feeds",
+  "summary": "Okram is the salt-tongued patron of everyone who works the water: the coast, the fishers, survival, and protection. He is the sea as a living. The tenth month, when the fleets come home and the year is brought into harbor, is his.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Okram: coast, fishers, survival, protection.",
-     "The sea as sustenance. Month: Okram of Harbor and Rest",
-     "Okram’s coast is the sea as a source of food and a place where people work to survive. His protection belongs to fishers who depend on those waters, and his month, Harbor and Rest, gives the return to shore its place beside the catch."
+     "Okram keeps the coast and the people who live off it. Where Lilim is the sea’s law and Mhavros its abyss, Okram is the sea that fills a net. He is blunt, patient, and practical, and so are his prayers."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "The **Brine Brotherhood**, the fishers’ and whalers’ guild, is devout to him in every coastal town. The **Tidecallers**, the Concord’s sea-priests, serve Okram and the water: they bless fleets, read the moons and the tides, and mediate the sea-pacts with the coral courts."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**The homecoming.** In his month the fleets come home and the Returning Cups are turned up.",
+     "**The closing.** The year’s accounts are closed in Okram.",
+     "**The Lanterns of Unity.** On the last night of the month, lanterns are lit to guide the year into harbor.",
+     "**The first fish.** The first fish of the day is never sold. With a net cormorant aboard, it is the first one the bird brings up."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "A fisherman thanks Okram, fears Mhavros, respects Lilim, and pours a cup for Cael at festival, and sees no contradiction. The peerage holds its Moot of Banners in the first Cycle of his month, when everyone is home."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Brotherhood knows which boats are going to come home light before they leave. They say it’s Okram. I say it’s the Tidecallers.” (a Saltreach fish-buyer)",
+     "“A Returning Cup that’s still turned down on the last night gets a lantern of its own. Nobody says why.” (a Pearl Groove tavern-keeper)"
     ]
    }
   ],
@@ -21771,11 +22310,44 @@
    [
     "Month",
     "Okram of Harbor and Rest"
+   ],
+   [
+    "Symbol",
+    "a fishhook"
+   ],
+   [
+    "Holy night",
+    "the Lanterns of Unity, the last night of Okram"
+   ],
+   [
+    "Bird",
+    "the net cormorant"
+   ],
+   [
+    "Offerings",
+    "the first fish of the day"
+   ],
+   [
+    "His people",
+    "fishers, whalers, the Brine Brotherhood, the Tidecallers"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "The first fish is never sold. You’d be amazed how many years a man can go without learning why.",
+   "by": "a Greyhaven netmender"
+  },
+  "related": [
+   "concord",
+   "lilim",
+   "mhavros",
+   "work-at-sea",
+   "coral-peoples",
+   "the-moot-of-banners",
+   "festivals-everywhere",
+   "calendar"
+  ]
  },
  {
   "id": "oorah",
@@ -22082,15 +22654,42 @@
   "title": "Rhor",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Craft, luck, artifice, travel.",
-  "summary": "The luck to make a thing last. Month: Rhor of Net and Anvil",
+  "subtitle": "Net and Anvil: craft, and the luck to make a thing last",
+  "summary": "Rhor is the god of the made thing: skill, artifice, and the fortune that lets good work outlive its maker. Artisans and inventors are his, and the fifth month, the first of the long working summer, carries Rhor’s name.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What Rhor keeps",
     "paragraphs": [
-     "Rhor: craft, luck, artifice, travel.",
-     "The luck to make a thing last. Month: Rhor of Net and Anvil",
-     "Rhor’s craft is judged by what lasts in use. A net has to hold when it is hauled in and a tool must survive the work it was made for. Those tests suit the patron of craft and travel whose month is called Net and Anvil."
+     "Rhor keeps craft, luck, artifice, and travel: the skill to make a thing, and the fortune to make it last. Rhor is no god of war-smithing, which is Brakkundr’s, and is not the dwarves’ eternal forge. Rhor is the god of the workshop and of a living honestly earned."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Every guild keeps a small shrine to Rhor, usually a shelf by the door with a tool on it that nobody is allowed to use. Gnomes lean toward Rhor beside Eliol and their own Tik, the Tinkering Spark."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**The Artisans’ Faire.** Held in Rhor’s month, in every town with a guildhall.",
+     "**The naming of masters.** The guilds name their new masters in Rhor.",
+     "**The Founding of Goldwind.** The capital keeps its founding day in Rhor’s month.",
+     "**The first piece.** A new master gives away the first thing made under their own mark."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "A maker’s mark is a small prayer to Rhor. A craftsman who signs bad work is said to have lied to Rhor, and no guild will defend it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The tool on the shrine shelf was the founder’s. In our hall it has moved twice, and both times the hall burned within the year.” (a Goldwind guild warden)",
+     "“Rhor’s luck is real, and the Lanternwrights have more of it than is decent.” (a rival glassblower)"
     ]
    }
   ],
@@ -22106,11 +22705,38 @@
    [
     "Month",
     "Rhor of Net and Anvil"
+   ],
+   [
+    "Symbol",
+    "a hammer and a netting needle, crossed"
+   ],
+   [
+    "Holy days",
+    "the Artisans’ Faire"
+   ],
+   [
+    "Offerings",
+    "the first piece a new master makes, given away"
+   ],
+   [
+    "Rhor’s people",
+    "artisans, inventors, guild masters, gnomes"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
-  "related": []
+  "epigraph": {
+   "quote": "Skill gets it built. Rhor decides whether your grandchildren use it.",
+   "by": "a master cooper of Silverport"
+  },
+  "related": [
+   "crafts-and-guilds",
+   "brakkundr-the-war-forge",
+   "gnomes",
+   "eliol",
+   "goldwind",
+   "calendar"
+  ]
  },
  {
   "id": "saelthar-the-cold-throne",
@@ -22285,15 +22911,41 @@
   "title": "Skaia",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Dreams, fate, sky, stars.",
-  "summary": "Greater God",
+  "subtitle": "The Dreaming Sky: dreams, fate, and the stars",
+  "summary": "Skaia is the Greater God who stands between: the keeper of dreams, of fate, and of the night sky. The pantheon teaches that every star is a dead god, so the lights sailors steer by are also a record of what the world has lost, and Skaia is the one who keeps it.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What she keeps",
     "paragraphs": [
-     "Skaia: dreams, fate, sky, stars.",
-     "Greater God",
-     "The pantheon teaches that every star is a dead god. Skaia’s dominion over the night sky therefore reaches into one of the oldest sorrows in Kalvatar: the lights by which sailors find their way are also a record of what the world has lost. The Aethyn honor Skaia alongside the Breath That Wanders and Tramica, and the calendar names her as the keeper of Starfall, observed on the thirtieth of Eliol."
+     "Skaia keeps the sky after dark and everything that happens under closed eyes. Dreams are hers, and fate, and the long patience of the stars. She takes no side between the gods of order and the gods of ruin, and her priests say that is because she has seen how both stories end."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Her **dream-readers** in Greyhaven have counseled dreamers for as long as anyone has kept count, and a reader at a harbor fair will take a Bit for a dream. The Aethyn honor her beside the Breath That Wanders and Tramica. The kalashtar, who dream every hour they sleep, add her to whatever faith they were raised in."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**Starfall, Eliol 30th.** The night the islands watch the sky. Lamps are put out, and the names of the year’s dead are said aloud under the stars.",
+     "**The told dream.** A dream that frightens you is told to someone before breakfast, so that it belongs to two people and weighs half as much.",
+     "**The star-reading.** A child’s stars are read at birth, and read again when they first go to sea."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Navigators give Tholmar the first cup and Skaia the last look at the sky before a crossing. Above every other power her faithful fear **Naxithe the Dream-Eater**, who rots the dreams Skaia keeps."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The stars are a graveyard, and the gods who are left know every grave. That’s why none of them will look up for long.” (a University astronomer)",
+     "“The readers in Greyhaven don’t only listen. They write the dreams down, and somebody comes for the books.” (a Greyhaven innkeeper)"
     ]
    }
   ],
@@ -22309,13 +22961,33 @@
    [
     "Domains",
     "Dreams, fate, sky, stars"
+   ],
+   [
+    "Symbol",
+    "a ring of stars around a closed eye"
+   ],
+   [
+    "Holy night",
+    "Starfall, Eliol 30th"
+   ],
+   [
+    "Her people",
+    "dream-readers, star-readers, the Aethyn, the kalashtar"
    ]
   ],
   "source": "The Pantheon",
   "aliases": [],
+  "epigraph": {
+   "quote": "Count the stars if you like. She already has, and she remembers their names.",
+   "by": "a dream-reader of Greyhaven"
+  },
   "related": [
    "aethyn",
-   "patrons-of-the-peoples",
+   "kalashtar",
+   "greyhaven",
+   "naxithe-the-dream-eater",
+   "tramica",
+   "tholmar-the-star-wake",
    "gods-of-the-pantheon"
   ]
  },
@@ -22752,15 +23424,43 @@
   "title": "Veriden the Oathkeeper",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "Justice, truth, oaths, honor.",
-  "summary": "Witness to every promise; symbol an unbroken silver ring. Month: Veriden of Truth and Justice",
+  "subtitle": "Truth and Justice: the witness to every promise",
+  "summary": "Veriden is the god who witnesses every promise and remembers every betrayal. He is the patron of magistrates, of honest Hunters, and of anyone who swears a binding word, in a land where contracts and oaths carry real weight. The seventh month is his.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What he keeps",
     "paragraphs": [
-     "Veriden the Oathkeeper: justice, truth, oaths, honor.",
-     "Witness to every promise; symbol an unbroken silver ring. Month: Veriden of Truth and Justice",
-     "Veriden’s unbroken silver ring represents a promise that still holds when keeping it becomes difficult. As witness to oaths, he joins truth to honor and justice, the two virtues remembered in the name of his month."
+     "Veriden keeps justice, truth, oaths, and honor. He is the god of the oath honestly given, and his faithful are quick to set him apart from **Nethis**, whose pacts bind whether they are fair or not. Veriden cares that the word was true."
+    ]
+   },
+   {
+    "title": "The faithful",
+    "paragraphs": [
+     "Magistrates open their courts in his name. The notaries who walk a circuit of villages do it under his oath, with wills, deeds, and contracts sealed in their keeping. Hunters swear their own Oath before the hall, and the honest ones are counted his."
+    ]
+   },
+   {
+    "title": "Rites and holy days",
+    "paragraphs": [],
+    "list": [
+     "**The clearing.** In his month the courts clear their backlog.",
+     "**The renewing.** Oaths, contracts, and guild charters are renewed in Veriden.",
+     "**The Sunhold Accord.** Renewed at Sunhold every year on Veriden 6th.",
+     "**The Wargames.** The yearly Wargames are held in his month.",
+     "**The ring.** A witness to an oath touches silver while it is spoken."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "His temples, like Liora’s, raise promise doves. His courts are strict about testimony, and it is a proverb that they do not accept a plover’s word. The Concord’s faceless Pursuers, who go after oath-breakers, are not his, though people often think so."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A ring that breaks on its own means the oath was broken first. Jewelers keep quiet about how often they’re asked to mend one.” (a Goldwind silversmith)",
+     "“The Pursuers don’t answer to Veriden’s priests. Ask who they do answer to, and see who stops talking.” (a Concord deacon)"
     ]
    }
   ],
@@ -22776,15 +23476,43 @@
    [
     "Month",
     "Veriden of Truth and Justice"
+   ],
+   [
+    "Symbol",
+    "an unbroken silver ring"
+   ],
+   [
+    "Holy days",
+    "the renewing of oaths, in his month"
+   ],
+   [
+    "Bird",
+    "the promise dove"
+   ],
+   [
+    "Offerings",
+    "a debt paid before it is asked for"
+   ],
+   [
+    "His people",
+    "magistrates, notaries, honest Hunters, anyone under oath"
    ]
   ],
   "source": "The Pantheon",
   "epigraph": {
-   "quote": "Nobody lies in Veriden. Everyone lies in Veriden. They are simply more careful about it, because Veriden is watching.",
-   "by": "A Council magistrate of Sunhold, to a merchant who had sworn an oath on the wrong bell"
+   "quote": "Nobody lies in Veriden.",
+   "by": "an island saying; everyone lies in Veriden, they are just more careful"
   },
   "aliases": [],
-  "related": []
+  "related": [
+   "concord",
+   "nethis-the-sealed-word",
+   "hunters",
+   "sunhold",
+   "council",
+   "learned-work",
+   "calendar"
+  ]
  },
  {
   "id": "veshanna-the-two-faced",
