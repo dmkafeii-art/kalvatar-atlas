@@ -226,6 +226,16 @@ function applyArbiterPortraits(entries) {
  for (const entry of entries) {
   const description = arbiterPortraits[entry.id];
   if (!description) continue;
+  if (entry.id === 'lysandra-vellune') {
+   const terrace = 'assets/folk/amarise-vellune-terrace';
+   entry.gallery = [...(entry.gallery || []), {
+    thumb: terrace + '-480.webp', src: terrace + '-960.webp', full: terrace + '-1536.webp',
+    width: 1536, height: 1024, presentation: 'gallery',
+    get label() { return Pack2.text('Under the Goldwind awning', 'Bajo el toldo de Goldwind'); },
+    get alt() { return Pack2.text('Amarise gives instructions to a scribe while seated on a shaded terrace.', 'Amarise da instrucciones a un escriba desde una terraza a la sombra.'); },
+    get caption() { return this.alt; }
+   }];
+  }
   const base = 'assets/folk/' + entry.id;
   entry.illustration = {
    thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
