@@ -1467,7 +1467,7 @@
        "Herbívoro elegante de cresta resonante"
       ],
       [
-       "Lomocarga",
+       "Lomoespolón",
        "Tammok",
        "Trabajo",
        "Herbívoros de varias razas para transportar equipaje en viajes largos"
@@ -1492,7 +1492,7 @@
     "title": "Alimento, trabajo, velocidad y prestigio",
     "paragraphs": [
      "El comercio abarca carne, huevos, trabajo, guerra, carreras, materiales y animales raros de exhibición. Los saurianos ponen huevos y no dan leche. Los lácteos del sur siguen procediendo de mamíferos.",
-     "Los saurianos herbívoros cumplen tareas distintas. El cantocresta se aprecia como montura elegante y el lomocarga lleva el equipaje de expediciones y caravanas en rutas largas. Esos usos se suman al trabajo pesado de los lomogredas y altisaurios, y a los rebaños de lomobramos criados para alimento."
+     "Los saurianos herbívoros cumplen tareas distintas. El cantocresta se aprecia como montura elegante y el lomoespolón lleva el equipaje de expediciones y caravanas en rutas largas. Esos usos se suman al trabajo pesado de los lomogredas y altisaurios, y a los rebaños de lomobramos criados para alimento."
     ]
    },
    {
@@ -10109,7 +10109,7 @@
     "title": "Bastion y el Jubilant",
     "paragraphs": [
      "Lord Johann Faust encabeza la Casa Faust, la Puerta del Norte, una de las Cinco grandes casas nobles. Gobierna desde Bastion y manda el Jubilant como Hunter célebre. Su autoridad pertenece tanto a una casa como a una compañía en el mar.",
-     "Johann ya está en sus cincuenta, aunque aparenta menos edad. Su pelo rubio oscuro, su bigote curvado de mosquetero y su perilla puntiaguda lo hacen fácil de reconocer tanto en la corte como a bordo.",
+     "Johann ya está en sus cincuenta, aunque aparenta menos edad. Su pelo rubio oscuro, su bigote rizado hacia arriba y su perilla puntiaguda lo hacen fácil de reconocer tanto en la corte como a bordo.",
      "Esas responsabilidades traen lealtades distintas. Una casa se sostiene en la familia, la herencia y la tierra; un mando Hunter, en el juramento de la orden y las personas que sirven a bordo. La lealtad dividida de Johann entre sangre y juramento es el conflicto privado del que más se habla en su casa."
     ]
    },
@@ -12796,33 +12796,33 @@
    {
     "title": "En las islas del sur",
     "paragraphs": [
-     "Agari representa los intereses de la Casa Alastor como emisaria y practica la nigromancia por cuenta propia. En Monumak asistió a la mascarada de Hadros Morvain con Beck y Grolsh como escolta personal, de modo que su visita tuvo la forma visible de una delegación noble."
+     "Agari representa los intereses de la Casa Alastor como emisaria y practica la nigromancia por cuenta propia. En Monumak asistió a la mascarada de Hadros Kelloran con Beck y Grolsh como escolta personal, de modo que su visita tuvo la forma visible de una delegación noble."
     ]
    }
   ]
  },
  "hadros-morvain": {
-  "title": "Hadros Morvain",
+  "title": "Hadros Kelloran",
   "subtitle": "Señor mercader de Monumak",
-  "summary": "Hadros Morvain se labró una posición como señor mercader y luego reclamó una corona.",
+  "summary": "Hadros Kelloran se labró una posición como señor mercader y luego reclamó una corona.",
   "sections": [
    {
     "title": "En las islas del sur",
     "paragraphs": [
-     "Morvain se proclamó rey de Monumak y celebró una mascarada por su coronación. La fiesta reunió invitados en su corte. Las minas de Blackstone, una fuente importante de Krysta, daban a su aspiración de poder un respaldo que iba más allá de la ceremonia."
+     "Kelloran se proclamó rey de Monumak y celebró una mascarada por su coronación. La fiesta reunió invitados en su corte. Las minas de Blackstone, una fuente importante de Krysta, daban a su aspiración de poder un respaldo que iba más allá de la ceremonia."
     ]
    }
   ]
  },
  "veyren-quill": {
   "title": "Veyren Quill",
-  "subtitle": "Pícaro de Ironport",
+  "subtitle": "El intermediario contrabandista de las islas",
   "summary": "Veyren es capaz de hacer que un comentario mordaz suene a invitación a sentarse.",
   "sections": [
    {
     "title": "En las islas del sur",
     "paragraphs": [
-     "Veyren se mueve con soltura por los bajos fondos de Ironport, donde conoció a Agari y sus compañeros. Su trato con la emisaria contrasta con la compañía noble de la mascarada: se permite picarla con bromas aunque su nombre lleve el peso de la Casa Alastor."
+     "Veyren se mueve con soltura por los bajos fondos de Slatemouth, donde conoció a Agari y sus compañeros. Su trato con la emisaria contrasta con la compañía noble de la mascarada: se permite picarla con bromas aunque su nombre lleve el peso de la Casa Alastor."
     ]
    }
   ]
@@ -12835,7 +12835,7 @@
    {
     "title": "En las islas del sur",
     "paragraphs": [
-     "Beck comparte con Grolsh la escolta personal de Agari. En la mascarada de Hadros Morvain, su labor de guardia estuvo ligada a un acto público de la casa: acompañaba a Agari mientras ella asistía como emisaria de los Alastor."
+     "Beck comparte con Grolsh la escolta personal de Agari. En la mascarada de Hadros Kelloran, su labor de guardia estuvo ligada a un acto público de la casa: acompañaba a Agari mientras ella asistía como emisaria de los Alastor."
     ]
    }
   ]
@@ -12941,14 +12941,14 @@
   ]
  },
  "packthumb": {
-  "title": "Lomocarga",
+  "title": "Lomoespolón",
   "subtitle": "Tammok · Tradición de trabajo",
   "summary": "Una categoría de saurianos herbívoros robustos, criados para llevar equipaje en caravanas y travesías largas.",
   "sections": [
    {
     "title": "Forma y carácter",
     "paragraphs": [
-     "Lomocarga es el nombre de trabajo que agrupa a varios saurianos herbívoros robustos, criados para transportar equipaje por rutas largas. Incluye animales con boca en forma de pico, patas delanteras fuertes y pulgares rematados en punta, junto con otros cargadores seleccionados por su resistencia, su lomo fuerte y su paso constante. Tammok es el nombre kalvatari de este grupo de trabajo.",
+     "Lomoespolón es el nombre de trabajo que agrupa a varios saurianos herbívoros robustos, criados para transportar equipaje por rutas largas. Incluye animales con boca en forma de pico, patas delanteras fuertes y pulgares rematados en punta, junto con otros cargadores seleccionados por su resistencia, su lomo fuerte y su paso constante. Tammok es el nombre kalvatari de este grupo de trabajo.",
      "Los caravaneros distinguen las razas locales por su complexión, su paso y las cargas que pueden transportar. Para pertenecer a esta categoría importan más un lomo ancho y unas patas sanas que una cresta particular o los pulgares puntiagudos. Cada albarda debe ajustarse al animal que la lleva."
     ]
    },
@@ -12980,10 +12980,10 @@
    ]
   ],
   "aliases": [
-   "Loadback",
+   "Spurback",
    "Tammok",
    "Packthumb",
-   "Pulgarcarga"
+   "Lomoespolón"
   ]
  },
  "arbiters": {
