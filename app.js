@@ -217,8 +217,26 @@ document.addEventListener('keydown',e=>{if(e.key==='/'&&!e.ctrlKey&&!e.metaKey&&
 document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(link?.getAttribute('href')==='#content'){e.preventDefault();$('#content').focus();$('#content').scrollIntoView();return}if(link){if($('#search-dialog').open)$('#search-dialog').close();if(link.getAttribute('href')===location.hash)closeMenu()}const close=e.target.closest('[data-close-search]');if(close)$('#search-dialog').close();const random=e.target.closest('[data-random]');if(random&&entries.length){const available=entries.filter(x=>Pack2.canRead(x.id)&&location.hash!==`#entry/${x.id}`);if(!available.length)return;location.hash=`entry/${available[Math.floor(Math.random()*available.length)].id}`}const pin=e.target.closest('[data-region]');if(pin)setRegion(pin.dataset.region);const zoom=e.target.closest('[data-zoom]');if(zoom)zoomMap(zoom.dataset.zoom);const section=e.target.closest('[data-scroll-section]');if(section)document.getElementById('article-section-'+section.dataset.scrollSection)?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})});
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
+const arbiterPortraits = {
+ 'radan-sunmere': ['Radan halts a swinging load with magic.', 'Radan detiene una carga suspendida con magia.'],
+ 'lysandra-vellune': ['Lysandra dispels an illusion over an object.', 'Lysandra disipa la ilusión que oculta un objeto.'],
+ 'kettik-ninth-step': ['Kettik lifts a false bottom to inspect hidden cargo.', 'Kettik levanta un doble fondo para inspeccionar la carga oculta.']
+};
+function applyArbiterPortraits(entries) {
+ for (const entry of entries) {
+  const description = arbiterPortraits[entry.id];
+  if (!description) continue;
+  const base = 'assets/folk/' + entry.id;
+  entry.illustration = {
+   thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
+   width: 1536, height: 1024,
+   get alt() { return Pack2.text(...description); },
+   get caption() { return Pack2.text(...description); }
+  };
+ }
+}
 (async()=>{try{
- const response=await fetch('entries.json?v=17');if(!response.ok)throw new Error('Atlas unavailable');entries=await Pack2.prepare(await response.json());await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
+ const response=await fetch('entries.json?v=17');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();applyArbiterPortraits(input);entries=await Pack2.prepare(input);await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
  const optional=async name=>{try{const r=await fetch(name+'?v=17');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
  [rumors,timeline]=await Promise.all([optional('rumors.json'),optional('timeline.json')]);
  for(const e of entries)e.searchText=fold([e.title,e.summary,e.subtitle,e.region,categories[e.category].name,...(e.aliases||[]),...e.sections.flatMap(s=>[s.title,...(s.paragraphs||[]),...(s.list||[]),...(s.table?[s.table.caption,...s.table.headers,...s.table.rows.flat()]:[])]),...e.facts.flat(),creatureKinds[e.creatureKind]||''].join(' '));
