@@ -227,7 +227,8 @@ const entryIllustrations = {
  'pride-kin': ['peoples', 'Three Pride-kin talk around a fire on the savanna.', 'Tres Pride-kin conversan alrededor de una fogata en la sabana.'],
  'ivory-kin': ['peoples', 'Two Ivory-kin haul a bucket of water from a stone well.', 'Dos Ivory-kin sacan un balde de agua de un pozo de piedra.'],
  'centaurs': ['peoples', 'Two centaurs gallop across the savanna at sunset.', 'Dos centauros galopan por la sabana al atardecer.'],
- 'zalkareth': ['scenes', 'A skiff approaches the fortified river port of Zal’Kareth.', 'Un bote se acerca al puerto fluvial fortificado de Zal’Kareth.']
+ 'zalkareth': ['scenes', 'A skiff approaches the fortified river port of Zal’Kareth.', 'Un bote se acerca al puerto fluvial fortificado de Zal’Kareth.'],
+ 'kaskan': ['scenes', 'Two brightly feathered aurocs on the docks of Kaskan at sunset.', 'Dos aurocs de plumaje colorido en los muelles de Kaskan al atardecer.']
 };
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
