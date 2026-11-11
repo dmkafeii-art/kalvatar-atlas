@@ -1,0 +1,3407 @@
+{
+ "regions": {
+  "northern-frontier": {
+   "name": "Northern Frontier",
+   "masc": {
+    "canon": [
+     "Halsof",
+     "Aldric",
+     "Roderick",
+     "Garran",
+     "Cedric",
+     "Wilhelm",
+     "Bastian",
+     "Edrik",
+     "Tormund",
+     "Falken",
+     "Korin",
+     "Reinhardt",
+     "Dastan",
+     "Maverick",
+     "Hoskel",
+     "Lothar",
+     "Brannon",
+     "Severin",
+     "Edmund",
+     "Caspar",
+     "Gideon",
+     "Hewn",
+     "Aldous",
+     "Marcus",
+     "Vael",
+     "Corin",
+     "Halvor",
+     "Tomek",
+     "Garrick",
+     "Roan",
+     "Wulfric",
+     "Karric"
+    ],
+    "more": [
+     "Osmer",
+     "Derrow",
+     "Haldric",
+     "Keldan",
+     "Rurek",
+     "Stenner",
+     "Ulbrek",
+     "Wendric",
+     "Godran",
+     "Harlen",
+     "Torven",
+     "Ansger",
+     "Berrow",
+     "Dunsten",
+     "Brannoc",
+     "Edwyn"
+    ]
+   },
+   "fem": {
+    "canon": [
+     "Elenora",
+     "Cassandra",
+     "Brigid",
+     "Adelhin",
+     "Maren",
+     "Octavia",
+     "Serra",
+     "Wilhelmina",
+     "Greta",
+     "Linnea",
+     "Astrid",
+     "Vivienne",
+     "Hessa",
+     "Rosalind",
+     "Carduin",
+     "Ymara",
+     "Edwina",
+     "Sable",
+     "Thessaly",
+     "Brunna",
+     "Cordelia",
+     "Maela",
+     "Verena",
+     "Halla",
+     "Sigrun",
+     "Mira",
+     "Elsbeth",
+     "Gretl",
+     "Brenna",
+     "Ysolde",
+     "Hanne",
+     "Adelin"
+    ],
+    "more": [
+     "Alys",
+     "Bertrin",
+     "Corwen",
+     "Dagrun",
+     "Erlind",
+     "Fredda",
+     "Gisla",
+     "Hildren",
+     "Iselin",
+     "Jorun",
+     "Kattrin",
+     "Lisel",
+     "Merewen",
+     "Odila",
+     "Renna",
+     "Wynne"
+    ]
+   },
+   "family": {
+    "canon": [
+     "Varselis",
+     "Holst",
+     "Stormweaver",
+     "Vanris",
+     "Graylock",
+     "Brightsight",
+     "Mournhollow",
+     "Durant",
+     "Ashford",
+     "Greywater",
+     "Halloran",
+     "Vance",
+     "Korrigan",
+     "Greycastle",
+     "Holt",
+     "Dunmar",
+     "Aldermoor",
+     "Brandt",
+     "Veller",
+     "Thornby",
+     "Kraus"
+    ],
+    "more": [
+     "Blackmere",
+     "Coldharbor",
+     "Saltmarch",
+     "Stonehaven",
+     "Wolfsgate",
+     "Hardwick",
+     "Ravenhold",
+     "Garrow",
+     "Fenwatch",
+     "Oakenshaw",
+     "Redmoor",
+     "Greyfell",
+     "Harrowmere",
+     "Stormcott"
+    ]
+   }
+  },
+  "central-heartland": {
+   "name": "Central Heartland",
+   "masc": {
+    "canon": [
+     "Lucan",
+     "Aurelio",
+     "Cassio",
+     "Marius",
+     "Dorian",
+     "Silas",
+     "Valerian",
+     "Orin",
+     "Tobias",
+     "Emeric",
+     "Leandro",
+     "Cyrus",
+     "Matteo",
+     "Evander",
+     "Rafael",
+     "Ignatius",
+     "Caelum",
+     "Ardent",
+     "Linus",
+     "Thobias",
+     "Horace",
+     "Eamon",
+     "Sandros",
+     "Altair",
+     "Orion",
+     "Halvis",
+     "Theron",
+     "Caston",
+     "Mariss",
+     "Severin",
+     "Valis",
+     "Demis"
+    ],
+    "more": [
+     "Aldero",
+     "Bennio",
+     "Corvin",
+     "Darion",
+     "Elian",
+     "Fabrin",
+     "Galeno",
+     "Iacomo",
+     "Lorent",
+     "Marcellin",
+     "Nerio",
+     "Ottavin",
+     "Pieran",
+     "Renaut",
+     "Tavio",
+     "Vesper"
+    ]
+   },
+   "fem": {
+    "canon": [
+     "Seraphina",
+     "Elara",
+     "Vaela",
+     "Selene",
+     "Isadora",
+     "Bianca",
+     "Aria",
+     "Celestia",
+     "Mirabel",
+     "Octavia",
+     "Rosa",
+     "Liora",
+     "Vivian",
+     "Astraea",
+     "Cassiopeia",
+     "Brigida",
+     "Elira",
+     "Nemeia",
+     "Xanthea",
+     "Calista",
+     "Lyral",
+     "Niamh",
+     "Elowen",
+     "Aoife",
+     "Selen",
+     "Aurel",
+     "Vespa",
+     "Calla",
+     "Ilane",
+     "Rosalin",
+     "Ysenne",
+     "Amarise"
+    ],
+    "more": [
+     "Alessa",
+     "Belisa",
+     "Corinna",
+     "Delphise",
+     "Emilse",
+     "Fiora",
+     "Gisenne",
+     "Ilaria",
+     "Lucetta",
+     "Marcelle",
+     "Noemia",
+     "Ottavine",
+     "Perlesse",
+     "Renatta",
+     "Silvane",
+     "Valessa"
+    ]
+   },
+   "family": {
+    "canon": [
+     "Goldspire",
+     "Sunforge",
+     "Starborn",
+     "Emberheart",
+     "Silverthorn",
+     "Daltrossos",
+     "Valgrand",
+     "Lindholm",
+     "Galant",
+     "Highmore",
+     "Aurelis",
+     "Castain",
+     "Brightwater",
+     "Mereval",
+     "Sorell",
+     "Lanvere"
+    ],
+    "more": [
+     "Bellamar",
+     "Corvane",
+     "Dellamere",
+     "Fairwind",
+     "Goldmere",
+     "Harrowgate",
+     "Lumenhal",
+     "Marcheval",
+     "Rosewater",
+     "Sandrel",
+     "Tessaro",
+     "Verity",
+     "Whitequay",
+     "Amberly"
+    ]
+   }
+  },
+  "southern-wilds": {
+   "name": "Southern Wilds",
+   "masc": {
+    "canon": [
+     "Yaxel",
+     "Tezco",
+     "Kael'tun",
+     "Amaru",
+     "Itzal",
+     "Bahari",
+     "Zumaq",
+     "Catemu",
+     "Ohtli",
+     "Naxan",
+     "Quetzal",
+     "Tupaq",
+     "Sukal",
+     "Manco",
+     "Achak",
+     "Bayano",
+     "Iktan",
+     "Cuetz",
+     "Tariq",
+     "Obax",
+     "Wayra",
+     "Kuro",
+     "Tenoch",
+     "Sabal",
+     "Mazat",
+     "Jaseh",
+     "Mateu",
+     "Tiagu",
+     "Kaelo",
+     "Bayon",
+     "Sefu",
+     "Renzo",
+     "Imari",
+     "Suwan",
+     "Adir"
+    ],
+    "more": [
+     "Akano",
+     "Baru",
+     "Chimal",
+     "Dakaru",
+     "Ekon",
+     "Huaro",
+     "Jabiro",
+     "Kamalix",
+     "Lutaro",
+     "Mbeko",
+     "Nauro",
+     "Otoya",
+     "Paku",
+     "Rahun",
+     "Tayun",
+     "Zuberu"
+    ]
+   },
+   "fem": {
+    "canon": [
+     "Ixchel",
+     "Amara",
+     "Zyanya",
+     "Nuru",
+     "Citlali",
+     "Imara",
+     "Yamile",
+     "Sela",
+     "Tanil",
+     "Quena",
+     "Atziri",
+     "Sahel",
+     "Mayahuel",
+     "Imani",
+     "Yara",
+     "Coatl",
+     "Nima",
+     "Xochi",
+     "Tula",
+     "Amani",
+     "Zola",
+     "Kesi",
+     "Itzel",
+     "Nayeli",
+     "Sarani",
+     "Lumai",
+     "Nzinha",
+     "Ifeya",
+     "Marisel",
+     "Dalila",
+     "Ayanu",
+     "Sunan",
+     "Yaral"
+    ],
+    "more": [
+     "Abenu",
+     "Chaska",
+     "Dalisa",
+     "Eyotl",
+     "Halimu",
+     "Izel",
+     "Jamilu",
+     "Kalinda",
+     "Liyana",
+     "Malayu",
+     "Nahia",
+     "Oyana",
+     "Sika",
+     "Tayani",
+     "Zuria",
+     "Ximara"
+    ]
+   },
+   "family": {
+    "canon": [
+     "of the Ashroot",
+     "of the Green Drowning",
+     "Stonejaw",
+     "Riverkeeper",
+     "Bonespeaker",
+     "Sunbiter",
+     "of the Tribute-Line",
+     "Saurian-Friend",
+     "of the Heart-Fire",
+     "Mask-Maker",
+     "Veyani",
+     "Okonja",
+     "Marwe",
+     "Tamesi",
+     "Bayoro",
+     "Vashan",
+     "Sunara",
+     "Adeyo"
+    ],
+    "more": [
+     "of the Jade-Serpent",
+     "of the Red-Feather",
+     "of the Black-Tusk",
+     "of the Nine Mouths",
+     "Chant-Keeper",
+     "Drum-Wright",
+     "Featherhand",
+     "of the Long Canoe",
+     "Rainwalker",
+     "Oruma",
+     "Kalanu",
+     "Mbali",
+     "Tupari",
+     "Xanoc"
+    ]
+   }
+  },
+  "icy-expanse": {
+   "name": "Icy Expanse",
+   "masc": {
+    "canon": [
+     "Bjorne",
+     "Kessik",
+     "Haldor",
+     "Vurr",
+     "Tovak",
+     "Eirik",
+     "Sten",
+     "Yorvald",
+     "Akkar",
+     "Drust",
+     "Hrolf",
+     "Sigvard",
+     "Tuluk",
+     "Kvell",
+     "Brann",
+     "Osric",
+     "Vask",
+     "Holm",
+     "Greve",
+     "Nuuk",
+     "Skarde",
+     "Torvald",
+     "Ulfar",
+     "Aksel",
+     "Veig",
+     "Halvar",
+     "Bjarn",
+     "Knute",
+     "Eirin",
+     "Anik",
+     "Tulok"
+    ],
+    "more": [
+     "Arnulf",
+     "Borre",
+     "Dag",
+     "Egild",
+     "Fenrik",
+     "Gorm",
+     "Hakken",
+     "Ivik",
+     "Jokul",
+     "Kettil",
+     "Maluk",
+     "Orm",
+     "Pana",
+     "Rolv",
+     "Styr",
+     "Ulik"
+    ]
+   },
+   "fem": {
+    "canon": [
+     "Sigrun",
+     "Yelsa",
+     "Heida",
+     "Vana",
+     "Astryd",
+     "Kessa",
+     "Brynja",
+     "Tove",
+     "Halla",
+     "Frejda",
+     "Solveig",
+     "Inkari",
+     "Runa",
+     "Nayva",
+     "Skadi",
+     "Yrsa",
+     "Vella",
+     "Gunna",
+     "Hrefna",
+     "Saga",
+     "Eldis",
+     "Tunni",
+     "Vorda",
+     "Ilka",
+     "Senka",
+     "Astri",
+     "Senna",
+     "Ingri",
+     "Sila",
+     "Kaja",
+     "Nuka",
+     "Brynla"
+    ],
+    "more": [
+     "Aila",
+     "Bera",
+     "Dalla",
+     "Eira",
+     "Gerdis",
+     "Hildr",
+     "Ingun",
+     "Jorda",
+     "Kirsa",
+     "Livva",
+     "Marith",
+     "Orsa",
+     "Pilu",
+     "Ragna",
+     "Svala",
+     "Ulla"
+    ]
+   },
+   "family": {
+    "canon": [
+     "Frostmaw",
+     "Coldwake",
+     "Iceborn",
+     "of the Drift-clan",
+     "Whalebone",
+     "Snowvah-kin",
+     "Reaver",
+     "Bloodbroth",
+     "Greywind",
+     "Frosthold-born",
+     "Frostmark",
+     "Kaldsen",
+     "Bjarnvald",
+     "Iqaluk",
+     "Stormvik",
+     "Nanuk",
+     "Haldfjord",
+     "Tulnak"
+    ],
+    "more": [
+     "Blackfloe",
+     "Bonesledge",
+     "Farwater",
+     "Harpoonhand",
+     "Icewright",
+     "Longnight",
+     "Sealskin",
+     "Rimewalker",
+     "Thinice",
+     "Whitewake",
+     "Aurorasen",
+     "Kvellson",
+     "Sturmgard",
+     "Narvak-kin"
+    ]
+   }
+  },
+  "coral-kingdoms": {
+   "name": "Coral Kingdoms",
+   "masc": {
+    "canon": [
+     "Nereth",
+     "Aquil",
+     "Murro",
+     "Caelith",
+     "Drovan",
+     "Pelagius",
+     "Vurl",
+     "Korr",
+     "Nauth",
+     "Vael"
+    ],
+    "more": [
+     "Abyssin",
+     "Brinel",
+     "Dolmar",
+     "Fathom",
+     "Keelan",
+     "Morrenar",
+     "Orrin",
+     "Shoal",
+     "Tidan",
+     "Undar"
+    ]
+   },
+   "fem": {
+    "canon": [
+     "Vossarae",
+     "Sirae",
+     "Thessa",
+     "Coral",
+     "Lumina",
+     "Nyssa",
+     "Maren",
+     "Ondine",
+     "Selka",
+     "Aphae",
+     "Sahla",
+     "Reefa",
+     "Mirelle",
+     "Marrow-of-Pearl",
+     "Tide"
+    ],
+    "more": [
+     "Anemone",
+     "Brisa",
+     "Delmare",
+     "Ebbe",
+     "Isla",
+     "Lirae",
+     "Meris",
+     "Nacre",
+     "Pearl",
+     "Seline"
+    ]
+   },
+   "family": {
+    "canon": [
+     "of the Glass Gardens",
+     "of the Whispering Current",
+     "of Corallion",
+     "of Luminar",
+     "of the Pearl-clans",
+     "of the Deep-courts",
+     "of the Shark-lords",
+     "Glasswater-born",
+     "of the Sunken-kin"
+    ],
+    "more": [
+     "of the Pearl Shallows",
+     "of the Kelp Halls",
+     "of the Ninth Reef",
+     "of the Singing Trench",
+     "of the Tidal Court",
+     "of the Blue Stair",
+     "of the Drowned Bell",
+     "of the Moonwater"
+    ]
+   }
+  }
+ },
+ "peoples": [
+  {
+   "id": "humans",
+   "name": "Humans",
+   "kind": "regional",
+   "hint": "Humans take the names of their region.",
+   "tagline": "The many rivers: one folk in law and a hundred in custom.",
+   "traits": [
+    {
+     "title": "Human traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 4 to 7 feet tall) or Small (about 2 to 4 feet tall), chosen when you select this species"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a human, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Resourceful.** You gain Heroic Inspiration whenever you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Skillful.** You gain proficiency in one skill of your choice."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Versatile.** You gain an Origin feat of your choice: one from the 2024 rules, or one from Part Four of this book."
+      }
+     ]
+    },
+    {
+     "title": "The three currents",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Each current suggests a skill for Skillful and an Origin feat for Versatile, though any choice is open."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The imperial-descended north** (the Frontier and the Heartland): ordered, formal, name-and-house folk who keep their history in stone and charter. Try History or Persuasion, and *Alert* or *Flag-Sworn*."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The ancestral south** (the tribes and Confederacies): chant-keepers and story-tattooed lineages older than the Landing. Try Survival, Medicine, or Performance, and *The Spoken Line* or *Magic Initiate*."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The cold-edge folk** (the whalers and hold-people of the deep south): blunt, superstitious, and tough as whale-leather. Try Athletics or Survival, and *Tough* or *Keeper of the Fire*."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kalashtar",
+   "name": "Kalashtar",
+   "kind": "regional",
+   "hint": "Kalashtar keep their human names and families. The name they are given on the far shore is never shared.",
+   "tagline": "The dreamers: humans who sleep with the door open",
+   "traits": [],
+   "no_traits": "The kalashtar's game traits are not written for Kalvatar yet. Ask your Game Master which rules your table uses."
+  },
+  {
+   "id": "shifters",
+   "name": "Shifters",
+   "kind": "regional",
+   "hint": "Shifters are born into ordinary families and carry the names of their region.",
+   "tagline": "Born with a beast in the blood",
+   "traits": [],
+   "no_traits": "Shifters follow the 2014 rules for the species, with the beast's marks chosen one by one. Ask your Game Master."
+  },
+  {
+   "id": "half-elves",
+   "name": "Half-elves",
+   "kind": "half-elf",
+   "hint": "Half-elves draw from either parent's convention, and often both at once.",
+   "tagline": "The bridge-folk: brokers, translators, captains, and go-betweens, welcome at two tables and fluent in the silences of each.",
+   "traits": [
+    {
+     "title": "Half-elf traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5 to 6 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a half-elf, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Fey Ancestry.** You have Advantage on saving throws you make to avoid or end the Charmed condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Bridge-Born.** You gain proficiency in two skills of your choice, and you learn one extra language."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Factor's Ear.** When you make a Wisdom (Insight) or Charisma (Persuasion) check, you can give yourself Advantage on the roll; decide before you roll. You can do this a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elves",
+   "name": "Elves",
+   "kind": "elves",
+   "hint": "Four kinds of elf name four ways. The region picks the kind: High in the Heartland, Sunwood in the south, Frost on the ice, Wood everywhere else.",
+   "kinds": {
+    "High": {
+     "regions": [
+      "central-heartland"
+     ],
+     "given": {
+      "canon": [
+       "Aellorien",
+       "Sylthaen",
+       "Caelia",
+       "Ithral"
+      ],
+      "more": [
+       "Aerenthil",
+       "Caelindra",
+       "Elunaris",
+       "Faelisar",
+       "Ilythien",
+       "Lirathiel",
+       "Maerendil",
+       "Nimloreth",
+       "Orithael",
+       "Saelindor",
+       "Thalessan",
+       "Valenthir",
+       "Ysmerien",
+       "Aurelith",
+       "Silvaren",
+       "Calithea"
+      ]
+     },
+     "byname": [
+      "of House Caelvaron",
+      "of the Hundred-Year Throne",
+      "of the Silver Line",
+      "of the Old Court",
+      "of the Long Archive",
+      "of Castia's Road",
+      "the Elder",
+      "the Younger"
+     ]
+    },
+    "Wood": {
+     "regions": [
+      "northern-frontier"
+     ],
+     "given": {
+      "canon": [
+       "Fen",
+       "Lorel",
+       "Bryn",
+       "Aske"
+      ],
+      "more": [
+       "Alder",
+       "Birk",
+       "Corr",
+       "Dell",
+       "Elm",
+       "Fern",
+       "Garth",
+       "Hazel",
+       "Ivo",
+       "Lark",
+       "Moss",
+       "Nettle",
+       "Rowan",
+       "Sorrel",
+       "Thorn",
+       "Wren"
+      ]
+     },
+     "byname": [
+      "of the Green",
+      "Greenstride",
+      "of the Old Stand",
+      "Quietfoot",
+      "of the Hollow Oak",
+      "Warden",
+      "of the Deep Stand",
+      "Longshadow"
+     ]
+    },
+    "Sunwood": {
+     "regions": [
+      "southern-wilds"
+     ],
+     "given": {
+      "canon": [
+       "Isuel",
+       "Nayeth",
+       "Zorai",
+       "Tamsel"
+      ],
+      "more": [
+       "Amariel",
+       "Belanu",
+       "Calisse",
+       "Davari",
+       "Elanoa",
+       "Ixiel",
+       "Jamaro",
+       "Kalisse",
+       "Luanel",
+       "Mariuel",
+       "Naheli",
+       "Orisel",
+       "Saneth",
+       "Tavariel",
+       "Yaxiel",
+       "Zunael"
+      ]
+     },
+     "byname": [
+      "of the Heart-Fire",
+      "Chant-Keeper",
+      "of the Gold Bough",
+      "of the Red Tassel",
+      "Between-Two-Laws",
+      "of the Amber Grove",
+      "of the Long Rain",
+      "Flower-Crowned"
+     ]
+    },
+    "Frost": {
+     "regions": [
+      "icy-expanse"
+     ],
+     "given": {
+      "canon": [
+       "Ysgra",
+       "Khelvi",
+       "Drasna",
+       "Hresk"
+      ],
+      "more": [
+       "Askel",
+       "Brynd",
+       "Dreka",
+       "Eskil",
+       "Fryth",
+       "Gralv",
+       "Hrimna",
+       "Iskra",
+       "Jarn",
+       "Kveld",
+       "Skara",
+       "Sveth",
+       "Thryss",
+       "Ulva",
+       "Vraka",
+       "Yrsk"
+      ]
+     },
+     "byname": [
+      "Skull-Painted",
+      "of the White Hunger",
+      "of the Unpainted",
+      "Bone-Charm",
+      "Long-Dark",
+      "of the Rime",
+      "Reaver",
+      "Frostbound"
+     ]
+    }
+   },
+   "tagline": "Four kinds of elf on the surface, all honoring many-aspected Aelthuvar and the Exodus through Castia, and a fifth kind below.",
+   "traits": [
+    {
+     "title": "Elf traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5 to 6 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As an elf, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Elven Lineage.** Choose your kind of elf from the table below. You gain its level 1 benefit, and you learn its spells at levels 3 and 5. (See Species spells.)"
+      },
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Lineage",
+         "Level 1",
+         "Level 3",
+         "Level 5"
+        ],
+        [
+         "**High Elf**",
+         "You know the *Prestidigitation* cantrip. Whenever you finish a Long Rest, you can replace it with another cantrip from the Wizard spell list.",
+         "*Detect Magic*",
+         "*Misty Step*"
+        ],
+        [
+         "**Wood Elf**",
+         "Your Speed increases to 35 feet, and you know the *Druidcraft* cantrip.",
+         "*Longstrider*",
+         "*Pass without Trace*"
+        ],
+        [
+         "**Sunwood Elf**",
+         "You know the *Guidance* cantrip, and you learn one extra language: Confederacy speech or Sylvan.",
+         "*Healing Word*",
+         "*Calm Emotions*"
+        ],
+        [
+         "**Frost Elf**",
+         "You know the *Ray of Frost* cantrip, and you suffer no hardship from extreme cold.",
+         "*Armor of Agathys*",
+         "*Hold Person*"
+        ],
+        [
+         "**Drow**",
+         "Your Darkvision's range increases to 120 feet, and you know the *Dancing Lights* cantrip.",
+         "*Faerie Fire*",
+         "*Darkness*"
+        ]
+       ]
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Fey Ancestry.** You have Advantage on saving throws you make to avoid or end the Charmed condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Keen Senses.** You have proficiency in the Insight, Perception, or Survival skill (your choice)."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you stay conscious."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aethyn",
+   "name": "Aethyn",
+   "kind": "given-byname",
+   "hint": "Airy, gliding names. The eyrie stands in place of a family name.",
+   "given": {
+    "canon": [
+     "Sirin",
+     "Kaelis",
+     "Orren",
+     "Thyssa",
+     "Ilessa",
+     "Maro"
+    ],
+    "more": [
+     "Aeris",
+     "Calen",
+     "Elise",
+     "Faelan",
+     "Halis",
+     "Iresa",
+     "Kyris",
+     "Liren",
+     "Mireth",
+     "Nalis",
+     "Oressa",
+     "Seren",
+     "Talis",
+     "Ulessa",
+     "Vireo",
+     "Zephine"
+    ]
+   },
+   "byname": {
+    "pattern": "of the {ordinal} Eyrie",
+    "ordinals": [
+     "First",
+     "Second",
+     "Third",
+     "Fourth",
+     "Fifth",
+     "Sixth",
+     "Seventh",
+     "Eighth",
+     "Ninth",
+     "Tenth",
+     "Eleventh",
+     "Twelfth"
+    ]
+   },
+   "tagline": "Lean, light-boned skykin of Highspire and the high sea-stacks, whose flight waxes and wanes with the two moons.",
+   "traits": [
+    {
+     "title": "Aethyn traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5 to 6 feet tall, with a wingspan twice that)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As an Aethyn, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet. The Aethyn are a night-leaning people, most alive under the moons."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Gliding Wings.** You have feathered wings. When you fall and aren't Incapacitated, you can spread them: you descend at 60 feet per round, take no damage from the fall, and can move up to 2 feet horizontally for every 1 foot you descend. Gliding costs no movement. A jump isn't a fall unless it carries you over an edge. You can't glide while wearing Heavy armor."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Skyborn Eyes.** You have proficiency in the Perception skill, and you have Advantage on Wisdom (Perception) checks that rely on sight to spot something at least 300 feet away."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Star-Reader.** You always know which way is north, the hour of the night, and the phase of both moons, and you can't become lost while you can see the sky."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Moon-Tide Flight (Level 5).** As a Bonus Action, you can take wing. For 10 minutes you have a Fly Speed equal to your Speed. Each time you take off during those 10 minutes, you must either start from a height of at least 10 feet or spend all your movement that turn launching from level ground; landing doesn't end the trait. You can't use this trait while wearing Medium or Heavy armor. Once you use it, you can't use it again until you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**High Tide.** On a night when both moons are full, the flight lasts 1 hour."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Slack Tide.** On a night when neither moon is in the sky, the flight lasts only 1 minute."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**King Tide.** On the Three Nights of a King Tide, you can use this trait without expending its use."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cindren",
+   "name": "Cindren",
+   "kind": "given-family",
+   "hint": "Short, crackling names, with a hearth-surname.",
+   "given": {
+    "canon": [
+     "Brakk",
+     "Solen",
+     "Emra",
+     "Kessik",
+     "Darah",
+     "Ilsk"
+    ],
+    "more": [
+     "Ardek",
+     "Brasa",
+     "Char",
+     "Dursk",
+     "Embra",
+     "Fenk",
+     "Garra",
+     "Hask",
+     "Irsa",
+     "Kolm",
+     "Marek",
+     "Orsk",
+     "Pyra",
+     "Rusk",
+     "Sindra",
+     "Tarsk"
+    ]
+   },
+   "family": {
+    "canon": [
+     "Kilnborn",
+     "Ashvale",
+     "Slagmoor",
+     "Embermere"
+    ],
+    "more": [
+     "Coalwake",
+     "Cinderhall",
+     "Forgeheld",
+     "Smokemantle",
+     "Glowstone",
+     "Sootfall",
+     "Brandwell",
+     "Furnacefold",
+     "Sparkhaven",
+     "Charhollow"
+    ]
+   },
+   "tagline": "Forge-folk of Everfall with skin like banked coals, whose feelings show as light beneath the skin.",
+   "traits": [
+    {
+     "title": "Cindren traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5 to 6½ feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a Cindren, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Fire-Hearted.** You have Resistance to Fire damage, and you can handle hot metal, coals, and molten glass without harm for up to a minute at a time. This covers ordinary heat only, not magic such as *Heat Metal*."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ember-Lines.** Your ember-lines shed Dim Light in a 5-foot radius when you are angry, afraid, in love, or in pain. As a Bonus Action you can flare them to shed Bright Light in a 10-foot radius and Dim Light for 10 feet beyond that, or bank them dark. Banked lines flare back to Dim Light whenever you take damage."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Forge-Kin.** You have proficiency with your choice of Smith's Tools or Glassblower's Tools."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Cinder Magic.** You know the *Produce Flame* cantrip. At level 3 you learn *Burning Hands*, and at level 5 you learn *Heat Metal*. (See Species spells.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coral-peoples",
+   "name": "Coral peoples",
+   "kind": "coral",
+   "hint": "Flowing, resonant names. The court stands in place of a surname.",
+   "tagline": "The merfolk and their kin of the deep courts, whose amphibious shore-lines walk the dry world as pact-wardens, pearl-factors, and tide-pilots.",
+   "traits": [
+    {
+     "title": "Coral traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5 to 6 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet, and a Swim Speed of 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As one of the coral peoples, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Amphibious.** You can breathe air and water."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Child of the Deep.** You have Resistance to Cold damage, and you ignore the effects of the cold and pressure of deep water."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speaker to the Sea.** You can communicate simple ideas to any Beast, Elemental, or Monstrosity that has a Swim Speed, and it can understand you. You understand it in return."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Court-Born.** You are of one of the deep courts. Choose it from the table below. You know its cantrip, and you learn its spells at levels 3 and 5. (See Species spells.)"
+      },
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Court",
+         "Cantrip",
+         "Level 3",
+         "Level 5"
+        ],
+        [
+         "**The Glass Gardens** (fair merfolk; living reef; memory-pearls)",
+         "*Dancing Lights*",
+         "*Healing Word*",
+         "*Lesser Restoration*"
+        ],
+        [
+         "**The Whispering Current** (twilight secret-traders)",
+         "*Message*",
+         "*Dissonant Whispers*",
+         "*Detect Thoughts*"
+        ],
+        [
+         "**The Grey Fathoms** (keepers of the drowned)",
+         "*Chill Touch*",
+         "*False Life*",
+         "*Darkness*"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dragonborn",
+   "name": "Dragonborn",
+   "kind": "given-byname",
+   "hint": "Clan comes before self in importance.",
+   "given": {
+    "canon": [
+     "Korrath",
+     "Sazkhan",
+     "Merrash",
+     "Ilzara",
+     "Ozreth"
+    ],
+    "more": [
+     "Arzhan",
+     "Belkhar",
+     "Drazim",
+     "Ezzara",
+     "Ghorrak",
+     "Hazrim",
+     "Irthas",
+     "Jazreth",
+     "Kherash",
+     "Mazkara",
+     "Norzeth",
+     "Orrakh",
+     "Rhazim",
+     "Shezra",
+     "Tazkhar",
+     "Uzrith",
+     "Vazhara"
+    ]
+   },
+   "byname": {
+    "pattern": "of Clan {clan}",
+    "clan": [
+     "Ossarim",
+     "Balrora",
+     "Kharvesh",
+     "Azzurath",
+     "Drazkhar",
+     "Merrikhan",
+     "Zaruun",
+     "Thessarim",
+     "Orvakh",
+     "Irzamar",
+     "Sazkari",
+     "Vhalazim"
+    ]
+   },
+   "tagline": "The mainland scale-folk: refugees, exiles, and traders of the long war, imperial in bearing and iron once sworn.",
+   "traits": [
+    {
+     "title": "Dragonborn traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5 to 7 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a dragonborn, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Draconic Ancestry.** Your clan's blood comes from one kind of dragon. Choose it from the table below; it sets the damage type of your Breath Weapon and your Damage Resistance."
+      },
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Ancestry",
+         "Damage type"
+        ],
+        [
+         "Black or Copper",
+         "Acid"
+        ],
+        [
+         "Blue or Bronze",
+         "Lightning"
+        ],
+        [
+         "Brass, Gold, or Red",
+         "Fire"
+        ],
+        [
+         "Green",
+         "Poison"
+        ],
+        [
+         "Silver or White",
+         "Cold"
+        ]
+       ]
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Breath Weapon.** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy, either a 15-foot Cone or a 30-foot Line 5 feet wide (your choice each time). Each creature in the area makes a Dexterity saving throw (DC 8 + your Constitution modifier + your Proficiency Bonus). On a failed save, a creature takes 1d10 damage of your ancestry's type, or half as much on a success. The damage becomes 2d10 at level 5, 3d10 at level 11, and 4d10 at level 17. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Damage Resistance.** You have Resistance to the damage type of your ancestry."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Draconic Flight (Level 5).** As a Bonus Action, you sprout spectral wings for 10 minutes, or until you dismiss them (no action required) or have the Incapacitated condition. While they last, you have a Fly Speed equal to your Speed. Once you use this trait, you can't use it again until you finish a Long Rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dwarves",
+   "name": "Dwarves",
+   "kind": "given-family",
+   "hint": "Each family name is a hall's name, and some of those halls fell.",
+   "given": {
+    "canon": [
+     "Bromm",
+     "Durna",
+     "Khevik",
+     "Marga",
+     "Thraim",
+     "Osgit"
+    ],
+    "more": [
+     "Angrim",
+     "Borra",
+     "Dagra",
+     "Dvarik",
+     "Fulka",
+     "Grenda",
+     "Hargit",
+     "Ingra",
+     "Korvik",
+     "Lodur",
+     "Morga",
+     "Nurri",
+     "Orsik",
+     "Runda",
+     "Skalda",
+     "Thorrim",
+     "Varga",
+     "Yrga"
+    ]
+   },
+   "family": {
+    "canon": [
+     "Deephearth",
+     "Ironquill",
+     "Stonemark",
+     "Emberdelf"
+    ],
+    "more": [
+     "Anvilward",
+     "Coldforge",
+     "Goldvein",
+     "Hammerdeep",
+     "Lampkeep",
+     "Oathstone",
+     "Runebarrow",
+     "Silverdelve",
+     "Tallyhold",
+     "Underbeam",
+     "Whetstone",
+     "Brasshall"
+    ]
+   },
+   "tagline": "Master crafters of hold and harbor who keep the Tally: the eternal ledger of every debt, favor, and grudge.",
+   "traits": [
+    {
+     "title": "Dwarf traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 4 to 5 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a dwarf, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 120 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Dwarven Resilience.** You have Resistance to Poison damage, and you have Advantage on saving throws you make to avoid or end the Poisoned condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Dwarven Toughness.** Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Stonecunning.** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching one to use it. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "galven",
+   "name": "Galven",
+   "kind": "galven",
+   "hint": "A short given name, and the storm-name of the squall you were born under.",
+   "given": {
+    "canon": [
+     "Skai",
+     "Rho",
+     "Tuvel",
+     "Ossa",
+     "Brenn"
+    ],
+    "more": [
+     "Aro",
+     "Bryl",
+     "Cask",
+     "Dova",
+     "Esk",
+     "Fael",
+     "Gust",
+     "Hale",
+     "Ivel",
+     "Jess",
+     "Kael",
+     "Lune",
+     "Marl",
+     "Nova",
+     "Orra",
+     "Pell",
+     "Squall",
+     "Tam",
+     "Vey",
+     "Zeph"
+    ]
+   },
+   "storm": {
+    "canon": [
+     "Ninth-Squall",
+     "Longstorm",
+     "Dawnsquall"
+    ],
+    "first": [
+     "First",
+     "Third",
+     "Seventh",
+     "Ninth",
+     "Long",
+     "Dawn",
+     "Dusk",
+     "Night",
+     "Red",
+     "White",
+     "Black",
+     "Twin",
+     "Late",
+     "Sudden",
+     "Green",
+     "Dry"
+    ],
+    "second": [
+     "squall",
+     "storm",
+     "gale",
+     "blow",
+     "thunder",
+     "crack",
+     "surge",
+     "front"
+    ],
+    "hyphen": [
+     "First",
+     "Third",
+     "Seventh",
+     "Ninth"
+    ]
+   },
+   "tagline": "Blue-skinned storm-folk with lightning in the blood, whose marks blaze brighter as their feelings rise.",
+   "traits": [
+    {
+     "title": "Galven traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5½ to 6½ feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a Galven, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Storm-Blooded.** You have Resistance to Lightning damage."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Storm-Eyes.** You have Darkvision with a range of 60 feet. Your eyes glow faintly in the dark, amber, gold, or storm-white."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Living Charge.** You know the *Shocking Grasp* cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose when you select this species)."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Weather in the Bones.** You always know what the weather will do in your area over the next 24 hours, and you know an hour in advance when a natural storm, squall, or lightning will strike within a mile of you. You also have proficiency with Navigator's Tools."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Storm Flare (Level 3).** As a Bonus Action, you let your charge climb. For 1 minute, your marks blaze white, shedding Bright Light in a 10-foot radius and Dim Light for 10 feet beyond, and once on each of your turns when you hit a creature with an attack or damage it with a spell, you can deal extra Lightning damage to it equal to your Proficiency Bonus. While the flare lasts, a creature that hits you with a melee attack while within 5 feet of you takes Lightning damage equal to your Proficiency Bonus. Once you use this trait, you can't use it again until you finish a Long Rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gnomes",
+   "name": "Gnomes",
+   "kind": "given-family",
+   "hint": "Quick, doubled sounds, with a workshop-surname.",
+   "given": {
+    "canon": [
+     "Fizzet",
+     "Nimna",
+     "Wexle",
+     "Pemmi",
+     "Quillo"
+    ],
+    "more": [
+     "Bippa",
+     "Cogsly",
+     "Dabble",
+     "Ezzit",
+     "Filwick",
+     "Gimble",
+     "Hobbet",
+     "Jinx",
+     "Kettri",
+     "Lolla",
+     "Minxie",
+     "Nackle",
+     "Orrin",
+     "Pibbet",
+     "Ruddle",
+     "Sprocket",
+     "Tizzy",
+     "Wimble",
+     "Zanna"
+    ]
+   },
+   "family": {
+    "canon": [
+     "Springloft",
+     "Copperquill",
+     "Gearvale"
+    ],
+    "more": [
+     "Brassbottom",
+     "Cogwhistle",
+     "Dialmere",
+     "Fizzlewick",
+     "Lenscap",
+     "Nutbolt",
+     "Pinwheel",
+     "Quickrivet",
+     "Sparkpocket",
+     "Tinkerby",
+     "Whirlygate",
+     "Wrenchford"
+    ]
+   },
+   "tagline": "The sparkfolk: tinkers, lens-grinders, clockwrights, and problem-worriers who keep Tik, the Tinkering Spark.",
+   "traits": [
+    {
+     "title": "Gnome traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Small (about 3 to 4 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a gnome, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Gnomish Cunning.** You have Advantage on Intelligence, Wisdom, and Charisma saving throws."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Gnomish Lineage.** Choose one of these lineages. Intelligence, Wisdom, or Charisma is your spellcasting ability for its spells (choose when you select the lineage)."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Workshop Gnome** (the Rock Gnome of the 2024 rules): you know the *Mending* and *Prestidigitation* cantrips. You can spend 10 minutes casting *Prestidigitation* to create a Tiny clockwork device (AC 5, 1 Hit Point), such as a toy, a fire starter, or a music box. When you make it, you choose one effect of *Prestidigitation* it can produce (if the effect offers a choice, the device produces only the option you chose); a creature can take a Bonus Action to activate it by touch. You can have up to three such devices at a time, and each falls apart 8 hours after you make it or when you take it apart with a touch (a Utilize action)."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Green-Edge Gnome** (the Forest Gnome of the 2024 rules): you know the *Minor Illusion* cantrip, and you always have *Speak with Animals* prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, regaining all uses when you finish a Long Rest, and you can cast it with any spell slots you have."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "goblinoids",
+   "name": "Goblinoids",
+   "kind": "given-byname",
+   "hint": "Quick, sharp names. Epithets are earned, never inherited.",
+   "given": {
+    "canon": [
+     "Skitt",
+     "Nakka",
+     "Grib",
+     "Motch",
+     "Rezzi"
+    ],
+    "more": [
+     "Bix",
+     "Crut",
+     "Dreg",
+     "Fizz",
+     "Gnash",
+     "Hekk",
+     "Jib",
+     "Krill",
+     "Lug",
+     "Mugg",
+     "Nix",
+     "Pikk",
+     "Ratch",
+     "Snag",
+     "Tukk",
+     "Vex",
+     "Wort",
+     "Yipp",
+     "Zag"
+    ]
+   },
+   "byname": {
+    "list": [
+     "Twice-Sold",
+     "Underfoot",
+     "Nine-Fingers",
+     "Bought-Cheap",
+     "Last-Out",
+     "Rust-Eater",
+     "Quick-Count",
+     "Never-Caught",
+     "Half-Price",
+     "Lamp-Thief",
+     "Good-Scrap",
+     "Knows-a-Guy",
+     "Short-Rope",
+     "Lucky-Tooth",
+     "Back-Door",
+     "Three-Pockets"
+    ]
+   },
+   "tagline": "The Skarn's children: goblins, hobgoblins, and bugbears, who hold that the small and clever outlast the great and proud.",
+   "traits": [
+    {
+     "title": "Goblinoid traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Small (goblin) or Medium (hobgoblin, bugbear), chosen with your kin"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a goblinoid, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Salvager.** You have proficiency with Tinker's Tools, and you can judge the worth and the origin of a piece of salvage by handling it for a minute."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Survivor's Creed.** You have Advantage on saving throws you make to avoid or end the Charmed condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Goblinoid Kin.** Choose your kin. You gain its traits."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Goblin (Small).** *Nimble Escape:* you can take the Disengage or Hide action as a Bonus Action. *Fury of the Small:* once per turn, when you hit a creature larger than you, you can deal extra damage to it equal to your Proficiency Bonus; you can do this a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Hobgoblin (Medium).** *Fortune from the Many:* when you miss with an attack roll or fail an ability check or saving throw, you can add a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum +3). *Shoulder to Shoulder:* you can take the Help action as a Bonus Action. Each of these has its own uses: you can use each one a number of times equal to your Proficiency Bonus, and you regain all uses of both when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Bugbear (Medium).** *Long-Limbed:* when you make a melee attack on your turn, your reach for it is 5 feet greater. *Ambusher:* when you hit a creature that hasn't yet taken a turn in the current combat, the attack deals an extra 2d6 damage, once per combat. *Big Frame:* you count as one size larger when determining your carrying capacity."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "goliaths",
+   "name": "Goliaths",
+   "kind": "given-byname",
+   "hint": "Weighty names, with a deed-name added for a great feat.",
+   "given": {
+    "canon": [
+     "Torug",
+     "Menhira",
+     "Karrak",
+     "Osska",
+     "Dhurra"
+    ],
+    "more": [
+     "Aggor",
+     "Brannok",
+     "Dolmen",
+     "Egra",
+     "Gorrun",
+     "Harrak",
+     "Ildra",
+     "Kaveth",
+     "Lorgun",
+     "Morrak",
+     "Nahra",
+     "Orgrim",
+     "Tharra",
+     "Ulgra",
+     "Vorrok",
+     "Zenhira"
+    ]
+   },
+   "byname": {
+    "list": [
+     "Seven-Peaks",
+     "Coldwater",
+     "Stone-Carrier",
+     "Long-Climb",
+     "Avalanche-Walker",
+     "Storm-Standing",
+     "Bear-Wrestler",
+     "Far-Thrower",
+     "Last-Down",
+     "Cliff-Sleeper",
+     "Thunder-Counter",
+     "Ice-Breaker",
+     "High-Camp",
+     "Rope-Holder"
+    ]
+   },
+   "tagline": "Towering, stone-skinned clanfolk of the great peaks, cousins-in-faith to the Vorthani, who score every feat.",
+   "traits": [
+    {
+     "title": "Goliath traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 7 to 8 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 35 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a goliath, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Giant Ancestry.** Choose one of these giant ancestries. You can use its benefit a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Cloud's Jaunt.** As a Bonus Action, you teleport up to 30 feet to an unoccupied space you can see."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Fire's Burn.** When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to it."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Frost's Chill.** When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to it and reduce its Speed by 10 feet until the start of your next turn."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Hill's Tumble.** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give it the Prone condition."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Stone's Endurance.** When you take damage, you can take a Reaction to roll 1d12, add your Constitution modifier, and reduce the damage by the total."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Storm's Thunder.** When a creature within 60 feet of you deals damage to you, you can take a Reaction to deal 1d8 Thunder damage to it."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Large Form (Level 5).** As a Bonus Action, you become Large for 10 minutes or until you end it (no action required), if there is room. While Large, you have Advantage on Strength checks and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition, and you count as one size larger when determining your carrying capacity."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "halflings",
+   "name": "Halflings",
+   "kind": "given-family",
+   "hint": "Homely names, with surnames of hearth and hedge.",
+   "given": {
+    "canon": [
+     "Berrin",
+     "Posy",
+     "Tamlin",
+     "Wick",
+     "Marlow",
+     "Etta"
+    ],
+    "more": [
+     "Arlo",
+     "Bramble",
+     "Clover",
+     "Dill",
+     "Fenna",
+     "Garnet",
+     "Hobb",
+     "Ivy",
+     "Jory",
+     "Lettie",
+     "Millet",
+     "Nell",
+     "Oddy",
+     "Pip",
+     "Rosie",
+     "Sorrel",
+     "Tansy",
+     "Wilkin"
+    ]
+   },
+   "family": {
+    "canon": [
+     "Kettleby",
+     "Thistledown",
+     "Hedgerow",
+     "Greenstep"
+    ],
+    "more": [
+     "Applewick",
+     "Butterbur",
+     "Candlewick",
+     "Dimplefoot",
+     "Fullbarrel",
+     "Honeypot",
+     "Larkspur",
+     "Mossgather",
+     "Oatcake",
+     "Puddlejump",
+     "Tealeaf",
+     "Warmhearth"
+    ]
+   },
+   "tagline": "The good quiet life: innkeepers, cooks, road-folk, and river-pilots who keep Penny Greenstep.",
+   "traits": [
+    {
+     "title": "Halfling traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Small (about 2 to 3 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a halfling, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Brave.** You have Advantage on saving throws you make to avoid or end the Frightened condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Halfling Nimbleness.** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Luck.** When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Naturally Stealthy.** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kobolds",
+   "name": "Kobolds",
+   "kind": "given-byname",
+   "hint": "Clicked, quick names. The warren is shared as a family name.",
+   "given": {
+    "canon": [
+     "Tikka",
+     "Skex",
+     "Mizzit",
+     "Krik",
+     "Zazz"
+    ],
+    "more": [
+     "Bikk",
+     "Chit",
+     "Drix",
+     "Ekka",
+     "Fizzik",
+     "Gikk",
+     "Hix",
+     "Jikka",
+     "Klik",
+     "Mekk",
+     "Nizz",
+     "Pikka",
+     "Rikit",
+     "Sizz",
+     "Tzik",
+     "Vix",
+     "Yikk",
+     "Zikka"
+    ]
+   },
+   "byname": {
+    "pattern": "of the {ordinal} Under",
+    "ordinals": [
+     "First",
+     "Second",
+     "Third",
+     "Fourth",
+     "Fifth",
+     "Sixth",
+     "Seventh",
+     "Low",
+     "Far",
+     "Old",
+     "Wet",
+     "Bright"
+    ]
+   },
+   "tagline": "The Underscale's own: small, scaled, trap-clever, and unkillable as a rumor.",
+   "traits": [
+    {
+     "title": "Kobold traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Small (about 2 to 3 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a kobold, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 120 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Underscale Cry.** As a Bonus Action, you give a piercing cry. Until the start of your next turn, you and your allies have Advantage on attack rolls against any enemy that was within 10 feet of you and could hear you when you cried out. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Warren-Clever.** You gain proficiency in one of these skills: Investigation, Sleight of Hand, Stealth, or Survival. You also gain proficiency with one of these tools: Mason's Tools, Thieves' Tools, or Tinker's Tools."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Nothing Wasted.** When you finish a Short or Long Rest, you can turn scrap and salvage into one piece of Adventuring Gear worth no more than 1 Anchor (1 GP), such as a bag of caltrops, a pouch of ball bearings, a 10-foot pole, a few pitons, or 50 feet of hempen rope. It lasts until you use it up or until you make another item with this trait."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "liriath",
+   "name": "Liriath",
+   "kind": "single",
+   "hint": "Soft green breaths, kept for a season or a century.",
+   "given": {
+    "canon": [
+     "Sylsa",
+     "Fenroe",
+     "Ilyth",
+     "Ossare",
+     "Thal",
+     "Miren"
+    ],
+    "more": [
+     "Aleth",
+     "Bryse",
+     "Calyx",
+     "Dewen",
+     "Elsha",
+     "Frond",
+     "Hesper",
+     "Ilsa",
+     "Lethe",
+     "Mosse",
+     "Nirel",
+     "Osha",
+     "Petal",
+     "Rhysa",
+     "Sedge",
+     "Tilia",
+     "Ulmus",
+     "Verda",
+     "Willa",
+     "Yarrow"
+    ]
+   },
+   "tagline": "Walking green life of the deep jungle: patient, rooted, long-memoried, and the sharpest grief in the south.",
+   "traits": [
+    {
+     "title": "Liriath traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 4½ to 7 feet tall) or Small (about 3 to 4 feet tall), chosen when you select this species; tree-kin are always Medium"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a Liriath, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Green Body.** You can eat as other peoples do, or sustain yourself on water and an hour of daylight instead of food."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Sap and Sun.** Your wounds close over with new growth. When you spend Hit Point Dice during a Short Rest in daylight (an overcast sky counts; moonlight and lamplight don't), add your Proficiency Bonus to each die you roll."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Grove-Speaker.** You know the *Druidcraft* cantrip."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Liriath Kind.** What grows in you shapes you. Choose your kind from the table below; you gain its benefit at level 1 and learn its spells at levels 3 and 5. (See Species spells.)"
+      },
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Kind",
+         "Level 1",
+         "Level 3",
+         "Level 5"
+        ],
+        [
+         "**Tree-kin** (hardwood-strong elders and guardians)",
+         "**Bark Body.** When you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier. You can use a Shield and keep this benefit.",
+         "*Entangle*",
+         "*Barkskin*"
+        ],
+        [
+         "**Bloom-kin** (quick, bright, and short-fused)",
+         "You know the *Thorn Whip* cantrip, and your Speed increases to 35 feet.",
+         "*Faerie Fire*",
+         "*Suggestion*"
+        ],
+        [
+         "**Fern- and moss-kin** (quiet keepers of the deep dark)",
+         "You know the *Poison Spray* cantrip, and you have Darkvision with a range of 60 feet.",
+         "*Ray of Sickness*",
+         "*Pass without Trace*"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "florians",
+   "name": "Florians",
+   "kind": "florian",
+   "hint": "A Florian takes a day-name for its single bright day.",
+   "canon": [
+    "Morning-of-Rain",
+    "Third-Bell",
+    "Last-Gold"
+   ],
+   "first": [
+    "Morning",
+    "Noon",
+    "Evening",
+    "Dawn",
+    "Dusk",
+    "First",
+    "Second",
+    "Third",
+    "Last",
+    "Bright",
+    "Warm",
+    "Soft"
+   ],
+   "second": [
+    "of-Rain",
+    "of-Bees",
+    "of-Wind",
+    "of-Dew",
+    "of-Sun",
+    "Bell",
+    "Gold",
+    "Light",
+    "Petal",
+    "Breeze",
+    "Shade",
+    "Song"
+   ],
+   "tagline": "",
+   "traits": [
+    {
+     "title": "A grove-blessed Florian",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Florians are the Liriath's tiny, wholly floral cousins, who live a single day and know nothing of time. They are a wonder of the world, not a player species. If a player and the GM want one anyway, the story has to answer one question first: **a grove's deep blessing, or some magic, has stretched this Florian's bloom.**"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Rules:** use the Liriath traits with **bloom-kin**. A Florian is far smaller than most Small creatures (knee-high at most), but for the rules it is **Small**."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Living in the now.** The Florian has no sense of past or future. They have Advantage on saving throws to avoid or end the Frightened condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The bloom.** The GM decides how long the blessing lasts, and what it would take to keep it. That question is the character's arc."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lizardfolk",
+   "name": "Lizardfolk",
+   "kind": "given-byname",
+   "hint": "Sibilant names. Tribe-names are names of water.",
+   "given": {
+    "canon": [
+     "Sszara",
+     "Hessk",
+     "Yssith",
+     "Karssh",
+     "Ozzek"
+    ],
+    "more": [
+     "Asskar",
+     "Dessik",
+     "Ezzath",
+     "Hassra",
+     "Isshek",
+     "Kessith",
+     "Lassk",
+     "Messra",
+     "Nassith",
+     "Orssk",
+     "Rassek",
+     "Sessith",
+     "Tsska",
+     "Usskar",
+     "Vessik",
+     "Zassra"
+    ]
+   },
+   "byname": {
+    "pattern": "of the {water}",
+    "water": [
+     "Slow Water",
+     "Black Water",
+     "Still Water",
+     "Warm Shallows",
+     "Deep Reeds",
+     "Long Mud",
+     "Cold Spring",
+     "Green Pool",
+     "Silent Channel",
+     "Sunken Log",
+     "Rising Mist",
+     "Three Runs"
+    ]
+   },
+   "tagline": "The cold-blooded pragmatists of swamp and shore: dependable within a bargain's exact words, and only its exact words.",
+   "traits": [
+    {
+     "title": "Lizardfolk traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5 to 7 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet, and a Swim Speed of 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As one of the lizardfolk, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Bite.** You can use your fanged maw to make Unarmed Strikes. When you hit with it, the strike deals 1d6 + your Strength modifier Piercing damage, instead of the Bludgeoning damage normal for an Unarmed Strike."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Hold Breath.** You can hold your breath for up to 15 minutes at a time."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Natural Armor.** When you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier. You can use a Shield and keep this benefit."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Hungry Jaws.** As a Bonus Action, you can make a special attack with your Bite. If it hits, it deals its normal damage and you gain Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Mud-Reader.** You gain proficiency in two of these skills: Animal Handling, Medicine, Nature, Perception, Stealth, or Survival."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "marked",
+   "name": "The Marked",
+   "kind": "marked",
+   "hint": "A quiet family name kept close, and often a chosen name held like a vow.",
+   "family": {
+    "canon": [
+     "Nemis",
+     "Orith",
+     "Sarran",
+     "Liorel"
+    ],
+    "more": [
+     "Abrethe",
+     "Caldis",
+     "Demaris",
+     "Elissar",
+     "Ferrin",
+     "Halcith",
+     "Ismeth",
+     "Kalreth",
+     "Morvath",
+     "Neriel",
+     "Oreval",
+     "Sethis",
+     "Tamieth",
+     "Valeth",
+     "Zarriel"
+    ]
+   },
+   "chosen": {
+    "canon": [
+     "Mercy",
+     "Ledger",
+     "Hale",
+     "Even"
+    ],
+    "more": [
+     "Patience",
+     "Ember",
+     "Quiet",
+     "Candle",
+     "Promise",
+     "Anchor",
+     "Verity",
+     "Solace",
+     "Witness",
+     "Amends",
+     "Measure",
+     "Harbor",
+     "Remedy",
+     "Tender",
+     "Steady",
+     "Kindle"
+    ]
+   },
+   "tagline": "Aasimar and tieflings: the peoples who wear their heritage on the skin, and answered fear with wit, discretion, and iron mutual aid.",
+   "traits": [
+    {
+     "title": "Aasimar traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 4 to 7 feet tall) or Small (about 2 to 4 feet tall), chosen when you select this species"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Celestial Resistance.** Resistance to Necrotic and Radiant damage."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Healing Hands.** Once per Long Rest, a touch that heals a number of d4s equal to your Proficiency Bonus."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Light Bearer.** You know the *Light* cantrip."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Celestial Revelation (Level 3).** Once per Long Rest, a one-minute transformation: spectral wings and flight, a searing radiance, or a frightening shroud, with a little extra damage once a turn."
+      },
+      {
+       "t": "p",
+       "text": "*Short form. The full wording is in the 2024 rules.*"
+      }
+     ]
+    },
+    {
+     "title": "Tiefling traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 4 to 7 feet tall) or Small (about 3 to 4 feet tall), chosen when you select this species"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a tiefling, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Fiendish Legacy.** Choose a legacy from the table below. You gain its level 1 benefit, and you learn its spells at levels 3 and 5. (See Species spells.)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Otherworldly Presence.** You know the *Thaumaturgy* cantrip, using the same spellcasting ability as your legacy."
+      },
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Legacy",
+         "In Kalvatar",
+         "Level 1",
+         "Level 3",
+         "Level 5"
+        ],
+        [
+         "**Abyssal**",
+         "The daemon-blood of the drowned Orka empire",
+         "Resistance to Poison damage; *Poison Spray*",
+         "*Ray of Sickness*",
+         "*Hold Person*"
+        ],
+        [
+         "**Chthonic**",
+         "The cold line of the drowned and the kept dead",
+         "Resistance to Necrotic damage; *Chill Touch*",
+         "*False Life*",
+         "*Ray of Enfeeblement*"
+        ],
+        [
+         "**Infernal**",
+         "Old pacts sworn in fire, like the one House Alastor does not speak of",
+         "Resistance to Fire damage; *Fire Bolt*",
+         "*Hellish Rebuke*",
+         "*Darkness*"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "orcs",
+   "name": "Orcs and half-orcs",
+   "kind": "given-byname",
+   "hint": "The Telling grants a deed-name.",
+   "given": {
+    "canon": [
+     "Karguz",
+     "Morgha",
+     "Uzzek",
+     "Hargra",
+     "Dresha"
+    ],
+    "more": [
+     "Agrak",
+     "Borzha",
+     "Durgha",
+     "Garzuk",
+     "Hurza",
+     "Krozh",
+     "Lurgha",
+     "Mazruk",
+     "Nargha",
+     "Orzuk",
+     "Razha",
+     "Shurga",
+     "Thurgha",
+     "Urgra",
+     "Vorzha",
+     "Zugra"
+    ]
+   },
+   "byname": {
+    "list": [
+     "Wall-Holder",
+     "Rope-and-Knife",
+     "Storm-Listener",
+     "First-Ashore",
+     "Bridge-Breaker",
+     "Last-Standing",
+     "Oar-Snapper",
+     "Carried-Three",
+     "Fire-Keeper",
+     "Long-Watch",
+     "Tide-Wader",
+     "Shield-Splitter",
+     "Chain-Biter",
+     "Kept-the-Gate"
+    ]
+   },
+   "tagline": "Heirs of the fallen empire: descendants of the Orka, who keep the Tusk-Marking and the Telling.",
+   "traits": [
+    {
+     "title": "Orc traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 6 to 7 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As an orc, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Adrenaline Rush.** You can take the Dash action as a Bonus Action. When you do, you gain Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Short or Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 120 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't use it again until you finish a Long Rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pocchin",
+   "name": "Pocchin",
+   "kind": "pocchin",
+   "hint": "Small, round names, always trailed in trade by bellowed, self-given titles.",
+   "given": {
+    "canon": [
+     "Ukin",
+     "Tobbin",
+     "Bram",
+     "Pobbo",
+     "Wuli",
+     "Dindle",
+     "Mungi",
+     "Nib",
+     "Tatta",
+     "Tappa",
+     "Borbo",
+     "Pim",
+     "Golla",
+     "Snik"
+    ],
+    "more": [
+     "Bimbi",
+     "Dobbi",
+     "Fuffin",
+     "Gobbo",
+     "Hubbi",
+     "Jolli",
+     "Kibbin",
+     "Lumpi",
+     "Mobbo",
+     "Noddi",
+     "Pukka",
+     "Rollo",
+     "Tubbi",
+     "Wobbin"
+    ]
+   },
+   "epithet": [
+    "the Most Just",
+    "the Magnificent",
+    "the Unbeatably Priced",
+    "the Thrice-Honest",
+    "the Incomparable",
+    "the Generous Beyond Reason",
+    "the Never Knowingly Undersold",
+    "the Beloved of Nine Ports",
+    "the Splendid",
+    "the Entirely Trustworthy",
+    "the Famous",
+    "the Humble"
+   ],
+   "title": [
+    "Philanthropist",
+    "Grand Purveyor",
+    "Bargain-King",
+    "First Friend",
+    "Discount-Emperor",
+    "Honest-Deal Champion",
+    "Lord Protector",
+    "Supreme Provisioner",
+    "Favorite Uncle",
+    "High Admiral",
+    "Sole Supplier",
+    "Patron and Benefactor"
+   ],
+   "of": [
+    "of the Sapphire Isles",
+    "of All Kalvatar",
+    "of the Southern Roads",
+    "of Fine Rugs",
+    "of Slightly Used Lamps",
+    "of Every Market Worth Visiting",
+    "of the Nine Mouths",
+    "to Captains and Kings",
+    "of Pickled Things",
+    "of the Finest Second-Hand Boots",
+    "of Goldwind (Outer)",
+    "of Things Fallen Off Ships"
+   ],
+   "tagline": "Knee-to-waist-high, irresistibly fluffy, incurably acquisitive merchant-folk, and ferocious when cornered.",
+   "traits": [
+    {
+     "title": "Pocchin traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Small (about 2½ to 3½ feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a Pocchin, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Nose for Value.** By handling an object for 1 minute, you learn its market value to within a tenth, whether a coin, gem, document, or work of art is genuine, and whether the object is magical (but not what its magic does)."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Fat Offer.** You have proficiency in the Persuasion skill. When you make a Charisma check as part of a bargain or a haggle, you can give yourself Advantage on the roll; decide before you roll. You can do this a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Don't Mistake Us for Soft.** When a creature within 5 feet of you deals damage to you, you can take a Reaction to make one Unarmed Strike against it, using the Damage option: teeth, claws, and a great deal of fury. It deals 1d4 + your Strength modifier Bludgeoning or Piercing damage (your choice). You can use this trait a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Absurdly Fluffy.** You take half damage from falling, and you are comfortable in cold weather without cold-weather gear."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sporrn",
+   "name": "Sporrn",
+   "kind": "given-byname",
+   "hint": "Soft, humming tones, styled by place in the colony.",
+   "given": {
+    "canon": [
+     "Sel",
+     "Ompo",
+     "Mirre"
+    ],
+    "more": [
+     "Amm",
+     "Bolu",
+     "Dunn",
+     "Emme",
+     "Hom",
+     "Imm",
+     "Lumo",
+     "Moru",
+     "Nomm",
+     "Olu",
+     "Pomm",
+     "Runo",
+     "Summ",
+     "Thumm",
+     "Ummi",
+     "Wenn",
+     "Yomu"
+    ]
+   },
+   "byname": {
+    "list": [
+     "of the Quiet Ring",
+     "Third-of-Nine",
+     "of the Deep Shelf",
+     "of the Pale Arch",
+     "First-of-Seven",
+     "of the Slow Bloom",
+     "of the Under-Garden",
+     "Fifth-of-Twelve",
+     "of the Soft Wall",
+     "of the Long Thread",
+     "Second-of-Five",
+     "of the Dim Hall"
+    ]
+   },
+   "tagline": "Pale, soft, fungal folk of the deep caves and the drowned Orka undercities, who breathe and speak in spores.",
+   "traits": [
+    {
+     "title": "Sporrn traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 4½ to 6 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a Sporrn, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Fungal Body.** You have Resistance to Poison damage, and you have Advantage on saving throws you make to avoid or end the Poisoned condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Spore-Speech.** You can speak telepathically to any creature you can see within 30 feet of you that breathes. You don't need to share a language for it to understand your meaning, but it must understand at least one language, and it can't answer you this way. Spore-speech passes through a veil, but not through a solid barrier or underwater."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Deep Pharmacy.** You have proficiency with the Herbalism Kit and the Poisoner's Kit."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Healer or Horror.** Choose which spores you share. You know the cantrip and learn the spells at levels 3 and 5. (See Species spells.)"
+      },
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Spores",
+         "Cantrip",
+         "Level 3",
+         "Level 5"
+        ],
+        [
+         "**Mending spores**",
+         "*Spare the Dying*",
+         "*Cure Wounds*",
+         "*Lesser Restoration*"
+        ],
+        [
+         "**Blighting spores**",
+         "*Toll the Dead*",
+         "*Inflict Wounds*",
+         "*Blindness/Deafness*"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tarvan",
+   "name": "Tarvan",
+   "kind": "tarvan",
+   "hint": "The clan-name is set before the given name.",
+   "given": {
+    "canon": [
+     "Brae",
+     "Hamesh",
+     "Ferghus",
+     "Rauri",
+     "Cael",
+     "Mara",
+     "Senga",
+     "Rona",
+     "Greer",
+     "Mhari"
+    ],
+    "more": [
+     "Ailse",
+     "Bairdh",
+     "Caillen",
+     "Dughal",
+     "Ethna",
+     "Fionnar",
+     "Ionagh",
+     "Lachlen",
+     "Morragh",
+     "Niallan",
+     "Oighra",
+     "Struan",
+     "Tavis",
+     "Unagh"
+    ]
+   },
+   "clan": {
+    "canon": [
+     "Cravoch",
+     "Dunmor",
+     "Glenfask",
+     "Maccrenn",
+     "Brackmore",
+     "Torroch"
+    ],
+    "more": [
+     "Ardvrach",
+     "Balnagow",
+     "Corriemor",
+     "Drumfell",
+     "Inverash",
+     "Kilbrae",
+     "Strathcarn",
+     "Tullach"
+    ]
+   },
+   "tagline": "The horned clans of the high moors: gentle giants, cattle-folk in truth, and masters of combat as an art.",
+   "traits": [
+    {
+     "title": "Tarvan traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 7 to 8 feet tall; clan champions taller still)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a Tarvan, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Horns.** You can use your horns to make Unarmed Strikes. When you hit with them, the strike deals 1d6 + your Strength modifier Piercing damage, instead of the Bludgeoning damage normal for an Unarmed Strike. When you use an Unarmed Strike to Shove a creature, you can push it up to 10 feet instead of 5."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition, and you count as one size larger when determining your carrying capacity."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Highland Hide.** You have Resistance to Cold damage, and you suffer no hardship from extreme cold, wind, or rain."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Hard to Move.** You have Advantage on saving throws against effects that would push, pull, or knock you Prone. (Forced movement that allows no save still moves you.)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Herd-Kin.** You have Advantage on Wisdom (Animal Handling) checks with Beasts that graze in herds, such as cattle, horses, aurocs, and saurian grazers."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Stampede.** Once per turn, when you move at least 20 feet straight toward a creature and then hit it with a melee attack on the same turn, the attack deals an extra 1d8 damage of its type. If the creature is no more than one size larger than you, it must also succeed on a Strength saving throw (DC 8 + your Strength modifier + your Proficiency Bonus) or have the Prone condition. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vorthani",
+   "name": "Vorthani",
+   "kind": "given-byname",
+   "hint": "A Foursworn adds their Ascent.",
+   "given": {
+    "canon": [
+     "Khazu",
+     "Ordun",
+     "Bhoram",
+     "Tekun",
+     "Dhoru",
+     "Ashka",
+     "Morun",
+     "Vhala",
+     "Sedra",
+     "Ondu"
+    ],
+    "more": [
+     "Bhedu",
+     "Chandhu",
+     "Dhakun",
+     "Ghoru",
+     "Jhala",
+     "Khemu",
+     "Lhoru",
+     "Mhedra",
+     "Nhoru",
+     "Phalu",
+     "Rhedu",
+     "Shoka",
+     "Thadu",
+     "Zhora"
+    ]
+   },
+   "byname": {
+    "pattern": "of the {ordinal} Ascent",
+    "ordinals": [
+     "First",
+     "Second",
+     "Third",
+     "Fourth"
+    ]
+   },
+   "tagline": "Nine feet of patience with four arms and horns: the giant-kin monk-folk of the southern high peaks.",
+   "traits": [
+    {
+     "title": "Vorthani traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 8 to 10 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a Vorthani, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Four Arms.** Your upper arms are heavy and built for power; your lower arms are finer and built for precision."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "Your lower arms can hold and manipulate objects, take the Utilize action, use tools, perform the Somatic and Material components of spells, and hold a Spellcasting Focus."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "Your lower arms can't wield weapons or Shields, or make attacks."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "Your lower arms count as free hands for loading ammunition (a bow's arrows, a crossbow's bolts), for spellcasting, and for holding, drawing, stowing, or handing over objects. They don't count as hands for wielding a weapon, for the Two-Handed or Versatile property, for holding a Shield, or for Grappling."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "On each of your turns, you can interact with one extra object or feature of the environment for free."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition, and you count as one size larger when determining your carrying capacity."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Mountain Calm.** You have Advantage on saving throws you make to avoid or end the Frightened condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Fourfold Craft.** You have proficiency in the Insight skill and with one type of Artisan's Tools of your choice. When you craft an item with tools you're proficient with, you finish it in half the usual time."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Kindling (Level 3).** As a Bonus Action, you release the banked fire. For 1 minute, you have Advantage on Strength checks and Strength saving throws, and once on each of your turns when you hit a creature with an attack, you can deal extra damage to it equal to your Proficiency Bonus. Once you use this trait, you can't use it again until you finish a Long Rest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "warforged",
+   "name": "Warforged",
+   "kind": "single",
+   "hint": "A warforged is named by whoever woke it, or for the work it does.",
+   "given": {
+    "canon": [
+     "Tank",
+     "Crys"
+    ],
+    "more": [
+     "Anvil",
+     "Ballast",
+     "Bell",
+     "Brace",
+     "Cairn",
+     "Hinge",
+     "Keel",
+     "Lantern",
+     "Latch",
+     "Mast",
+     "Plumb",
+     "Rivet",
+     "Shale",
+     "Tiller",
+     "Ward",
+     "Bulwark",
+     "Ember",
+     "Gauge",
+     "Pillar",
+     "Sextant",
+     "Capstan",
+     "Flint"
+    ]
+   },
+   "tagline": "Made, not born, and nobody alive knows how",
+   "traits": [],
+   "no_traits": "The warforged's game traits are not written for Kalvatar yet. Ask your Game Master which rules your table uses."
+  }
+ ],
+ "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
+}

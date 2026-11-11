@@ -1,0 +1,41 @@
+/* Adventurers: the name generator and the peoples' traits. Uses the atlas's own tokens. */
+.adv-tabs{display:flex;gap:6px;flex-wrap:wrap;border-bottom:1px solid var(--line);margin:0 0 26px}
+.adv-tab{padding:11px 16px;font:12px/1.4 var(--mono);letter-spacing:.4px;color:var(--muted);border:1px solid transparent;border-bottom:0;border-radius:3px 3px 0 0;margin-bottom:-1px}
+.adv-tab:hover{color:var(--ink)}
+.adv-tab.active{color:var(--ink);background:var(--white);border-color:var(--line)}
+.adv-panel{background:var(--white);border:1px solid var(--line);border-radius:3px;padding:8px 24px 14px;margin:0 0 26px}
+.adv-controls{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 18px}
+.adv-controls .pack-label{margin:16px 0 6px}
+.adv-controls select{width:100%}
+.adv-check{display:flex;align-items:center;gap:9px;font-size:13px;color:var(--muted);margin:12px 0 0;cursor:pointer}
+.adv-check input{width:16px;height:16px;accent-color:var(--ink)}
+.adventurers .adv-hint{font:14px/1.7 var(--serif);color:var(--muted);max-width:720px;margin:6px 0 4px}
+.adventurers .adv-empty,.adventurers .adv-lead{font:17px/1.7 var(--serif);color:var(--muted)}
+.adv-results{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 14px}
+.adv-results li{display:flex;align-items:center;justify-content:space-between;gap:14px;background:var(--white);border:1px solid var(--line);border-radius:3px;padding:14px 16px;min-width:0}
+.adv-results li>div{min-width:0}
+.adventurers .adv-name{display:block;font:normal 21px/1.3 var(--serif);color:var(--ink);overflow-wrap:anywhere}
+.adv-meta{display:block;font:11px/1.6 var(--mono);color:var(--muted);margin-top:3px}
+.adv-meta a{color:#8d763e;border-bottom:1px solid #c7b6805c}
+.adv-copy{flex:none;font:11px/1 var(--mono);color:var(--ink);background:none;border:1px solid var(--line);border-radius:2px;padding:8px 10px;cursor:pointer}
+.adv-copy:hover{border-color:var(--ink)}
+.adv-chips{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 28px}
+.adv-chip{font:12px/1.3 var(--mono);color:var(--ink);background:var(--white);border:1px solid var(--line);border-radius:999px;padding:7px 12px}
+.adv-chip:hover{border-color:var(--sage)}
+.adv-chip.active{background:var(--ink);border-color:var(--ink);color:#f0efdf}
+.adv-people header{border-bottom:1px solid var(--line);margin-bottom:22px;padding-bottom:6px}
+.adventurers .adv-people h2{font:normal 38px/1.15 var(--serif);margin:0 0 8px}
+.adventurers .adv-tagline{font:italic 18px/1.6 var(--serif);color:var(--muted);max-width:720px;margin:0}
+.adv-part{max-width:800px;margin:0 0 26px}
+.adventurers .adv-part h3{margin:0 0 10px}
+.adventurers .adv-part p,.adventurers .adv-part li{font:16px/1.7 var(--serif)}
+.adv-part ul{margin:0 0 12px;padding-left:22px}
+.adv-part li{margin:0 0 7px}
+.adv-part ul ul{margin-top:7px}
+.adv-table{overflow-x:auto;margin:0 0 14px}
+.adv-table table{border-collapse:collapse;min-width:100%;font:14px/1.5 var(--serif)}
+.adv-table th,.adv-table td{text-align:left;vertical-align:top;padding:8px 12px;border-bottom:1px solid var(--line)}
+.adv-table th{font:11px/1.4 var(--mono);color:var(--muted);letter-spacing:.4px}
+.adventurers .adv-credit{font:12px/1.7 var(--sans);color:var(--faint);max-width:800px;border-top:1px solid var(--line);padding-top:16px;margin-top:34px}
+.adv-copy:focus-visible,.adv-chip:focus-visible,.adv-tab:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+@media(max-width:720px){.adv-controls{grid-template-columns:1fr}.adv-results{grid-template-columns:1fr}.adv-panel{padding:6px 16px 12px}.adventurers .adv-people h2{font-size:30px}}
