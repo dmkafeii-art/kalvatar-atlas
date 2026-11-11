@@ -1,7 +1,7 @@
 /* Player-facing reading tools. Local data never leaves this browser. */
 'use strict';
 window.Pack2 = (() => {
- const version='22', key='kalvatar-campaign-v1', noteKey='kalvatar-notes-v1';
+ const version='23', key='kalvatar-campaign-v1', noteKey='kalvatar-notes-v1';
  const read=(k,f)=>{try{return JSON.parse(localStorage.getItem(k))??f}catch{return f}};
  const put=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v));return true}catch{return false}};
  let lang=read('kalvatar-language-v1','en')==='es'?'es':'en';document.documentElement.lang=lang;

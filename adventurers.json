@@ -724,7 +724,7 @@
   "savannas": {
    "name": "The savannas",
    "region": "southern-wilds",
-   "entry": null,
+   "entry": "savannas",
    "first": [
     "Gold",
     "Red",
@@ -1244,6 +1244,30 @@
        "text": "**The cold-edge folk** (the whalers and hold-people of the deep south): blunt, superstitious, and tough as whale-leather. Try Athletics or Survival, and *Tough* or *Keeper of the Fire*."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Many Rivers",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Another Current.** You gain proficiency in one skill of your choice."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Second Fortune.** When you finish a Short Rest without Heroic Inspiration, you gain it. Once you gain Heroic Inspiration this way, you can't do so again until you finish a Long Rest."
+      }
+     ]
     }
    ]
   },
@@ -1346,6 +1370,35 @@
          "*Invisibility*"
         ]
        ]
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Road-Wise",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Loud Mind.** When you use the Voice Without Ears, you can speak to a number of creatures equal to your Proficiency Bonus at once."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Meet Me Out There.** When you finish a Long Rest, you can name one creature you have met that is on the same plane of existence. You find it on a road in the Roam: you each give the other a message of twenty-five words or fewer, which it remembers on waking or receives at once as a daydream. An unwilling creature can refuse to hear you."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**A Second Season.** Choose a second season from your Season of the Roam trait. You learn its cantrip and its level 3 spell."
       }
      ]
     }
@@ -1457,6 +1510,35 @@
        "text": "**The Blood Knows.** You have Advantage on Wisdom (Insight) and Wisdom (Survival) checks you make to read the mood of a Beast or Monstrosity or to follow its trail."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Deep Blood",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength, Dexterity, Constitution, or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**A Third Mark.** Choose one more of the Marks from your Shifter traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Quick Rising.** When you roll Initiative, you can shift as part of the roll, with no action required."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Hard to Put Down.** When you shift, you gain Temporary Hit Points equal to 3 times your Proficiency Bonus instead of 2 times."
+      }
+     ]
     }
    ]
   },
@@ -1509,6 +1591,35 @@
        "t": "li",
        "level": 0,
        "text": "**Factor's Ear.** When you make a Wisdom (Insight) or Charisma (Persuasion) check, you can give yourself Advantage on the roll; decide before you roll. You can do this a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Two Tables",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Wisdom or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Polyglot.** You learn two languages."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Both Faces.** Your Factor's Ear also works on Charisma (Deception) and Charisma (Intimidation) checks."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Common Ground.** You can cast *Calm Emotions* once without a spell slot, and you regain the ability to do so when you finish a Long Rest. Charisma is your spellcasting ability for it."
       }
      ]
     }
@@ -1777,6 +1888,30 @@
        "text": "**Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you stay conscious."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Long Memory",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Dexterity, Intelligence, or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Centuries of Practice.** You gain proficiency in one skill or with one tool of your choice."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Deep Lineage.** You can cast each of the level 3 and level 5 spells of your Elven Lineage one more time without a spell slot before you finish a Long Rest."
+      }
+     ]
     }
    ]
   },
@@ -1895,6 +2030,35 @@
        "text": "**King Tide.** On the Three Nights of a King Tide, you can use this trait without expending its use."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Thermal Rider",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Dexterity or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Updraft.** Once you have Moon-Tide Flight, taking off from level ground costs you only half your movement."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Wind-Wise.** Once you have Moon-Tide Flight, you can use it twice before you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Stooping Dive.** Once per turn, when you descend at least 30 feet vertically while flying or gliding and then hit a creature with a melee attack on the same turn, the attack deals an extra 1d8 damage."
+      }
+     ]
     }
    ]
   },
@@ -2001,6 +2165,35 @@
        "text": "**Cinder Magic.** You know the *Produce Flame* cantrip. At level 3 you learn *Burning Hands*, and at level 5 you learn *Heat Metal*. (See Species spells.)"
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Kindled Heart",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Constitution or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Searing Magic.** Fire damage you deal with spells ignores Resistance to Fire damage."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Forge-Fed.** When you take Fire damage from a source other than yourself and aren't reduced to 0 Hit Points by it, you can take a Reaction to regain Hit Points equal to your Proficiency Bonus. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ember Control.** Your Ember-Lines no longer flare when you take damage. They glow only when you let them."
+      }
+     ]
     }
    ]
   },
@@ -2086,6 +2279,35 @@
          "*Darkness*"
         ]
        ]
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Court Envoy",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Wisdom or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Strong Swimmer.** Your Swim Speed increases by 10 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Breath for Others.** You always have *Water Breathing* prepared, and you can cast it only as a Ritual, without material components. When you cast it this way, it affects you and up to a number of creatures equal to your Proficiency Bonus. Your Court-Born spellcasting ability is your spellcasting ability for it."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Gift of Song.** You have Advantage on Charisma checks you make with the sea-folk of any court."
       }
      ]
     }
@@ -2220,6 +2442,30 @@
        "text": "**Draconic Flight (Level 5).** As a Bonus Action, you sprout spectral wings for 10 minutes, or until you dismiss them (no action required) or have the Incapacitated condition. While they last, you have a Fly Speed equal to your Speed. Once you use this trait, you can't use it again until you finish a Long Rest."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Clan-Sworn Scales",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength, Constitution, or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Breath of the Clan.** Your Breath Weapon's damage dice become d12s."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Dragon's Roar.** When you would use your Breath Weapon, you can roar instead. Each creature of your choice within 30 feet of you that can hear you must succeed on a Wisdom saving throw (DC 8 + your Charisma modifier + your Proficiency Bonus) or have the Frightened condition until the end of your next turn. This expends a use of your Breath Weapon."
+      }
+     ]
     }
    ]
   },
@@ -2323,6 +2569,30 @@
        "t": "li",
        "level": 0,
        "text": "**Stonecunning.** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching one to use it. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: The Old Score",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Constitution or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Entered in the Tally.** When a creature you can see deals damage to you, it is *entered* until the end of your next turn. Once per turn, when you hit an entered creature with an attack, you can deal extra damage to it equal to your Proficiency Bonus."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Debts Kept.** You can recall exactly every debt, favor, and promise made to you or by you."
       }
      ]
     }
@@ -2455,6 +2725,30 @@
        "text": "**Storm Flare (Level 3).** As a Bonus Action, you let your charge climb. For 1 minute, your marks blaze white, shedding Bright Light in a 10-foot radius and Dim Light for 10 feet beyond, and once on each of your turns when you hit a creature with an attack or damage it with a spell, you can deal extra Lightning damage to it equal to your Proficiency Bonus. While the flare lasts, a creature that hits you with a melee attack while within 5 feet of you takes Lightning damage equal to your Proficiency Bonus. Once you use this trait, you can't use it again until you finish a Long Rest."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Still-Water",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Still Marks.** You can dim the glow of your marks and eyes at will, and you have Advantage on Charisma (Deception) checks you make to hide what you feel."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Twice the Storm.** You can use Storm Flare twice before you finish a Long Rest."
+      }
+     ]
     }
    ]
   },
@@ -2562,6 +2856,35 @@
        "t": "li",
        "level": 1,
        "text": "**Green-Edge Gnome** (the Forest Gnome of the 2024 rules): you know the *Minor Illusion* cantrip, and you always have *Speak with Animals* prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, regaining all uses when you finish a Long Rest, and you can cast it with any spell slots you have."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Tik's Spark",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Intelligence or Dexterity score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Tinker's Eye.** You always have *Identify* prepared, and you can cast it as a Ritual without its material component. Intelligence is your spellcasting ability for it."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Workshop Hands.** When you make an ability check using Artisan's Tools (Tinker's Tools included), you can roll 1d4 and add it to the check."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Lineage Spark.** If you are a Workshop Gnome, you can have up to five clockwork devices at a time. If you are a Green-Edge Gnome, a single casting of your *Minor Illusion* can create both a sound and an image."
       }
      ]
     }
@@ -2681,6 +3004,30 @@
        "t": "li",
        "level": 1,
        "text": "**Bugbear (Medium).** *Long-Limbed:* when you make a melee attack on your turn, your reach for it is 5 feet greater. *Ambusher:* when you hit a creature that hasn't yet taken a turn in the current combat, the attack deals an extra 2d6 damage, once per combat. *Big Frame:* you count as one size larger when determining your carrying capacity."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Underestimated",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Dexterity, Constitution, or Intelligence score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Beneath Notice.** Creatures larger than you have Disadvantage on Wisdom (Insight) checks they make against you."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Slip Away.** When a creature larger than you misses you with an attack, you can take a Reaction to move up to half your Speed without provoking Opportunity Attacks."
       }
      ]
     }
@@ -2807,6 +3154,30 @@
        "text": "**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition, and you count as one size larger when determining your carrying capacity."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Every Feat Counted",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength or Constitution score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**One More Feat.** You can use your Giant Ancestry one more time before you finish a Long Rest, and you can use Large Form twice before you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Great Reach.** While your Large Form is active, your reach is 5 feet greater."
+      }
+     ]
     }
    ]
   },
@@ -2912,6 +3283,30 @@
        "text": "**Naturally Stealthy.** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Penny's Favor",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Shared Luck.** When an ally you can see within 30 feet of you rolls a 1 on the d20 for a D20 Test, you can take a Reaction to let them reroll the die; they must use the new roll. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Back to the Stew.** Allies within 10 feet of you have Advantage on saving throws they make to avoid or end the Frightened condition. *(Halflings are steadiest when the roof actually falls in.)*"
+      }
+     ]
     }
    ]
   },
@@ -3010,6 +3405,30 @@
        "t": "li",
        "level": 0,
        "text": "**Nothing Wasted.** When you finish a Short or Long Rest, you can turn scrap and salvage into one piece of Adventuring Gear worth no more than 1 Anchor (1 GP), such as a bag of caltrops, a pouch of ball bearings, a 10-foot pole, a few pitons, or 50 feet of hempen rope. It lasts until you use it up or until you make another item with this trait."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Warren Engineer",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Dexterity or Intelligence score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Better Salvage.** Your Nothing Wasted trait can make items worth up to 10 Anchors (10 GP), such as a Healer's Kit, a Hunting Trap, or a Hooded Lantern, and you can keep two such items at a time."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Quick Traps.** You can set a Hunting Trap, or scatter caltrops or ball bearings, as a Bonus Action. Any saving throw against them uses your DC (8 + your Intelligence modifier + your Proficiency Bonus) if it is higher."
       }
      ]
     }
@@ -3124,6 +3543,25 @@
          "*Pass without Trace*"
         ]
        ]
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Deep Roots",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Constitution or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Take Root.** As a Bonus Action while standing on natural ground (soil, sand, or living wood; a ship's deck doesn't count), you root yourself for up to 1 minute. Until the minute ends or you move or are moved, your Speed is 0, you have Advantage on saving throws against effects that would push, pull, or knock you Prone, and at the start of each of your turns, if you are in daylight and Bloodied (at half your Hit Points or fewer) but have at least 1 Hit Point, you regain Hit Points equal to your Proficiency Bonus. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
       }
      ]
     }
@@ -3293,6 +3731,30 @@
        "t": "li",
        "level": 0,
        "text": "**Mud-Reader.** You gain proficiency in two of these skills: Animal Handling, Medicine, Nature, Perception, Stealth, or Survival."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Clamping Jaws",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Bigger Bite.** Your Bite deals 1d8 Piercing damage instead of 1d6."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Clamp.** Once per turn, when you hit a creature with your Bite on your turn, you can also try to grapple it if it is no more than one size larger than you: it must succeed on a Strength or Dexterity saving throw (its choice; DC 8 + your Strength modifier + your Proficiency Bonus) or have the Grappled condition, with the same escape DC. While you grapple a creature this way, you can't Bite another creature."
       }
      ]
     }
@@ -3476,6 +3938,30 @@
        ]
       }
      ]
+    },
+    {
+     "title": "Heritage feat: The Chosen Name",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speak Your Name.** When you fail a Wisdom or Charisma saving throw, you can speak or silently mouth your chosen name and reroll the save; you must use the new roll. Once you use this benefit, you can't use it again until you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Marked Door.** In any settlement with Marked residents, you can find shelter, a meal, and a quiet word."
+      }
+     ]
     }
    ]
   },
@@ -3568,6 +4054,35 @@
        "t": "li",
        "level": 0,
        "text": "**Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't use it again until you finish a Long Rest."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: The Telling",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength or Constitution score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Unbroken Line.** You regain the use of Relentless Endurance when you finish a Short or Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Warning Carried.** When you use Adrenaline Rush, you can also end the Frightened condition on yourself."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Know the Fall.** You have Advantage on Intelligence (History) checks about the Orka."
       }
      ]
     }
@@ -3699,6 +4214,30 @@
        "text": "**Absurdly Fluffy.** You take half damage from falling, and you are comfortable in cold weather without cold-weather gear."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Bellowed Titles",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Charisma or Dexterity score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Aria.** As a Bonus Action, you bellow your titles. Up to a number of creatures equal to your Proficiency Bonus that you choose within 30 feet of you and that can hear you must each succeed on a Wisdom saving throw (DC 8 + your Charisma modifier + your Proficiency Bonus) or have Disadvantage on the next attack roll it makes before the start of your next turn. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Hoard-Keeper.** You have Advantage on ability checks and saving throws you make to keep hold of an object you are carrying."
+      }
+     ]
     }
    ]
   },
@@ -3822,6 +4361,30 @@
        ]
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Colony-Link",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Wisdom or Constitution score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Two-Way Spores.** The range of your Spore-Speech becomes 60 feet, and a creature you speak to this way can answer you telepathically."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Spore-Link.** As a Magic action, you link up to a number of willing creatures equal to your Proficiency Bonus that you can see within 30 feet of you. For 1 hour, linked creatures (you included) can speak telepathically to one another while within 120 feet of each other. Once made, the link works through barriers and underwater. Once you use this benefit, you can't use it again until you finish a Long Rest."
+      }
+     ]
     }
    ]
   },
@@ -3933,6 +4496,30 @@
        "t": "li",
        "level": 0,
        "text": "**Stampede.** Once per turn, when you move at least 20 feet straight toward a creature and then hit it with a melee attack on the same turn, the attack deals an extra 1d8 damage of its type. If the creature is no more than one size larger than you, it must also succeed on a Strength saving throw (DC 8 + your Strength modifier + your Proficiency Bonus) or have the Prone condition. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Clan Weapon-Forms",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength or Constitution score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Weapon-Forms.** When you roll a 1 or 2 on one of the weapon's own damage dice for an attack with a Battleaxe, Greataxe, Handaxe, Light Hammer, Maul, Warhammer, or War Pick, you can reroll the die, and you must use the new roll. (Extra dice from other features, such as Stampede or Sneak Attack, aren't rerolled.)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Locking.** Once per turn, when you Shove a creature with an Unarmed Strike made with your horns, the creature has Disadvantage on its saving throw."
       }
      ]
     }
@@ -4052,6 +4639,30 @@
        "text": "**The Kindling (Level 3).** As a Bonus Action, you release the banked fire. For 1 minute, you have Advantage on Strength checks and Strength saving throws, and once on each of your turns when you hit a creature with an attack, you can deal extra damage to it equal to your Proficiency Bonus. Once you use this trait, you can't use it again until you finish a Long Rest."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Foursworn",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Second Kindling.** You can use The Kindling twice before you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Word as Contract.** You have Advantage on Charisma (Persuasion) checks you make to have someone accept your promise, and any Vorthani who hears it treats it as signed."
+      }
+     ]
     }
    ]
   },
@@ -4143,6 +4754,35 @@
        "t": "li",
        "level": 0,
        "text": "**Older Than the Islands.** You have Advantage on Intelligence checks you make to understand a mechanism, a ruin, or a working that was built before the peoples of the islands came. Sometimes you remember why it was built. Your Game Master tells you when."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Remembered Purpose",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength, Constitution, or Intelligence score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Built In.** Choose one tool you are proficient with. It is part of your body: it can't be taken from you, you don't need a free hand to use it, and you add double your Proficiency Bonus to ability checks you make with it."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Bottom-Walker.** The sea floor is no longer Difficult Terrain for you, you have Darkvision with a range of 60 feet while under water, and you ignore the cold and pressure of the deep."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Braced.** When you take damage, you can take a Reaction to reduce it by 1d10 + your Proficiency Bonus. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
       }
      ]
     }
@@ -4270,6 +4910,35 @@
        "text": "**Mishri's Count.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. You can't do so again until you finish a Long Rest. Each time you use this trait, you have spent one of the lives you owe: count it down. You start play with up to eight left (your choice, and your byname). When the count reaches zero, this trait is gone, and Mishri is waiting."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: Twice-Landed",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Dexterity or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**On Your Feet.** When you fall, you reduce the damage by an amount equal to five times your character level, and you don't land Prone unless the fall reduces you to 0 Hit Points."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Mishri Laughs.** When you use Mishri's Count, you also gain Temporary Hit Points equal to your character level, and you can move up to half your Speed at once without provoking Opportunity Attacks."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**A Life Found.** Once, when you take this feat, add one to your count."
+      }
+     ]
     }
    ]
   },
@@ -4386,6 +5055,30 @@
        "text": "**Voice of the Grass.** You gain proficiency in one of these skills: Athletics, Intimidation, Perception, or Survival."
       }
      ]
+    },
+    {
+     "title": "Heritage feat: First Roar",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength, Constitution, or Charisma score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Carrying Voice.** The range of your Roar becomes 30 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Pride Answers.** When you use your Roar, each ally of your choice within its range who can hear it gains Temporary Hit Points equal to your Proficiency Bonus + your Constitution modifier (minimum of 1)."
+      }
+     ]
     }
    ]
   },
@@ -4500,6 +5193,35 @@
        "t": "li",
        "level": 0,
        "text": "**The Remembering.** You gain proficiency in the History skill, and you can recall exactly anything you have seen or heard within the past month. Choose, with your Game Master, the one memory you carry for your herd: a road, a drought, a debt, a lineage. When you make an Intelligence check to recall something that memory covers, you can treat a d20 roll of 9 or lower as a 10."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Herd-Wall",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Unmoved.** When an effect would push or pull you or give you the Prone condition, you can take a Reaction to remain where you are, standing."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Stand Behind Me.** While you aren't Incapacitated, allies within 5 feet of you have Half Cover against attacks made from more than 5 feet away from them."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Herd Remembers.** You can carry a second memory for your herd, with the same benefit as the first."
       }
      ]
     }
@@ -4621,6 +5343,30 @@
        "t": "li",
        "level": 0,
        "text": "**Herd-Raised.** You gain proficiency in one of these skills: Animal Handling, Medicine, Nature, or Survival."
+      }
+     ]
+    },
+    {
+     "title": "Heritage feat: Thunder of the Herd",
+     "blocks": [
+      {
+       "t": "p",
+       "text": "*A General feat for level 4 or later, in place of another General feat.*"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Ability Score Increase.** Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Run Them Down.** When you hit a creature with your Hooves as part of your Charge, it must succeed on a Strength saving throw (DC 8 + your Strength modifier + your Proficiency Bonus) or have the Prone condition, if it is Large or smaller."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Second Wind of the Run.** You can take the Dash action as a Bonus Action. You can do so a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
       }
      ]
     }

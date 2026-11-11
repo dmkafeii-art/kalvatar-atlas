@@ -1317,30 +1317,47 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "A forest built like a sanctuary",
-  "summary": "Titan trees open into root-vaults like naves, and the Liriath plant their dead beneath them.",
+  "summary": "Titan trees open into root-vaults like naves, and the Liriath plant their dead beneath them. Every grave grows its own tree.",
   "sections": [
    {
-    "title": "A wonder of the islands",
+    "title": "The place",
     "paragraphs": [
-     "Light falls through the Cathedral Green like stained glass. To the Liriath, planting the dead is a return to the living grove, and a place such as this carries memory through its roots and seasons."
+     "A grove of titan trees whose roots arch into vaults like the naves of a temple. The canopy lets the light down in pale shafts, colored by the leaves it passes through, so that the floor of the Green looks like the inside of a window.",
+     "The Liriath plant their dead here, and each grave grows its own tree. To them it is a return to the living grove, and the place carries its memory in roots and seasons."
     ]
    },
    {
-    "title": "Seeing it",
+    "title": "Who lives there",
     "paragraphs": [
-     "The Liriath let travelers walk the naves in silence, never in a crowd and never at night. The dead are planted under the roots, and the grove remembers them; a Liriath may lay a hand on a trunk and tell you who rests below."
+     "The Liriath keep the Green, and the short-lived Florians bloom and fade in its clearings. Around the grove live tribes of the deep green who have been its neighbors for as long as either can remember: growers, canopy-walkers, and lantern-makers who bring their own dead to the edge and ask leave.",
+     "The light in the Green is kind. Visitors who come for a funeral often stay for the rest of their lives, and the villages at its edge are full of people who meant to leave in the morning."
     ]
    },
    {
-    "title": "In the islands",
-    "paragraphs": [
-     "A grove of titan trees whose root-vaults form naves, and whose canopy lets the light fall in pale shafts like stained glass. The Liriath plant their dead here, and each grave grows its own tree. The light in the Green is kind, and visitors who come to the Green for a funeral often stay for the rest of their lives."
+    "title": "Walking the naves",
+    "paragraphs": [],
+    "list": [
+     "**In silence.** Speech is for the edge of the grove.",
+     "**Never in a crowd.** A few at a time, with a Liriath or with leave.",
+     "**Never at night.**",
+     "**Take nothing.** Not a leaf, not a seed. A Liriath can lay a hand on a trunk and tell you who rests below, and whose leaf that was."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You speak quietly, and you notice how loud everyone else is.",
+     "You know someone planted in the Green, and you know which tree.",
+     "You can walk a canopy road and read the weather from the light.",
+     "You left a place people travel a lifetime to stay in, and you get asked why."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The Cathedral Green's trees have started to grow new graves. The Liriath say it is their own dead, but no one of their kind has died in the Green in forty years.” (heard in the Southern Wilds)"
+     "“The Cathedral Green's trees have started to grow new graves. The Liriath say it is their own dead, but no one of their kind has died in the Green in forty years.” (heard in the Southern Wilds)",
+     "“Sit under the oldest tree long enough and it will tell you a name. It’s never one you know. Yet.” (a lantern-maker of the grove’s edge)"
     ]
    }
   ],
@@ -1350,8 +1367,20 @@
     "Southern Wilds"
    ],
    [
-    "Type",
+    "Kind",
     "Natural wonder"
+   ],
+   [
+    "Keepers",
+    "the Liriath"
+   ],
+   [
+    "Visitors",
+    "walk the naves in silence, never in a crowd, never at night"
+   ],
+   [
+    "Known for",
+    "light like stained glass, and people who came for a funeral and stayed"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -1380,31 +1409,44 @@
   "title": "The Auroral Vault",
   "category": "place",
   "region": "Icy Expanse",
-  "subtitle": "Where the northern lights lie below",
-  "summary": "An ice canyon where the aurora seems to pool beneath the rim like liquid light.",
+  "subtitle": "Where the lights lie below",
+  "summary": "An ice canyon where the aurora seems to pool beneath the rim like liquid light. The Frost Elves will not raid beneath it.",
   "sections": [
    {
-    "title": "A wonder of the islands",
+    "title": "The place",
     "paragraphs": [
-     "The Frost Elves call the Auroral Vault Vukharr’s dreaming. They will not raid beneath it. Even in a region governed by hard necessity, some places retain their own prohibitions."
+     "The canyon lies deep in the ice and is reached only in the Long Night. From the rim, the green and white bands of the aurora seem to pour down the walls and collect at the bottom in a silent lake of color.",
+     "The Frost Elves call it Vukharr’s dreaming. Even in a country governed by hard necessity, some places keep their own prohibitions."
     ]
    },
    {
-    "title": "Seeing it",
+    "title": "Who lives there",
     "paragraphs": [
-     "The canyon lies deep in the ice and is reached only in the Long Night, when the aurora burns. From the rim the light seems to pour down the walls and pool at the bottom. The Frost Elves will lead no raid beneath it, and will not say why."
+     "Nobody lives in the canyon. Along its approaches camp the people of the deep ice: Frost Elf warbands, seal-hunters, sled-drivers, and the small tribes that follow the herds across the floes and take their names from the fox, the owl, and the light.",
+     "Under the lights, every one of them keeps the peace. Enemies share a fire on the rim and go back to being enemies a day’s travel away."
     ]
    },
    {
-    "title": "In the islands",
+    "title": "The Ghostlight Vigil",
     "paragraphs": [
-     "Its green and white bands flow down the canyon walls and collect at the bottom in a silent lake of color. The whalers say a man who walks the canyon floor on the Ghostlight night will see his own name written in the light, and that he will hear it spoken once more before he dies."
+     "On the night of the strongest aurora the people of the coast go out onto the ice to watch the lights pool below the rim. The whalers say that a person who walks the canyon floor on the Ghostlight night will see their own name written in the light, and will hear it spoken once more before they die."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "The dark does not frighten you, and neither does the cold. Waste does.",
+     "You have shared a fire with someone who would have killed you anywhere else.",
+     "You know sled-dogs, sea-ice, and how long a body lasts in the water.",
+     "You have stood on the rim. Whether you went down is your own business."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The Frost Elves have stopped raiding the Auroral Vault. The Frost Elves say Vukharr is dreaming of something new.” (heard in the Icy Expanse)"
+     "“The Frost Elves have stopped raiding the Auroral Vault. The Frost Elves say Vukharr is dreaming of something new.” (heard in the Icy Expanse)",
+     "“Some nights the lights flicker in a pattern. Three long, two short, over and over, like somebody’s lamp.” (a Snowvah seal-hunter)"
     ]
    }
   ],
@@ -1414,8 +1456,20 @@
     "Icy Expanse"
    ],
    [
-    "Type",
+    "Kind",
     "Natural wonder"
+   ],
+   [
+    "Seen",
+    "only in the Long Night, when the aurora burns"
+   ],
+   [
+    "Vigil",
+    "the Ghostlight Vigil, on the night of the strongest aurora"
+   ],
+   [
+    "The peace",
+    "no Frost Elf raids beneath the lights"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -1427,7 +1481,9 @@
   "related": [
    "icy-expanse",
    "savage-lords",
-   "hospitality"
+   "hospitality",
+   "vukharr-the-white-hunger",
+   "elves"
   ],
   "illustration": {
    "src": "assets/scenes/auroral-vault-painterly-v1-960.webp",
@@ -10820,57 +10876,68 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "Where the jungle surrenders to stone",
-  "summary": "The cold cordillera of the Southern Wilds, homeland of the Vorthani and their high monasteries.",
+  "summary": "The cold cordillera at the heart of the Southern Wilds, homeland of the Vorthani and their high monasteries, and the one place in the warm south where winter lives all year.",
   "sections": [
    {
-    "title": "The Ascents",
+    "title": "The place",
     "paragraphs": [
-     "The jungle climbs into stone and permanent snow. Above the cloudline stand the Ascents, named by their order of founding. The First Ascent crowns the Sky Anvil, where Vorthani say the air is thin enough to hear Khaurun think."
+     "The road climbs out of the jungle into stone, and then into snow. Above the cloudline stand the Ascents, the monasteries of the Vorthani, each named for the order of its founding. The First Ascent crowns the Sky Anvil, where the Vorthani say the air is thin enough to hear Khaurun think.",
+     "Lowlanders go dizzy at that height. The monks say that is the point."
     ]
    },
    {
-    "title": "Keepers of the sky-records",
+    "title": "Who lives there",
     "paragraphs": [
-     "From the Reach, generations record the battles of Kayuntu and Badron across the five skies. The records serve as omen and calendar, and the Aethyn exchange star-charts for them."
+     "The Vorthani, the four-armed monastery giants, hold the Ascents. Goliath clans keep the ridges and passes and count every climb. Aethyn eyries sit higher still, and trade star-charts for the monasteries’ records.",
+     "Below the snow live the hill tribes of the Reach: goat-herders, cairn-builders, and guides, who take their names from the stone and the birds that ride the wind over it."
     ]
    },
    {
     "title": "Mountain law",
     "paragraphs": [
-     "The Reach signs no charter and turns away no honest guest. Arrivals receive warmth, broth, and a bed; before leaving, each carries a stone."
+     "The Reach signs no charter and turns away no honest guest. Anyone who reaches an Ascent alive is owed warmth, broth, and a bed of honest stone, and no questions until morning. The price is labor: every guest carries one stone somewhere before leaving. Half the walls of the First Ascent, the monks note serenely, were carried by strangers."
     ]
    },
    {
-    "title": "Seeing it",
+    "title": "The sky-records",
     "paragraphs": [
-     "The road climbs out of the jungle into stone, then into snow. A traveler who reaches an Ascent is given broth, a bed, and silence, with questions held until morning. The thin air at the Sky Anvil makes lowlanders dizzy; the monks say that is the point."
+     "From the Reach, generations of monks have recorded the battles of Kayuntu and Badron across the five skies. The records serve as omen and as calendar."
     ]
    },
    {
-    "title": "In the islands",
-    "paragraphs": [
-     "The Anvil Reach is the homeland of the Vorthani, the four-armed monastery giants, and the Ascents are their monasteries, each named in the order of its founding. The price is labor: every guest carries one stone somewhere before they leave. Half the walls of the First Ascent, the monks note serenely, were carried by strangers."
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "Thin air and cold do not trouble you, and heat does.",
+     "You have carried your stone, and you remember exactly where you set it.",
+     "You finish what you start, and unfinished work in other people bothers you.",
+     "You know the passes, and which of them a goliath clan counts as its own."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The Vorthani First Ascent has taken in a guest who will not carry a stone. The monks say she is not a guest.” (heard in the Southern Wilds)"
+     "“The Vorthani First Ascent has taken in a guest who will not carry a stone. The monks say she is not a guest.” (heard in the Southern Wilds)",
+     "“There’s a gap in the sky-records. Eleven days, a long time ago, with the pages cut out clean. The monks know which eleven.” (an Aethyn chart-trader)"
     ]
    }
   ],
   "facts": [
    [
     "People",
-    "Vorthani"
+    "Vorthani, with goliath clans on the ridges and Aethyn eyries above"
    ],
    [
     "Mother-house",
-    "First Ascent"
+    "the First Ascent"
    ],
    [
     "Highest named peak",
-    "Sky Anvil"
+    "the Sky Anvil"
+   ],
+   [
+    "Mountain law",
+    "warmth, broth, and a bed for anyone who arrives alive; every guest carries one stone"
    ]
   ],
   "source": "Bible Lite · §3; The Peoples of Kalvatar",
@@ -10883,7 +10950,8 @@
    "vorthani",
    "goliaths",
    "aethyn",
-   "hospitality"
+   "hospitality",
+   "southern-wilds"
   ],
   "illustration": {
    "src": "assets/scenes/anvil-reach-painterly-v1-960.webp",
@@ -11022,30 +11090,42 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "The Laughing Flood",
-  "summary": "A mile of river terraces and falls, sacred to the Laughing Flood.",
+  "summary": "A mile of river terraces and falls where the Laughing Flood plays its way to the coast. Swimming it from top to bottom is the south’s most famous dare.",
   "sections": [
    {
     "title": "The place",
     "paragraphs": [
-     "The Laughing Water festival gathers at the foot of the Stair. Swimming its course is among the south’s most famous dares."
+     "A mile of river terraces and waterfalls drops in white steps toward the coast, with a sound the Wilds call laughter. A wooden stair zigzags up the cliff beside the falls, from the river landing to the village above.",
+     "Malim’s worshippers say the river is a child who must be entertained. The Stair has broken more than one bold swimmer’s bones."
     ]
    },
    {
-    "title": "Seeing it",
+    "title": "Who lives there",
     "paragraphs": [
-     "A mile of river terraces and falls drops in white steps toward the coast. At the Laughing Water the river tribes gather at its foot with fruit and music for Malim, and the boldest swim the Stair from top to bottom. Most are fished out halfway."
+     "The river tribes: fishers, canoe-builders, and otter-keepers, who name themselves for the water and for what lives in it. The River-Otter folk are the best known of them. Their children swim before they walk, and their villages sit above the falls, where the spray keeps the gardens green."
     ]
    },
    {
-    "title": "In the islands",
+    "title": "The Laughing Water",
     "paragraphs": [
-     "Malim's worshippers say the river is a child who must be entertained, and the Stair has broken more than one bold swimmer's bones."
+     "Once a year the river tribes gather at the foot of the Stair with fruit and music for Malim. There are canoe races, fish-offerings, and a great deal of noise, because a bored river is a dangerous one. The boldest swim the Stair. Most are fished out halfway, to general applause."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You swim like an otter and have opinions about other people’s boats.",
+     "You have tried the Stair, and you know exactly which step stopped you.",
+     "You are loud at festivals and uneasy near water that makes no sound.",
+     "You leave a little fruit at any river you cross. It costs nothing."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“A swimmer reached the bottom of Malim's Stair laughing, without a scratch, and swore the river had carried her the whole way.” (heard at the Laughing Water)"
+     "“A swimmer reached the bottom of Malim's Stair laughing, without a scratch, and swore the river had carried her the whole way.” (heard at the Laughing Water)",
+     "“The year nobody swam, the river dropped a hand’s width and stayed there till the next festival. Somebody always swims now.” (a canoe-builder)"
     ]
    }
   ],
@@ -11057,6 +11137,18 @@
    [
     "Kind",
     "Natural wonder"
+   ],
+   [
+    "Sacred to",
+    "Malim, the Laughing Flood"
+   ],
+   [
+    "Festival",
+    "the Laughing Water: races, music, and fish-offerings at the foot of the falls"
+   ],
+   [
+    "The dare",
+    "swim the Stair, top to bottom"
    ]
   ],
   "source": "Bible Lite · §2, Natural Wonders",
@@ -11068,7 +11160,9 @@
   "related": [
    "southern-wilds",
    "herd-otter",
-   "savage-lords"
+   "savage-lords",
+   "malim-the-laughing-flood",
+   "slowwater"
   ],
   "illustration": {
    "src": "assets/scenes/malims-stair-painterly-v1-960.webp",
@@ -11086,30 +11180,49 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "Shakarr’s country",
-  "summary": "White flats strewn with the sun-bleached bones of titans.",
+  "summary": "White flats strewn with the sun-bleached bones of titans, ringed by dead trees and dry grass. Nothing scavenges the bones, and nobody crosses after dusk.",
   "sections": [
    {
     "title": "The place",
     "paragraphs": [
-     "Nothing scavenges the half-buried bones. Islanders call the flats Shakarr’s country and approach accordingly."
+     "The white flats lie under a pitiless sun, and some of the bones in them are bigger than ships. They are half buried, bleached, and clean: the jackals and the carrion-birds do not enter. A belt of dead trees stands around the flats, and beyond it the dry grass begins.",
+     "Islanders call it Shakarr’s country and approach accordingly. The Shadow of Death is said to walk the flats at dusk, counting the dead."
     ]
    },
    {
-    "title": "Seeing it",
+    "title": "Who lives at the edge",
     "paragraphs": [
-     "The white flats lie under a pitiless sun, and some of the bones in them are bigger than ships. No one crosses after dusk. Guides walk the edge in silence and never point at anything."
+     "Nobody lives on the flats. Around them live the people who make a living from the fear of them: the guides who walk travelers along the edge, the herders who keep their beasts on the grass and count them twice, and the tribes that take their names from bone and dust.",
+     "The Bonewatchers, unsworn raiders, keep their camps at the rim and stand a night watch that has nothing to do with caravans. The pride-kin hunt the grass beyond the dead trees, and the ivory-kin pass through on their long roads to visit the bones."
     ]
    },
    {
-    "title": "In the islands",
+    "title": "Crossing",
     "paragraphs": [
-     "The jackals and the carrion-birds do not enter, and the Shakarr of the Bonewilds is said to walk the flats at dusk, counting the dead."
+     "A crossing has one rite and no festival. It is called the Unspoken."
+    ],
+    "list": [
+     "**Go in silence.** No names, no songs, no counting aloud.",
+     "**Leave part of your kill.** Whatever you hunted on the way, a share stays at the edge.",
+     "**Do not look back.** Whatever you hear behind you.",
+     "**Be out by dusk.** Guides will turn a party around at noon rather than risk it."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You learned to be quiet before you learned to talk, and loud people still make you uneasy.",
+     "You can tell a clean kill from a wrong one: no struggle, no tracks, nothing eaten.",
+     "Your tribe is named for something of the flats: a rib, a jackal, the salt, the wind.",
+     "You have seen the shape of something at dusk and have never described it to anyone."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“A guide says one of the bones on the white flats has moved, a little, every year since he was a boy.” (heard in the Southern Wilds)"
+     "“A guide says one of the bones on the white flats has moved, a little, every year since he was a boy.” (heard in the Southern Wilds)",
+     "“The ivory-kin stop at the same bone every year and stand there until dark. It isn’t one of theirs. It’s far too big.” (a Bonewilds herder)"
     ]
    }
   ],
@@ -11121,6 +11234,18 @@
    [
     "Kind",
     "Natural wonder"
+   ],
+   [
+    "Who lives near",
+    "guides, herders, the Bonewatchers, pride-kin on the grass"
+   ],
+   [
+    "The rite",
+    "the Unspoken: cross in silence, leave part of your kill, do not look back"
+   ],
+   [
+    "Never",
+    "say the Lord’s name inside the flats"
    ]
   ],
   "source": "Bible Lite · §2, Natural Wonders",
@@ -11131,7 +11256,12 @@
   "aliases": [],
   "related": [
    "southern-wilds",
-   "savage-lords"
+   "savage-lords",
+   "shakarr-the-shadow-of-death",
+   "bonewatchers",
+   "pride-kin",
+   "ivory-kin",
+   "savannas"
   ],
   "illustration": {
    "src": "assets/scenes/bonewilds-painterly-v1-960.webp",
@@ -11149,30 +11279,44 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "Two moons, doubled",
-  "summary": "A crater lake whose extraordinary stillness mirrors both moons.",
+  "summary": "A crater lake so still that it doubles both moons perfectly. Chant-keepers read omens in it, and no hand touches the water at moonrise.",
   "sections": [
    {
     "title": "The place",
     "paragraphs": [
-     "Chant-keepers read omens in the doubled sky. Touching the water at moonrise is taboo."
+     "The Mirrormere fills an old crater, and no wind seems to reach it. On a clear night both moons float in it, perfect and still, and the sky looks as deep below the rim as above it.",
+     "The long roads of the savannas end here, and the ivory-kin rest their herds on the outer slope before turning back."
     ]
    },
    {
-    "title": "Seeing it",
+    "title": "Who lives there",
     "paragraphs": [
-     "On a clear night both moons float in the crater lake, perfect and still. Chant-keepers come to read the doubled sky. At moonrise, no hand touches the water."
+     "Villages ring the outer rim, never the inner shore. Their people fish the streams that leave the crater, not the lake, and take their names from herons, reeds, and the moons. The chant-keepers keep reading-stones on the inner slope and come down to them on clear nights to read the doubled sky.",
+     "A reading is asked for before a marriage, a war, or a long voyage, and paid for in food and labor, never coin."
     ]
    },
    {
-    "title": "In the islands",
+    "title": "The taboo",
     "paragraphs": [
-     "Those who break the taboo are said to see the reflection of the moon move on its own, and then to see their own faces in it, aged by a lifetime in a single breath."
+     "At moonrise no hand touches the water. Those who break the taboo are said to see the reflection of the moon move on its own, and then to see their own face in the lake, aged a lifetime in a single breath.",
+     "By day the water is only water, though the rim villages still do not drink it."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You were read at birth, and you know what the chant-keeper said.",
+     "You are comfortable with silence and with waiting for a clear night.",
+     "You have never touched the lake at moonrise. Or you have, and you do not talk about it.",
+     "You know both moons’ phases without looking up."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“On the last night of the King Tide, a third moon was seen in the Mirrormere.” (heard among the chant-keepers)"
+     "“On the last night of the King Tide, a third moon was seen in the Mirrormere.” (heard among the chant-keepers)",
+     "“A boy touched the water on a dare. He’s fine. He just answers questions a moment before you ask them.” (a rim fisher)"
     ]
    }
   ],
@@ -11184,6 +11328,18 @@
    [
     "Kind",
     "Natural wonder"
+   ],
+   [
+    "Keepers",
+    "the chant-keepers of the rim"
+   ],
+   [
+    "The taboo",
+    "never touch the water at moonrise"
+   ],
+   [
+    "Known for",
+    "omens, stillness, and the end of the long roads"
    ]
   ],
   "source": "Bible Lite · §2, Natural Wonders",
@@ -11195,7 +11351,9 @@
   "related": [
    "southern-wilds",
    "calendar",
-   "king-tide"
+   "king-tide",
+   "ivory-kin",
+   "savannas"
   ],
   "illustration": {
    "src": "assets/scenes/mirrormere-painterly-v1-960.webp",
@@ -11213,24 +11371,42 @@
   "category": "place",
   "region": "Icy Expanse",
   "subtitle": "Life beneath the leviathans",
-  "summary": "A shallow bay where fallen leviathans seed gardens of pale life.",
+  "summary": "A shallow bay where fallen leviathans seed gardens of pale life. It is the whalers’ sacred ground, and nobody hunts there.",
   "sections": [
    {
     "title": "The place",
     "paragraphs": [
-     "Whalers hold the bay sacred. The Grey Fathoms are said to watch the gardens."
+     "When a great whale dies in the deep and sinks into the shallow bay, a garden grows from it: white coral, pale weed, glass-clear shrimp, and fish no one has named. Each fall brings a new garden, and the oldest are forests.",
+     "On a calm day you can see them from a boat, ribs and all, with the pale life moving over them."
     ]
    },
    {
-    "title": "Seeing it",
+    "title": "Who lives there",
     "paragraphs": [
-     "When a great whale dies and sinks into the shallow bay, a garden of pale life grows from it: white fronds, glass-clear shrimp, and fish no one has named. Whalers neither hunt nor fish in the bay, and they come here to remember the boats they lost."
+     "The shore tribes of the bay are bone-carvers, kelp-gatherers, and boat-menders, who take their names from the whale and the tide. They hunt elsewhere and bring nothing sharp into the bay. The whaling crews of the coast come here between seasons to remember the boats they lost."
+    ]
+   },
+   {
+    "title": "The law of the bay",
+    "paragraphs": [
+     "Whalers neither hunt nor fish in the Gardens. The whalers say the Grey Fathoms watch over the bay, and take a toll of any boat that cuts the weed without a blessing. A boat that must cross pays with a share of its last catch, poured over the side."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You can carve bone, mend a hull, and read the tide without thinking about it.",
+     "You have a name to say over the water, and you say it every time you come home.",
+     "You have eaten whale and thanked it, and you find waste hard to forgive.",
+     "You have looked down through clear water at something enormous and felt welcome."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Something pale has been walking the bottom of the Whalefall Gardens at low water, tending them.” (heard in Frosthold)"
+     "“Something pale has been walking the bottom of the Whalefall Gardens at low water, tending them.” (heard in Frosthold)",
+     "“The year the Rime Ways flooded, the Gardens bloomed with corals nobody had seen before. Some of them are still there. They’re warm.” (a kelp-gatherer)"
     ]
    }
   ],
@@ -11242,6 +11418,18 @@
    [
     "Kind",
     "Natural wonder"
+   ],
+   [
+    "Sacred to",
+    "the whalers of the coast"
+   ],
+   [
+    "The law",
+    "no hunting, no fishing, and no cutting the weed without a blessing"
+   ],
+   [
+    "Watched by",
+    "the Grey Fathoms, the whalers say"
    ]
   ],
   "source": "Bible Lite · §2, Natural Wonders",
@@ -11253,7 +11441,8 @@
   "related": [
    "icy-expanse",
    "whale-wolves",
-   "coral-kingdoms"
+   "coral-kingdoms",
+   "grey-fathoms"
   ],
   "illustration": {
    "src": "assets/scenes/whalefall-gardens-painterly-v1-960.webp",
@@ -13795,20 +13984,67 @@
   "title": "Golgarma",
   "category": "place",
   "region": "Southern Wilds",
-  "subtitle": "A place of the Southern Wilds",
-  "summary": "Golgarma is a city of Orka ruins, vast monuments of stone that loom over the jungle like the bones of a dead god.",
+  "subtitle": "The city the Orka left",
+  "summary": "A city of Orka ruins, vast monuments of stone that loom over the jungle like the bones of a dead god. The Crimson Legion holds it now.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "Golgarma is a city of Orka ruins, vast monuments of stone that loom over the jungle like the bones of a dead god. The Crimson Legion holds the ruins, and the Legion's banners fly from the great stair that the Orka cut to reach the deeps. The stair is called Golgarma's Throat, and it leads down into the Orka undercity of Nadhûr, which the Legion has held since 175 EC. The Legion's raids push north of Golgarma each season, and the Emerald Wrath has requested a second squadron to hold the river-ports against them. The Council reviews the request. The ruins are still beautiful, and a visitor who walks the great avenues at dusk can feel the Orka's pride in the stone."
+     "Golgarma’s avenues are wide enough for an army, and its monuments stand taller than the trees that have grown up between them. The ruins are still beautiful. A visitor who walks the great avenues at dusk can feel the Orka’s pride in the stone.",
+     "At the heart of the city the Orka cut a great stair down to the deeps. It is called Golgarma’s Throat, and it leads to the undercity of Nadhûr."
+    ]
+   },
+   {
+    "title": "Who holds it",
+    "paragraphs": [
+     "The Crimson Legion holds the ruins and flies its banners from the stair, which it took this year. Its raids push north of Golgarma each season. The Emerald Wrath has asked for a second squadron to hold the river-ports against them, and the Council is reviewing the request."
+    ]
+   },
+   {
+    "title": "Who lived in its shadow",
+    "paragraphs": [
+     "The tribes of the ruins lived among the outer monuments for generations: stone-readers, vine-cutters, and guides who knew which doors were safe. Orc clans count the city as an ancestor’s house and kept its outer shrines. Most of them are on the road north now, or hiding in the jungle within sight of home.",
+     "Digging crews still slip in for what the Orka left behind. Fewer come out than used to."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You grew up playing on carved stone older than any kingdom, and nothing built since impresses you.",
+     "You know which doors your people never opened, and you were never told why.",
+     "The Legion took your home, and you know people who did not get out.",
+     "You can read a little of the old carving, or at least which way it points."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Legion didn’t fight its way down the Throat. Something opened it for them from below.” (a refugee stone-reader)",
+     "“There are lights in the high windows at night, in the quarter the Legion doesn’t camp in.” (an Emerald Wrath river pilot)"
     ]
    }
   ],
   "facts": [
    [
     "Region",
-    "The Southern Wilds"
+    "Southern Wilds"
+   ],
+   [
+    "Kind",
+    "Orka ruins"
+   ],
+   [
+    "Held by",
+    "the Crimson Legion"
+   ],
+   [
+    "The great stair",
+    "Golgarma’s Throat, down to the undercity of Nadhûr"
+   ],
+   [
+    "In 175 EC",
+    "the Legion’s raids push north each season"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -13818,7 +14054,8 @@
    "crimson-legion",
    "below",
    "talk-of-175-ec",
-   "nine-fleets"
+   "nine-fleets",
+   "southern-wilds"
   ],
   "illustration": {
    "src": "assets/scenes/golgarma-painterly-v1-960.webp",
@@ -13828,6 +14065,10 @@
    "height": 1024,
    "alt": "The Crimson Legion guards Golgarma’s great stone stair to Nadhûr amid colossal Orka ruins.",
    "caption": "The Legion holds the Throat."
+  },
+  "epigraph": {
+   "quote": "My grandmother sold water on the great avenue. Now I sell it to the people running from there.",
+   "by": "a river-port trader north of Golgarma"
   }
  },
  {
@@ -14024,20 +14265,67 @@
   "title": "Northreach",
   "category": "place",
   "region": "Northern Frontier",
-  "subtitle": "A place of the Northern Frontier",
-  "summary": "Northreach is the horse country of the Frontier, a country of gorse, heather, stud-farms, and long grey roads.",
+  "subtitle": "The horse country of the Frontier",
+  "summary": "A country of gorse, heather, stud-farms, and long grey roads, where the finest horses in the islands are bred and the Tarvan clans come down to gather.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "Northreach is the horse country of the Frontier, a country of gorse, heather, stud-farms, and long grey roads. The Faust remounts breed here, and the Northreach studs produce the finest horses in the islands, which fetch twice their weight in Anchors in Goldwind. The Tarvan clans graze their own herds on the high moors, and the Tarvan Gathering is held here in the year when all the scattered clans come down together. The Gathering is a market, a moot, a festival, and a proving at once. The trapper towns of Northreach supply the furs that line every Frontier hood, and the logging camps supply the timber the Expanse cannot grow."
+     "Inland from the coast the moors rise in gorse and heather toward the high Tarvan country. The land is poor for crops and excellent for horses and sheep. Long grey roads join the stud-farms to the ports, and you can ride half a day on one without meeting a wall.",
+     "The Faust remounts breed here, and the Northreach studs produce the finest horses in the islands, which fetch twice their weight in Anchors in Goldwind."
+    ]
+   },
+   {
+    "title": "Who lives there",
+    "paragraphs": [
+     "Stud-farming families who can recite a bloodline to the tenth dam. Trappers, whose towns supply the furs that line every Frontier hood. Loggers, whose camps cut the timber the Expanse cannot grow. And the Tarvan clans, who graze their own herds on the high moors.",
+     "A few herds of centaurs run the heath as well. The stud-farms hire them as horse-masters, and neither side is quite sure who works for whom."
+    ]
+   },
+   {
+    "title": "The Gathering",
+    "paragraphs": [
+     "In the year when all the scattered Tarvan clans come down together, Northreach holds the Tarvan Gathering. It is a market, a moot, a festival, and a proving at once: horses are sold, feuds are settled, marriages are made, and champions fight for the honor of it."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You could ride before you could read, and you judge people by how they treat a horse.",
+     "You know furs, timber, or bloodlines well enough to be cheated in none of them.",
+     "You are used to distance, weather, and neighbors a morning’s ride away.",
+     "You have been to a Gathering, and you still owe or are owed something from it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The best colt of the year always goes to a buyer nobody saw arrive. Paid in old coin, every time.” (a Northreach stud-groom)",
+     "“The centaurs won’t run the high moor past the standing-stones any more. They say the ground has a pulse.” (a Bastion ostler)"
     ]
    }
   ],
   "facts": [
    [
     "Region",
-    "The Northern Frontier"
+    "Northern Frontier"
+   ],
+   [
+    "Kind",
+    "Moor and horse country"
+   ],
+   [
+    "Known for",
+    "the Northreach studs, the Faust remounts, furs, and timber"
+   ],
+   [
+    "Gathering",
+    "the Tarvan Gathering: market, moot, festival, and proving at once"
+   ],
+   [
+    "Who lives there",
+    "stud-farmers, trappers, loggers, and the Tarvan clans"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14050,8 +14338,14 @@
    "tarvan",
    "festivals-of-the-frontier",
    "icy-expanse",
-   "moorhorn"
-  ]
+   "moorhorn",
+   "centaurs",
+   "giants-table"
+  ],
+  "epigraph": {
+   "quote": "A Northreach horse will carry you anywhere. A Northreach dealer will take you about as far.",
+   "by": "a Goldwind remount buyer"
+  }
  },
  {
   "id": "saltreach",
@@ -14397,26 +14691,67 @@
   "title": "The Giant's Table",
   "category": "place",
   "region": "Northern Frontier",
-  "subtitle": "A wonder of the Northern Frontier",
+  "subtitle": "The stone on the Giant’s shoulder",
   "summary": "A flat stone platform on the high Tarvan moor, set on the shoulder of the Sleeping Giant, the land-spirit that lies beneath the Northreach heath.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "A flat stone platform on the high Tarvan moor, set on the shoulder of the Sleeping Giant, the land-spirit that lies beneath the Northreach heath. The Tarvan walk their herds around the Table on the first morning of spring, and the herd-father Ulmach is said to tread the stones before them. A Tarvan who sits on the Table at dusk hears the Giant breathe."
+     "The high moor is gorse, heather, peat, and weather. The Giant’s Table stands on its highest shoulder: a flat platform of grey stone, ringed at a distance by standing-stones older than the clans.",
+     "The Tarvan say the Sleeping Giant lies beneath the heath and that the Table rests on its shoulder. A Tarvan who sits on the Table at dusk hears the Giant breathe."
+    ]
+   },
+   {
+    "title": "Who lives there",
+    "paragraphs": [
+     "The horned Tarvan clans graze moorhorn and horses across the high country, keep their own ways, and hold their own moots on the open heath. Their dead are laid beneath the standing-stones, and graze, the clans say, in the Endless Pasture just beyond them.",
+     "Other moor-folk live among them: shepherds, peat-cutters, and trappers, who take the clans’ customs if not their horns."
+    ]
+   },
+   {
+    "title": "The First Grass",
+    "paragraphs": [
+     "On the first morning of spring every clan in reach walks its herds once around the Table before they are let onto the new grass. Ulmach the Herd-Father is said to tread the stones ahead of them. Nobody leads a beast across the Table itself, and nobody sits on it in daylight."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You can sleep in rain, find a path in fog, and tell whose cairn you are passing.",
+     "You count combat an honest art and a moot the right place to settle most things.",
+     "You have sat the Table at dusk, once, as every child of the moor does.",
+     "Flat country with no stones in it feels unfinished to you."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“A Tarvan on the Giant's Table heard the Sleeping Giant turn over in its sleep. She went home and sold every horse she had.” (heard in the Northern Frontier)"
+     "“A Tarvan on the Giant's Table heard the Sleeping Giant turn over in its sleep. She went home and sold every horse she had.” (heard in the Northern Frontier)",
+     "“The old stones stand a little taller than they did. The clans measure them every spring and tell the garrisons nothing.” (a Northreach trapper)"
     ]
    }
   ],
   "facts": [
    [
     "Region",
-    "The Northern Frontier"
+    "Northern Frontier"
+   ],
+   [
+    "Kind",
+    "Natural wonder"
+   ],
+   [
+    "Sacred to",
+    "the Sleeping Giant, and Ulmach the Herd-Father"
+   ],
+   [
+    "The rite",
+    "the First Grass: the herds are walked around the Table on the first morning of spring"
+   ],
+   [
+    "Who lives there",
+    "the Tarvan clans of the high moor"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14425,8 +14760,13 @@
    "tarvan",
    "sleeping-giant",
    "northreach",
-   "patrons-of-the-peoples"
-  ]
+   "patrons-of-the-peoples",
+   "moorhorn"
+  ],
+  "epigraph": {
+   "quote": "Sit quiet. Feel that? That’s not the wind.",
+   "by": "a Tarvan herder, to a child on the Table at dusk"
+  }
  },
  {
   "id": "knot",
@@ -40714,5 +41054,93 @@
   "translations": {
    "es": "pending"
   }
+ },
+ {
+  "id": "savannas",
+  "title": "The Savannas",
+  "category": "place",
+  "region": "Southern Wilds",
+  "aliases": [
+   "savannas",
+   "the savannas",
+   "the long grass"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  },
+  "subtitle": "The long grass of the south",
+  "summary": "The open grass between the jungle’s edge and the white flats of the Bonewilds: herd country, crossed by long roads from well to well.",
+  "epigraph": {
+   "quote": "In the jungle you hear trouble first. Out here you see it a day off, and it sees you.",
+   "by": "a bellowback herder"
+  },
+  "facts": [
+   [
+    "Region",
+    "Southern Wilds"
+   ],
+   [
+    "Kind",
+    "Grassland"
+   ],
+   [
+    "Who lives there",
+    "herding tribes, pride-kin, ivory-kin, centaurs"
+   ],
+   [
+    "Known for",
+    "bellowback herds, the long roads, and a sky with nothing in the way"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The place",
+    "paragraphs": [
+     "Where the jungle thins, the grass begins, and it runs to the dead trees at the rim of the Bonewilds. There are flat-topped trees, red earth, dry riverbeds that fill in an hour when the rains come, and wells that are worth more than towns.",
+     "The savannas are the south’s pasture. Bellowbacks graze here in their thousands, and aurocs carry the herders who mind them."
+    ]
+   },
+   {
+    "title": "Who lives there",
+    "paragraphs": [
+     "Three old peoples share the grass with the herding tribes. The **pride-kin** hunt it and guard what crosses it. The **ivory-kin** walk it in great slow circuits, and the south sets its calendar by their passing. The **centaurs** run it in herds that own no ground and remember every well.",
+     "A well belongs to whoever dug it and is open to whoever arrives thirsty. Fouling one is the worst crime the grass knows."
+    ]
+   },
+   {
+    "title": "The long roads",
+    "paragraphs": [
+     "The roads of the savannas are not built. They are worn: by herds, by caravans, and by the ivory-kin, who have walked the same line for longer than anyone has kept count. They run from the Bonewilds to the Mirrormere, and caravans pay well to walk behind a herd."
+    ]
+   },
+   {
+    "title": "If you come from here",
+    "paragraphs": [],
+    "list": [
+     "You can judge distance, weather, and the mood of a herd at a glance.",
+     "You know which wells are sweet, which are seasonal, and whose they are.",
+     "You have sat a night watch against something that never came into the firelight.",
+     "Walls make you restless, and the jungle makes you feel watched."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a well out past the last thorn-trees that fills on its own in the dry season. The centaurs go around it.” (a caravan scout)",
+     "“Before the rains, the whole grass goes quiet for one night. The herders say that’s the night the Shadow leaves the flats to drink.” (a bellowback herder)"
+    ]
+   }
+  ],
+  "related": [
+   "southern-wilds",
+   "bonewilds",
+   "mirrormere",
+   "pride-kin",
+   "ivory-kin",
+   "centaurs",
+   "bellowback",
+   "aurocs"
+  ]
  }
 ]
