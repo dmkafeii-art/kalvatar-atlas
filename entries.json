@@ -40528,5 +40528,190 @@
   "translations": {
    "es": "pending"
   }
+ },
+ {
+  "id": "slowwater",
+  "title": "The Slowwater",
+  "category": "place",
+  "region": "Southern Wilds",
+  "subtitle": "The marsh that breathes",
+  "summary": "A flooded plain in the western interior of the Wilds: knee-deep water for leagues, sawgrass taller than a person, and islands of trees. Its water rises and falls twice a day, and no tide reaches it.",
+  "epigraph": {
+   "quote": "When the water laughs, you’ve left. Until then, mind where you sit.",
+   "by": "a Bogborn guide"
+  },
+  "facts": [
+   [
+    "Region",
+    "Southern Wilds, between the jungle and the Nine Mouths"
+   ],
+   [
+    "Kind",
+    "Flooded plain"
+   ],
+   [
+    "Who lives there",
+    "the Bogborn, lizardfolk, and the Reedskulls at the crossings"
+   ],
+   [
+    "Known for",
+    "the Breath, slowfire, and islands that are not on yesterday’s count"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The place",
+    "paragraphs": [
+     "The Slowwater lies between the jungle and the delta of the Nine Mouths. The water stands knee-deep for leagues and barely moves. Sawgrass grows taller than a person and cuts like its name, and the only high ground is the tree islands. The lizardfolk named it first, for the water, the way they name their own tribes."
+    ]
+   },
+   {
+    "title": "The Breath",
+    "paragraphs": [
+     "Twice a day the water rises a hand’s width and falls again, though the sea is far off and no tide reaches the marsh. The locals call it the Breath and set their day by it. Ask whose breath, and they will tell you to mind your own."
+    ]
+   },
+   {
+    "title": "Seeing it",
+    "paragraphs": [
+     "Travelers go by flat reed boat, poled or pulled by a murkstrider, and they go with a guide. The channels move. So, the guides say, do some of the islands.",
+     "The marsh ends where the water starts to run and make noise. That is the delta, and the delta belongs to the Laughing Flood."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Count the islands when you camp and count them again at dawn. If there’s one more, don’t ask it anything. Go.” (a Bogborn guide)",
+     "“The Breath is the Mud That Breathes, doing what the name says. The whole marsh sits on its chest.” (a lizardfolk trader)"
+    ]
+   }
+  ],
+  "related": [
+   "bogborn",
+   "ssvayuk-the-mud-that-breathes",
+   "lizardfolk",
+   "reedskulls",
+   "malim-the-laughing-flood",
+   "murkstrider",
+   "southern-wilds"
+  ],
+  "aliases": [
+   "Slowwater",
+   "the Slowwater",
+   "Slow Water"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "bogborn",
+  "title": "The Bogborn",
+  "category": "culture",
+  "region": "Southern Wilds",
+  "subtitle": "The Kin of the Slowwater",
+  "summary": "Marsh families of the Slowwater, descended from settlers who went upriver to dodge the tax-collectors and never came out. They talk slowly, wrestle razorfins, and answer to no law but the family.",
+  "epigraph": {
+   "quote": "We ain’t slow. We’re just not goin’ anywhere you are.",
+   "by": "Maw Hobbin"
+  },
+  "facts": [
+   [
+    "Call themselves",
+    "the Kin"
+   ],
+   [
+    "Who they are",
+    "mostly human, with halflings and goblins mixed in"
+   ],
+   [
+    "Where",
+    "the Slowwater, in roosts up in the tree islands"
+   ],
+   [
+    "Law",
+    "the family, and nothing else"
+   ],
+   [
+    "Known for",
+    "slowfire, razorfin wrestling, and the reed collar"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "At a glance",
+    "paragraphs": [
+     "Outsiders call them the Bogborn. They call themselves the Kin. Every one of them wears a collar of braided reed, soaked in a bitter root that keeps the blood-flies off. The braid tells which family you belong to, and a Bogborn reads it before your face.",
+     "Their people came upriver in the first decades after the Landing, to keep their coin from the tax-collectors and their children from the levies. They liked it and stayed."
+    ]
+   },
+   {
+    "title": "The Slow Talk",
+    "paragraphs": [
+     "The Bogborn speak slowly and take their time answering. Outsiders call it the Slow Talk and take them for fools. The Bogborn have never corrected anyone, and they have sold a great deal of slowfire that way.",
+     "The south argues between the chant-keepers’ law and the colonial courts. The Bogborn recognize neither. A matter is settled between families, on somebody’s deck."
+    ]
+   },
+   {
+    "title": "How they live",
+    "paragraphs": [],
+    "list": [
+     "**Roosts:** stilt-houses up in the trees, with a deck at the front where everything important happens.",
+     "**Slowfire:** their marsh-cane liquor, illegal in every port and sold in every port.",
+     "**Razorfin wrestling:** the local sport. A champion is known by the fingers he is missing.",
+     "**Hand-fishing:** an arm goes into a hole in the mud and comes out with whatever bites.",
+     "**Murkstriders:** ridden, and used to pull the flat reed boats.",
+     "**Music:** gourd fiddle, jug, and the rib-board, a board of razorfin ribs scraped with a bone.",
+     "**The Morning Reckon:** each family counts the islands of its water at dawn. One too many, and the family moves that same day.",
+     "**The Big Sit:** once a year all the families gather for music, wrestling, and weddings, and every feud is on hold until it ends."
+    ]
+   },
+   {
+    "title": "Neighbors",
+    "paragraphs": [
+     "The lizardfolk have been their partners for generations, and the Bogborn are the only warm-blooded folk who learned to bargain with them word for word. The Oruma of the delta buy their slowfire and hides and ask no questions.",
+     "The Reedskulls are another matter. The villages that refuse the orcs’ tribute are Bogborn villages, and the quarrel is over iron."
+    ]
+   },
+   {
+    "title": "Three of the Kin",
+    "paragraphs": [],
+    "list": [
+     "**Maw Hobbin:** matriarch of the largest roost. She makes the best slowfire and settles the feuds between families.",
+     "**Dob Cray:** razorfin-wrestling champion, with seven fingers and proud of each one.",
+     "**Juny Oke:** the best guide in the marsh, fourteen years old. Hunters hire her and never ask her age twice."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The old families can stay under longer than a body should, and their hands are cold when you shake on a deal.” (an Oruma boatman)",
+     "“A tax-collector went up the Slowwater in my grandfather’s day. He lives there now. Has grandchildren.” (a Southhaven clerk)"
+    ]
+   }
+  ],
+  "related": [
+   "slowwater",
+   "reedskulls",
+   "lizardfolk",
+   "razorfin",
+   "murkstrider",
+   "ssvayuk-the-mud-that-breathes",
+   "southern-wilds"
+  ],
+  "aliases": [
+   "Bogborn",
+   "the Bogborn",
+   "Maw Hobbin",
+   "Dob Cray",
+   "Juny Oke",
+   "slowfire",
+   "Slowfire"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
  }
 ]

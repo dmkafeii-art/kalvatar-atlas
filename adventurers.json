@@ -966,6 +966,42 @@
    ],
    "canon": []
   },
+  "slowwater": {
+   "name": "The Slowwater",
+   "region": "southern-wilds",
+   "entry": "slowwater",
+   "first": [
+    "Slow",
+    "Reed",
+    "Mud",
+    "Black",
+    "Low",
+    "Still",
+    "Moss",
+    "Warm",
+    "Deep",
+    "Green",
+    "Old",
+    "Quiet"
+   ],
+   "second": [
+    "Heron",
+    "Razorfin",
+    "Frog",
+    "Turtle",
+    "Roost",
+    "Eel",
+    "Cypress",
+    "Strider",
+    "Catfish",
+    "Egret",
+    "Snake",
+    "Jug"
+   ],
+   "canon": [
+    "Bogborn"
+   ]
+  },
   "tarvan-moor": {
    "name": "The Tarvan moor",
    "region": "northern-frontier",

@@ -2328,5 +2328,33 @@
   "entries": [
    "captain-magnus-and-leoric"
   ]
+ },
+ {
+  "id": "rumor-slowwater-breath",
+  "text": "The Slowwater rises and falls twice a day with no tide to move it. The marsh folk call it the Breath and will not say whose.",
+  "heardAt": "heard on the Nine Mouths",
+  "region": "Southern Wilds",
+  "entries": [
+   "slowwater"
+  ]
+ },
+ {
+  "id": "rumor-slowwater-islands",
+  "text": "The Bogborn count their islands every dawn. A family that counts one too many is gone by noon, roost and all.",
+  "heardAt": "heard in Southhaven",
+  "region": "Southern Wilds",
+  "entries": [
+   "slowwater",
+   "bogborn"
+  ]
+ },
+ {
+  "id": "rumor-bogborn-slow-blood",
+  "text": "The oldest Bogborn families can stay under water too long, and their skin is cold. They say it runs in the blood, like a shifter’s tail.",
+  "heardAt": "heard among the Oruma",
+  "region": "Southern Wilds",
+  "entries": [
+   "bogborn"
+  ]
  }
 ]
