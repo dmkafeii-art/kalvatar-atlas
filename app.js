@@ -234,7 +234,12 @@ const entryIllustrations = {
  'silverport': ['scenes', 'Two artisans prepare rose oil and hang dyed silk in Silverport.', 'Dos artesanas preparan aceite de rosas y tienden seda teñida en Silverport.'],
  'saltreach': ['scenes', 'Workers rake salt and operate a sluice on the Saltreach coast.', 'Los trabajadores recogen sal y manejan una compuerta en las salinas de Saltreach.'],
  'crystalhaven': ['scenes', 'Four salvagers pull a mast on a sled across the ice at Crystalhaven.', 'Cuatro rescatistas arrastran un mástil sobre un trineo por el hielo de Crystalhaven.'],
- 'bastion': ['scenes', 'A mounted patrol leaves Bastion beneath the black and iron-grey banners of House Faust.', 'Una patrulla montada sale de Bastion bajo los estandartes negros y gris hierro de la Casa Faust.']
+ 'bastion': ['scenes', 'A mounted patrol leaves Bastion beneath the black and iron-grey banners of House Faust.', 'Una patrulla montada sale de Bastion bajo los estandartes negros y gris hierro de la Casa Faust.'],
+ 'briarcrown': ['scenes', 'Two people exchange a sealed note in a garden overlooking the coast.', 'Dos personas se pasan una nota sellada en un jardín con vista a la costa.'],
+ 'frosthold': ['scenes', 'A Tidecaller blesses a crew at Frosthold’s harbor.', 'Una Tidecaller bendice a una tripulación en el puerto de Frosthold.'],
+ 'kaldmark': ['scenes', 'A guard pushes open the whalebone gate beneath Kaldmark’s black banners.', 'Un guardia abre el portón bajo el arco de hueso de ballena y los estandartes negros de Kaldmark.'],
+ 'snowvah': ['scenes', 'A woman sets down a bowl of steaming stew overlooking Snowvah’s icy plain.', 'Una mujer sirve un guiso humeante en una sala con vista a la llanura helada de Snowvah.'],
+ 'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
