@@ -40193,5 +40193,340 @@
   "translations": {
    "es": "pending"
   }
+ },
+ {
+  "id": "cat-kin",
+  "title": "The Cat-kin",
+  "category": "people",
+  "region": "Southern Wilds",
+  "subtitle": "Nine lives, and counting down",
+  "summary": "Quick, curious cat-folk of the southern ports and the jungle behind them. Every cat-kin is born owing nine lives to a luck spirit, and wears the count as a name.",
+  "epigraph": {
+   "quote": "Six left. Don’t ask about the other three unless you’re buying.",
+   "by": "a cat-kin topman, Southhaven"
+  },
+  "facts": [
+   [
+    "Also called",
+    "tabaxi"
+   ],
+   [
+    "Size",
+    "Small or Medium"
+   ],
+   [
+    "Where",
+    "every southern port, and the jungle behind it"
+   ],
+   [
+    "Faith",
+    "Fortura, and Mishri the Nine-Lived"
+   ],
+   [
+    "Known for",
+    "balance, curiosity, and leaving by the window"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "At a glance",
+    "paragraphs": [
+     "The cat-kin are one of the old peoples of the south: furred, tailed, sharp-eared, and very hard to keep indoors. They come in two builds, and both turn up in the same litter. The small roof-folk of the ports stand no taller than a halfling. The long-limbed hunters of the jungle stand as tall as anyone."
+    ]
+   },
+   {
+    "title": "The count",
+    "paragraphs": [
+     "A cat-kin is born owing nine lives to **Mishri the Nine-Lived**, a trickster spirit of luck, and pays one back each time death is cheated. The count is worn openly as a byname: Eight-Left, Six-Left, Three-Left. A low count is a boast and a warning at once. Nobody has met a cat-kin who admits to One-Left twice."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Ships hire cat-kin for the rigging and regret it only on payday. In the ports they keep to the rooftops and the night markets. In the jungle they live by tribe like their neighbors, and a cat-kin of the tribes names a homeland before anything else.",
+     "They pray to Fortura the way a gambler does: often, and with conditions."
+    ]
+   },
+   {
+    "title": "Names",
+    "paragraphs": [
+     "Short and purring: Sashi, Nimsha, Jhirra, Kesh. After the name comes the count, a luck-name such as Twice-Landed, or the tribe."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“They don’t have nine lives. They have one, and the nerve of nine.” (a Southhaven bosun)",
+     "“Mishri keeps the count, not the cat. Ask one how many are left and watch them look at the sky first.” (a night-market cook)"
+    ]
+   }
+  ],
+  "related": [
+   "fortura-the-fickle",
+   "southern-wilds",
+   "southhaven",
+   "shifters",
+   "pride-kin"
+  ],
+  "aliases": [
+   "tabaxi",
+   "Tabaxi",
+   "cat-kin",
+   "Cat-kin",
+   "cat-folk"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "pride-kin",
+  "title": "The Pride-kin",
+  "category": "people",
+  "region": "Southern Wilds",
+  "subtitle": "The loud law of the grass",
+  "summary": "Tall, maned lion-folk of the southern savannas. A pride hunts, eats, and judges together, and settles its quarrels before the next meal.",
+  "epigraph": {
+   "quote": "We argue in front of everyone. It saves time, and it saves knives.",
+   "by": "a pride-mother of the Long-Grass"
+  },
+  "facts": [
+   [
+    "Also called",
+    "leonin"
+   ],
+   [
+    "Size",
+    "Medium"
+   ],
+   [
+    "Where",
+    "the savannas, and the grass at the edge of the Bonewilds"
+   ],
+   [
+    "They live by",
+    "the pride: a few families under one fire"
+   ],
+   [
+    "Known for",
+    "courage, pride, and volume"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "At a glance",
+    "paragraphs": [
+     "The pride-kin stand a head above most folk, maned or sleek, golden to dust-brown, with a voice built for open country. They are a people of the grass and do not love walls, though plenty take a Hunter’s share or a caravan’s pay and see the ports for themselves."
+    ]
+   },
+   {
+    "title": "The pride",
+    "paragraphs": [
+     "A pride is a few families that share one fire, one hunt, and one judgment. A quarrel inside the pride is settled before the next meal, aloud, in front of everyone. A quarrel with an outsider belongs to the whole pride, which is why travelers are careful how they bargain on the grass."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Prides trade hides, horn, and guard-work to the caravans that cross the savannas. Along the edge of the Bonewilds they keep to the grass and leave the white flats to those who have business there."
+    ]
+   },
+   {
+    "title": "Names",
+    "paragraphs": [
+     "Open and rolling: Raoru, Harrun, Gaharra. The pride comes after the name, as in Raoru of the Long-Grass Pride, or the tribe if the pride runs with one."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A pride-kin alone in a port left the pride or lost it. Don’t ask which.” (a caravan master)",
+     "“They say the first roar on the grass was an answer to something out on the white flats, and the prides have been answering it since.” (a chant-keeper)"
+    ]
+   }
+  ],
+  "related": [
+   "bonewilds",
+   "southern-wilds",
+   "cat-kin",
+   "ivory-kin",
+   "centaurs"
+  ],
+  "aliases": [
+   "leonin",
+   "Leonin",
+   "pride-kin",
+   "Pride-kin",
+   "lion-folk"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "ivory-kin",
+  "title": "The Ivory-kin",
+  "category": "people",
+  "region": "Southern Wilds",
+  "subtitle": "The south’s long memory",
+  "summary": "Huge, grey, tusked folk who walk long circuits between the wells of the south. Each one carries a single memory for the whole herd, and keeps it as a name.",
+  "epigraph": {
+   "quote": "You write it down so you can forget it. We don’t have that luxury.",
+   "by": "an ivory-kin road-mother"
+  },
+  "facts": [
+   [
+    "Also called",
+    "loxodon"
+   ],
+   [
+    "Size",
+    "Medium, and only just"
+   ],
+   [
+    "Where",
+    "the long roads of the savannas, from the Bonewilds to Mirrormere"
+   ],
+   [
+    "They live by",
+    "the herd, and the circuit it walks"
+   ],
+   [
+    "Known for",
+    "patience, memory, and never being hurried"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "At a glance",
+    "paragraphs": [
+     "The ivory-kin are the largest folk most islanders will ever share a road with: grey-skinned, tusked, long-nosed, and slow to anger. A herd walks the same circuit of wells and markets year after year, and the south sets its calendar by their passing."
+    ]
+   },
+   {
+    "title": "The remembering",
+    "paragraphs": [
+     "At coming of age an ivory-kin is given one thing to remember for the herd: a drought, a debt, a road, a name. It is carried for life and worn as a name, as in Ombalo who Remembers the Dry Year. When one of them dies, the memory is handed on before the body is cold. A herd is a library that walks."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Caravans pay well to walk behind a herd, since nothing on the grass troubles one twice. Courts and trading houses send for an ivory-kin when two parties remember a bargain differently. The answer is slow, exact, and final."
+    ]
+   },
+   {
+    "title": "Names",
+    "paragraphs": [
+     "Long and low: Ombalo, Tumbuu, Lombaru. The memory comes after the name, or the tribe for those who walk with one."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“They visit the titan bones on the white flats the way you’d visit a grave. I never heard one say whose.” (a Bonewilds guide)",
+     "“Somewhere there’s a herd that remembers the day the Orka fell. They’ve never been asked politely enough.” (a Southhaven archivist)"
+    ]
+   }
+  ],
+  "related": [
+   "bonewilds",
+   "mirrormere",
+   "southern-wilds",
+   "pride-kin",
+   "centaurs"
+  ],
+  "aliases": [
+   "loxodon",
+   "Loxodon",
+   "ivory-kin",
+   "Ivory-kin",
+   "elephant-folk"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "centaurs",
+  "title": "The Centaurs",
+  "category": "people",
+  "region": "Southern Wilds",
+  "subtitle": "Wealth is distance covered",
+  "summary": "Four-legged folk of the open grass. A herd owns no ground, remembers every well, and counts its wealth in the distance it has run.",
+  "epigraph": {
+   "quote": "You call it wandering. We call it checking on everything.",
+   "by": "a herd-runner of the Tall-Grass"
+  },
+  "facts": [
+   [
+    "Size",
+    "Medium"
+   ],
+   [
+    "Where",
+    "the southern savannas, and a few herds in Northreach"
+   ],
+   [
+    "They live by",
+    "the herd, and the run"
+   ],
+   [
+    "Known for",
+    "endurance, archery, and strong opinions about fences"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "At a glance",
+    "paragraphs": [
+     "The centaurs are horse-bodied folk of the open country. A herd keeps no town and no field. It keeps a run: a great loop of grass, wells, and meeting-grounds that it covers in a year, and knows the way a farmer knows a furrow."
+    ]
+   },
+   {
+    "title": "The run",
+    "paragraphs": [
+     "Wealth among centaurs is distance. A foal’s first full run is its coming of age, and the old are honored by how far they have gone. Nobody rides a centaur. The few folk who have been carried were carried once, as the payment of a debt, and do not joke about it."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Most herds run the southern savannas beside the pride-kin and the ivory-kin. A few crossed north long ago and run the gorse and heather of Northreach, where the stud-farms hire them as horse-masters. Neither side is quite sure who works for whom."
+    ]
+   },
+   {
+    "title": "Names",
+    "paragraphs": [
+     "Striding names: Hathren, Stravan, Galleth. The herd comes after, as in Hathren of the Tall-Grass Herd, or the tribe the herd runs with."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A herd that stops running has seen something on the road ahead. Ask them what before you go that way.” (a caravan scout)",
+     "“The Northreach herds came north by ship, standing up the whole crossing. They still haven’t forgiven the sea.” (a Bastion ostler)"
+    ]
+   }
+  ],
+  "related": [
+   "northreach",
+   "southern-wilds",
+   "aurocs",
+   "pride-kin",
+   "ivory-kin"
+  ],
+  "aliases": [
+   "centaur",
+   "Centaur",
+   "centaurs"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
  }
 ]

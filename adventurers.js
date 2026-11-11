@@ -6,8 +6,8 @@ window.Adventurers = (() => {
  const md = s => h(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g, '$1<em>$2</em>');
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
- const state = {people: '', region: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=2').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
+ const ready = fetch('adventurers.json?v=3').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -28,6 +28,34 @@ window.Adventurers = (() => {
  function elfKind(p, regionId) {
   const names = Object.keys(p.kinds);
   return names.find(k => p.kinds[k].regions.includes(regionId)) || pick(names);
+ }
+
+ /* A tribe of one homeland: a name printed in the books, or a color or quality and a beast or thing of that country. */
+ function tribe(homeId) {
+  const hl = data.homelands[homeId];
+  if(hl.canon.length && (state.canonOnly || chance(.2))) return pick(hl.canon);
+  if(state.canonOnly) return '';
+  let a = pick(hl.first), b = pick(hl.second);
+  for(let i = 0; i < 6 && a.split('-').includes(b); i++) b = pick(hl.second);
+  return a + '-' + b;
+ }
+ const homesOf = regionId => {
+  const all = Object.keys(data.homelands), near = all.filter(id => data.homelands[id].region === regionId);
+  return near.length ? near : all;
+ };
+ function givenOnly(p, land, form) {
+  if(p.kind === 'regional') return regional(land, form).given;
+  if(p.kind === 'elves' || p.kind === 'half-elf') {
+   const elves = person('elves'), k = elves.kinds[elfKind(elves, land)];
+   return p.kind === 'elves' || chance(.5) ? pick(pool(k.given)) : regional(land, form).given;
+  }
+  return pick(pool(p.given));
+ }
+ /* A name of the tribes: the given name, and the tribe in place of a family. */
+ function tribal(p, homeId, form) {
+  const hl = data.homelands[homeId], tr = tribe(homeId);
+  if(!tr) return null;
+  return {name: givenOnly(p, hl.region, form) + ' of the ' + tr, detail: hl.name + ' · ' + (tr.endsWith('s') ? t('the ', 'los ') + tr : t('the ' + tr + ' people', 'el pueblo ' + tr))};
  }
 
  /* One name for one people. Returns {name, people, detail}. */
@@ -100,7 +128,10 @@ window.Adventurers = (() => {
   const out = [], seen = new Set();
   for(let tries = 0; out.length < count && tries < count * 20; tries++) {
    const p = state.people ? person(state.people) : choosePeople(state.region);
-   const n = make(p, state.region, state.form);
+   let n = null;
+   if(p.tribal && state.home) n = tribal(p, state.home === 'any' ? pick(homesOf(state.region)) : state.home, state.form);
+   else if(p.tribal && state.everything && chance(.3)) n = tribal(p, pick(homesOf('')), state.form);
+   if(!n) n = make(p, state.home && state.home !== 'any' ? data.homelands[state.home].region : state.region, state.form);
    if(seen.has(n.name)) continue;
    seen.add(n.name);
    out.push({name: n.name, people: p, detail: n.detail || ''});
@@ -129,23 +160,32 @@ window.Adventurers = (() => {
   const p = state.people && person(state.people);
   if(!p) return '';
   const fixed = !['regional', 'half-elf', 'elves', 'marked'].includes(p.kind);
-  const note = fixed && state.region ? ' ' + t('This people names the same way in every region.', 'Este pueblo usa los mismos nombres en todas las regiones.') : '';
+  let note = fixed && state.region && !state.home ? ' ' + t('This people names the same way in every region.', 'Este pueblo usa los mismos nombres en todas las regiones.') : '';
+  if(state.home && !p.tribal) note += ' ' + t('This people does not name by tribe, so the homeland is left out.', 'Este pueblo no usa nombres de tribu, así que la tierra natal no se aplica.');
   return `<p class="adv-hint">${h(p.hint)}${note} <a class="wiki-link" href="#adventurers/traits/${h(p.id)}">${t('Traits', 'Rasgos')} ↗</a></p>`;
+ }
+
+ function homeOptions() {
+  const groups = Object.entries(data.regions).map(([rid, r]) => {
+   const list = Object.entries(data.homelands).filter(([, x]) => x.region === rid);
+   return list.length ? `<optgroup label="${h(r.name)}">${list.map(([id, x]) => `<option value="${h(id)}"${id === state.home ? ' selected' : ''}>${h(x.name)}</option>`).join('')}</optgroup>` : '';
+  }).join('');
+  return `<option value="">${t('No tribe', 'Sin tribu')}</option><option value="any"${state.home === 'any' ? ' selected' : ''}>${t('Any tribe', 'Cualquier tribu')}</option>${groups}`;
  }
 
  function renderNames() {
   const peoples = data.peoples.map(p => [p.id, p.name]).sort((a, b) => a[1].replace(/^The /, '').localeCompare(b[1].replace(/^The /, '')));
   const regions = Object.entries(data.regions).map(([id, r]) => [id, r.name]);
-  frame('names', `<section class="adv-panel"><div class="adv-controls"><label class="pack-label">${t('People', 'Pueblo')}<select id="adv-people">${options(peoples, state.people, t('Any people', 'Cualquier pueblo'))}</select></label><label class="pack-label">${t('Region', 'Región')}<select id="adv-region">${options(regions, state.region, t('Any region', 'Cualquier región'))}</select></label><label class="pack-label">${t('Form', 'Forma')}<select id="adv-form">${options([['masc', t('Masculine', 'Masculina')], ['fem', t('Feminine', 'Femenina')]], state.form, t('Any', 'Cualquiera'))}</select></label></div><label class="adv-check"><input type="checkbox" id="adv-canon"${state.canonOnly ? ' checked' : ''}> ${t('Only names printed in the books', 'Solo nombres que salen en los libros')}</label><div class="pack-actions"><button type="button" class="button" id="adv-go">${t('Generate names', 'Generar nombres')} <span aria-hidden="true">→</span></button><button type="button" class="button cream" id="adv-random">${t('Random everything', 'Random todo')} <span aria-hidden="true">✦</span></button></div><div id="adv-hint">${hintHtml()}</div></section><section aria-live="polite" id="adv-out">${resultsHtml()}</section>`);
+  frame('names', `<section class="adv-panel"><div class="adv-controls"><label class="pack-label">${t('People', 'Pueblo')}<select id="adv-people">${options(peoples, state.people, t('Any people', 'Cualquier pueblo'))}</select></label><label class="pack-label">${t('Region', 'Región')}<select id="adv-region">${options(regions, state.region, t('Any region', 'Cualquier región'))}</select></label><label class="pack-label">${t('Tribe homeland', 'Tierra de la tribu')}<select id="adv-home">${homeOptions()}</select></label><label class="pack-label">${t('Form', 'Forma')}<select id="adv-form">${options([['masc', t('Masculine', 'Masculina')], ['fem', t('Feminine', 'Femenina')]], state.form, t('Any', 'Cualquiera'))}</select></label></div><label class="adv-check"><input type="checkbox" id="adv-canon"${state.canonOnly ? ' checked' : ''}> ${t('Only names printed in the books', 'Solo nombres que salen en los libros')}</label><div class="pack-actions"><button type="button" class="button" id="adv-go">${t('Generate names', 'Generar nombres')} <span aria-hidden="true">→</span></button><button type="button" class="button cream" id="adv-random">${t('Random everything', 'Random todo')} <span aria-hidden="true">✦</span></button></div><div id="adv-hint">${hintHtml()}</div></section><section aria-live="polite" id="adv-out">${resultsHtml()}</section>`);
   const draw = () => {$('#adv-out').innerHTML = resultsHtml(); $('#adv-hint').innerHTML = hintHtml();};
-  const read = () => {state.people = $('#adv-people').value; state.region = $('#adv-region').value; state.form = $('#adv-form').value; state.canonOnly = $('#adv-canon').checked;};
+  const read = () => {state.everything = false; state.people = $('#adv-people').value; state.region = $('#adv-region').value; state.home = $('#adv-home').value; state.form = $('#adv-form').value; state.canonOnly = $('#adv-canon').checked;};
   $('#adv-go').addEventListener('click', () => {read(); generate(); draw();});
   $('#adv-random').addEventListener('click', () => {
-   state.people = ''; state.region = ''; state.form = ''; state.canonOnly = $('#adv-canon').checked;
-   $('#adv-people').value = ''; $('#adv-region').value = ''; $('#adv-form').value = '';
+   state.people = ''; state.region = ''; state.home = ''; state.form = ''; state.canonOnly = $('#adv-canon').checked; state.everything = true;
+   $('#adv-people').value = ''; $('#adv-region').value = ''; $('#adv-home').value = ''; $('#adv-form').value = '';
    generate(); draw();
   });
-  ['#adv-people', '#adv-region', '#adv-form', '#adv-canon'].forEach(s => $(s).addEventListener('change', () => {read(); $('#adv-hint').innerHTML = hintHtml();}));
+  ['#adv-people', '#adv-region', '#adv-home', '#adv-form', '#adv-canon'].forEach(s => $(s).addEventListener('change', () => {read(); $('#adv-hint').innerHTML = hintHtml();}));
   $('#adv-out').addEventListener('click', e => {
    const b = e.target.closest('[data-copy]');
    if(!b) return;
@@ -182,7 +222,7 @@ window.Adventurers = (() => {
   const parts = p.traits.length ? p.traits.map(x => `<section class="adv-part"><h3>${h(x.title)}</h3>${blocksHtml(x.blocks)}</section>`).join('') : `<p class="adv-hint">${h(p.no_traits)}</p>`;
   const spanish = window.Pack2?.language === 'es' ? `<p class="adv-hint">Los rasgos están en inglés por ahora.</p>` : '';
   frame('traits', `${chips}<article class="adv-people"><header><h2>${h(p.name)}</h2><p class="adv-tagline">${h(p.tagline)}</p><div class="pack-actions"><a class="button" href="#entry/${h(p.id)}">${t('Read about them', 'Leer sobre ellos')} <span aria-hidden="true">→</span></a><button type="button" class="button cream" id="adv-names-for">${t('Names for this people', 'Nombres de este pueblo')} <span aria-hidden="true">✦</span></button></div></header>${spanish}${parts}<section class="adv-part"><h3>${t('Names', 'Nombres')}</h3><p>${h(p.hint)}</p></section></article><p class="adv-credit">${h(data.credit)}</p>`);
-  $('#adv-names-for').addEventListener('click', () => {state.people = p.id; state.region = ''; state.form = ''; generate(); location.hash = 'adventurers';});
+  $('#adv-names-for').addEventListener('click', () => {state.people = p.id; state.region = ''; state.home = ''; state.form = ''; state.everything = false; generate(); location.hash = 'adventurers';});
  }
 
  function route(view, parts) {

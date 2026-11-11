@@ -4,7 +4,7 @@
 .adv-tab:hover{color:var(--ink)}
 .adv-tab.active{color:var(--ink);background:var(--white);border-color:var(--line)}
 .adv-panel{background:var(--white);border:1px solid var(--line);border-radius:3px;padding:8px 24px 14px;margin:0 0 26px}
-.adv-controls{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 18px}
+.adv-controls{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0 18px}
 .adv-controls .pack-label{margin:16px 0 6px}
 .adv-controls select{width:100%}
 .adv-check{display:flex;align-items:center;gap:9px;font-size:13px;color:var(--muted);margin:12px 0 0;cursor:pointer}
@@ -38,4 +38,5 @@
 .adv-table th{font:11px/1.4 var(--mono);color:var(--muted);letter-spacing:.4px}
 .adventurers .adv-credit{font:12px/1.7 var(--sans);color:var(--faint);max-width:800px;border-top:1px solid var(--line);padding-top:16px;margin-top:34px}
 .adv-copy:focus-visible,.adv-chip:focus-visible,.adv-tab:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+@media(max-width:1080px){.adv-controls{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:720px){.adv-controls{grid-template-columns:1fr}.adv-results{grid-template-columns:1fr}.adv-panel{padding:6px 16px 12px}.adventurers .adv-people h2{font-size:30px}}

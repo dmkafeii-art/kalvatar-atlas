@@ -684,12 +684,466 @@
    }
   }
  },
+ "homelands": {
+  "bonewilds": {
+   "name": "The Bonewilds",
+   "region": "southern-wilds",
+   "entry": "bonewilds",
+   "first": [
+    "White",
+    "Pale",
+    "Sun",
+    "Dry",
+    "Bleached",
+    "Long",
+    "Hollow",
+    "Ash",
+    "Salt",
+    "Dust",
+    "Old",
+    "Tall"
+   ],
+   "second": [
+    "Rib",
+    "Bone",
+    "Jackal",
+    "Vulture",
+    "Skull",
+    "Horn",
+    "Tooth",
+    "Spine",
+    "Hyena",
+    "Wind",
+    "Shadow",
+    "Tusk"
+   ],
+   "canon": [
+    "Bonewatchers"
+   ]
+  },
+  "savannas": {
+   "name": "The savannas",
+   "region": "southern-wilds",
+   "entry": null,
+   "first": [
+    "Gold",
+    "Red",
+    "Tall",
+    "Dry",
+    "Long",
+    "Thorn",
+    "Sun",
+    "Dust",
+    "Far",
+    "Burnt",
+    "Open",
+    "Wide"
+   ],
+   "second": [
+    "Grass",
+    "Lion",
+    "Antelope",
+    "Auroc",
+    "Stork",
+    "Jackal",
+    "Hoof",
+    "Horn",
+    "Hawk",
+    "Mane",
+    "Well",
+    "Acacia"
+   ],
+   "canon": []
+  },
+  "deep-jungle": {
+   "name": "The deep jungle",
+   "region": "southern-wilds",
+   "entry": "southern-wilds",
+   "first": [
+    "Jade",
+    "Red",
+    "Black",
+    "Sun",
+    "Green",
+    "Blue",
+    "Night",
+    "Rain",
+    "Gold",
+    "Hidden",
+    "Loud",
+    "Painted"
+   ],
+   "second": [
+    "Serpent",
+    "Feather",
+    "Tusk",
+    "Saurian",
+    "Jaguar",
+    "Parrot",
+    "Monkey",
+    "Frog",
+    "Orchid",
+    "Drum",
+    "Mask",
+    "Canoe"
+   ],
+   "canon": [
+    "Jade-Serpent",
+    "Red-Feather",
+    "Black-Tusk",
+    "Sun-Saurian"
+   ]
+  },
+  "cathedral-green": {
+   "name": "The Cathedral Green",
+   "region": "southern-wilds",
+   "entry": "cathedral-green",
+   "first": [
+    "Green",
+    "Root",
+    "Moss",
+    "Deep",
+    "Tall",
+    "Rain",
+    "Fern",
+    "Quiet",
+    "Vine",
+    "Leaf",
+    "Old",
+    "Dark"
+   ],
+   "second": [
+    "Vault",
+    "Canopy",
+    "Moth",
+    "Sloth",
+    "Heron",
+    "Tapir",
+    "Orchid",
+    "Bough",
+    "Lantern",
+    "Seed",
+    "Owl",
+    "Bark"
+   ],
+   "canon": []
+  },
+  "anvil-reach": {
+   "name": "The Anvil Reach",
+   "region": "southern-wilds",
+   "entry": "anvil-reach",
+   "first": [
+    "Stone",
+    "Cloud",
+    "Cold",
+    "High",
+    "Grey",
+    "Snow",
+    "Thunder",
+    "Far",
+    "Steep",
+    "Bare",
+    "Blue",
+    "Wind"
+   ],
+   "second": [
+    "Condor",
+    "Goat",
+    "Ledge",
+    "Peak",
+    "Hawk",
+    "Stair",
+    "Cairn",
+    "Ram",
+    "Echo",
+    "Crag",
+    "Puma",
+    "Pass"
+   ],
+   "canon": []
+  },
+  "mirrormere": {
+   "name": "Mirrormere",
+   "region": "southern-wilds",
+   "entry": "mirrormere",
+   "first": [
+    "Two-Moon",
+    "Still",
+    "Silver",
+    "Mirror",
+    "Night",
+    "Deep",
+    "Glass",
+    "Calm",
+    "Twin",
+    "Pale",
+    "Blue",
+    "Quiet"
+   ],
+   "second": [
+    "Heron",
+    "Otter",
+    "Carp",
+    "Reed",
+    "Crane",
+    "Moth",
+    "Lily",
+    "Loon",
+    "Eel",
+    "Shore",
+    "Frog",
+    "Swan"
+   ],
+   "canon": []
+  },
+  "malims-stair": {
+   "name": "Malim's Stair",
+   "region": "southern-wilds",
+   "entry": "malims-stair",
+   "first": [
+    "Laughing",
+    "River",
+    "White-Water",
+    "Falling",
+    "Mist",
+    "Rain",
+    "Quick",
+    "Loud",
+    "Bright",
+    "Wet",
+    "Singing",
+    "Running"
+   ],
+   "second": [
+    "Otter",
+    "Kingfisher",
+    "Salmon",
+    "Step",
+    "Fall",
+    "Stone",
+    "Eel",
+    "Dipper",
+    "Spray",
+    "Pool",
+    "Fisher",
+    "Canoe"
+   ],
+   "canon": [
+    "River-Otter"
+   ]
+  },
+  "golgarma": {
+   "name": "Golgarma",
+   "region": "southern-wilds",
+   "entry": "golgarma",
+   "first": [
+    "Broken",
+    "Old",
+    "Carved",
+    "Fallen",
+    "Silent",
+    "Stone",
+    "Vine",
+    "Sunken",
+    "Grey",
+    "Crowned",
+    "Lost",
+    "Tall"
+   ],
+   "second": [
+    "Pillar",
+    "Idol",
+    "Stair",
+    "Mask",
+    "Gate",
+    "Jaguar",
+    "Bat",
+    "Serpent",
+    "Throne",
+    "Lintel",
+    "Owl",
+    "Arch"
+   ],
+   "canon": []
+  },
+  "tarvan-moor": {
+   "name": "The Tarvan moor",
+   "region": "northern-frontier",
+   "entry": "giants-table",
+   "first": [
+    "Grey",
+    "Heather",
+    "Gorse",
+    "Mist",
+    "Black",
+    "Long",
+    "Stone",
+    "Cold",
+    "Wind",
+    "Rain",
+    "Peat",
+    "High"
+   ],
+   "second": [
+    "Stag",
+    "Hare",
+    "Wolf",
+    "Raven",
+    "Cairn",
+    "Hound",
+    "Grouse",
+    "Bull",
+    "Moor",
+    "Fox",
+    "Horn",
+    "Tarn"
+   ],
+   "canon": []
+  },
+  "northreach": {
+   "name": "Northreach",
+   "region": "northern-frontier",
+   "entry": "northreach",
+   "first": [
+    "Grey",
+    "Gorse",
+    "Long-Road",
+    "Iron",
+    "Fog",
+    "Wind",
+    "Dun",
+    "White",
+    "Swift",
+    "Hard",
+    "North",
+    "Black"
+   ],
+   "second": [
+    "Horse",
+    "Mare",
+    "Colt",
+    "Hoof",
+    "Mane",
+    "Road",
+    "Rider",
+    "Lark",
+    "Stallion",
+    "Hound",
+    "Hare",
+    "Gate"
+   ],
+   "canon": []
+  },
+  "auroral-vault": {
+   "name": "The Auroral Vault",
+   "region": "icy-expanse",
+   "entry": "auroral-vault",
+   "first": [
+    "Green-Light",
+    "Sky-Fire",
+    "Blue",
+    "Bright",
+    "Long-Night",
+    "Cold",
+    "Star",
+    "Veil",
+    "Shimmer",
+    "Silent",
+    "High",
+    "Pale"
+   ],
+   "second": [
+    "Fox",
+    "Owl",
+    "Seal",
+    "Bear",
+    "Hare",
+    "Wolf",
+    "Tern",
+    "Canyon",
+    "Rim",
+    "Lantern",
+    "Spear",
+    "Sled"
+   ],
+   "canon": []
+  },
+  "whalefall": {
+   "name": "The Whalefall Gardens",
+   "region": "icy-expanse",
+   "entry": "whalefall-gardens",
+   "first": [
+    "Whale",
+    "Pale",
+    "Deep",
+    "Bone",
+    "Salt",
+    "Shallow",
+    "Grey",
+    "Tide",
+    "Cold",
+    "Quiet",
+    "Long",
+    "White"
+   ],
+   "second": [
+    "Fall",
+    "Rib",
+    "Crab",
+    "Gull",
+    "Seal",
+    "Garden",
+    "Kelp",
+    "Fluke",
+    "Walrus",
+    "Tusk",
+    "Skua",
+    "Harpoon"
+   ],
+   "canon": []
+  },
+  "open-ice": {
+   "name": "The open ice",
+   "region": "icy-expanse",
+   "entry": "icy-expanse",
+   "first": [
+    "White",
+    "Drift",
+    "Far",
+    "Hard",
+    "Thin",
+    "Black",
+    "Long",
+    "Blue",
+    "Storm",
+    "Night",
+    "Still",
+    "Snow"
+   ],
+   "second": [
+    "Bear",
+    "Floe",
+    "Seal",
+    "Wolf",
+    "Sledge",
+    "Owl",
+    "Narwhal",
+    "Hare",
+    "Wind",
+    "Fox",
+    "Auk",
+    "Tern"
+   ],
+   "canon": []
+  }
+ },
  "peoples": [
   {
    "id": "humans",
    "name": "Humans",
    "kind": "regional",
-   "hint": "Humans take the names of their region.",
+   "hint": "Humans take the names of their region. Choose a homeland for a name of the tribes.",
+   "tribal": true,
    "tagline": "The many rivers: one folk in law and a hundred in custom.",
    "traits": [
     {
@@ -762,6 +1216,7 @@
    "name": "Kalashtar",
    "kind": "regional",
    "hint": "Kalashtar keep their human names and families. The name they are given on the far shore is never shared.",
+   "tribal": true,
    "tagline": "The dreamers: humans who sleep with the door open",
    "traits": [],
    "no_traits": "The kalashtar's game traits are not written for Kalvatar yet. Ask your Game Master which rules your table uses."
@@ -770,7 +1225,8 @@
    "id": "shifters",
    "name": "Shifters",
    "kind": "regional",
-   "hint": "Shifters are born into ordinary families and carry the names of their region.",
+   "hint": "Shifters are born into ordinary families and carry the names of their region. A shifter of the tribes carries the tribe: choose a homeland.",
+   "tribal": true,
    "tagline": "Born with a beast in the blood",
    "traits": [],
    "no_traits": "Shifters follow the 2014 rules for the species, with the beast's marks chosen one by one. Ask your Game Master."
@@ -780,6 +1236,7 @@
    "name": "Half-elves",
    "kind": "half-elf",
    "hint": "Half-elves draw from either parent's convention, and often both at once.",
+   "tribal": true,
    "tagline": "The bridge-folk: brokers, translators, captains, and go-betweens, welcome at two tables and fluent in the silences of each.",
    "traits": [
     {
@@ -999,6 +1456,7 @@
      ]
     }
    },
+   "tribal": true,
    "tagline": "Four kinds of elf on the surface, all honoring many-aspected Aelthuvar and the Exodus through Castia, and a fifth kind below.",
    "traits": [
     {
@@ -1935,6 +2393,7 @@
      "Three-Pockets"
     ]
    },
+   "tribal": true,
    "tagline": "The Skarn's children: goblins, hobgoblins, and bugbears, who hold that the small and clever outlast the great and proud.",
    "traits": [
     {
@@ -2048,6 +2507,7 @@
      "Rope-Holder"
     ]
    },
+   "tribal": true,
    "tagline": "Towering, stone-skinned clanfolk of the great peaks, cousins-in-faith to the Vorthani, who score every feat.",
    "traits": [
     {
@@ -2277,6 +2737,7 @@
      "Bright"
     ]
    },
+   "tribal": true,
    "tagline": "The Underscale's own: small, scaled, trap-clever, and unkillable as a rumor.",
    "traits": [
     {
@@ -2554,6 +3015,7 @@
      "Three Runs"
     ]
    },
+   "tribal": true,
    "tagline": "The cold-blooded pragmatists of swamp and shore: dependable within a bargain's exact words, and only its exact words.",
    "traits": [
     {
@@ -2838,6 +3300,7 @@
      "Kept-the-Gate"
     ]
    },
+   "tribal": true,
    "tagline": "Heirs of the fallen empire: descendants of the Orka, who keep the Tusk-Marking and the Telling.",
    "traits": [
     {
@@ -3401,6 +3864,283 @@
    "tagline": "Made, not born, and nobody alive knows how",
    "traits": [],
    "no_traits": "The warforged's game traits are not written for Kalvatar yet. Ask your Game Master which rules your table uses."
+  },
+  {
+   "id": "cat-kin",
+   "name": "Cat-kin (tabaxi)",
+   "kind": "given-byname",
+   "tribal": true,
+   "hint": "Short, purring names. The byname counts the lives still owed to Mishri the Nine-Lived. Choose a homeland to get the tribe instead.",
+   "given": {
+    "canon": [
+     "Sashi",
+     "Nimsha",
+     "Jhirra",
+     "Kesh"
+    ],
+    "more": [
+     "Mirru",
+     "Purra",
+     "Tavhi",
+     "Rashi",
+     "Oshi",
+     "Shurr",
+     "Tirri",
+     "Zhami",
+     "Hassi",
+     "Murri",
+     "Pashu",
+     "Sihra",
+     "Yashi",
+     "Chirr",
+     "Fenni",
+     "Lirsha",
+     "Neshi",
+     "Quish",
+     "Thirri",
+     "Varshi",
+     "Ghimi",
+     "Ishru",
+     "Khessi",
+     "Mhira",
+     "Nurri",
+     "Ruhsha",
+     "Sifri",
+     "Wirra",
+     "Zissa",
+     "Bhisha"
+    ]
+   },
+   "byname": {
+    "list": [
+     "Eight-Left",
+     "Seven-Left",
+     "Six-Left",
+     "Five-Left",
+     "Four-Left",
+     "Three-Left",
+     "Two-Left",
+     "One-Left",
+     "Twice-Landed",
+     "Soft-Step",
+     "Roof-Walker",
+     "Lucky-Fall",
+     "Quiet-Paw",
+     "Long-Tail",
+     "Coin-Catcher",
+     "Sun-Sleeper",
+     "Door-Opener",
+     "Moon-Eyed",
+     "Never-Wet",
+     "Last-Laugh",
+     "Rope-Dancer",
+     "Night-Errand"
+    ]
+   },
+   "tagline": "Nine lives, and counting down",
+   "traits": [],
+   "no_traits": "Cat-kin can be Small or Medium. Their game traits are not written for Kalvatar yet: most tables use the published tabaxi. Ask your Game Master."
+  },
+  {
+   "id": "pride-kin",
+   "name": "Pride-kin (leonin)",
+   "kind": "given-byname",
+   "tribal": true,
+   "hint": "Open, rolling names, with the pride after. Choose a homeland to get a tribe instead.",
+   "given": {
+    "canon": [
+     "Raoru",
+     "Harrun",
+     "Gaharra"
+    ],
+    "more": [
+     "Aurokh",
+     "Marrah",
+     "Orrun",
+     "Barrau",
+     "Kharu",
+     "Urram",
+     "Tharrau",
+     "Naharra",
+     "Jorrah",
+     "Darrum",
+     "Arrosha",
+     "Horrau",
+     "Lharra",
+     "Vaurak",
+     "Yarrum",
+     "Kaharra",
+     "Morrau",
+     "Ruharra",
+     "Ghaura",
+     "Taurrek",
+     "Ahrrum",
+     "Dhaura",
+     "Sharrau",
+     "Whorra",
+     "Zaharru",
+     "Eharra",
+     "Rhouma"
+    ]
+   },
+   "byname": {
+    "pattern": "of the {pride} Pride",
+    "pride": [
+     "Golden",
+     "Long-Grass",
+     "White-Bone",
+     "Noon",
+     "Dry-River",
+     "Red-Dust",
+     "Tall-Sun",
+     "Last-Light",
+     "First-Roar",
+     "Thorn",
+     "Ember-Mane",
+     "Far-Water",
+     "Black-Rock",
+     "Low-Thunder",
+     "Open-Sky",
+     "Burnt-Field"
+    ]
+   },
+   "tagline": "The loud law of the grass",
+   "traits": [],
+   "no_traits": "The pride-kin's game traits are not written for Kalvatar yet: most tables use the published leonin. Ask your Game Master."
+  },
+  {
+   "id": "ivory-kin",
+   "name": "Ivory-kin (loxodon)",
+   "kind": "given-byname",
+   "tribal": true,
+   "hint": "Long, low names, with the one thing that ivory-kin remembers for the herd. Choose a homeland to get a tribe instead.",
+   "given": {
+    "canon": [
+     "Ombalo",
+     "Tumbuu",
+     "Lombaru"
+    ],
+    "more": [
+     "Ondura",
+     "Mahtumba",
+     "Bolundo",
+     "Gurundu",
+     "Thalumba",
+     "Nombira",
+     "Oolaru",
+     "Dundama",
+     "Wamburo",
+     "Yondalo",
+     "Bahrundi",
+     "Mumbaro",
+     "Tolunda",
+     "Zondara",
+     "Ahmbalu",
+     "Lundira",
+     "Sombulo",
+     "Gombira",
+     "Rundalo",
+     "Tambulo",
+     "Uhlunda",
+     "Kondaru",
+     "Hombalu",
+     "Ndamboro",
+     "Vumbira",
+     "Molundu",
+     "Jondura"
+    ]
+   },
+   "byname": {
+    "pattern": "who Remembers {memory}",
+    "memory": [
+     "the Dry Year",
+     "the First Well",
+     "the Old Road",
+     "Nine Winters",
+     "the White Calf",
+     "the Red Moon",
+     "the Fallen Tree",
+     "Every Debt",
+     "the Lost Herd",
+     "the Salt Road",
+     "Three Floods",
+     "the Bone Road",
+     "the Long Walk",
+     "the Burnt Season",
+     "Each Name",
+     "the Quiet Well"
+    ]
+   },
+   "tagline": "The south’s long memory",
+   "traits": [],
+   "no_traits": "The ivory-kin's game traits are not written for Kalvatar yet: most tables use the published loxodon. Ask your Game Master."
+  },
+  {
+   "id": "centaurs",
+   "name": "Centaurs",
+   "kind": "given-byname",
+   "tribal": true,
+   "hint": "Striding names, with the herd after. Choose a homeland to get a tribe instead.",
+   "given": {
+    "canon": [
+     "Hathren",
+     "Stravan",
+     "Galleth"
+    ],
+    "more": [
+     "Edrosh",
+     "Hesprin",
+     "Ivarro",
+     "Kallestre",
+     "Lorrund",
+     "Maverne",
+     "Nestrin",
+     "Ostrave",
+     "Rhoswin",
+     "Sarrol",
+     "Tavrin",
+     "Ullane",
+     "Vestrel",
+     "Wendrath",
+     "Yorrestre",
+     "Zephrane",
+     "Arrostre",
+     "Belhane",
+     "Dravenne",
+     "Corrath",
+     "Fenstrel",
+     "Gallivar",
+     "Orrowyn",
+     "Thestran",
+     "Brannoch",
+     "Elstrave",
+     "Parrowen"
+    ]
+   },
+   "byname": {
+    "pattern": "of the {herd} Herd",
+    "herd": [
+     "Tall-Grass",
+     "Gorse",
+     "Heather",
+     "Dust",
+     "Thunder",
+     "Morning",
+     "Far-Field",
+     "Wind",
+     "Red-Earth",
+     "Long-Road",
+     "Rain",
+     "Open-Sky",
+     "Dry-Well",
+     "Evening",
+     "Stone-Ford",
+     "Wide-Water"
+    ]
+   },
+   "tagline": "Wealth is distance covered",
+   "traits": [],
+   "no_traits": "The centaurs' game traits are not written for Kalvatar yet: most tables use the published centaur. Ask your Game Master."
   }
  ],
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
