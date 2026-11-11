@@ -223,7 +223,11 @@ const entryIllustrations = {
  'kettik-ninth-step': ['folk', 'Kettik lifts a false bottom to inspect hidden cargo.', 'Kettik levanta un doble fondo para inspeccionar la carga oculta.'],
  'cat-kin': ['peoples', 'Two Cat-kin pass a rope between rooftops above a lantern-lit market.', 'Dos Cat-kin se pasan una cuerda entre los tejados sobre un mercado iluminado por faroles.'],
  'shifters': ['peoples', 'Two Shifters turn to look back on a rain-soaked quay.', 'Dos Shifters miran hacia atrás en un muelle bajo la lluvia.'],
- 'warforged': ['peoples', 'An ancient bronze Warforged emerges from the sea at dawn.', 'Un Warforged de bronce antiguo emerge del mar al amanecer.']
+ 'warforged': ['peoples', 'An ancient bronze Warforged emerges from the sea at dawn.', 'Un Warforged de bronce antiguo emerge del mar al amanecer.'],
+ 'pride-kin': ['peoples', 'Three Pride-kin talk around a fire on the savanna.', 'Tres Pride-kin conversan alrededor de una fogata en la sabana.'],
+ 'ivory-kin': ['peoples', 'Two Ivory-kin haul a bucket of water from a stone well.', 'Dos Ivory-kin sacan un balde de agua de un pozo de piedra.'],
+ 'centaurs': ['peoples', 'Two centaurs gallop across the savanna at sunset.', 'Dos centauros galopan por la sabana al atardecer.'],
+ 'zalkareth': ['scenes', 'A skiff approaches the fortified river port of Zal’Kareth.', 'Un bote se acerca al puerto fluvial fortificado de Zal’Kareth.']
 };
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
