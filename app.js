@@ -233,7 +233,8 @@ const entryIllustrations = {
  'duskmire-haven': ['scenes', 'A reed boat passes stilt houses in Duskmire Haven at dusk.', 'Una barca de juncos pasa entre las casas sobre pilotes de Duskmire Haven al atardecer.'],
  'silverport': ['scenes', 'Two artisans prepare rose oil and hang dyed silk in Silverport.', 'Dos artesanas preparan aceite de rosas y tienden seda teñida en Silverport.'],
  'saltreach': ['scenes', 'Workers rake salt and operate a sluice on the Saltreach coast.', 'Los trabajadores recogen sal y manejan una compuerta en las salinas de Saltreach.'],
- 'crystalhaven': ['scenes', 'Four salvagers pull a mast on a sled across the ice at Crystalhaven.', 'Cuatro rescatistas arrastran un mástil sobre un trineo por el hielo de Crystalhaven.']
+ 'crystalhaven': ['scenes', 'Four salvagers pull a mast on a sled across the ice at Crystalhaven.', 'Cuatro rescatistas arrastran un mástil sobre un trineo por el hielo de Crystalhaven.'],
+ 'bastion': ['scenes', 'A mounted patrol leaves Bastion beneath the black and iron-grey banners of House Faust.', 'Una patrulla montada sale de Bastion bajo los estandartes negros y gris hierro de la Casa Faust.']
 };
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
