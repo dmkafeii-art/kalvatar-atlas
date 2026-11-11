@@ -10394,7 +10394,7 @@
      "The imperial-descended north keeps history in stone and charter, with formal houses, measured greetings, and the memory of the Exodus.",
      "Ancestral southern communities keep spoken lineages, story-tattoos, and the law of the heart-fire. Their histories precede the Landing.",
      "Whalers, hunters, and hold-folk of the far south keep memory in bone-carvings and law in the hold-lord’s hall.",
-     "Some humans, a few in every port, begin one night to dream the Faewild, and keep its touch for life. The islands call them kalashtar, and they are still human."
+     "Some humans, a few in every port, begin one night to dream the far shore, and keep its touch for life. The islands call them kalashtar, and they are still human."
     ]
    },
    {
@@ -39748,7 +39748,7 @@
   "category": "people",
   "region": "All regions",
   "subtitle": "The dreamers: humans who sleep with the door open",
-  "summary": "No one is born a kalashtar. Every kalashtar was born human, and one night began to dream a place that was not theirs: the far shore, the Faewild seen from inside a sleeping mind. The dreams come back every night after that, and they leave a touch of the Faewild that does not wash off.",
+  "summary": "No one is born a kalashtar. Every kalashtar was born human, and one night began to dream a place that was not theirs: the far shore, a country behind sleep that is not the Faewild, though the fae walk it freely. The dreams come back every night after that, and they leave a touch that does not wash off.",
   "epigraph": {
    "quote": "My mother asked the priest when it would pass. He said, the way the tide passes.",
    "by": "a kalashtar net-mender, Greyhaven"
@@ -39808,7 +39808,8 @@
     "title": "On the far shore",
     "paragraphs": [
      "Kalashtar do not agree on what they dream. Some dream a court and its endless feast, some a forest that knows their name, some a sea that runs uphill. They say they meet one another there, and know one another on waking, and more than one kalashtar has married someone met first on the far shore.",
-     "The fae notice their dreamers. A bargain struck in a dream is kept in the waking world, so every kalashtar learns the Faewild's rules early: never a true name, never a thank-you, every bargain counted three times. They have more reason than anyone."
+     "The far shore is not the Faewild, whatever the old books say. Dreamers call it **the Roam**: open country behind sleep, with no lord and no fence, crossed by roads that run to everywhere a mind has ever been. It has the four seasons of the Courts, each in its own country, and a dreamer opens in one of them. The fae step into the Roam as easily as off a porch, and most of the folk a dreamer meets out there are fae a long way from home. No Court's law holds. There are way-houses, road-agents, staked claims, and whatever law the nearest person can enforce.",
+     "The fae notice their dreamers. A bargain struck in a dream is kept in the waking world, so every kalashtar learns the fae's rules early: never a true name, never a thank-you, every bargain counted three times. They have more reason than anyone."
     ]
    },
    {
@@ -39825,7 +39826,7 @@
    {
     "title": "Names, dress, and family",
     "paragraphs": [
-     "Kalashtar keep their human names, their human families, and their human lives; a Faust who begins to dream is still a Faust. Many are also given a name on the far shore. They give it only to other kalashtar, because a name given in the Faewild is a true name.",
+     "Kalashtar keep their human names, their human families, and their human lives; a Faust who begins to dream is still a Faust. Many are also given a name on the far shore. They give it only to other kalashtar, because a name given on the far shore is a true name.",
      "Many wear something of their season: a green thread, a gold ring, a red scarf, a white stone. Smoked lenses at night hide the light in their eyes, and are the surest sign that someone has something to hide."
     ]
    },

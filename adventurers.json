@@ -1253,9 +1253,103 @@
    "kind": "regional",
    "hint": "Kalashtar keep their human names and families. The name they are given on the far shore is never shared.",
    "tribal": true,
-   "tagline": "The dreamers: humans who sleep with the door open",
-   "traits": [],
-   "no_traits": "The kalashtar's game traits are not written for Kalvatar yet. Ask your Game Master which rules your table uses."
+   "tagline": "Humans who began one night to dream the far shore, and kept its touch.",
+   "traits": [
+    {
+     "title": "Kalashtar traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 4 to 7 feet tall) or Small (about 2 to 4 feet tall), chosen when you select this species"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a kalashtar, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Lit Eyes.** You have Darkvision with a range of 60 feet. Your eyes keep a faint light in the dark, in the color of your season."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Voice Without Ears.** You can speak mind to mind with any creature you can see within 30 feet of you. You don't need to share a language with it, but it must understand at least one. It can answer you the same way until the end of your next turn. At character level 5 the range becomes 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Dreamer's Guard.** You have Resistance to Psychic damage, and you have Advantage on saving throws you make to avoid or end the Charmed condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Short Sleep.** You can finish a Long Rest in 4 hours if you spend those hours asleep, and you dream every one of them."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Draft.** You know when you are within 300 feet of a thin place, and in which direction it lies."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Season of the Roam.** Choose the season you dream from the table below. Your eyes take its color. You know its cantrip, and you learn its spells at levels 3 and 5. (See Species spells.)"
+      },
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Season",
+         "Eyes",
+         "Level 1",
+         "Level 3",
+         "Level 5"
+        ],
+        [
+         "**First Bloom**",
+         "Green",
+         "*Druidcraft*",
+         "*Charm Person*",
+         "*Calm Emotions*"
+        ],
+        [
+         "**Burning Crown**",
+         "Gold",
+         "*Light*",
+         "*Heroism*",
+         "*Zone of Truth*"
+        ],
+        [
+         "**Red Harvest**",
+         "Red",
+         "*Vicious Mockery*",
+         "*Dissonant Whispers*",
+         "*Detect Thoughts*"
+        ],
+        [
+         "**Long Silence**",
+         "White",
+         "*Minor Illusion*",
+         "*Silent Image*",
+         "*Invisibility*"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "shifters",
@@ -1263,9 +1357,108 @@
    "kind": "regional",
    "hint": "Shifters are born into ordinary families and carry the names of their region. A shifter of the tribes carries the tribe: choose a homeland.",
    "tribal": true,
-   "tagline": "Born with a beast in the blood",
-   "traits": [],
-   "no_traits": "Shifters follow the 2014 rules for the species, with the beast's marks chosen one by one. Ask your Game Master."
+   "tagline": "Born with a beast in the blood: a tail, fangs, a ridge of pelt, and a short while each day when the beast comes up.",
+   "traits": [
+    {
+     "title": "Shifter traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 4 to 7 feet tall) or Small (about 2 to 4 feet tall), chosen when you select this species"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a shifter, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Marks.** Choose two marks the beast left on you. You have them always."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Lamp-eyes.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Turning ears.** You gain proficiency in the Perception skill."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Hound's nose.** You have Advantage on Wisdom (Perception) and Wisdom (Survival) checks that rely on smell."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Tail.** You have Advantage on ability checks and saving throws you make to keep your footing or avoid the Prone condition, and your tail can hold an object that weighs 5 pounds or less."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Claws.** You have a Climb Speed equal to your Speed."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Fangs.** You can use your fangs to make Unarmed Strikes. When you hit with them, the strike deals 1d6 + your Strength modifier Piercing damage, instead of the Bludgeoning damage normal for an Unarmed Strike."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Pelt.** You suffer no hardship from extreme cold, and you have Advantage on saving throws against weather and exposure."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Shifting.** As a Bonus Action, you let the beast up. The shift lasts 1 minute, or until you die or end it (no action required). When you shift, you gain Temporary Hit Points equal to 2 times your Proficiency Bonus, and you gain the benefit of what the beast gave you (below). You can shift a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**What the Beast Gave.** Choose one. It applies while you are shifted."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Tooth.** When you shift, and as a Bonus Action on your later turns, you can make one Unarmed Strike with your teeth. It deals 1d6 + your Strength modifier Piercing damage."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Stride.** Your Speed increases by 10 feet, and your movement doesn't provoke Opportunity Attacks from a creature you have attacked this turn."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Hide.** You gain 1d6 additional Temporary Hit Points when you shift, and a +1 bonus to Armor Class while you have any of them."
+      },
+      {
+       "t": "li",
+       "level": 1,
+       "text": "**Sense.** You have Advantage on Wisdom checks, and no creature within 30 feet of you can have Advantage on an attack roll against you unless you have the Incapacitated condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Blood Knows.** You have Advantage on Wisdom (Insight) and Wisdom (Survival) checks you make to read the mood of a Beast or Monstrosity or to follow its trail."
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "half-elves",
@@ -3897,9 +4090,63 @@
      "Flint"
     ]
    },
-   "tagline": "Made, not born, and nobody alive knows how",
-   "traits": [],
-   "no_traits": "The warforged's game traits are not written for Kalvatar yet. Ask your Game Master which rules your table uses."
+   "tagline": "A made person of metal, stone, and wood, older than any people of the islands.",
+   "traits": [
+    {
+     "title": "Warforged traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 5 to 7 feet tall) or Small (about 3 to 4 feet tall), chosen when you select this species"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a warforged, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Made Body.** You have Resistance to Poison damage and Advantage on saving throws you make to avoid or end the Poisoned condition. You don't need to eat, drink, or breathe, and magic can't put you to sleep. Healing works on you as it does on anyone."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Watchful Rest.** You don't sleep. You can finish a Long Rest in 6 hours if you spend them still and at rest, and you stay aware of your surroundings the whole time."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Plated.** You gain a +1 bonus to Armor Class."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Heavy as an Anchor.** You don't float. In water you sink unless you succeed on a DC 15 Strength (Athletics) check at the start of each of your turns. Because you don't breathe, you can walk the bottom instead, and the sea floor is Difficult Terrain for you."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Work You Were Given.** You gain proficiency in one skill and with one tool of your choice: the work you were made for, or the first work you were woken to."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Older Than the Islands.** You have Advantage on Intelligence checks you make to understand a mechanism, a ruin, or a working that was built before the peoples of the islands came. Sometimes you remember why it was built. Your Game Master tells you when."
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "cat-kin",
@@ -3973,9 +4220,58 @@
      "Night-Errand"
     ]
    },
-   "tagline": "Nine lives, and counting down",
-   "traits": [],
-   "no_traits": "Cat-kin can be Small or Medium. Their game traits are not written for Kalvatar yet: most tables use the published tabaxi. Ask your Game Master."
+   "tagline": "The tabaxi of other tables: quick, curious cat-folk of the southern ports, born owing nine lives to a luck spirit.",
+   "traits": [
+    {
+     "title": "Cat-kin traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Small (about 3 feet tall) or Medium (about 5 to 6 feet tall), chosen when you select this species"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet, and a Climb Speed of 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As one of the cat-kin, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Claws.** You can use your claws to make Unarmed Strikes. When you hit with them, the strike deals 1d6 + your Strength modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Burst.** When you move on your turn, you can double your Speed until the end of that turn. Once you do, you can't do so again until you move 0 feet on one of your turns."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Roof-Born.** You gain proficiency in one of these skills: Acrobatics, Perception, or Stealth."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Mishri's Count.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. You can't do so again until you finish a Long Rest. Each time you use this trait, you have spent one of the lives you owe: count it down. You start play with up to eight left (your choice, and your byname). When the count reaches zero, this trait is gone, and Mishri is waiting."
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "pride-kin",
@@ -4040,9 +4336,58 @@
      "Burnt-Field"
     ]
    },
-   "tagline": "The loud law of the grass",
-   "traits": [],
-   "no_traits": "The pride-kin's game traits are not written for Kalvatar yet: most tables use the published leonin. Ask your Game Master."
+   "tagline": "The leonin of other tables: tall, maned folk of the southern grass, who judge and fight as one pride.",
+   "traits": [
+    {
+     "title": "Pride-kin traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 6 to 7 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 35 feet"
+      },
+      {
+       "t": "p",
+       "text": "As one of the pride-kin, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Darkvision.** You have Darkvision with a range of 60 feet."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Claws.** You can use your claws to make Unarmed Strikes. When you hit with them, the strike deals 1d6 + your Strength modifier Slashing damage, instead of the Bludgeoning damage normal for an Unarmed Strike."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Roar.** As a Bonus Action, you roar. Each creature of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw (DC 8 + your Constitution modifier + your Proficiency Bonus) or have the Frightened condition until the end of your next turn. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Pride Stands.** While an ally who isn't Incapacitated is within 10 feet of you, you have Advantage on saving throws you make to avoid or end the Frightened condition. When you use your Roar, each ally of your choice within 10 feet of you who can hear it is no longer Frightened."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Voice of the Grass.** You gain proficiency in one of these skills: Athletics, Intimidation, Perception, or Survival."
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "ivory-kin",
@@ -4107,9 +4452,58 @@
      "the Quiet Well"
     ]
    },
-   "tagline": "The south’s long memory",
-   "traits": [],
-   "no_traits": "The ivory-kin's game traits are not written for Kalvatar yet: most tables use the published loxodon. Ask your Game Master."
+   "tagline": "The loxodon of other tables: huge, grey, tusked folk who walk the long roads of the south and keep its memory.",
+   "traits": [
+    {
+     "title": "Ivory-kin traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 7 to 8 feet tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 30 feet"
+      },
+      {
+       "t": "p",
+       "text": "As one of the ivory-kin, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Thick Hide.** When you aren't wearing armor, your base Armor Class is 12 + your Constitution modifier. You can use a Shield and keep this benefit."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Trunk.** Your trunk can lift, drop, hold, push, or pull an object or a creature, open or close a door or container, or grapple someone. It can lift a weight in pounds up to five times your Strength score. It can't wield weapons or Shields or do anything that needs fine tools. You can breathe through it while the rest of you is under water, and you have Advantage on Wisdom (Perception) and Wisdom (Survival) checks that rely on smell."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Slow to Anger.** You have Advantage on saving throws you make to avoid or end the Charmed or Frightened condition."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Remembering.** You gain proficiency in the History skill, and you can recall exactly anything you have seen or heard within the past month. Choose, with your Game Master, the one memory you carry for your herd: a road, a drought, a debt, a lineage. When you make an Intelligence check to recall something that memory covers, you can treat a d20 roll of 9 or lower as a 10."
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "centaurs",
@@ -4174,9 +4568,63 @@
      "Wide-Water"
     ]
    },
-   "tagline": "Wealth is distance covered",
-   "traits": [],
-   "no_traits": "The centaurs' game traits are not written for Kalvatar yet: most tables use the published centaur. Ask your Game Master."
+   "tagline": "Four-legged folk of the open grass, who count their wealth in the distance they have run.",
+   "traits": [
+    {
+     "title": "Centaur traits",
+     "blocks": [
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Creature Type:** Humanoid"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Size:** Medium (about 6 to 7 feet tall, and longer than a horse is tall)"
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Speed:** 40 feet"
+      },
+      {
+       "t": "p",
+       "text": "As a centaur, you have these special traits."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Hooves.** You can use your hooves to make Unarmed Strikes. When you hit with them, the strike deals 1d6 + your Strength modifier Bludgeoning damage, instead of the damage normal for an Unarmed Strike."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Charge.** If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can make one attack with your Hooves against it as a Bonus Action."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Four-Legged Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. Any climb that needs hands and feet, a ship's ladder or rigging above all, costs you 4 extra feet for each foot you move. A Medium or smaller creature can ride you only if you are willing, and by custom you are not."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**The Long Run.** You can travel 12 hours in a day before a forced march begins to wear on you, instead of 8, and you can travel at a Fast pace without the usual penalty to Wisdom (Perception) checks."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Every Well.** You can't become lost by nonmagical means on a route you have traveled before, and you always know where the nearest fresh water you have drunk from lies."
+      },
+      {
+       "t": "li",
+       "level": 0,
+       "text": "**Herd-Raised.** You gain proficiency in one of these skills: Animal Handling, Medicine, Nature, or Survival."
+      }
+     ]
+    }
+   ]
   }
  ],
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
