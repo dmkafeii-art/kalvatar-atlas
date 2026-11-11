@@ -228,7 +228,11 @@ const entryIllustrations = {
  'ivory-kin': ['peoples', 'Two Ivory-kin haul a bucket of water from a stone well.', 'Dos Ivory-kin sacan un balde de agua de un pozo de piedra.'],
  'centaurs': ['peoples', 'Two centaurs gallop across the savanna at sunset.', 'Dos centauros galopan por la sabana al atardecer.'],
  'zalkareth': ['scenes', 'A skiff approaches the fortified river port of Zal’Kareth.', 'Un bote se acerca al puerto fluvial fortificado de Zal’Kareth.'],
- 'kaskan': ['scenes', 'Two brightly feathered aurocs on the docks of Kaskan at sunset.', 'Dos aurocs de plumaje colorido en los muelles de Kaskan al atardecer.']
+ 'kaskan': ['scenes', 'Two brightly feathered aurocs on the docks of Kaskan at sunset.', 'Dos aurocs de plumaje colorido en los muelles de Kaskan al atardecer.'],
+ 'stormreach': ['scenes', 'Shipwrights raise a hull rib in the Stormreach shipyard during a squall.', 'Los carpinteros del astillero de Stormreach levantan una cuaderna en plena tormenta.'],
+ 'duskmire-haven': ['scenes', 'A reed boat passes stilt houses in Duskmire Haven at dusk.', 'Una barca de juncos pasa entre las casas sobre pilotes de Duskmire Haven al atardecer.'],
+ 'silverport': ['scenes', 'Two artisans prepare rose oil and hang dyed silk in Silverport.', 'Dos artesanas preparan aceite de rosas y tienden seda teñida en Silverport.'],
+ 'saltreach': ['scenes', 'Workers rake salt and operate a sluice on the Saltreach coast.', 'Los trabajadores recogen sal y manejan una compuerta en las salinas de Saltreach.']
 };
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
