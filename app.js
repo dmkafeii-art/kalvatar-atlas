@@ -232,7 +232,8 @@ const entryIllustrations = {
  'stormreach': ['scenes', 'Shipwrights raise a hull rib in the Stormreach shipyard during a squall.', 'Los carpinteros del astillero de Stormreach levantan una cuaderna en plena tormenta.'],
  'duskmire-haven': ['scenes', 'A reed boat passes stilt houses in Duskmire Haven at dusk.', 'Una barca de juncos pasa entre las casas sobre pilotes de Duskmire Haven al atardecer.'],
  'silverport': ['scenes', 'Two artisans prepare rose oil and hang dyed silk in Silverport.', 'Dos artesanas preparan aceite de rosas y tienden seda teñida en Silverport.'],
- 'saltreach': ['scenes', 'Workers rake salt and operate a sluice on the Saltreach coast.', 'Los trabajadores recogen sal y manejan una compuerta en las salinas de Saltreach.']
+ 'saltreach': ['scenes', 'Workers rake salt and operate a sluice on the Saltreach coast.', 'Los trabajadores recogen sal y manejan una compuerta en las salinas de Saltreach.'],
+ 'crystalhaven': ['scenes', 'Four salvagers pull a mast on a sled across the ice at Crystalhaven.', 'Cuatro rescatistas arrastran un mástil sobre un trineo por el hielo de Crystalhaven.']
 };
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
