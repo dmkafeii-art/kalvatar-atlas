@@ -15888,7 +15888,8 @@
     "list": [
      "**Bronze is the same for everyone.** A Bronze Hunter has no branch yet. Every Bronze Sigil is the same plain disc with the order’s common mark, the Star and Wave, and the iron of the Hunter who vouched for the bearer set into the back.",
      "**At Silver, you choose.** A new Silver declares a branch and designs their own Sigil with a Sigilwright. The branch’s device must stand in the center. The shape, the field, the flourish, and the stone are theirs.",
-     "**Two branches:** only a Gold Sigil may carry two. The devices are crossed, the first-earned on top, as Albion Tempest’s blade and quill are.",
+     "**Two branches:** a Hunter may belong to more than one branch, and two is the limit. The devices are crossed, the first-earned on top, as Albion Tempest’s blade and quill are.",
+     "**Honorary branches:** a branch’s own masters can name a Hunter an honorary member, for work done well by someone who can’t give it their whole time. It carries no device. It is shown by that branch’s stone, set small at the foot of the Sigil. Albion Tempest is an honorary Craftwright.",
      "**Gold:** recast in gold to the bearer’s design, with a stud for each great deed in the Ledger, up to eight.",
      "**Platinum:** pale, and bare. It shows its design to its bearer and to no one else.",
      "**The foot and the back:** the Lodge’s mark at the foot; on the back, a name and a year."
@@ -15966,7 +15967,8 @@
      "Every Sigil in the islands is made in one room, the Sigil-Forge of the Goldwind Lodge.",
      "The back of a Sigil carries a name and a year, and nothing else.",
      "Nobody but the Ten knows what is on a Platinum Sigil.",
-     "A Bronze who says they already know their branch is told, kindly, to say it again in three years."
+     "A Bronze who says they already know their branch is told, kindly, to say it again in three years.",
+     "A Hunter with three branches is a joke Hunters tell about people who can’t say no."
     ]
    }
   ],
@@ -28752,6 +28754,10 @@
    [
     "Craft",
     "Courtblade, devices, traps and repairs"
+   ],
+   [
+    "Branches",
+    "Slayer and Herald; honorary Craftwright"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
