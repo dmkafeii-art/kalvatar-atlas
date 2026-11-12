@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=11').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=12').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -144,7 +144,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -226,7 +226,7 @@ window.Adventurers = (() => {
  }
 
  /* The Workshop: what it costs, and how long it takes, to make a thing. Prices in Anchors (1 Anchor = 1 gp). */
- const shop = {good: 1, price: 15, make: 'proof', smiths: 1, circle: 1, scrolls: 1, grade: 'uncommon', consumable: false, makers: 1, base: 0, where: 'city', roll: ''};
+ const shop = {cat: 0, group: 0, item: 3, price: 15, make: 'standard', smiths: 1, circle: 1, scrolls: 1, grade: 'uncommon', consumable: false, makers: 1, base: 0, where: 'city', roll: ''};
  function coin(anchors) {
   let bits = Math.round(anchors * 100);
   if(bits <= 0) return t('nothing', 'nada');
@@ -242,14 +242,21 @@ window.Adventurers = (() => {
  const num = (id, value, min, max) => `<input id="${id}" type="number" min="${min}" max="${max}" value="${value}" inputmode="numeric">`;
  const workers = (id, value) => sel(id, [[1, t('Alone', 'A solas')], [2, t('With one helper', 'Con un ayudante')], [3, t('With two helpers', 'Con dos ayudantes')]], value);
 
+ const forgeGroup = () => data.workshop.goods[shop.cat].groups[shop.group];
  function forgeOut() {
   const w = data.workshop, make = w.makes.find(m => m.id === shop.make);
-  const list = shop.good === 'other' ? Math.max(0, +shop.price || 0) : w.goods[shop.good][1];
+  const list = shop.item === 'other' ? Math.max(0, +shop.price || 0) : forgeGroup()[1][shop.item][1];
   const price = Math.max(list * make.factor, make.min && list ? make.min : 0);
-  const time = Math.max(1, Math.ceil(Math.ceil(price / 10) / shop.smiths));
-  const quality = shop.make === 'signed' ? `<p class="adv-note">${t('Choose one quality as the piece is finished:', 'Elige una cualidad al terminar la pieza:')}</p><ul class="adv-qual">${w.qualities.map(q => `<li><strong>${h(q.name)}.</strong> ${h(q.text)}</li>`).join('')}</ul>` : '';
-  return `<dl class="adv-out">${row(t('It sells for', 'Se vende por'), coin(price))}${row(t('Materials', 'Materiales'), coin(price / 2))}${row(t('Time at the bench', 'Tiempo en el banco'), days(time) + (price < 10 ? ' ' + t('or less', 'o menos') : ''))}</dl><p class="adv-note">${h(make.note)}</p>${quality}`;
+  const time = make.time === 'hour' ? t('an hour', 'una hora') : days(Math.max(1, Math.ceil(Math.ceil(price / 10) / shop.smiths))) + (price < 10 ? ' ' + t('or less', 'o menos') : '');
+  const picks = {superior: t('Choose one quality as the piece is finished:', 'Elige una cualidad al terminar la pieza:'), masterpiece: t('Choose two qualities as the piece is finished:', 'Elige dos cualidades al terminar la pieza:')}[shop.make];
+  const quality = picks ? `<p class="adv-note">${picks}</p><ul class="adv-qual">${w.qualities.map(q => `<li><strong>${h(q.name)}.</strong> ${h(q.text)}</li>`).join('')}</ul>` : '';
+  return `<dl class="adv-out">${row(t('It sells for', 'Se vende por'), make.factor ? coin(price) : t('nothing', 'nada'))}${row(t('Materials', 'Materiales'), make.factor ? coin(price / 2) : t('whatever is at hand', 'lo que haya a mano'))}${row(t('Time at the bench', 'Tiempo en el banco'), time)}${row(t('Who makes it', 'Quién lo hace'), h(make.who))}</dl><p class="adv-note">${h(make.note)}</p>${quality}`;
  }
+ const forgeLists = () => {
+  const w = data.workshop;
+  return {cats: w.goods.map((c, n) => [n, c.cat]), groups: w.goods[shop.cat].groups.map((g, n) => [n, g[0]]),
+   items: forgeGroup()[1].map(([name, price], n) => [n, `${name} (${coin(price)})`]).concat([['other', t('Something else…', 'Otra cosa…')]])};
+ };
  function scrollOut() {
   const [lvl, name, d, cost, dc, atk] = data.workshop.scrolls[shop.circle], n = Math.max(1, Math.min(20, +shop.scrolls || 1));
   const rings = lvl ? t(`To scribe it openly in Council lands you need ${lvl} copper ${lvl === 1 ? 'ring' : 'rings'}.`, `Para escribirlo abiertamente en tierras del Consejo necesitas ${lvl} ${lvl === 1 ? 'anillo' : 'anillos'} de cobre.`) : t('A cantrip needs no ring.', 'Un truco no necesita anillo.');
@@ -263,10 +270,10 @@ window.Adventurers = (() => {
  }
  function renderWorkshop() {
   const w = data.workshop;
-  const goods = w.goods.map(([name, price], i) => [i, `${name} (${coin(price)})`]).concat([['other', t('Something else…', 'Otra cosa…')]]);
+  const fl = forgeLists();
   frame('workshop', `<p class="adv-lead">${t('What it costs, and how long it takes, to make a thing in the islands. A day is eight hours of work, and the days need not be in a row.', 'Lo que cuesta, y lo que tarda, fabricar algo en las islas. Un día son ocho horas de trabajo, y no tienen que ser seguidos.')}</p>
-  <section class="adv-panel adv-shop"><h2>${t('The forge', 'La forja')}</h2><p class="adv-hint">${t('Arms, armor, tools, and anything else with no magic in it. You need the right tool and proficiency with it.', 'Armas, armaduras, herramientas y todo lo que no lleva magia. Necesitas la herramienta adecuada y competencia con ella.')}</p>
-  <div class="adv-controls"><label class="pack-label">${t('Piece', 'Pieza')}${sel('ws-good', goods, shop.good)}</label><label class="pack-label" id="ws-price-wrap"${shop.good === 'other' ? '' : ' hidden'}>${t('Proof price, in Anchors', 'Precio proof, en Anchors')}${num('ws-price', shop.price, 0, 100000)}</label><label class="pack-label">${t('Make', 'Factura')}${sel('ws-make', w.makes.map(m => [m.id, m.name]), shop.make)}</label><label class="pack-label">${t('Hands', 'Manos')}${workers('ws-smiths', shop.smiths)}</label></div><div id="ws-forge">${forgeOut()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('The forge', 'La forja')}</h2><p class="adv-hint">${t('Arms, armor, tools, and anything else with no magic in it, in any of the five makes: improvised, crude, standard, superior, or masterpiece.', 'Armas, armaduras, herramientas y todo lo que no lleva magia, en cualquiera de las cinco facturas: improvised, crude, standard, superior o masterpiece.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('Kind', 'Tipo')}${sel('ws-cat', fl.cats, shop.cat)}</label><label class="pack-label">${t('Of which', 'De cuáles')}${sel('ws-group', fl.groups, shop.group)}</label><label class="pack-label">${t('Piece', 'Pieza')}${sel('ws-item', fl.items, shop.item)}</label><label class="pack-label" id="ws-price-wrap"${shop.item === 'other' ? '' : ' hidden'}>${t('Standard price, in Anchors', 'Precio estándar, en Anchors')}${num('ws-price', shop.price, 0, 100000)}</label><label class="pack-label">${t('Make', 'Factura')}${sel('ws-make', w.makes.map(m => [m.id, m.name]), shop.make)}</label><label class="pack-label">${t('Hands', 'Manos')}${workers('ws-smiths', shop.smiths)}</label></div><div id="ws-forge">${forgeOut()}</div></section>
   <section class="adv-panel adv-shop"><h2>${t('The writing desk', 'El escritorio')}</h2><p class="adv-hint">${t('Spell scrolls, by circle.', 'Pergaminos de conjuro, por círculo.')}</p>
   <div class="adv-controls"><label class="pack-label">${t('Circle', 'Círculo')}${sel('ws-circle', w.scrolls.map(x => [x[0], x[1]]), shop.circle)}</label><label class="pack-label">${t('How many', 'Cuántos')}${num('ws-scrolls', shop.scrolls, 1, 20)}</label></div><div id="ws-scroll">${scrollOut()}</div></section>
   <section class="adv-panel adv-shop"><h2>${t('The enchanter’s bench', 'El banco del encantador')}</h2><p class="adv-hint">${t('Charms and workings: the magic items of the islands, by grade.', 'Charms y workings: los objetos mágicos de las islas, por grado.')}</p>
@@ -276,9 +283,13 @@ window.Adventurers = (() => {
   <div class="pack-actions"><label class="pack-label adv-inline">${t('Looking for materials in', 'Buscas materiales en')}${sel('ws-where', [['city', t('a city', 'una ciudad')], ['else', t('anywhere else', 'otro lugar')]], shop.where)}</label><button type="button" class="button cream" id="ws-roll">${t('Are the materials in port?', '¿Hay materiales en el puerto?')} <span aria-hidden="true">✦</span></button></div>
   <div class="adv-table"><table><thead><tr><th>${t('To make', 'Para hacer')}</th><th>${t('You need', 'Necesitas')}</th></tr></thead><tbody>${w.tools.map(([a, b]) => `<tr><td>${h(a)}</td><td>${h(b)}</td></tr>`).join('')}</tbody></table></div></section>
   <p class="adv-hint">${t('For what these things are, read', 'Para saber qué son estas cosas, lee')} <a href="#entry/signed-works">Signed Works and the Great Sets</a> ${t('and', 'y')} <a href="#entry/charms-and-workings">Charms and Workings</a>.</p>
-  <p class="adv-credit">${t('The times and costs follow the crafting rules of the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. Makes, grades, signed works, and the Registry are Kalvatar’s own.', 'Los tiempos y costos siguen las reglas de fabricación del System Reference Document 5.2 de Wizards of the Coast LLC, bajo licencia Creative Commons Attribution 4.0 International. Las facturas, grados, signed works y el Registro son de Kalvatar.')}</p>`);
+  <p class="adv-credit">${t('The times and costs follow the crafting rules of the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The five makes, the exotic arms, the grades, and the Registry are Kalvatar’s own.', 'Los tiempos y costos siguen las reglas de fabricación del System Reference Document 5.2 de Wizards of the Coast LLC, bajo licencia Creative Commons Attribution 4.0 International. Las cinco facturas, las armas exóticas, los grados y el Registro son de Kalvatar.')}</p>`);
   const on = (id, fn) => $('#' + id).addEventListener('input', e => {fn(e.target); $('#ws-forge').innerHTML = forgeOut(); $('#ws-scroll').innerHTML = scrollOut(); $('#ws-wonder').innerHTML = wonderOut();});
-  on('ws-good', el => {shop.good = el.value === 'other' ? 'other' : +el.value; $('#ws-price-wrap').hidden = shop.good !== 'other';});
+  const fill = (id, list, value) => {$('#' + id).innerHTML = list.map(([v, label]) => `<option value="${h(String(v))}"${String(v) === String(value) ? ' selected' : ''}>${h(label)}</option>`).join('');};
+  const refill = () => {const l = forgeLists(); fill('ws-group', l.groups, shop.group); fill('ws-item', l.items, shop.item); $('#ws-price-wrap').hidden = shop.item !== 'other';};
+  on('ws-cat', el => {shop.cat = +el.value; shop.group = 0; shop.item = 0; refill();});
+  on('ws-group', el => {shop.group = +el.value; shop.item = 0; refill();});
+  on('ws-item', el => {shop.item = el.value === 'other' ? 'other' : +el.value; $('#ws-price-wrap').hidden = shop.item !== 'other';});
   on('ws-price', el => {shop.price = el.value;}); on('ws-make', el => {shop.make = el.value;}); on('ws-smiths', el => {shop.smiths = +el.value;});
   on('ws-circle', el => {shop.circle = +el.value;}); on('ws-scrolls', el => {shop.scrolls = el.value;});
   on('ws-grade', el => {shop.grade = el.value; shop.roll = '';}); on('ws-makers', el => {shop.makers = +el.value;}); on('ws-base', el => {shop.base = el.value;});
@@ -402,12 +413,64 @@ window.Adventurers = (() => {
   $('#tr-roll').addEventListener('click', () => {rollLoot(); $('#tr-out').innerHTML = lootHtml();});
  }
 
+ /* The Sigil bench: the Hunters' badge, drawn to the official pattern. */
+ const badge = {rank: 'gold', a: 0, b: 3, deeds: 3};
+ const METAL = {bronze: ['#b9793f', '#7a4b22', '#e0a568'], silver: ['#c9ced3', '#7f8890', '#f1f3f5'], gold: ['#d8b04a', '#8f6a17', '#f6dc8a'], platinum: ['#e6ecee', '#9fb0b6', '#ffffff']};
+ const STONE = ['#a3262e', '#2d5fae', '#3f8f5c', '#f3f0e4', '#d49a2b', '#e08a8f', '#1c1c1f', '#7a4fa3'];
+ const DEVICE = [
+  c => `<path d="M0-64 9-46 7 18-7 18-9-46Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><rect x="-22" y="18" width="44" height="8" rx="3" fill="${c[1]}"/><rect x="-5" y="26" width="10" height="26" fill="${c[1]}"/><circle cy="58" r="7" fill="${c[1]}"/>`,
+  c => `<path d="M0-62 26-22 14 50-14 50-26-22Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M0-62V50M-26-22H26M-26-22 0 0 26-22M0 0-14 50M0 0 14 50" fill="none" stroke="${c[1]}" stroke-width="1.5"/>`,
+  c => `<path d="M0-40V56" stroke="${c[1]}" stroke-width="6" stroke-linecap="round"/><path d="M0-66 15-36H-15Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M0 26-15 44V60L0 46 15 60V44Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/>`,
+  c => `<path d="M-6 62C-10 10-4-30 22-64 30-22 20 14-2 40Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M-6 62C0 20 8-20 22-64" fill="none" stroke="${c[1]}" stroke-width="2"/><path d="M-6 62-10 48-2 52Z" fill="${c[1]}"/>`,
+  c => `<path d="M0-64 10-10 64 0 10 10 0 64-10 10-64 0-10-10Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M0-34 8-8 34 0 8 8 0 34-8 8-34 0-8-8Z" transform="rotate(45)" fill="${c[1]}"/><circle r="5" fill="${c[2]}"/>`,
+  c => `<path d="M0-60C26-20 36 4 36 22A36 36 0 0 1-36 22C-36 4-26-20 0-60Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M-18 24A18 18 0 0 0 0 42" fill="none" stroke="${c[1]}" stroke-width="3" stroke-linecap="round"/>`,
+  c => `<rect x="-5" y="-22" width="10" height="82" rx="3" fill="${c[1]}"/><path d="M-32-52H24L34-40 24-26H-32Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/>`,
+  c => `<path d="M-12-44A12 12 0 0 1 12-44" fill="none" stroke="${c[1]}" stroke-width="5"/><rect x="-22" y="-44" width="44" height="10" rx="3" fill="${c[1]}"/><path d="M-20-34H20L26 40H-26Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><rect x="-28" y="40" width="56" height="10" rx="3" fill="${c[1]}"/><path d="M0-18C10-4 12 6 12 12A12 12 0 0 1-12 12C-12 6-6 2 0-18Z" fill="${c[1]}"/>`];
+ function sigilSvg() {
+  const c = METAL[badge.rank], two = badge.rank === 'gold' && badge.b !== '' && +badge.b !== badge.a, hidden = badge.rank === 'platinum';
+  const ring = badge.rank === 'gold' ? `<circle r="118" fill="none" stroke="${c[1]}" stroke-width="3"/><circle r="104" fill="none" stroke="${c[1]}" stroke-width="3"/><circle r="111" fill="none" stroke="${c[2]}" stroke-width="8" stroke-dasharray="7 5"/>` : `<circle r="112" fill="none" stroke="${c[1]}" stroke-width="${badge.rank === 'bronze' ? 9 : 5}"/>${badge.rank === 'silver' ? `<circle r="100" fill="none" stroke="${c[1]}" stroke-width="1.5"/>` : ''}`;
+  const field = badge.rank === 'silver' ? [-50, -25, 0, 25, 50].map(y => `<path d="M-84 ${y}q14-10 28 0t28 0 28 0 28 0 28 0 28 0" fill="none" stroke="${c[1]}" stroke-width="1" opacity=".45"/>`).join('') : '';
+  const stone = badge.rank === 'silver' ? `<circle cy="-112" r="11" fill="${STONE[badge.a]}" stroke="${c[1]}" stroke-width="3"/>` : '';
+  const studs = badge.rank === 'gold' ? Array.from({length: badge.deeds}, (_, n) => {const a = (-90 + (n - (badge.deeds - 1) / 2) * 22) * Math.PI / 180; return `<circle cx="${(111 * Math.cos(a)).toFixed(1)}" cy="${(111 * Math.sin(a)).toFixed(1)}" r="6" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/>`;}).join('') : '';
+  const lodge = `<path d="M-9 104H9L0 120Z" fill="${c[1]}"/>`;
+  const dev = hidden ? `<g opacity=".16">${DEVICE[badge.a](c)}</g>` : two ? `<g transform="rotate(38) scale(.86)">${DEVICE[+badge.b](c)}</g><g transform="rotate(-38) scale(.86)">${DEVICE[badge.a](c)}</g>` : DEVICE[badge.a](c);
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="-130 -130 260 260" role="img" aria-label="${t('A Hunter’s Sigil', 'Un Sigil de Hunter')}"><defs><radialGradient id="sg" cx="35%" cy="30%"><stop offset="0" stop-color="${c[2]}"/><stop offset="1" stop-color="${c[0]}"/></radialGradient></defs><circle r="124" fill="${c[1]}"/><circle r="121" fill="url(#sg)"/>${field}${ring}${studs}${stone}${lodge}${dev}</svg>`;
+ }
+ function sigilText() {
+  const B = data.sigils.branches, a = B[badge.a], two = badge.rank === 'gold' && badge.b !== '' && +badge.b !== badge.a, b = two ? B[+badge.b] : null;
+  const rank = {bronze: t('A Bronze Sigil: one plain rim, the device in relief, and the iron of the Hunter who vouched for you set into the back.', 'Un Sigil de Bronze: un borde liso, el emblema en relieve y, por detrás, el iron del Hunter que respondió por ti.'),
+   silver: t(`A Silver Sigil: an engraved field, and a ${a.stone} at the head of the rim.`, `Un Sigil de Silver: campo grabado y una piedra (${a.stone}) en lo alto del borde.`),
+   gold: t(`A Gold Sigil: a double rim worked as rope, with ${badge.deeds} ${badge.deeds === 1 ? 'stud' : 'studs'} for great deeds in the Ledger.`, `Un Sigil de Gold: doble borde trabajado como soga, con ${badge.deeds} ${badge.deeds === 1 ? 'remache' : 'remaches'} por grandes hazañas en el Ledger.`),
+   platinum: t('A Platinum Sigil: pale and bare. It shows its device to its bearer and to no one else.', 'Un Sigil de Platinum: pálido y liso. Muestra su emblema solo a quien lo porta.')}[badge.rank];
+  const dev = two ? t(`${a.device[0].toUpperCase() + a.device.slice(1)} crossed over ${b.device}: ${a.name} first, then ${b.name}.`, `${a.device} cruzado sobre ${b.device}: primero ${a.name}, luego ${b.name}.`) : t(`${a.device[0].toUpperCase() + a.device.slice(1)}, upright: the ${a.name}.`, `${a.device}, en vertical: ${a.name}.`);
+  return `<p class="adv-roll">${h(rank)} ${h(dev)}</p><p class="adv-note">${h(a.name)}: ${h(a.who)}${b ? ' ' + h(b.name) + ': ' + h(b.who) : ''}${[a, b].some(x => x && x.standing === 'proposed') ? ' ' + t('(A younger branch, proposed beside the founding four.)', '(Una rama joven, propuesta junto a las cuatro fundadoras.)') : ''}</p>`;
+ }
+ function renderSigil() {
+  const B = data.sigils.branches, opts = B.map((b, n) => [n, `${b.name} (${b.device})`]);
+  frame('sigil', `<p class="adv-lead">${t('A Hunter’s badge shows what its bearer is for. Choose a rank and a branch, and the bench draws it to the official pattern.', 'La insignia de un Hunter muestra para qué sirve quien la porta. Elige rango y rama, y el banco la dibuja según el patrón oficial.')}</p>
+  <section class="adv-panel adv-shop"><h2>${t('The Sigil bench', 'El banco de Sigils')}</h2>
+  <div class="adv-controls"><label class="pack-label">${t('Rank', 'Rango')}${sel('sg-rank', [['bronze', 'Bronze'], ['silver', 'Silver'], ['gold', 'Gold'], ['platinum', 'Platinum']], badge.rank)}</label><label class="pack-label">${t('Branch', 'Rama')}${sel('sg-a', opts, badge.a)}</label><label class="pack-label" id="sg-b-wrap">${t('Second branch (Gold only)', 'Segunda rama (solo Gold)')}${sel('sg-b', [['', t('None', 'Ninguna')]].concat(opts), badge.b)}</label><label class="pack-label" id="sg-deeds-wrap">${t('Great deeds (Gold only)', 'Grandes hazañas (solo Gold)')}${sel('sg-deeds', [0, 1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]), badge.deeds)}</label></div>
+  <div class="adv-sigil"><div id="sg-art">${sigilSvg()}</div><div id="sg-text">${sigilText()}</div></div>
+  <div class="pack-actions"><a class="button cream" id="sg-save" download="sigil.svg" href="#">${t('Save the drawing', 'Guardar el dibujo')}</a></div></section>
+  <p class="adv-hint"><a href="#entry/sigil">${t('About the Sigil', 'Sobre el Sigil')}</a> · <a href="#entry/hunters">${t('About the Hunters', 'Sobre los Hunters')}</a></p>`);
+  const draw = () => {
+   $('#sg-art').innerHTML = sigilSvg(); $('#sg-text').innerHTML = sigilText();
+   $('#sg-b-wrap').hidden = $('#sg-deeds-wrap').hidden = badge.rank !== 'gold';
+   $('#sg-save').href = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(sigilSvg());
+  };
+  $('#sg-rank').addEventListener('input', e => {badge.rank = e.target.value; draw();});
+  $('#sg-a').addEventListener('input', e => {badge.a = +e.target.value; draw();});
+  $('#sg-b').addEventListener('input', e => {badge.b = e.target.value === '' ? '' : +e.target.value; draw();});
+  $('#sg-deeds').addEventListener('input', e => {badge.deeds = +e.target.value; draw();});
+  draw();
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;

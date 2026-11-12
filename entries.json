@@ -13107,6 +13107,53 @@
      ],
      "caption": ""
     }
+   },
+   {
+    "title": "The five makes",
+    "paragraphs": [
+     "Everything a hand can make is judged by its make, and there are five. Harbor make and proof make are the everyday names of the second and third."
+    ],
+    "table": {
+     "caption": "The five makes",
+     "headers": [
+      "Make",
+      "Price",
+      "Who makes it",
+      "In play"
+     ],
+     "rows": [
+      [
+       "Improvised",
+       "nothing, or scraps",
+       "anyone",
+       "A weapon's damage die is one size smaller, it has no mastery property, and it breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
+      ],
+      [
+       "Crude (harbor make)",
+       "a tenth of standard",
+       "anyone proficient with the tool",
+       "On a roll of 1 with a crude weapon or tool, it is damaged: Disadvantage with it until an hour is spent mending it. Damaged twice, it breaks. Crude armor gives 1 less AC after a Critical Hit, until mended."
+      ],
+      [
+       "Standard (proof make)",
+       "the listed price",
+       "a guild shop; a journeyman's work, stamped",
+       "As the rules say."
+      ],
+      [
+       "Superior",
+       "three times standard",
+       "a guild master",
+       "One quality, chosen as it is finished."
+      ],
+      [
+       "Masterpiece (a signed work)",
+       "ten times standard, and never less than 100 Anchors",
+       "a guild master, who signs it",
+       "Two qualities. A piece of one of the great sets has three, and a name."
+      ]
+     ]
+    }
    }
   ],
   "facts": [
@@ -13147,7 +13194,8 @@
    "brightleaf",
    "coats-and-ranks-of-the-armada",
    "jobs-and-wages",
-   "the-great-flows"
+   "the-great-flows",
+   "signed-works"
   ]
  },
  {
@@ -15831,6 +15879,102 @@
      "Platinum: enchanted platinum of a craft no one else can match.",
      "Awakened Sigils. Rarely, a Sigil awakens: it becomes a sentient thing with a personality of its own and bonds with its bearer like a partner."
     ]
+   },
+   {
+    "title": "The official design",
+    "paragraphs": [
+     "A Sigil shows what its bearer is for. Every one is made to the same pattern at the Sigil-Forge."
+    ],
+    "list": [
+     "**The disc:** round, a palm across, worn on the left breast or at the belt.",
+     "**The rim:** the metal of the rank, with the mark of the Lodge where the Vow was sworn struck at its foot.",
+     "**The device:** the branch’s device, upright in the center.",
+     "**Two branches:** only a Gold Sigil may carry two. The devices are crossed, the first-earned on top, as Albion Tempest’s blade and quill are.",
+     "**Bronze:** one plain rim and the device in relief, with the iron of the Hunter who vouched for the bearer set into the back.",
+     "**Silver:** an engraved field, and one stone at the head of the rim in the branch’s color.",
+     "**Gold:** a double rim worked as rope, and a stud for each great deed in the Ledger, up to eight.",
+     "**Platinum:** pale, and bare. It shows its device to its bearer and to no one else."
+    ]
+   },
+   {
+    "title": "The branches and their devices",
+    "paragraphs": [
+     "The order was founded with four branches. Four younger ones are spoken of for the work Hunters now do."
+    ],
+    "table": {
+     "caption": "Branches of the Hunters",
+     "headers": [
+      "Branch",
+      "Device",
+      "Stone",
+      "Who wears it"
+     ],
+     "rows": [
+      [
+       "Warrior",
+       "a blade",
+       "red garnet",
+       "Slayers, guards, duelists, boarders."
+      ],
+      [
+       "Mage",
+       "a crystal",
+       "blue sapphire",
+       "Casters of every tradition, registered or not."
+      ],
+      [
+       "Scout",
+       "an arrow",
+       "green jade",
+       "Trackers, hunters, pathfinders, lookouts."
+      ],
+      [
+       "Diplomat",
+       "a quill",
+       "white pearl",
+       "Negotiators, clerks, advocates, and those who run things."
+      ],
+      [
+       "Navigator",
+       "a compass star",
+       "amber",
+       "Pilots, chartwrights, helmsmen, and captains. (A younger branch.)"
+      ],
+      [
+       "Mender",
+       "a drop",
+       "rose coral",
+       "Healers, surgeons, salve-makers, and those who bring people back. (A younger branch.)"
+      ],
+      [
+       "Wright",
+       "a hammer",
+       "black onyx",
+       "Smiths, tinkers, shipwrights, and krystawrights. (A younger branch.)"
+      ],
+      [
+       "Delver",
+       "a lantern",
+       "violet amethyst",
+       "Those who go into ruins, wrecks, and the Below, and read what they find. (A younger branch.)"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Draw yours",
+    "paragraphs": [
+     "The Adventurers section has a Sigil bench: choose a rank and a branch or two, and it draws the badge."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Every Sigil in the islands is made in one room, the Sigil-Forge of the Goldwind Lodge.",
+     "The back of a Sigil carries a name and a year, and nothing else.",
+     "Nobody but the Ten knows what is on a Platinum Sigil."
+    ]
    }
   ],
   "facts": [
@@ -15853,7 +15997,9 @@
    "house-blackstrand",
    "house-caelvaron",
    "house-emberheart",
-   "house-faust"
+   "house-faust",
+   "hunter-companies",
+   "ranking-cards"
   ]
  },
  {
@@ -38621,6 +38767,127 @@
     ]
    },
    {
+    "title": "The five makes",
+    "paragraphs": [
+     "Improvised, crude, standard, superior, and masterpiece. A journeyman’s stamped work is standard, which the docks call proof make. Only a guild master makes superior work, and only a master may sign a masterpiece."
+    ],
+    "table": {
+     "caption": "The five makes",
+     "headers": [
+      "Make",
+      "Price",
+      "Who makes it",
+      "In play"
+     ],
+     "rows": [
+      [
+       "Improvised",
+       "nothing, or scraps",
+       "anyone",
+       "A weapon's damage die is one size smaller, it has no mastery property, and it breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
+      ],
+      [
+       "Crude (harbor make)",
+       "a tenth of standard",
+       "anyone proficient with the tool",
+       "On a roll of 1 with a crude weapon or tool, it is damaged: Disadvantage with it until an hour is spent mending it. Damaged twice, it breaks. Crude armor gives 1 less AC after a Critical Hit, until mended."
+      ],
+      [
+       "Standard (proof make)",
+       "the listed price",
+       "a guild shop; a journeyman's work, stamped",
+       "As the rules say."
+      ],
+      [
+       "Superior",
+       "three times standard",
+       "a guild master",
+       "One quality, chosen as it is finished."
+      ],
+      [
+       "Masterpiece (a signed work)",
+       "ten times standard, and never less than 100 Anchors",
+       "a guild master, who signs it",
+       "Two qualities. A piece of one of the great sets has three, and a name."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Exotic arms",
+    "paragraphs": [
+     "Arms that no drill-yard teaches. Anyone trained in martial weapons can swing one, but needs ten Cycles with a teacher to use it properly."
+    ],
+    "table": {
+     "caption": "Exotic arms of the islands",
+     "headers": [
+      "Weapon",
+      "Price",
+      "Damage",
+      "Properties",
+      "Mastery"
+     ],
+     "rows": [
+      [
+       "Spiked chain",
+       "30 Anchors",
+       "2d4 Piercing",
+       "Finesse, Reach, Two-Handed",
+       "Topple"
+      ],
+      [
+       "War scythe",
+       "15 Anchors",
+       "2d4 Slashing",
+       "Heavy, Two-Handed",
+       "Cleave"
+      ],
+      [
+       "Harpoon",
+       "5 Anchors",
+       "1d8 Piercing",
+       "Thrown (range 20/60), Versatile (1d10)",
+       "Slow"
+      ],
+      [
+       "Whale-lance",
+       "12 Anchors",
+       "1d12 Piercing",
+       "Heavy, Reach, Two-Handed",
+       "Push"
+      ],
+      [
+       "Hook-sword",
+       "20 Anchors",
+       "1d6 Slashing",
+       "Finesse, Light",
+       "Topple"
+      ],
+      [
+       "Sawtooth blade",
+       "12 Anchors",
+       "1d8 Slashing",
+       "Versatile (1d10)",
+       "Vex"
+      ],
+      [
+       "Glass-tooth club",
+       "10 Anchors",
+       "1d8 Slashing",
+       "Versatile (1d10)",
+       "Sap"
+      ],
+      [
+       "Bolas",
+       "2 Anchors",
+       "1d4 Bludgeoning",
+       "Thrown (range 20/60)",
+       "Topple"
+      ]
+     ]
+    }
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“The Smiths' Guild has a master at Aurelion who can make a blade that cuts a falling silk scarf, and the Guild will not let him make more than one a year.” (an Aurelion apprentice)",
@@ -38661,7 +38928,8 @@
    "silverport",
    "highspire",
    "goldwind",
-   "harbor-and-road-work"
+   "harbor-and-road-work",
+   "signed-works"
   ]
  },
  {
@@ -42078,7 +42346,7 @@
     "title": "Signed works",
     "paragraphs": [
      "A masterwork, in the islands, is a great working of Krysta. A master’s finest piece that holds no magic has its own name: a signed work. The master cuts their own mark into it beside the guild’s stamp, and answers for it for life.",
-     "A signed work needs no attunement and pays no Registry tenth. It costs ten times the proof price of the same piece, and a master makes two or three in a good year. Each has one quality that sets it apart: it cannot be broken, or it never cuts badly, or it sits in the hand before you have thought to draw it."
+     "A signed work needs no attunement and pays no Registry tenth. It costs ten times the proof price of the same piece, and a master makes two or three in a good year. It is the top of the five makes: improvised, crude, standard, superior, and masterpiece. Each has two qualities that set it apart: it cannot be broken, or it never cuts badly, or it sits in the hand before you have thought to draw it. A piece of a great set has three."
     ]
    },
    {

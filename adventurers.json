@@ -5392,90 +5392,596 @@
   ],
   "makes": [
    {
-    "id": "harbor",
-    "name": "Harbor make",
+    "id": "improvised",
+    "name": "Improvised",
+    "factor": 0,
+    "time": "hour",
+    "who": "Anyone, from whatever is at hand.",
+    "note": "Made in an hour from scraps, and it shows. A weapon’s damage die is one size smaller, it has no mastery property, and it breaks on a roll of 1. A tool gives Disadvantage on checks made with it. Armor gives 1 less AC and is ruined by the first Critical Hit you take."
+   },
+   {
+    "id": "crude",
+    "name": "Crude (harbor make)",
     "factor": 0.1,
-    "note": "Local and unstamped: good enough for honest work, likely to fail under hard use."
+    "who": "Anyone proficient with the tool.",
+    "note": "Local and unstamped: good enough for honest work, likely to fail under hard use. On a roll of 1 with a crude weapon or tool, it is damaged, and you have Disadvantage with it until someone spends an hour mending it. Damaged twice, it breaks. Crude armor gives 1 less AC after a Critical Hit, until mended."
    },
    {
-    "id": "proof",
-    "name": "Proof make",
+    "id": "standard",
+    "name": "Standard (proof make)",
     "factor": 1,
-    "note": "Carries a guild stamp and a guarantee. This is the listed price."
+    "who": "A guild shop: a journeyman’s work, stamped.",
+    "note": "Carries a guild stamp and a guarantee. This is the listed price, and it works as the rules say."
    },
    {
-    "id": "signed",
-    "name": "Signed work",
+    "id": "superior",
+    "name": "Superior",
+    "factor": 3,
+    "who": "A guild master.",
+    "note": "A master’s ordinary best. It has one quality, chosen as it is finished."
+   },
+   {
+    "id": "masterpiece",
+    "name": "Masterpiece (a signed work)",
     "factor": 10,
     "min": 100,
-    "note": "A master’s finest, with their own mark. Only a guild master can sign, and the piece gets one quality."
+    "who": "A guild master, who signs it and answers for it for life.",
+    "note": "A master’s finest, with their own mark beside the guild’s. It has two qualities. A master makes two or three in a good year."
    }
   ],
   "goods": [
-   [
-    "Dagger",
-    2
-   ],
-   [
-    "Soldier’s sword",
-    15
-   ],
-   [
-    "Rapier",
-    25
-   ],
-   [
-    "Greatsword",
-    50
-   ],
-   [
-    "Boarding axe",
-    10
-   ],
-   [
-    "Crossbow",
-    25
-   ],
-   [
-    "Tarvan horn-bow",
-    50
-   ],
-   [
-    "Shield",
-    10
-   ],
-   [
-    "Chain shirt",
-    50
-   ],
-   [
-    "Breastplate",
-    400
-   ],
-   [
-    "Half plate",
-    750
-   ],
-   [
-    "Full plate",
-    1000
-   ],
-   [
-    "Proof lantern",
-    5
-   ],
-   [
-    "Proof rope, 50 feet",
-    1
-   ],
-   [
-    "Smith’s tools",
-    20
-   ],
-   [
-    "Navigator’s tools",
-    25
-   ]
+   {
+    "cat": "Weapons",
+    "groups": [
+     [
+      "Swords and knives",
+      [
+       [
+        "Dagger",
+        2
+       ],
+       [
+        "Cutlass",
+        10
+       ],
+       [
+        "Shortsword",
+        10
+       ],
+       [
+        "Soldier’s sword (longsword)",
+        15
+       ],
+       [
+        "Rapier",
+        25
+       ],
+       [
+        "Greatsword",
+        50
+       ],
+       [
+        "Hook-sword",
+        20
+       ],
+       [
+        "Sawtooth blade",
+        12
+       ]
+      ]
+     ],
+     [
+      "Axes, hammers, and picks",
+      [
+       [
+        "Boarding axe (handaxe)",
+        5
+       ],
+       [
+        "Battleaxe",
+        10
+       ],
+       [
+        "Greataxe",
+        30
+       ],
+       [
+        "Light hammer",
+        2
+       ],
+       [
+        "Warhammer",
+        15
+       ],
+       [
+        "Maul",
+        10
+       ],
+       [
+        "War pick",
+        5
+       ]
+      ]
+     ],
+     [
+      "Maces, clubs, and staves",
+      [
+       [
+        "Club",
+        0.1
+       ],
+       [
+        "Greatclub",
+        0.2
+       ],
+       [
+        "Quarterstaff",
+        0.2
+       ],
+       [
+        "Mace",
+        5
+       ],
+       [
+        "Flail",
+        10
+       ],
+       [
+        "Morningstar",
+        15
+       ],
+       [
+        "Glass-tooth club",
+        10
+       ]
+      ]
+     ],
+     [
+      "Spears and polearms",
+      [
+       [
+        "Spear or boarding pike",
+        1
+       ],
+       [
+        "Javelin",
+        0.5
+       ],
+       [
+        "Trident",
+        5
+       ],
+       [
+        "Pike",
+        5
+       ],
+       [
+        "Lance",
+        10
+       ],
+       [
+        "Glaive",
+        20
+       ],
+       [
+        "Halberd",
+        20
+       ],
+       [
+        "Harpoon",
+        5
+       ],
+       [
+        "Whale-lance",
+        12
+       ],
+       [
+        "War scythe",
+        15
+       ],
+       [
+        "Sickle",
+        1
+       ]
+      ]
+     ],
+     [
+      "Bows, crossbows, and slings",
+      [
+       [
+        "Sling",
+        0.1
+       ],
+       [
+        "Shortbow",
+        25
+       ],
+       [
+        "Longbow",
+        50
+       ],
+       [
+        "Tarvan horn-bow",
+        50
+       ],
+       [
+        "Crossbow",
+        25
+       ],
+       [
+        "Heavy crossbow",
+        50
+       ],
+       [
+        "Hand crossbow",
+        75
+       ],
+       [
+        "Blowgun",
+        10
+       ],
+       [
+        "Darts, a dozen",
+        0.6
+       ]
+      ]
+     ],
+     [
+      "Firearms",
+      [
+       [
+        "Musket",
+        90
+       ],
+       [
+        "Free City pistol",
+        115
+       ],
+       [
+        "Aurelion fine-work pistol",
+        200
+       ],
+       [
+        "Powder and shot for twenty",
+        3
+       ]
+      ]
+     ],
+     [
+      "Exotic arms",
+      [
+       [
+        "Spiked chain",
+        30
+       ],
+       [
+        "War scythe",
+        15
+       ],
+       [
+        "Harpoon",
+        5
+       ],
+       [
+        "Whale-lance",
+        12
+       ],
+       [
+        "Hook-sword",
+        20
+       ],
+       [
+        "Sawtooth blade",
+        12
+       ],
+       [
+        "Glass-tooth club",
+        10
+       ],
+       [
+        "Bolas",
+        2
+       ],
+       [
+        "Whip",
+        2
+       ],
+       [
+        "Net",
+        1
+       ]
+      ]
+     ]
+    ]
+   },
+   {
+    "cat": "Armor and shields",
+    "groups": [
+     [
+      "Light armor",
+      [
+       [
+        "Padded jerkin",
+        5
+       ],
+       [
+        "Leather jerkin",
+        10
+       ],
+       [
+        "Studded leather",
+        45
+       ]
+      ]
+     ],
+     [
+      "Medium armor",
+      [
+       [
+        "Hide",
+        10
+       ],
+       [
+        "Mail shirt",
+        50
+       ],
+       [
+        "Scale mail",
+        50
+       ],
+       [
+        "Breastplate",
+        300
+       ],
+       [
+        "Half plate",
+        750
+       ]
+      ]
+     ],
+     [
+      "Heavy armor",
+      [
+       [
+        "Ring mail",
+        30
+       ],
+       [
+        "Chain mail",
+        75
+       ],
+       [
+        "Splint",
+        200
+       ],
+       [
+        "Full harness of plate",
+        1000
+       ]
+      ]
+     ],
+     [
+      "Shields",
+      [
+       [
+        "Shield",
+        10
+       ]
+      ]
+     ]
+    ]
+   },
+   {
+    "cat": "Tools",
+    "groups": [
+     [
+      "Artisan’s tools",
+      [
+       [
+        "Alchemist’s supplies",
+        50
+       ],
+       [
+        "Brewer’s supplies",
+        20
+       ],
+       [
+        "Calligrapher’s supplies",
+        10
+       ],
+       [
+        "Carpenter’s tools",
+        8
+       ],
+       [
+        "Cartographer’s tools",
+        15
+       ],
+       [
+        "Cobbler’s tools",
+        5
+       ],
+       [
+        "Cook’s utensils",
+        1
+       ],
+       [
+        "Glassblower’s tools",
+        30
+       ],
+       [
+        "Jeweler’s tools",
+        25
+       ],
+       [
+        "Leatherworker’s tools",
+        5
+       ],
+       [
+        "Mason’s tools",
+        10
+       ],
+       [
+        "Painter’s supplies",
+        10
+       ],
+       [
+        "Potter’s tools",
+        10
+       ],
+       [
+        "Smith’s tools",
+        20
+       ],
+       [
+        "Tinker’s tools",
+        50
+       ],
+       [
+        "Weaver’s tools",
+        1
+       ],
+       [
+        "Woodcarver’s tools",
+        1
+       ]
+      ]
+     ],
+     [
+      "Kits and instruments of a trade",
+      [
+       [
+        "Navigator’s tools",
+        25
+       ],
+       [
+        "Thieves’ tools",
+        25
+       ],
+       [
+        "Herbalism kit",
+        5
+       ],
+       [
+        "Healer’s kit",
+        5
+       ],
+       [
+        "Disguise kit",
+        25
+       ],
+       [
+        "Forgery kit",
+        15
+       ],
+       [
+        "Poisoner’s kit",
+        50
+       ],
+       [
+        "Climber’s kit",
+        25
+       ]
+      ]
+     ],
+     [
+      "Musical instruments",
+      [
+       [
+        "Flute",
+        2
+       ],
+       [
+        "Horn",
+        3
+       ],
+       [
+        "Drum",
+        6
+       ],
+       [
+        "Pan flute",
+        12
+       ],
+       [
+        "Viol",
+        30
+       ],
+       [
+        "Lute",
+        35
+       ],
+       [
+        "Gourd fiddle",
+        4
+       ]
+      ]
+     ]
+    ]
+   },
+   {
+    "cat": "Ship and road gear",
+    "groups": [
+     [
+      "Rope, light, and locks",
+      [
+       [
+        "Rope, 50 feet",
+        1
+       ],
+       [
+        "Lantern",
+        5
+       ],
+       [
+        "Grappling hook",
+        2
+       ],
+       [
+        "Lock",
+        10
+       ],
+       [
+        "Manacles",
+        2
+       ],
+       [
+        "Chain, 10 feet",
+        5
+       ]
+      ]
+     ],
+     [
+      "Kit",
+      [
+       [
+        "Good boots",
+        1
+       ],
+       [
+        "Backpack",
+        2
+       ],
+       [
+        "Bedroll",
+        1
+       ],
+       [
+        "Tent",
+        2
+       ],
+       [
+        "Sea-chest",
+        5
+       ],
+       [
+        "Oilskin coat",
+        2
+       ]
+      ]
+     ]
+    ]
+   }
   ],
   "scrolls": [
    [
@@ -5870,6 +6376,66 @@
    ]
   ]
  },
+ "sigils": {
+  "branches": [
+   {
+    "name": "Warrior",
+    "device": "a blade",
+    "stone": "red garnet",
+    "standing": "the founding four",
+    "who": "Slayers, guards, duelists, boarders."
+   },
+   {
+    "name": "Mage",
+    "device": "a crystal",
+    "stone": "blue sapphire",
+    "standing": "the founding four",
+    "who": "Casters of every tradition, registered or not."
+   },
+   {
+    "name": "Scout",
+    "device": "an arrow",
+    "stone": "green jade",
+    "standing": "the founding four",
+    "who": "Trackers, hunters, pathfinders, lookouts."
+   },
+   {
+    "name": "Diplomat",
+    "device": "a quill",
+    "stone": "white pearl",
+    "standing": "the founding four",
+    "who": "Negotiators, clerks, advocates, and those who run things."
+   },
+   {
+    "name": "Navigator",
+    "device": "a compass star",
+    "stone": "amber",
+    "standing": "proposed",
+    "who": "Pilots, chartwrights, helmsmen, and captains."
+   },
+   {
+    "name": "Mender",
+    "device": "a drop",
+    "stone": "rose coral",
+    "standing": "proposed",
+    "who": "Healers, surgeons, salve-makers, and those who bring people back."
+   },
+   {
+    "name": "Wright",
+    "device": "a hammer",
+    "stone": "black onyx",
+    "standing": "proposed",
+    "who": "Smiths, tinkers, shipwrights, and krystawrights."
+   },
+   {
+    "name": "Delver",
+    "device": "a lantern",
+    "stone": "violet amethyst",
+    "standing": "proposed",
+    "who": "Those who go into ruins, wrecks, and the Below, and read what they find."
+   }
+  ]
+ },
  "sidequests": {
   "cards": {
    "famous": [
@@ -5960,7 +6526,11 @@
     "Mage",
     "Scout",
     "Diplomat",
-    "Warrior"
+    "Warrior",
+    "Navigator",
+    "Mender",
+    "Wright",
+    "Delver"
    ],
    "bios": {
     "Titania": "Captain of the Iron Swan, the only steamship in the world. She has been the top Gold of the Ranking for eight years, and no Council has dared put a price on her.",
