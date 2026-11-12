@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=15').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=16').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -416,7 +416,7 @@ window.Adventurers = (() => {
  /* The Sigil bench: the Hunters' badge. Bronze is the same for everyone; from Silver the bearer designs their own. */
  const badge = {rank: 'silver', a: 0, b: 3, deeds: 3, shape: 'shield', field: 'rays', flourish: 'laurel'};
  const METAL = {bronze: ['#b9793f', '#6f431d', '#e6ac70', '#8f5a2b'], silver: ['#c5cbd1', '#6f7982', '#f4f6f8', '#98a2ab'], gold: ['#d6ac42', '#7e5c12', '#f8e092', '#b08a26'], platinum: ['#e4eaed', '#92a4ab', '#ffffff', '#c3d0d5']};
- const STONE = ['#a3262e', '#2d5fae', '#3f8f5c', '#f3f0e4', '#e08a8f', '#1c1c1f', '#d49a2b', '#7a4fa3'];
+ const STONE = ['#a3262e', '#2d5fae', '#3f8f5c', '#f3f0e4', '#e08a8f', '#1c1c1f', '#7a4fa3'];
  const DEVICE = [
   c => `<path d="M0-70 10-50 8 14-8 14-10-50Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-66V12" stroke="${c[3]}" stroke-width="2"/><path d="M-26 14Q0 6 26 14L24 24Q0 16-24 24Z" fill="${c[1]}"/><rect x="-5" y="22" width="10" height="26" rx="2" fill="${c[3]}" stroke="${c[1]}" stroke-width="2"/><circle cy="56" r="8" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5"/>`,
   c => `<path d="M0-68 28-26 16 54-16 54-28-26Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-68 0 0M-28-26 0 0 28-26M0 0-16 54M0 0 16 54" fill="none" stroke="${c[1]}" stroke-width="1.6"/><path d="M-28-26 0-38 28-26" fill="none" stroke="${c[3]}" stroke-width="1.6"/><path d="M-44-50l4 8 8 4-8 4-4 8-4-8-8-4 8-4ZM42 30l3 6 6 3-6 3-3 6-3-6-6-3 6-3Z" fill="${c[1]}"/>`,
@@ -424,7 +424,6 @@ window.Adventurers = (() => {
   c => `<path d="M-10 66C-16 8-6-34 26-70 38-24 26 18-2 44Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-10 66C-2 20 8-24 26-70" fill="none" stroke="${c[1]}" stroke-width="2.5"/><path d="M4-18 20-30M0 2 22-10M-4 22 16 10M12-40 24-48" stroke="${c[3]}" stroke-width="1.8"/><path d="M-10 66-16 48-4 54Z" fill="${c[1]}"/>`,
   c => `<path d="M0-66C22-56 40-54 50-54 50 4 30 44 0 66-30 44-50 4-50-54-40-54-22-56 0-66Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-52C16-45 30-43 38-43 38 0 23 32 0 50-23 32-38 0-38-43-30-43-16-45 0-52Z" fill="none" stroke="${c[3]}" stroke-width="1.6"/><path d="M0-30C14-8 20 4 20 14A20 20 0 0 1-20 14C-20 4-14-8 0-30Z" fill="${c[1]}"/><path d="M-9 16A9 9 0 0 0 0 25" fill="none" stroke="${c[2]}" stroke-width="2.5" stroke-linecap="round"/>`,
   c => `<path d="M-46 22H46L36 36H14L20 58H-20L-14 36H-36Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-46 22Q-58 10-40 8H46V22Z" fill="${c[3]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><g transform="rotate(-28 0 -20)"><rect x="-4" y="-40" width="8" height="52" rx="2" fill="${c[1]}"/><path d="M-26-66H22L30-54 22-42H-26Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/></g>`,
-  c => `<circle r="50" fill="none" stroke="${c[1]}" stroke-width="2"/><path d="M0-36 6-6 36 0 6 6 0 36-6 6-36 0-6-6Z" transform="rotate(45)" fill="${c[3]}" stroke="${c[1]}" stroke-width="1.5"/><path d="M0-70 11-11 70 0 11 11 0 70-11 11-70 0-11-11Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-70V70M-70 0H70" stroke="${c[1]}" stroke-width="1.2"/><circle r="6" fill="${c[1]}"/>`,
   c => `<path d="M-14-50A14 14 0 0 1 14-50" fill="none" stroke="${c[1]}" stroke-width="6" stroke-linecap="round"/><path d="M-24-48H24L18-36H-18Z" fill="${c[3]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-20-36H20L28 40H-28Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-7-36-10 40M7-36 10 40" stroke="${c[1]}" stroke-width="1.6"/><path d="M-32 40H32L26 54H-26Z" fill="${c[3]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-22C12-4 15 6 15 14A15 15 0 0 1-15 14C-15 6-8 2 0-22Z" fill="${c[1]}"/><path d="M-70-6-52-2M70-6 52-2M-64-38-48-26M64-38 48-26" stroke="${c[1]}" stroke-width="2.5" stroke-linecap="round"/>`];
  const COMMON = c => `<path d="M0-66 9-30 44-22 9-14 0 22-9-14-44-22-9-30Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-60 34q15-14 30 0t30 0 30 0 30 0M-60 54q15-14 30 0t30 0 30 0 30 0" fill="none" stroke="${c[1]}" stroke-width="5" stroke-linecap="round"/>`;
  const SHAPE = {
@@ -477,7 +476,7 @@ window.Adventurers = (() => {
   const bind = (id, key, n) => $('#' + id).addEventListener('input', e => {badge[key] = n ? (e.target.value === '' ? '' : +e.target.value) : e.target.value; draw();});
   bind('sg-rank', 'rank'); bind('sg-a', 'a', 1); bind('sg-b', 'b', 1); bind('sg-deeds', 'deeds', 1); bind('sg-shape', 'shape'); bind('sg-field', 'field'); bind('sg-flourish', 'flourish');
   $('#sg-any').addEventListener('click', () => {
-   Object.assign(badge, {rank: pick(['silver', 'silver', 'gold', 'gold', 'platinum']), a: Math.floor(Math.random() * 8), b: chance(.5) ? Math.floor(Math.random() * 8) : '', deeds: Math.floor(Math.random() * 9), shape: pick(Object.keys(SHAPE)), field: pick(['plain', 'rays', 'waves', 'scales']), flourish: pick(['none', 'laurel', 'wings', 'rope'])});
+   Object.assign(badge, {rank: pick(['silver', 'silver', 'gold', 'gold', 'platinum']), a: Math.floor(Math.random() * DEVICE.length), b: chance(.5) ? Math.floor(Math.random() * DEVICE.length) : '', deeds: Math.floor(Math.random() * 9), shape: pick(Object.keys(SHAPE)), field: pick(['plain', 'rays', 'waves', 'scales']), flourish: pick(['none', 'laurel', 'wings', 'rope'])});
    [['sg-rank', 'rank'], ['sg-a', 'a'], ['sg-b', 'b'], ['sg-deeds', 'deeds'], ['sg-shape', 'shape'], ['sg-field', 'field'], ['sg-flourish', 'flourish']].forEach(([id, k]) => {$('#' + id).value = String(badge[k]);});
    draw();
   });

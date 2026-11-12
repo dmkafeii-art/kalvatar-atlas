@@ -6439,25 +6439,25 @@
  "sigils": {
   "branches": [
    {
-    "name": "Vanguard",
+    "name": "Slayer",
     "device": "a blade",
     "stone": "red garnet",
     "standing": "founded as Warrior",
-    "who": "First in and last out. Slayers, guards, duelists, and boarders."
+    "who": "The ones who kill what has to be killed. Fighters, guards, duelists, and boarders."
    },
    {
-    "name": "Arcanist",
+    "name": "Channeler",
     "device": "a crystal",
     "stone": "blue sapphire",
     "standing": "founded as Mage",
     "who": "Those who fight and work with magic, of every tradition, registered or not."
    },
    {
-    "name": "Stalker",
+    "name": "Pathfinder",
     "device": "an arrow",
     "stone": "green jade",
     "standing": "founded as Scout",
-    "who": "Trackers and hunters of beasts and people: the ones the quarry never sees."
+    "who": "Trackers, pilots, and guides: the ones who find the way, and find the quarry."
    },
    {
     "name": "Herald",
@@ -6467,11 +6467,11 @@
     "who": "The company's voice: negotiators, advocates, and those who run things."
    },
    {
-    "name": "Mainstay",
+    "name": "Keeper",
     "device": "a shield and drop",
     "stone": "rose coral",
     "standing": "younger",
-    "who": "Named for the rope that holds up the mast. Healers, surgeons, and those who keep a company alive, fed, and standing."
+    "who": "Healers, surgeons, and those who keep a company alive, fed, and standing."
    },
    {
     "name": "Craftwright",
@@ -6481,18 +6481,11 @@
     "who": "Smiths, tinkers, shipwrights, and krystawrights: the ones who make what the rest carry."
    },
    {
-    "name": "Explorer",
-    "device": "a compass star",
-    "stone": "amber",
-    "standing": "younger",
-    "who": "Pilots, chartwrights, and those who go where no chart goes."
-   },
-   {
     "name": "Delver",
     "device": "a lantern",
     "stone": "violet amethyst",
     "standing": "younger",
-    "who": "Those who go down: into ruins, wrecks, and the Below, and come back with what they found."
+    "who": "Those who go into ruins, wrecks, and the Below, and come back with what they found. The University's League of Explorers charts the unknown; Delvers go inside it."
    }
   ]
  },
@@ -6583,13 +6576,12 @@
     "The Trials of Ascension"
    ],
    "branches": [
-    "Vanguard",
-    "Arcanist",
-    "Stalker",
+    "Slayer",
+    "Channeler",
+    "Pathfinder",
     "Herald",
-    "Mainstay",
+    "Keeper",
     "Craftwright",
-    "Explorer",
     "Delver"
    ],
    "bios": {

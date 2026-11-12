@@ -15897,7 +15897,7 @@
    {
     "title": "The branches and their devices",
     "paragraphs": [
-     "The order was founded with four branches: Warrior, Mage, Scout, and Diplomat. Hunters today call them the Vanguard, the Arcanists, the Stalkers, and the Heralds. Four younger branches have grown up for the work Hunters now do."
+     "The order was founded with four branches: Warrior, Mage, Scout, and Diplomat. Hunters today call them the Slayers, the Channelers, the Pathfinders, and the Heralds. Three younger branches have grown up beside them: the Keepers, the Craftwrights, and the Delvers."
     ],
     "table": {
      "caption": "Branches of the Hunters",
@@ -15909,22 +15909,22 @@
      ],
      "rows": [
       [
-       "Vanguard",
+       "Slayer",
        "a blade",
        "red garnet",
-       "First in and last out. Slayers, guards, duelists, and boarders. (Founded as Warrior.)"
+       "The ones who kill what has to be killed. Fighters, guards, duelists, and boarders. (Founded as Warrior.)"
       ],
       [
-       "Arcanist",
+       "Channeler",
        "a crystal",
        "blue sapphire",
        "Those who fight and work with magic, of every tradition, registered or not. (Founded as Mage.)"
       ],
       [
-       "Stalker",
+       "Pathfinder",
        "an arrow",
        "green jade",
-       "Trackers and hunters of beasts and people: the ones the quarry never sees. (Founded as Scout.)"
+       "Trackers, pilots, and guides: the ones who find the way, and find the quarry. (Founded as Scout.)"
       ],
       [
        "Herald",
@@ -15933,10 +15933,10 @@
        "The company's voice: negotiators, advocates, and those who run things. (Founded as Diplomat.)"
       ],
       [
-       "Mainstay",
+       "Keeper",
        "a shield and drop",
        "rose coral",
-       "Named for the rope that holds up the mast. Healers, surgeons, and those who keep a company alive, fed, and standing. (A younger branch.)"
+       "Healers, surgeons, and those who keep a company alive, fed, and standing. (A younger branch.)"
       ],
       [
        "Craftwright",
@@ -15945,16 +15945,10 @@
        "Smiths, tinkers, shipwrights, and krystawrights: the ones who make what the rest carry. (A younger branch.)"
       ],
       [
-       "Explorer",
-       "a compass star",
-       "amber",
-       "Pilots, chartwrights, and those who go where no chart goes. (A younger branch.)"
-      ],
-      [
        "Delver",
        "a lantern",
        "violet amethyst",
-       "Those who go down: into ruins, wrecks, and the Below, and come back with what they found. (A younger branch.)"
+       "Those who go into ruins, wrecks, and the Below, and come back with what they found. The University's League of Explorers charts the unknown; Delvers go inside it. (A younger branch.)"
       ]
      ]
     }
@@ -43368,7 +43362,7 @@
       [
        "Glutton",
        "foul, and honest about it",
-       "the greataxe of Hesk Thornwake, Gold Hunter of the Vanguard"
+       "the greataxe of Hesk Thornwake, Gold Hunter, a Slayer"
       ],
       [
        "Madam Tally",
@@ -43398,7 +43392,7 @@
       [
        "Little Mercy",
        "fair, and stubborn",
-       "the surgeon's knife of Mirel Ferrow, Silver Hunter of the Mainstay"
+       "the surgeon's knife of Mirel Ferrow, Silver Hunter, a Keeper"
       ],
       [
        "Sweetheart",
