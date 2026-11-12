@@ -4863,6 +4863,12 @@
     ]
    },
    {
+    "title": "Companies",
+    "paragraphs": [
+     "Hunters who work together sign one line in a Lodge’s Ledger, under a name, and become a company. The great companies have a ship and are known by its name. Every company wears its own colors."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“The Platinum Ten walk among us. Nobody knows who they are.” (common talk)",
@@ -4899,7 +4905,9 @@
    "ironfort",
    "council",
    "travel",
-   "hunters-citadel"
+   "hunters-citadel",
+   "hunter-companies",
+   "patches"
   ],
   "illustration": {
    "src": "assets/powers/hunters-painterly-v1-960.webp",
@@ -15738,7 +15746,8 @@
    "house-faust",
    "reinhardt-holst",
    "house-holst",
-   "hunters"
+   "hunters",
+   "hunter-companies"
   ]
  },
  {
@@ -41564,6 +41573,923 @@
    "Juny Oke",
    "slowfire",
    "Slowfire"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "hunter-companies",
+  "title": "Hunter Companies",
+  "category": "power",
+  "region": "All regions",
+  "subtitle": "One line in the Ledger, under one name",
+  "summary": "Hunters who work together are a company: a name in a Lodge’s Ledger, a set of articles, colors on the back, and, for the great ones, a ship.",
+  "epigraph": {
+   "quote": "Alone you’re a Hunter. Sign the line and you’re somebody’s problem and somebody’s family. Usually the same somebodies.",
+   "by": "A Lodge Chronicler"
+  },
+  "facts": [
+   [
+    "Made at",
+    "any Lodge, before the Chronicler"
+   ],
+   [
+    "Needs",
+    "a name, a captain, and articles"
+   ],
+   [
+    "With a ship",
+    "the company takes the ship’s name"
+   ],
+   [
+    "Without one",
+    "a dry company"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Signing the line",
+    "paragraphs": [
+     "A company is made at a Lodge. Its members sign one line in the Chronicler’s Ledger of Deeds, under a name, and from that day the Ledger records their deeds together.",
+     "The company chooses its own name, and the Ledger holds only one of each: the Golden Wings, the Gilded Wake. A name can’t be taken while any member of the old company is alive."
+    ]
+   },
+   {
+    "title": "Captain and articles",
+    "paragraphs": [
+     "A company elects a captain and writes its articles: who holds what share, who speaks to clients, and what becomes of a dead member’s share. The Lodge keeps a copy and takes its tithe from the whole purse, not from each Hunter."
+    ]
+   },
+   {
+    "title": "The ship",
+    "paragraphs": [
+     "The great companies have a ship, and a company with a ship is known by the ship’s name: the *Crimson Tide*, the *Jubilant*, the *Rolling Thunder*. Then the company is the whole crew, Hunters and hands alike, and “crew” and “company” mean the same thing.",
+     "A company without a hull is a dry company. Most start dry. When one buys or wins a ship, it usually takes the ship’s name, and the old name is painted small on the stern board."
+    ]
+   },
+   {
+    "title": "Colors and sponsors",
+    "paragraphs": [
+     "Every company has a patch of its own design, worn on the back or the left shoulder. A Hunter wears one company’s colors at a time.",
+     "The public Ranking follows companies as closely as it follows Hunters. Houses and firms sponsor them like racing stables, and a sponsor’s mark is sewn below the colors."
+    ]
+   },
+   {
+    "title": "Ending",
+    "paragraphs": [
+     "A company ends when its last member strikes the line in the Ledger. Its colors are hung in the Lodge where it signed, and every old Lodge has a wall of them."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a line in the Goldwind Ledger with a name and no signatures under it. The Chronicler won’t strike it and won’t say who asked him to hold it.” (a Lodge clerk)",
+     "“A dry company out of Southhaven won a ship at dice, renamed themselves for it, and found out the next morning why the last company wanted rid of it.” (a Southhaven dockhand)"
+    ]
+   }
+  ],
+  "related": [
+   "hunters",
+   "great-hunter-crews",
+   "sigil",
+   "patches",
+   "trials-of-ascension",
+   "iron"
+  ],
+  "aliases": [
+   "company",
+   "companies",
+   "dry company",
+   "Hunter company"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "patches",
+  "title": "Patches",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "A traveler’s coat is their story",
+  "summary": "Stitched cloth badges, one from each place, each earned there. Islanders sew them on their coats, and read a stranger’s coat before they say hello.",
+  "epigraph": {
+   "quote": "Don’t tell me where you’ve been. Turn around.",
+   "by": "A Goldwind innkeeper"
+  },
+  "facts": [
+   [
+    "Worn on",
+    "coats, jackets, and sea-bags"
+   ],
+   [
+    "Got by",
+    "earning it; a patch can’t be bought"
+   ],
+   [
+    "Home port",
+    "over the heart"
+   ],
+   [
+    "Company colors",
+    "on the back or the left shoulder"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The custom",
+    "paragraphs": [
+     "Every place of note in the islands has a patch: ports, Lodges, temples, festivals, and any inn, bathhouse, or cookshop that wants to be talked about. The design is the place’s own, and nobody else may stitch it.",
+     "It is one of the most popular customs in Kalvatar. Children start with their home port. Old sailors run out of coat."
+    ]
+   },
+   {
+    "title": "Earning one",
+    "paragraphs": [
+     "A patch is earned, never bought. Each place sets its own deed: finish the cookshop’s great bowl, swim the Stair, carry your stone up the Ascent, win a trial, do the town a service. The harder the deed, the more the patch is worth on a coat.",
+     "Whoever gives the patch sews the first stitch themselves. A patch without a first stitch is called borrowed thread, and wearing borrowed thread is a small disgrace that follows a person for years."
+    ]
+   },
+   {
+    "title": "Reading a coat",
+    "paragraphs": [],
+    "list": [
+     "**Over the heart:** the home port.",
+     "**The back or the left shoulder:** company colors, one company at a time.",
+     "**A blank:** a space left empty on purpose, for a patch its owner means to earn. Asking about someone’s blank is polite. Laughing at it is not.",
+     "**A plain white patch:** the Unspoken. Don’t ask. That is the point of it."
+    ]
+   },
+   {
+    "title": "Some patches people talk about",
+    "paragraphs": [],
+    "table": {
+     "caption": "A few of the hundreds",
+     "headers": [
+      "Patch",
+      "Where",
+      "How it is earned"
+     ],
+     "rows": [
+      [
+       "The Stair",
+       "Malim’s Stair",
+       "Swim it, top to bottom"
+      ],
+      [
+       "The Stone",
+       "The First Ascent",
+       "Carry your stone to the top"
+      ],
+      [
+       "The Unspoken",
+       "The Bonewilds",
+       "Cross the edge by the rite, in silence"
+      ],
+      [
+       "The Ghostlight",
+       "The Auroral Vault",
+       "Stand on the canyon floor on the Vigil night"
+      ],
+      [
+       "The Chowder Pot",
+       "Goldwind",
+       "Win it, before the harbor’s grandmothers"
+      ],
+      [
+       "The Long Pull",
+       "The Merrin Games",
+       "Win the rowing trial"
+      ],
+      [
+       "The Last Post",
+       "Snowvah",
+       "Winter there"
+      ],
+      [
+       "The Sunspine",
+       "Jakupur",
+       "Finish the Run"
+      ],
+      [
+       "A Lodge’s colors",
+       "Any Hunters’ Lodge",
+       "Close a contract posted on its Board"
+      ],
+      [
+       "The worst roof",
+       "Any street, after a storm",
+       "Be first on the worst-hit roof. The street decides"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Makers and fakes",
+    "paragraphs": [
+     "The Weavers’ Guild keeps the pattern-books and stitches a place’s patches for a fee, but hands them only to the place. Forged patches come out of Duskmire with the false coin. A forger caught with a Lodge’s colors answers to the Lodge."
+    ]
+   },
+   {
+    "title": "At the table",
+    "paragraphs": [
+     "A patch from a place earns its wearer the benefit of the doubt there. Once on each visit, the wearer has Advantage on one Charisma check made with the people of that place."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a cookshop in Greyhaven that has given its patch four times in thirty years. The bowl is not that big. Nobody will say what’s in it.” (a Frontier carter)",
+     "“Someone is wearing the Stair who never swam it. The river tribes know who. They’re waiting to see if he comes back.” (a canoe-builder)"
+    ]
+   }
+  ],
+  "related": [
+   "patchwork",
+   "hunter-companies",
+   "malims-stair",
+   "anvil-reach",
+   "merrin-games",
+   "bonewilds",
+   "auroral-vault",
+   "snowvah",
+   "crafts-and-guilds",
+   "mending"
+  ],
+  "aliases": [
+   "patch",
+   "patches",
+   "borrowed thread",
+   "a blank"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "patchwork",
+  "title": "The Patchwork",
+  "category": "folk",
+  "region": "All regions",
+  "subtitle": "The ones who travel for the coat",
+  "summary": "A loose fellowship of wanderers who go from port to port for nothing but patches. They have no hall, no dues, and no leader, and they keep a list of every patch there is.",
+  "epigraph": {
+   "quote": "I’ve been shot at, shipwrecked, and married twice. Ask me why and I’ll show you the left sleeve.",
+   "by": "A patcher at the Artisans’ Faire"
+  },
+  "facts": [
+   [
+    "What they are",
+    "a fellowship, not a guild"
+   ],
+   [
+    "They keep",
+    "the Roll: every patch known to exist"
+   ],
+   [
+    "They meet",
+    "once a year, at the Artisans’ Faire in Goldwind"
+   ],
+   [
+    "They want",
+    "the Nine Hard Patches"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Who they are",
+    "paragraphs": [
+     "Anyone who travels for patches is a patcher, and the patchers together are the Patchwork. Some are Hunters between contracts, some are rich and bored, some are sailors who got the habit. What they share is a coat and a list.",
+     "They are welcome nearly everywhere, because a patcher arrives wanting to do whatever the town is proudest of."
+    ]
+   },
+   {
+    "title": "The Roll",
+    "paragraphs": [
+     "The Roll is the list of every patch known to exist, with its place and its deed. It is copied coat to coat and corrected once a year, when the Patchwork gathers at the Artisans’ Faire in Goldwind to compare coats, argue about fakes, and add what is new."
+    ]
+   },
+   {
+    "title": "The Nine Hard Patches",
+    "paragraphs": [
+     "The Roll names nine that almost nobody has."
+    ],
+    "list": [
+     "**The Stair:** swim Malim’s Stair, top to bottom.",
+     "**The Stone:** carry your stone to the First Ascent.",
+     "**The Unspoken:** cross the edge of the Bonewilds by the rite. The patch is plain white.",
+     "**The Ghostlight:** stand on the floor of the Auroral Vault on the Vigil night.",
+     "**The Chowder Pot:** win it, before the grandmothers.",
+     "**The Long Pull:** win it at the Merrin Games.",
+     "**The Last Post:** winter at Snowvah.",
+     "**The Sunspine:** finish the Run at Jakupur.",
+     "**The Black:** given at Hollowkey, for a deed the freeholds will not describe."
+    ]
+   },
+   {
+    "title": "The full coat",
+    "paragraphs": [
+     "Nobody living has all nine. The Patchwork says one coat did, a long time ago, and argues every year about where it hangs."
+    ]
+   },
+   {
+    "title": "If you travel with one",
+    "paragraphs": [],
+    "list": [
+     "They know where to eat, where to sleep, and what every town is proud of.",
+     "They will not leave until they have earned it.",
+     "They carry a patch-needle and will not lend it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The full coat is real. It’s on a wall in Hollowkey, and the ninth patch on it isn’t the Black. It’s one that isn’t on the Roll.” (a patcher, late at the Faire)",
+     "“A patcher went out for the Unspoken last year and came back with the patch. She hasn’t said a word since. Nobody knows if that’s the rite or something else.” (a Southhaven innkeeper)"
+    ]
+   }
+  ],
+  "related": [
+   "patches",
+   "hunter-companies",
+   "hollowkey",
+   "malims-stair",
+   "anvil-reach",
+   "bonewilds",
+   "auroral-vault",
+   "snowvah",
+   "jakupur",
+   "merrin-games"
+  ],
+  "aliases": [
+   "patcher",
+   "patchers",
+   "the Roll",
+   "Nine Hard Patches",
+   "full coat"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "signed-works",
+  "title": "Signed Works and the Great Sets",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "The finest things made without magic",
+  "summary": "A master’s finest piece, with no magic in it at all, is a signed work. A few masters made theirs in sets, and every piece of those has a name and someone who wants it.",
+  "epigraph": {
+   "quote": "Anyone with Krysta can make a sword that glows. Make one that is simply right. I’ll wait.",
+   "by": "A master of the Smiths’ Guild"
+  },
+  "facts": [
+   [
+    "What it is",
+    "a master’s best work, with their own mark beside the proof stamp"
+   ],
+   [
+    "Magic",
+    "none"
+   ],
+   [
+    "Price",
+    "ten times proof make, and up"
+   ],
+   [
+    "The great sets",
+    "the Seven Watches, the Matched Four, the Six Hours, the Three Horns, the Nine Embers"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Signed works",
+    "paragraphs": [
+     "A masterwork, in the islands, is a great working of Krysta. A master’s finest piece that holds no magic has its own name: a signed work. The master cuts their own mark into it beside the guild’s stamp, and answers for it for life.",
+     "A signed work needs no attunement and pays no Registry tenth. It costs ten times the proof price of the same piece, and a master makes two or three in a good year. Each has one quality that sets it apart: it cannot be broken, or it never cuts badly, or it sits in the hand before you have thought to draw it."
+    ]
+   },
+   {
+    "title": "The Seven Watches",
+    "paragraphs": [
+     "*Halvec Orne, master smith of Aurelion, about a century ago.*",
+     "Seven swords, one for each watch of a ship's day. Orne made them over twenty years, sold none, and gave each to a captain he judged would need it. None is magic. Every one is still sharp."
+    ],
+    "table": {
+     "caption": "The Seven Watches",
+     "headers": [
+      "Piece",
+      "What it is",
+      "Where it is now"
+     ],
+     "rows": [
+      [
+       "First Watch",
+       "a cutlass",
+       "hangs in the Hunters' Citadel at Ironfort, lent to no one"
+      ],
+      [
+       "Middle Watch",
+       "a long straight sword, blued black",
+       "went down at the Kraken's Maw and has not been raised"
+      ],
+      [
+       "Morning Watch",
+       "a saber",
+       "carried in the Armada, handed from one officer to the next by a custom nobody wrote down"
+      ],
+      [
+       "Forenoon",
+       "a rapier",
+       "in the hall of House Sunforge, which says it was a gift and has no paper to prove it"
+      ],
+      [
+       "Afternoon",
+       "a broad hanger",
+       "sold at the Quiet Auction eleven years ago, to a buyer in a mask"
+      ],
+      [
+       "First Dog",
+       "a short boarding sword",
+       "seen on a Free Tide deck, in a hand that had no right to it"
+      ],
+      [
+       "Last Dog",
+       "its twin",
+       "never seen. Orne's own ledger lists seven. Some say he kept it. Some say he never made it"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Matched Four",
+    "paragraphs": [
+     "*Teacher Onu of the Third Ascent, a Vorthani, four generations ago.*",
+     "Four weapons made to be carried at once by one four-armed monk: two short, two long, each balanced against the other three. Separated, each is merely superb. No Vorthani has held all four since Onu died."
+    ],
+    "table": {
+     "caption": "The Matched Four",
+     "headers": [
+      "Piece",
+      "What it is",
+      "Where it is now"
+     ],
+     "rows": [
+      [
+       "Patience",
+       "a short staff of ironwood shod in steel",
+       "at the Third Ascent, on the wall above Onu's cell"
+      ],
+      [
+       "Mercy",
+       "a long hooked blade",
+       "in a Goldwind collection, whose owner cannot lift it properly and knows it"
+      ],
+      [
+       "Labor",
+       "a mason's maul",
+       "lent to a goliath clan for a debt, and carried by its champion"
+      ],
+      [
+       "Silence",
+       "a narrow knife",
+       "lost on a pilgrimage. The Ascents ask every traveler, politely"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Six Hours",
+    "paragraphs": [
+     "*Ysmer Quillwick, a gnome clockwright of Goldwind, sixty years ago.*",
+     "Six ship's chronometers, each no bigger than a fist, that have never needed setting. Navigators say that two of them in one room tick together. They are instruments, and no blade ever made is worth as much."
+    ],
+    "table": {
+     "caption": "The Six Hours",
+     "headers": [
+      "Piece",
+      "What it is",
+      "Where it is now"
+     ],
+     "rows": [
+      [
+       "Dawn",
+       "brass and blue enamel",
+       "aboard an Armada flagship, chained to the binnacle"
+      ],
+      [
+       "Forenoon Bell",
+       "silver",
+       "at the University, where it is the clock the other clocks are set by"
+      ],
+      [
+       "Noon",
+       "gold, the plainest of the six",
+       "in the Reckoners' Hall, as surety for a loan nobody has repaid"
+      ],
+      [
+       "Dog Watch",
+       "blackened steel",
+       "on a Hunter ship, won at cards, twice"
+      ],
+      [
+       "Midnight",
+       "glass-cased, so the works can be seen",
+       "stolen from Quillwick's own bench the week he died"
+      ],
+      [
+       "The Still Hour",
+       "unknown",
+       "Quillwick's notes describe a sixth that keeps time only during the Still Days. Nobody has found it"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Three Horns",
+    "paragraphs": [
+     "*Torrach Carrow of the high moor, a Tarvan bowyer, in living memory.*",
+     "Three horn-bows cut from the horns of a single great moorhorn bull. No guild had a hand in them. A Tarvan horn-bow is fifty Anchors; nobody has ever named a price for one of these and been answered."
+    ],
+    "table": {
+     "caption": "The Three Horns",
+     "headers": [
+      "Piece",
+      "What it is",
+      "Where it is now"
+     ],
+     "rows": [
+      [
+       "The Bull",
+       "the heaviest draw in the islands",
+       "held by Carrow's clan, and strung once a year at the First Grass"
+      ],
+      [
+       "The Calf",
+       "a short rider's bow",
+       "won at a Tarvan Gathering by an outsider, which the clans are still discussing"
+      ],
+      [
+       "The Ghost",
+       "pale horn, almost white",
+       "buried with its archer under the standing-stones. The clan says so, anyway"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Nine Embers",
+    "paragraphs": [
+     "*Ishvel Veyl, a Cindren glass-smith of Everfall, about eighty years ago.*",
+     "Nine knives of black volcanic glass, each chipped from one flow and hafted in bone. Glass should not hold up to work. These have cut rope, sail, and worse for eighty years without a flake lost."
+    ],
+    "table": {
+     "caption": "The Nine Embers",
+     "headers": [
+      "Piece",
+      "What it is",
+      "Where it is now"
+     ],
+     "rows": [
+      [
+       "One through Five",
+       "working knives, plain hafts",
+       "scattered: a ship's cook, a surgeon, a Lodge Quartermaster, and two that change hands at dice"
+      ],
+      [
+       "Six",
+       "a flensing knife",
+       "in Frosthold, where it opens the first whale of every season"
+      ],
+      [
+       "Seven",
+       "a long thin blade",
+       "taken as evidence in Goldwind, and missing from the evidence room"
+      ],
+      [
+       "Eight",
+       "a child's knife, the smallest",
+       "given by Veyl to her granddaughter, who still has it and will not sell"
+      ],
+      [
+       "Nine",
+       "the largest, never hafted",
+       "Veyl left the ninth as bare glass. It is in Everfall, under a cloth, and the Cindren do not show it"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Making one",
+    "paragraphs": [
+     "Any guild master can sign a piece. The Workshop, in the Adventurers section, works out the time and the cost."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Smiths' Guild has a master at Aurelion who can make a blade that cuts a falling silk scarf, and the Guild will not let him make more than one a year.” (an Aurelion apprentice)",
+     "“Somebody is buying the Watches. Quietly, through three different factors. They have four.” (a Quiet Auction porter)"
+    ]
+   }
+  ],
+  "related": [
+   "crafts-and-guilds",
+   "aurelion",
+   "house-sunforge",
+   "vorthani",
+   "gnomes",
+   "tarvan",
+   "cindren",
+   "quiet-auction",
+   "charms-and-workings",
+   "krakens-maw"
+  ],
+  "aliases": [
+   "signed work",
+   "Seven Watches",
+   "Matched Four",
+   "Six Hours",
+   "Three Horns",
+   "Nine Embers",
+   "Halvec Orne",
+   "Ysmer Quillwick",
+   "legendary weapons",
+   "relics"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "charms-and-workings",
+  "title": "Charms and Workings",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "The wondrous things of the islands",
+  "summary": "The magic a traveler is likely to meet: small charms that last, and the lesser and greater workings that Hunters and captains save for.",
+  "epigraph": {
+   "quote": "Magic is never on a shelf. It’s in somebody’s pocket, and they know what it’s worth.",
+   "by": "A Goldwind refiner"
+  },
+  "facts": [
+   [
+    "A charm",
+    "50 to 100 Anchors"
+   ],
+   [
+    "A lesser working",
+    "100 to 500 Anchors"
+   ],
+   [
+    "A greater working",
+    "500 to 5,000 Anchors"
+   ],
+   [
+    "Every legal sale",
+    "pays the Registry’s tenth"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Buying magic",
+    "paragraphs": [
+     "Magic is not sold from shelves. A market town has one or two worked pieces, if any. A regional city has a handful, through a licensed refiner or a Lodge Quartermaster. Goldwind has dozens. Everything else is bought from a dead Hunter’s kin, found in a wreck, or won at the Quiet Auction.",
+     "Every legal sale carries the Registry’s tenth and comes with papers. Without papers a piece is dark glass or bright work: dearer, and nobody checked it."
+    ]
+   },
+   {
+    "title": "The things themselves",
+    "paragraphs": [],
+    "table": {
+     "caption": "Charms and workings a traveler may meet",
+     "headers": [
+      "Name",
+      "Grade",
+      "What it does"
+     ],
+     "rows": [
+      [
+       "Warm-Cup",
+       "Charm",
+       "Keeps a drink at the heat it was poured, for a day."
+      ],
+      [
+       "Steady Lantern",
+       "Charm",
+       "A flame no wind, rain, or spray puts out."
+      ],
+      [
+       "Dry Satchel",
+       "Charm",
+       "Its contents stay dry, even through an hour under water."
+      ],
+      [
+       "Tide-Glass",
+       "Charm",
+       "A sealed drop of seawater that rises and falls with the tide, wherever you are."
+      ],
+      [
+       "Ledger Ink",
+       "Charm",
+       "Writing that shows a red stain if anyone alters it."
+      ],
+      [
+       "Fog-Bell",
+       "Charm",
+       "Heard twice as far as it should be in fog, and not at all beyond."
+      ],
+      [
+       "Home-Coal Tin",
+       "Charm",
+       "Keeps a live coal alive for a month."
+      ],
+      [
+       "Salt-Sure Blade",
+       "Charm",
+       "Metal that never rusts in salt air."
+      ],
+      [
+       "True Scale",
+       "Charm",
+       "A balance that can't be tampered with."
+      ],
+      [
+       "Song-Shell",
+       "Charm",
+       "Records a minute of sound: the proper gift for a Coral court."
+      ],
+      [
+       "Ship-Needle",
+       "Charm",
+       "Points to one ship, wherever it is, for a year and a day."
+      ],
+      [
+       "Mending Thread",
+       "Charm",
+       "A tear sewn with it closes cleanly, sail or skin."
+      ],
+      [
+       "Stormglass",
+       "Lesser working",
+       "Clears or darkens with tomorrow's weather."
+      ],
+      [
+       "Chartwright's Lens",
+       "Lesser working",
+       "Shows reefs, shoals, and wrecks under the water."
+      ],
+      [
+       "Breath-Pearl",
+       "Lesser working",
+       "An hour of breathing water. Given by the Glass Gardens, never sold."
+      ],
+      [
+       "Memory-Pearl",
+       "Lesser working",
+       "Holds one moment of a dead person's life."
+      ],
+      [
+       "Echo-Bone Whistle",
+       "Lesser working",
+       "Repeats any sound you heard in the last day."
+      ],
+      [
+       "Storm-Feather Fletching",
+       "Lesser working",
+       "Arrows that strike with lightning."
+      ],
+      [
+       "Ember-Blood Vial",
+       "Lesser working",
+       "Thrown, it bursts in fire. Sipped, it keeps out the cold."
+      ],
+      [
+       "Shadow-Pelt Cloak",
+       "Greater working",
+       "A cloak that drinks the light around its wearer."
+      ],
+      [
+       "Krysta-Fed Pistol",
+       "Greater working",
+       "Fires Krysta charges with no smoke and almost no sound."
+      ],
+      [
+       "Wyvern-Sting Blade",
+       "Greater working",
+       "A blade quenched in a wyvern's sting."
+      ],
+      [
+       "Patch-Needle",
+       "Charm",
+       "Sews a patch that can never be picked off."
+      ],
+      [
+       "Returning Cup",
+       "Charm",
+       "A cup charmed to one person at the time it is hung."
+      ],
+      [
+       "Answering Lamp",
+       "Charm",
+       "A house lamp that dips and rises once, by itself, when a ship's lantern passes within a mile at night."
+      ],
+      [
+       "Chalk of the True Tide",
+       "Charm",
+       "Marks made with it on stone can't be washed off by the sea."
+      ],
+      [
+       "Reed Collar of the Slowwater",
+       "Charm",
+       "A collar of braided reed soaked in bitter root."
+      ],
+      [
+       "Hush-Feather",
+       "Lesser working",
+       "A white feather shed by a hush owl in a temple of Memnara."
+      ],
+      [
+       "Homeward Shell",
+       "Lesser working",
+       "The empty shell of a homeward snail, sealed with wax."
+      ],
+      [
+       "Unspoken Cord",
+       "Lesser working",
+       "A cord of undyed wool, knotted around the wrist in silence."
+      ],
+      [
+       "Memory-Bead",
+       "Lesser working",
+       "A bead of old ivory on a thong."
+      ],
+      [
+       "Roam-Salt",
+       "Greater working",
+       "A pinch of grey salt gathered on a road in the Roam and carried out in a dreamer's closed hand."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Newer to the atlas",
+    "paragraphs": [
+     "**Patch-Needle.** A steel needle that sews a patch so it can't be cut or picked off without destroying the cloth under it. A patch sewn with it never frays. The Patchwork carry them and lend them to nobody.",
+     "**Returning Cup.** A cup charmed to one person at the time it is hung. While it hangs upside down, it grows cold when that person is in mortal danger, and warm again when the danger is past. It tells nothing else.",
+     "**Answering Lamp.** A house lamp that dips and rises once, by itself, when a ship's lantern passes within a mile at night. A coast with these never fails to answer.",
+     "**Chalk of the True Tide.** Marks made with it on stone can't be washed off by the sea. A line drawn at the water's edge shows, by a faint second line that appears above it, how high the next tide will reach.",
+     "**Reed Collar of the Slowwater.** A collar of braided reed soaked in bitter root. Biting insects won't touch the wearer, and the wearer has Advantage on saving throws against diseases carried by them. It lasts a season.",
+     "**Hush-Feather.** A white feather shed by a hush owl in a temple of Memnara. While you carry it, you know when an Undead is within 60 feet of you, though not where. The feather turns grey after a year.",
+     "**Homeward Shell.** The empty shell of a homeward snail, sealed with wax. As a Magic action, you name a place where you have slept for at least a month, and for 1 hour you know the direction to it. It can't be used again until the next dawn.",
+     "**Unspoken Cord.** A cord of undyed wool, knotted around the wrist in silence. While you wear it and have not spoken since the last dawn, you leave no tracks and no scent. The first word you speak undoes it.",
+     "**Memory-Bead.** A bead of old ivory on a thong. An ivory-kin can speak one memory into it, of up to a minute. A creature that holds the bead to its ear hears that memory in the speaker's voice, as often as it likes. It is how a herd sends word it wants kept exact.",
+     "**Roam-Salt.** A pinch of grey salt gathered on a road in the Roam and carried out in a dreamer's closed hand. Sprinkled across a threshold, it bars a doorway to dreams for one night: no creature sleeping beyond it can be reached by a spell or an effect that enters dreams, and a kalashtar who sleeps there does not go to the far shore. One pinch, one night."
+    ]
+   },
+   {
+    "title": "Making them",
+    "paragraphs": [
+     "The Workshop, in the Adventurers section, works out the time and the cost of a charm, a working, or a scroll."
+    ]
+   }
+  ],
+  "related": [
+   "krysta",
+   "krystawrights",
+   "arcane-registry",
+   "quiet-auction",
+   "signed-works",
+   "hush-owl",
+   "homeward-snail",
+   "bogborn",
+   "ivory-kin",
+   "kalashtar",
+   "patches"
+  ],
+  "aliases": [
+   "wondrous items",
+   "magic items",
+   "charm",
+   "charms",
+   "lesser working",
+   "greater working",
+   "Patch-Needle",
+   "Returning Cup",
+   "Answering Lamp",
+   "Chalk of the True Tide",
+   "Reed Collar of the Slowwater",
+   "Hush-Feather",
+   "Homeward Shell",
+   "Unspoken Cord",
+   "Memory-Bead",
+   "Roam-Salt"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {

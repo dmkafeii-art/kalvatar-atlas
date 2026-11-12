@@ -2356,5 +2356,35 @@
   "entries": [
    "bogborn"
   ]
+ },
+ {
+  "id": "rumor-patches-borrowed-thread",
+  "text": "Someone is wearing the Stair who never swam it. The river tribes know who, and they are waiting to see if he comes back.",
+  "heardAt": "heard at Malim's Stair",
+  "region": "Southern Wilds",
+  "entries": [
+   "patches",
+   "malims-stair"
+  ]
+ },
+ {
+  "id": "rumor-seven-watches-buyer",
+  "text": "Somebody is buying the Seven Watches, quietly, through three different factors. They have four.",
+  "heardAt": "heard at the Quiet Auction",
+  "region": "All regions",
+  "entries": [
+   "signed-works",
+   "quiet-auction"
+  ]
+ },
+ {
+  "id": "rumor-ledger-empty-line",
+  "text": "There is a line in the Goldwind Ledger of Deeds with a company's name and no signatures under it. The Chronicler will not strike it.",
+  "heardAt": "heard at the Goldwind Lodge",
+  "region": "Central Heartland",
+  "entries": [
+   "hunter-companies",
+   "hunters"
+  ]
  }
 ]

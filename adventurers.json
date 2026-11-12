@@ -5363,5 +5363,274 @@
    ]
   }
  ],
+ "workshop": {
+  "qualities": [
+   {
+    "name": "Unfailing",
+    "text": "It can't be broken, bent, rusted, or dulled by anything that is not magic."
+   },
+   {
+    "name": "True",
+    "text": "A weapon. When you roll a 1 on one of its damage dice, you can reroll that die once and must use the new roll."
+   },
+   {
+    "name": "Ready",
+    "text": "A weapon. You can draw it as part of rolling Initiative, and drawing or stowing it never costs you your free object interaction."
+   },
+   {
+    "name": "Fitted",
+    "text": "Armor. It imposes no Disadvantage on Dexterity (Stealth) checks, its Strength requirement is 2 lower, and it is donned or doffed in half the time."
+   },
+   {
+    "name": "Light",
+    "text": "It weighs half as much, and a Heavy weapon's Strength requirement is 2 lower."
+   },
+   {
+    "name": "Exact",
+    "text": "A tool or an instrument. When you make an ability check with it, you can treat a d20 roll of 5 or lower as a 6."
+   }
+  ],
+  "makes": [
+   {
+    "id": "harbor",
+    "name": "Harbor make",
+    "factor": 0.1,
+    "note": "Local and unstamped: good enough for honest work, likely to fail under hard use."
+   },
+   {
+    "id": "proof",
+    "name": "Proof make",
+    "factor": 1,
+    "note": "Carries a guild stamp and a guarantee. This is the listed price."
+   },
+   {
+    "id": "signed",
+    "name": "Signed work",
+    "factor": 10,
+    "min": 100,
+    "note": "A master’s finest, with their own mark. Only a guild master can sign, and the piece gets one quality."
+   }
+  ],
+  "goods": [
+   [
+    "Dagger",
+    2
+   ],
+   [
+    "Soldier’s sword",
+    15
+   ],
+   [
+    "Rapier",
+    25
+   ],
+   [
+    "Greatsword",
+    50
+   ],
+   [
+    "Boarding axe",
+    10
+   ],
+   [
+    "Crossbow",
+    25
+   ],
+   [
+    "Tarvan horn-bow",
+    50
+   ],
+   [
+    "Shield",
+    10
+   ],
+   [
+    "Chain shirt",
+    50
+   ],
+   [
+    "Breastplate",
+    400
+   ],
+   [
+    "Half plate",
+    750
+   ],
+   [
+    "Full plate",
+    1000
+   ],
+   [
+    "Proof lantern",
+    5
+   ],
+   [
+    "Proof rope, 50 feet",
+    1
+   ],
+   [
+    "Smith’s tools",
+    20
+   ],
+   [
+    "Navigator’s tools",
+    25
+   ]
+  ],
+  "scrolls": [
+   [
+    0,
+    "Cantrip",
+    1,
+    15,
+    13,
+    5
+   ],
+   [
+    1,
+    "First circle",
+    1,
+    25,
+    13,
+    5
+   ],
+   [
+    2,
+    "Second circle",
+    3,
+    100,
+    13,
+    5
+   ],
+   [
+    3,
+    "Third circle",
+    5,
+    150,
+    15,
+    7
+   ],
+   [
+    4,
+    "Fourth circle",
+    10,
+    1000,
+    15,
+    7
+   ],
+   [
+    5,
+    "Fifth circle",
+    25,
+    1500,
+    17,
+    9
+   ],
+   [
+    6,
+    "Sixth circle",
+    40,
+    10000,
+    17,
+    9
+   ],
+   [
+    7,
+    "Seventh circle",
+    50,
+    12500,
+    18,
+    10
+   ],
+   [
+    8,
+    "Eighth circle",
+    60,
+    15000,
+    18,
+    10
+   ],
+   [
+    9,
+    "Ninth circle",
+    120,
+    50000,
+    19,
+    11
+   ]
+  ],
+  "grades": [
+   {
+    "id": "common",
+    "name": "A charm",
+    "rarity": "Common",
+    "days": 5,
+    "cost": 50,
+    "sells": "50 to 100 Anchors"
+   },
+   {
+    "id": "uncommon",
+    "name": "A lesser working",
+    "rarity": "Uncommon",
+    "days": 10,
+    "cost": 200,
+    "sells": "100 to 500 Anchors"
+   },
+   {
+    "id": "rare",
+    "name": "A greater working",
+    "rarity": "Rare",
+    "days": 50,
+    "cost": 2000,
+    "sells": "500 to 5,000 Anchors"
+   },
+   {
+    "id": "veryrare",
+    "name": "A masterwork",
+    "rarity": "Very Rare",
+    "days": 125,
+    "cost": 20000,
+    "sells": "500 to 5,000 Orsals; almost never for open sale"
+   },
+   {
+    "id": "legendary",
+    "name": "A named work",
+    "rarity": "Legendary",
+    "days": 250,
+    "cost": 100000,
+    "sells": "not for sale. Wars are fought over them"
+   }
+  ],
+  "tools": [
+   [
+    "Armor",
+    "Leatherworker’s, Smith’s, or Weaver’s Tools"
+   ],
+   [
+    "Potion",
+    "Alchemist’s Supplies or Herbalism Kit"
+   ],
+   [
+    "Ring",
+    "Jeweler’s Tools"
+   ],
+   [
+    "Rod, staff, or wand",
+    "Woodcarver’s Tools"
+   ],
+   [
+    "Scroll",
+    "Calligrapher’s Supplies"
+   ],
+   [
+    "Weapon",
+    "Leatherworker’s, Smith’s, or Woodcarver’s Tools"
+   ],
+   [
+    "Wondrous item",
+    "Tinker’s Tools, or the tool that makes the ordinary thing it is based on"
+   ]
+  ]
+ },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }
