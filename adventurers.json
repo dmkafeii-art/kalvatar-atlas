@@ -1398,7 +1398,7 @@
       {
        "t": "li",
        "level": 0,
-       "text": "**A Second Season.** Choose a second season from your Season of the Roam trait. You learn its cantrip and its level 3 spell."
+       "text": "**A Second Season.** Choose a second season from your Season of the Roam trait. You learn its cantrip and the spell it grants at level 3, which you can cast once without a spell slot per Long Rest."
       }
      ]
     }
@@ -1532,11 +1532,6 @@
        "t": "li",
        "level": 0,
        "text": "**Quick Rising.** When you roll Initiative, you can shift as part of the roll, with no action required."
-      },
-      {
-       "t": "li",
-       "level": 0,
-       "text": "**Hard to Put Down.** When you shift, you gain Temporary Hit Points equal to 3 times your Proficiency Bonus instead of 2 times."
       }
      ]
     }
@@ -4778,11 +4773,6 @@
        "t": "li",
        "level": 0,
        "text": "**Bottom-Walker.** The sea floor is no longer Difficult Terrain for you, you have Darkvision with a range of 60 feet while under water, and you ignore the cold and pressure of the deep."
-      },
-      {
-       "t": "li",
-       "level": 0,
-       "text": "**Braced.** When you take damage, you can take a Reaction to reduce it by 1d10 + your Proficiency Bonus. You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest."
       }
      ]
     }
@@ -5071,12 +5061,12 @@
       {
        "t": "li",
        "level": 0,
-       "text": "**Carrying Voice.** The range of your Roar becomes 30 feet."
+       "text": "**Carrying Voice.** The range of your Roar becomes 20 feet."
       },
       {
        "t": "li",
        "level": 0,
-       "text": "**The Pride Answers.** When you use your Roar, each ally of your choice within its range who can hear it gains Temporary Hit Points equal to your Proficiency Bonus + your Constitution modifier (minimum of 1)."
+       "text": "**The Pride Answers.** When you use your Roar, each ally of your choice within its range who can hear it gains Temporary Hit Points equal to your Proficiency Bonus."
       }
      ]
     }
@@ -5216,7 +5206,7 @@
       {
        "t": "li",
        "level": 0,
-       "text": "**Stand Behind Me.** While you aren't Incapacitated, allies within 5 feet of you have Half Cover against attacks made from more than 5 feet away from them."
+       "text": "**Stand Behind Me.** When a creature you can see makes a ranged attack against an ally within 5 feet of you, you can take a Reaction to step into the way and impose Disadvantage on the attack roll."
       },
       {
        "t": "li",

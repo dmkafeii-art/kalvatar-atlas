@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=6').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=7').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
