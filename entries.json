@@ -4907,7 +4907,9 @@
    "travel",
    "hunters-citadel",
    "hunter-companies",
-   "patches"
+   "patches",
+   "ranking-cards",
+   "inkers-circle"
   ],
   "illustration": {
    "src": "assets/powers/hunters-painterly-v1-960.webp",
@@ -41643,6 +41645,24 @@
     ]
    },
    {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Choose the name before you go in. The Chronicler has heard every joke.",
+     "Write down what happens to a dead member’s share. Every company that skipped it wishes it had not.",
+     "Colors first, sponsor second. A sponsor’s mark is sewn below the colors for a reason."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A company’s last living member wants help striking the line, and somebody does not want that name freed.",
+     "A sponsor is paying a dry company to lose one contract, quietly, to a rival it also sponsors.",
+     "Your company’s favor has turned up on a stranger’s coat, with a first stitch none of you gave."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“There’s a line in the Goldwind Ledger with a name and no signatures under it. The Chronicler won’t strike it and won’t say who asked him to hold it.” (a Lodge clerk)",
@@ -41656,7 +41676,9 @@
    "sigil",
    "patches",
    "trials-of-ascension",
-   "iron"
+   "iron",
+   "ranking-cards",
+   "inkers-circle"
   ],
   "aliases": [
    "company",
@@ -41820,6 +41842,24 @@
     ]
    },
    {
+    "title": "The Pattern-Book and the Roll",
+    "paragraphs": [
+     "A patch entered in the Circle’s Pattern-Book is official, and the Circle will defend its design. The Patchwork’s Roll lists every patch that exists, registered or not. The gap between the two lists is where the best patches are: the Unspoken, the Black, and anything a place is too proud or too secretive to register."
+    ]
+   },
+   {
+    "title": "A patch as a side quest",
+    "paragraphs": [
+     "Any port has one waiting."
+    ],
+    "list": [
+     "**Ask** what the town is proudest of. That is usually the deed.",
+     "**Find** whoever sews the first stitch. It is seldom the person who owns the place.",
+     "**Do it** where people can see. A patch nobody saw you earn starts arguments.",
+     "**Leave room.** The good ones come when you are not looking for them."
+    ]
+   },
+   {
     "title": "Fakes",
     "paragraphs": [
      "Forged patches come out of Duskmire with the false coin. A forger caught with a Lodge’s colors answers to the Lodge."
@@ -41829,6 +41869,25 @@
     "title": "At the table",
     "paragraphs": [
      "A patch from a place earns its wearer the benefit of the doubt there. Once on each visit, the wearer has Advantage on one Charisma check made with the people of that place."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "An inn will give its patch to whoever brings back its sign, which a rival inn has had on its wall for six years.",
+     "A dying patcher has one blank left and can’t travel. She will pay everything she has for someone to earn it in her name, and the Roll has never ruled on whether that counts.",
+     "Two villages claim the same design, and the Circle’s clerk who must decide has asked for an escort.",
+     "A great name has stopped giving their mark. The last three people to earn it are all missing."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "A patch can’t be bought, but the cloth it is sewn on can. Second-hand coats with famous patches fetch absurd prices and fool nobody.",
+     "The plain white patch of the Unspoken is the only one that people stop talking when they see.",
+     "Innkeepers judge a guest’s credit by the coat. Three good patches will get you a room on trust in most ports."
     ]
    },
    {
@@ -41849,7 +41908,9 @@
    "auroral-vault",
    "snowvah",
    "crafts-and-guilds",
-   "mending"
+   "mending",
+   "inkers-circle",
+   "ranking-cards"
   ],
   "aliases": [
    "patch",
@@ -41942,6 +42003,15 @@
     ]
    },
    {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The Patchwork is one page short of a full Roll: a patcher died with it sewn into her lining, and her coat was sold.",
+     "Someone is cutting single patches off sleeping patchers and leaving the coats. Always the same patch.",
+     "The party is asked to witness a deed, so that this time nobody can argue the patch."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“The full coat is real. It’s on a wall in Hollowkey, and the ninth patch on it isn’t the Black. It’s one that isn’t on the Roll.” (a patcher, late at the Faire)",
@@ -41959,7 +42029,8 @@
    "auroral-vault",
    "snowvah",
    "jakupur",
-   "merrin-games"
+   "merrin-games",
+   "inkers-circle"
   ],
   "aliases": [
    "patcher",
@@ -42227,6 +42298,24 @@
     ]
    },
    {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Middle Watch is on the bottom at the Kraken’s Maw, and a salvager has found the wreck it went down in.",
+     "The owner of Mercy will give it back to the Ascents, to whoever can make him believe the monks will not laugh at him.",
+     "Midnight, the stolen chronometer, is ticking somewhere in this port. A navigator with one of its sisters can hear it."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "A signed work pays no Registry tenth, which is half the reason rich captains order them.",
+     "Halvec Orne sold none of the Seven Watches. Every one was a gift.",
+     "No guild had a hand in the Three Horns, and the Bowyers have never forgiven it."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“The Smiths' Guild has a master at Aurelion who can make a blade that cuts a falling silk scarf, and the Guild will not let him make more than one a year.” (an Aurelion apprentice)",
@@ -42490,6 +42579,23 @@
     ]
    },
    {
+    "title": "More small wonders",
+    "paragraphs": [
+     "**Card-Glass.** A small lens in a brass ring. Looked at through it, a true Ranking card shows the Inkers' hidden mark and a forgery does not. The Circle sells them, and is the only one who knows what the mark is.",
+     "**Speaking Card.** A Ranking card that says its Hunter's motto aloud, in the Hunter's own voice, when it is turned face up. It works three times a day. Children would trade a whole season for one.",
+     "**First-Stitch Thimble.** A steel thimble. Pressed to a patch, it grows warm if the patch was given with a true first stitch and stays cold on borrowed thread. Innkeepers who are tired of liars keep one behind the bar.",
+     "**Never-Spill Flask.** A flask that can't spill, leak, or be knocked over, on any deck in any sea. It still has to be opened to pour.",
+     "**Coinsday String.** A cord for Bits. Coins threaded on it can't be cut loose or slipped off by any hand but the owner's.",
+     "**Long-Night Candle.** A candle of Frosthold oil that burns for forty days and can't be blown out by any wind indoors. One sees a household through the Long Night.",
+     "**Deck-Sign Gloves.** Grey gloves. Hand-signs made in them can be read clearly out to 120 feet, in fog, rain, or darkness, by anyone who knows Deck-sign. To anyone else they are grey gloves.",
+     "**Dolphin Whistle.** A bone whistle pitched too high for people. As a Magic action, you blow it: any pilot dolphin within a mile comes, and will guide your ship through one reef or shoal if you treat it as a guest. It can't be used again until the next dawn.",
+     "**Aurora Lens.** Goggles of smoked ice-glass from the Expanse. While you wear them, you can't be blinded by glare, snow, or sudden light, you have Advantage on saving throws against the Blinded condition, and you can read by starlight.",
+     "**Grandmother's Ladle.** A long wooden ladle, black with use. Anything stirred with it tastes as good as it possibly can. If the pot holds poison, the bowl of the ladle turns white. Three have won the Chowder Pot.",
+     "**True-Name Paint.** Black paint mixed for harbor-masters. A ship's name painted with it can't be scraped off or painted over: within a day, anything laid on top flakes away and the true name shows.",
+     "**Winner's Merrin.** A red kerchief won at the Merrin Games and worn since. While you wear it, you can hold your breath twice as long, and once, when you fail a Strength (Athletics) check or a saving throw made to swim, row, or stay afloat, you can succeed instead. It can't do so again until the next dawn."
+    ]
+   },
+   {
     "title": "Making them",
     "paragraphs": [
      "The Workshop, in the Adventurers section, works out the time and the cost of a charm, a working, or a scroll."
@@ -42507,7 +42613,9 @@
    "bogborn",
    "ivory-kin",
    "kalashtar",
-   "patches"
+   "patches",
+   "ranking-cards",
+   "merrin-games"
   ],
   "aliases": [
    "wondrous items",
@@ -42526,6 +42634,267 @@
    "Unspoken Cord",
    "Memory-Bead",
    "Roam-Salt"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "inkers-circle",
+  "title": "The Inkers’ Circle",
+  "category": "power",
+  "region": "All regions",
+  "subtitle": "They print the news, the cards, and your reputation",
+  "summary": "The guild of printers, binders, and engravers. It prints the broadsheets, the books, the Hunters’ adventure-scrolls and Ranking cards, and it keeps the Pattern-Book of every official patch.",
+  "epigraph": {
+   "quote": "A Hunter can kill a wyvern on a Graveday and nobody will know. We decide what happened, and it is out by Restday.",
+   "by": "A master of the Inkers’ Circle"
+  },
+  "facts": [
+   [
+    "What it is",
+    "a guild of the Mercantile Congress"
+   ],
+   [
+    "It prints",
+    "broadsheets, books, adventure-scrolls, Ranking cards"
+   ],
+   [
+    "It keeps",
+    "the Pattern-Book of official patches"
+   ],
+   [
+    "A master binder earns",
+    "6 Anchors a month"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What they do",
+    "paragraphs": [
+     "Every port with a press has a Circle shop. It prints the broadsheet, binds the books, and sells the adventure-scrolls: cheap printed tales of what the Hunters did this season, half of them nearly true.",
+     "The Circle makes and breaks Hunter reputations. A company that the scrolls love gets sponsors. A company they ignore had better be very good."
+    ]
+   },
+   {
+    "title": "The cards and the Pattern-Book",
+    "paragraphs": [
+     "About fifteen years ago the Circle began printing Ranking cards and registering patches, and found it had started two crazes at once. Today a Circle shop is where children buy twists, patchers argue over pages, and innkeepers pay an Anchor to enter a new design.",
+     "The Pattern-Book is the register of official patches: the design, its owner, its colors, and the deed that earns it. Every shop holds a copy, and anyone may ask to see a page."
+    ]
+   },
+   {
+    "title": "The Circle and the Patchwork",
+    "paragraphs": [
+     "The Circle’s book lists what is registered. The Patchwork’s Roll lists what exists. The two do not agree, and neither side will admit the other’s list is the real one. Most of the legendary patches are on the Roll and not in the book."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A Circle shop has been robbed of one page of the Pattern-Book. Only the page.",
+     "A company wants to know who paid for the scroll that made them a joke, and will pay better to have a new one printed.",
+     "Forged gilt cards are flooding a port. The Circle wants the press found before the season is worthless.",
+     "An engraver swears the face she was told to cut for this season’s set is of someone who died ten years ago."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The oldest entry in the Pattern-Book is numbered two.",
+     "A Hunter’s first card is a bigger day in most families than their first contract.",
+     "The Circle prints one more broadsheet than it sells every Coinsday. Nobody on the floor knows who collects it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The first page of the Pattern-Book wasn’t a binder’s error. Somebody registered a patch before there was a book, and the Circle is still looking for whoever wears it.” (a Circle apprentice)",
+     "“There’s a press in the Goldwind shop that runs by itself on the Still Days. They lock the room and do not read what comes out.” (a paper-carrier)"
+    ]
+   }
+  ],
+  "related": [
+   "ranking-cards",
+   "patches",
+   "patchwork",
+   "hunters",
+   "mercantile-congress",
+   "crafts-and-guilds",
+   "hunter-companies"
+  ],
+  "aliases": [
+   "Inkers",
+   "Inkers' Circle",
+   "Inkers’ Circle",
+   "Pattern-Book",
+   "adventure-scrolls",
+   "broadsheet"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "ranking-cards",
+  "title": "Ranking Cards",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "Five for a Bit, and nobody knows which five",
+  "summary": "Printed cards of the Hunters and companies of the public Ranking, sold in paper twists. Children trade them, dockers gamble with them, and everyone plays Flip.",
+  "epigraph": {
+   "quote": "I have fought a kraken. My son does not care. He has me in copper and wants me in gilt.",
+   "by": "A Silver Hunter of the Goldwind Lodge"
+  },
+  "facts": [
+   [
+    "Printed by",
+    "the Inkers’ Circle"
+   ],
+   [
+    "Sold as",
+    "a twist of five, for a Bit"
+   ],
+   [
+    "A season",
+    "120 cards, new each year on the day of the Vow"
+   ],
+   [
+    "The game",
+    "Flip"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The season",
+    "paragraphs": [
+     "A new set comes out every year on the day of the Vow, when the Trials of Ascension end and the new Bronzes swear. A full season is 120 cards: the Thirty at the top of the Ranking, the great companies and their ships, the year’s risers, the Lodges, and a handful of Great Deeds.",
+     "Cards are sold in a twist of paper, five for a Bit. Nobody knows what is in a twist until it is opened, which is the whole of the appeal."
+    ]
+   },
+   {
+    "title": "The borders",
+    "paragraphs": [],
+    "table": {
+     "caption": "What you might pull",
+     "headers": [
+      "Border",
+      "Who is on it",
+      "How often"
+     ],
+     "rows": [
+      [
+       "Plain paper",
+       "Bronzes, Lodges, and working Hunters",
+       "Most of every twist"
+      ],
+      [
+       "Copper-edged",
+       "A name people know",
+       "One or two in a twist"
+      ],
+      [
+       "Silver-edged",
+       "A great name or a great company",
+       "One twist in five"
+      ],
+      [
+       "Gilt",
+       "The same faces, in gold leaf",
+       "One twist in forty or so"
+      ],
+      [
+       "A silhouette",
+       "One of the Ten: a black shape and a number",
+       "Rarer than gilt"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Ten",
+    "paragraphs": [
+     "The Platinum Ten are secret, so their cards show a black silhouette and a number. Lactinius Windcaller, the only public Platinum, is the only one with a face. The silhouettes are redrawn every season, and people who study them are certain they mean something."
+    ]
+   },
+   {
+    "title": "Flip",
+    "paragraphs": [
+     "The game everyone plays. Each card carries three numbers from 1 to 9: Steel, Wit, and Luck."
+    ],
+    "list": [
+     "Each player turns over the top card of their own stack.",
+     "The loser of the last round calls which number counts. On the first round, the younger player calls.",
+     "The higher number takes both cards. A tie goes back under each stack.",
+     "First to win five rounds takes the game. Children play for keeps. Dockers play for Bits."
+    ]
+   },
+   {
+    "title": "The Full Season",
+    "paragraphs": [
+     "Anyone who shows a complete season at a Circle shop earns the Circle’s own patch, with the year stitched under it. It is one of the few patches a child can earn, and adults who have one will tell you it was harder than their Sigil."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "At the table, a twist is a Bit well spent: open one in the Adventurers section and see who you pulled.",
+     "A gilt card of a living Hunter is a fine gift for that Hunter’s company, and a finer bribe.",
+     "Play Flip with a dockside crew before you ask them anything. Lose the first game."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A child will trade the card you need for a favor only an adventurer can do.",
+     "A dead Hunter’s family wants every copy of one card bought up and burned. They will not say why.",
+     "A card in this season’s set shows a company that is on no Ledger. Somebody has started asking the Lodges about it.",
+     "A gambler lost a card at Flip that was not his to lose, and its owner is on the way."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "A twist costs the same as a fishbread, and in a hard week children choose the twist.",
+     "Titania’s card has been the top Gold for eight seasons running, and the plate is wearing out.",
+     "The Banestorm brothers share one card. They have asked for two every year and been refused."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a card from the season of 168 that shows the First of the Ten with a face. Three copies. The Circle says it was a printer’s joke, and has bought two of them back.” (a Goldwind card-dealer)",
+     "“Somebody’s been pulling a card that isn’t in the set. Plain border, no name, and the numbers on it are different every time you look.” (a dockside Flip player)"
+    ]
+   }
+  ],
+  "related": [
+   "inkers-circle",
+   "hunters",
+   "great-hunter-crews",
+   "hunter-companies",
+   "patches",
+   "trials-of-ascension",
+   "games-and-pastimes",
+   "titania-and-the-iron-swan",
+   "banestorm-brothers"
+  ],
+  "aliases": [
+   "Ranking card",
+   "Ranking cards",
+   "trading cards",
+   "collectible cards",
+   "Flip",
+   "twist",
+   "gilt card",
+   "Full Season"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {

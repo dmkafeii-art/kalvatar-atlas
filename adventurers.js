@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=9').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=10').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -144,7 +144,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -322,12 +322,54 @@ window.Adventurers = (() => {
   });
  }
 
+ /* Side quests: a twist of Ranking cards, a patch to earn, a hook, and a curiosity. */
+ const side = {twist: [], patch: null, hook: '', curio: '', pulled: 0};
+ const stat = (lo, hi) => lo + Math.floor(Math.random() * (hi - lo + 1));
+ function card() {
+  const c = data.sidequests.cards, r = Math.random();
+  const stats = (lo, hi) => ({steel: stat(lo, hi), wit: stat(lo, hi), luck: stat(lo, hi)});
+  if(r < .003) return {border: 'silhouette', label: t('A silhouette', 'Una silueta'), name: t('One of the Ten', 'Uno de los Diez') + ', No. ' + stat(1, 10), line: t('A black shape and a number. Nobody knows whose.', 'Una forma negra y un número. Nadie sabe de quién.'), ...stats(7, 9)};
+  if(r < .004) return {border: 'gilt', label: t('Gilt', 'Dorada'), name: c.face[0], line: c.face[1] + '. ' + c.face[2] + '.', ...stats(7, 9)};
+  if(r < .054) {const f = pick(c.famous), gilt = chance(.08); return {border: gilt ? 'gilt' : 'silver', label: gilt ? t('Gilt', 'Dorada') : t('Silver-edged', 'Borde de plata'), name: f[0], line: f[1] + '. ' + f[2] + '.', ...stats(5, 9)};}
+  if(r < .17) return {border: 'copper', label: t('Copper-edged', 'Borde de cobre'), name: pick(c.companies), line: t('A company of the Ranking.', 'Una compañía del Ranking.'), ...stats(4, 8)};
+  if(r < .23) return {border: 'copper', label: t('Copper-edged', 'Borde de cobre'), name: pick(c.deeds), line: t('A Great Deed.', 'Una Gran Hazaña.'), ...stats(3, 9)};
+  if(r < .31) {const l = pick(c.lodges); return {border: 'plain', label: t('Plain', 'Sencilla'), name: l[0].toUpperCase() + l.slice(1), line: t('A Lodge card.', 'Carta de Lodge.'), ...stats(2, 6)};}
+  const p = choosePeople(''), n = make(p, '', ''), silver = chance(.25);
+  return {border: silver ? 'copper' : 'plain', label: silver ? t('Copper-edged', 'Borde de cobre') : t('Plain', 'Sencilla'), name: n.name, line: `${silver ? 'Silver' : 'Bronze'} · ${pick(c.branches)} · ${pick(c.lodges)} · ${p.name}`, ...stats(1, silver ? 7 : 6)};
+ }
+ function twistHtml() {
+  if(!side.twist.length) return '';
+  return `<ol class="adv-cards">${side.twist.map(x => `<li class="adv-card adv-card-${x.border}"><span class="adv-card-kind">${h(x.label)}</span><strong>${h(x.name)}</strong><span class="adv-card-line">${h(x.line)}</span><span class="adv-card-stats">${t('Steel', 'Acero')} ${x.steel} · ${t('Wit', 'Ingenio')} ${x.wit} · ${t('Luck', 'Suerte')} ${x.luck}</span></li>`).join('')}</ol><p class="adv-note">${t('Twists opened here', 'Sobres abiertos aquí')}: ${side.pulled}. ${t('Each costs a Bit.', 'Cada uno cuesta un Bit.')}</p>`;
+ }
+ function patchHtml() {
+  const p = side.patch;
+  if(!p) return '';
+  return `<dl class="adv-out">${row(t('The place', 'El lugar'), h(p.place))}${row(t('The patch', 'El parche'), h(p.design))}${row(t('First stitch by', 'Primera puntada'), h(p.giver))}</dl><p class="adv-roll">${t('To earn it', 'Para ganarlo')}: ${h(p.deed)}.</p><p class="adv-note">${h(p.catch)}</p>`;
+ }
+ function renderSide() {
+  const q = data.sidequests;
+  frame('side', `<p class="adv-lead">${t('Small things to chase in any port. None of them needs a villain.', 'Cosas pequeñas que perseguir en cualquier puerto. Ninguna necesita un villano.')}</p>
+  <section class="adv-panel adv-shop"><h2>${t('Open a twist', 'Abre un sobre')}</h2><p class="adv-hint">${t('Five Ranking cards for a Bit. Play Flip with what you pull: turn a card each, call a number, higher takes both.', 'Cinco Ranking cards por un Bit. Juega Flip con lo que saques: cada uno voltea una carta, se canta un número, el mayor se lleva las dos.')} <a href="#entry/ranking-cards">${t('About the cards', 'Sobre las cartas')}</a></p><div class="pack-actions"><button type="button" class="button" id="sq-twist">${t('Open one', 'Abrir uno')} <span aria-hidden="true">✦</span></button></div><div id="sq-cards" aria-live="polite">${twistHtml()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('A patch to earn', 'Un parche por ganar')}</h2><p class="adv-hint">${t('Every port has one waiting.', 'Todo puerto tiene uno esperando.')} <a href="#entry/patches">${t('About patches', 'Sobre los parches')}</a></p><div class="pack-actions"><button type="button" class="button" id="sq-patch">${t('Find one', 'Encontrar uno')} <span aria-hidden="true">✦</span></button></div><div id="sq-patch-out" aria-live="polite">${patchHtml()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('Something is going on', 'Algo está pasando')}</h2><p class="adv-hint">${t('A hook for tonight.', 'Un gancho para esta noche.')}</p><div class="pack-actions"><button type="button" class="button" id="sq-hook">${t('What is the talk?', '¿Qué se dice?')} <span aria-hidden="true">✦</span></button></div><p class="adv-roll" id="sq-hook-out" aria-live="polite"${side.hook ? '' : ' hidden'}>${h(side.hook)}</p></section>
+  <section class="adv-panel adv-shop"><h2>${t('Did you know?', '¿Sabías que?')}</h2><div class="pack-actions"><button type="button" class="button cream" id="sq-curio">${t('Tell me something', 'Cuéntame algo')} <span aria-hidden="true">✦</span></button></div><p class="adv-roll" id="sq-curio-out" aria-live="polite"${side.curio ? '' : ' hidden'}>${h(side.curio)}</p></section>
+  ${window.Pack2?.language === 'es' ? '<p class="adv-hint">Las cartas, parches, ganchos y curiosidades salen en inglés por ahora.</p>' : ''}`);
+  $('#sq-twist').addEventListener('click', () => {side.twist = [card(), card(), card(), card(), card()]; side.pulled++; $('#sq-cards').innerHTML = twistHtml();});
+  $('#sq-patch').addEventListener('click', () => {
+   const x = q.patch, a = pick(x.motif); let b = pick(x.motif); while(b === a) b = pick(x.motif);
+   side.patch = {place: pick(x.place), design: `${a} ${t('and', 'y')} ${b}, ${t('on', 'sobre')} ${pick(x.color)}`, deed: pick(x.deed), giver: pick(x.giver), catch: pick(x.catch)};
+   $('#sq-patch-out').innerHTML = patchHtml();
+  });
+  const say = (btn, out, key, list) => $('#' + btn).addEventListener('click', () => {let v = pick(list); while(v === side[key] && list.length > 1) v = pick(list); side[key] = v; const el = $('#' + out); el.hidden = false; el.textContent = v;});
+  say('sq-hook', 'sq-hook-out', 'hook', q.hooks); say('sq-curio', 'sq-curio-out', 'curio', q.curios);
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;

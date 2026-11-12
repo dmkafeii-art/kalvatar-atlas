@@ -5870,5 +5870,275 @@
    ]
   ]
  },
+ "sidequests": {
+  "cards": {
+   "famous": [
+    [
+     "Titania",
+     "Captain of the Iron Swan",
+     "Gold, eleventh in the Ranking"
+    ],
+    [
+     "Reinhardt Holst",
+     "Retribution’s Wrath",
+     "Gold, seventeenth in the Ranking"
+    ],
+    [
+     "Albion Tempest",
+     "First Mate of the Crimson Tide",
+     "Gold"
+    ],
+    [
+     "Captain Bramgard",
+     "The Crimson Tide",
+     "He sank the Gaze of Abyss"
+    ],
+    [
+     "Johann Faust",
+     "Captain of the Jubilant",
+     "The Gate of the North"
+    ],
+    [
+     "Uther and Gunther Banestorm",
+     "The Rolling Thunder",
+     "One card, two captains"
+    ],
+    [
+     "Khaz’Aimar Maa’iq",
+     "Captain of The Last Word",
+     "A contract the Board can close"
+    ],
+    [
+     "Sandros Magnus",
+     "Mage-captain of the Zephyr",
+     "The mage at the helm"
+    ],
+    [
+     "Avalan Grant",
+     "Captain and ringmaster of the Karnivool",
+     "A Hunters’ ship and a traveling show"
+    ],
+    [
+     "Emri",
+     "Hunter of the Sunlit courts",
+     "The sea’s most famous face"
+    ]
+   ],
+   "face": [
+    "Lactinius Windcaller",
+    "Platinum, of the Ten",
+    "The only one with a face"
+   ],
+   "companies": [
+    "The Crimson Tide",
+    "The Jubilant",
+    "The Rolling Thunder",
+    "The Last Word",
+    "The Zephyr",
+    "The Karnivool",
+    "Retribution’s Wrath",
+    "The Iron Swan",
+    "The Gilded Wake",
+    "The Golden Wings"
+   ],
+   "lodges": [
+    "the Goldwind Lodge",
+    "the Hunters’ Citadel at Ironfort",
+    "the Jakupur Lodge",
+    "the Frosthold Lodge",
+    "the Varan Lodge"
+   ],
+   "deeds": [
+    "The Charge at the Kraken’s Maw",
+    "The Vow",
+    "The Shedding of the Iron",
+    "The Charter Match",
+    "The Houndsmoot",
+    "The Trials of Ascension"
+   ],
+   "branches": [
+    "Mage",
+    "Scout",
+    "Diplomat",
+    "Warrior"
+   ]
+  },
+  "patch": {
+   "place": [
+    "a cookshop",
+    "a bathhouse",
+    "a harbor inn",
+    "a teahouse",
+    "a lighthouse",
+    "a ferry",
+    "a shipyard",
+    "a temple",
+    "a night market",
+    "a stillhouse",
+    "a Lodge",
+    "a village festival",
+    "a boat-builder’s yard",
+    "a hill shrine",
+    "a fishing cooperative",
+    "a traveling show"
+   ],
+   "color": [
+    "red",
+    "sea-green",
+    "black",
+    "gold",
+    "white",
+    "indigo",
+    "copper",
+    "grey",
+    "sky-blue",
+    "orange"
+   ],
+   "motif": [
+    "a lampet",
+    "an anchor",
+    "a kettle",
+    "a crab",
+    "a lantern",
+    "a whale’s tail",
+    "a kite",
+    "a bell",
+    "a fish on a hook",
+    "a goat",
+    "a spoon",
+    "two crossed oars",
+    "a wave",
+    "a star",
+    "a key",
+    "a tortoise"
+   ],
+   "deed": [
+    "finish the house’s great bowl, alone, before the bell",
+    "win at the local game against the house champion",
+    "bring back something the place lost years ago",
+    "work a full Coinsday there, unpaid, without complaining",
+    "carry a load from the harbor to the door without setting it down",
+    "be first on the worst-hit roof after the next storm",
+    "make the owner laugh, which has not happened this year",
+    "swim to the marker and back at slack water",
+    "sing the house song, all nine verses, to a full room",
+    "stay awake through the night watch and name every ship that passed",
+    "settle a quarrel between two regulars so that both stay",
+    "cook the dish better than the cook, by the cook’s own judgment",
+    "find the place by its directions alone, without asking anyone",
+    "bring a guest who has never been there and who comes back on their own",
+    "mend something that three others have failed to mend",
+    "beat the standing record, which is chalked above the door",
+    "drink the house kellum and then walk the rail",
+    "do the town a service the town agrees was a service",
+    "return a patch you saw worn on borrowed thread",
+    "lose gracefully to the oldest person in the room"
+   ],
+   "giver": [
+    "the owner’s grandmother",
+    "the cook",
+    "the youngest child of the house",
+    "the regular who has been there longest",
+    "the harbor-master",
+    "whoever earned it last",
+    "the owner, who has to be woken",
+    "a Tidecaller",
+    "the Lodge’s Quartermaster",
+    "nobody will say until you have done it"
+   ],
+   "catch": [
+    "Someone else is trying for it this week, and is not a good loser.",
+    "The last person who earned it has not been seen since.",
+    "It has been earned only four times in thirty years.",
+    "The deed changed last season, and nobody agrees what it is now.",
+    "A forger is selling copies down the coast, and the place is furious.",
+    "The Inkers never registered it. It is on the Roll and not in the book.",
+    "It can only be attempted on a Restday.",
+    "The patch is tiny. That is on purpose.",
+    "Half the town thinks the deed is unfair, and will tell you so at length.",
+    "A great name wears one, and is said to have cheated."
+   ]
+  },
+  "hooks": [
+   "A harbor’s Returning Cups have all been found turned up on the same morning. Nobody is due home.",
+   "A hush owl has gone quiet in a house where nobody has died.",
+   "A homeward snail is pointing at a place that is not on any chart.",
+   "A ferry-turtle has refused the crossing for the first time in forty years.",
+   "The chalk tide on the harbor steps was a hand higher this morning than the sea was.",
+   "A Lodge has posted a contract with no name on it and the highest purse of the year.",
+   "A mirror plover has started speaking in a voice its family does not know.",
+   "A vault goose will not stop screaming at one particular crate.",
+   "Someone has paid your first bread in this port, and left a note with the innkeeper.",
+   "A coast that always answers the lantern went dark last night, every house at once.",
+   "A master has signed a blade and then asked for it back, in a panic.",
+   "A company wants a witness for a deed nobody will believe.",
+   "A child has found a card that is not in the set and will not sell it.",
+   "The Tidecallers have sung the pact twice this season. They do that when the first singing was not heard.",
+   "A tax-collector went up the Slowwater and has sent back a letter saying he is staying.",
+   "A herd of ivory-kin has stopped on the road and will not say what it is waiting for.",
+   "A centaur herd is running the wrong way round its circuit.",
+   "A cat-kin with one life left wants an escort to somewhere very safe.",
+   "A kalashtar woke up owing a debt to someone they met on a road in the Roam.",
+   "A warforged has remembered what a ruin was for, and wants company when it goes back.",
+   "The Quiet Auction has sent a black pearl to someone at your table.",
+   "A door coin is missing from a lintel, and the house’s luck has turned.",
+   "A pilot family has changed its bearings through the Serpent’s Coil and will not say why.",
+   "Something has been tending the Whalefall Gardens at low water.",
+   "A Bogborn family moved in a day, roost and all. They counted one island too many.",
+   "A guide will take you along the edge of the Bonewilds, and asks only that you carry something out for her.",
+   "A salvage crew at the Kraken’s Maw has brought up a strongbox that hums.",
+   "The Veil of Shadows has added a new mask to the play, and half of Goldwind thinks it knows who it is.",
+   "A Pocchin caravan has lost a recipe, which is to say a rival has found one.",
+   "A promise-dove has come home alone.",
+   "A stud-farm’s best colt has been sold to a buyer nobody saw arrive.",
+   "A Snowvah guide stopped a full post short this year and would not say what had changed.",
+   "Reefpurple has vanished from every dye-works on the coast in one Cycle.",
+   "A drowned sailor ransomed home for a day has asked not to go back.",
+   "A Lodge hound has come home alone.",
+   "A patcher is three days from the last blank on her coat and needs someone to get her there."
+  ],
+  "curios": [
+   "A Bit buys a fishbread, a saltknot, a mug of small ale, or a cup of brightleaf.",
+   "A laborer earns three Bits a day. An Anchor is their month, and an Orsal is their year.",
+   "A soldier’s sword costs fifteen Anchors: more than a year of a field hand’s life.",
+   "The week is ten days long and is called a Cycle. It never starts over, not even for the Still Days.",
+   "The Still Days are five days that belong to no god. Debts pause, courts close, and every fae bargain comes due.",
+   "Never whistle for wind aboard ship. It brings too much.",
+   "The first drop of every bottle opened at sea goes over the rail.",
+   "Greet the sea-folk in song. Any song will do. Effort counts.",
+   "Bare cold iron is an insult to the sea-folk. Wrap it or leave it in the boat.",
+   "About one Kalvatari in forty depends on a sea-pact.",
+   "The Iron Swan is the only steamship in the world, and no Council has dared put a price on her captain.",
+   "Only three hundred irons are struck in a year, and you need one to sit the Trials.",
+   "Every Hunter’s Sigil is forged in one place: the Sigil-Forge of the Goldwind Lodge.",
+   "A Sigil carried by anyone but its bearer makes them ill. None of it kills.",
+   "The battle of the Kraken’s Maw lasted sixteen hours.",
+   "The Old Shells answer three questions in a generation, and nobody can predict which three.",
+   "The Veil of Shadows has played the same play every night for about a hundred and forty years.",
+   "The Council’s mint has twice bought back the Mint-in-the-Mire’s false Anchors by mistake.",
+   "By custom, only Council seats and the Concord’s high clergy wear reefpurple.",
+   "A Tarvan horn-bow costs fifty Anchors, and no guild makes it.",
+   "Sporrn salve heals in days what takes weeks, and costs three Tides a pot.",
+   "Knot-speech, the tongue of the Below, has no names in it at all.",
+   "A mirror plover must spend one full year with its person before it speaks.",
+   "Vault geese guard the Reckoners’ Hall, and cannot be bribed.",
+   "The Pocchin cheat at Nine Ports. Everyone knows, and everyone plays them anyway.",
+   "Tidecall has no clock. The match ends when the tide reaches the callstone.",
+   "The great match of the year is the Charter Match: the Armada against the Hunters.",
+   "Every guest at a Vorthani monastery carries one stone somewhere before leaving. Half the walls were built by strangers.",
+   "In Snowvah you pay for your meal before you eat it.",
+   "A cat-kin’s byname is the number of lives they have left.",
+   "Nobody rides a centaur. The few who were carried were carried once, as a debt.",
+   "An ivory-kin carries one memory for the whole herd, and wears it as a name.",
+   "The water of the Slowwater rises and falls twice a day, and no tide reaches it.",
+   "A patch can’t be bought. A card can. Islanders are very clear on the difference.",
+   "A company with a ship takes the ship’s name, and paints its old one small on the stern board.",
+   "Proof make carries a guild stamp. Harbor make costs a tenth as much and fails when it matters.",
+   "A scribe charges a Bit a page.",
+   "Whoever sheltered with you through a Long Night is kin for life.",
+   "A cup hung upside down in an island kitchen belongs to someone who is at sea.",
+   "The Banestorm brothers share one Ranking card and have asked for two every year."
+  ]
+ },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }

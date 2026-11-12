@@ -2386,5 +2386,53 @@
    "hunter-companies",
    "hunters"
   ]
+ },
+ {
+  "id": "rumor-ten-with-a-face",
+  "text": "A Ranking card from the season of 168 shows the First of the Ten with a face. Three copies exist, and the Inkers have bought two of them back.",
+  "heardAt": "heard among Goldwind card-dealers",
+  "region": "Central Heartland",
+  "entries": [
+   "ranking-cards",
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-pattern-book-first-page",
+  "text": "The oldest entry in the Inkers' Pattern-Book is numbered two. Somebody registered a patch before there was a book.",
+  "heardAt": "heard in a Circle shop",
+  "region": "All regions",
+  "entries": [
+   "inkers-circle",
+   "patches"
+  ]
+ },
+ {
+  "id": "rumor-card-not-in-set",
+  "text": "Somebody keeps pulling a Ranking card that is not in the set: plain border, no name, and the numbers change every time you look.",
+  "heardAt": "heard at a dockside game of Flip",
+  "region": "All regions",
+  "entries": [
+   "ranking-cards"
+  ]
+ },
+ {
+  "id": "rumor-full-coat-hollowkey",
+  "text": "The full coat, with all nine hard patches, hangs on a wall in Hollowkey. The ninth patch on it is not the Black.",
+  "heardAt": "heard late at the Artisans' Faire",
+  "region": "All regions",
+  "entries": [
+   "patchwork",
+   "hollowkey"
+  ]
+ },
+ {
+  "id": "rumor-still-days-press",
+  "text": "A press in the Goldwind shop of the Inkers' Circle runs by itself on the Still Days. They lock the room.",
+  "heardAt": "heard from a paper-carrier",
+  "region": "Central Heartland",
+  "entries": [
+   "inkers-circle"
+  ]
  }
 ]

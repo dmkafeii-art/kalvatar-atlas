@@ -137,7 +137,8 @@ function renderArticleSection(s,i,current){
   const t=s.table;
   body+='<div class="article-table-wrap" role="region" aria-label="'+esc(t.caption)+'" tabindex="0"><table class="article-table"><caption>'+esc(t.caption)+'</caption><thead><tr>'+t.headers.map(h=>'<th scope="col">'+esc(h)+'</th>').join('')+'</tr></thead><tbody>'+t.rows.map(row=>'<tr>'+row.map((cell,j)=>j===0?'<th scope="row">'+linkify(cell,current)+'</th>':'<td>'+linkify(cell,current)+'</td>').join('')+'</tr>').join('')+'</tbody></table></div>';
  }
- return '<section id="article-section-'+i+'"><h2>'+esc(s.title)+'</h2>'+body+'</section>';
+ const box={'Adventure hooks':'hooks','Tips':'tips','Did you know?':'curio','Ganchos de aventura':'hooks','Consejos':'tips','¿Sabías que?':'curio'}[s.title];
+ return '<section id="article-section-'+i+'"'+(box?' class="article-box article-box-'+box+'"':'')+'><h2>'+esc(s.title)+'</h2>'+body+'</section>';
 }
 function renderArticle(id){
  const e=byId[id];if(!e){renderNotFound();return}if(!Pack2.canRead(id)){Pack2.renderLocked();return}const categoryHref=e.category==='folk'?NotableFolk.returnHref(e):e.foeParent?'#entry/'+e.foeParent:'#category/'+e.category;setNavigation(e.category);$('#breadcrumb').innerHTML=`<a href="#">The world</a><span>/</span><a href="${esc(categoryHref)}">${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name}</a><span>/</span>${esc(e.title)}`;
@@ -256,8 +257,8 @@ function applyEntryIllustrations(entries) {
  }
 }
 (async()=>{try{
- const response=await fetch('entries.json?v=29');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();applyEntryIllustrations(input);entries=await Pack2.prepare(input);await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
- const optional=async name=>{try{const r=await fetch(name+'?v=29');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
+ const response=await fetch('entries.json?v=30');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();applyEntryIllustrations(input);entries=await Pack2.prepare(input);await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
+ const optional=async name=>{try{const r=await fetch(name+'?v=30');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
  [rumors,timeline]=await Promise.all([optional('rumors.json'),optional('timeline.json')]);
  for(const e of entries)e.searchText=fold([e.title,e.summary,e.subtitle,e.region,categories[e.category].name,...(e.aliases||[]),...e.sections.flatMap(s=>[s.title,...(s.paragraphs||[]),...(s.list||[]),...(s.table?[s.table.caption,...s.table.headers,...s.table.rows.flat()]:[])]),...e.facts.flat(),creatureKinds[e.creatureKind]||''].join(' '));
  saved=new Set([...saved].filter(id=>byId[id]));buildAliases();renderMainNavigation();Pack2.nav();updateSavedCount();route();
