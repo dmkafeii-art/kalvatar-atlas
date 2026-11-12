@@ -42779,7 +42779,8 @@
    {
     "title": "Front and back",
     "paragraphs": [
-     "The front of a card has an engraved portrait, the name, and three numbers. The back has a short life in a few lines: who they are, what they are known for, and one thing the Circle thought people would repeat. Half the islands know their heroes from the backs of cards.",
+     "The front of a card has everything: an engraved portrait, the name, three numbers, and a short life in a few lines. Who they are, what they are known for, and one thing the Circle thought people would repeat. Half the islands know their heroes from their cards.",
+     "Every back is the same: the Circle’s mark, a ring of ink with a quill through it. So any cards can be shuffled together, from any season, and everyone who plays builds a deck of their own.",
      "Hunters do not write their own. Several have tried to have theirs changed, and the Circle’s answer is always that the next season is a new card."
     ]
    },
@@ -42834,9 +42835,10 @@
      "The game everyone plays. Each card carries three numbers from 1 to 9: Steel, Wit, and Luck."
     ],
     "list": [
-     "Each player turns over the top card of their own stack.",
+     "Each player brings a deck of their own cards, shuffled, face down. All backs are alike, so nobody knows what is coming.",
+     "Each player turns over the top card of their own deck.",
      "The loser of the last round calls which number counts. On the first round, the younger player calls.",
-     "The higher number takes both cards. A tie goes back under each stack.",
+     "The higher number takes both cards. A tie goes back under each deck.",
      "First to win five rounds takes the game. Children play for keeps. Dockers play for Bits."
     ]
    },
