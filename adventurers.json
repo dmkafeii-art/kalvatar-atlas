@@ -5632,5 +5632,243 @@
    ]
   ]
  },
+ "downtime": {
+  "learn": [
+   {
+    "id": "tongue",
+    "name": "A standard tongue",
+    "cycles": 10,
+    "min": 4,
+    "fee": 1,
+    "alone": true,
+    "note": "A teacher of a standard tongue costs about 1 Anchor a Cycle in any good port. Living among speakers is free and takes twice as long. After one Cycle among speakers you have a smattering."
+   },
+   {
+    "id": "rare",
+    "name": "A rare tongue",
+    "cycles": 10,
+    "min": 4,
+    "fee": 5,
+    "alone": true,
+    "note": "A teacher of a rare tongue costs more, if one can be found at all, and finding one can be an adventure. Druidic and the Fogrunners’ codes are never taught to outsiders."
+   },
+   {
+    "id": "tool",
+    "name": "A tool, instrument, gaming set, or vehicle",
+    "cycles": 10,
+    "min": 4,
+    "fee": 3,
+    "note": "Under a guild journeyman or master. The guild will want to know why."
+   },
+   {
+    "id": "weapon",
+    "name": "A weapon",
+    "cycles": 10,
+    "min": 10,
+    "fee": 3,
+    "flat": true,
+    "note": "One weapon, with a drill-master. Armor training comes only from feats and classes."
+   },
+   {
+    "id": "skill",
+    "name": "A skill",
+    "cycles": 20,
+    "min": 12,
+    "fee": 5,
+    "note": "With a teacher who has it. One skill in each tier of play."
+   },
+   {
+    "id": "origin",
+    "name": "An Origin feat",
+    "cycles": 30,
+    "min": 30,
+    "fee": 10,
+    "flat": true,
+    "note": "With a master who has the feat, and a deed the master sets at the end. One Origin feat this way, ever."
+   },
+   {
+    "id": "prepare",
+    "name": "Preparing for a General or heritage feat",
+    "cycles": 10,
+    "min": 10,
+    "fee": 10,
+    "flat": true,
+    "note": "A General feat is never bought: it comes with levels. After this training you may take the feat at your next one even if you lack a prerequisite other than level."
+   }
+  ],
+  "work": [
+   [
+    "Field hand, laborer, net-mender",
+    "3 Bits a day",
+    "1 string (30 Bits)"
+   ],
+   [
+    "Longshore porter",
+    "4 to 5 Bits a day",
+    "about 4 Tides"
+   ],
+   [
+    "Deckhand",
+    "1 Anchor a month, found",
+    "about 3 Tides, and your keep"
+   ],
+   [
+    "Town watch",
+    "1½ Anchors a month",
+    "5 Tides"
+   ],
+   [
+    "Journeyman of a craft",
+    "2 Anchors a month",
+    "about 7 Tides"
+   ],
+   [
+    "Clerk or scribe",
+    "3 Anchors a month",
+    "1 Anchor"
+   ],
+   [
+    "Guide who knows the country",
+    "5 Bits to 1 Tide a day",
+    "up to 1 Anchor; double in the deep green or on the ice"
+   ],
+   [
+    "Registered caster, a first-circle working",
+    "10 Anchors a working",
+    "as many as you can find buyers for"
+   ],
+   [
+    "Hunter, a Board contract",
+    "by the contract",
+    "less the Lodge’s tithe of one Anchor in ten"
+   ]
+  ],
+  "living": [
+   [
+    "A share of a room and a laborer’s table",
+    "about 1 Anchor a month"
+   ],
+   [
+    "A room of your own and a journeyman’s table",
+    "about 2 to 3 Anchors a month"
+   ],
+   [
+    "Goldwind",
+    "a third more for everything"
+   ]
+  ],
+  "ideas": [
+   [
+    "Earn a patch",
+    "Find out what this town is proudest of, and do it. Leave with the first stitch.",
+    "patches"
+   ],
+   [
+    "Sign a company",
+    "Go to the Lodge with the people you trust, choose a name, and sign the line.",
+    "hunter-companies"
+   ],
+   [
+    "Take a Board contract",
+    "Legal, modestly paid, and it goes in the Ledger of Deeds.",
+    "hunters"
+   ],
+   [
+    "Sit the Registry’s examination",
+    "A day and 10 Anchors, and you leave with your copper rings.",
+    "arcane-registry"
+   ],
+   [
+    "Commission a signed work",
+    "Find a guild master, agree a price, and come back in a few Cycles.",
+    "signed-works"
+   ],
+   [
+    "Make something",
+    "The Workshop works out the days and the coin.",
+    null
+   ],
+   [
+    "Learn the local game",
+    "Tidecall on the beach, Nine Ports in the tavern, the Haul on the docks.",
+    "games-and-pastimes"
+   ],
+   [
+    "Win a companion’s trust",
+    "Every small beast of the islands has its own way of being won.",
+    "lampet"
+   ],
+   [
+    "Keep a custom",
+    "Pay a stranger’s first bread. Mend the worst roof. Leave a coin on a new lintel.",
+    "first-bread"
+   ],
+   [
+    "Enter the festival",
+    "Find out what the port is celebrating this month, and enter something.",
+    "calendar"
+   ],
+   [
+    "Ask at the University",
+    "A question, a fee, and a Cycle in the stacks.",
+    "university"
+   ],
+   [
+    "Ransom the drowned",
+    "A pearl and a song at a pact-port, for one day with someone the sea took.",
+    "grey-fathoms"
+   ],
+   [
+    "Go to temple",
+    "A Restday at the Concord: the tidecall, the long meal, and whatever you came to say.",
+    "gods-of-the-pantheon"
+   ],
+   [
+    "Collect the season’s cards",
+    "Five Ranking cards for a Bit. Find out who the port is cheering for.",
+    "patches"
+   ],
+   [
+    "Run an errand for the Undertow",
+    "It pays double. It costs standing if it surfaces.",
+    "undertow"
+   ],
+   [
+    "Sit a night watch",
+    "Every harbor needs one more pair of eyes, and the watch hears everything first.",
+    "jobs-and-wages"
+   ],
+   [
+    "Mend and refit",
+    "Sails, harness, armor. A Cycle in port is when the kit gets its due.",
+    "crafts-and-guilds"
+   ],
+   [
+    "Hear the rumors",
+    "Buy a round, sit near the door, and count how many versions there are.",
+    null
+   ],
+   [
+    "Hunt for a set",
+    "Somebody in this port has seen a Watch, an Ember, or an Hour. Find out who.",
+    "signed-works"
+   ],
+   [
+    "Winter with someone",
+    "Shelter together through a storm-season, and you are kin for life.",
+    "winter-kin"
+   ],
+   [
+    "Write home",
+    "A scribe is a Bit a page. A promise-dove is faster.",
+    "promise-doves"
+   ],
+   [
+    "Rest properly",
+    "A pot of Sporrn salve is 3 Tides and heals in days what takes weeks.",
+    "sporrn"
+   ]
+  ]
+ },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }

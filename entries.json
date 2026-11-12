@@ -41632,7 +41632,7 @@
    {
     "title": "Colors and sponsors",
     "paragraphs": [
-     "Every company has a patch of its own design, worn on the back or the left shoulder. A Hunter wears one company’s colors at a time.",
+     "Every company has a patch of its own design, worn on the back or the left shoulder. A Hunter wears one company’s colors at a time. A famous company also gives a favor: a smaller cut of its colors, handed to an outsider who did the company a real service.",
      "The public Ranking follows companies as closely as it follows Hunters. Houses and firms sponsor them like racing stables, and a sponsor’s mark is sewn below the colors."
     ]
    },
@@ -41690,6 +41690,14 @@
     "earning it; a patch can’t be bought"
    ],
    [
+    "Given by",
+    "places, companies, and famous people"
+   ],
+   [
+    "Registered by",
+    "the Inkers’ Circle"
+   ],
+   [
     "Home port",
     "over the heart"
    ],
@@ -41704,6 +41712,13 @@
     "paragraphs": [
      "Every place of note in the islands has a patch: ports, Lodges, temples, festivals, and any inn, bathhouse, or cookshop that wants to be talked about. The design is the place’s own, and nobody else may stitch it.",
      "It is one of the most popular customs in Kalvatar. Children start with their home port. Old sailors run out of coat."
+    ]
+   },
+   {
+    "title": "People have them too",
+    "paragraphs": [
+     "Patches are not only for places. A famous company gives its favor, a smaller cut of its colors, to an outsider who did it a real service. Ranked Hunters, champions, captains, and stage-singers have a personal patch, called a mark, and give it by hand to someone who sailed with them, beat them fairly, or did them a kindness.",
+     "A mark from one of the great names is worth more on a coat than most ports, and people have crossed the islands for the chance to earn one."
     ]
    },
    {
@@ -41780,6 +41795,16 @@
        "Close a contract posted on its Board"
       ],
       [
+       "A company’s favor",
+       "From the company itself",
+       "Do it a real service, as an outsider"
+      ],
+      [
+       "A great name’s mark",
+       "From their own hand",
+       "Sail with them, beat them fairly, or do them a kindness"
+      ],
+      [
        "The worst roof",
        "Any street, after a storm",
        "Be first on the worst-hit roof. The street decides"
@@ -41788,9 +41813,16 @@
     }
    },
    {
-    "title": "Makers and fakes",
+    "title": "The Inkers and the cards",
     "paragraphs": [
-     "The Weavers’ Guild keeps the pattern-books and stitches a place’s patches for a fee, but hands them only to the place. Forged patches come out of Duskmire with the false coin. A forger caught with a Lodge’s colors answers to the Lodge."
+     "Lodges and companies have worn colors for generations, but the craze is about fifteen years old. The Inkers’ Circle, the guild that prints the broadsheets, began registering designs for inns and festivals, and within a few seasons every place that wanted visitors had one. The Circle keeps the Pattern-Book, where each design is registered for an Anchor so that no two are alike. The Weavers stitch to its patterns and hand the patches only to their owner.",
+     "The Circle’s other craze is Ranking cards: printed cards of ranked Hunters and their companies, a new set every season, sold in paper twists of five for a Bit. Children trade them and dockers gamble with them. Cards are bought. Patches never are."
+    ]
+   },
+   {
+    "title": "Fakes",
+    "paragraphs": [
+     "Forged patches come out of Duskmire with the false coin. A forger caught with a Lodge’s colors answers to the Lodge."
     ]
    },
    {
@@ -41823,7 +41855,11 @@
    "patch",
    "patches",
    "borrowed thread",
-   "a blank"
+   "a blank",
+   "Ranking cards",
+   "Pattern-Book",
+   "favor",
+   "mark"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {

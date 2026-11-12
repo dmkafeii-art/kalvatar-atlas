@@ -53,3 +53,6 @@
 .adventurers .adv-roll{font:16px/1.6 var(--serif);color:var(--ink);border-left:3px solid var(--gold);padding:6px 0 6px 12px;margin:10px 0}
 .adv-inline{display:flex;align-items:center;gap:10px;margin:0}
 .adv-inline select{width:auto}
+.adv-shop .adv-results{grid-template-columns:1fr;margin-top:14px}
+.adv-shop .adv-results li{background:transparent}
+.adventurers .adv-shop h3{font:normal 20px/1.3 var(--serif);margin:18px 0 6px}
