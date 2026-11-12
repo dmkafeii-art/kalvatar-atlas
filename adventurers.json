@@ -5961,6 +5961,55 @@
     "Scout",
     "Diplomat",
     "Warrior"
+   ],
+   "bios": {
+    "Titania": "Captain of the Iron Swan, the only steamship in the world. She has been the top Gold of the Ranking for eight years, and no Council has dared put a price on her.",
+    "Reinhardt Holst": "Captain of Retribution’s Wrath. Disinherited by House Holst, and the youngest Gold in the Ranking.",
+    "Albion Tempest": "A Frost Elf, and First Mate of the Crimson Tide. He wears a patch over an eye that still sees.",
+    "Captain Bramgard": "Captain of the Crimson Tide. At the Kraken’s Maw his crew breached and sank the Gaze of Abyss, at terrible cost.",
+    "Johann Faust": "Captain of the Jubilant, of House Faust. At the Kraken’s Maw his ship held the Coalition’s line together.",
+    "Uther and Gunther Banestorm": "Co-captains of the Rolling Thunder. They share one deck, one card, and every argument.",
+    "Khaz’Aimar Maa’iq": "Captain of The Last Word. If the Board posts it, he can close it.",
+    "Sandros Magnus": "The mage-captain of the Zephyr. He steers by spell as often as by wheel.",
+    "Avalan Grant": "Captain and ringmaster of the Karnivool, which is a Hunters’ ship and a traveling show at once.",
+    "Emri": "A Hunter of the Sunlit courts, and the sea-folk’s most famous face on the surface.",
+    "Lactinius Windcaller": "The only one of the Platinum Ten whose name is known. He sits for the Hunters on the Council."
+   },
+   "known": [
+    "Closed nine Board contracts in a single season",
+    "Held a harbor gate alone until the tide turned",
+    "Pulled six sailors off a wreck in a gale",
+    "Has never lost a client on an escort",
+    "Tracked a quietfang for eleven days",
+    "Mapped a reef that nobody else would sail",
+    "Brought a wyvern’s sting back to the Lodge on a bet",
+    "Walked the edge of the Bonewilds by the rite, twice",
+    "Talked a Pocchin caravan down in price, which is in the Ledger as a deed",
+    "Found a ferry-turtle that had been missing for a year",
+    "Stood the night watch at Snowvah for a whole winter",
+    "Swam half of Malim’s Stair and is honest about which half",
+    "Carried a wounded Hunter forty miles to a Lodge",
+    "Returned a stolen Sigil to its bearer and refused the reward",
+    "Won the Chowder Pot and will not share the recipe",
+    "Dived the Kraken’s Maw and came up with nothing but the story"
+   ],
+   "quirk": [
+    "Eats a fishbread before every contract.",
+    "Has one blank left on the coat.",
+    "Writes home every Coinsday.",
+    "Will not sail on a Graveday.",
+    "Owes a Tarvan a horse.",
+    "Sings to the sea-folk, badly, and they like it.",
+    "Keeps a lantern mouse in the left pocket.",
+    "Is afraid of vault geese.",
+    "Still carries the iron of the Hunter who vouched for them.",
+    "Has never once won at Nine Ports.",
+    "Collects door coins from houses that are no longer standing.",
+    "Names every boat, even borrowed ones.",
+    "Laughs before the fight and not after.",
+    "Asked the Circle for a better portrait and was refused.",
+    "Can sleep anywhere, and has proved it.",
+    "Counts aloud in Deck-sign when nervous."
    ]
   },
   "patch": {
@@ -6057,6 +6106,546 @@
     "The patch is tiny. That is on purpose.",
     "Half the town thinks the deed is unfair, and will tell you so at length.",
     "A great name wears one, and is said to have cheated."
+   ]
+  },
+  "treasure": {
+   "xp": [
+    [
+     50,
+     75,
+     100
+    ],
+    [
+     100,
+     150,
+     200
+    ],
+    [
+     150,
+     225,
+     400
+    ],
+    [
+     250,
+     375,
+     500
+    ],
+    [
+     500,
+     750,
+     1100
+    ],
+    [
+     600,
+     1000,
+     1400
+    ],
+    [
+     750,
+     1300,
+     1700
+    ],
+    [
+     1000,
+     1700,
+     2100
+    ],
+    [
+     1300,
+     2000,
+     2600
+    ],
+    [
+     1600,
+     2300,
+     3100
+    ],
+    [
+     1900,
+     2900,
+     4100
+    ],
+    [
+     2200,
+     3700,
+     4700
+    ],
+    [
+     2600,
+     4200,
+     5400
+    ],
+    [
+     2900,
+     4900,
+     6200
+    ],
+    [
+     3300,
+     5400,
+     7800
+    ],
+    [
+     3800,
+     6100,
+     9800
+    ],
+    [
+     4500,
+     7200,
+     11700
+    ],
+    [
+     5000,
+     8700,
+     14200
+    ],
+    [
+     5500,
+     10700,
+     17200
+    ],
+    [
+     6400,
+     13200,
+     22000
+    ]
+   ],
+   "tiers": [
+    {
+     "to": 4,
+     "base": 10,
+     "grade": "A charm",
+     "magic": [
+      5,
+      10,
+      20
+     ]
+    },
+    {
+     "to": 10,
+     "base": 60,
+     "grade": "A lesser working",
+     "magic": [
+      10,
+      20,
+      35
+     ]
+    },
+    {
+     "to": 16,
+     "base": 400,
+     "grade": "A greater working",
+     "magic": [
+      10,
+      20,
+      35
+     ]
+    },
+    {
+     "to": 20,
+     "base": 2000,
+     "grade": "A masterwork",
+     "magic": [
+      5,
+      10,
+      20
+     ]
+    }
+   ],
+   "magic": {
+    "A charm": [
+     "Warm-Cup",
+     "Steady Lantern",
+     "Dry Satchel",
+     "Tide-Glass",
+     "Ledger Ink",
+     "Fog-Bell",
+     "Home-Coal Tin",
+     "Salt-Sure Blade",
+     "True Scale",
+     "Song-Shell",
+     "Ship-Needle",
+     "Mending Thread",
+     "Patch-Needle",
+     "Returning Cup",
+     "Answering Lamp",
+     "Chalk of the True Tide",
+     "Card-Glass",
+     "Speaking Card",
+     "First-Stitch Thimble",
+     "Never-Spill Flask",
+     "Coinsday String",
+     "Long-Night Candle"
+    ],
+    "A lesser working": [
+     "Stormglass",
+     "Chartwright’s Lens",
+     "Breath-Pearl",
+     "Memory-Pearl",
+     "Echo-Bone Whistle",
+     "Storm-Feather Fletching",
+     "Ember-Blood Vial",
+     "Hush-Feather",
+     "Homeward Shell",
+     "Deck-Sign Gloves",
+     "Dolphin Whistle",
+     "Aurora Lens",
+     "Grandmother’s Ladle",
+     "True-Name Paint",
+     "Krysta Focus, Refined"
+    ],
+    "A greater working": [
+     "Shadow-Pelt Cloak",
+     "Krysta-Fed Pistol",
+     "Wyvern-Sting Blade",
+     "Roam-Salt",
+     "Winner’s Merrin",
+     "Krysta Focus, Worked"
+    ],
+    "A masterwork": [
+     "Krysta Focus, Masterpiece",
+     "a masterpiece Krysta battery",
+     "a piece of one of the great sets (not magic, and worth more)"
+    ]
+   },
+   "regions": [
+    {
+     "id": "frontier",
+     "name": "Northern Frontier",
+     "coin": "Garrison pay: Anchors and Tides, some of it sewn into a seam.",
+     "goods": [
+      [
+       "a bale of marten and wolf furs",
+       5
+      ],
+      [
+       "a bolt of Tarvan tartan",
+       1
+      ],
+      [
+       "a set of moorhorn drinking horns",
+       2
+      ],
+      [
+       "a cask of Ironfort woad",
+       4
+      ],
+      [
+       "a small Greyhaven bell",
+       10
+      ],
+      [
+       "a garrison officer’s silver plate",
+       25
+      ],
+      [
+       "the papers of a Northreach yearling",
+       40
+      ],
+      [
+       "a proof sword with an Aurelion stamp",
+       15
+      ],
+      [
+       "a Tarvan horn-bow",
+       50
+      ],
+      [
+       "a chain of Aurelion goldwork",
+       120
+      ],
+      [
+       "a signed dagger from a master of the Smiths’ Guild",
+       100
+      ],
+      [
+       "a string of Northreach breeding stock, with papers",
+       800
+      ]
+     ]
+    },
+    {
+     "id": "heartland",
+     "name": "Central Heartland",
+     "coin": "Clean coin, and above a few Orsals a letter of credit on the Reckoners’ Hall.",
+     "goods": [
+      [
+       "a brick of Sunhold brightleaf",
+       1
+      ],
+      [
+       "a chest of Silverport incense",
+       8
+      ],
+      [
+       "a bottle of a great Sunhold year",
+       10
+      ],
+      [
+       "a Belmaris hand-bell",
+       12
+      ],
+      [
+       "a bolt of Silverport silk",
+       15
+      ],
+      [
+       "a Goldwind salon gown",
+       15
+      ],
+      [
+       "a pearl of Pearl Groove",
+       20
+      ],
+      [
+       "a gnome-made clockwork toy",
+       25
+      ],
+      [
+       "a vial of reefpurple",
+       30
+      ],
+      [
+       "a jeweler’s gold chain",
+       50
+      ],
+      [
+       "a cut stone of the Sapphire Isle",
+       150
+      ],
+      [
+       "a casket of matched sapphires",
+       600
+      ],
+      [
+       "a refined Krysta, brokered and with papers",
+       1500
+      ]
+     ]
+    },
+    {
+     "id": "wilds",
+     "name": "Southern Wilds",
+     "coin": "Little coin. In the south, wealth is gold worn on the arm.",
+     "goods": [
+      [
+       "a bale of southleaf",
+       3
+      ],
+      [
+       "a sack of cacao",
+       5
+      ],
+      [
+       "a saurian-leather harness",
+       8
+      ],
+      [
+       "a plain gold arm-ring",
+       10
+      ],
+      [
+       "a jar of redbeetle crimson",
+       12
+      ],
+      [
+       "a pouch of river gold-dust",
+       20
+      ],
+      [
+       "a heavy gold arm-ring",
+       25
+      ],
+      [
+       "a carved jade figure",
+       30
+      ],
+      [
+       "a feathered chief’s cloak",
+       40
+      ],
+      [
+       "a chant-keeper’s gold collar",
+       80
+      ],
+      [
+       "a jade mask",
+       200
+      ],
+      [
+       "the papers of a Sukuun-mark hatchling",
+       250
+      ],
+      [
+       "an Orka idol in old gold",
+       2000
+      ]
+     ]
+    },
+    {
+     "id": "ice",
+     "name": "Icy Expanse",
+     "coin": "Coin is scarce on the ice. Debts are paid in oil, ivory, and furs.",
+     "goods": [
+      [
+       "an ivory comb",
+       1
+      ],
+      [
+       "a Frost Elf bone knife",
+       5
+      ],
+      [
+       "a cask of whale-oil",
+       6
+      ],
+      [
+       "a fine piece of scrimshaw",
+       15
+      ],
+      [
+       "a rimehound pup of good blood",
+       15
+      ],
+      [
+       "a white bear pelt",
+       20
+      ],
+      [
+       "a lump of ambergris",
+       60
+      ],
+      [
+       "a narwhal tusk",
+       80
+      ],
+      [
+       "a sled-load of seal furs",
+       30
+      ],
+      [
+       "a whalebone chest, carved",
+       120
+      ],
+      [
+       "a season’s ambergris, sealed in wax",
+       900
+      ]
+     ]
+    },
+    {
+     "id": "sea",
+     "name": "The Sea and the Coral Kingdoms",
+     "coin": "Salvage coin, green from the water, and the courts’ own pay: pearls.",
+     "goods": [
+      [
+       "a ship’s brass fittings",
+       5
+      ],
+      [
+       "a branch of worked coral",
+       8
+      ],
+      [
+       "a ship’s bell with a name on it",
+       10
+      ],
+      [
+       "a pearl",
+       20
+      ],
+      [
+       "a music box, the proper gift of sound",
+       25
+      ],
+      [
+       "a sealed strongbox, contents unknown",
+       40
+      ],
+      [
+       "a string of matched pearls",
+       150
+      ],
+      [
+       "a black pearl",
+       100
+      ],
+      [
+       "a navigator’s brass instrument",
+       25
+      ],
+      [
+       "a chest of reefpurple whelk shells",
+       60
+      ],
+      [
+       "a court’s gift-casket of black pearls",
+       1500
+      ]
+     ]
+    },
+    {
+     "id": "below",
+     "name": "The Below",
+     "coin": "No coin worth the name. Down there they pay in salt, glass, and things that shine.",
+     "goods": [
+      [
+       "a kobold’s hoard of shiny things",
+       2
+      ],
+      [
+       "a sack of clean salt, which is money Below",
+       3
+      ],
+      [
+       "a set of dwarven tally-weights",
+       10
+      ],
+      [
+       "a black glass blade",
+       15
+      ],
+      [
+       "a shard of dark glass (unregistered Krysta)",
+       30
+      ],
+      [
+       "a pane of lamp-glass",
+       40
+      ],
+      [
+       "a length of darksilk",
+       60
+      ],
+      [
+       "a dwarven strongbox with the tally-mark",
+       100
+      ],
+      [
+       "a worked Krysta of old cut",
+       300
+      ],
+      [
+       "a dwarven hold-seal in old gold",
+       2500
+      ]
+     ]
+    }
+   ],
+   "extras": [
+    "A Ranking card, silver-edged, kept flat in oilcloth.",
+    "A coat with one patch on it and room for more.",
+    "A letter that was never sent.",
+    "A chart with one mark and no name.",
+    "A key, and nothing it fits.",
+    "A promise-dove’s leg-band.",
+    "A pinch of salt folded in a cloth.",
+    "A carved naming spoon that belongs on somebody’s kitchen wall.",
+    "A door coin, drilled, on a cord.",
+    "A Lodge’s contract slip, stamped and unclaimed.",
+    "A half-finished patch with no first stitch.",
+    "A homeward snail, pointing somewhere."
    ]
   },
   "hooks": [

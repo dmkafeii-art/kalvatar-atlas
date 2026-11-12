@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=10').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=11').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -144,7 +144,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -329,17 +329,17 @@ window.Adventurers = (() => {
   const c = data.sidequests.cards, r = Math.random();
   const stats = (lo, hi) => ({steel: stat(lo, hi), wit: stat(lo, hi), luck: stat(lo, hi)});
   if(r < .003) return {border: 'silhouette', label: t('A silhouette', 'Una silueta'), name: t('One of the Ten', 'Uno de los Diez') + ', No. ' + stat(1, 10), line: t('A black shape and a number. Nobody knows whose.', 'Una forma negra y un número. Nadie sabe de quién.'), ...stats(7, 9)};
-  if(r < .004) return {border: 'gilt', label: t('Gilt', 'Dorada'), name: c.face[0], line: c.face[1] + '. ' + c.face[2] + '.', ...stats(7, 9)};
-  if(r < .054) {const f = pick(c.famous), gilt = chance(.08); return {border: gilt ? 'gilt' : 'silver', label: gilt ? t('Gilt', 'Dorada') : t('Silver-edged', 'Borde de plata'), name: f[0], line: f[1] + '. ' + f[2] + '.', ...stats(5, 9)};}
+  if(r < .004) return {border: 'gilt', label: t('Gilt', 'Dorada'), name: c.face[0], line: c.face[1] + '.', bio: c.bios[c.face[0]], ...stats(7, 9)};
+  if(r < .054) {const f = pick(c.famous), gilt = chance(.08); return {border: gilt ? 'gilt' : 'silver', label: gilt ? t('Gilt', 'Dorada') : t('Silver-edged', 'Borde de plata'), name: f[0], line: f[1] + '.', bio: c.bios[f[0]], ...stats(5, 9)};}
   if(r < .17) return {border: 'copper', label: t('Copper-edged', 'Borde de cobre'), name: pick(c.companies), line: t('A company of the Ranking.', 'Una compañía del Ranking.'), ...stats(4, 8)};
   if(r < .23) return {border: 'copper', label: t('Copper-edged', 'Borde de cobre'), name: pick(c.deeds), line: t('A Great Deed.', 'Una Gran Hazaña.'), ...stats(3, 9)};
   if(r < .31) {const l = pick(c.lodges); return {border: 'plain', label: t('Plain', 'Sencilla'), name: l[0].toUpperCase() + l.slice(1), line: t('A Lodge card.', 'Carta de Lodge.'), ...stats(2, 6)};}
   const p = choosePeople(''), n = make(p, '', ''), silver = chance(.25);
-  return {border: silver ? 'copper' : 'plain', label: silver ? t('Copper-edged', 'Borde de cobre') : t('Plain', 'Sencilla'), name: n.name, line: `${silver ? 'Silver' : 'Bronze'} · ${pick(c.branches)} · ${pick(c.lodges)} · ${p.name}`, ...stats(1, silver ? 7 : 6)};
+  return {border: silver ? 'copper' : 'plain', label: silver ? t('Copper-edged', 'Borde de cobre') : t('Plain', 'Sencilla'), name: n.name, line: `${silver ? 'Silver' : 'Bronze'} · ${pick(c.branches)} · ${pick(c.lodges)} · ${p.name.replace(/ \(.*\)$/, '')}`, bio: `${pick(c.known)}. ${pick(c.quirk)}`, ...stats(1, silver ? 7 : 6)};
  }
  function twistHtml() {
   if(!side.twist.length) return '';
-  return `<ol class="adv-cards">${side.twist.map(x => `<li class="adv-card adv-card-${x.border}"><span class="adv-card-kind">${h(x.label)}</span><strong>${h(x.name)}</strong><span class="adv-card-line">${h(x.line)}</span><span class="adv-card-stats">${t('Steel', 'Acero')} ${x.steel} · ${t('Wit', 'Ingenio')} ${x.wit} · ${t('Luck', 'Suerte')} ${x.luck}</span></li>`).join('')}</ol><p class="adv-note">${t('Twists opened here', 'Sobres abiertos aquí')}: ${side.pulled}. ${t('Each costs a Bit.', 'Cada uno cuesta un Bit.')}</p>`;
+  return `<ol class="adv-cards">${side.twist.map(x => `<li class="adv-card adv-card-${x.border}"><span class="adv-card-kind">${h(x.label)}</span><strong>${h(x.name)}</strong><span class="adv-card-line">${h(x.line)}</span>${x.bio ? `<span class="adv-card-bio">${h(x.bio)}</span>` : ''}<span class="adv-card-stats">${t('Steel', 'Acero')} ${x.steel} · ${t('Wit', 'Ingenio')} ${x.wit} · ${t('Luck', 'Suerte')} ${x.luck}</span></li>`).join('')}</ol><p class="adv-note">${t('Twists opened here', 'Sobres abiertos aquí')}: ${side.pulled}. ${t('Each costs a Bit.', 'Cada uno cuesta un Bit.')}</p>`;
  }
  function patchHtml() {
   const p = side.patch;
@@ -364,12 +364,50 @@ window.Adventurers = (() => {
   say('sq-hook', 'sq-hook-out', 'hook', q.hooks); say('sq-curio', 'sq-curio-out', 'curio', q.curios);
  }
 
+ /* Treasure: what a fight might leave behind, for a party, a level, a region, and a difficulty. For the Game Master. */
+ const loot = {size: 4, level: 3, region: 'heartland', hard: 1, kind: 1, out: null};
+ function rollLoot() {
+  const T = data.sidequests.treasure, tier = T.tiers.find(x => loot.level <= x.to), reg = T.regions.find(r => r.id === loot.region);
+  const xpEach = T.xp[loot.level - 1][loot.hard], total = Math.max(1, Math.round(tier.base * [1, 2, 4][loot.hard] * loot.kind * loot.size / 4 * (0.8 + Math.random() * 0.4)));
+  let left = total * (0.4 + Math.random() * 0.2), goods = [];
+  const pool = reg.goods.filter(g => g[1] <= left).sort(() => Math.random() - .5).slice(0, 3);
+  for(const [name, value] of pool) {
+   const n = Math.min(8, Math.max(1, Math.floor(left / value / (pool.length > 1 ? 2 : 1))));
+   if(value * n > left) continue;
+   goods.push({name, n, value: value * n}); left -= value * n;
+  }
+  const spent = goods.reduce((a, g) => a + g.value, 0), magic = [];
+  if(Math.random() * 100 < tier.magic[loot.hard] * (loot.kind > 1 ? 2 : 1)) magic.push(tier.grade + ': ' + pick(T.magic[tier.grade]));
+  if(loot.level > 4 && chance(.25)) magic.push('A charm: ' + pick(T.magic['A charm']));
+  loot.out = {xpEach, xpAll: xpEach * loot.size, total, coins: total - spent, goods, magic, extra: chance(.45) ? pick(T.extras) : '', coin: reg.coin, region: reg.name};
+ }
+ function lootHtml() {
+  const o = loot.out;
+  if(!o) return '';
+  const each = o.total / loot.size;
+  return `<dl class="adv-out">${row(t('Worth, all told', 'Valor total'), coin(o.total))}${row(t('A share each', 'Parte de cada uno'), coin(Math.floor(each * 100) / 100))}${row(t('Experience', 'Experiencia'), `${o.xpAll.toLocaleString('en-US')} XP · ${o.xpEach.toLocaleString('en-US')} ${t('each', 'cada uno')}`)}</dl>
+  <ul class="adv-loot"><li><strong>${t('Coin', 'Monedas')}:</strong> ${coin(o.coins)}. <span>${h(o.coin)}</span></li>${o.goods.map(g => `<li><strong>${g.n > 1 ? g.n + ' × ' : ''}${h(g.name)}</strong> <span>${coin(g.value)}${g.n > 1 ? ' ' + t('together', 'en total') : ''}</span></li>`).join('')}${o.magic.map(m => `<li class="adv-loot-magic"><strong>${h(m)}</strong> <span>${t('on top of the rest', 'además del resto')}</span></li>`).join('')}${o.extra ? `<li><strong>${t('And', 'Y')}:</strong> ${h(o.extra)}</li>` : ''}</ul>
+  <p class="adv-note">${t('An idea, not a rule: change anything. The experience is the 2024 budget for a fight of that difficulty, so it is also what such a fight is worth if you give experience for it.', 'Una idea, no una regla: cambia lo que quieras. La experiencia es el presupuesto 2024 para un combate de esa dificultad, así que también es lo que vale ese combate si das experiencia.')}</p>`;
+ }
+ function renderTreasure() {
+  const T = data.sidequests.treasure, levels = Array.from({length: 20}, (_, i) => [i + 1, String(i + 1)]), sizes = [1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]);
+  frame('treasure', `<p class="adv-lead">${t('For the Game Master: what a fight might leave behind. In the islands a laborer’s year is one Orsal, so a little coin goes a long way.', 'Para el GM: lo que puede dejar un combate. En las islas el año de un jornalero es un Orsal, así que poca moneda rinde mucho.')}</p>
+  <section class="adv-panel adv-shop"><h2>${t('The take', 'El botín')}</h2>
+  <div class="adv-controls"><label class="pack-label">${t('Party', 'Grupo')}${sel('tr-size', sizes, loot.size)}</label><label class="pack-label">${t('Level', 'Nivel')}${sel('tr-level', levels, loot.level)}</label><label class="pack-label">${t('Where', 'Dónde')}${sel('tr-region', T.regions.map(r => [r.id, r.name]), loot.region)}</label><label class="pack-label">${t('The fight was', 'El combate fue')}${sel('tr-hard', [[0, t('Low', 'Bajo')], [1, t('Moderate', 'Moderado')], [2, t('High', 'Alto')]], loot.hard)}</label><label class="pack-label">${t('Found', 'Se encontró')}${sel('tr-kind', [[1, t('On the losers', 'En los vencidos')], [3, t('In a lair or a strongbox', 'En una guarida o un cofre')]], loot.kind)}</label></div>
+  <div class="pack-actions"><button type="button" class="button" id="tr-roll">${t('What did they leave?', '¿Qué dejaron?')} <span aria-hidden="true">✦</span></button></div><div id="tr-out" aria-live="polite">${lootHtml()}</div></section>
+  <p class="adv-hint">${t('What the things are', 'Qué son las cosas')}: <a href="#entry/charms-and-workings">Charms and Workings</a> · <a href="#entry/coins-and-prices">Coins and Prices</a> · <a href="#entry/signed-works">Signed Works</a></p>
+  <p class="adv-credit">${t('Experience budgets follow the encounter guidelines of the 2024 rules. Coin, goods, and grades are Kalvatar’s own.', 'Los presupuestos de experiencia siguen las guías de encuentros de las reglas 2024. Monedas, bienes y grados son de Kalvatar.')}</p>`);
+  const set = (id, key) => $('#' + id).addEventListener('input', e => {loot[key] = isNaN(+e.target.value) ? e.target.value : +e.target.value;});
+  set('tr-size', 'size'); set('tr-level', 'level'); set('tr-region', 'region'); set('tr-hard', 'hard'); set('tr-kind', 'kind');
+  $('#tr-roll').addEventListener('click', () => {rollLoot(); $('#tr-out').innerHTML = lootHtml();});
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;

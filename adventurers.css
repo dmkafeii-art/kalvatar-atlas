@@ -73,3 +73,11 @@
 .article-box h2{font-size:24px;margin-top:0}
 .article-box-tips{border-left-color:var(--sage)}
 .article-box-curio{border-left-color:#8d763e;background:#fbf6e6}
+.adv-card-bio{font:italic 13px/1.5 var(--serif);color:var(--ink)}
+.adv-cards{grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+.adv-card-silhouette .adv-card-bio{color:#f0efdf}
+.adventurers .adv-loot{list-style:none;padding:0;margin:12px 0;max-width:760px}
+.adventurers .adv-loot li{font:17px/1.6 var(--serif);padding:9px 0;border-bottom:1px solid var(--line)}
+.adv-loot li span{color:var(--muted);font-size:15px}
+.adv-loot-magic strong{color:#8d763e}
+.adv-shop .adv-controls{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
