@@ -6442,39 +6442,39 @@
     "name": "Vanguard",
     "device": "a blade",
     "stone": "red garnet",
-    "standing": "founding",
-    "who": "The old books say Warrior. Slayers, guards, duelists, and boarders: the ones who go in first."
+    "standing": "founded as Warrior",
+    "who": "First in and last out. Slayers, guards, duelists, and boarders."
    },
    {
-    "name": "Mage",
+    "name": "Arcanist",
     "device": "a crystal",
     "stone": "blue sapphire",
-    "standing": "founding",
-    "who": "Casters of every tradition, registered or not."
+    "standing": "founded as Mage",
+    "who": "Those who fight and work with magic, of every tradition, registered or not."
    },
    {
-    "name": "Scout",
+    "name": "Stalker",
     "device": "an arrow",
     "stone": "green jade",
-    "standing": "founding",
-    "who": "Trackers, hunters, pathfinders, and lookouts."
+    "standing": "founded as Scout",
+    "who": "Trackers and hunters of beasts and people: the ones the quarry never sees."
    },
    {
-    "name": "Diplomat",
+    "name": "Herald",
     "device": "a quill",
     "stone": "white pearl",
-    "standing": "founding",
-    "who": "Negotiators, clerks, advocates, and those who run things."
+    "standing": "founded as Diplomat",
+    "who": "The company's voice: negotiators, advocates, and those who run things."
    },
    {
-    "name": "Support",
+    "name": "Mainstay",
     "device": "a shield and drop",
     "stone": "rose coral",
     "standing": "younger",
-    "who": "The docks say menders. Healers, surgeons, salve-makers, and those who keep a company alive and fed."
+    "who": "Named for the rope that holds up the mast. Healers, surgeons, and those who keep a company alive, fed, and standing."
    },
    {
-    "name": "Forgewright",
+    "name": "Craftwright",
     "device": "a hammer and anvil",
     "stone": "black onyx",
     "standing": "younger",
@@ -6492,7 +6492,7 @@
     "device": "a lantern",
     "stone": "violet amethyst",
     "standing": "younger",
-    "who": "Those who go down: into ruins, wrecks, and the Below, and read what they find."
+    "who": "Those who go down: into ruins, wrecks, and the Below, and come back with what they found."
    }
   ]
  },
@@ -6584,11 +6584,11 @@
    ],
    "branches": [
     "Vanguard",
-    "Mage",
-    "Scout",
-    "Diplomat",
-    "Support",
-    "Forgewright",
+    "Arcanist",
+    "Stalker",
+    "Herald",
+    "Mainstay",
+    "Craftwright",
     "Explorer",
     "Delver"
    ],

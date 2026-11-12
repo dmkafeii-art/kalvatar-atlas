@@ -15897,7 +15897,7 @@
    {
     "title": "The branches and their devices",
     "paragraphs": [
-     "The order was founded with four branches. Four younger ones are spoken of for the work Hunters now do."
+     "The order was founded with four branches: Warrior, Mage, Scout, and Diplomat. Hunters today call them the Vanguard, the Arcanists, the Stalkers, and the Heralds. Four younger branches have grown up for the work Hunters now do."
     ],
     "table": {
      "caption": "Branches of the Hunters",
@@ -15912,34 +15912,34 @@
        "Vanguard",
        "a blade",
        "red garnet",
-       "The old books say Warrior. Slayers, guards, duelists, and boarders: the ones who go in first."
+       "First in and last out. Slayers, guards, duelists, and boarders. (Founded as Warrior.)"
       ],
       [
-       "Mage",
+       "Arcanist",
        "a crystal",
        "blue sapphire",
-       "Casters of every tradition, registered or not."
+       "Those who fight and work with magic, of every tradition, registered or not. (Founded as Mage.)"
       ],
       [
-       "Scout",
+       "Stalker",
        "an arrow",
        "green jade",
-       "Trackers, hunters, pathfinders, and lookouts."
+       "Trackers and hunters of beasts and people: the ones the quarry never sees. (Founded as Scout.)"
       ],
       [
-       "Diplomat",
+       "Herald",
        "a quill",
        "white pearl",
-       "Negotiators, clerks, advocates, and those who run things."
+       "The company's voice: negotiators, advocates, and those who run things. (Founded as Diplomat.)"
       ],
       [
-       "Support",
+       "Mainstay",
        "a shield and drop",
        "rose coral",
-       "The docks say menders. Healers, surgeons, salve-makers, and those who keep a company alive and fed. (A younger branch.)"
+       "Named for the rope that holds up the mast. Healers, surgeons, and those who keep a company alive, fed, and standing. (A younger branch.)"
       ],
       [
-       "Forgewright",
+       "Craftwright",
        "a hammer and anvil",
        "black onyx",
        "Smiths, tinkers, shipwrights, and krystawrights: the ones who make what the rest carry. (A younger branch.)"
@@ -15954,7 +15954,7 @@
        "Delver",
        "a lantern",
        "violet amethyst",
-       "Those who go down: into ruins, wrecks, and the Below, and read what they find. (A younger branch.)"
+       "Those who go down: into ruins, wrecks, and the Below, and come back with what they found. (A younger branch.)"
       ]
      ]
     }
@@ -43290,7 +43290,7 @@
   "title": "Tenants",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "What moves into a masterpiece",
+  "subtitle": "The Ummari: what moves into a masterpiece",
   "summary": "Small, old spirits that are drawn to perfect work. Once in a very long while one moves into a masterpiece, and the piece wakes up with a name and opinions.",
   "epigraph": {
    "quote": "I made a sword. Something else decided it was a home. I’m told that is the highest praise there is.",
@@ -43310,12 +43310,16 @@
     "almost never"
    ],
    [
+    "Their own name",
+    "the Ummari; one is an Ummar"
+   ],
+   [
     "Tempers",
     "fair, foul, and odd"
    ],
    [
-    "Famous tenants",
-    "Squint, Glutton, Madam Tally, Ninefinger"
+    "Known tenants",
+    "ten, by the Smiths’ Guild’s count"
    ]
   ],
   "sections": [
@@ -43323,6 +43327,7 @@
     "title": "Good enough to live in",
     "paragraphs": [
      "A masterpiece is good enough to live in, and now and then something moves in. The smiths call them tenants: small, old spirits that are drawn to perfect work. A piece with a tenant is tenanted. It wakes, it has a name it gave itself, and it has opinions.",
+     "They call themselves the Ummari, and one of them is an Ummar. Both names are in use. Tenant is what a smith or a sailor says. Ummari is what a scholar says, or anyone who has been corrected by one.",
      "It is one of the rarest things in the islands. A master may make masterpieces for forty years and never see it happen."
     ]
    },
@@ -43348,7 +43353,7 @@
     "title": "Tenants people know",
     "paragraphs": [],
     "table": {
-     "caption": "Four famous tenants",
+     "caption": "The ten known tenants",
      "headers": [
       "Tenant",
       "Temper",
@@ -43374,6 +43379,36 @@
        "Ninefinger",
        "foul, and charming",
        "a set of masterpiece lockpicks, whereabouts unknown"
+      ],
+      [
+       "Bosun",
+       "fair, and loud",
+       "the boatswain's call of the Hunter ship Long Odds"
+      ],
+      [
+       "The Admiral",
+       "fair, and pompous",
+       "the wheel of the Armada flagship Steadfast"
+      ],
+      [
+       "Grandfather",
+       "fair, and stern",
+       "the great anvil in the hall of the Smiths' Guild at Aurelion"
+      ],
+      [
+       "Little Mercy",
+       "fair, and stubborn",
+       "the surgeon's knife of Mirel Ferrow, Silver Hunter of the Mainstay"
+      ],
+      [
+       "Sweetheart",
+       "foul, and devoted",
+       "the Aurelion pistol of Lieutenant Corvin Asher, of the Armada"
+      ],
+      [
+       "Cold Comfort",
+       "foul, and patient",
+       "the harpoon of Hroda Icewake, a Frost Elf whaler"
       ]
      ]
     }
@@ -43403,6 +43438,42 @@
     ]
    },
    {
+    "title": "Bosun",
+    "paragraphs": [
+     "Bosun pipes the orders before anyone gives them, and it is usually right. The crew of the Long Odds obeys the whistle first and the captain second, and the captain has stopped minding. In a calm it pipes old tunes nobody aboard taught it."
+    ]
+   },
+   {
+    "title": "The Admiral",
+    "paragraphs": [
+     "The Admiral has held the same wheel through five human admirals and has opinions about all of them. It will not turn toward a lee shore, whatever the helmsman wants. Twice it has brought the Steadfast home with nobody at the helm, and the Armada entered both in the log as weather."
+    ]
+   },
+   {
+    "title": "Grandfather",
+    "paragraphs": [
+     "Grandfather rings true under good work and dead under bad. Every journeyman of Aurelion strikes a first blade on it, in front of the masters, and listens. It has rung dead for three masters' own work, and the Guild has never recorded which."
+    ]
+   },
+   {
+    "title": "Little Mercy",
+    "paragraphs": [
+     "Little Mercy cuts clean, never slips, and never cuts what can't be saved: the blade turns in the hand. Ferrow has learned to trust it and has never forgiven it. The wounded ask for the two of them by name."
+    ]
+   },
+   {
+    "title": "Sweetheart",
+    "paragraphs": [
+     "Sweetheart has never missed, and it has never fired at anyone it liked. It is jealous of everyone the lieutenant speaks to for long. He has been engaged three times. He is not married."
+    ]
+   },
+   {
+    "title": "Cold Comfort",
+    "paragraphs": [
+     "Cold Comfort tells its bearer where the whales are, every time, and asks one life from the boat each season in return. It never says whose. Icewake's boat has the best catch on the ice coast, and the hardest time finding crew."
+    ]
+   },
+   {
     "title": "Adventure hooks",
     "paragraphs": [],
     "list": [
@@ -43418,7 +43489,8 @@
     "list": [
      "Break a tenanted piece and the tenant goes free. It remembers who did it.",
      "A tenant names itself. Nobody has ever succeeded in renaming one.",
-     "Most of the named works that wars were fought over are tenanted, and the famous name is the tenant’s."
+     "Most of the named works that wars were fought over are tenanted, and the famous name is the tenant’s.",
+     "Ask a tenant what Ummari means and it will tell you it means us. Ask what it means beyond that and it will change the subject."
     ]
    },
    {
@@ -43443,12 +43515,20 @@
    "tenant",
    "tenants",
    "tenanted",
+   "Ummari",
+   "Ummar",
    "letting",
    "to let",
    "Squint",
    "Glutton",
    "Madam Tally",
    "Ninefinger",
+   "Bosun",
+   "The Admiral",
+   "Grandfather",
+   "Little Mercy",
+   "Sweetheart",
+   "Cold Comfort",
    "weapon spirits",
    "sentient items",
    "awakened Sigil"
