@@ -2083,40 +2083,6 @@
     ]
    },
    {
-    "title": "The Four Vows",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Hand",
-      "Vow",
-      "Obligation"
-     ],
-     "rows": [
-      [
-       "Upper right",
-       "Stone",
-       "Protect what is given into your care"
-      ],
-      [
-       "Upper left",
-       "Ember",
-       "Bank the fire; pay for every Kindling"
-      ],
-      [
-       "Lower right",
-       "Wind",
-       "Learn, and teach what you learn"
-      ],
-      [
-       "Lower left",
-       "Sky",
-       "Finish what you begin"
-      ]
-     ],
-     "caption": "The vows of a Foursworn Vorthani"
-    }
-   },
-   {
     "title": "The Carrying and the Ascents",
     "paragraphs": [
      "At adulthood a teacher chooses a stone to be carried unaided from valley to monastery. It becomes part of the walls. The First Ascent stands on the Sky Anvil in the Anvil Reach; later foundations bear their order of founding."
@@ -2679,12 +2645,6 @@
     ]
    },
    {
-    "title": "What people say",
-    "paragraphs": [
-     "\"Lampets remember a face for thirty years.\""
-    ]
-   },
-   {
     "title": "Rumors",
     "paragraphs": [
      "“A lampet in Greyhaven brought up a gold ring nobody aboard had lost, and the harbor-master's wife has been very quiet since.” (heard on the Greyhaven docks)"
@@ -2705,7 +2665,7 @@
   "creatureKind": "companion",
   "epigraph": {
    "quote": "Lampets remember a face for thirty years.",
-   "by": "What people say in the harbors"
+   "by": "A harbor saying"
   },
   "aliases": [],
   "related": [
@@ -2741,13 +2701,13 @@
   "title": "Lantern Mouse",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "Its tail-light, which it lights or puts out as it pleases.",
+  "subtitle": "A light left in the window",
   "summary": "A brown field-mouse with oversized ears and a tail that ends in a soft, warm glow, like a coal seen through a paper screen.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A brown field-mouse with oversized ears and a tail that ends in a soft, warm glow, like a coal seen through a paper screen. Lantern mice live in granaries, mills, and the lofts of lighthouses, and for as long as there have been windows in the islands, they have been sitting in them."
+     "Lantern mice live in granaries, mills, and the lofts of lighthouses, and for as long as there have been windows in the islands, they have been sitting in them."
     ]
    },
    {
@@ -2771,12 +2731,6 @@
     ]
    },
    {
-    "title": "What people say",
-    "paragraphs": [
-     "\"Leave a light for the mouse.\" (Keep the house open for someone who is late.)"
-    ]
-   },
-   {
     "title": "Rumors",
     "paragraphs": [
      "“The lighthouse keeper at Saltreach swears her mouse put its tail out the night a ship went by with no lights at all.” (heard in a Frontier tavern)"
@@ -2796,8 +2750,8 @@
   "source": "Beasts and Companions · p. 3",
   "creatureKind": "companion",
   "epigraph": {
-   "quote": "Leave a light for the mouse.\" (Keep the house open for someone who is late.)",
-   "by": "What people say in the harbors"
+   "quote": "Leave a light for the mouse.",
+   "by": "A harbor saying: keep the house open for someone who is late"
   },
   "aliases": [],
   "related": [
@@ -2813,7 +2767,7 @@
    "height": 1024,
    "label": "Lantern Mouse",
    "alt": "A brown field-mouse with oversized ears and a tail that ends in a soft, warm glow, like a coal seen through a paper screen.",
-   "caption": "A brown field-mouse with oversized ears and a tail that ends in a soft, warm glow, like a coal seen through a paper screen."
+   "caption": "Lantern Mouse"
   }
  },
  {
@@ -2821,13 +2775,13 @@
   "title": "Pocket Rainfrog",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "It keeps things dry.",
+  "subtitle": "The courier’s dry pocket",
   "summary": "A plump brown frog the size of an egg, freckled like a river stone, with a mouth turned permanently down in disapproval of the weather.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A plump brown frog the size of an egg, freckled like a river stone, with a mouth turned permanently down in disapproval of the weather. Rainfrogs came out of the Southern Wilds in the holds of trading ships and spread up every lane, because they do one thing nobody else can."
+     "Rainfrogs came out of the Southern Wilds in the holds of trading ships and spread up every lane, because they do one thing nobody else can."
     ]
    },
    {
@@ -2851,12 +2805,6 @@
     ]
    },
    {
-    "title": "What people say",
-    "paragraphs": [
-     "\"Ask the frog.\" (Said before planning anything outdoors.)"
-    ]
-   },
-   {
     "title": "Rumors",
     "paragraphs": [
      "“A courier's rainfrog sat on a Council dispatch through a whole shipwreck. The dispatch was dry. The courier was not so lucky.” (heard among Harbinger crews)"
@@ -2876,8 +2824,8 @@
   "source": "Beasts and Companions · p. 4",
   "creatureKind": "companion",
   "epigraph": {
-   "quote": "Ask the frog.\" (Said before planning anything outdoors.)",
-   "by": "What people say in the harbors"
+   "quote": "Ask the frog.",
+   "by": "A harbor saying: said before planning anything outdoors"
   },
   "aliases": [],
   "related": [
@@ -2893,7 +2841,7 @@
    "height": 1024,
    "label": "Pocket Rainfrog",
    "alt": "A plump brown frog the size of an egg, freckled like a river stone, with a mouth turned permanently down in disapproval of the weather.",
-   "caption": "A plump brown frog the size of an egg, freckled like a river stone, with a mouth turned permanently down in disapproval of the weather."
+   "caption": "Pocket Rainfrog"
   }
  },
  {
@@ -2901,13 +2849,13 @@
   "title": "Button Badger",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "It finds what is lost.",
+  "subtitle": "Finder of lost things",
   "summary": "A small, striped, short-legged badger, never bigger than a loaf of bread, with clever black paws and a settled belief that buttons are the most valuable things in the world.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A small, striped, short-legged badger, never bigger than a loaf of bread, with clever black paws and a settled belief that buttons are the most valuable things in the world. Every button badger carries one button, usually bent, and it will trade that button for a better one."
+     "Every button badger carries one button, usually bent, and it will trade that button for a better one."
     ]
    },
    {
@@ -2927,12 +2875,6 @@
     "paragraphs": [
      "The halflings' luck-charm, a button borrowed from a friend, began as a badger's trade. A halfling who carries a badger's button is twice lucky.",
      "Kobolds love button badgers and button badgers love kobolds, and nobody knows what they talk about. Tailors keep a dish of spare buttons by the back door for the badgers, which is cheaper than having them come in."
-    ]
-   },
-   {
-    "title": "What people say",
-    "paragraphs": [
-     "\"Trade up, like a badger.\" (Do better, a little at a time.)"
     ]
    },
    {
@@ -2956,8 +2898,8 @@
   "source": "Beasts and Companions · p. 5",
   "creatureKind": "companion",
   "epigraph": {
-   "quote": "Trade up, like a badger.\" (Do better, a little at a time.)",
-   "by": "What people say in the harbors"
+   "quote": "Trade up, like a badger.",
+   "by": "A harbor saying: do better, a little at a time"
   },
   "aliases": [],
   "related": [
@@ -2973,7 +2915,7 @@
    "height": 1024,
    "label": "Button Badger",
    "alt": "A small, striped, short-legged badger, never bigger than a loaf of bread, with clever black paws and a settled belief that buttons are the most valuable things in the world.",
-   "caption": "A small, striped, short-legged badger, never bigger than a loaf of bread, with clever black paws and a settled belief that buttons are the most valuable things in the world."
+   "caption": "Button Badger"
   }
  },
  {
@@ -2981,13 +2923,13 @@
   "title": "Teacup Moth",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "It warms a drink.",
+  "subtitle": "Keeper of the warm cup",
   "summary": "A soft, fat moth with wings patterned like a good tea-service, cream and rust and faded blue, and a body as furry as a kitten's ear.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A soft, fat moth with wings patterned like a good tea-service, cream and rust and faded blue, and a body as furry as a kitten's ear. Teacup moths love warmth but never fly into a flame, and they love a full cup best of all."
+     "Teacup moths love warmth but never fly into a flame, and they love a full cup best of all."
     ]
    },
    {
@@ -3011,12 +2953,6 @@
     ]
    },
    {
-    "title": "What people say",
-    "paragraphs": [
-     "\"Keep a moth on it.\" (Keep something warm for someone coming late.)"
-    ]
-   },
-   {
     "title": "Rumors",
     "paragraphs": [
      "“They say a teacup moth will not warm a cup that has been poisoned. Nobody has been brave enough to test it twice.” (heard in a Goldwind teahouse)"
@@ -3036,8 +2972,8 @@
   "source": "Beasts and Companions · p. 6",
   "creatureKind": "companion",
   "epigraph": {
-   "quote": "Keep a moth on it.\" (Keep something warm for someone coming late.)",
-   "by": "What people say in the harbors"
+   "quote": "Keep a moth on it.",
+   "by": "A harbor saying: keep something warm for someone coming late"
   },
   "aliases": [],
   "related": [
@@ -3203,141 +3139,6 @@
     "paragraphs": [
      "Common compounds describe a trait and defining feature: Swift-crest, Sword-tooth, or Murk-strider. Kalvatari names preserve the older southern words. Both are used."
     ]
-   },
-   {
-    "title": "The recognized kinds",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Common name",
-      "Kalvatari",
-      "Tradition",
-      "Known for"
-     ],
-     "rows": [
-      [
-       "Swordtooth",
-       "Azarox",
-       "War",
-       "Fast predatory cavalry mount"
-      ],
-      [
-       "Dreadmaw",
-       "Tzharrok",
-       "War",
-       "Rare, towering siege-beast"
-      ],
-      [
-       "Thornback",
-       "Korzak",
-       "War",
-       "Armored guardian and living wall"
-      ],
-      [
-       "Lashtail",
-       "Tzulak",
-       "War",
-       "A powerful weapon-tail"
-      ],
-      [
-       "Swiftcrest",
-       "Sissix",
-       "Speed",
-       "Racing and swift scouting"
-      ],
-      [
-       "Glidetalon",
-       "Vollun",
-       "Sky",
-       "Light feathered glider and messenger"
-      ],
-      [
-       "Skyfin",
-       "Aetzox",
-       "Sky",
-       "A coveted sustained-flight mount"
-      ],
-      [
-       "Loamback",
-       "Mokun",
-       "Labor",
-       "Placid long-necked freight and plough beast"
-      ],
-      [
-       "Altisaur",
-       "Yaltox",
-       "Labor",
-       "The tallest domesticated hauler and platform"
-      ],
-      [
-       "Craghorn",
-       "Gormak",
-       "Labor",
-       "Sturdy horned-and-frilled worker"
-      ],
-      [
-       "Murkstrider",
-       "Marrox",
-       "Water",
-       "Fish-eating wader of swamp paths"
-      ],
-      [
-       "Mirewallow",
-       "Sszuka",
-       "Water",
-       "Heavy semi-aquatic bog-beast"
-      ],
-      [
-       "Razorfin",
-       "Razku",
-       "Water",
-       "Aquatic predator, rarely tamed"
-      ],
-      [
-       "Bellowback",
-       "Bumako",
-       "Table",
-       "Broad herd-grazer for meat, hide, and eggs"
-      ],
-      [
-       "Cluckmaw",
-       "Pokok",
-       "Table",
-       "The south’s common flock-fowl"
-      ],
-      [
-       "Quillhen",
-       "Pirrak",
-       "Table",
-       "Eggs, meat, and useful feathers"
-      ],
-      [
-       "Gloamhide",
-       "Xolca",
-       "Dusk",
-       "Color-shifting nocturnal hunter"
-      ],
-      [
-       "Twincrest",
-       "Keshix",
-       "Hunt",
-       "Small dangerous predator with paired crests"
-      ],
-      [
-       "Songcrest",
-       "Saalix",
-       "Riding",
-       "Elegant herbivorous mount with a resonant crest"
-      ],
-      [
-       "Spurback",
-       "Tammok",
-       "Labor",
-       "Herbivorous pack saurians of several breeds for long journeys"
-      ]
-     ],
-     "caption": "The twenty named saurian kinds"
-    }
    },
    {
     "title": "The Eldersaur title",
@@ -3538,81 +3339,6 @@
     ]
    },
    {
-    "title": "The months",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Month",
-      "Keeps",
-      "Season",
-      "Observance"
-     ],
-     "rows": [
-      [
-       "Eo",
-       "Hearth and Home",
-       "Closed Water",
-       "Landing-Day; beginnings"
-      ],
-      [
-       "Eliol",
-       "Chart and Star",
-       "Closed Water",
-       "Study and finding the way"
-      ],
-      [
-       "Ezra",
-       "Mast and Sail",
-       "Open Water",
-       "First-Sail; Hunters’ Trials"
-      ],
-      [
-       "Liora",
-       "Heart and Hand",
-       "Open Water",
-       "Merrin Games; bonds"
-      ],
-      [
-       "Rhor",
-       "Net and Anvil",
-       "Fair Water",
-       "Work and craft"
-      ],
-      [
-       "Idel",
-       "Coin and Cargo",
-       "Fair Water",
-       "Festival of Winds; trade"
-      ],
-      [
-       "Veriden",
-       "Truth and Justice",
-       "Fair Water",
-       "Oaths and courts"
-      ],
-      [
-       "Halvenir",
-       "Salt and Harvest",
-       "Storm Water",
-       "Bounty of the Sea"
-      ],
-      [
-       "Memnara",
-       "Bell and Remembrance",
-       "Storm Water",
-       "Storm-Watch; the drowned"
-      ],
-      [
-       "Okram",
-       "Harbor and Rest",
-       "Closed Water",
-       "Lanterns of Unity; homecoming"
-      ]
-     ],
-     "caption": "The ten months of the Charter year"
-    }
-   },
-   {
     "title": "The four waters",
     "paragraphs": [
      "Closed Water is winter, Open Water spring, Fair Water summer, and Storm Water autumn. The Wilds follow rains and dry seasons, while the ice reverses the seasonal pattern."
@@ -3756,79 +3482,6 @@
   "summary": "Bits, Tides, Anchors, and the heavy gold Orsal keep trade moving between regions that give common coins their own names.",
   "sections": [
    {
-    "title": "The four coins",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Coin",
-      "Metal and mark",
-      "Worth"
-     ],
-     "rows": [
-      [
-       "Bit",
-       "Holed copper",
-       "The base coin"
-      ],
-      [
-       "Tide",
-       "Silver; two moons over a wave",
-       "10 Bits"
-      ],
-      [
-       "Anchor",
-       "Gold; an anchor over a running wave",
-       "10 Tides / 100 Bits"
-      ],
-      [
-       "Orsal",
-       "Heavy numbered square of gold; the face of Ors",
-       "10 Anchors / 1,000 Bits"
-      ]
-     ],
-     "caption": "The islands’ common coinage"
-    }
-   },
-   {
-    "title": "The same money, different shores",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Region",
-      "Gold",
-      "Silver",
-      "Copper"
-     ],
-     "rows": [
-      [
-       "Central Heartland",
-       "Anchor",
-       "Tide",
-       "Bit"
-      ],
-      [
-       "Northern Frontier",
-       "Hold",
-       "Gull",
-       "Nail"
-      ],
-      [
-       "Southern Wilds",
-       "Jaguar",
-       "Moon",
-       "Bean"
-      ],
-      [
-       "Icy Expanse",
-       "Lamp",
-       "Seal",
-       "Flint"
-      ]
-     ],
-     "caption": "Regional names, identical values"
-    }
-   },
-   {
     "title": "A measure of a living",
     "paragraphs": [
      "Everywhere, the Orsal remains the Orsal. Familiar yardsticks put a laborer’s day at three Bits, a month around an Anchor, and a year around an Orsal. A journeyman earns about two Anchors monthly; a clerk three; a master craftsman four to six."
@@ -3901,39 +3554,6 @@
   "subtitle": "The map is measured in weeks",
   "summary": "Voyages and news move slowly across the enormous archipelago.",
   "sections": [
-   {
-    "title": "Fair passages",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Passage",
-      "Fair duration"
-     ],
-     "rows": [
-      [
-       "Ironfort → Goldwind",
-       "3–4 weeks"
-      ],
-      [
-       "Goldwind → Southhaven",
-       "About 6 weeks"
-      ],
-      [
-       "Southhaven → Jakupur",
-       "2–3 weeks"
-      ],
-      [
-       "Southhaven → Varan Port",
-       "7–8 weeks"
-      ],
-      [
-       "Varan Port → far ice",
-       "3–4 weeks"
-      ]
-     ],
-     "caption": "Passages in ordinary conditions"
-    }
-   },
    {
     "title": "What changes the journey",
     "paragraphs": [
@@ -4599,80 +4219,6 @@
     "paragraphs": [
      "Shakarr belongs to the Bonewilds. Thalgorath is the Tide-Tyrant of the deep. Ulgrenn is the Hollow Song: if you hear it, do not follow. Tyrak’Zhul is called the World-Eater, the First Jaw."
     ]
-   },
-   {
-    "title": "The Lords and their country",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Lord",
-      "What it is",
-      "Its country"
-     ],
-     "rows": [
-      [
-       "Momumba, Lord of Apes",
-       "A cunning colossal girallon with a cohort",
-       "The deep jungle near Jakupur"
-      ],
-      [
-       "Badron, Queen of Feathers",
-       "The mother of storms and thunderbirds",
-       "The high winds"
-      ],
-      [
-       "Shakarr, the Shadow of Death",
-       "A sabertooth of living shadow",
-       "The Bonewilds"
-      ],
-      [
-       "Kayuntu, the Violent Monarch of the Five Skies",
-       "A colossal wyvern",
-       "The five layers of the sky"
-      ],
-      [
-       "KakanKal, Emperor of Flames",
-       "A fire salamander asleep in the magma",
-       "Everfall and the volcanic south"
-      ],
-      [
-       "Malim, the Laughing Flood",
-       "A giant otter, playful and lethal",
-       "Rivers, deltas, and coasts"
-      ],
-      [
-       "Ssvayuk, the Mud That Breathes",
-       "A swamp-serpent grown over with false islands",
-       "The great bogs"
-      ],
-      [
-       "Vukharr, the White Hunger",
-       "A starving god of ribs and white fur",
-       "The deep Icy Expanse"
-      ],
-      [
-       "Ulgrenn, the Hollow Song",
-       "A blind cave-leviathan that sings",
-       "The deep caves and Orka ruins"
-      ],
-      [
-       "Thalgorath, the Tide-Tyrant",
-       "An abyssal horror",
-       "The Sunken Thrones"
-      ],
-      [
-       "Tyrak'Zhul, the World-Eater",
-       "The tyrant-father of all saurians",
-       "The saurian heartlands of the south"
-      ],
-      [
-       "The Hunted",
-       "A young beast the Lords' progeny unite to kill",
-       "Wherever the world is thin"
-      ]
-     ],
-     "caption": "Ten and a half, and the eleventh."
-    }
    },
    {
     "title": "In the islands",
@@ -5562,13 +5108,13 @@
   "title": "Hearth Newt",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "A small life beside yours",
+  "subtitle": "The coal that keeps the house",
   "summary": "A finger-long salamander, black with ember-orange spots, that lives in the fireplace and sleeps on the coals.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A finger-long salamander, black with ember-orange spots, that lives in the fireplace and sleeps on the coals. It is the companion of the Keeping, the humblest rite of the Hunger That Warms."
+     "It is the companion of the Keeping, the humblest rite of the Hunger That Warms."
     ]
    },
    {
@@ -5628,7 +5174,7 @@
    "height": 1024,
    "label": "Hearth Newt",
    "alt": "A finger-long salamander, black with ember-orange spots, that lives in the fireplace and sleeps on the coals.",
-   "caption": "A finger-long salamander, black with ember-orange spots, that lives in the fireplace and sleeps on the coals."
+   "caption": "Hearth Newt"
   }
  },
  {
@@ -5636,13 +5182,13 @@
   "title": "Lullaby Cricket",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "A small life beside yours",
+  "subtitle": "Sleep through any storm",
   "summary": "A small brown cricket kept in a cage no bigger than a fist, with a song like a spoon stirring a cup.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A small brown cricket kept in a cage no bigger than a fist, with a song like a spoon stirring a cup. Lullaby crickets sing only at night, and only when someone near them is trying to sleep."
+     "Lullaby crickets sing only at night, and only when someone near them is trying to sleep."
     ]
    },
    {
@@ -5701,7 +5247,7 @@
    "height": 1024,
    "label": "Lullaby Cricket",
    "alt": "A small brown cricket kept in a cage no bigger than a fist, with a song like a spoon stirring a cup.",
-   "caption": "A small brown cricket kept in a cage no bigger than a fist, with a song like a spoon stirring a cup."
+   "caption": "Lullaby Cricket"
   }
  },
  {
@@ -5709,13 +5255,13 @@
   "title": "Promise Doves",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "Each dove always knows where its mate is, however far apart the two keepers go.",
+  "subtitle": "Two birds, one promise",
   "summary": "A pair of grey-and-rose doves raised in the same nest and given to two people who have made a Salt Promise.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A pair of grey-and-rose doves raised in the same nest and given to two people who have made a Salt Promise. Each keeps one dove, and the doves keep the promise."
+     "Each keeps one dove, and the doves keep the promise."
     ]
    },
    {
@@ -5739,12 +5285,6 @@
     ]
    },
    {
-    "title": "What people say",
-    "paragraphs": [
-     "\"We still have doves.\" (We still trust each other.)"
-    ]
-   },
-   {
     "title": "Rumors",
     "paragraphs": [
      "“A pair of promise doves were seen flying out to sea, both of them, together. Nobody wants to think about what that means.” (a fishing village)",
@@ -5765,8 +5305,8 @@
   "source": "Beasts and Companions · p. 8",
   "creatureKind": "companion",
   "epigraph": {
-   "quote": "We still have doves.\" (We still trust each other.)",
-   "by": "What people say in the harbors"
+   "quote": "We still have doves.",
+   "by": "A harbor saying: we still trust each other"
   },
   "aliases": [],
   "related": [
@@ -5782,7 +5322,7 @@
    "height": 1024,
    "label": "Promise Doves",
    "alt": "A pair of grey-and-rose doves raised in the same nest and given to two people who have made a Salt Promise.",
-   "caption": "A pair of grey-and-rose doves raised in the same nest and given to two people who have made a Salt Promise."
+   "caption": "Promise Doves"
   }
  },
  {
@@ -5790,13 +5330,13 @@
   "title": "Mirror Plover",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "A small life beside yours",
+  "subtitle": "The bird that becomes you",
   "summary": "A small sand-colored shorebird with a dark collar, the kind that runs along the tideline just ahead of the waves.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A small sand-colored shorebird with a dark collar, the kind that runs along the tideline just ahead of the waves. A mirror plover runs beside one person instead, at their heel, for its whole life."
+     "A mirror plover runs beside one person instead, at their heel, for its whole life."
     ]
    },
    {
@@ -5827,8 +5367,7 @@
     "title": "What people say",
     "paragraphs": [
      "\"A plover that hasn't seen your Still Days doesn't know you yet.\"",
-     "\"Never tell a secret in front of a plover.\"",
-     "\"A plover is a memory, not a witness.\""
+     "\"Never tell a secret in front of a plover.\""
     ]
    },
    {
@@ -5853,7 +5392,7 @@
   "creatureKind": "companion",
   "epigraph": {
    "quote": "A plover is a memory, not a witness.",
-   "by": "What people say in the harbors"
+   "by": "A harbor saying"
   },
   "aliases": [],
   "related": [
@@ -5869,7 +5408,7 @@
    "height": 1024,
    "label": "Mirror Plover",
    "alt": "A small sand-colored shorebird with a dark collar, the kind that runs along the tideline just ahead of the waves.",
-   "caption": "A small sand-colored shorebird with a dark collar, the kind that runs along the tideline just ahead of the waves."
+   "caption": "Mirror Plover"
   }
  },
  {
@@ -5877,13 +5416,13 @@
   "title": "Knot Crab",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "A knot it ties holds until it or its person decides otherwise.",
+  "subtitle": "The bosun’s secret",
   "summary": "A hand-sized hermit crab with a bright orange shell it is always about to trade, and two claws as clever as a bosun's fingers.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A hand-sized hermit crab with a bright orange shell it is always about to trade, and two claws as clever as a bosun's fingers. Knot crabs live in a ship's knot-bag and climb the rigging at night to inspect the work."
+     "Knot crabs live in a ship's knot-bag and climb the rigging at night to inspect the work."
     ]
    },
    {
@@ -5942,7 +5481,7 @@
    "height": 1024,
    "label": "Knot Crab",
    "alt": "A hand-sized hermit crab with a bright orange shell it is always about to trade, and two claws as clever as a bosun's fingers.",
-   "caption": "A hand-sized hermit crab with a bright orange shell it is always about to trade, and two claws as clever as a bosun's fingers."
+   "caption": "Knot Crab"
   }
  },
  {
@@ -5950,13 +5489,13 @@
   "title": "Leak Rat",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "A small life beside yours",
+  "subtitle": "First to find the water",
   "summary": "A sleek brown ship's rat with a white blaze on its chest, a little cleaner than other rats and a great deal braver.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A sleek brown ship's rat with a white blaze on its chest, a little cleaner than other rats and a great deal braver. Every other rat leaves a sinking ship. The leak rat stays."
+     "Every other rat leaves a sinking ship. The leak rat stays."
     ]
    },
    {
@@ -6014,7 +5553,7 @@
    "height": 1024,
    "label": "Leak Rat",
    "alt": "A sleek brown ship's rat with a white blaze on its chest, a little cleaner than other rats and a great deal braver.",
-   "caption": "A sleek brown ship's rat with a white blaze on its chest, a little cleaner than other rats and a great deal braver."
+   "caption": "Leak Rat"
   }
  },
  {
@@ -6022,15 +5561,9 @@
   "title": "Gutter Parrot",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "A small life beside yours",
+  "subtitle": "Every insult in every tongue",
   "summary": "A loud green-and-scarlet parrot that learns every insult it hears, in every language, and nothing else, because it has never seen the point of anything else.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A loud green-and-scarlet parrot that learns every insult it hears, in every language, and nothing else, because it has never seen the point of anything else."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6087,7 +5620,7 @@
    "height": 1024,
    "label": "Gutter Parrot",
    "alt": "A loud green-and-scarlet parrot that learns every insult it hears, in every language, and nothing else, because it has never seen the point of anything else.",
-   "caption": "A loud green-and-scarlet parrot that learns every insult it hears, in every language, and nothing else, because it has never seen the point of anything else."
+   "caption": "Gutter Parrot"
   }
  },
  {
@@ -6095,15 +5628,9 @@
   "title": "Net Cormorant",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "It fishes for its person.",
+  "subtitle": "Supper, brought to the boat",
   "summary": "A long-necked black diving bird with green eyes and the patience of a fisherman, trained in the fishing villages for longer than the Charter is old.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A long-necked black diving bird with green eyes and the patience of a fisherman, trained in the fishing villages for longer than the Charter is old."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6160,7 +5687,7 @@
    "height": 1024,
    "label": "Net Cormorant",
    "alt": "A long-necked black diving bird with green eyes and the patience of a fisherman, trained in the fishing villages for longer than the Charter is old.",
-   "caption": "A long-necked black diving bird with green eyes and the patience of a fisherman, trained in the fishing villages for longer than the Charter is old."
+   "caption": "Net Cormorant"
   }
  },
  {
@@ -6168,13 +5695,13 @@
   "title": "Taster Bat",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "It sniffs a plate or a cup before you do, and refuses it if it's poisoned or spoiled.",
+  "subtitle": "The first sip is the bat’s",
   "summary": "A russet fruit bat with a fox's face, which sleeps upside down in its person's hood and wakes for supper.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A russet fruit bat with a fox's face, which sleeps upside down in its person's hood and wakes for supper. Taster bats came north on the fruit ships and stayed for the banquets."
+     "Taster bats came north on the fruit ships and stayed for the banquets."
     ]
    },
    {
@@ -6233,7 +5760,7 @@
    "height": 1024,
    "label": "Taster Bat",
    "alt": "A russet fruit bat with a fox's face, which sleeps upside down in its person's hood and wakes for supper.",
-   "caption": "A russet fruit bat with a fox's face, which sleeps upside down in its person's hood and wakes for supper."
+   "caption": "Taster Bat"
   }
  },
  {
@@ -6241,13 +5768,13 @@
   "title": "Counting Jackdaw",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "It knows at a glance how many coins are in a pile, and it tells you if one goes missing.",
+  "subtitle": "The merchant’s honest eye",
   "summary": "A grey-naped jackdaw with pale, unblinking eyes and a beak it taps on the table to count.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A grey-naped jackdaw with pale, unblinking eyes and a beak it taps on the table to count. Counting jackdaws are bred by the Pocchin, who keep the best and sell the rest at a price that tests the buyer's own counting."
+     "Counting jackdaws are bred by the Pocchin, who keep the best and sell the rest at a price that tests the buyer's own counting."
     ]
    },
    {
@@ -6307,7 +5834,7 @@
    "height": 1024,
    "label": "Counting Jackdaw",
    "alt": "A grey-naped jackdaw with pale, unblinking eyes and a beak it taps on the table to count.",
-   "caption": "A grey-naped jackdaw with pale, unblinking eyes and a beak it taps on the table to count."
+   "caption": "Counting Jackdaw"
   }
  },
  {
@@ -6315,15 +5842,9 @@
   "title": "Ink Octopus",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "Once a day it copies onto paper, in its own ink, a short line or a small drawing it has seen.",
+  "subtitle": "The clerk’s eight-armed copyist",
   "summary": "A palm-sized octopus, dusky purple, that lives in a great inkwell of seawater on a clerk's desk and watches the pen with all eight arms folded.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A palm-sized octopus, dusky purple, that lives in a great inkwell of seawater on a clerk's desk and watches the pen with all eight arms folded."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6381,7 +5902,7 @@
    "height": 1024,
    "label": "Ink Octopus",
    "alt": "A palm-sized octopus, dusky purple, that lives in a great inkwell of seawater on a clerk's desk and watches the pen with all eight arms folded.",
-   "caption": "A palm-sized octopus, dusky purple, that lives in a great inkwell of seawater on a clerk's desk and watches the pen with all eight arms folded."
+   "caption": "Ink Octopus"
   }
  },
  {
@@ -6389,15 +5910,9 @@
   "title": "Darning Spider",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "A small life beside yours",
+  "subtitle": "Mender in the sewing box",
   "summary": "A small grey spider with a white cross on its back, which lives in the sewing box and darns at night while the house sleeps.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A small grey spider with a white cross on its back, which lives in the sewing box and darns at night while the house sleeps."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6455,7 +5970,7 @@
    "height": 1024,
    "label": "Darning Spider",
    "alt": "A small grey spider with a white cross on its back, which lives in the sewing box and darns at night while the house sleeps.",
-   "caption": "A small grey spider with a white cross on its back, which lives in the sewing box and darns at night while the house sleeps."
+   "caption": "Darning Spider"
   }
  },
  {
@@ -6463,15 +5978,9 @@
   "title": "Glider Squirrel",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "A small life beside yours",
+  "subtitle": "The rooftop post",
   "summary": "A fawn-colored flying squirrel with enormous dark eyes and a fold of skin from wrist to ankle, which glides from roof to roof and lands on whomever it pleases.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A fawn-colored flying squirrel with enormous dark eyes and a fold of skin from wrist to ankle, which glides from roof to roof and lands on whomever it pleases."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6528,7 +6037,7 @@
    "height": 1024,
    "label": "Glider Squirrel",
    "alt": "A fawn-colored flying squirrel with enormous dark eyes and a fold of skin from wrist to ankle, which glides from roof to roof and lands on whomever it pleases.",
-   "caption": "A fawn-colored flying squirrel with enormous dark eyes and a fold of skin from wrist to ankle, which glides from roof to roof and lands on whomever it pleases."
+   "caption": "Glider Squirrel"
   }
  },
  {
@@ -6536,15 +6045,9 @@
   "title": "Fortune Gecko",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "Once a day, at a game of chance, its person may throw one die again.",
+  "subtitle": "The gambler’s second chance",
   "summary": "A speckled gold gecko with sticky toes, a lazy smile, and a habit of licking its own eye before every throw of the dice.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A speckled gold gecko with sticky toes, a lazy smile, and a habit of licking its own eye before every throw of the dice."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6601,7 +6104,7 @@
    "height": 1024,
    "label": "Fortune Gecko",
    "alt": "A speckled gold gecko with sticky toes, a lazy smile, and a habit of licking its own eye before every throw of the dice.",
-   "caption": "A speckled gold gecko with sticky toes, a lazy smile, and a habit of licking its own eye before every throw of the dice."
+   "caption": "Fortune Gecko"
   }
  },
  {
@@ -6609,13 +6112,13 @@
   "title": "Bookmark Silverfish",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "Say a word, and it runs through a book and stops on the first page where the word is written.",
+  "subtitle": "The scholar’s quick finger",
   "summary": "A quick silver insect the length of a fingernail that, unlike every one of its cousins, does not eat paper.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A quick silver insect the length of a fingernail that, unlike every one of its cousins, does not eat paper. It eats dust, and it marks pages."
+     "It eats dust, and it marks pages."
     ]
    },
    {
@@ -6674,7 +6177,7 @@
    "height": 1024,
    "label": "Bookmark Silverfish",
    "alt": "A quick silver insect the length of a fingernail that, unlike every one of its cousins, does not eat paper.",
-   "caption": "A quick silver insect the length of a fingernail that, unlike every one of its cousins, does not eat paper."
+   "caption": "Bookmark Silverfish"
   }
  },
  {
@@ -6682,15 +6185,9 @@
   "title": "Homeward Snail",
   "category": "creature",
   "region": "Northern Frontier",
-  "subtitle": "It always knows which way home lies.",
+  "subtitle": "The shell that points home",
   "summary": "A thumb-sized snail with a tight, banded shell whose spiral always turns to face home: the last place its person slept three nights running.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A thumb-sized snail with a tight, banded shell whose spiral always turns to face home: the last place its person slept three nights running."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6706,15 +6203,8 @@
    {
     "title": "In island life",
     "paragraphs": [
-     "In the north, I'm carrying snail means I'm coming back.",
      "Sailors say a snail never lies. It only points at the place you've been sleeping, which is not always the place you call home.",
      "Giving someone back their snail ends a courtship."
-    ]
-   },
-   {
-    "title": "What people say",
-    "paragraphs": [
-     "\"I'm carrying snail.\""
     ]
    },
    {
@@ -6753,7 +6243,7 @@
    "height": 1024,
    "label": "Homeward Snail",
    "alt": "A thumb-sized snail with a tight, banded shell whose spiral always turns to face home: the last place its person slept three nights running.",
-   "caption": "A thumb-sized snail with a tight, banded shell whose spiral always turns to face home: the last place its person slept three nights running."
+   "caption": "Homeward Snail"
   }
  },
  {
@@ -6761,15 +6251,9 @@
   "title": "Drum Hare",
   "category": "creature",
   "region": "Northern Frontier",
-  "subtitle": "If anyone comes near the camp while its person sleeps, it drums the ground and wakes them.",
+  "subtitle": "The camp’s sentry",
   "summary": "A long-eared grey hare with black-tipped ears and enormous hind feet, which sleeps against its person's bedroll and listens all night.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A long-eared grey hare with black-tipped ears and enormous hind feet, which sleeps against its person's bedroll and listens all night."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6788,12 +6272,6 @@
      "The hare didn't drum is how the north says I slept easy.",
      "Garrisons along the Frontier keep hares at every gate.",
      "A hare knows its person's friends and doesn't drum for them, which has settled more than one question about who really was a friend."
-    ]
-   },
-   {
-    "title": "What people say",
-    "paragraphs": [
-     "\"The hare didn't drum.\""
     ]
    },
    {
@@ -6832,7 +6310,7 @@
    "height": 1024,
    "label": "Drum Hare",
    "alt": "A long-eared grey hare with black-tipped ears and enormous hind feet, which sleeps against its person's bedroll and listens all night.",
-   "caption": "A long-eared grey hare with black-tipped ears and enormous hind feet, which sleeps against its person's bedroll and listens all night."
+   "caption": "Drum Hare"
   }
  },
  {
@@ -6840,15 +6318,9 @@
   "title": "Echo Finch",
   "category": "creature",
   "region": "Northern Frontier",
-  "subtitle": "A small life beside yours",
+  "subtitle": "A voice kept after the singer",
   "summary": "A small brown finch with a rose breast and a sweet, ordinary song, until it chooses to sing something else.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A small brown finch with a rose breast and a sweet, ordinary song, until it chooses to sing something else."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6905,7 +6377,7 @@
    "height": 1024,
    "label": "Echo Finch",
    "alt": "A small brown finch with a rose breast and a sweet, ordinary song, until it chooses to sing something else.",
-   "caption": "A small brown finch with a rose breast and a sweet, ordinary song, until it chooses to sing something else."
+   "caption": "Echo Finch"
   }
  },
  {
@@ -6913,15 +6385,9 @@
   "title": "Dreamcurl Hedgehog",
   "category": "creature",
   "region": "Northern Frontier",
-  "subtitle": "While it sleeps on you, you don't have nightmares, not even the kind someone sends.",
+  "subtitle": "Guard against bad dreams",
   "summary": "A round brown hedgehog with a pale snout, which curls up on its person's chest at night and snores very quietly.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A round brown hedgehog with a pale snout, which curls up on its person's chest at night and snores very quietly."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -6978,7 +6444,7 @@
    "height": 1024,
    "label": "Dreamcurl Hedgehog",
    "alt": "A round brown hedgehog with a pale snout, which curls up on its person's chest at night and snores very quietly.",
-   "caption": "A round brown hedgehog with a pale snout, which curls up on its person's chest at night and snores very quietly."
+   "caption": "Dreamcurl Hedgehog"
   }
  },
  {
@@ -6986,13 +6452,13 @@
   "title": "Spark Ferret",
   "category": "creature",
   "region": "Northern Frontier",
-  "subtitle": "It finds raw Krysta.",
+  "subtitle": "The nose for raw Krysta",
   "summary": "A long sandy ferret with a dark mask and whiskers that crackle.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A long sandy ferret with a dark mask and whiskers that crackle. When there is raw Krysta near, its whiskers throw tiny harmless sparks, and it gets very excited."
+     "When there is raw Krysta near, its whiskers throw tiny harmless sparks, and it gets very excited."
     ]
    },
    {
@@ -7053,7 +6519,7 @@
    "height": 1024,
    "label": "Spark Ferret",
    "alt": "A long sandy ferret with a dark mask and whiskers that crackle.",
-   "caption": "A long sandy ferret with a dark mask and whiskers that crackle."
+   "caption": "Spark Ferret"
   }
  },
  {
@@ -7061,13 +6527,13 @@
   "title": "Thumb Raptor",
   "category": "creature",
   "region": "Southern Wilds",
-  "subtitle": "It hunts every biting insect around the camp.",
+  "subtitle": "The smallest saurian in the south",
   "summary": "A feathered saurian the size of a sparrow, green and gold, with a stub of a tail and the loyalty of a good dog.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A feathered saurian the size of a sparrow, green and gold, with a stub of a tail and the loyalty of a good dog. It rides on its person's shoulder and snaps at anything that flies."
+     "It rides on its person's shoulder and snaps at anything that flies."
     ]
    },
    {
@@ -7126,7 +6592,7 @@
    "height": 1024,
    "label": "Thumb Raptor",
    "alt": "A feathered saurian the size of a sparrow, green and gold, with a stub of a tail and the loyalty of a good dog.",
-   "caption": "A feathered saurian the size of a sparrow, green and gold, with a stub of a tail and the loyalty of a good dog."
+   "caption": "Thumb Raptor"
   }
  },
  {
@@ -7134,15 +6600,9 @@
   "title": "Veil Butterfly",
   "category": "creature",
   "region": "Southern Wilds",
-  "subtitle": "Its wings turn clear as water when a fey creature, or a thin place to the Faewild, is near.",
+  "subtitle": "Wings that warn of the fey",
   "summary": "A large amber butterfly with veined wings like stained glass, slow in flight and fond of resting on shoulders.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A large amber butterfly with veined wings like stained glass, slow in flight and fond of resting on shoulders."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -7200,7 +6660,7 @@
    "height": 1024,
    "label": "Veil Butterfly",
    "alt": "A large amber butterfly with veined wings like stained glass, slow in flight and fond of resting on shoulders.",
-   "caption": "A large amber butterfly with veined wings like stained glass, slow in flight and fond of resting on shoulders."
+   "caption": "Veil Butterfly"
   }
  },
  {
@@ -7208,15 +6668,9 @@
   "title": "Moss Sloth",
   "category": "creature",
   "region": "Southern Wilds",
-  "subtitle": "The moss in its fur, pressed to a wound, keeps a dying person alive until help comes.",
+  "subtitle": "The slowest healer in Kalvatar",
   "summary": "A small, smiling, three-toed sloth with green moss growing in its fur, the slowest and most patient thing in Kalvatar.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A small, smiling, three-toed sloth with green moss growing in its fur, the slowest and most patient thing in Kalvatar."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -7273,7 +6727,7 @@
    "height": 1024,
    "label": "Moss Sloth",
    "alt": "A small, smiling, three-toed sloth with green moss growing in its fur, the slowest and most patient thing in Kalvatar.",
-   "caption": "A small, smiling, three-toed sloth with green moss growing in its fur, the slowest and most patient thing in Kalvatar."
+   "caption": "Moss Sloth"
   }
  },
  {
@@ -7281,15 +6735,9 @@
   "title": "Trail Mongoose",
   "category": "creature",
   "region": "Southern Wilds",
-  "subtitle": "Let it smell something, and it will follow that trail for a day.",
+  "subtitle": "A day on any scent",
   "summary": "A quick, brindled mongoose with a bottle-brush tail, which runs ahead nose-down and comes back to make sure you're keeping up.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A quick, brindled mongoose with a bottle-brush tail, which runs ahead nose-down and comes back to make sure you're keeping up."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -7346,7 +6794,7 @@
    "height": 1024,
    "label": "Trail Mongoose",
    "alt": "A quick, brindled mongoose with a bottle-brush tail, which runs ahead nose-down and comes back to make sure you're keeping up.",
-   "caption": "A quick, brindled mongoose with a bottle-brush tail, which runs ahead nose-down and comes back to make sure you're keeping up."
+   "caption": "Trail Mongoose"
   }
  },
  {
@@ -7354,15 +6802,9 @@
   "title": "Scarf Stoat",
   "category": "creature",
   "region": "Icy Expanse",
-  "subtitle": "While it sleeps around your neck, the cold of the night can't hurt you.",
+  "subtitle": "Warmth that sleeps on your shoulders",
   "summary": "A white winter stoat with a black tail-tip, which sleeps wrapped around its person's neck like a scarf and complains when they turn over.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A white winter stoat with a black tail-tip, which sleeps wrapped around its person's neck like a scarf and complains when they turn over."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -7418,7 +6860,7 @@
    "height": 1024,
    "label": "Scarf Stoat",
    "alt": "A white winter stoat with a black tail-tip, which sleeps wrapped around its person's neck like a scarf and complains when they turn over.",
-   "caption": "A white winter stoat with a black tail-tip, which sleeps wrapped around its person's neck like a scarf and complains when they turn over."
+   "caption": "Scarf Stoat"
   }
  },
  {
@@ -7426,15 +6868,9 @@
   "title": "Hush Owl",
   "category": "creature",
   "region": "Icy Expanse",
-  "subtitle": "It falls silent and puffs up when the walking dead are close.",
+  "subtitle": "The bird that goes quiet for the dead",
   "summary": "A small white owl with gold eyes that is never quiet: it clicks, chirrs, and mutters all day long, until the dead come near.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A small white owl with gold eyes that is never quiet: it clicks, chirrs, and mutters all day long, until the dead come near."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -7451,14 +6887,7 @@
     "title": "In island life",
     "paragraphs": [
      "On the ice, no gravedigger works without one.",
-     "The owl went quiet is the worst sentence in the south.",
      "An owl that goes quiet at a funeral empties the room."
-    ]
-   },
-   {
-    "title": "What people say",
-    "paragraphs": [
-     "\"The owl went quiet.\""
     ]
    },
    {
@@ -7482,8 +6911,8 @@
   "source": "Beasts and Companions · p. 21",
   "creatureKind": "companion",
   "epigraph": {
-   "quote": "The owl went quiet.",
-   "by": "What people say in the harbors"
+   "quote": "On the ice, “the owl went quiet” is the worst sentence there is.",
+   "by": "A Frosthold gravedigger"
   },
   "aliases": [],
   "related": [
@@ -7498,7 +6927,7 @@
    "height": 1024,
    "label": "Hush Owl",
    "alt": "A small white owl with gold eyes that is never quiet: it clicks, chirrs, and mutters all day long, until the dead come near.",
-   "caption": "A small white owl with gold eyes that is never quiet: it clicks, chirrs, and mutters all day long, until the dead come near."
+   "caption": "Hush Owl"
   }
  },
  {
@@ -7506,15 +6935,9 @@
   "title": "Landfall Petrel",
   "category": "creature",
   "region": "Icy Expanse",
-  "subtitle": "Once a day it knows which way the nearest land lies, and flies a line toward it.",
+  "subtitle": "The bird that knows where land lies",
   "summary": "A small sooty petrel with a white rump, which flies low over the waves and sleeps standing on the rail.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A small sooty petrel with a white rump, which flies low over the waves and sleeps standing on the rail."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -7530,7 +6953,7 @@
    {
     "title": "In island life",
     "paragraphs": [
-     "The snail tells you where home is. The petrel tells you where land is. In the southern fog, the petrel is worth more than a compass.",
+     "The snail tells you where home is. The petrel tells you where land is.",
      "The whalers of Frosthold won't sail without one.",
      "A petrel that won't leave the rail knows there's no land near. Pray."
     ]
@@ -7571,7 +6994,7 @@
    "height": 1024,
    "label": "Landfall Petrel",
    "alt": "A small sooty petrel with a white rump, which flies low over the waves and sleeps standing on the rail.",
-   "caption": "A small sooty petrel with a white rump, which flies low over the waves and sleeps standing on the rail."
+   "caption": "Landfall Petrel"
   }
  },
  {
@@ -7579,15 +7002,9 @@
   "title": "Bubble Seahorse",
   "category": "creature",
   "region": "The Sea",
-  "subtitle": "A small life beside yours",
+  "subtitle": "A friend from below, at your belt",
   "summary": "A tiny gold-and-coral seahorse that lives in a stoppered glass jar of seawater worn at the belt, and looks out at the world with great dignity.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A tiny gold-and-coral seahorse that lives in a stoppered glass jar of seawater worn at the belt, and looks out at the world with great dignity."
-    ]
-   },
    {
     "title": "Its gift",
     "paragraphs": [
@@ -7603,15 +7020,8 @@
    {
     "title": "In island life",
     "paragraphs": [
-     "A seahorse jar at the belt says I have friends below.",
      "Pearl divers who carry one are paid more, and dive deeper.",
      "Change its water every day, from the sea, never from a barrel."
-    ]
-   },
-   {
-    "title": "What people say",
-    "paragraphs": [
-     "\"I have friends below.\""
     ]
    },
    {
@@ -7635,7 +7045,7 @@
   "creatureKind": "companion",
   "epigraph": {
    "quote": "I have friends below.",
-   "by": "What people say in the harbors"
+   "by": "What a seahorse jar at the belt tells the harbor"
   },
   "aliases": [],
   "related": [
@@ -7650,7 +7060,7 @@
    "height": 1024,
    "label": "Bubble Seahorse",
    "alt": "A tiny gold-and-coral seahorse that lives in a stoppered glass jar of seawater worn at the belt, and looks out at the world with great dignity.",
-   "caption": "A tiny gold-and-coral seahorse that lives in a stoppered glass jar of seawater worn at the belt, and looks out at the world with great dignity."
+   "caption": "Bubble Seahorse"
   }
  },
  {
@@ -7658,13 +7068,13 @@
   "title": "Tide Anemone",
   "category": "creature",
   "region": "The Sea",
-  "subtitle": "Its keeper always knows exactly when the tide will turn at home.",
+  "subtitle": "Home’s tide, in a jar",
   "summary": "A small sea anemone, pink and cream, that lives in a jar on the windowsill.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A small sea anemone, pink and cream, that lives in a jar on the windowsill. It opens at high tide and closes at low, keeping the time of the sea where it grew, however far inland it goes."
+     "It opens at high tide and closes at low, keeping the time of the sea where it grew, however far inland it goes."
     ]
    },
    {
@@ -7724,7 +7134,7 @@
    "height": 1024,
    "label": "Tide Anemone",
    "alt": "A small sea anemone, pink and cream, that lives in a jar on the windowsill.",
-   "caption": "A small sea anemone, pink and cream, that lives in a jar on the windowsill."
+   "caption": "Tide Anemone"
   }
  },
  {
@@ -7732,15 +7142,9 @@
   "title": "Lodge Hound",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "It tracks monsters.",
+  "subtitle": "The Hunters’ monster-tracker",
   "summary": "A big, deep-chested scent hound with long ears, a grave face, and a voice like a bell, bred at the Goldwind Lodge for as long as there have been Hunters.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A big, deep-chested scent hound with long ears, a grave face, and a voice like a bell, bred at the Goldwind Lodge for as long as there have been Hunters."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -7754,7 +7158,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Only for a Hunter of the Scout branch, or one who takes monster contracts, and only when the Lodge assigns one."
     ]
@@ -7766,12 +7170,6 @@
      "A lodge hound is never sold. A Hunter who loses one through carelessness may never be given another.",
      "Most Lodges keep two or three. The Goldwind Lodge keeps a kennel the size of a chapel.",
      "When a lodge hound dies on a contract, its collar hangs in the Lodge hall beside the names of the Hunters who fell."
-    ]
-   },
-   {
-    "title": "What people say",
-    "paragraphs": [
-     "\"The hound came home alone.\" (The worst news a Lodge can get.)"
     ]
    },
    {
@@ -7794,8 +7192,8 @@
   "source": "Beasts and Companions · p. 25",
   "creatureKind": "working",
   "epigraph": {
-   "quote": "The hound came home alone.\" (The worst news a Lodge can get.)",
-   "by": "What people say in the harbors"
+   "quote": "The hound came home alone.",
+   "by": "A harbor saying: the worst news a Lodge can get"
   },
   "aliases": [],
   "related": [
@@ -7811,7 +7209,7 @@
    "height": 1024,
    "label": "Lodge Hound",
    "alt": "A big, deep-chested scent hound with long ears, a grave face, and a voice like a bell, bred at the Goldwind Lodge for as long as there have been Hunters.",
-   "caption": "A big, deep-chested scent hound with long ears, a grave face, and a voice like a bell, bred at the Goldwind Lodge for as long as there have been Hunters."
+   "caption": "Lodge Hound"
   }
  },
  {
@@ -7819,15 +7217,9 @@
   "title": "Roof Goats",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "They give milk, cheese, wool, and meat, and they are the caravan's lookouts.",
+  "subtitle": "Lookouts of the Pocchin caravans",
   "summary": "Short-legged, long-bearded goats with clever yellow eyes, bred by the Pocchin to live on the roofs of their walking houses.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "Short-legged, long-bearded goats with clever yellow eyes, bred by the Pocchin to live on the roofs of their walking houses."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -7841,7 +7233,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Yes. A Pocchin without a goat is in mourning, or has quarreled with the family."
     ]
@@ -7890,7 +7282,7 @@
    "height": 1024,
    "label": "Roof Goats",
    "alt": "Short-legged, long-bearded goats with clever yellow eyes, bred by the Pocchin to live on the roofs of their walking houses.",
-   "caption": "Short-legged, long-bearded goats with clever yellow eyes, bred by the Pocchin to live on the roofs of their walking houses."
+   "caption": "Roof Goats"
   }
  },
  {
@@ -7898,13 +7290,13 @@
   "title": "Tidehound",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "Rescue.",
+  "subtitle": "The lifeboat with a tail",
   "summary": "A big, shaggy water dog, black or brown, with webbed feet, a coat that sheds water, and a tail like a ship's rudder.",
   "sections": [
    {
     "title": "Appearance",
     "paragraphs": [
-     "A big, shaggy water dog, black or brown, with webbed feet, a coat that sheds water, and a tail like a ship's rudder. A tidehound swims better than most sailors, and knows it."
+     "A tidehound swims better than most sailors, and knows it."
     ]
    },
    {
@@ -7920,7 +7312,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Yes, and one of the best loved. People say it is Brother Dog's own breed."
     ]
@@ -7969,7 +7361,7 @@
    "height": 1024,
    "label": "Tidehound",
    "alt": "A big, shaggy water dog, black or brown, with webbed feet, a coat that sheds water, and a tail like a ship's rudder.",
-   "caption": "A big, shaggy water dog, black or brown, with webbed feet, a coat that sheds water, and a tail like a ship's rudder."
+   "caption": "Tidehound"
   }
  },
  {
@@ -7977,15 +7369,9 @@
   "title": "Roadstead Tern",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "The islands' working lives",
+  "subtitle": "The harbor’s messenger",
   "summary": "A white tern with a black cap and a forked tail, which flies only between a ship and the harbor that can be seen from its deck.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A white tern with a black cap and a forked tail, which flies only between a ship and the harbor that can be seen from its deck."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -7999,7 +7385,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Yes, but it is only useful while the coast is in sight."
     ]
@@ -8040,7 +7426,7 @@
    "height": 1024,
    "label": "Roadstead Tern",
    "alt": "A white tern with a black cap and a forked tail, which flies only between a ship and the harbor that can be seen from its deck.",
-   "caption": "A white tern with a black cap and a forked tail, which flies only between a ship and the harbor that can be seen from its deck."
+   "caption": "Roadstead Tern"
   }
  },
  {
@@ -8048,15 +7434,9 @@
   "title": "Pilot Dolphins",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "They guide ships through the reefs in return for fish.",
+  "subtitle": "The reef pilots nobody owns",
   "summary": "Wild grey dolphins that belong to no one, and that know the reefs better than any chart.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "Wild grey dolphins that belong to no one, and that know the reefs better than any chart."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8066,11 +7446,11 @@
    {
     "title": "What it tells you",
     "paragraphs": [
-     "A pilot with a bone whistle at the throat has a pod that answers. Losing the whistle is losing the trade."
+     "A pilot with a bone whistle at the throat has a pod that answers."
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No, but a pilot character can have a pod of their own."
     ]
@@ -8111,7 +7491,7 @@
    "height": 1024,
    "label": "Pilot Dolphins",
    "alt": "Wild grey dolphins that belong to no one, and that know the reefs better than any chart.",
-   "caption": "Wild grey dolphins that belong to no one, and that know the reefs better than any chart."
+   "caption": "Pilot Dolphins"
   }
  },
  {
@@ -8119,15 +7499,9 @@
   "title": "Courier Eel",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "The islands' working lives",
+  "subtitle": "The Undertow’s post",
   "summary": "A trained moray as long as a man, mottled green and gold, with a smile nobody likes.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A trained moray as long as a man, mottled green and gold, with a smile nobody likes."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8141,15 +7515,9 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Only if you are Undertow, and only if the eel agrees."
-    ]
-   },
-   {
-    "title": "What people say",
-    "paragraphs": [
-     "\"Customs has ferrets. The Undertow has eels.\""
     ]
    },
    {
@@ -8173,7 +7541,7 @@
   "creatureKind": "working",
   "epigraph": {
    "quote": "Customs has ferrets. The Undertow has eels.",
-   "by": "What people say in the harbors"
+   "by": "A harbor saying"
   },
   "aliases": [],
   "related": [
@@ -8188,7 +7556,7 @@
    "height": 1024,
    "label": "Courier Eel",
    "alt": "A trained moray as long as a man, mottled green and gold, with a smile nobody likes.",
-   "caption": "A trained moray as long as a man, mottled green and gold, with a smile nobody likes."
+   "caption": "Courier Eel"
   }
  },
  {
@@ -8196,15 +7564,9 @@
   "title": "Wrack Cow",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "It tows barges and lighters through the canals and shallows, and keeps the kelp beds tidy.",
+  "subtitle": "The gentle tug of the canals",
   "summary": "A fat, gentle sea-cow with a whiskered snout, which grazes the honeywrack beds.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A fat, gentle sea-cow with a whiskered snout, which grazes the honeywrack beds."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8218,7 +7580,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No. It lives in the water and weighs as much as a boat."
     ]
@@ -8260,7 +7622,7 @@
    "height": 1024,
    "label": "Wrack Cow",
    "alt": "A fat, gentle sea-cow with a whiskered snout, which grazes the honeywrack beds.",
-   "caption": "A fat, gentle sea-cow with a whiskered snout, which grazes the honeywrack beds."
+   "caption": "Wrack Cow"
   }
  },
  {
@@ -8268,15 +7630,9 @@
   "title": "Ferry Turtle",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "The islands' working lives",
+  "subtitle": "The oldest ferry in the village",
   "summary": "A giant sea turtle, the chartback's cousin of the sea, with a shell broad enough to carry a raft.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A giant sea turtle, the chartback's cousin of the sea, with a shell broad enough to carry a raft."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8290,7 +7646,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No."
     ]
@@ -8338,7 +7694,7 @@
    "height": 1024,
    "label": "Ferry Turtle",
    "alt": "A giant sea turtle, the chartback's cousin of the sea, with a shell broad enough to carry a raft.",
-   "caption": "A giant sea turtle, the chartback's cousin of the sea, with a shell broad enough to carry a raft."
+   "caption": "Ferry Turtle"
   }
  },
  {
@@ -8346,15 +7702,9 @@
   "title": "Vault Geese",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "They guard the harbor warehouses and the vaults of the Reckoners' Hall.",
+  "subtitle": "The loudest lock in the harbor",
   "summary": "Big grey geese with orange beaks, long necks, and a hatred of strangers that borders on the religious.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "Big grey geese with orange beaks, long necks, and a hatred of strangers that borders on the religious."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8368,7 +7718,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Technically, yes. Nobody recommends it."
     ]
@@ -8409,7 +7759,7 @@
    "height": 1024,
    "label": "Vault Geese",
    "alt": "Big grey geese with orange beaks, long necks, and a hatred of strangers that borders on the religious.",
-   "caption": "Big grey geese with orange beaks, long necks, and a hatred of strangers that borders on the religious."
+   "caption": "Vault Geese"
   }
  },
  {
@@ -8417,15 +7767,9 @@
   "title": "Gutter Pigs",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "The islands' working lives",
+  "subtitle": "The harbor’s night shift",
   "summary": "Lean black pigs with clever eyes and no shame at all.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "Lean black pigs with clever eyes and no shame at all."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8439,7 +7783,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Some street child always has one, and won't let it go."
     ]
@@ -8480,7 +7824,7 @@
    "height": 1024,
    "label": "Gutter Pigs",
    "alt": "Lean black pigs with clever eyes and no shame at all.",
-   "caption": "Lean black pigs with clever eyes and no shame at all."
+   "caption": "Gutter Pigs"
   }
  },
  {
@@ -8488,15 +7832,9 @@
   "title": "Bellows Toad",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "It puffs itself up and blows the fire until the iron glows.",
+  "subtitle": "The breath of the forge",
   "summary": "A warty, bronze-colored toad the size of a dog, which lives beside the forge, loves the heat, and has opinions about iron.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A warty, bronze-colored toad the size of a dog, which lives beside the forge, loves the heat, and has opinions about iron."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8510,7 +7848,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Yes, though it never strays far from a fire."
     ]
@@ -8564,7 +7902,7 @@
    "height": 1024,
    "label": "Bellows Toad",
    "alt": "A warty, bronze-colored toad the size of a dog, which lives beside the forge, loves the heat, and has opinions about iron.",
-   "caption": "A warty, bronze-colored toad the size of a dog, which lives beside the forge, loves the heat, and has opinions about iron."
+   "caption": "Bellows Toad"
   }
  },
  {
@@ -8572,15 +7910,9 @@
   "title": "Terrace Ducks",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "The brightleaf growers walk them through the terraces of Sunhold to eat the leaf-beetles.",
+  "subtitle": "Sunhold’s dawn parade",
   "summary": "White ducks with orange feet that walk everywhere in single file, quacking in order of seniority.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "White ducks with orange feet that walk everywhere in single file, quacking in order of seniority."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8594,7 +7926,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Yes, though a duck alone gets sad. Most people who keep one end up keeping three."
     ]
@@ -8636,7 +7968,7 @@
    "height": 1024,
    "label": "Terrace Ducks",
    "alt": "White ducks with orange feet that walk everywhere in single file, quacking in order of seniority.",
-   "caption": "White ducks with orange feet that walk everywhere in single file, quacking in order of seniority."
+   "caption": "Terrace Ducks"
   }
  },
  {
@@ -8644,15 +7976,9 @@
   "title": "Silverport Silkmoth",
   "category": "creature",
   "region": "Central Heartland",
-  "subtitle": "The silk-farms of Silverport raise them in warm rooms among the leaves.",
+  "subtitle": "Where the islands’ silk begins",
   "summary": "A large white moth with feathered antennae, whose caterpillars spin the archipelago's silk.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A large white moth with feathered antennae, whose caterpillars spin the archipelago's silk."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8666,7 +7992,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No. The grown moth lives a month."
     ]
@@ -8707,7 +8033,7 @@
    "height": 1024,
    "label": "Silverport Silkmoth",
    "alt": "A large white moth with feathered antennae, whose caterpillars spin the archipelago's silk.",
-   "caption": "A large white moth with feathered antennae, whose caterpillars spin the archipelago's silk."
+   "caption": "Silverport Silkmoth"
   }
  },
  {
@@ -8715,15 +8041,9 @@
   "title": "Moorhorn",
   "category": "creature",
   "region": "Northern Frontier",
-  "subtitle": "The islands' working lives",
+  "subtitle": "The wealth of a Tarvan family",
   "summary": "A shaggy highland ox with a red-brown coat and horns as wide as a man's outstretched arms.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A shaggy highland ox with a red-brown coat and horns as wide as a man's outstretched arms."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8733,11 +8053,11 @@
    {
     "title": "What it tells you",
     "paragraphs": [
-     "Every Tarvan family braids ribbons of its own tartan into its herd's horns. To steal a moorhorn is to rob a family."
+     "Every Tarvan family braids ribbons of its own tartan into its herd's horns."
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No, but a Tarvan character may bring a calf, with the family's leave."
     ]
@@ -8779,7 +8099,7 @@
    "height": 1024,
    "label": "Moorhorn",
    "alt": "A shaggy highland ox with a red-brown coat and horns as wide as a man's outstretched arms.",
-   "caption": "A shaggy highland ox with a red-brown coat and horns as wide as a man's outstretched arms."
+   "caption": "Moorhorn"
   }
  },
  {
@@ -8787,15 +8107,9 @@
   "title": "Oilfleece Sheep",
   "category": "creature",
   "region": "Northern Frontier",
-  "subtitle": "The islands' working lives",
+  "subtitle": "The wool that sheds the rain",
   "summary": "A stocky grey sheep with a fleece so oily that rain runs off it as it runs off a duck.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A stocky grey sheep with a fleece so oily that rain runs off it as it runs off a duck."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8809,7 +8123,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "A lamb raised in the kitchen, yes. It will follow you to sea and complain the whole way."
     ]
@@ -8851,7 +8165,7 @@
    "height": 1024,
    "label": "Oilfleece Sheep",
    "alt": "A stocky grey sheep with a fleece so oily that rain runs off it as it runs off a duck.",
-   "caption": "A stocky grey sheep with a fleece so oily that rain runs off it as it runs off a duck."
+   "caption": "Oilfleece Sheep"
   }
  },
  {
@@ -8859,15 +8173,9 @@
   "title": "Glint Mole",
   "category": "creature",
   "region": "Northern Frontier",
-  "subtitle": "It digs straight toward a vein, and the miners follow it and try to get there first.",
+  "subtitle": "The miner’s glittering rival",
   "summary": "A blind mole with huge pale claws and a velvet coat that glitters faintly, because it eats raw Krysta.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A blind mole with huge pale claws and a velvet coat that glitters faintly, because it eats raw Krysta."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8881,15 +8189,9 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No, unless you don't mind losing your Krysta."
-    ]
-   },
-   {
-    "title": "What people say",
-    "paragraphs": [
-     "\"Every glint mole is a thief and a guide.\""
     ]
    },
    {
@@ -8913,7 +8215,7 @@
   "creatureKind": "working",
   "epigraph": {
    "quote": "Every glint mole is a thief and a guide.",
-   "by": "What people say in the harbors"
+   "by": "A harbor saying"
   },
   "aliases": [],
   "related": [
@@ -8928,7 +8230,7 @@
    "height": 1024,
    "label": "Glint Mole",
    "alt": "A blind mole with huge pale claws and a velvet coat that glitters faintly, because it eats raw Krysta.",
-   "caption": "A blind mole with huge pale claws and a velvet coat that glitters faintly, because it eats raw Krysta."
+   "caption": "Glint Mole"
   }
  },
  {
@@ -8936,15 +8238,9 @@
   "title": "Herd Otter",
   "category": "creature",
   "region": "Southern Wilds",
-  "subtitle": "They drive the fish into the river weirs.",
+  "subtitle": "The noisiest fishers on the river",
   "summary": "A sleek brown river otter with white whiskers and a voice like a squeaking hinge, raised by the Oruma river-clans, who call them Malim's little cousins.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A sleek brown river otter with white whiskers and a voice like a squeaking hinge, raised by the Oruma river-clans, who call them Malim's little cousins."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -8958,7 +8254,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Yes. It is the noisiest companion in the south."
     ]
@@ -8999,7 +8295,7 @@
    "height": 1024,
    "label": "Herd Otter",
    "alt": "A sleek brown river otter with white whiskers and a voice like a squeaking hinge, raised by the Oruma river-clans, who call them Malim's little cousins.",
-   "caption": "A sleek brown river otter with white whiskers and a voice like a squeaking hinge, raised by the Oruma river-clans, who call them Malim's little cousins."
+   "caption": "Herd Otter"
   }
  },
  {
@@ -9007,15 +8303,9 @@
   "title": "Rimehound",
   "category": "creature",
   "region": "Icy Expanse",
-  "subtitle": "The islands' working lives",
+  "subtitle": "The sled dogs of the ice",
   "summary": "A huge white sled dog with a double coat and pale blue eyes, which sleeps buried in the snow and wakes in a good mood.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A huge white sled dog with a double coat and pale blue eyes, which sleeps buried in the snow and wakes in a good mood."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -9029,7 +8319,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Yes, a single dog. A full team is a working beast, and a fortune."
     ]
@@ -9070,7 +8360,7 @@
    "height": 1024,
    "label": "Rimehound",
    "alt": "A huge white sled dog with a double coat and pale blue eyes, which sleeps buried in the snow and wakes in a good mood.",
-   "caption": "A huge white sled dog with a double coat and pale blue eyes, which sleeps buried in the snow and wakes in a good mood."
+   "caption": "Rimehound"
   }
  },
  {
@@ -9078,15 +8368,9 @@
   "title": "Whale-Wolves",
   "category": "creature",
   "region": "Icy Expanse",
-  "subtitle": "They herd the whales toward the boats, and in return they take the tongue of every kill.",
+  "subtitle": "The whalers’ oldest pact",
   "summary": "A pod of wild orcas, black and white and clever, which has hunted beside the whalers of Frosthold for generations.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A pod of wild orcas, black and white and clever, which has hunted beside the whalers of Frosthold for generations."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -9100,7 +8384,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No. The pact is with the pod, not with any one person."
     ]
@@ -9131,8 +8415,8 @@
   "source": "Beasts and Companions · p. 35",
   "creatureKind": "working",
   "epigraph": {
-   "quote": "When the wolves slap the water outside the harbor, run for the boats.",
-   "by": "A Frosthold saying"
+   "quote": "They take the tongue. We take the rest. Nobody on either side has ever cheated.",
+   "by": "A Frosthold harpooner"
   },
   "aliases": [],
   "related": [
@@ -9147,7 +8431,7 @@
    "height": 1024,
    "label": "Whale-Wolves",
    "alt": "A pod of wild orcas, black and white and clever, which has hunted beside the whalers of Frosthold for generations.",
-   "caption": "A pod of wild orcas, black and white and clever, which has hunted beside the whalers of Frosthold for generations."
+   "caption": "Whale-Wolves"
   }
  },
  {
@@ -9155,15 +8439,9 @@
   "title": "Strider Crab",
   "category": "creature",
   "region": "The Sea",
-  "subtitle": "The Coral peoples use it to carry cargo between the courts and the market harbors of the coast.",
+  "subtitle": "The market that walks out of the surf",
   "summary": "A giant spider crab with legs longer than a man is tall, which walks along the seabed with baskets lashed to its back.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A giant spider crab with legs longer than a man is tall, which walks along the seabed with baskets lashed to its back."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -9177,7 +8455,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Only for a Coral character, and it tires quickly on land."
     ]
@@ -9219,7 +8497,7 @@
    "height": 1024,
    "label": "Strider Crab",
    "alt": "A giant spider crab with legs longer than a man is tall, which walks along the seabed with baskets lashed to its back.",
-   "caption": "A giant spider crab with legs longer than a man is tall, which walks along the seabed with baskets lashed to its back."
+   "caption": "Strider Crab"
   }
  },
  {
@@ -9227,15 +8505,9 @@
   "title": "Tidesteed",
   "category": "creature",
   "region": "The Sea",
-  "subtitle": "It is the mount of the Coral peoples, for travel and for war.",
+  "subtitle": "The mount of the Coral courts",
   "summary": "A seahorse the size of a horse, the bubble seahorse's giant cousin, with a fluted crest and a saddle of shell.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A seahorse the size of a horse, the bubble seahorse's giant cousin, with a fluted crest and a saddle of shell."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -9249,7 +8521,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Only underwater, and only with the courts' leave."
     ]
@@ -9291,7 +8563,7 @@
    "height": 1024,
    "label": "Tidesteed",
    "alt": "A seahorse the size of a horse, the bubble seahorse's giant cousin, with a fluted crest and a saddle of shell.",
-   "caption": "A seahorse the size of a horse, the bubble seahorse's giant cousin, with a fluted crest and a saddle of shell."
+   "caption": "Tidesteed"
   }
  },
  {
@@ -9299,15 +8571,9 @@
   "title": "Lamp-Shoal",
   "category": "creature",
   "region": "The Sea",
-  "subtitle": "They light the streets of the coral cities.",
+  "subtitle": "Streetlights of the coral cities",
   "summary": "Shoals of small glowing fish, blue-green and gold, trained by the Coral peoples.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "Shoals of small glowing fish, blue-green and gold, trained by the Coral peoples."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -9321,7 +8587,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No."
     ]
@@ -9362,7 +8628,7 @@
    "height": 1024,
    "label": "Lamp-Shoal",
    "alt": "Shoals of small glowing fish, blue-green and gold, trained by the Coral peoples.",
-   "caption": "Shoals of small glowing fish, blue-green and gold, trained by the Coral peoples."
+   "caption": "Lamp-Shoal"
   }
  },
  {
@@ -9370,15 +8636,9 @@
   "title": "Reefpurple Whelk",
   "category": "creature",
   "region": "The Sea",
-  "subtitle": "The Coral peoples farm it in reef pens.",
+  "subtitle": "The snail behind the purple",
   "summary": "The sea snail that gives reefpurple, the rarest dye in the islands.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "The sea snail that gives reefpurple, the rarest dye in the islands."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -9392,7 +8652,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "No."
     ]
@@ -9434,7 +8694,7 @@
    "height": 1024,
    "label": "Reefpurple Whelk",
    "alt": "The sea snail that gives reefpurple, the rarest dye in the islands.",
-   "caption": "The sea snail that gives reefpurple, the rarest dye in the islands."
+   "caption": "Reefpurple Whelk"
   }
  },
  {
@@ -9442,15 +8702,9 @@
   "title": "Haulbeetle",
   "category": "creature",
   "region": "Below",
-  "subtitle": "The islands' working lives",
+  "subtitle": "The miners’ patient hauler",
   "summary": "A beetle the size of a pony, with a dull black shell, short strong legs, and a placid appetite for rock-moss.",
   "sections": [
-   {
-    "title": "Appearance",
-    "paragraphs": [
-     "A beetle the size of a pony, with a dull black shell, short strong legs, and a placid appetite for rock-moss."
-    ]
-   },
    {
     "title": "The work",
     "paragraphs": [
@@ -9464,7 +8718,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "Yes, for someone who goes Below often. It needs no light."
     ]
@@ -9506,7 +8760,7 @@
    "height": 1024,
    "label": "Haulbeetle",
    "alt": "A beetle the size of a pony, with a dull black shell, short strong legs, and a placid appetite for rock-moss.",
-   "caption": "A beetle the size of a pony, with a dull black shell, short strong legs, and a placid appetite for rock-moss."
+   "caption": "Haulbeetle"
   }
  },
  {
@@ -9514,7 +8768,7 @@
   "title": "Chartback Tortoise",
   "category": "creature",
   "region": "All regions",
-  "subtitle": "Good charts are drawn at tortoise pace.",
+  "subtitle": "Three trades on one slow back",
   "summary": "A handcart-sized tortoise carrying the instruments, records, or remedies of three traveling trades.",
   "sections": [
    {
@@ -9524,42 +8778,13 @@
     ]
    },
    {
-    "title": "The three trades",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Trade",
-      "Load",
-      "How to recognize it"
-     ],
-     "rows": [
-      [
-       "Surveyor",
-       "Instruments and chart-cases",
-       "A broad-brimmed sun hat"
-      ],
-      [
-       "Notary",
-       "Sealed wills, deeds, and contracts",
-       "A small scholar’s cap"
-      ],
-      [
-       "Healer",
-       "Herbs, salves, and spices",
-       "A green cross of bound reeds"
-      ]
-     ],
-     "caption": "The three chartback trades"
-    }
-   },
-   {
     "title": "Shell-keeps",
     "paragraphs": [
      "A plain load is carried in saddlebags. Grand ones sit in little wooden shell-keeps: roofed towers with scroll cubbies or herb drawers, handed down with the tortoise. A surveyor measures land in the animal’s remarkably constant paces; a notary’s chartback can walk its circuit without being led."
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "A chartback passes to its keeper’s apprentice or trade hall and is never sold outside the three trades. An adventurer might inherit one or take in a retired animal. Villagers are likely to assume that the newcomer has arrived to measure their land."
     ]
@@ -9672,7 +8897,7 @@
     ]
    },
    {
-    "title": "Keeping one",
+    "title": "Can an adventurer keep one?",
     "paragraphs": [
      "A grommoth belongs to its caravan. A Pocchin adventurer may bring a calf only with the caravan’s blessing, and is expected to bring it back fat and happy."
     ]
@@ -11713,40 +10938,6 @@
     ]
    },
    {
-    "title": "Four shores, four cups",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Region",
-      "Style",
-      "Character"
-     ],
-     "rows": [
-      [
-       "Northern Frontier",
-       "Greywater",
-       "Clear and peppery"
-      ],
-      [
-       "Central Heartland",
-       "Goldcask",
-       "Amber, finished in wine-casks"
-      ],
-      [
-       "Southern Wilds",
-       "Burnmouth",
-       "Cacao and fire-pepper"
-      ],
-      [
-       "Icy Expanse",
-       "Icebrand",
-       "Freeze-distilled and smoked"
-      ]
-     ],
-     "caption": "Regional kellum styles"
-    }
-   },
-   {
     "title": "The water behind the cup",
     "paragraphs": [
      "Stillwright herds of wrack cows graze the honeywrack beds and tow the harbor’s barges. A harbor with wrack cows is a harbor that distills kellum."
@@ -13135,59 +12326,6 @@
     ]
    },
    {
-    "title": "At a glance",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Day",
-      "What it is for"
-     ],
-     "rows": [
-      [
-       "Sunsdawn",
-       "Beginnings, law, Concord worship"
-      ],
-      [
-       "Tideturn",
-       "Sailing and trade: the day to weigh anchor"
-      ],
-      [
-       "Hearthday",
-       "Home and family"
-      ],
-      [
-       "Forgeday",
-       "Craft, labor, the guilds"
-      ],
-      [
-       "Wardsday",
-       "Courts, oaths, justice"
-      ],
-      [
-       "Greenday",
-       "Fields and harvest"
-      ],
-      [
-       "Graveday",
-       "The dead and the ancestors; never set sail on a Graveday"
-      ],
-      [
-       "Windsday",
-       "Travel, roads, news"
-      ],
-      [
-       "Coinsday",
-       "Market day; debts paid; Pocchin caravans roll into town"
-      ],
-      [
-       "Restday",
-       "The islands' day off: temple, tidecall, and the long meal"
-      ]
-     ],
-     "caption": ""
-    }
-   },
-   {
     "title": "Rumors",
     "paragraphs": [
      "“The Cindren of Everfall say the Glass Forest chimed thirteen times last Graveday, and it has only ever chimed in twelves.” (an Ash Warden)"
@@ -13661,13 +12799,13 @@
   "title": "Aurelion",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A place of the Central Heartland",
+  "subtitle": "Smoke you can see from Goldwind",
   "summary": "Aurelion is the forge-city of the north coast, and the seat of the Sunforge house.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Aurelion is the forge-city of the north coast, and the seat of the Sunforge house. Its smoke is visible from Goldwind on a clear day, and its metalwork, firearms, and goldsmithery fill the Congress's warehouses. The Sunforge house is the master-smith house of the Heartland, fabulously wealthy and deeply tied to the Congress. Its forges, the Sunforge works, are the only place in the Heartland where a firearm can be made to proof standard, and the Aurelion smiths guard the secret of that proof as closely as the Council guards its seats."
+     "Aurelion’s smoke is visible from Goldwind on a clear day, and its metalwork, firearms, and goldsmithery fill the Congress's warehouses. The Sunforge house is the master-smith house of the Heartland, fabulously wealthy and deeply tied to the Congress. Its forges, the Sunforge works, are the only place in the Heartland where a firearm can be made to proof standard, and the Aurelion smiths guard the secret of that proof as closely as the Council guards its seats."
     ]
    }
   ],
@@ -13692,13 +12830,13 @@
   "title": "Bastion",
   "category": "place",
   "region": "Northern Frontier",
-  "subtitle": "A place of the Northern Frontier",
+  "subtitle": "The gate of the north",
   "summary": "Bastion is the seat of House Faust, the gate-fortress of the north.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Bastion is the seat of House Faust, the gate-fortress of the north. It stands on a fortified island at the mouth of the eastern sea-road, with a curtain wall that has held off every fleet that tested it. The Faust garrison is the largest standing force in the archipelago outside the Armada, and the house's remount farms supply horses to half the Frontier. The Bastion tourneys in the summer are the great martial spectacle of the north, and the winners carry the Faust sigil home with them as a mark of standing. Johann Faust, the captain of the Jubilant and a celebrated Hunter, is the house's most famous son, and his divided loyalty between blood and oath is the house's most discussed private trouble."
+     "Bastion stands on a fortified island at the mouth of the eastern sea-road, with a curtain wall that has held off every fleet that tested it. The Faust garrison is the largest standing force in the archipelago outside the Armada, and the house's remount farms supply horses to half the Frontier. The Bastion tourneys in the summer are the great martial spectacle of the north, and the winners carry the Faust sigil home with them as a mark of standing. Johann Faust, the captain of the Jubilant and a celebrated Hunter, is the house's most famous son, and his divided loyalty between blood and oath is the house's most discussed private trouble."
     ]
    },
    {
@@ -13732,13 +12870,13 @@
   "title": "Black Harbor",
   "category": "place",
   "region": "Northern Frontier",
-  "subtitle": "A place of the Northern Frontier",
+  "subtitle": "Where the fog pays no duty",
   "summary": "Black Harbor is the smugglers' capital of the Frontier, a warren of wharves and sea-caves in the fog below Greyhaven.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Black Harbor is the smugglers' capital of the Frontier, a warren of wharves and sea-caves in the fog below Greyhaven. It is the home of the Fogrunners, who carry untaxed cargo through the Murk by bell-codes so exact they can thread the Widow's Teeth blind. Its leader, Wenna Hollis, the Bellmistress, has never been caught, because no officer of the Gate-Tithe has ever been able to hear what she is saying. The Gullet, a tide-cave that leads down into the Below, opens at the harbor's north end, and the Fogrunners use it when the Council's patrols are thickest on the surface."
+     "Black Harbor is the home of the Fogrunners, who carry untaxed cargo through the Murk by bell-codes so exact they can thread the Widow's Teeth blind. Its leader, Wenna Hollis, the Bellmistress, has never been caught, because no officer of the Gate-Tithe has ever been able to hear what she is saying. The Gullet, a tide-cave that leads down into the Below, opens at the harbor's north end, and the Fogrunners use it when the Council's patrols are thickest on the surface."
     ]
    },
    {
@@ -13779,13 +12917,13 @@
   "title": "Briarcrown",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A place of the Central Heartland",
+  "subtitle": "Quiet, prosperous, and watchful",
   "summary": "Briarcrown is the seat of House Silverthorn, a fortified town on a hill above the eastern shore.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Briarcrown is the seat of House Silverthorn, a fortified town on a hill above the eastern shore. It is quiet, prosperous, and watchful, with a reputation for discretion that is nearly a crime in itself. Its houses have high walls and silent gardens, and the Silverthorn spies keep a register of every visitor to the Heartland's shadow markets. The house's rivalry with House Alastor is cold and deep. Neither trusts the other, and both trade in secrets for a living."
+     "Briarcrown is quiet, prosperous, and watchful, with a reputation for discretion that is nearly a crime in itself. Its houses have high walls and silent gardens, and the Silverthorn spies keep a register of every visitor to the Heartland's shadow markets. The house's rivalry with House Alastor is cold and deep. Neither trusts the other, and both trade in secrets for a living."
     ]
    }
   ],
@@ -13808,13 +12946,13 @@
   "title": "Crystalhaven",
   "category": "place",
   "region": "Icy Expanse",
-  "subtitle": "A place of the Icy Expanse",
+  "subtitle": "A town built from other people’s ships",
   "summary": "Crystalhaven is a wrecking-town on the blue-ice coast.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Crystalhaven is a wrecking-town on the blue-ice coast. Its harbor is a half-moon of frozen water, and its streets are lined with the hulls of ships that came in with a light in their eyes and never went out. The False Lights are the town's wreckers, who hang false lanterns on the cliffs to lure ships onto the ice, and then strip the wreck. Granny Ylva Skerrow is the wreckers' matriarch, a tiny woman with a voice like a foghorn and a memory for every ship she has ever lured. Southern captains say \"not every kind coast is kind\" when they pass the blue-ice cliffs, and they make the sign of the Answering Light as they sail on."
+     "Crystalhaven’s harbor is a half-moon of frozen water, and its streets are lined with the hulls of ships that came in with a light in their eyes and never went out. The False Lights are the town's wreckers, who hang false lanterns on the cliffs to lure ships onto the ice, and then strip the wreck. Granny Ylva Skerrow is the wreckers' matriarch, a tiny woman with a voice like a foghorn and a memory for every ship she has ever lured. Southern captains say \"not every kind coast is kind\" when they pass the blue-ice cliffs, and they make the sign of the Answering Light as they sail on."
     ]
    },
    {
@@ -13843,13 +12981,13 @@
   "title": "Duskmire Haven",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A place of the Central Heartland",
+  "subtitle": "Stilts, reeds, and very good false coin",
   "summary": "Duskmire Haven is a misty fen near Goldwind, a town of stilt-houses and reed-boats where the Registry's writ grows thin.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Duskmire Haven is a misty fen near Goldwind, a town of stilt-houses and reed-boats where the Registry's writ grows thin. It is the home of the Mint-in-the-Mire, the coiners whose drowned Anchors are so good that the Council's mint has twice bought them back by mistake. The master engraver is Ottar Glimm, a gnome of terrible genius and worse temper. The Knot, the market below Duskmire kept by goblins, opens in the fen's deepest reed-beds, and the goblins permit no names, no blades, and no light brighter than a candle."
+     "Duskmire Haven is the home of the Mint-in-the-Mire, the coiners whose drowned Anchors are so good that the Council's mint has twice bought them back by mistake. The master engraver is Ottar Glimm, a gnome of terrible genius and worse temper. The Knot, the market below Duskmire kept by goblins, opens in the fen's deepest reed-beds, and the goblins permit no names, no blades, and no light brighter than a candle."
     ]
    },
    {
@@ -13880,13 +13018,13 @@
   "title": "Easthold, Westwatch, and Pearl Groove",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A place of the Central Heartland",
+  "subtitle": "Three working towns of the Heartland",
   "summary": "Easthold is the fishing port of the east coast, with its fleets, herb-gardens, and seafood markets.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Easthold is the fishing port of the east coast, with its fleets, herb-gardens, and seafood markets. Westwatch is the mining town of the western heights, its quarries and coal-pits supplying the Heartland's stone and fuel. Pearl Groove is a shallow lagoon of pearl-clans, where the divers work the beds under the watchful eyes of the Belmaris house and its bell-mistress. The pearls and the murex-dyed reefpurple are the region's most exclusive exports, and the Coral Kingdoms' sound-trade passes through the Groove on the way to the Congress."
+     "Westwatch is the mining town of the western heights, its quarries and coal-pits supplying the Heartland's stone and fuel. Pearl Groove is a shallow lagoon of pearl-clans, where the divers work the beds under the watchful eyes of the Belmaris house and its bell-mistress. The pearls and the murex-dyed reefpurple are the region's most exclusive exports, and the Coral Kingdoms' sound-trade passes through the Groove on the way to the Congress."
     ]
    }
   ],
@@ -13914,13 +13052,13 @@
   "title": "Elyria",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A place of the Central Heartland",
+  "subtitle": "The white towers of the deathless",
   "summary": "Elyria is the elven hold of House Caelvaron, the only major seat ruled by the deathless.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Elyria is the elven hold of House Caelvaron, the only major seat ruled by the deathless. Its towers are white and pale green, set among ancient trees on the eastern hills. The Caelvaron rulers rotate on the Hundred-Year Cycle, and the Elyria court is the most patient and least hurried in the Heartland. The elves of Elyria remember grudges older than the Charter, and the court keeps records that the Council would give much to read."
+     "Elyria’s towers are white and pale green, set among ancient trees on the eastern hills. The Caelvaron rulers rotate on the Hundred-Year Cycle, and the Elyria court is the most patient and least hurried in the Heartland. The elves of Elyria remember grudges older than the Charter, and the court keeps records that the Council would give much to read."
     ]
    }
   ],
@@ -13944,13 +13082,13 @@
   "title": "Frosthold",
   "category": "place",
   "region": "Icy Expanse",
-  "subtitle": "A place of the Icy Expanse",
+  "subtitle": "Ice-stone, whale-bone, and oil",
   "summary": "Frosthold is the capital of the whaling coast and the strongest seat of the Brine Brotherhood, the fishers and whalers who keep the Expanse alive.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Frosthold is the capital of the whaling coast and the strongest seat of the Brine Brotherhood, the fishers and whalers who keep the Expanse alive. The fortress-walls are built of ice-stone and whale-bone, and the oil-houses along the bay burn the whale-fat that every lamp in the Heartland burns. The Brennvar house holds the oil-houses, and its Lamp-Mistress, Astri, rules the bay with a fairness that the Brotherhood respects and the Combine resents. The Tidecallers of the Concord keep a small temple on the harbor wall, and their sea-blessing is the first thing every whaling fleet receives before it goes out. Frosthold is the last place in the Expanse where a stranger can buy a warm room for a silver Tide."
+     "The fortress-walls are built of ice-stone and whale-bone, and the oil-houses along the bay burn the whale-fat that every lamp in the Heartland burns. The Brennvar house holds the oil-houses, and its Lamp-Mistress, Astri, rules the bay with a fairness that the Brotherhood respects and the Combine resents. The Tidecallers of the Concord keep a small temple on the harbor wall, and their sea-blessing is the first thing every whaling fleet receives before it goes out. Frosthold is the last place in the Expanse where a stranger can buy a warm room for a silver Tide."
     ]
    },
    {
@@ -14076,13 +13214,13 @@
   "title": "Greyhaven",
   "category": "place",
   "region": "Northern Frontier",
-  "subtitle": "A place of the Northern Frontier",
+  "subtitle": "Salt-fish and bells",
   "summary": "Greyhaven is a grey, hard port that lives inside the fog.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Greyhaven is a grey, hard port that lives inside the fog. Its harbor is the richest salt-fish harbor in the Frontier, and its bells never stop during the Murk. The Stormweaver house, a Marchlord line of storm-sorcerers, keeps the Greyhaven lights burning through the fog, and the house's mages are paid by the Brine Brotherhood's fishing fleets to keep the fishing boats off the rocks. The Widow's Teeth lie just off the harbor mouth, and every Greyhaven child learns the bell-codes before they learn their letters, because a boat that cannot read the bells cannot find the harbor. The old quarter has a chapel on the cliff where the widows of the lost light lamps for the boats that have not come home."
+     "Greyhaven’s harbor is the richest salt-fish harbor in the Frontier, and its bells never stop during the Murk. The Stormweaver house, a Marchlord line of storm-sorcerers, keeps the Greyhaven lights burning through the fog, and the house's mages are paid by the Brine Brotherhood's fishing fleets to keep the fishing boats off the rocks. The Widow's Teeth lie just off the harbor mouth, and every Greyhaven child learns the bell-codes before they learn their letters, because a boat that cannot read the bells cannot find the harbor. The old quarter has a chapel on the cliff where the widows of the lost light lamps for the boats that have not come home."
     ]
    },
    {
@@ -14113,7 +13251,7 @@
   "title": "Hollowkey",
   "category": "place",
   "region": "Southern Wilds",
-  "subtitle": "A place of the Southern Wilds",
+  "subtitle": "The lagoon no chart admits to",
   "summary": "Hollowkey is a hidden lagoon in the uncharted south, the greatest of the Pirate Freeholds: a drift-market of lashed-together hulks where the Remnants of Blackheart, the Free Tide crews, and every outlaw captain in the south…",
   "sections": [
    {
@@ -14157,13 +13295,13 @@
   "title": "Kaldmark",
   "category": "place",
   "region": "Icy Expanse",
-  "subtitle": "A place of the Icy Expanse",
+  "subtitle": "The black keep of the ice",
   "summary": "Kaldmark is the hold of House Kaldmark, the one true noble house of the Expanse.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Kaldmark is the hold of House Kaldmark, the one true noble house of the Expanse. It is a fortified stronghold in the hills, with a black stone keep and a gate of whale-bone, and its banners carry the white bear-skull on a black field rimmed in ice-blue. The House holds a march of whaling-towns and ice against a frontier that kills the careless. Its Marchlord, Sten Kaldmark, governs with the hold's grim law, and he has learned exactly what his house's motto means. The Kaldmark icebrand stillhouses supply the house's warriors, and the house's blood-feud with the Varan Lodge is older than any living Kaldmark."
+     "Kaldmark is a fortified stronghold in the hills, with a black stone keep and a gate of whale-bone, and its banners carry the white bear-skull on a black field rimmed in ice-blue. The House holds a march of whaling-towns and ice against a frontier that kills the careless. Its Marchlord, Sten Kaldmark, governs with the hold's grim law, and he has learned exactly what his house's motto means. The Kaldmark icebrand stillhouses supply the house's warriors, and the house's blood-feud with the Varan Lodge is older than any living Kaldmark."
     ]
    }
   ],
@@ -14188,13 +13326,13 @@
   "title": "Karn Sorroch",
   "category": "place",
   "region": "Southern Wilds",
-  "subtitle": "A place of the Southern Wilds",
+  "subtitle": "The Midnight Patron’s mines",
   "summary": "Karn Sorroch is the domain of Velemnos, the Midnight Patron, a dark and jungled land of infamous Krysta-mines worked by the unfree.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Karn Sorroch is the domain of Velemnos, the Midnight Patron, a dark and jungled land of infamous Krysta-mines worked by the unfree. The town of Karn Sorroch is a fortified mining-camp on a river-bend, its gates kept by the thralls of the House of Vossreth, and its streets are lit by low-grade Krysta lamps whose stored workings glow blue within the stones. The Krysta comes out of the deep mines in carts under the Vossreth seal, and the mines are the richest source of dark glass in the south. No visitor is allowed to see the Patron, and most visitors who try do not come back out."
+     "The town of Karn Sorroch is a fortified mining-camp on a river-bend, its gates kept by the thralls of the House of Vossreth, and its streets are lit by low-grade Krysta lamps whose stored workings glow blue within the stones. The Krysta comes out of the deep mines in carts under the Vossreth seal, and the mines are the richest source of dark glass in the south. No visitor is allowed to see the Patron, and most visitors who try do not come back out."
     ]
    }
   ],
@@ -14218,13 +13356,13 @@
   "title": "The Kraken's Maw",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "A place of the open sea",
+  "subtitle": "Two reefs and a graveyard of fleets",
   "summary": "A passage between two reefs, where the great battle of 165 EC was fought.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "A passage between two reefs, where the great battle of 165 EC was fought. The wrecks of the Armada and the Blackheart fleets lie on the reef's bottom, and divers say the wrecks still hum at dusk."
+     "The wrecks of the Armada and the Blackheart fleets lie on the reef's bottom, and divers say the wrecks still hum at dusk."
     ]
    }
   ],
@@ -14352,13 +13490,13 @@
   "title": "Saltreach",
   "category": "place",
   "region": "Northern Frontier",
-  "subtitle": "A place of the Northern Frontier",
+  "subtitle": "The salt of the whole north",
   "summary": "Saltreach is a flat coast of pans, sluices, and salt-sheds, held by the Hallorn trading house, whose Lord-Mistress holds the Frontier's salt monopoly.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Saltreach is a flat coast of pans, sluices, and salt-sheds, held by the Hallorn trading house, whose Lord-Mistress holds the Frontier's salt monopoly. The salt-workers are the most organized labor in the north, and they have struck four times in living memory. The pans are the source of the salt that the Charterhouse Company buys to hold its southern monopoly, and the trade between the Hallorn sheds and the Company's agents in Southhaven is one of the most profitable and least discussed secrets of the Frontier."
+     "The salt-workers are the most organized labor in the north, and they have struck four times in living memory. The pans are the source of the salt that the Charterhouse Company buys to hold its southern monopoly, and the trade between the Hallorn sheds and the Company's agents in Southhaven is one of the most profitable and least discussed secrets of the Frontier."
     ]
    },
    {
@@ -14388,13 +13526,13 @@
   "title": "Silverport",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A place of the Central Heartland",
+  "subtitle": "Silk, incense, and pale stone",
   "summary": "Silverport is the eastern silk-port, a city of pale stone and fragrant gardens.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Silverport is the eastern silk-port, a city of pale stone and fragrant gardens. Its silk-farms and incense-houses supply the Heartland's silk, perfume, and fine oils. The Perfumers of Silverport are at open war with the Pocchin families, who refuse to join the guild, undersell everyone, and steal recipes for sport. The Saffrane house holds the silk trade. The city's markets sell the finest perfumes in the islands, and the rarest of them contain ambergris from Frosthold."
+     "Silverport’s silk-farms and incense-houses supply the Heartland's silk, perfume, and fine oils. The Perfumers of Silverport are at open war with the Pocchin families, who refuse to join the guild, undersell everyone, and steal recipes for sport. The Saffrane house holds the silk trade. The city's markets sell the finest perfumes in the islands, and the rarest of them contain ambergris from Frosthold."
     ]
    },
    {
@@ -14428,13 +13566,13 @@
   "title": "Snowvah",
   "category": "place",
   "region": "Icy Expanse",
-  "subtitle": "A place of the Icy Expanse",
+  "subtitle": "The last warm meal before the silence",
   "summary": "Snowvah is the northernmost settled town of the Expanse, a cluster of stone houses on a black-rock promontory above the ice.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Snowvah is the northernmost settled town of the Expanse, a cluster of stone houses on a black-rock promontory above the ice. It is the last place where a stranger can buy a warm meal before the silent country begins. The Snowvah folk are hard, quiet, and proud. They keep a watch on the sky beyond the last posts, and they do not talk about what they see there."
+     "Snowvah is the last place where a stranger can buy a warm meal before the silent country begins. The Snowvah folk are hard, quiet, and proud. They keep a watch on the sky beyond the last posts, and they do not talk about what they see there."
     ]
    }
   ],
@@ -14455,13 +13593,13 @@
   "title": "Southhaven",
   "category": "place",
   "region": "Southern Wilds",
-  "subtitle": "A place of the Southern Wilds",
+  "subtitle": "The counting-house of the Wilds",
   "summary": "Southhaven is the colonial port of the southern coast and the commercial heart of the Wilds.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Southhaven is the colonial port of the southern coast and the commercial heart of the Wilds. Its harbor is lined with the warehouses of the great plantation houses, and its hills grow the coffee, southleaf, cane-sugar, and cotton that every Heartland salon consumes. The Charterhouse Company keeps its southern offices here, and its writ-men, the brass-collars, patrol the warehouse streets. The plantations are divided between the fair estates of House Greymoor and the unfree estates of House Vossreth, and the southern boycott is simple: \"Greymoor coffee or none.\" The Blackleaf Runners smuggle southleaf in and indentured workers out through the river-ports. The Southhaven markets are the best place in the south to learn anything about anyone, and the worst place to be seen learning it."
+     "Southhaven’s harbor is lined with the warehouses of the great plantation houses, and its hills grow the coffee, southleaf, cane-sugar, and cotton that every Heartland salon consumes. The Charterhouse Company keeps its southern offices here, and its writ-men, the brass-collars, patrol the warehouse streets. The plantations are divided between the fair estates of House Greymoor and the unfree estates of House Vossreth, and the southern boycott is simple: \"Greymoor coffee or none.\" The Blackleaf Runners smuggle southleaf in and indentured workers out through the river-ports. The Southhaven markets are the best place in the south to learn anything about anyone, and the worst place to be seen learning it."
     ]
    },
    {
@@ -14497,13 +13635,13 @@
   "title": "Stormreach",
   "category": "place",
   "region": "Northern Frontier",
-  "subtitle": "A place of the Northern Frontier",
+  "subtitle": "Where the north builds its ships",
   "summary": "Stormreach is the seat of House Vanris and the largest shipbuilding yard in the north.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Stormreach is the seat of House Vanris and the largest shipbuilding yard in the north. The Stormguard Hold is a fortress on a rock above the strait, and the house's yards build the best storm-hulls in the islands and charge a premium for them. The Ninth Fleet, the Standing Storm, keeps its base here, and the Galven crews of the great Juggernaut storm-runners sleep in the lower wards. The town is named for the weather and lives by it. Its spring water fizzes naturally from the rock, and the Galven call it stormwater, shaking it into their kellum and swearing that lightning tastes the same. Mortimer Vanris holds the seat, and his brother Rodrick and the spymaster Cassandra Dosslas hold the house together around him."
+     "The Stormguard Hold is a fortress on a rock above the strait, and the house's yards build the best storm-hulls in the islands and charge a premium for them. The Ninth Fleet, the Standing Storm, keeps its base here, and the Galven crews of the great Juggernaut storm-runners sleep in the lower wards. The town is named for the weather and lives by it. Its spring water fizzes naturally from the rock, and the Galven call it stormwater, shaking it into their kellum and swearing that lightning tastes the same. Mortimer Vanris holds the seat, and his brother Rodrick and the spymaster Cassandra Dosslas hold the house together around him."
     ]
    },
    {
@@ -14536,13 +13674,13 @@
   "title": "Sunhold",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A place of the Central Heartland",
+  "subtitle": "Terraces, white walls, and brightleaf",
   "summary": "Sunhold is the brightest city in the Heartland, a town of terraces and white walls above the western coast.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Sunhold is the brightest city in the Heartland, a town of terraces and white walls above the western coast. Its hills grow the brightleaf that the Terrace Guild presses into leaf-bricks, and its vines produce the Sunhold wines that the Goldwind banks judge by taste. The Sunhold Accord, signed on Veriden 6th, is a treaty of the Concord and the Council that the town hosts every year. The Terrace Guild feuds with the coffee-houses of Goldwind as a matter of identity, and the feud is the subject of a hundred songs."
+     "Sunhold’s hills grow the brightleaf that the Terrace Guild presses into leaf-bricks, and its vines produce the Sunhold wines that the Goldwind banks judge by taste. The Sunhold Accord, signed on Veriden 6th, is a treaty of the Concord and the Council that the town hosts every year. The Terrace Guild feuds with the coffee-houses of Goldwind as a matter of identity, and the feud is the subject of a hundred songs."
     ]
    },
    {
@@ -14577,7 +13715,7 @@
   "title": "Xathnatraz",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "A place of the open sea",
+  "subtitle": "The isle nobody goes looking for",
   "summary": "A cursed black isle off the southwest coast of Khard Muur, where the dark of the old Eon was sealed. Ships that go looking come back with fewer people, or not at all.",
   "sections": [
    {
@@ -14624,13 +13762,13 @@
   "title": "Zal'Kareth",
   "category": "place",
   "region": "Southern Wilds",
-  "subtitle": "A place of the Southern Wilds",
+  "subtitle": "The last Council town",
   "summary": "Zal'Kareth is the last Council town on the southwestern edge of the Wilds, a fortified river-port beyond which the Council's maps go blank.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Zal'Kareth is the last Council town on the southwestern edge of the Wilds, a fortified river-port beyond which the Council's maps go blank. It is the home of the Ninth Shovel, the grave-robbers and ruin-looters who feed the Quiet Auction with Orka relics and native sacred things. The Ninth Shovel is at war with the Reclaimers, the Sacred Flame, and anyone else who stands in the way of the next treasure. The town's walls are high, and its guard is paid well to look away from what comes up the river at night."
+     "Zal'Kareth is the home of the Ninth Shovel, the grave-robbers and ruin-looters who feed the Quiet Auction with Orka relics and native sacred things. The Ninth Shovel is at war with the Reclaimers, the Sacred Flame, and anyone else who stands in the way of the next treasure. The town's walls are high, and its guard is paid well to look away from what comes up the river at night."
     ]
    }
   ],
@@ -14656,13 +13794,13 @@
   "title": "The Cistern Door",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A wonder of the Central Heartland",
+  "subtitle": "The wall that is warm to the touch",
   "summary": "A dwarven wall under Goldwind's oldest cistern, whose mortar was worked from the far side.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "A dwarven wall under Goldwind's oldest cistern, whose mortar was worked from the far side. Any visitor who lays a hand on the wall feels a faint warmth, and the dwarves of the Goldwind holds say the warmth is the debt being paid, one load at a time."
+     "Any visitor who lays a hand on the wall feels a faint warmth, and the dwarves of the Goldwind holds say the warmth is the debt being paid, one load at a time."
     ]
    },
    {
@@ -14773,13 +13911,13 @@
   "title": "The Knot",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "A wonder of the Central Heartland",
+  "subtitle": "The market under the reeds",
   "summary": "A market below Duskmire, reached through the reed-beds and kept by goblins.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "A market below Duskmire, reached through the reed-beds and kept by goblins. It is the only trading place in the Below that the surface folk use by choice. Its rules are short: no names, no blades, and no light brighter than a candle."
+     "The Knot is the only trading place in the Below that the surface folk use by choice. Its rules are short: no names, no blades, and no light brighter than a candle."
     ]
    }
   ],
@@ -14813,13 +13951,13 @@
   "title": "The Maw-Pit",
   "category": "place",
   "region": "Southern Wilds",
-  "subtitle": "A wonder of the Southern Wilds",
+  "subtitle": "Jakupur’s arena",
   "summary": "An arena cut into the rock of Jakupur's southern hill, where saurians fight one another and the condemned.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "An arena cut into the rock of Jakupur's southern hill, where saurians fight one another and the condemned. It is not a wonder of nature, but it is a wonder of the south, and visitors who have seen the Maw-Pit's sand after a fight never tell the same story twice."
+     "The Maw-Pit is not a wonder of nature, but it is a wonder of the south, and visitors who have seen the Maw-Pit's sand after a fight never tell the same story twice."
     ]
    },
    {
@@ -14855,13 +13993,13 @@
   "title": "The Rime Ways",
   "category": "place",
   "region": "Icy Expanse",
-  "subtitle": "A wonder of the Icy Expanse",
+  "subtitle": "The roads under the ice",
   "summary": "A network of channels under the winter sea-ice, opened by the dwarves of the Expanse's deep holds and used by the smugglers when the ice is too thick for ships.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "A network of channels under the winter sea-ice, opened by the dwarves of the Expanse's deep holds and used by the smugglers when the ice is too thick for ships. The Rime Ways connect the Expanse to the Below, and the dwarves say a tally-mark is cut at every turning, and that the marks go down further than any man has dived."
+     "The Rime Ways connect the Expanse to the Below, and the dwarves say a tally-mark is cut at every turning, and that the marks go down further than any man has dived."
     ]
    }
   ],
@@ -14893,13 +14031,13 @@
   "title": "The Serpent's Coil",
   "category": "place",
   "region": "Northern Frontier",
-  "subtitle": "A wonder of the Northern Frontier",
+  "subtitle": "The reef that founded a house",
   "summary": "A ring of reefs in the Stormreach strait, shaped like a serpent coiled about a tower.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "A ring of reefs in the Stormreach strait, shaped like a serpent coiled about a tower. The Vanris house took its founding from the sea serpent that led Valdar Vanris to the fortress-site, and the Coil is the serpent's body in stone. Captains who run the Coil in a storm say the reef moves at the King Tide, and the house has never been able to prove otherwise, or to prove it wrong."
+     "The Vanris house took its founding from the sea serpent that led Valdar Vanris to the fortress-site, and the Coil is the serpent's body in stone. Captains who run the Coil in a storm say the reef moves at the King Tide, and the house has never been able to prove otherwise, or to prove it wrong."
     ]
    }
   ],
@@ -14922,13 +14060,13 @@
   "title": "The Sun's Grave",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "A wonder of the open sea",
+  "subtitle": "Named on every old chart, explained on none",
   "summary": "A patch of open sea south of the Goldwind gulf that the oldest charts name and no chart explains.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "A patch of open sea south of the Goldwind gulf that the oldest charts name and no chart explains. Fishermen say the water there is warm in winter and that nets come up with gold leaf caught in them. Nobody fishes it twice."
+     "Fishermen say the water there is warm in winter and that nets come up with gold leaf caught in them. Nobody fishes it twice."
     ]
    }
   ],
@@ -14955,7 +14093,7 @@
    {
     "title": "Overview",
     "paragraphs": [
-     "A shadow-theater in Goldwind's old quarter, halfway up the city's rings, where a single play has run every night for about a hundred and forty years without a dark night. The actors perform behind a great veil of white silk. Goldwind's nobility never miss a season."
+     "The actors perform behind a great veil of white silk. Goldwind's nobility never miss a season."
     ]
    }
   ],
@@ -14983,13 +14121,13 @@
   "title": "Abyssara, the Black Below",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "Beneath the waves",
+  "subtitle": "The deepest court",
   "summary": "Abyssara is the trench beneath the trenches, where the dark has never been broken.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Abyssara is the trench beneath the trenches, where the dark has never been broken. It is the lair of Thalgorath, and of something vast and ancient that the sea-peoples call by a name they do not say near the water. Even the deep courts will not go there. Abyssara is the place they fear."
+     "Abyssara is the lair of Thalgorath, and of something vast and ancient that the sea-peoples call by a name they do not say near the water. Even the deep courts will not go there. Abyssara is the place they fear."
     ]
    },
    {
@@ -15019,13 +14157,13 @@
   "title": "The Glass Gardens",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "Beneath the waves",
+  "subtitle": "The city of living reef",
   "summary": "The Glass Gardens are the fair merfolk's realm in the Sunlit shallows, a city of living reef-architecture where the coral grows in shapes the sea-folk choose.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "The Glass Gardens are the fair merfolk's realm in the Sunlit shallows, a city of living reef-architecture where the coral grows in shapes the sea-folk choose. Its towers are clear, and its streets are lit by bioluminescent fish. The Glass Gardens are the sea's most welcoming court, and the sea-folk trade memory-pearls there to surface visitors who come to them with a kind word and a clean hand."
+     "The Glass Gardens’ towers are clear, and its streets are lit by bioluminescent fish. The Glass Gardens are the sea's most welcoming court, and the sea-folk trade memory-pearls there to surface visitors who come to them with a kind word and a clean hand."
     ]
    },
    {
@@ -15064,13 +14202,13 @@
   "title": "The Grey Fathoms",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "Beneath the waves",
+  "subtitle": "The court that keeps the drowned",
   "summary": "The Grey Fathoms are the realm of the kept drowned, a deep court whose sea-folk gather the dead of the surface and keep them in silver-lit caves.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "The Grey Fathoms are the realm of the kept drowned, a deep court whose sea-folk gather the dead of the surface and keep them in silver-lit caves. Their ransom is fair: a family that comes to the Grey Fathoms with a pearl and a song may take a drowned relative home for a day. The Fathoms refuse the dead of the Wrong Coast, and their keepers have never said why."
+     "The Grey Fathoms’ ransom is fair: a family that comes to the Grey Fathoms with a pearl and a song may take a drowned relative home for a day. The Fathoms refuse the dead of the Wrong Coast, and their keepers have never said why."
     ]
    }
   ],
@@ -15095,13 +14233,13 @@
   "title": "The Old Shells",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "Beneath the waves",
+  "subtitle": "Three questions a generation",
   "summary": "The Old Shells are the realm of the leviathan sage-turtles, great ancient creatures whose shells are the size of islands.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "The Old Shells are the realm of the leviathan sage-turtles, great ancient creatures whose shells are the size of islands. They answer three questions a generation, to any who come to them with a gift of sound and a true question. The Old Shells surface at the Stillwater, and their answers have shaped the Armada's naval doctrine twice in living memory."
+     "The Old Shells answer three questions a generation, to any who come to them with a gift of sound and a true question. The Old Shells surface at the Stillwater, and their answers have shaped the Armada's naval doctrine twice in living memory."
     ]
    },
    {
@@ -15140,13 +14278,13 @@
   "title": "Pearl Groove and the Pelagar Isle",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "Beneath the waves",
+  "subtitle": "Where the surface trades with the deep",
   "summary": "Pearl Groove is the surface's pearl-port, a shallow lagoon of pearl-clans on the Heartland's coast, under the watch of the Belmaris house and its bell-mistress Orlaine.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "Pearl Groove is the surface's pearl-port, a shallow lagoon of pearl-clans on the Heartland's coast, under the watch of the Belmaris house and its bell-mistress Orlaine. The Pelagar isle lies on the Coral edge, a small island of pearl-houses and sea-gardens, where the Pelagar house keeps its pacts and its secrets. Both ports are the surface's gateway to the courts, and both are watched by every faction in the Heartland."
+     "The Pelagar isle lies on the Coral edge, a small island of pearl-houses and sea-gardens, where the Pelagar house keeps its pacts and its secrets. Both ports are the surface's gateway to the courts, and both are watched by every faction in the Heartland."
     ]
    },
    {
@@ -15182,13 +14320,13 @@
   "title": "The Red Choir",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "Beneath the waves",
+  "subtitle": "Hymns for blood in the water",
   "summary": "The Red Choir is the sahuagin blood-faith, a deep and savage court whose hymns rise when blood is in the water.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "The Red Choir is the sahuagin blood-faith, a deep and savage court whose hymns rise when blood is in the water. Its choirmaster is Thalgorath, the Tide-Tyrant, and its priests sing him up from the depths on the King Tide. The Red Choir does not trade with the surface, and the Pelagar house has never been able to make it an offer it would accept."
+     "The Red Choir’s choirmaster is Thalgorath, the Tide-Tyrant, and its priests sing him up from the depths on the King Tide. The Red Choir does not trade with the surface, and the Pelagar house has never been able to make it an offer it would accept."
     ]
    },
    {
@@ -15220,13 +14358,13 @@
   "title": "The Sunken Thrones",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "Beneath the waves",
+  "subtitle": "The courts nobody has seen",
   "summary": "The Sunken Thrones are the deep courts, a midnight abyss of ancient sovereigns whose politics do not map onto anything a land-mind can hold.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "The Sunken Thrones are the deep courts, a midnight abyss of ancient sovereigns whose politics do not map onto anything a land-mind can hold. What little is known of them comes thirdhand through the Pelagar house, and the Pelagar house does not share it, because some of it cannot be told without changing the teller."
+     "What little is known of them comes thirdhand through the Pelagar house, and the Pelagar house does not share it, because some of it cannot be told without changing the teller."
     ]
    },
    {
@@ -15257,13 +14395,13 @@
   "title": "The Whispering Current",
   "category": "place",
   "region": "The Sea",
-  "subtitle": "Beneath the waves",
+  "subtitle": "Every word spoken over water",
   "summary": "The Whispering Current is the twilight secret-traders' realm, a court of currents that carry every word spoken over water.",
   "sections": [
    {
     "title": "Overview",
     "paragraphs": [
-     "The Whispering Current is the twilight secret-traders' realm, a court of currents that carry every word spoken over water. Its keepers buy and sell the secrets of the surface's harbors, and the Skein, the great Heartland information-broker, has a standing contract with them. Speak carelessly over water in a Current port and the Current will remember, and the words will be sold at the next full moon."
+     "The Whispering Current’s keepers buy and sell the secrets of the surface's harbors, and the Skein, the great Heartland information-broker, has a standing contract with them. Speak carelessly over water in a Current port and the Current will remember, and the words will be sold at the next full moon."
     ]
    }
   ],
@@ -15287,7 +14425,7 @@
   "title": "The Charterhouse Company",
   "category": "power",
   "region": "All regions",
-  "subtitle": "A power of the islands",
+  "subtitle": "Brass collars and company towns",
   "summary": "A Council-chartered trading company that bypasses the guilds: monopolies, company towns, and enforcers called brass-collars.",
   "sections": [
    {
@@ -15334,7 +14472,7 @@
   "title": "The Reckoners' Hall",
   "category": "power",
   "region": "All regions",
-  "subtitle": "A power of the islands",
+  "subtitle": "The bank that holds the islands’ debts",
   "summary": "The Congress's bank, under First Reckoner Maera Blackstrand, who holds half the islands' debts.",
   "sections": [
    {
@@ -15393,7 +14531,7 @@
   "title": "The Twelve Flags",
   "category": "power",
   "region": "All regions",
-  "subtitle": "A power of the islands",
+  "subtitle": "The families of the Spire Floor",
   "summary": "The great merchant families who hold the twelve flag-posts of the Spire Floor in Goldwind and call the Coinsday board-price.",
   "sections": [
    {
@@ -15455,7 +14593,7 @@
   "title": "The Great Hunter Crews",
   "category": "power",
   "region": "All regions",
-  "subtitle": "The Order of Hunters",
+  "subtitle": "The names on the Board",
   "summary": "The crews every islander can name, from the Crimson Tide to the Karnivool, and the rival crews of the Board.",
   "sections": [
    {
@@ -15497,7 +14635,7 @@
   "title": "The Iron",
   "category": "power",
   "region": "All regions",
-  "subtitle": "The Order of Hunters",
+  "subtitle": "The coin that opens the Trials",
   "summary": "Not a rank: the iron coin a candidate needs to sit the Trials of Ascension. Only 300 are struck each year.",
   "sections": [
    {
@@ -15547,7 +14685,7 @@
   "title": "The Sigil",
   "category": "power",
   "region": "All regions",
-  "subtitle": "The Order of Hunters",
+  "subtitle": "The badge that knows its bearer",
   "summary": "A Hunter's rank badge, forged at the Goldwind Lodge. It is bearer-bound: anyone else who holds it suffers, worse the higher the rank.",
   "sections": [
    {
@@ -15601,7 +14739,7 @@
   "title": "The Trials of Ascension",
   "category": "power",
   "region": "All regions",
-  "subtitle": "The Order of Hunters",
+  "subtitle": "The yearly proving",
   "summary": "The Hunters' yearly exam, held in the month of Ezra. Its last leg is the Vow, where the candidate's iron is set into a new Bronze Sigil.",
   "sections": [
    {
@@ -15657,59 +14795,6 @@
     ]
    },
    {
-    "title": "The chain of command",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Rank or assignment",
-      "Charge"
-     ],
-     "rows": [
-      [
-       "Grand Admiral",
-       "Supreme command of the nine fleets"
-      ],
-      [
-       "Fleetlord",
-       "A fleet; Battle-Admiral when commanding a joint line"
-      ],
-      [
-       "Commodore / Strike Admiral / Rear Admiral",
-       "Squadron assignment: standard / independent offensive / convoy, rear guard and logistics"
-      ],
-      [
-       "Tidemaster / Castellan / Wardmaster",
-       "A sea flotilla / fortress or station / port defenses and harbor watch"
-      ],
-      [
-       "High Captain",
-       "Flagships and capital ships; squadron second"
-      ],
-      [
-       "Ship-Lord",
-       "A warship’s captain, addressed by their hull"
-      ],
-      [
-       "First Blade",
-       "Second-in-command; leads boardings"
-      ],
-      [
-       "Sword-Lieutenant",
-       "Officer of the watch"
-      ],
-      [
-       "Blade-Ensign",
-       "Newly commissioned officer"
-      ],
-      [
-       "Hand / Able Blade",
-       "Crew; known together as the Blooded after first action"
-      ]
-     ],
-     "caption": "From the Admiralty to the deck"
-    }
-   },
-   {
     "title": "The work inside the rank",
     "paragraphs": [
      "An Oathwarden keeps the crew to the Charter and its oath; a Sword-Warden is master-at-arms and senior marine. The Ship’s Tidecaller is the Concord chaplain who blesses the sailing. The Master of Thunder is chief gunner; the Chartmaster is a Chartwright-certified navigator.",
@@ -15762,85 +14847,6 @@
      "Each fleet has a number, a name, a Fleetlord and a ship from which that commander flies a flag. Its station or charge explains the rest. Some watch a particular approach; others follow a kind of work wherever it leads.",
      "The First and Second are the Twin Irons. Kalivos Durant’s Iron Wall shields Goldwind and the Heartland, while Dastan Graylock’s Iron Blockade holds the northern strait against the Imperium. One protects the center; the other guards its northern approach."
     ]
-   },
-   {
-    "title": "The nine commands",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Fleet",
-      "Station and charge",
-      "Fleetlord",
-      "Known as",
-      "Ship"
-     ],
-     "rows": [
-      [
-       "1st, the Iron Wall",
-       "Goldwind and the Heartland; the capital's shield",
-       "Grand Admiral Kalivos Durant",
-       "\"the Anvil\"",
-       "Conqueror"
-      ],
-      [
-       "2nd, the Iron Blockade",
-       "The northern strait, against the Imperium",
-       "Dastan Graylock",
-       "\"Maverick\"",
-       "Charter's Oath"
-      ],
-      [
-       "3rd, the Last Psalm",
-       "The Concord's fleet; sea-pacts and the Coral Kingdoms",
-       "Falken Brightsight",
-       "\"the Psalmist\"",
-       "Falkoner"
-      ],
-      [
-       "4th, the Spearfall",
-       "Expeditionary; offense wherever the Council points",
-       "Zeras Durant",
-       "\"the Breaker\"",
-       "Spearhead"
-      ],
-      [
-       "5th, the Killing Tide",
-       "Rescue, crisis, and what rises from the deep",
-       "Enara Torraflame",
-       "\"the Undrowned\"",
-       "Intervention"
-      ],
-      [
-       "6th, the Far Watch",
-       "Exploration and charting with the Chartwrights",
-       "Uha Farsight",
-       "\"Smiling Uha\"",
-       "Seeker"
-      ],
-      [
-       "7th, the Emerald Wrath",
-       "Southern rivers and coasts; gunboats in the green",
-       "Zyanya Greymoor",
-       "\"the Jaguar\"",
-       "Jadefang"
-      ],
-      [
-       "8th, the Frozen Vow",
-       "The Icy Expanse; stretched thin, unbroken",
-       "Runa Kaldmark",
-       "\"Frostbite\"",
-       "Rimeheart"
-      ],
-      [
-       "9th, the Standing Storm",
-       "Stormreach and the heavy weather",
-       "Skarrei Ninth-Squall",
-       "\"Thunderhead\"",
-       "Stormcrown"
-      ]
-     ],
-     "caption": "The Armada in 175 EC"
-    }
    },
    {
     "title": "Duties that cross the map",
@@ -15978,65 +14984,6 @@
      "The Armada names its classes for the work they carry into the world. A Harbinger is a courier cutter, and sailors say its arrival means news, rarely good. A Vindicator sloop gives chase. A Justicar gunboat can work a river where the great battle hulls have no business going.",
      "Warden frigates are the backbone of the fleets. Juggernaut heavy frigates are storm-runners, crewed by Galven; Interdictor cruisers make the Iron Blockade’s fist. A ship’s importance follows the waters and duty it is built to serve."
     ]
-   },
-   {
-    "title": "The classes, small to large",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Class",
-      "Hull",
-      "Duty"
-     ],
-     "rows": [
-      [
-       "Harbinger",
-       "Cutter",
-       "Courier"
-      ],
-      [
-       "Vindicator",
-       "Sloop",
-       "Pursuit"
-      ],
-      [
-       "Justicar",
-       "River gunboat",
-       "The Emerald Wrath’s workhorse"
-      ],
-      [
-       "Warden",
-       "Frigate",
-       "The backbone of the fleets"
-      ],
-      [
-       "Juggernaut",
-       "Heavy frigate",
-       "Galven-crewed storm-runner"
-      ],
-      [
-       "Interdictor",
-       "Cruiser",
-       "Blockade and area denial"
-      ],
-      [
-       "Dreadnought",
-       "Ship of the line",
-       "The battle line"
-      ],
-      [
-       "Enforcer",
-       "Bombard",
-       "Bombarding fortresses"
-      ],
-      [
-       "Executioner",
-       "Man-of-war",
-       "Great battle-flagships; nine built"
-      ]
-     ],
-     "caption": "The Armada’s working hulls"
-    }
    },
    {
     "title": "The great battle hulls",
@@ -21953,7 +20900,7 @@
   "title": "The Gods of the Pantheon",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
+  "subtitle": "The gods of the Council’s peoples",
   "summary": "The pantheon of the imperials and the Council's peoples: five Greater Gods over the Named Gods, by alignment, and the ten gods of the months.",
   "sections": [
    {
@@ -24285,115 +23232,9 @@
   "title": "Patrons of the Peoples",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
+  "subtitle": "A god for every people",
   "summary": "Every people honors a patron of its own, or shares one, alongside the wider pantheon and the Concord.",
-  "sections": [
-   {
-    "title": "At a glance",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "People",
-      "Patron or faith"
-     ],
-     "rows": [
-      [
-       "Elves",
-       "Aelthuvar, the First Light, the Dawnfather, who led the elves out of the Faewild. High Elves honor his Faewild-bound face, Wood Elves his world-rooted face. The Frost Elves have forgotten him and follow Vukharr, Oorah and Volvieg. The drow keep a third face, the Buried Dawn, the light that went down into the dark and stayed"
-      ],
-      [
-       "Dwarves",
-       "The Forge-Pantheon: Durmakhâim, the All-Anvil (also the Quenching), lord of metal, craft and fate; Khazrûkk, the Debt Below (also the Tally), god of grudges and the unforgiving ledger; Varganthûr, the Deep Hearth, god of the clan-hold"
-      ],
-      [
-       "Orcs",
-       "Gorrokar, the Devouring Tusk, the old Orka war-god, kept lean and private by the Remembering Tribes"
-      ],
-      [
-       "Goblinoids",
-       "The Skarn, the Many-Mouthed: the small and clever outlast the great and proud. His fae-warped face is worshipped by the goblinoids trapped in the Faewild"
-      ],
-      [
-       "Humans",
-       "Imperial-descended folk look to Magnus and the memory of Korvan; native peoples pray to the Aspects and honor Yaxqel, the First Walker, eldest ancestor of the south; Council folk keep the Concord"
-      ],
-      [
-       "Halflings",
-       "Penny Greenstep, folk-saint of luck and the well-laid table, with Eo, Brother Dog and Castellyn"
-      ],
-      [
-       "Gnomes",
-       "Tik, the Tinkering Spark, with Rhor and Eliol"
-      ],
-      [
-       "Giants and Goliaths",
-       "Vorthung, the First Crown, the giant progenitor-god; goliaths keep him alongside Khaurun"
-      ],
-      [
-       "Vorthani",
-       "Khaurun, the Fourfold: discipline, balance, the inner fire; shared with monks of every people"
-      ],
-      [
-       "Lizardfolk",
-       "Sszathra, the Cold-Blooded Mother, braided with the Savage Lord Ssvayuk, \"her living hand\""
-      ],
-      [
-       "Dragonborn",
-       "Tharuun, the Sworn Breath, the clan-oath god; the kobolds' Vrix is the cousin whose stolen scale broke the oldest oath"
-      ],
-      [
-       "Kobolds",
-       "Vrix, the Underscale, clever ancestor beneath the true dragons"
-      ],
-      [
-       "Winged peoples",
-       "Aevyr, the Open Wing; the Aethyn also honor the Breath That Wanders, Tramica and Skaia"
-      ],
-      [
-       "Galven",
-       "Eirhal, the Living Lightning, their own god; Badron is their beast-god"
-      ],
-      [
-       "Cindren",
-       "Sathrun, the Steady Flame; the Hunger That Warms is their fire"
-      ],
-      [
-       "Coral peoples",
-       "Vaythra, the Coral Sovereign; the Drowning Mother and the courts; in the deeps, Mhavros"
-      ],
-      [
-       "Liriath and Florians",
-       "Yarrowen, the Rooted Crown; the Green Fire and the Spring Court (Aoifel)"
-      ],
-      [
-       "Tarvan",
-       "Ulmach, the Herd-Father; the Sleeping Giant beneath the standing-stones; the dead graze in the Endless Pasture, the Maghren"
-      ],
-      [
-       "Sporrn",
-       "Hyssen, the Turning Loam; the Quiet Door as compost for the next life"
-      ],
-      [
-       "Half-elves",
-       "Coriell, the Between, the bridge between the two families"
-      ],
-      [
-       "The Marked",
-       "Nethis, lord of pacts"
-      ],
-      [
-       "Pocchin",
-       "A magpie-creed of whichever god seems likeliest to improve the next deal"
-      ],
-      [
-       "Cat-kin and voice-kin",
-       "Fortura and Mishri the Nine-Lived; a stolen-voice face of the Skarn"
-      ]
-     ],
-     "caption": ""
-    }
-   }
-  ],
+  "sections": [],
   "facts": [],
   "source": "The Pantheon",
   "aliases": [],
@@ -24815,7 +23656,7 @@
   "title": "The Six Aspects",
   "category": "gods",
   "region": "All regions",
-  "subtitle": "A name the islands know.",
+  "subtitle": "The old powers, prayed to directly",
   "summary": "Older and stranger than the Concord: Water, Fire, Earth, Sky, Life, and Death, prayed to directly by the native peoples.",
   "sections": [
    {
@@ -27074,7 +25915,7 @@
   "title": "Dress and the Five-Glance Read",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Daily life",
+  "subtitle": "Reading a stranger at a glance",
   "summary": "Every islander reads a stranger's sash, metal, cloth, boots, and ink without thinking. Color is the luxury in the Heartland.",
   "sections": [
    {
@@ -27118,7 +25959,7 @@
   "title": "Food of the Islands",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Daily life",
+  "subtitle": "What the islands eat, port by port",
   "summary": "Saltknots, wrackcandy, fishbread, pickets, chowder-loaves, Pibcha, and Bloodbroth: what the islands eat, port by port.",
   "sections": [
    {
@@ -27155,7 +25996,7 @@
   "title": "Games and Pastimes",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Daily life",
+  "subtitle": "How the islands play",
   "summary": "Tidecall on every beach, the Long Pull regattas, Nine Ports in the taverns, kite-duels in Goldwind, ringstone in the south.",
   "sections": [
    {
@@ -27192,7 +26033,7 @@
   "title": "Languages of the Archipelago",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Daily life",
+  "subtitle": "Who speaks what",
   "summary": "Everyone speaks the Island tongue for trade; most people also speak the tongue of their own people or region.",
   "sections": [
    {
@@ -27200,105 +26041,6 @@
     "paragraphs": [
      "Every character knows Common and two other languages. In Kalvatar, choose the two from the standard languages below. A rare language needs a reason in your story."
     ]
-   },
-   {
-    "title": "At a glance",
-    "paragraphs": [],
-    "table": {
-     "headers": [
-      "Kalvatari name",
-      "For the rules",
-      "Who speaks it"
-     ],
-     "rows": [
-      [
-       "The Island tongue",
-       "Common",
-       "Everyone in Council lands, and most of everyone else"
-      ],
-      [
-       "Imperial",
-       "Standard (Kalvatar)",
-       "The mainland of Assios, the old houses, the dragonborn clans"
-      ],
-      [
-       "Confederacy speech",
-       "Standard (Kalvatar)",
-       "The native peoples and chant-keepers of the south"
-      ],
-      [
-       "Pocchin",
-       "Standard (Kalvatar)",
-       "Every caravan; fast, slangy, and thick with words for value"
-      ],
-      [
-       "Draconic",
-       "Standard",
-       "Dragonborn clans and kobold warrens"
-      ],
-      [
-       "Dwarvish",
-       "Standard",
-       "The holds, and the Tally"
-      ],
-      [
-       "Elvish",
-       "Standard",
-       "All five kinds of elf, with five accents and one long grudge about pronunciation"
-      ],
-      [
-       "Giant",
-       "Standard",
-       "The Vorthani, the goliaths, and the Tarvan's old tongue"
-      ],
-      [
-       "Gnomish",
-       "Standard",
-       "The workshops"
-      ],
-      [
-       "Goblin",
-       "Standard",
-       "The warrens of the Skarn's children"
-      ],
-      [
-       "Halfling",
-       "Standard",
-       "The inns and the river-pilots"
-      ],
-      [
-       "Orc",
-       "Standard",
-       "The Telling, and the docks"
-      ],
-      [
-       "Primordial",
-       "Rare",
-       "Galven storm-songs and Aethyn star-rolls (Auran), the Coral song (Aquan), the Cindren forge-cant (Ignan)"
-      ],
-      [
-       "Sylvan",
-       "Rare",
-       "The Liriath, and the Courts of the Faewild"
-      ],
-      [
-       "Undercommon",
-       "Rare",
-       "The Sporrn and the drow, and whatever else lives Below"
-      ],
-      [
-       "Abyssal and Infernal",
-       "Rare",
-       "Orka glyphs, and the old words some of the Marked keep"
-      ],
-      [
-       "Thieves' Cant",
-       "Rare",
-       "The Undertow's cant"
-      ]
-     ],
-     "caption": ""
-    }
    }
   ],
   "facts": [],
@@ -27320,7 +26062,7 @@
   "title": "Manners Among the Peoples",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Daily life",
+  "subtitle": "How not to give offense",
   "summary": "Laugh at a Pocchin's Fat Offer, never make a Vorthani repeat themselves, and never touch a Tarvan's horns.",
   "sections": [
    {
@@ -35574,6 +34316,10 @@
    "label": "Keshix",
    "alt": "A twin-crested predator steps onto a wet jungle path, with an adult traveler beyond it.",
    "caption": "Keshix"
+  },
+  "epigraph": {
+   "quote": "Smaller than a Swordtooth, the handlers say. So is a knife.",
+   "by": "A Jakupur hunt-master"
   }
  },
  {
@@ -35660,7 +34406,11 @@
     "label": "Hyacinth & Vesna · Wunwun",
     "presentation": "gallery"
    }
-  ]
+  ],
+  "epigraph": {
+   "quote": "You hear the herd an hour before you see it, and you slow down to listen.",
+   "by": "A caravan rider"
+  }
  },
  {
   "id": "packthumb",
@@ -35729,6 +34479,10 @@
    "label": "Tammok",
    "alt": "Two herbivorous pack saurians carry balanced baggage on a jungle caravan trail beside their guide.",
    "caption": "Tammok"
+  },
+  "epigraph": {
+   "quote": "Nobody sings about the Packthumb. Everybody’s supper arrived on one.",
+   "by": "A caravan cook"
   }
  },
  {
@@ -36300,7 +35054,7 @@
    "Southern Wilds",
    "Central Heartland"
   ],
-  "subtitle": "One jewel, one pool",
+  "subtitle": "The jewel that fights",
   "summary": "Beautiful, fiercely aggressive giant fish kept in private indoor pools by Jakupur’s wealthy households, now becoming fashionable among Heartland nobles.",
   "sections": [
    {
