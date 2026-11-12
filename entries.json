@@ -13897,12 +13897,27 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "Two reefs and a graveyard of fleets",
-  "summary": "A passage between two reefs, where the great battle of 165 EC was fought.",
+  "summary": "A passage between two reefs in the southern sea, where the great battle of 165 EC was fought and its wrecks still lie.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "The wrecks of the Armada and the Blackheart fleets lie on the reef's bottom, and divers say the wrecks still hum at dusk."
+     "The Kraken’s Maw is a narrow passage between two reefs in treacherous southern water. In 165 EC more than a hundred and sixty ships fought there for sixteen hours, and a great many of them never left.",
+     "The wrecks of the Armada and of Blackheart’s fleet lie together on the bottom. Divers say they still hum at dusk."
+    ]
+   },
+   {
+    "title": "The salvagers",
+    "paragraphs": [
+     "Ten years on, the Maw is worked by salvage crews, who bring up guns, fittings, and now and then a strongbox. They work by daylight and are in their boats before dusk.",
+     "By custom nothing is taken from a wreck that still has dead aboard, and the names of both fleets are said over the water on the night of the battle."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Every year on the night of the Maw, someone leaves a red-bladed knife on the reef where Blackheart fell.” (a Maw salvager)",
+     "“The Dread Sovereign’s berth on the bottom is empty. Has been for a while. Ask the Free Tide where she went.” (a Hollowkey drift-trader)"
     ]
    }
   ],
@@ -13910,6 +13925,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "What it is",
+    "a passage between two reefs"
+   ],
+   [
+    "Remembered for",
+    "the battle of 165 EC"
+   ],
+   [
+    "Worked by",
+    "salvagers"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -13926,7 +13953,8 @@
    "ship-classes-of-the-armada",
    "great-hunter-crews",
    "coral-kingdoms",
-   "titania-and-the-iron-swan"
+   "titania-and-the-iron-swan",
+   "free-tide"
   ],
   "illustration": {
    "src": "assets/history/maw-wrecks-painterly-v1-960.webp",
@@ -13936,6 +13964,10 @@
    "height": 1024,
    "alt": "Two adult salvagers row among weed-covered wooden wrecks in the Kraken's Maw in 175 EC, ten years after the battle, with the reefs fading into evening fog.",
    "caption": "Ten years on, the sea keeps its tally."
+  },
+  "epigraph": {
+   "quote": "You dive on the Maw with your mouth shut. Half of what’s down there still has its colors up.",
+   "by": "A Maw salvager"
   }
  },
  {
@@ -14107,12 +14139,36 @@
   "category": "place",
   "region": "Icy Expanse",
   "subtitle": "The last warm meal before the silence",
-  "summary": "Snowvah is the northernmost settled town of the Expanse, a cluster of stone houses on a black-rock promontory above the ice.",
+  "summary": "The last settled town of the Expanse: a cluster of stone houses on a black-rock promontory above the ice.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "Snowvah is the last place where a stranger can buy a warm meal before the silent country begins. The Snowvah folk are hard, quiet, and proud. They keep a watch on the sky beyond the last posts, and they do not talk about what they see there."
+     "Snowvah is a handful of stone houses on a black promontory, with the ice below and nothing beyond. It is the last place where a stranger can buy a warm meal before the silent country begins.",
+     "A line of posts stands out on the ice past the town. The Snowvah folk will guide a traveler as far as the last of them."
+    ]
+   },
+   {
+    "title": "The people",
+    "paragraphs": [
+     "Seal-hunters, sled-drivers, and guides. They are hard, quiet, and proud, and a stranger who is neither loud nor in a hurry will find them generous.",
+     "Every house keeps a watch on the sky beyond the last posts. They do not talk about what they see there, and it is rude to ask."
+    ]
+   },
+   {
+    "title": "If you go",
+    "paragraphs": [],
+    "list": [
+     "Pay for your meal before you eat it. It is the custom, and it is not an insult.",
+     "Buy the furs they tell you to buy.",
+     "When your guide stops, you stop."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Every hush owl in a Snowvah graveyard puffed up at once on the last King Tide.” (heard in the Icy Expanse)",
+     "“A University party went out past the posts a long time ago. Snowvah still sets a place for them at midwinter. Nobody remembers who started it.” (a Snowvah sled-driver)"
     ]
    }
   ],
@@ -14120,13 +14176,31 @@
    [
     "Region",
     "The Icy Expanse"
+   ],
+   [
+    "What it is",
+    "the last town of the settled ice"
+   ],
+   [
+    "People",
+    "hard, quiet, and proud"
+   ],
+   [
+    "Beyond it",
+    "the silent country"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
   "aliases": [],
   "related": [
-   "icy-expanse"
-  ]
+   "icy-expanse",
+   "hush-owl",
+   "auroral-vault"
+  ],
+  "epigraph": {
+   "quote": "We’ll feed you and sell you a sled. We won’t take you past the posts, and we won’t tell you why.",
+   "by": "A Snowvah innkeeper"
+  }
  },
  {
   "id": "southhaven",
@@ -14335,18 +14409,26 @@
   "category": "place",
   "region": "Central Heartland",
   "subtitle": "The wall that is warm to the touch",
-  "summary": "A dwarven wall under Goldwind's oldest cistern, whose mortar was worked from the far side.",
+  "summary": "A dwarven wall at the bottom of Goldwind’s oldest cistern. Its mortar has been worked from the far side.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "Any visitor who lays a hand on the wall feels a faint warmth, and the dwarves of the Goldwind holds say the warmth is the debt being paid, one load at a time."
+     "At the bottom of the oldest cistern in Goldwind, under the undercity, there is a wall of dwarven stonework that belongs to no building. It carries the tally-mark the dwarves cut on things that are owed, and a draft comes through its joints that smells of the sea.",
+     "Anyone who lays a hand on it feels a faint warmth. The dwarves of the Goldwind holds say the warmth is the debt being paid, one load at a time, and do not explain further."
+    ]
+   },
+   {
+    "title": "The mortar",
+    "paragraphs": [
+     "In 174 EC someone noticed that the mortar at the foot of the wall had been worked. The tool-marks are on the wrong side. The city’s masons were asked to repair it and declined, politely, every one."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The Cistern Door. At the bottom of Goldwind's oldest cistern is a dwarven wall, and someone has been working its mortar from the other side.” (common talk)"
+     "“The Cistern Door. At the bottom of Goldwind's oldest cistern is a dwarven wall, and someone has been working its mortar from the other side.” (common talk)",
+     "“The kobolds that live down by the cistern have started sweeping in front of it. Like you would before a guest.” (a Goldwind rat-catcher)"
     ]
    }
   ],
@@ -14354,6 +14436,18 @@
    [
     "Region",
     "The Central Heartland"
+   ],
+   [
+    "Where",
+    "under Goldwind’s oldest cistern"
+   ],
+   [
+    "Made by",
+    "dwarves, long ago"
+   ],
+   [
+    "Marked with",
+    "the dwarven tally-mark"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14361,8 +14455,13 @@
   "related": [
    "dwarves",
    "goldwind",
-   "below"
-  ]
+   "below",
+   "kobolds"
+  ],
+  "epigraph": {
+   "quote": "Stone doesn’t get warm on its own. I’ve been a mason forty years. Stone does not do that.",
+   "by": "A Goldwind cistern-keeper"
+  }
  },
  {
   "id": "giants-table",
@@ -14452,12 +14551,37 @@
   "category": "place",
   "region": "Central Heartland",
   "subtitle": "The market under the reeds",
-  "summary": "A market below Duskmire, reached through the reed-beds and kept by goblins.",
+  "summary": "The one market of the Below: a cavern under Duskmire where four roads meet, kept by goblins, with no names, no blades, and no light brighter than a candle.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "The Knot is the only trading place in the Below that the surface folk use by choice. Its rules are short: no names, no blades, and no light brighter than a candle."
+     "Under Duskmire, where four of the old roads meet in a cavern the size of a cathedral, there is a market. It is held whenever enough people are there, which is most of the time.",
+     "The Knot is the only trading place in the Below that surface folk use by choice. The way in is through the fen’s deepest reed-beds, and it is not signposted."
+    ]
+   },
+   {
+    "title": "The rules",
+    "paragraphs": [
+     "The goblin warren-clans keep the Knot, take a Bit in ten of every sale, and keep the peace with three rules."
+    ],
+    "list": [
+     "**No names.** Not yours, not the seller’s, not the goods’.",
+     "**No blades.** They are checked at the reeds and returned at the reeds.",
+     "**No light brighter than a candle.** Some of the customers have traveled a long way up, and their eyes are not made for more."
+    ]
+   },
+   {
+    "title": "What is sold",
+    "paragraphs": [
+     "Everything the harbors will not handle, and a few things the harbors have never seen: black glass, lamp-glass, and a silk the color of no dye. Kobold underpilots can be hired here to guide a party through the roads, for coin, salt, or something shiny, and they are worth every Bit.",
+     "The tongue of the market is Knot-speech, which has no names in it at all. A person is said by what they carry, and a place by what is there."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Once or twice a year someone comes up to the Knot to buy salt, pays in black glass, and leaves by a road the goblins don’t use. Every fence in Goldwind would pay a fortune for the date.” (a Duskmire fence)"
     ]
    }
   ],
@@ -14465,6 +14589,22 @@
    [
     "Region",
     "The Central Heartland"
+   ],
+   [
+    "Where",
+    "under Duskmire, through the deepest reed-beds"
+   ],
+   [
+    "Kept by",
+    "the goblin warren-clans"
+   ],
+   [
+    "The rules",
+    "no names, no blades, no light brighter than a candle"
+   ],
+   [
+    "The cut",
+    "a Bit in ten"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14474,7 +14614,9 @@
    "goblinoids",
    "below",
    "knot-crab",
-   "hundred-and-fifty-ways"
+   "hundred-and-fifty-ways",
+   "kobolds",
+   "quiet-auction"
   ],
   "illustration": {
    "src": "assets/scenes/knot-painterly-v1-960.webp",
@@ -14484,6 +14626,10 @@
    "height": 1024,
    "alt": "A goblin merchant bargains with visitors by candlelight in The Knot under Duskmire.",
    "caption": "No names, no blades, no light brighter than a candle."
+  },
+  "epigraph": {
+   "quote": "A Bit in ten to the goblins, and for that nobody in the room has a face. Cheap at the price.",
+   "by": "A Duskmire fence"
   }
  },
  {
@@ -14492,12 +14638,26 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "Jakupur’s arena",
-  "summary": "An arena cut into the rock of Jakupur's southern hill, where saurians fight one another and the condemned.",
+  "summary": "An arena cut into the rock of Jakupur’s southern hill, where saurians fight one another, the brave, and the condemned.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "The Maw-Pit is not a wonder of nature, but it is a wonder of the south, and visitors who have seen the Maw-Pit's sand after a fight never tell the same story twice."
+     "The Maw-Pit is a bowl cut down into the rock, with tiers of seats above and beast-gates below. It is not a wonder of nature, but it is a wonder of the south, and visitors who have seen its sand after a fight never tell the same story twice.",
+     "The pit flooded on the King Tide of 174 EC and was dry and open again within the season."
+    ]
+   },
+   {
+    "title": "The fights",
+    "paragraphs": [
+     "Saurian fights saurian for the betting-books. For those who want more, saurians are matched against people: the brave, who come for the purse, the desperate, who come for the same reason, and the condemned, who are not asked.",
+     "Pit-fighting is against the law in Council lands. Jakupur has never found the time to notice."
+    ]
+   },
+   {
+    "title": "Who profits",
+    "paragraphs": [
+     "The stables, the handlers, the bookmakers, and the syndicates that wash their coin through the books. A fighter who wins three times can name a price. Most do not get to three."
     ]
    },
    {
@@ -14511,12 +14671,25 @@
    [
     "Region",
     "The Southern Wilds"
+   ],
+   [
+    "Where",
+    "Jakupur’s southern hill"
+   ],
+   [
+    "Legal",
+    "nowhere in Council lands; thriving here"
+   ],
+   [
+    "On the sand",
+    "saurian against saurian, and against people"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
   "aliases": [],
   "related": [
-   "jakupur"
+   "jakupur",
+   "southern-wilds"
   ],
   "illustration": {
    "src": "assets/scenes/maw-pit-painterly-v1-960.webp",
@@ -14526,6 +14699,10 @@
    "height": 1024,
    "alt": "Handlers lead a giant feathered saurian into the rock-cut arena of Jakupur before a waiting crowd.",
    "caption": "The Maw-Pit fills before the contest begins."
+  },
+  "epigraph": {
+   "quote": "The Sunspine Run is where Jakupur takes its guests. The Pit is where it goes afterward.",
+   "by": "A Jakupur bookmaker"
   }
  },
  {
@@ -14534,12 +14711,35 @@
   "category": "place",
   "region": "Icy Expanse",
   "subtitle": "The roads under the ice",
-  "summary": "A network of channels under the winter sea-ice, opened by the dwarves of the Expanse's deep holds and used by the smugglers when the ice is too thick for ships.",
+  "summary": "Ways under the winter sea-ice, opened by the dwarves of the Expanse’s deep holds and run by smugglers when the ice is too thick for ships.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "The Rime Ways connect the Expanse to the Below, and the dwarves say a tally-mark is cut at every turning, and that the marks go down further than any man has dived."
+     "When the sea-ice closes the bays from autumn to spring, the Rime Ways open beneath it: a network of passages with the ice for a ceiling. The dwarves of the deep holds opened them, and cut a tally-mark at every turning.",
+     "The Ways join the Expanse to the Below. The dwarves say the marks go down further than anyone has followed them."
+    ]
+   },
+   {
+    "title": "Who uses them",
+    "paragraphs": [
+     "Dwarves, whalers, and smugglers. When no ship can move, cargo still crosses between Varan Port and Frosthold by skate and sled, and the runners who carry it are paid like captains.",
+     "The Ways are a winter road only. In a thaw, the roof comes down."
+    ]
+   },
+   {
+    "title": "If you run them",
+    "paragraphs": [],
+    "list": [
+     "Count the tally-marks. They are the only map.",
+     "Carry your own light and a spare.",
+     "Listen to the ice. Runners say it speaks before it moves, and that the trick is knowing the language."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a stretch near the middle where the old runners take their bells off the harness and don’t talk. Something was put under the ice there, a long time ago, and they would like it to stay asleep.” (a Frosthold sled-wright)"
     ]
    }
   ],
@@ -14547,6 +14747,18 @@
    [
     "Region",
     "The Icy Expanse"
+   ],
+   [
+    "Runs",
+    "under the sea-ice, between Varan Port and Frosthold"
+   ],
+   [
+    "Open",
+    "only in deep winter"
+   ],
+   [
+    "Traveled by",
+    "skate, sled, and lamplight"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14554,7 +14766,9 @@
   "related": [
    "dwarves",
    "icy-expanse",
-   "below"
+   "below",
+   "varan-port",
+   "frosthold"
   ],
   "illustration": {
    "src": "assets/scenes/rime-ways-painterly-v1-960.webp",
@@ -14564,6 +14778,10 @@
    "height": 1024,
    "alt": "A dwarven guide points to tally marks inside the ice channels of the Rime Ways beside a skiff.",
    "caption": "At every turning, another tally in the ice."
+  },
+  "epigraph": {
+   "quote": "In winter the ice is your roof. In a thaw it is still your roof, just not for long.",
+   "by": "A Rime Ways sled-runner"
   }
  },
  {
@@ -14575,9 +14793,23 @@
   "summary": "A ring of reefs in the Stormreach strait, shaped like a serpent coiled about a tower.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "The Vanris house took its founding from the sea serpent that led Valdar Vanris to the fortress-site, and the Coil is the serpent's body in stone. Captains who run the Coil in a storm say the reef moves at the King Tide, and the house has never been able to prove otherwise, or to prove it wrong."
+     "The Coil is a ring of reefs in the strait below Stormreach. Seen from the fortress rock at low water, it has the shape of a sea serpent wound about a tower.",
+     "House Vanris takes its founding from the serpent that led Valdar Vanris to the fortress-site, and the Coil is that serpent’s body in stone. It is on the house’s sigil: a coiled sea-serpent about a tower."
+    ]
+   },
+   {
+    "title": "Running it",
+    "paragraphs": [
+     "Ships bound for the Vanris yards take a Stormreach pilot through the Coil or go the long way round. The pilots learn it as children and hand the bearings down in families.",
+     "Captains who have run the Coil in a storm say the reef moves at the King Tide. The house has never been able to prove otherwise, or to prove it wrong."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“After the last King Tide, three pilot families quietly changed their bearings. Same three degrees, all of them.” (a Vanris yard-hand)"
     ]
    }
   ],
@@ -14585,6 +14817,18 @@
    [
     "Region",
     "The Northern Frontier"
+   ],
+   [
+    "Where",
+    "the Stormreach strait"
+   ],
+   [
+    "Sacred to",
+    "House Vanris"
+   ],
+   [
+    "Run by",
+    "Stormreach pilots only"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14593,7 +14837,11 @@
    "stormreach",
    "house-vanris",
    "king-tide"
-  ]
+  ],
+  "epigraph": {
+   "quote": "My father ran the Coil forty years on the same bearings. I use different ones. Neither of us ever touched bottom.",
+   "by": "A Stormreach pilot"
+  }
  },
  {
   "id": "suns-grave",
@@ -14604,9 +14852,22 @@
   "summary": "A patch of open sea south of the Goldwind gulf that the oldest charts name and no chart explains.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "Fishermen say the water there is warm in winter and that nets come up with gold leaf caught in them. Nobody fishes it twice."
+     "There is nothing to see. The Sun’s Grave is open sea, a day south of the gulf, with no reef, no rock, and no reason for a name. The oldest charts in the islands mark it anyway, in the same hand that marked the shoals.",
+     "Fishermen say the water there is warm in winter, and that nets come up with gold leaf caught in them. Nobody fishes it twice."
+    ]
+   },
+   {
+    "title": "What pilots do",
+    "paragraphs": [
+     "Pilots out of Goldwind give it a wide berth without being able to say why. It costs half a day. No shipowner has ever complained about the half-day."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a chart in the University with the name written in a script nobody reads, and beside it a little drawing of a crown under the waves.” (a chartwright’s apprentice)"
     ]
    }
   ],
@@ -14614,26 +14875,57 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "Where",
+    "south of the Goldwind gulf"
+   ],
+   [
+    "Marked",
+    "on the oldest charts only"
+   ],
+   [
+    "Fished",
+    "once"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
   "aliases": [],
   "related": [
-   "goldwind"
-  ]
+   "goldwind",
+   "coral-kingdoms"
+  ],
+  "epigraph": {
+   "quote": "Warm water in midwinter and gold in the net. I cut the net loose and I have not been back.",
+   "by": "A Goldwind fisherman"
+  }
  },
  {
   "id": "veil-of-shadows",
   "title": "The Veil of Shadows",
   "category": "place",
   "region": "Central Heartland",
-  "subtitle": "The curtain rises again.",
-  "summary": "A shadow-theater in Goldwind's old quarter, halfway up the city's rings, where a single play has run every night for about a hundred and forty years without a dark night.",
+  "subtitle": "One play, a hundred and forty years",
+  "summary": "A shadow-theater in Goldwind’s old quarter where a single play has run every night for about a hundred and forty years without a dark night.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The theater",
     "paragraphs": [
-     "The actors perform behind a great veil of white silk. Goldwind's nobility never miss a season."
+     "The Veil of Shadows stands halfway up the city’s rings, between the harbor and the banking quarter. It is fashionable, beautiful, and very old. The actors perform behind a great veil of white silk, and nobody has ever seen their faces.",
+     "The house has never gone dark. Through plague, siege, and King Tide, the lamps behind the silk have been lit every night."
+    ]
+   },
+   {
+    "title": "The play",
+    "paragraphs": [
+     "There is one play, and it has no end. Its characters are masks for the powers of the islands: a house, a fleet, a faith, a debt. Goldwind’s nobility never miss a season, partly for the art and partly to see who is being played this year and how.",
+     "One box is always kept empty. It is the Founder’s box, and it has been empty for as long as the play has run."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“I went on a Graveday. One of the shadows on the silk was me. It did something I haven’t done yet.” (a Goldwind clerk)"
     ]
    }
   ],
@@ -14641,11 +14933,29 @@
    [
     "Region",
     "The Central Heartland"
+   ],
+   [
+    "Where",
+    "Goldwind’s old quarter, halfway up the rings"
+   ],
+   [
+    "Running",
+    "about a hundred and forty years"
+   ],
+   [
+    "The actors",
+    "never seen"
+   ],
+   [
+    "The Founder’s box",
+    "always kept empty"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
   "aliases": [],
-  "related": [],
+  "related": [
+   "goldwind"
+  ],
   "illustration": {
    "src": "assets/scenes/veil-of-shadows-painterly-v1-960.webp",
    "thumb": "assets/scenes/veil-of-shadows-painterly-v1-480.webp",
@@ -14654,6 +14964,10 @@
    "height": 1024,
    "alt": "An audience watches performers cast silhouettes behind a great white silk veil in a Goldwind theater.",
    "caption": "The same play fills the Veil of Shadows each night."
+  },
+  "epigraph": {
+   "quote": "My grandmother saw the first act. I am told we are nearly at the second.",
+   "by": "A Goldwind season-ticket holder"
   }
  },
  {
@@ -14662,12 +14976,19 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "The deepest court",
-  "summary": "Abyssara is the trench beneath the trenches, where the dark has never been broken.",
+  "summary": "The trench beneath the trenches, where the dark has never once been broken. Even the deep courts will not go there.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "Abyssara is the lair of Thalgorath, and of something vast and ancient that the sea-peoples call by a name they do not say near the water. Even the deep courts will not go there. Abyssara is the place they fear."
+     "Abyssara is the southwestern trench, below the Sunken Thrones, where the pressure would crush a ship to foil. No light has ever reached it and no court claims it.",
+     "It is the lair of Thalgorath, and of something vast and ancient that the sea-peoples call by a name they do not say near the water."
+    ]
+   },
+   {
+    "title": "What the sea-folk say",
+    "paragraphs": [
+     "The sea-peoples do not rule Abyssara. They are afraid of it, the way the surface is afraid of them. Ask a coral trader about it in a dry tavern, well inland, and you may get an answer. Ask on the quay and the conversation is over."
     ]
    },
    {
@@ -14681,6 +15002,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "Depth",
+    "the bottom of the bottom"
+   ],
+   [
+    "Lair of",
+    "Thalgorath, the Tide-Tyrant"
+   ],
+   [
+    "Ruled by",
+    "no court"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14689,8 +15022,13 @@
    "thalgorath-the-tide-tyrant",
    "mhavros",
    "gods-of-the-pantheon",
-   "coral-kingdoms"
-  ]
+   "coral-kingdoms",
+   "sunken-thrones"
+  ],
+  "epigraph": {
+   "quote": "The surface is afraid of us. We are afraid of that. It is good for everyone to have something.",
+   "by": "A Grey Fathoms keeper"
+  }
  },
  {
   "id": "glass-gardens",
@@ -14698,18 +15036,37 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "The city of living reef",
-  "summary": "The Glass Gardens are the fair merfolk's realm in the Sunlit shallows, a city of living reef-architecture where the coral grows in shapes the sea-folk choose.",
+  "summary": "The realm of the fair merfolk in the Sunlit shallows: a city grown from living coral, in shapes the sea-folk choose.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "The Glass Gardens’ towers are clear, and its streets are lit by bioluminescent fish. The Glass Gardens are the sea's most welcoming court, and the sea-folk trade memory-pearls there to surface visitors who come to them with a kind word and a clean hand."
+     "The Glass Gardens lie where light still reaches the reef. Their towers are clear, their streets are lit by shoals of glowing fish, and nothing in the city was built: the coral was asked to grow that way, and did.",
+     "This is the sea of the songs. Its people are curious, playful, and kind to the surface more often than not, and they are bound by courtesy and bargain as strictly as any fae."
+    ]
+   },
+   {
+    "title": "What they trade",
+    "paragraphs": [
+     "The Gardens trade memory-pearls: a person who holds one can live again a moment of someone who is dead. They are given, never sold cheaply, to visitors who arrive with a kind word and a clean hand.",
+     "Ports that keep a pact with the Gardens get safe water and warning of storms, and count themselves lucky."
+    ]
+   },
+   {
+    "title": "If you go",
+    "paragraphs": [],
+    "list": [
+     "**Greet them in song.** Any song. Effort counts more than voice.",
+     "**Bring a gift of sound.** A bell, a music box, a tune they have not heard.",
+     "**Show no bare cold iron.** Wrap it, sheathe it, or leave it in the boat.",
+     "**Keep your word.** They will keep theirs, to the letter."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Pelagar has been buying the Starfall coral in bulk. The Glass Gardens have stopped trading with Pelagar in return.” (heard in the Sea and the Coral Kingdoms)"
+     "“Pelagar has been buying the Starfall coral in bulk. The Glass Gardens have stopped trading with Pelagar in return.” (heard in the Sea and the Coral Kingdoms)",
+     "“Somebody has been ringing a bell under the water off Pearl Groove at midnight. The Gardens say it is theirs. They do not say where they found it.” (a pearl-clan diver)"
     ]
    }
   ],
@@ -14717,6 +15074,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "Depth",
+    "the Sunlit shallows"
+   ],
+   [
+    "Court",
+    "Sunlit; the sea’s most welcoming"
+   ],
+   [
+    "Known for",
+    "memory-pearls, clear towers, and storm-warnings"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14725,7 +15094,8 @@
    "sea-pacts",
    "coral-peoples",
    "coral-kingdoms",
-   "starfall-reef"
+   "starfall-reef",
+   "lamp-shoal"
   ],
   "illustration": {
    "src": "assets/scenes/glass-gardens-painterly-v3-960.webp",
@@ -14735,6 +15105,10 @@
    "height": 1024,
    "alt": "Two merfolk with fin-frills extend both hands toward a memory pearl amid the coral arches of the fully submerged Glass Gardens.",
    "caption": "A memory pearl changes hands in the Sunlit shallows."
+  },
+  "epigraph": {
+   "quote": "They asked what I had brought. I said a song my mother sang. They said that would do very well.",
+   "by": "A Pearl Groove diver"
   }
  },
  {
@@ -14743,12 +15117,33 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "The court that keeps the drowned",
-  "summary": "The Grey Fathoms are the realm of the kept drowned, a deep court whose sea-folk gather the dead of the surface and keep them in silver-lit caves.",
+  "summary": "A deep court whose sea-folk gather the surface’s drowned and keep them in silver-lit caves, to be ransomed home for a day.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "The Grey Fathoms’ ransom is fair: a family that comes to the Grey Fathoms with a pearl and a song may take a drowned relative home for a day. The Fathoms refuse the dead of the Wrong Coast, and their keepers have never said why."
+     "The Grey Fathoms lie deep, in caves lit the color of old silver. Their people are grave and patient, and their work is the dead: everyone the sea takes from the surface comes to them in the end, and is kept.",
+     "Coral folk of the Fathoms who walk the dry ports are quiet neighbors, and they are asked to every sailor’s funeral."
+    ]
+   },
+   {
+    "title": "The ransom",
+    "paragraphs": [
+     "The Fathoms’ price is fair. A family that comes with a pearl and a song may take a drowned relative home for one day. At dusk the dead go back to the water, and they go willingly.",
+     "A pact-port has the right to ask. A port without a pact can only hope someone at the Fathoms is feeling kind."
+    ]
+   },
+   {
+    "title": "What they refuse",
+    "paragraphs": [
+     "The Fathoms refuse the dead of the Wrong Coast. Their keepers have never said why, and they do not like the question.",
+     "They are also said to watch over the Whalefall Gardens, and to take a toll of any boat that cuts the weed there without a blessing."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A woman in Saltreach has ransomed the same husband eleven times. The Fathoms have begun to give her the day for the song alone.” (a Tidecaller)"
     ]
    }
   ],
@@ -14756,6 +15151,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "Depth",
+    "below the Twilight Reaches"
+   ],
+   [
+    "Keeps",
+    "the drowned of the surface"
+   ],
+   [
+    "The ransom",
+    "a pearl and a song, for one day"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14766,7 +15173,11 @@
    "coral-peoples",
    "coral-kingdoms",
    "whalefall-gardens"
-  ]
+  ],
+  "epigraph": {
+   "quote": "A pearl and a song, and they gave me my brother from dawn to dark. He was cold. He knew me.",
+   "by": "A fisher of Greyhaven"
+  }
  },
  {
   "id": "old-shells",
@@ -14774,12 +15185,29 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "Three questions a generation",
-  "summary": "The Old Shells are the realm of the leviathan sage-turtles, great ancient creatures whose shells are the size of islands.",
+  "summary": "The leviathan sage-turtles, ancient creatures with shells the size of islands, who answer three questions in each generation.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Who they are",
     "paragraphs": [
-     "The Old Shells answer three questions a generation, to any who come to them with a gift of sound and a true question. The Old Shells surface at the Stillwater, and their answers have shaped the Armada's naval doctrine twice in living memory."
+     "The Old Shells are a court of very few. Each is a turtle the size of an island, older than the charts, and slow in the way that mountains are slow.",
+     "They surface at the Stillwater, the becalmed circle in the open sea where no wind crosses and compasses spin. A crew that sees one keeps its distance and its voice low."
+    ]
+   },
+   {
+    "title": "The three questions",
+    "paragraphs": [
+     "The Old Shells answer three questions a generation, to anyone who comes with a gift of sound and a true question. Nobody has yet been able to predict which three they will choose, or to make them choose.",
+     "Their answers have shaped the Armada’s naval doctrine twice in living memory. Both times, the admirals who asked were told something they had not asked about."
+    ]
+   },
+   {
+    "title": "If you go",
+    "paragraphs": [],
+    "list": [
+     "**Bring sound.** A bell cast for the purpose, a song never sung before, a silence kept for a year.",
+     "**Ask what you truly want to know.** They can tell, and a false question is not answered.",
+     "**Do not ask twice.** The crews that did are not spoken of."
     ]
    },
    {
@@ -14794,6 +15222,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "Surface at",
+    "the Stillwater"
+   ],
+   [
+    "Answer",
+    "three questions a generation"
+   ],
+   [
+    "The price",
+    "a gift of sound and a true question"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14811,6 +15251,10 @@
    "height": 1024,
    "alt": "A sage-turtle as large as an island surfaces beside a tiny sailing boat at Stillwater.",
    "caption": "A gift of sound and a true question approach an Old Shell."
+  },
+  "epigraph": {
+   "quote": "We sailed for a month to ask it one thing. It had already answered someone else’s. We have been arguing about what it meant ever since.",
+   "by": "A Last Psalm navigator"
   }
  },
  {
@@ -14819,12 +15263,25 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "Where the surface trades with the deep",
-  "summary": "Pearl Groove is the surface's pearl-port, a shallow lagoon of pearl-clans on the Heartland's coast, under the watch of the Belmaris house and its bell-mistress Orlaine.",
+  "summary": "The two pact-ports: Pearl Groove, a lagoon of pearl-clans on the Heartland coast, and the small isle where House Pelagar keeps its pacts and its secrets.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Pearl Groove",
     "paragraphs": [
-     "The Pelagar isle lies on the Coral edge, a small island of pearl-houses and sea-gardens, where the Pelagar house keeps its pacts and its secrets. Both ports are the surface's gateway to the courts, and both are watched by every faction in the Heartland."
+     "A shallow lagoon on the Heartland’s coast. The pearl-clans dive for pearls and clean the murex beds for reefpurple, the rarest dye in the islands, which by custom only Council seats and the Concord’s high clergy wear.",
+     "The Groove works under the watch of House Belmaris and its bell-mistress, Orlaine. The sound-trade of the Coral Kingdoms, the bells and music-boxes the courts prize, passes through on its way to the Congress."
+    ]
+   },
+   {
+    "title": "The Pelagar isle",
+    "paragraphs": [
+     "A small island on the Coral edge, all pearl-houses and sea-gardens. House Pelagar keeps the most secret of the pacts here, and it is the only surface house that deals directly with the Glass Gardens and the Whispering Current."
+    ]
+   },
+   {
+    "title": "In the harbor",
+    "paragraphs": [
+     "The hulk *Quiet Passage* has been moored in the Groove for forty years. It is the paupers’ morgue ship, where the Concord keeps the unclaimed drowned until burial, and nobody goes aboard who does not have to."
     ]
    },
    {
@@ -14840,6 +15297,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "Pearl Groove",
+    "pearls and reefpurple, under House Belmaris"
+   ],
+   [
+    "The Pelagar isle",
+    "pearl-houses, sea-gardens, and the most secret pacts"
+   ],
+   [
+    "Known for",
+    "the purple of Council robes"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14853,7 +15322,11 @@
    "noble-houses",
    "red-choir",
    "coral-kingdoms"
-  ]
+  ],
+  "epigraph": {
+   "quote": "Every faction in the Heartland has a man in the Groove. Half of them are watching the other half.",
+   "by": "A Belmaris bell-warden"
+  }
  },
  {
   "id": "red-choir",
@@ -14861,12 +15334,28 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "Hymns for blood in the water",
-  "summary": "The Red Choir is the sahuagin blood-faith, a deep and savage court whose hymns rise when blood is in the water.",
+  "summary": "The blood-faith of the sahuagin: a deep and savage court whose hymns rise whenever blood is in the water.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The court",
     "paragraphs": [
-     "The Red Choir’s choirmaster is Thalgorath, the Tide-Tyrant, and its priests sing him up from the depths on the King Tide. The Red Choir does not trade with the surface, and the Pelagar house has never been able to make it an offer it would accept."
+     "The Red Choir is a faith before it is a kingdom. Its people are the sahuagin, and its worship is song: hymns that rise from the deep when blood is in the water, and that sailors call the most beautiful and the most terrible sounds in the sea.",
+     "Its choirmaster is Thalgorath, the Tide-Tyrant. On the King Tide the priests sing him up from the depths."
+    ]
+   },
+   {
+    "title": "No pact",
+    "paragraphs": [
+     "The Choir keeps no pact and trades with no one above the surface. House Pelagar, which has found a price for nearly everything under the sea, has never been able to make it an offer it would accept."
+    ]
+   },
+   {
+    "title": "What sailors do",
+    "paragraphs": [],
+    "list": [
+     "Bind a wound before it can drip over the side.",
+     "Gut the catch into a bucket, never over the rail, in any water where the Choir has been heard.",
+     "If you hear singing from below, do not lean out to listen. That is the whole of the advice."
     ]
    },
    {
@@ -14880,6 +15369,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "People",
+    "the sahuagin"
+   ],
+   [
+    "Choirmaster",
+    "Thalgorath, the Tide-Tyrant"
+   ],
+   [
+    "Pacts",
+    "none; it does not trade with the surface"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14891,7 +15392,11 @@
    "coral-peoples",
    "sea-pacts",
    "coral-kingdoms"
-  ]
+  ],
+  "epigraph": {
+   "quote": "It was the most beautiful thing I ever heard. I was bailing with both hands and crying, and I could not have told you which was why.",
+   "by": "A whaler’s mate"
+  }
  },
  {
   "id": "sunken-thrones",
@@ -14899,18 +15404,27 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "The courts nobody has seen",
-  "summary": "The Sunken Thrones are the deep courts, a midnight abyss of ancient sovereigns whose politics do not map onto anything a land-mind can hold.",
+  "summary": "The deep courts: a midnight abyss of ancient sovereigns whose politics do not map onto anything a land-mind can hold.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "What little is known of them comes thirdhand through the Pelagar house, and the Pelagar house does not share it, because some of it cannot be told without changing the teller."
+     "Below the Twilight Reaches the light ends, and the Sunken Thrones begin. They are crushing, ancient, and ruled by sovereigns so old that the bright merfolk of the shallows are, to them, half-tamed children.",
+     "Their people are the deep kinds: lantern-jawed things with luring lights and glassy teeth, and minds the surface cannot follow."
+    ]
+   },
+   {
+    "title": "What is known",
+    "paragraphs": [
+     "Very little. What the surface has comes thirdhand through House Pelagar, and Pelagar does not share it, because some of it cannot be told without changing the teller.",
+     "With the dark courts, the sea-pacts are not a friendship. They are a line that keeps the surface out of the deep, and everyone who keeps them knows which side benefits."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“A memory-pearl sold in Pearl Groove shows a woman's face on the Sunken Thrones. She is looking up, and she is smiling.” (heard in the Sea and the Coral Kingdoms)"
+     "“A memory-pearl sold in Pearl Groove shows a woman's face on the Sunken Thrones. She is looking up, and she is smiling.” (heard in the Sea and the Coral Kingdoms)",
+     "“The deep courts fear one thing, and it is below them.” (a Glass Gardens pearl-factor)"
     ]
    }
   ],
@@ -14918,6 +15432,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "Depth",
+    "the midnight deep"
+   ],
+   [
+    "Court",
+    "Sunken; ancient, alien, and patient"
+   ],
+   [
+    "Known through",
+    "House Pelagar, thirdhand"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14927,8 +15453,13 @@
    "coral-peoples",
    "thalgorath-the-tide-tyrant",
    "sea-pacts",
-   "coral-kingdoms"
-  ]
+   "coral-kingdoms",
+   "abyssara-the-black-below"
+  ],
+  "epigraph": {
+   "quote": "We know they are there the way you know a room is occupied in the dark. Something breathes out, and you stop walking.",
+   "by": "A Pelagar tide-pilot"
+  }
  },
  {
   "id": "whispering-current",
@@ -14936,12 +15467,35 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "Every word spoken over water",
-  "summary": "The Whispering Current is the twilight secret-traders' realm, a court of currents that carry every word spoken over water.",
+  "summary": "The court of the twilight secret-traders, whose currents carry every word spoken over water and whose keepers sell what they hear.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The place",
     "paragraphs": [
-     "The Whispering Current’s keepers buy and sell the secrets of the surface's harbors, and the Skein, the great Heartland information-broker, has a standing contract with them. Speak carelessly over water in a Current port and the Current will remember, and the words will be sold at the next full moon."
+     "In the Twilight Reaches the water goes black-green and the cities glow with their own cold light. The Whispering Current is less a city than a set of roads through that water: currents that carry sound, tended by keepers who listen.",
+     "Anything said over water reaches them in time. A quarrel on a deck, a price named on a quay, a promise made on a bridge."
+    ]
+   },
+   {
+    "title": "The trade",
+    "paragraphs": [
+     "The keepers buy and sell the secrets of the surface’s harbors. The Skein, the great information-broker of the Heartland, has a standing contract with them.",
+     "Speak carelessly over water in a Current port and the Current will remember. The words go to sale at the next full moon, to whoever pays."
+    ]
+   },
+   {
+    "title": "Living with it",
+    "paragraphs": [],
+    "list": [
+     "Serious business in a Current port is done indoors, on stone, with the shutters closed.",
+     "Sailors who must talk on deck talk nonsense first, on the theory that the Current gets bored.",
+     "A secret can be bought back before the moon, if you know it was heard. It costs more than keeping quiet would have."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There is one stretch of water in the far south that gives the Current nothing. Not a word, not a splash. The keepers won’t sell the name of it.” (a Skein runner)"
     ]
    }
   ],
@@ -14949,6 +15503,18 @@
    [
     "Region",
     "The Sea and the Coral Kingdoms"
+   ],
+   [
+    "Depth",
+    "the Twilight Reaches"
+   ],
+   [
+    "Trade",
+    "secrets, bought and sold"
+   ],
+   [
+    "Sold",
+    "at the next full moon"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14957,8 +15523,13 @@
    "undertow",
    "coral-peoples",
    "sea-pacts",
-   "coral-kingdoms"
-  ]
+   "coral-kingdoms",
+   "wrong-coast"
+  ],
+  "epigraph": {
+   "quote": "Say it in the cellar or say it inland. Not on the quay. Never on the quay.",
+   "by": "A Goldwind factor, to a new clerk"
+  }
  },
  {
   "id": "charterhouse-company",
