@@ -15889,7 +15889,7 @@
      "**Bronze is the same for everyone.** A Bronze Hunter has no branch yet. Every Bronze Sigil is the same plain disc with the order’s common mark, the Star and Wave, and the iron of the Hunter who vouched for the bearer set into the back.",
      "**At Silver, you choose.** A new Silver declares a branch and designs their own Sigil with a Sigilwright. The branch’s device must stand in the center. The shape, the field, the flourish, and the stone are theirs.",
      "**Two branches:** a Hunter may belong to more than one branch, and two is the limit. The devices are crossed, the first-earned on top, as Albion Tempest’s blade and quill are.",
-     "**Honorary branches:** a branch’s own masters can name a Hunter an honorary member, for work done well by someone who can’t give it their whole time. It carries no device. It is shown by that branch’s stone, set small at the foot of the Sigil. Albion Tempest is an honorary Craftwright.",
+     "**Honorary branches:** a master of a branch can stand sponsor for a Hunter and name them an honorary member, for work done well by someone who can’t give it their whole time. The master answers for that work. It carries no device. It is shown by that branch’s stone, set small at the foot of the Sigil. Albion Tempest is an honorary Craftwright.",
      "**Gold:** recast in gold to the bearer’s design, with a stud for each great deed in the Ledger, up to eight.",
      "**Platinum:** pale, and bare. It shows its design to its bearer and to no one else.",
      "**The foot and the back:** the Lodge’s mark at the foot; on the back, a name and a year."
@@ -41870,6 +41870,10 @@
     "a name, a captain, and articles"
    ],
    [
+    "A sponsor",
+    "some have one; all want one"
+   ],
+   [
     "With a ship",
     "the company takes the ship’s name"
    ],
@@ -41903,8 +41907,71 @@
     "title": "Colors and sponsors",
     "paragraphs": [
      "Every company has a patch of its own design, worn on the back or the left shoulder. A Hunter wears one company’s colors at a time. A famous company also gives a favor: a smaller cut of its colors, handed to an outsider who did the company a real service.",
-     "The public Ranking follows companies as closely as it follows Hunters. Houses and firms sponsor them like racing stables, and a sponsor’s mark is sewn below the colors."
+     "The public Ranking follows companies as closely as it follows Hunters."
     ]
+   },
+   {
+    "title": "Sponsors",
+    "paragraphs": [
+     "Some companies have a sponsor: a house, a trading flag, a guild, a temple, or a town that backs them with coin and influence. Not every company has one. The specialized companies are always looking, and every company wants someone with silver and a name standing behind it."
+    ],
+    "list": [
+     "**What a sponsor gives:** a retainer or a refit, gear of superior make, introductions, a berth in a closed harbor, and a lawyer when one is needed.",
+     "**What a sponsor gets:** its mark sewn below the company’s colors, first call on the company’s time, and whatever the articles of sponsorship say.",
+     "**What a sponsor can’t buy:** the Vow. No sponsor can order a company to break the Code, and a Lodge strikes any articles that try.",
+     "**Sailing bare:** a company with no sponsor. Some call it poverty and some call it freedom, often the same company in the same week.",
+     "**Cutting the mark:** either side can end it. The company cuts the sponsor’s mark from its colors in front of the Chronicler, and the stitch-holes stay."
+    ],
+    "table": {
+     "caption": "Who sponsors a company, and what they want",
+     "headers": [
+      "Sponsor",
+      "Such as",
+      "What they want for it"
+     ],
+     "rows": [
+      [
+       "A noble house",
+       "House Faust, House Sunforge, House Pelagar",
+       "Its colors seen on the winning side, and first call when the house has trouble"
+      ],
+      [
+       "A trading flag",
+       "Corvane, Goldspire, Vantrey",
+       "Escorts that arrive, cargo that is found, and rivals who are not helped"
+      ],
+      [
+       "A guild",
+       "the Smiths’ Guild, the Krystawrights",
+       "Its newest work carried, tested, and praised where people can hear"
+      ],
+      [
+       "The University",
+       "the League of Explorers",
+       "First reading of whatever a delving company brings up, and the right to name it"
+      ],
+      [
+       "The Inkers’ Circle",
+       "any Circle shop",
+       "The story, told to the Circle first and to nobody else for a season"
+      ],
+      [
+       "A stable or a yard",
+       "the Sukuun stables, the Vanris yards",
+       "Live captures, proving voyages, and the company’s name on the product"
+      ],
+      [
+       "A temple",
+       "the Concord",
+       "Relief work, and a company that turns up when a coast is hurt"
+      ],
+      [
+       "A town",
+       "any port with a problem",
+       "One problem, solved, and the company’s promise to come back if it returns"
+      ]
+     ]
+    }
    },
    {
     "title": "Ending",
@@ -41918,7 +41985,8 @@
     "list": [
      "Choose the name before you go in. The Chronicler has heard every joke.",
      "Write down what happens to a dead member’s share. Every company that skipped it wishes it had not.",
-     "Colors first, sponsor second. A sponsor’s mark is sewn below the colors for a reason."
+     "Colors first, sponsor second. A sponsor’s mark is sewn below the colors for a reason.",
+     "Read the articles of sponsorship twice, and ask what the last company did to lose them."
     ]
    },
    {
@@ -41927,6 +41995,9 @@
     "list": [
      "A company’s last living member wants help striking the line, and somebody does not want that name freed.",
      "A sponsor is paying a dry company to lose one contract, quietly, to a rival it also sponsors.",
+     "A sponsor has gone bankrupt overnight, and its creditors say the company’s ship was part of the estate.",
+     "Two sponsors want the same delving company, and each has sent a gift that can’t politely be returned.",
+     "A company’s sponsor has asked for one small thing that is not quite against the Code.",
      "Your company’s favor has turned up on a stranger’s coat, with a first stitch none of you gave."
     ]
    },
