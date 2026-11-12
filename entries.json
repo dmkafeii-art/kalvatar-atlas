@@ -13126,7 +13126,7 @@
        "Improvised",
        "nothing, or scraps",
        "anyone",
-       "An improvised weapon deals 1d4 plus half your Strength modifier (rounded down), has no mastery property, and breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
+       "An improvised weapon deals 1 damage plus half your Strength modifier (rounded down, and never less than 1 in all), has no mastery property, and breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
       ],
       [
        "Crude (harbor make)",
@@ -38784,7 +38784,7 @@
        "Improvised",
        "nothing, or scraps",
        "anyone",
-       "An improvised weapon deals 1d4 plus half your Strength modifier (rounded down), has no mastery property, and breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
+       "An improvised weapon deals 1 damage plus half your Strength modifier (rounded down, and never less than 1 in all), has no mastery property, and breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
       ],
       [
        "Crude (harbor make)",
