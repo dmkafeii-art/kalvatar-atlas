@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=12').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=13').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -346,7 +346,7 @@ window.Adventurers = (() => {
   if(r < .23) return {border: 'copper', label: t('Copper-edged', 'Borde de cobre'), name: pick(c.deeds), line: t('A Great Deed.', 'Una Gran Hazaña.'), ...stats(3, 9)};
   if(r < .31) {const l = pick(c.lodges); return {border: 'plain', label: t('Plain', 'Sencilla'), name: l[0].toUpperCase() + l.slice(1), line: t('A Lodge card.', 'Carta de Lodge.'), ...stats(2, 6)};}
   const p = choosePeople(''), n = make(p, '', ''), silver = chance(.25);
-  return {border: silver ? 'copper' : 'plain', label: silver ? t('Copper-edged', 'Borde de cobre') : t('Plain', 'Sencilla'), name: n.name, line: `${silver ? 'Silver' : 'Bronze'} · ${pick(c.branches)} · ${pick(c.lodges)} · ${p.name.replace(/ \(.*\)$/, '')}`, bio: `${pick(c.known)}. ${pick(c.quirk)}`, ...stats(1, silver ? 7 : 6)};
+  return {border: silver ? 'copper' : 'plain', label: silver ? t('Copper-edged', 'Borde de cobre') : t('Plain', 'Sencilla'), name: n.name, line: `${silver ? 'Silver · ' + pick(c.branches) : 'Bronze'} · ${pick(c.lodges)} · ${p.name.replace(/ \(.*\)$/, '')}`, bio: `${pick(c.known)}. ${pick(c.quirk)}`, ...stats(1, silver ? 7 : 6)};
  }
  function twistHtml() {
   if(!side.twist.length) return '';
@@ -413,55 +413,74 @@ window.Adventurers = (() => {
   $('#tr-roll').addEventListener('click', () => {rollLoot(); $('#tr-out').innerHTML = lootHtml();});
  }
 
- /* The Sigil bench: the Hunters' badge, drawn to the official pattern. */
- const badge = {rank: 'gold', a: 0, b: 3, deeds: 3};
- const METAL = {bronze: ['#b9793f', '#7a4b22', '#e0a568'], silver: ['#c9ced3', '#7f8890', '#f1f3f5'], gold: ['#d8b04a', '#8f6a17', '#f6dc8a'], platinum: ['#e6ecee', '#9fb0b6', '#ffffff']};
- const STONE = ['#a3262e', '#2d5fae', '#3f8f5c', '#f3f0e4', '#d49a2b', '#e08a8f', '#1c1c1f', '#7a4fa3'];
+ /* The Sigil bench: the Hunters' badge. Bronze is the same for everyone; from Silver the bearer designs their own. */
+ const badge = {rank: 'silver', a: 0, b: 3, deeds: 3, shape: 'shield', field: 'rays', flourish: 'laurel'};
+ const METAL = {bronze: ['#b9793f', '#6f431d', '#e6ac70', '#8f5a2b'], silver: ['#c5cbd1', '#6f7982', '#f4f6f8', '#98a2ab'], gold: ['#d6ac42', '#7e5c12', '#f8e092', '#b08a26'], platinum: ['#e4eaed', '#92a4ab', '#ffffff', '#c3d0d5']};
+ const STONE = ['#a3262e', '#2d5fae', '#3f8f5c', '#f3f0e4', '#e08a8f', '#1c1c1f', '#d49a2b', '#7a4fa3'];
  const DEVICE = [
-  c => `<path d="M0-64 9-46 7 18-7 18-9-46Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><rect x="-22" y="18" width="44" height="8" rx="3" fill="${c[1]}"/><rect x="-5" y="26" width="10" height="26" fill="${c[1]}"/><circle cy="58" r="7" fill="${c[1]}"/>`,
-  c => `<path d="M0-62 26-22 14 50-14 50-26-22Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M0-62V50M-26-22H26M-26-22 0 0 26-22M0 0-14 50M0 0 14 50" fill="none" stroke="${c[1]}" stroke-width="1.5"/>`,
-  c => `<path d="M0-40V56" stroke="${c[1]}" stroke-width="6" stroke-linecap="round"/><path d="M0-66 15-36H-15Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M0 26-15 44V60L0 46 15 60V44Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/>`,
-  c => `<path d="M-6 62C-10 10-4-30 22-64 30-22 20 14-2 40Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M-6 62C0 20 8-20 22-64" fill="none" stroke="${c[1]}" stroke-width="2"/><path d="M-6 62-10 48-2 52Z" fill="${c[1]}"/>`,
-  c => `<path d="M0-64 10-10 64 0 10 10 0 64-10 10-64 0-10-10Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M0-34 8-8 34 0 8 8 0 34-8 8-34 0-8-8Z" transform="rotate(45)" fill="${c[1]}"/><circle r="5" fill="${c[2]}"/>`,
-  c => `<path d="M0-60C26-20 36 4 36 22A36 36 0 0 1-36 22C-36 4-26-20 0-60Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><path d="M-18 24A18 18 0 0 0 0 42" fill="none" stroke="${c[1]}" stroke-width="3" stroke-linecap="round"/>`,
-  c => `<rect x="-5" y="-22" width="10" height="82" rx="3" fill="${c[1]}"/><path d="M-32-52H24L34-40 24-26H-32Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/>`,
-  c => `<path d="M-12-44A12 12 0 0 1 12-44" fill="none" stroke="${c[1]}" stroke-width="5"/><rect x="-22" y="-44" width="44" height="10" rx="3" fill="${c[1]}"/><path d="M-20-34H20L26 40H-26Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/><rect x="-28" y="40" width="56" height="10" rx="3" fill="${c[1]}"/><path d="M0-18C10-4 12 6 12 12A12 12 0 0 1-12 12C-12 6-6 2 0-18Z" fill="${c[1]}"/>`];
+  c => `<path d="M0-70 10-50 8 14-8 14-10-50Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-66V12" stroke="${c[3]}" stroke-width="2"/><path d="M-26 14Q0 6 26 14L24 24Q0 16-24 24Z" fill="${c[1]}"/><rect x="-5" y="22" width="10" height="26" rx="2" fill="${c[3]}" stroke="${c[1]}" stroke-width="2"/><circle cy="56" r="8" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5"/>`,
+  c => `<path d="M0-68 28-26 16 54-16 54-28-26Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-68 0 0M-28-26 0 0 28-26M0 0-16 54M0 0 16 54" fill="none" stroke="${c[1]}" stroke-width="1.6"/><path d="M-28-26 0-38 28-26" fill="none" stroke="${c[3]}" stroke-width="1.6"/><path d="M-44-50l4 8 8 4-8 4-4 8-4-8-8-4 8-4ZM42 30l3 6 6 3-6 3-3 6-3-6-6-3 6-3Z" fill="${c[1]}"/>`,
+  c => `<path d="M0-44V50" stroke="${c[1]}" stroke-width="7" stroke-linecap="round"/><path d="M0-44V50" stroke="${c[3]}" stroke-width="2.5"/><path d="M0-72 18-38 0-46-18-38Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0 22-20 44-20 66 0 48 20 66 20 44Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0 30-12 44M0 30 12 44M0 40-12 54M0 40 12 54" stroke="${c[1]}" stroke-width="1.5"/>`,
+  c => `<path d="M-10 66C-16 8-6-34 26-70 38-24 26 18-2 44Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-10 66C-2 20 8-24 26-70" fill="none" stroke="${c[1]}" stroke-width="2.5"/><path d="M4-18 20-30M0 2 22-10M-4 22 16 10M12-40 24-48" stroke="${c[3]}" stroke-width="1.8"/><path d="M-10 66-16 48-4 54Z" fill="${c[1]}"/>`,
+  c => `<path d="M0-66C22-56 40-54 50-54 50 4 30 44 0 66-30 44-50 4-50-54-40-54-22-56 0-66Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-52C16-45 30-43 38-43 38 0 23 32 0 50-23 32-38 0-38-43-30-43-16-45 0-52Z" fill="none" stroke="${c[3]}" stroke-width="1.6"/><path d="M0-30C14-8 20 4 20 14A20 20 0 0 1-20 14C-20 4-14-8 0-30Z" fill="${c[1]}"/><path d="M-9 16A9 9 0 0 0 0 25" fill="none" stroke="${c[2]}" stroke-width="2.5" stroke-linecap="round"/>`,
+  c => `<path d="M-46 22H46L36 36H14L20 58H-20L-14 36H-36Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-46 22Q-58 10-40 8H46V22Z" fill="${c[3]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><g transform="rotate(-28 0 -20)"><rect x="-4" y="-40" width="8" height="52" rx="2" fill="${c[1]}"/><path d="M-26-66H22L30-54 22-42H-26Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/></g>`,
+  c => `<circle r="50" fill="none" stroke="${c[1]}" stroke-width="2"/><path d="M0-36 6-6 36 0 6 6 0 36-6 6-36 0-6-6Z" transform="rotate(45)" fill="${c[3]}" stroke="${c[1]}" stroke-width="1.5"/><path d="M0-70 11-11 70 0 11 11 0 70-11 11-70 0-11-11Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-70V70M-70 0H70" stroke="${c[1]}" stroke-width="1.2"/><circle r="6" fill="${c[1]}"/>`,
+  c => `<path d="M-14-50A14 14 0 0 1 14-50" fill="none" stroke="${c[1]}" stroke-width="6" stroke-linecap="round"/><path d="M-24-48H24L18-36H-18Z" fill="${c[3]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-20-36H20L28 40H-28Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-7-36-10 40M7-36 10 40" stroke="${c[1]}" stroke-width="1.6"/><path d="M-32 40H32L26 54H-26Z" fill="${c[3]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M0-22C12-4 15 6 15 14A15 15 0 0 1-15 14C-15 6-8 2 0-22Z" fill="${c[1]}"/><path d="M-70-6-52-2M70-6 52-2M-64-38-48-26M64-38 48-26" stroke="${c[1]}" stroke-width="2.5" stroke-linecap="round"/>`];
+ const COMMON = c => `<path d="M0-66 9-30 44-22 9-14 0 22-9-14-44-22-9-30Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M-60 34q15-14 30 0t30 0 30 0 30 0M-60 54q15-14 30 0t30 0 30 0 30 0" fill="none" stroke="${c[1]}" stroke-width="5" stroke-linecap="round"/>`;
+ const SHAPE = {
+  disc: 'M0-120A120 120 0 1 1 0 120A120 120 0 1 1 0-120Z',
+  shield: 'M0-122C40-106 78-102 108-102C108 6 70 82 0 124C-70 82-108 6-108-102C-78-102-40-106 0-122Z',
+  sunburst: (() => {let d = ''; for(let k = 0; k < 24; k++) {const a = k * Math.PI / 12, r = k % 2 ? 104 : 124; d += (k ? 'L' : 'M') + (r * Math.sin(a)).toFixed(1) + ' ' + (-r * Math.cos(a)).toFixed(1);} return d + 'Z';})(),
+  diamond: 'M0-126Q12-112 114 0Q12 112 0 126Q-12 112-114 0Q-12-112 0-126Z',
+  hex: 'M0-124 107-62 107 62 0 124-107 62-107-62Z'};
  function sigilSvg() {
-  const c = METAL[badge.rank], two = badge.rank === 'gold' && badge.b !== '' && +badge.b !== badge.a, hidden = badge.rank === 'platinum';
-  const ring = badge.rank === 'gold' ? `<circle r="118" fill="none" stroke="${c[1]}" stroke-width="3"/><circle r="104" fill="none" stroke="${c[1]}" stroke-width="3"/><circle r="111" fill="none" stroke="${c[2]}" stroke-width="8" stroke-dasharray="7 5"/>` : `<circle r="112" fill="none" stroke="${c[1]}" stroke-width="${badge.rank === 'bronze' ? 9 : 5}"/>${badge.rank === 'silver' ? `<circle r="100" fill="none" stroke="${c[1]}" stroke-width="1.5"/>` : ''}`;
-  const field = badge.rank === 'silver' ? [-50, -25, 0, 25, 50].map(y => `<path d="M-84 ${y}q14-10 28 0t28 0 28 0 28 0 28 0 28 0" fill="none" stroke="${c[1]}" stroke-width="1" opacity=".45"/>`).join('') : '';
-  const stone = badge.rank === 'silver' ? `<circle cy="-112" r="11" fill="${STONE[badge.a]}" stroke="${c[1]}" stroke-width="3"/>` : '';
-  const studs = badge.rank === 'gold' ? Array.from({length: badge.deeds}, (_, n) => {const a = (-90 + (n - (badge.deeds - 1) / 2) * 22) * Math.PI / 180; return `<circle cx="${(111 * Math.cos(a)).toFixed(1)}" cy="${(111 * Math.sin(a)).toFixed(1)}" r="6" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/>`;}).join('') : '';
-  const lodge = `<path d="M-9 104H9L0 120Z" fill="${c[1]}"/>`;
-  const dev = hidden ? `<g opacity=".16">${DEVICE[badge.a](c)}</g>` : two ? `<g transform="rotate(38) scale(.86)">${DEVICE[+badge.b](c)}</g><g transform="rotate(-38) scale(.86)">${DEVICE[badge.a](c)}</g>` : DEVICE[badge.a](c);
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="-130 -130 260 260" role="img" aria-label="${t('A Hunter’s Sigil', 'Un Sigil de Hunter')}"><defs><radialGradient id="sg" cx="35%" cy="30%"><stop offset="0" stop-color="${c[2]}"/><stop offset="1" stop-color="${c[0]}"/></radialGradient></defs><circle r="124" fill="${c[1]}"/><circle r="121" fill="url(#sg)"/>${field}${ring}${studs}${stone}${lodge}${dev}</svg>`;
+  const c = METAL[badge.rank], bronze = badge.rank === 'bronze', hidden = badge.rank === 'platinum';
+  const two = badge.rank === 'gold' && badge.b !== '' && +badge.b !== badge.a;
+  const shape = SHAPE[bronze ? 'disc' : badge.shape], field = bronze ? 'plain' : badge.field, flourish = bronze ? 'none' : badge.flourish;
+  const fields = {plain: '',
+   rays: Array.from({length: 24}, (_, k) => `<path d="M0 0L${(170 * Math.sin((k + .25) * Math.PI / 12)).toFixed(1)} ${(-170 * Math.cos((k + .25) * Math.PI / 12)).toFixed(1)}L${(170 * Math.sin((k + .75) * Math.PI / 12)).toFixed(1)} ${(-170 * Math.cos((k + .75) * Math.PI / 12)).toFixed(1)}Z" fill="${c[3]}" opacity=".28"/>`).join(''),
+   waves: [-90, -66, -42, -18, 6, 30, 54, 78, 102].map(y => `<path d="M-130 ${y}q13-11 26 0t26 0 26 0 26 0 26 0 26 0 26 0 26 0 26 0 26 0" fill="none" stroke="${c[3]}" stroke-width="2" opacity=".55"/>`).join(''),
+   scales: Array.from({length: 11}, (_, r) => Array.from({length: 12}, (_, q) => `<path d="M${-132 + q * 24 + (r % 2) * 12} ${-116 + r * 22}a12 12 0 0 0 24 0" fill="none" stroke="${c[3]}" stroke-width="1.8" opacity=".5"/>`).join('')).join('')};
+  const leaf = (a, side) => {const r = badge.shape === 'disc' ? 96 : 74, x = side * r * Math.sin(a), y = r * Math.cos(a) * -1 + 8; return `<path d="M0 0Q9-10 0-24Q-9-10 0 0Z" transform="translate(${x.toFixed(1)} ${y.toFixed(1)}) rotate(${(side * (a * 180 / Math.PI) + side * 28).toFixed(0)})" fill="${c[2]}" stroke="${c[1]}" stroke-width="1.5"/>`;};
+  const fl = {none: '',
+   laurel: [1, -1].map(sd => [2.75, 2.45, 2.15, 1.85, 1.55, 1.25, .95].map(a => leaf(a, sd)).join('')).join(''),
+   wings: [1, -1].map(sd => `<g transform="scale(${sd} 1)"><path d="M92-6C150-40 176-34 190-66C186-22 168 6 132 22C150 22 162 18 172 10C162 36 138 50 108 48C120 54 130 54 138 52C124 68 104 72 88 62Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M100 4C130-6 156-22 176-44M100 24C124 22 146 16 162 6M96 44C112 46 126 44 134 40" fill="none" stroke="${c[1]}" stroke-width="1.6"/></g>`).join(''),
+   rope: `<path d="${shape}" transform="scale(.9)" fill="none" stroke="${c[2]}" stroke-width="9" stroke-dasharray="8 6"/>`};
+  const stone = !bronze && !hidden ? `<g transform="translate(0 ${badge.shape === 'shield' ? -100 : -98})"><circle r="12" fill="${c[1]}"/><circle r="9" fill="${STONE[badge.a]}"/><path d="M-4-4a6 6 0 0 1 6-2" stroke="#fff" stroke-width="2" fill="none" opacity=".7" stroke-linecap="round"/></g>` : '';
+  const studs = badge.rank === 'gold' ? Array.from({length: badge.deeds}, (_, n) => {const a = (90 + (n - (badge.deeds - 1) / 2) * 17) * Math.PI / 180; return `<circle cx="${(86 * Math.cos(a)).toFixed(1)}" cy="${(86 * Math.sin(a)).toFixed(1)}" r="5.5" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/>`;}).join('') : '';
+  const dev = bronze ? COMMON(c) : hidden ? `<g opacity=".14">${DEVICE[badge.a](c)}</g>` : two ? `<g transform="rotate(40) scale(.8)">${DEVICE[+badge.b](c)}</g><g transform="rotate(-40) scale(.8)">${DEVICE[badge.a](c)}</g>` : `<g transform="scale(.92)">${DEVICE[badge.a](c)}</g>`;
+  const wide = flourish === 'wings';
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${wide ? '-200 -140 400 280' : '-140 -140 280 280'}" role="img" aria-label="${t('A Hunter’s Sigil', 'Un Sigil de Hunter')}"><defs><radialGradient id="sg" cx="34%" cy="26%" r="85%"><stop offset="0" stop-color="${c[2]}"/><stop offset=".55" stop-color="${c[0]}"/><stop offset="1" stop-color="${c[3]}"/></radialGradient><clipPath id="sc"><path d="${shape}" transform="scale(.93)"/></clipPath></defs>${wide ? fl.wings : ''}<path d="${shape}" transform="translate(0 5)" fill="#0d2226" opacity=".35"/><path d="${shape}" fill="${c[1]}"/><path d="${shape}" transform="scale(.96)" fill="url(#sg)"/><g clip-path="url(#sc)">${fields[field]}</g><path d="${shape}" transform="scale(.93)" fill="none" stroke="${c[1]}" stroke-width="${bronze ? 7 : 3.5}"/>${bronze ? '' : `<path d="${shape}" transform="scale(.8)" fill="none" stroke="${c[1]}" stroke-width="1.6"/><path d="${shape}" transform="scale(.865)" fill="none" stroke="${c[2]}" stroke-width="4" stroke-dasharray="2 7" stroke-linecap="round"/>`}${flourish === 'rope' ? fl.rope : ''}${flourish === 'laurel' ? fl.laurel : ''}${studs}${dev}${stone}<path d="M-10 ${badge.shape === 'shield' && !bronze ? 96 : 100}h20l-10 16Z" fill="${c[1]}"/><path d="M-110-70Q-60-128 30-116" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".35"/></svg>`;
  }
  function sigilText() {
   const B = data.sigils.branches, a = B[badge.a], two = badge.rank === 'gold' && badge.b !== '' && +badge.b !== badge.a, b = two ? B[+badge.b] : null;
-  const rank = {bronze: t('A Bronze Sigil: one plain rim, the device in relief, and the iron of the Hunter who vouched for you set into the back.', 'Un Sigil de Bronze: un borde liso, el emblema en relieve y, por detrás, el iron del Hunter que respondió por ti.'),
-   silver: t(`A Silver Sigil: an engraved field, and a ${a.stone} at the head of the rim.`, `Un Sigil de Silver: campo grabado y una piedra (${a.stone}) en lo alto del borde.`),
-   gold: t(`A Gold Sigil: a double rim worked as rope, with ${badge.deeds} ${badge.deeds === 1 ? 'stud' : 'studs'} for great deeds in the Ledger.`, `Un Sigil de Gold: doble borde trabajado como soga, con ${badge.deeds} ${badge.deeds === 1 ? 'remache' : 'remaches'} por grandes hazañas en el Ledger.`),
-   platinum: t('A Platinum Sigil: pale and bare. It shows its device to its bearer and to no one else.', 'Un Sigil de Platinum: pálido y liso. Muestra su emblema solo a quien lo porta.')}[badge.rank];
-  const dev = two ? t(`${a.device[0].toUpperCase() + a.device.slice(1)} crossed over ${b.device}: ${a.name} first, then ${b.name}.`, `${a.device} cruzado sobre ${b.device}: primero ${a.name}, luego ${b.name}.`) : t(`${a.device[0].toUpperCase() + a.device.slice(1)}, upright: the ${a.name}.`, `${a.device}, en vertical: ${a.name}.`);
-  return `<p class="adv-roll">${h(rank)} ${h(dev)}</p><p class="adv-note">${h(a.name)}: ${h(a.who)}${b ? ' ' + h(b.name) + ': ' + h(b.who) : ''}${[a, b].some(x => x && x.standing === 'proposed') ? ' ' + t('(A younger branch, proposed beside the founding four.)', '(Una rama joven, propuesta junto a las cuatro fundadoras.)') : ''}</p>`;
+  if(badge.rank === 'bronze') return `<p class="adv-roll">${t('A Bronze Sigil. Every Bronze wears the same one: a plain disc with the Star and Wave, and the iron of the Hunter who vouched for you set into the back.', 'Un Sigil de Bronze. Todos los Bronze llevan el mismo: un disco liso con la Estrella y la Ola, y por detrás el iron del Hunter que respondió por ti.')}</p><p class="adv-note">${t('A Bronze has no branch yet. The Bronze years are for finding out what you are for. At Silver you choose a branch and design your own.', 'Un Bronze todavía no tiene rama. Los años de Bronze son para descubrir para qué sirves. En Silver eliges rama y diseñas el tuyo.')}</p>`;
+  const lead = {silver: t('A Silver Sigil, to its bearer’s own design', 'Un Sigil de Silver, con el diseño de quien lo porta'), gold: t(`A Gold Sigil, recast in gold, with ${badge.deeds} ${badge.deeds === 1 ? 'stud' : 'studs'} for great deeds in the Ledger`, `Un Sigil de Gold, refundido en oro, con ${badge.deeds} ${badge.deeds === 1 ? 'remache' : 'remaches'} por grandes hazañas`), platinum: t('A Platinum Sigil: pale, and bare to every eye but its bearer’s', 'Un Sigil de Platinum: pálido, y liso para todos menos para quien lo porta')}[badge.rank];
+  const dev = two ? t(`${a.device} crossed over ${b.device}`, `${a.device} cruzado sobre ${b.device}`) : a.device;
+  return `<p class="adv-roll">${h(lead)}: ${h(dev)}, ${t('with', 'con')} ${h(a.stone)}.</p><p class="adv-note"><strong>${h(a.name)}.</strong> ${h(a.who)}${b ? ` <strong>${h(b.name)}.</strong> ${h(b.who)}` : ''}</p>`;
  }
  function renderSigil() {
   const B = data.sigils.branches, opts = B.map((b, n) => [n, `${b.name} (${b.device})`]);
-  frame('sigil', `<p class="adv-lead">${t('A Hunter’s badge shows what its bearer is for. Choose a rank and a branch, and the bench draws it to the official pattern.', 'La insignia de un Hunter muestra para qué sirve quien la porta. Elige rango y rama, y el banco la dibuja según el patrón oficial.')}</p>
+  frame('sigil', `<p class="adv-lead">${t('A Hunter’s badge shows what its bearer is for. Every Bronze wears the same one. At Silver you choose a branch and design your own.', 'La insignia de un Hunter muestra para qué sirve quien la porta. Todos los Bronze llevan la misma. En Silver eliges rama y diseñas la tuya.')}</p>
   <section class="adv-panel adv-shop"><h2>${t('The Sigil bench', 'El banco de Sigils')}</h2>
-  <div class="adv-controls"><label class="pack-label">${t('Rank', 'Rango')}${sel('sg-rank', [['bronze', 'Bronze'], ['silver', 'Silver'], ['gold', 'Gold'], ['platinum', 'Platinum']], badge.rank)}</label><label class="pack-label">${t('Branch', 'Rama')}${sel('sg-a', opts, badge.a)}</label><label class="pack-label" id="sg-b-wrap">${t('Second branch (Gold only)', 'Segunda rama (solo Gold)')}${sel('sg-b', [['', t('None', 'Ninguna')]].concat(opts), badge.b)}</label><label class="pack-label" id="sg-deeds-wrap">${t('Great deeds (Gold only)', 'Grandes hazañas (solo Gold)')}${sel('sg-deeds', [0, 1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]), badge.deeds)}</label></div>
+  <div class="adv-controls"><label class="pack-label">${t('Rank', 'Rango')}${sel('sg-rank', [['bronze', 'Bronze'], ['silver', 'Silver'], ['gold', 'Gold'], ['platinum', 'Platinum']], badge.rank)}</label><label class="pack-label sg-own">${t('Branch', 'Rama')}${sel('sg-a', opts, badge.a)}</label><label class="pack-label sg-gold">${t('Second branch', 'Segunda rama')}${sel('sg-b', [['', t('None', 'Ninguna')]].concat(opts), badge.b)}</label><label class="pack-label sg-gold">${t('Great deeds', 'Grandes hazañas')}${sel('sg-deeds', [0, 1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]), badge.deeds)}</label>
+  <label class="pack-label sg-own">${t('Shape', 'Forma')}${sel('sg-shape', [['disc', t('Disc', 'Disco')], ['shield', t('Shield', 'Escudo')], ['sunburst', t('Sunburst', 'Sol')], ['diamond', t('Diamond', 'Rombo')], ['hex', t('Hexagon', 'Hexágono')]], badge.shape)}</label><label class="pack-label sg-own">${t('Field', 'Campo')}${sel('sg-field', [['plain', t('Plain', 'Liso')], ['rays', t('Rays', 'Rayos')], ['waves', t('Waves', 'Olas')], ['scales', t('Scales', 'Escamas')]], badge.field)}</label><label class="pack-label sg-own">${t('Flourish', 'Adorno')}${sel('sg-flourish', [['none', t('None', 'Ninguno')], ['laurel', t('Laurel', 'Laurel')], ['wings', t('Wings', 'Alas')], ['rope', t('Rope', 'Soga')]], badge.flourish)}</label></div>
   <div class="adv-sigil"><div id="sg-art">${sigilSvg()}</div><div id="sg-text">${sigilText()}</div></div>
-  <div class="pack-actions"><a class="button cream" id="sg-save" download="sigil.svg" href="#">${t('Save the drawing', 'Guardar el dibujo')}</a></div></section>
-  <p class="adv-hint"><a href="#entry/sigil">${t('About the Sigil', 'Sobre el Sigil')}</a> · <a href="#entry/hunters">${t('About the Hunters', 'Sobre los Hunters')}</a></p>`);
+  <div class="pack-actions"><a class="button cream" id="sg-save" download="sigil.svg" href="#">${t('Save the drawing', 'Guardar el dibujo')}</a><button type="button" class="button" id="sg-any">${t('Surprise me', 'Sorpréndeme')} <span aria-hidden="true">✦</span></button></div></section>
+  <p class="adv-hint"><a href="#entry/sigil">${t('About the Sigil and the branches', 'Sobre el Sigil y las ramas')}</a> · <a href="#entry/hunters">${t('About the Hunters', 'Sobre los Hunters')}</a></p>`);
   const draw = () => {
    $('#sg-art').innerHTML = sigilSvg(); $('#sg-text').innerHTML = sigilText();
-   $('#sg-b-wrap').hidden = $('#sg-deeds-wrap').hidden = badge.rank !== 'gold';
+   document.querySelectorAll('.sg-gold').forEach(el => {el.hidden = badge.rank !== 'gold';});
+   document.querySelectorAll('.sg-own').forEach(el => {el.hidden = badge.rank === 'bronze';});
    $('#sg-save').href = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(sigilSvg());
   };
-  $('#sg-rank').addEventListener('input', e => {badge.rank = e.target.value; draw();});
-  $('#sg-a').addEventListener('input', e => {badge.a = +e.target.value; draw();});
-  $('#sg-b').addEventListener('input', e => {badge.b = e.target.value === '' ? '' : +e.target.value; draw();});
-  $('#sg-deeds').addEventListener('input', e => {badge.deeds = +e.target.value; draw();});
+  const bind = (id, key, n) => $('#' + id).addEventListener('input', e => {badge[key] = n ? (e.target.value === '' ? '' : +e.target.value) : e.target.value; draw();});
+  bind('sg-rank', 'rank'); bind('sg-a', 'a', 1); bind('sg-b', 'b', 1); bind('sg-deeds', 'deeds', 1); bind('sg-shape', 'shape'); bind('sg-field', 'field'); bind('sg-flourish', 'flourish');
+  $('#sg-any').addEventListener('click', () => {
+   Object.assign(badge, {rank: pick(['silver', 'silver', 'gold', 'gold', 'platinum']), a: Math.floor(Math.random() * 8), b: chance(.5) ? Math.floor(Math.random() * 8) : '', deeds: Math.floor(Math.random() * 9), shape: pick(Object.keys(SHAPE)), field: pick(['plain', 'rays', 'waves', 'scales']), flourish: pick(['none', 'laurel', 'wings', 'rope'])});
+   [['sg-rank', 'rank'], ['sg-a', 'a'], ['sg-b', 'b'], ['sg-deeds', 'deeds'], ['sg-shape', 'shape'], ['sg-field', 'field'], ['sg-flourish', 'flourish']].forEach(([id, k]) => {$('#' + id).value = String(badge[k]);});
+   draw();
+  });
   draw();
  }
 

@@ -5367,7 +5367,23 @@
   "qualities": [
    {
     "name": "Unfailing",
-    "text": "It can't be broken, bent, rusted, or dulled by anything that is not magic."
+    "text": "Anything. It can't be broken, bent, rusted, or dulled by anything that is not magic."
+   },
+   {
+    "name": "Light",
+    "text": "Anything. It weighs half as much, and a Heavy weapon's or a suit of armor's Strength requirement is 2 lower."
+   },
+   {
+    "name": "Quiet",
+    "text": "Anything. It makes no sound: no clink, no creak, no ring. Armor with this quality imposes no Disadvantage on Dexterity (Stealth) checks."
+   },
+   {
+    "name": "Seaworthy",
+    "text": "Anything. Salt water does it no harm, and it floats."
+   },
+   {
+    "name": "Handsome",
+    "text": "Anything. People who know good work see it at once. Once a day, you have Advantage on a Charisma check made with someone it impresses."
    },
    {
     "name": "True",
@@ -5378,16 +5394,60 @@
     "text": "A weapon. You can draw it as part of rolling Initiative, and drawing or stowing it never costs you your free object interaction."
    },
    {
-    "name": "Fitted",
-    "text": "Armor. It imposes no Disadvantage on Dexterity (Stealth) checks, its Strength requirement is 2 lower, and it is donned or doffed in half the time."
+    "name": "Keen",
+    "text": "A weapon. When you score a Critical Hit with it, you roll one more of its damage dice."
    },
    {
-    "name": "Light",
-    "text": "It weighs half as much, and a Heavy weapon's Strength requirement is 2 lower."
+    "name": "Far",
+    "text": "A ranged or Thrown weapon. Its normal and long ranges are half again as long."
+   },
+   {
+    "name": "Guarded",
+    "text": "A melee weapon. When a melee attack hits you while you hold it, you can take a Reaction to add 2 to your AC against that attack. Once you do, you can't again until you finish a Short or Long Rest."
+   },
+   {
+    "name": "Sure",
+    "text": "A weapon. You can't be disarmed of it, and rain, spray, and blood never spoil your grip."
+   },
+   {
+    "name": "Quick-loading",
+    "text": "A weapon with the Loading property, or a firearm. You ignore Loading with it once on each of your turns."
+   },
+   {
+    "name": "Merciful",
+    "text": "A weapon. You can choose to knock a creature out with it instead of killing it, even at range."
+   },
+   {
+    "name": "Fitted",
+    "text": "Armor. Its Strength requirement is 2 lower, and it is donned or doffed in half the time."
+   },
+   {
+    "name": "Buoyant",
+    "text": "Armor or a shield. It never drags you under: you swim in it as if you wore nothing."
+   },
+   {
+    "name": "Weathered",
+    "text": "Armor or clothing. You have Advantage on saving throws against extreme heat or extreme cold while you wear it."
+   },
+   {
+    "name": "Turning",
+    "text": "Armor or a shield. When a Critical Hit strikes you, you can reduce its damage by twice your Proficiency Bonus. Once you do, you can't again until you finish a Long Rest."
    },
    {
     "name": "Exact",
     "text": "A tool or an instrument. When you make an ability check with it, you can treat a d20 roll of 5 or lower as a 6."
+   },
+   {
+    "name": "Swift",
+    "text": "A tool. Work done with it counts as if one more pair of hands were helping."
+   },
+   {
+    "name": "Clear",
+    "text": "An instrument, a bell, or a horn. It is heard twice as far, and never mistaken for another."
+   },
+   {
+    "name": "Compact",
+    "text": "A tool, a kit, or an instrument. It folds or nests into something that fits in a coat pocket."
    }
   ],
   "makes": [
@@ -5397,7 +5457,7 @@
     "factor": 0,
     "time": "hour",
     "who": "Anyone, from whatever is at hand.",
-    "note": "Made in an hour from scraps, and it shows. A weapon’s damage die is one size smaller, it has no mastery property, and it breaks on a roll of 1. A tool gives Disadvantage on checks made with it. Armor gives 1 less AC and is ruined by the first Critical Hit you take."
+    "note": "Made in an hour from scraps, and it shows. An improvised weapon deals 1d4 plus half your Strength modifier (rounded down), has no mastery property, and breaks on a roll of 1. A tool gives Disadvantage on checks made with it. Armor gives 1 less AC and is ruined by the first Critical Hit you take."
    },
    {
     "id": "crude",
@@ -6379,60 +6439,60 @@
  "sigils": {
   "branches": [
    {
-    "name": "Warrior",
+    "name": "Vanguard",
     "device": "a blade",
     "stone": "red garnet",
-    "standing": "the founding four",
-    "who": "Slayers, guards, duelists, boarders."
+    "standing": "founding",
+    "who": "The old books say Warrior. Slayers, guards, duelists, and boarders: the ones who go in first."
    },
    {
     "name": "Mage",
     "device": "a crystal",
     "stone": "blue sapphire",
-    "standing": "the founding four",
+    "standing": "founding",
     "who": "Casters of every tradition, registered or not."
    },
    {
     "name": "Scout",
     "device": "an arrow",
     "stone": "green jade",
-    "standing": "the founding four",
-    "who": "Trackers, hunters, pathfinders, lookouts."
+    "standing": "founding",
+    "who": "Trackers, hunters, pathfinders, and lookouts."
    },
    {
     "name": "Diplomat",
     "device": "a quill",
     "stone": "white pearl",
-    "standing": "the founding four",
+    "standing": "founding",
     "who": "Negotiators, clerks, advocates, and those who run things."
    },
    {
-    "name": "Navigator",
+    "name": "Support",
+    "device": "a shield and drop",
+    "stone": "rose coral",
+    "standing": "younger",
+    "who": "The docks say menders. Healers, surgeons, salve-makers, and those who keep a company alive and fed."
+   },
+   {
+    "name": "Forgewright",
+    "device": "a hammer and anvil",
+    "stone": "black onyx",
+    "standing": "younger",
+    "who": "Smiths, tinkers, shipwrights, and krystawrights: the ones who make what the rest carry."
+   },
+   {
+    "name": "Explorer",
     "device": "a compass star",
     "stone": "amber",
-    "standing": "proposed",
-    "who": "Pilots, chartwrights, helmsmen, and captains."
-   },
-   {
-    "name": "Mender",
-    "device": "a drop",
-    "stone": "rose coral",
-    "standing": "proposed",
-    "who": "Healers, surgeons, salve-makers, and those who bring people back."
-   },
-   {
-    "name": "Wright",
-    "device": "a hammer",
-    "stone": "black onyx",
-    "standing": "proposed",
-    "who": "Smiths, tinkers, shipwrights, and krystawrights."
+    "standing": "younger",
+    "who": "Pilots, chartwrights, and those who go where no chart goes."
    },
    {
     "name": "Delver",
     "device": "a lantern",
     "stone": "violet amethyst",
-    "standing": "proposed",
-    "who": "Those who go into ruins, wrecks, and the Below, and read what they find."
+    "standing": "younger",
+    "who": "Those who go down: into ruins, wrecks, and the Below, and read what they find."
    }
   ]
  },
@@ -6523,13 +6583,13 @@
     "The Trials of Ascension"
    ],
    "branches": [
+    "Vanguard",
     "Mage",
     "Scout",
     "Diplomat",
-    "Warrior",
-    "Navigator",
-    "Mender",
-    "Wright",
+    "Support",
+    "Forgewright",
+    "Explorer",
     "Delver"
    ],
    "bios": {

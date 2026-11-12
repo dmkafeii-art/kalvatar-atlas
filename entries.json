@@ -13126,7 +13126,7 @@
        "Improvised",
        "nothing, or scraps",
        "anyone",
-       "A weapon's damage die is one size smaller, it has no mastery property, and it breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
+       "An improvised weapon deals 1d4 plus half your Strength modifier (rounded down), has no mastery property, and breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
       ],
       [
        "Crude (harbor make)",
@@ -15883,17 +15883,15 @@
    {
     "title": "The official design",
     "paragraphs": [
-     "A Sigil shows what its bearer is for. Every one is made to the same pattern at the Sigil-Forge."
+     "A Sigil shows what its bearer is for. Every one is made at the Sigil-Forge."
     ],
     "list": [
-     "**The disc:** round, a palm across, worn on the left breast or at the belt.",
-     "**The rim:** the metal of the rank, with the mark of the Lodge where the Vow was sworn struck at its foot.",
-     "**The device:** the branch’s device, upright in the center.",
+     "**Bronze is the same for everyone.** A Bronze Hunter has no branch yet. Every Bronze Sigil is the same plain disc with the order’s common mark, the Star and Wave, and the iron of the Hunter who vouched for the bearer set into the back.",
+     "**At Silver, you choose.** A new Silver declares a branch and designs their own Sigil with a Sigilwright. The branch’s device must stand in the center. The shape, the field, the flourish, and the stone are theirs.",
      "**Two branches:** only a Gold Sigil may carry two. The devices are crossed, the first-earned on top, as Albion Tempest’s blade and quill are.",
-     "**Bronze:** one plain rim and the device in relief, with the iron of the Hunter who vouched for the bearer set into the back.",
-     "**Silver:** an engraved field, and one stone at the head of the rim in the branch’s color.",
-     "**Gold:** a double rim worked as rope, and a stud for each great deed in the Ledger, up to eight.",
-     "**Platinum:** pale, and bare. It shows its device to its bearer and to no one else."
+     "**Gold:** recast in gold to the bearer’s design, with a stud for each great deed in the Ledger, up to eight.",
+     "**Platinum:** pale, and bare. It shows its design to its bearer and to no one else.",
+     "**The foot and the back:** the Lodge’s mark at the foot; on the back, a name and a year."
     ]
    },
    {
@@ -15911,10 +15909,10 @@
      ],
      "rows": [
       [
-       "Warrior",
+       "Vanguard",
        "a blade",
        "red garnet",
-       "Slayers, guards, duelists, boarders."
+       "The old books say Warrior. Slayers, guards, duelists, and boarders: the ones who go in first."
       ],
       [
        "Mage",
@@ -15926,7 +15924,7 @@
        "Scout",
        "an arrow",
        "green jade",
-       "Trackers, hunters, pathfinders, lookouts."
+       "Trackers, hunters, pathfinders, and lookouts."
       ],
       [
        "Diplomat",
@@ -15935,28 +15933,28 @@
        "Negotiators, clerks, advocates, and those who run things."
       ],
       [
-       "Navigator",
+       "Support",
+       "a shield and drop",
+       "rose coral",
+       "The docks say menders. Healers, surgeons, salve-makers, and those who keep a company alive and fed. (A younger branch.)"
+      ],
+      [
+       "Forgewright",
+       "a hammer and anvil",
+       "black onyx",
+       "Smiths, tinkers, shipwrights, and krystawrights: the ones who make what the rest carry. (A younger branch.)"
+      ],
+      [
+       "Explorer",
        "a compass star",
        "amber",
-       "Pilots, chartwrights, helmsmen, and captains. (A younger branch.)"
-      ],
-      [
-       "Mender",
-       "a drop",
-       "rose coral",
-       "Healers, surgeons, salve-makers, and those who bring people back. (A younger branch.)"
-      ],
-      [
-       "Wright",
-       "a hammer",
-       "black onyx",
-       "Smiths, tinkers, shipwrights, and krystawrights. (A younger branch.)"
+       "Pilots, chartwrights, and those who go where no chart goes. (A younger branch.)"
       ],
       [
        "Delver",
        "a lantern",
        "violet amethyst",
-       "Those who go into ruins, wrecks, and the Below, and read what they find. (A younger branch.)"
+       "Those who go down: into ruins, wrecks, and the Below, and read what they find. (A younger branch.)"
       ]
      ]
     }
@@ -15973,7 +15971,8 @@
     "list": [
      "Every Sigil in the islands is made in one room, the Sigil-Forge of the Goldwind Lodge.",
      "The back of a Sigil carries a name and a year, and nothing else.",
-     "Nobody but the Ten knows what is on a Platinum Sigil."
+     "Nobody but the Ten knows what is on a Platinum Sigil.",
+     "A Bronze who says they already know their branch is told, kindly, to say it again in three years."
     ]
    }
   ],
@@ -15999,7 +15998,8 @@
    "house-emberheart",
    "house-faust",
    "hunter-companies",
-   "ranking-cards"
+   "ranking-cards",
+   "tenants"
   ]
  },
  {
@@ -38784,7 +38784,7 @@
        "Improvised",
        "nothing, or scraps",
        "anyone",
-       "A weapon's damage die is one size smaller, it has no mastery property, and it breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
+       "An improvised weapon deals 1d4 plus half your Strength modifier (rounded down), has no mastery property, and breaks on a roll of 1. A tool gives Disadvantage. Armor gives 1 less AC and is ruined by the first Critical Hit."
       ],
       [
        "Crude (harbor make)",
@@ -42350,6 +42350,111 @@
     ]
    },
    {
+    "title": "The qualities",
+    "paragraphs": [
+     "A superior piece has one of these. A masterpiece has two, and a piece of a great set has three."
+    ],
+    "table": {
+     "caption": "Qualities of fine work",
+     "headers": [
+      "Quality",
+      "What it does"
+     ],
+     "rows": [
+      [
+       "Unfailing",
+       "Anything. It can't be broken, bent, rusted, or dulled by anything that is not magic."
+      ],
+      [
+       "Light",
+       "Anything. It weighs half as much, and a Heavy weapon's or a suit of armor's Strength requirement is 2 lower."
+      ],
+      [
+       "Quiet",
+       "Anything. It makes no sound: no clink, no creak, no ring. Armor with this quality imposes no Disadvantage on Dexterity (Stealth) checks."
+      ],
+      [
+       "Seaworthy",
+       "Anything. Salt water does it no harm, and it floats."
+      ],
+      [
+       "Handsome",
+       "Anything. People who know good work see it at once. Once a day, you have Advantage on a Charisma check made with someone it impresses."
+      ],
+      [
+       "True",
+       "A weapon. When you roll a 1 on one of its damage dice, you can reroll that die once and must use the new roll."
+      ],
+      [
+       "Ready",
+       "A weapon. You can draw it as part of rolling Initiative, and drawing or stowing it never costs you your free object interaction."
+      ],
+      [
+       "Keen",
+       "A weapon. When you score a Critical Hit with it, you roll one more of its damage dice."
+      ],
+      [
+       "Far",
+       "A ranged or Thrown weapon. Its normal and long ranges are half again as long."
+      ],
+      [
+       "Guarded",
+       "A melee weapon. When a melee attack hits you while you hold it, you can take a Reaction to add 2 to your AC against that attack. Once you do, you can't again until you finish a Short or Long Rest."
+      ],
+      [
+       "Sure",
+       "A weapon. You can't be disarmed of it, and rain, spray, and blood never spoil your grip."
+      ],
+      [
+       "Quick-loading",
+       "A weapon with the Loading property, or a firearm. You ignore Loading with it once on each of your turns."
+      ],
+      [
+       "Merciful",
+       "A weapon. You can choose to knock a creature out with it instead of killing it, even at range."
+      ],
+      [
+       "Fitted",
+       "Armor. Its Strength requirement is 2 lower, and it is donned or doffed in half the time."
+      ],
+      [
+       "Buoyant",
+       "Armor or a shield. It never drags you under: you swim in it as if you wore nothing."
+      ],
+      [
+       "Weathered",
+       "Armor or clothing. You have Advantage on saving throws against extreme heat or extreme cold while you wear it."
+      ],
+      [
+       "Turning",
+       "Armor or a shield. When a Critical Hit strikes you, you can reduce its damage by twice your Proficiency Bonus. Once you do, you can't again until you finish a Long Rest."
+      ],
+      [
+       "Exact",
+       "A tool or an instrument. When you make an ability check with it, you can treat a d20 roll of 5 or lower as a 6."
+      ],
+      [
+       "Swift",
+       "A tool. Work done with it counts as if one more pair of hands were helping."
+      ],
+      [
+       "Clear",
+       "An instrument, a bell, or a horn. It is heard twice as far, and never mistaken for another."
+      ],
+      [
+       "Compact",
+       "A tool, a kit, or an instrument. It folds or nests into something that fits in a coat pocket."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "When something moves in",
+    "paragraphs": [
+     "A masterpiece is good enough to live in. Once in a very long while a spirit moves into one, and the piece wakes. The smiths call them tenants."
+    ]
+   },
+   {
     "title": "The Seven Watches",
     "paragraphs": [
      "*Halvec Orne, master smith of Aurelion, about a century ago.*",
@@ -42601,7 +42706,8 @@
    "cindren",
    "quiet-auction",
    "charms-and-workings",
-   "krakens-maw"
+   "krakens-maw",
+   "tenants"
   ],
   "aliases": [
    "signed work",
@@ -42883,7 +42989,8 @@
    "kalashtar",
    "patches",
    "ranking-cards",
-   "merrin-games"
+   "merrin-games",
+   "tenants"
   ],
   "aliases": [
    "wondrous items",
@@ -43172,6 +43279,179 @@
    "twist",
    "gilt card",
    "Full Season"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "tenants",
+  "title": "Tenants",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "What moves into a masterpiece",
+  "summary": "Small, old spirits that are drawn to perfect work. Once in a very long while one moves into a masterpiece, and the piece wakes up with a name and opinions.",
+  "epigraph": {
+   "quote": "I made a sword. Something else decided it was a home. I’m told that is the highest praise there is.",
+   "by": "A master of the Smiths’ Guild"
+  },
+  "facts": [
+   [
+    "What they are",
+    "spirits; not ghosts, fae, or gods"
+   ],
+   [
+    "Where they live",
+    "only in masterpieces"
+   ],
+   [
+    "How often",
+    "almost never"
+   ],
+   [
+    "Tempers",
+    "fair, foul, and odd"
+   ],
+   [
+    "Famous tenants",
+    "Squint, Glutton, Madam Tally, Ninefinger"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Good enough to live in",
+    "paragraphs": [
+     "A masterpiece is good enough to live in, and now and then something moves in. The smiths call them tenants: small, old spirits that are drawn to perfect work. A piece with a tenant is tenanted. It wakes, it has a name it gave itself, and it has opinions.",
+     "It is one of the rarest things in the islands. A master may make masterpieces for forty years and never see it happen."
+    ]
+   },
+   {
+    "title": "What is known",
+    "paragraphs": [],
+    "list": [
+     "**Fair and foul:** some tenants are kindly and some are wicked. Most are simply odd.",
+     "**Only a masterpiece** will hold one, and it need not be a weapon. Spyglasses, bells, ladles, and ledgers have all been tenanted.",
+     "**The signs:** the piece is warm when it should not be. It hums. It is not quite where it was left. Its owner dreams about it.",
+     "**A Hunter’s Sigil** that awakens is a tenanted Sigil. The Sigilwrights say they can’t explain it. Every other smith says a Sigil is a masterpiece, and that explains it.",
+     "**The Registry** has ruled three times on whether a tenanted piece owes the tenth. The three rulings disagree."
+    ]
+   },
+   {
+    "title": "Letting",
+    "paragraphs": [
+     "A very few master forgers are said to know how to make a piece to let: to finish a masterpiece so that a tenant will come. It is nearly legend. The piece is finished at a thin place, or on the turn of a King Tide, and left unsigned for one night with the door open and a bowl of clean salt beside it.",
+     "Nobody chooses which tenant comes. A piece left to let draws a foul tenant as easily as a fair one."
+    ]
+   },
+   {
+    "title": "Tenants people know",
+    "paragraphs": [],
+    "table": {
+     "caption": "Four famous tenants",
+     "headers": [
+      "Tenant",
+      "Temper",
+      "Lives in"
+     ],
+     "rows": [
+      [
+       "Squint",
+       "fair, and insufferable",
+       "the masterpiece spyglass of Captain Dessa Varrow, of the Armada's Second Fleet"
+      ],
+      [
+       "Glutton",
+       "foul, and honest about it",
+       "the greataxe of Hesk Thornwake, Gold Hunter of the Vanguard"
+      ],
+      [
+       "Madam Tally",
+       "fair, and without mercy",
+       "a masterpiece abacus in the Reckoners' Hall at Goldwind"
+      ],
+      [
+       "Ninefinger",
+       "foul, and charming",
+       "a set of masterpiece lockpicks, whereabouts unknown"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Squint",
+    "paragraphs": [
+     "Squint sees farther than glass should and tells the captain what it thinks of every ship it looks at: her trim, her paint, her morals. It has never been wrong about a false flag. It refuses to look at anything it finds dull, which includes most of the sea."
+    ]
+   },
+   {
+    "title": "Glutton",
+    "paragraphs": [
+     "Glutton wants to be fed, and it eats monsters. Fed, it is light as a switch and bites deeper than steel should. Starved, it grows heavier by the day. Thornwake has not taken a shore contract in six years, and people who know the axe do not ask why."
+    ]
+   },
+   {
+    "title": "Madam Tally",
+    "paragraphs": [
+     "Madam Tally will not add up a dishonest sum. The beads simply stop. The Hall keeps her under glass and brings her out for the largest accounts, and three merchant houses have tried to buy her in order to drop her in the harbor."
+    ]
+   },
+   {
+    "title": "Ninefinger",
+    "paragraphs": [
+     "Ninefinger opens anything and whispers what is behind the door before it does. It chooses its own thief, leaves when it is bored, and has never once been stolen. It has been in four cities this year."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A blade has started talking, and its owner wants to know whether what moved in is fair or foul before it learns his name.",
+     "A master forger is said to be letting a piece on the next King Tide. Four parties want to be in the room, and one wants the door shut.",
+     "Ninefinger has chosen someone at the table. It did not ask.",
+     "A foul tenant’s piece was broken last winter. Everyone who was in the room is having the same dream."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Break a tenanted piece and the tenant goes free. It remembers who did it.",
+     "A tenant names itself. Nobody has ever succeeded in renaming one.",
+     "Most of the named works that wars were fought over are tenanted, and the famous name is the tenant’s."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Last Dog, the seventh of the Watches, isn’t lost. It was tenanted the night it was finished, and it walked.” (an Aurelion journeyman)",
+     "“There’s a letting-smith alive. One. The Smiths’ Guild knows where and pays to keep it quiet.” (a Quiet Auction porter)"
+    ]
+   }
+  ],
+  "related": [
+   "signed-works",
+   "sigil",
+   "charms-and-workings",
+   "crafts-and-guilds",
+   "armada",
+   "hunters",
+   "reckoners-hall",
+   "king-tide"
+  ],
+  "aliases": [
+   "tenant",
+   "tenants",
+   "tenanted",
+   "letting",
+   "to let",
+   "Squint",
+   "Glutton",
+   "Madam Tally",
+   "Ninefinger",
+   "weapon spirits",
+   "sentient items",
+   "awakened Sigil"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {

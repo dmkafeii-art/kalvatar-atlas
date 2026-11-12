@@ -2434,5 +2434,33 @@
   "entries": [
    "inkers-circle"
   ]
+ },
+ {
+  "id": "rumor-last-dog-walked",
+  "text": "Last Dog, the seventh of the Seven Watches, is not lost. It was tenanted the night it was finished, and it walked.",
+  "heardAt": "heard in Aurelion",
+  "region": "Northern Frontier",
+  "entries": [
+   "tenants",
+   "signed-works"
+  ]
+ },
+ {
+  "id": "rumor-letting-smith",
+  "text": "There is one letting-smith alive, and the Smiths' Guild pays to keep quiet where.",
+  "heardAt": "heard at the Quiet Auction",
+  "region": "All regions",
+  "entries": [
+   "tenants"
+  ]
+ },
+ {
+  "id": "rumor-ninefinger",
+  "text": "Ninefinger has been in four cities this year. It is looking for someone in particular.",
+  "heardAt": "heard among Goldwind locksmiths",
+  "region": "Central Heartland",
+  "entries": [
+   "tenants"
+  ]
  }
 ]

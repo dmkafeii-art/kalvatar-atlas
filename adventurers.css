@@ -81,6 +81,6 @@
 .adv-loot li span{color:var(--muted);font-size:15px}
 .adv-loot-magic strong{color:#8d763e}
 .adv-shop .adv-controls{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
-.adv-sigil{display:grid;grid-template-columns:minmax(200px,300px) 1fr;gap:26px;align-items:center;margin:18px 0 8px}
+.adv-sigil{display:grid;grid-template-columns:minmax(220px,380px) 1fr;gap:26px;align-items:center;margin:18px 0 8px}
 .adv-sigil svg{width:100%;height:auto;display:block;filter:drop-shadow(0 6px 10px rgba(20,43,48,.25))}
 @media(max-width:720px){.adv-sigil{grid-template-columns:1fr}.adv-sigil #sg-art{max-width:260px;margin:0 auto}}
