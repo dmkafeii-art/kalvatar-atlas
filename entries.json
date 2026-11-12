@@ -2083,6 +2083,40 @@
     ]
    },
    {
+    "title": "The Four Vows",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Hand",
+      "Vow",
+      "Obligation"
+     ],
+     "rows": [
+      [
+       "Upper right",
+       "Stone",
+       "Protect what is given into your care"
+      ],
+      [
+       "Upper left",
+       "Ember",
+       "Bank the fire; pay for every Kindling"
+      ],
+      [
+       "Lower right",
+       "Wind",
+       "Learn, and teach what you learn"
+      ],
+      [
+       "Lower left",
+       "Sky",
+       "Finish what you begin"
+      ]
+     ],
+     "caption": "The vows of a Foursworn Vorthani"
+    }
+   },
+   {
     "title": "The Carrying and the Ascents",
     "paragraphs": [
      "At adulthood a teacher chooses a stone to be carried unaided from valley to monastery. It becomes part of the walls. The First Ascent stands on the Sky Anvil in the Anvil Reach; later foundations bear their order of founding."
@@ -3141,6 +3175,141 @@
     ]
    },
    {
+    "title": "The recognized kinds",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Common name",
+      "Kalvatari",
+      "Tradition",
+      "Known for"
+     ],
+     "rows": [
+      [
+       "Swordtooth",
+       "Azarox",
+       "War",
+       "Fast predatory cavalry mount"
+      ],
+      [
+       "Dreadmaw",
+       "Tzharrok",
+       "War",
+       "Rare, towering siege-beast"
+      ],
+      [
+       "Thornback",
+       "Korzak",
+       "War",
+       "Armored guardian and living wall"
+      ],
+      [
+       "Lashtail",
+       "Tzulak",
+       "War",
+       "A powerful weapon-tail"
+      ],
+      [
+       "Swiftcrest",
+       "Sissix",
+       "Speed",
+       "Racing and swift scouting"
+      ],
+      [
+       "Glidetalon",
+       "Vollun",
+       "Sky",
+       "Light feathered glider and messenger"
+      ],
+      [
+       "Skyfin",
+       "Aetzox",
+       "Sky",
+       "A coveted sustained-flight mount"
+      ],
+      [
+       "Loamback",
+       "Mokun",
+       "Labor",
+       "Placid long-necked freight and plough beast"
+      ],
+      [
+       "Altisaur",
+       "Yaltox",
+       "Labor",
+       "The tallest domesticated hauler and platform"
+      ],
+      [
+       "Craghorn",
+       "Gormak",
+       "Labor",
+       "Sturdy horned-and-frilled worker"
+      ],
+      [
+       "Murkstrider",
+       "Marrox",
+       "Water",
+       "Fish-eating wader of swamp paths"
+      ],
+      [
+       "Mirewallow",
+       "Sszuka",
+       "Water",
+       "Heavy semi-aquatic bog-beast"
+      ],
+      [
+       "Razorfin",
+       "Razku",
+       "Water",
+       "Aquatic predator, rarely tamed"
+      ],
+      [
+       "Bellowback",
+       "Bumako",
+       "Table",
+       "Broad herd-grazer for meat, hide, and eggs"
+      ],
+      [
+       "Cluckmaw",
+       "Pokok",
+       "Table",
+       "The south’s common flock-fowl"
+      ],
+      [
+       "Quillhen",
+       "Pirrak",
+       "Table",
+       "Eggs, meat, and useful feathers"
+      ],
+      [
+       "Gloamhide",
+       "Xolca",
+       "Dusk",
+       "Color-shifting nocturnal hunter"
+      ],
+      [
+       "Twincrest",
+       "Keshix",
+       "Hunt",
+       "Small dangerous predator with paired crests"
+      ],
+      [
+       "Songcrest",
+       "Saalix",
+       "Riding",
+       "Elegant herbivorous mount with a resonant crest"
+      ],
+      [
+       "Spurback",
+       "Tammok",
+       "Labor",
+       "Herbivorous pack saurians of several breeds for long journeys"
+      ]
+     ],
+     "caption": "The twenty named saurian kinds"
+    }
+   },
+   {
     "title": "The Eldersaur title",
     "paragraphs": [
      "Tza’kun, the revered ancient, names an Eldersaur. It is a title for an exceptionally old, enormous saurian, rather than a separate breed. Even Jakupur leaves many such territorial giants alone."
@@ -3339,6 +3508,81 @@
     ]
    },
    {
+    "title": "The months",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Month",
+      "Keeps",
+      "Season",
+      "Observance"
+     ],
+     "rows": [
+      [
+       "Eo",
+       "Hearth and Home",
+       "Closed Water",
+       "Landing-Day; beginnings"
+      ],
+      [
+       "Eliol",
+       "Chart and Star",
+       "Closed Water",
+       "Study and finding the way"
+      ],
+      [
+       "Ezra",
+       "Mast and Sail",
+       "Open Water",
+       "First-Sail; Hunters’ Trials"
+      ],
+      [
+       "Liora",
+       "Heart and Hand",
+       "Open Water",
+       "Merrin Games; bonds"
+      ],
+      [
+       "Rhor",
+       "Net and Anvil",
+       "Fair Water",
+       "Work and craft"
+      ],
+      [
+       "Idel",
+       "Coin and Cargo",
+       "Fair Water",
+       "Festival of Winds; trade"
+      ],
+      [
+       "Veriden",
+       "Truth and Justice",
+       "Fair Water",
+       "Oaths and courts"
+      ],
+      [
+       "Halvenir",
+       "Salt and Harvest",
+       "Storm Water",
+       "Bounty of the Sea"
+      ],
+      [
+       "Memnara",
+       "Bell and Remembrance",
+       "Storm Water",
+       "Storm-Watch; the drowned"
+      ],
+      [
+       "Okram",
+       "Harbor and Rest",
+       "Closed Water",
+       "Lanterns of Unity; homecoming"
+      ]
+     ],
+     "caption": "The ten months of the Charter year"
+    }
+   },
+   {
     "title": "The four waters",
     "paragraphs": [
      "Closed Water is winter, Open Water spring, Fair Water summer, and Storm Water autumn. The Wilds follow rains and dry seasons, while the ice reverses the seasonal pattern."
@@ -3482,6 +3726,79 @@
   "summary": "Bits, Tides, Anchors, and the heavy gold Orsal keep trade moving between regions that give common coins their own names.",
   "sections": [
    {
+    "title": "The four coins",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Coin",
+      "Metal and mark",
+      "Worth"
+     ],
+     "rows": [
+      [
+       "Bit",
+       "Holed copper",
+       "The base coin"
+      ],
+      [
+       "Tide",
+       "Silver; two moons over a wave",
+       "10 Bits"
+      ],
+      [
+       "Anchor",
+       "Gold; an anchor over a running wave",
+       "10 Tides / 100 Bits"
+      ],
+      [
+       "Orsal",
+       "Heavy numbered square of gold; the face of Ors",
+       "10 Anchors / 1,000 Bits"
+      ]
+     ],
+     "caption": "The islands’ common coinage"
+    }
+   },
+   {
+    "title": "The same money, different shores",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Region",
+      "Gold",
+      "Silver",
+      "Copper"
+     ],
+     "rows": [
+      [
+       "Central Heartland",
+       "Anchor",
+       "Tide",
+       "Bit"
+      ],
+      [
+       "Northern Frontier",
+       "Hold",
+       "Gull",
+       "Nail"
+      ],
+      [
+       "Southern Wilds",
+       "Jaguar",
+       "Moon",
+       "Bean"
+      ],
+      [
+       "Icy Expanse",
+       "Lamp",
+       "Seal",
+       "Flint"
+      ]
+     ],
+     "caption": "Regional names, identical values"
+    }
+   },
+   {
     "title": "A measure of a living",
     "paragraphs": [
      "Everywhere, the Orsal remains the Orsal. Familiar yardsticks put a laborer’s day at three Bits, a month around an Anchor, and a year around an Orsal. A journeyman earns about two Anchors monthly; a clerk three; a master craftsman four to six."
@@ -3554,6 +3871,39 @@
   "subtitle": "The map is measured in weeks",
   "summary": "Voyages and news move slowly across the enormous archipelago.",
   "sections": [
+   {
+    "title": "Fair passages",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Passage",
+      "Fair duration"
+     ],
+     "rows": [
+      [
+       "Ironfort → Goldwind",
+       "3–4 weeks"
+      ],
+      [
+       "Goldwind → Southhaven",
+       "About 6 weeks"
+      ],
+      [
+       "Southhaven → Jakupur",
+       "2–3 weeks"
+      ],
+      [
+       "Southhaven → Varan Port",
+       "7–8 weeks"
+      ],
+      [
+       "Varan Port → far ice",
+       "3–4 weeks"
+      ]
+     ],
+     "caption": "Passages in ordinary conditions"
+    }
+   },
    {
     "title": "What changes the journey",
     "paragraphs": [
@@ -4219,6 +4569,80 @@
     "paragraphs": [
      "Shakarr belongs to the Bonewilds. Thalgorath is the Tide-Tyrant of the deep. Ulgrenn is the Hollow Song: if you hear it, do not follow. Tyrak’Zhul is called the World-Eater, the First Jaw."
     ]
+   },
+   {
+    "title": "The Lords and their country",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Lord",
+      "What it is",
+      "Its country"
+     ],
+     "rows": [
+      [
+       "Momumba, Lord of Apes",
+       "A cunning colossal girallon with a cohort",
+       "The deep jungle near Jakupur"
+      ],
+      [
+       "Badron, Queen of Feathers",
+       "The mother of storms and thunderbirds",
+       "The high winds"
+      ],
+      [
+       "Shakarr, the Shadow of Death",
+       "A sabertooth of living shadow",
+       "The Bonewilds"
+      ],
+      [
+       "Kayuntu, the Violent Monarch of the Five Skies",
+       "A colossal wyvern",
+       "The five layers of the sky"
+      ],
+      [
+       "KakanKal, Emperor of Flames",
+       "A fire salamander asleep in the magma",
+       "Everfall and the volcanic south"
+      ],
+      [
+       "Malim, the Laughing Flood",
+       "A giant otter, playful and lethal",
+       "Rivers, deltas, and coasts"
+      ],
+      [
+       "Ssvayuk, the Mud That Breathes",
+       "A swamp-serpent grown over with false islands",
+       "The great bogs"
+      ],
+      [
+       "Vukharr, the White Hunger",
+       "A starving god of ribs and white fur",
+       "The deep Icy Expanse"
+      ],
+      [
+       "Ulgrenn, the Hollow Song",
+       "A blind cave-leviathan that sings",
+       "The deep caves and Orka ruins"
+      ],
+      [
+       "Thalgorath, the Tide-Tyrant",
+       "An abyssal horror",
+       "The Sunken Thrones"
+      ],
+      [
+       "Tyrak'Zhul, the World-Eater",
+       "The tyrant-father of all saurians",
+       "The saurian heartlands of the south"
+      ],
+      [
+       "The Hunted",
+       "A young beast the Lords' progeny unite to kill",
+       "Wherever the world is thin"
+      ]
+     ],
+     "caption": "Ten and a half, and the eleventh."
+    }
    },
    {
     "title": "In the islands",
@@ -8778,6 +9202,35 @@
     ]
    },
    {
+    "title": "The three trades",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Trade",
+      "Load",
+      "How to recognize it"
+     ],
+     "rows": [
+      [
+       "Surveyor",
+       "Instruments and chart-cases",
+       "A broad-brimmed sun hat"
+      ],
+      [
+       "Notary",
+       "Sealed wills, deeds, and contracts",
+       "A small scholar’s cap"
+      ],
+      [
+       "Healer",
+       "Herbs, salves, and spices",
+       "A green cross of bound reeds"
+      ]
+     ],
+     "caption": "The three chartback trades"
+    }
+   },
+   {
     "title": "Shell-keeps",
     "paragraphs": [
      "A plain load is carried in saddlebags. Grand ones sit in little wooden shell-keeps: roofed towers with scroll cubbies or herb drawers, handed down with the tortoise. A surveyor measures land in the animal’s remarkably constant paces; a notary’s chartback can walk its circuit without being led."
@@ -10938,6 +11391,40 @@
     ]
    },
    {
+    "title": "Four shores, four cups",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Region",
+      "Style",
+      "Character"
+     ],
+     "rows": [
+      [
+       "Northern Frontier",
+       "Greywater",
+       "Clear and peppery"
+      ],
+      [
+       "Central Heartland",
+       "Goldcask",
+       "Amber, finished in wine-casks"
+      ],
+      [
+       "Southern Wilds",
+       "Burnmouth",
+       "Cacao and fire-pepper"
+      ],
+      [
+       "Icy Expanse",
+       "Icebrand",
+       "Freeze-distilled and smoked"
+      ]
+     ],
+     "caption": "Regional kellum styles"
+    }
+   },
+   {
     "title": "The water behind the cup",
     "paragraphs": [
      "Stillwright herds of wrack cows graze the honeywrack beds and tow the harbor’s barges. A harbor with wrack cows is a harbor that distills kellum."
@@ -12324,6 +12811,59 @@
     "paragraphs": [
      "The week is the Cycle: ten days, named in order. The Cycle runs straight through the months and the Still Days without ever starting over, so you name a day by its Cycle-name and its date."
     ]
+   },
+   {
+    "title": "At a glance",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Day",
+      "What it is for"
+     ],
+     "rows": [
+      [
+       "Sunsdawn",
+       "Beginnings, law, Concord worship"
+      ],
+      [
+       "Tideturn",
+       "Sailing and trade: the day to weigh anchor"
+      ],
+      [
+       "Hearthday",
+       "Home and family"
+      ],
+      [
+       "Forgeday",
+       "Craft, labor, the guilds"
+      ],
+      [
+       "Wardsday",
+       "Courts, oaths, justice"
+      ],
+      [
+       "Greenday",
+       "Fields and harvest"
+      ],
+      [
+       "Graveday",
+       "The dead and the ancestors; never set sail on a Graveday"
+      ],
+      [
+       "Windsday",
+       "Travel, roads, news"
+      ],
+      [
+       "Coinsday",
+       "Market day; debts paid; Pocchin caravans roll into town"
+      ],
+      [
+       "Restday",
+       "The islands' day off: temple, tidecall, and the long meal"
+      ]
+     ],
+     "caption": ""
+    }
    },
    {
     "title": "Rumors",
@@ -14795,6 +15335,59 @@
     ]
    },
    {
+    "title": "The chain of command",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Rank or assignment",
+      "Charge"
+     ],
+     "rows": [
+      [
+       "Grand Admiral",
+       "Supreme command of the nine fleets"
+      ],
+      [
+       "Fleetlord",
+       "A fleet; Battle-Admiral when commanding a joint line"
+      ],
+      [
+       "Commodore / Strike Admiral / Rear Admiral",
+       "Squadron assignment: standard / independent offensive / convoy, rear guard and logistics"
+      ],
+      [
+       "Tidemaster / Castellan / Wardmaster",
+       "A sea flotilla / fortress or station / port defenses and harbor watch"
+      ],
+      [
+       "High Captain",
+       "Flagships and capital ships; squadron second"
+      ],
+      [
+       "Ship-Lord",
+       "A warship’s captain, addressed by their hull"
+      ],
+      [
+       "First Blade",
+       "Second-in-command; leads boardings"
+      ],
+      [
+       "Sword-Lieutenant",
+       "Officer of the watch"
+      ],
+      [
+       "Blade-Ensign",
+       "Newly commissioned officer"
+      ],
+      [
+       "Hand / Able Blade",
+       "Crew; known together as the Blooded after first action"
+      ]
+     ],
+     "caption": "From the Admiralty to the deck"
+    }
+   },
+   {
     "title": "The work inside the rank",
     "paragraphs": [
      "An Oathwarden keeps the crew to the Charter and its oath; a Sword-Warden is master-at-arms and senior marine. The Ship’s Tidecaller is the Concord chaplain who blesses the sailing. The Master of Thunder is chief gunner; the Chartmaster is a Chartwright-certified navigator.",
@@ -14847,6 +15440,85 @@
      "Each fleet has a number, a name, a Fleetlord and a ship from which that commander flies a flag. Its station or charge explains the rest. Some watch a particular approach; others follow a kind of work wherever it leads.",
      "The First and Second are the Twin Irons. Kalivos Durant’s Iron Wall shields Goldwind and the Heartland, while Dastan Graylock’s Iron Blockade holds the northern strait against the Imperium. One protects the center; the other guards its northern approach."
     ]
+   },
+   {
+    "title": "The nine commands",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Fleet",
+      "Station and charge",
+      "Fleetlord",
+      "Known as",
+      "Ship"
+     ],
+     "rows": [
+      [
+       "1st, the Iron Wall",
+       "Goldwind and the Heartland; the capital's shield",
+       "Grand Admiral Kalivos Durant",
+       "\"the Anvil\"",
+       "Conqueror"
+      ],
+      [
+       "2nd, the Iron Blockade",
+       "The northern strait, against the Imperium",
+       "Dastan Graylock",
+       "\"Maverick\"",
+       "Charter's Oath"
+      ],
+      [
+       "3rd, the Last Psalm",
+       "The Concord's fleet; sea-pacts and the Coral Kingdoms",
+       "Falken Brightsight",
+       "\"the Psalmist\"",
+       "Falkoner"
+      ],
+      [
+       "4th, the Spearfall",
+       "Expeditionary; offense wherever the Council points",
+       "Zeras Durant",
+       "\"the Breaker\"",
+       "Spearhead"
+      ],
+      [
+       "5th, the Killing Tide",
+       "Rescue, crisis, and what rises from the deep",
+       "Enara Torraflame",
+       "\"the Undrowned\"",
+       "Intervention"
+      ],
+      [
+       "6th, the Far Watch",
+       "Exploration and charting with the Chartwrights",
+       "Uha Farsight",
+       "\"Smiling Uha\"",
+       "Seeker"
+      ],
+      [
+       "7th, the Emerald Wrath",
+       "Southern rivers and coasts; gunboats in the green",
+       "Zyanya Greymoor",
+       "\"the Jaguar\"",
+       "Jadefang"
+      ],
+      [
+       "8th, the Frozen Vow",
+       "The Icy Expanse; stretched thin, unbroken",
+       "Runa Kaldmark",
+       "\"Frostbite\"",
+       "Rimeheart"
+      ],
+      [
+       "9th, the Standing Storm",
+       "Stormreach and the heavy weather",
+       "Skarrei Ninth-Squall",
+       "\"Thunderhead\"",
+       "Stormcrown"
+      ]
+     ],
+     "caption": "The Armada in 175 EC"
+    }
    },
    {
     "title": "Duties that cross the map",
@@ -14984,6 +15656,65 @@
      "The Armada names its classes for the work they carry into the world. A Harbinger is a courier cutter, and sailors say its arrival means news, rarely good. A Vindicator sloop gives chase. A Justicar gunboat can work a river where the great battle hulls have no business going.",
      "Warden frigates are the backbone of the fleets. Juggernaut heavy frigates are storm-runners, crewed by Galven; Interdictor cruisers make the Iron Blockade’s fist. A ship’s importance follows the waters and duty it is built to serve."
     ]
+   },
+   {
+    "title": "The classes, small to large",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Class",
+      "Hull",
+      "Duty"
+     ],
+     "rows": [
+      [
+       "Harbinger",
+       "Cutter",
+       "Courier"
+      ],
+      [
+       "Vindicator",
+       "Sloop",
+       "Pursuit"
+      ],
+      [
+       "Justicar",
+       "River gunboat",
+       "The Emerald Wrath’s workhorse"
+      ],
+      [
+       "Warden",
+       "Frigate",
+       "The backbone of the fleets"
+      ],
+      [
+       "Juggernaut",
+       "Heavy frigate",
+       "Galven-crewed storm-runner"
+      ],
+      [
+       "Interdictor",
+       "Cruiser",
+       "Blockade and area denial"
+      ],
+      [
+       "Dreadnought",
+       "Ship of the line",
+       "The battle line"
+      ],
+      [
+       "Enforcer",
+       "Bombard",
+       "Bombarding fortresses"
+      ],
+      [
+       "Executioner",
+       "Man-of-war",
+       "Great battle-flagships; nine built"
+      ]
+     ],
+     "caption": "The Armada’s working hulls"
+    }
    },
    {
     "title": "The great battle hulls",
@@ -23234,7 +23965,113 @@
   "region": "All regions",
   "subtitle": "A god for every people",
   "summary": "Every people honors a patron of its own, or shares one, alongside the wider pantheon and the Concord.",
-  "sections": [],
+  "sections": [
+   {
+    "title": "At a glance",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "People",
+      "Patron or faith"
+     ],
+     "rows": [
+      [
+       "Elves",
+       "Aelthuvar, the First Light, the Dawnfather, who led the elves out of the Faewild. High Elves honor his Faewild-bound face, Wood Elves his world-rooted face. The Frost Elves have forgotten him and follow Vukharr, Oorah and Volvieg. The drow keep a third face, the Buried Dawn, the light that went down into the dark and stayed"
+      ],
+      [
+       "Dwarves",
+       "The Forge-Pantheon: Durmakhâim, the All-Anvil (also the Quenching), lord of metal, craft and fate; Khazrûkk, the Debt Below (also the Tally), god of grudges and the unforgiving ledger; Varganthûr, the Deep Hearth, god of the clan-hold"
+      ],
+      [
+       "Orcs",
+       "Gorrokar, the Devouring Tusk, the old Orka war-god, kept lean and private by the Remembering Tribes"
+      ],
+      [
+       "Goblinoids",
+       "The Skarn, the Many-Mouthed: the small and clever outlast the great and proud. His fae-warped face is worshipped by the goblinoids trapped in the Faewild"
+      ],
+      [
+       "Humans",
+       "Imperial-descended folk look to Magnus and the memory of Korvan; native peoples pray to the Aspects and honor Yaxqel, the First Walker, eldest ancestor of the south; Council folk keep the Concord"
+      ],
+      [
+       "Halflings",
+       "Penny Greenstep, folk-saint of luck and the well-laid table, with Eo, Brother Dog and Castellyn"
+      ],
+      [
+       "Gnomes",
+       "Tik, the Tinkering Spark, with Rhor and Eliol"
+      ],
+      [
+       "Giants and Goliaths",
+       "Vorthung, the First Crown, the giant progenitor-god; goliaths keep him alongside Khaurun"
+      ],
+      [
+       "Vorthani",
+       "Khaurun, the Fourfold: discipline, balance, the inner fire; shared with monks of every people"
+      ],
+      [
+       "Lizardfolk",
+       "Sszathra, the Cold-Blooded Mother, braided with the Savage Lord Ssvayuk, \"her living hand\""
+      ],
+      [
+       "Dragonborn",
+       "Tharuun, the Sworn Breath, the clan-oath god; the kobolds' Vrix is the cousin whose stolen scale broke the oldest oath"
+      ],
+      [
+       "Kobolds",
+       "Vrix, the Underscale, clever ancestor beneath the true dragons"
+      ],
+      [
+       "Winged peoples",
+       "Aevyr, the Open Wing; the Aethyn also honor the Breath That Wanders, Tramica and Skaia"
+      ],
+      [
+       "Galven",
+       "Eirhal, the Living Lightning, their own god; Badron is their beast-god"
+      ],
+      [
+       "Cindren",
+       "Sathrun, the Steady Flame; the Hunger That Warms is their fire"
+      ],
+      [
+       "Coral peoples",
+       "Vaythra, the Coral Sovereign; the Drowning Mother and the courts; in the deeps, Mhavros"
+      ],
+      [
+       "Liriath and Florians",
+       "Yarrowen, the Rooted Crown; the Green Fire and the Spring Court (Aoifel)"
+      ],
+      [
+       "Tarvan",
+       "Ulmach, the Herd-Father; the Sleeping Giant beneath the standing-stones; the dead graze in the Endless Pasture, the Maghren"
+      ],
+      [
+       "Sporrn",
+       "Hyssen, the Turning Loam; the Quiet Door as compost for the next life"
+      ],
+      [
+       "Half-elves",
+       "Coriell, the Between, the bridge between the two families"
+      ],
+      [
+       "The Marked",
+       "Nethis, lord of pacts"
+      ],
+      [
+       "Pocchin",
+       "A magpie-creed of whichever god seems likeliest to improve the next deal"
+      ],
+      [
+       "Cat-kin and voice-kin",
+       "Fortura and Mishri the Nine-Lived; a stolen-voice face of the Skarn"
+      ]
+     ],
+     "caption": ""
+    }
+   }
+  ],
   "facts": [],
   "source": "The Pantheon",
   "aliases": [],
@@ -25076,7 +25913,7 @@
   "title": "Badron, Queen of Feathers",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "Mother of storms",
   "summary": "The thunderbird, mother of storms. The high winds.",
   "sections": [
    {
@@ -25124,7 +25961,7 @@
   "title": "The Hunted",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The young apex every Lord wants dead",
   "summary": "A juvenile apex the other Lords unite to kill. Everywhere, fleeing.",
   "sections": [
    {
@@ -25166,7 +26003,7 @@
   "title": "KakanKal, Emperor of Flames",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The fire asleep under Everfall",
   "summary": "A fire salamander asleep in the magma. Under Everfall.",
   "sections": [
    {
@@ -25215,7 +26052,7 @@
   "title": "Kayuntu, the Violent Monarch of the Five Skies",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The wyvern at war with the storm",
   "summary": "A colossal wyvern ruling the layers of the sky; at war with Badron. The skies over the Wilds.",
   "sections": [
    {
@@ -25263,7 +26100,7 @@
   "title": "Malim, the Laughing Flood",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The river that plays, and drowns",
   "summary": "A giant otter, playful and lethal. Rivers, deltas, coasts.",
   "sections": [
    {
@@ -25305,7 +26142,7 @@
   "title": "Momumba, Lord of Apes",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The cunning in the canopy",
   "summary": "A cunning colossal girallon. Southern Wilds jungle.",
   "sections": [
    {
@@ -25352,7 +26189,7 @@
   "title": "Shakarr, the Shadow of Death",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "What walks the white flats at dusk",
   "summary": "A sabertooth of living shadow. The Bonewilds.",
   "sections": [
    {
@@ -25397,7 +26234,7 @@
   "title": "Ssvayuk, the Mud That Breathes",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The serpent under the false islands",
   "summary": "A swamp-serpent grown over with false islands. The great bogs.",
   "sections": [
    {
@@ -25443,7 +26280,7 @@
   "title": "Thalgorath, the Tide-Tyrant",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "Choirmaster of the deep",
   "summary": "An abyssal horror; the Red Choir's choirmaster. The Sunken Thrones, Abyssara's edge.",
   "sections": [
    {
@@ -25493,7 +26330,7 @@
   "title": "Tyrak'Zhul, the World-Eater",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The First Jaw",
   "summary": "The tyrant-father of all saurians, the First Jaw. The saurian heartlands.",
   "sections": [
    {
@@ -25539,7 +26376,7 @@
   "title": "Ulgrenn, the Hollow Song",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The voices of the swallowed",
   "summary": "A blind cave-leviathan that sings with the voices of the swallowed. The undercaverns and Orka ruins.",
   "sections": [
    {
@@ -25585,7 +26422,7 @@
   "title": "Vukharr, the White Hunger",
   "category": "savage-lords",
   "region": "All regions",
-  "subtitle": "A Savage Lord",
+  "subtitle": "The starving thing in the snow",
   "summary": "A starving tundra-beast of ribs and white fur. The deep Icy Expanse.",
   "sections": [
    {
@@ -26041,6 +26878,105 @@
     "paragraphs": [
      "Every character knows Common and two other languages. In Kalvatar, choose the two from the standard languages below. A rare language needs a reason in your story."
     ]
+   },
+   {
+    "title": "At a glance",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Kalvatari name",
+      "For the rules",
+      "Who speaks it"
+     ],
+     "rows": [
+      [
+       "The Island tongue",
+       "Common",
+       "Everyone in Council lands, and most of everyone else"
+      ],
+      [
+       "Imperial",
+       "Standard (Kalvatar)",
+       "The mainland of Assios, the old houses, the dragonborn clans"
+      ],
+      [
+       "Confederacy speech",
+       "Standard (Kalvatar)",
+       "The native peoples and chant-keepers of the south"
+      ],
+      [
+       "Pocchin",
+       "Standard (Kalvatar)",
+       "Every caravan; fast, slangy, and thick with words for value"
+      ],
+      [
+       "Draconic",
+       "Standard",
+       "Dragonborn clans and kobold warrens"
+      ],
+      [
+       "Dwarvish",
+       "Standard",
+       "The holds, and the Tally"
+      ],
+      [
+       "Elvish",
+       "Standard",
+       "All five kinds of elf, with five accents and one long grudge about pronunciation"
+      ],
+      [
+       "Giant",
+       "Standard",
+       "The Vorthani, the goliaths, and the Tarvan's old tongue"
+      ],
+      [
+       "Gnomish",
+       "Standard",
+       "The workshops"
+      ],
+      [
+       "Goblin",
+       "Standard",
+       "The warrens of the Skarn's children"
+      ],
+      [
+       "Halfling",
+       "Standard",
+       "The inns and the river-pilots"
+      ],
+      [
+       "Orc",
+       "Standard",
+       "The Telling, and the docks"
+      ],
+      [
+       "Primordial",
+       "Rare",
+       "Galven storm-songs and Aethyn star-rolls (Auran), the Coral song (Aquan), the Cindren forge-cant (Ignan)"
+      ],
+      [
+       "Sylvan",
+       "Rare",
+       "The Liriath, and the Courts of the Faewild"
+      ],
+      [
+       "Undercommon",
+       "Rare",
+       "The Sporrn and the drow, and whatever else lives Below"
+      ],
+      [
+       "Abyssal and Infernal",
+       "Rare",
+       "Orka glyphs, and the old words some of the Marked keep"
+      ],
+      [
+       "Thieves' Cant",
+       "Rare",
+       "The Undertow's cant"
+      ]
+     ],
+     "caption": ""
+    }
    }
   ],
   "facts": [],
@@ -26097,15 +27033,20 @@
   "title": "The Answering Light",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "One dip of a lamp to a passing ship",
   "summary": "When a ship's lantern passes at night, coastal houses dip their lamp once in reply. A coast that answers is a kind coast.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "When a ship's lantern passes at night, coastal houses dip their lamp once in reply.",
-     "A coast that answers is a kind coast.",
-     "\"Not every kind coast is kind,\" southern captains add, passing the wreckers' cliffs of Crystalhaven."
+     "When a ship’s lantern passes a coastal house at night, the house lowers and raises its own lamp once in reply. It says: we see you, and we are here. That is all it says, and it is enough.",
+     "Ships keep count of the lights that answer them. A coast where the houses answer is a kind coast, and sailors speak of it with love. Children fight over whose turn it is to answer the light."
+    ]
+   },
+   {
+    "title": "The warning",
+    "paragraphs": [
+     "In the far south the captains add a line of their own, passing the wreckers’ cliffs of Crystalhaven: not every kind coast is kind."
     ]
    }
   ],
@@ -26124,15 +27065,20 @@
   "title": "The Chalk Tide",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "How harbor children learn the moons",
   "summary": "Harbor children chalk the morning's high-water line on the harbor steps; that's how they learn the moons.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "Harbor children chalk the morning's high-water line on the harbor steps.",
-     "That is how they learn the moons.",
-     "One chalk line records a single morning. Seen together over time, the marks show how far the harbor water rises and falls as the moons change. Children learn to read the tides by keeping a record of the steps they use every day."
+     "Every morning in the harbor towns, the children run down to the harbor steps and mark the high-water line in chalk, with the day beside it. They watch their own marks climb and fall, and climb higher toward the King Tide, and that is how they learn the moons.",
+     "A town where the children still mark the tide is a town that is teaching its own."
+    ]
+   },
+   {
+    "title": "The saying",
+    "paragraphs": [
+     "“Before you could chalk a tide” means when you were very young."
     ]
    }
   ],
@@ -26149,15 +27095,20 @@
   "title": "Door Coins",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "A row of copper over the door",
   "summary": "Visitors to a new home leave a copper Bit on the lintel all its first year. When the row is full, the house is paid true.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "Visitors to a new home leave a copper Bit on the lintel all its first year.",
-     "When the row is full, the house is paid true.",
-     "A copper Bit on the lintel is a small contribution a visitor can make throughout the house’s first year. The row grows one visit at a time, and its completion is the sign that the house is paid true."
+     "Every visitor to a new household in its first year leaves a single copper Bit on the lintel of the door. When the row of coins reaches from one side to the other, the house is paid true: settled, lucky, and properly part of the street.",
+     "The household then throws a supper for everyone whose coin is up there."
+    ]
+   },
+   {
+    "title": "The one rule",
+    "paragraphs": [
+     "Taking a coin from a lintel is the pettiest theft in the islands, and the unluckiest."
     ]
    }
   ],
@@ -26171,7 +27122,7 @@
   "title": "Festivals Everywhere",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "Kept in every port",
   "summary": "The Still Days and the King Tide are kept in every port in the islands.",
   "sections": [
    {
@@ -26198,8 +27149,8 @@
   "title": "Festivals of the Frontier",
   "category": "culture",
   "region": "Northern Frontier",
-  "subtitle": "Customs and festivals",
-  "summary": "The feasts and rites of Northern Frontier.",
+  "subtitle": "Bonfires, tourneys, and the blessing of ships",
+  "summary": "The feasts and rites of the Northern Frontier.",
   "sections": [
    {
     "title": "Overview",
@@ -26229,8 +27180,8 @@
   "title": "Festivals of the Heartland",
   "category": "culture",
   "region": "Central Heartland",
-  "subtitle": "Customs and festivals",
-  "summary": "The feasts and rites of Central Heartland.",
+  "subtitle": "Kites, regattas, and the merrin",
+  "summary": "The feasts and rites of the Central Heartland.",
   "sections": [
    {
     "title": "Overview",
@@ -26260,8 +27211,8 @@
   "title": "Festivals of the Ice",
   "category": "culture",
   "region": "Icy Expanse",
-  "subtitle": "Customs and festivals",
-  "summary": "The feasts and rites of Icy Expanse.",
+  "subtitle": "Lamps against the Long Night",
+  "summary": "The feasts and rites of the Icy Expanse.",
   "sections": [
    {
     "title": "Overview",
@@ -26297,8 +27248,8 @@
   "title": "Festivals of the Wilds",
   "category": "culture",
   "region": "Southern Wilds",
-  "subtitle": "Customs and festivals",
-  "summary": "The feasts and rites of Southern Wilds.",
+  "subtitle": "Rain, ancestors, and the Laughing Water",
+  "summary": "The feasts and rites of the Southern Wilds.",
   "sections": [
    {
     "title": "Overview",
@@ -26327,15 +27278,20 @@
   "title": "First Bread",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "Paid forward, never back",
   "summary": "A stranger quietly pays a newcomer's first meal in a new port. You never learn who; you pay it forward.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "A stranger quietly pays a newcomer's first meal in a new port.",
-     "You never learn who. You pay it forward.",
-     "The newcomer receives a meal before they know who has made room for them in the port. Because the giver stays anonymous, the debt is paid forward when that same traveler has the chance to cover the first meal of another arrival."
+     "A newcomer’s first meal in a new port is paid for by a stranger, and the newcomer never learns who. The innkeeper says only that it has been seen to.",
+     "The debt is never paid back. One day you buy the first bread of some other stranger off some other ship, and you say nothing."
+    ]
+   },
+   {
+    "title": "The saying",
+    "paragraphs": [
+     "“Someone paid my first bread” means I owe this town, and I know it."
     ]
    }
   ],
@@ -26349,15 +27305,20 @@
   "title": "The Mending",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "The whole street, one roof at a time",
   "summary": "After a storm, the whole street mends the worst-hit roof first.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "After a storm, the whole street mends the worst-hit roof first.",
-     "\"Start with the worst roof.\"",
-     "A storm can leave every household with work to do. By starting with the worst-hit roof, neighbors put their shared labor where it can first give someone shelter again, before turning to damage that can wait."
+     "After a storm, nobody mends their own roof first. Without anyone giving an order, the whole street goes to the worst-hit house and starts there. Only when that roof is whole do they move on to the next-worst.",
+     "A family that fixes its own roof while a neighbor’s stands open is remembered for it for a generation."
+    ]
+   },
+   {
+    "title": "The saying",
+    "paragraphs": [
+     "“Start with the worst roof” is island shorthand for doing the right thing in the right order."
     ]
    }
   ],
@@ -26373,7 +27334,7 @@
   "title": "The Merrin Games",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "Twelve trials and a red kerchief",
   "summary": "All through Liora the harbors hold twelve trials on the water. On the Untying, under the full moon of Liora 18th, a girl unties the merrin of the sailor she chooses.",
   "sections": [
    {
@@ -26423,15 +27384,20 @@
   "title": "The Naming Spoon",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "A family tree on the kitchen wall",
   "summary": "Every child gets a carved spoon that hangs on the kitchen wall. Take yours down when you leave home.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "Every child gets a carved birth-spoon that hangs on the kitchen wall.",
-     "Take yours down when you leave home; hang it back up when you return.",
-     "A child’s carved birth-spoon hangs in the kitchen until they leave home and take it down. Hanging it back in its place on return makes coming home something the household can see in an ordinary object it has known for years."
+     "For every child born, a wooden spoon is carved with the child’s mark worked into the handle, and the child’s first mouthful of solid food is fed from it. Then it hangs on the kitchen wall with all the others, so that a family’s wall of spoons reads like a family tree."
+    ]
+   },
+   {
+    "title": "Leaving and returning",
+    "paragraphs": [
+     "When you leave home for good, you take your spoon down and carry it with you. When you come back to stay, you hang it up again, and nobody needs to say a word.",
+     "Sailors hang theirs at the bow when they dress a boat for the Merrin Games."
     ]
    }
   ],
@@ -26447,14 +27413,26 @@
   "title": "The Returning Cup",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "The cup of whoever is at sea",
   "summary": "A sailor's cup hangs upside down while they're at sea and is turned up in the window on the day they're due home.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "A sailor's cup hangs upside down while they are at sea.",
-     "On the day they are due home it is turned up in the window, and the neighbors leave food on the step."
+     "In every island home hangs one cup that belongs to nobody at the table: the cup of whoever is at sea. While they are gone it hangs upside down.",
+     "On the day they are expected home it is set right side up in the window, and every neighbor who passes leaves something on the step: bread, a fish, a twist of wrackcandy, a jar of something good. The sailor’s first drink ashore is always from that cup."
+    ]
+   },
+   {
+    "title": "In Okram",
+    "paragraphs": [
+     "When the fleets come home at the end of the year, whole streets of cups are turned up at once."
+    ]
+   },
+   {
+    "title": "What nobody says",
+    "paragraphs": [
+     "A cup left upside down too long is never mentioned."
     ]
    }
   ],
@@ -26468,15 +27446,20 @@
   "title": "The Salt Promise",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "A promise to share a table again",
   "summary": "Before a long parting, two people each keep a pinch of salt from the same cellar. When they meet again, both go into the same pot.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "Before a long parting, two people each keep a pinch of salt from the same cellar.",
-     "When they meet again, both go into the same pot.",
-     "\"We still have salt between us\" means this isn't over."
+     "Before a long parting, two people take one pinch each from the same salt-cellar and fold it into a cloth to keep. When they meet again, months or years later, both pinches go into the same pot, and they eat what comes out of it together."
+    ]
+   },
+   {
+    "title": "The saying",
+    "paragraphs": [
+     "“We still have salt between us” means this is not over, and we owe each other a meal.",
+     "To throw away your salt is the gentlest way to end a friendship, and the saddest."
     ]
    }
   ],
@@ -26492,7 +27475,7 @@
   "title": "Sea Customs",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "What every deck keeps",
   "summary": "The first drop over the rail, never whistle for wind, a Tide in your boot sailing south, and a silver Tide on the tongue of the dead.",
   "sections": [
    {
@@ -26526,15 +27509,20 @@
   "title": "The Sill",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "The islands’ economy of kindness",
   "summary": "Leave what you have too much of on the windowsill; take what you need. The sill provides.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "Leave what you have too much of on the windowsill; take what you need.",
-     "\"The sill provides.\"",
-     "The sill puts a household’s surplus within reach of someone who can use it. A neighbor can take what they need without having to explain themselves at the door, and leave something of their own the next time they have extra."
+     "The windowsill facing the street is where a household leaves what it has too much of: fish from a good catch, fruit about to turn, a mended net, a child’s outgrown boots.",
+     "Anyone may take from the sill without asking, and anyone may fill it without saying so. Nobody keeps count."
+    ]
+   },
+   {
+    "title": "The saying",
+    "paragraphs": [
+     "“The sill provides” is said of any small kindness nobody asked for."
     ]
    }
   ],
@@ -26551,15 +27539,19 @@
   "title": "Winter-kin",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Customs and festivals",
+  "subtitle": "Kin made by one hard season",
   "summary": "Whoever sheltered with you through a Long Night or a storm-season is kin for life. We wintered together.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The custom",
     "paragraphs": [
-     "Whoever sheltered with you through a Long Night or a storm-season is kin for life.",
-     "\"We wintered together\" means a plate and a bed for life.",
-     "Winter-kin is a tie earned by sharing shelter through a Long Night or a season of storms. Saying “We wintered together” recalls that time and carries a standing promise of a plate and a bed, even years later."
+     "Those who shelter under one roof through a Long Night, a storm-season, or a siege are counted kin for life. Winter-kin attend each other’s weddings and funerals as family, and their children call one another cousin."
+    ]
+   },
+   {
+    "title": "The saying",
+    "paragraphs": [
+     "“We wintered together” is a claim nobody refuses. It means a plate at the table and a bed by the fire, asked for once in twenty years and given without a question."
     ]
    }
   ],
@@ -27594,25 +28586,22 @@
   "title": "\"Painted\" Cora",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "A red rose on every prize",
   "summary": "Captain of The Painter's Palette. Bounty: 520 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "\"Painted\" Cora, captain of The Painter's Palette, is on the Council's Most Wanted poster for 520 Anchors.",
-     "What the docks say:",
-     "She leaves a painted red rose on every ship she plunders.",
-     "She can make herself look like anyone.",
-     "She is searching for the brush of creation."
+     "“Painted” Cora takes ships by walking aboard as someone who belongs there. *The Painter’s Palette* is seldom seen at all. She is priced at 520 Anchors and leaves a painted red rose behind on every prize."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“\"Painted\" Cora: she leaves a painted red rose on every ship she plunders.” (the docks, about the Most Wanted)",
-     "“\"Painted\" Cora: she can make herself look like anyone.” (the docks, about the Most Wanted)",
-     "“\"Painted\" Cora: she is searching for the Brush of Creation.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "She leaves a painted red rose on every ship she plunders.",
+     "She can make herself look like anyone.",
+     "She is searching for the Brush of Creation."
     ]
    }
   ],
@@ -27624,6 +28613,14 @@
    [
     "Bounty",
     "520 Anchors"
+   ],
+   [
+    "Crew",
+    "forgers, actors, and thieves"
+   ],
+   [
+    "Sails for",
+    "nobody"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27631,32 +28628,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "I had supper with my first mate for an hour before I noticed he was still up on deck.",
+   "by": "A merchant captain, afterward"
+  }
  },
  {
   "id": "red-mara",
   "title": "\"Red\" Mara",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The Red Vengeance and its freed crew",
   "summary": "Captain of The Red Vengeance. Bounty: 900 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "\"Red\" Mara, captain of The Red Vengeance, is on the Council's Most Wanted poster for 900 Anchors.",
-     "What the docks say:",
-     "A map is tattooed on her back in sea serpent's blood.",
-     "Her crew is bound to her by an unbreakable oath of the sea.",
-     "She keeps a hidden cove where runaway slaves are sheltered."
+     "“Red” Mara of *The Red Vengeance* is worth 900 Anchors, and the plantation houses of the south would pay more. Her crew are people she took off other ships in chains.",
+     "Their oath is the Free Tide’s creed: the sea belongs to no one, and neither do we."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“\"Red\" Mara: a map is tattooed on her back in sea serpent's blood.” (the docks, about the Most Wanted)",
-     "“\"Red\" Mara: her crew is bound to her by an unbreakable oath of the sea.” (the docks, about the Most Wanted)",
-     "“\"Red\" Mara: she keeps a hidden cove where runaway slaves are sheltered.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "A map is tattooed on her back in sea serpent's blood.",
+     "Her crew is bound to her by an unbreakable oath of the sea.",
+     "She keeps a hidden cove where runaway slaves are sheltered."
     ]
    }
   ],
@@ -27668,6 +28667,14 @@
    [
     "Bounty",
     "900 Anchors"
+   ],
+   [
+    "Crew",
+    "freed thralls, almost all of them"
+   ],
+   [
+    "Sails for",
+    "the Free Tide"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27675,32 +28682,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "They didn’t take the cargo. They took the people in the hold, and the people went gladly.",
+   "by": "A plantation factor’s report"
+  }
  },
  {
   "id": "silverfin-davin",
   "title": "\"Silverfin\" Davin",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The pirate nobody will testify against",
   "summary": "Captain of The Ocean's Grace. Bounty: 600 Anchors, alive only.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "\"Silverfin\" Davin, captain of The Ocean's Grace, is on the Council's Most Wanted poster for 600 Anchors, alive only.",
-     "What the docks say:",
-     "His charm turns enemies into friends.",
-     "He once jumped overboard in a raid to save a drowning child.",
-     "A mermaid's curse keeps him at sea."
+     "“Silverfin” Davin of *The Ocean’s Grace* is the best-liked pirate in the islands, and the only name on the poster wanted alive only: 600 Anchors. The Council wants him for his trade with the Sunlit courts.",
+     "He is almost never seen ashore. The Armada’s captains complain that no witness will speak against him."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“\"Silverfin\" Davin: his charm turns enemies into friends.” (the docks, about the Most Wanted)",
-     "“\"Silverfin\" Davin: he once jumped overboard in a raid to save a drowning child.” (the docks, about the Most Wanted)",
-     "“\"Silverfin\" Davin: a mermaid's curse keeps him at sea.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "His charm turns enemies into friends.",
+     "He once jumped overboard in a raid to save a drowning child.",
+     "A mermaid's curse keeps him at sea."
     ]
    }
   ],
@@ -27712,6 +28721,14 @@
    [
     "Bounty",
     "600 Anchors, alive only"
+   ],
+   [
+    "Crew",
+    "a cheerful crew that loves him"
+   ],
+   [
+    "Sails for",
+    "nobody"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27719,32 +28736,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "He robbed me, yes. He also fixed my pump and sent his regards to my wife. I’m not signing anything.",
+   "by": "A merchant captain, to an Armada clerk"
+  }
  },
  {
   "id": "storm-eye-jorvik",
   "title": "\"Storm-Eye\" Jorvik",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "He knows the storm before the sky does",
   "summary": "Captain of The Stormcutter. Bounty: 560 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "\"Storm-Eye\" Jorvik, captain of The Stormcutter, is on the Council's Most Wanted poster for 560 Anchors.",
-     "What the docks say:",
-     "He predicts storms weeks before they come.",
-     "He has a pact with the spirits of the sea.",
-     "His missing eye sees the truth in every heart."
+     "“Storm-Eye” Jorvik is a one-eyed Galven, and *The Stormcutter* is never caught out by weather. He is priced at 560 Anchors.",
+     "Honest pilots watch his sails. When Jorvik reefs, they reef."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“\"Storm-Eye\" Jorvik: he predicts storms weeks before they come.” (the docks, about the Most Wanted)",
-     "“\"Storm-Eye\" Jorvik: he has a pact with the spirits of the sea.” (the docks, about the Most Wanted)",
-     "“\"Storm-Eye\" Jorvik: his missing eye sees the truth in every heart.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "He predicts storms weeks before they come.",
+     "He has a pact with the spirits of the sea.",
+     "His missing eye sees the truth in every heart."
     ]
    }
   ],
@@ -27756,6 +28775,14 @@
    [
     "Bounty",
     "560 Anchors"
+   ],
+   [
+    "Crew",
+    "Galven and Stormreach sailors"
+   ],
+   [
+    "Sails for",
+    "nobody"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27763,32 +28790,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "Clear sky, flat sea, and the Stormcutter running for harbor. So we ran too.",
+   "by": "A Stormreach pilot"
+  }
  },
  {
   "id": "arcturus-ironheart",
   "title": "Arcturus Ironheart",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The shipwright in iron",
   "summary": "Captain of The Ironclad. Bounty: 700 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Arcturus Ironheart, captain of The Ironclad, is on the Council's Most Wanted poster for 700 Anchors.",
-     "What the docks say:",
-     "His ship is plated in iron and cannot be sunk.",
-     "His cannons fire by steam.",
-     "His blades are stronger than anything else at sea."
+     "*The Ironclad* is plated in iron and fitted with clockwork grapnels, and it leaves a smear of gun-smoke wherever it fights. Arcturus Ironheart is priced at 700 Anchors.",
+     "He builds the best weapons on the sea, and at Hollowkey he sells them to anyone."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Arcturus Ironheart: his ship is plated in iron and cannot be sunk.” (the docks, about the Most Wanted)",
-     "“Arcturus Ironheart: his cannons fire by steam.” (the docks, about the Most Wanted)",
-     "“Arcturus Ironheart: his blades are stronger than anything else at sea.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "His ship is plated in iron and cannot be sunk.",
+     "His cannons fire by steam.",
+     "His blades are stronger than anything else at sea."
     ]
    }
   ],
@@ -27800,6 +28829,14 @@
    [
     "Bounty",
     "700 Anchors"
+   ],
+   [
+    "Crew",
+    "dwarves and gnomes"
+   ],
+   [
+    "Sails for",
+    "Hollowkey, where he is master shipwright"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27807,30 +28844,33 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "We hit her square four times. The fourth ball came back.",
+   "by": "An Armada gunner"
+  }
  },
  {
   "id": "azura-blackbeak-the-siren-of-the-seas",
   "title": "Azura Blackbeak, \"the Siren of the Seas\"",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The song before the guns",
   "summary": "Captain of The Banshee's Call. Bounty: 900 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Azura Blackbeak, \"the Siren of the Seas\", captain of The Banshee's Call, is on the Council's Most Wanted poster for 900 Anchors.",
-     "What the docks say:",
-     "Her singing voice lures ships onto her guns.",
-     "Her crew is all women and has never lost a boarding."
+     "*The Banshee’s Call* is painted deep blue and worked in silver and gold, and it is usually heard before it is seen. Azura Blackbeak is a fine swordswoman and a better strategist, priced at 900 Anchors.",
+     "She has one known rule: she never takes a ship that is carrying refugees."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Azura Blackbeak: her singing voice lures ships onto her guns.” (the docks, about the Most Wanted)",
-     "“Azura Blackbeak: her crew is all women and has never lost a boarding.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "Her singing voice lures ships onto her guns.",
+     "Her crew is all women and has never lost a boarding."
     ]
    }
   ],
@@ -27842,6 +28882,14 @@
    [
     "Bounty",
     "900 Anchors"
+   ],
+   [
+    "Crew",
+    "all women, from every port in the islands"
+   ],
+   [
+    "Sails for",
+    "the Free Tide"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27849,32 +28897,33 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "The watch heard singing and turned the wheel toward it. All of them. I still don’t know the tune.",
+   "by": "A surviving helmsman"
+  }
  },
  {
   "id": "bellamy-the-bold",
   "title": "Bellamy the Bold",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The man who talked his way off the gallows",
   "summary": "Captain of The Daring Venture. Bounty: 560 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Bellamy the Bold, captain of The Daring Venture, is on the Council's Most Wanted poster for 560 Anchors.",
-     "What the docks say:",
-     "He escaped the gallows by charming the executioner.",
-     "He has a map to a city of gold and lacks only the key.",
-     "His parrot is a rival captain, transformed."
+     "Bellamy the Bold of *The Daring Venture* is worth 560 Anchors and has already been caught once. He keeps a parrot that he feeds better than his officers and apologizes to when he thinks nobody is listening."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Bellamy the Bold: he escaped the gallows by charming the executioner.” (the docks, about the Most Wanted)",
-     "“Bellamy the Bold: he has a map to a city of gold and lacks only the key.” (the docks, about the Most Wanted)",
-     "“Bellamy the Bold: his parrot is a rival captain, transformed.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "He escaped the gallows by charming the executioner.",
+     "He has a map to a city of gold and lacks only the key.",
+     "His parrot is a rival captain, transformed."
     ]
    }
   ],
@@ -27886,6 +28935,14 @@
    [
     "Bounty",
     "560 Anchors"
+   ],
+   [
+    "Crew",
+    "a loyal and chaotic crew"
+   ],
+   [
+    "Sails for",
+    "nobody"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27893,32 +28950,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "The rope was on his neck. Ten minutes later the hangman was buying.",
+   "by": "A Goldwind turnkey"
+  }
  },
  {
   "id": "captain-blackstorm",
   "title": "Captain Blackstorm",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The old admiral’s colors",
   "summary": "Captain of The Phantom Tide. Bounty: 1,000 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Captain Blackstorm, captain of The Phantom Tide, is on the Council's Most Wanted poster for 1,000 Anchors.",
-     "What the docks say:",
-     "He commands the dead with whispered words.",
-     "He wears the lost ring of depths, which gives him power over sea creatures.",
-     "He once outmaneuvered the whole armada during a king tide."
+     "Captain Blackstorm commands *The Phantom Tide* and the loyalty of the crews who came out of the Kraken’s Maw alive. He is worth 1,000 Anchors to the Council.",
+     "He means to rebuild the old fleet under his own flag, which puts him at odds with the Last Smile. The quarrel between them is getting worse."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Captain Blackstorm: he commands the dead with whispered words.” (the docks, about the Most Wanted)",
-     "“Captain Blackstorm: he wears the lost Ring of Depths, which gives him power over sea creatures.” (the docks, about the Most Wanted)",
-     "“Captain Blackstorm: he once outmaneuvered the whole Armada during a King Tide.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "He commands the dead with whispered words.",
+     "He wears the lost Ring of Depths, which gives him power over sea creatures.",
+     "He once outmaneuvered the whole Armada during a King Tide."
     ]
    }
   ],
@@ -27930,6 +28989,14 @@
    [
     "Bounty",
     "1,000 Anchors"
+   ],
+   [
+    "Crew",
+    "survivors of Blackheart’s broken fleet"
+   ],
+   [
+    "Sails for",
+    "the Remnants of Blackheart"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27937,32 +29004,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "He flies the old admiral’s colors, and the admiral’s daughter can’t stand it.",
+   "by": "A Hollowkey drift-trader"
+  }
  },
  {
   "id": "captain-sabletooth",
   "title": "Captain Sabletooth",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "Gunner, diver, digger",
   "summary": "Captain of The Deepforge. Bounty: 600 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Captain Sabletooth, captain of The Deepforge, is on the Council's Most Wanted poster for 600 Anchors.",
-     "What the docks say:",
-     "His cannons never miss.",
-     "He found the lost dwarven forge under the sea.",
-     "He is searching for the hammer of the deep."
+     "Captain Sabletooth’s *Deepforge* carries the best gun-crews on the poster and, oddly, a full company of divers. He is priced at 600 Anchors.",
+     "He spends long weeks anchored over empty water, and does not welcome company there."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Captain Sabletooth: his cannons never miss.” (the docks, about the Most Wanted)",
-     "“Captain Sabletooth: he found the lost Dwarven Forge under the sea.” (the docks, about the Most Wanted)",
-     "“Captain Sabletooth: he is searching for the Hammer of the Deep.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "His cannons never miss.",
+     "He found the lost Dwarven Forge under the sea.",
+     "He is searching for the Hammer of the Deep."
     ]
    }
   ],
@@ -27974,6 +29043,14 @@
    [
     "Bounty",
     "600 Anchors"
+   ],
+   [
+    "Crew",
+    "gunners and divers"
+   ],
+   [
+    "Sails for",
+    "himself"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -27982,32 +29059,33 @@
    "most-wanted",
    "coins-and-prices",
    "dwarves"
-  ]
+  ],
+  "epigraph": {
+   "quote": "One shot across the bow is a warning. From the Deepforge it is a courtesy. He could have had the mast.",
+   "by": "A merchant’s mate"
+  }
  },
  {
   "id": "captain-umbrel",
   "title": "Captain Umbrel",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "Never by day",
   "summary": "Captain of The Shadow Serpent. Bounty: 700 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Captain Umbrel, captain of The Shadow Serpent, is on the Council's Most Wanted poster for 700 Anchors.",
-     "What the docks say:",
-     "He is never seen by day and strikes only at night.",
-     "His ship appears and vanishes like a mirage.",
-     "He stole an invisible cloak from the skein."
+     "Nobody can describe Captain Umbrel, because nobody has seen him in daylight. *The Shadow Serpent* strikes at night, without a light showing, and is gone before the bells. The bounty is 700 Anchors."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Captain Umbrel: he is never seen by day and strikes only at night.” (the docks, about the Most Wanted)",
-     "“Captain Umbrel: his ship appears and vanishes like a mirage.” (the docks, about the Most Wanted)",
-     "“Captain Umbrel: he stole an invisible cloak from the Skein.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "He is never seen by day and strikes only at night.",
+     "His ship appears and vanishes like a mirage.",
+     "He stole an invisible cloak from the Skein."
     ]
    }
   ],
@@ -28019,6 +29097,14 @@
    [
     "Bounty",
     "700 Anchors"
+   ],
+   [
+    "Crew",
+    "a quiet crew that works at night"
+   ],
+   [
+    "Sails for",
+    "himself, as far as anyone knows"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28026,33 +29112,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "We posted a double watch. In the morning the watch was fine and the hold was empty.",
+   "by": "A ship’s master at Silverport"
+  }
  },
  {
   "id": "corvath-stormbringer",
   "title": "Corvath Stormbringer",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The storm that does not break",
   "summary": "Captain of The Black Vortex. Bounty: 1,200 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Corvath Stormbringer, captain of The Black Vortex, is on the Council's Most Wanted poster for 1,200 Anchors.",
-     "What the docks say:",
-     "He cannot die.",
-     "His crew are ghosts that steel passes through.",
-     "He throws lightning from his own hands.",
-     "His ship sails inside a storm that never ends."
+     "Corvath Stormbringer’s *Black Vortex* is seen inside its own weather: a knot of cloud and lightning that travels against the wind. The Council prices him at 1,200 Anchors and has never had a claimant.",
+     "He sells nothing. No fence in the islands has handled a cargo of his, and no port admits to watering him."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Corvath Stormbringer: he cannot die.” (the docks, about the Most Wanted)",
-     "“Corvath Stormbringer: his crew are ghosts that steel passes through.” (the docks, about the Most Wanted)",
-     "“Corvath Stormbringer: he throws lightning from his own hands.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "He cannot die.",
+     "His crew are ghosts that steel passes through.",
+     "He throws lightning from his own hands."
     ]
    }
   ],
@@ -28064,6 +29151,14 @@
    [
     "Bounty",
     "1,200 Anchors"
+   ],
+   [
+    "Crew",
+    "nobody has counted them twice"
+   ],
+   [
+    "Sails for",
+    "no flag and no port"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28071,14 +29166,18 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "The storm came up against the wind, stopped alongside us, and waited.",
+   "by": "A Frosthold whaler"
+  }
  },
  {
   "id": "crimson-legion",
   "title": "The Crimson Legion",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The banners over Golgarma",
   "summary": "Fanatic ex-soldiers holed up in the Orka ruins of Golgarma, sworn to purge the isles, worshipping the horned, veiled Scarlet Mother.",
   "sections": [
    {
@@ -28125,7 +29224,7 @@
   "title": "The Free Tide",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The sea belongs to no one",
   "summary": "Piracy with a creed: the sea belongs to no one. The Last Smile is gathering the remnants of Blackheart's armada into something like a pirate nation.",
   "sections": [
    {
@@ -28168,25 +29267,23 @@
   "title": "Grogar the Relentless",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "One banner for every orc at sea",
   "summary": "Captain of the Warbringer. Bounty: 700 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Grogar the Relentless, captain of the Warbringer, is on the Council's Most Wanted poster for 700 Anchors.",
-     "What the docks say:",
-     "He survived a duel with a kraken and wears its eye as a trophy.",
-     "His war cries carry over the worst storms.",
-     "He means to unite every orc pirate under his banner."
+     "Grogar the Relentless commands the *Warbringer* and wears a great eye on a cord around his neck. He is worth 700 Anchors.",
+     "He means to gather every orc crew on the sea under one banner, and Harrow Mane, who wants the same crews, is in his way."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Grogar the Relentless: he survived a duel with a kraken and wears its eye as a trophy.” (the docks, about the Most Wanted)",
-     "“Grogar the Relentless: his war cries carry over the worst storms.” (the docks, about the Most Wanted)",
-     "“Grogar the Relentless: he means to unite every orc pirate under his banner.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "He survived a duel with a kraken and wears its eye as a trophy.",
+     "His war cries carry over the worst storms.",
+     "He means to unite every orc pirate under his banner."
     ]
    }
   ],
@@ -28198,6 +29295,14 @@
    [
     "Bounty",
     "700 Anchors"
+   ],
+   [
+    "Crew",
+    "orc reavers"
+   ],
+   [
+    "Sails for",
+    "his own banner"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28205,30 +29310,33 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "You hear him before you see the ship. Then you wish you had only heard him.",
+   "by": "An Armada lookout"
+  }
  },
  {
   "id": "hrothgar-icevein",
   "title": "Hrothgar Icevein",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The unpainted exile",
   "summary": "Captain of The Frozen Crown. Bounty: 520 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Hrothgar Icevein, captain of The Frozen Crown, is on the Council's Most Wanted poster for 520 Anchors.",
-     "What the docks say:",
-     "His breath freezes a man where he stands.",
-     "He hunts the frost elves who exiled him."
+     "Hrothgar Icevein was cast out by his own warband, and *The Frozen Crown* is crewed by Frost Elves with bare faces. The Council prices him at 520 Anchors.",
+     "He raids the raiders. Whaling towns on the ice coast have been known to leave oil out for him."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Hrothgar Icevein: his breath freezes a man where he stands.” (the docks, about the Most Wanted)",
-     "“Hrothgar Icevein: he hunts the Frost Elves who exiled him.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "His breath freezes a man where he stands.",
+     "He hunts the Frost Elves who exiled him."
     ]
    }
   ],
@@ -28240,6 +29348,14 @@
    [
     "Bounty",
     "520 Anchors"
+   ],
+   [
+    "Crew",
+    "Frost Elves who refused the skull-paint"
+   ],
+   [
+    "Sails for",
+    "nobody"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28247,32 +29363,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "Bare faces, every one of them. I had never seen Frost Elves without the skull before. They let us go.",
+   "by": "A whaling-town elder"
+  }
  },
  {
   "id": "iceblade-twins",
   "title": "The Iceblade Twins",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "A road of ice in warm water",
   "summary": "Captain of the Frostfang. Bounty: 800 Anchors each.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "The Iceblade Twins, captain of the Frostfang, is on the Council's Most Wanted poster for 800 Anchors each.",
-     "What the docks say:",
-     "They freeze an enemy's blood with a look.",
-     "Their ship sails on a road of ice, even in warm water.",
-     "They stole the crown of winter."
+     "The Iceblade Twins are Frost Elves, a brother and a sister, and the Council prices them at 800 Anchors each. Their ship is the *Frostfang*, and cold travels with it into waters that have never seen ice.",
+     "What they take turns up for sale at Varan Port."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“The Iceblade Twins: they freeze an enemy's blood with a look.” (the docks, about the Most Wanted)",
-     "“The Iceblade Twins: their ship sails on a road of ice, even in warm water.” (the docks, about the Most Wanted)",
-     "“The Iceblade Twins: they stole the Crown of Winter.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "They freeze an enemy's blood with a look.",
+     "Their ship sails on a road of ice, even in warm water.",
+     "They stole the Crown of Winter."
     ]
    }
   ],
@@ -28284,6 +29402,14 @@
    [
     "Bounty",
     "800 Anchors each"
+   ],
+   [
+    "Crew",
+    "Frost Elves and Expanse sealers"
+   ],
+   [
+    "Sails for",
+    "nobody"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28291,32 +29417,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "The water froze under us in high summer, off Southhaven. Then they walked over.",
+   "by": "A sugar-barque’s mate"
+  }
  },
  {
   "id": "kaida-dragonfire",
   "title": "Kaida Dragonfire",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "Scourge of Imperial shipping",
   "summary": "Captain of The Dragon's Fury. Bounty: 800 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Kaida Dragonfire, captain of The Dragon's Fury, is on the Council's Most Wanted poster for 800 Anchors.",
-     "What the docks say:",
-     "Her scales turn steel.",
-     "She breathes fire.",
-     "She can smell a ship over the horizon."
+     "Kaida Dragonfire is a dragonborn out of Assios, and *The Dragon’s Fury* is red and gold with dragons carved at bow and stern. The Council offers 800 Anchors.",
+     "She hunts Imperial ships before any other prize, and finds them when nobody else can."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Kaida Dragonfire: her scales turn steel.” (the docks, about the Most Wanted)",
-     "“Kaida Dragonfire: she breathes fire.” (the docks, about the Most Wanted)",
-     "“Kaida Dragonfire: she can smell a ship over the horizon.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "Her scales turn steel.",
+     "She breathes fire.",
+     "She can smell a ship over the horizon."
     ]
    }
   ],
@@ -28328,6 +29456,14 @@
    [
     "Bounty",
     "800 Anchors"
+   ],
+   [
+    "Crew",
+    "dragonborn and lizardfolk"
+   ],
+   [
+    "Sails for",
+    "the Free Tide"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28335,32 +29471,33 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "She let our barque pass. The Imperial trader behind us, she burned to the waterline.",
+   "by": "A Greyhaven skipper"
+  }
  },
  {
   "id": "lirelai-the-siren",
   "title": "Lirelai the Siren",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The voice that calms the storm",
   "summary": "Captain of The Enchanter. Bounty: 600 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Lirelai the Siren, captain of The Enchanter, is on the Council's Most Wanted poster for 600 Anchors.",
-     "What the docks say:",
-     "Her voice can calm the wildest storm.",
-     "A sea dragon saved her as a child, and she speaks its tongue.",
-     "She owns a mirror that shows distant shores."
+     "Lirelai the Siren sails *The Enchanter* with a crew that plays as well as it smuggles. She is worth 600 Anchors, and half the harbor taverns know her songs without knowing whose they are."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Lirelai the Siren: her voice can calm the wildest storm.” (the docks, about the Most Wanted)",
-     "“Lirelai the Siren: a sea dragon saved her as a child, and she speaks its tongue.” (the docks, about the Most Wanted)",
-     "“Lirelai the Siren: she owns a mirror that shows distant shores.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "Her voice can calm the wildest storm.",
+     "A sea dragon saved her as a child, and she speaks its tongue.",
+     "She owns a mirror that shows distant shores."
     ]
    }
   ],
@@ -28372,6 +29509,14 @@
    [
     "Bounty",
     "600 Anchors"
+   ],
+   [
+    "Crew",
+    "musicians and smugglers"
+   ],
+   [
+    "Sails for",
+    "nobody"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28379,32 +29524,34 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "The squall dropped as if someone had shushed it. Then we heard who.",
+   "by": "A fishing skipper"
+  }
  },
  {
   "id": "morga-stormdrum",
   "title": "Morga Stormdrum",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The drum that calls the weather",
   "summary": "Captain of The Tempest Wreaker. Bounty: 800 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Morga Stormdrum, captain of The Tempest Wreaker, is on the Council's Most Wanted poster for 800 Anchors.",
-     "What the docks say:",
-     "Her shaman's drum calls the storms.",
-     "She speaks to the beasts of the sea and they obey.",
-     "Her eyes turn the color of a stormy sea when she is angry."
+     "Morga Stormdrum beats a great hide drum from the quarterdeck of *The Tempest Wreaker*, and the weather answers. She is worth 800 Anchors.",
+     "For two seasons she has kept moving, port to port, as if something were behind her."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Morga Stormdrum: her shaman's drum calls the storms.” (the docks, about the Most Wanted)",
-     "“Morga Stormdrum: she speaks to the beasts of the sea and they obey.” (the docks, about the Most Wanted)",
-     "“Morga Stormdrum: her eyes turn the color of a stormy sea when she is angry.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "Her shaman's drum calls the storms.",
+     "She speaks to the beasts of the sea and they obey.",
+     "Her eyes turn the color of a stormy sea when she is angry."
     ]
    }
   ],
@@ -28416,6 +29563,14 @@
    [
     "Bounty",
     "800 Anchors"
+   ],
+   [
+    "Crew",
+    "orcs, Galven, and storm-folk"
+   ],
+   [
+    "Sails for",
+    "nobody, though the Free Tide would welcome her"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28423,28 +29578,31 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "When you hear the drum, reef everything. You have about as long as it takes to say so.",
+   "by": "A Galven helmswoman"
+  }
  },
  {
   "id": "most-wanted",
   "title": "The Most Wanted",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The Council’s poster",
   "summary": "The Council's bounty poster, which hangs in every Lodge and customs-house. Bounties are paid by the Reckoners' Hall on proof.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The notice",
     "paragraphs": [
-     "By order of the Council of the Charted Isles. The following captains are wanted for piracy, murder, and crimes against the Charter. Bounties are paid by the Reckoners' Hall on proof, dead or alive, unless marked otherwise. Bring the captain, the ship, or the flag."
+     "By order of the Council of the Charted Isles. The following captains are wanted for piracy, murder, and crimes against the Charter. Bounties are paid by the Reckoners’ Hall on proof, dead or alive, unless marked otherwise. Bring the captain, the ship, or the flag."
     ]
    },
    {
-    "title": "At a glance",
-    "paragraphs": [
-     "And one ship that is on no poster: the Iron Swan, which answers to Titania."
-    ],
+    "title": "The poster",
+    "paragraphs": [],
     "table": {
+     "caption": "The Most Wanted, 175 EC",
      "headers": [
       "Captain",
       "Ship",
@@ -28452,7 +29610,7 @@
      ],
      "rows": [
       [
-       "Seren Blackheart, \"the Last Smile\"",
+       "Seren Blackheart, “the Last Smile”",
        "Dread Sovereign",
        "2,500 Anchors"
       ],
@@ -28467,12 +29625,12 @@
        "1,000 Anchors"
       ],
       [
-       "Azura Blackbeak, \"the Siren of the Seas\"",
-       "The Banshee's Call",
+       "Azura Blackbeak, “the Siren of the Seas”",
+       "The Banshee’s Call",
        "900 Anchors"
       ],
       [
-       "\"Red\" Mara",
+       "“Red” Mara",
        "The Red Vengeance",
        "900 Anchors"
       ],
@@ -28493,7 +29651,7 @@
       ],
       [
        "Kaida Dragonfire",
-       "The Dragon's Fury",
+       "The Dragon’s Fury",
        "800 Anchors"
       ],
       [
@@ -28517,8 +29675,8 @@
        "650 Anchors"
       ],
       [
-       "\"Silverfin\" Davin",
-       "The Ocean's Grace",
+       "“Silverfin” Davin",
+       "The Ocean’s Grace",
        "600 Anchors, alive only"
       ],
       [
@@ -28532,7 +29690,7 @@
        "600 Anchors"
       ],
       [
-       "\"Storm-Eye\" Jorvik",
+       "“Storm-Eye” Jorvik",
        "The Stormcutter",
        "560 Anchors"
       ],
@@ -28542,8 +29700,8 @@
        "560 Anchors"
       ],
       [
-       "\"Painted\" Cora",
-       "The Painter's Palette",
+       "“Painted” Cora",
+       "The Painter’s Palette",
        "520 Anchors"
       ],
       [
@@ -28551,9 +29709,14 @@
        "The Frozen Crown",
        "520 Anchors"
       ]
-     ],
-     "caption": ""
+     ]
     }
+   },
+   {
+    "title": "The ship on no poster",
+    "paragraphs": [
+     "Every sailor in the islands has heard of the Iron Swan: a ship of solid metal with no sails, pouring black smoke from its stacks and moving against the wind. It answers to a woman called Titania, and no Council has ever dared to post a price on her."
+    ]
    }
   ],
   "facts": [],
@@ -28575,7 +29738,7 @@
   "title": "The Quiet Auction",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "A black pearl in your cup",
   "summary": "A floating black-market auction of relics and drowned wonders, by invitation only, never once raided. The invitation is a black pearl dropped in your cup.",
   "sections": [
    {
@@ -28592,7 +29755,7 @@
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The Quiet Auction: a floating black-market auction of relics and drowned wonders, by invitation only, never once raided.” (common talk)"
+     "“The Hushmaster has sold the same drowned crown three times, to three buyers, and none of them has complained.” (a Varan Port fence)"
     ]
    }
   ],
@@ -28619,7 +29782,7 @@
   "title": "The Returned Crown and the Tollmen",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "Pamphlets in Ironfort, tolls on the sea-road",
   "summary": "In the north: monarchists who would invite the Imperium back on terms, and a veteran racket on the sea-road.",
   "sections": [
    {
@@ -28645,25 +29808,23 @@
   "title": "Seren Blackheart, \"the Last Smile\"",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "Queen of the Free Tide",
   "summary": "Captain of the Dread Sovereign. Bounty: 2,500 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Seren Blackheart, \"the Last Smile\", captain of the Dread Sovereign, is on the Council's Most Wanted poster for 2,500 Anchors.",
-     "What the docks say:",
-     "Her father's ghost guides her in battle.",
-     "She knows where the kraken's lair lies.",
-     "A sea witch's pact gives her unnatural skill."
+     "Seren Blackheart is the daughter of Admiral Blackheart, who died at the Kraken’s Maw, and the highest price on the poster: 2,500 Anchors. Her flag is a pale grinning crescent on black.",
+     "She is gathering what is left of her father’s armada into something like a pirate nation. Her flagship is the *Dread Sovereign*, which old sailors swear went down with the admiral."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Seren Blackheart: her father's ghost guides her in battle.” (the docks, about the Most Wanted)",
-     "“Seren Blackheart: she knows where the Kraken's Lair lies.” (the docks, about the Most Wanted)",
-     "“Seren Blackheart: a sea witch's pact gives her unnatural skill.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "Her father's ghost guides her in battle.",
+     "She knows where the Kraken's Lair lies.",
+     "A sea witch's pact gives her unnatural skill."
     ]
    }
   ],
@@ -28675,6 +29836,14 @@
    [
     "Bounty",
     "2,500 Anchors"
+   ],
+   [
+    "Crew",
+    "the core of the Free Tide’s fleet"
+   ],
+   [
+    "Sails for",
+    "the Free Tide, which she leads"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28684,32 +29853,34 @@
    "most-wanted",
    "coins-and-prices",
    "talk-of-175-ec"
-  ]
+  ],
+  "epigraph": {
+   "quote": "They follow her gladly. That is the part the Council can’t put a price on.",
+   "by": "A Hollowkey harbor hand"
+  }
  },
  {
   "id": "siroc-the-swift",
   "title": "Siroc the Swift",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The fastest hull in the islands",
   "summary": "Captain of The Wind Dancer. Bounty: 900 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Siroc the Swift, captain of The Wind Dancer, is on the Council's Most Wanted poster for 900 Anchors.",
-     "What the docks say:",
-     "He can outrun the wind and vanish into thin air.",
-     "He carries an ancient elven artifact that commands the winds.",
-     "He has escaped the armada more than a dozen times."
+     "Nothing afloat has caught *The Wind Dancer*. Siroc the Swift is priced at 900 Anchors, most of it for the embarrassment: he fills his sails in a dead calm and is gone.",
+     "He takes little and harms few. The Armada wants him anyway."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Siroc the Swift: he can outrun the wind and vanish into thin air.” (the docks, about the Most Wanted)",
-     "“Siroc the Swift: he carries an ancient elven artifact that commands the winds.” (the docks, about the Most Wanted)",
-     "“Siroc the Swift: he has escaped the Armada more than a dozen times.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "He can outrun the wind and vanish into thin air.",
+     "He carries an ancient elven artifact that commands the winds.",
+     "He has escaped the Armada more than a dozen times."
     ]
    }
   ],
@@ -28721,6 +29892,14 @@
    [
     "Bounty",
     "900 Anchors"
+   ],
+   [
+    "Crew",
+    "a small, quick crew that likes speed better than loot"
+   ],
+   [
+    "Sails for",
+    "himself"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28728,14 +29907,18 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "We had the weather gauge, twice his sail, and a clean hull. He waved.",
+   "by": "An Armada lieutenant"
+  }
  },
  {
   "id": "southern-movements",
   "title": "The Southern Movements",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "Freedom-fighters or criminals",
   "summary": "The Southern Rebels, the Reclaimers, and the Chainbreakers: freedom-fighters or criminals, depending on who you ask.",
   "sections": [
    {
@@ -28775,25 +29958,22 @@
   "title": "Theodora Nightshade",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "No lock has held her",
   "summary": "Captain of The Nightingale. Bounty: 650 Anchors.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "On the poster",
     "paragraphs": [
-     "Theodora Nightshade, captain of The Nightingale, is on the Council's Most Wanted poster for 650 Anchors.",
-     "What the docks say:",
-     "She keeps a collection of every poison in the islands.",
-     "She has slipped in and out of the reckoners' hall.",
-     "No lock has ever held her."
+     "Theodora Nightshade’s *Nightingale* is sleek, fast, and rarely the reason she is wanted. She is a thief and a poisoner first and a sea-captain second, and the Council will pay 650 Anchors for her."
     ]
    },
    {
-    "title": "Rumors",
-    "paragraphs": [
-     "“Theodora Nightshade: she keeps a collection of every poison in the islands.” (the docks, about the Most Wanted)",
-     "“Theodora Nightshade: she has slipped in and out of the Reckoners' Hall.” (the docks, about the Most Wanted)",
-     "“Theodora Nightshade: no lock has ever held her.” (the docks, about the Most Wanted)"
+    "title": "What the docks say",
+    "paragraphs": [],
+    "list": [
+     "She keeps a collection of every poison in the islands.",
+     "She has slipped in and out of the Reckoners' Hall.",
+     "No lock has ever held her."
     ]
    }
   ],
@@ -28805,6 +29985,14 @@
    [
     "Bounty",
     "650 Anchors"
+   ],
+   [
+    "Crew",
+    "halflings and humans"
+   ],
+   [
+    "Sails for",
+    "the Undertow, the docks assume"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -28812,14 +30000,18 @@
   "related": [
    "most-wanted",
    "coins-and-prices"
-  ]
+  ],
+  "epigraph": {
+   "quote": "She was in the vault, she was out of the vault, and the geese never made a sound.",
+   "by": "A Reckoners’ Hall guard"
+  }
  },
  {
   "id": "undertow",
   "title": "The Undertow",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The current under every harbor",
   "summary": "Not a gang but a current: the smugglers' web that moves what the harbors won't. Find it by the turned hook and ask for Aunt Brine.",
   "sections": [
    {
@@ -28863,9 +30055,7 @@
    {
     "title": "Rumors",
     "paragraphs": [
-     "“A blackened copper Bit on a dead man's tongue means one thing in the Undertow: don't ask.” (heard in the Central Heartland)",
-     "“The Undertow: the smuggler's web that moves what the harbors won't. Everyone has a cousin who knows someone.” (common talk)",
-     "“Captain Umbrel: he stole an invisible cloak from the Skein.” (the docks, about the Most Wanted)"
+     "“A blackened copper Bit on a dead man's tongue means one thing in the Undertow: don't ask.” (heard in the Central Heartland)"
     ]
    }
   ],
@@ -31112,7 +32302,7 @@
   "title": "Harrow Mane",
   "category": "outlaws",
   "region": "The Sea",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "Appetite under no flag",
   "summary": "The reaver-lord of the wolf-pack crews too brutal even for the Last Smile.",
   "sections": [
    {
@@ -31612,7 +32802,7 @@
   "title": "\"Old Knife\" Petra Sallow",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "Outlaws of the islands",
+  "subtitle": "The Hunters’ shame",
   "summary": "Leader of the Flensers: badge-stripped ex-Hunters turned poachers, whom no decent Lodge will name.",
   "sections": [
    {
