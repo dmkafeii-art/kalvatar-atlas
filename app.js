@@ -252,6 +252,7 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
+ 'pyraxis-the-unbowed-flame': ['pyraxis-aoifel-turn-v1', 'A challenge at the Turn', 'Un reto durante el relevo', 'Pyraxis reacts to one of Aoifel’s ridiculous challenges at the handover of the Turn.', 'Pyraxis reacciona a uno de los retos ridículos de Aoifel durante el relevo del Turn.'],
  'aoifel-the-green-laugh': ['aoifel-wildflower-bed', 'A bed of wildflowers', 'Una cama de flores silvestres', 'Aoifel stretches as she wakes among the wildflowers of the Laughing Garden.', 'Aoifel se estira al despertar entre las flores silvestres del Jardín Risueño.'],
  'morthryn-the-pale-empress-of-air-and-ending': ['morthryn-frozen-balcony', 'The frozen balcony', 'El balcón helado', 'Morthryn holds a letter on the frost-covered balcony of the Pale Hall, barefoot and barehanded.', 'Morthryn sostiene una carta en el balcón escarchado del Salón Pálido, descalza y con las manos desnudas.'],
  'hunters-citadel': ['hunters-citadel-goldwind-falls', 'Above the Goldwind Falls', 'Sobre las cascadas de Goldwind', 'The Hunters’ Citadel rises above the cliffs and waterfalls of Goldwind.', 'La Ciudadela de los Cazadores se alza sobre los acantilados y las cascadas de Goldwind.'],
