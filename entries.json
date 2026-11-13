@@ -3660,7 +3660,8 @@
    "king-tide",
    "faewild",
    "kalvatar",
-   "arbiters"
+   "arbiters",
+   "still-days"
   ]
  },
  {
@@ -3730,7 +3731,10 @@
    "calendar",
    "faewild",
    "savage-lords",
-   "gilded-shallows"
+   "gilded-shallows",
+   "veil",
+   "thin-places",
+   "still-days"
   ]
  },
  {
@@ -4389,7 +4393,10 @@
    "house-caelvaron",
    "exodus-and-the-landing",
    "orka",
-   "daemons"
+   "daemons",
+   "veil",
+   "thin-places",
+   "still-days"
   ]
  },
  {
@@ -7334,7 +7341,10 @@
    "faewild",
    "jakupur",
    "small-ways",
-   "fae"
+   "fae",
+   "veil",
+   "thin-places",
+   "still-days"
   ],
   "illustration": {
    "src": "assets/creatures/veil-butterfly-v1-960.webp",
@@ -21468,7 +21478,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk9ud2VuLCB0aGUgRmlyc3QgQmxvb20uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZ2F2ZSBoZXIgbGlmZSB0byByYWlzZSB0aGUgVmVpbC4gQW9pZmVsIGlzIHRoZSBzZWNvbmQgUXVlZW4gb2YgU3ByaW5nLCBhbmQgd2FzIGNob3NlbiBiZWNhdXNlIHNoZSBsYXVnaGVkIGF0IHRoZSBmdW5lcmFsLCB3aGljaCBpcyB3aGF0IE9ud2VuIGhhZCBhc2tlZCBmb3IuIiwgIioqSG93IGl0IGJlZ2FuLioqIEF0IGEgVGhhdywgaGFuZGluZyBvdmVyIHRoZSBUdXJuLCBBb2lmZWwgbG9va2VkIGF0IE1vcnRocnluIGFuZCB0b2xkIGhlciBzaGUgd2FzIHRoZSBtb3N0IGJlYXV0aWZ1bCB0aGluZyBzaGUgaGFkIGV2ZXIgc2Vlbi4gU2hlIHNhaWQgaXQgaW4gYWxsIGlubm9jZW5jZS4gVGhlIFBhbGUgRW1wcmVzcyB3ZW50IHBpbmssIGNvdWxkIG5vdCBmaW5kIGEgd29yZCwgYW5kIG5lYXJseSBkcm9wcGVkIHRoZSB5ZWFyLiBBb2lmZWwgbGF1Z2hlZCB1bnRpbCBzaGUgY291bGQgbm90IHN0YW5kLCBhbmQgYnkgdGhlIHRpbWUgc2hlIHN0b3BwZWQgc2hlIHdhcyBsb3N0LiIsICIqKkFvaWZlbC4qKiBTaGUgZmFsbHMgaW4gbG92ZSB3aXRoIGFueW9uZSB3aG8gbWFrZXMgaGVyIGxhdWdoLCBhbmQgaXQgYWx3YXlzIHBhc3Nlcy4gVGhpcyBvbmUgaGFzIG5vdC4gSXQgaXMgdGhlIG9ubHkgbG92ZSBzaGUgaGFzIHRoYXQgc3RheXMsIGFuZCBzaGUgZGV0ZXN0cyBpdCwgYmVjYXVzZSBzaGUgY2FuJ3Qga2VlcCBNb3J0aHJ5biwgYW5kIGJlY2F1c2UgaXQgcmVtaW5kcyBoZXIgdGhhdCBzaGUgaXMgYSBRdWVlbiB3aXRoIGEgc2Vhc29uIHRvIGNhcnJ5LiIsICIqKlRoZSBoYW5kb3ZlciBpcyBhbGwgdGhleSBoYXZlLioqIFNvbWUgeWVhcnMgTW9ydGhyeW4gZG9lcyBub3QgbGV0IGdvIGF0IG9uY2UsIGFuZCB3aW50ZXIgcnVucyBsb25nLiBTb21lIHllYXJzIEFvaWZlbCBjb21lcyBmb3IgaXQgZWFybHksIGFuZCBzcHJpbmcgY29tZXMgZWFybHkuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqVGhlIGNvdXJ0c2hpcHMgd2VyZSBwb2xpY3kuKiogQWZ0ZXIgdGhlIHdhciBoaXMgd2FzIHRoZSBvbmx5IHBlYXJsIGxlZnQsIGFuZCBoZSBjYXJyaWVkIGl0IGZyb20gQ291cnQgdG8gQ291cnQsIGZvdXIgdGltZXMgYSB5ZWFyLiBIZSBjb3VydGVkIGVhY2ggb2YgdGhlIG90aGVyIGZvdXIgYXMgaGUgd2VudCwgdG8gYmluZCB0aGVpciBDb3VydHMgdG8gaGlzLCBhbmQgaGUgd2FzIHRoZSBmaXJzdCBsb3ZlciBvZiBldmVyeSBvbmUgb2YgdGhlbS4gRWFjaCBiZWxpZXZlZCBzaGUsIG9yIGhlLCB3YXMgdGhlIG9ubHkgb25lLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk9ud2VuLCB0aGUgRmlyc3QgQmxvb20uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZ2F2ZSBoZXIgbGlmZSB0byByYWlzZSB0aGUgVmVpbC4gQW9pZmVsIGlzIHRoZSBzZWNvbmQgUXVlZW4gb2YgU3ByaW5nLCBhbmQgd2FzIGNob3NlbiBiZWNhdXNlIHNoZSBsYXVnaGVkIGF0IHRoZSBmdW5lcmFsLCB3aGljaCBpcyB3aGF0IE9ud2VuIGhhZCBhc2tlZCBmb3IuIiwgIioqSG93IGl0IGJlZ2FuLioqIEF0IGEgVGhhdywgaGFuZGluZyBvdmVyIHRoZSBUdXJuLCBBb2lmZWwgbG9va2VkIGF0IE1vcnRocnluIGFuZCB0b2xkIGhlciBzaGUgd2FzIHRoZSBtb3N0IGJlYXV0aWZ1bCB0aGluZyBzaGUgaGFkIGV2ZXIgc2Vlbi4gU2hlIHNhaWQgaXQgaW4gYWxsIGlubm9jZW5jZS4gVGhlIFBhbGUgRW1wcmVzcyB3ZW50IHBpbmssIGNvdWxkIG5vdCBmaW5kIGEgd29yZCwgYW5kIG5lYXJseSBkcm9wcGVkIHRoZSB5ZWFyLiBBb2lmZWwgbGF1Z2hlZCB1bnRpbCBzaGUgY291bGQgbm90IHN0YW5kLCBhbmQgYnkgdGhlIHRpbWUgc2hlIHN0b3BwZWQgc2hlIHdhcyBsb3N0LiIsICIqKkFvaWZlbC4qKiBTaGUgZmFsbHMgaW4gbG92ZSB3aXRoIGFueW9uZSB3aG8gbWFrZXMgaGVyIGxhdWdoLCBhbmQgaXQgYWx3YXlzIHBhc3Nlcy4gVGhpcyBvbmUgaGFzIG5vdC4gSXQgaXMgdGhlIG9ubHkgbG92ZSBzaGUgaGFzIHRoYXQgc3RheXMsIGFuZCBzaGUgZGV0ZXN0cyBpdCwgYmVjYXVzZSBzaGUgY2FuJ3Qga2VlcCBNb3J0aHJ5biwgYW5kIGJlY2F1c2UgaXQgcmVtaW5kcyBoZXIgdGhhdCBzaGUgaXMgYSBRdWVlbiB3aXRoIGEgc2Vhc29uIHRvIGNhcnJ5LiIsICIqKlRoZSBoYW5kb3ZlciBpcyBhbGwgdGhleSBoYXZlLioqIFNvbWUgeWVhcnMgTW9ydGhyeW4gZG9lcyBub3QgbGV0IGdvIGF0IG9uY2UsIGFuZCB3aW50ZXIgcnVucyBsb25nLiBTb21lIHllYXJzIEFvaWZlbCBjb21lcyBmb3IgaXQgZWFybHksIGFuZCBzcHJpbmcgY29tZXMgZWFybHkuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqVGhlIGNvdXJ0c2hpcHMgd2VyZSBwb2xpY3kuKiogQWZ0ZXIgdGhlIHdhciBoaXMgd2FzIHRoZSBvbmx5IHBlYXJsIGxlZnQsIGFuZCBoZSBjYXJyaWVkIGl0IGZyb20gQ291cnQgdG8gQ291cnQsIGZvdXIgdGltZXMgYSB5ZWFyLiBIZSBjb3VydGVkIGVhY2ggb2YgdGhlIG90aGVyIGZvdXIgYXMgaGUgd2VudCwgdG8gYmluZCB0aGVpciBDb3VydHMgdG8gaGlzLCBhbmQgaGUgd2FzIHRoZSBmaXJzdCBsb3ZlciBvZiBldmVyeSBvbmUgb2YgdGhlbS4gRWFjaCBiZWxpZXZlZCBzaGUsIG9yIGhlLCB3YXMgdGhlIG9ubHkgb25lLiIsICIqKldoeSBBb2lmZWwgZ29lcyBiYXJlZm9vdC4qKiBTaGUga25vd3Mgd2hhdCB0aGUgVmVpbCBpcy4gU2hlIHdpbGwgbm90IHdhbGsgb24gaGVyIHByZWRlY2Vzc29yIHNob2QsIGFuZCBzaGUgd2lsbCBub3QgbGV0IGFueW9uZSBlbHNlIGRvIGl0IGVpdGhlci4iXX0="
    }
   ],
   "facts": [
@@ -26899,7 +26909,10 @@
    "unbound",
    "concord",
    "door-coins",
-   "fae"
+   "fae",
+   "veil",
+   "thin-places",
+   "still-days"
   ]
  },
  {
@@ -45047,7 +45060,10 @@
    "winter-court",
    "spring-court",
    "dream-eaters",
-   "faewild-politics"
+   "faewild-politics",
+   "veil",
+   "thin-places",
+   "still-days"
   ],
   "aliases": [
    "fae",
@@ -46241,7 +46257,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk9ud2VuLCB0aGUgRmlyc3QgQmxvb20uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZ2F2ZSBoZXIgbGlmZSB0byByYWlzZSB0aGUgVmVpbC4gQW9pZmVsIGlzIHRoZSBzZWNvbmQgUXVlZW4gb2YgU3ByaW5nLCBhbmQgd2FzIGNob3NlbiBiZWNhdXNlIHNoZSBsYXVnaGVkIGF0IHRoZSBmdW5lcmFsLCB3aGljaCBpcyB3aGF0IE9ud2VuIGhhZCBhc2tlZCBmb3IuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqQW9pZmVsLioqIFNoZSBmYWxscyBpbiBsb3ZlIHdpdGggYW55b25lIHdobyBtYWtlcyBoZXIgbGF1Z2gsIGFuZCBpdCBhbHdheXMgcGFzc2VzLiBUaGlzIG9uZSBoYXMgbm90LiBJdCBpcyB0aGUgb25seSBsb3ZlIHNoZSBoYXMgdGhhdCBzdGF5cywgYW5kIHNoZSBkZXRlc3RzIGl0LCBiZWNhdXNlIHNoZSBjYW4ndCBrZWVwIE1vcnRocnluLCBhbmQgYmVjYXVzZSBpdCByZW1pbmRzIGhlciB0aGF0IHNoZSBpcyBhIFF1ZWVuIHdpdGggYSBzZWFzb24gdG8gY2FycnkuIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk9ud2VuLCB0aGUgRmlyc3QgQmxvb20uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZ2F2ZSBoZXIgbGlmZSB0byByYWlzZSB0aGUgVmVpbC4gQW9pZmVsIGlzIHRoZSBzZWNvbmQgUXVlZW4gb2YgU3ByaW5nLCBhbmQgd2FzIGNob3NlbiBiZWNhdXNlIHNoZSBsYXVnaGVkIGF0IHRoZSBmdW5lcmFsLCB3aGljaCBpcyB3aGF0IE9ud2VuIGhhZCBhc2tlZCBmb3IuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqQW9pZmVsLioqIFNoZSBmYWxscyBpbiBsb3ZlIHdpdGggYW55b25lIHdobyBtYWtlcyBoZXIgbGF1Z2gsIGFuZCBpdCBhbHdheXMgcGFzc2VzLiBUaGlzIG9uZSBoYXMgbm90LiBJdCBpcyB0aGUgb25seSBsb3ZlIHNoZSBoYXMgdGhhdCBzdGF5cywgYW5kIHNoZSBkZXRlc3RzIGl0LCBiZWNhdXNlIHNoZSBjYW4ndCBrZWVwIE1vcnRocnluLCBhbmQgYmVjYXVzZSBpdCByZW1pbmRzIGhlciB0aGF0IHNoZSBpcyBhIFF1ZWVuIHdpdGggYSBzZWFzb24gdG8gY2FycnkuIiwgIioqV2h5IEFvaWZlbCBnb2VzIGJhcmVmb290LioqIFNoZSBrbm93cyB3aGF0IHRoZSBWZWlsIGlzLiBTaGUgd2lsbCBub3Qgd2FsayBvbiBoZXIgcHJlZGVjZXNzb3Igc2hvZCwgYW5kIHNoZSB3aWxsIG5vdCBsZXQgYW55b25lIGVsc2UgZG8gaXQgZWl0aGVyLiIsICIqKlRoZSBWZWlsIGlzIHN0aWxsIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIHNvIG11Y2ggYXMgYmVjb21lIGl0LiBJdCBpcyB0aGlubmVzdCBhdCB0aGUgS2luZyBUaWRlIGFuZCBvbiB0aGUgU3RpbGwgRGF5cyBiZWNhdXNlIHRoYXQgaXMgd2hlbiBzaGUgaXMgbW9zdCB0aXJlZC4iXX0="
    }
   ],
   "related": [
@@ -47151,6 +47167,527 @@
    "mask-curse",
    "daemon-pact",
    "daemon-pacts"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "veil",
+  "title": "The Veil",
+  "category": "place",
+  "region": "Beyond the Veil",
+  "subtitle": "The border between the waking world and the Faewild",
+  "summary": "The Veil is the line between the islands and the Faewild. A Queen of Spring made it with her life, to keep the daemons out. It holds almost everywhere, and the places where it does not are the most watched ground in the islands.",
+  "epigraph": {
+   "quote": "Every door is a question. I stand in the frame and decide who may ask it.",
+   "by": "A Warden of the Veil, at a sealed doorway in Silverport"
+  },
+  "facts": [
+   [
+    "What it is",
+    "the border of the Faewild"
+   ],
+   [
+    "Made by",
+    "Onwen, first Queen of Spring"
+   ],
+   [
+    "Thin at",
+    "thin places, the King Tide, the Still Days"
+   ],
+   [
+    "Kept by",
+    "the Wardens of the Veil, in Varneth’s name"
+   ],
+   [
+    "Torn places sealed by",
+    "the Sacred Flame of Jakupur"
+   ],
+   [
+    "Across it",
+    "Krysta is cold, and time runs differently"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "Between the waking world and the Faewild there is a border, and the islands call it the Veil. It can’t be seen. In most places it can’t be found at all: a traveler could walk the length of the Heartland and never come near the other side.",
+     "It was not always there. The old tales say the first Queen of Spring raised it with her own life, at the end of the Orka War, so that no daemon could ever again walk into the Faewild as through an open door."
+    ]
+   },
+   {
+    "title": "What it stops, and what it does not",
+    "paragraphs": [],
+    "list": [
+     "It stops daemons, armies, and a mortal on foot.",
+     "It does not stop the fae. They cross at the thin places, at the King Tide, and on the Still Days.",
+     "It does not stop a sleeper, on the wrong night, in the wrong place.",
+     "Worked iron limits where and how a fae may cross it, which is why a horseshoe hangs over so many doors.",
+     "The one with no Court walks through it as if it were not there."
+    ]
+   },
+   {
+    "title": "Across it",
+    "paragraphs": [
+     "Krysta carried across goes cold, and a spell held in a stone can’t be loosed until the stone comes home. Time is not kept the same way. A mortal who spends one night across the Veil may come back the same evening, or a season later, or find the children grown."
+    ]
+   },
+   {
+    "title": "Thin places and rifts",
+    "paragraphs": [
+     "Where the Veil is worn, there is a thin place. Thin places are old, mostly quiet, and known to the people who live near them. They are watched.",
+     "Where the Veil is torn, there is a rift. Rifts are wounds. Many were made by the daemons of the Orka, and what comes through a rift is not fae. Rifts are sealed, and the Sacred Flame of Jakupur exists to do it."
+    ]
+   },
+   {
+    "title": "The Wardens of the Veil",
+    "paragraphs": [
+     "The priests of Varneth, the Threshold Warden, keep the line. Every border-town has a ward-house. A Warden seals doors that open where they should not, renews the wards each Still Day, blesses every new kalashtar at a doorway, and keeps the roll of the dreamers in the Council ports.",
+     "On Okram 2nd, the Door-Walk, every household walks its own boundary at dusk, touches each door, and says its name aloud, so the Warden knows who is inside."
+    ]
+   },
+   {
+    "title": "Signs that it is thin",
+    "paragraphs": [],
+    "list": [
+     "Veil butterflies turn clear as water.",
+     "A bell rings with nobody near it.",
+     "You hear your name, in a voice you know, from the wrong direction.",
+     "The season is wrong inside a space a few paces wide.",
+     "Dogs will not cross a line you can’t see."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A ward-house has been found empty, the Warden’s lamp still burning and every door in the village standing open.",
+     "A sealed door in an old town has begun to knock back.",
+     "Someone came home from one night across the Veil and found eleven years gone. The person who owes them money is delighted.",
+     "The butterflies in every jar in a border-town went clear on the same night, and stayed that way."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The Veil is younger than the fae. The eldest of them remember walking where they liked.",
+     "A Warden asks your name before letting you through a warded door. It does not have to be your true one. It has to be the one you will answer to.",
+     "House Caelvaron keeps the only crossing in the islands that is left open on purpose."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“It’s getting thinner. The Wardens renew the wards every Still Day, and every year it takes them longer.” (a ward-house lamplighter)",
+     "“A Warden in Silverport sealed a door thirty years ago and has not left the street since. He says something on the other side knows his name now.” (a Silverport chandler)",
+     "“Spring’s Queen won’t wear shoes because of what the Veil is made of. That’s all the pixie would say.” (a Florian elder)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBWZWlsIGlzIHN0aWxsIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIHNvIG11Y2ggYXMgYmVjb21lIGl0LiBJdCBpcyB0aGlubmVzdCBhdCB0aGUgS2luZyBUaWRlIGFuZCBvbiB0aGUgU3RpbGwgRGF5cyBiZWNhdXNlIHRoYXQgaXMgd2hlbiBzaGUgaXMgbW9zdCB0aXJlZC4iLCAiKipXaHkgQW9pZmVsIGdvZXMgYmFyZWZvb3QuKiogU2hlIGtub3dzIHdoYXQgdGhlIFZlaWwgaXMuIFNoZSB3aWxsIG5vdCB3YWxrIG9uIGhlciBwcmVkZWNlc3NvciBzaG9kLCBhbmQgc2hlIHdpbGwgbm90IGxldCBhbnlvbmUgZWxzZSBkbyBpdCBlaXRoZXIuIiwgIioqVGhlIFVuYm91bmQgd2Fsa3MgdGhyb3VnaCBpdCoqIGJlY2F1c2UgaGUga25vd3MgaXRzIG5hbWUsIGFuZCBpdHMgbmFtZSBpcyBoZXJzLiIsICIqKldoeSBmYWUgZGVidHMgZmFsbCBkdWUgb24gdGhlIFN0aWxsIERheXMuKiogVGhlIGZpdmUgZGF5cyBiZWxvbmcgdG8gbm8gZ29kLCBzbyBubyBnb2QncyBsYXcgc3RhbmRzIGJldHdlZW4gYSBDb3VydCBhbmQgaXRzIGRlYnRvci4gVGhlIFdhcmRlbnMnIHdhcmRzIGFyZSBzd29ybiB0byBWYXJuZXRoLCBhbmQgZm9yIGZpdmUgZGF5cyBWYXJuZXRoIGlzIG5vdCBvbiBkdXR5LiBUaGV5IGhvbGQgb24gaGFiaXQuIl19"
+   }
+  ],
+  "related": [
+   "faewild",
+   "fae",
+   "thin-places",
+   "still-days",
+   "varneth-the-threshold-warden",
+   "veil-butterfly",
+   "king-tide",
+   "spring-court",
+   "jakupur",
+   "kalashtar",
+   "unbound",
+   "house-caelvaron"
+  ],
+  "aliases": [
+   "the Veil",
+   "Wardens of the Veil",
+   "Warden of the Veil",
+   "ward-house",
+   "ward-houses",
+   "rift",
+   "rifts",
+   "Door-Walk"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "thin-places",
+  "title": "Thin Places",
+  "category": "place",
+  "region": "All regions",
+  "subtitle": "Where the Veil is worn, and what not to do there",
+  "summary": "A thin place is a spot where the Veil between the islands and the Faewild has worn through: a ring of stones, a pool, a door that does not always open on the same room. Every district has one, and every grandmother knows where it is.",
+  "epigraph": {
+   "quote": "We don’t go up there. No, nothing happens. That’s why we don’t go up there.",
+   "by": "A shepherd of the eastern Heartland"
+  },
+  "facts": [
+   [
+    "What they are",
+    "worn spots in the Veil"
+   ],
+   [
+    "Found",
+    "in every region, most in the eastern Heartland and the Southern Wilds"
+   ],
+   [
+    "Open widest",
+    "at the King Tide and on the Still Days"
+   ],
+   [
+    "Kept by",
+    "the Wardens of the Veil, and the neighbors"
+   ],
+   [
+    "Told by",
+    "veil butterflies turning clear"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What a thin place is",
+    "paragraphs": [
+     "The Veil is not the same thickness everywhere. Where it has worn through, the Faewild and the waking world lie against each other like two pages, and things pass between them: a scent, a season, a sound, and sometimes a person.",
+     "Most thin places are old and quiet. Nothing has happened at them in living memory, which is exactly how the neighbors mean to keep it."
+    ]
+   },
+   {
+    "title": "Kinds of thin place",
+    "paragraphs": [],
+    "table": {
+     "caption": "How to know one",
+     "headers": [
+      "Kind",
+      "What it is like"
+     ],
+     "rows": [
+      [
+       "A ring of stones",
+       "The oldest kind. The grass inside is a different green, and nothing grazes it."
+      ],
+      [
+       "A pool or a spring",
+       "Still water that shows the wrong sky. Do not drink, and do not look for long."
+      ],
+      [
+       "A door",
+       "A doorway in a wood, a wall, or an old town, that does not always open on the same room. The wardens seal these first."
+      ],
+      [
+       "A crossroads",
+       "Three ways meet, and sometimes there is a fourth. Count the roads before you choose one."
+      ],
+      [
+       "A glen or a hollow",
+       "Lights drift there at dusk. Children are found in such places, and lost in them."
+      ],
+      [
+       "A scar",
+       "Ground where the daemons of the Orka tore through, and the Veil healed badly. Nothing fair comes through a scar."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The rules",
+    "paragraphs": [
+     "Every district has its own, and they come to much the same thing."
+    ],
+    "list": [
+     "Do not sleep there. On a King Tide night or a Still Day, a sleeper may wake up somewhere else.",
+     "Do not eat or drink anything you find there.",
+     "Do not answer if you are called by name.",
+     "Do not take anything away, and do not leave anything behind that you would mind being used.",
+     "If the veil butterflies have gone clear, leave.",
+     "If you must pass through, carry iron, and say out loud that you are only passing."
+    ]
+   },
+   {
+    "title": "What they are used for",
+    "paragraphs": [],
+    "list": [
+     "The fae cross at them, to trade, to collect, and to look.",
+     "A master who wants a tenant for a blade finishes the piece at one, and leaves the door open overnight.",
+     "Hedge-wives gather there, at noon, and never alone.",
+     "Lovers meet there, because nobody else will come. Some of the old families began that way.",
+     "People leave things there that they want taken."
+    ]
+   },
+   {
+    "title": "Known thin places",
+    "paragraphs": [],
+    "table": {
+     "caption": "A few the islands talk about",
+     "headers": [
+      "Place",
+      "Where",
+      "What is said"
+     ],
+     "rows": [
+      [
+       "The bell at the Stillgreen",
+       "The edge of the Stillgreen, Southern Wilds",
+       "A silver bell on a Pale post that rings by itself. The Tzolani Ring keeps it, and keeps people away from it."
+      ],
+      [
+       "The shut door of Silverport",
+       "The old quarter, Silverport",
+       "A doorway sealed by a Warden of the Veil, in a wall with nothing behind it. People have tried to walk through the wall beside it."
+      ],
+      [
+       "The border-towns",
+       "The eastern Heartland",
+       "The towns nearest the Faewild keep ward-houses of Varneth, and most can name a stone or a spring the children are kept away from."
+      ],
+      [
+       "The gate at Elyria",
+       "Elyria, Central Heartland",
+       "Where House Caelvaron’s High Elves go home, ten years in every hundred. It is the only crossing in the islands kept open on purpose."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A child has been leaving bread at the stones for a month. This morning there was something left in return.",
+     "A thin place that has been quiet for two hundred years has started keeping its own weather.",
+     "A smith paid the party to guard a workshop door overnight. The blade is warm in the morning, and so is something else in the room.",
+     "Two villages both claim the same spring. One of them wants it sealed."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Ask the locals where theirs is before you make camp. They will tell you, and they will watch where you pitch.",
+     "A jar of veil butterflies costs little and has saved more travelers than a sword.",
+     "If you wake up somewhere else, do not walk. Find a road, and wait to be found."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "A wedding where the butterflies go clear is a wedding where someone should ask the bride’s grandmother a question.",
+     "The grass inside a ring of stones stays green under snow.",
+     "Now and then a child is born fae-touched near a thin place. The family usually knows why."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a fourth road at a crossroads above Sunhold, some nights. A carter took it by mistake and was home before he left.” (a Heartland drover)",
+     "“The bell at the Stillgreen rang nine times last month. It has never rung more than three.” (a chant-keeper of the Tzolani Ring)",
+     "“Somebody has been sealing thin places that weren’t doing any harm. Not the Wardens. They want to know who.” (a ward-house clerk)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBWZWlsIGlzIHN0aWxsIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIHNvIG11Y2ggYXMgYmVjb21lIGl0LiBJdCBpcyB0aGlubmVzdCBhdCB0aGUgS2luZyBUaWRlIGFuZCBvbiB0aGUgU3RpbGwgRGF5cyBiZWNhdXNlIHRoYXQgaXMgd2hlbiBzaGUgaXMgbW9zdCB0aXJlZC4iLCAiKipTY2FycyBhcmUgZGlmZmVyZW50LioqIEEgdGhpbiBwbGFjZSB3b3JuIGJ5IHRpbWUgb3BlbnMgb24gdGhlIEZhZXdpbGQuIEEgc2NhciB0b3JuIGJ5IHRoZSBPcmthJ3MgZGFlbW9ucyBjYW4gb3BlbiBvbiB0aGUgRmFld2lsZCwgb24gdGhlIGRhZW1vbnMnIGNvdW50cnksIG9yIG9uIHRoZSBWb2lkLiJdfQ=="
+   }
+  ],
+  "related": [
+   "veil",
+   "faewild",
+   "fae",
+   "still-days",
+   "king-tide",
+   "veil-butterfly",
+   "varneth-the-threshold-warden",
+   "tenants",
+   "the-roam",
+   "house-caelvaron",
+   "silverport"
+  ],
+  "aliases": [
+   "thin place",
+   "thin places"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "still-days",
+  "title": "The Still Days",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "Five days that belong to no god",
+  "summary": "Between the last month and the first there are five days that no god keeps. Mortal debts stop, the courts close, the harbors are chained, and every bargain owed to the fae comes due.",
+  "epigraph": {
+   "quote": "Ten months to work, five Still Days to forgive.",
+   "by": "A Heartland almanac"
+  },
+  "facts": [
+   [
+    "When",
+    "the five days between Okram and Eo"
+   ],
+   [
+    "Season",
+    "deep winter, the Closed Water"
+   ],
+   [
+    "Kept by",
+    "no god"
+   ],
+   [
+    "Mortal debts",
+    "frozen"
+   ],
+   [
+    "Fae debts",
+    "due"
+   ],
+   [
+    "The Veil",
+    "thin"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Five days outside the year",
+    "paragraphs": [
+     "The Charter year has ten months of thirty-six days, each kept by a god. That leaves five days over, in the dead of winter, between Okram’s month and Eo’s. No god keeps them. Sailors say they were named for the Stillwater, the circle of sea where no wind blows.",
+     "The islands treat them as a held breath. Work stops. The harbors are chained. Families shut their doors and eat what they stored."
+    ]
+   },
+   {
+    "title": "The five days",
+    "paragraphs": [],
+    "table": {
+     "caption": "How the Still Days are kept",
+     "headers": [
+      "Day",
+      "Called",
+      "What is done"
+     ],
+     "rows": [
+      [
+       "First",
+       "The Shutting",
+       "Every household walks its doors and windows and renews its wards. Harbors chain their mouths. Whoever is inside at dusk is a guest until the days are over."
+      ],
+      [
+       "Second",
+       "The Counting",
+       "The year is reckoned: stores, debts, births, the dead. Nothing is collected. The Reckoners’ Hall closes its doors and opens its books."
+      ],
+      [
+       "Third",
+       "The Table",
+       "The feast of the year, eaten on what was stored. A place is laid for anyone who is not coming home."
+      ],
+      [
+       "Fourth",
+       "The Calling",
+       "The night the fae come to collect. Nobody opens a door after dusk, and nobody is blamed for what they pay."
+      ],
+      [
+       "Fifth",
+       "The Forgiving",
+       "Quarrels are ended before the new year. A grudge carried past this day is said to be carried for good."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "What holds, and what does not",
+    "paragraphs": [],
+    "list": [
+     "Mortal debts are frozen. No interest runs, no bailiff knocks, and the courts are closed.",
+     "Fae debts fall due. Anything owed to a Court is collected in these five days, wherever the debtor is.",
+     "No new bargain is struck. Anything agreed on a Still Day binds the way a fae bargain binds, to the letter and for good, so the islands shake hands before or after.",
+     "No ship sails by choice. It is deep winter, the Closed Water, and the harbors are chained.",
+     "The Cycle does not stop. The Still Days have their Coinsday and their Restday like any others.",
+     "A child born in the Still Days has no month-god. Such children are called door-children, and Varneth is said to watch them."
+    ]
+   },
+   {
+    "title": "The fae and the Still Days",
+    "paragraphs": [
+     "Because no god keeps these days, no god’s law stands between a Court of the Faewild and what it is owed. The Veil is thin, the thin places are open, and the collectors come: stewards of Autumn with their ledgers, most often, and now and then something quieter from Winter.",
+     "The fourth night is the Calling. Nobody opens a door after dusk. Whatever a household pays that night is not spoken of afterward, and nobody is blamed for it."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The party is snowed into an inn for all five days, with eleven strangers, and one of them is here to collect.",
+     "A merchant wants an agreement witnessed before midnight on the last day of Okram. The other party is late, on purpose.",
+     "Someone has been knocking on a village’s doors every Calling for forty years. This year a child opened one.",
+     "A ship came into a chained harbor on the third Still Day with nobody aboard and the table laid."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Shake hands before the Still Days or after them. Anything you agree to in between binds like a fae bargain.",
+     "It is the best time of the year to hide from a creditor, and the worst to hide from a Court.",
+     "A character born in the Still Days has no month-god. That is worth deciding on purpose."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The Reckoners’ Hall has never lent a Bit on a Still Day, and has never been asked twice by the same person.",
+     "A place is laid at the Table for anyone who is not coming home. In the morning the plate is taken out to the sea.",
+     "A clockmaker’s notes describe a watch that keeps time only during the Still Days. Nobody has found it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A door-child can see who’s collecting. My sister could. She stopped looking out of windows.” (a Greyhaven net-mender)",
+     "“There was a sixth Still Day once. One year only. The almanacs for that year are all missing the last page.” (a University archivist)",
+     "“A man in Sunhold shook on a horse-trade on the Counting. He has been delivering that horse for nineteen years.” (a Heartland drover)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoeSBmYWUgZGVidHMgZmFsbCBkdWUgb24gdGhlIFN0aWxsIERheXMuKiogVGhlIGZpdmUgZGF5cyBiZWxvbmcgdG8gbm8gZ29kLCBzbyBubyBnb2QncyBsYXcgc3RhbmRzIGJldHdlZW4gYSBDb3VydCBhbmQgaXRzIGRlYnRvci4gVGhlIFdhcmRlbnMnIHdhcmRzIGFyZSBzd29ybiB0byBWYXJuZXRoLCBhbmQgZm9yIGZpdmUgZGF5cyBWYXJuZXRoIGlzIG5vdCBvbiBkdXR5LiBUaGV5IGhvbGQgb24gaGFiaXQuIiwgIioqVGhlIFZlaWwgaXMgc3RpbGwgT253ZW4uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZGlkIG5vdCBkaWUgc28gbXVjaCBhcyBiZWNvbWUgaXQuIEl0IGlzIHRoaW5uZXN0IGF0IHRoZSBLaW5nIFRpZGUgYW5kIG9uIHRoZSBTdGlsbCBEYXlzIGJlY2F1c2UgdGhhdCBpcyB3aGVuIHNoZSBpcyBtb3N0IHRpcmVkLiJdfQ=="
+   }
+  ],
+  "related": [
+   "calendar",
+   "veil",
+   "thin-places",
+   "faewild",
+   "fae",
+   "autumn-court",
+   "winter-court",
+   "king-tide",
+   "reckoners-hall",
+   "stillwater",
+   "varneth-the-threshold-warden",
+   "tenants"
+  ],
+  "aliases": [
+   "Still Days",
+   "the Still Days",
+   "Still Day",
+   "door-child",
+   "door-children"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {

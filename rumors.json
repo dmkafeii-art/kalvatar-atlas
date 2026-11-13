@@ -2640,6 +2640,87 @@
   ]
  },
  {
+  "id": "rumor-veil-1",
+  "text": "It’s getting thinner. The Wardens renew the wards every Still Day, and every year it takes them longer.",
+  "heardAt": "heard from a ward-house lamplighter",
+  "region": "All regions",
+  "entries": [
+   "veil"
+  ]
+ },
+ {
+  "id": "rumor-veil-2",
+  "text": "A Warden in Silverport sealed a door thirty years ago and has not left the street since. He says something on the other side knows his name now.",
+  "heardAt": "heard from a Silverport chandler",
+  "region": "All regions",
+  "entries": [
+   "veil"
+  ]
+ },
+ {
+  "id": "rumor-veil-3",
+  "text": "Spring’s Queen won’t wear shoes because of what the Veil is made of. That’s all the pixie would say.",
+  "heardAt": "heard from a Florian elder",
+  "region": "All regions",
+  "entries": [
+   "veil"
+  ]
+ },
+ {
+  "id": "rumor-thin-places-1",
+  "text": "There’s a fourth road at a crossroads above Sunhold, some nights. A carter took it by mistake and was home before he left.",
+  "heardAt": "heard from a Heartland drover",
+  "region": "All regions",
+  "entries": [
+   "thin-places"
+  ]
+ },
+ {
+  "id": "rumor-thin-places-2",
+  "text": "The bell at the Stillgreen rang nine times last month. It has never rung more than three.",
+  "heardAt": "heard from a chant-keeper of the Tzolani Ring",
+  "region": "All regions",
+  "entries": [
+   "thin-places"
+  ]
+ },
+ {
+  "id": "rumor-thin-places-3",
+  "text": "Somebody has been sealing thin places that weren’t doing any harm. Not the Wardens. They want to know who.",
+  "heardAt": "heard from a ward-house clerk",
+  "region": "All regions",
+  "entries": [
+   "thin-places"
+  ]
+ },
+ {
+  "id": "rumor-still-days-1",
+  "text": "A door-child can see who’s collecting. My sister could. She stopped looking out of windows.",
+  "heardAt": "heard from a Greyhaven net-mender",
+  "region": "All regions",
+  "entries": [
+   "still-days"
+  ]
+ },
+ {
+  "id": "rumor-still-days-2",
+  "text": "There was a sixth Still Day once. One year only. The almanacs for that year are all missing the last page.",
+  "heardAt": "heard from a University archivist",
+  "region": "All regions",
+  "entries": [
+   "still-days"
+  ]
+ },
+ {
+  "id": "rumor-still-days-3",
+  "text": "A man in Sunhold shook on a horse-trade on the Counting. He has been delivering that horse for nineteen years.",
+  "heardAt": "heard from a Heartland drover",
+  "region": "All regions",
+  "entries": [
+   "still-days"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",
