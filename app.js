@@ -252,21 +252,25 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
- 'pyraxis-the-unbowed-flame': ['pyraxis-aoifel-turn-v1', 'A challenge at the Turn', 'Un reto durante el relevo', 'Pyraxis reacts to one of Aoifel’s ridiculous challenges at the handover of the Turn.', 'Pyraxis reacciona a uno de los retos ridículos de Aoifel durante el relevo del Turn.'],
- 'aoifel-the-green-laugh': ['aoifel-wildflower-bed', 'A bed of wildflowers', 'Una cama de flores silvestres', 'Aoifel stretches as she wakes among the wildflowers of the Laughing Garden.', 'Aoifel se estira al despertar entre las flores silvestres del Jardín Risueño.'],
- 'morthryn-the-pale-empress-of-air-and-ending': ['morthryn-frozen-balcony', 'The frozen balcony', 'El balcón helado', 'Morthryn holds a letter on the frost-covered balcony of the Pale Hall, barefoot and barehanded.', 'Morthryn sostiene una carta en el balcón escarchado del Salón Pálido, descalza y con las manos desnudas.'],
- 'hunters-citadel': ['hunters-citadel-goldwind-falls', 'Above the Goldwind Falls', 'Sobre las cascadas de Goldwind', 'The Hunters’ Citadel rises above the cliffs and waterfalls of Goldwind.', 'La Ciudadela de los Cazadores se alza sobre los acantilados y las cascadas de Goldwind.'],
- 'black-harbor': ['black-harbor-fogbound-wharf', 'The fogbound wharf', 'El muelle entre la niebla', 'Lanterns light the wooden wharf beneath the sea caves of Black Harbor.', 'Los faroles iluminan el muelle de madera bajo las cuevas marinas de Black Harbor.'],
- 'stormreach': ['stormreach-shipyard-storm-break', 'The shipyard after the storm', 'El astillero tras la tormenta', 'Sunlight breaks through the clouds over the shipyard of Stormreach.', 'La luz atraviesa las nubes sobre el astillero de Stormreach.'],
- 'kaldmark': ['kaldmark-black-keep', 'The black keep', 'La fortaleza negra', 'Travelers approach the gate of Kaldmark beneath a bear-skull banner.', 'Unos viajeros se acercan al portón de Kaldmark bajo un estandarte con un cráneo de oso.'],
- 'widows-teeth': ['widows-teeth-pilot-boat', 'A pilot boat through the Teeth', 'Una lancha de prácticos entre los Dientes', 'A pilot boat threads the channel between the jagged rocks of the Widow’s Teeth.', 'Una lancha de prácticos cruza el canal entre los farallones de los Dientes de la Viuda.']
+ 'pyraxis-the-unbowed-flame': [['pyraxis-aoifel-turn-v1', 'A challenge at the Turn', 'Un reto durante el relevo', 'Pyraxis reacts to one of Aoifel’s ridiculous challenges at the handover of the Turn.', 'Pyraxis reacciona a uno de los retos ridículos de Aoifel durante el relevo del Turn.']],
+ 'aoifel-the-green-laugh': [
+  ['aoifel-wildflower-bed', 'A bed of wildflowers', 'Una cama de flores silvestres', 'Aoifel stretches as she wakes among the wildflowers of the Laughing Garden.', 'Aoifel se estira al despertar entre las flores silvestres del Jardín Risueño.'],
+  ['aoifel-winter-embrace-v1', 'An embrace in the Pale Hall', 'Un abrazo en el Salón Pálido', 'Aoifel draws Morthryn into a tender embrace by a frosted window.', 'Aoifel abraza con ternura a Morthryn junto a una ventana escarchada.']
+ ],
+ 'morthryn-the-pale-empress-of-air-and-ending': [
+  ['morthryn-frozen-balcony', 'The frozen balcony', 'El balcón helado', 'Morthryn holds a letter on the frost-covered balcony of the Pale Hall, barefoot and barehanded.', 'Morthryn sostiene una carta en el balcón escarchado del Salón Pálido, descalza y con las manos desnudas.'],
+  ['morthryn-quiet-confession-v1', 'A quiet confession', 'Una confesión en voz baja', 'Aoifel confesses her feelings, catching Morthryn off guard.', 'Aoifel le confiesa lo que siente y toma a Morthryn por sorpresa.']
+ ],
+ 'hunters-citadel': [['hunters-citadel-goldwind-falls', 'Above the Goldwind Falls', 'Sobre las cascadas de Goldwind', 'The Hunters’ Citadel rises above the cliffs and waterfalls of Goldwind.', 'La Ciudadela de los Cazadores se alza sobre los acantilados y las cascadas de Goldwind.']],
+ 'black-harbor': [['black-harbor-fogbound-wharf', 'The fogbound wharf', 'El muelle entre la niebla', 'Lanterns light the wooden wharf beneath the sea caves of Black Harbor.', 'Los faroles iluminan el muelle de madera bajo las cuevas marinas de Black Harbor.']],
+ 'stormreach': [['stormreach-shipyard-storm-break', 'The shipyard after the storm', 'El astillero tras la tormenta', 'Sunlight breaks through the clouds over the shipyard of Stormreach.', 'La luz atraviesa las nubes sobre el astillero de Stormreach.']],
+ 'kaldmark': [['kaldmark-black-keep', 'The black keep', 'La fortaleza negra', 'Travelers approach the gate of Kaldmark beneath a bear-skull banner.', 'Unos viajeros se acercan al portón de Kaldmark bajo un estandarte con un cráneo de oso.']],
+ 'widows-teeth': [['widows-teeth-pilot-boat', 'A pilot boat through the Teeth', 'Una lancha de prácticos entre los Dientes', 'A pilot boat threads the channel between the jagged rocks of the Widow’s Teeth.', 'Una lancha de prácticos cruza el canal entre los farallones de los Dientes de la Viuda.']]
 };
 
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
-  const scene = galleryScenes[entry.id];
-  if (scene) {
-   const [filename, label, labelEs, caption, captionEs] = scene;
+  for (const [filename, label, labelEs, caption, captionEs] of galleryScenes[entry.id] ?? []) {
    const base = `assets/scenes/${filename}`;
    entry.gallery = [...(entry.gallery || []), {
     thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
