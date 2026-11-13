@@ -77,5 +77,5 @@
   el.querySelector('button').focus();
  }
  document.addEventListener('click', e => {if(e.target.closest?.('[data-kv-go], .kv-choice')) setTimeout(reckon, 900);}, true);
- window.addEventListener('load', () => setTimeout(() => {if(!document.querySelector('.kv-splash-frame')) reckon();}, 2500));
+ window.addEventListener('load', () => setTimeout(() => {if(!document.querySelector('.kv-splash-frame') && /^#?\/?(home)?$/.test(location.hash)) reckon();}, 2500));
 })();
