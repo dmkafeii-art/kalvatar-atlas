@@ -219,6 +219,15 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ 'summer-court': ['scenes', 'Knights salute each other at the Noonhold, beneath the Summer Court’s golden banners.', 'Dos caballeros se saludan en el Noonhold, bajo los estandartes dorados de la Corte de Verano.', 'summer-court-portrait'],
+ 'autumn-court': ['scenes', 'The stewards of Autumn weigh a bargain at the edge of the Red Orchards.', 'Los administradores de Otoño sopesan un trato junto a los Huertos Rojos.', 'autumn-court-portrait'],
+ 'winter-court': ['scenes', 'Snow falls inside the Pale Hall as Winter’s clerks record promises on ice.', 'La nieve cae dentro del Salón Pálido mientras los escribas de Invierno registran promesas en hielo.', 'winter-court-portrait'],
+ 'spring-court': ['scenes', 'The Spring Court plays an old game in the Laughing Garden.', 'La Corte de Primavera juega a un juego antiguo en el Jardín Risueño.', 'spring-court-portrait'],
+ 'pyraxis-the-unbowed-flame': ['folk', 'Pyraxis watches the tournament grounds from a sunlit arch at the Noonhold.', 'Pyraxis observa el campo del torneo desde un arco soleado del Noonhold.', 'pyraxis-the-unbowed-flame-portrait'],
+ 'vael-mournthorn-the-crimson-reaper-king': ['folk', 'Vael Mournthorn looks up from his ledger in the Halls of the Last Bargain.', 'Vael Mournthorn alza la vista de su libro de cuentas en los Salones del Último Trato.', 'vael-mournthorn-the-crimson-reaper-king-portrait'],
+ 'morthryn-the-pale-empress-of-air-and-ending': ['folk', 'Morthryn sits in the Pale Hall as the first light catches her crown of ice.', 'Morthryn permanece sentada en el Salón Pálido mientras la primera luz alcanza su corona de hielo.', 'morthryn-the-pale-empress-of-air-and-ending-portrait'],
+ 'aoifel-the-green-laugh': ['folk', 'Aoifel laughs from a low stone wall in the Laughing Garden.', 'Aoifel se ríe sentada sobre un muro bajo de piedra en el Jardín Risueño.', 'aoifel-the-green-laugh-portrait'],
+ 'unbound': ['folk', 'The Unbound rests with his eyes closed, a sleeping cat on his lap and a cup of coffee beside him.', 'El Unbound descansa con los ojos cerrados, un gato dormido en el regazo y una taza de café a su lado.', 'unbound-portrait'],
  'radan-sunmere': ['folk', 'Radan halts a swinging load with magic.', 'Radan detiene una carga suspendida con magia.'],
  'lysandra-vellune': ['folk', 'Amarise dispels an illusion over an object.', 'Amarise disipa la ilusión que oculta un objeto.'],
  'kettik-ninth-step': ['folk', 'Kettik lifts a false bottom to inspect hidden cargo.', 'Kettik levanta un doble fondo para inspeccionar la carga oculta.'],
@@ -242,17 +251,37 @@ const entryIllustrations = {
  'snowvah': ['scenes', 'A woman sets down a bowl of steaming stew overlooking Snowvah’s icy plain.', 'Una mujer sirve un guiso humeante en una sala con vista a la llanura helada de Snowvah.'],
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
+const landmarkScenes = {
+ 'hunters-citadel': ['hunters-citadel-goldwind-falls', 'Above the Goldwind Falls', 'Sobre las cascadas de Goldwind', 'The Hunters’ Citadel rises above the cliffs and waterfalls of Goldwind.', 'La Ciudadela de los Cazadores se alza sobre los acantilados y las cascadas de Goldwind.'],
+ 'black-harbor': ['black-harbor-fogbound-wharf', 'The fogbound wharf', 'El muelle entre la niebla', 'Lanterns light the wooden wharf beneath the sea caves of Black Harbor.', 'Los faroles iluminan el muelle de madera bajo las cuevas marinas de Black Harbor.'],
+ 'stormreach': ['stormreach-shipyard-storm-break', 'The shipyard after the storm', 'El astillero tras la tormenta', 'Sunlight breaks through the clouds over the shipyard of Stormreach.', 'La luz atraviesa las nubes sobre el astillero de Stormreach.'],
+ 'kaldmark': ['kaldmark-black-keep', 'The black keep', 'La fortaleza negra', 'Travelers approach the gate of Kaldmark beneath a bear-skull banner.', 'Unos viajeros se acercan al portón de Kaldmark bajo un estandarte con un cráneo de oso.'],
+ 'widows-teeth': ['widows-teeth-pilot-boat', 'A pilot boat through the Teeth', 'Una lancha de prácticos entre los Dientes', 'A pilot boat threads the channel between the jagged rocks of the Widow’s Teeth.', 'Una lancha de prácticos cruza el canal entre los farallones de los Dientes de la Viuda.']
+};
+
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
+  const landmark = landmarkScenes[entry.id];
+  if (landmark) {
+   const [filename, label, labelEs, caption, captionEs] = landmark;
+   const base = `assets/scenes/${filename}`;
+   entry.gallery = [...(entry.gallery || []), {
+    thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
+    width: 1536, height: 1024,
+    get label() { return Pack2.text(label, labelEs); },
+    get alt() { return Pack2.text(caption, captionEs); },
+    get caption() { return Pack2.text(caption, captionEs); }
+   }];
+  }
   const illustration = entryIllustrations[entry.id];
   if (!illustration) continue;
-  const [directory, ...description] = illustration;
-  const base = `assets/${directory}/${entry.id}`;
+  const [directory, caption, captionEs, filename = entry.id] = illustration;
+  const base = `assets/${directory}/${filename}`;
   entry.illustration = {
    thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
    width: 1536, height: 1024,
-   get alt() { return Pack2.text(...description); },
-   get caption() { return Pack2.text(...description); }
+   get alt() { return Pack2.text(caption, captionEs); },
+   get caption() { return Pack2.text(caption, captionEs); }
   };
  }
 }
