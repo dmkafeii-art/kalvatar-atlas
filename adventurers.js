@@ -7,10 +7,11 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=16').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=17').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
+ const recent = [];
  const chance = p => Math.random() < p;
  const pool = o => Array.isArray(o) ? o : state.canonOnly ? o.canon : o.canon.concat(o.more || []);
  const LAND = ['northern-frontier', 'central-heartland', 'southern-wilds', 'icy-expanse'];
@@ -103,9 +104,12 @@ window.Adventurers = (() => {
    }
    case 'pocchin': {
     const given = pick(pool(p.given));
-    let title = pick(p.title) + ' ' + pick(p.of);
-    if(chance(.35)) title += ', ' + pick(p.title) + ' ' + pick(p.of);
-    return {name: given + ' ' + pick(p.epithet) + ', ' + title};
+    const some = (list, n) => {const a = list.filter(x => !recent.includes(x)), out = []; if(a.length < n) a.push(...list); while(out.length < n && a.length) out.push(a.splice(Math.floor(Math.random() * a.length), 1)[0]); return out;};
+    const n = chance(.12) ? 3 : chance(.4) ? 2 : 1, ts = some(p.title, n), os = some(p.of, n);
+    const title = ts.map((x, k) => x + ' ' + os[k]).join(', ');
+    recent.push(...ts, ...os); recent.splice(0, Math.max(0, recent.length - 40));
+    const ep = some(p.epithet, 1)[0]; recent.push(ep);
+    return {name: given + ' ' + ep + ', ' + title};
    }
    case 'tarvan': return {name: pick(pool(p.clan)) + ' ' + pick(pool(p.given))};
   }
@@ -144,7 +148,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -299,6 +303,7 @@ window.Adventurers = (() => {
    shop.roll = t(`You rolled ${roll} (you needed ${need} or less). `, `Sacaste ${roll} (necesitabas ${need} o menos). `) + (ok ? t('The materials are here.', 'Los materiales están aquí.') : t('Not here. Ask again in seven days, or try another port.', 'Aquí no. Pregunta de nuevo en siete días, o prueba otro puerto.'));
    $('#ws-wonder').innerHTML = wonderOut();
   });
+  tiles('workshop');
  }
 
  /* Downtime: what to do between voyages, and what learning costs. */
@@ -331,6 +336,7 @@ window.Adventurers = (() => {
    while(free.ideas.length < 3 && pool.length) free.ideas.push(pool.splice(Math.floor(Math.random() * pool.length), 1)[0]);
    $('#dt-list').innerHTML = ideasHtml();
   });
+  tiles('downtime');
  }
 
  /* Side quests: a twist of Ranking cards, a patch to earn, a hook, and a curiosity. */
@@ -373,6 +379,7 @@ window.Adventurers = (() => {
   });
   const say = (btn, out, key, list) => $('#' + btn).addEventListener('click', () => {let v = pick(list); while(v === side[key] && list.length > 1) v = pick(list); side[key] = v; const el = $('#' + out); el.hidden = false; el.textContent = v;});
   say('sq-hook', 'sq-hook-out', 'hook', q.hooks); say('sq-curio', 'sq-curio-out', 'curio', q.curios);
+  tiles('side');
  }
 
  /* Treasure: what a fight might leave behind, for a party, a level, a region, and a difficulty. For the Game Master. */
@@ -380,17 +387,29 @@ window.Adventurers = (() => {
  function rollLoot() {
   const T = data.sidequests.treasure, tier = T.tiers.find(x => loot.level <= x.to), reg = T.regions.find(r => r.id === loot.region);
   const xpEach = T.xp[loot.level - 1][loot.hard], total = Math.max(1, Math.round(tier.base * [1, 2, 4][loot.hard] * loot.kind * loot.size / 4 * (0.8 + Math.random() * 0.4)));
-  let left = total * (0.4 + Math.random() * 0.2), goods = [];
-  const pool = reg.goods.filter(g => g[1] <= left).sort(() => Math.random() - .5).slice(0, 3);
-  for(const [name, value] of pool) {
-   const n = Math.min(8, Math.max(1, Math.floor(left / value / (pool.length > 1 ? 2 : 1))));
-   if(value * n > left) continue;
-   goods.push({name, n, value: value * n}); left -= value * n;
+  const L = data.loot, low = x => /^(Tarvan|Aurelion|Frost|Galven|Korvan|Sporrn|Pocchin|Goldwind|Jakupur|Vorthani)/.test(x) ? x : x.charAt(0).toLowerCase() + x.slice(1), bits = v => Math.max(.01, Math.round(v * 100) / 100);
+  const thing = () => {
+   const k = pick(['gem', 'gem', 'jewel', 'jewel', 'jewel', 'art', 'art', 'made', 'made', 'clothes', 'clothes', 'arms', 'arms', 'kit', 'kit', 'papers', 'curio', 'curio', 'drink', 'drink', 'trade', 'trade']);
+   if(k === 'gem') {const g = pick(L.gems); return {k, name: g[0], value: g[1], many: 1};}
+   if(k === 'jewel') {const o = pick(L.jewelry), m = pick(L.metals), d = pick(L.jdetail); return {k, name: `${o[0]} of ${m[0]}${d[0]}`, value: o[1] * m[1] * d[1]};}
+   if(k === 'art') {const o = pick(L.art), m = pick(L.artmat); return {k, name: `${o[0]} ${pick(L.subjects)}, in ${m[0]}`, value: o[1] * m[1]};}
+   if(k === 'arms') {const g = pick(pick(data.workshop.goods.slice(0, 2)).groups), it = pick(g[1]), bag = L.makes.flatMap(m => Array(m[2]).fill(m)), mk = pick(bag); return {k, name: `${mk[0]} ${low(it[0])}`, value: it[1] * mk[1]};}
+   if(k === 'trade') {const g = pick(reg.goods); return {k, name: g[0], value: g[1], many: 1};}
+   const g = pick(L[{made: 'made', clothes: 'clothes', kit: 'kit', papers: 'papers', curio: 'curios', drink: 'drink'}[k]]); return {k, name: g[0], value: g[1], many: k === 'drink'};
+  };
+  let left = total * (0.45 + Math.random() * 0.3), goods = [];
+  const want = 3 + Math.floor(Math.random() * 5) + (loot.kind > 1 ? 2 : 0) + T.tiers.indexOf(tier), kinds = {}, floor = total * 0.004;
+  for(let tries = 0; tries < 400 && goods.length < want && left > total * 0.02; tries++) {
+   const x = thing(); x.value = bits(x.value);
+   if(x.value > left || (x.value < floor && x.k !== 'curio' && tries < 300) || (kinds[x.k] || 0) >= 2 || goods.some(g => g.name === x.name)) continue;
+   const most = Math.floor(left * 0.5 / x.value), n = x.many && most >= 2 && x.value <= total * 0.05 && chance(.45) ? 2 + Math.floor(Math.random() * Math.min(loot.level > 10 ? 11 : 5, most - 1)) : 1;
+   goods.push({name: x.name, n, value: bits(x.value * n)}); left -= x.value * n; kinds[x.k] = (kinds[x.k] || 0) + 1;
   }
+  goods.sort((a, b) => b.value - a.value);
   const spent = goods.reduce((a, g) => a + g.value, 0), magic = [];
   if(Math.random() * 100 < tier.magic[loot.hard] * (loot.kind > 1 ? 2 : 1)) magic.push(tier.grade + ': ' + pick(T.magic[tier.grade]));
   if(loot.level > 4 && chance(.25)) magic.push('A charm: ' + pick(T.magic['A charm']));
-  loot.out = {xpEach, xpAll: xpEach * loot.size, total, coins: total - spent, goods, magic, extra: chance(.45) ? pick(T.extras) : '', coin: reg.coin, region: reg.name};
+  loot.out = {xpEach, xpAll: xpEach * loot.size, total, coins: Math.max(0, Math.round((total - spent) * 100) / 100), goods, magic, extra: chance(.45) ? pick(T.extras) : '', coin: reg.coin + ' ' + t('This lot was', 'Este lote estaba') + ' ' + pick(L.mint) + '.', region: reg.name};
  }
  function lootHtml() {
   const o = loot.out;
@@ -443,13 +462,13 @@ window.Adventurers = (() => {
   const leaf = (a, side) => {const r = badge.shape === 'disc' ? 96 : 74, x = side * r * Math.sin(a), y = r * Math.cos(a) * -1 + 8; return `<path d="M0 0Q9-10 0-24Q-9-10 0 0Z" transform="translate(${x.toFixed(1)} ${y.toFixed(1)}) rotate(${(side * (a * 180 / Math.PI) + side * 28).toFixed(0)})" fill="${c[2]}" stroke="${c[1]}" stroke-width="1.5"/>`;};
   const fl = {none: '',
    laurel: [1, -1].map(sd => [2.75, 2.45, 2.15, 1.85, 1.55, 1.25, .95].map(a => leaf(a, sd)).join('')).join(''),
-   wings: [1, -1].map(sd => `<g transform="scale(${sd} 1)"><path d="M92-6C150-40 176-34 190-66C186-22 168 6 132 22C150 22 162 18 172 10C162 36 138 50 108 48C120 54 130 54 138 52C124 68 104 72 88 62Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M100 4C130-6 156-22 176-44M100 24C124 22 146 16 162 6M96 44C112 46 126 44 134 40" fill="none" stroke="${c[1]}" stroke-width="1.6"/></g>`).join(''),
+   wings: [1, -1].map(sd => `<g transform="scale(${sd} 1)"><path d="M20 30C70-20 150-40 196-92C196-52 180-20 150 0C170 0 184-6 194-16C186 16 160 36 126 40C142 46 154 46 164 42C150 62 122 70 96 64C104 70 112 72 118 72C100 84 60 84 20 70Z" fill="${c[2]}" stroke="${c[1]}" stroke-width="2.5" stroke-linejoin="round"/><path d="M40 24C96 4 150-24 186-64M44 44C100 38 150 22 184-4M44 60C90 62 130 56 156 46" fill="none" stroke="${c[1]}" stroke-width="1.6"/></g>`).join(''),
    rope: `<path d="${shape}" transform="scale(.9)" fill="none" stroke="${c[2]}" stroke-width="9" stroke-dasharray="8 6"/>`};
   const stone = !bronze && !hidden ? `<g transform="translate(0 ${badge.shape === 'shield' ? -100 : -98})"><circle r="12" fill="${c[1]}"/><circle r="9" fill="${STONE[badge.a]}"/><path d="M-4-4a6 6 0 0 1 6-2" stroke="#fff" stroke-width="2" fill="none" opacity=".7" stroke-linecap="round"/></g>` : '';
   const studs = badge.rank === 'gold' ? Array.from({length: badge.deeds}, (_, n) => {const a = (90 + (n - (badge.deeds - 1) / 2) * 17) * Math.PI / 180; return `<circle cx="${(86 * Math.cos(a)).toFixed(1)}" cy="${(86 * Math.sin(a)).toFixed(1)}" r="5.5" fill="${c[2]}" stroke="${c[1]}" stroke-width="2"/>`;}).join('') : '';
   const dev = bronze ? COMMON(c) : hidden ? `<g opacity=".14">${DEVICE[badge.a](c)}</g>` : two ? `<g transform="rotate(40) scale(.8)">${DEVICE[+badge.b](c)}</g><g transform="rotate(-40) scale(.8)">${DEVICE[badge.a](c)}</g>` : `<g transform="scale(.92)">${DEVICE[badge.a](c)}</g>`;
   const wide = flourish === 'wings';
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${wide ? '-200 -140 400 280' : '-140 -140 280 280'}" role="img" aria-label="${t('A Hunter’s Sigil', 'Un Sigil de Hunter')}"><defs><radialGradient id="sg" cx="34%" cy="26%" r="85%"><stop offset="0" stop-color="${c[2]}"/><stop offset=".55" stop-color="${c[0]}"/><stop offset="1" stop-color="${c[3]}"/></radialGradient><clipPath id="sc"><path d="${shape}" transform="scale(.93)"/></clipPath></defs>${wide ? fl.wings : ''}<path d="${shape}" transform="translate(0 5)" fill="#0d2226" opacity=".35"/><path d="${shape}" fill="${c[1]}"/><path d="${shape}" transform="scale(.96)" fill="url(#sg)"/><g clip-path="url(#sc)">${fields[field]}</g><path d="${shape}" transform="scale(.93)" fill="none" stroke="${c[1]}" stroke-width="${bronze ? 7 : 3.5}"/>${bronze ? '' : `<path d="${shape}" transform="scale(.8)" fill="none" stroke="${c[1]}" stroke-width="1.6"/><path d="${shape}" transform="scale(.865)" fill="none" stroke="${c[2]}" stroke-width="4" stroke-dasharray="2 7" stroke-linecap="round"/>`}${flourish === 'rope' ? fl.rope : ''}${flourish === 'laurel' ? fl.laurel : ''}${studs}${dev}${stone}${hon}<path d="M-10 ${badge.shape === 'shield' && !bronze ? 96 : 100}h20l-10 16Z" fill="${c[1]}"/><path d="M-110-70Q-60-128 30-116" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".35"/></svg>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${wide ? '-215 -150 430 300' : '-140 -140 280 280'}" role="img" aria-label="${t('A Hunter’s Sigil', 'Un Sigil de Hunter')}"><defs><radialGradient id="sg" cx="34%" cy="26%" r="85%"><stop offset="0" stop-color="${c[2]}"/><stop offset=".55" stop-color="${c[0]}"/><stop offset="1" stop-color="${c[3]}"/></radialGradient><clipPath id="sc"><path d="${shape}" transform="scale(.93)"/></clipPath></defs>${wide ? fl.wings : ''}<path d="${shape}" transform="translate(0 5)" fill="#0d2226" opacity=".35"/><path d="${shape}" fill="${c[1]}"/><path d="${shape}" transform="scale(.96)" fill="url(#sg)"/><g clip-path="url(#sc)">${fields[field]}</g><path d="${shape}" transform="scale(.93)" fill="none" stroke="${c[1]}" stroke-width="${bronze ? 7 : 3.5}"/>${bronze ? '' : `<path d="${shape}" transform="scale(.8)" fill="none" stroke="${c[1]}" stroke-width="1.6"/><path d="${shape}" transform="scale(.865)" fill="none" stroke="${c[2]}" stroke-width="4" stroke-dasharray="2 7" stroke-linecap="round"/>`}${flourish === 'rope' ? fl.rope : ''}${flourish === 'laurel' ? fl.laurel : ''}${studs}${dev}${stone}${hon}<path d="M-10 ${badge.shape === 'shield' && !bronze ? 96 : 100}h20l-10 16Z" fill="${c[1]}"/><path d="M-110-70Q-60-128 30-116" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".35"/></svg>`;
  }
  function sigilText() {
   const B = data.sigils.branches, a = B[badge.a], two = badge.rank !== 'bronze' && badge.b !== '' && +badge.b !== badge.a, b = two ? B[+badge.b] : null, hn = badge.hon !== '' ? B[+badge.hon] : null;
@@ -483,12 +502,88 @@ window.Adventurers = (() => {
   draw();
  }
 
+ /* Tools as buttons: where a tab holds several tools, show them as tiles first and open the one that is pressed. */
+ const opened = {};
+ function tiles(tab) {
+  const panels = [...document.querySelectorAll('.adventurers > section.adv-panel')];
+  if(panels.length < 2) return;
+  const nav = document.createElement('div');
+  nav.className = 'adv-tiles';
+  nav.innerHTML = panels.map((p, n) => `<button type="button" class="adv-tile" data-n="${n}" aria-expanded="false"><strong>${p.querySelector('h2').innerHTML}</strong><span>${h((p.querySelector('.adv-hint')?.textContent || '').split(/(?<=[.?])\s/)[0])}</span><i aria-hidden="true">+</i></button>`).join('');
+  panels[0].before(nav);
+  const show = (n, move) => {
+   opened[tab] = n;
+   panels.forEach((p, k) => {p.hidden = k !== n;});
+   nav.querySelectorAll('.adv-tile').forEach((b, k) => {b.classList.toggle('active', k === n); b.setAttribute('aria-expanded', String(k === n)); b.querySelector('i').textContent = k === n ? '−' : '+';});
+   if(move && n != null) panels[n].scrollIntoView({block: 'nearest', behavior: 'smooth'});
+  };
+  nav.addEventListener('click', e => {const b = e.target.closest('.adv-tile'); if(b) show(opened[tab] === +b.dataset.n ? null : +b.dataset.n, true);});
+  show(opened[tab] ?? null);
+ }
+
+ /* Passages: how long from one port to another, by what ship, and what it costs. */
+ const trip = {from: 'goldwind', to: 'southhaven', mode: 'rations', size: 4};
+ function passage() {
+  const T = data.travel, port = id => T.ports.find(x => x.id === id), mode = T.modes.find(m => m.id === trip.mode), free = trip.mode === 'quiet' || trip.mode === 'own';
+  if(trip.from === trip.to) return {same: true};
+  const shut = id => !free && port(id).kind === 'hidden';
+  if(shut(trip.from) || shut(trip.to)) return {shut: port(shut(trip.to) ? trip.to : trip.from)};
+  const dist = {[trip.from]: 0}, prev = {}, done = new Set();
+  for(;;) {
+   let u = null;
+   for(const k in dist) if(!done.has(k) && (u === null || dist[k] < dist[u])) u = k;
+   if(u === null || u === trip.to) break;
+   done.add(u);
+   for(const [a, b, d, sure] of T.legs) {
+    const v = a === u ? b : b === u ? a : null;
+    if(!v || done.has(v) || (shut(v) && v !== trip.to)) continue;
+    if(dist[v] === undefined || dist[u] + d < dist[v]) {dist[v] = dist[u] + d; prev[v] = [u, d, sure];}
+   }
+  }
+  if(dist[trip.to] === undefined) return {none: true};
+  const legs = [];
+  for(let v = trip.to; v !== trip.from; v = prev[v][0]) legs.unshift({from: port(prev[v][0]), to: port(v), days: prev[v][1], sure: prev[v][2]});
+  let total = 0, bitsEach = 0;
+  for(const l of legs) {
+   l.sail = Math.max(1, Math.round(l.days * mode.time));
+   const ice = /cabin/.test(mode.id) && (l.from.region === 'Icy Expanse' || l.to.region === 'Icy Expanse') ? T.ice : 1;
+   l.bits = l.sail * mode.bits * ice; total += l.sail; bitsEach += l.bits;
+  }
+  return {legs, total, each: Math.round(bitsEach) / 100, mode, notes: [...new Set(legs.flatMap(l => [l.from.id, l.to.id]))].map(id => T.notes[id]).filter(Boolean)};
+ }
+ function passageHtml() {
+  const o = passage();
+  if(o.same) return `<p class="adv-note">${t('You are already there. A harbor ferry is 1 Bit.', 'Ya estás ahí. Un ferry de puerto cuesta 1 Bit.')}</p>`;
+  if(o.shut) return `<p class="adv-roll">${t(`No harbor office sells a passage to or from ${o.shut.name}.`, `Ninguna oficina de puerto vende pasaje hacia o desde ${o.shut.name}.`)}</p><p class="adv-note">${t('Choose a quiet passage, or your own ship.', 'Elige un pasaje discreto, o tu propio barco.')}</p>`;
+  if(o.none) return `<p class="adv-note">${t('No known route.', 'No hay ruta conocida.')}</p>`;
+  const lo = Math.max(1, Math.round(o.total * .9)), hi = Math.round(o.total * 1.25), cyc = Math.round(o.total / 10 * 10) / 10, meet = Math.round(o.total * .15);
+  const stops = o.legs.slice(0, -1).map(l => l.to.name);
+  return `<dl class="adv-out">${row(t('Fair passage', 'Travesía normal'), `${days(o.total)} · ${cyc} Cycles`)}${row(t('With the weather', 'Según el clima'), `${lo} ${t('to', 'a')} ${days(hi)}`)}${row(t('Fare, each', 'Pasaje, cada uno'), coin(o.each))}${row(t('Fare, all of you', 'Pasaje, todos'), coin(Math.round(o.each * trip.size * 100) / 100))}${row(t('Stops', 'Paradas'), stops.length ? h(stops.join(', ')) : t('none', 'ninguna'))}</dl>
+  <ol class="adv-legs">${o.legs.map(l => `<li><strong>${h(l.from.name)} → ${h(l.to.name)}</strong><span>${days(l.sail)} · ${coin(Math.round(l.bits) / 100)} ${t('each', 'cada uno')}${l.sure ? '' : ' · ' + t('estimated', 'estimado')}${l.sail > 30 ? ' · ' + t('waters on the way', 'hace aguada en el camino') : ''}</span></li>`).join('')}</ol>
+  <p class="adv-note">${h(o.mode.note)} ${t(`At sea, something finds a ship on an 18 or higher on a d20 each day: expect about ${meet} ${meet === 1 ? 'meeting' : 'meetings'} on this passage.`, `En el mar, algo encuentra al barco con 18 o más en un d20 cada día: espera unos ${meet} encuentros en esta travesía.`)}</p>${o.notes.length ? `<ul class="adv-loot">${o.notes.map(n => `<li>${h(n)}</li>`).join('')}</ul>` : ''}`;
+ }
+ function renderTravel() {
+  const T = data.travel, regs = [...new Set(T.ports.map(x => x.region))];
+  const ports = (id, value) => `<select id="${id}">${regs.map(r => `<optgroup label="${h(r)}">${T.ports.filter(x => x.region === r).map(x => `<option value="${h(x.id)}"${x.id === value ? ' selected' : ''}>${h(x.name)}${x.kind === 'hidden' ? ' *' : ''}</option>`).join('')}</optgroup>`).join('')}</select>`;
+  frame('travel', `<p class="adv-lead">${t('How long it takes to get from one port to another, what it costs, and where the ship stops. A Cycle is ten days.', 'Cuánto se tarda de un puerto a otro, cuánto cuesta y dónde para el barco. Un Cycle son diez días.')}</p>
+  <section class="adv-panel adv-shop"><h2>${t('A passage', 'Una travesía')}</h2>
+  <div class="adv-controls"><label class="pack-label">${t('From', 'Desde')}${ports('tv-from', trip.from)}</label><label class="pack-label">${t('To', 'Hasta')}${ports('tv-to', trip.to)}</label><label class="pack-label">${t('How', 'Cómo')}${sel('tv-mode', T.modes.map(m => [m.id, m.name]), trip.mode)}</label><label class="pack-label">${t('How many of you', 'Cuántos son')}${sel('tv-size', [1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]), trip.size)}</label></div>
+  <div class="pack-actions"><button type="button" class="button cream" id="tv-swap">${t('And back again', 'Y de regreso')} <span aria-hidden="true">⇄</span></button></div>
+  <div id="tv-out" aria-live="polite">${passageHtml()}</div>
+  <p class="adv-hint">${t('Ports marked * are in no harbor book: only a quiet passage or your own ship goes there.', 'Los puertos con * no están en ningún libro de puerto: solo se llega con un pasaje discreto o en tu propio barco.')}</p></section>
+  <p class="adv-hint">${t('Five of these passages are in every pilot book: Ironfort to Goldwind, Goldwind to Southhaven, Southhaven to Jakupur, Southhaven to Varan Port, and Varan Port to the far ice. The rest are fair estimates, and your Game Master has the last word.', 'Cinco de estas travesías están en todo libro de pilotos: Ironfort a Goldwind, Goldwind a Southhaven, Southhaven a Jakupur, Southhaven a Varan Port y Varan Port al hielo lejano. El resto son estimaciones, y tu GM tiene la última palabra.')} <a href="#entry/coins-and-prices">Coins and Prices</a> · <a href="#entry/lighthouses">The Lights</a></p>`);
+  const again = () => {$('#tv-out').innerHTML = passageHtml();};
+  [['tv-from', 'from'], ['tv-to', 'to'], ['tv-mode', 'mode']].forEach(([id, k]) => $('#' + id).addEventListener('input', e => {trip[k] = e.target.value; again();}));
+  $('#tv-size').addEventListener('input', e => {trip.size = +e.target.value; again();});
+  $('#tv-swap').addEventListener('click', () => {[trip.from, trip.to] = [trip.to, trip.from]; $('#tv-from').value = trip.from; $('#tv-to').value = trip.to; again();});
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;

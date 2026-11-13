@@ -4134,7 +4134,33 @@
     "the Splendid",
     "the Entirely Trustworthy",
     "the Famous",
-    "the Humble"
+    "the Humble",
+    "the Scrupulously Fair",
+    "the Open-Handed",
+    "the Twice-Blessed",
+    "the Unreasonably Kind",
+    "the Well-Fed",
+    "the Known in Every Harbor",
+    "the Friend of Widows",
+    "the Uncheatable",
+    "the Mostly Sober",
+    "the Honest (Ask Anyone)",
+    "the Seven Times Robbed",
+    "the Tireless",
+    "the Soft-Hearted",
+    "the Admired",
+    "the Reasonable",
+    "the Lucky for You",
+    "the Very Nearly Famous",
+    "the Returning by Popular Demand",
+    "the Unbankruptable",
+    "the Gentle",
+    "the Loud",
+    "the Remembered Fondly",
+    "the Blessed by Fortura",
+    "the Refundless",
+    "the Last Honest One",
+    "the Delight of Customs Officers"
    ],
    "title": [
     "Philanthropist",
@@ -4148,7 +4174,36 @@
     "Favorite Uncle",
     "High Admiral",
     "Sole Supplier",
-    "Patron and Benefactor"
+    "Patron and Benefactor",
+    "Merchant-Prince",
+    "Keeper of the Good Scales",
+    "Admiral of Savings",
+    "Duke of Deals",
+    "Friend to the Thrifty",
+    "Warden of the Lowest Price",
+    "Great-Uncle",
+    "Master of Weights",
+    "Champion Haggler",
+    "Baron of Bargains",
+    "Father of Coupons",
+    "Protector of Purses",
+    "Knight-Commander",
+    "Archdeacon",
+    "Hereditary Cousin",
+    "Chief Taster",
+    "Laureate",
+    "Viceroy",
+    "Chancellor of Odds and Ends",
+    "Second-Best Friend",
+    "Guardian Aunt",
+    "Envoy Extraordinary",
+    "Sworn Brother",
+    "Prince Regent",
+    "Quartermaster-General",
+    "Honorary Nephew",
+    "Undisputed Champion",
+    "Grand Marshal",
+    "Beloved Creditor"
    ],
    "of": [
     "of the Sapphire Isles",
@@ -4162,7 +4217,45 @@
     "of Pickled Things",
     "of the Finest Second-Hand Boots",
     "of Goldwind (Outer)",
-    "of Things Fallen Off Ships"
+    "of Things Fallen Off Ships",
+    "of the Left-Hand Docks",
+    "of Honest Rope",
+    "of the Morning Turtle",
+    "of Three Rivers and a Puddle",
+    "of Nearly New Hats",
+    "of the Middle Market",
+    "of Lost and Found (Mostly Found)",
+    "of Unclaimed Cargo",
+    "of the Long Road South",
+    "of Gently Dented Kettles",
+    "to the Discerning Poor",
+    "of Seven Tents",
+    "of the Grommoth Road",
+    "of Reliable Buckets",
+    "of the Second Tree from the Left",
+    "to Widows and Orphans",
+    "of Anything You Need",
+    "of the Honest Mile",
+    "of Warm Blankets",
+    "of Sunhold (Lower)",
+    "of Spices You Have Never Heard Of",
+    "of the Rainy Season",
+    "of Carpets, Lamps, and Sundries",
+    "of Every Port but One",
+    "of the Hanging Houses",
+    "of Good Used Anchors",
+    "to Hunters and Their Friends",
+    "of the Big Tent",
+    "of Free Samples",
+    "of Buttons",
+    "of the Sand Baths",
+    "of Tomorrow's Prices Today",
+    "of Fae-Fruit (Ask Quietly)",
+    "of the Wrong Side of the River",
+    "of Cheese",
+    "of a Very Large Family",
+    "of the Southern Wilds and Parts Adjacent",
+    "of Bargain Corner"
    ],
    "tagline": "Knee-to-waist-high, irresistibly fluffy, incurably acquisitive merchant-folk, and ferocious when cornered.",
    "traits": [
@@ -6434,6 +6527,1515 @@
     "A pot of Sporrn salve is 3 Tides and heals in days what takes weeks.",
     "sporrn"
    ]
+  ]
+ },
+ "travel": {
+  "ports": [
+   {
+    "id": "ironfort",
+    "name": "Ironfort",
+    "region": "Northern Frontier",
+    "kind": "great"
+   },
+   {
+    "id": "bastion",
+    "name": "Bastion",
+    "region": "Northern Frontier",
+    "kind": "legal"
+   },
+   {
+    "id": "stormreach",
+    "name": "Stormreach",
+    "region": "Northern Frontier",
+    "kind": "legal"
+   },
+   {
+    "id": "greyhaven",
+    "name": "Greyhaven",
+    "region": "Northern Frontier",
+    "kind": "legal"
+   },
+   {
+    "id": "saltreach",
+    "name": "Saltreach",
+    "region": "Northern Frontier",
+    "kind": "legal"
+   },
+   {
+    "id": "black-harbor",
+    "name": "Black Harbor",
+    "region": "Northern Frontier",
+    "kind": "hidden"
+   },
+   {
+    "id": "serpents-coil",
+    "name": "The Serpent's Coil",
+    "region": "Northern Frontier",
+    "kind": "hidden"
+   },
+   {
+    "id": "goldwind",
+    "name": "Goldwind",
+    "region": "Central Heartland",
+    "kind": "great"
+   },
+   {
+    "id": "aurelion",
+    "name": "Aurelion",
+    "region": "Central Heartland",
+    "kind": "great"
+   },
+   {
+    "id": "sunhold",
+    "name": "Sunhold",
+    "region": "Central Heartland",
+    "kind": "great"
+   },
+   {
+    "id": "highspire",
+    "name": "Highspire",
+    "region": "Central Heartland",
+    "kind": "legal"
+   },
+   {
+    "id": "everfall",
+    "name": "Everfall",
+    "region": "Central Heartland",
+    "kind": "legal"
+   },
+   {
+    "id": "duskmire-haven",
+    "name": "Duskmire Haven",
+    "region": "Central Heartland",
+    "kind": "legal"
+   },
+   {
+    "id": "easthold-westwatch-and-pearl-groove",
+    "name": "Easthold",
+    "region": "Central Heartland",
+    "kind": "legal"
+   },
+   {
+    "id": "silverport",
+    "name": "Silverport",
+    "region": "Central Heartland",
+    "kind": "great"
+   },
+   {
+    "id": "briarcrown",
+    "name": "Briarcrown",
+    "region": "Central Heartland",
+    "kind": "legal"
+   },
+   {
+    "id": "elyria",
+    "name": "Elyria",
+    "region": "Central Heartland",
+    "kind": "legal"
+   },
+   {
+    "id": "southhaven",
+    "name": "Southhaven",
+    "region": "Southern Wilds",
+    "kind": "great"
+   },
+   {
+    "id": "jakupur",
+    "name": "Mumit Port (Jakupur)",
+    "region": "Southern Wilds",
+    "kind": "legal"
+   },
+   {
+    "id": "kaskan",
+    "name": "Kaskan",
+    "region": "Southern Wilds",
+    "kind": "legal"
+   },
+   {
+    "id": "ironport",
+    "name": "Slatemouth (Monumak)",
+    "region": "Southern Wilds",
+    "kind": "legal"
+   },
+   {
+    "id": "zalkareth",
+    "name": "Zal'Kareth",
+    "region": "Southern Wilds",
+    "kind": "legal"
+   },
+   {
+    "id": "hollowkey",
+    "name": "Hollowkey",
+    "region": "Southern Wilds",
+    "kind": "hidden"
+   },
+   {
+    "id": "varan-port",
+    "name": "Varan Port",
+    "region": "Icy Expanse",
+    "kind": "great"
+   },
+   {
+    "id": "frosthold",
+    "name": "Frosthold",
+    "region": "Icy Expanse",
+    "kind": "legal"
+   },
+   {
+    "id": "kaldmark",
+    "name": "Kaldmark",
+    "region": "Icy Expanse",
+    "kind": "legal"
+   },
+   {
+    "id": "crystalhaven",
+    "name": "Crystalhaven",
+    "region": "Icy Expanse",
+    "kind": "legal"
+   },
+   {
+    "id": "snowvah",
+    "name": "Snowvah",
+    "region": "Icy Expanse",
+    "kind": "legal"
+   }
+  ],
+  "legs": [
+   [
+    "ironfort",
+    "goldwind",
+    35,
+    1
+   ],
+   [
+    "goldwind",
+    "southhaven",
+    60,
+    1
+   ],
+   [
+    "southhaven",
+    "jakupur",
+    25,
+    1
+   ],
+   [
+    "southhaven",
+    "varan-port",
+    75,
+    1
+   ],
+   [
+    "varan-port",
+    "snowvah",
+    35,
+    1
+   ],
+   [
+    "ironfort",
+    "bastion",
+    4,
+    0
+   ],
+   [
+    "ironfort",
+    "stormreach",
+    5,
+    0
+   ],
+   [
+    "stormreach",
+    "greyhaven",
+    3,
+    0
+   ],
+   [
+    "ironfort",
+    "greyhaven",
+    6,
+    0
+   ],
+   [
+    "greyhaven",
+    "saltreach",
+    3,
+    0
+   ],
+   [
+    "greyhaven",
+    "black-harbor",
+    1,
+    0
+   ],
+   [
+    "stormreach",
+    "serpents-coil",
+    2,
+    0
+   ],
+   [
+    "ironfort",
+    "aurelion",
+    30,
+    0
+   ],
+   [
+    "saltreach",
+    "aurelion",
+    27,
+    0
+   ],
+   [
+    "goldwind",
+    "aurelion",
+    6,
+    0
+   ],
+   [
+    "goldwind",
+    "sunhold",
+    5,
+    0
+   ],
+   [
+    "goldwind",
+    "highspire",
+    4,
+    0
+   ],
+   [
+    "goldwind",
+    "everfall",
+    7,
+    0
+   ],
+   [
+    "goldwind",
+    "duskmire-haven",
+    1,
+    0
+   ],
+   [
+    "goldwind",
+    "easthold-westwatch-and-pearl-groove",
+    5,
+    0
+   ],
+   [
+    "easthold-westwatch-and-pearl-groove",
+    "silverport",
+    3,
+    0
+   ],
+   [
+    "silverport",
+    "briarcrown",
+    2,
+    0
+   ],
+   [
+    "briarcrown",
+    "elyria",
+    3,
+    0
+   ],
+   [
+    "everfall",
+    "southhaven",
+    54,
+    0
+   ],
+   [
+    "sunhold",
+    "southhaven",
+    57,
+    0
+   ],
+   [
+    "southhaven",
+    "kaskan",
+    8,
+    0
+   ],
+   [
+    "southhaven",
+    "ironport",
+    12,
+    0
+   ],
+   [
+    "southhaven",
+    "zalkareth",
+    18,
+    0
+   ],
+   [
+    "zalkareth",
+    "hollowkey",
+    12,
+    0
+   ],
+   [
+    "jakupur",
+    "hollowkey",
+    16,
+    0
+   ],
+   [
+    "zalkareth",
+    "varan-port",
+    62,
+    0
+   ],
+   [
+    "varan-port",
+    "frosthold",
+    10,
+    0
+   ],
+   [
+    "varan-port",
+    "kaldmark",
+    12,
+    0
+   ],
+   [
+    "frosthold",
+    "crystalhaven",
+    8,
+    0
+   ],
+   [
+    "frosthold",
+    "snowvah",
+    26,
+    0
+   ]
+  ],
+  "modes": [
+   {
+    "id": "deck",
+    "name": "Deck passage, your own food",
+    "bits": 3,
+    "time": 1,
+    "note": "A patch of deck and a share of the water. Bring a blanket."
+   },
+   {
+    "id": "rations",
+    "name": "Deck passage, ship's rations",
+    "bits": 5,
+    "time": 1,
+    "note": "Biscuit, salt-fish, and a lemon, with the crew."
+   },
+   {
+    "id": "cabin",
+    "name": "Cabin passage",
+    "bits": 20,
+    "time": 1,
+    "note": "A door that shuts, and meals at the captain's table. The ice charges a fifth more."
+   },
+   {
+    "id": "packet-deck",
+    "name": "Fast packet (Corvane Line), deck with rations",
+    "bits": 7.5,
+    "time": 0.6666666666666666,
+    "note": "Half again the fare, and a third off the time. Packets call at the great ports. Anywhere else, it means paying a fast hull to go out of its way."
+   },
+   {
+    "id": "packet-cabin",
+    "name": "Fast packet (Corvane Line), cabin",
+    "bits": 30,
+    "time": 0.6666666666666666,
+    "note": "The quickest legal way to be anywhere."
+   },
+   {
+    "id": "convoy",
+    "name": "In convoy, deck with rations",
+    "bits": 5,
+    "time": 1.3333333333333333,
+    "note": "A third longer, and the safest way to cross a bad season."
+   },
+   {
+    "id": "quiet",
+    "name": "A quiet passage (the Undertow)",
+    "bits": 10,
+    "time": 1,
+    "note": "No papers, no name in the harbor book, and no questions either way. It lands where the captain says it lands."
+   },
+   {
+    "id": "own",
+    "name": "Your own ship",
+    "bits": 2,
+    "time": 1,
+    "note": "Rations only, two Bits a head a day. The ship, the crew, and the repairs are your own affair."
+   }
+  ],
+  "ice": 1.2,
+  "notes": {
+   "greyhaven": "A pilot through the Widow's Teeth is 1 Anchor, paid by the ship.",
+   "goldwind": "A harbor ferry between the rings is 1 Bit.",
+   "ironfort": "Everything that sails between the islands and Assios stops here first, and pays.",
+   "varan-port": "The ice charges for the ice.",
+   "black-harbor": "No harbor office sells this passage. Ask for Aunt Brine.",
+   "hollowkey": "Hollowkey is on no chart. Somebody has to take you.",
+   "serpents-coil": "Nobody lands on the Coil by accident.",
+   "crystalhaven": "Trust no light on the blue-ice coast.",
+   "jakupur": "Ixtalu is a day upriver by boat."
+  }
+ },
+ "loot": {
+  "gems": [
+   [
+    "a river agate",
+    0.5
+   ],
+   [
+    "a moss agate",
+    0.5
+   ],
+   [
+    "a tiger-eye",
+    1
+   ],
+   [
+    "a chip of amber",
+    1
+   ],
+   [
+    "a freshwater pearl",
+    1
+   ],
+   [
+    "a moonstone",
+    2
+   ],
+   [
+    "a blue quartz",
+    1
+   ],
+   [
+    "a bloodstone",
+    3
+   ],
+   [
+    "a carnelian",
+    3
+   ],
+   [
+    "a piece of jet",
+    2
+   ],
+   [
+    "a zircon",
+    4
+   ],
+   [
+    "an onyx",
+    4
+   ],
+   [
+    "a rose quartz",
+    2
+   ],
+   [
+    "a garnet",
+    8
+   ],
+   [
+    "a sea pearl",
+    10
+   ],
+   [
+    "a spinel",
+    10
+   ],
+   [
+    "an amethyst",
+    10
+   ],
+   [
+    "a tourmaline",
+    10
+   ],
+   [
+    "a peridot",
+    25
+   ],
+   [
+    "an aquamarine",
+    25
+   ],
+   [
+    "a topaz",
+    30
+   ],
+   [
+    "a black pearl",
+    50
+   ],
+   [
+    "a fire opal",
+    60
+   ],
+   [
+    "a Sapphire Isle sapphire",
+    100
+   ],
+   [
+    "an emerald",
+    120
+   ],
+   [
+    "a star ruby",
+    150
+   ],
+   [
+    "a flawless diamond",
+    400
+   ],
+   [
+    "a rough Krysta shard, unregistered",
+    20
+   ]
+  ],
+  "metals": [
+   [
+    "carved driftwood",
+    0.3
+   ],
+   [
+    "heartcedar",
+    0.4
+   ],
+   [
+    "bone",
+    0.4
+   ],
+   [
+    "horn",
+    0.5
+   ],
+   [
+    "sea-shell",
+    0.5
+   ],
+   [
+    "tin",
+    0.7
+   ],
+   [
+    "copper",
+    1
+   ],
+   [
+    "brass",
+    1.2
+   ],
+   [
+    "pewter",
+    1.5
+   ],
+   [
+    "bronze",
+    1.5
+   ],
+   [
+    "ironwood",
+    2
+   ],
+   [
+    "jet",
+    3
+   ],
+   [
+    "red coral",
+    5
+   ],
+   [
+    "silver",
+    10
+   ],
+   [
+    "whale ivory",
+    12
+   ],
+   [
+    "Aurelion goldwork",
+    80
+   ],
+   [
+    "gold",
+    60
+   ]
+  ],
+  "jewelry": [
+   [
+    "a ring",
+    0.05
+   ],
+   [
+    "a plain band",
+    0.04
+   ],
+   [
+    "a signet ring",
+    0.1
+   ],
+   [
+    "a thumb ring",
+    0.06
+   ],
+   [
+    "a brooch",
+    0.12
+   ],
+   [
+    "a cloak-pin",
+    0.1
+   ],
+   [
+    "a pendant",
+    0.1
+   ],
+   [
+    "a locket",
+    0.15
+   ],
+   [
+    "a torc",
+    0.4
+   ],
+   [
+    "an armlet",
+    0.3
+   ],
+   [
+    "a bracelet",
+    0.2
+   ],
+   [
+    "a pair of earrings",
+    0.1
+   ],
+   [
+    "a hairpin",
+    0.06
+   ],
+   [
+    "a comb",
+    0.1
+   ],
+   [
+    "a belt buckle",
+    0.12
+   ],
+   [
+    "a chain",
+    0.4
+   ],
+   [
+    "an anklet",
+    0.15
+   ],
+   [
+    "a circlet",
+    0.6
+   ],
+   [
+    "a set of six buttons",
+    0.1
+   ],
+   [
+    "a ship's whistle on a cord",
+    0.08
+   ],
+   [
+    "a prayer-token of Tholmar",
+    0.05
+   ],
+   [
+    "a pair of cuff-links",
+    0.1
+   ]
+  ],
+  "jdetail": [
+   [
+    "",
+    1
+   ],
+   [
+    "",
+    1
+   ],
+   [
+    "",
+    1
+   ],
+   [
+    ", worn smooth",
+    0.8
+   ],
+   [
+    ", engraved with a ship's name",
+    1.3
+   ],
+   [
+    ", engraved with initials nobody here has",
+    1.2
+   ],
+   [
+    ", stamped with a guild mark",
+    1.4
+   ],
+   [
+    ", in the old Korvan style",
+    1.6
+   ],
+   [
+    ", set with a chip of garnet",
+    2
+   ],
+   [
+    ", set with a small pearl",
+    2.5
+   ],
+   [
+    ", set with a chip of sapphire",
+    4
+   ],
+   [
+    ", with a house's arms on it",
+    2
+   ],
+   [
+    ", of very fine work",
+    3
+   ],
+   [
+    ", a matched pair with one missing",
+    0.6
+   ],
+   [
+    ", with a hidden catch",
+    1.8
+   ],
+   [
+    ", strung on a braid of hair",
+    1
+   ]
+  ],
+  "art": [
+   [
+    "a statuette",
+    0.5
+   ],
+   [
+    "a small idol",
+    0.6
+   ],
+   [
+    "a carved figure",
+    0.3
+   ],
+   [
+    "a mask",
+    0.8
+   ],
+   [
+    "a relief panel",
+    1.5
+   ],
+   [
+    "a set of game pieces",
+    1.2
+   ],
+   [
+    "a figurehead in miniature",
+    1
+   ],
+   [
+    "a votive plaque",
+    0.6
+   ],
+   [
+    "a seal-stamp",
+    0.8
+   ],
+   [
+    "a drinking cup",
+    0.4
+   ],
+   [
+    "a candlestick",
+    0.4
+   ],
+   [
+    "a small bell",
+    0.5
+   ],
+   [
+    "a puzzle box",
+    1
+   ],
+   [
+    "a chess-knight",
+    0.3
+   ],
+   [
+    "a pipe bowl",
+    0.3
+   ]
+  ],
+  "artmat": [
+   [
+    "driftwood",
+    0.5
+   ],
+   [
+    "soapstone",
+    0.8
+   ],
+   [
+    "fired clay",
+    0.4
+   ],
+   [
+    "bone",
+    0.8
+   ],
+   [
+    "horn",
+    0.8
+   ],
+   [
+    "brass",
+    1.5
+   ],
+   [
+    "bronze",
+    2
+   ],
+   [
+    "ironwood",
+    2
+   ],
+   [
+    "blue glass",
+    2
+   ],
+   [
+    "jet",
+    4
+   ],
+   [
+    "red coral",
+    6
+   ],
+   [
+    "whale ivory",
+    10
+   ],
+   [
+    "jade",
+    15
+   ],
+   [
+    "silver",
+    12
+   ],
+   [
+    "alabaster",
+    5
+   ],
+   [
+    "gold leaf over wood",
+    8
+   ],
+   [
+    "solid gold",
+    70
+   ]
+  ],
+  "made": [
+   [
+    "a ship in a bottle",
+    1
+   ],
+   [
+    "a painted miniature of a stranger, in a silver frame",
+    6
+   ],
+   [
+    "a painted miniature of a famous captain",
+    3
+   ],
+   [
+    "a music box that plays a shanty",
+    6
+   ],
+   [
+    "a music box that plays a tune nobody knows",
+    9
+   ],
+   [
+    "a painted tile from a Sunhold terrace",
+    0.3
+   ],
+   [
+    "a tapestry cushion with a house's arms",
+    0.7
+   ],
+   [
+    "a small oil painting of a harbor at dusk",
+    12
+   ],
+   [
+    "a framed chart, hand-colored",
+    4
+   ],
+   [
+    "a silk fan painted with cranes",
+    2
+   ],
+   [
+    "a set of Gatehold pieces in two woods",
+    1.5
+   ],
+   [
+    "a Nine Ports deck with gilt edges",
+    2
+   ],
+   [
+    "a kite of painted silk",
+    1
+   ],
+   [
+    "a carved sea-chest lid with a lover's poem",
+    0.8
+   ],
+   [
+    "a glass paperweight with a storm in it",
+    3
+   ],
+   [
+    "a festival mask with real feathers",
+    1.2
+   ],
+   [
+    "a scrimshawed whale tooth",
+    4
+   ],
+   [
+    "a tapestry of the Landing, moth-eaten",
+    15
+   ],
+   [
+    "a porcelain tea set from Silverport, one cup missing",
+    8
+   ],
+   [
+    "a book of hand-painted birds",
+    10
+   ],
+   [
+    "a puppet of a Pocchin merchant, strings intact",
+    0.4
+   ],
+   [
+    "a tooled leather map-case",
+    1.5
+   ]
+  ],
+  "subjects": [
+   "of Malim at play",
+   "of Momumba",
+   "of Badron on the wing",
+   "of a whale",
+   "of a Hunter with her Sigil",
+   "of Tholmar at the wheel",
+   "of Liora",
+   "of a ferry turtle",
+   "of a lampet with its pebble",
+   "of a saurian and rider",
+   "of a lighthouse",
+   "of a ship under full sail",
+   "of a Summer knight",
+   "of somebody's grandmother",
+   "of a dragon nobody can name",
+   "of a dancing Florian",
+   "of an Old Shell",
+   "of the two moons",
+   "of a Pocchin mid-bellow",
+   "of a thunderbird",
+   "of an anchor and a rose",
+   "of a keeper and a lantern mouse",
+   "of a kraken",
+   "of a dwarf at a forge",
+   "of a child with a kite"
+  ],
+  "clothes": [
+   [
+    "a fine linen shirt",
+    0.5
+   ],
+   [
+    "a silk shirt from Silverport",
+    3
+   ],
+   [
+    "a pair of good sea-boots",
+    0.6
+   ],
+   [
+    "boots of superior make",
+    2
+   ],
+   [
+    "a captain's coat with silver buttons",
+    6
+   ],
+   [
+    "an oilskin of superior make",
+    1.5
+   ],
+   [
+    "a Tarvan tartan cloak",
+    1
+   ],
+   [
+    "a wolf-fur cloak",
+    4
+   ],
+   [
+    "a pair of kid gloves",
+    0.4
+   ],
+   [
+    "a feathered hat",
+    0.8
+   ],
+   [
+    "a tricorn with a gold cord",
+    2
+   ],
+   [
+    "a silk sash",
+    0.8
+   ],
+   [
+    "a lace collar",
+    1
+   ],
+   [
+    "a velvet doublet",
+    4
+   ],
+   [
+    "a ball gown a season out of fashion",
+    8
+   ],
+   [
+    "a darksilk scarf",
+    5
+   ],
+   [
+    "a sealskin coat",
+    3
+   ],
+   [
+    "a belt of saurian leather",
+    0.7
+   ],
+   [
+    "a pair of dancing shoes",
+    0.5
+   ],
+   [
+    "a nightshirt of fae-touched linen that is never cold",
+    12
+   ],
+   [
+    "a sailor's best neckcloth",
+    0.1
+   ],
+   [
+    "a fine wool waistcoat",
+    1.2
+   ],
+   [
+    "a pair of smoked lenses",
+    1.5
+   ],
+   [
+    "a bride's veil",
+    2
+   ]
+  ],
+  "kit": [
+   [
+    "a brass spyglass",
+    10
+   ],
+   [
+    "a pocket compass",
+    2
+   ],
+   [
+    "a set of navigator's tools",
+    25
+   ],
+   [
+    "a healer's kit",
+    5
+   ],
+   [
+    "a set of thieves' tools",
+    25
+   ],
+   [
+    "a hooded lantern",
+    0.5
+   ],
+   [
+    "a Goldwind lantern",
+    3
+   ],
+   [
+    "a tinderbox in a silver case",
+    1.5
+   ],
+   [
+    "a fine razor and strop",
+    0.5
+   ],
+   [
+    "a set of calligrapher's supplies",
+    10
+   ],
+   [
+    "a fishing kit of superior make",
+    1.2
+   ],
+   [
+    "a fifty-foot coil of silk rope",
+    10
+   ],
+   [
+    "a good lock and two keys",
+    10
+   ],
+   [
+    "a hand mirror",
+    5
+   ],
+   [
+    "a deck of Nine Ports cards, marked",
+    0.5
+   ],
+   [
+    "a set of loaded dice",
+    0.3
+   ],
+   [
+    "a flute",
+    2
+   ],
+   [
+    "a fiddle",
+    8
+   ],
+   [
+    "a set of pipes",
+    3
+   ],
+   [
+    "a merchant's scale and weights",
+    5
+   ],
+   [
+    "an hourglass",
+    2
+   ],
+   [
+    "a set of cook's knives",
+    1.5
+   ],
+   [
+    "a whetstone and oil in a fitted box",
+    0.3
+   ],
+   [
+    "a writing case with ink and quills",
+    1
+   ]
+  ],
+  "papers": [
+   [
+    "a letter of credit on the Reckoners' Hall",
+    10
+   ],
+   [
+    "a letter of credit on the Reckoners' Hall",
+    50
+   ],
+   [
+    "the deed to a fisher's cottage on an outer island",
+    10
+   ],
+   [
+    "a share in a cargo not yet landed",
+    15
+   ],
+   [
+    "a freight-note of the Corvane Line",
+    5
+   ],
+   [
+    "a Chartwright's chart of a coast nobody here knows",
+    5
+   ],
+   [
+    "a paid-up berth to Southhaven, transferable",
+    3
+   ],
+   [
+    "a pawn ticket from a Goldwind broker",
+    1
+   ],
+   [
+    "a betting slip on next season's Merrin Games",
+    0.5
+   ],
+   [
+    "a licence to trade in a port two regions away",
+    4
+   ],
+   [
+    "a promissory note signed by a minor noble",
+    20
+   ],
+   [
+    "a book of pressed southern flowers, annotated",
+    2
+   ],
+   [
+    "a bundle of love letters, tied with a ribbon",
+    0.1
+   ],
+   [
+    "a logbook with three pages cut out",
+    0.5
+   ],
+   [
+    "a wanted poster, with the reward underlined",
+    0.1
+   ],
+   [
+    "a printed book in good condition",
+    3
+   ],
+   [
+    "a hand-copied book of charms, mostly wrong",
+    6
+   ],
+   [
+    "a Hunter adventure-scroll, signed",
+    1
+   ]
+  ],
+  "curios": [
+   [
+    "a lantern mouse in a wicker cage",
+    1
+   ],
+   [
+    "a jar of veil butterflies",
+    2
+   ],
+   [
+    "a twist of Ranking cards, unopened",
+    0.01
+   ],
+   [
+    "a silver-edged Ranking card in oilcloth",
+    2
+   ],
+   [
+    "a coat patch from a port you have not seen",
+    0.2
+   ],
+   [
+    "a lullaby cricket in a brass cage",
+    1.5
+   ],
+   [
+    "a homeward snail in a box of damp moss",
+    2
+   ],
+   [
+    "a tooth the size of a hand",
+    1
+   ],
+   [
+    "a jar of something that glows faintly",
+    0.5
+   ],
+   [
+    "a child's kite, well mended",
+    0.05
+   ],
+   [
+    "a glass eye",
+    0.3
+   ],
+   [
+    "a wooden leg with a hollow in it",
+    0.5
+   ],
+   [
+    "a bag of marbles, one of them a pearl",
+    1
+   ],
+   [
+    "a key with no lock",
+    0.1
+   ],
+   [
+    "a pinch of Roam-salt in a twist of paper",
+    5
+   ],
+   [
+    "a bottle with a storm painted inside it",
+    3
+   ],
+   [
+    "a tin of Sunhold brightleaf",
+    0.2
+   ],
+   [
+    "a memory-pearl, cloudy",
+    30
+   ],
+   [
+    "a scale from something large",
+    4
+   ],
+   [
+    "a fae coin that is a leaf by morning",
+    0.01
+   ],
+   [
+    "a compass that points at something other than north",
+    8
+   ],
+   [
+    "a bosun's call that is slightly warm",
+    15
+   ]
+  ],
+  "drink": [
+   [
+    "a bottle of kellum",
+    0.3
+   ],
+   [
+    "a cask of Ironfort black ale",
+    0.5
+   ],
+   [
+    "a bottle of a good Sunhold year",
+    2
+   ],
+   [
+    "a bottle of a great Sunhold year",
+    10
+   ],
+   [
+    "a pot of Sporrn salve",
+    0.5
+   ],
+   [
+    "a sack of Greymoor coffee",
+    2
+   ],
+   [
+    "a jar of southern honey",
+    0.2
+   ],
+   [
+    "a box of wrackcandy",
+    0.05
+   ],
+   [
+    "a brick of Sunhold brightleaf",
+    1
+   ],
+   [
+    "a tin of cacao",
+    1
+   ],
+   [
+    "a flask of whale-oil",
+    0.3
+   ],
+   [
+    "a bottle of something from Varan Port, unlabeled",
+    1
+   ],
+   [
+    "a twist of southleaf",
+    0.1
+   ],
+   [
+    "a crock of pickled things, Pocchin-sealed",
+    0.2
+   ],
+   [
+    "a bottle of fae-wine, corked with wax",
+    40
+   ],
+   [
+    "a vial of Silverport perfume",
+    4
+   ],
+   [
+    "a healing draught from a Concord temple",
+    5
+   ]
+  ],
+  "makes": [
+   [
+    "a crude",
+    0.1,
+    3
+   ],
+   [
+    "a sound",
+    1,
+    10
+   ],
+   [
+    "a fine",
+    3,
+    6
+   ],
+   [
+    "a signed masterpiece of a",
+    10,
+    1
+   ]
+  ],
+  "mint": [
+   "in Anchors and Tides",
+   "mostly in Bits, in a sock",
+   "in clean new Tides",
+   "in old Korvan coin, worth its weight",
+   "sewn into a coat lining",
+   "in a locked cashbox with no key",
+   "in a purse with somebody's initials",
+   "in mixed coin from four regions",
+   "in a money-belt",
+   "loose in the bottom of a sea-chest"
   ]
  },
  "sigils": {
