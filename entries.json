@@ -926,7 +926,8 @@
    "cindren",
    "glass-forest",
    "vorthani",
-   "savage-lords"
+   "savage-lords",
+   "ash-wardens"
   ],
   "illustration": {
    "src": "assets/scenes/everfall-painterly-v2-960.webp",
@@ -1310,7 +1311,8 @@
   "related": [
    "everfall",
    "cindren",
-   "savage-lords"
+   "savage-lords",
+   "ash-wardens"
   ],
   "illustration": {
    "src": "assets/scenes/glass-forest-painterly-v1-960.webp",
@@ -1746,7 +1748,8 @@
   "related": [
    "everfall",
    "vorthani",
-   "glass-forest"
+   "glass-forest",
+   "ash-wardens"
   ],
   "illustration": {
    "src": "assets/peoples/cindren-v1-960.webp",
@@ -15705,7 +15708,11 @@
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
-  "aliases": [],
+  "aliases": [
+   "Pearl Groove",
+   "the Pelagar isle",
+   "Pelagar Isle"
+  ],
   "related": [
    "twelve-flags",
    "heartland",
@@ -27399,6 +27406,36 @@
      "Rite: the Reading of the Wings: before the storm season, sky-watchers and Aethyn look for her, and a sighting reshapes the season's sailing.",
      "Legend: that every truly world-ending storm in the archipelago's history has had her at its eye, and that she is not malicious, merely vast, and the storms are only what it looks like when she stretches."
     ]
+   },
+   {
+    "title": "How she hunts",
+    "paragraphs": [
+     "Badron hunts the way weather hunts. She arrives. Where she beats her wings, storms are born. She takes whales from the surface and ships from the swell. Sailors who see her shadow on the water turn back, if they can."
+    ]
+   },
+   {
+    "title": "Her brood",
+    "paragraphs": [
+     "Lesser thunderbirds, scattered across the high airs. The eldest is the Thunder-Regent, old enough to keep storms of its own. It rules the low weather while Badron sleeps, and Galven crews dip their colors when it passes."
+    ]
+   },
+   {
+    "title": "Who lives beside her",
+    "paragraphs": [
+     "The Aethyn regard her with wary reverence, as kin of the high air. Coastal folk read her as a storm-omen and plan the year around it."
+    ]
+   },
+   {
+    "title": "The Reading of the Wings",
+    "paragraphs": [
+     "Before the storm season, sky-watchers and Aethyn look for her. A single sighting changes that season’s sailing for every port that hears of it."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "Every storm in the islands’ history that nearly ended something has had her at its eye."
+    ]
    }
   ],
   "facts": [
@@ -27409,6 +27446,14 @@
    [
     "Where",
     "The high winds"
+   ],
+   [
+    "Bound to",
+    "the Breath That Wanders, and the fury of the sky"
+   ],
+   [
+    "Rite",
+    "The Reading of the Wings"
    ]
   ],
   "source": "The Savage Lords",
@@ -27496,6 +27541,36 @@
     ]
    },
    {
+    "title": "How it hunts",
+    "paragraphs": [
+     "KakanKal sleeps in the magma under Everfall for years, sometimes decades. When it wakes it eats the island: stone, forest, and anything alive. Everfall lives in the lull between its breaths."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "Fire-lizards. Smiths prize their shed scales and ember-blood, and the Cindren hold them close to sacred."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "House Emberheart’s old fire-cult has ties to it. The Ash Wardens keep an unending watch for its waking. The mining houses dig for Krysta in the rock above its bed, and the Wardens swear that this is how Everfall ends."
+    ]
+   },
+   {
+    "title": "The Ember Vigil",
+    "paragraphs": [
+     "On Okram 5th the Ash Wardens keep their watch through the night, and the volcanic isles hold a festival for one more year in which the Emperor did not wake."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "It does not sleep. It dreams, and the tremors are the Emperor turning over. One day it will wake hungry, and Everfall will be the first thing it eats."
+    ]
+   },
+   {
     "title": "Game Master’s secrets",
     "paragraphs": [],
     "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBUaGlydHkgb2YgdGhlIENhbGRlcmEgKDEzMyBFQykuKiogQSBHb2xkIGNyZXcgb2YgdGhlIEdvbGR3aW5kIExvZGdlLCB0d2VudHktbmluZSBIdW50ZXJzIGFuZCBhbiBBc2ggV2FyZGVuIGd1aWRlLCB3ZW50IGRvd24gaW50byB0aGUgY2FsZGVyYSB3aGlsZSBLYWthbkthbCBzbGVwdC4gT25seSB0aGUgZ3VpZGUgY2FtZSBiYWNrLCBhbmQgc2hlIG5ldmVyIHNwb2tlIGFnYWluLiBLYWthbkthbCBkaWQgbm90IHdha2UuIFRoZSBMZWRnZXIgb2YgRGVlZHMgcmVjb3JkcyB0aGUgY29udHJhY3QgYXMgd2l0aGRyYXduIGJ5IHRoZSBCb2FyZC4iXX0="
@@ -27509,6 +27584,14 @@
    [
     "Where",
     "Under Everfall"
+   ],
+   [
+    "Bound to",
+    "the Hunger That Warms"
+   ],
+   [
+    "Rite",
+    "The Ember Vigil"
    ]
   ],
   "source": "The Savage Lords",
@@ -27518,7 +27601,8 @@
    "cindren",
    "hearth-newt",
    "house-emberheart",
-   "heartland"
+   "heartland",
+   "ash-wardens"
   ],
   "illustration": {
    "src": "assets/savage-lords/kakankal-kaiju-v1-960.webp",
@@ -27548,6 +27632,36 @@
      "Rite: the Watch of the Five: Aethyn and storm-priests chart which layer Kayuntu rules in a given season, for it is death to fly there.",
      "Legend: that Kayuntu has, twice in recorded memory, flown so high it crossed the thin veil into the Faewild, and come back changed, and angrier."
     ]
+   },
+   {
+    "title": "How it hunts",
+    "paragraphs": [
+     "Kayuntu rules by height. The sky over the Wilds has five layers: the low breeze, the storm-band, the high cloud, the star-cold dark, and the thin edge that touches the Faewild. It hunts on the wing through all five, takes whatever flies, and chases any rival out of its heavens. It hates Badron above all."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "Lesser wyverns of the upper airs, each holding one narrow band of sky and fighting its neighbors over it."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "Sky-watchers and Aethyn chart its wars. When Kayuntu and Badron meet overhead, everyone agrees it is an omen and nobody agrees of what."
+    ]
+   },
+   {
+    "title": "The Watch of the Five",
+    "paragraphs": [
+     "Each season the Aethyn and the storm-priests work out which layer Kayuntu holds. It is death to fly there, and the Galven charts are marked accordingly."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "Twice in memory it has flown so high that it crossed into the Faewild. Both times it came back changed, and angrier."
+    ]
    }
   ],
   "facts": [
@@ -27558,6 +27672,14 @@
    [
     "Where",
     "The skies over the Wilds"
+   ],
+   [
+    "Bound to",
+    "the Breath That Wanders"
+   ],
+   [
+    "Rite",
+    "The Watch of the Five"
    ]
   ],
   "source": "The Savage Lords",
@@ -27595,6 +27717,36 @@
      "Cults & tribes: the river tribes adore and fear it in equal measure; they keep their rivers clean for it and tell their children Malim is watching, so be kind to the water.",
      "Legend: that Malim once played with a drowning child, and, on a whim no one can explain, carried her gently to shore instead, and that this is why the river-tribes believe kindness to the water is repaid."
     ]
+   },
+   {
+    "title": "How it hunts",
+    "paragraphs": [
+     "Malim plays. It handles a boat the way an otter handles a shell: bats it, drags it under, comes up to watch. Whole fishing fleets have vanished in its games. It has all the fish it wants, so it does not kill people out of hunger. It does it for fun, and the river-folk find that far worse."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "Giant otters, lesser and still dangerous, that infest the larger rivers and take after their parent."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "The river tribes adore it and fear it in equal measure. They keep their rivers clean for it, and tell their children that Malim is watching, so be kind to the water."
+    ]
+   },
+   {
+    "title": "The Laughing Water",
+    "paragraphs": [
+     "A river-festival of music, races, and offerings of fish, also called Malim’s Play. The tribes celebrate the very thing that could drown them. To skip the offering, or to foul the river, is to invite a game."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "Malim once played with a drowning child, and then, for no reason anyone can give, carried her gently to shore. The river tribes say that is why kindness to the water is repaid."
+    ]
    }
   ],
   "facts": [
@@ -27605,6 +27757,14 @@
    [
     "Where",
     "Rivers, deltas, coasts"
+   ],
+   [
+    "Bound to",
+    "the Drowning Mother"
+   ],
+   [
+    "Rite",
+    "The Laughing Water"
    ]
   ],
   "source": "The Savage Lords",
@@ -27644,6 +27804,36 @@
     "paragraphs": [
      "The Gorobaki of the southern islands are his kin: true apes, enormous, and hung with gold. They are not his subjects, and they do not come when he calls. They do remember him."
     ]
+   },
+   {
+    "title": "How he hunts",
+    "paragraphs": [
+     "Momumba does not rampage. He plans. He commands a cohort of lesser girallons the way a general commands a host: he sets ambushes, takes ground, and holds it. He eats what the jungle offers, which is fruit, beasts, and now and then an army foolish enough to march under his trees. He would sooner be obeyed than feared."
+    ]
+   },
+   {
+    "title": "His brood",
+    "paragraphs": [
+     "His girallon cohort. They are smaller than he is, and they are the most disciplined brood of any Lord. They fight in ranks."
+    ]
+   },
+   {
+    "title": "Who lives beside him",
+    "paragraphs": [
+     "The canopy-tribes who share his valleys pay him tribute in fruit and in enemies, and in return he leaves their villages standing. Some of them treat his moods as law."
+    ]
+   },
+   {
+    "title": "The Tribute of the Ape",
+    "paragraphs": [
+     "Each season the tribes leave fruit, and bound captives, at the edge of his territory. Nobody watches it being collected."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "He once held a whole conversation with a Hunter who had come to kill him, and let her live because she asked the right question. Nobody agrees what the question was, and she never told."
+    ]
    }
   ],
   "facts": [
@@ -27658,6 +27848,14 @@
    [
     "Arms",
     "Four"
+   ],
+   [
+    "Bound to",
+    "the Green Fire of the living jungle"
+   ],
+   [
+    "Rite",
+    "The Tribute of the Ape"
    ]
   ],
   "source": "The Savage Lords",
@@ -27691,6 +27889,36 @@
      "Rite: the Unspoken: when one must cross the Bonewilds, one goes in silence, leaves a portion of one's kill, and does not look back.",
      "Legend: that Shakarr is not a beast at all but the Bonewilds' own death given shape, and that everything that dies in the south, in some sense, passes through its jaws."
     ]
+   },
+   {
+    "title": "How it hunts",
+    "paragraphs": [
+     "Nobody sees Shakarr. They see its work: a kill with no struggle and no sound, the prey simply ended, and left where it lay or taken. It feeds on the dying and the dead of the Bonewilds, and perhaps on the passing itself."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "Shadow-things: lesser predators that seep out of the dark of the Bonewilds and kill the same way, silent and clean."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "The people of the south do not say its name aloud. There is no cult. There is a very large, very careful silence."
+    ]
+   },
+   {
+    "title": "The Unspoken",
+    "paragraphs": [
+     "Anyone who must cross the Bonewilds goes without speaking, leaves a share of every kill, and does not look back."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "Shakarr is not a beast at all. It is the Bonewilds’ own death, given a shape, and everything that dies in the south passes through its jaws."
+    ]
    }
   ],
   "facts": [
@@ -27701,6 +27929,14 @@
    [
     "Where",
     "The Bonewilds"
+   ],
+   [
+    "Bound to",
+    "the Quiet Door"
+   ],
+   [
+    "Rite",
+    "The Unspoken"
    ]
   ],
   "source": "The Savage Lords",
@@ -27736,6 +27972,36 @@
      "Rite: the Reading of the Mud: lizardfolk elders interpret Ssvayuk's stirrings as prophecy; a single great movement of the Mud That Breathes can send a whole tribe migrating.",
      "Legend: that Ssvayuk is so old it remembers the giants, and that if it ever truly rose: uncoiled its full length from the bog it has worn like a blanket for ten thousand years, the south would learn that what it called a swamp was a sleeping titan."
     ]
+   },
+   {
+    "title": "How it hunts",
+    "paragraphs": [
+     "Ssvayuk hardly moves. It lies half-buried for centuries with trees and false islands grown over its back, and takes whatever wanders onto that ground or into the black water of its hollows. Travelers have pitched camp on it. It feeds slowly, by the season."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "The Mirewallow saurians are said to be its distant kin. Lesser bog-serpents live along its edges."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "The lizardfolk of the bogs revere it as a grandmother-god, and read omens in the rare shifts of its body."
+    ]
+   },
+   {
+    "title": "The Reading of the Mud",
+    "paragraphs": [
+     "Lizardfolk elders read its stirrings as prophecy. One great movement of the Mud That Breathes can set a whole tribe walking."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "It is so old that it remembers the giants. If it ever uncoiled its full length from the bog it has worn like a blanket for ten thousand years, the south would learn that its swamp was a sleeping titan."
+    ]
    }
   ],
   "facts": [
@@ -27746,6 +28012,14 @@
    [
     "Where",
     "The great bogs"
+   ],
+   [
+    "Bound to",
+    "the Marsh, which is water and earth together"
+   ],
+   [
+    "Rite",
+    "The Reading of the Mud"
    ]
   ],
   "source": "The Savage Lords",
@@ -27784,6 +28058,36 @@
     ]
    },
    {
+    "title": "How it hunts",
+    "paragraphs": [
+     "Thalgorath rises from the Sunken Thrones only rarely. When it does, a coastal town is gone by morning. There is no wreckage and there are no bodies, only empty foundations and a high-water line."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "The horrors of the abyssal trenches: things the sea-peoples themselves flee."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "The deep sea-peoples have their own name for it and will not teach it to anyone from the surface. Some of the darkest deep cults may worship it as the hand of Mhavros."
+    ]
+   },
+   {
+    "title": "The dread of the King Tide",
+    "paragraphs": [
+     "When both moons and the sun align and the deep climbs highest, coastal folk who know the old fears stay far from the water."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "It does not rise to feed. It rises to remember, when something in the deep has changed, and a town is only the cost of its attention."
+    ]
+   },
+   {
     "title": "Game Master’s secrets",
     "paragraphs": [],
     "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoYWxnb3JhdGggaXMgS2F0aCdzIExvcmQuKiogV2hlbiBpdCByaXNlcyBhbmQgYSBjb2FzdGFsIHRvd24gaXMgZ29uZSBieSBtb3JuaW5nLCB0aGUgdG93biBoYXMgbm90IGJlZW4gZWF0ZW4uIEl0IGhhcyBiZWVuIGtlcHQuIiwgIioqS2F0aCBpcyB0aGUgaGFsZiBvZiB0aGUgc2VhIHRoYXQga2VlcHMuKiogVGhlIFdhdGVyIEFzcGVjdCB3YXMgdG9ybiBpbiB0d28gd2hlbiBDaGFvcyB3YXMgY2FnZWQuIE9uZSBoYWxmIGlzIHRoZSBEcm93bmluZyBNb3RoZXIsIHdobyB0YWtlcyBhbmQgZ2l2ZXMgYmFjay4gVGhlIG90aGVyIHNhbmsgYW5kIGtlZXBzIGV2ZXJ5dGhpbmcgdGhhdCBzaW5rczogc2hpcHMsIGJvZGllcywgd29yZHMsIG1pbmRzLiIsICIqKlRoZSBIZWFydHMgYXJlIHR3aW5zLioqIFRoZSBIZWFydCBvZiB0aGUgU2VhIG9uIEFudWvDoWxpIGlzIHRoZSBEcm93bmluZyBNb3RoZXIncy4gVGhlIEhlYXJ0IG9mIEthdGggaXMgdGhlIG90aGVyIGhhbGYncy4gRWFjaCBpcyB0aGUgb25seSB0aGluZyBpbiB0aGUgd29ybGQgdGhhdCBjYW4gd2FrZSB0aGUgb3RoZXIsIGFuZCBub2JvZHkgd2hvIGtlZXBzIGVpdGhlciBvbmUga25vd3MgaXQuIl19"
@@ -27797,6 +28101,14 @@
    [
     "Where",
     "The Sunken Thrones, Abyssara's edge"
+   ],
+   [
+    "Bound to",
+    "Mhavros, and the devouring deep"
+   ],
+   [
+    "Rite",
+    "The dread of the King Tide"
    ]
   ],
   "source": "The Savage Lords",
@@ -27837,6 +28149,36 @@
      "Rite: the Stilling: when Tyrak'Zhul is known to be moving, the deep tribes still their saurian-herds and go silent, for a panicked herd draws the First Jaw.",
      "Legend: that the saurians do not fear Tyrak'Zhul as prey fears a predator, but as children fear a stern god: and that it does not hunt them out of hunger but out of judgment, culling the saurian world to keep it strong."
     ]
+   },
+   {
+    "title": "How it hunts",
+    "paragraphs": [
+     "Tyrak’Zhul is the apex that the other apexes fear. It hunts the greatest beasts of the deep jungle, the Eldersaurs and the Dreadmaws, and the saurians themselves flee its ground. It eats the mighty. Nothing small is worth its jaws."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "Every Dreadmaw and Swordtooth is its descendant, in the long view. Its direct brood are titanic theropods, each an Eldersaur in its own right."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "The saurian-tamers of Jakupur keep a careful, awed distance. The deep tribes call it the First Jaw and the Tyrant-Father, and some saurian-cults hold that all saurians will return to it in the end."
+    ]
+   },
+   {
+    "title": "The Stilling",
+    "paragraphs": [
+     "When the First Jaw is known to be moving, the deep tribes still their herds and go silent. A panicked herd draws it."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "The saurians do not fear it as prey fears a hunter. They fear it as children fear a stern god. It hunts them out of judgment, to keep the saurian world strong."
+    ]
    }
   ],
   "facts": [
@@ -27847,6 +28189,14 @@
    [
     "Where",
     "The saurian heartlands"
+   ],
+   [
+    "Bound to",
+    "the raw, hunting life of the Wilds"
+   ],
+   [
+    "Rite",
+    "The Stilling"
    ]
   ],
   "source": "The Savage Lords",
@@ -27885,6 +28235,36 @@
     ]
    },
    {
+    "title": "How it hunts",
+    "paragraphs": [
+     "Ulgrenn sings. Its body rings with the voices of everything it has ever swallowed, and the song carries through the tunnels and draws people down: the lost, the curious, the half-mad. They are added to the choir."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "Blind cave-things that echo scraps of the Hollow Song deeper in the earth."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "The Orka knew it, and sealed some of their deepest halls against it. Delvers who hear singing in the deep are told, by anyone who knows, to stop their ears and climb."
+    ]
+   },
+   {
+    "title": "The Stopping of the Ears",
+    "paragraphs": [
+     "Those who must go deep carry wax and a vow of silence. They never, ever sing back."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "Listen long enough and you will hear a voice you love calling your name. That is how it takes the strong, who would never follow a stranger and will always follow that."
+    ]
+   },
+   {
     "title": "Game Master’s secrets",
     "paragraphs": [],
     "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBIb2xsb3cgU29uZyBpcyB3aGF0IHRoZSBjcmFjayBzYXlzLioqIFVsZ3Jlbm4gaXMgbm8gY3JlYXR1cmUgb2YgdGhlIFZvaWQsIGJ1dCBpdHMgY2hvaXIgc2luZ3Mgd2hhdCB0aGUgVm9pZCB3aGlzcGVycyBmcm9tIHRoZSBMYW1wJ3MgY3JhY2suIFRoZSBIdW0gb2YgdGhlIFdvdW5kIGFuZCB0aGUgSG9sbG93IFNvbmcgYXJlIG9uZSBzb25nLiJdfQ=="
@@ -27898,6 +28278,14 @@
    [
     "Where",
     "The undercaverns and Orka ruins"
+   ],
+   [
+    "Bound to",
+    "the deep dark, and the Hollow"
+   ],
+   [
+    "Rite",
+    "The Stopping of the Ears"
    ]
   ],
   "source": "The Savage Lords",
@@ -27936,6 +28324,36 @@
     ]
    },
    {
+    "title": "How it hunts",
+    "paragraphs": [
+     "Vukharr moves with the killing cold. Where it walks, the food runs out: game flees, fish vanish, the land goes bare. It eats everything and is never full. Famine is its footprint."
+    ]
+   },
+   {
+    "title": "Its brood",
+    "paragraphs": [
+     "White-hunger beasts, gaunt and ravenous. The land empties ahead of them, and that is the warning."
+    ]
+   },
+   {
+    "title": "Who lives beside it",
+    "paragraphs": [
+     "The Frost Elves fear it and copy it. Their warbands paint their faces as its skull. Some bands all but worship it."
+    ]
+   },
+   {
+    "title": "The Skull-Paint and the famine-watch",
+    "paragraphs": [
+     "The paint goes on before a Frost Elf raid. The famine-watch is kept through the Long Night, when the deep Expanse fears that the Hunger is moving."
+    ]
+   },
+   {
+    "title": "The legend",
+    "paragraphs": [
+     "No wound can kill it. It can only be outlasted. It is hunger, and nobody kills hunger. You live until it has passed you by."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“The Frost Elves have stopped raiding the Auroral Vault. The Frost Elves say Vukharr is dreaming of something new.” (heard in the Icy Expanse)"
@@ -27955,6 +28373,14 @@
    [
     "Where",
     "The deep Icy Expanse"
+   ],
+   [
+    "Bound to",
+    "Ice, and hunger itself"
+   ],
+   [
+    "Rite",
+    "The Skull-Paint and the famine-watch"
    ]
   ],
   "source": "The Savage Lords",
@@ -47883,6 +48309,184 @@
    "Skull-Paint",
    "the Unpainted",
    "Rime Aelthen"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "ash-wardens",
+  "title": "The Ash Wardens",
+  "category": "power",
+  "region": "Central Heartland",
+  "subtitle": "The order that counts a sleeping Lord’s breaths",
+  "summary": "The Ash Wardens watch the volcano of Everfall for one thing: the day KakanKal, Emperor of Flames, wakes up. They have counted its breaths every day since the order began, and they would very much like the mining to stop.",
+  "epigraph": {
+   "quote": "He is not asleep. He is dreaming, and his dreams turn over under the mountain.",
+   "by": "An Ash Warden of Everfall, on the night of the Ember Vigil"
+  },
+  "facts": [
+   [
+    "Seat",
+    "Everfall"
+   ],
+   [
+    "Who they are",
+    "mostly Cindren, and anyone else who will stand the watch"
+   ],
+   [
+    "They watch",
+    "KakanKal, Emperor of Flames"
+   ],
+   [
+    "They pray to",
+    "Sathrun, the Steady Flame"
+   ],
+   [
+    "Their night",
+    "the Ember Vigil, Okram 5th"
+   ],
+   [
+    "Their enemy above ground",
+    "the Darlath mines"
+   ],
+   [
+    "Led by",
+    "First Warden Solen Ashvale"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The watch",
+    "paragraphs": [
+     "Everfall is a volcano with a city on it, and under the volcano something enormous is asleep. The Ash Wardens are the people who never forget that. They patrol the flanks, stand the rim of the caldera, and read every sign the mountain gives: the heat of the springs, the color of the smoke, the ringing of the Glass Forest.",
+     "Most Wardens are Cindren, the ember-folk of the island, because a people whose feelings show as light learn young to keep a steady glow, and the watch is nothing if not steady. But the order takes anyone who will stand it."
+    ]
+   },
+   {
+    "title": "The Count",
+    "paragraphs": [
+     "Above Everfall there is a hillside of obsidian trees, the frozen remains of an old eruption. The Cindren call it the Emperor’s first breath. The trees chime in every tremor, and the Wardens count the chiming as breaths.",
+     "Each day’s number is chalked on a slate at the post called the Chimes, and copied into a book that goes back to the founding. Everfall’s smiths check the slate on the way to work the way sailors check the sky."
+    ]
+   },
+   {
+    "title": "The bells",
+    "paragraphs": [],
+    "list": [
+     "One bell: the Count is above the season’s mark. The forges bank their fires.",
+     "Two bells: the Count has risen three days running. The mines are supposed to stop. They do not always.",
+     "Three bells: take to the boats. Three bells have never been rung.",
+     "Every Warden also carries a cold coal from the rim. If it is ever warm in the pocket, the Warden reports before doing anything else."
+    ]
+   },
+   {
+    "title": "The posts",
+    "paragraphs": [],
+    "table": {
+     "caption": "Where the Wardens stand",
+     "headers": [
+      "Post",
+      "Where",
+      "What is kept there"
+     ],
+     "rows": [
+      [
+       "The Lip",
+       "The rim of the great caldera",
+       "The oldest post. Wardens stand a night here in pairs, and do not talk."
+      ],
+      [
+       "The Chimes",
+       "The Glass Forest, above Everfall",
+       "Where the Count is taken. The obsidian trees ring in every tremor, and the Wardens count the ringing as breaths."
+      ],
+      [
+       "The Black Stair",
+       "The mouth of the Ember Roads",
+       "Set in 172 EC, when the Darlath diggers broke the wall. It watches what comes up as well as what stirs below."
+      ],
+      [
+       "The Hot Well",
+       "The black-sand springs",
+       "Where the water is read. A spring that runs hotter by a degree is entered in the book."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The quarrel with the mines",
+    "paragraphs": [
+     "The richest Krysta on the island lies in the deep rock, directly over the Emperor’s bed. The Darlath mines cut into it for the Heartland’s refineries. The Wardens say every shaft is a knock on a sleeper’s door, and they oppose the digging with a fury the mining houses do not forgive.",
+     "In 172 EC the diggers broke through a wall into the Ember Roads, the lava tubes that lead down into the Below. The Wardens set a new post at the breach the same week, and have not been thanked for it."
+    ]
+   },
+   {
+    "title": "The Ember Vigil",
+    "paragraphs": [
+     "On Okram 5th the whole order keeps the night awake, on the rim and at every post, while the island below holds a festival for one more year in which the Emperor did not wake. Near dawn the Wardens sing thirty names. Outsiders are not told whose they are."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The Count has been wrong for a month. Someone is ringing the Glass Forest at night with a hammer, and the Wardens want to know who gains if the mines close.",
+     "Two bells have rung, and the Darlath foreman has barred the Wardens from the pithead. The First Warden wants witnesses who do not work for either side.",
+     "A Warden’s cold coal went warm in a tavern in Goldwind, three days’ sail from the mountain.",
+     "A novice was sent to the Lip for her first night and came down at dawn able to recite all thirty names. Nobody had taught them to her."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "A Cindren character can be a Warden sent abroad to watch something. Decide what, and who is reading your reports.",
+     "The Wardens know the mountain’s paths better than any guide for hire, and will take you up for nothing if you carry a slate down.",
+     "Do not make a joke about the bells on Everfall."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The Steady, the Cindren contest of keeping your glow level while your friends insult you, began as a Warden’s training.",
+     "The book of the Count has never missed a day. On one page the number is written in a child’s hand.",
+     "Fire-lizards will not cross the rim on a night when the Count is high. The Wardens keep a few for that reason."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a page in the book of the Count from 133. The number on it is zero. He held his breath for a whole day, and nobody will say what was happening in the caldera.” (an Everfall glassblower)",
+     "“The mining houses have their own count. It’s lower. That’s what they pay for.” (a Darlath shift-boss)",
+     "“The First Warden’s coal has been warm for a year. She hasn’t rung anything. She’s waiting to be sure.” (a novice, off duty)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSB0aGlydHkgbmFtZXMqKiB0aGUgV2FyZGVucyBzaW5nIGF0IHRoZSBWaWdpbCBhcmUgdGhlIFRoaXJ0eSBvZiB0aGUgQ2FsZGVyYTogdHdlbnR5LW5pbmUgSHVudGVycywgYW5kIHRoZWlyIG93biBndWlkZSwgd2hvIGNhbWUgYmFjayBhbmQgbmV2ZXIgc3Bva2UgYWdhaW4uIFRoZSBwYWdlIHdpdGggYSB6ZXJvIG9uIGl0IGlzIHRoYXQgZGF5LiIsICIqKlRoZSBUaGlydHkgb2YgdGhlIENhbGRlcmEgKDEzMyBFQykuKiogQSBHb2xkIGNyZXcgb2YgdGhlIEdvbGR3aW5kIExvZGdlLCB0d2VudHktbmluZSBIdW50ZXJzIGFuZCBhbiBBc2ggV2FyZGVuIGd1aWRlLCB3ZW50IGRvd24gaW50byB0aGUgY2FsZGVyYSB3aGlsZSBLYWthbkthbCBzbGVwdC4gT25seSB0aGUgZ3VpZGUgY2FtZSBiYWNrLCBhbmQgc2hlIG5ldmVyIHNwb2tlIGFnYWluLiBLYWthbkthbCBkaWQgbm90IHdha2UuIFRoZSBMZWRnZXIgb2YgRGVlZHMgcmVjb3JkcyB0aGUgY29udHJhY3QgYXMgd2l0aGRyYXduIGJ5IHRoZSBCb2FyZC4iLCAiKipUaGUgbWluZXMgYXJlIHJpZ2h0IGFib3V0IG9uZSB0aGluZy4qKiBUaGUgRW1wZXJvcuKAmXMgYnJlYXRoaW5nIGhhcyBub3QgY2hhbmdlZCBpbiBmb3J0eSB5ZWFycy4gV2hhdCBoYXMgY2hhbmdlZCBpcyB0aGUgRW1iZXIgUm9hZHM6IHNpbmNlIDE3MiB0aGUgY2hpbWVzIGFsc28gcmluZyBmb3Igd2hhdCBtb3ZlcyBpbiB0aGUgdHViZXMsIGFuZCB0aGUgV2FyZGVucyBoYXZlIGJlZW4gY291bnRpbmcgZHJvdyByYWlkcyBhcyBicmVhdGhzIHdpdGhvdXQga25vd2luZyBpdC4iXX0="
+   }
+  ],
+  "related": [
+   "everfall",
+   "kakankal-emperor-of-flames",
+   "cindren",
+   "glass-forest",
+   "house-emberheart",
+   "below",
+   "drow",
+   "savage-lords",
+   "hunters"
+  ],
+  "aliases": [
+   "Ash Wardens",
+   "the Ash Wardens",
+   "Ash Warden",
+   "Ember Vigil",
+   "the Ember Vigil"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {

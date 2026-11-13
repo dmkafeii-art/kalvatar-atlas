@@ -2757,6 +2757,36 @@
   ]
  },
  {
+  "id": "rumor-ash-wardens-1",
+  "text": "There’s a page in the book of the Count from 133. The number on it is zero. He held his breath for a whole day, and nobody will say what was happening in the caldera.",
+  "heardAt": "heard from an Everfall glassblower",
+  "region": "Central Heartland",
+  "entries": [
+   "ash-wardens",
+   "everfall"
+  ]
+ },
+ {
+  "id": "rumor-ash-wardens-2",
+  "text": "The mining houses have their own count. It’s lower. That’s what they pay for.",
+  "heardAt": "heard from a Darlath shift-boss",
+  "region": "Central Heartland",
+  "entries": [
+   "ash-wardens",
+   "everfall"
+  ]
+ },
+ {
+  "id": "rumor-ash-wardens-3",
+  "text": "The First Warden’s coal has been warm for a year. She hasn’t rung anything. She’s waiting to be sure.",
+  "heardAt": "heard from a novice, off duty",
+  "region": "Central Heartland",
+  "entries": [
+   "ash-wardens",
+   "everfall"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",
