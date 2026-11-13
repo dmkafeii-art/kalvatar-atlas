@@ -226,7 +226,7 @@ const entryIllustrations = {
  'pyraxis-the-unbowed-flame': ['folk', 'Pyraxis watches the tournament grounds from a sunlit arch at the Noonhold.', 'Pyraxis observa el campo del torneo desde un arco soleado del Noonhold.', 'pyraxis-the-unbowed-flame-portrait'],
  'vael-mournthorn-the-crimson-reaper-king': ['folk', 'Vael Mournthorn looks up from his ledger in the Halls of the Last Bargain.', 'Vael Mournthorn alza la vista de su libro de cuentas en los Salones del Último Trato.', 'vael-mournthorn-the-crimson-reaper-king-portrait'],
  'morthryn-the-pale-empress-of-air-and-ending': ['folk', 'Morthryn sits in the Pale Hall as the first light catches her crown of ice.', 'Morthryn permanece sentada en el Salón Pálido mientras la primera luz alcanza su corona de hielo.', 'morthryn-the-pale-empress-of-air-and-ending-portrait'],
- 'aoifel-the-green-laugh': ['folk', 'Aoifel laughs from a low stone wall in the Laughing Garden.', 'Aoifel se ríe sentada sobre un muro bajo de piedra en el Jardín Risueño.', 'aoifel-the-green-laugh-portrait'],
+ 'aoifel-the-green-laugh': ['folk', 'Aoifel leaps barefoot through the Laughing Garden, eyes closed and smiling.', 'Aoifel salta descalza en el Jardín Risueño, con los ojos cerrados y una sonrisa.', 'aoifel-the-green-laugh-leap'],
  'unbound': ['folk', 'The Unbound rests with his eyes closed, a sleeping cat on his lap and a cup of coffee beside him.', 'El Unbound descansa con los ojos cerrados, un gato dormido en el regazo y una taza de café a su lado.', 'unbound-portrait'],
  'radan-sunmere': ['folk', 'Radan halts a swinging load with magic.', 'Radan detiene una carga suspendida con magia.'],
  'lysandra-vellune': ['folk', 'Amarise dispels an illusion over an object.', 'Amarise disipa la ilusión que oculta un objeto.'],
