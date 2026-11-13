@@ -2516,5 +2516,171 @@
   "entries": [
    "fae"
   ]
+ },
+ {
+  "id": "rumor-weak-summer-court",
+  "text": "Dare her. That’s the whole secret of Summer. Just be sure you want what happens after she wins.",
+  "heardAt": "heard from a fire-sprite, for a price",
+  "region": "All regions",
+  "entries": [
+   "pyraxis-the-unbowed-flame",
+   "summer-court"
+  ]
+ },
+ {
+  "id": "rumor-summer-court-1",
+  "text": "There’s a mortal who beat Aurenn Sunscar. Summer has been looking for her for sixty years, to say well fought.",
+  "heardAt": "heard from a kalashtar of Sunhold",
+  "region": "All regions",
+  "entries": [
+   "summer-court"
+  ]
+ },
+ {
+  "id": "rumor-weak-autumn-court",
+  "text": "Sing him ‘Bring Her Home’ and name your price before the last verse. It has worked once. The singer never needed to work again.",
+  "heardAt": "heard from a Goldwind balladeer",
+  "region": "All regions",
+  "entries": [
+   "vael-mournthorn-the-crimson-reaper-king",
+   "autumn-court"
+  ]
+ },
+ {
+  "id": "rumor-autumn-court-1",
+  "text": "Rue Ashmantle has never collected from a child. Autumn pretends not to have noticed.",
+  "heardAt": "heard from a border farmer",
+  "region": "All regions",
+  "entries": [
+   "autumn-court"
+  ]
+ },
+ {
+  "id": "rumor-weak-winter-court",
+  "text": "There was a thaw in midwinter, in the year 150. No storm, no wind. Somebody said something nice to somebody.",
+  "heardAt": "heard from a Frosthold whaler",
+  "region": "All regions",
+  "entries": [
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "winter-court"
+  ]
+ },
+ {
+  "id": "rumor-winter-court-1",
+  "text": "Isolwen the Unthawed spoke last winter. One word. Nobody in the Pale Hall will repeat it.",
+  "heardAt": "heard from a Frosthold trader",
+  "region": "All regions",
+  "entries": [
+   "winter-court"
+  ]
+ },
+ {
+  "id": "rumor-weak-spring-court",
+  "text": "Seven at once. A juggler, two poets, a goat-herd, a Summer knight, a Pocchin, and somebody’s grandmother. Ask any pixie.",
+  "heardAt": "heard from a Florian gardener",
+  "region": "All regions",
+  "entries": [
+   "aoifel-the-green-laugh",
+   "spring-court"
+  ]
+ },
+ {
+  "id": "rumor-spring-court-1",
+  "text": "There’s a game in the Laughing Garden that started before the Orka War. Two of the players are mortal, and they think it’s still the same afternoon.",
+  "heardAt": "heard from a Florian elder",
+  "region": "All regions",
+  "entries": [
+   "spring-court"
+  ]
+ },
+ {
+  "id": "rumor-weak-unbound",
+  "text": "If you ever need him to stay, pour. If you ever need him to go, upset the cat. I would not do the second one.",
+  "heardAt": "heard from a Warden of the Veil",
+  "region": "All regions",
+  "entries": [
+   "unbound"
+  ]
+ },
+ {
+  "id": "rumor-the-roam-9",
+  "text": "There’s a fifth country out there with no season in it. The roads to it aren’t on any claim map, and the dreamers who find it come back with no color in their eyes.",
+  "heardAt": "heard from a dream-reader of Greyhaven",
+  "region": "All regions",
+  "entries": [
+   "the-roam"
+  ]
+ },
+ {
+  "id": "rumor-the-roam-10",
+  "text": "A woman walked into Halfwake awake. In the body. No fae with her. She bought a horse and left by the Red Gate.",
+  "heardAt": "heard from a kalashtar of Goldwind",
+  "region": "All regions",
+  "entries": [
+   "the-roam"
+  ]
+ },
+ {
+  "id": "rumor-the-roam-11",
+  "text": "The Corvane Line has offered a fortune for the use of the Posting Wall. The Marshal wrote back one word.",
+  "heardAt": "heard from a Goldwind clerk",
+  "region": "All regions",
+  "entries": [
+   "the-roam"
+  ]
+ },
+ {
+  "id": "rumor-halfwake-12",
+  "text": "The Marshal’s body is in a bed in Greyhaven. Sixty years asleep, and Skaia’s people turn her every morning.",
+  "heardAt": "heard from a dream-reader’s apprentice",
+  "region": "All regions",
+  "entries": [
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-halfwake-13",
+  "text": "There’s a fifth gate, bricked up, with no color on it. Some nights the bricks are on the ground.",
+  "heardAt": "heard from a road-fae clerk",
+  "region": "All regions",
+  "entries": [
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-halfwake-14",
+  "text": "Somebody sold the Long Table their own name once. They’re still there. They wash the cups.",
+  "heardAt": "heard from a kalashtar of Jakupur",
+  "region": "All regions",
+  "entries": [
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-dream-eaters-15",
+  "text": "You can get your sleep back. Find the one that ate you and kill it under the Dome. Nobody has, because nobody knows how you kill a missing color.",
+  "heardAt": "heard from a kalashtar of Sunhold",
+  "region": "All regions",
+  "entries": [
+   "dream-eaters"
+  ]
+ },
+ {
+  "id": "rumor-dream-eaters-16",
+  "text": "Someone can give you theirs. One night of sleep, handed over, and they never sleep again instead of you.",
+  "heardAt": "heard from a dream-reader of Greyhaven",
+  "region": "All regions",
+  "entries": [
+   "dream-eaters"
+  ]
+ },
+ {
+  "id": "rumor-dream-eaters-17",
+  "text": "The one with no Court has done it for nothing. Twice. He was passing.",
+  "heardAt": "heard from a road-fae",
+  "region": "All regions",
+  "entries": [
+   "dream-eaters"
+  ]
  }
 ]

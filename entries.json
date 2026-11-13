@@ -4297,7 +4297,12 @@
    "king-tide",
    "calendar",
    "krysta",
-   "fae"
+   "fae",
+   "the-roam",
+   "summer-court",
+   "autumn-court",
+   "winter-court",
+   "spring-court"
   ]
  },
  {
@@ -19420,6 +19425,14 @@
     ]
    },
    {
+    "title": "The Light-Warrant",
+    "paragraphs": [
+     "In 92 EC, after the Plague winter, the Council gave the house the Light-Warrant: the wardenship of every charted light in the islands. The head of the house is Warden of the Lights.",
+     "The house inspects the lights, trains their keepers for a year on the Widow’s Teeth, and keeps the Book of Counts through House Gannet. The light-due pays for oil and keepers and not for Greyhaven, which is why the smallest of the Marchlord houses has a voice in every harbor in the islands and no more money than before.",
+     "House Vanris has petitioned three times to split the Warrant. House vol Kaern has never let an inspector land on the Kaernstone."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“The storm in the Stormweaver light is alive, and on still nights you can hear it ask to be let out.” (a Greyhaven fisherman)",
@@ -19508,6 +19521,10 @@
    [
     "Rivals",
     "House Vanris, over the foggy coast; House Emberheart, over the elemental forces both houses claim"
+   ],
+   [
+    "Office",
+    "Warden of the Lights, by the Light-Warrant of 92 EC"
    ]
   ],
   "source": "Noble Houses",
@@ -20634,7 +20651,8 @@
    "goldwind",
    "heartland",
    "sigil",
-   "noble-houses"
+   "noble-houses",
+   "lighthouses"
   ]
  },
  {
@@ -20988,6 +21006,34 @@
     ]
    },
    {
+    "title": "How she appears",
+    "paragraphs": [
+     "A girl of about nineteen with grass-stained feet, a crown of whatever is flowering, and a laugh you can hear three gardens away. She is older than the islands. She is never where she is expected, she is always in the middle of something, and she will stop it at once for anything new."
+    ]
+   },
+   {
+    "title": "What she loves, and what she can’t abide",
+    "paragraphs": [],
+    "list": [
+     "She loves a joke she has not heard, a game she has not played, a good loser, and anyone who is not afraid of her.",
+     "She can't abide boredom, a ledger, or a straight answer.",
+     "She laughed at the Winter Queen once, to her face, and has never said what was funny."
+    ]
+   },
+   {
+    "title": "Getting an audience",
+    "paragraphs": [
+     "You do not ask for one. Be interesting anywhere near a thin place in spring, and she may come and find you."
+    ]
+   },
+   {
+    "title": "What nobody says to her face",
+    "paragraphs": [
+     "The Green Laugh falls in love with anyone who makes her laugh. Properly in love, every time, at once. It lasts until someone else is funnier.",
+     "The small folk say that at one point she had seven lovers at the same time, all of them funny, and that Spring ran three weeks long that year while she tried to choose. The Marquis of Mayflies is whoever made her laugh last. It is a dangerous honor: her affection is sincere, her Court is jealous, and her old favorites are never quite let go."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Something of her Court’s was lost in the islands long ago, and one of her own is here looking for it, wearing whatever face is useful.” (a Jakupur art dealer)",
@@ -21015,6 +21061,10 @@
    [
     "Her people",
     "the Spring Court; honored by the Liriath and the Florians"
+   ],
+   [
+    "Seat",
+    "the Laughing Garden"
    ]
   ],
   "source": "The Pantheon",
@@ -21031,7 +21081,8 @@
    "florians",
    "green-fire",
    "house-caelvaron",
-   "fae"
+   "fae",
+   "spring-court"
   ]
  },
  {
@@ -24040,6 +24091,34 @@
     ]
    },
    {
+    "title": "How she appears",
+    "paragraphs": [
+     "She is the most beautiful being in the Faewild. Nobody disputes it, in any Court. She is pale as first frost, with hair like falling snow and eyes the grey of a sea about to freeze, and she holds herself so still that visitors forget to breathe. She wears a crown of ice and no gloves. She speaks seldom, softly, and exactly."
+    ]
+   },
+   {
+    "title": "What she loves, and what she can’t abide",
+    "paragraphs": [],
+    "list": [
+     "She loves silence, a patient enemy, a debt carried without complaint, and snow that nobody has walked on.",
+     "She can't abide pleading, noise, pity, or being looked at for too long.",
+     "She has never broken her word, in the letter. The Court is built on that, and so is its cruelty."
+    ]
+   },
+   {
+    "title": "Getting an audience",
+    "paragraphs": [
+     "Survive a night in her country unaided, and you may ask for one. You will be told to wait, and you should. Do not speak first."
+    ]
+   },
+   {
+    "title": "What nobody says to her face",
+    "paragraphs": [
+     "The Pale Empress is shy. Terribly. She is the most beautiful being in the Faewild and can't bear to be told so. A sincere compliment undoes her: she colors, the snow in the Pale Hall turns to rain, and the frost on the walls starts to run.",
+     "The Lord Rimeward exists to prevent it. Flattery does nothing, because she can tell the difference. It has to be meant. The small folk say that a mortal who tells her she is beautiful, and means it, will be granted nearly anything to make them stop, and will then be shown out of Winter very quickly and never let back in."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Something of hers was stolen at the last King Tide. A crown, they say. The Long Silence is patient, and it is looking.” (a Frosthold trader)",
@@ -24067,6 +24146,10 @@
    [
     "Her people",
     "the Winter Court; once, the forebears of the Frost Elves"
+   ],
+   [
+    "Seat",
+    "the Pale Hall"
    ]
   ],
   "source": "The Pantheon",
@@ -24085,7 +24168,8 @@
    "house-caelvaron",
    "knights-of-the-northern-lights",
    "king-tide",
-   "fae"
+   "fae",
+   "winter-court"
   ]
  },
  {
@@ -24229,7 +24313,8 @@
    "kalashtar",
    "greyhaven",
    "tramica",
-   "ungoreth-the-hollow-hunger"
+   "ungoreth-the-hollow-hunger",
+   "dream-eaters"
   ]
  },
  {
@@ -24856,6 +24941,34 @@
     ]
    },
    {
+    "title": "How she appears",
+    "paragraphs": [
+     "A woman in gilded plate, taller than the door, with hair that burns like a banked fire and a laugh that carries across a battlefield. She wears a crown of flame and has never once taken off her sword. She speaks to everyone as an equal until they disappoint her."
+    ]
+   },
+   {
+    "title": "What she loves, and what she can’t abide",
+    "paragraphs": [],
+    "list": [
+     "She loves a fair fight, a brave loser, a feast, and anyone who answers her back.",
+     "She can't abide a coward, a flatterer, or a war won by waiting.",
+     "She keeps the name of everyone who has ever stood against her and lost well. It is a long list, and she can recite it."
+    ]
+   },
+   {
+    "title": "Getting an audience",
+    "paragraphs": [
+     "Win a tourney in the Noonhold, or be named in three songs that her heralds have heard. She will send for you. She does not receive petitioners, only guests."
+    ]
+   },
+   {
+    "title": "What nobody says to her face",
+    "paragraphs": [
+     "The Unbowed Flame can't refuse a dare. Any dare. The small folk of Summer swear that she once stood on one leg for a year because a pixie said she couldn't, and that the pixie was knighted for it.",
+     "Her knights spend a good part of every feast keeping clever guests away from her. A mortal who dares her to do something useful, and words it well, may get it. A mortal who dares her to do something foolish will get that too, and then meet her afterward."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“She has never been beaten in a fair war. Everyone repeats that. Nobody asks about the unfair ones.” (a Caelvaron retainer)",
@@ -24883,6 +24996,10 @@
    [
     "Her people",
     "the golden knights of the Summer Court"
+   ],
+   [
+    "Seat",
+    "the Noonhold"
    ]
   ],
   "source": "The Pantheon",
@@ -24898,7 +25015,8 @@
    "elves",
    "vael-mournthorn-the-crimson-reaper-king",
    "varneth-the-threshold-warden",
-   "fae"
+   "fae",
+   "summer-court"
   ]
  },
  {
@@ -25407,7 +25525,9 @@
    "greyhaven",
    "naxithe-the-dream-eater",
    "tramica",
-   "tholmar-the-star-wake"
+   "tholmar-the-star-wake",
+   "the-roam",
+   "dream-eaters"
   ]
  },
  {
@@ -25907,6 +26027,61 @@
     ]
    },
    {
+    "title": "How he appears",
+    "paragraphs": [
+     "Never the same way twice, and never grandly. A barefoot man on a beach. A stranger asleep in the back of a wagon. Someone at the next table who has been there all evening. People who have met him agree on only two things: he seemed to be enjoying himself, and they liked him."
+    ]
+   },
+   {
+    "title": "What he does",
+    "paragraphs": [
+     "Whatever he likes. He walks through wards, borders, and locked doors without noticing them. He has ended a siege by asking both sides what it was about, and he has sunk an island by accident. He keeps no Court, holds no grudge, and makes no bargains, so none of the rules for dealing with fae give you any hold on him at all.",
+     "Once in each season comes the Late Frost: one unscheduled night when he crosses the border between the Courts. Each of the four sovereigns refuses to say whether they saw him."
+    ]
+   },
+   {
+    "title": "What the Courts call him",
+    "paragraphs": [],
+    "table": {
+     "caption": "What the Courts call him",
+     "headers": [
+      "Court",
+      "Name",
+      "Why"
+     ],
+     "rows": [
+      [
+       "Summer",
+       "the Ash-Laugh",
+       "He laughed at a war of theirs, and it ended."
+      ],
+      [
+       "Autumn",
+       "the Unpaid Debt",
+       "He has taken things from Autumn and has never been sent a bill."
+      ],
+      [
+       "Winter",
+       "the Thaw-That-Shouldn't",
+       "Things melt when he has been by."
+      ],
+      [
+       "Spring",
+       "the Late Frost",
+       "He is the one guest who can spoil their party."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "What everybody says behind his back",
+    "paragraphs": [
+     "He has two weaknesses, and both are well known.",
+     "The first is coffee. He can't walk past a good cup. The wardens say the only way anyone has ever kept the Unbound in one place is to keep pouring, and that a certain Goldwind coffee-house has held him for an entire afternoon.",
+     "The second is his cat. The Unbound, who obeys nothing, does what the cat wants. If the cat is asleep on his coat, he stays. If the cat dislikes you, he leaves. Nobody has found a third weakness, and people who know him say there isn't one."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“He comes for the coffee, and for one beach in particular. That is the whole of his business here, and the wardens can’t bear it.” (a Warden of the Veil)",
@@ -25950,7 +26125,9 @@
    "kalashtar",
    "pyraxis-the-unbowed-flame",
    "morthryn-the-pale-empress-of-air-and-ending",
-   "fae"
+   "fae",
+   "the-roam",
+   "dream-eaters"
   ]
  },
  {
@@ -26063,6 +26240,34 @@
     ]
    },
    {
+    "title": "How he appears",
+    "paragraphs": [
+     "A tall, thin lord in a long red coat the color of the last leaves, with a sickle at his belt and ink on his fingers. He is the only king among the four sovereigns. He is unfailingly polite, he is never in a hurry, and he looks at everything as if he remembers it being better."
+    ]
+   },
+   {
+    "title": "What he loves, and what he can’t abide",
+    "paragraphs": [],
+    "list": [
+     "He loves an exact account, an old song, the last warm day of the year, and a debtor who pays without being asked.",
+     "He can't abide waste, a promise with no number in it, or being hurried.",
+     "He remembers the Faewild before the war, and it is the one subject on which he will talk for nothing."
+    ]
+   },
+   {
+    "title": "Getting an audience",
+    "paragraphs": [
+     "Bring him a debt that is not in his ledger. He will see anyone who can show him something unpriced, and he will price it while you watch."
+    ]
+   },
+   {
+    "title": "What nobody says to his face",
+    "paragraphs": [
+     "The Crimson Reaper-King cries at sad songs. Weddings, too, and partings at the dock, and once at a child's drawing of a dog. He hates it. He has a handkerchief for the purpose, and the Reeve Sorrel pretends not to see it.",
+     "The stewards say that a bargain struck while the King is weeping is the only good bargain a mortal has ever had from Autumn, because he rounds down. Bards are searched at the door of the Halls."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“The Last Bargain is a real contract. He keeps it, he has never shown it, and all four Courts are party to it.” (a Caelvaron archivist)",
@@ -26090,6 +26295,10 @@
    [
     "His people",
     "the stewards and reapers of the Autumn Court"
+   ],
+   [
+    "Seat",
+    "the Halls of the Last Bargain"
    ]
   ],
   "source": "The Pantheon",
@@ -26105,7 +26314,8 @@
    "nethis-the-sealed-word",
    "calendar",
    "varneth-the-threshold-warden",
-   "fae"
+   "fae",
+   "autumn-court"
   ]
  },
  {
@@ -40997,6 +41207,18 @@
     ]
    },
    {
+    "title": "Only humans",
+    "paragraphs": [
+     "Only humans become kalashtar. Other peoples can be carried into the Roam as guests, or fall into it at a thin place, but they do not open, and the dream does not come back for them."
+    ]
+   },
+   {
+    "title": "Halfwake and the Lulls",
+    "paragraphs": [
+     "Every road in the Roam reaches Halfwake, the town under the Dome, where dreamers meet. Outside the Dome there are Lulls, the dream-eaters. Every kalashtar carries a waking-word against them."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“There is a dreamer in Goldwind whose eyes have no color at all, and the other kalashtar cross the street when she passes.” (a priest of Varneth)",
@@ -41035,7 +41257,10 @@
    "concord",
    "greyhaven",
    "robin-faust",
-   "fae"
+   "fae",
+   "the-roam",
+   "halfwake",
+   "dream-eaters"
   ]
  },
  {
@@ -43644,6 +43869,10 @@
   },
   "facts": [
    [
+    "Warden of the Lights",
+    "House Stormweaver, by the Light-Warrant of 92 EC"
+   ],
+   [
     "Made by",
     "the Lanternwrights’ Guild, Goldwind"
    ],
@@ -43675,6 +43904,20 @@
      "The islands live by the sea, and the sea is dark half the time. So every charted harbor keeps a light. A harbor-light stands on the mole and marks the way in. A lighthouse stands on a cape or a rock and marks what to stay away from.",
      "The lamps and lenses come from the Lanternwrights’ Guild in Goldwind, which is small, licensed for Krysta, and rich. The port builds the tower, or the house that holds the port does, and a share of every harbor fee goes to the oil. The oil is Frosthold whale-oil, in every light in the islands.",
      "Sailors call the whole chain of them the Long Watch. On a clear night, on a busy coast, a ship is never out of sight of one."
+    ]
+   },
+   {
+    "title": "The house of the lights",
+    "paragraphs": [
+     "One noble house answers for all of them. House Stormweaver of Greyhaven lit the first light of the north about 10 EC, and in 92 EC, after it kept the Greyhaven lights burning through the Plague winter, the Council gave it the Light-Warrant. The head of the house is Warden of the Lights. Today that is Lady Elara Stormweaver, who has never been to a Goldwind ball and has inspected a light on every coast."
+    ],
+    "list": [
+     "Inspection. A Stormweaver inspector may climb any charted light, read its log, and replace its keeper.",
+     "Keepers. A new keeper spends a year on the Widow’s Teeth before taking a light. Keepers call it the wet year.",
+     "The Book of Counts. House Gannet keeps the one true list of every light’s count, beside the lamp-rolls of the lost. The pilot books are copied from it.",
+     "The light-due. A small share of every harbor fee goes to oil and keepers. The house swears none of it stays in Greyhaven, and the Reckoners’ Hall checks every year.",
+     "Who makes them. The Lanternwrights build the lamps. Stormweaver answers for them. The two have never liked each other and have never failed each other.",
+     "Who disputes it. House Vanris keeps its own lantern on Stormguard Hold and has petitioned three times to split the Warrant. House vol Kaern holds the Kaernstone by an older right, and no inspector has ever landed there."
     ]
    },
    {
@@ -43743,9 +43986,14 @@
      ],
      "rows": [
       [
-       "The Greyhaven lights",
-       "Greyhaven, Northern Frontier",
-       "Kept by the mages of House Stormweaver through the Murk, and paid for by the Brine Brotherhood's fleets. The bells under them never stop while the fog is in."
+       "The Stormweaver light",
+       "The last of the Widow's Teeth, Greyhaven",
+       "The first light of the north, lit about 10 EC. Its lantern holds a captive storm, pale lightning in a glass that has never been opened, and it shows through the Murk when no flame could."
+      ],
+      [
+       "The Stormguard lantern",
+       "Stormguard Hold, near Stormreach",
+       "House Vanris lit it about 40 EC as an answer to Greyhaven. The two houses have argued ever since over whose lights the north should trust."
       ],
       [
        "The Kaernstone",
@@ -43831,6 +44079,8 @@
    "answering-light",
    "house-stormweaver",
    "house-vol-kaern",
+   "house-vanris",
+   "widows-teeth",
    "greyhaven",
    "frosthold",
    "crystalhaven",
@@ -43846,6 +44096,10 @@
   "aliases": [
    "lighthouse",
    "lighthouses",
+   "Light-Warrant",
+   "Warden of the Lights",
+   "Book of Counts",
+   "light-due",
    "harbor-light",
    "harbor-lights",
    "the Long Watch",
@@ -44140,7 +44394,14 @@
    "king-tide",
    "pocchin",
    "goblinoids",
-   "magic-in-the-islands"
+   "magic-in-the-islands",
+   "the-roam",
+   "halfwake",
+   "summer-court",
+   "autumn-court",
+   "winter-court",
+   "spring-court",
+   "dream-eaters"
   ],
   "aliases": [
    "fae",
@@ -44158,6 +44419,1142 @@
    "fae-wine",
    "moon-silk",
    "the four Courts"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "the-roam",
+  "title": "The Roam",
+  "category": "place",
+  "region": "Beyond the Veil",
+  "subtitle": "The open country behind sleep",
+  "summary": "The Roam is where the kalashtar go when they dream: open country with no lord and no fence, crossed by roads that run to everywhere a mind has ever been. It is not the Faewild and not the waking world, and it touches both.",
+  "epigraph": {
+   "quote": "Out there you can ride for a week and wake up in an hour. Mind what you promise on the road. It comes home with you.",
+   "by": "A kalashtar of Southhaven"
+  },
+  "facts": [
+   [
+    "What it is",
+    "a reality of its own, behind sleep"
+   ],
+   [
+    "Who it belongs to",
+    "nobody"
+   ],
+   [
+    "Its dreamers",
+    "the kalashtar, who are always human"
+   ],
+   [
+    "Its town",
+    "Halfwake, under the Dome"
+   ],
+   [
+    "Its danger",
+    "Lulls, the dream-eaters"
+   ],
+   [
+    "Its law",
+    "whatever the nearest person can enforce"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Open country",
+    "paragraphs": [
+     "Behind sleep there is a country. It has sky, weather, distance, and roads, and the roads run to everywhere a mind has ever been. The old books called it part of the Faewild, and the old books were wrong. Dreamers call it the Roam, and anyone on its roads is a roamer.",
+     "It has the four seasons of the Courts, each in its own country: a green one, a gold one, a red one, a white one. A kalashtar opens in one of them and wears its color in their eyes for life. No Court rules any of it. There are way-houses, staked claims, road-agents, and long empty stretches where the only law is whoever is standing nearest.",
+     "A bargain struck out there is kept in the waking world. A wound taken out there is not carried home, with one exception, and that exception has its own page."
+    ]
+   },
+   {
+    "title": "Who walks it",
+    "paragraphs": [
+     "The Roam belongs to the kalashtar in a way it belongs to nobody else, and only humans become kalashtar. Everyone else on the road is a guest, a fae, or a fool."
+    ],
+    "table": {
+     "caption": "Ways into the Roam",
+     "headers": [
+      "Who",
+      "How they come"
+     ],
+     "rows": [
+      [
+       "Kalashtar",
+       "Every night, in the mind only. Only humans open. It is theirs in a way it is nobody else's."
+      ],
+      [
+       "The fae",
+       "In the body, whenever they like, as easily as stepping off a porch."
+      ],
+      [
+       "A carried guest",
+       "A kalashtar who falls asleep holding your hand can bring you along. One guest, one night, and the kalashtar answers for you."
+      ],
+      [
+       "A sleeper at a thin place",
+       "On a King Tide night or a Still Day, anyone who sleeps at a thin place may wake up on a road. It is rare, and nobody chooses it."
+      ],
+      [
+       "A drinker of fae-wine",
+       "It takes a year from you and gives you a night out there. The year is not returned."
+      ],
+      [
+       "A walker from the Faewild",
+       "There is a road, and anyone can take it in the body. For a fae it is a stroll. For anyone else it is very nearly a death: the road takes something every mile, and most who finish it cannot say who started."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Other peoples in the dream",
+    "paragraphs": [
+     "An elf, a dwarf, a Galven, or anyone else can be carried into the Roam, or fall into it at a thin place, and will remember the night for the rest of their life. They do not open. Their eyes take no color, the dream does not come back the next night, and they can't find the road again without someone to bring them.",
+     "The kalashtar call them guests, and the word is meant kindly. A guest is safe as long as their kalashtar is beside them, and no longer."
+    ]
+   },
+   {
+    "title": "The roads",
+    "paragraphs": [],
+    "list": [
+     "Distance is not fixed. A road is as long as the roamer's attention. Experienced dreamers cross a season in a night.",
+     "The roads join places that lie far apart in the waking world. Whether a waking body could walk them is a question that gets a dreamer followed.",
+     "Way-houses stand a night's walk apart. Each has a lamp, a keeper, and a price.",
+     "A night-mare from the Halfwake stables knows the short road. So do road-agents.",
+     "Every road reaches Halfwake sooner or later."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A message on the Posting Wall is addressed to a member of the party, in their dead mother's hand, dated next week.",
+     "A kalashtar offers to carry the party in, one a night, to find someone who has not woken up.",
+     "Something was promised on a road out there, and the fae who holds the promise has just walked into the inn.",
+     "A claim has been staked over a stretch of dream that turns out to be somebody's childhood home."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "A kalashtar character goes there every night. Decide which season you opened in, what your waking-word is, and who taught it to you.",
+     "A guest can't get home alone. Know who carried you, and stay near them.",
+     "The fae you meet on the road are a long way from their Courts. They are freer out there, and so are you."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "More than one kalashtar has married someone they first met in the Roam.",
+     "Krysta is cold and quiet to a dreamer. Some sleep with a stone in the hand on nights they want to stay home.",
+     "A pinch of Roam-salt across a threshold bars the doorway to dreams for a night."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a fifth country out there with no season in it. The roads to it aren’t on any claim map, and the dreamers who find it come back with no color in their eyes.” (a dream-reader of Greyhaven)",
+     "“A woman walked into Halfwake awake. In the body. No fae with her. She bought a horse and left by the Red Gate.” (a kalashtar of Goldwind)",
+     "“The Corvane Line has offered a fortune for the use of the Posting Wall. The Marshal wrote back one word.” (a Goldwind clerk)"
+    ]
+   }
+  ],
+  "related": [
+   "kalashtar",
+   "fae",
+   "faewild",
+   "halfwake",
+   "dream-eaters",
+   "skaia",
+   "naxithe-the-dream-eater",
+   "unbound",
+   "charms-and-workings",
+   "king-tide"
+  ],
+  "aliases": [
+   "the Roam",
+   "roamer",
+   "roamers",
+   "the far shore"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "halfwake",
+  "title": "Halfwake",
+  "category": "place",
+  "region": "Beyond the Veil",
+  "subtitle": "The town under the Dome, where every road in the Roam ends up",
+  "summary": "Halfwake is the one town in the Roam: a crossroads of boardwalks and way-houses under a vault of glass that nobody built. Dreamers, fae, and stranger things meet there under a peace that even the Courts keep.",
+  "epigraph": {
+   "quote": "No blood under the glass. Everything else, we can talk about.",
+   "by": "Marshal Ondry Vane"
+  },
+  "facts": [
+   [
+    "Where",
+    "where the four season-countries meet"
+   ],
+   [
+    "Under",
+    "the Dome"
+   ],
+   [
+    "Law",
+    "the Dome-peace"
+   ],
+   [
+    "Kept by",
+    "Marshal Ondry Vane"
+   ],
+   [
+    "Money",
+    "tells"
+   ],
+   [
+    "Known in the islands as",
+    "the Dreamdome"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The town",
+    "paragraphs": [
+     "Where the four season-countries of the Roam meet, there is a vault of clear glass a mile across. Nobody built it, and it is older than any road that leads to it. Dream-eaters will not pass under it. So a town grew there, one way-house at a time, and it is called Halfwake.",
+     "It is a dusty, lamplit, cheerful place of boardwalks, hitching rails, and signs in six scripts. On any night there are a few hundred kalashtar in it, as many road-fae, an envoy or two from every Court, and a handful of guests staring at the ceiling. Islanders who have only heard of it call it the Dreamdome."
+    ]
+   },
+   {
+    "title": "Places in Halfwake",
+    "paragraphs": [],
+    "table": {
+     "caption": "What a roamer looks for",
+     "headers": [
+      "Place",
+      "What it is"
+     ],
+     "rows": [
+      [
+       "The Dome",
+       "A vault of clear glass, older than the town and built by nobody. Lulls will not pass under it. It is the one safe roof in the Roam."
+      ],
+      [
+       "The Long Table",
+       "The way-house, with one table that runs the length of the room. There is always a free seat. You pay with a tell."
+      ],
+      [
+       "The Posting Wall",
+       "Notes pinned by the thousand, for anyone, from anyone. A dreamer in Southhaven can leave word tonight for a dreamer in Frosthold. It is the fastest post in the islands, and it carries only what a sleeper can remember."
+      ],
+      [
+       "The Claims Office",
+       "Where a patch of the Roam is staked, witnessed, and argued over. The clerks are road-fae, and they are thorough."
+      ],
+      [
+       "The Night Stables",
+       "Night-mares for hire: lean dark horses that know every road and take the short one. They are returned by waking up."
+      ],
+      [
+       "The Four Gates",
+       "Green, Gold, Red, and White: one road out to each season's country. Each Court keeps a house beside its gate, and none of them rules the town."
+      ],
+      [
+       "The Marshal's porch",
+       "Where Marshal Ondry Vane sits. She keeps the Dome-peace, and she has been sitting there longer than any dreamer has been alive."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Dome-peace",
+    "paragraphs": [
+     "There are five rules, and the Marshal has never needed a sixth."
+    ],
+    "list": [
+     "No blood under the glass.",
+     "No bargain binds under the glass without a witness who is party to neither side.",
+     "No true name is asked under the glass.",
+     "A guest's kalashtar answers for the guest.",
+     "Whoever breaks the peace is walked to a gate at dusk and the gate is shut."
+    ]
+   },
+   {
+    "title": "Tells",
+    "paragraphs": [
+     "Halfwake takes no coin. A meal, a bed, a horse, or a seat at the Long Table costs a tell: one true thing about yourself, told once to whoever is selling. After that it belongs to the house, and you find you can't tell it again. You still remember it. You just can't get it out.",
+     "Small things buy small things. A night's stabling might cost the name of your first boat. Old dreamers are careful, and a little hard to get to know."
+    ]
+   },
+   {
+    "title": "The Marshal",
+    "paragraphs": [
+     "Marshal Ondry Vane keeps the peace from a chair on her porch. She is human, plainly spoken, and has been Marshal for longer than the oldest kalashtar alive can remember. Nobody has ever seen her wake, or leave, or sleep. Envoys of all four Courts call her “Marshal” and do what she says under the glass."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The peace has been broken for the first time in memory: there is blood under the glass, and nobody saw whose.",
+     "Someone is buying up tells, by the hundred, from dreamers who need the price of a horse. The party knows one of the sellers.",
+     "A Court's envoy wants a message carried from the Posting Wall to a waking person who must not learn where it came from.",
+     "A guest has lost their kalashtar in the crowd, and it is nearly morning."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Decide in advance which true things about your character you would sell, and which you never would.",
+     "The Dome is the only place in the Roam where you can stop looking over your shoulder. Do your talking there.",
+     "A witness under the Dome-peace must be party to neither side. A stranger at the Long Table will do, for a tell."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The Posting Wall is the fastest post in the islands. It can't carry anything a sleeper could not remember.",
+     "Night-mares are returned by waking up. The stables have never lost one.",
+     "Each Court keeps a house by its gate. Summer's is the loudest, and Winter's has never had its door opened from outside."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Marshal’s body is in a bed in Greyhaven. Sixty years asleep, and Skaia’s people turn her every morning.” (a dream-reader’s apprentice)",
+     "“There’s a fifth gate, bricked up, with no color on it. Some nights the bricks are on the ground.” (a road-fae clerk)",
+     "“Somebody sold the Long Table their own name once. They’re still there. They wash the cups.” (a kalashtar of Jakupur)"
+    ]
+   }
+  ],
+  "related": [
+   "the-roam",
+   "kalashtar",
+   "fae",
+   "dream-eaters",
+   "skaia",
+   "greyhaven",
+   "summer-court",
+   "autumn-court",
+   "winter-court",
+   "spring-court"
+  ],
+  "aliases": [
+   "Halfwake",
+   "the Dome",
+   "Dreamdome",
+   "the Dreamdome",
+   "Dome-peace",
+   "the Long Table",
+   "the Posting Wall",
+   "Posting Wall",
+   "Night Stables",
+   "night-mare",
+   "night-mares",
+   "Marshal Ondry Vane",
+   "Ondry Vane"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "dream-eaters",
+  "title": "Lulls",
+  "category": "foes",
+  "region": "Beyond the Veil",
+  "subtitle": "The dream-eaters of the Roam, and the Greyed they leave behind",
+  "summary": "Lulls are the predators of the Roam: shapeless wrongnesses that feed on dreamers. A roamer who is eaten wakes up whole and never sleeps again. Most die. The rest go grey.",
+  "epigraph": {
+   "quote": "It doesn’t chase you. The dream just goes quiet, and then you notice which way you’ve been walking.",
+   "by": "A kalashtar of Greyhaven"
+  },
+  "facts": [
+   [
+    "Islanders say",
+    "dream-eaters"
+   ],
+   [
+    "Roamers say",
+    "Lulls"
+   ],
+   [
+    "Found",
+    "anywhere in the Roam, outside the Dome"
+   ],
+   [
+    "They feed on",
+    "roamers"
+   ],
+   [
+    "If one eats you",
+    "you never sleep again"
+   ],
+   [
+    "Stopped by",
+    "the Dome, Roam-salt, waking up"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What they are",
+    "paragraphs": [
+     "A Lull has no body. It is a wrongness that moves: a missing color, a stair that folds the wrong way, a hole the shape of a tune. Roamers call them Lulls because the first sign of one is that the dream goes quiet. Islanders, who have only heard the stories, say dream-eaters.",
+     "They feed on roamers. Nobody knows how many there are, whether they think, or whether two sightings were ever the same one."
+    ]
+   },
+   {
+    "title": "Signs of a Lull",
+    "paragraphs": [],
+    "list": [
+     "A color is missing from the road, and you can't say which.",
+     "A sound keeps arriving with nothing making it.",
+     "The same milestone, three times.",
+     "Your companion's face is right, but you can't remember their voice.",
+     "The stars over one part of the sky have stopped being stars.",
+     "You notice you have been walking toward it."
+    ]
+   },
+   {
+    "title": "What stops one",
+    "paragraphs": [],
+    "list": [
+     "The Dome. No Lull has ever passed under the glass at Halfwake.",
+     "Roam-salt. They will not cross a line of it.",
+     "Waking up. A Lull loses a roamer who wakes. Every kalashtar keeps a waking-word, taught by another dreamer, that throws them out of sleep. A guest has none, and must be woken from outside.",
+     "Company. They take the roamer walking alone. Nobody has seen one come at a crowd."
+    ]
+   },
+   {
+    "title": "Eaten",
+    "paragraphs": [
+     "A roamer who is eaten wakes at once, in their own bed, whole and unmarked. They do not sleep that night, or the next, or ever again. No draught works, and no spell.",
+     "Most are dead within the month. A few do not die."
+    ]
+   },
+   {
+    "title": "The Greyed",
+    "paragraphs": [
+     "The ones who live go grey. First the hair, then the skin, then the eyes, and then the rest of them the same way: appetite, temper, fear, fondness. A Grey does not sleep and does not dream, and after a while does not mind anything at all. That is when a Grey becomes dangerous.",
+     "A kalashtar kept from dreaming, by fever or a draught or a jailer who knows the trick, goes grey by the same road, more slowly.",
+     "Skaia’s dream-readers keep the Greyed in the houses of Greyhaven’s lower quarters, and are kind to them. Veil butterflies will not land on one."
+    ]
+   },
+   {
+    "title": "What people believe",
+    "paragraphs": [],
+    "list": [
+     "The priests of Skaia say Lulls are the teeth of Naxithe the Dream-Eater.",
+     "The roamers say the Lulls were there before any god looked in.",
+     "The fae fear them too, and will not say what a Lull takes from a fae."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A friend has been eaten. They have perhaps three weeks, and there are three rumored cures, each worse than the last.",
+     "A Grey has walked out of the Greyhaven houses, and is going somewhere on purpose.",
+     "The Lulls have started coming closer to the Dome. The Marshal wants to know what changed.",
+     "A jailer in the islands is making Greyed deliberately, one prisoner at a time."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Most kalashtar choose a waking-word nobody would say by accident. A few have picked badly.",
+     "A Grey can still do sums, hold a job, and keep a promise. Several do.",
+     "Sailors who refuse to ship with a kalashtar will usually ship with a Grey. They say a Grey has nothing left to follow it aboard."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“You can get your sleep back. Find the one that ate you and kill it under the Dome. Nobody has, because nobody knows how you kill a missing color.” (a kalashtar of Sunhold)",
+     "“Someone can give you theirs. One night of sleep, handed over, and they never sleep again instead of you.” (a dream-reader of Greyhaven)",
+     "“The one with no Court has done it for nothing. Twice. He was passing.” (a road-fae)"
+    ]
+   }
+  ],
+  "related": [
+   "the-roam",
+   "halfwake",
+   "kalashtar",
+   "naxithe-the-dream-eater",
+   "skaia",
+   "greyhaven",
+   "veil-butterfly",
+   "charms-and-workings",
+   "unbound"
+  ],
+  "aliases": [
+   "Lull",
+   "Lulls",
+   "dream-eater",
+   "dream-eaters",
+   "the Greyed",
+   "Greyed",
+   "waking-word"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "summer-court",
+  "title": "The Summer Court",
+  "category": "culture",
+  "region": "Beyond the Veil",
+  "subtitle": "The Burning Crown: glory, fire, and the debt of the sword",
+  "summary": "Summer is the Court of golden knights, endless tourneys, and open war. It honors courage above everything and pays its debts in steel and in truth.",
+  "epigraph": {
+   "quote": "You saved my life, mortal, so I owe you one true answer. Choose the question carefully. I only have to give you the one.",
+   "by": "A knight of the Burning Crown"
+  },
+  "facts": [
+   [
+    "Court",
+    "the Burning Crown"
+   ],
+   [
+    "Sovereign",
+    "Pyraxis, the Unbowed Flame"
+   ],
+   [
+    "Seat",
+    "The Noonhold"
+   ],
+   [
+    "They prize",
+    "Courage, a good fight, a scar with a story, a song about themselves"
+   ],
+   [
+    "They can’t abide",
+    "Cowardice, a broken guest-right, an insult left unanswered, anyone who lets them win"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Court",
+    "paragraphs": [
+     "The Noonhold, a fortress of pale gold stone where the sun does not set. Its lists are never empty, and its feast has been going since before the Landing.",
+     "Tall, bright, and scarred. Summer fae wear their scars uncovered and gilded. Armor is everyday dress. Their eyes are gold, and so are the eyes of the dreamers who open in their country."
+    ]
+   },
+   {
+    "title": "The old way and the new",
+    "paragraphs": [
+     "Evenly split. The Seelie of Summer fight for glory and the Unseelie fight to finish it, and they share a table every night."
+    ]
+   },
+   {
+    "title": "Customs and debts",
+    "paragraphs": [
+     "What the Court holds itself to, and holds you to. Its own fae keep these as law."
+    ],
+    "table": {
+     "caption": "If you do this in the Summer Court",
+     "headers": [
+      "If you",
+      "Then"
+     ],
+     "rows": [
+      [
+       "Save a Summer knight's life",
+       "The knight owes you one question, answered truly and in full. It can be asked at any time, once."
+      ],
+      [
+       "Beat one fairly in single combat",
+       "You may ask a favor within a day's ride, or the name of their sword."
+      ],
+      [
+       "Refuse a challenge",
+       "You are Unseen. No fae of Summer will speak to you or of you for a year and a day."
+      ],
+      [
+       "Eat at a Summer fire",
+       "You are under that fire's protection until its embers are cold. So is your enemy, if he ate there too."
+      ],
+      [
+       "Insult one of them",
+       "It must be answered before sundown. In the Noonhold the sun does not set, so they take their time."
+      ],
+      [
+       "Show a scar and tell its story",
+       "You are seated by rank of scar. A good story moves you up the table."
+      ],
+      [
+       "Let one of them win",
+       "The worst thing you can do. It is an insult to both of you, and they can always tell."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The household",
+    "paragraphs": [],
+    "table": {
+     "caption": "Fae of the Court",
+     "headers": [
+      "Who",
+      "What they are"
+     ],
+     "rows": [
+      [
+       "Ser Aurenn Sunscar",
+       "Marshal of the Lists. He has lost one duel, to a mortal, and tells the story to anyone who will listen. Seelie."
+      ],
+      [
+       "The Lady Vesh of the Long Day",
+       "Herald of the Burning Crown. If she comes to your door, it is with a challenge, and it is a compliment. Unseelie."
+      ],
+      [
+       "The Cinder Squires",
+       "Small folk of Summer: fire-sprites who carry challenges, keep score, and gossip."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Summer is honored at the Midsummer Bonfires on Idel 21st, when the bravest riders of the Heartland ride through the flames. A mortal with a great deed to their name may find a herald at the door. Summer does not scheme against the islands. It would consider that beneath it."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A Summer knight owes a dead woman a question, and her heir wants to ask it.",
+     "The party has been challenged, formally, by someone they have never met, for something their grandfather said.",
+     "A hero of the islands has been Unseen, and needs Summer's help before the year is out."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a mortal who beat Aurenn Sunscar. Summer has been looking for her for sixty years, to say well fought.” (a kalashtar of Sunhold)"
+    ]
+   }
+  ],
+  "related": [
+   "pyraxis-the-unbowed-flame",
+   "fae",
+   "faewild",
+   "halfwake",
+   "kalashtar",
+   "autumn-court",
+   "winter-court",
+   "spring-court"
+  ],
+  "aliases": [
+   "The Summer Court",
+   "the Summer Court",
+   "the Burning Crown",
+   "The Burning Crown",
+   "Ser Aurenn Sunscar",
+   "Lady Vesh of the Long Day",
+   "Cinder Squires",
+   "The Noonhold"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "autumn-court",
+  "title": "The Autumn Court",
+  "category": "culture",
+  "region": "Beyond the Veil",
+  "subtitle": "The Red Harvest: bargains, debts, and the price of all things",
+  "summary": "Autumn is the Court of the ledger. Everything there has a price, the price is always fair, and it is never kind. It is the Court mortals deal with most, and win against least.",
+  "epigraph": {
+   "quote": "We do not cheat. We have never needed to. You came to us.",
+   "by": "A steward of the Red Harvest"
+  },
+  "facts": [
+   [
+    "Court",
+    "the Red Harvest"
+   ],
+   [
+    "Sovereign",
+    "Vael Mournthorn, the Crimson Reaper-King"
+   ],
+   [
+    "Seat",
+    "The Halls of the Last Bargain"
+   ],
+   [
+    "They prize",
+    "An exact account, a debt paid early, a first fruit, a thing nobody else has priced yet"
+   ],
+   [
+    "They can’t abide",
+    "Waste, a vague promise, charity, and Spring"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Court",
+    "paragraphs": [
+     "The Halls of the Last Bargain, in the Red Orchards, where it is always the last warm week of the year. The halls are counting-rooms, and the orchards never finish dropping fruit.",
+     "Grave, well dressed, and tired. Russet, wine, and brown. Every one of them carries a tally of some kind: a knotted cord, a notched stick, a book. Their dreamers' eyes are red."
+    ]
+   },
+   {
+    "title": "The old way and the new",
+    "paragraphs": [
+     "The most divided of the four. Seelie stewards hold that a fair price is sacred. Unseelie reapers hold that a debtor is a crop. Their quarrel sets prices on both sides of the Veil."
+    ]
+   },
+   {
+    "title": "Customs and debts",
+    "paragraphs": [
+     "What the Court holds itself to, and holds you to. Its own fae keep these as law."
+    ],
+    "table": {
+     "caption": "If you do this in the Autumn Court",
+     "headers": [
+      "If you",
+      "Then"
+     ],
+     "rows": [
+      [
+       "Accept anything before its price is named",
+       "It has no upper limit. This is the oldest trap in the Faewild, and it still works."
+      ],
+      [
+       "Pay a debt early",
+       "Autumn owes you the change: one small true thing you did not know."
+      ],
+      [
+       "Bring the first fruit of a harvest",
+       "Autumn takes nothing else from that field this year."
+      ],
+      [
+       "Ask to see your page",
+       "Any debtor may read their own page in the ledger, once. Most wish they had not."
+      ],
+      [
+       "Catch a steward in a miscount",
+       "The bargain is void, and the steward serves you for a season. It has happened twice."
+      ],
+      [
+       "Inherit a debt",
+       "It is yours, with the interest. So is anything the debt bought."
+      ],
+      [
+       "Offer a gift",
+       "They will price it, and pay you for it, to the Bit. Do not be offended. It is the only way they know to say thank you."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The household",
+    "paragraphs": [],
+    "table": {
+     "caption": "Fae of the Court",
+     "headers": [
+      "Who",
+      "What they are"
+     ],
+     "rows": [
+      [
+       "The Reeve Sorrel",
+       "Keeper of the Ledger. Has never been wrong about a sum and has never smiled about one. Seelie."
+      ],
+      [
+       "The Lady Rue Ashmantle",
+       "First of the reapers. She collects in person, and she is courteous about it. Unseelie."
+      ],
+      [
+       "Old Quince",
+       "Keeper of the Red Orchards. He will sell you any fruit on any tree, and tell you honestly what each one costs."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "On Halvenir 34th, the Red Harvest, Autumn calls its Last Bargain, and every farmer on the Faewild's edge is offered a single price. Autumn's notes come due on the Still Days. Half the old families of the Heartland are said to owe it something from the Landing years."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A family's page in the ledger has a line nobody alive agreed to. Someone must go and read it.",
+     "A steward has miscounted, and knows it, and would pay a great deal for nobody to notice.",
+     "Autumn has bought a debt the party owes to someone else. The new terms arrive by pixie."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Rue Ashmantle has never collected from a child. Autumn pretends not to have noticed.” (a border farmer)"
+    ]
+   }
+  ],
+  "related": [
+   "vael-mournthorn-the-crimson-reaper-king",
+   "fae",
+   "faewild",
+   "halfwake",
+   "kalashtar",
+   "summer-court",
+   "winter-court",
+   "spring-court"
+  ],
+  "aliases": [
+   "The Autumn Court",
+   "the Autumn Court",
+   "the Red Harvest",
+   "The Red Harvest",
+   "Reeve Sorrel",
+   "Lady Rue Ashmantle",
+   "Old Quince",
+   "The Halls of the Last Bargain"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "winter-court",
+  "title": "The Winter Court",
+  "category": "culture",
+  "region": "Beyond the Veil",
+  "subtitle": "The Long Silence: cold, patience, and a word that is never broken",
+  "summary": "Winter is the hardest of the Courts and the least friendly to the islands. It is cruel, it is patient, and it keeps its word more exactly than anyone alive. A promise from Winter is the hardest coin in the Faewild.",
+  "epigraph": {
+   "quote": "Do not ask us for mercy. Ask us for terms. We have terms.",
+   "by": "A chamberlain of the Long Silence"
+  },
+  "facts": [
+   [
+    "Court",
+    "the Long Silence"
+   ],
+   [
+    "Sovereign",
+    "Morthryn, the Pale Empress of Air and Ending"
+   ],
+   [
+    "Seat",
+    "The Pale Hall"
+   ],
+   [
+    "They prize",
+    "Silence, endurance, an exact word, a debt carried without complaint"
+   ],
+   [
+    "They can’t abide",
+    "Pleading, noise, pity, warmth offered unasked, and Summer"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Court",
+    "paragraphs": [
+     "The Pale Hall, cut from one piece of blue ice under a sky that is always the hour before dawn. Nobody raises a voice in it. Snow falls indoors, slowly, and does not settle on the Empress.",
+     "White, silver, and bare-handed. Winter fae go ungloved to show they do not feel the cold. They speak rarely and never first. Their dreamers' eyes are white."
+    ]
+   },
+   {
+    "title": "The old way and the new",
+    "paragraphs": [
+     "Mostly Unseelie, with an iron code. The few Seelie of Winter are its lawyers, and they are worse."
+    ]
+   },
+   {
+    "title": "Customs and debts",
+    "paragraphs": [
+     "What the Court holds itself to, and holds you to. Its own fae keep these as law."
+    ],
+    "table": {
+     "caption": "If you do this in the Winter Court",
+     "headers": [
+      "If you",
+      "Then"
+     ],
+     "rows": [
+      [
+       "Speak first",
+       "You have asked for something, and you owe for the asking. Wait to be spoken to."
+      ],
+      [
+       "Ask for mercy",
+       "It is an insult, and it is remembered. Ask for terms."
+      ],
+      [
+       "Last one night in Winter's country unaided",
+       "The Court must let you leave, with everything you carried in and one thing you did not."
+      ],
+      [
+       "Give a Winter fae warmth",
+       "A fire, a coat, a hot cup. It shames them, and they must repay it three times over before the thaw."
+      ],
+      [
+       "Take Winter's word",
+       "It will be kept to the letter, by every fae of the Court, for as long as you live. Read the letter."
+      ],
+      [
+       "Weep",
+       "Tears are collected. Nobody has been told what for."
+      ],
+      [
+       "Compliment the Empress",
+       "Do not. See her own page."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The household",
+    "paragraphs": [],
+    "table": {
+     "caption": "Fae of the Court",
+     "headers": [
+      "Who",
+      "What they are"
+     ],
+     "rows": [
+      [
+       "The Lord Rimeward",
+       "Chamberlain of the Pale Hall. His whole duty is to see that nobody says a certain thing to the Empress. Unseelie."
+      ],
+      [
+       "The Lady Isolwen the Unthawed",
+       "Her general, who has not spoken aloud in four hundred years and has not needed to. Unseelie."
+      ],
+      [
+       "The Hoarfrost Clerks",
+       "Small folk of Winter, who write every promise down in ice and file it."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "On Okram 22nd, the Long Silence, the Winter Court is silent for one night, and nobody in the Icy Expanse speaks above a whisper until dawn. Winter exiled the forebears of the Frost Elves. It is the only Court that cares what Krysta is worth."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Someone gave a Winter fae a coat, forty years ago. The third repayment has just arrived, and it is far too large.",
+     "The party holds Winter's word on something, and Winter is keeping it in a way nobody intended.",
+     "A Frost Elf warband has found something in the ice with a Court seal on it, and wants to know what they are owed."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Isolwen the Unthawed spoke last winter. One word. Nobody in the Pale Hall will repeat it.” (a Frosthold trader)"
+    ]
+   }
+  ],
+  "related": [
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "fae",
+   "faewild",
+   "halfwake",
+   "kalashtar",
+   "summer-court",
+   "autumn-court",
+   "spring-court"
+  ],
+  "aliases": [
+   "The Winter Court",
+   "the Winter Court",
+   "the Long Silence",
+   "The Long Silence",
+   "Lord Rimeward",
+   "Lady Isolwen the Unthawed",
+   "Hoarfrost Clerks",
+   "The Pale Hall"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "spring-court",
+  "title": "The Spring Court",
+  "category": "culture",
+  "region": "Beyond the Veil",
+  "subtitle": "The First Bloom: games, laughter, and stakes nobody mentioned",
+  "summary": "Spring is the gentlest of the Courts, which in the Faewild is not very gentle. It plays the old games with the old delight, and it pays its debts in favors, flowers, and things you did not know you could lose.",
+  "epigraph": {
+   "quote": "Oh, you won! How lovely. Now you choose the next game, and we choose what it’s for.",
+   "by": "A courtier of the First Bloom"
+  },
+  "facts": [
+   [
+    "Court",
+    "the First Bloom"
+   ],
+   [
+    "Sovereign",
+    "Aoifel, the Green Laugh"
+   ],
+   [
+    "Seat",
+    "The Laughing Garden"
+   ],
+   [
+    "They prize",
+    "A real laugh, a new game, a good loser, a surprise"
+   ],
+   [
+    "They can’t abide",
+    "Boredom, a price list, a spoilsport, and Autumn"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Court",
+    "paragraphs": [
+     "The Laughing Garden, which is never in the same place twice. It is always the first warm morning there. The paths rearrange themselves when nobody is looking, and the hedges are in on it.",
+     "Young, barefoot, and overdressed in flowers. Nobody in Spring looks older than twenty, and several of them are older than the islands. Their dreamers' eyes are green."
+    ]
+   },
+   {
+    "title": "The old way and the new",
+    "paragraphs": [
+     "Mostly Seelie. Spring's Unseelie do not fight. They play for keeps."
+    ]
+   },
+   {
+    "title": "Customs and debts",
+    "paragraphs": [
+     "What the Court holds itself to, and holds you to. Its own fae keep these as law."
+    ],
+    "table": {
+     "caption": "If you do this in the Spring Court",
+     "headers": [
+      "If you",
+      "Then"
+     ],
+     "rows": [
+      [
+       "Make a Spring fae laugh, truly",
+       "They owe you a laugh-debt: one small favor, given gladly, no counting needed. It is the only safe debt in the Faewild."
+      ],
+      [
+       "Win a game",
+       "You name the next game. They name the stakes."
+      ],
+      [
+       "Lose a game",
+       "They take something you did not know you had: your whistle, your sense of north, your Tuesdays."
+      ],
+      [
+       "Agree to play",
+       "Ask how it ends before it starts. A game with no ending is still going."
+      ],
+      [
+       "Be offered a flower",
+       "Never refuse it, and never keep it past wilting."
+      ],
+      [
+       "Bore one of them",
+       "They will make the afternoon interesting. You will not enjoy it."
+      ],
+      [
+       "Get a child back from Spring",
+       "The child comes home with a gift. Do not ask what was kept."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The household",
+    "paragraphs": [],
+    "table": {
+     "caption": "Fae of the Court",
+     "headers": [
+      "Who",
+      "What they are"
+     ],
+     "rows": [
+      [
+       "Dame Bramble",
+       "Mistress of Games. She referees everything and has never once been impartial. Seelie."
+      ],
+      [
+       "The Marquis of Mayflies",
+       "The Queen's favorite. The title is real, and the holder changes about once a week."
+      ],
+      [
+       "The Petal Post",
+       "Small folk of Spring: pixies in their hundreds, who deliver invitations nobody can remember accepting."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "On Ezra 13th, the Laughing Thaw, the late frosts are mocked away with games, and the first flowers are carried into the houses. The Liriath and the Florians honor her Court. It is the Court a lost child is most likely to come back from, and the one most likely to have taken the child."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Someone in the party lost their Tuesdays in a game, and something important is happening on a Tuesday.",
+     "A village child came back from Spring with a gift that is far too much for a village.",
+     "The Marquis of Mayflies wants to keep the title for a second week, and will pay mortals to help."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a game in the Laughing Garden that started before the Orka War. Two of the players are mortal, and they think it’s still the same afternoon.” (a Florian elder)"
+    ]
+   }
+  ],
+  "related": [
+   "aoifel-the-green-laugh",
+   "fae",
+   "faewild",
+   "halfwake",
+   "kalashtar",
+   "summer-court",
+   "autumn-court",
+   "winter-court"
+  ],
+  "aliases": [
+   "The Spring Court",
+   "the Spring Court",
+   "the First Bloom",
+   "The First Bloom",
+   "Dame Bramble",
+   "Marquis of Mayflies",
+   "Petal Post",
+   "The Laughing Garden"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
