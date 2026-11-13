@@ -4271,6 +4271,59 @@
     "paragraphs": [
      "The folk of the Faewild are the fae: the lords of the four Courts, the small folk, the changelings, and the ones who answer to nobody. They have a page of their own."
     ]
+   },
+   {
+    "title": "The Orka War",
+    "paragraphs": [
+     "The Courts did not always live behind the Veil. In the deep ages, long before any human saw the islands, they held court in the south under the open sky, and the elves were their people in the waking world. The old tales say the fae were gentle then: tricks, games, and bargains with no blood in them.",
+     "The south also held the Orka, an empire of orcs greater than anything that has stood since. The Orka wanted more than strength could win, and bought it from daemons, one mask at a time. At the height of that bought power they turned outward, and met the only thing in the south that could stand against them: the elves and their four Courts. The fae call what followed the Orka War. Mortal histories call it the War of the Courts.",
+     "It was daemon-masked legions against elven sorcery and the deep magic of the Faewild, and it lasted longer than the islands have had human names. The fae had never fought a war. They learned, and being what they are, they learned it well and never forgot it.",
+     "The elves could not win against an enemy willing to pay the daemons' price, and they would not pay it themselves. So they did the one thing left, and withdrew. The Exodus of the Elves emptied the south. The Courts went behind the Veil and shut the doors, and only a few elves stayed.",
+     "The Orka did not enjoy the victory. The masks had been eating them the whole time. With nobody left to conquer, the empire turned on itself, cult against cult, and fell into ruin. Ask a fae who won the Orka War and you will get four answers, and none of them is “we did.”"
+    ],
+    "table": {
+     "caption": "What each Court did in the war",
+     "headers": [
+      "Court",
+      "In the war"
+     ],
+     "rows": [
+      [
+       "Summer",
+       "Fought hardest and bled most. It went into the war a Court of poets and pageants and came out a Court of knights. Every scar in the Noonhold is counted from that war."
+      ],
+      [
+       "Autumn",
+       "Paid for it, and kept the count of what it cost. The ledger in the Halls of the Last Bargain has a page for every fae who fell, and Vael Mournthorn has read all of them."
+      ],
+      [
+       "Winter",
+       "Learned to kill better than anyone, and one part of it learned to like it. Winter sent that part out of the Faewild for good. The Frost Elves are their descendants."
+      ],
+      [
+       "Spring",
+       "Hid the children, kept the old games going in the dark, and refused to change. It is the Court closest to what all fae once were, or the one that pretends best."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "What the war left behind",
+    "paragraphs": [],
+    "list": [
+     "The Veil. Before the war the Courts walked between the worlds as they pleased. Since the war they stay on their side of it, and come through at the thin places.",
+     "The thin places. Many of them are scars. The Orka tore doors into the Faewild with daemon-craft, and some never quite shut. The Sacred Flame of Jakupur still hunts the worst of them.",
+     "The split. Seelie and Unseelie are two answers to this one war: “We need not become the Orka to defeat them,” and “Mercy nearly ended us. No more.”",
+     "The rules. Never give your name, count every bargain: the manners of the fae hardened into law when a careless word could cost a Court.",
+     "The warped. Goblinoid hosts that marched into the Faewild with the Orka were caught there when the doors shut, and are still there.",
+     "The elves of the islands. The ones who would not leave stayed behind the Exodus. House Caelvaron descends from them, and goes home to the Faewild ten years in every hundred.",
+     "Golgarma, and the other drowned and daemon-haunted cities of the south, which are what the winners left."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBGcm9zdCBFbHZlcyB3ZXJlIG5vdCBjb3dhcmRzLioqIEluIHRoZSBPcmthIFdhciBhIGZhY3Rpb24gb2YgV2ludGVyIHRvb2sgdG8ga2lsbGluZyBmb3IgaXRzIG93biBzYWtlLCBhbmQgY3V0IGRvd24gb3RoZXIgZmFlIGluIGl0cyByYWlkcyBhcyBsb25nIGFzIG1vcmUgb3JjcyBkaWVkIHRoYW4gZmFlLiBXaW50ZXIncyBzb3ZlcmVpZ24gb2YgdGhhdCBkYXkgZXhpbGVkIHRoZW0gdG8gdGhlIHdha2luZyB3b3JsZCwgdW5kZXIgYSBjdXJzZSB0aGF0IHdpdGhlcnMgdGhlaXIgZmFlIG1hZ2ljIGEgbGl0dGxlIG1vcmUgd2l0aCBldmVyeSBnZW5lcmF0aW9uLiBUaGVpciBkZXNjZW5kYW50cyBkbyBub3QgcmVtZW1iZXIgYmVpbmcgZmFlIGF0IGFsbC4iLCAiKipXaW50ZXIgY2hhbmdlZCBoYW5kcy4qKiBUaGUgc292ZXJlaWduIHdobyBleGlsZWQgdGhlIGJlcnNlcmtlcnMgd2FzIE1vcnRocnluJ3MgcHJlZGVjZXNzb3IuIE1vcnRocnluIGhhcyBoZWxkIHRoZSBQYWxlIEhhbGwgc2luY2UgdGhlIHdhci4gVGhlIEZpZnRoIExvcmQncyBjb3VydHNoaXBzLCBhbmQgaGlzIHRyYWRlLCBjYW1lIGFmdGVyLiIsICIqKlRoZXJlIHdhcyBhIEZpZnRoIENvdXJ0LioqIEl0cyBsb3JkIHJ1bGVkIHRoZSBUdXJuaW5ncywgdGhlIGRheXMgb24gd2hpY2ggb25lIHNlYXNvbiBiZWNvbWVzIHRoZSBuZXh0LCBhbmQgY2FycmllZCB0aGUgVHVybiBmcm9tIGVhY2ggQ291cnQgdG8gdGhlIG5leHQsIGZvdXIgdGltZXMgYSB5ZWFyLiBIZSB3YXMgYSBsb3JkIGxpa2UgdGhlIG90aGVyIGZvdXI6IHByb3VkLCBjbGV2ZXIsIGFuZCBzZXQgb24gcnVsaW5nIGFsbCBmaXZlLiIsICIqKlRoZSBSb2FtIGlzIGhpcy4qKiBIaXMgcmVhbG0gY2FtZSBsb29zZSBmcm9tIHRoZSBGYWV3aWxkIHdoZW4gaGUgZ2F2ZSBpdCB1cCwgYW5kIG5vYm9keSBldmVyIHRvb2sgcG9zc2Vzc2lvbi4gVGhlIHRpdGxlIGlzIHN0aWxsIGdvb2QuIE5vIENvdXJ0IGtub3dzLCBubyBrYWxhc2h0YXIga25vd3MsIGFuZCBoZSBoYXMgbmV2ZXIgbWVudGlvbmVkIGl0LiJdfQ=="
    }
   ],
   "facts": [
@@ -4285,6 +4338,10 @@
    [
     "Debts due",
     "The Still Days"
+   ],
+   [
+    "The old wound",
+    "the Orka War"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -4292,7 +4349,11 @@
    "quote": "Count every bargain three times, and then once more.",
    "by": "A southern grandmother"
   },
-  "aliases": [],
+  "aliases": [
+   "Orka War",
+   "the Orka War",
+   "War of the Courts"
+  ],
   "related": [
    "king-tide",
    "calendar",
@@ -4303,7 +4364,11 @@
    "autumn-court",
    "winter-court",
    "spring-court",
-   "faewild-politics"
+   "faewild-politics",
+   "golgarma",
+   "elves",
+   "house-caelvaron",
+   "exodus-and-the-landing"
   ]
  },
  {
@@ -21048,6 +21113,11 @@
      "“Something of her Court’s was lost in the islands long ago, and one of her own is here looking for it, wearing whatever face is useful.” (a Jakupur art dealer)",
      "“She laughed at the Winter Queen once, to her face. Spring has been short ever since.” (a Florian elder)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkhvdyBpdCBiZWdhbi4qKiBBdCBhIFRoYXcsIGhhbmRpbmcgb3ZlciB0aGUgVHVybiwgQW9pZmVsIGxvb2tlZCBhdCBNb3J0aHJ5biBhbmQgdG9sZCBoZXIgc2hlIHdhcyB0aGUgbW9zdCBiZWF1dGlmdWwgdGhpbmcgc2hlIGhhZCBldmVyIHNlZW4uIFNoZSBzYWlkIGl0IGluIGFsbCBpbm5vY2VuY2UuIFRoZSBQYWxlIEVtcHJlc3Mgd2VudCBwaW5rLCBjb3VsZCBub3QgZmluZCBhIHdvcmQsIGFuZCBuZWFybHkgZHJvcHBlZCB0aGUgeWVhci4gQW9pZmVsIGxhdWdoZWQgdW50aWwgc2hlIGNvdWxkIG5vdCBzdGFuZCwgYW5kIGJ5IHRoZSB0aW1lIHNoZSBzdG9wcGVkIHNoZSB3YXMgbG9zdC4iLCAiKipBb2lmZWwuKiogU2hlIGZhbGxzIGluIGxvdmUgd2l0aCBhbnlvbmUgd2hvIG1ha2VzIGhlciBsYXVnaCwgYW5kIGl0IGFsd2F5cyBwYXNzZXMuIFRoaXMgb25lIGhhcyBub3QuIEl0IGlzIHRoZSBvbmx5IGxvdmUgc2hlIGhhcyB0aGF0IHN0YXlzLCBhbmQgc2hlIGRldGVzdHMgaXQsIGJlY2F1c2Ugc2hlIGNhbid0IGtlZXAgTW9ydGhyeW4sIGFuZCBiZWNhdXNlIGl0IHJlbWluZHMgaGVyIHRoYXQgc2hlIGlzIGEgUXVlZW4gd2l0aCBhIHNlYXNvbiB0byBjYXJyeS4iLCAiKipUaGUgaGFuZG92ZXIgaXMgYWxsIHRoZXkgaGF2ZS4qKiBTb21lIHllYXJzIE1vcnRocnluIGRvZXMgbm90IGxldCBnbyBhdCBvbmNlLCBhbmQgd2ludGVyIHJ1bnMgbG9uZy4gU29tZSB5ZWFycyBBb2lmZWwgY29tZXMgZm9yIGl0IGVhcmx5LCBhbmQgc3ByaW5nIGNvbWVzIGVhcmx5LiIsICIqKlRoZSBDb3VydHMgaGF2ZSBpdCBiYWNrd2FyZHMuKiogRWFjaCBob3VzZWhvbGQgYmVsaWV2ZXMgdGhlIG90aGVyIGlzIHNjaGVtaW5nIHRvIHN0cmV0Y2ggaXRzIHNlYXNvbi4gTmVpdGhlciBRdWVlbiBjYW4gY29ycmVjdCB0aGVtIHdpdGhvdXQgZXhwbGFpbmluZy4gTG9yZCBSaW1ld2FyZCBhbmQgRGFtZSBCcmFtYmxlIGtub3csIGFuZCB3cml0ZSBlYWNoIG90aGVyIHZlcnkgY2FyZWZ1bCBsZXR0ZXJzLiIsICIqKlRoZSBjb3VydHNoaXBzIHdlcmUgcG9saWN5LioqIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBpbiB0dXJuLCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIl19"
    }
   ],
   "facts": [
@@ -24143,6 +24213,11 @@
      "“Something of hers was stolen at the last King Tide. A crown, they say. The Long Silence is patient, and it is looking.” (a Frosthold trader)",
      "“There’s a hand behind half the trouble in the Icy Expanse, and it’s a cold one.” (a Knight of the Northern Lights)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkhvdyBpdCBiZWdhbi4qKiBBdCBhIFRoYXcsIGhhbmRpbmcgb3ZlciB0aGUgVHVybiwgQW9pZmVsIGxvb2tlZCBhdCBNb3J0aHJ5biBhbmQgdG9sZCBoZXIgc2hlIHdhcyB0aGUgbW9zdCBiZWF1dGlmdWwgdGhpbmcgc2hlIGhhZCBldmVyIHNlZW4uIFNoZSBzYWlkIGl0IGluIGFsbCBpbm5vY2VuY2UuIFRoZSBQYWxlIEVtcHJlc3Mgd2VudCBwaW5rLCBjb3VsZCBub3QgZmluZCBhIHdvcmQsIGFuZCBuZWFybHkgZHJvcHBlZCB0aGUgeWVhci4gQW9pZmVsIGxhdWdoZWQgdW50aWwgc2hlIGNvdWxkIG5vdCBzdGFuZCwgYW5kIGJ5IHRoZSB0aW1lIHNoZSBzdG9wcGVkIHNoZSB3YXMgbG9zdC4iLCAiKipNb3J0aHJ5bi4qKiBTaGUgbG92ZXMgQW9pZmVsLCBhbmQgc2hlIGlzIGNhcmVmdWwgYWJvdXQgaXQuIFNoZSB3YXMgZmlyc3QgbG92ZWQgYnkgYSBsb3JkIHdobyB3YXMgY291cnRpbmcgZm91ciB0aHJvbmVzLCBhbmQgc2hlIGhhcyBub3QgZm9yZ290dGVuLiBTaGUgaXMgdGhlIHByYWdtYXRpYyBvbmU6IHNoZSBnaXZlcyB0aGUgVHVybiBvdmVyIG9uIHRoZSBkYXksIGFuZCBzaGUgZG9lcyBub3QgYXNrIEFvaWZlbCB0byBzdGF5LiIsICIqKlRoZSBoYW5kb3ZlciBpcyBhbGwgdGhleSBoYXZlLioqIFNvbWUgeWVhcnMgTW9ydGhyeW4gZG9lcyBub3QgbGV0IGdvIGF0IG9uY2UsIGFuZCB3aW50ZXIgcnVucyBsb25nLiBTb21lIHllYXJzIEFvaWZlbCBjb21lcyBmb3IgaXQgZWFybHksIGFuZCBzcHJpbmcgY29tZXMgZWFybHkuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqV2ludGVyIGNoYW5nZWQgaGFuZHMuKiogVGhlIHNvdmVyZWlnbiB3aG8gZXhpbGVkIHRoZSBiZXJzZXJrZXJzIHdhcyBNb3J0aHJ5bidzIHByZWRlY2Vzc29yLiBNb3J0aHJ5biBoYXMgaGVsZCB0aGUgUGFsZSBIYWxsIHNpbmNlIHRoZSB3YXIuIFRoZSBGaWZ0aCBMb3JkJ3MgY291cnRzaGlwcywgYW5kIGhpcyB0cmFkZSwgY2FtZSBhZnRlci4iLCAiKipUaGUgY291cnRzaGlwcyB3ZXJlIHBvbGljeS4qKiBIZSBjb3VydGVkIGVhY2ggb2YgdGhlIG90aGVyIGZvdXIgaW4gdHVybiwgdG8gYmluZCB0aGVpciBDb3VydHMgdG8gaGlzLCBhbmQgaGUgd2FzIHRoZSBmaXJzdCBsb3ZlciBvZiBldmVyeSBvbmUgb2YgdGhlbS4gRWFjaCBiZWxpZXZlZCBzaGUsIG9yIGhlLCB3YXMgdGhlIG9ubHkgb25lLiJdfQ=="
    }
   ],
   "facts": [
@@ -24995,6 +25070,11 @@
      "“She has never been beaten in a fair war. Everyone repeats that. Nobody asks about the unfair ones.” (a Caelvaron retainer)",
      "“A dreamer with gold eyes won a Summer tourney in his sleep and woke with the scar.” (a kalashtar of Sunhold)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBjb3VydHNoaXBzIHdlcmUgcG9saWN5LioqIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBpbiB0dXJuLCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIiwgIkl0IHdhcyBub3QgYSBkdWVsLiBTaGUgc2F5cyBpdCB3YXMgYmVjYXVzZSBsb3NpbmcgYSBkdWVsIGlzIHRoZSBvbmx5IGtpbmQgb2YgbG9zcyBzaGUga25vd3MgaG93IHRvIHRhbGsgYWJvdXQuIiwgIioqSGUgaXMgdGhlIG9ubHkgdHJ1ZW5hbWVyLioqIEhlIGNvdWxkIHNwZWFrIHRoZSB0cnVlIG5hbWUgb2YgYW55IEFyY2hmZXksIGFuZCBvZiBhbnl0aGluZyBlbHNlLiBIZSBoYXMgbmV2ZXIgYmVlbiBzZWVuIHRvIGRvIGl0LiBUaGUgZm91ciBzb3ZlcmVpZ25zIGRvIG5vdCBrbm93IGZvciBjZXJ0YWluIHRoYXQgaGUgY2FuLCBhbmQgaGF2ZSBuZXZlciBkYXJlZCB0byBmaW5kIG91dC4iXX0="
    }
   ],
   "facts": [
@@ -26114,7 +26194,7 @@
    {
     "title": "Why the Courts fear him",
     "paragraphs": [
-     "The Faewild is built on names, and the tale says he knows all of them. Nobody has ever heard him speak one. He has never said that he can. The four sovereigns have had two thousand years to wonder, and it has not got easier."
+     "The Faewild is built on names, and the tale says he knows all of them. Nobody has ever heard him speak one. He has never said that he can. The four sovereigns have had ten thousand years to wonder, and it has not got easier."
     ]
    },
    {
@@ -26124,6 +26204,11 @@
      "“There’s a cat a day upriver from Jakupur that the fae step around. Draw your own conclusion.” (a Jakupur river-pilot)",
      "“Some dreamers’ eyes never take a season’s color. The other kalashtar don’t talk about why.” (a dream-reader of Greyhaven)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZXJlIHdhcyBhIEZpZnRoIENvdXJ0LioqIEl0cyBsb3JkIHJ1bGVkIHRoZSBUdXJuaW5ncywgdGhlIGRheXMgb24gd2hpY2ggb25lIHNlYXNvbiBiZWNvbWVzIHRoZSBuZXh0LCBhbmQgY2FycmllZCB0aGUgVHVybiBmcm9tIGVhY2ggQ291cnQgdG8gdGhlIG5leHQsIGZvdXIgdGltZXMgYSB5ZWFyLiBIZSB3YXMgYSBsb3JkIGxpa2UgdGhlIG90aGVyIGZvdXI6IHByb3VkLCBjbGV2ZXIsIGFuZCBzZXQgb24gcnVsaW5nIGFsbCBmaXZlLiIsICIqKlRoZSBjb3VydHNoaXBzIHdlcmUgcG9saWN5LioqIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBpbiB0dXJuLCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIiwgIioqVGhlIHRyYWRlLioqIEhlIHdlbnQgdG8gT2RhLCB0aGUgU2VhbGVkIE9yYWNsZSwgYW5kIGFza2VkIHRoZSBsYXJnZXN0IHF1ZXN0aW9uIGFueW9uZSBoYXMgYXNrZWQgaGVyOiB0aGUgdHJ1ZSBuYW1lIG9mIGV2ZXJ5IHRoaW5nLiBPZGEgZG9lcyBub3Qgc2VsbC4gVGhlIGFza2luZyBpcyB0aGUgcHJpY2UuIEEgcXVlc3Rpb24gdGhhdCBzaXplIGNvc3QgZXZlcnl0aGluZyBoZSBoYWQ6IGhpcyByZWFsbSwgaGlzIGNyb3duLCBhbmQgaGlzIG93biBuYW1lLiBPZGEga2VwdCBub25lIG9mIGl0LiIsICIqKldoYXQgaXQgZGlkIHRvIGhpbS4qKiBUbyBrbm93IGEgdGhpbmcncyB0cnVlIG5hbWUgaXMgdG8ga25vdyB3aGF0IGl0IGlzLCBhbmQgaGlzIGFtYml0aW9uIGRpZCBub3Qgc3Vydml2ZSB0aGF0LiBIZSBoYXMgbm8gbmFtZSwgc28gbm8gYmFyZ2Fpbiwgd2FyZCwgb3Igb2F0aCBoYXMgYW55dGhpbmcgdG8gaG9sZC4gVGhhdCBpcyB0aGUgVW5ib3VuZC4iLCAiKipIZSBpcyB0aGUgb25seSB0cnVlbmFtZXIuKiogSGUgY291bGQgc3BlYWsgdGhlIHRydWUgbmFtZSBvZiBhbnkgQXJjaGZleSwgYW5kIG9mIGFueXRoaW5nIGVsc2UuIEhlIGhhcyBuZXZlciBiZWVuIHNlZW4gdG8gZG8gaXQuIFRoZSBmb3VyIHNvdmVyZWlnbnMgZG8gbm90IGtub3cgZm9yIGNlcnRhaW4gdGhhdCBoZSBjYW4sIGFuZCBoYXZlIG5ldmVyIGRhcmVkIHRvIGZpbmQgb3V0LiIsICIqKlRoZSBmaXJzdHMuKiogSW4gdGhlIEZhZXdpbGQgYSBmaXJzdCBpcyBhIHRoaW5nIHdpdGggYSBuYW1lLCBhbmQgaXQgY2FuIGJlIG93bmVkLiBUaGUgZmlyc3Qga2lzcywgYW5kIGZvdXIgZmlyc3QgdGltZXMsIHdlbnQgd2l0aCB0aGUgbmFtZXMgd2hlbiBoZSB3YWxrZWQgYXdheS4gSGUgZGlkIG5vdCBtZWFuIHRvIHRha2UgdGhlbSwgYW5kIGhlIHN0aWxsIGhhcyB0aGVtLiIsICIqKlRoZSBSb2FtIGlzIGhpcy4qKiBIaXMgcmVhbG0gY2FtZSBsb29zZSBmcm9tIHRoZSBGYWV3aWxkIHdoZW4gaGUgZ2F2ZSBpdCB1cCwgYW5kIG5vYm9keSBldmVyIHRvb2sgcG9zc2Vzc2lvbi4gVGhlIHRpdGxlIGlzIHN0aWxsIGdvb2QuIE5vIENvdXJ0IGtub3dzLCBubyBrYWxhc2h0YXIga25vd3MsIGFuZCBoZSBoYXMgbmV2ZXIgbWVudGlvbmVkIGl0LiIsICIqKlRoZSBEb21lIGlzIHRoZSBHbGFzcyBIYWxsKiosIGhpcyBvbGQgdGhyb25lIHJvb20uIFRoZSBEb21lLXBlYWNlIGlzIGhpcyBob3VzZSBydWxlLCBhbmQgdGhlIGJyaWNrZWQtdXAgZmlmdGggZ2F0ZSBpcyBoaXMgb3duIGRvb3IuIEx1bGxzIHdpbGwgbm90IHBhc3MgdW5kZXIgdGhlIGdsYXNzIGJlY2F1c2UgaXQgaXMgc3RpbGwsIGluIGV2ZXJ5IHdheSB0aGF0IG1hdHRlcnMgdG8gYSBuYW1lLCBoaXMgaG91c2UuIiwgIioqVGhlIExhdGUgRnJvc3QqKiBpcyBoaW0gd2Fsa2luZyBoaXMgb2xkIFR1cm5pbmdzLCBvbmNlIGluIGVhY2ggc2Vhc29uLCBvdXQgb2YgaGFiaXQuIiwgIioqT25kcnkgVmFuZSBrbm93cy4qKiBTaGUgd2FzIHRoZSBsb3JkJ3MgbWFyc2hhbCwgc3dvcm4gdG8ga2VlcCBoaXMgaGFsbCB1bnRpbCBoZSBjYW1lIGJhY2ssIGFuZCBzaGUgaXMgc3RpbGwgd2FpdGluZy4gU2hlIGRvZXMgbm90IHJlY29nbml6ZSB0aGUgVW5ib3VuZDogaGVyIG9hdGggd2FzIHRvIGEgbmFtZSwgYW5kIGhlIG5vIGxvbmdlciBoYXMgb25lLiBIZSBoYXMgc2F0IGF0IHRoZSBMb25nIFRhYmxlIGEgZG96ZW4gdGltZXMgd2l0aGluIHNpZ2h0IG9mIGhlciBwb3JjaCwgYW5kIGhhcyBuZXZlciB0b2xkIGhlci4iXX0="
    }
   ],
   "facts": [
@@ -26311,6 +26396,11 @@
      "“The Last Bargain is a real contract. He keeps it, he has never shown it, and all four Courts are party to it.” (a Caelvaron archivist)",
      "“Half the old families of the Heartland owe Autumn something from the Landing years. The notes come due on Still Days, a few each year.” (a Goldwind notary)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBjb3VydHNoaXBzIHdlcmUgcG9saWN5LioqIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBpbiB0dXJuLCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIiwgIlRoZSBlbnRyeSBpbiB0aGUgbGVkZ2VyIGlzIHJlYWwuIEl0IGlzIHRoZSBvbmx5IGxpbmUgaW4gdGhlIGJvb2sgd2l0aCBubyBzdW0gYWdhaW5zdCBpdCwgYmVjYXVzZSBWYWVsIGhhcyBuZXZlciBiZWVuIGFibGUgdG8gZGVjaWRlIHdoYXQgaGUgaXMgb3dlZC4iLCAiKipIZSBpcyB0aGUgb25seSB0cnVlbmFtZXIuKiogSGUgY291bGQgc3BlYWsgdGhlIHRydWUgbmFtZSBvZiBhbnkgQXJjaGZleSwgYW5kIG9mIGFueXRoaW5nIGVsc2UuIEhlIGhhcyBuZXZlciBiZWVuIHNlZW4gdG8gZG8gaXQuIFRoZSBmb3VyIHNvdmVyZWlnbnMgZG8gbm90IGtub3cgZm9yIGNlcnRhaW4gdGhhdCBoZSBjYW4sIGFuZCBoYXZlIG5ldmVyIGRhcmVkIHRvIGZpbmQgb3V0LiJdfQ=="
    }
   ],
   "facts": [
@@ -41273,6 +41363,11 @@
      "A ship's captain will pay for a kalashtar to sleep aboard through the Widow's Teeth.",
      "Two kalashtar who met only on the far shore want to find each other in the waking world."
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoeSBvbmx5IGh1bWFucyBvcGVuIChwcm9wb3NhbCkuKiogT25kcnkgVmFuZSB3YXMgaHVtYW4sIHRoZSBmaXJzdCBtb3J0YWwgZXZlciBzd29ybiB0byBhIGZhZSBoYWxsLiBIZXIgb2F0aCBpcyB3aGF0IGhvbGRzIHRoZSBkb29yIG9mIHRoZSBSb2FtIG9wZW4gdG8gaGVyIGtpbmQsIGFuZCB0byBubyBvdGhlci4iLCAiKipUaGUgUm9hbSBpcyBoaXMuKiogSGlzIHJlYWxtIGNhbWUgbG9vc2UgZnJvbSB0aGUgRmFld2lsZCB3aGVuIGhlIGdhdmUgaXQgdXAsIGFuZCBub2JvZHkgZXZlciB0b29rIHBvc3Nlc3Npb24uIFRoZSB0aXRsZSBpcyBzdGlsbCBnb29kLiBObyBDb3VydCBrbm93cywgbm8ga2FsYXNodGFyIGtub3dzLCBhbmQgaGUgaGFzIG5ldmVyIG1lbnRpb25lZCBpdC4iLCAiVGhlIEx1bGxzIGFyZSBOYXhpdGhlJ3MsIGFuZCB0aGV5IGNhbWUgaW50byB0aGUgUm9hbSBhZnRlciBpdHMgbG9yZCBsZWZ0IGl0LiJdfQ=="
    }
   ],
   "aliases": [
@@ -44281,7 +44376,7 @@
       ],
       [
        "The warped",
-       "Goblinoids who were caught in the Faewild in the Orka War and never got out. Two thousand years there have changed them, and they pray to a crueler face of the Skarn."
+       "Goblinoids who were caught in the Faewild in the Orka War and never got out. Ages in that country have changed them, and they pray to a crueler face of the Skarn."
       ],
       [
        "Road-fae",
@@ -44403,6 +44498,12 @@
      "“Thank you” admits a debt. Fae-wise islanders say “well done” instead, and some keep the habit at home.",
      "Vael Mournthorn is the only king among the four sovereigns.",
      "The fae count time differently. A fae who says “soon” may mean your grandchildren."
+    ]
+   },
+   {
+    "title": "The war that made them",
+    "paragraphs": [
+     "Nearly everything hard about the fae goes back to one war. The Courts once lived in the south of the islands, under the open sky, until the daemon-masked empire of the Orka drove them behind the Veil. The fae call it the Orka War, and the Faewild’s own page tells it."
     ]
    },
    {
@@ -44601,6 +44702,11 @@
      "“A woman walked into Halfwake awake. In the body. No fae with her. She bought a horse and left by the Red Gate.” (a kalashtar of Goldwind)",
      "“The Corvane Line has offered a fortune for the use of the Posting Wall. The Marshal wrote back one word.” (a Goldwind clerk)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBSb2FtIGlzIGhpcy4qKiBIaXMgcmVhbG0gY2FtZSBsb29zZSBmcm9tIHRoZSBGYWV3aWxkIHdoZW4gaGUgZ2F2ZSBpdCB1cCwgYW5kIG5vYm9keSBldmVyIHRvb2sgcG9zc2Vzc2lvbi4gVGhlIHRpdGxlIGlzIHN0aWxsIGdvb2QuIE5vIENvdXJ0IGtub3dzLCBubyBrYWxhc2h0YXIga25vd3MsIGFuZCBoZSBoYXMgbmV2ZXIgbWVudGlvbmVkIGl0LiIsICIqKlRoZSB0cmFkZS4qKiBIZSB3ZW50IHRvIE9kYSwgdGhlIFNlYWxlZCBPcmFjbGUsIGFuZCBhc2tlZCB0aGUgbGFyZ2VzdCBxdWVzdGlvbiBhbnlvbmUgaGFzIGFza2VkIGhlcjogdGhlIHRydWUgbmFtZSBvZiBldmVyeSB0aGluZy4gT2RhIGRvZXMgbm90IHNlbGwuIFRoZSBhc2tpbmcgaXMgdGhlIHByaWNlLiBBIHF1ZXN0aW9uIHRoYXQgc2l6ZSBjb3N0IGV2ZXJ5dGhpbmcgaGUgaGFkOiBoaXMgcmVhbG0sIGhpcyBjcm93biwgYW5kIGhpcyBvd24gbmFtZS4gT2RhIGtlcHQgbm9uZSBvZiBpdC4iLCAiKipUaGUgRG9tZSBpcyB0aGUgR2xhc3MgSGFsbCoqLCBoaXMgb2xkIHRocm9uZSByb29tLiBUaGUgRG9tZS1wZWFjZSBpcyBoaXMgaG91c2UgcnVsZSwgYW5kIHRoZSBicmlja2VkLXVwIGZpZnRoIGdhdGUgaXMgaGlzIG93biBkb29yLiBMdWxscyB3aWxsIG5vdCBwYXNzIHVuZGVyIHRoZSBnbGFzcyBiZWNhdXNlIGl0IGlzIHN0aWxsLCBpbiBldmVyeSB3YXkgdGhhdCBtYXR0ZXJzIHRvIGEgbmFtZSwgaGlzIGhvdXNlLiIsICIqKldoeSBvbmx5IGh1bWFucyBvcGVuIChwcm9wb3NhbCkuKiogT25kcnkgVmFuZSB3YXMgaHVtYW4sIHRoZSBmaXJzdCBtb3J0YWwgZXZlciBzd29ybiB0byBhIGZhZSBoYWxsLiBIZXIgb2F0aCBpcyB3aGF0IGhvbGRzIHRoZSBkb29yIG9mIHRoZSBSb2FtIG9wZW4gdG8gaGVyIGtpbmQsIGFuZCB0byBubyBvdGhlci4iLCAiKipOYXhpdGhlIG1vdmVkIGluLioqIEEgY291bnRyeSB3aXRoIG5vIGxvcmQgYW5kIG5vIGZlbmNlIGlzIGEgbGFyZGVyLiBUaGUgTHVsbHMgY2FtZSBhZnRlciwgaW50byBhbiB1bmd1YXJkZWQgaG91c2UuIl19"
    }
   ],
   "related": [
@@ -44774,6 +44880,11 @@
      "“There’s a fifth gate, bricked up, with no color on it. Some nights the bricks are on the ground.” (a road-fae clerk)",
      "“Somebody sold the Long Table their own name once. They’re still there. They wash the cups.” (a kalashtar of Jakupur)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBEb21lIGlzIHRoZSBHbGFzcyBIYWxsKiosIGhpcyBvbGQgdGhyb25lIHJvb20uIFRoZSBEb21lLXBlYWNlIGlzIGhpcyBob3VzZSBydWxlLCBhbmQgdGhlIGJyaWNrZWQtdXAgZmlmdGggZ2F0ZSBpcyBoaXMgb3duIGRvb3IuIEx1bGxzIHdpbGwgbm90IHBhc3MgdW5kZXIgdGhlIGdsYXNzIGJlY2F1c2UgaXQgaXMgc3RpbGwsIGluIGV2ZXJ5IHdheSB0aGF0IG1hdHRlcnMgdG8gYSBuYW1lLCBoaXMgaG91c2UuIiwgIioqT25kcnkgVmFuZSBrbm93cy4qKiBTaGUgd2FzIHRoZSBsb3JkJ3MgbWFyc2hhbCwgc3dvcm4gdG8ga2VlcCBoaXMgaGFsbCB1bnRpbCBoZSBjYW1lIGJhY2ssIGFuZCBzaGUgaXMgc3RpbGwgd2FpdGluZy4gU2hlIGRvZXMgbm90IHJlY29nbml6ZSB0aGUgVW5ib3VuZDogaGVyIG9hdGggd2FzIHRvIGEgbmFtZSwgYW5kIGhlIG5vIGxvbmdlciBoYXMgb25lLiBIZSBoYXMgc2F0IGF0IHRoZSBMb25nIFRhYmxlIGEgZG96ZW4gdGltZXMgd2l0aGluIHNpZ2h0IG9mIGhlciBwb3JjaCwgYW5kIGhhcyBuZXZlciB0b2xkIGhlci4iLCAiKipUaGUgTG9uZyBUYWJsZSBuZXZlciBjaGFyZ2VzIGhpbS4qKiBIZSBoYXMgbm90aGluZyB0cnVlIGFib3V0IGhpbXNlbGYgbGVmdCB0byB0ZWxsLiIsICIqKldoeSBvbmx5IGh1bWFucyBvcGVuIChwcm9wb3NhbCkuKiogT25kcnkgVmFuZSB3YXMgaHVtYW4sIHRoZSBmaXJzdCBtb3J0YWwgZXZlciBzd29ybiB0byBhIGZhZSBoYWxsLiBIZXIgb2F0aCBpcyB3aGF0IGhvbGRzIHRoZSBkb29yIG9mIHRoZSBSb2FtIG9wZW4gdG8gaGVyIGtpbmQsIGFuZCB0byBubyBvdGhlci4iXX0="
    }
   ],
   "related": [
@@ -44926,6 +45037,11 @@
      "“Someone can give you theirs. One night of sleep, handed over, and they never sleep again instead of you.” (a dream-reader of Greyhaven)",
      "“The one with no Court has done it for nothing. Twice. He was passing.” (a road-fae)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkJlaW5nIGVhdGVuLCBhdCB0aGUgdGFibGUuKiogSW4gdGhlIFJvYW0sIGEgY3JlYXR1cmUgcmVkdWNlZCB0byAwIEhpdCBQb2ludHMgYnkgYSBMdWxsIGlzIEVhdGVuOiBpdCB3YWtlcyB3aXRoIDEgSGl0IFBvaW50IGFuZCBjYW4gbm8gbG9uZ2VyIHNsZWVwLCBvciBnYWluIHRoZSBiZW5lZml0cyBvZiBhIExvbmcgUmVzdCBieSBhbnkgbWVhbnMgdGhhdCBpbnZvbHZlIHNsZWVwLiBBdCBlYWNoIGRhd24gaXQgbWFrZXMgYSBDb25zdGl0dXRpb24gc2F2aW5nIHRocm93IChEQyAxMCwgcmlzaW5nIGJ5IDEgZWFjaCBkYXkpIG9yIGdhaW5zIDEgRXhoYXVzdGlvbiBsZXZlbC4gQXQgNiBsZXZlbHMgaXQgZGllcywgb3IgbGl2ZXMgb24gYXMgb25lIG9mIHRoZSBHcmV5ZWQgYW5kIHBhc3NlcyB0byB0aGUgR00uIiwgIioqVGhlIHRocmVlIHJ1bW9yZWQgY3VyZXMgYXJlIGFsbCB0cnVlLCBhbmQgYWxsIGNvc3Qgc29tZXRoaW5nLioqIEtpbGxpbmcgdGhlIEx1bGwgdW5kZXIgdGhlIERvbWUgcmV0dXJucyB0aGUgc2xlZXAgaXQgYXRlLiBBIHdpbGxpbmcgZ2l2ZXIgY2FuIGhhbmQgb3ZlciBhIG5pZ2h0IG9mIHNsZWVwIGFuZCBuZXZlciBzbGVlcCBhZ2Fpbi4gVGhlIFVuYm91bmQgY2FuIHNpbXBseSBzYXkgdGhlIHNsZWVwZXIncyB0cnVlIG5hbWUsIGFuZCBoYXMsIHR3aWNlLiIsICIqKk5heGl0aGUgbW92ZWQgaW4uKiogQSBjb3VudHJ5IHdpdGggbm8gbG9yZCBhbmQgbm8gZmVuY2UgaXMgYSBsYXJkZXIuIFRoZSBMdWxscyBjYW1lIGFmdGVyLCBpbnRvIGFuIHVuZ3VhcmRlZCBob3VzZS4iLCAiKipXaHkgdGhlIERvbWUgc3RvcHMgdGhlbS4qKiBJdCBpcyB0aGUgVW5ib3VuZCdzIG9sZCB0aHJvbmUgcm9vbSwgYW5kIHN0aWxsIGhpcyBob3VzZS4iXX0="
    }
   ],
   "related": [
@@ -45420,6 +45536,11 @@
     "paragraphs": [
      "“Isolwen the Unthawed spoke last winter. One word. Nobody in the Pale Hall will repeat it.” (a Frosthold trader)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBDb3VydHMgaGF2ZSBpdCBiYWNrd2FyZHMuKiogRWFjaCBob3VzZWhvbGQgYmVsaWV2ZXMgdGhlIG90aGVyIGlzIHNjaGVtaW5nIHRvIHN0cmV0Y2ggaXRzIHNlYXNvbi4gTmVpdGhlciBRdWVlbiBjYW4gY29ycmVjdCB0aGVtIHdpdGhvdXQgZXhwbGFpbmluZy4gTG9yZCBSaW1ld2FyZCBhbmQgRGFtZSBCcmFtYmxlIGtub3csIGFuZCB3cml0ZSBlYWNoIG90aGVyIHZlcnkgY2FyZWZ1bCBsZXR0ZXJzLiIsICIqKk1vcnRocnluLioqIFNoZSBsb3ZlcyBBb2lmZWwsIGFuZCBzaGUgaXMgY2FyZWZ1bCBhYm91dCBpdC4gU2hlIHdhcyBmaXJzdCBsb3ZlZCBieSBhIGxvcmQgd2hvIHdhcyBjb3VydGluZyBmb3VyIHRocm9uZXMsIGFuZCBzaGUgaGFzIG5vdCBmb3Jnb3R0ZW4uIFNoZSBpcyB0aGUgcHJhZ21hdGljIG9uZTogc2hlIGdpdmVzIHRoZSBUdXJuIG92ZXIgb24gdGhlIGRheSwgYW5kIHNoZSBkb2VzIG5vdCBhc2sgQW9pZmVsIHRvIHN0YXkuIiwgIioqVGhlIEZyb3N0IEVsdmVzIHdlcmUgbm90IGNvd2FyZHMuKiogSW4gdGhlIE9ya2EgV2FyIGEgZmFjdGlvbiBvZiBXaW50ZXIgdG9vayB0byBraWxsaW5nIGZvciBpdHMgb3duIHNha2UsIGFuZCBjdXQgZG93biBvdGhlciBmYWUgaW4gaXRzIHJhaWRzIGFzIGxvbmcgYXMgbW9yZSBvcmNzIGRpZWQgdGhhbiBmYWUuIFdpbnRlcidzIHNvdmVyZWlnbiBvZiB0aGF0IGRheSBleGlsZWQgdGhlbSB0byB0aGUgd2FraW5nIHdvcmxkLCB1bmRlciBhIGN1cnNlIHRoYXQgd2l0aGVycyB0aGVpciBmYWUgbWFnaWMgYSBsaXR0bGUgbW9yZSB3aXRoIGV2ZXJ5IGdlbmVyYXRpb24uIFRoZWlyIGRlc2NlbmRhbnRzIGRvIG5vdCByZW1lbWJlciBiZWluZyBmYWUgYXQgYWxsLiIsICIqKldpbnRlciBjaGFuZ2VkIGhhbmRzLioqIFRoZSBzb3ZlcmVpZ24gd2hvIGV4aWxlZCB0aGUgYmVyc2Vya2VycyB3YXMgTW9ydGhyeW4ncyBwcmVkZWNlc3Nvci4gTW9ydGhyeW4gaGFzIGhlbGQgdGhlIFBhbGUgSGFsbCBzaW5jZSB0aGUgd2FyLiBUaGUgRmlmdGggTG9yZCdzIGNvdXJ0c2hpcHMsIGFuZCBoaXMgdHJhZGUsIGNhbWUgYWZ0ZXIuIl19"
    }
   ],
   "related": [
@@ -45589,6 +45710,11 @@
     "paragraphs": [
      "“There’s a game in the Laughing Garden that started before the Orka War. Two of the players are mortal, and they think it’s still the same afternoon.” (a Florian elder)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBDb3VydHMgaGF2ZSBpdCBiYWNrd2FyZHMuKiogRWFjaCBob3VzZWhvbGQgYmVsaWV2ZXMgdGhlIG90aGVyIGlzIHNjaGVtaW5nIHRvIHN0cmV0Y2ggaXRzIHNlYXNvbi4gTmVpdGhlciBRdWVlbiBjYW4gY29ycmVjdCB0aGVtIHdpdGhvdXQgZXhwbGFpbmluZy4gTG9yZCBSaW1ld2FyZCBhbmQgRGFtZSBCcmFtYmxlIGtub3csIGFuZCB3cml0ZSBlYWNoIG90aGVyIHZlcnkgY2FyZWZ1bCBsZXR0ZXJzLiIsICIqKkFvaWZlbC4qKiBTaGUgZmFsbHMgaW4gbG92ZSB3aXRoIGFueW9uZSB3aG8gbWFrZXMgaGVyIGxhdWdoLCBhbmQgaXQgYWx3YXlzIHBhc3Nlcy4gVGhpcyBvbmUgaGFzIG5vdC4gSXQgaXMgdGhlIG9ubHkgbG92ZSBzaGUgaGFzIHRoYXQgc3RheXMsIGFuZCBzaGUgZGV0ZXN0cyBpdCwgYmVjYXVzZSBzaGUgY2FuJ3Qga2VlcCBNb3J0aHJ5biwgYW5kIGJlY2F1c2UgaXQgcmVtaW5kcyBoZXIgdGhhdCBzaGUgaXMgYSBRdWVlbiB3aXRoIGEgc2Vhc29uIHRvIGNhcnJ5LiJdfQ=="
    }
   ],
   "related": [
@@ -45623,7 +45749,7 @@
   "category": "culture",
   "region": "Beyond the Veil",
   "subtitle": "Four thrones, no heirs, and one guest nobody can plan for",
-  "summary": "The sovereigns of the Faewild do not die, so nothing there is inherited and nothing is ever over. Its politics are borders, debts, and memory, and a grudge from before the Landing is still a current affair.",
+  "summary": "The sovereigns of the Faewild do not die of age, so nothing there is inherited and nothing is ever over. Its politics are borders, debts, and memory, and a grudge from before the Landing is still a current affair.",
   "epigraph": {
    "quote": "Mortals think we are slow to forgive. We have not got round to starting.",
    "by": "An envoy of the Red Harvest, at Halfwake"
@@ -45635,7 +45761,7 @@
    ],
    [
     "Heirs",
-    "none, ever"
+    "none"
    ],
    [
     "The seasons change by",
@@ -45662,7 +45788,7 @@
    {
     "title": "Four thrones and no heirs",
     "paragraphs": [
-     "A mortal kingdom changes when its king dies. The Faewild has had the same four sovereigns since before the Orka War, and expects to keep them. Nobody inherits, nobody retires, and no quarrel is ever buried with the people who started it.",
+     "A mortal kingdom changes when its king dies. A sovereign of the Faewild does not die of age. Only the Orka War has ever emptied a throne there, and the four who sit now expect to sit forever. Nobody inherits, nobody retires, and no quarrel is ever buried with the people who started it.",
      "So the Courts do not fight over succession. They fight over borders, debts, insults, and old love affairs, and they do it with the patience of people who will still be there in a thousand years to see who was right."
     ]
    },
@@ -45780,7 +45906,7 @@
       ],
       [
        "Autumn",
-       "Vael Mournthorn has it entered in the ledger as a debt, unpaid, with two thousand years of interest. It is why Autumn's name for him is the Unpaid Debt."
+       "Vael Mournthorn has it entered in the ledger as a debt, unpaid, with ten thousand years of interest. It is why Autumn's name for him is the Unpaid Debt."
       ],
       [
        "Winter",
@@ -45797,7 +45923,7 @@
     "title": "Why they fear him",
     "paragraphs": [
      "The Courts say they fear the Unbound because nothing binds him: no ward, no oath, no bargain. That is true, and it is the smaller half.",
-     "The Faewild is built on names. Give a fae your true name and you are theirs. The tale says there is one person who knows everyone's, including theirs. Nobody has ever heard him use one. He has never claimed that he can. In a country built on names, that is no comfort at all, and the sovereigns have had two thousand years to think about it."
+     "The Faewild is built on names. Give a fae your true name and you are theirs. The tale says there is one person who knows everyone's, including theirs. Nobody has ever heard him use one. He has never claimed that he can. In a country built on names, that is no comfort at all, and the sovereigns have had ten thousand years to think about it."
     ]
    },
    {
@@ -45869,7 +45995,7 @@
     "title": "Did you know?",
     "paragraphs": [],
     "list": [
-     "The treaty of the Closing has never been amended. It has been read aloud, in full, at every handover for two thousand years, and it takes most of a day.",
+     "The treaty of the Closing has never been amended. It has been read aloud, in full, at every handover for ten thousand years, and it takes most of a day.",
      "Summer has paid Autumn's bill every single year, and has challenged the arithmetic every single year.",
      "On the Frontier, snow on blossom is the luckiest weather there is for a wedding."
     ]
@@ -45883,6 +46009,11 @@
      "“Rimeward and Dame Bramble write to each other every week. A chamberlain of Winter and a referee of Spring. About the weather, they say.” (a Hoarfrost Clerk)",
      "“The clerks at the Claims Office found the old title to the Roam years ago. They put it back.” (a kalashtar of Goldwind)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZXJlIHdhcyBhIEZpZnRoIENvdXJ0LioqIEl0cyBsb3JkIHJ1bGVkIHRoZSBUdXJuaW5ncywgdGhlIGRheXMgb24gd2hpY2ggb25lIHNlYXNvbiBiZWNvbWVzIHRoZSBuZXh0LCBhbmQgY2FycmllZCB0aGUgVHVybiBmcm9tIGVhY2ggQ291cnQgdG8gdGhlIG5leHQsIGZvdXIgdGltZXMgYSB5ZWFyLiBIZSB3YXMgYSBsb3JkIGxpa2UgdGhlIG90aGVyIGZvdXI6IHByb3VkLCBjbGV2ZXIsIGFuZCBzZXQgb24gcnVsaW5nIGFsbCBmaXZlLiIsICIqKlRoZSBjb3VydHNoaXBzIHdlcmUgcG9saWN5LioqIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBpbiB0dXJuLCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIiwgIioqVGhlIHRyYWRlLioqIEhlIHdlbnQgdG8gT2RhLCB0aGUgU2VhbGVkIE9yYWNsZSwgYW5kIGFza2VkIHRoZSBsYXJnZXN0IHF1ZXN0aW9uIGFueW9uZSBoYXMgYXNrZWQgaGVyOiB0aGUgdHJ1ZSBuYW1lIG9mIGV2ZXJ5IHRoaW5nLiBPZGEgZG9lcyBub3Qgc2VsbC4gVGhlIGFza2luZyBpcyB0aGUgcHJpY2UuIEEgcXVlc3Rpb24gdGhhdCBzaXplIGNvc3QgZXZlcnl0aGluZyBoZSBoYWQ6IGhpcyByZWFsbSwgaGlzIGNyb3duLCBhbmQgaGlzIG93biBuYW1lLiBPZGEga2VwdCBub25lIG9mIGl0LiIsICIqKkhlIGlzIHRoZSBvbmx5IHRydWVuYW1lci4qKiBIZSBjb3VsZCBzcGVhayB0aGUgdHJ1ZSBuYW1lIG9mIGFueSBBcmNoZmV5LCBhbmQgb2YgYW55dGhpbmcgZWxzZS4gSGUgaGFzIG5ldmVyIGJlZW4gc2VlbiB0byBkbyBpdC4gVGhlIGZvdXIgc292ZXJlaWducyBkbyBub3Qga25vdyBmb3IgY2VydGFpbiB0aGF0IGhlIGNhbiwgYW5kIGhhdmUgbmV2ZXIgZGFyZWQgdG8gZmluZCBvdXQuIiwgIioqVGhlIGZpcnN0cy4qKiBJbiB0aGUgRmFld2lsZCBhIGZpcnN0IGlzIGEgdGhpbmcgd2l0aCBhIG5hbWUsIGFuZCBpdCBjYW4gYmUgb3duZWQuIFRoZSBmaXJzdCBraXNzLCBhbmQgZm91ciBmaXJzdCB0aW1lcywgd2VudCB3aXRoIHRoZSBuYW1lcyB3aGVuIGhlIHdhbGtlZCBhd2F5LiBIZSBkaWQgbm90IG1lYW4gdG8gdGFrZSB0aGVtLCBhbmQgaGUgc3RpbGwgaGFzIHRoZW0uIiwgIioqVGhlIFJvYW0gaXMgaGlzLioqIEhpcyByZWFsbSBjYW1lIGxvb3NlIGZyb20gdGhlIEZhZXdpbGQgd2hlbiBoZSBnYXZlIGl0IHVwLCBhbmQgbm9ib2R5IGV2ZXIgdG9vayBwb3NzZXNzaW9uLiBUaGUgdGl0bGUgaXMgc3RpbGwgZ29vZC4gTm8gQ291cnQga25vd3MsIG5vIGthbGFzaHRhciBrbm93cywgYW5kIGhlIGhhcyBuZXZlciBtZW50aW9uZWQgaXQuIiwgIioqSG93IGl0IGJlZ2FuLioqIEF0IGEgVGhhdywgaGFuZGluZyBvdmVyIHRoZSBUdXJuLCBBb2lmZWwgbG9va2VkIGF0IE1vcnRocnluIGFuZCB0b2xkIGhlciBzaGUgd2FzIHRoZSBtb3N0IGJlYXV0aWZ1bCB0aGluZyBzaGUgaGFkIGV2ZXIgc2Vlbi4gU2hlIHNhaWQgaXQgaW4gYWxsIGlubm9jZW5jZS4gVGhlIFBhbGUgRW1wcmVzcyB3ZW50IHBpbmssIGNvdWxkIG5vdCBmaW5kIGEgd29yZCwgYW5kIG5lYXJseSBkcm9wcGVkIHRoZSB5ZWFyLiBBb2lmZWwgbGF1Z2hlZCB1bnRpbCBzaGUgY291bGQgbm90IHN0YW5kLCBhbmQgYnkgdGhlIHRpbWUgc2hlIHN0b3BwZWQgc2hlIHdhcyBsb3N0LiIsICIqKkFvaWZlbC4qKiBTaGUgZmFsbHMgaW4gbG92ZSB3aXRoIGFueW9uZSB3aG8gbWFrZXMgaGVyIGxhdWdoLCBhbmQgaXQgYWx3YXlzIHBhc3Nlcy4gVGhpcyBvbmUgaGFzIG5vdC4gSXQgaXMgdGhlIG9ubHkgbG92ZSBzaGUgaGFzIHRoYXQgc3RheXMsIGFuZCBzaGUgZGV0ZXN0cyBpdCwgYmVjYXVzZSBzaGUgY2FuJ3Qga2VlcCBNb3J0aHJ5biwgYW5kIGJlY2F1c2UgaXQgcmVtaW5kcyBoZXIgdGhhdCBzaGUgaXMgYSBRdWVlbiB3aXRoIGEgc2Vhc29uIHRvIGNhcnJ5LiIsICIqKk1vcnRocnluLioqIFNoZSBsb3ZlcyBBb2lmZWwsIGFuZCBzaGUgaXMgY2FyZWZ1bCBhYm91dCBpdC4gU2hlIHdhcyBmaXJzdCBsb3ZlZCBieSBhIGxvcmQgd2hvIHdhcyBjb3VydGluZyBmb3VyIHRocm9uZXMsIGFuZCBzaGUgaGFzIG5vdCBmb3Jnb3R0ZW4uIFNoZSBpcyB0aGUgcHJhZ21hdGljIG9uZTogc2hlIGdpdmVzIHRoZSBUdXJuIG92ZXIgb24gdGhlIGRheSwgYW5kIHNoZSBkb2VzIG5vdCBhc2sgQW9pZmVsIHRvIHN0YXkuIiwgIioqVGhlIGhhbmRvdmVyIGlzIGFsbCB0aGV5IGhhdmUuKiogU29tZSB5ZWFycyBNb3J0aHJ5biBkb2VzIG5vdCBsZXQgZ28gYXQgb25jZSwgYW5kIHdpbnRlciBydW5zIGxvbmcuIFNvbWUgeWVhcnMgQW9pZmVsIGNvbWVzIGZvciBpdCBlYXJseSwgYW5kIHNwcmluZyBjb21lcyBlYXJseS4iLCAiKipUaGUgQ291cnRzIGhhdmUgaXQgYmFja3dhcmRzLioqIEVhY2ggaG91c2Vob2xkIGJlbGlldmVzIHRoZSBvdGhlciBpcyBzY2hlbWluZyB0byBzdHJldGNoIGl0cyBzZWFzb24uIE5laXRoZXIgUXVlZW4gY2FuIGNvcnJlY3QgdGhlbSB3aXRob3V0IGV4cGxhaW5pbmcuIExvcmQgUmltZXdhcmQgYW5kIERhbWUgQnJhbWJsZSBrbm93LCBhbmQgd3JpdGUgZWFjaCBvdGhlciB2ZXJ5IGNhcmVmdWwgbGV0dGVycy4iLCAiKipXaW50ZXIgY2hhbmdlZCBoYW5kcy4qKiBUaGUgc292ZXJlaWduIHdobyBleGlsZWQgdGhlIGJlcnNlcmtlcnMgd2FzIE1vcnRocnluJ3MgcHJlZGVjZXNzb3IuIE1vcnRocnluIGhhcyBoZWxkIHRoZSBQYWxlIEhhbGwgc2luY2UgdGhlIHdhci4gVGhlIEZpZnRoIExvcmQncyBjb3VydHNoaXBzLCBhbmQgaGlzIHRyYWRlLCBjYW1lIGFmdGVyLiIsICJTdW1tZXIgYW5kIEF1dHVtbiBzdXNwZWN0IGEgc2VjcmV0IGFsbGlhbmNlIGJldHdlZW4gV2ludGVyIGFuZCBTcHJpbmcsIGFuZCBhcmUgd3JvbmcgYWJvdXQgd2hhdCBraW5kLiJdfQ=="
    }
   ],
   "related": [

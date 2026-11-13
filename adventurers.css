@@ -103,3 +103,31 @@
 .adv-legs li::before{content:"";position:absolute;left:-6px;top:15px;width:10px;height:10px;border-radius:50%;background:var(--gold)}
 .adv-legs span{font-size:14px;color:var(--muted)}
 @media(max-width:720px){.adv-tiles{grid-template-columns:1fr}.adv-tab{padding:8px 13px}}
+
+/* The Game Master's secrets: the wall, and the reckoning */
+.article-box-secret{border-left-color:#7a2e2e;background:#1d1a1c;color:#e9e2d0;position:relative;overflow:hidden}
+.article-box-secret h2{color:#e9e2d0;font-size:22px;letter-spacing:.3px}
+.article-box-secret h2::before{content:"◉ ";color:#b4514a}
+.gm-veil{position:relative;min-height:150px;margin:6px 0 12px}
+.gm-blur{display:flex;flex-direction:column;gap:12px;filter:blur(5px);opacity:.55;padding:8px 0}
+.gm-blur span{display:block;height:12px;border-radius:6px;background:#8d8676}
+.gm-blur span:nth-child(2){width:92%}.gm-blur span:nth-child(3){width:97%}.gm-blur span:nth-child(4){width:84%}.gm-blur span:nth-child(5){width:60%}
+.gm-ask{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;text-align:center;padding:0 12px}
+.article-box-secret .gm-line{margin:0;font:italic 20px/1.35 var(--serif);color:#f0e6d2 !important;text-shadow:0 1px 8px #000}
+.article-box-secret .gm-step-1{color:#e2c27a !important}.article-box-secret .gm-step-2{color:#f08a7e !important;font-size:23px}
+.gm-button{font:12px/1 var(--mono);letter-spacing:.8px;text-transform:uppercase;padding:12px 18px;border:1px solid #b4514a;background:transparent;color:#f0e6d2;border-radius:2px;cursor:pointer}
+.gm-button:hover,.gm-button:focus-visible{background:#b4514a;color:#fff;outline:none}
+.gm-open{min-height:0}
+.article-box-secret .gm-open p,.article-box-secret .gm-open li{color:#e9e2d0 !important;font-size:17px;line-height:1.65}
+.article-box-secret .gm-open strong{color:#e2c27a !important}
+.gm-tally{margin-top:18px;padding-top:12px;border-top:1px solid #4a3d3d;font:12px/1.4 var(--mono) !important;letter-spacing:.8px;text-transform:uppercase;color:#e0766c !important}
+.gm-reckon{position:fixed;inset:0;z-index:9999;display:flex;align-items:center;justify-content:center;background:rgba(6,8,10,.9);opacity:0;transition:opacity .4s;padding:20px}
+.gm-reckon.on{opacity:1}
+.gm-reckon-card{text-align:center;max-width:520px;transform:scale(.94);transition:transform .5s}
+.gm-reckon.on .gm-reckon-card{transform:none}
+.gm-reckon-eye{margin:0;font-size:30px;color:#b4514a;animation:gm-pulse 2.4s ease-in-out infinite}
+.gm-reckon-n{margin:6px 0 0;font:400 clamp(90px,26vw,180px)/1 var(--serif);color:#f0e6d2;text-shadow:0 0 40px rgba(180,81,74,.55)}
+.gm-reckon-line{margin:4px 0 0;font:italic clamp(22px,5.4vw,34px)/1.25 var(--serif);color:#e0766c}
+.gm-reckon-sub{margin:18px 0 26px;font:12px/1.4 var(--mono);letter-spacing:1.6px;text-transform:uppercase;color:#8d8676}
+@keyframes gm-pulse{0%,100%{opacity:.45}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.gm-reckon,.gm-reckon-card{transition:none}.gm-reckon-eye{animation:none}}
