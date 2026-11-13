@@ -2721,6 +2721,42 @@
   ]
  },
  {
+  "id": "rumor-frost-elves-1",
+  "text": "The Painted Hunger hit the Kaldmark march carrying a Frosthold oil-house’s seal. The Brotherhood says it’s forged. The Kaldmarks say it isn’t.",
+  "heardAt": "heard from a march rider",
+  "region": "Icy Expanse",
+  "entries": [
+   "frost-elves"
+  ]
+ },
+ {
+  "id": "rumor-frost-elves-2",
+  "text": "There’s an old hunter in one of the deep halls who has never once painted. He was old when their grandmothers were girls. They feed him first.",
+  "heardAt": "heard from a Frost Elf guide, after the third cup",
+  "region": "Icy Expanse",
+  "entries": [
+   "frost-elves"
+  ]
+ },
+ {
+  "id": "rumor-frost-elves-3",
+  "text": "They’ve stopped raiding near the Vault altogether. They say the Hunger is dreaming of something new.",
+  "heardAt": "heard from a Frosthold whaler",
+  "region": "Icy Expanse",
+  "entries": [
+   "frost-elves"
+  ]
+ },
+ {
+  "id": "rumor-frost-elves-4",
+  "text": "Summer’s knights won’t fight them. Any other raider, gladly. Ask one why and he’ll change the subject to his sword.",
+  "heardAt": "heard from a kalashtar of Sunhold",
+  "region": "Icy Expanse",
+  "entries": [
+   "frost-elves"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",

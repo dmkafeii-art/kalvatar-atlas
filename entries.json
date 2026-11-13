@@ -413,7 +413,8 @@
    "hospitality",
    "calendar",
    "whalefall-gardens",
-   "rimehound"
+   "rimehound",
+   "frost-elves"
   ]
  },
  {
@@ -4396,7 +4397,8 @@
    "daemons",
    "veil",
    "thin-places",
-   "still-days"
+   "still-days",
+   "frost-elves"
   ]
  },
  {
@@ -9978,7 +9980,8 @@
    "icy-expanse",
    "below",
    "fae",
-   "drow"
+   "drow",
+   "frost-elves"
   ],
   "illustration": {
    "src": "assets/peoples/elves-painterly-v1-960.webp",
@@ -18633,7 +18636,8 @@
    "frosthold",
    "icy-expanse",
    "sigil",
-   "kaldmark"
+   "kaldmark",
+   "frost-elves"
   ]
  },
  {
@@ -24591,7 +24595,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkhvdyBpdCBiZWdhbi4qKiBBdCBhIFRoYXcsIGhhbmRpbmcgb3ZlciB0aGUgVHVybiwgQW9pZmVsIGxvb2tlZCBhdCBNb3J0aHJ5biBhbmQgdG9sZCBoZXIgc2hlIHdhcyB0aGUgbW9zdCBiZWF1dGlmdWwgdGhpbmcgc2hlIGhhZCBldmVyIHNlZW4uIFNoZSBzYWlkIGl0IGluIGFsbCBpbm5vY2VuY2UuIFRoZSBQYWxlIEVtcHJlc3Mgd2VudCBwaW5rLCBjb3VsZCBub3QgZmluZCBhIHdvcmQsIGFuZCBuZWFybHkgZHJvcHBlZCB0aGUgeWVhci4gQW9pZmVsIGxhdWdoZWQgdW50aWwgc2hlIGNvdWxkIG5vdCBzdGFuZCwgYW5kIGJ5IHRoZSB0aW1lIHNoZSBzdG9wcGVkIHNoZSB3YXMgbG9zdC4iLCAiKipNb3J0aHJ5bi4qKiBTaGUgbG92ZXMgQW9pZmVsLCBhbmQgc2hlIGlzIGNhcmVmdWwgYWJvdXQgaXQuIFNoZSB3YXMgZmlyc3QgbG92ZWQgYnkgYSBsb3JkIHdobyB3YXMgY291cnRpbmcgZm91ciB0aHJvbmVzLCBhbmQgc2hlIGhhcyBub3QgZm9yZ290dGVuLiBTaGUgaXMgdGhlIHByYWdtYXRpYyBvbmU6IHNoZSBnaXZlcyB0aGUgVHVybiBvdmVyIG9uIHRoZSBkYXksIGFuZCBzaGUgZG9lcyBub3QgYXNrIEFvaWZlbCB0byBzdGF5LiIsICIqKlRoZSBoYW5kb3ZlciBpcyBhbGwgdGhleSBoYXZlLioqIFNvbWUgeWVhcnMgTW9ydGhyeW4gZG9lcyBub3QgbGV0IGdvIGF0IG9uY2UsIGFuZCB3aW50ZXIgcnVucyBsb25nLiBTb21lIHllYXJzIEFvaWZlbCBjb21lcyBmb3IgaXQgZWFybHksIGFuZCBzcHJpbmcgY29tZXMgZWFybHkuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqV2ludGVyJ3MgZmlyc3QgS2luZyBpcyBhbGl2ZS4qKiBIaXMgbmFtZSBpcyBDYWxkcml0aC4gQWZ0ZXIgdGhlIGV4aWxlIGhlIGxlZnQgdGhlIFBhbGUgSGFsbCBhbmQgaGlkIGhpbXNlbGYsIGluIHNoYW1lLCBhbmQgdGhlIENvdXJ0IGlzIGNhbGxlZCB0aGUgTG9uZyBTaWxlbmNlIGZvciBoaW0uIE1vcnRocnluIHRvb2sgdGhlIHRocm9uZSwgYW5kIHNoZSBpcyB0aGUgb25seSBvbmUgd2hvIGtub3dzIGhlIGxpdmVzIG9yIHdoZXJlLiBTb21lIHNheSBoZSBzZXQgdGhlIGJlcnNlcmtlcnMgb24gYW5kIHRoZW4gbWFkZSB0aGVtIGhpcyBzY2FwZWdvYXRzLiBIZSBoYXMgbmV2ZXIgZGVuaWVkIGl0LCBhbmQgYSBraW5nIHdobyBoYWQgb25seSBiZWVuIGJldHJheWVkIHdvdWxkIG5vdCBoYXZlIGhpZGRlbiBmb3IgdGVuIHRob3VzYW5kIHllYXJzLiIsICIqKlRoZSBjb3VydHNoaXBzIHdlcmUgcG9saWN5LioqIEFmdGVyIHRoZSB3YXIgaGlzIHdhcyB0aGUgb25seSBwZWFybCBsZWZ0LCBhbmQgaGUgY2FycmllZCBpdCBmcm9tIENvdXJ0IHRvIENvdXJ0LCBmb3VyIHRpbWVzIGEgeWVhci4gSGUgY291cnRlZCBlYWNoIG9mIHRoZSBvdGhlciBmb3VyIGFzIGhlIHdlbnQsIHRvIGJpbmQgdGhlaXIgQ291cnRzIHRvIGhpcywgYW5kIGhlIHdhcyB0aGUgZmlyc3QgbG92ZXIgb2YgZXZlcnkgb25lIG9mIHRoZW0uIEVhY2ggYmVsaWV2ZWQgc2hlLCBvciBoZSwgd2FzIHRoZSBvbmx5IG9uZS4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkhvdyBpdCBiZWdhbi4qKiBBdCBhIFRoYXcsIGhhbmRpbmcgb3ZlciB0aGUgVHVybiwgQW9pZmVsIGxvb2tlZCBhdCBNb3J0aHJ5biBhbmQgdG9sZCBoZXIgc2hlIHdhcyB0aGUgbW9zdCBiZWF1dGlmdWwgdGhpbmcgc2hlIGhhZCBldmVyIHNlZW4uIFNoZSBzYWlkIGl0IGluIGFsbCBpbm5vY2VuY2UuIFRoZSBQYWxlIEVtcHJlc3Mgd2VudCBwaW5rLCBjb3VsZCBub3QgZmluZCBhIHdvcmQsIGFuZCBuZWFybHkgZHJvcHBlZCB0aGUgeWVhci4gQW9pZmVsIGxhdWdoZWQgdW50aWwgc2hlIGNvdWxkIG5vdCBzdGFuZCwgYW5kIGJ5IHRoZSB0aW1lIHNoZSBzdG9wcGVkIHNoZSB3YXMgbG9zdC4iLCAiKipNb3J0aHJ5bi4qKiBTaGUgbG92ZXMgQW9pZmVsLCBhbmQgc2hlIGlzIGNhcmVmdWwgYWJvdXQgaXQuIFNoZSB3YXMgZmlyc3QgbG92ZWQgYnkgYSBsb3JkIHdobyB3YXMgY291cnRpbmcgZm91ciB0aHJvbmVzLCBhbmQgc2hlIGhhcyBub3QgZm9yZ290dGVuLiBTaGUgaXMgdGhlIHByYWdtYXRpYyBvbmU6IHNoZSBnaXZlcyB0aGUgVHVybiBvdmVyIG9uIHRoZSBkYXksIGFuZCBzaGUgZG9lcyBub3QgYXNrIEFvaWZlbCB0byBzdGF5LiIsICIqKlRoZSBoYW5kb3ZlciBpcyBhbGwgdGhleSBoYXZlLioqIFNvbWUgeWVhcnMgTW9ydGhyeW4gZG9lcyBub3QgbGV0IGdvIGF0IG9uY2UsIGFuZCB3aW50ZXIgcnVucyBsb25nLiBTb21lIHllYXJzIEFvaWZlbCBjb21lcyBmb3IgaXQgZWFybHksIGFuZCBzcHJpbmcgY29tZXMgZWFybHkuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqV2ludGVyJ3MgZmlyc3QgS2luZyBpcyBhbGl2ZS4qKiBIaXMgbmFtZSBpcyBDYWxkcml0aC4gQWZ0ZXIgdGhlIGV4aWxlIGhlIGxlZnQgdGhlIFBhbGUgSGFsbCBhbmQgaGlkIGhpbXNlbGYsIGluIHNoYW1lLCBhbmQgdGhlIENvdXJ0IGlzIGNhbGxlZCB0aGUgTG9uZyBTaWxlbmNlIGZvciBoaW0uIE1vcnRocnluIHRvb2sgdGhlIHRocm9uZSwgYW5kIHNoZSBpcyB0aGUgb25seSBvbmUgd2hvIGtub3dzIGhlIGxpdmVzIG9yIHdoZXJlLiBTb21lIHNheSBoZSBzZXQgdGhlIGJlcnNlcmtlcnMgb24gYW5kIHRoZW4gbWFkZSB0aGVtIGhpcyBzY2FwZWdvYXRzLiBIZSBoYXMgbmV2ZXIgZGVuaWVkIGl0LCBhbmQgYSBraW5nIHdobyBoYWQgb25seSBiZWVuIGJldHJheWVkIHdvdWxkIG5vdCBoYXZlIGhpZGRlbiBmb3IgdGVuIHRob3VzYW5kIHllYXJzLiIsICIqKlRoZSBjb3VydHNoaXBzIHdlcmUgcG9saWN5LioqIEFmdGVyIHRoZSB3YXIgaGlzIHdhcyB0aGUgb25seSBwZWFybCBsZWZ0LCBhbmQgaGUgY2FycmllZCBpdCBmcm9tIENvdXJ0IHRvIENvdXJ0LCBmb3VyIHRpbWVzIGEgeWVhci4gSGUgY291cnRlZCBlYWNoIG9mIHRoZSBvdGhlciBmb3VyIGFzIGhlIHdlbnQsIHRvIGJpbmQgdGhlaXIgQ291cnRzIHRvIGhpcywgYW5kIGhlIHdhcyB0aGUgZmlyc3QgbG92ZXIgb2YgZXZlcnkgb25lIG9mIHRoZW0uIEVhY2ggYmVsaWV2ZWQgc2hlLCBvciBoZSwgd2FzIHRoZSBvbmx5IG9uZS4iLCAiKipDYWxkcml0aCBpcyBhbW9uZyB0aGVtIChwcm9wb3NhbCkuKiogV2ludGVyJ3MgZmlyc3QgS2luZyBoaWRlcyB3aXRoIHRoZSBwZW9wbGUgaGUgZXhpbGVkOiBhbiBvbGQgdW5wYWludGVkIGh1bnRlciBpbiBhIGhhbGwgb2YgdGhlIGRlZXAgaW50ZXJpb3IsIHdobyBoYXMga2VwdCBpdHMgbGFtcCBsaXQgZm9yIGxvbmdlciB0aGFuIHRoZSBiYW5kIGhhcyBoYWQgYSBuYW1lLiBUaGV5IGRvIG5vdCBrbm93IHdobyBoZSBpcy4gTW9ydGhyeW4ga25vd3Mgd2hpY2ggaGFsbC4iXX0="
    }
   ],
   "facts": [
@@ -27960,7 +27964,8 @@
    "gods-of-the-pantheon",
    "festivals-of-the-ice",
    "patrons-of-the-peoples",
-   "icy-expanse"
+   "icy-expanse",
+   "frost-elves"
   ],
   "illustration": {
    "src": "assets/savage-lords/vukharr-kaiju-v1-960.webp",
@@ -29559,7 +29564,8 @@
    "hunters",
    "sigil",
    "captain-bramgard",
-   "battle-of-the-krakens-maw"
+   "battle-of-the-krakens-maw",
+   "frost-elves"
   ],
   "illustration": {
    "src": "assets/folk/albion-tempest-painterly-v2-960.webp",
@@ -46075,7 +46081,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldpbnRlcidzIGZpcnN0IEtpbmcgaXMgYWxpdmUuKiogSGlzIG5hbWUgaXMgQ2FsZHJpdGguIEFmdGVyIHRoZSBleGlsZSBoZSBsZWZ0IHRoZSBQYWxlIEhhbGwgYW5kIGhpZCBoaW1zZWxmLCBpbiBzaGFtZSwgYW5kIHRoZSBDb3VydCBpcyBjYWxsZWQgdGhlIExvbmcgU2lsZW5jZSBmb3IgaGltLiBNb3J0aHJ5biB0b29rIHRoZSB0aHJvbmUsIGFuZCBzaGUgaXMgdGhlIG9ubHkgb25lIHdobyBrbm93cyBoZSBsaXZlcyBvciB3aGVyZS4gU29tZSBzYXkgaGUgc2V0IHRoZSBiZXJzZXJrZXJzIG9uIGFuZCB0aGVuIG1hZGUgdGhlbSBoaXMgc2NhcGVnb2F0cy4gSGUgaGFzIG5ldmVyIGRlbmllZCBpdCwgYW5kIGEga2luZyB3aG8gaGFkIG9ubHkgYmVlbiBiZXRyYXllZCB3b3VsZCBub3QgaGF2ZSBoaWRkZW4gZm9yIHRlbiB0aG91c2FuZCB5ZWFycy4iLCAiKipUaGUgRnJvc3QgRWx2ZXMgd2VyZSBub3QgY293YXJkcy4qKiBJbiB0aGUgT3JrYSBXYXIgYSBmYWN0aW9uIG9mIFdpbnRlciB0b29rIHRvIGtpbGxpbmcgZm9yIGl0cyBvd24gc2FrZSwgYW5kIGN1dCBkb3duIG90aGVyIGZhZSBpbiBpdHMgcmFpZHMgYXMgbG9uZyBhcyBtb3JlIG9yY3MgZGllZCB0aGFuIGZhZS4gV2ludGVyJ3MgZmlyc3QgS2luZyBleGlsZWQgdGhlbSB0byB0aGUgd2FraW5nIHdvcmxkLCB1bmRlciBhIGN1cnNlIHRoYXQgd2l0aGVycyB0aGVpciBmYWUgbWFnaWMgYSBsaXR0bGUgbW9yZSB3aXRoIGV2ZXJ5IGdlbmVyYXRpb24uIFRoZWlyIGRlc2NlbmRhbnRzIGRvIG5vdCByZW1lbWJlciBiZWluZyBmYWUgYXQgYWxsLiIsICJFdmVyeSBDb3VydCByZXNlbnRzIFdpbnRlciBmb3IgdGhlIGJlcnNlcmtlcnMuIEV2ZXJ5IENvdXJ0IGFsc28ga25vd3MgdGhhdCBXaW50ZXIgd2FzIHRoZSBvbmx5IG9uZSBvZiB0aGVtIHRoYXQgZXZlciBtYXRjaGVkIHRoZSBPcmthIGJsb3cgZm9yIGJsb3cuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqTW9ydGhyeW4uKiogU2hlIGxvdmVzIEFvaWZlbCwgYW5kIHNoZSBpcyBjYXJlZnVsIGFib3V0IGl0LiBTaGUgd2FzIGZpcnN0IGxvdmVkIGJ5IGEgbG9yZCB3aG8gd2FzIGNvdXJ0aW5nIGZvdXIgdGhyb25lcywgYW5kIHNoZSBoYXMgbm90IGZvcmdvdHRlbi4gU2hlIGlzIHRoZSBwcmFnbWF0aWMgb25lOiBzaGUgZ2l2ZXMgdGhlIFR1cm4gb3ZlciBvbiB0aGUgZGF5LCBhbmQgc2hlIGRvZXMgbm90IGFzayBBb2lmZWwgdG8gc3RheS4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldpbnRlcidzIGZpcnN0IEtpbmcgaXMgYWxpdmUuKiogSGlzIG5hbWUgaXMgQ2FsZHJpdGguIEFmdGVyIHRoZSBleGlsZSBoZSBsZWZ0IHRoZSBQYWxlIEhhbGwgYW5kIGhpZCBoaW1zZWxmLCBpbiBzaGFtZSwgYW5kIHRoZSBDb3VydCBpcyBjYWxsZWQgdGhlIExvbmcgU2lsZW5jZSBmb3IgaGltLiBNb3J0aHJ5biB0b29rIHRoZSB0aHJvbmUsIGFuZCBzaGUgaXMgdGhlIG9ubHkgb25lIHdobyBrbm93cyBoZSBsaXZlcyBvciB3aGVyZS4gU29tZSBzYXkgaGUgc2V0IHRoZSBiZXJzZXJrZXJzIG9uIGFuZCB0aGVuIG1hZGUgdGhlbSBoaXMgc2NhcGVnb2F0cy4gSGUgaGFzIG5ldmVyIGRlbmllZCBpdCwgYW5kIGEga2luZyB3aG8gaGFkIG9ubHkgYmVlbiBiZXRyYXllZCB3b3VsZCBub3QgaGF2ZSBoaWRkZW4gZm9yIHRlbiB0aG91c2FuZCB5ZWFycy4iLCAiKipUaGUgRnJvc3QgRWx2ZXMgd2VyZSBub3QgY293YXJkcy4qKiBJbiB0aGUgT3JrYSBXYXIgYSBmYWN0aW9uIG9mIFdpbnRlciB0b29rIHRvIGtpbGxpbmcgZm9yIGl0cyBvd24gc2FrZSwgYW5kIGN1dCBkb3duIG90aGVyIGZhZSBpbiBpdHMgcmFpZHMgYXMgbG9uZyBhcyBtb3JlIG9yY3MgZGllZCB0aGFuIGZhZS4gV2ludGVyJ3MgZmlyc3QgS2luZyBleGlsZWQgdGhlbSB0byB0aGUgd2FraW5nIHdvcmxkLCB1bmRlciBhIGN1cnNlIHRoYXQgd2l0aGVycyB0aGVpciBmYWUgbWFnaWMgYSBsaXR0bGUgbW9yZSB3aXRoIGV2ZXJ5IGdlbmVyYXRpb24uIFRoZWlyIGRlc2NlbmRhbnRzIGRvIG5vdCByZW1lbWJlciBiZWluZyBmYWUgYXQgYWxsLiIsICJFdmVyeSBDb3VydCByZXNlbnRzIFdpbnRlciBmb3IgdGhlIGJlcnNlcmtlcnMuIEV2ZXJ5IENvdXJ0IGFsc28ga25vd3MgdGhhdCBXaW50ZXIgd2FzIHRoZSBvbmx5IG9uZSBvZiB0aGVtIHRoYXQgZXZlciBtYXRjaGVkIHRoZSBPcmthIGJsb3cgZm9yIGJsb3cuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqTW9ydGhyeW4uKiogU2hlIGxvdmVzIEFvaWZlbCwgYW5kIHNoZSBpcyBjYXJlZnVsIGFib3V0IGl0LiBTaGUgd2FzIGZpcnN0IGxvdmVkIGJ5IGEgbG9yZCB3aG8gd2FzIGNvdXJ0aW5nIGZvdXIgdGhyb25lcywgYW5kIHNoZSBoYXMgbm90IGZvcmdvdHRlbi4gU2hlIGlzIHRoZSBwcmFnbWF0aWMgb25lOiBzaGUgZ2l2ZXMgdGhlIFR1cm4gb3ZlciBvbiB0aGUgZGF5LCBhbmQgc2hlIGRvZXMgbm90IGFzayBBb2lmZWwgdG8gc3RheS4iLCAiKipDYWxkcml0aCBpcyBhbW9uZyB0aGVtIChwcm9wb3NhbCkuKiogV2ludGVyJ3MgZmlyc3QgS2luZyBoaWRlcyB3aXRoIHRoZSBwZW9wbGUgaGUgZXhpbGVkOiBhbiBvbGQgdW5wYWludGVkIGh1bnRlciBpbiBhIGhhbGwgb2YgdGhlIGRlZXAgaW50ZXJpb3IsIHdobyBoYXMga2VwdCBpdHMgbGFtcCBsaXQgZm9yIGxvbmdlciB0aGFuIHRoZSBiYW5kIGhhcyBoYWQgYSBuYW1lLiBUaGV5IGRvIG5vdCBrbm93IHdobyBoZSBpcy4gTW9ydGhyeW4ga25vd3Mgd2hpY2ggaGFsbC4iLCAiKipXaGF0IHRoZSBDb3VydHMgb3dlIHRoZW0uKiogRXZlcnkgQ291cnQgcmVzZW50cyBXaW50ZXIgZm9yIHRoZSBiZXJzZXJrZXJzLCBhbmQgZXZlcnkgQ291cnQga25vd3MgdGhhdCB0aGV5IHdlcmUgdGhlIG9ubHkgZmFlIHdobyBldmVyIG1hdGNoZWQgdGhlIE9ya2EgYmxvdyBmb3IgYmxvdy4gU3VtbWVyJ3Mga25pZ2h0cyB3aWxsIG5vdCBmaWdodCBhIEZyb3N0IEVsZiB3YXJiYW5kLCBhbmQgd2lsbCBub3Qgc2F5IHRoYXQgdGhpcyBpcyB3aHkuIl19"
    }
   ],
   "related": [
@@ -46087,7 +46093,8 @@
    "summer-court",
    "autumn-court",
    "spring-court",
-   "faewild-politics"
+   "faewild-politics",
+   "frost-elves"
   ],
   "aliases": [
    "The Winter Court",
@@ -46257,7 +46264,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk9ud2VuLCB0aGUgRmlyc3QgQmxvb20uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZ2F2ZSBoZXIgbGlmZSB0byByYWlzZSB0aGUgVmVpbC4gQW9pZmVsIGlzIHRoZSBzZWNvbmQgUXVlZW4gb2YgU3ByaW5nLCBhbmQgd2FzIGNob3NlbiBiZWNhdXNlIHNoZSBsYXVnaGVkIGF0IHRoZSBmdW5lcmFsLCB3aGljaCBpcyB3aGF0IE9ud2VuIGhhZCBhc2tlZCBmb3IuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqQW9pZmVsLioqIFNoZSBmYWxscyBpbiBsb3ZlIHdpdGggYW55b25lIHdobyBtYWtlcyBoZXIgbGF1Z2gsIGFuZCBpdCBhbHdheXMgcGFzc2VzLiBUaGlzIG9uZSBoYXMgbm90LiBJdCBpcyB0aGUgb25seSBsb3ZlIHNoZSBoYXMgdGhhdCBzdGF5cywgYW5kIHNoZSBkZXRlc3RzIGl0LCBiZWNhdXNlIHNoZSBjYW4ndCBrZWVwIE1vcnRocnluLCBhbmQgYmVjYXVzZSBpdCByZW1pbmRzIGhlciB0aGF0IHNoZSBpcyBhIFF1ZWVuIHdpdGggYSBzZWFzb24gdG8gY2FycnkuIiwgIioqV2h5IEFvaWZlbCBnb2VzIGJhcmVmb290LioqIFNoZSBrbm93cyB3aGF0IHRoZSBWZWlsIGlzLiBTaGUgd2lsbCBub3Qgd2FsayBvbiBoZXIgcHJlZGVjZXNzb3Igc2hvZCwgYW5kIHNoZSB3aWxsIG5vdCBsZXQgYW55b25lIGVsc2UgZG8gaXQgZWl0aGVyLiIsICIqKlRoZSBWZWlsIGlzIHN0aWxsIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIHNvIG11Y2ggYXMgYmVjb21lIGl0LiBJdCBpcyB0aGlubmVzdCBhdCB0aGUgS2luZyBUaWRlIGFuZCBvbiB0aGUgU3RpbGwgRGF5cyBiZWNhdXNlIHRoYXQgaXMgd2hlbiBzaGUgaXMgbW9zdCB0aXJlZC4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk9ud2VuLCB0aGUgRmlyc3QgQmxvb20uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZ2F2ZSBoZXIgbGlmZSB0byByYWlzZSB0aGUgVmVpbC4gQW9pZmVsIGlzIHRoZSBzZWNvbmQgUXVlZW4gb2YgU3ByaW5nLCBhbmQgd2FzIGNob3NlbiBiZWNhdXNlIHNoZSBsYXVnaGVkIGF0IHRoZSBmdW5lcmFsLCB3aGljaCBpcyB3aGF0IE9ud2VuIGhhZCBhc2tlZCBmb3IuIiwgIioqVGhlIENvdXJ0cyBoYXZlIGl0IGJhY2t3YXJkcy4qKiBFYWNoIGhvdXNlaG9sZCBiZWxpZXZlcyB0aGUgb3RoZXIgaXMgc2NoZW1pbmcgdG8gc3RyZXRjaCBpdHMgc2Vhc29uLiBOZWl0aGVyIFF1ZWVuIGNhbiBjb3JyZWN0IHRoZW0gd2l0aG91dCBleHBsYWluaW5nLiBMb3JkIFJpbWV3YXJkIGFuZCBEYW1lIEJyYW1ibGUga25vdywgYW5kIHdyaXRlIGVhY2ggb3RoZXIgdmVyeSBjYXJlZnVsIGxldHRlcnMuIiwgIioqQW9pZmVsLioqIFNoZSBmYWxscyBpbiBsb3ZlIHdpdGggYW55b25lIHdobyBtYWtlcyBoZXIgbGF1Z2gsIGFuZCBpdCBhbHdheXMgcGFzc2VzLiBUaGlzIG9uZSBoYXMgbm90LiBJdCBpcyB0aGUgb25seSBsb3ZlIHNoZSBoYXMgdGhhdCBzdGF5cywgYW5kIHNoZSBkZXRlc3RzIGl0LCBiZWNhdXNlIHNoZSBjYW4ndCBrZWVwIE1vcnRocnluLCBhbmQgYmVjYXVzZSBpdCByZW1pbmRzIGhlciB0aGF0IHNoZSBpcyBhIFF1ZWVuIHdpdGggYSBzZWFzb24gdG8gY2FycnkuIiwgIioqV2h5IEFvaWZlbCBnb2VzIGJhcmVmb290LioqIFNoZSBrbm93cyB3aGF0IHRoZSBWZWlsIGlzLiBTaGUgd2lsbCBub3Qgd2FsayBvbiBoZXIgcHJlZGVjZXNzb3Igc2hvZCwgYW5kIHNoZSB3aWxsIG5vdCBsZXQgYW55b25lIGVsc2UgZG8gaXQgZWl0aGVyLiIsICIqKlRoZSBWZWlsIGlzIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIG1ha2luZyBpdC4gU2hlIGJlY2FtZSBpdC4gV2hhdCBpcyBsZWZ0IG9mIGhlciBpcyBlc3NlbmNlOiB0aGUgZmFlIGFzIHRoZXkgd2VyZSBiZWZvcmUgdGhlIHdhciwgc3ByZWFkIHRoaW4gaW50byBhIGJvcmRlci4gSXQgaXMgdGhpbm5lc3QgYXQgdGhlIEtpbmcgVGlkZSBhbmQgb24gdGhlIFN0aWxsIERheXMgYmVjYXVzZSB0aGF0IGlzIHdoZW4gc2hlIGlzIG1vc3QgdGlyZWQuIl19"
    }
   ],
   "related": [
@@ -47290,7 +47297,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBWZWlsIGlzIHN0aWxsIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIHNvIG11Y2ggYXMgYmVjb21lIGl0LiBJdCBpcyB0aGlubmVzdCBhdCB0aGUgS2luZyBUaWRlIGFuZCBvbiB0aGUgU3RpbGwgRGF5cyBiZWNhdXNlIHRoYXQgaXMgd2hlbiBzaGUgaXMgbW9zdCB0aXJlZC4iLCAiKipXaHkgQW9pZmVsIGdvZXMgYmFyZWZvb3QuKiogU2hlIGtub3dzIHdoYXQgdGhlIFZlaWwgaXMuIFNoZSB3aWxsIG5vdCB3YWxrIG9uIGhlciBwcmVkZWNlc3NvciBzaG9kLCBhbmQgc2hlIHdpbGwgbm90IGxldCBhbnlvbmUgZWxzZSBkbyBpdCBlaXRoZXIuIiwgIioqVGhlIFVuYm91bmQgd2Fsa3MgdGhyb3VnaCBpdCoqIGJlY2F1c2UgaGUga25vd3MgaXRzIG5hbWUsIGFuZCBpdHMgbmFtZSBpcyBoZXJzLiIsICIqKldoeSBmYWUgZGVidHMgZmFsbCBkdWUgb24gdGhlIFN0aWxsIERheXMuKiogVGhlIGZpdmUgZGF5cyBiZWxvbmcgdG8gbm8gZ29kLCBzbyBubyBnb2QncyBsYXcgc3RhbmRzIGJldHdlZW4gYSBDb3VydCBhbmQgaXRzIGRlYnRvci4gVGhlIFdhcmRlbnMnIHdhcmRzIGFyZSBzd29ybiB0byBWYXJuZXRoLCBhbmQgZm9yIGZpdmUgZGF5cyBWYXJuZXRoIGlzIG5vdCBvbiBkdXR5LiBUaGV5IGhvbGQgb24gaGFiaXQuIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBWZWlsIGlzIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIG1ha2luZyBpdC4gU2hlIGJlY2FtZSBpdC4gV2hhdCBpcyBsZWZ0IG9mIGhlciBpcyBlc3NlbmNlOiB0aGUgZmFlIGFzIHRoZXkgd2VyZSBiZWZvcmUgdGhlIHdhciwgc3ByZWFkIHRoaW4gaW50byBhIGJvcmRlci4gSXQgaXMgdGhpbm5lc3QgYXQgdGhlIEtpbmcgVGlkZSBhbmQgb24gdGhlIFN0aWxsIERheXMgYmVjYXVzZSB0aGF0IGlzIHdoZW4gc2hlIGlzIG1vc3QgdGlyZWQuIiwgIioqV2h5IEFvaWZlbCBnb2VzIGJhcmVmb290LioqIFNoZSBrbm93cyB3aGF0IHRoZSBWZWlsIGlzLiBTaGUgd2lsbCBub3Qgd2FsayBvbiBoZXIgcHJlZGVjZXNzb3Igc2hvZCwgYW5kIHNoZSB3aWxsIG5vdCBsZXQgYW55b25lIGVsc2UgZG8gaXQgZWl0aGVyLiIsICIqKlRoZSBVbmJvdW5kIHdhbGtzIHRocm91Z2ggaXQqKiBiZWNhdXNlIGhlIGtub3dzIGl0cyBuYW1lLCBhbmQgaXRzIG5hbWUgaXMgaGVycy4iLCAiKipXaHkgZmFlIGRlYnRzIGZhbGwgZHVlIG9uIHRoZSBTdGlsbCBEYXlzLioqIFRoZSBmaXZlIGRheXMgYmVsb25nIHRvIG5vIGdvZCwgc28gbm8gZ29kJ3MgbGF3IHN0YW5kcyBiZXR3ZWVuIGEgQ291cnQgYW5kIGl0cyBkZWJ0b3IuIFRoZSBXYXJkZW5zJyB3YXJkcyBhcmUgc3dvcm4gdG8gVmFybmV0aCwgYW5kIGZvciBmaXZlIGRheXMgVmFybmV0aCBpcyBub3Qgb24gZHV0eS4gVGhleSBob2xkIG9uIGhhYml0LiJdfQ=="
    }
   ],
   "related": [
@@ -47498,7 +47505,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBWZWlsIGlzIHN0aWxsIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIHNvIG11Y2ggYXMgYmVjb21lIGl0LiBJdCBpcyB0aGlubmVzdCBhdCB0aGUgS2luZyBUaWRlIGFuZCBvbiB0aGUgU3RpbGwgRGF5cyBiZWNhdXNlIHRoYXQgaXMgd2hlbiBzaGUgaXMgbW9zdCB0aXJlZC4iLCAiKipTY2FycyBhcmUgZGlmZmVyZW50LioqIEEgdGhpbiBwbGFjZSB3b3JuIGJ5IHRpbWUgb3BlbnMgb24gdGhlIEZhZXdpbGQuIEEgc2NhciB0b3JuIGJ5IHRoZSBPcmthJ3MgZGFlbW9ucyBjYW4gb3BlbiBvbiB0aGUgRmFld2lsZCwgb24gdGhlIGRhZW1vbnMnIGNvdW50cnksIG9yIG9uIHRoZSBWb2lkLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBWZWlsIGlzIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIG1ha2luZyBpdC4gU2hlIGJlY2FtZSBpdC4gV2hhdCBpcyBsZWZ0IG9mIGhlciBpcyBlc3NlbmNlOiB0aGUgZmFlIGFzIHRoZXkgd2VyZSBiZWZvcmUgdGhlIHdhciwgc3ByZWFkIHRoaW4gaW50byBhIGJvcmRlci4gSXQgaXMgdGhpbm5lc3QgYXQgdGhlIEtpbmcgVGlkZSBhbmQgb24gdGhlIFN0aWxsIERheXMgYmVjYXVzZSB0aGF0IGlzIHdoZW4gc2hlIGlzIG1vc3QgdGlyZWQuIiwgIioqU2NhcnMgYXJlIGRpZmZlcmVudC4qKiBBIHRoaW4gcGxhY2Ugd29ybiBieSB0aW1lIG9wZW5zIG9uIHRoZSBGYWV3aWxkLiBBIHNjYXIgdG9ybiBieSB0aGUgT3JrYSdzIGRhZW1vbnMgY2FuIG9wZW4gb24gdGhlIEZhZXdpbGQsIG9uIHRoZSBkYWVtb25zJyBjb3VudHJ5LCBvciBvbiB0aGUgVm9pZC4iXX0="
    }
   ],
   "related": [
@@ -47665,7 +47672,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoeSBmYWUgZGVidHMgZmFsbCBkdWUgb24gdGhlIFN0aWxsIERheXMuKiogVGhlIGZpdmUgZGF5cyBiZWxvbmcgdG8gbm8gZ29kLCBzbyBubyBnb2QncyBsYXcgc3RhbmRzIGJldHdlZW4gYSBDb3VydCBhbmQgaXRzIGRlYnRvci4gVGhlIFdhcmRlbnMnIHdhcmRzIGFyZSBzd29ybiB0byBWYXJuZXRoLCBhbmQgZm9yIGZpdmUgZGF5cyBWYXJuZXRoIGlzIG5vdCBvbiBkdXR5LiBUaGV5IGhvbGQgb24gaGFiaXQuIiwgIioqVGhlIFZlaWwgaXMgc3RpbGwgT253ZW4uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZGlkIG5vdCBkaWUgc28gbXVjaCBhcyBiZWNvbWUgaXQuIEl0IGlzIHRoaW5uZXN0IGF0IHRoZSBLaW5nIFRpZGUgYW5kIG9uIHRoZSBTdGlsbCBEYXlzIGJlY2F1c2UgdGhhdCBpcyB3aGVuIHNoZSBpcyBtb3N0IHRpcmVkLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoeSBmYWUgZGVidHMgZmFsbCBkdWUgb24gdGhlIFN0aWxsIERheXMuKiogVGhlIGZpdmUgZGF5cyBiZWxvbmcgdG8gbm8gZ29kLCBzbyBubyBnb2QncyBsYXcgc3RhbmRzIGJldHdlZW4gYSBDb3VydCBhbmQgaXRzIGRlYnRvci4gVGhlIFdhcmRlbnMnIHdhcmRzIGFyZSBzd29ybiB0byBWYXJuZXRoLCBhbmQgZm9yIGZpdmUgZGF5cyBWYXJuZXRoIGlzIG5vdCBvbiBkdXR5LiBUaGV5IGhvbGQgb24gaGFiaXQuIiwgIioqVGhlIFZlaWwgaXMgT253ZW4uKiogU3ByaW5nJ3MgZmlyc3QgUXVlZW4gZGlkIG5vdCBkaWUgbWFraW5nIGl0LiBTaGUgYmVjYW1lIGl0LiBXaGF0IGlzIGxlZnQgb2YgaGVyIGlzIGVzc2VuY2U6IHRoZSBmYWUgYXMgdGhleSB3ZXJlIGJlZm9yZSB0aGUgd2FyLCBzcHJlYWQgdGhpbiBpbnRvIGEgYm9yZGVyLiBJdCBpcyB0aGlubmVzdCBhdCB0aGUgS2luZyBUaWRlIGFuZCBvbiB0aGUgU3RpbGwgRGF5cyBiZWNhdXNlIHRoYXQgaXMgd2hlbiBzaGUgaXMgbW9zdCB0aXJlZC4iXX0="
    }
   ],
   "related": [
@@ -47688,6 +47695,194 @@
    "Still Day",
    "door-child",
    "door-children"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "frost-elves",
+  "title": "The Frost Elves",
+  "category": "people",
+  "region": "Icy Expanse",
+  "subtitle": "The painted hunters of the ice, who copy the thing they fear",
+  "summary": "The Frost Elves are the elves of the far southern ice: hunters, herders, and reavers who paint their faces as the skull of the White Hunger before a raid. They keep the hardest guest-law in the islands and remember nothing of where they came from.",
+  "epigraph": {
+   "quote": "We paint the Hunger on our faces so that it looks at us and sees itself, and goes to eat someone else.",
+   "by": "Drasna, a war-leader of the interior"
+  },
+  "facts": [
+   [
+    "Home",
+    "the interior of the Icy Expanse"
+   ],
+   [
+    "Numbers",
+    "about one in six of the Expanse’s people"
+   ],
+   [
+    "Tongue",
+    "Rime Aelthen: hard, cold, and clipped"
+   ],
+   [
+    "They fear and copy",
+    "Vukharr, the White Hunger"
+   ],
+   [
+    "Law",
+    "blood-feud and exile"
+   ],
+   [
+    "Guest-law",
+    "fat and fire for anyone who reaches the lamp"
+   ],
+   [
+    "Names",
+    "Ysgra, Khelvi, Drasna, Hresk"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Who they are",
+    "paragraphs": [
+     "The Frost Elves live where nobody else can: on the interior ice of the Expanse, behind the whaling coast, in halls of bone, hide, and packed snow. They hunt, herd, and fish through the Long Night, and in a lean year they come down to the coast painted.",
+     "They are tall, black-braided, and inked in stark knotwork. They wear white furs and carved bone, carry a great axe, and keep an animal skull at the hip. Other elves find them hard to look at, and say so only when none are present."
+    ]
+   },
+   {
+    "title": "The Hunger",
+    "paragraphs": [
+     "Everything on the ice lives beside Vukharr, the White Hunger, the Savage Lord that eats and is never full. The Frost Elves fear it more than anyone, and they have made that fear into a way of living. They copy it. A people left on the ice with nothing, they say, learns from the one thing there that never starves.",
+     "Some bands have gone further and all but worship it. The coast calls those the Painted Hunger."
+    ]
+   },
+   {
+    "title": "Bands and halls",
+    "paragraphs": [],
+    "table": {
+     "caption": "The Frost Elves, as the coast sorts them",
+     "headers": [
+      "Who",
+      "What they are"
+     ],
+     "rows": [
+      [
+       "The warbands",
+       "Most Frost Elves. Hunters and herders of the interior who raid the coast in lean years and trade with it in fat ones. Each follows a war-leader and keeps its own hall."
+      ],
+      [
+       "The Painted Hunger",
+       "The warbands that have gone furthest toward Vukharr. They do not trade, they raid in fat years too, and they all but worship the White Hunger. Every coastal town knows their paint."
+      ],
+      [
+       "The Unpainted",
+       "A few bands that have refused the Skull-Paint altogether, led by Khelvi Silverbraid. They have gone to the far southern ice, beyond the last posts, and do not explain what they do there."
+      ],
+      [
+       "The hall-less",
+       "Exiles and wanderers, cast out by blood-feud or by choice. Some hire on as guides and whalers. A few become Hunters."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Customs of the ice",
+    "paragraphs": [],
+    "list": [
+     "The Skull-Paint. Before a raid a warband paints its faces as the skull of the White Hunger. It is a warning, a prayer, and battle-dress at once.",
+     "The paint comes off only in the sea. A raider who is still painted is still raiding, and may not enter a hall, eat at a table, or touch a child.",
+     "The lit lamp. The lamp never goes out in a Frost hall. A stranger who reaches it is given fat and fire without question, even an enemy, even in a feud. Turning someone out into the cold is murder.",
+     "The stranger's share. The first cut of a kill is set aside for whoever has none. Nobody asks who takes it.",
+     "The Auroral Vault. They call its lights Vukharr's dreaming, and no band raids beneath them.",
+     "The trophy. Every hunter carries the skull of a first kill at the hip. To take it from a living elf is to start a feud that outlasts both of you.",
+     "Exile. Their justice is blood-feud and exile, and on the ice, exile is a slower death."
+    ]
+   },
+   {
+    "title": "Where they came from",
+    "paragraphs": [
+     "The Frost Elves have no story of their own beginning. Their tellings start on the ice, already cold, already hungry. They keep no god of the elves and do not seem to miss one.",
+     "The fae tell it differently. They say the Frost Elves were Winter’s once, and that Winter sent their forebears out of the Faewild after the Orka War. No fae will say more than that, and a Frost Elf who is told it shrugs. It was a long time ago, and it did not make the ice any warmer.",
+     "Their oldest song is about a great white owl that laid one egg and hid it. No Frost Elf can say what it means. Every band sings it the same way."
+    ]
+   },
+   {
+    "title": "Frost Elves in the islands",
+    "paragraphs": [],
+    "list": [
+     "The whalers of Frosthold have traded and fought with them since before the Charter, often in the same season.",
+     "House Kaldmark holds the march against the warbands, and has married into two of them.",
+     "Albion Tempest, the Gold Hunter and First Mate of the Crimson Tide, is a Frost Elf of the Expanse. He serves, he says, to change how the islands see his people.",
+     "A Frost Elf guide is the best that money can hire on the ice, and will leave you the moment you break guest-law."
+    ]
+   },
+   {
+    "title": "Playing a Frost Elf",
+    "paragraphs": [],
+    "list": [
+     "Decide which band you came from, and whether you left it painted, unpainted, or cast out.",
+     "You have never been warm enough to stop noticing it. The rest of the islands feel like a held breath.",
+     "You owe fat and fire to anyone who reaches your lamp. That includes people you have sworn to kill.",
+     "At level 4 a Frost Elf may take the Rime-Hunter lineage feat."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A warband has come down to a whaling town unpainted and asked, politely, for shelter. They will not say from what.",
+     "An exile wants to go home. The price of ending a feud is a skull his family lost forty years ago, and it is hanging in a tavern in Varan Port.",
+     "A raider reached a hall’s lamp ahead of the people hunting him. The hall must feed him, and the hunters are camped outside.",
+     "Three bands that have never met are all singing a new verse of the owl song."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "No Frost Elf warband has ever raided beneath the lights of the Auroral Vault.",
+     "Rime Aelthen has eleven words for hunger and one for full, and the one for full is an insult.",
+     "The paint is ash, fat, and ground bone. It takes an hour to put on and a walk into the sea to take off."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Painted Hunger hit the Kaldmark march carrying a Frosthold oil-house’s seal. The Brotherhood says it’s forged. The Kaldmarks say it isn’t.” (a march rider)",
+     "“There’s an old hunter in one of the deep halls who has never once painted. He was old when their grandmothers were girls. They feed him first.” (a Frost Elf guide, after the third cup)",
+     "“They’ve stopped raiding near the Vault altogether. They say the Hunger is dreaming of something new.” (a Frosthold whaler)",
+     "“Summer’s knights won’t fight them. Any other raider, gladly. Ask one why and he’ll change the subject to his sword.” (a kalashtar of Sunhold)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBGcm9zdCBFbHZlcyB3ZXJlIG5vdCBjb3dhcmRzLioqIEluIHRoZSBPcmthIFdhciBhIGZhY3Rpb24gb2YgV2ludGVyIHRvb2sgdG8ga2lsbGluZyBmb3IgaXRzIG93biBzYWtlLCBhbmQgY3V0IGRvd24gb3RoZXIgZmFlIGluIGl0cyByYWlkcyBhcyBsb25nIGFzIG1vcmUgb3JjcyBkaWVkIHRoYW4gZmFlLiBXaW50ZXIncyBmaXJzdCBLaW5nIGV4aWxlZCB0aGVtIHRvIHRoZSB3YWtpbmcgd29ybGQsIHVuZGVyIGEgY3Vyc2UgdGhhdCB3aXRoZXJzIHRoZWlyIGZhZSBtYWdpYyBhIGxpdHRsZSBtb3JlIHdpdGggZXZlcnkgZ2VuZXJhdGlvbi4gVGhlaXIgZGVzY2VuZGFudHMgZG8gbm90IHJlbWVtYmVyIGJlaW5nIGZhZSBhdCBhbGwuIiwgIioqVGhlIGN1cnNlLioqIFRoZWlyIGZhZSBtYWdpYyB3aXRoZXJzIGEgbGl0dGxlIG1vcmUgd2l0aCBldmVyeSBnZW5lcmF0aW9uLiBUaGF0IGlzIHdoeSB0aGV5IGhhdmUgbm8gc3Rvcnkgb2YgdGhlIEZhZXdpbGQ6IHRoZSBtZW1vcnkgd2VudCB3aXRoIGl0LiIsICIqKldpbnRlcidzIGZpcnN0IEtpbmcgaXMgYWxpdmUuKiogSGlzIG5hbWUgaXMgQ2FsZHJpdGguIEFmdGVyIHRoZSBleGlsZSBoZSBsZWZ0IHRoZSBQYWxlIEhhbGwgYW5kIGhpZCBoaW1zZWxmLCBpbiBzaGFtZSwgYW5kIHRoZSBDb3VydCBpcyBjYWxsZWQgdGhlIExvbmcgU2lsZW5jZSBmb3IgaGltLiBNb3J0aHJ5biB0b29rIHRoZSB0aHJvbmUsIGFuZCBzaGUgaXMgdGhlIG9ubHkgb25lIHdobyBrbm93cyBoZSBsaXZlcyBvciB3aGVyZS4gU29tZSBzYXkgaGUgc2V0IHRoZSBiZXJzZXJrZXJzIG9uIGFuZCB0aGVuIG1hZGUgdGhlbSBoaXMgc2NhcGVnb2F0cy4gSGUgaGFzIG5ldmVyIGRlbmllZCBpdCwgYW5kIGEga2luZyB3aG8gaGFkIG9ubHkgYmVlbiBiZXRyYXllZCB3b3VsZCBub3QgaGF2ZSBoaWRkZW4gZm9yIHRlbiB0aG91c2FuZCB5ZWFycy4iLCAiKipDYWxkcml0aCBpcyBhbW9uZyB0aGVtIChwcm9wb3NhbCkuKiogV2ludGVyJ3MgZmlyc3QgS2luZyBoaWRlcyB3aXRoIHRoZSBwZW9wbGUgaGUgZXhpbGVkOiBhbiBvbGQgdW5wYWludGVkIGh1bnRlciBpbiBhIGhhbGwgb2YgdGhlIGRlZXAgaW50ZXJpb3IsIHdobyBoYXMga2VwdCBpdHMgbGFtcCBsaXQgZm9yIGxvbmdlciB0aGFuIHRoZSBiYW5kIGhhcyBoYWQgYSBuYW1lLiBUaGV5IGRvIG5vdCBrbm93IHdobyBoZSBpcy4gTW9ydGhyeW4ga25vd3Mgd2hpY2ggaGFsbC4iLCAiKipXaGF0IHRoZSBDb3VydHMgb3dlIHRoZW0uKiogRXZlcnkgQ291cnQgcmVzZW50cyBXaW50ZXIgZm9yIHRoZSBiZXJzZXJrZXJzLCBhbmQgZXZlcnkgQ291cnQga25vd3MgdGhhdCB0aGV5IHdlcmUgdGhlIG9ubHkgZmFlIHdobyBldmVyIG1hdGNoZWQgdGhlIE9ya2EgYmxvdyBmb3IgYmxvdy4gU3VtbWVyJ3Mga25pZ2h0cyB3aWxsIG5vdCBmaWdodCBhIEZyb3N0IEVsZiB3YXJiYW5kLCBhbmQgd2lsbCBub3Qgc2F5IHRoYXQgdGhpcyBpcyB3aHkuIiwgIioqVGhlIG93bCBzb25nIGlzIHRydWUuKiogQmVmb3JlIFZ1a2hhcnIgdGhlIGljZSBoYWQgYW5vdGhlciBMb3JkOiBZc3ZldGgsIHRoZSBMb25nIE5pZ2h0LCBhIGdyZWF0IHdoaXRlIG93bC4gVnVraGFyciBhdGUgaXQuIFRoZSBlZ2cgaXMgcmVhbCwgYW5kIGhpZGRlbiB3aGVyZSB0aGUgSHVuZ2VyIGNhbid0IGZvbGxvdy4iXX0="
+   }
+  ],
+  "related": [
+   "elves",
+   "icy-expanse",
+   "vukharr-the-white-hunger",
+   "winter-court",
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "auroral-vault",
+   "house-kaldmark",
+   "albion-tempest",
+   "frosthold",
+   "fae",
+   "faewild"
+  ],
+  "aliases": [
+   "Frost Elves",
+   "the Frost Elves",
+   "Frost Elf",
+   "Painted Hunger",
+   "the Painted Hunger",
+   "Skull-Paint",
+   "the Unpainted",
+   "Rime Aelthen"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
