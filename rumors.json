@@ -2567,6 +2567,24 @@
   ]
  },
  {
+  "id": "rumor-faewild-politics-6",
+  "text": "One of the four lost pearls is in Golgarma. Whole. The Legion uses it as a paperweight and wonders why the room is always autumn.",
+  "heardAt": "heard from a delver, drunk",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-7",
+  "text": "Winter’s old King didn’t exile those berserkers for what they did. He sent them out to do it, and then he needed someone to blame.",
+  "heardAt": "heard from a Summer knight, quietly",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics"
+  ]
+ },
+ {
   "id": "rumor-marshal-waiting",
   "text": "The Marshal of Halfwake is waiting for someone. There is a second chair on her porch, and nobody has ever been asked to sit in it.",
   "heardAt": "heard from a kalashtar of Greyhaven",
