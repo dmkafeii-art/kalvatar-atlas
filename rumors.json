@@ -2518,6 +2518,76 @@
   ]
  },
  {
+  "id": "rumor-faewild-politics-1",
+  "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
+  "heardAt": "heard from a road-fae clerk",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics",
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-2",
+  "text": "He’s never spoken a true name. Not once. I think that’s because he only needs to do it one time.",
+  "heardAt": "heard from a Warden of the Veil",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics",
+   "unbound"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-3",
+  "text": "One of the four has asked him for it back. The kiss. He said he’d look for it.",
+  "heardAt": "heard from a pixie, for a button",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics",
+   "unbound"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-4",
+  "text": "Rimeward and Dame Bramble write to each other every week. A chamberlain of Winter and a referee of Spring. About the weather, they say.",
+  "heardAt": "heard from a Hoarfrost Clerk",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-5",
+  "text": "The clerks at the Claims Office found the old title to the Roam years ago. They put it back.",
+  "heardAt": "heard from a kalashtar of Goldwind",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics",
+   "the-roam"
+  ]
+ },
+ {
+  "id": "rumor-queens-goodbye",
+  "text": "When winter runs long, the Queens are saying goodbye. When spring comes early, Spring went calling.",
+  "heardAt": "heard on Frontier farms",
+  "region": "Northern Frontier",
+  "entries": [
+   "aoifel-the-green-laugh",
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-first-kiss",
+  "text": "The one with no Court was the first love of all four sovereigns, and when he left he took the first kiss with him. None of them can remember theirs.",
+  "heardAt": "heard from any pixie, for a button",
+  "region": "All regions",
+  "entries": [
+   "unbound",
+   "faewild-politics"
+  ]
+ },
+ {
   "id": "rumor-weak-summer-court",
   "text": "Dare her. That’s the whole secret of Summer. Just be sure you want what happens after she wins.",
   "heardAt": "heard from a fire-sprite, for a price",

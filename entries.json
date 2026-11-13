@@ -3653,7 +3653,7 @@
   "title": "The King Tide",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "The Three Nights",
+  "subtitle": "When the sea comes ashore",
   "summary": "Roughly every third year, the moons and Ors align and the sea rises beyond its usual bounds.",
   "sections": [
    {
@@ -4031,7 +4031,7 @@
     "title": "The everyday craft",
     "paragraphs": [
      "The Small Ways are the little workings passed between families and kept in waybooks: sweetening tea, drying nets, finding a lost button, calling fireflies to a windowsill or lending a lullaby a gentle warmth. They sit beneath the nine circles. Knowing them alone requires neither enrollment nor a copper ring.",
-     "Their place is the ordinary life of the islands. A small kindness may reach another person, an animal or a plant. A Way must remain harmless, modest and free of compulsion. Scholars call them residual spillage of true casting; the Concord calls them the world’s small kindnesses; the hedge-wives call them Tuesday."
+     "Their place is the ordinary life of the islands. A small kindness may reach another person, an animal or a plant. A Way must remain harmless, modest and free of compulsion. Scholars call them residual spillage of true casting; the Concord calls them the world’s small kindnesses; the hedge-wives call them Tideturn."
     ]
    },
    {
@@ -4240,7 +4240,7 @@
   "title": "The Faewild",
   "category": "culture",
   "region": "Beyond the Veil",
-  "subtitle": "Count every bargain three times",
+  "subtitle": "The far side of the Veil, where every word is a bargain",
   "summary": "Beyond the Veil, names, debts, and promises carry a weight no visitor should underestimate.",
   "sections": [
    {
@@ -4302,7 +4302,8 @@
    "summer-court",
    "autumn-court",
    "winter-court",
-   "spring-court"
+   "spring-court",
+   "faewild-politics"
   ]
  },
  {
@@ -4310,7 +4311,7 @@
   "title": "The Sea-Pacts",
   "category": "culture",
   "region": "The Sea",
-  "subtitle": "A harbor is an agreement",
+  "subtitle": "What a port owes the deep",
   "summary": "Ports bargain with the deep courts for safe water, warnings, and the return of their drowned.",
   "sections": [
    {
@@ -4391,7 +4392,7 @@
   "title": "Guest-Law",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "A bowl before a question",
+  "subtitle": "How a stranger is fed",
   "summary": "Across Kalvatar, hospitality is a serious obligation with different expressions in each region.",
   "sections": [
    {
@@ -11276,7 +11277,7 @@
   "title": "The Keeping",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "The keeper eats last",
+  "subtitle": "The first fire, lit for whoever comes after",
   "summary": "The quiet hearth rite of lighting the fire and beginning the food for those who come after.",
   "sections": [
    {
@@ -11406,7 +11407,7 @@
   "title": "Kellum",
   "category": "culture",
   "region": "All regions",
-  "subtitle": "Salt and kin!",
+  "subtitle": "The kelp spirit of every port",
   "summary": "The honeywrack-kelp spirit distilled in every port, tasting of its own sea.",
   "sections": [
    {
@@ -11627,7 +11628,7 @@
    "Azarox"
   ],
   "epigraph": {
-   "quote": "A Swordtooth will die for you. It will also bite you on Tuesdays.",
+   "quote": "A Swordtooth will die for you. It will also bite you on Coinsdays.",
    "by": "A Jakupur cavalry sergeant"
   },
   "related": [
@@ -12560,7 +12561,7 @@
    {
     "title": "In the stables and the wild",
     "paragraphs": [
-     "The cattle of the south: a big, placid, broad-bodied herd-grazer with a deep, lowing bellow, raised across the savannas and jungle-edges for meat, hide, and great clutches of eggs. After the fowl, the Bumako is the single most important food-saurian alive, the beef of Kalvatar, herded in their thousands, slow and gentle and dim, the beast a southern child first learns to mind. A roast haunch of Bellowback is the Sunday table from Jakupur to the smallest village."
+     "The cattle of the south: a big, placid, broad-bodied herd-grazer with a deep, lowing bellow, raised across the savannas and jungle-edges for meat, hide, and great clutches of eggs. After the fowl, the Bumako is the single most important food-saurian alive, the beef of Kalvatar, herded in their thousands, slow and gentle and dim, the beast a southern child first learns to mind. A roast haunch of Bellowback is the Restday table from Jakupur to the smallest village."
     ]
    },
    {
@@ -12591,7 +12592,7 @@
    "Bumako"
   ],
   "epigraph": {
-   "quote": "A roast haunch of Bellowback on Sunday, or it isn't Sunday.",
+   "quote": "A roast haunch of Bellowback on Restday, or it isn't Restday.",
    "by": "A Jakupur cook"
   },
   "related": [
@@ -19762,7 +19763,7 @@
   "title": "House Vanris",
   "category": "houses",
   "region": "Northern Frontier",
-  "subtitle": "Unyielding as the Storm",
+  "subtitle": "Archlords of Stormreach and the strait",
   "summary": "Unyielding as the Storm: the maritime Archlords of Stormreach, who hold the strait between the Frontier and the Heartland, build the best storm-hulls in the islands, keep the largest house fleet afloat, and sit under a weak lord.",
   "sections": [
    {
@@ -21034,6 +21035,13 @@
     ]
    },
    {
+    "title": "Spring and Winter",
+    "paragraphs": [
+     "The small folk say that Aoifel and Morthryn were lovers once, for a long time, and that they have met a few times since. Neither Court will discuss it.",
+     "The islands say the weather gives it away. When winter runs long, the Queens are saying goodbye. When spring comes early, Spring went calling."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Something of her Court’s was lost in the islands long ago, and one of her own is here looking for it, wearing whatever face is useful.” (a Jakupur art dealer)",
@@ -21082,7 +21090,9 @@
    "green-fire",
    "house-caelvaron",
    "fae",
-   "spring-court"
+   "spring-court",
+   "faewild-politics",
+   "morthryn-the-pale-empress-of-air-and-ending"
   ]
  },
  {
@@ -24119,6 +24129,13 @@
     ]
    },
    {
+    "title": "Spring and Winter",
+    "paragraphs": [
+     "The small folk say that Aoifel and Morthryn were lovers once, for a long time, and that they have met a few times since. Neither Court will discuss it.",
+     "The islands say the weather gives it away. When winter runs long, the Queens are saying goodbye. When spring comes early, Spring went calling."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Something of hers was stolen at the last King Tide. A crown, they say. The Long Silence is patient, and it is looking.” (a Frosthold trader)",
@@ -24169,7 +24186,9 @@
    "knights-of-the-northern-lights",
    "king-tide",
    "fae",
-   "winter-court"
+   "winter-court",
+   "faewild-politics",
+   "aoifel-the-green-laugh"
   ]
  },
  {
@@ -25016,7 +25035,8 @@
    "vael-mournthorn-the-crimson-reaper-king",
    "varneth-the-threshold-warden",
    "fae",
-   "summer-court"
+   "summer-court",
+   "faewild-politics"
   ]
  },
  {
@@ -26082,6 +26102,20 @@
     ]
    },
    {
+    "title": "The tale the small folk tell",
+    "paragraphs": [
+     "No Court will confirm it, and every pixie will tell it for a button.",
+     "“The pixies tell it like this. There were five Courts once. The fifth lord kept the Turnings, the days between the seasons, and he was as greedy for a crown as any of them. He courted all four of the others, one after another, and was the first love of each. Then he sold his crown, his country, and his own name for a single word, and the word was the true name of everything. And he walked off laughing, and took the first kiss with him.”",
+     "Ask him and he will say he doesn’t remember, and offer you coffee."
+    ]
+   },
+   {
+    "title": "Why the Courts fear him",
+    "paragraphs": [
+     "The Faewild is built on names, and the tale says he knows all of them. Nobody has ever heard him speak one. He has never said that he can. The four sovereigns have had two thousand years to wonder, and it has not got easier."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“He comes for the coffee, and for one beach in particular. That is the whole of his business here, and the wardens can’t bear it.” (a Warden of the Veil)",
@@ -26127,7 +26161,9 @@
    "morthryn-the-pale-empress-of-air-and-ending",
    "fae",
    "the-roam",
-   "dream-eaters"
+   "dream-eaters",
+   "faewild-politics",
+   "halfwake"
   ]
  },
  {
@@ -26315,7 +26351,8 @@
    "calendar",
    "varneth-the-threshold-warden",
    "fae",
-   "autumn-court"
+   "autumn-court",
+   "faewild-politics"
   ]
  },
  {
@@ -29920,7 +29957,7 @@
   "title": "Captain Blackstorm",
   "category": "outlaws",
   "region": "All regions",
-  "subtitle": "The old admiral’s colors",
+  "subtitle": "Captain of the Phantom Tide",
   "summary": "Captain of The Phantom Tide. Bounty: 1,000 Anchors.",
   "sections": [
    {
@@ -38482,8 +38519,6 @@
   ],
   "aliases": [
    "wages",
-   "pay",
-   "work",
    "hirelings"
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -44401,7 +44436,8 @@
    "autumn-court",
    "winter-court",
    "spring-court",
-   "dream-eaters"
+   "dream-eaters",
+   "faewild-politics"
   ],
   "aliases": [
    "fae",
@@ -44575,7 +44611,8 @@
    "naxithe-the-dream-eater",
    "unbound",
    "charms-and-workings",
-   "king-tide"
+   "king-tide",
+   "faewild-politics"
   ],
   "aliases": [
    "the Roam",
@@ -44747,7 +44784,8 @@
    "summer-court",
    "autumn-court",
    "winter-court",
-   "spring-court"
+   "spring-court",
+   "faewild-politics"
   ],
   "aliases": [
    "Halfwake",
@@ -45058,7 +45096,8 @@
    "kalashtar",
    "autumn-court",
    "winter-court",
-   "spring-court"
+   "spring-court",
+   "faewild-politics"
   ],
   "aliases": [
    "The Summer Court",
@@ -45220,7 +45259,8 @@
    "kalashtar",
    "summer-court",
    "winter-court",
-   "spring-court"
+   "spring-court",
+   "faewild-politics"
   ],
   "aliases": [
    "The Autumn Court",
@@ -45382,7 +45422,8 @@
    "kalashtar",
    "summer-court",
    "autumn-court",
-   "spring-court"
+   "spring-court",
+   "faewild-politics"
   ],
   "aliases": [
    "The Winter Court",
@@ -45468,7 +45509,7 @@
       ],
       [
        "Lose a game",
-       "They take something you did not know you had: your whistle, your sense of north, your Tuesdays."
+       "They take something you did not know you had: your whistle, your sense of north, your Coinsdays."
       ],
       [
        "Agree to play",
@@ -45524,7 +45565,7 @@
     "title": "Adventure hooks",
     "paragraphs": [],
     "list": [
-     "Someone in the party lost their Tuesdays in a game, and something important is happening on a Tuesday.",
+     "Someone in the party lost their Coinsdays in a game, and something important is happening on a Coinsday.",
      "A village child came back from Spring with a gift that is far too much for a village.",
      "The Marquis of Mayflies wants to keep the title for a second week, and will pay mortals to help."
     ]
@@ -45544,7 +45585,8 @@
    "kalashtar",
    "summer-court",
    "autumn-court",
-   "winter-court"
+   "winter-court",
+   "faewild-politics"
   ],
   "aliases": [
    "The Spring Court",
@@ -45555,6 +45597,281 @@
    "Marquis of Mayflies",
    "Petal Post",
    "The Laughing Garden"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "faewild-politics",
+  "title": "The Politics of the Faewild",
+  "category": "culture",
+  "region": "Beyond the Veil",
+  "subtitle": "Four thrones, no heirs, and one guest nobody can plan for",
+  "summary": "The sovereigns of the Faewild do not die, so nothing there is inherited and nothing is ever over. Its politics are borders, debts, and memory, and a grudge from before the Landing is still a current affair.",
+  "epigraph": {
+   "quote": "Mortals think we are slow to forgive. We have not got round to starting.",
+   "by": "An envoy of the Red Harvest, at Halfwake"
+  },
+  "facts": [
+   [
+    "Thrones",
+    "four"
+   ],
+   [
+    "Heirs",
+    "none, ever"
+   ],
+   [
+    "Borders",
+    "the Bright March, the Settling, the Closing, the Thaw"
+   ],
+   [
+    "Neutral ground",
+    "Halfwake, under the Dome"
+   ],
+   [
+    "Split in every Court",
+    "Seelie and Unseelie"
+   ],
+   [
+    "Feared by all four",
+    "the Unbound"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Four thrones and no heirs",
+    "paragraphs": [
+     "A mortal kingdom changes when its king dies. The Faewild has had the same four sovereigns since before the Orka War, and expects to keep them. Nobody inherits, nobody retires, and no quarrel is ever buried with the people who started it.",
+     "So the Courts do not fight over succession. They fight over borders, debts, insults, and old love affairs, and they do it with the patience of people who will still be there in a thousand years to see who was right."
+    ]
+   },
+   {
+    "title": "The four borders",
+    "paragraphs": [
+     "Each season hands the year to the next, and each handover is a border. The days of the handover belong to no Court. They are called the Turnings, and they have to be agreed again every year by two sovereigns who do not like each other."
+    ],
+    "table": {
+     "caption": "Where the seasons meet",
+     "headers": [
+      "Border",
+      "Handover",
+      "How it stands"
+     ],
+     "rows": [
+      [
+       "The Bright March",
+       "Spring yields to Summer",
+       "A rivalry between friends. The handover is a tourney and a party at once. Summer wins the fights, Spring wins the evening, and each side counts that as winning."
+      ],
+      [
+       "The Settling",
+       "Summer yields to Autumn",
+       "The sourest border. Summer's wars are fought on credit, and Autumn presents the bill at the handover, every year. Summer pays, and resents it."
+      ],
+      [
+       "The Closing",
+       "Autumn yields to Winter",
+       "A cold arrangement between the two Courts that never forget. Autumn keeps the books and Winter keeps its word. It is the only treaty in the Faewild that has never been amended."
+      ],
+      [
+       "The Thaw",
+       "Winter yields to Spring",
+       "The quietest border in the Faewild. There has not been a raid across it in living fae memory, and neither Court will say why."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Who stands where",
+    "paragraphs": [],
+    "table": {
+     "caption": "Each Court, toward the others",
+     "headers": [
+      "Court",
+      "Toward the others"
+     ],
+     "rows": [
+      [
+       "Summer",
+       "Respects Winter as the only enemy worth having. Is fond of Spring and talks down to it. Owes Autumn, and hates owing."
+      ],
+      [
+       "Autumn",
+       "Lends to Summer, contracts with Winter, and can't stand Spring, which pays in jokes. Holds a little of everyone's debt, and that is its army."
+      ],
+      [
+       "Winter",
+       "Despises Summer's noise, honors its contract with Autumn to the letter, and is strangely patient with Spring."
+      ],
+      [
+       "Spring",
+       "Teases Summer, robs Autumn's orchards, and never, ever raids Winter."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "What they quarrel over",
+    "paragraphs": [],
+    "list": [
+     "The Turnings. The days when one season becomes the next belong to no Court. Each handover has to be agreed again, every year, by two sovereigns who do not like each other. Most of the wars of the Faewild began on one of those days.",
+     "The Roam. Each Court claims the season-country that wears its color. The Claims Office in Halfwake has never settled one of those claims. The clerks say there is an older title on the land, and that they can't find who holds it.",
+     "The thin places. A thin place in the islands opens on somebody's country. The Courts trade them, raid them, and now and then lose one at cards.",
+     "Krysta. It does nothing in the Faewild, and three Courts ignore it. Winter does not, and the other three would very much like to know why.",
+     "The old way and the new. Seelie against Unseelie, inside every Court. A sovereign who leans too far one way finds half the household looking at the door.",
+     "The Frost Elves. Winter sent them out. Once a century Spring asks, politely, for them to be let home. Winter says no, and then the two Courts talk about something else for a long time.",
+     "The one with no Court. Nobody can plan around him, and every plan has to."
+    ]
+   },
+   {
+    "title": "The tale the small folk tell",
+    "paragraphs": [
+     "No Court will confirm a word of this. Every pixie in the Faewild will tell it to you for a button.",
+     "“The pixies tell it like this. There were five Courts once. The fifth lord kept the Turnings, the days between the seasons, and he was as greedy for a crown as any of them. He courted all four of the others, one after another, and was the first love of each. Then he sold his crown, his country, and his own name for a single word, and the word was the true name of everything. And he walked off laughing, and took the first kiss with him.”",
+     "They add that his hall was made of glass, and that none of the four sovereigns can remember a first kiss. They only know whose it was."
+    ],
+    "table": {
+     "caption": "Ask a Court about it",
+     "headers": [
+      "Court",
+      "What you get"
+     ],
+     "rows": [
+      [
+       "Summer",
+       "Pyraxis says it was a duel, that she won it, and that she will fight anyone who says otherwise. Several have. It has not helped."
+      ],
+      [
+       "Autumn",
+       "Vael Mournthorn has it entered in the ledger as a debt, unpaid, with two thousand years of interest. It is why Autumn's name for him is the Unpaid Debt."
+      ],
+      [
+       "Winter",
+       "Morthryn says nothing at all, and the room gets colder. Some of the small folk say this is what the Long Silence is actually about. They say it a long way from Winter."
+      ],
+      [
+       "Spring",
+       "Aoifel says, \"Oh, him,\" and laughs, and changes the subject to something funnier. She is the only one who seems to have enjoyed it."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Why they fear him",
+    "paragraphs": [
+     "The Courts say they fear the Unbound because nothing binds him: no ward, no oath, no bargain. That is true, and it is the smaller half.",
+     "The Faewild is built on names. Give a fae your true name and you are theirs. The tale says there is one person who knows everyone's, including theirs. Nobody has ever heard him use one. He has never claimed that he can. In a country built on names, that is no comfort at all, and the sovereigns have had two thousand years to think about it."
+    ]
+   },
+   {
+    "title": "Spring and Winter",
+    "paragraphs": [
+     "The small folk have one more story, and they tell it more gently. They say that Spring and Winter were lovers once, after him, and for a long time, and that the two Queens have met a few times since.",
+     "The Courts deny it. The border between them is the quietest in the Faewild, and the islands have their own evidence."
+    ],
+    "table": {
+     "caption": "What the islands say about the weather",
+     "headers": [
+      "The weather",
+      "What people say"
+     ],
+     "rows": [
+      [
+       "A winter that runs long",
+       "\"The Queens are saying goodbye.\" Frontier farmers plant a week late and do not complain much."
+      ],
+      [
+       "A spring that comes early",
+       "\"Spring went calling.\" The Florians hang green ribbons on the door and expect a good year."
+      ],
+      [
+       "Snow on blossom",
+       "\"They're both in.\" It is the luckiest weather there is for a wedding, and the worst for an orchard."
+      ],
+      [
+       "A midwinter thaw with no wind",
+       "\"Somebody said something nice.\""
+      ]
+     ]
+    }
+   },
+   {
+    "title": "How it reaches the islands",
+    "paragraphs": [],
+    "list": [
+     "A season that comes early or late is usually a Turning that went badly, or very well.",
+     "When Autumn's stewards and reapers quarrel, prices move on both sides of the Veil.",
+     "A Summer herald at the door means a challenge. A Winter clerk at the door means a contract has matured.",
+     "All four Courts keep a house in Halfwake, and that is where a mortal can speak to one without crossing the Veil.",
+     "House Caelvaron hears most of it first, and tells the Council about a third."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A Turning has not been agreed. It is three days to the end of the season, and neither Court will send an envoy the other will receive. A mortal would do.",
+     "A pixie is selling the name of the person who made the Winter Queen blush. Two Courts are bidding, and one of them is Winter.",
+     "Autumn wants an old debt witnessed by someone with no stake in it. The debtor named in the ledger has no name.",
+     "Winter has run three weeks long. The Frontier is out of fodder, and somebody has to go and say, politely, that it is time.",
+     "Someone has found the deed to a stretch of the Roam that is older than any Court's claim, and is about to file it."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Never carry a message between two Courts without knowing what it says. The messenger is part of the message.",
+     "Every fae you meet has a side in the Seelie quarrel. Find out which before you ask for anything.",
+     "If you must mention the one with no Court to a sovereign, do not smile while you do it."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The treaty of the Closing has never been amended. It has been read aloud, in full, at every handover for two thousand years, and it takes most of a day.",
+     "Summer has paid Autumn's bill every single year, and has challenged the arithmetic every single year.",
+     "On the Frontier, snow on blossom is the luckiest weather there is for a wedding."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Dome at Halfwake was a throne room once. Ask yourself whose.” (a road-fae clerk)",
+     "“He’s never spoken a true name. Not once. I think that’s because he only needs to do it one time.” (a Warden of the Veil)",
+     "“One of the four has asked him for it back. The kiss. He said he’d look for it.” (a pixie, for a button)",
+     "“Rimeward and Dame Bramble write to each other every week. A chamberlain of Winter and a referee of Spring. About the weather, they say.” (a Hoarfrost Clerk)",
+     "“The clerks at the Claims Office found the old title to the Roam years ago. They put it back.” (a kalashtar of Goldwind)"
+    ]
+   }
+  ],
+  "related": [
+   "fae",
+   "faewild",
+   "unbound",
+   "summer-court",
+   "autumn-court",
+   "winter-court",
+   "spring-court",
+   "halfwake",
+   "the-roam",
+   "pyraxis-the-unbowed-flame",
+   "vael-mournthorn-the-crimson-reaper-king",
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "aoifel-the-green-laugh",
+   "house-caelvaron"
+  ],
+  "aliases": [
+   "politics of the Faewild",
+   "the Turnings",
+   "the Bright March",
+   "the Settling",
+   "the Closing",
+   "the Fifth Court"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
