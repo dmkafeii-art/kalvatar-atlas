@@ -2586,6 +2586,60 @@
   ]
  },
  {
+  "id": "rumor-orka-1",
+  "text": "There’s a hall under Golgarma where the lords are still sitting. Masked. Nobody buried them, because nobody was sure they were dead.",
+  "heardAt": "heard from a Crimson Legion deserter",
+  "region": "Southern Wilds",
+  "entries": [
+   "orka"
+  ]
+ },
+ {
+  "id": "rumor-orka-2",
+  "text": "The pretty masks are the bad ones. The ugly ones only kill you.",
+  "heardAt": "heard from a Ninth Shovel digger",
+  "region": "Southern Wilds",
+  "entries": [
+   "orka"
+  ]
+ },
+ {
+  "id": "rumor-orka-3",
+  "text": "An Orka queen drowned her own empire to stop it. The Remembering Tribes know her name and won’t give it to outsiders.",
+  "heardAt": "heard from a Southhaven chant-keeper",
+  "region": "Southern Wilds",
+  "entries": [
+   "orka"
+  ]
+ },
+ {
+  "id": "rumor-daemons-1",
+  "text": "You can tell how strong one is by its horns. I’m not saying which way it runs.",
+  "heardAt": "heard from a University archivist",
+  "region": "All regions",
+  "entries": [
+   "daemons"
+  ]
+ },
+ {
+  "id": "rumor-daemons-2",
+  "text": "None of them has ever got what it’s really after. If one does, we’ll all know by the next morning.",
+  "heardAt": "heard from an inquisitor of the Concord",
+  "region": "All regions",
+  "entries": [
+   "daemons"
+  ]
+ },
+ {
+  "id": "rumor-daemons-3",
+  "text": "Somebody is wearing one in Goldwind. A fine one. You would never look twice.",
+  "heardAt": "heard from a Quiet Auction porter",
+  "region": "All regions",
+  "entries": [
+   "daemons"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",

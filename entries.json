@@ -4387,7 +4387,9 @@
    "golgarma",
    "elves",
    "house-caelvaron",
-   "exodus-and-the-landing"
+   "exodus-and-the-landing",
+   "orka",
+   "daemons"
   ]
  },
  {
@@ -10821,7 +10823,9 @@
   "related": [
    "southern-wilds",
    "below",
-   "hunters"
+   "hunters",
+   "orka",
+   "daemons"
   ],
   "illustration": {
    "src": "assets/peoples/orcs-painterly-v1-960.webp",
@@ -17049,7 +17053,8 @@
    "sigil",
    "briarcrown",
    "noble-houses",
-   "agari"
+   "agari",
+   "daemons"
   ]
  },
  {
@@ -30709,7 +30714,9 @@
    "below",
    "orcs",
    "nine-fleets",
-   "southern-wilds"
+   "southern-wilds",
+   "orka",
+   "daemons"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/crimson-legion-960.webp",
@@ -38168,7 +38175,9 @@
    "orcs",
    "southern-wilds",
    "northern-frontier",
-   "heartland"
+   "heartland",
+   "orka",
+   "daemons"
   ]
  },
  {
@@ -46730,6 +46739,418 @@
    "light-thief",
    "Ithrennai",
    "the Ithrennai"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "orka",
+  "title": "The Orka",
+  "category": "history",
+  "region": "Southern Wilds",
+  "subtitle": "The orc empire that wore daemons’ faces, and what it cost",
+  "summary": "Long before any human saw the islands, the south belonged to the Orka: an empire of orcs greater than anything that has stood since. It bought its power from daemons, one mask at a time, and the masks ate it.",
+  "epigraph": {
+   "quote": "They were not conquered. Write that down. Nobody beat them. They were spent.",
+   "by": "Hraska Stonevow, teller of the Remembering Tribes"
+  },
+  "facts": [
+   [
+    "When",
+    "the deep ages, long before the Landing"
+   ],
+   [
+    "Where",
+    "the Southern Wilds"
+   ],
+   [
+    "Their god",
+    "Gorrokar, before the daemons"
+   ],
+   [
+    "Their power",
+    "sixteen daemon-pacts, each sealed with a mask"
+   ],
+   [
+    "Their war",
+    "the Orka War, against the fae and the elves"
+   ],
+   [
+    "Their end",
+    "the masks"
+   ],
+   [
+    "Their heirs",
+    "the orcs of the islands"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The empire",
+    "paragraphs": [
+     "The Orka were orcs, and they were builders. They raised cities of stone across the south, kept roads and armies and records, and left monuments that still stand over the jungle like the bones of something enormous. Their god was Gorrokar: strength, the hunt, the tribe, and a hard kind of honor. Under him the Orka were fierce and not yet damned.",
+     "Had it stopped there, the islands would remember them as one of the great peoples of the world."
+    ]
+   },
+   {
+    "title": "The bargain",
+    "paragraphs": [
+     "It did not stop there. The lords of the Orka wanted more than Gorrokar’s hard road could give, and there were things listening that were glad to offer it. The daemons promised dominion, sorcery, and conquest, at a price the Orka believed they could afford.",
+     "Each pact was sealed with a mask, made in the likeness of the daemon it bound. Through the mask the daemon’s power ran into the wearer. A warlord in a war-daemon’s mask became a thing that could not be stopped. The fashion spread through the ruling houses, and then it was no longer a fashion. To be a lord of the Orka was to wear a daemon’s face."
+    ]
+   },
+   {
+    "title": "The price",
+    "paragraphs": [
+     "A mask worn long enough does not come off. It grows into the wearer, flesh to bone, and what is underneath is used up. Year by year there was less orc behind each mask and more of the thing that had made it, until there was nobody left inside at all.",
+     "The empire did not notice. Its lords still gave orders and won wars. They had simply stopped being its lords."
+    ]
+   },
+   {
+    "title": "The raids on the Faewild",
+    "paragraphs": [
+     "As the daemons grew stronger they opened ways into the Faewild, and the Orka went through them for slaves and for sacrifices. A fae is the richest offering a daemon can be given, and fae magic makes it easier for a daemon to take shape in the world.",
+     "The fae had never fought a war. They learned, and they called on their cousins the elves, who took the fight to the Orka in the south. Mortal histories call that half of it the War of the Courts. The fae call the whole of it the Orka War, and the Faewild’s own page tells it."
+    ]
+   },
+   {
+    "title": "The fall",
+    "paragraphs": [
+     "Nobody beat the Orka. The Veil rose and shut them out of the Faewild. The elves withdrew. With nothing left to raid and nobody left to conquer, the masked lords turned on each other, cult against cult, and the empire came apart in a generation. The old tellings say that at the very end somebody let the sea into the undercities on purpose."
+    ]
+   },
+   {
+    "title": "What is left",
+    "paragraphs": [],
+    "list": [
+     "Golgarma and the other dead cities of the Southern Wilds, which the jungle has had ten thousand years to cover and has not managed to.",
+     "The drowned undercities. The Orka built down as well as up, and the sea is in the lower halls now.",
+     "The orcs of the islands, who are their descendants and are tired of being asked about it.",
+     "The Remembering Tribes, who kept the old lore and are split over what to do with it.",
+     "The thin places and bad ground of the south, where the daemons tore their way through.",
+     "The masks. They are still down there, and someone is always looking for them."
+    ]
+   },
+   {
+    "title": "The orcs today",
+    "paragraphs": [
+     "Most orcs of the islands are dockers, drovers, sailors, and townsfolk, and know the empire only as a story other people tell about them. A few tribes kept the lore. The Remembering Tribes are divided: some honor Gorrokar and mean to win back the Orka’s honor without the daemons, and some want the masks. An orc of the first kind who has sworn never to wear one is called bare-faced, and says it with pride."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A dig in the Southern Wilds has stopped sending reports. The last one said they had found a sealed hall and that the seals were on the outside.",
+     "An orc docker in Southhaven has been dreaming in a language he does not speak. His grandmother recognizes it, and is frightened.",
+     "Two Remembering chieftains both want the same ruin: one to bury what is in it, one to dig it up. Each offers to hire the party.",
+     "A masked figure has been seen at a mine-head in the south, standing perfectly still for three nights. It has not breathed once.",
+     "The University wants an Orka road surveyed to its end. The last surveyor came back early and resigned."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "An orc character can know the Telling, their family’s own history, without knowing anything about the empire. Decide which.",
+     "Orka stonework has no mortar and no windows on the lower floors. If the seals are on the outside of a door, leave it.",
+     "Never put on anything you find in an Orka ruin. The islands have a saying for it: nobody wears a gift."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Golgarma’s oldest stones are older than the Orka’s bargain. The carvings change partway up the walls.",
+     "Gorrokar is still worshipped. He is the god of honest strength, and his faithful say he has been waiting for an apology.",
+     "The Orka kept slaves by the hundred thousand. One of the sixteen daemons existed for nothing else."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a hall under Golgarma where the lords are still sitting. Masked. Nobody buried them, because nobody was sure they were dead.” (a Crimson Legion deserter)",
+     "“The pretty masks are the bad ones. The ugly ones only kill you.” (a Ninth Shovel digger)",
+     "“An Orka queen drowned her own empire to stop it. The Remembering Tribes know her name and won’t give it to outsiders.” (a Southhaven chant-keeper)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBDb3VudCBvZiBIb3Jucy4qKiBEYWVtb25zIGNsaW1iIHRvd2FyZCBnb2Rob29kIGJ5IHNoZWRkaW5nIGhvcm5zLiBUaGUgbWFueS1ob3JuZWQgYXJlIHRoZSB3ZWFrZXN0LCB0aGUgb25lLWhvcm5lZCBhcmUgUHJpbmNlcywgYW5kIHRoZSBmaXJzdCB0byBzaGVkIGl0cyBsYXN0IGhvcm4gYmVjb21lcyBhIGdvZC4gTm9uZSBoYXMgeWV0LiBUaGUgT3JrYSBzZXJ2ZWQgc2l4dGVlbiwgdGhlIE1hc2tmYXRoZXJzLCBhbmQgZWFjaCBoYXMgYSBtYXNrLiIsICIqKk5hZGjDu3IuKiogV2hlbiB0aGUgbWFza3MgaG9sbG93ZWQgdGhlIGVtcGlyZSwgdGhlIHNoYW1hbi1xdWVlbiBEdXJ6aGEgU2VhLUJyaWRlIHNlYWxlZCB0aGUgdW5kZXJjaXRpZXMgd2l0aCB0aGUgbWFza2VkIGxvcmRzIGluc2lkZSBhbmQgbGV0IHRoZSBzZWEgaW4uIFRob3VzYW5kcyBvZiBvcmRpbmFyeSBPcmthIGRyb3duZWQgd2l0aCB0aGVtLiBUaGUgbWFza2VkIGRvIG5vdCBicmVhdGhlLiBUaGV5IGFyZSBzdGlsbCBzaXR0aW5nIG9uIHRoZWlyIHRocm9uZXMuIiwgIioqVGhlIFJlbWVtYmVyaW5nIFRyaWJlcyoqIGtub3cgdGhlIFNlYS1CcmlkZSdzIG5hbWUgYW5kIHdoYXQgc2hlIGRpZC4gSHJhc2thIFN0b25ldm93IHRlYWNoZXMgdGhhdCB0aGUgZW1waXJlIGZlbGwgYmVjYXVzZSBpdCB3b3JlIHRoZSBtYXNrcywgYW5kIGJ1cmllcyBldmVyeSBvbmUgc2hlIGZpbmRzLiBVemdvciBvZiB0aGUgQmFyZSBCcm93IGlzIGxvb2tpbmcgZm9yIE1hcmFkYW5hc2gncyBtYXNrLCBhbmQgaGFzIGZvdW5kIG91dCB3aGVyZSBpdCBpcy4iLCAiKipGaXZlIG1hc2tzIGNhbiBiZSBmb3VuZC4qKiBNYXJhZGFuYXNoJ3Mgd2FyLW1hc2sgbGllcyBpbiB0aGUgZGVlcGVzdCB0aHJvbmUtaGFsbCB1bmRlciBHb2xnYXJtYS4gRGFtb251cydzIHNtaWxpbmcgbWFzayBpcyBzdGlsbCB3b3JuLCBvbiBhIGRyb3duZWQgdGhyb25lIGluIE5hZGjDu3IuIE11bmR1cydzIGlyb24gbWFzayBpcyBvbiB0aGUgZmFjZSBvZiBhIHNsYXZlciB3aG8gY2FsbHMgaGltc2VsZiB0aGUgQ2hhaW5mYXRoZXIgYW5kIGNhbid0IHRha2UgaXQgb2ZmLiBCcmlra28ncyBncmlubmluZyBtYXNrIGhhcyBiZWVuIHNvbGQgZm91ciB0aW1lcyBhdCB0aGUgUXVpZXQgQXVjdGlvbiwgYW5kIGV2ZXJ5IGJ1eWVyIHdhcyBiZXRyYXllZCB3aXRoaW4gdGhlIHllYXIuIFppa2FuaXRyYXoncyBtYXNrIGlzIG5vd2hlcmUsIGFuZCBpcyBzZWVuIG5lYXIgSG9sbG93LW1vdXRocy4iLCAiKipXaGljaCB3YXkgaXQgcnVucy4qKiBBIGxlc3NlciBkYWVtb24gaXMgYSBibG9hdGVkIGhvcnJvciBvZiBodW5kcmVkcyBvZiBob3Jucy4gQXMgYSBkYWVtb24gZ2FpbnMgcG93ZXIgaXQgc2hlZHMgdGhlbSwgYW5kIGdyb3dzIGNsZWFuZXIsIG1vcmUgZ3JhY2VmdWwsIGFuZCBtb3JlIGh1bWFuLiBUd28gb3IgdGhyZWUgaG9ybnMgbWFyayBhIEdyZWF0ZXIgRGFlbW9uLiBPbmUgbWFya3MgYSBQcmluY2UuIE1hcmFkYW5hc2ggaGFzIG9uZSwgRGFtb251cyB0d28sIE5vcmRyYWthcm5hIHRocmVlLCBhbmQgVmFuaXJpb25pcyB0d28uIFRoZSBiZWF1dGlmdWwgc3RyYW5nZXIgaXMgdGhlIG9uZSB0byBmZWFyLiIsICIqKldoYXQgdGhleSBhcmUgYWZ0ZXIuKiogVG8gc2hlZCB0aGUgbGFzdCBob3JuIGlzIHRvIGJlY29tZSBhIGdvZC4gRXZlcnkgcGFjdCwgZXZlcnkgc291bCwgYW5kIGV2ZXJ5IGVtcGlyZSB0YWxrZWQgaW50byBydWluIGlzIGZ1ZWwgZm9yIHRoYXQgY2xpbWIuIE5vbmUgaGFzIGZpbmlzaGVkIGl0IHlldC4iLCAiKipUaGUgU2NhcmxldCBNb3RoZXIqKiBvZiB0aGUgQ3JpbXNvbiBMZWdpb24gaXMgdG91Y2hlZCBieSBWYW5pcmlvbmlzLCByZWFjaGluZyB0aHJvdWdoIGEgbmV3IGFuZCB1bndpdHRpbmcgdmVzc2VsIGFzIGl0IG9uY2UgcmVhY2hlZCB0aHJvdWdoIHRoZSBPcmth4oCZcyBsb3Jkcy4iXX0="
+   }
+  ],
+  "related": [
+   "orcs",
+   "orc-tribes",
+   "daemons",
+   "golgarma",
+   "faewild",
+   "fae",
+   "below",
+   "crimson-legion",
+   "southern-wilds",
+   "elves"
+  ],
+  "aliases": [
+   "Orka",
+   "the Orka",
+   "Orka empire",
+   "Gorrokar",
+   "Remembering Tribes",
+   "bare-faced",
+   "Maskfathers"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "daemons",
+  "title": "Daemons",
+  "category": "foes",
+  "region": "All regions",
+  "subtitle": "The things behind the masks, and what they want from you",
+  "summary": "Daemons are powers from outside the world that grow by bargaining. They offer exactly what you want, at a price you believe you can afford. The Orka believed it, and they were an empire.",
+  "epigraph": {
+   "quote": "It never lied to me. I keep coming back to that. It told me the price, and I thought I was the one getting the bargain.",
+   "by": "A masked man, to the inquisitor who had come to burn it"
+  },
+  "facts": [
+   [
+    "What they are",
+    "powers from beyond the world"
+   ],
+   [
+    "How they grow",
+    "pacts, worship, and the souls that come with them"
+   ],
+   [
+    "How they act here",
+    "through masks, cults, and the willing"
+   ],
+   [
+    "Known by name",
+    "the sixteen Maskfathers of the Orka"
+   ],
+   [
+    "Most have",
+    "slept since the empire fell"
+   ],
+   [
+    "Hunted by",
+    "the Sacred Flame of Jakupur"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What they are",
+    "paragraphs": [
+     "A daemon is a power from outside the world. It can’t simply walk in. It needs a door, and the door is always a person: someone who wants something badly enough to agree to terms.",
+     "Islanders call every fiend a daemon. Scholars are more careful. A daemon wants and takes, and its bargains are bait. A devil keeps contracts to the letter, and that is a different kind of danger with a different set of rules."
+    ]
+   },
+   {
+    "title": "How a pact works",
+    "paragraphs": [],
+    "list": [
+     "The daemon offers what you actually want. It has usually been listening for some time.",
+     "The price is stated, and it sounds fair. It is always more than it sounds.",
+     "The pact is sealed in something worn or carried. The Orka used masks.",
+     "Power runs through the seal into the wearer, and something of the wearer runs back.",
+     "Nobody has ever been recorded as coming out ahead."
+    ]
+   },
+   {
+    "title": "The masks",
+    "paragraphs": [
+     "An Orka daemon-mask is bone, metal, and worse, shaped in the likeness of the daemon it serves. Some are crude and crowded with horns. Some are fine, and a few are beautiful.",
+     "A mask worn long enough can’t be taken off. It grows into the face, and the wearer is slowly used up from the inside, until what stands there is the daemon’s and nobody else’s. Surviving masks are among the most dangerous things in the islands, and a great many people are looking for them."
+    ]
+   },
+   {
+    "title": "The sixteen Maskfathers",
+    "paragraphs": [
+     "The Orka served sixteen daemons, and their names have come down through the Remembering Tribes and the University’s sealed shelves. Most of the sixteen have slept since the empire fell. Scholars are careful to add that sleeping is not the same as gone."
+    ],
+    "table": {
+     "caption": "The daemons of the Orka",
+     "headers": [
+      "Name",
+      "Called",
+      "Daemon of"
+     ],
+     "rows": [
+      [
+       "Maradanash",
+       "the Conqueror",
+       "War and dominion. The first the Orka bargained with."
+      ],
+      [
+       "Damonus",
+       "the Tempter",
+       "The offer. He makes ruin sound like good sense."
+      ],
+      [
+       "Nordrakarna",
+       "the Devourer of Ages",
+       "Endings. It only has to outwait you."
+      ],
+      [
+       "Vanirionis",
+       "the Daemon of Desire",
+       "Longing, and the bargain struck for it."
+      ],
+      [
+       "Maliok",
+       "the Liar",
+       "The false oath."
+      ],
+      [
+       "Valiok",
+       "the Wrath",
+       "The red rage. Maliok’s twin."
+      ],
+      [
+       "Kaluk",
+       "the Shadow",
+       "What is done unseen."
+      ],
+      [
+       "Mundus",
+       "the Chain",
+       "Tyranny, and the Orka’s countless thralls."
+      ],
+      [
+       "Malagesh",
+       "the Curse-Speaker",
+       "Malice, said aloud."
+      ],
+      [
+       "Zhirak",
+       "the Blood-Drinker",
+       "The red altar."
+      ],
+      [
+       "Kimakash",
+       "the Ever-Hungry",
+       "Hunger."
+      ],
+      [
+       "Jundagesh",
+       "the Rotlord",
+       "Plague."
+      ],
+      [
+       "Filthuris",
+       "the Befouler",
+       "Filth and spoiling."
+      ],
+      [
+       "Gonkor",
+       "the Breaker",
+       "Brute destruction."
+      ],
+      [
+       "Brikko",
+       "the Grinning Knife",
+       "Treachery. The least of them, and the one most likely to be standing behind you."
+      ],
+      [
+       "Zikanitraz",
+       "the Unmaker",
+       "Unmaking. Scholars set it apart from the rest and prefer not to say why."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Signs that one is near",
+    "paragraphs": [],
+    "list": [
+     "Someone has had a run of luck that fits them a little too well.",
+     "A new cult with no scripture, only a face.",
+     "A person who has stopped taking something off: a mask, a ring, a coat.",
+     "Animals will not go into the house.",
+     "A wound that was mortal a week ago, and is not now."
+    ]
+   },
+   {
+    "title": "Who stands against them",
+    "paragraphs": [],
+    "list": [
+     "The Sacred Flame of Jakupur hunts rifts and seals them, and does not explain itself.",
+     "The Concord’s inquisitors burn masks when they find them, and are not always sure they have burned the right thing.",
+     "Remembering orcs of Gorrokar’s faith bury every mask they find, deep, and tell nobody where.",
+     "The Lodge posts daemon contracts at Gold, and reads the client twice."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A mask has come up for sale. Three buyers have each hired someone to make sure the other two do not get it.",
+     "A village has had the best harvest in its history, and one family that will not come out of its house.",
+     "A slaver in the south has not been seen without his iron mask in six years. His own crew want him dead and are afraid to try.",
+     "A scholar has matched a face in an Orka carving to a face seen last month in Goldwind."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "If the offer is exactly what your character wants, that is the warning.",
+     "Do not put it on. Do not let anyone else put it on. Do not carry it in a bag with your food.",
+     "A daemon’s deal can’t be argued like a contract. That is devils. Know which one you are dealing with."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Tieflings carry horns because of an old stain in the blood, and most are thoroughly sick of the question.",
+     "The mask called the Grinning Knife has been sold at auction four times. Every buyer was betrayed within the year.",
+     "House Alastor’s patron is not one of the sixteen, whatever Goldwind whispers."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“You can tell how strong one is by its horns. I’m not saying which way it runs.” (a University archivist)",
+     "“None of them has ever got what it’s really after. If one does, we’ll all know by the next morning.” (an inquisitor of the Concord)",
+     "“Somebody is wearing one in Goldwind. A fine one. You would never look twice.” (a Quiet Auction porter)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoaWNoIHdheSBpdCBydW5zLioqIEEgbGVzc2VyIGRhZW1vbiBpcyBhIGJsb2F0ZWQgaG9ycm9yIG9mIGh1bmRyZWRzIG9mIGhvcm5zLiBBcyBhIGRhZW1vbiBnYWlucyBwb3dlciBpdCBzaGVkcyB0aGVtLCBhbmQgZ3Jvd3MgY2xlYW5lciwgbW9yZSBncmFjZWZ1bCwgYW5kIG1vcmUgaHVtYW4uIFR3byBvciB0aHJlZSBob3JucyBtYXJrIGEgR3JlYXRlciBEYWVtb24uIE9uZSBtYXJrcyBhIFByaW5jZS4gTWFyYWRhbmFzaCBoYXMgb25lLCBEYW1vbnVzIHR3bywgTm9yZHJha2FybmEgdGhyZWUsIGFuZCBWYW5pcmlvbmlzIHR3by4gVGhlIGJlYXV0aWZ1bCBzdHJhbmdlciBpcyB0aGUgb25lIHRvIGZlYXIuIiwgIioqV2hhdCB0aGV5IGFyZSBhZnRlci4qKiBUbyBzaGVkIHRoZSBsYXN0IGhvcm4gaXMgdG8gYmVjb21lIGEgZ29kLiBFdmVyeSBwYWN0LCBldmVyeSBzb3VsLCBhbmQgZXZlcnkgZW1waXJlIHRhbGtlZCBpbnRvIHJ1aW4gaXMgZnVlbCBmb3IgdGhhdCBjbGltYi4gTm9uZSBoYXMgZmluaXNoZWQgaXQgeWV0LiIsICIqKlppa2FuaXRyYXoqKiBoYXMgaG9ybnMgdGhhdCBjYW7igJl0IGJlIGNvdW50ZWQuIEl0IGlzIGtpbiB0byB0aGUgVm9pZCwgYW5kIG1heSBub3QgYmUgY2xpbWJpbmcgdGhlIHNhbWUgbGFkZGVyIGFzIHRoZSBvdGhlcnMgYXQgYWxsLiIsICIqKk5ldGhpcyBpcyBhIGRldmlsLCBub3QgYSBkYWVtb246KiogYSBsb3JkIG9mIGxhdyBhbmQgY29udHJhY3Qgd2hvc2UgdHJ1ZSBuYW1lIGlzIE9zdHJhdmV0aCwgdGhlIFVuZGVyc2lnbmVkLiBIb3VzZSBBbGFzdG9y4oCZcyBwYWN0IGlzIG9mIGEgZGlmZmVyZW50IGtpbmQgZnJvbSB0aGUgT3JrYeKAmXMsIGFuZCBpdCBjYW4gYmUgYXJndWVkLiIsICIqKlRoZSBTY2FybGV0IE1vdGhlcioqIG9mIHRoZSBDcmltc29uIExlZ2lvbiBpcyB0b3VjaGVkIGJ5IFZhbmlyaW9uaXMsIHJlYWNoaW5nIHRocm91Z2ggYSBuZXcgYW5kIHVud2l0dGluZyB2ZXNzZWwgYXMgaXQgb25jZSByZWFjaGVkIHRocm91Z2ggdGhlIE9ya2HigJlzIGxvcmRzLiIsICIqKkZpdmUgbWFza3MgY2FuIGJlIGZvdW5kLioqIE1hcmFkYW5hc2gncyB3YXItbWFzayBsaWVzIGluIHRoZSBkZWVwZXN0IHRocm9uZS1oYWxsIHVuZGVyIEdvbGdhcm1hLiBEYW1vbnVzJ3Mgc21pbGluZyBtYXNrIGlzIHN0aWxsIHdvcm4sIG9uIGEgZHJvd25lZCB0aHJvbmUgaW4gTmFkaMO7ci4gTXVuZHVzJ3MgaXJvbiBtYXNrIGlzIG9uIHRoZSBmYWNlIG9mIGEgc2xhdmVyIHdobyBjYWxscyBoaW1zZWxmIHRoZSBDaGFpbmZhdGhlciBhbmQgY2FuJ3QgdGFrZSBpdCBvZmYuIEJyaWtrbydzIGdyaW5uaW5nIG1hc2sgaGFzIGJlZW4gc29sZCBmb3VyIHRpbWVzIGF0IHRoZSBRdWlldCBBdWN0aW9uLCBhbmQgZXZlcnkgYnV5ZXIgd2FzIGJldHJheWVkIHdpdGhpbiB0aGUgeWVhci4gWmlrYW5pdHJheidzIG1hc2sgaXMgbm93aGVyZSwgYW5kIGlzIHNlZW4gbmVhciBIb2xsb3ctbW91dGhzLiJdfQ=="
+   }
+  ],
+  "related": [
+   "orka",
+   "orcs",
+   "golgarma",
+   "crimson-legion",
+   "house-alastor",
+   "nethis-the-sealed-word",
+   "jakupur",
+   "marked",
+   "below",
+   "faewild"
+  ],
+  "aliases": [
+   "daemon",
+   "daemons",
+   "daemon-mask",
+   "daemon-masks",
+   "the Maskfathers",
+   "mask-curse",
+   "daemon-pact",
+   "daemon-pacts"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
