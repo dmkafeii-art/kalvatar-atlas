@@ -251,7 +251,9 @@ const entryIllustrations = {
  'snowvah': ['scenes', 'A woman sets down a bowl of steaming stew overlooking Snowvah’s icy plain.', 'Una mujer sirve un guiso humeante en una sala con vista a la llanura helada de Snowvah.'],
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
-const landmarkScenes = {
+const galleryScenes = {
+ 'aoifel-the-green-laugh': ['aoifel-wildflower-bed', 'A bed of wildflowers', 'Una cama de flores silvestres', 'Aoifel stretches as she wakes among the wildflowers of the Laughing Garden.', 'Aoifel se estira al despertar entre las flores silvestres del Jardín Risueño.'],
+ 'morthryn-the-pale-empress-of-air-and-ending': ['morthryn-frozen-balcony', 'The frozen balcony', 'El balcón helado', 'Morthryn holds a letter on the frost-covered balcony of the Pale Hall, barefoot and barehanded.', 'Morthryn sostiene una carta en el balcón escarchado del Salón Pálido, descalza y con las manos desnudas.'],
  'hunters-citadel': ['hunters-citadel-goldwind-falls', 'Above the Goldwind Falls', 'Sobre las cascadas de Goldwind', 'The Hunters’ Citadel rises above the cliffs and waterfalls of Goldwind.', 'La Ciudadela de los Cazadores se alza sobre los acantilados y las cascadas de Goldwind.'],
  'black-harbor': ['black-harbor-fogbound-wharf', 'The fogbound wharf', 'El muelle entre la niebla', 'Lanterns light the wooden wharf beneath the sea caves of Black Harbor.', 'Los faroles iluminan el muelle de madera bajo las cuevas marinas de Black Harbor.'],
  'stormreach': ['stormreach-shipyard-storm-break', 'The shipyard after the storm', 'El astillero tras la tormenta', 'Sunlight breaks through the clouds over the shipyard of Stormreach.', 'La luz atraviesa las nubes sobre el astillero de Stormreach.'],
@@ -261,9 +263,9 @@ const landmarkScenes = {
 
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
-  const landmark = landmarkScenes[entry.id];
-  if (landmark) {
-   const [filename, label, labelEs, caption, captionEs] = landmark;
+  const scene = galleryScenes[entry.id];
+  if (scene) {
+   const [filename, label, labelEs, caption, captionEs] = scene;
    const base = `assets/scenes/${filename}`;
    entry.gallery = [...(entry.gallery || []), {
     thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
