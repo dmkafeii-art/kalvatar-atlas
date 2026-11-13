@@ -21037,7 +21037,8 @@
    {
     "title": "Spring and Winter",
     "paragraphs": [
-     "The small folk say that Aoifel and Morthryn were lovers once, for a long time, and that they have met a few times since. Neither Court will discuss it.",
+     "Once a year, at the Thaw, Winter hands the Turn to Spring, bare hand to bare hand, and the season changes in the world. Their two Courts detest each other, and each accuses the other of stretching its season.",
+     "The small folk say the Queens themselves are another matter, and have been since one handover long ago. Neither Court will discuss it.",
      "The islands say the weather gives it away. When winter runs long, the Queens are saying goodbye. When spring comes early, Spring went calling."
     ]
    },
@@ -24131,7 +24132,8 @@
    {
     "title": "Spring and Winter",
     "paragraphs": [
-     "The small folk say that Aoifel and Morthryn were lovers once, for a long time, and that they have met a few times since. Neither Court will discuss it.",
+     "Once a year, at the Thaw, Winter hands the Turn to Spring, bare hand to bare hand, and the season changes in the world. Their two Courts detest each other, and each accuses the other of stretching its season.",
+     "The small folk say the Queens themselves are another matter, and have been since one handover long ago. Neither Court will discuss it.",
      "The islands say the weather gives it away. When winter runs long, the Queens are saying goodbye. When spring comes early, Spring went calling."
     ]
    },
@@ -45408,6 +45410,12 @@
     ]
    },
    {
+    "title": "The quarrel with Spring",
+    "paragraphs": [
+     "Winter’s household detests the Spring Court. Every year, it says, Spring comes for the Turn early, with a joke and a flower, and steals a week of cold. The Hoarfrost Clerks have the dates filed back to the Orka War. The Empress has never once let them act on it."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Isolwen the Unthawed spoke last winter. One word. Nobody in the Pale Hall will repeat it.” (a Frosthold trader)"
@@ -45571,6 +45579,12 @@
     ]
    },
    {
+    "title": "The quarrel with Winter",
+    "paragraphs": [
+     "Spring’s household detests the Winter Court. Every year, it says, Winter holds on to the Turn a little longer than its time, and steals a week of flowers. Dame Bramble keeps the score. The Queen has never once let anyone settle it, and changes the subject when asked."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“There’s a game in the Laughing Garden that started before the Orka War. Two of the players are mortal, and they think it’s still the same afternoon.” (a Florian elder)"
@@ -45622,6 +45636,10 @@
    [
     "Heirs",
     "none, ever"
+   ],
+   [
+    "The seasons change by",
+    "the Turn, passed hand to hand"
    ],
    [
     "Borders",
@@ -45679,10 +45697,25 @@
       [
        "The Thaw",
        "Winter yields to Spring",
-       "The quietest border in the Faewild. There has not been a raid across it in living fae memory, and neither Court will say why."
+       "The bitterest border, and the only one with no blood on it. Every year one Court swears the other held the Turn too long, or took it too soon. Neither Queen has ever allowed a raid across it, and neither will say why."
       ]
      ]
     }
+   },
+   {
+    "title": "The Turn",
+    "paragraphs": [
+     "The seasons of the waking world do not change by themselves. They change when a sphere the size of an apple passes from one sovereign's hand to the next. The fae call it the Turn. Islanders who have heard of it call it the Year-Pearl."
+    ],
+    "list": [
+     "The Turn is a sphere about the size of an apple, and the season is inside it. In Spring's hands it holds blossom on the wind. In Summer's it is too bright to look at. In Autumn's the leaves are always falling, and in Winter's it snows.",
+     "It passes from sovereign to sovereign, hand to bare hand. It can't be sent, carried by an envoy, or left on a table. The two have to meet.",
+     "The season in the waking world does not change until the Turn changes hands. A late handover is a long season in the islands, and an early one is a short season.",
+     "While two sovereigns both have a hand on it, both seasons are in the world at once. That is snow on blossom, or a hot wind full of leaves.",
+     "Each handover has its words. The one giving says: \"I have kept it.\" The one taking says: \"I will keep it.\" Nothing else said during a handover is binding, which makes it the one moment in the year when two sovereigns can speak freely.",
+     "No sovereign can keep it past its time. A Turn held too long sours the season it holds: summer into drought, winter into famine. It has been tried, and the Courts do not discuss it.",
+     "The small folk say the four did not always hand it to each other. Somebody used to carry it between them."
+    ]
    },
    {
     "title": "Who stands where",
@@ -45704,11 +45737,11 @@
       ],
       [
        "Winter",
-       "Despises Summer's noise, honors its contract with Autumn to the letter, and is strangely patient with Spring."
+       "Despises Summer's noise and honors its contract with Autumn to the letter. Detests Spring, which it accuses of rushing the Thaw every year to steal a week of cold."
       ],
       [
        "Spring",
-       "Teases Summer, robs Autumn's orchards, and never, ever raids Winter."
+       "Teases Summer and robs Autumn's orchards. Detests Winter, which it accuses of dragging out the Thaw every year to steal a week of flowers."
       ]
      ]
     }
@@ -45717,6 +45750,7 @@
     "title": "What they quarrel over",
     "paragraphs": [],
     "list": [
+     "The length of the seasons. Whoever holds the Turn holds the season, and every Court suspects the next of taking it early and the last of giving it late. Winter and Spring are the worst. Each swears the other schemes to stretch its own season, and their households have not shared a civil word in centuries.",
      "The Turnings. The days when one season becomes the next belong to no Court. Each handover has to be agreed again, every year, by two sovereigns who do not like each other. Most of the wars of the Faewild began on one of those days.",
      "The Roam. Each Court claims the season-country that wears its color. The Claims Office in Halfwake has never settled one of those claims. The clerks say there is an older title on the land, and that they can't find who holds it.",
      "The thin places. A thin place in the islands opens on somebody's country. The Courts trade them, raid them, and now and then lose one at cards.",
@@ -45769,8 +45803,9 @@
    {
     "title": "Spring and Winter",
     "paragraphs": [
-     "The small folk have one more story, and they tell it more gently. They say that Spring and Winter were lovers once, after him, and for a long time, and that the two Queens have met a few times since.",
-     "The Courts deny it. The border between them is the quietest in the Faewild, and the islands have their own evidence."
+     "The Winter Court and the Spring Court detest each other. Each swears the other schemes at the Thaw to stretch its own season, and each has a list of late thaws and early springs to prove it.",
+     "The small folk tell it differently, and more gently. They say the two Queens do not detest each other at all. They say it began at a handover of the Turn, long ago: Spring said something, Winter did something nobody had ever seen her do, and Spring laughed for a week. They say the late thaws and the early springs are not schemes.",
+     "Both Courts deny it, for once in the same words. The islands have their own evidence."
     ],
     "table": {
      "caption": "What the islands say about the weather",
@@ -45789,7 +45824,7 @@
       ],
       [
        "Snow on blossom",
-       "\"They're both in.\" It is the luckiest weather there is for a wedding, and the worst for an orchard."
+       "\"They've both got a hand on it.\" It is the luckiest weather there is for a wedding, and the worst for an orchard."
       ],
       [
        "A midwinter thaw with no wind",
@@ -45802,7 +45837,7 @@
     "title": "How it reaches the islands",
     "paragraphs": [],
     "list": [
-     "A season that comes early or late is usually a Turning that went badly, or very well.",
+     "A season that comes early or late is a handover of the Turn that went badly, or very well.",
      "When Autumn's stewards and reapers quarrel, prices move on both sides of the Veil.",
      "A Summer herald at the door means a challenge. A Winter clerk at the door means a contract has matured.",
      "All four Courts keep a house in Halfwake, and that is where a mortal can speak to one without crossing the Veil.",
@@ -45816,7 +45851,8 @@
      "A Turning has not been agreed. It is three days to the end of the season, and neither Court will send an envoy the other will receive. A mortal would do.",
      "A pixie is selling the name of the person who made the Winter Queen blush. Two Courts are bidding, and one of them is Winter.",
      "Autumn wants an old debt witnessed by someone with no stake in it. The debtor named in the ledger has no name.",
-     "Winter has run three weeks long. The Frontier is out of fodder, and somebody has to go and say, politely, that it is time.",
+     "Winter has run three weeks long. The Frontier is out of fodder, and somebody has to go and say, politely, that it is time. Spring’s household wants it said rudely.",
+     "The Turn has gone missing between two hands. Both seasons are in the world, and each Court is certain the other has it.",
      "Someone has found the deed to a stretch of the Roam that is older than any Court's claim, and is about to file it."
     ]
    },
@@ -45867,6 +45903,7 @@
   ],
   "aliases": [
    "politics of the Faewild",
+   "Year-Pearl",
    "the Turnings",
    "the Bright March",
    "the Settling",

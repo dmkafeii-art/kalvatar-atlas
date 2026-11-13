@@ -2567,6 +2567,35 @@
   ]
  },
  {
+  "id": "rumor-marshal-waiting",
+  "text": "The Marshal of Halfwake is waiting for someone. There is a second chair on her porch, and nobody has ever been asked to sit in it.",
+  "heardAt": "heard from a kalashtar of Greyhaven",
+  "region": "All regions",
+  "entries": [
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-free-seat",
+  "text": "There is one customer the Long Table never charges. He says he has nothing to tell, and the house believes him.",
+  "heardAt": "heard from a road-fae at the Long Table",
+  "region": "All regions",
+  "entries": [
+   "halfwake",
+   "unbound"
+  ]
+ },
+ {
+  "id": "rumor-dropped-year",
+  "text": "The Pale Empress nearly dropped the year once. That is all any Hoarfrost Clerk will say, and then they resign.",
+  "heardAt": "heard from a pixie, for two buttons",
+  "region": "All regions",
+  "entries": [
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "faewild-politics"
+  ]
+ },
+ {
   "id": "rumor-queens-goodbye",
   "text": "When winter runs long, the Queens are saying goodbye. When spring comes early, Spring went calling.",
   "heardAt": "heard on Frontier farms",
