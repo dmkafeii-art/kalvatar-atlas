@@ -135,3 +135,8 @@
 .adv-calls li{padding:4px 0;font-size:14px;line-height:1.5;color:var(--muted)}
 .adv-calls li::before{display:none}
 .adv-calls b{color:var(--ink);font-weight:600}
+
+/* A spoken text, line by line (the Hunters' Code) */
+.article-box-verse p{white-space:pre-line;font:italic 20px/1.7 var(--serif);margin:0 0 22px;text-align:center}
+.article-box-verse p:last-of-type{font-style:normal;font-weight:600;letter-spacing:.2px}
+@media(max-width:720px){.article-box-verse p{font-size:18px;line-height:1.65}}

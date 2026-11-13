@@ -2568,6 +2568,24 @@
   ]
  },
  {
+  "id": "rumor-articles-first-copy",
+  "text": "The first copy of the Articles, at the Crucible, has an eighth verse of the Code under a strip of pasted paper. Nobody has ever been let near it with a wet thumb.",
+  "heardAt": "heard at the Crucible, in Ironfort",
+  "region": "Northern Frontier",
+  "entries": [
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-struck-twice",
+  "text": "There is one Hunter who was struck, read back in, and struck again. The Ledger shows a name with two lines through it, and the Goldwind Board will not say whose.",
+  "heardAt": "heard in the Goldwind Lodge",
+  "region": "Central Heartland",
+  "entries": [
+   "hunters"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",

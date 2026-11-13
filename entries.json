@@ -4977,14 +4977,127 @@
      "The Ranking: a public popularity ranking of Hunters is followed like a sport.",
      "The only known Platinum is Lactinius Windcaller, who sits for the Hunters on the Council and is their face at every public act.",
      "The Armada is their friendly rival: see the Breakwater and the Charter Match.",
-     "The Code, spoken at the Vow and at every Hunter's burial:",
-     "We stand between the dark and the hearth, and we do not ask whose hearth it is. We fight for those who cannot, and we ask no thanks for it. We keep our word: to the client, to the crew, and to the dead. We carry one another, whatever it costs, as far as the road goes. From iron to platinum, we fight as one."
+     "The Code is spoken at the Vow and at every Hunter’s burial.",
+     "It is given in full below, with the rest of the Ironfort Articles."
     ]
    },
    {
     "title": "Companies",
     "paragraphs": [
      "Hunters who work together sign one line in a Lodge’s Ledger, under a name, and become a company. The great companies have a ship and are known by its name. Every company wears its own colors."
+    ]
+   },
+   {
+    "title": "The Ironfort Articles",
+    "paragraphs": [
+     "The Hunters have a founding document, written at Ironfort in the first year of the Charter. Every Lodge keeps a copy on the wall, and every candidate copies it out by hand before the Trials. It opens like this:",
+     "“We were guards before we were Hunters. We stood on the decks of the Exodus and kept the dark off people who had nothing left to pay us with. We are still doing it. Everything below is what we learned.”",
+     "After that come the four tenets, the Code, three contracts no Hunter signs, seven duties, and what happens to a Hunter who breaks them."
+    ],
+    "list": [
+     "Protect the vulnerable, whatever their rank or wealth.",
+     "Pursue excellence, and keep honing the craft.",
+     "Uphold honor: contracts bind, oaths are sacred, and trust between Hunters is paramount.",
+     "Face the unknown, where others will not go."
+    ]
+   },
+   {
+    "title": "The Code",
+    "paragraphs": [
+     "We were guards before we had a name.\nWe stood on the decks of the Exodus\nwith the dark behind us and the sea ahead,\nand we did not let it through.",
+     "So we do not turn back. We do not run.\nWe stand between the dark and the hearth,\nand we do not ask whose hearth it is.",
+     "We fight for those who cannot,\nand we ask no thanks for it.\nThe work is the thanks.",
+     "We keep our word:\nto the client, who paid for it,\nto the crew, who bled for it,\nand to the dead, who cannot hold us to it.",
+     "We take no more than the work is worth,\nand we tell it true in the Ledger,\nthe shame beside the glory.",
+     "We carry one another,\nwhatever it costs, as far as the road goes.\nWhere the road ends, we carry the name.",
+     "Iron in the hand. Bronze on the coat.\nSilver, gold, and the ten we cannot see.\nWe are Hunters.\nFrom iron to platinum, we fight as one."
+    ]
+   },
+   {
+    "title": "How it is spoken",
+    "paragraphs": [],
+    "list": [
+     "At the Vow, the candidate speaks the first six verses alone and the hall answers with the seventh.",
+     "At a burial, the hall speaks all of it. After Where the road ends, we carry the name, everyone present says the name of the fallen, once, together.",
+     "Before a job, a company says only the short form, and usually not all of them say it aloud."
+    ]
+   },
+   {
+    "title": "The Three Unsigned",
+    "paragraphs": [
+     "Three kinds of contract no Hunter signs, whatever the fee."
+    ],
+    "table": {
+     "caption": "Contracts no Hunter signs",
+     "headers": [
+      "The rule",
+      "When it was written"
+     ],
+     "rows": [
+      [
+       "No contract against another Hunter.",
+       "Written at Ironfort in the first year."
+      ],
+      [
+       "No contract that takes a side in a war between islanders.",
+       "Added in 92 EC, the year after the Breakwater, when Hunters and the Armada fought each other in earnest. It is the only amendment the Articles have ever had."
+      ],
+      [
+       "No contract whose client will not say what the quarry is.",
+       "Written at Ironfort in the first year."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Seven Duties",
+    "paragraphs": [],
+    "table": {
+     "caption": "What a Hunter owes",
+     "headers": [
+      "Owed",
+      "The duty"
+     ],
+     "rows": [
+      [
+       "To the client",
+       "Finish the work, or return the fee."
+      ],
+      [
+       "To the crew",
+       "Nobody is left behind alive, and nobody's share is touched."
+      ],
+      [
+       "To the quarry",
+       "Kill clean, and know what it was before you kill it."
+      ],
+      [
+       "To the bystander",
+       "The contract never matters more than the people standing near it."
+      ],
+      [
+       "To the Ledger",
+       "Tell it true, including the parts that shame you."
+      ],
+      [
+       "To the Sigil",
+       "It is lent. It goes back to the Lodge when you fall."
+      ],
+      [
+       "To the dead",
+       "Carry them home, or carry their name."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "What breaks a Hunter",
+    "paragraphs": [],
+    "list": [
+     "A Hunter who signs one of the Three Unsigned is struck. The name stays in the Ledger with a line through it, and the Sigil is taken.",
+     "A Hunter who fails a Duty answers to a Lodge moot of Silvers.",
+     "A struck Hunter can be read back in once, by a Board that is unanimous, and never twice.",
+     "Before a job, a company says the short form: “Dark there, hearth here, us between.”"
     ]
    },
    {
@@ -5017,6 +5130,10 @@
    [
     "Founding house",
     "The Crucible"
+   ],
+   [
+    "Founding document",
+    "the Ironfort Articles, 1 EC"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -5024,7 +5141,13 @@
    "quote": "We do not turn back. We do not run. From iron to platinum, we fight as one.",
    "by": "From the Hunters' Code"
   },
-  "aliases": [],
+  "aliases": [
+   "Ironfort Articles",
+   "the Ironfort Articles",
+   "Hunter’s Code",
+   "the Three Unsigned",
+   "the Seven Duties"
+  ],
   "related": [
    "ironfort",
    "council",
@@ -16217,6 +16340,12 @@
      "Turn any Hunter's Sigil over and that year's die shows.",
      "Every Bronze Sigil therefore carries the iron of the Hunter who vouched for it.",
      "The iron is spent in the Sigil, so it cannot be sold, pawned, or presented again."
+    ]
+   },
+   {
+    "title": "Copying the Articles",
+    "paragraphs": [
+     "Before the Trials every candidate copies the Ironfort Articles out by hand, and hands the copy in. At the Vow, the candidate speaks six verses of the Code alone, and the hall answers with the seventh."
     ]
    }
   ],
