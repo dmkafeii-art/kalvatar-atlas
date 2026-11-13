@@ -2462,5 +2462,59 @@
   "entries": [
    "tenants"
   ]
+ },
+ {
+  "id": "rumor-blind-light",
+  "text": "The Blind Light is not dark. Three crews went to relight it, and all three say it was burning when they landed and out by morning.",
+  "heardAt": "heard in Greyhaven",
+  "region": "Northern Frontier",
+  "entries": [
+   "lighthouses"
+  ]
+ },
+ {
+  "id": "rumor-lost-count",
+  "text": "There is a count in the old pilot books that no tower shows any more. A skipper saw it last winter, well out to sea, where there is no rock.",
+  "heardAt": "heard among the Brine Brotherhood",
+  "region": "The Sea",
+  "entries": [
+   "lighthouses"
+  ]
+ },
+ {
+  "id": "rumor-unsold-lens",
+  "text": "The Lanternwrights keep one lens they will not sell. Ask what it is for and the shop closes early.",
+  "heardAt": "heard in Goldwind",
+  "region": "Central Heartland",
+  "entries": [
+   "lighthouses"
+  ]
+ },
+ {
+  "id": "rumor-guild-changeling",
+  "text": "There is a changeling on a guild board in Goldwind. Eleven years, and it votes sensibly, so nobody has looked very hard.",
+  "heardAt": "heard at the Reckoners' Hall",
+  "region": "Central Heartland",
+  "entries": [
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-winter-weather",
+  "text": "Winter has friends on the ice, and it pays them in weather.",
+  "heardAt": "heard among Frosthold whalers",
+  "region": "Icy Expanse",
+  "entries": [
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-autumn-debts",
+  "text": "Autumn is buying up mortal debts: ordinary ones, from ordinary lenders. Nobody knows what it means to owe a Court by accident.",
+  "heardAt": "heard in Sunhold",
+  "region": "Central Heartland",
+  "entries": [
+   "fae"
+  ]
  }
 ]

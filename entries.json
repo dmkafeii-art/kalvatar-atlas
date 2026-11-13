@@ -2791,7 +2791,8 @@
   "related": [
    "companions",
    "below",
-   "hospitality"
+   "hospitality",
+   "lighthouses"
   ],
   "illustration": {
    "src": "assets/creatures/lantern-mouse-v1-960.webp",
@@ -4264,6 +4265,12 @@
      "Spring, the First Bloom, under Aoifel, the Green Laugh.",
      "The Unbound, who belongs to no court, and whom the four courts fear."
     ]
+   },
+   {
+    "title": "The people there",
+    "paragraphs": [
+     "The folk of the Faewild are the fae: the lords of the four Courts, the small folk, the changelings, and the ones who answer to nobody. They have a page of their own."
+    ]
    }
   ],
   "facts": [
@@ -4289,7 +4296,8 @@
   "related": [
    "king-tide",
    "calendar",
-   "krysta"
+   "krysta",
+   "fae"
   ]
  },
  {
@@ -7084,7 +7092,8 @@
   "related": [
    "faewild",
    "jakupur",
-   "small-ways"
+   "small-ways",
+   "fae"
   ],
   "illustration": {
    "src": "assets/creatures/veil-butterfly-v1-960.webp",
@@ -9706,7 +9715,8 @@
    "faewild",
    "southern-wilds",
    "icy-expanse",
-   "below"
+   "below",
+   "fae"
   ],
   "illustration": {
    "src": "assets/peoples/elves-painterly-v1-960.webp",
@@ -13571,7 +13581,8 @@
   "related": [
    "undertow",
    "answering-light",
-   "icy-expanse"
+   "icy-expanse",
+   "lighthouses"
   ]
  },
  {
@@ -13841,7 +13852,8 @@
    "house-stormweaver",
    "widows-teeth",
    "black-harbor",
-   "merrin-games"
+   "merrin-games",
+   "lighthouses"
   ]
  },
  {
@@ -19510,7 +19522,8 @@
    "greyhaven",
    "northern-frontier",
    "sigil",
-   "noble-houses"
+   "noble-houses",
+   "lighthouses"
   ]
  },
  {
@@ -21017,7 +21030,8 @@
    "liriath",
    "florians",
    "green-fire",
-   "house-caelvaron"
+   "house-caelvaron",
+   "fae"
   ]
  },
  {
@@ -24070,7 +24084,8 @@
    "volvieg",
    "house-caelvaron",
    "knights-of-the-northern-lights",
-   "king-tide"
+   "king-tide",
+   "fae"
   ]
  },
  {
@@ -24882,7 +24897,8 @@
    "house-caelvaron",
    "elves",
    "vael-mournthorn-the-crimson-reaper-king",
-   "varneth-the-threshold-warden"
+   "varneth-the-threshold-warden",
+   "fae"
   ]
  },
  {
@@ -25778,7 +25794,8 @@
    "pearl-groove-and-the-pelagar-isle",
    "sea-customs",
    "reckoners-hall",
-   "quiet-door"
+   "quiet-door",
+   "lighthouses"
   ]
  },
  {
@@ -25932,7 +25949,8 @@
    "varneth-the-threshold-warden",
    "kalashtar",
    "pyraxis-the-unbowed-flame",
-   "morthryn-the-pale-empress-of-air-and-ending"
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "fae"
   ]
  },
  {
@@ -26086,7 +26104,8 @@
    "house-caelvaron",
    "nethis-the-sealed-word",
    "calendar",
-   "varneth-the-threshold-warden"
+   "varneth-the-threshold-warden",
+   "fae"
   ]
  },
  {
@@ -26167,7 +26186,8 @@
    "king-tide",
    "unbound",
    "concord",
-   "door-coins"
+   "door-coins",
+   "fae"
   ]
  },
  {
@@ -27781,7 +27801,8 @@
    "crystalhaven",
    "lantern-mouse",
    "hundred-and-fifty-ways",
-   "undertow"
+   "undertow",
+   "lighthouses"
   ]
  },
  {
@@ -41013,7 +41034,8 @@
    "arcane-registry",
    "concord",
    "greyhaven",
-   "robin-faust"
+   "robin-faust",
+   "fae"
   ]
  },
  {
@@ -43603,6 +43625,539 @@
    "weapon spirits",
    "sentient items",
    "awakened Sigil"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "lighthouses",
+  "title": "The Lights",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "Lighthouses, harbor-lights, and the Long Watch",
+  "summary": "Every charted harbor keeps a light, and every light has a keeper who has sworn that it will not go out. Sailors call the whole chain of them the Long Watch.",
+  "epigraph": {
+   "quote": "Forty years I kept it lit. Nobody ever thanked me, which is how I know it worked.",
+   "by": "A keeper of the Frontier coast"
+  },
+  "facts": [
+   [
+    "Made by",
+    "the Lanternwrights’ Guild, Goldwind"
+   ],
+   [
+    "A harbor-light costs",
+    "200 Anchors"
+   ],
+   [
+    "They burn",
+    "Frosthold whale-oil"
+   ],
+   [
+    "Keepers’ god",
+    "Tholmar the Star-Wake"
+   ],
+   [
+    "Blessed",
+    "at Storm-Watch, in Memnara"
+   ],
+   [
+    "The oath",
+    "the flame does not go out"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "A light in every harbor",
+    "paragraphs": [
+     "The islands live by the sea, and the sea is dark half the time. So every charted harbor keeps a light. A harbor-light stands on the mole and marks the way in. A lighthouse stands on a cape or a rock and marks what to stay away from.",
+     "The lamps and lenses come from the Lanternwrights’ Guild in Goldwind, which is small, licensed for Krysta, and rich. The port builds the tower, or the house that holds the port does, and a share of every harbor fee goes to the oil. The oil is Frosthold whale-oil, in every light in the islands.",
+     "Sailors call the whole chain of them the Long Watch. On a clear night, on a busy coast, a ship is never out of sight of one."
+    ]
+   },
+   {
+    "title": "Keepers",
+    "paragraphs": [
+     "A keeper lives at the light, usually with a family, and the post is handed down. Some lights have been in one family longer than the port has had a name.",
+     "A keeper swears one oath, at the lamp, to Tholmar the Star-Wake: the flame does not go out. A keeper who lets it die has sinned against him, and the coast does not forget it either."
+    ],
+    "list": [
+     "The log. Every night goes in it: the weather, the sails seen, the oil burned. A keeper’s log is taken as evidence in any harbor court.",
+     "Carried flame. A light that has gone dark is relit only with flame carried from another light, however far that is.",
+     "The loft. Lantern mice live under every lamp. Keepers watch the tails, and a good keeper can tell you what a dimmed tail means.",
+     "The Lamp patch. A keeper gives it to anyone who kept the light through a night the keeper could not. It is a small flame on dark blue, and it buys a bed at any light in the islands."
+    ]
+   },
+   {
+    "title": "Reading a light",
+    "paragraphs": [
+     "Each light shows its own pattern, called its count, and the pilot books list them. A captain who can count knows which coast she is on without seeing it.",
+     "On the Northern Frontier the towers also talk to each other. The Storm-Watch lamps flash from harbor to harbor, and every child on that coast can read them."
+    ],
+    "table": {
+     "caption": "The Storm-Watch lamps",
+     "headers": [
+      "Signal",
+      "What it means"
+     ],
+     "rows": [
+      [
+       "Murk coming",
+       "The fog is an hour out. Boats come in."
+      ],
+      [
+       "Ship lost",
+       "A vessel is overdue or on the rocks. Every boat that can, goes."
+      ],
+      [
+       "Close the harbor",
+       "Nothing enters or leaves."
+      ],
+      [
+       "All clear",
+       "The harbor is open."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The year of a light",
+    "paragraphs": [],
+    "list": [
+     "The Full Turn. Every thirty-six days, when Valtaire comes full, the lights are trimmed and lit early, and the faithful walk the quay.",
+     "Storm-Watch. In Memnara, before the Murk, the harbor-lights are blessed, and a bell is rung in every port for each name the sea took that year.",
+     "The Answering Light. When a ship’s lantern passes at night, the houses of a kind coast dip a lamp once in reply. Keepers answer first."
+    ]
+   },
+   {
+    "title": "Notable lights",
+    "paragraphs": [],
+    "table": {
+     "caption": "Lights a sailor knows by name",
+     "headers": [
+      "Light",
+      "Where",
+      "Known for"
+     ],
+     "rows": [
+      [
+       "The Greyhaven lights",
+       "Greyhaven, Northern Frontier",
+       "Kept by the mages of House Stormweaver through the Murk, and paid for by the Brine Brotherhood's fleets. The bells under them never stop while the fog is in."
+      ],
+      [
+       "The Kaernstone",
+       "The gulf below Goldwind",
+       "A bare rock with a lighthouse and a signal tower. It sees every sail that enters the gulf and tells the heights before the ship has reached the harbor. House vol Kaern holds it."
+      ],
+      [
+       "The lightning-towers",
+       "The Galven storm-coasts and the outer islands",
+       "Galven towers crowned with copper rods, sacred to Stormcaller Vael. On a storm night they burn no oil at all."
+      ],
+      [
+       "The Saltreach light",
+       "Saltreach, Northern Frontier",
+       "A low tower on a flat coast of salt pans. Its keeper trusts her lantern mouse over her own eyes."
+      ],
+      [
+       "The First Barrel",
+       "Frosthold, Icy Expanse",
+       "Every light in the islands burns Frosthold oil. Frosthold burns the first barrel of each season in its own lamp, and no ship loads until it is lit."
+      ],
+      [
+       "The Blind Light",
+       "An outer rock off the Frontier coast",
+       "Dark for thirty years. Nobody has carried flame out to it and stayed."
+      ],
+      [
+       "Crystalhaven",
+       "The blue-ice coast, Icy Expanse",
+       "The one port on the charts with no harbor-light of its own. Captains are told to trust nothing that shines on that coast."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "False lights",
+    "paragraphs": [
+     "A light is a promise, and that is why it can be used to kill. Wreckers hang a lantern where no harbor is, and strip what comes ashore. Hanging a false light is a hanging crime in every Council port.",
+     "The False Lights of Crystalhaven do it anyway, on the blue-ice coast. Southern captains say “not every kind coast is kind” as they pass."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A light has gone dark. The keeper’s log ends in the middle of a sentence, and the lamp is still warm.",
+     "Someone must carry flame to a dead light before the Murk comes in. It is four days by sea, and the flame can’t go out on the way.",
+     "A light is showing the wrong count. The keeper swears she hasn’t touched it, and two ships have already trusted it.",
+     "The Lanternwrights want a lens brought back from a tower nobody has climbed in thirty years. They will not say why this lens.",
+     "An old keeper wants one night off after forty years. He will pay with the Lamp patch and whatever the log says about a ship the party is looking for."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "A keeper sees every sail that passes and writes it down. If you need to know who came by, ask at the light before you ask at the harbor office.",
+     "Bring oil, news, or bread to a light, and you will be fed. Keepers are short of all three.",
+     "On a strange coast, count the light before you steer for it. A light with no count in the pilot book is not a harbor."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Frosthold burns the first barrel of each season’s oil in its own lamp. No ship loads until it is lit.",
+     "The Galven lightning-towers burn no oil on a storm night. The copper rods do the work.",
+     "House Stormweaver wears a lighthouse on its arms, under a forked bolt.",
+     "A harbor-light costs 200 Anchors, which is more than most keepers see in a lifetime."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Blind Light isn’t dark. Three crews went to relight it, and all three say it was burning when they landed and out by morning.” (a Greyhaven pilot)",
+     "“There’s a count in the old pilot books that no tower shows any more. I saw it last winter, well out to sea, where there’s no rock.” (a Brine Brotherhood skipper)",
+     "“The Lanternwrights keep one lens they won’t sell. Ask what it’s for and the shop closes early.” (a Goldwind lamp-seller)"
+    ]
+   }
+  ],
+  "related": [
+   "tholmar-the-star-wake",
+   "answering-light",
+   "house-stormweaver",
+   "house-vol-kaern",
+   "greyhaven",
+   "frosthold",
+   "crystalhaven",
+   "saltreach",
+   "lantern-mouse",
+   "crafts-and-guilds",
+   "patches",
+   "galven",
+   "stormcaller-vael",
+   "two-moons-and-the-tides",
+   "festivals-of-the-frontier"
+  ],
+  "aliases": [
+   "lighthouse",
+   "lighthouses",
+   "harbor-light",
+   "harbor-lights",
+   "the Long Watch",
+   "Long Watch",
+   "Blind Light",
+   "the Blind Light",
+   "Lamp patch",
+   "carried flame",
+   "lightning-towers"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "fae",
+  "title": "The Fae",
+  "category": "people",
+  "region": "Beyond the Veil",
+  "subtitle": "The folk of the four Courts, and the ones with no Court at all",
+  "summary": "The fae are the people of the Faewild. They do not die of age, they keep their word exactly, and they expect the same of you. Islanders trade with them, carry their blood, and teach every child four rules before letting it out of the yard.",
+  "epigraph": {
+   "quote": "A fae will keep its word exactly. That is the warning, not the comfort.",
+   "by": "A Warden of the Veil"
+  },
+  "facts": [
+   [
+    "Home",
+    "the Faewild, beyond the Veil"
+   ],
+   [
+    "Lifespan",
+    "they do not die of age"
+   ],
+   [
+    "Tongue",
+    "Lisseth, the leaf-speech"
+   ],
+   [
+    "Courts",
+    "Summer, Autumn, Winter, Spring"
+   ],
+   [
+    "They cross at",
+    "thin places, the King Tide, the Still Days"
+   ],
+   [
+    "Held back by",
+    "iron, and a ward sworn to Varneth"
+   ],
+   [
+    "They want",
+    "worked iron, art, stories, secrets"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Who they are",
+    "paragraphs": [
+     "The fae are the people of the Faewild, on the far side of the Veil. They are the elder kin of the elves, who walked out of that country long ago and still remember the road. A fae does not die of age. Most of the ones an islander meets were already old when the Charter was signed.",
+     "The old tales say they were gentle once. Then the Orka War reached them, and they learned war, and being what they are, they learned it well and never forgot it. A fae today is courteous, patient, and dangerous, usually in that order.",
+     "They keep their word exactly, and they hold you to yours the same way. Nearly everything an islander knows about dealing with them comes down to that."
+    ]
+   },
+   {
+    "title": "The four Courts",
+    "paragraphs": [
+     "Most fae belong to a Court, and each Court is a season under its own Archfey. A fae’s Court tells you what it honors and what it will take from you.",
+     "The Unbound belongs to none of them, and the four Courts are afraid of him."
+    ],
+    "table": {
+     "caption": "The Courts of the Faewild",
+     "headers": [
+      "Season",
+      "Court",
+      "Sovereign",
+      "Temper"
+     ],
+     "rows": [
+      [
+       "Summer",
+       "The Burning Crown",
+       "Pyraxis, the Unbowed Flame",
+       "Golden knights. They honor courage, despise weakness, and will duel you over an insult and feast when you lose."
+      ],
+      [
+       "Autumn",
+       "The Red Harvest",
+       "Vael Mournthorn, the Crimson Reaper-King",
+       "The Court of bargains, debts, and prices. A mortal who goes there to make a deal almost never leaves the winner."
+      ],
+      [
+       "Winter",
+       "The Long Silence",
+       "Morthryn, the Pale Empress of Air and Ending",
+       "Cold, patient, and cruel, with an iron code. The Court least friendly to the islands, and the only one that cares what Krysta is worth."
+      ],
+      [
+       "Spring",
+       "The First Bloom",
+       "Aoifel, the Green Laugh",
+       "Games, youth, and new life. The gentlest of the four, which in the Faewild is not very gentle."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The old way and the new",
+    "paragraphs": [
+     "Seelie and Unseelie are not Courts. They are two answers to the same war, and both are found in every Court, sometimes at the same table."
+    ],
+    "list": [
+     "The Seelie keep the old ways: ritual, the binding bargain, cunning over cruelty, the elegant trick. “We need not become the Orka to defeat them.”",
+     "The Unseelie keep the new way: hard, predatory, and without mercy. “Mercy nearly ended us. No more.”",
+     "Spring is mostly Seelie and Winter mostly Unseelie. Autumn is split down the middle, and its quarrels reach the islands as changed prices."
+    ]
+   },
+   {
+    "title": "Kinds of fae",
+    "paragraphs": [
+     "Islanders sort them by what they have met."
+    ],
+    "table": {
+     "caption": "The fae an islander might meet",
+     "headers": [
+      "Kind",
+      "What they are"
+     ],
+     "rows": [
+      [
+       "The high fae",
+       "The lords and ladies of the Courts: tall, beautiful, and very old. They are the elder kin of the elves, and the ones who make the bargains that end up in songs."
+      ],
+      [
+       "The small folk",
+       "Pixies, sprites, and their cousins. They are the fae an islander is most likely to meet: at a window, in a hedge, at a thin place. They carry messages and run errands, for a price."
+      ],
+      [
+       "Changelings",
+       "Fae who wear faces. A changeling can live in a port for years as someone's cousin from another island. Most are on a Court's errand, and a few have simply stayed."
+      ],
+      [
+       "The warped",
+       "Goblinoids who were caught in the Faewild in the Orka War and never got out. Two thousand years there have changed them, and they pray to a crueler face of the Skarn."
+      ],
+      [
+       "Road-fae",
+       "Fae of the Roam, a long way from any Court and under no Court's law: way-house keepers, road-agents, and wanderers. They are the fae a kalashtar knows best."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Where they cross",
+    "paragraphs": [
+     "The Veil is thin in some places all the time, and everywhere some of the time."
+    ],
+    "list": [
+     "Thin places. A ring of stones, a pool, a door in a wood. Locals know where theirs is, and what not to do there.",
+     "The King Tide. The Veil wears thinnest when the great tide comes.",
+     "The Still Days. Fae bargains come due in the five days that belong to no god, and the fae come to collect.",
+     "Iron. Worked iron limits where and how a fae may cross, which is why they trade for it and why they hate to see it drawn.",
+     "Wards. A ward against crossing is sworn in the name of Varneth, the Threshold Warden, and renewed each Still Day.",
+     "Veil butterflies. Their wings turn clear as water when a fae or a thin place is near.",
+     "The Roam. The open country behind sleep is not theirs, but they step into it as easily as off a porch. A kalashtar meets more fae there than anyone awake ever does."
+    ]
+   },
+   {
+    "title": "What they trade",
+    "paragraphs": [
+     "Every Court trades with the islands at some level. The fae bring moon-silk, fruit that should not exist, favors, and names. They take worked iron, art, stories, and secrets, and they value a good story above a chest of coin.",
+     "House Caelvaron is the only power in the islands with constant, formal dealings, because its High Elves spend ten years in the Faewild for every hundred in the world. The Pocchin trade in fae-fruit and will not say where they get it.",
+     "Some fae goods are against Concord law and common sense both: bottled bargains, fae-wine that takes a year from whoever drinks it, and changeling contracts. They are sold anyway, at the Still Days and the King Tide, and the price is never what you pay.",
+     "A fae can also be a patron. Fae magic, held by pact, is one of the four sources of magic in the islands, and it does not answer to the Registry’s way of counting."
+    ]
+   },
+   {
+    "title": "Manners",
+    "paragraphs": [
+     "Every island child hears the four rules: never give your true name, never say thank you, never accept a gift you can’t repay, and count a bargain three times. The rest is practice."
+    ],
+    "table": {
+     "caption": "If a fae does this",
+     "headers": [
+      "If a fae",
+      "Do this"
+     ],
+     "rows": [
+      [
+       "Asks your name",
+       "Give the name you are called by, and say that is what it is: \"I am called Bryn.\" Never say \"my name is.\""
+      ],
+      [
+       "Offers you a gift",
+       "Refuse it, or pay for it on the spot with something of your own. A gift you can't repay is a debt with no number on it."
+      ],
+      [
+       "Does you a kindness",
+       "Do not say thank you. Praise the deed: \"That was well done.\""
+      ],
+      [
+       "Offers a bargain",
+       "Count it three times, aloud, and ask what happens if either side fails. Then count it once more."
+      ],
+      [
+       "Offers food or wine",
+       "Ask the price first. Fae-wine has been known to take a year from the drinker."
+      ],
+      [
+       "Is insulted by you",
+       "Apologize at once, exactly, and for the thing you did. A vague apology is a second insult."
+      ],
+      [
+       "Is standing in your road",
+       "Keep your iron sheathed. Drawing iron on a fae is a declaration, and they answer declarations."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Fae blood in the islands",
+    "paragraphs": [],
+    "list": [
+     "The elves came out of the Faewild and carry its light.",
+     "The Frost Elves were sent out of it. Winter exiled their forebears, and their descendants do not remember being fae.",
+     "Half-elves carry a little of it and are welcome at two tables.",
+     "The kalashtar are human, but they dream the Roam every night, and the Courts take an interest in who has started to.",
+     "Now and then a child is born fae-touched near a thin place. The family usually knows which grandmother to ask."
+    ]
+   },
+   {
+    "title": "Lisseth",
+    "paragraphs": [
+     "The Courts speak Lisseth, the leaf-speech. Its letters are grown, not written, and every word in it is a bargain. A mortal who learns it learns to speak slowly."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A grandmother’s bargain comes due this Still Day, and the grandmother died in the spring. The fae has come to collect from whoever has her name.",
+     "A pixie arrives with a message for one of the party, from someone they have never met. It wants its fee before it speaks.",
+     "A Summer knight has challenged a harbor town over an insult nobody remembers giving. He will accept a champion.",
+     "A crate of fae-wine is loose in a port a week before a wedding. Three bottles are already missing.",
+     "Someone in town has not aged in thirty years, and the neighbors have only just started counting."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "A use-name is safe and a true name is not. Decide which one your character has been giving out.",
+     "The fae pay well for stories. One nobody has heard is worth more than a purse, so keep one back.",
+     "If a bargain sounds fair, you have not counted it enough times.",
+     "A fae who owes you is safer company than a fae who likes you."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Krysta does nothing in the Faewild. A Krysta lamp carried across is a glass paperweight.",
+     "“Thank you” admits a debt. Fae-wise islanders say “well done” instead, and some keep the habit at home.",
+     "Vael Mournthorn is the only king among the four sovereigns.",
+     "The fae count time differently. A fae who says “soon” may mean your grandchildren."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a changeling on a guild board in Goldwind. Eleven years, and it votes sensibly, so nobody has looked very hard.” (a Reckoners’ Hall clerk)",
+     "“The Frost Elves weren’t exiled for running. Ask a Winter fae what they were exiled for and it will leave the room.” (a Frosthold trader)",
+     "“Winter has friends on the ice, and it pays them in weather.” (a whaler of the Brine Brotherhood)",
+     "“Autumn is buying up mortal debts. Ordinary ones, from ordinary lenders. Nobody knows what it means to owe a Court by accident.” (a Sunhold moneylender)"
+    ]
+   }
+  ],
+  "related": [
+   "faewild",
+   "unbound",
+   "pyraxis-the-unbowed-flame",
+   "vael-mournthorn-the-crimson-reaper-king",
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "aoifel-the-green-laugh",
+   "varneth-the-threshold-warden",
+   "elves",
+   "half-elves",
+   "kalashtar",
+   "house-caelvaron",
+   "veil-butterfly",
+   "king-tide",
+   "pocchin",
+   "goblinoids",
+   "magic-in-the-islands"
+  ],
+  "aliases": [
+   "fae",
+   "the fae",
+   "Seelie",
+   "Unseelie",
+   "high fae",
+   "small folk",
+   "changeling",
+   "changelings",
+   "pixie",
+   "pixies",
+   "road-fae",
+   "Lisseth",
+   "fae-wine",
+   "moon-silk",
+   "the four Courts"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
