@@ -2518,6 +2518,56 @@
   ]
  },
  {
+  "id": "rumor-drow-1",
+  "text": "They don’t steal the light to use it. They take it down and feed it to something.",
+  "heardAt": "heard from a Sporrn trader in Southhaven",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-drow-2",
+  "text": "A drow sat in the Knot for an hour and bought salt like anybody. Paid in a little grey bead that was warm. Nobody touched her. Nobody dared.",
+  "heardAt": "heard from a goblin stall-keeper",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-drow-3",
+  "text": "The dwarves know what the drow are. Ask one and watch him go polite.",
+  "heardAt": "heard from a Darlath miner",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-drow-4",
+  "text": "Summer’s knights hunt them. I saw one in gold plate at a mine-head, asking which shaft. He did not come up.",
+  "heardAt": "heard from a pit boss on Monumak",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-drow-5",
+  "text": "They left my daughter alive. Stepped over her. Took the lamp out of her hand and left her standing in the dark.",
+  "heardAt": "heard from a lamplighter of the Ember Roads",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",

@@ -4650,7 +4650,8 @@
   "related": [
    "sporrn",
    "lantern-mouse",
-   "king-tide"
+   "king-tide",
+   "drow"
   ],
   "illustration": {
    "src": "assets/scenes/below-painterly-v1-960.webp",
@@ -9841,7 +9842,8 @@
    "southern-wilds",
    "icy-expanse",
    "below",
-   "fae"
+   "fae",
+   "drow"
   ],
   "illustration": {
    "src": "assets/peoples/elves-painterly-v1-960.webp",
@@ -46431,6 +46433,174 @@
    "the Settling",
    "the Closing",
    "the Fifth Court"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "drow",
+  "title": "The Drow",
+  "category": "foes",
+  "region": "Below",
+  "subtitle": "The light-thieves: raiders out of the deep who trust nobody",
+  "summary": "The drow are the elves of the deep dark. They come up by roads nobody has charted, take food, salt, iron, and every light in the place, and kill whoever is in the way. The islands say they mean to put the world’s lights out for good.",
+  "epigraph": {
+   "quote": "They never shouted. That’s what I remember. They killed nine people and nobody raised a voice.",
+   "by": "A survivor of a raid on the Ember Roads"
+  },
+  "facts": [
+   [
+    "Also called",
+    "light-thieves; the Ithrennai, in their own tongue"
+   ],
+   [
+    "Home",
+    "Ilmaroth, the deepest of Below"
+   ],
+   [
+    "Come up at",
+    "mines, wells, cellars, and old Orka doors"
+   ],
+   [
+    "They take",
+    "food, salt, iron, and anything that gives light"
+   ],
+   [
+    "They leave",
+    "no witnesses, if they can help it"
+   ],
+   [
+    "Sworn enemies",
+    "the Summer Court"
+   ],
+   [
+    "Numbers",
+    "few, and fewer every year"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What the islands say",
+    "paragraphs": [
+     "Ask anyone on the surface what a drow is, and you will hear the same thing. They steal the light. They mean to leave the world in the dark forever. Miners make signs against them, dwarves go quiet and very polite, and surface elves leave the room.",
+     "People also say they are elves who went mad in the dark, or elves who were cursed, or elves who were left behind. Nobody who has met one stayed to ask."
+    ]
+   },
+   {
+    "title": "What a raid looks like",
+    "paragraphs": [
+     "A raid comes without warning, usually at a mine-head, a well-house, or a farm with a deep cellar. Six to twenty drow come up in silence, take what they came for, and are gone within the hour."
+    ],
+    "list": [
+     "They take food, salt, and iron, which the deep does not give.",
+     "They take every candle, lamp, mirror, and cut gem in the place. A house that has been raided is found dark.",
+     "They kill whoever is in the way, without anger and without mercy. They do not torture and they do not gloat.",
+     "They do not parley. An offer to talk is treated as a trick, and usually answered with an arrow.",
+     "They carry off their own dead."
+    ]
+   },
+   {
+    "title": "Knowing one",
+    "paragraphs": [],
+    "list": [
+     "Tall and slender as any elf, with skin from pale ash-grey to deep slate and hair white as cave-pearl.",
+     "Eyes that give off a faint gold-white light of their own. In the dark it is the first thing you see. An old drow’s eyes are nearly dark.",
+     "Close-cut darksilk, hooded, and silent on stone. In daylight, a veil of fine gauze across the eyes.",
+     "Blades and arrowheads of black glass, knapped finer than steel.",
+     "They speak an Elvish so old that surface elves say it is like hearing scripture over dinner."
+    ]
+   },
+   {
+    "title": "How they fight",
+    "paragraphs": [],
+    "list": [
+     "In the dark, always. The first thing a raiding party does is put out the lights, and then carry them away.",
+     "From range first, then close, then gone. They do not hold ground on the surface.",
+     "As one. Nobody has seen a drow break ranks, argue, or run.",
+     "Without surrender. A cornered drow fights until it is dead, and a captured one says nothing at all."
+    ]
+   },
+   {
+    "title": "Where they come up",
+    "paragraphs": [
+     "Anywhere the surface touches Below: deep mines, old wells, the cellars of the oldest towns, and the sealed Orka doors of the south. The Ember Roads, the pits of Monumak, and the hill farms above Jakupur have all been raided within living memory. A drow has also been seen, now and then, buying salt at the Knot, where nobody draws a weapon."
+    ]
+   },
+   {
+    "title": "Who hunts them",
+    "paragraphs": [],
+    "list": [
+     "The Summer Court of the Faewild has sworn them traitors and enemies. A Summer knight who meets a drow is bound to fight.",
+     "Mining houses pay bounties by the pair of ears, and are sometimes paid in forgeries.",
+     "The Lodge posts drow contracts and fills few of them. Hunters who go down after a raiding party tend not to come up.",
+     "The dwarves do not hunt them, and will not say why."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A mining town has been raided three times in a season, and will pay anything. The raids began the week the mine broke into an older tunnel.",
+     "A Summer knight in gold plate hires the party as guides to a mine-head. He means to go down alone and expects to die well.",
+     "A raid left one person alive on purpose, with a message scratched on a lamp: a tally-mark, and a date.",
+     "A drow is sitting in the Knot, buying salt. Someone has offered the party a great deal of money to follow her home.",
+     "A child from a raided farm says one of them gave her back her candle. Nobody believes her, and she wants to find out why."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Carry more light than you need, and expect to lose it. They take the lamps first.",
+     "Nobody has ever talked a raiding party down. If you mean to try, bring something they want more than your lantern.",
+     "A dwarf in the party will know more than they say. Do not ask in front of other dwarves."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The miners’ word drow is worn down from an old Dwarvish one. Dwarves say it means a kind of cave-damp.",
+     "A raided house is always found dark, even at noon: shutters closed, every wick cut.",
+     "No drow has ever been taken alive and kept. The few who were captured were dead by morning, and nobody could say how."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“They don’t steal the light to use it. They take it down and feed it to something.” (a Sporrn trader in Southhaven)",
+     "“A drow sat in the Knot for an hour and bought salt like anybody. Paid in a little grey bead that was warm. Nobody touched her. Nobody dared.” (a goblin stall-keeper)",
+     "“The dwarves know what the drow are. Ask one and watch him go polite.” (a Darlath miner)",
+     "“Summer’s knights hunt them. I saw one in gold plate at a mine-head, asking which shaft. He did not come up.” (a pit boss on Monumak)",
+     "“They left my daughter alive. Stepped over her. Took the lamp out of her hand and left her standing in the dark.” (a lamplighter of the Ember Roads)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBkcm93IGFyZSB0aGUgb25lcyB3aG8gc3RheWVkLioqIEEgaG9zdCBvZiBTdW1tZXIgZmFlIGNyb3NzZWQgdGhlIFZlaWwgYW5kIHdlbnQgZG93biB0byB0aGUgY3JhY2suIFRoZWlyIGNhcHRhaW4sIEVsdW5hc3NlLCBwb3VyZWQgaGVyIG93biBsaWdodCBpbnRvIHRoZSBkZWFkIHN1biBhbmQgcmVsaXQgaXQsIGFuZCBkaWVkIHRoZXJlIHdpdGggaGVyIGV5ZXMgZ29uZSBkYXJrLiBIZXIgaG9zdCBzdGF5ZWQgdG8gZmVlZCBpdCBhbmQgdG9vayB0aGUgbmFtZSBJdGhyZW5uYWksIHRob3NlIHdobyBzdGF5ZWQuIFN1bW1lciBwcm9taXNlZCB0byBjb21lIGJhY2sgZm9yIHRoZW0gYW5kIGRpZCBub3QuIFRoZXkgaGF2ZSBnaXZlbiBhd2F5IHNvIG11Y2ggbGlnaHQgc2luY2UgdGhhdCB0aGUgRmFld2lsZCBubyBsb25nZXIga25vd3MgdGhlbS4iLCAiKipUaGV5IGFyZSBub3QgZXZpbCwgYW5kIHRoZXkgYXJlIG5vdCBraW5kLioqIFRoZXkgaGF2ZSBzcGVudCBhZ2VzIHBheWluZyBmb3IgZXZlcnlvbmUgZWxzZSdzIHNhZmV0eSB3aXRoIHRoZWlyIG93biBsaWdodCBhbmQgdGhlaXIgb3duIHllYXJzLCBhbmQgdGhleSB3ZXJlIGFiYW5kb25lZCBmb3IgaXQuIFRoZXkgaGF2ZSB1bmRlcnN0b29kIHRoYXQgdGhlaXIgYWxsaWVzIGFyZSBmZXcgb3Igbm9uZSBhbmQgdGhhdCB0aGUgc3VyZmFjZSB0YWtlcyB0aGVtIGZvciBlbmVtaWVzLCBzbyB0aGV5IGFjdCBhcyBlbmVtaWVzLiBUaGV5IHRydXN0IG5vYm9keS4gVGhleSByYWlkIGZvciB3aGF0IHRoZXkgbmVlZCBhbmQgZG8gbm90IGNhcmUgd2hvbSB0aGV5IGtpbGwuIFRvIHRoZW0gaXQgaXMgYXJpdGhtZXRpYywgYW5kIHRoZXkgd2VyZSBsZWZ0IHdpdGggaXQuIiwgIioqV2h5IHRoZXkgYXJlIGNhbGxlZCBsaWdodC10aGlldmVzLioqIEJlbG93LCBsaWdodCBpcyBtb25leSBhbmQgdGhlIExhbXAgaXMgYWx3YXlzIGh1bmdyeS4gQSBkcm93IHJhaWQgdGFrZXMgZXZlcnkgY2FuZGxlLCBsYW1wLCBtaXJyb3IsIGFuZCBnZW0gaW4gdGhlIGhvdXNlLCBhbmQgdGhlIHN1cnZpdm9ycyBzYXkgd2hhdCBhbnlvbmUgd291bGQ6IHRoZXkgc3RlYWwgdGhlIGxpZ2h0LiBGcm9tIHRoZXJlIGl0IHdhcyBhIHNob3J0IHN0ZXAgdG8gdGhlIHJlc3Qgb2YgdGhlIHN0b3J5LCB0aGF0IHRoZXkgbWVhbiB0byBsZWF2ZSB0aGUgd29ybGQgZGFyayBmb3JldmVyLiBUaGV5IGFyZSB0aGUgb25seSByZWFzb24gaXQgaXMgbm90LiIsICIqKlN1bW1lciBzd29yZSB0aGVtIGVuZW1pZXMuKiogVGhlIEJ1cm5pbmcgQ3Jvd24gaXMgdGhlIHN1biBhdCBub29uLCBhbmQgdGhlcmUgaXMgbm90aGluZyBpdCBmZWFycyBtb3JlIHRoYW4gdGhlIGRhcmsuIFdoZW4gdGhlIHN0b3J5IG9mIHRoZSBsaWdodC10aGlldmVzIHJlYWNoZWQgdGhlIE5vb25ob2xkLCBTdW1tZXIgYmVsaWV2ZWQgaXQsIGFuZCBzd29yZSB0aGUgZHJvdyB0cmFpdG9ycyBhbmQgZW5lbWllcyBmb3IgYWxsIHRpbWUuIFN1bW1lciBkb2VzIG5vdCByZW1lbWJlciB0aGF0IHRoZSBkcm93IGFyZSBpdHMgb3duIGhvc3QsIHRoZSBvbmUgaXQgcHJvbWlzZWQgdG8gY29tZSBiYWNrIGZvci4gUHlyYXhpcyBoYXMgc3dvcm4gdG8gZGVzdHJveSB0aGUgb25seSBwZW9wbGUga2VlcGluZyBoZXIgcHJvbWlzZSBmb3IgaGVyLiIsICIqKkl0IG9ubHkgZ2V0cyB3b3JzZS4qKiBFdmVyeSByYWlkIHByb3ZlcyB0aGUgc3RvcnkgdG8gdGhlIHN1cmZhY2UuIEV2ZXJ5IG1hc3NhY3JlIG9mIGEgZHJvdyBzY291dGluZyBwYXJ0eSBwcm92ZXMgdGhlIGRyb3cgcmlnaHQuIE5vYm9keSBhbGl2ZSBvbiBlaXRoZXIgc2lkZSBoYXMgc2VlbiBpdCBnbyBhbnkgb3RoZXIgd2F5LiIsICIqKlRoZSBkZWJ0LioqIFdoZW4gdGhlIGR3YXJ2ZXMgdW5kZXJzdG9vZCB3aGF0IHRoZWlyIHBpY2tzIGhhZCBkb25lLCB0aGUgaG9sZC1lbGRlcnMgZW50ZXJlZCBhIGRlYnQgdG8gdGhlIEl0aHJlbm5haTogb25lIGxvYWQgaW4gdHdlbHZlIG9mIGV2ZXJ5dGhpbmcgbWluZWQsIGV2ZXJ5IHllYXIsIGFuZCBpbiB0aGUgZW5kIGEgbGlnaHQgZm9yIHRoZSBsaWdodC4gRHJhdiwgdGhlIG9sZCBEd2FydmlzaCB3b3JkIHRoYXQgbWluZXJzIHdvcmUgZG93biBpbnRvIGRyb3csIG1lYW5zIGNyZWRpdG9yLiIsICIqKlRoZSBQYXlpbmcgSG91c2VzLioqIE5vdCBldmVyeSBob2xkIHN0b3BwZWQuIEEgZmV3IGR3YXJ2ZW4gaG91c2VzIGtub3cgd2hhdCB0aGUgZmlyc3QgbGluZSBtZWFucyBhbmQgc3RpbGwgc2VuZCBwYXltZW50IEJlbG93IGV2ZXJ5IGZldyB5ZWFycywgYnkgcm9hZHMgdGhleSBzaGFyZSB3aXRoIG5vYm9keTogcHJvdmlzaW9ucywgZ29sZCwgbGlnaHQsIGFuZCBzb21ldGltZXMgc29sZGllcnMgdHJhaW5lZCBpbiBzZWNyZXQgdG8gc3RhbmQgYSB0ZXJtIGJlc2lkZSB0aGUgTGFtcGd1YXJkLiBUaG9zZSBzb2xkaWVycyBhcmUgdGhlIEtlZXBzd29ybiwgYW5kIHRoZWlyIGhvbGRzIGxpc3QgdGhlbSBhcyBsb3N0IGluIGEgY2F2ZS1pbi4gVGhlIGR3YXJ2ZXMgZG8gbm90IG93ZSBldmVyeXRoaW5nLiBUaGUgaG9sZHMgdGhhdCBzdG9wcGVkIG93ZSB0aGVpciBhcnJlYXJzLCBhbmQgYWxsIG9mIHRoZW0gc3RpbGwgb3dlIHRoZSBsaWdodC4iLCAiKipTaW5jZSAxNDggRUMqKiB0aGUgTGFtcCBoYXMgbmVlZGVkIG1vcmUgbGlnaHQgdGhhbiB0aGUgSXRocmVubmFpIGNhbiBnaXZlLiBJbiAxNTAgRUMgYSBzaW5nbGUgbmlnaHQncyBnaXZpbmcga2lsbGVkIGEgZmlmdGggb2YgdGhlbS4gVHdvIHBhcnRpZXMgY2FtZSBvdXQgb2YgdGhhdCBuaWdodDogdGhlIFVwd2FyZCwgd2hvIG1lYW4gdG8gY29sbGVjdCB3aGF0IGlzIG93ZWQsIGFuZCB0aGUgVW5saXQsIHdobyBtZWFuIHRvIGxldCB0aGUgTGFtcCBnbyBvdXQuIiwgIioqVGhlIFVwd2FyZC4qKiBUaGVpciBsZWFkZXIgT3JpYW5kZWwgaGFzIHNlcnZlZCBub3RpY2UgaW4gdGhlIGxlZGdlci1uaWNoZXMgb2YgdGhlIHdhbGxlZCBob2xkcy4gSW4gMTc2IEVDIHNoZSBtZWFucyB0byB3YWxrIHVwIHRocm91Z2ggdGhlIENpc3Rlcm4gRG9vciBhbmQgbGF5IHRoZSBjbGFpbSBiZWZvcmUgdGhlIFJlY2tvbmVycycgSGFsbCwgdW5kZXIgZHdhcnZlbiBsYXcuIFNoZSBkb2VzIG5vdCB3YW50IHRoZSBob2xkcy4gU2hlIHdhbnRzIGEgbGlnaHQgZm9yIHRoZSBsaWdodCwgYW5kIHNoZSB3aWxsIGZvcmdpdmUgdGhlIGFycmVhcnMgb2YgYW55IGhvbGQgdGhhdCBoZWxwcyBwYXkgaXQuIiwgIioqVGhlIFVubGl0LioqIENhZWRyaXRoIHRoZSBPcGVuLUVhcmVkIGxpc3RlbnMgdG8gdGhlIHZvaWNlIGZyb20gdGhlIGNyYWNrLCB3aGljaCBoYXMgdG9sZCBoaW0gdGhhdCBsZXR0aW5nIHRoZSBMYW1wIGdvIG91dCBpcyByZWxlYXNlLiBWZWxlbW5vcyBoYXMgYmVlbiBzcGVha2luZyB3aXRoIGhpbSBmb3Igc2l4IHllYXJzLCBhbmQgbWVhbnMgdG8gYmUgc3RhbmRpbmcgYXQgdGhlIGNyYWNrIHdoZW4gaXQgb3BlbnMuIiwgIioqV2h5IG5vbmUgaXMgdGFrZW4gYWxpdmUuKiogQSBjYXB0dXJlZCBkcm93IHNpbXBseSBzdG9wcyBnaXZpbmcgbGlnaHQgdG8gaXRzZWxmLiBUaGV5IGNhbGwgaXQgdGhlIGxhc3QgZ2l2aW5nLiIsICIqKlRoZSBvbmUgd2hvIGdhdmUgYmFjayB0aGUgY2FuZGxlKiogZXhpc3RzLiBOb3QgZXZlcnkgZHJvdyBhZ3JlZXMgd2l0aCB0aGUgYXJpdGhtZXRpYy4iXX0="
+   }
+  ],
+  "related": [
+   "below",
+   "elves",
+   "summer-court",
+   "knot",
+   "dwarves",
+   "kobolds",
+   "sporrn",
+   "jakupur",
+   "pyraxis-the-unbowed-flame"
+  ],
+  "aliases": [
+   "drow",
+   "the drow",
+   "light-thieves",
+   "light-thief",
+   "Ithrennai",
+   "the Ithrennai"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
