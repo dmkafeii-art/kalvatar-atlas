@@ -42731,6 +42731,26 @@
     ]
    },
    {
+    "title": "What a patch is good for",
+    "paragraphs": [
+     "A patch is honored by the people who gave it, and by their friends. A keeper who sees the Lamp patch on your coat gives you a bed at any light in the islands. Guilds work the same way: a hall honors the patches of its sister halls and its allied guilds in other ports."
+    ],
+    "list": [
+     "A bed and a meal at the hall.",
+     "The members’ price, not the stranger’s.",
+     "A word with the master without waiting a week.",
+     "Work, if there is any, ahead of the unknown.",
+     "The benefit of the doubt, once."
+    ]
+   },
+   {
+    "title": "Knowing a true one",
+    "paragraphs": [
+     "Everyone who gives a patch can tell their own from a counterfeit: by the first stitch, by the thread, and by the small faults sewn in on purpose. The Inkers’ Circle keeps those faults in the Pattern-Book and shows them to nobody.",
+     "The richer patches carry something more: a little Krysta thread, the kind the Arbiters wear in their regalia, tuned to that one patch. A keeper of the patch feels it answer when it comes through the door. A copy does not answer, however good the needlework."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“There’s a cookshop in Greyhaven that has given its patch four times in thirty years. The bowl is not that big. Nobody will say what’s in it.” (a Frontier carter)",
@@ -42750,7 +42770,9 @@
    "crafts-and-guilds",
    "mending",
    "inkers-circle",
-   "ranking-cards"
+   "ranking-cards",
+   "arbiters",
+   "lighthouses"
   ],
   "aliases": [
    "patch",
@@ -45759,11 +45781,11 @@
    ],
    [
     "They prize",
-    "A real laugh, a new game, a good loser, a surprise"
+    "A real laugh, a new game, a good loser, a surprise, bare feet on the grass"
    ],
    [
     "They can’t abide",
-    "Boredom, a price list, a spoilsport, and Autumn"
+    "Boredom, a price list, a spoilsport, shoes, and Autumn"
    ]
   ],
   "sections": [
@@ -45771,7 +45793,7 @@
     "title": "The Court",
     "paragraphs": [
      "The Laughing Garden, which is never in the same place twice. It is always the first warm morning there. The paths rearrange themselves when nobody is looking, and the hedges are in on it.",
-     "Young, barefoot, and overdressed in flowers. Nobody in Spring looks older than twenty, and several of them are older than the islands. Their dreamers' eyes are green."
+     "Young, barefoot by the Queen’s own law, and overdressed in flowers. Nobody in Spring looks older than twenty, and several of them are older than the islands. Their dreamers' eyes are green."
     ]
    },
    {
@@ -45811,6 +45833,14 @@
       [
        "Be offered a flower",
        "Never refuse it, and never keep it past wilting."
+      ],
+      [
+       "Wear shoes in the Garden",
+       "Take them off at the gate. The Queen requires every guest to go barefoot and feel the grass with their own feet. Envoys, knights, and other sovereigns are not excused."
+      ],
+      [
+       "Step on her flowers in shoes",
+       "You have declared war on Spring. This is not a figure of speech, and it has happened."
       ],
       [
        "Bore one of them",
