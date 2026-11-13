@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=17').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=18').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -522,7 +522,7 @@ window.Adventurers = (() => {
  }
 
  /* Passages: how long from one port to another, by what ship, and what it costs. */
- const trip = {from: 'goldwind', to: 'southhaven', mode: 'rations', size: 4};
+ const trip = {from: 'goldwind', to: 'southhaven', mode: 'rations', size: 4, skip: 0};
  function passage() {
   const T = data.travel, port = id => T.ports.find(x => x.id === id), mode = T.modes.find(m => m.id === trip.mode), free = trip.mode === 'quiet' || trip.mode === 'own';
   if(trip.from === trip.to) return {same: true};
@@ -534,22 +534,24 @@ window.Adventurers = (() => {
    for(const k in dist) if(!done.has(k) && (u === null || dist[k] < dist[u])) u = k;
    if(u === null || u === trip.to) break;
    done.add(u);
-   for(const [a, b, d, sure] of T.legs) {
+   for(const [a, b, d, sure, stops] of T.legs) {
     const v = a === u ? b : b === u ? a : null;
     if(!v || done.has(v) || (shut(v) && v !== trip.to)) continue;
-    if(dist[v] === undefined || dist[u] + d < dist[v]) {dist[v] = dist[u] + d; prev[v] = [u, d, sure];}
+    if(dist[v] === undefined || dist[u] + d < dist[v]) {dist[v] = dist[u] + d; prev[v] = [u, d, sure, a === u ? (stops || []) : (stops || []).map(([k, at]) => [k, d - at]).reverse()];}
    }
   }
   if(dist[trip.to] === undefined) return {none: true};
   const legs = [];
-  for(let v = trip.to; v !== trip.from; v = prev[v][0]) legs.unshift({from: port(prev[v][0]), to: port(v), days: prev[v][1], sure: prev[v][2]});
-  let total = 0, bitsEach = 0;
+  for(let v = trip.to; v !== trip.from; v = prev[v][0]) legs.unshift({from: port(prev[v][0]), to: port(v), days: prev[v][1], sure: prev[v][2], stops: prev[v][3].map(([k, at]) => ({name: (port(k) || T.ways[k]).name, note: T.ways[k]?.note || T.notes[k] || '', at}))});
+  let total = 0, bitsEach = 0, calls = 0;
   for(const l of legs) {
-   l.sail = Math.max(1, Math.round(l.days * mode.time));
+   calls += l.stops.length;
+   l.sail = Math.max(1, Math.round((l.days - (trip.skip ? l.stops.length * T.skip.days : 0)) * mode.time));
+   l.stops.forEach(x => {x.day = Math.max(1, Math.round(x.at * mode.time));});
    const ice = /cabin/.test(mode.id) && (l.from.region === 'Icy Expanse' || l.to.region === 'Icy Expanse') ? T.ice : 1;
    l.bits = l.sail * mode.bits * ice; total += l.sail; bitsEach += l.bits;
   }
-  return {legs, total, each: Math.round(bitsEach) / 100, mode, notes: [...new Set(legs.flatMap(l => [l.from.id, l.to.id]))].map(id => T.notes[id]).filter(Boolean)};
+  return {legs, total, calls, bribe: trip.skip && trip.mode !== 'own' ? calls * T.skip.anchors : 0, each: Math.round(bitsEach) / 100, mode, notes: [...new Set(legs.flatMap(l => [l.from.id, l.to.id]))].map(id => T.notes[id]).filter(Boolean)};
  }
  function passageHtml() {
   const o = passage();
@@ -557,17 +559,17 @@ window.Adventurers = (() => {
   if(o.shut) return `<p class="adv-roll">${t(`No harbor office sells a passage to or from ${o.shut.name}.`, `Ninguna oficina de puerto vende pasaje hacia o desde ${o.shut.name}.`)}</p><p class="adv-note">${t('Choose a quiet passage, or your own ship.', 'Elige un pasaje discreto, o tu propio barco.')}</p>`;
   if(o.none) return `<p class="adv-note">${t('No known route.', 'No hay ruta conocida.')}</p>`;
   const lo = Math.max(1, Math.round(o.total * .9)), hi = Math.round(o.total * 1.25), cyc = Math.round(o.total / 10 * 10) / 10, meet = Math.round(o.total * .15);
-  const stops = o.legs.slice(0, -1).map(l => l.to.name);
-  return `<dl class="adv-out">${row(t('Fair passage', 'Travesía normal'), `${days(o.total)} · ${cyc} Cycles`)}${row(t('With the weather', 'Según el clima'), `${lo} ${t('to', 'a')} ${days(hi)}`)}${row(t('Fare, each', 'Pasaje, cada uno'), coin(o.each))}${row(t('Fare, all of you', 'Pasaje, todos'), coin(Math.round(o.each * trip.size * 100) / 100))}${row(t('Stops', 'Paradas'), stops.length ? h(stops.join(', ')) : t('none', 'ninguna'))}</dl>
-  <ol class="adv-legs">${o.legs.map(l => `<li><strong>${h(l.from.name)} → ${h(l.to.name)}</strong><span>${days(l.sail)} · ${coin(Math.round(l.bits) / 100)} ${t('each', 'cada uno')}${l.sure ? '' : ' · ' + t('estimated', 'estimado')}${l.sail > 30 ? ' · ' + t('waters on the way', 'hace aguada en el camino') : ''}</span></li>`).join('')}</ol>
+  const stops = o.legs.flatMap((l, n) => [...(trip.skip ? [] : l.stops.map(x => x.name)), ...(n < o.legs.length - 1 ? [l.to.name] : [])]);
+  return `<dl class="adv-out">${row(t('Fair passage', 'Travesía normal'), `${days(o.total)} · ${cyc} Cycles`)}${row(t('With the weather', 'Según el clima'), `${lo} ${t('to', 'a')} ${days(hi)}`)}${row(t('Fare, each', 'Pasaje, cada uno'), coin(o.each))}${row(t('Fare, all of you', 'Pasaje, todos'), coin(Math.round(o.each * trip.size * 100) / 100))}${o.bribe ? row(t('To skip the ports of call', 'Por saltarse las escalas'), coin(o.bribe) + ' ' + t('to the captain', 'al capitán')) : ''}${row(t('Ports of call', 'Escalas'), stops.length ? `${stops.length}: ${h(stops.join(', '))}` : t('none', 'ninguna'))}</dl>
+  <ol class="adv-legs">${o.legs.map(l => `<li><strong>${h(l.from.name)} → ${h(l.to.name)}</strong><span>${days(l.sail)} · ${coin(Math.round(l.bits) / 100)} ${t('each', 'cada uno')}${l.sure ? '' : ' · ' + t('estimated', 'estimado')}${trip.skip && l.stops.length ? ' · ' + t(`${l.stops.length} ${l.stops.length === 1 ? 'call' : 'calls'} skipped`, `${l.stops.length} ${l.stops.length === 1 ? 'escala saltada' : 'escalas saltadas'}`) : ''}</span>${!trip.skip && l.stops.length ? `<ul class="adv-calls">${l.stops.map(x => `<li><b>${t('Day', 'Día')} ${x.day}: ${h(x.name)}.</b> ${h(x.note)}</li>`).join('')}</ul>` : ''}</li>`).join('')}</ol>
   <p class="adv-note">${h(o.mode.note)} ${t(`At sea, something finds a ship on an 18 or higher on a d20 each day: expect about ${meet} ${meet === 1 ? 'meeting' : 'meetings'} on this passage.`, `En el mar, algo encuentra al barco con 18 o más en un d20 cada día: espera unos ${meet} encuentros en esta travesía.`)}</p>${o.notes.length ? `<ul class="adv-loot">${o.notes.map(n => `<li>${h(n)}</li>`).join('')}</ul>` : ''}`;
  }
  function renderTravel() {
   const T = data.travel, regs = [...new Set(T.ports.map(x => x.region))];
   const ports = (id, value) => `<select id="${id}">${regs.map(r => `<optgroup label="${h(r)}">${T.ports.filter(x => x.region === r).map(x => `<option value="${h(x.id)}"${x.id === value ? ' selected' : ''}>${h(x.name)}${x.kind === 'hidden' ? ' *' : ''}</option>`).join('')}</optgroup>`).join('')}</select>`;
-  frame('travel', `<p class="adv-lead">${t('How long it takes to get from one port to another, what it costs, and where the ship stops. A Cycle is ten days.', 'Cuánto se tarda de un puerto a otro, cuánto cuesta y dónde para el barco. Un Cycle son diez días.')}</p>
+  frame('travel', `<p class="adv-lead">${t('How long it takes to get from one port to another, what it costs, and where the ship stops. A Cycle is ten days. A fair passage counts a day in each port of call, so a ship that sails straight through gets there sooner.', 'Cuánto se tarda de un puerto a otro, cuánto cuesta y dónde para el barco. Un Cycle son diez días.')}</p>
   <section class="adv-panel adv-shop"><h2>${t('A passage', 'Una travesía')}</h2>
-  <div class="adv-controls"><label class="pack-label">${t('From', 'Desde')}${ports('tv-from', trip.from)}</label><label class="pack-label">${t('To', 'Hasta')}${ports('tv-to', trip.to)}</label><label class="pack-label">${t('How', 'Cómo')}${sel('tv-mode', T.modes.map(m => [m.id, m.name]), trip.mode)}</label><label class="pack-label">${t('How many of you', 'Cuántos son')}${sel('tv-size', [1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]), trip.size)}</label></div>
+  <div class="adv-controls"><label class="pack-label">${t('From', 'Desde')}${ports('tv-from', trip.from)}</label><label class="pack-label">${t('To', 'Hasta')}${ports('tv-to', trip.to)}</label><label class="pack-label">${t('How', 'Cómo')}${sel('tv-mode', T.modes.map(m => [m.id, m.name]), trip.mode)}</label><label class="pack-label">${t('How many of you', 'Cuántos son')}${sel('tv-size', [1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]), trip.size)}</label><label class="pack-label">${t('Ports of call', 'Escalas')}${sel('tv-skip', [[0, t('Call at every one', 'Parar en todas')], [1, t('Sail straight through', 'Seguir de largo')]], trip.skip)}</label></div>
   <div class="pack-actions"><button type="button" class="button cream" id="tv-swap">${t('And back again', 'Y de regreso')} <span aria-hidden="true">⇄</span></button></div>
   <div id="tv-out" aria-live="polite">${passageHtml()}</div>
   <p class="adv-hint">${t('Ports marked * are in no harbor book: only a quiet passage or your own ship goes there.', 'Los puertos con * no están en ningún libro de puerto: solo se llega con un pasaje discreto o en tu propio barco.')}</p></section>
@@ -575,6 +577,7 @@ window.Adventurers = (() => {
   const again = () => {$('#tv-out').innerHTML = passageHtml();};
   [['tv-from', 'from'], ['tv-to', 'to'], ['tv-mode', 'mode']].forEach(([id, k]) => $('#' + id).addEventListener('input', e => {trip[k] = e.target.value; again();}));
   $('#tv-size').addEventListener('input', e => {trip.size = +e.target.value; again();});
+  $('#tv-skip').addEventListener('input', e => {trip.skip = +e.target.value; again();});
   $('#tv-swap').addEventListener('click', () => {[trip.from, trip.to] = [trip.to, trip.from]; $('#tv-from').value = trip.from; $('#tv-to').value = trip.to; again();});
  }
 

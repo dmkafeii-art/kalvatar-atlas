@@ -6705,213 +6705,430 @@
     "ironfort",
     "goldwind",
     35,
-    1
+    1,
+    [
+     [
+      "gullsrest",
+      9
+     ],
+     [
+      "halfway",
+      18
+     ],
+     [
+      "aurelion",
+      29
+     ]
+    ]
    ],
    [
     "goldwind",
     "southhaven",
     60,
-    1
+    1,
+    [
+     [
+      "everfall",
+      7
+     ],
+     [
+      "pearl-groove",
+      14
+     ],
+     [
+      "lastwell",
+      26
+     ],
+     [
+      "turtle-roads",
+      38
+     ],
+     [
+      "kaskan",
+      52
+     ]
+    ]
    ],
    [
     "southhaven",
     "jakupur",
     25,
-    1
+    1,
+    [
+     [
+      "kettle-cove",
+      8
+     ],
+     [
+      "ironport",
+      16
+     ]
+    ]
    ],
    [
     "southhaven",
     "varan-port",
     75,
-    1
+    1,
+    [
+     [
+      "sawgrass-mouth",
+      10
+     ],
+     [
+      "zalkareth",
+      18
+     ],
+     [
+      "farewell",
+      40
+     ],
+     [
+      "last-green",
+      55
+     ]
+    ]
    ],
    [
     "varan-port",
     "snowvah",
     35,
-    1
+    1,
+    [
+     [
+      "frosthold",
+      10
+     ],
+     [
+      "seal-rocks",
+      22
+     ]
+    ]
    ],
    [
     "ironfort",
     "bastion",
     4,
-    0
+    0,
+    []
    ],
    [
     "ironfort",
     "stormreach",
     5,
-    0
+    0,
+    []
    ],
    [
     "stormreach",
     "greyhaven",
     3,
-    0
+    0,
+    []
    ],
    [
     "ironfort",
     "greyhaven",
     6,
-    0
+    0,
+    []
    ],
    [
     "greyhaven",
     "saltreach",
     3,
-    0
+    0,
+    []
    ],
    [
     "greyhaven",
     "black-harbor",
     1,
-    0
+    0,
+    []
    ],
    [
     "stormreach",
     "serpents-coil",
     2,
-    0
+    0,
+    []
    ],
    [
     "ironfort",
     "aurelion",
     30,
-    0
+    0,
+    [
+     [
+      "gullsrest",
+      9
+     ],
+     [
+      "halfway",
+      18
+     ]
+    ]
    ],
    [
     "saltreach",
     "aurelion",
     27,
-    0
+    0,
+    [
+     [
+      "halfway",
+      13
+     ]
+    ]
    ],
    [
     "goldwind",
     "aurelion",
     6,
-    0
+    0,
+    []
    ],
    [
     "goldwind",
     "sunhold",
     5,
-    0
+    0,
+    []
    ],
    [
     "goldwind",
     "highspire",
     4,
-    0
+    0,
+    []
    ],
    [
     "goldwind",
     "everfall",
     7,
-    0
+    0,
+    []
    ],
    [
     "goldwind",
     "duskmire-haven",
     1,
-    0
+    0,
+    []
    ],
    [
     "goldwind",
     "easthold-westwatch-and-pearl-groove",
     5,
-    0
+    0,
+    []
    ],
    [
     "easthold-westwatch-and-pearl-groove",
     "silverport",
     3,
-    0
+    0,
+    []
    ],
    [
     "silverport",
     "briarcrown",
     2,
-    0
+    0,
+    []
    ],
    [
     "briarcrown",
     "elyria",
     3,
-    0
+    0,
+    []
    ],
    [
     "everfall",
     "southhaven",
     54,
-    0
+    0,
+    [
+     [
+      "pearl-groove",
+      7
+     ],
+     [
+      "lastwell",
+      19
+     ],
+     [
+      "turtle-roads",
+      31
+     ],
+     [
+      "kaskan",
+      46
+     ]
+    ]
    ],
    [
     "sunhold",
     "southhaven",
     57,
-    0
+    0,
+    [
+     [
+      "pearl-groove",
+      10
+     ],
+     [
+      "lastwell",
+      22
+     ],
+     [
+      "turtle-roads",
+      34
+     ],
+     [
+      "kaskan",
+      49
+     ]
+    ]
    ],
    [
     "southhaven",
     "kaskan",
     8,
-    0
+    0,
+    []
    ],
    [
     "southhaven",
     "ironport",
     12,
-    0
+    0,
+    []
    ],
    [
     "southhaven",
     "zalkareth",
     18,
-    0
+    0,
+    [
+     [
+      "sawgrass-mouth",
+      10
+     ]
+    ]
    ],
    [
     "zalkareth",
     "hollowkey",
     12,
-    0
+    0,
+    []
    ],
    [
     "jakupur",
     "hollowkey",
     16,
-    0
+    0,
+    []
    ],
    [
     "zalkareth",
     "varan-port",
     62,
-    0
+    0,
+    [
+     [
+      "farewell",
+      22
+     ],
+     [
+      "last-green",
+      37
+     ]
+    ]
    ],
    [
     "varan-port",
     "frosthold",
     10,
-    0
+    0,
+    []
    ],
    [
     "varan-port",
     "kaldmark",
     12,
-    0
+    0,
+    []
    ],
    [
     "frosthold",
     "crystalhaven",
     8,
-    0
+    0,
+    []
    ],
    [
     "frosthold",
     "snowvah",
     26,
-    0
+    0,
+    [
+     [
+      "seal-rocks",
+      13
+     ]
+    ]
    ]
   ],
+  "ways": {
+   "gullsrest": {
+    "name": "Gullsrest Light",
+    "note": "A way-light on a low green island, with a well, a chandler, and an inn that has never closed."
+   },
+   "halfway": {
+    "name": "The Halfway Light",
+    "note": "The light every northern sailor counts from. Halfway to what depends on which way you are going."
+   },
+   "pearl-groove": {
+    "name": "Pearl Groove",
+    "note": "The pact-port of the pearl-clans. Ships water here and buy nothing cheap."
+   },
+   "lastwell": {
+    "name": "Lastwell Cay",
+    "note": "The last sweet water before the long southern reach. Fill everything."
+   },
+   "turtle-roads": {
+    "name": "The Turtle Roads",
+    "note": "Open water where the Old Shells are sometimes seen. Ships anchor a night and hope."
+   },
+   "kettle-cove": {
+    "name": "Kettle Cove",
+    "note": "A hot spring on a black beach, and a market that appears when a sail does."
+   },
+   "sawgrass-mouth": {
+    "name": "Sawgrass Mouth",
+    "note": "Where the Slowwater drains to the sea. The Bogborn trade here, on stilts."
+   },
+   "farewell": {
+    "name": "The Farewell Light",
+    "note": "The last light before the cold. Sailors say goodbye to warm water here, aloud."
+   },
+   "last-green": {
+    "name": "The Last Green",
+    "note": "The last island with trees on it. Ships cut firewood and count their coats."
+   },
+   "seal-rocks": {
+    "name": "Seal Rocks Light",
+    "note": "A light, a sealers' camp, and a great deal of noise."
+   }
+  },
+  "skip": {
+   "days": 1,
+   "anchors": 1
+  },
   "modes": [
    {
     "id": "deck",
