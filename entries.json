@@ -22097,7 +22097,8 @@
    "sill",
    "halflings",
    "icy-expanse",
-   "brother-dog"
+   "brother-dog",
+   "hask-the-red-hand"
   ]
  },
  {
@@ -22827,7 +22828,8 @@
    "lilim",
    "concord",
    "festivals-everywhere",
-   "calendar"
+   "calendar",
+   "hask-the-red-hand"
   ]
  },
  {
@@ -22950,7 +22952,8 @@
    "skaia",
    "chaos",
    "abyssara-the-black-below",
-   "concord"
+   "concord",
+   "hask-the-red-hand"
   ]
  },
  {
@@ -23891,7 +23894,8 @@
    "shifters",
    "green-hunter",
    "savage-lords",
-   "southern-wilds"
+   "southern-wilds",
+   "hask-the-red-hand"
   ]
  },
  {
@@ -23975,7 +23979,8 @@
    "council",
    "lunia-the-lady-of-light",
    "veriden-the-oathkeeper",
-   "gods-of-the-pantheon"
+   "gods-of-the-pantheon",
+   "hask-the-red-hand"
   ]
  },
  {
@@ -37828,7 +37833,8 @@
    "the-registrar",
    "radan-sunmere",
    "lysandra-vellune",
-   "kettik-ninth-step"
+   "kettik-ninth-step",
+   "hask-the-red-hand"
   ],
   "illustration": {
    "src": "assets/powers/arbiters-newly-chosen-v2-960.webp",
@@ -49536,6 +49542,205 @@
    "tallymen"
   ],
   "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "hask-the-red-hand",
+  "title": "Hask, the Red Hand",
+  "category": "gods",
+  "region": "All regions",
+  "source": "The Pantheon",
+  "subtitle": "The Red Hand: fury, violence, and the cornered",
+  "summary": "Hask is the god of fury and violence, and the most feared name in the islands. Nobody worships him and nobody can call him by asking. He answers one thing only: someone weak, cornered, with nowhere left to run. What he sends does not stop until everyone who could be a threat is dead.",
+  "epigraph": {
+   "quote": "I did not pray. There was no time to pray. I woke up, and my hands were red, and my daughter was holding my sleeve.",
+   "by": "A net-mender of Keelhaven, to the Arbiter"
+  },
+  "facts": [
+   [
+    "Alignment",
+    "Chaotic Neutral"
+   ],
+   [
+    "Domains",
+    "Fury, violence, reprisal, the cornered"
+   ],
+   [
+    "Symbol",
+    "the print of an open red hand"
+   ],
+   [
+    "Offerings",
+    "none; he takes nothing"
+   ],
+   [
+    "Feast",
+    "none"
+   ],
+   [
+    "He answers",
+    "those the grandmother would have hidden"
+   ],
+   [
+    "He never harms",
+    "the weak: women, grandmothers, children, animals"
+   ],
+   [
+    "Called, under a roof",
+    "Him at the door"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What he is",
+    "paragraphs": [
+     "The Sword is war, and Brakkundr is the army and its steel. Hask is neither. He is the blow itself: the fury that has stopped asking who started it. He has no temple, no priest, no feast day, and no month. Islanders do not say his name under a roof. They say ’Him at the door.’",
+     "He has one rule, and he has never broken it. He does not harm the weak. Women, grandmothers, children, and animals have nothing to fear from him, in any mood. Everyone else does."
+    ]
+   },
+   {
+    "title": "The call",
+    "paragraphs": [
+     "There is no prayer to Hask. Saying his name does nothing, and neither does begging, bargaining, or pretending to be afraid. He can’t be asked.",
+     "He comes at one moment only: when someone weak is truly cornered, and the body understands that there is nowhere left to run and turns to fight. The one who calls him does not choose to. He hears that moment, anywhere in the world, and he answers it."
+    ]
+   },
+   {
+    "title": "Who he answers",
+    "paragraphs": [
+     "The old saying is that he answers whoever the grandmother would have hidden. That means women above all, and grandmothers, and children of either sex. Priests of other gods argue about where the line falls. It has fallen, now and then, on someone nobody expected.",
+     "It never falls on anyone who could have won the fight without him."
+    ]
+   },
+   {
+    "title": "The Red Sleep",
+    "paragraphs": [
+     "The one who called goes under, the way a sleeper does, and something else stands up in them. It is called the Red Sleep. They are called the Red Hand because of how they wake: standing, with their hands full of blood, and no memory of where it came from."
+    ],
+    "list": [
+     "It does not stop until everyone who could be a threat is dead, or until the one who called is dead.",
+     "A threat is anyone who could defend themselves. The man with the knife is a threat. So is the guard running in to help.",
+     "It never touches the weak. A child can walk through the middle of it. A dog can.",
+     "It can’t be reasoned with, bribed, turned, or tired out.",
+     "It has ended early. More than once the Red Sleep has stopped dead because someone defenseless was standing right in front of the sleeper, and there was nobody left to reach except through them."
+    ]
+   },
+   {
+    "title": "Why soldiers fear him",
+    "paragraphs": [
+     "A soldier may be a good man. He may have come to help. Hask does not weigh that. A soldier can defend himself, so a soldier is a threat, and the Red Sleep does not spare threats."
+    ],
+    "list": [
+     "Throwing down a sword does not always save you. The Red Sleep sees what you are, and not only what you are holding.",
+     "Veterans say there is one thing to do if you are in the room when it starts: get behind a child, and stay there.",
+     "Armada marines are taught the signs. A cornered woman who suddenly goes quiet, and stops backing away, is the order to leave.",
+     "The Sword’s chaplains bless a company against wounds, fever, and fear. There is no blessing against Him at the door, and they do not pretend otherwise."
+    ]
+   },
+   {
+    "title": "The Wash-Basket Debt",
+    "paragraphs": [
+     "The story of why is told the same way in every port. Once, the other gods hunted Hask for a killing. He ran until he could not run, and an old washerwoman, somebody’s grandmother, hid him under her laundry. When Law came to her door and asked, she looked the Sun King in the face and lied.",
+     "Hask had never owed anything to anyone, and did not know what to do with it. He has been paying ever since, in the only coin he has. He is not kind. He is in debt, and he pays whoever she would have hidden."
+    ]
+   },
+   {
+    "title": "The Red Aunts",
+    "paragraphs": [
+     "The only people who serve him are women he once answered, and they would not call it serving. They are the Red Aunts. There are a few in every large port, and they answer to nobody."
+    ],
+    "list": [
+     "They do not teach anyone to call him. It can’t be taught.",
+     "They come afterward. They hide the one who woke, wash her hands, deal with what is on the floor, and sit with her until she stops shaking.",
+     "They go unarmed, always. An Aunt carries nothing sharper than a spoon, and has never learned to fight. That is the craft.",
+     "The Standing. When a Red Sleep will not end, the oldest Aunt walks in with empty hands and stands in front of the sleeper. It works only if she is truly defenseless. An Aunt who carried a hidden knife, once, is the reason the rule is kept.",
+     "The red thread. Someone he has answered is called one of the Answered, and may wear a red thread on the left wrist. People who understand it leave her alone."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [],
+    "list": [
+     "A print of a red hand on a doorpost means a Red Aunt lives there. It is the one door in a rough quarter that nobody tries.",
+     "The Arbiters hold that what is done in the Red Sleep is a god’s act and no crime. They have one test: look at the dead. If a child, an old woman, or a dog is among them, it was not Hask, and somebody is lying.",
+     "Ezra’s faithful say it plainly: Ezra holds the shield, and Hask is what comes when the shield was not there.",
+     "Berserkers of the Laughing Beast claim him as a cousin. He has never claimed them.",
+     "The Concord keeps no altar to him and does not preach against him. No priest wants to be the one who told a frightened woman that nobody was coming."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A man is charged with five killings in a Tollmark alley and pleads the Red Sleep. One of the dead is a dog.",
+     "A girl of nine woke with red hands in a house full of slavers. The Red Aunts need her off the island before the slavers’ partners arrive, and nobody in the party may carry a weapon near her.",
+     "Someone is cornering women on purpose, in a place and at an hour of his choosing, so that the Red Sleep falls on the people he wants dead.",
+     "A Red Sleep has been going for an hour in a walled inn-yard. The Aunt who would have stood is ill. The party has to get someone defenseless in front of the sleeper, alive.",
+     "A sergeant who has never lost a fight was passed over by a Red Sleep that killed his whole patrol. He wants to know what it saw in him."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "You can’t call him. A character who tries to is talking to an empty room.",
+     "If it starts near you, drop everything and get low and behind the smallest person there. Then hope.",
+     "Never draw steel near one of the Answered to make a point.",
+     "A player character he has answered wakes with red hands and a gap. What the party saw is theirs to tell."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Washerwomen in the islands are never robbed. Nobody can say when that started.",
+     "Old women hang a wash-basket by the door, mouth down. Ask and they say it is to keep the rain off it.",
+     "Animals do not fear the Red Sleep. Cats have been seen sitting in the doorway, washing."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The old woman with the basket isn’t dead. The Aunts know which port she’s in. That’s who they really answer to.” (a laundress in Goldwind)",
+     "“A whole boarding party went over the rail of a pearl-lugger and none came back. The only one aboard was the cook’s girl, twelve years old, asleep on the hatch with her hands in her lap.” (an Armada coxswain)",
+     "“He answered a man once. A big one, a soldier. Nobody will say what that man had become by then that a grandmother would have hidden him.” (a Red Aunt, to no one in particular)",
+     "“The killing the gods hunted him for? Ask who he did it for. Law never asked.” (a hedge-priest at the Still Days)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBncmFuZG1vdGhlciB3YXMgQ2FzdGVsbHluLioqIFRoZSBPcGVuIEhlYXJ0aCwgZ29kZGVzcyBvZiBndWVzdC1yaWdodCwgaW4gdGhlIHNoYXBlIHNoZSBsaWtlcyBiZXN0LiBTaGUgaGlkIGEgZnVnaXRpdmUgdW5kZXIgaGVyIG93biByb29mIGFuZCBsaWVkIGZvciBoaW0sIGFzIGEgaG9zdCBtdXN0LiBIYXNrIGhhcyBuZXZlciB3b3JrZWQgb3V0IHdobyBzaGUgd2FzLiBUaGUgUmVkIEF1bnRzIGhhdmUsIGFuZCBpdCBpcyB0aGUgb25lIHRoaW5nIHRoZXkgYXJlIGFmcmFpZCB0byB0ZWxsIGhpbS4iLCAiKipUaGUgZmlyc3Qga2lsbGluZyB3YXMgdGhlIGZpcnN0IGFuc3dlci4qKiBXaGF0IHRoZSBnb2RzIGh1bnRlZCBoaW0gZm9yIHdhcyBhIHNsYXVnaHRlciBvZiBhcm1lZCBtZW4gYXJvdW5kIG9uZSBjb3JuZXJlZCBjaGlsZC4gTGF3IGp1ZGdlZCB0aGUgZGVhZCBhbmQgZGlkIG5vdCBhc2sgYWJvdXQgdGhlIGNoaWxkLiBIYXNrIGhhcyBub3QgZm9yZ2l2ZW4gTGF3LCBhbmQgdGhlIFN1biBDb3VydCBrbm93cyBpdC4iLCAiKipJdCBjYW4gYmUgYWltZWQsIGEgbGl0dGxlLioqIFRoZSBjYWxsIGhhcyB0byBiZSByZWFsLCBzbyBpdCBjYW7igJl0IGJlIHN0YWdlZCB3aXRoIGEgd2lsbGluZyB3b21hbi4gQnV0IGEgbWFuIHdobyB0cnVseSBjb3JuZXJzIHNvbWVvbmUgd2VhaywgaW4gYSByb29tIGhlIGNob3NlLCBhbW9uZyBwZW9wbGUgaGUgd2FudHMgZGVhZCwgZ2V0cyB3aGF0IGhlIGFycmFuZ2VkLCBpZiBoZSBjYW4gZ2V0IG91dCBmaXJzdC4gSXQgaGFzIGJlZW4gZG9uZSBhdCB0aGUgRnJvbnQgYXQgbGVhc3QgdHdpY2UuIiwgIioqVGhlIFN0YW5kaW5nIGNvc3RzIHRoZSBBdW50cy4qKiBUaGUgc2xlZXBlciBkb2VzIG5vdCBoYXJtIHRoZSBvbmUgd2hvIHN0YW5kcy4gQnV0IGZvciBhcyBsb25nIGFzIHNoZSBzdGFuZHMgdGhlcmUsIEhhc2sgaXMgbG9va2luZyBhdCBoZXIsIGFuZCBvbGQgd29tZW4gd2hvIGhhdmUgZG9uZSBpdCB0aHJlZSB0aW1lcyBzdG9wIHNsZWVwaW5nLiBUaGUgZWxkZXN0IEF1bnQgaW4gR29sZHdpbmQgaGFzIHN0b29kIGVsZXZlbiB0aW1lcy4iXX0="
+   }
+  ],
+  "related": [
+   "gods-of-the-pantheon",
+   "law-the-sun-king",
+   "ezra",
+   "brakkundr-the-war-forge",
+   "laughing-beast",
+   "castellyn-the-open-hearth",
+   "arbiters",
+   "concord",
+   "armada",
+   "long-war"
+  ],
+  "aliases": [
+   "Him at the door",
+   "Hask",
+   "the Red Hand",
+   "Red Hand",
+   "the Red Sleep",
+   "Red Sleep",
+   "Red Aunts",
+   "the Red Aunts",
+   "Red Aunt",
+   "the Answered",
+   "Wash-Basket Debt",
+   "the Wash-Basket Debt"
+  ],
   "translations": {
    "es": "pending"
   }

@@ -2937,6 +2937,42 @@
   ]
  },
  {
+  "id": "rumor-hask-1",
+  "text": "The old woman with the basket isn’t dead. The Aunts know which port she’s in. That’s who they really answer to.",
+  "heardAt": "heard from a laundress in Goldwind",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
+  "id": "rumor-hask-2",
+  "text": "A whole boarding party went over the rail of a pearl-lugger and none came back. The only one aboard was the cook’s girl, twelve years old, asleep on the hatch with her hands in her lap.",
+  "heardAt": "heard from an Armada coxswain",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
+  "id": "rumor-hask-3",
+  "text": "He answered a man once. A big one, a soldier. Nobody will say what that man had become by then that a grandmother would have hidden him.",
+  "heardAt": "heard from a Red Aunt, to no one in particular",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
+  "id": "rumor-hask-4",
+  "text": "The killing the gods hunted him for? Ask who he did it for. Law never asked.",
+  "heardAt": "heard from a hedge-priest at the Still Days",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",
