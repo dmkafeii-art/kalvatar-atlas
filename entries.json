@@ -49617,7 +49617,7 @@
    {
     "title": "The Red Sleep",
     "paragraphs": [
-     "The one who called goes under, the way a sleeper does, and something else stands up in them. It is called the Red Sleep. They are called the Red Hand because of how they wake: standing, with their hands full of blood, and no memory of where it came from."
+     "The one who called goes under, the way a sleeper does, and something else stands up in them. It is called the Red Sleep. They are called the Red Hand because of how they wake: standing, with their hands full of blood. They do remember it, but the way you remember a bad dream: out of order, from too far away, and never quite sure which parts were real."
     ],
     "list": [
      "It does not stop until everyone who could be a threat is dead, or until the one who called is dead.",
@@ -49649,25 +49649,28 @@
    {
     "title": "The Red Aunts",
     "paragraphs": [
-     "The only people who serve him are women he once answered, and they would not call it serving. They are the Red Aunts. There are a few in every large port, and they answer to nobody."
+     "A few of the women he has answered do not get the dream. They remember all of it, every second, perfectly, for the rest of their lives. Those are the Red Aunts, and they are the nearest thing he has to a priesthood. They answer to nobody.",
+     "They are always the last person you would pick: the ward nurse, the schoolmistress, the village healer, the wet nurse with somebody else’s child on her hip. That is not a disguise. It is who he answers."
     ],
     "list": [
-     "They do not teach anyone to call him. It can’t be taught.",
      "They come afterward. They hide the one who woke, wash her hands, deal with what is on the floor, and sit with her until she stops shaking.",
-     "They go unarmed, always. An Aunt carries nothing sharper than a spoon, and has never learned to fight. That is the craft.",
-     "The Standing. When a Red Sleep will not end, the oldest Aunt walks in with empty hands and stands in front of the sleeper. It works only if she is truly defenseless. An Aunt who carried a hidden knife, once, is the reason the rule is kept.",
-     "The red thread. Someone he has answered is called one of the Answered, and may wear a red thread on the left wrist. People who understand it leave her alone."
+     "They go unarmed, always. An Aunt carries nothing sharper than a spoon and has never learned to fight. The day she could win a fight without him, he would stop answering.",
+     "Some of them can call him. Because an Aunt remembers her own corner perfectly, she can go back and stand in it, and the fear is as true as it was the first time. He can’t tell the difference, or does not care to.",
+     "Some of them can steer it. An Aunt who calls him stays awake inside the Red Sleep. She can’t spare a threat, and she can’t make it touch the weak. But she chooses which door it walks through, and the best of them can say ’enough’ and be heard.",
+     "The Standing. When someone else’s Red Sleep will not end, an Aunt walks in with empty hands and stands in front of the sleeper.",
+     "The red hand. A red handprint on your doorpost in the morning means an Aunt knows what goes on in that house. It is the only warning they give.",
+     "The red thread. Someone he has answered is one of the Answered, and may wear a red thread on the left wrist. People who understand it leave her alone. The Aunts themselves wear nothing."
     ]
    },
    {
     "title": "In the islands",
     "paragraphs": [],
     "list": [
-     "A print of a red hand on a doorpost means a Red Aunt lives there. It is the one door in a rough quarter that nobody tries.",
      "The Arbiters hold that what is done in the Red Sleep is a god’s act and no crime. They have one test: look at the dead. If a child, an old woman, or a dog is among them, it was not Hask, and somebody is lying.",
      "Ezra’s faithful say it plainly: Ezra holds the shield, and Hask is what comes when the shield was not there.",
      "Berserkers of the Laughing Beast claim him as a cousin. He has never claimed them.",
-     "The Concord keeps no altar to him and does not preach against him. No priest wants to be the one who told a frightened woman that nobody was coming."
+     "The Concord keeps no altar to him and does not preach against him. No priest wants to be the one who told a frightened woman that nobody was coming.",
+     "The Concord does fear the Aunts. A woman who can bring Him at the door on purpose is a weapon nobody commands, and the Concord keeps a list of every one it suspects, called the Red Roll. It watches them and has never dared to move against one. Most of the names on it are wrong."
     ]
    },
    {
@@ -49678,6 +49681,7 @@
      "A girl of nine woke with red hands in a house full of slavers. The Red Aunts need her off the island before the slavers’ partners arrive, and nobody in the party may carry a weapon near her.",
      "Someone is cornering women on purpose, in a place and at an hour of his choosing, so that the Red Sleep falls on the people he wants dead.",
      "A Red Sleep has been going for an hour in a walled inn-yard. The Aunt who would have stood is ill. The party has to get someone defenseless in front of the sleeper, alive.",
+     "A Concord watcher has been following a midwife for a year and is now sure she is on the Red Roll by mistake. The real Aunt is whoever has been watching him.",
      "A sergeant who has never lost a fight was passed over by a Red Sleep that killed his whole patrol. He wants to know what it saw in him."
     ]
    },
@@ -49685,10 +49689,11 @@
     "title": "Tips",
     "paragraphs": [],
     "list": [
-     "You can’t call him. A character who tries to is talking to an empty room.",
+     "You can’t call him. A character who tries to is talking to an empty room. The only people who can are the ones who would rather not have learned how.",
      "If it starts near you, drop everything and get low and behind the smallest person there. Then hope.",
      "Never draw steel near one of the Answered to make a point.",
-     "A player character he has answered wakes with red hands and a gap. What the party saw is theirs to tell."
+     "A player character he has answered wakes with red hands and a memory like a bad dream. What the party saw clearly is theirs to tell.",
+     "Be polite to the schoolmistress."
     ]
    },
    {
@@ -49712,7 +49717,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBncmFuZG1vdGhlciB3YXMgQ2FzdGVsbHluLioqIFRoZSBPcGVuIEhlYXJ0aCwgZ29kZGVzcyBvZiBndWVzdC1yaWdodCwgaW4gdGhlIHNoYXBlIHNoZSBsaWtlcyBiZXN0LiBTaGUgaGlkIGEgZnVnaXRpdmUgdW5kZXIgaGVyIG93biByb29mIGFuZCBsaWVkIGZvciBoaW0sIGFzIGEgaG9zdCBtdXN0LiBIYXNrIGhhcyBuZXZlciB3b3JrZWQgb3V0IHdobyBzaGUgd2FzLiBUaGUgUmVkIEF1bnRzIGhhdmUsIGFuZCBpdCBpcyB0aGUgb25lIHRoaW5nIHRoZXkgYXJlIGFmcmFpZCB0byB0ZWxsIGhpbS4iLCAiKipUaGUgZmlyc3Qga2lsbGluZyB3YXMgdGhlIGZpcnN0IGFuc3dlci4qKiBXaGF0IHRoZSBnb2RzIGh1bnRlZCBoaW0gZm9yIHdhcyBhIHNsYXVnaHRlciBvZiBhcm1lZCBtZW4gYXJvdW5kIG9uZSBjb3JuZXJlZCBjaGlsZC4gTGF3IGp1ZGdlZCB0aGUgZGVhZCBhbmQgZGlkIG5vdCBhc2sgYWJvdXQgdGhlIGNoaWxkLiBIYXNrIGhhcyBub3QgZm9yZ2l2ZW4gTGF3LCBhbmQgdGhlIFN1biBDb3VydCBrbm93cyBpdC4iLCAiKipJdCBjYW4gYmUgYWltZWQsIGEgbGl0dGxlLioqIFRoZSBjYWxsIGhhcyB0byBiZSByZWFsLCBzbyBpdCBjYW7igJl0IGJlIHN0YWdlZCB3aXRoIGEgd2lsbGluZyB3b21hbi4gQnV0IGEgbWFuIHdobyB0cnVseSBjb3JuZXJzIHNvbWVvbmUgd2VhaywgaW4gYSByb29tIGhlIGNob3NlLCBhbW9uZyBwZW9wbGUgaGUgd2FudHMgZGVhZCwgZ2V0cyB3aGF0IGhlIGFycmFuZ2VkLCBpZiBoZSBjYW4gZ2V0IG91dCBmaXJzdC4gSXQgaGFzIGJlZW4gZG9uZSBhdCB0aGUgRnJvbnQgYXQgbGVhc3QgdHdpY2UuIiwgIioqVGhlIFN0YW5kaW5nIGNvc3RzIHRoZSBBdW50cy4qKiBUaGUgc2xlZXBlciBkb2VzIG5vdCBoYXJtIHRoZSBvbmUgd2hvIHN0YW5kcy4gQnV0IGZvciBhcyBsb25nIGFzIHNoZSBzdGFuZHMgdGhlcmUsIEhhc2sgaXMgbG9va2luZyBhdCBoZXIsIGFuZCBvbGQgd29tZW4gd2hvIGhhdmUgZG9uZSBpdCB0aHJlZSB0aW1lcyBzdG9wIHNsZWVwaW5nLiBUaGUgZWxkZXN0IEF1bnQgaW4gR29sZHdpbmQgaGFzIHN0b29kIGVsZXZlbiB0aW1lcy4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBncmFuZG1vdGhlciB3YXMgQ2FzdGVsbHluLioqIFRoZSBPcGVuIEhlYXJ0aCwgZ29kZGVzcyBvZiBndWVzdC1yaWdodCwgaW4gdGhlIHNoYXBlIHNoZSBsaWtlcyBiZXN0LiBTaGUgaGlkIGEgZnVnaXRpdmUgdW5kZXIgaGVyIG93biByb29mIGFuZCBsaWVkIGZvciBoaW0sIGFzIGEgaG9zdCBtdXN0LiBIYXNrIGhhcyBuZXZlciB3b3JrZWQgb3V0IHdobyBzaGUgd2FzLiBUaGUgUmVkIEF1bnRzIGhhdmUsIGFuZCBpdCBpcyB0aGUgb25lIHRoaW5nIHRoZXkgYXJlIGFmcmFpZCB0byB0ZWxsIGhpbS4iLCAiKipUaGUgZmlyc3Qga2lsbGluZyB3YXMgdGhlIGZpcnN0IGFuc3dlci4qKiBXaGF0IHRoZSBnb2RzIGh1bnRlZCBoaW0gZm9yIHdhcyBhIHNsYXVnaHRlciBvZiBhcm1lZCBtZW4gYXJvdW5kIG9uZSBjb3JuZXJlZCBjaGlsZC4gTGF3IGp1ZGdlZCB0aGUgZGVhZCBhbmQgZGlkIG5vdCBhc2sgYWJvdXQgdGhlIGNoaWxkLiBIYXNrIGhhcyBub3QgZm9yZ2l2ZW4gTGF3LCBhbmQgdGhlIFN1biBDb3VydCBrbm93cyBpdC4iLCAiKipJdCBjYW4gYmUgYWltZWQsIGEgbGl0dGxlLioqIFRoZSBjYWxsIGhhcyB0byBiZSByZWFsLCBzbyBpdCBjYW7igJl0IGJlIHN0YWdlZCB3aXRoIGEgd2lsbGluZyB3b21hbi4gQnV0IGEgbWFuIHdobyB0cnVseSBjb3JuZXJzIHNvbWVvbmUgd2VhaywgaW4gYSByb29tIGhlIGNob3NlLCBhbW9uZyBwZW9wbGUgaGUgd2FudHMgZGVhZCwgZ2V0cyB3aGF0IGhlIGFycmFuZ2VkLCBpZiBoZSBjYW4gZ2V0IG91dCBmaXJzdC4gSXQgaGFzIGJlZW4gZG9uZSBhdCB0aGUgRnJvbnQgYXQgbGVhc3QgdHdpY2UuIiwgIioqVGhlIFN0YW5kaW5nIGNvc3RzIHRoZSBBdW50cy4qKiBUaGUgc2xlZXBlciBkb2VzIG5vdCBoYXJtIHRoZSBvbmUgd2hvIHN0YW5kcy4gQnV0IGZvciBhcyBsb25nIGFzIHNoZSBzdGFuZHMgdGhlcmUsIEhhc2sgaXMgbG9va2luZyBhdCBoZXIsIGFuZCBvbGQgd29tZW4gd2hvIGhhdmUgZG9uZSBpdCB0aHJlZSB0aW1lcyBzdG9wIHNsZWVwaW5nLiBUaGUgZWxkZXN0IEF1bnQgaW4gR29sZHdpbmQgaGFzIHN0b29kIGVsZXZlbiB0aW1lcy4iLCAiKipXaGF0IGNvbnRyb2wgY29zdHMuKiogQW4gQXVudCB3aG8gY2FsbHMgaGltIGhhcyB0byBnbyBiYWNrIGludG8gdGhlIHdvcnN0IG1pbnV0ZSBvZiBoZXIgbGlmZSwgb24gcHVycG9zZSwgYW5kIG1lYW4gaXQuIEVhY2ggdGltZSwgYSBsaXR0bGUgbW9yZSBvZiBoZXIgc3RheXMgdGhlcmUuIFRoZSBvbGQgb25lcyBhcmUgdmVyeSBjYWxtLCBhbmQgaXQgaXMgbm90IHBlYWNlLiBBbmQgdGhlIHN0ZWVyaW5nIG9ubHkgZ29lcyBzbyBmYXI6IGFuIEF1bnQgd2hvIHRyaWVkIHRvIHR1cm4gYSBSZWQgU2xlZXAgYXdheSBmcm9tIGEgbWFuIHNoZSBsb3ZlZCBsZWFybmVkIHRoYXQg4oCZZW5vdWdo4oCZIGlzIGEgcmVxdWVzdC4iLCAiKipUaGUgUmVkIFJvbGwqKiBoYXMgYWJvdXQgdGhyZWUgaHVuZHJlZCBuYW1lcy4gVGhlIENvbmNvcmTigJlzIG93biBjb3VudCBvZiB0cnVlIEF1bnRzIGlzIHVuZGVyIGZvcnR5LiBUaGUgQXVudHMga25vdyBhYm91dCB0aGUgUm9sbCwgaGF2ZSByZWFkIGl0LCBhbmQgaGF2ZSBhZGRlZCBuYW1lcyB0byBpdC4iXX0="
    }
   ],
   "related": [
@@ -49738,6 +49743,8 @@
    "the Red Aunts",
    "Red Aunt",
    "the Answered",
+   "the Red Roll",
+   "Red Roll",
    "Wash-Basket Debt",
    "the Wash-Basket Debt"
   ],
