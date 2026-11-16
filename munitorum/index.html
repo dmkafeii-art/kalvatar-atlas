@@ -623,6 +623,201 @@ document.addEventListener('change',e=>{if(e.target.id==='focusUnitSelect'){focus
 $('#importFile').addEventListener('change',async e=>{const file=e.target.files[0];e.target.value='';if(!file)return;if(file.size>10*1024*1024){toast('File too large (maximum 10 MB).');return}try{const text=await file.text();const restored=normalize(JSON.parse(text));if(!confirm(`Replace your data with this backup? (${restored.inventory.length} records, ${restored.armies.length} rosters)`))return;db=upgradeDB(restored);selectedArmyId=db.armies[0]?.id||'';if(db.weapons[0])loadCalcProfile(db.weapons[0]);persist();navigate('dashboard');toast('Backup restored.')}catch(err){toast(err.message||'Could not read the file.')}});
 window.addEventListener('hashchange',()=>{const p=location.hash.slice(1);if(LABELS[p]&&p!==page){page=p;render()}});
 window.addEventListener('keydown',e=>{if(e.key==='Escape'){closeModal();$('#sidebar').classList.remove('open');$('#backdrop').classList.remove('show')}});
+/* MUNITORUM Datasheet Library · 11th ed. core-stat catalogue · 2026-11-15
+   Sources: Tactical40k (30 October 2026), Warhammer Community downloads,
+   selected 11th edition Wahapedia profiles; facts only, not full codex text.
+   Data already entered by the user is never overwritten. */
+{
+const mStyle=document.createElement('style');
+mStyle.textContent=`
+.ds-banner{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:center;background:linear-gradient(110deg,#25352b,#19241e);border:1px solid #556b52;padding:19px 20px;border-radius:14px;margin-bottom:18px}
+.ds-banner h3{margin:0 0 6px;font-size:17px}.ds-banner p{margin:0;font-size:12px;color:#b6c4b3;line-height:1.55}
+.ds-summary{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0 17px}.ds-summary .ds-pill{border:1px solid #556a56;border-radius:7px;background:#24352a;color:#dce5d4;padding:6px 10px;font-size:11px;font-weight:800}
+.ds-section-label{font-size:11px;letter-spacing:.15em;font-weight:800;color:#b5bf9c;margin:19px 0 10px}
+.ds-card-library{display:grid;grid-template-columns:repeat(auto-fit,minmax(285px,1fr));gap:12px}
+.ds-card-library .datasheet-card{padding:18px;border-radius:12px;border:1px solid #46564a;background:#1b261f;min-width:0}
+.ds-card-library .datasheet-card h3{font-size:18px;line-height:1.15;margin:6px 0 14px}
+.ds-card-library .ds-top{display:flex;gap:8px;align-items:flex-start;justify-content:space-between}
+.ds-card-library .ds-role{font-size:10px;letter-spacing:.09em;color:#a4b5a5;font-weight:800;text-transform:uppercase}
+.ds-card-library .ds-core{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:5px;margin:12px 0}
+.ds-card-library .ds-core span{background:#26322a;border:1px solid #3d5141;border-radius:8px;text-align:center;padding:7px 1px;min-width:0}
+.ds-card-library .ds-core small{display:block;font-size:9px;color:#92a697}.ds-card-library .ds-core strong{display:block;font-size:14px;color:#eff4e9;margin-top:5px}
+.ds-card-library .ds-meta{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;font-size:11px;color:#b9c3b6;margin:9px 0 14px}
+.ds-card-library .ds-card-actions{display:grid;grid-template-columns:1fr auto;gap:8px}
+.ds-card-library .ds-card-actions button{min-height:40px}
+.ds-badge{display:inline-flex;padding:5px 8px;border:1px solid #577059;background:#2e3e2f;border-radius:6px;font-size:10px;color:#d1e0c6;font-weight:800;white-space:nowrap}
+.ds-badge.pending{background:#342e22;border-color:#6b5b40;color:#e8d6ab}
+.ds-dlg .ds-core{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:7px;margin:15px 0}
+.ds-dlg .ds-core span{padding:14px 4px;text-align:center;background:#27352b;border:1px solid #536c54;border-radius:9px}
+.ds-dlg .ds-core small{display:block;color:#a3b8a5;font-size:10px;margin-bottom:6px}.ds-dlg .ds-core strong{font-size:21px;color:#eff5e9}
+.ds-dlg .ds-weapon-table{width:100%;border-collapse:collapse;font-size:12px;margin-top:8px}
+.ds-dlg .ds-weapon-table th,.ds-dlg .ds-weapon-table td{padding:11px 8px;text-align:left;border-bottom:1px solid #3b4b40}
+.ds-dlg .ds-weapon-table th{font-size:10px;letter-spacing:.08em;color:#a4b3a2}
+.ds-dlg .ds-scroll{overflow-x:auto;max-width:100%}
+.ds-dlg .ds-note{padding:12px 14px;border:1px solid #4c5844;background:#252d25;border-radius:9px;color:#cdd7c9;font-size:12px;margin:12px 0}
+.ds-dlg .ds-links{display:flex;gap:7px;flex-wrap:wrap;margin-top:14px}
+.ds-open-filter{display:flex;gap:7px;flex-wrap:wrap}.ds-open-filter button{min-height:40px}
+@media(max-width:780px){.ds-banner{grid-template-columns:1fr}.ds-card-library{grid-template-columns:1fr}.ds-dlg .ds-core{grid-template-columns:repeat(3,minmax(0,1fr))}.ds-card-library .ds-core{grid-template-columns:repeat(6,minmax(0,1fr))}.ds-dlg .ds-weapon-table{min-width:620px}}
+`;
+document.head.appendChild(mStyle);
+}
+const DS_SOURCE='https://tactical40k.com/codex/astra-militarum';
+const DS_OFFICIAL='https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/';
+const DS_WAHAPEDIA='https://wahapedia.ru/wh40k11ed/factions/astra-militarum/';
+// Name | role | M | T | Sv | W | Ld | OC | first-unit/base points | primary keywords.
+// The listed price is NOT a validated final roster price, due to size and repeat-unit rules.
+const CORE_DS=[
+ ['Baneblade','Titanic · Vehicle','12"',13,'2+',24,'7+',8,415,'VEHICLE, TITANIC, SQUADRON, ASTRA MILITARUM'],
+ ['Rogal Dorn Commander','Character · Vehicle','10"',12,'2+',18,'7+',5,290,'VEHICLE, CHARACTER, SQUADRON, ASTRA MILITARUM'],
+ ['Leman Russ Commander','Character · Vehicle','10"',11,'2+',13,'7+',3,195,'VEHICLE, CHARACTER, SQUADRON, ASTRA MILITARUM'],
+ ['Leman Russ Battle Tank','Vehicle','10"',11,'2+',13,'7+',3,160,'VEHICLE, SQUADRON, ASTRA MILITARUM'],
+ ['Leman Russ Exterminator','Vehicle','10"',11,'2+',13,'7+',3,160,'VEHICLE, SQUADRON, ASTRA MILITARUM'],
+ ['Leman Russ Vanquisher','Vehicle','10"',11,'2+',13,'7+',3,130,'VEHICLE, SQUADRON, ASTRA MILITARUM'],
+ ['Leman Russ Executioner','Vehicle','10"',11,'2+',13,'7+',3,145,'VEHICLE, SQUADRON, ASTRA MILITARUM'],
+ ['Basilisk','Vehicle · Artillery','10"',9,'3+',11,'7+',3,115,'VEHICLE, ARTILLERY, ASTRA MILITARUM'],
+ ['Chimera','Dedicated Transport · Vehicle','10"',9,'3+',11,'7+',2,75,'VEHICLE, TRANSPORT, ASTRA MILITARUM'],
+ ['Scout Sentinel','Walker · Vehicle','10"',7,'3+',7,'7+',2,55,'VEHICLE, WALKER, ASTRA MILITARUM'],
+ ['Cadian Shock Troops','Battleline · Infantry','6"',3,'5+',1,'7+',2,70,'INFANTRY, BATTLELINE, REGIMENT, ASTRA MILITARUM'],
+ ['Cadian Shock Troops (new sculpts)','Battleline · Infantry','6"',3,'5+',1,'7+',2,70,'INFANTRY, BATTLELINE, REGIMENT, ASTRA MILITARUM'],
+ ['Cadian Shock Troops (classic sculpts)','Battleline · Infantry','6"',3,'5+',1,'7+',2,70,'INFANTRY, BATTLELINE, REGIMENT, ASTRA MILITARUM'],
+ ['Death Korps of Krieg','Battleline · Infantry','6"',3,'5+',1,'7+',2,70,'INFANTRY, BATTLELINE, REGIMENT, ASTRA MILITARUM'],
+ ['Kasrkin','Infantry','6"',3,'4+',1,'7+',1,105,'INFANTRY, REGIMENT, ASTRA MILITARUM'],
+ ['Krieg Engineers','Infantry','6"',3,'4+',1,'7+',1,65,'INFANTRY, ASTRA MILITARUM'],
+ ['Krieg Combat Engineers','Infantry','6"',3,'4+',1,'7+',1,65,'INFANTRY, ASTRA MILITARUM'],
+ ['Cadian Recon Squad','Infantry','6"',3,'5+',1,'7+',1,80,'INFANTRY, REGIMENT, ASTRA MILITARUM'],
+ ['Tempestus Aquilons','Infantry','6"',3,'4+',1,'7+',1,95,'INFANTRY, ASTRA MILITARUM'],
+ ['Bullgryn','Infantry','6"',6,'3+',3,'7+',1,90,'INFANTRY, OGRYN, ASTRA MILITARUM'],
+ ['Bullgryn Squad','Infantry','6"',6,'3+',3,'7+',1,90,'INFANTRY, OGRYN, ASTRA MILITARUM'],
+ ['Death Riders','Mounted','10"',4,'4+',2,'7+',1,60,'MOUNTED, ASTRA MILITARUM'],
+ ['Hippogriff AFV','Vehicle','12"',8,'3+',7,'7+',2,70,'VEHICLE, ASTRA MILITARUM'],
+ ['Krieg Artillery Team','Infantry · Artillery','3"',7,'3+',10,'7+',3,95,'INFANTRY, ARTILLERY, ASTRA MILITARUM'],
+ ['Artillery Team','Infantry · Artillery','3"',7,'3+',10,'7+',3,95,'INFANTRY, ARTILLERY, ASTRA MILITARUM'],
+ ['Krieg Heavy Weapons Team','Infantry','4"',3,'4+',2,'7+',1,70,'INFANTRY, ASTRA MILITARUM'],
+ ['Krieg Heavy Weapons Squad','Infantry','4"',3,'4+',2,'7+',1,70,'INFANTRY, ASTRA MILITARUM'],
+ ['Cadian Castellan','Character · Infantry','6"',3,'5+',4,'7+',1,55,'CHARACTER, OFFICER, ASTRA MILITARUM'],
+ ['Cadian Command Squad','Character · Infantry','6"',3,'5+',3,'7+',1,60,'CHARACTER, OFFICER, ASTRA MILITARUM'],
+ ['Krieg Command Squad','Character · Infantry','6"',3,'5+',3,'6+',1,60,'CHARACTER, OFFICER, ASTRA MILITARUM'],
+ ['Commissar (generic)','Character · Infantry','6"',3,'5+',3,'6+',1,30,'CHARACTER, OFFICER, ASTRA MILITARUM'],
+ ['Commissar','Character · Infantry','6"',3,'5+',3,'6+',1,30,'CHARACTER, OFFICER, ASTRA MILITARUM'],
+ ['Tempestus Scions Command Squad','Character · Infantry','6"',3,'4+',1,'7+',1,85,'CHARACTER, OFFICER, ASTRA MILITARUM'],
+ ['Militarum Tempestus Command Squad','Character · Infantry','6"',3,'4+',1,'7+',1,85,'CHARACTER, OFFICER, ASTRA MILITARUM'],
+ ['Tech-Priest Enginseer','Character · Infantry','6"',4,'3+',3,'7+',1,45,'CHARACTER, ASTRA MILITARUM'],
+ ['Lord Solar Leontus','Epic Hero · Mounted','12"',4,'3+',8,'6+',2,120,'CHARACTER, EPIC HERO, MOUNTED, ASTRA MILITARUM'],
+ ['Lord Marshal Dreir','Epic Hero · Mounted','10"',4,'4+',6,'7+',2,70,'CHARACTER, EPIC HERO, MOUNTED, ASTRA MILITARUM'],
+ ['Ursula Creed','Epic Hero · Infantry','6"',3,'4+',4,'7+',1,85,'CHARACTER, EPIC HERO, ASTRA MILITARUM'],
+ ['Commissar Yarrick','Epic Hero · Infantry','6"',4,'4+',5,'6+',1,110,'CHARACTER, EPIC HERO, ASTRA MILITARUM'],
+ ['Commissar Graves','Epic Hero · Vehicle','12"',8,'3+',12,'6+',5,125,'VEHICLE, EPIC HERO, ASTRA MILITARUM'],
+ ['Gaunt’s Ghosts','Epic Hero · Infantry','6"',3,'4+',3,'6+',1,95,'EPIC HERO, INFANTRY, ASTRA MILITARUM'],
+ ['Rogal Dorn Battle Tank','Vehicle','10"',12,'2+',18,'7+',5,260,'VEHICLE, SQUADRON, ASTRA MILITARUM'],
+ ['Armoured Sentinels','Walker · Vehicle','8"',8,'2+',7,'7+',2,65,'VEHICLE, WALKER, ASTRA MILITARUM'],
+ ['Centaur RSV','Dedicated Transport · Vehicle','12"',7,'3+',10,'7+',2,65,'VEHICLE, TRANSPORT, ASTRA MILITARUM']
+];
+const DS_WARGEAR=[
+ ['Baneblade','Baneblade cannon','3D6',4,12,-2,'3','72"',{blast:1}],
+ ['Baneblade','Coaxial autocannon','2',4,9,-1,'3','48"',{}],
+ ['Baneblade','Demolisher cannon','D6+3',4,14,-3,'D6','24"',{blast:1}],
+ ['Baneblade','Heavy stubber','3',4,4,0,'1','36"',{rapid:3}],
+ ['Baneblade','Lascannon','1',4,12,-3,'D6+1','48"',{}],
+ ['Baneblade','Twin heavy bolter','3',4,5,-1,'2','36"',{sustained:1,twin:true}],
+ ['Baneblade','Twin heavy flamer','D6',4,5,-1,'1','12"',{torrent:true,twin:true}],
+ ['Cadian Shock Troops (new sculpts)','Lasgun','1',4,3,0,'1','24"',{rapid:1}],
+ ['Cadian Shock Troops (new sculpts)','Plasma gun – standard','1',4,7,-2,'1','24"',{rapid:1}],
+ ['Cadian Shock Troops (new sculpts)','Plasma gun – supercharge','1',4,8,-3,'2','24"',{rapid:1}],
+ ['Cadian Shock Troops (new sculpts)','Meltagun','1',4,9,-4,'D6','12"',{}],
+ ['Cadian Shock Troops (new sculpts)','Grenade launcher – frag','D3',4,4,0,'1','24"',{blast:1}],
+ ['Cadian Shock Troops (new sculpts)','Grenade launcher – krak','1',4,9,-2,'D3','24"',{}],
+ ['Cadian Shock Troops (classic sculpts)','Lasgun','1',4,3,0,'1','24"',{rapid:1}],
+ ['Leman Russ Battle Tank','Leman Russ battle cannon','D6+3',4,10,-1,'3','48"',{blast:1}],
+ ['Leman Russ Battle Tank','Heavy bolter','3',4,5,-1,'2','36"',{sustained:1}],
+ ['Leman Russ Battle Tank','Lascannon','1',4,12,-3,'D6+1','48"',{}],
+ ['Leman Russ Battle Tank','Hunter-killer missile','1',4,14,-3,'D6','48"',{}],
+ ['Leman Russ Battle Tank','Multi-melta','2',4,9,-4,'D6','18"',{}],
+ ['Rogal Dorn Commander','Oppressor cannon','D6+3',4,12,-2,'3','72"',{blast:1}],
+ ['Rogal Dorn Commander','Pulveriser cannon','D6',4,9,-3,'3','24"',{blast:1}],
+ ['Rogal Dorn Commander','Twin battle cannon','D6+3',4,10,-1,'3','48"',{blast:1,twin:true}],
+ ['Rogal Dorn Commander','Castigator gatling cannon','12',4,5,0,'1','24"',{}],
+ ['Rogal Dorn Commander','Coaxial autocannon','2',4,9,-1,'3','48"',{}],
+ ['Rogal Dorn Commander','Multi-melta','2',4,9,-4,'D6','18"',{}],
+ ['Kasrkin','Hot-shot lasgun','1',3,3,-1,'1','24"',{rapid:1}],
+ ['Kasrkin','Hot-shot volley gun','2',3,4,-1,'1','30"',{rapid:2}],
+ ['Kasrkin','Hot-shot marksman rifle','1',3,4,-2,'3','36"',{heavy:true}],
+ ['Kasrkin','Plasma gun – standard','1',3,7,-2,'1','24"',{rapid:1}],
+ ['Kasrkin','Plasma gun – supercharge','1',3,8,-3,'2','24"',{rapid:1}],
+ ['Kasrkin','Grenade launcher – frag','D3',3,4,0,'1','24"',{blast:1}],
+ ['Kasrkin','Grenade launcher – krak','1',3,9,-2,'D3','24"',{}]
+];
+let dsOwnedOnly=true;
+const dsResolve=(name)=>db.datasheets.find(s=>s.name.toLowerCase()===String(name||'').toLowerCase())||null;
+const dsHasStats=(d)=>!!(d&&d.move&&d.toughness&&d.save&&d.wounds&&d.leadership&&d.oc);
+const dsOwned=(d)=>db.inventory.some(x=>x.name.toLowerCase()===String(d.name).toLowerCase());
+const dsStats=(d)=>[['M',d.move],['T',d.toughness],['Sv',d.save],['W',d.wounds],['Ld',d.leadership],['OC',d.oc]];
+const dsStatGrid=(d)=>`<div class="ds-core">${dsStats(d).map(([lab,v])=>`<span><small>${h(lab)}</small><strong>${h(v||'—')}</strong></span>`).join('')}</div>`;
+const dsFriendly=(d)=>d.profileVerified?'PROFILE LOADED':dsHasStats(d)?'CUSTOM PROFILE':'TO COMPLETE';
+function dsSeedLibrary(){
+ if(db.basicDatasheetCatalogVersion===2)return;
+ let touched=false;
+ for(const row of CORE_DS){const [name,role,move,toughness,save,wounds,leadership,oc,points,keywords]=row;let d=dsResolve(name);
+  if(!d){d=newSheet(name);db.datasheets.push(d);touched=true;}
+  if(d.verified)continue;
+  for(const [key,value] of Object.entries({role,move,toughness:String(toughness),save,wounds:String(wounds),leadership,oc:String(oc)}))if(!d[key]){d[key]=value;touched=true;}
+  // Do not modify user-supplied points or user notes; first-unit base reference is separate.
+  if(!d.keywords||d.keywords==='ASTRA MILITARUM'){d.keywords=keywords;touched=true;}
+  if(!d.source||d.source===DS_OFFICIAL){d.source=DS_SOURCE;touched=true;}
+  if(!d.catalogBasePoints){d.catalogBasePoints=String(points);touched=true;}
+  if(!d.catalogSourceDate){d.catalogSourceDate='2026-10-30';touched=true;}
+  if(!d.profileVerified&&dsHasStats(d)){d.profileVerified=true;touched=true;}
+  if(!d.catalogCanonical){d.catalogCanonical=name.includes('Cadian Shock Troops')?'Cadian Shock Troops':name==='Krieg Engineers'?'Krieg Combat Engineers':name==='Bullgryn'?'Bullgryn Squad':name==='Scout Sentinel'?'Scout Sentinels':name==='Krieg Artillery Team'?'Artillery Team':name==='Krieg Heavy Weapons Team'?'Krieg Heavy Weapons Squad':name==='Tempestus Scions Command Squad'?'Militarum Tempestus Command Squad':name;touched=true;}
+  if(name==='Cadian Shock Troops (new sculpts)'||name==='Cadian Shock Troops (classic sculpts)'||name==='Cadian Shock Troops'){d.catalogSourceUrl=DS_WAHAPEDIA+'Cadian-Shock-Troops';}
+  if(name==='Baneblade')d.catalogSourceUrl=DS_WAHAPEDIA+'Baneblade';
+  if(name==='Kasrkin')d.catalogSourceUrl=DS_WAHAPEDIA+'Kasrkin';
+  if(name==='Rogal Dorn Commander')d.catalogSourceUrl=DS_WAHAPEDIA+'Rogal-Dorn-Commander';
+  if(name==='Leman Russ Battle Tank')d.catalogSourceUrl=DS_WAHAPEDIA+'Leman-Russ-Battle-Tank';
+ }
+ for(const [unit,name,attacks,bs,strength,ap,damage,range,keywords] of DS_WARGEAR){
+  let w=db.weapons.find(w=>w.unit===unit&&w.name.toLowerCase()===name.toLowerCase());
+  if(w&&!w.demo)continue;
+  if(!w){w={id:id(),name,unit};db.weapons.push(w);touched=true;}
+  Object.assign(w,{attacks,bs,strength,ap,damage,range,keywords,notes:'11th-edition weapon profile. Check restrictions, weapon options and recent balance updates against the official Warhammer app.',demo:false,catalogVerified:true});touched=true;
+ }
+ db.basicDatasheetCatalogVersion=2;
+ if(touched)persist();
+}
+function dsWeapons(d){const names=new Set([d.name, d.catalogCanonical].filter(Boolean).map(x=>x.toLowerCase()));return db.weapons.filter(w=>names.has(w.unit.toLowerCase())).sort((a,b)=>a.name.localeCompare(b.name));}
+function dsOpen(d){if(!d)return;
+ const weapons=dsWeapons(d);const abilities=d.abilities||[];const src=d.catalogSourceUrl||DS_SOURCE;
+ const warning=`<div class="ds-note">${d.profileVerified?'Core characteristics have been checked against an October 2026 community reference.':'This datasheet still has unverified or missing fields.'} Full abilities, wargear restrictions and points for repeated units must be checked against current official rules before playing.</div>`;
+ const body=`<div class="ds-dlg"><div class="ds-summary"><span class="ds-badge ${d.profileVerified?'':'pending'}">${dsFriendly(d)}</span><span class="ds-pill">${h(d.role||'ROLE PENDING')}</span>${dsOwned(d)?'<span class="ds-pill">IN YOUR COLLECTION</span>':''}</div>${dsStatGrid(d)}<div class="ds-summary"><span class="ds-pill">First-unit reference: ${h(d.catalogBasePoints||'—')} pts</span><span class="ds-pill">Inv. save: ${h(d.invulnerable||'—')}</span></div>${warning}
+ <div class="ds-section-label">WEAPON PROFILES</div>${weapons.length?`<div class="ds-scroll"><table class="ds-weapon-table"><thead><tr><th>WEAPON</th><th>RANGE</th><th>A</th><th>BS/WS</th><th>S</th><th>AP</th><th>D</th><th>USE</th></tr></thead><tbody>${weapons.map(w=>`<tr><td><strong>${h(w.name)}</strong>${w.demo?'<div class="small-note">DEMO / UNVERIFIED</div>':''}</td><td>${h(w.range||'—')}</td><td>${h(w.attacks)}</td><td>${h(w.bs)}+</td><td>${h(w.strength)}</td><td>${h(w.ap)}</td><td>${h(w.damage)}</td><td><button type="button" class="btn small" data-action="ds-calc-weapon" data-id="${h(w.id)}">Calculate</button></td></tr>`).join('')}</tbody></table></div>`:'<div class="ds-note">Weapon profiles not loaded for this unit yet. Add them in Armoury, or use the source link below.</div>'}
+ <div class="ds-section-label">ABILITIES & OPTIONS</div>${abilities.length?abilities.map(a=>`<div class="descriptor"><strong>${h(a.name)}</strong><div class="small-note">${h(a.description||'Effect not entered')}</div></div>`).join(''):'<p class="muted tiny">No complete ability text has been entered. Check the 11th-edition reference before using this unit.</p>'}${d.wargearNotes?`<div class="ds-note">Wargear: ${h(d.wargearNotes)}</div>`:''}
+ <div class="ds-section-label">KEYWORDS</div><div class="catalog-tags">${String(d.keywords||'ASTRA MILITARUM').split(',').map(k=>`<span class="mini-tag">${h(k.trim())}</span>`).join('')}</div>
+ <div class="ds-links"><a href="${h(src)}" target="_blank" rel="noopener noreferrer" class="btn small">View 11th edition reference ↗</a><a href="${DS_OFFICIAL}" target="_blank" rel="noopener noreferrer" class="btn small">Official updates ↗</a><button type="button" class="btn small" data-action="edit-sheet" data-id="${h(d.id)}">Edit profile</button></div></div>`;
+ openModal(d.name,body,()=>closeModal(),'Close');
+}
+const oldDatasheetsView=viewDatasheets;
+viewDatasheets=function(){dsSeedLibrary();
+ const owned=db.datasheets.filter(dsOwned);const candidates=db.datasheets.filter(d=>!dsOwnedOnly||dsOwned(d));
+ const matches=candidates.filter(d=>[d.name,d.role,d.keywords,d.catalogCanonical,d.notes].join(' ').toLowerCase().includes(dsQuery.toLowerCase())).sort((a,b)=>Number(dsHasStats(b))-Number(dsHasStats(a))||a.name.localeCompare(b.name));
+ const ready=owned.filter(dsHasStats).length;
+ const cards=matches.map(d=>`<article class="datasheet-card"><div class="ds-top"><span class="ds-role">${h(d.role||'ROLE PENDING')}</span><span class="ds-badge ${dsHasStats(d)?'':'pending'}">${h(dsFriendly(d))}</span></div><h3>${h(d.name)}</h3>${dsStatGrid(d)}<div class="ds-meta"><span>${d.catalogBasePoints?`BASE ${h(d.catalogBasePoints)} pts`:'POINTS PENDING'}</span><span>${dsWeapons(d).length} WEAPONS</span></div><div class="ds-card-actions"><button class="btn gold" data-action="ds-open" data-id="${h(d.id)}">Open Datasheet</button><button class="btn small" data-action="edit-sheet" data-id="${h(d.id)}">Edit</button></div></article>`).join('');
+ return `${heading('MUNITORUM RECORDS','Datasheets','11th Edition · Unit profiles, available weapons and combat calculator',btn('+ Add Datasheet','new-sheet','gold'))}<div class="ds-banner"><div><h3>ASTRA MILITARUM · DATA ARCHIVE</h3><p>Core profiles are preloaded for the main units in your collection. Weapon tables appear where checked. Blank ability sections are intentional; the library is not a substitute for your Codex.</p></div><a class="btn small" target="_blank" rel="noopener noreferrer" href="${DS_OFFICIAL}">Official updates ↗</a></div>
+ <div class="ds-summary"><span class="ds-pill">${ready} / ${owned.length} owned profiles loaded</span><span class="ds-pill">${db.datasheets.length} datasheet records</span><span class="ds-pill">Updated source: October 2026</span></div>
+ <div class="filters"><input class="search" id="dsSearch" type="search" value="${h(dsQuery)}" placeholder="Search units, roles, keywords..."/><div class="ds-open-filter"><button class="btn small ${dsOwnedOnly?'gold':''}" data-action="ds-filter-owned">My Collection</button><button class="btn small ${dsOwnedOnly?'':'gold'}" data-action="ds-filter-all">All Datasheets</button></div><span class="pill">${matches.length} results</span></div>
+ <div class="ds-card-library">${cards||'<div class="ds-note">No matching profiles. Try All Datasheets or change your search.</div>'}</div>`;
+};
+const oldDsV2Action=doV2Action;
+doV2Action=function(action,target){const key=target?.dataset?.id;
+ if(action==='ds-open'){dsOpen(db.datasheets.find(d=>d.id===key));return true;}
+ if(action==='ds-filter-owned'){dsOwnedOnly=true;render();return true;}
+ if(action==='ds-filter-all'){dsOwnedOnly=false;render();return true;}
+ if(action==='ds-calc-weapon'){const w=db.weapons.find(w=>w.id===key);if(!w)return true;loadCalcProfile(w);closeModal();navigate('combat');return true;}
+ if(action==='datasheet-from-inventory'){const inv=db.inventory.find(x=>x.id===key);const sheet=inv&&dsResolve(inv.name);if(sheet)dsOpen(sheet);else{dsQuery=inv?.name||'';navigate('datasheets');}return true;}
+ if(action==='open-datasheet'){const sheet=db.datasheets.find(d=>d.id===key);if(sheet)dsOpen(sheet);else navigate('datasheets');return true;}
+ return oldDsV2Action(action,target);
+};
+const dsPreviousRender=render;
+render=function(){dsSeedLibrary();return dsPreviousRender();};
+dsSeedLibrary();
+
 const now=new Date();$('#clock').textContent=now.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'}).toUpperCase();const initial=location.hash.slice(1);page=LABELS[initial]?initial:'dashboard';render();
 })();
 
