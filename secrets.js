@@ -6,7 +6,7 @@
  const es = () => window.Pack2?.language === 'es';
  const t = (en, sp) => es() ? sp : en;
  const h = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]));
- const md = s => h(s).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+ const md = s => h(s).replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>').replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g, '$1<em>$2</em>');
  const COUNTER = 'https://abacus.jasoncameron.dev', KEY = 'kalvatar-atlas/secrets-revealed';
  const store = {
   get(k, d) {try {return JSON.parse(localStorage.getItem(k)) ?? d;} catch {return d;}},
@@ -38,7 +38,9 @@
   if(first) store.set('kalvatar-secrets-seen-v1', seen().concat(id));
   const n = await count(first);
   holder.className = 'gm-veil gm-open';
-  holder.innerHTML = `${(body.paragraphs || []).map(p => `<p>${md(p)}</p>`).join('')}${body.list?.length ? `<ul>${body.list.map(p => `<li>${md(p)}</li>`).join('')}</ul>` : ''}<p class="gm-tally">${n === 1 ? t('1 secret has been revealed.', 'Se ha revelado 1 secreto.') : t(`${n} secrets have been revealed.`, `Se han revelado ${n} secretos.`)}</p>`;
+  const blocks = body.blocks || [];
+  holder.innerHTML = `${(body.paragraphs || []).map(p => `<p>${md(p)}</p>`).join('')}${body.list?.length ? `<ul>${body.list.map(p => `<li>${md(p)}</li>`).join('')}</ul>` : ''}${blocks.length ? `<p><button type="button" class="gm-button gm-blocks">${blocks.length === 1 ? t('View its stat block', 'Ver su stat block') : t(`View the ${blocks.length} stat blocks`, `Ver los ${blocks.length} stat blocks`)}</button></p>` : ''}<p class="gm-tally">${n === 1 ? t('1 secret has been revealed.', 'Se ha revelado 1 secreto.') : t(`${n} secrets have been revealed.`, `Se han revelado ${n} secretos.`)}</p>`;
+  holder.querySelector('.gm-blocks')?.addEventListener('click', e => window.KalvatarStatblocks?.show(blocks, e.currentTarget));
  }
  function dress() {
   const box = document.querySelector('section.article-box-secret:not([data-entry])');
