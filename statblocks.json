@@ -1,0 +1,7208 @@
+{
+ "lampet": [
+  {
+   "name": "Lampet",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "7 (2d4 + 2)"
+    ],
+    [
+     "Speed",
+     "20 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "4",
+     "−3"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Brow-Star.** The lampet sheds Dim Light in a 10-foot radius from dusk to dawn. When it's excited, the light flares to Bright Light for a moment.",
+      "**Hold Breath.** The lampet can hold its breath for 30 minutes.",
+      "**Weather Honk.** The lampet senses a storm or a hard turn of the weather up to 6 hours before it arrives, and honks about it until someone listens.",
+      "**Fetch (1/Day).** The lampet dives up to 60 feet and brings back one object of up to 1 pound that it saw sink in the last hour. If the object is a purse or a stack of coins, one coin in ten does not come back."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Peck.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "lantern-mouse": [
+  {
+   "name": "Lantern Mouse",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "20 ft., Climb 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Hearing and Smell.** The mouse has Advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "**Tail-Light.** The mouse sheds Bright Light in a 5-foot radius and Dim Light for an additional 5 feet. It can light or douse the glow at will. The light is natural and can't push back magical Darkness."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "pocket-rainfrog": [
+  {
+   "name": "Pocket Rainfrog",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "10 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Amphibious.** The frog can breathe air and water.",
+      "**Rain Croak.** The frog croaks when rain is less than an hour away.",
+      "**Dry Keeping (1/Day).** The frog sits on one object no larger than a satchel. For 8 hours, the object and its contents stay dry through rain, spray, and up to 1 minute under water. A longer soaking ends the effect."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "button-badger": [
+  {
+   "name": "Button Badger",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "7 (2d4 + 2)"
+    ],
+    [
+     "Speed",
+     "20 ft., Burrow 5 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "4",
+     "−3"
+    ],
+    [
+     "DEX",
+     "11",
+     "+0"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Smell.** The badger has Advantage on Wisdom (Perception) checks that rely on smell.",
+      "**Button Sense.** The badger always knows the direction of the nearest loose button within 60 feet. A wall or a closed box blocks the sense.",
+      "**Lost and Found (1/Day).** The badger finds one small object its person lost in the last 24 hours, if the object is within 120 feet and the badger can reach it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "teacup-moth": [
+  {
+   "name": "Teacup Moth",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "5 ft., Fly 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Flame-Wise.** The moth is drawn to warmth but never flies into fire.",
+      "**Warm Wings (1/Day).** The moth settles on a cup, pot, or flask for 1 minute. Up to 1 gallon of liquid inside becomes pleasantly warm and stays warm for 1 hour. The moth can't boil the liquid or make it safe to drink."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "hearth-newt": [
+  {
+   "name": "Hearth Newt",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "20 ft., Climb 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Immunities",
+     "Fire"
+    ],
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Ember-Sleeper.** The newt is comfortable in a burning hearth.",
+      "**Keep the Coal.** A coal or small fire the newt sleeps on stays alight until dawn, through rain, wind, and neglect. Magic that would put the fire out still does."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Fire damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "lullaby-cricket": [
+  {
+   "name": "Lullaby Cricket",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "13",
+     "+1"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Standing Leap.** The cricket's jumps reach 10 feet.",
+      "**Lullaby (1/Day).** The cricket sings through a Long Rest. Its person and up to five others who sleep within 30 feet of it can finish the Long Rest despite storm, noise, or a pitching deck, as long as nothing attacks them."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "promise-doves": [
+  {
+   "name": "Promise Dove",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "10 ft., Fly 50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Mated Pair.** Promise doves come in pairs. Each dove knows the direction of its mate at any distance, as long as both are on the same plane of existence.",
+      "**The Broken Promise.** If a keeper breaks the promise the pair was given for, that keeper's dove leaves at the next dawn and flies to its mate. The GM decides when a promise is broken."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "mirror-plover": [
+  {
+   "name": "Mirror Plover",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "30 ft., Fly 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "10",
+     "+0"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "12",
+     "+1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None until the Year; then the languages its person speaks"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**The Year.** After a full year with its person, the plover speaks in their voice and manner, with their humor, habits, and opinions. It knows only what was said or done in front of it.",
+      "**Its Person.** A plover takes the manner of one person in its life. If that person dies, it keeps their manner for the rest of its own life.",
+      "**Uncanny Likeness.** A creature that knows the person must succeed on a DC 15 Wisdom (Insight) check to tell the plover's voice from the person's when it can't see who is speaking. The DC rises to 20 once the plover has been with its person for ten years."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Peck.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "knot-crab": [
+  {
+   "name": "Knot Crab",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "20 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "11",
+     "+0"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "9",
+     "−1"
+    ],
+    [
+     "CHA",
+     "3",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 30 ft.; Passive Perception 9"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Amphibious.** The crab can breathe air and water.",
+      "**Unpicker.** The crab can untie an ordinary knot within its reach in 1 minute.",
+      "**Fast Knot (1/Day).** The crab ties one knot in rope, line, or cord. For 8 hours, the knot can't slip or be untied by anyone except the crab or its person. It can still be cut."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Claw.** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "leak-rat": [
+  {
+   "name": "Leak Rat",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 30 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "4",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Smell.** The rat has Advantage on Wisdom (Perception) checks that rely on smell.",
+      "**Bilge Sense.** The rat knows when water is entering the hull of a vessel it's aboard. It runs to the leak and squeals there."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "gutter-parrot": [
+  {
+   "name": "Gutter Parrot",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "10 ft., Fly 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Mimicry.** The parrot can mimic simple sounds and voices it has heard. A creature that hears them can tell they're imitations with a successful DC 10 Wisdom (Insight) check.",
+      "**Broadside (1/Day).** The parrot screams a volley of insults. Each creature of its person's choice within 30 feet that can hear it has Disadvantage on Wisdom (Perception) checks until the end of that creature's next turn."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Beak.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "net-cormorant": [
+  {
+   "name": "Net Cormorant",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "5 (2d6 − 2)"
+    ],
+    [
+     "Speed",
+     "10 ft., Fly 40 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "6",
+     "−2"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "9",
+     "−1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The cormorant can hold its breath for 10 minutes.",
+      "**Catch (1/Day).** After 1 hour beside fishable water, the cormorant brings back enough fish to feed one person for a day."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Beak.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "taster-bat": [
+  {
+   "name": "Taster Bat",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "5 ft., Fly 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 60 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Echolocation.** The bat can't use its Blindsight while it has the Deafened condition.",
+      "**Taste Test (1/Day).** The bat sniffs one plate, cup, or bottle. If it's poisoned or spoiled, the bat hisses and refuses it. The bat can't tell what the poison is."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "counting-jackdaw": [
+  {
+   "name": "Counting Jackdaw",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "10 ft., Fly 50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "5",
+     "−3"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Count (1/Day).** The jackdaw studies one pile, purse, stack, or crate it can see within 10 feet. It knows how many coins or like objects it holds, and taps the number out. Until it finishes a Long Rest, it caws if the count of that pile changes while it's watching."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Beak.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "ink-octopus": [
+  {
+   "name": "Ink Octopus",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "5 ft., Swim 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "5",
+     "−3"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "4",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Water Breathing.** The octopus breathes only water, but it can last 30 minutes out of it.",
+      "**Copy (1/Day).** The octopus copies onto paper, in its own ink, one line of writing or one drawing no larger than a palm that it has seen in the last hour. The copy is exact, but octopus ink shows violet in sunlight, and a creature that examines the copy spots this with a successful DC 12 Intelligence (Investigation) check."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Tentacles.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "darning-spider": [
+  {
+   "name": "Darning Spider",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "20 ft., Climb 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "2",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Spider Climb.** The spider can climb difficult surfaces, including along ceilings, without an ability check.",
+      "**Darn (1/Day).** Over 10 minutes, the spider mends one tear or hole no larger than a hand in cloth, sail, net, or rope. The mend is as strong as the material around it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "glider-squirrel": [
+  {
+   "name": "Glider Squirrel",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Glide.** The squirrel can't fly, but when it falls it can move up to 3 feet horizontally for every foot it drops, and it takes no damage from falling.",
+      "**Carry a Note (1/Day).** The squirrel carries a folded note or an object weighing no more than 2 ounces to a creature it has met, within 300 feet, and returns."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "fortune-gecko": [
+  {
+   "name": "Fortune Gecko",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "20 ft., Climb 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Spider Climb.** The gecko can climb difficult surfaces, including along ceilings, without an ability check.",
+      "**Lucky Lick (1/Day).** When its person rolls dice in a game of chance (dice, cards, or a wager), the person can reroll one die and must use the new roll. It never works on attack rolls, saving throws, or any check outside the game."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "bookmark-silverfish": [
+  {
+   "name": "Bookmark Silverfish",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "13",
+     "+1"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "2",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Find the Page (1/Day).** Its person names a word. Over 1 minute, the silverfish runs through one book, ledger, or scroll and stops on the first page where the word is written."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "homeward-snail": [
+  {
+   "name": "Homeward Snail",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "−4 (6)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "5 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "3",
+     "−4"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "2",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Shell.** As a Bonus Action, the snail withdraws into its shell. Until it emerges, its AC is 17 and its Speed is 0.",
+      "**Homeward Spiral.** The snail's shell turns to point toward the last place its person slept for three nights in a row, at any distance on the same plane of existence."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "drum-hare": [
+  {
+   "name": "Drum Hare",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +4"
+    ],
+    [
+     "Senses",
+     "Passive Perception 14"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Hearing.** The hare has Advantage on Wisdom (Perception) checks that rely on hearing.",
+      "**Drum.** While its person sleeps, if a creature the hare doesn't know comes within 30 feet, the hare drums the ground and wakes its person and anyone else sleeping within 10 feet."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "echo-finch": [
+  {
+   "name": "Echo Finch",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "10 ft., Fly 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keepsake Voice.** The finch learns one phrase of up to fifteen words in the voice of the person who said it, and repeats it when its person asks. It can learn a new phrase only by forgetting the old one, and most never do."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "dreamcurl-hedgehog": [
+  {
+   "name": "Dreamcurl Hedgehog",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Curl.** As a Bonus Action, the hedgehog curls into a ball. Until it uncurls, its AC is 16 and its Speed is 0.",
+      "**Dream Guard.** While the hedgehog sleeps on its person's chest, the person has no nightmares and has Advantage on saving throws against effects that enter or harm their dreams."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "spark-ferret": [
+  {
+   "name": "Spark Ferret",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Smell.** The ferret has Advantage on Wisdom (Perception) checks that rely on smell.",
+      "**Krysta Whiskers.** The ferret's whiskers spark harmlessly while raw or unworked Krysta is within 30 feet of it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "thumb-raptor": [
+  {
+   "name": "Thumb Raptor",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "4 (1d4 + 2)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Gnat-Hunter.** While the raptor is in camp, biting insects don't trouble anyone within 30 feet of it, and creatures who rest there have Advantage on saving throws against diseases carried by insects."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Claws.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 1 Slashing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "veil-butterfly": [
+  {
+   "name": "Veil Butterfly",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "5 ft., Fly 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Clearwing.** The butterfly's wings turn clear while a Fey creature, a spell or effect created by a Fey, or a thin place to the Faewild is within 30 feet of it."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "moss-sloth": [
+  {
+   "name": "Moss Sloth",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "11 (2d6 + 4)"
+    ],
+    [
+     "Speed",
+     "10 ft., Climb 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "8",
+     "−1"
+    ],
+    [
+     "DEX",
+     "8",
+     "−1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Grown Over.** The sloth has Advantage on Dexterity (Stealth) checks made to hide among trees and greenery.",
+      "**Mendermoss (1/Day).** As a Utilize action, the sloth's person presses moss from its fur onto a creature that has 0 Hit Points. The creature becomes Stable."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Claw.** *Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 Slashing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "trail-mongoose": [
+  {
+   "name": "Trail Mongoose",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "4 (1d4 + 2)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "4",
+     "−3"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3, Survival +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Smell.** The mongoose has Advantage on Wisdom (Perception) checks that rely on smell.",
+      "**Snake-Bane.** Ordinary snakes don't willingly enter a camp where the mongoose sleeps.",
+      "**Follow (1/Day).** The mongoose smells one creature, object, or track. For 24 hours, its person has Advantage on Wisdom (Survival) checks to follow that creature's trail, as long as the trail is no more than a day old."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "scarf-stoat": [
+  {
+   "name": "Scarf Stoat",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 30 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Smell.** The stoat has Advantage on Wisdom (Perception) checks that rely on smell.",
+      "**Living Scarf.** While the stoat sleeps around its person's neck during a rest, the person automatically succeeds on saving throws against Extreme Cold until the rest ends."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "hush-owl": [
+  {
+   "name": "Hush Owl",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "5 ft., Fly 60 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "13",
+     "+1"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +4"
+    ],
+    [
+     "Senses",
+     "Darkvision 120 ft.; Passive Perception 14"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Flyby.** The owl doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.",
+      "**The Hush.** The owl falls silent and puffs up while an Undead creature is within 100 feet of it. It can't tell what the creature is or where."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Talons.** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Slashing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "landfall-petrel": [
+  {
+   "name": "Landfall Petrel",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "10 ft., Fly 50 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 12"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Landfall (1/Day).** The petrel knows the direction of the nearest land above the waterline, any island or shore larger than a ship, and flies a line toward it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Beak.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "bubble-seahorse": [
+  {
+   "name": "Bubble Seahorse",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "0 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Water Breathing.** The seahorse can breathe only underwater.",
+      "**Breath Bubble (1/Day).** The seahorse blows a bubble over the mouth of its person or another creature within 5 feet of its jar. For 10 minutes, that creature can breathe underwater."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "tide-anemone": [
+  {
+   "name": "Tide Anemone",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "8"
+    ],
+    [
+     "Initiative",
+     "−5 (5)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "0 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "1",
+     "−5"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "4",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 10 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Water Breathing.** The anemone can breathe only underwater.",
+      "**Home Tide.** The anemone opens at high tide and closes at low tide of the sea where it grew, wherever it is. Its keeper always knows the exact time of the next high and low tide there. Moved to a new sea, it takes a month to learn the new tide."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "chartback-tortoise": [
+  {
+   "name": "Chartback Tortoise",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "17"
+    ],
+    [
+     "Initiative",
+     "−3 (7)"
+    ],
+    [
+     "Hit Points",
+     "68 (8d10 + 24)"
+    ],
+    [
+     "Speed",
+     "20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "19",
+     "+4"
+    ],
+    [
+     "DEX",
+     "5",
+     "−3"
+    ],
+    [
+     "CON",
+     "17",
+     "+3"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1 (XP 200; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Beast of Burden.** The tortoise counts as one size larger when determining its carrying capacity.",
+      "**Long Haul.** The tortoise can go three weeks without food or water and suffer nothing worse than a bad mood.",
+      "**Measured Pace.** The tortoise knows exactly how many paces it has walked since it last finished a Long Rest, and from where. A keeper who reads its count knows the distance to the yard.",
+      "**Shell Retreat.** As a Bonus Action, the tortoise withdraws into its shell. Until it emerges, its AC is 21, its Speed is 0, and it has Advantage on Strength and Constitution saving throws."
+     ]
+    }
+   ],
+   "notes": [
+    "It makes no attacks."
+   ]
+  }
+ ],
+ "lodge-hound": [
+  {
+   "name": "Lodge Hound",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "32 (5d8 + 10)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "15",
+     "+2"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "15",
+     "+2"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +6, Survival +6"
+    ],
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 16"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/4 (XP 50; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Smell.** The hound has Advantage on Wisdom (Perception) checks that rely on smell.",
+      "**Monster Trail.** The hound can follow the trail of a Beast, Dragon, or Monstrosity up to a week old, and its handler has Advantage on Wisdom (Survival) checks to follow that trail.",
+      "**Fearless.** The hound has Advantage on saving throws against the Frightened condition."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (1d10 + 2) Piercing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "Unlike other companions, a lodge hound fights beside its Hunter and can take the Bite action."
+   ]
+  }
+ ],
+ "grommoth": [
+  {
+   "name": "Grommoth",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Initiative",
+     "−2 (8)"
+    ],
+    [
+     "Hit Points",
+     "147 (14d12 + 56)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "26",
+     "+8"
+    ],
+    [
+     "DEX",
+     "7",
+     "−2"
+    ],
+    [
+     "CON",
+     "19",
+     "+4"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "6 (XP 2,300; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Walking House.** The grommoth can carry a Pocchin house on its back and still walk at its full Speed. It counts as Gargantuan when determining its carrying capacity.",
+      "**Placid.** The grommoth won't move faster than a walk, or fight, unless its herd or its house is threatened."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Gore.** *Melee Attack Roll:* +11, reach 10 ft. *Hit:* 27 (3d12 + 8) Piercing damage. The grommoth gores only to defend its herd or its house."
+     ]
+    }
+   ],
+   "notes": [
+    "A grommoth calf is Large and has half these Hit Points."
+   ]
+  }
+ ],
+ "roof-goats": [
+  {
+   "name": "Roof Goat",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "9 (2d6 + 2)"
+    ],
+    [
+     "Speed",
+     "40 ft., Climb 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "10",
+     "+0"
+    ],
+    [
+     "DEX",
+     "13",
+     "+1"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/8 (XP 25; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Sure-Footed.** The goat has Advantage on Strength and Dexterity saving throws made against effects that would give it the Prone condition.",
+      "**Lookout.** The goat bleats when a creature it doesn't know comes within 60 feet of it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Ram.** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "tidehound": [
+  {
+   "name": "Tidehound",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "26 (4d8 + 8)"
+    ],
+    [
+     "Speed",
+     "40 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "16",
+     "+3"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Athletics +5, Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The tidehound can hold its breath for 10 minutes.",
+      "**Keen Hearing and Smell.** The tidehound has Advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "**Rescuer.** The tidehound can drag or carry a Medium or smaller creature while swimming without being slowed."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "roadstead-tern": [
+  {
+   "name": "Roadstead Tern",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "10 ft., Fly 60 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Harbor Courier.** The tern carries a message or object of up to 2 ounces between a vessel and a harbor that can be seen from it, in either direction."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Beak.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "pilot-dolphins": [
+  {
+   "name": "Pilot Dolphin",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "22 (4d8 + 4)"
+    ],
+    [
+     "Speed",
+     "0 ft., Swim 60 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "14",
+     "+2"
+    ],
+    [
+     "DEX",
+     "13",
+     "+1"
+    ],
+    [
+     "CON",
+     "13",
+     "+1"
+    ],
+    [
+     "INT",
+     "6",
+     "−2"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 60 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/8 (XP 25; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The dolphin can hold its breath for 20 minutes.",
+      "**Reef-Wise.** A vessel that follows the pod has Advantage on checks made to navigate the reefs and shoals the pod knows."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Slam.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "courier-eel": [
+  {
+   "name": "Courier Eel",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "22 (4d8 + 4)"
+    ],
+    [
+     "Speed",
+     "5 ft., Swim 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "12",
+     "+1"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Water Breathing.** The eel can breathe only underwater.",
+      "**Courier.** The eel carries a sealed pouch of up to 2 pounds through the water to a place it has been before, within a mile, and waits there."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Piercing damage. The eel bites only to defend itself or its pouch."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "wrack-cow": [
+  {
+   "name": "Wrack Cow",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "45 (6d10 + 12)"
+    ],
+    [
+     "Speed",
+     "5 ft., Swim 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "8",
+     "−1"
+    ],
+    [
+     "CON",
+     "15",
+     "+2"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The cow can hold its breath for 20 minutes.",
+      "**Tow.** The cow can tow a barge or boat of up to 10 tons through calm water at half its Swim Speed."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Slam.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "ferry-turtle": [
+  {
+   "name": "Ferry Turtle",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "16"
+    ],
+    [
+     "Initiative",
+     "−2 (8)"
+    ],
+    [
+     "Hit Points",
+     "105 (10d12 + 40)"
+    ],
+    [
+     "Speed",
+     "10 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "22",
+     "+6"
+    ],
+    [
+     "DEX",
+     "6",
+     "−2"
+    ],
+    [
+     "CON",
+     "18",
+     "+4"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "2 (XP 450; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The turtle can hold its breath for 1 hour.",
+      "**Ferry.** The turtle carries a raft with up to twelve Medium passengers and their gear, and never dives while it carries one."
+     ]
+    }
+   ],
+   "notes": [
+    "It makes no attacks."
+   ]
+  }
+ ],
+ "vault-geese": [
+  {
+   "name": "Vault Goose",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "7 (2d6)"
+    ],
+    [
+     "Speed",
+     "20 ft., Fly 40 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "6",
+     "−2"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/8 (XP 25; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Alarm.** The goose honks when a creature it doesn't know comes within 30 feet of it. The honking can be heard 300 feet away.",
+      "**Furious.** A creature within 30 feet of the goose has Disadvantage on Dexterity (Stealth) checks."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "gutter-pigs": [
+  {
+   "name": "Gutter Pig",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "9 (2d6 + 2)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "10",
+     "+0"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "13",
+     "+1"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/8 (XP 25; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Smell.** The pig has Advantage on Wisdom (Perception) checks that rely on smell.",
+      "**Eats Anything.** The pig has Advantage on saving throws against being Poisoned by spoiled food or drink."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "bellows-toad": [
+  {
+   "name": "Bellows Toad",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "13 (3d6 + 3)"
+    ],
+    [
+     "Speed",
+     "20 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "8",
+     "−1"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "13",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/8 (XP 25; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Amphibious.** The toad can breathe air and water.",
+      "**Bellows.** The toad blows on a fire within 5 feet of it. For the next hour the fire burns hot enough to work metal."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "terrace-ducks": [
+  {
+   "name": "Terrace Duck",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "10"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "20 ft., Fly 30 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Beetle-Eater.** A garden or field where the duck forages for a day is free of crop pests for a Cycle."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bill.** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "aurocs": [
+  {
+   "name": "Domestic Auroc",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "105 (10d10 + 50)"
+    ],
+    [
+     "Speed",
+     "80 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "22",
+     "+6"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "20",
+     "+5"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Beast of Burden.** The auroc counts as one size larger when determining its carrying capacity.",
+      "**Long Stride.** Over a day of travel, the auroc covers three times the distance of a riding horse."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Kick.** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 13 (2d6 + 6) Bludgeoning damage. The domestic auroc kicks only to defend itself or its rider."
+     ]
+    }
+   ],
+   "notes": []
+  },
+  {
+   "name": "Great Auroc",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "157 (15d12 + 60)"
+    ],
+    [
+     "Speed",
+     "80 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "24",
+     "+7"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "19",
+     "+4"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "9",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "7 (XP 2,900; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Long Stride.** Over a day of travel, the auroc covers three times the distance of a riding horse.",
+      "**Beast of Burden.** The auroc counts as one size larger when determining its carrying capacity.",
+      "**War-Bred.** The auroc has Advantage on saving throws against the Frightened condition.",
+      "**Trampling Charge.** If the auroc moves at least 30 feet straight toward a target and then hits it with its Beak, the target must succeed on a DC 18 Strength saving throw or have the Prone condition."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The auroc makes one Beak attack and one Kick attack.",
+      "**Beak.** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 20 (3d8 + 7) Piercing damage.",
+      "**Kick.** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 17 (3d6 + 7) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "moorhorn": [
+  {
+   "name": "Moorhorn",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "37 (5d10 + 10)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "9",
+     "−1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1 (XP 200; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Beast of Burden.** The moorhorn counts as one size larger when determining its carrying capacity.",
+      "**Shaggy.** The moorhorn has Advantage on saving throws against Extreme Cold."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Gore.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing damage. The moorhorn gores only when its herd is threatened."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "oilfleece-sheep": [
+  {
+   "name": "Oilfleece Lamb",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "10"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "9 (2d6 + 2)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "8",
+     "−1"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Oilfleece.** The lamb is never soaked through, and it has Advantage on saving throws against Extreme Cold."
+     ]
+    }
+   ],
+   "notes": [
+    "A grown oilfleece sheep is Medium."
+   ]
+  }
+ ],
+ "glint-mole": [
+  {
+   "name": "Glint Mole",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "15 ft., Burrow 15 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "4",
+     "−3"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "3",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 30 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Krysta Hunger.** The mole knows the direction of the nearest raw Krysta within 300 feet, and digs toward it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Claws.** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Slashing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "herd-otter": [
+  {
+   "name": "Herd Otter",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "7 (2d6)"
+    ],
+    [
+     "Speed",
+     "20 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "8",
+     "−1"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/8 (XP 25; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The otter can hold its breath for 10 minutes.",
+      "**Herd the Shoal (1/Day).** After 1 hour in a river, the otter drives enough fish into a weir or net to feed four people for a day."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "rimehound": [
+  {
+   "name": "Rimehound",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "22 (4d8 + 4)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "15",
+     "+2"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "13",
+     "+1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/4 (XP 50; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Keen Smell.** The rimehound has Advantage on Wisdom (Perception) checks that rely on smell.",
+      "**Snow-Born.** The rimehound is immune to Extreme Cold.",
+      "**Crevasse Sense.** The rimehound has Advantage on checks made to notice hidden crevasses, thin ice, and snow bridges."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "whale-wolves": [
+  {
+   "name": "Whale-Wolf",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "90 (12d12 + 12)"
+    ],
+    [
+     "Speed",
+     "0 ft., Swim 60 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "19",
+     "+4"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "13",
+     "+1"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 120 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Echolocation.** The whale-wolf can't use its Blindsight while it has the Deafened condition.",
+      "**Hold Breath.** The whale-wolf can hold its breath for 30 minutes."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 21 (5d6 + 4) Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "strider-crab": [
+  {
+   "name": "Strider Crab",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "39 (6d10 + 6)"
+    ],
+    [
+     "Speed",
+     "30 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "17",
+     "+3"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "3",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 30 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Amphibious.** The crab can breathe air and water.",
+      "**Beast of Burden.** The crab counts as one size larger when determining its carrying capacity.",
+      "**Shore-Weary.** If the crab spends more than 4 hours out of the water, it gains 1 Exhaustion level for each hour after that."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Claw.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "tidesteed": [
+  {
+   "name": "Tidesteed",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "33 (6d10)"
+    ],
+    [
+     "Speed",
+     "0 ft., Swim 60 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "16",
+     "+3"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "9",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Water Breathing.** The tidesteed can breathe only underwater.",
+      "**Courtly Mount.** The tidesteed's rider has Advantage on checks and saving throws made to stay mounted."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Butt.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "haulbeetle": [
+  {
+   "name": "Haulbeetle",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "30 (4d10 + 8)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "8",
+     "−1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "9",
+     "−1"
+    ],
+    [
+     "CHA",
+     "3",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 30 ft., Darkvision 60 ft.; Passive Perception 9"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/8 (XP 25; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Beast of Burden.** The beetle counts as one size larger when determining its carrying capacity.",
+      "**Tunnel-Wise.** The beetle never gets lost underground on a route it has walked before."
+     ]
+    }
+   ],
+   "notes": [
+    "It makes no attacks."
+   ]
+  }
+ ],
+ "lamp-shoal": [
+  {
+   "name": "Lamp-Shoal",
+   "meta": "Medium Swarm of Tiny Beasts, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "13 (3d8)"
+    ],
+    [
+     "Speed",
+     "0 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "3",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Resistances",
+     "Bludgeoning, Piercing, Slashing"
+    ],
+    [
+     "Condition Immunities",
+     "Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned"
+    ],
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Swarm.** The swarm can occupy another creature's space and vice versa, and it can move through any opening large enough for a Tiny fish. It can't regain Hit Points or gain Temporary Hit Points.",
+      "**Water Breathing.** The shoal can breathe only underwater.",
+      "**Streetlight.** The shoal sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet, blue-green and gold.",
+      "**The Round.** A trained shoal swims the same route every night. Scattered, it gathers on its route again within an hour."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Scatter-Flash (1/Day).** The shoal flares and breaks apart. *Constitution Saving Throw:* DC 10, each creature in the shoal's space. *Failure:* The target has the Blinded condition until the end of its next turn."
+     ]
+    }
+   ],
+   "notes": [
+    "The Coral peoples train them, and nobody keeps one."
+   ]
+  }
+ ],
+ "reefpurple-whelk": [
+  {
+   "name": "Reefpurple Whelk",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "−4 (6)"
+    ],
+    [
+     "Hit Points",
+     "2 (1d4)"
+    ],
+    [
+     "Speed",
+     "5 ft., Swim 5 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "3",
+     "−4"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "8",
+     "−1"
+    ],
+    [
+     "CHA",
+     "2",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 9"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Water Breathing.** The whelk can breathe only underwater.",
+      "**Shell.** As a Bonus Action, the whelk withdraws into its shell. Until it emerges, its AC is 17 and its Speed is 0.",
+      "**One Drop.** A whelk gives a single drop of reefpurple once in its life. Pressed before its time, it gives nothing.",
+      "**Purple Hands.** A creature that handles a whelk bare-handed is stained purple to the wrist for a month."
+     ]
+    }
+   ],
+   "notes": [
+    "A vial of reefpurple costs thirty Anchors, which is a great many whelks."
+   ]
+  }
+ ],
+ "silverport-silkmoth": [
+  {
+   "name": "Silverport Silkmoth",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "1 (1d4 − 1)"
+    ],
+    [
+     "Speed",
+     "5 ft., Fly 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "1",
+     "−5"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "8",
+     "−1"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 0; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Living Brooch.** The moth sits still on a shoulder or a collar for hours. Disturbed, it flies back to the same person.",
+      "**A Month of Wings.** A grown silkmoth doesn't eat, and lives about a month."
+     ]
+    }
+   ],
+   "notes": [
+    "The caterpillar is Tiny, has 1 Hit Point and a Speed of 5 feet, and spins about a thousand yards of thread into its cocoon."
+   ]
+  }
+ ],
+ "swordtooth": [
+  {
+   "name": "Swordtooth (Azarox)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "45 (6d10 + 12)"
+    ],
+    [
+     "Speed",
+     "50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "16",
+     "+3"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3, Stealth +5"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "2 (XP 450; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Pack Tactics.** The swordtooth has Advantage on an attack roll against a creature if at least one of the swordtooth's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.",
+      "**Pounce.** If the swordtooth moves at least 20 feet straight toward a target and then hits it with a Bite, the target takes an extra 4 (1d8) Piercing damage."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The swordtooth makes one Bite attack and one Claw attack.",
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing damage.",
+      "**Claw.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "Jakupur's war-mount and the backbone of saurian cavalry. A trained one costs 100 to 300 Anchors, double under the Sukuun mark. A wild pack is a death sentence."
+   ]
+  }
+ ],
+ "dreadmaw": [
+  {
+   "name": "Dreadmaw (Tzharrok)",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "123 (13d12 + 39)"
+    ],
+    [
+     "Speed",
+     "50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "24",
+     "+7"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "17",
+     "+3"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "9",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +4"
+    ],
+    [
+     "Senses",
+     "Passive Perception 14"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "8 (XP 3,900; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Breaks the Line.** When the dreadmaw moves through the space of a Large or smaller creature, that creature makes a DC 18 Strength saving throw or has the Prone condition.",
+      "**Siege Monster.** The dreadmaw deals double damage to objects and structures."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The dreadmaw makes one Bite attack and one Tail attack.",
+      "**Bite.** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 33 (4d12 + 7) Piercing damage. If the target is Large or smaller, it has the Grappled condition (escape DC 18) and the Restrained condition while Grappled.",
+      "**Tail.** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 20 (3d8 + 7) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The apex war-beast, descended in the deepest sense from Tyrak'Zhul. Rare, ruinously expensive, dangerous to its own keepers; a single trained one can break a battle-line."
+   ]
+  }
+ ],
+ "thornback": [
+  {
+   "name": "Thornback (Korzak)",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "17"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "105 (10d12 + 40)"
+    ],
+    [
+     "Speed",
+     "25 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "21",
+     "+5"
+    ],
+    [
+     "DEX",
+     "9",
+     "−1"
+    ],
+    [
+     "CON",
+     "18",
+     "+4"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "4 (XP 1,100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Spiked Plates.** A creature that hits the thornback with a melee attack while within 5 feet of it takes 5 (2d4) Piercing damage.",
+      "**Living Wall.** Creatures directly behind the thornback, from an attacker's point of view, have Three-Quarters Cover."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Tail Club.** *Melee Attack Roll:* +7, reach 10 ft. *Hit:* 19 (4d6 + 5) Bludgeoning damage. If the target is Huge or smaller, it makes a DC 15 Strength saving throw or has the Prone condition."
+     ]
+    }
+   ],
+   "notes": [
+    "The living fortress: a mobile wall, a battering ram, a guardian. Its shed plates are worked into armor in Jakupur."
+   ]
+  }
+ ],
+ "lashtail": [
+  {
+   "name": "Lashtail (Tzulak)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "60 (8d10 + 16)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "17",
+     "+3"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The lashtail makes one Bite attack and one Lash attack.",
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing damage.",
+      "**Lash.** *Melee Attack Roll:* +5, reach 15 ft. *Hit:* 12 (2d8 + 3) Bludgeoning damage. If the target is holding a nonmagical shield, the shield is broken.",
+      "**Sweep (Recharge 5–6).** *Dexterity Saving Throw:* DC 13, each creature within 15 feet of the lashtail. *Failure:* 16 (3d8 + 3) Bludgeoning damage, and the creature has the Prone condition. *Success:* Half damage only."
+     ]
+    }
+   ],
+   "notes": [
+    "The whip-tail of Jakupur's fighting pits. Temperamental, and a terror in trained hands."
+   ]
+  }
+ ],
+ "swiftcrest": [
+  {
+   "name": "Swiftcrest (Sissix)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "19 (3d10 + 3)"
+    ],
+    [
+     "Speed",
+     "70 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "14",
+     "+2"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/4 (XP 50; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Racer.** The swiftcrest can take the Dash action as a Bonus Action."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Kick.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The racer of the Great Track, and a couriers' and outriders' mount. From 150 Anchors for a plodder to 5,000 for a champion's bloodline."
+   ]
+  }
+ ],
+ "glidetalon": [
+  {
+   "name": "Glidetalon (Vollun)",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "22 (4d8 + 4)"
+    ],
+    [
+     "Speed",
+     "40 ft., Climb 30 ft., Fly 40 ft. (glide)"
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "12",
+     "+1"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "5",
+     "−3"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/4 (XP 50; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Glider.** The glidetalon can't gain height in flight except on a rising wind; it descends 1 foot for every 2 feet it flies.",
+      "**Scout's Mount.** A glidetalon can carry a Small rider."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Talons.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The scout of the air, carrying Small scouts and messages over rough country. Wild ones hunt in murders like winged jackals."
+   ]
+  }
+ ],
+ "skyfin": [
+  {
+   "name": "Skyfin (Aetzox)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "52 (7d10 + 14)"
+    ],
+    [
+     "Speed",
+     "20 ft., Fly 70 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "16",
+     "+3"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +5"
+    ],
+    [
+     "Senses",
+     "Passive Perception 15"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "2 (XP 450; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The skyfin makes one Bite attack and one Talons attack.",
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage.",
+      "**Talons.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Slashing damage. If the target is Medium or smaller, it has the Grappled condition (escape DC 13)."
+     ]
+    }
+   ],
+   "notes": [
+    "The true flyer of the south, nesting on high cliffs; the rare and coveted aerial mount. Its membrane is hunted for the rarest of constructions."
+   ]
+  }
+ ],
+ "loamback": [
+  {
+   "name": "Loamback (Mokun)",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "−2 (8)"
+    ],
+    [
+     "Hit Points",
+     "95 (10d12 + 30)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "22",
+     "+6"
+    ],
+    [
+     "DEX",
+     "7",
+     "−2"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "9",
+     "−1"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 9"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Beast of Burden.** The loamback counts as Gargantuan for its carrying capacity and for what it can pull."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Stomp.** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 19 (3d8 + 6) Bludgeoning damage. If the target is Large or smaller, it has the Prone condition."
+     ]
+    }
+   ],
+   "notes": [
+    "The great hauler, the south's plough-beast and construction-engine; Jakupur was built on its labor. About 100 Anchors trained to harness."
+   ]
+  }
+ ],
+ "altisaur": [
+  {
+   "name": "Altisaur (Yaltox)",
+   "meta": "Gargantuan Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "−2 (8)"
+    ],
+    [
+     "Hit Points",
+     "203 (14d20 + 56)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "25",
+     "+7"
+    ],
+    [
+     "DEX",
+     "6",
+     "−2"
+    ],
+    [
+     "CON",
+     "18",
+     "+4"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "6 (XP 2,300; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Living Platform.** An altisaur can carry a howdah with up to twenty Medium passengers, who have Half Cover against attacks from the ground."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Stomp.** *Melee Attack Roll:* +10, reach 10 ft. *Hit:* 29 (4d10 + 7) Bludgeoning damage. If the target is Huge or smaller, it has the Prone condition.",
+      "**Tail.** *Melee Attack Roll:* +10, reach 20 ft. *Hit:* 23 (3d10 + 7) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The colossus: the tallest of the domesticated saurians, used for the heaviest hauling, for raising great buildings, and as a living platform."
+   ]
+  }
+ ],
+ "craghorn": [
+  {
+   "name": "Craghorn (Gormak)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "68 (8d10 + 24)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "19",
+     "+4"
+    ],
+    [
+     "DEX",
+     "9",
+     "−1"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Trampling Charge.** If the craghorn moves at least 20 feet straight toward a target and then hits it with a Gore, the target takes an extra 9 (2d8) Piercing damage and makes a DC 14 Strength saving throw or has the Prone condition.",
+      "**Stubborn.** The craghorn has Advantage on saving throws against the Charmed and Frightened conditions."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Gore.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The horned worker, strong as an ox and twice as stubborn. It hauls, it ploughs, and it gores the predator that comes too close."
+   ]
+  }
+ ],
+ "murkstrider": [
+  {
+   "name": "Murkstrider (Marrox)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "32 (5d10 + 5)"
+    ],
+    [
+     "Speed",
+     "40 ft., Swim 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "15",
+     "+2"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Swamp Stride.** Difficult Terrain made of mud, water, or bog doesn't cost the murkstrider extra movement."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Spear-Bill.** *Melee Attack Roll:* +4, reach 10 ft. *Hit:* 7 (1d10 + 2) Piercing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The wader, mount of the bog-tribes and the marsh-paths."
+   ]
+  }
+ ],
+ "mirewallow": [
+  {
+   "name": "Mirewallow (Sszuka)",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "−2 (8)"
+    ],
+    [
+     "Hit Points",
+     "126 (12d12 + 48)"
+    ],
+    [
+     "Speed",
+     "20 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "22",
+     "+6"
+    ],
+    [
+     "DEX",
+     "7",
+     "−2"
+    ],
+    [
+     "CON",
+     "19",
+     "+4"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "5 (XP 1,800; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The mirewallow can hold its breath for 1 hour.",
+      "**Floating Island.** While motionless in water, it looks like a moss-grown island, often with birds on it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +9, reach 10 ft. *Hit:* 22 (3d10 + 6) Piercing damage.",
+      "**Roll (Recharge 5–6).** *Strength Saving Throw:* DC 17, each creature on the mirewallow's back or within 10 feet of it. *Failure:* 28 (4d10 + 6) Bludgeoning damage, and the creature is pulled 10 feet underwater. *Success:* Half damage only."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "items": [
+      "**Startled.** *Trigger:* The mirewallow takes damage. *Response:* It moves up to its Swim Speed, and each creature in its path makes a DC 17 Strength saving throw or takes 22 (3d10 + 6) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The bog-beast, kin (the lizardfolk say) to Ssvayuk. Harmless unless startled, then catastrophic."
+   ]
+  }
+ ],
+ "razorfin": [
+  {
+   "name": "Razorfin (Razku)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "60 (8d10 + 16)"
+    ],
+    [
+     "Speed",
+     "10 ft., Swim 60 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "17",
+     "+3"
+    ],
+    [
+     "DEX",
+     "17",
+     "+3"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "4",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3, Stealth +5"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Amphibious.** The razorfin can breathe air and water.",
+      "**Blood in the Water.** The razorfin has Advantage on attack rolls against any creature that is Bloodied."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The razorfin makes one Bite attack and one Fin attack.",
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 12 (2d8 + 3) Piercing damage. If the target is Medium or smaller, it has the Grappled condition (escape DC 13), and the razorfin can drag it under.",
+      "**Fin.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Slashing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The river-killer, all jaws and speed; the terror of the Murkstrider routes. Rarely tamed and never trusted."
+   ]
+  }
+ ],
+ "gloamhide": [
+  {
+   "name": "Gloamhide (Xolca)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Initiative",
+     "+5 (15)"
+    ],
+    [
+     "Hit Points",
+     "75 (10d10 + 20)"
+    ],
+    [
+     "Speed",
+     "50 ft., Climb 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "20",
+     "+5"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "6",
+     "−2"
+    ],
+    [
+     "WIS",
+     "15",
+     "+2"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +5, Stealth +11"
+    ],
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 15"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "5 (XP 1,800; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Color-Shift.** While the gloamhide is in Dim Light or in foliage and hasn't moved since the start of its last turn, it has the Invisible condition.",
+      "**Ambusher.** The gloamhide has Advantage on attack rolls against any creature that hasn't taken a turn yet in the combat."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The gloamhide makes one Bite attack and two Rend attacks.",
+      "**Bite.** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing damage.",
+      "**Rend.** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Slashing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "The twilight stalker, so rare and so deadly that some doubt it exists. The White Flame keeps a standing bounty on wild ones; a trained one is a peerless hunting-beast."
+   ]
+  }
+ ],
+ "twincrest": [
+  {
+   "name": "Twincrest (Keshix)",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "27 (5d8 + 5)"
+    ],
+    [
+     "Speed",
+     "50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "13",
+     "+1"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3, Stealth +5"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Pack Tactics.** The twincrest has Advantage on an attack roll against a creature if at least one of the twincrest's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.",
+      "**Testing Bite.** The twincrest circles before it commits. If it hasn't attacked a creature yet in this fight, it has Advantage on Dexterity (Stealth) checks made to hide from that creature."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage."
+     ]
+    },
+    {
+     "title": "Bonus Actions",
+     "items": [
+      "**Quick Turn.** The twincrest takes the Disengage action."
+     ]
+    }
+   ],
+   "notes": [
+    "A pair is worse than two: one holds your eye while the other comes from the side. Handlers keep them for hunting and for guarding walled grounds, and never feed them by hand."
+   ]
+  }
+ ],
+ "songcrest": [
+  {
+   "name": "Songcrest (Saalix)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "37 (5d10 + 10)"
+    ],
+    [
+     "Speed",
+     "50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "17",
+     "+3"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "8",
+     "−1"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Herd-Call.** The songcrest's call carries up to a mile through woodland. Every songcrest that hears it knows where the caller is.",
+      "**Composed.** While it carries a rider, the songcrest has Advantage on saving throws against the Frightened condition."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Tail Swipe.** *Melee Attack Roll:* +5, reach 10 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it is pushed up to 10 feet straight away from the songcrest."
+     ]
+    }
+   ],
+   "notes": [
+    "The south's mount for processions and gentle travel. A startled one swings its tail before it thinks, so riders give it room when the herd takes fright."
+   ]
+  }
+ ],
+ "packthumb": [
+  {
+   "name": "Packthumb (Tammok)",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "51 (6d10 + 18)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "19",
+     "+4"
+    ],
+    [
+     "DEX",
+     "9",
+     "−1"
+    ],
+    [
+     "CON",
+     "17",
+     "+3"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1 (XP 200; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Beast of Burden.** The packthumb counts as one size larger when determining its carrying capacity.",
+      "**Long Road.** The packthumb can travel for 12 hours a day before it risks Exhaustion from a forced march."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Thumb Spike.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (1d10 + 4) Piercing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "Not every breed has the thumb-spikes. The ones that don't kick instead, for the same damage, as Bludgeoning. Approach where it can see you."
+   ]
+  }
+ ],
+ "bellowback": [
+  {
+   "name": "Bellowback (Bumako)",
+   "meta": "Huge Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "59 (7d12 + 14)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "19",
+     "+4"
+    ],
+    [
+     "DEX",
+     "8",
+     "−1"
+    ],
+    [
+     "CON",
+     "15",
+     "+2"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1 (XP 200; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Placid.** The bellowback won't fight unless it's cornered or a calf of its herd is threatened.",
+      "**Bellow.** The bellowback's lowing can be heard 2 miles away. Every bellowback that hears it turns to face the sound."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Stomp.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (2d8 + 4) Bludgeoning damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "cluckmaw": [
+  {
+   "name": "Cluckmaw (Pokok)",
+   "meta": "Tiny Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "3 (1d4 + 1)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "3",
+     "−4"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Flock-Fowl.** A cluckmaw that loses sight of its flock makes enough noise to be heard 300 feet away until it finds them again."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Peck.** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Piercing damage."
+     ]
+    }
+   ],
+   "notes": []
+  }
+ ],
+ "quillhen": [
+  {
+   "name": "Quillhen (Pirrak)",
+   "meta": "Small Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "7 (2d6)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "6",
+     "−2"
+    ],
+    [
+     "DEX",
+     "13",
+     "+1"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "0 (XP 10; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Quills.** A creature that grapples the quillhen takes 2 (1d4) Piercing damage."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Peck.** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Piercing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "Its plumes are the south's writing quills and fletching. A quillhen plucked in anger keeps the grudge for a season."
+   ]
+  }
+ ],
+ "giant-betta": [
+  {
+   "name": "Jewelfin",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "22 (4d8 + 4)"
+    ],
+    [
+     "Speed",
+     "0 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "12",
+     "+1"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "14",
+     "+2"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Gulps Air.** The jewelfin breathes water, and can also gulp air at the surface. Kept wet, it lives out of water for 1 hour.",
+      "**Territorial.** The jewelfin has Advantage on attack rolls against another jewelfin, and against any creature that entered its water within the last minute."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage."
+     ]
+    },
+    {
+     "title": "Bonus Actions",
+     "items": [
+      "**Display.** The jewelfin flares its fins and gill covers. One creature it can see within 30 feet must succeed on a DC 12 Wisdom saving throw or have the Frightened condition until the end of the jewelfin's next turn."
+     ]
+    }
+   ],
+   "notes": [
+    "One fish to a pool. Two in the same water fight until one is dead, which is the whole business of the clandestine pits."
+   ]
+  }
+ ]
+}
