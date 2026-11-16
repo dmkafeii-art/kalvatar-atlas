@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=18').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=19').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -148,7 +148,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -200,9 +200,12 @@ window.Adventurers = (() => {
  }
 
  function blocksHtml(blocks) {
-  let html = '', depth = 0;
+  let html = '', depth = 0, ol = false;
   const close = to => {while(depth > to) {html += '</ul>'; depth--;}};
+  const endOl = () => {if(ol) {html += '</ol>'; ol = false;}};
   blocks.forEach(b => {
+   if(b.t === 'oli') {close(0); if(!ol) {html += '<ol>'; ol = true;} html += `<li>${md(b.text)}</li>`; return;}
+   endOl();
    if(b.t === 'li') {
     const want = b.level + 1;
     while(depth < want) {html += '<ul>'; depth++;}
@@ -215,6 +218,7 @@ window.Adventurers = (() => {
    }
   });
   close(0);
+  endOl();
   return html;
  }
 
@@ -581,12 +585,40 @@ window.Adventurers = (() => {
   $('#tv-swap').addEventListener('click', () => {[trip.from, trip.to] = [trip.to, trip.from]; $('#tv-from').value = trip.from; $('#tv-to').value = trip.to; again();});
  }
 
+ /* At sea: how a ship works on the open water (Seafaring, Parts One to Six), and every ship a player can sail, hire, or meet. */
+ const SEA_HINTS = {
+  'The Voyage': ['How a passage runs, day by day: weather, navigation, what finds the ship, and water.', 'Cómo transcurre una travesía, día a día: el clima, la navegación, lo que encuentra al barco y el agua.'],
+  'Ships': ['How to read a ship’s stat block, what the guns do, and every ship you can sail, hire, or meet.', 'Cómo leer el stat block de un barco, qué hacen los cañones, y cada barco que puedes tripular, contratar o encontrarte.'],
+  'Crews': ['Crew quality, wages and shares, the stations you can hold in a fight, and morale.', 'La calidad de la tripulación, sueldos y partes, los puestos que puedes ocupar en combate, y la moral.'],
+  'Battle at Sea': ['The ship’s turn, the wind, maneuvers, hits and criticals, boarding, sinking, and repairs.', 'El turno del barco, el viento, las maniobras, impactos y críticos, el abordaje, el hundimiento y las reparaciones.'],
+  'The Chase': ['When one ship runs and another follows, counted in hours.', 'Cuando un barco huye y otro lo sigue, contado en horas.'],
+  'The Sea Herself': ['Reefs, the Stillwater, the fog-seas, sea-ice, the Wrong Coast, the King Tide, and the sea-pacts.', 'Arrecifes, el Stillwater, los mares de niebla, el hielo, la Wrong Coast, la King Tide y los pactos del mar.'],
+ };
+ function renderSea() {
+  const S = data.sea, all = S.ships.flatMap(g => g.ships);
+  const f = (b, k) => (b.fields.find(x => x[0] === k) || [])[1] || '';
+  const steps = S.chapters[0].sections.find(x => /step by step/.test(x.title));
+  const card = b => `<button type="button" class="adv-ship" data-ship="${all.indexOf(b)}"><strong>${h(b.name)}</strong><span>${h(b.meta)}</span><small>AC ${h(f(b, 'Armor Class').split(' ')[0])} · ${t('Hull', 'Casco')} ${h(f(b, 'Hull Points'))} · ${h(f(b, 'Speed').split(/[ ,(]/)[0])} ft. · ${h(f(b, 'Travel pace').split(' ')[0])} ${t('miles a day', 'millas al día')}</small></button>`;
+  const fleet = S.ships.map(g => `<details class="adv-sea-sec"><summary>${h(g.title)}</summary><div class="adv-sea-body">${g.intro ? blocksHtml([{t: 'p', text: g.intro}]) : ''}<div class="adv-ships">${g.ships.map(card).join('')}</div></div></details>`).join('');
+  const chapter = c => {
+   const secs = c.sections.filter(x => x !== steps);
+   const hint = SEA_HINTS[c.title] || ['', ''];
+   return `<section class="adv-panel adv-sea"><h2>${h(c.title)}</h2><p class="adv-hint">${t(hint[0], hint[1])}</p>${blocksHtml(c.lead)}${secs.map(x => `<details class="adv-sea-sec"><summary>${h(x.title)}</summary><div class="adv-sea-body">${blocksHtml(x.blocks)}</div></details>`).join('')}${c.title === 'Ships' ? fleet : ''}</section>`;
+  };
+  frame('sea', `<p class="adv-lead">${t('How a ship works on the open sea: the voyage, the crew, a fight, a chase, and what the sea does to the careless. The rules are Seafaring’s, for the 2024 rules; your Game Master has the last word.', 'Cómo funciona un barco en altamar: la travesía, la tripulación, un combate, una persecución y lo que el mar le hace al descuidado. Las reglas son las de Seafaring (reglas 2024); tu GM tiene la última palabra.')}</p>
+  ${steps ? `<div class="adv-panel adv-steps"><h2>${t('A ship at sea, step by step', 'Un barco en altamar, paso a paso')}</h2>${blocksHtml(steps.blocks)}</div>` : ''}
+  ${S.chapters.map(chapter).join('')}
+  <p class="adv-hint">${t('How long a passage takes, and what it costs:', 'Cuánto dura una travesía y cuánto cuesta:')} <a href="#adventurers/travel">${t('Passages', 'Travesías')}</a> · <a href="#entry/ship-classes-of-the-armada">${t('The Armada’s ships', 'Los barcos de la Armada')}</a> · <a href="#entry/titania-and-the-iron-swan">The Iron Swan</a></p>`);
+  document.querySelectorAll('.adv-ship').forEach(b => b.addEventListener('click', () => window.KalvatarStatblocks?.show([all[+b.dataset.ship]], b)));
+  tiles('sea');
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;

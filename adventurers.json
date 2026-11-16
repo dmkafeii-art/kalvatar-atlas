@@ -9170,5 +9170,1806 @@
    "The Banestorm brothers share one Ranking card and have asked for two every year."
   ]
  },
+ "sea": {
+  "chapters": [
+   {
+    "title": "The Voyage",
+    "sections": [
+     {
+      "title": "A ship at sea, step by step",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "*The short version, for players. Each step says where its rules are.*"
+       },
+       {
+        "t": "oli",
+        "text": "**Know your ship.** Its stat block gives its Armor Class, Hull Points, Damage Threshold, Speed in battle, travel pace for a day, Seaworthiness, crew, cargo, and guns (Part Two)."
+       },
+       {
+        "t": "oli",
+        "text": "**Know your crew.** Green, Able, Blooded, or Veteran. The crew's quality bonus goes on its gun attacks, its seaworthiness checks, and its morale (Part Three)."
+       },
+       {
+        "t": "oli",
+        "text": "**Each day at sea,** the GM rolls the weather, the navigator keeps the course or makes a check, a d20 says whether something finds the ship, and everyone aboard eats and drinks (Part One)."
+       },
+       {
+        "t": "oli",
+        "text": "**When the weather turns,** the helm makes seaworthiness checks, and anyone on deck in a storm keeps hold of a line (Part One)."
+       },
+       {
+        "t": "oli",
+        "text": "**When it comes to a fight,** each of you takes a station: Captain, Helm, Master of Thunder, Chartmaster, Rook, Sword-Warden, Bosun, Ship's Tidecaller, or Oathwarden. The ship moves and fires on its own turn, and you still take yours (Parts Three and Four)."
+       },
+       {
+        "t": "oli",
+        "text": "**When one ship runs,** the chase is counted in hours, not rounds. A lead of 5 and the quarry is over the horizon; a lead of 0 and the guns begin (Part Five)."
+       },
+       {
+        "t": "oli",
+        "text": "**Afterward,** the crew patches what it can at sea, and a yard mends the rest for about a tenth of the hull's price (Part Four)."
+       }
+      ]
+     },
+     {
+      "title": "How long a passage takes",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "The passages everyone knows (What Everyone Knows, §3) are fair passages for an ordinary merchantman, ports and weather included:"
+       },
+       {
+        "t": "table",
+        "rows": [
+         [
+          "Leg",
+          "Fair passage"
+         ],
+         [
+          "Ironfort to Goldwind",
+          "3 to 4 weeks"
+         ],
+         [
+          "Goldwind to Southhaven",
+          "about 6 weeks"
+         ],
+         [
+          "Southhaven to the Jakupur coast",
+          "2 to 3 weeks"
+         ],
+         [
+          "Southhaven to Varan Port",
+          "7 to 8 weeks"
+         ],
+         [
+          "Varan Port to the far ice",
+          "3 to 4 weeks"
+         ]
+        ]
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "A fast hull cuts a third off the time."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "A convoy adds a third."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "Tip to tip, the Frontier to the far ice, is five to six months."
+       },
+       {
+        "t": "p",
+        "text": "At the table, a ship's **travel pace** (its stat block) is the distance it makes in a full day of fair sailing. Use it for passages off the known routes, and for chases and races that matter."
+       }
+      ]
+     },
+     {
+      "title": "The day at sea",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "Each day of a voyage, the GM runs four steps."
+       },
+       {
+        "t": "oli",
+        "text": "**Weather.** Roll on the weather table for the season (below)."
+       },
+       {
+        "t": "oli",
+        "text": "**Navigation.** In charted waters, a competent Chartmaster keeps the course without a roll. Off the charts, in fog, or after a storm, the navigator makes the check below."
+       },
+       {
+        "t": "oli",
+        "text": "**Encounters.** Roll a d20. On an 18 or higher, something finds the ship: a sail on the horizon, a sea-beast, wreckage, a storm-front, a stranger in the water. On the King Tide's Three Nights, an encounter comes on a 12 or higher."
+       },
+       {
+        "t": "oli",
+        "text": "**Provisions.** Each person aboard needs a day's food and a gallon of fresh water. A ship that runs short uses the 2024 rules for hunger and thirst."
+       }
+      ]
+     },
+     {
+      "title": "Weather",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "Roll a d20 each morning and read the column for the season. Fair Water is summer; Storm Water is autumn."
+       },
+       {
+        "t": "table",
+        "rows": [
+         [
+          "d20",
+          "Closed Water",
+          "Open Water",
+          "Fair Water",
+          "Storm Water"
+         ],
+         [
+          "1 to 2",
+          "Becalmed",
+          "Becalmed",
+          "Becalmed",
+          "Becalmed"
+         ],
+         [
+          "3 to 9",
+          "Fair",
+          "Fair",
+          "Fair",
+          "Fair"
+         ],
+         [
+          "10 to 14",
+          "Fresh wind",
+          "Fresh wind",
+          "Fair",
+          "Fresh wind"
+         ],
+         [
+          "15 to 17",
+          "Gale",
+          "Fresh wind",
+          "Fresh wind",
+          "Gale"
+         ],
+         [
+          "18 to 19",
+          "Gale",
+          "Gale",
+          "Fresh wind",
+          "Storm"
+         ],
+         [
+          "20",
+          "Storm",
+          "Storm",
+          "Gale",
+          "Storm"
+         ]
+        ]
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Becalmed:** a sailing ship makes a quarter of its travel pace. Galleys and the *Iron Swan* do not care."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Fair:** full travel pace."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Fresh wind:** a fast hull makes a third more than its travel pace; everyone else makes their pace."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Gale:** half pace. Each person without Sea Legs (Player's Companion, Part Four) makes a DC 10 Constitution saving throw or has the Poisoned condition (seasick) until they finish a Long Rest ashore or a calm day passes. The ship makes a DC 10 seaworthiness check (below)."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Storm:** no progress. The ship makes a DC 15 seaworthiness check, and anyone on deck without a line makes a DC 12 Strength (Athletics) or Dexterity (Acrobatics) check each hour or goes over the side."
+       },
+       {
+        "t": "p",
+        "text": "**Seaworthiness.** The ship's helm rolls a d20 and adds the crew's quality bonus (Part Three) and the ship's Seaworthiness modifier. On a failure the ship takes 4d10 Bludgeoning damage that ignores its Damage Threshold, and the GM picks one: a mast sprung, a boat lost, cargo shifted, a hand overboard."
+       }
+      ]
+     },
+     {
+      "title": "Navigation",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "The navigator makes an Intelligence check with **Navigator's Tools** (or a Wisdom (Survival) check, at Disadvantage, without them)."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**DC 10** for coastal waters with landmarks."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**DC 15** for open sea off the charts, in fog, or after a storm."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**DC 20** on the far southern fog-seas, and anywhere near the Wrong Coast."
+       },
+       {
+        "t": "p",
+        "text": "On a failure the ship loses a day; on a failure by 5 or more it is lost, and does not know it until the next landfall."
+       },
+       {
+        "t": "p",
+        "text": "Help the navigator with:"
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "A **Chartwright's chart** of the waters: Advantage."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "A **landfall petrel** or a **homeward snail** (Beasts and Companions): the petrel finds the nearest land, the snail finds home."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "The Sea Legs feat's **Weather Eye**: no roll is needed to read tomorrow's weather."
+       }
+      ]
+     },
+     {
+      "title": "Life aboard",
+      "blocks": [
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Ship's food:** salt-fish, hard biscuit, saltknots, pickets, and whatever was bought in the last port. Fresh water is the true limit of any voyage: an ordinary ship carries water for about a month."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Watches:** four hours on, four hours off. A character who stands a night watch gets no Long Rest that night unless a lullaby cricket sings (Beasts and Companions)."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Customs:** the first drop of every bottle over the rail; never whistle for wind; a Tide in your boot sailing south; no sailing on a Graveday."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Companions aboard:** a lampet honks at weather the glass has not caught; a leak rat finds the leak; a knot crab keeps the knots; a tidehound goes over the side after the drowning."
+       }
+      ]
+     }
+    ],
+    "lead": []
+   },
+   {
+    "title": "Ships",
+    "sections": [
+     {
+      "title": "Reading a ship's stat block",
+      "blocks": [
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Size and type:** most ships are Gargantuan vehicles. A ship is an object for the rules: it has no ability scores but Strength and Constitution for checks, and it is immune to Poison and Psychic damage and to every condition."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Armor Class:** how hard the hull is to hurt."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Hull Points:** the ship's Hit Points. At half, its Speed is halved. At 0 it is **crippled and sinking** (Part Four)."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Damage Threshold:** damage from a single source below this number does nothing to the hull. Swords and arrows do not sink ships."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Speed:** how far the ship moves in a round of battle, in feet, with a fair wind."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Travel pace:** miles in a full day of fair sailing."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Seaworthiness:** the modifier to the ship's seaworthiness checks."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Crew:** the fewest hands who can sail it, and a full complement. With fewer than the minimum, the ship can't make way."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Cargo:** tons it can carry, and passengers beyond the crew."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Weapons:** its guns, by side, and anything else that bites."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Price:** new, from a yard (Volume XXI)."
+       }
+      ]
+     },
+     {
+      "title": "Ship weapons",
+      "blocks": [
+       {
+        "t": "table",
+        "rows": [
+         [
+          "Weapon",
+          "Attack",
+          "Range",
+          "Damage",
+          "Notes"
+         ],
+         [
+          "**Swivel gun**",
+          "+5",
+          "150/600 ft.",
+          "11 (2d10) Piercing",
+          "Grapeshot: can target crew on a deck instead of the hull (Dexterity save DC 13 in a 15-foot cube, half on a success)."
+         ],
+         [
+          "**Light gun**",
+          "+6",
+          "300/1,200 ft.",
+          "22 (4d10) Bludgeoning",
+          ""
+         ],
+         [
+          "**Long gun**",
+          "+6",
+          "600/2,400 ft.",
+          "33 (6d10) Bludgeoning",
+          ""
+         ],
+         [
+          "**Carronade**",
+          "+6",
+          "150/600 ft.",
+          "44 (8d10) Bludgeoning",
+          "Short range, heavy blow."
+         ],
+         [
+          "**Bombard mortar**",
+          "+5",
+          "1,200/4,800 ft.",
+          "55 (10d10) Bludgeoning",
+          "Fires every other round; can't hit a target within 300 feet."
+         ],
+         [
+          "**Harpoon gun**",
+          "+6",
+          "120/480 ft.",
+          "16 (3d10) Piercing",
+          "On a hit against a creature, it is tethered to the ship (escape DC 16)."
+         ],
+         [
+          "**Ram**",
+          "(move)",
+          "Touch",
+          "Special",
+          "See Ramming (Part Four)."
+         ],
+         [
+          "**Krysta cannon**",
+          "+8",
+          "900/3,600 ft.",
+          "66 (12d10) Force",
+          "Ignores Damage Threshold. Fires once, then its battery must be recharged (a day in port, and a Krysta charge worth 50 Orsals). Rare and ruinous; the Admiralty owns a handful."
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "text": "A ship's **battery** is a group of guns that fires together as one attack. A battery uses the ship's crew-quality bonus (Part Three) as well, so the attack bonus above is for an Able crew."
+       }
+      ]
+     }
+    ],
+    "lead": []
+   },
+   {
+    "title": "Crews",
+    "sections": [
+     {
+      "title": "Crew quality",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "A crew's quality is a single bonus added to its ship's gun attacks, its seaworthiness checks, and its morale."
+       },
+       {
+        "t": "table",
+        "rows": [
+         [
+          "Quality",
+          "Bonus",
+          "Who"
+         ],
+         [
+          "**Green**",
+          "−2",
+          "Grey Coats, pressed men, a merchant's first voyage"
+         ],
+         [
+          "**Able**",
+          "+0",
+          "Most merchant crews and Armada hands"
+         ],
+         [
+          "**Blooded**",
+          "+2",
+          "Armada crews after their first action; most pirate crews"
+         ],
+         [
+          "**Veteran**",
+          "+4",
+          "The Killing Tide, the Standing Storm, Free Tide flagships, the *Crimson Tide*"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "text": "A crew rises one step after a season of hard sailing and a real fight, at the GM's word. It falls one step if it loses a third of its hands."
+       }
+      ]
+     },
+     {
+      "title": "Hiring and paying",
+      "blocks": [
+       {
+        "t": "li",
+        "level": 0,
+        "text": "A merchantman of sixty hands costs about **100 to 120 Anchors a month** in wages (Volume XXI). A deckhand earns about **1 Anchor a month** and found, an able seaman **1½ Anchors** and a share of prizes; the rest goes to the officers."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Shares:** privateers and pirates sail on shares instead of wages. Under the Free Tide's articles, a hand takes one share, an officer one and a half, the captain two, and the ship's fund takes one in ten before anything is split."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Signing on:** a crew hired in a strange port is Green until it has sailed a month together."
+       }
+      ]
+     },
+     {
+      "title": "Officers and stations",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "In a sea-fight, each player character can take a **station**. A station gives that character something to do on the ship's turn, besides their own turn."
+       },
+       {
+        "t": "table",
+        "rows": [
+         [
+          "Station",
+          "Who holds it",
+          "On the ship's turn"
+         ],
+         [
+          "**Captain**",
+          "The commander",
+          "**Command:** choose one other station; it gets Advantage on its roll this round. Also makes the crew's morale checks."
+         ],
+         [
+          "**Helm**",
+          "A character with Navigator's Tools or Water Vehicles",
+          "**Steer:** move the ship, and make the check for a maneuver (Part Four)."
+         ],
+         [
+          "**Master of Thunder**",
+          "The chief gunner",
+          "**Fire:** each battery that can bear makes one attack. The gunner adds their proficiency bonus to one battery's attack."
+         ],
+         [
+          "**Chartmaster**",
+          "The navigator",
+          "**Read the Water:** a DC 15 Intelligence (Navigator's Tools) check; on a success, the ship ignores difficult water (shoals, reefs) this round, or gains a +2 bonus to its next chase roll."
+         ],
+         [
+          "**The Rook**",
+          "The lookout in the top",
+          "**Spot:** a Wisdom (Perception) check to see what is hidden: a ship in fog, a reef under the swell, a sea-beast rising."
+         ],
+         [
+          "**Sword-Warden**",
+          "The master-at-arms",
+          "**Marines:** lead the boarding or repel boarders (Part Four)."
+         ],
+         [
+          "**Bosun**",
+          "The carpenter's mate",
+          "**Damage Control:** a DC 13 Intelligence check with Carpenter's Tools; on a success the ship regains 2d10 Hull Points, or a fire, a breach, or a fouled rig is cleared."
+         ],
+         [
+          "**Ship's Tidecaller**",
+          "The chaplain",
+          "**Bless the Line:** a DC 13 Wisdom (Religion) check; on a success, the crew has Advantage on its next morale check."
+         ],
+         [
+          "**Oathwarden**",
+          "Discipline",
+          "**Hold the Line:** the crew can't strike its colors this round."
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "text": "A ship with no one at a station still does the basics: an Able crew steers, fires its guns, and patches holes, but only the stations make the rolls that change a fight."
+       }
+      ]
+     },
+     {
+      "title": "Morale",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "When a ship falls to half its Hull Points, loses its captain, or is boarded by a stronger crew, its crew makes a **morale check**: a d20 plus the crew-quality bonus. On a 10 or higher, it fights on."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "On a failure, a merchant crew strikes its colors; a pirate crew tries to run; an Armada crew, sworn to the Charter, fights on but takes Disadvantage on its next attacks."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "The Oathwarden's station and the Ship's Tidecaller's blessing exist for exactly this moment."
+       }
+      ]
+     }
+    ],
+    "lead": []
+   },
+   {
+    "title": "Battle at Sea",
+    "sections": [
+     {
+      "title": "The battle round",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "A sea-fight uses ordinary 6-second rounds, so that characters can fight, cast, and board in the middle of it. Each ship takes a **ship's turn** on its captain's initiative. On the ship's turn:"
+       },
+       {
+        "t": "oli",
+        "text": "**Move:** the helm moves the ship up to its Speed. A ship can turn up to 90 degrees once during its move. It can't move backward."
+       },
+       {
+        "t": "oli",
+        "text": "**Stations act:** each station held by a character does its thing, in any order."
+       },
+       {
+        "t": "oli",
+        "text": "**Guns:** each battery that bears fires once. A battery bears on targets on its side of the ship; bow chasers bear ahead."
+       },
+       {
+        "t": "p",
+        "text": "Characters still take their own turns. A character at a station uses their action on their own turn for anything else they like; the station's work is done on the ship's turn."
+       }
+      ]
+     },
+     {
+      "title": "Wind",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "At the start of a sea-fight the GM sets the wind's direction."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Running before the wind:** +10 feet of Speed."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Across the wind:** normal Speed."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Into the wind:** half Speed. A sailing ship can't sail straight into the wind at all."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**The weather gauge:** the ship that is upwind chooses the range at the start of each round, unless the other wins a maneuver against it."
+       }
+      ]
+     },
+     {
+      "title": "Maneuvers",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "When the helm wants more than a plain move, it makes a **maneuver**: a Wisdom check with Navigator's Tools or Water Vehicles, adding the crew-quality bonus. An opposing helm can contest it."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Hard Over (DC 15):** turn a second time this move."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Cross the T (contested):** move across the enemy's bow or stern. Until the enemy's next turn, the enemy's broadside can't bear on you, and your batteries have Advantage against it."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Take the Gauge (contested):** take the upwind position from the enemy."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Evasive Sailing (DC 13):** until the ship's next turn, attacks against it have Disadvantage, but its own guns have Disadvantage too."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Come Alongside (contested if the enemy is unwilling):** end your move within 10 feet of the enemy, ready to grapple."
+       }
+      ]
+     },
+     {
+      "title": "Hits, damage, and criticals",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "A battery's attack hits if it equals or beats the target's Armor Class. Damage below the target's Damage Threshold does nothing."
+       },
+       {
+        "t": "p",
+        "text": "On a natural 20, or when a single hit deals three times the target's Damage Threshold or more, roll on the critical table."
+       },
+       {
+        "t": "table",
+        "rows": [
+         [
+          "d8",
+          "Critical"
+         ],
+         [
+          "1",
+          "**Fire!** The ship takes 11 (2d10) Fire damage at the start of each of its turns until the Bosun puts it out."
+         ],
+         [
+          "2",
+          "**Mast down.** Speed halved until repaired in port."
+         ],
+         [
+          "3",
+          "**Rudder jammed.** The ship can't turn until the Bosun frees it."
+         ],
+         [
+          "4",
+          "**Gun deck smashed.** One battery on the struck side is out of action for the fight."
+         ],
+         [
+          "5",
+          "**Hull breach.** The ship loses 10 Hull Points at the start of each of its turns until the Bosun patches it. A leak rat aboard tells the Bosun exactly where."
+         ],
+         [
+          "6",
+          "**Rigging fouled.** The ship can't move on its next turn."
+         ],
+         [
+          "7",
+          "**Officer down.** A non-player officer of the GM's choice is killed or taken out of the fight. The crew makes a morale check."
+         ],
+         [
+          "8",
+          "**Magazine.** The Bosun makes a DC 15 check at once. On a failure, the powder goes up: the ship takes 55 (10d10) Fire damage, ignoring its Damage Threshold, and everyone aboard makes a DC 15 Dexterity saving throw or takes 22 (4d10) Fire damage."
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Ramming",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "A ship that moves at least 30 feet in a straight line and ends its move against another ship can ram it. Both ships take Bludgeoning damage: the rammed ship takes 4d10 for every 10 feet of the rammer's Speed, the rammer half that. A ship with a ram (the GM decides who has one) takes none. A ramming ship can come alongside and grapple in the same move."
+       }
+      ]
+     },
+     {
+      "title": "Grappling and boarding",
+      "blocks": [
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Grapple:** two ships within 10 feet can be grappled together by the side that wants it, with a contested Strength check between the two crews (d20 plus crew-quality bonus). Grappled ships can't move until the lines are cut (a crew's action, or a character's Utilize action on each line)."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Boarding:** while ships are grappled, crews can board. Player characters fight the boarding as an ordinary battle at **the point of the boarding**, against the enemy's officers and their best fighters."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**The rest of the deck:** each round, both crews roll a d20, adding their quality bonus and +1 for every full twenty hands they have more than the other side. The loser loses a tenth of its hands. When the player characters win their fight at the point of the boarding, their crew wins the deck. When they lose it, the enemy does."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Repelling boarders:** the Sword-Warden's station gives the defending crew Advantage on its first deck roll."
+       }
+      ]
+     },
+     {
+      "title": "Crippled and sinking",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "At 0 Hull Points a ship is **crippled and sinking**. It can't move or fire. It goes down in 1d6 × 10 rounds, sooner if it is burning. Its crew takes to the boats, strikes its colors, or swims. A sinking ship can be saved only by a Bosun who succeeds on a DC 20 check while the ship is still afloat, which leaves it with 1 Hull Point and dead in the water."
+       }
+      ]
+     },
+     {
+      "title": "Repairs",
+      "blocks": [
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**At sea:** a day of work by a ship's carpenter and crew restores a tenth of the ship's Hull Points, up to half its maximum."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**In port:** a yard restores everything. The cost is about a tenth of the hull's price after a hard fight or a hard storm (Volume XXI), and a week to a month of time."
+       }
+      ]
+     }
+    ],
+    "lead": []
+   },
+   {
+    "title": "The Chase",
+    "sections": [
+     {
+      "title": "The Chase",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "A chase at sea is measured in hours, not rounds. Use it when one ship flees and another follows, and the gap is more than a gunshot."
+       },
+       {
+        "t": "oli",
+        "text": "**Set the lead.** The quarry starts with a lead of 1 to 3 (the GM decides, from the distance)."
+       },
+       {
+        "t": "oli",
+        "text": "**Each hour,** both helms make a **chase roll**: a d20, plus the crew-quality bonus, plus 1 for every 10 feet of Speed the ship has over the slower ship, plus any trait bonus. The Chartmaster's Read the Water adds 2."
+       },
+       {
+        "t": "oli",
+        "text": "**Compare.** If the quarry wins, its lead grows by 1. If the pursuer wins, the lead shrinks by 1. On a tie, roll on the complications table."
+       },
+       {
+        "t": "oli",
+        "text": "**Ends:** at a lead of 5, the quarry is gone over the horizon. At a lead of 0, the pursuer is in gunshot, and the battle round begins."
+       },
+       {
+        "t": "table",
+        "rows": [
+         [
+          "d8",
+          "Complication"
+         ],
+         [
+          "1",
+          "**Squall.** Both ships make a DC 10 seaworthiness check."
+         ],
+         [
+          "2",
+          "**Shoals.** The quarry may cut across them: a DC 15 helm check to gain 2 lead, or run aground on a failure."
+         ],
+         [
+          "3",
+          "**Fog.** The Rook of each ship makes a DC 15 Wisdom (Perception) check; a ship that fails loses the other for an hour."
+         ],
+         [
+          "4",
+          "**The wind backs.** The ship with the weather gauge loses it."
+         ],
+         [
+          "5",
+          "**A third sail.** Another ship appears on the horizon. Friend or foe, the GM decides."
+         ],
+         [
+          "6",
+          "**Sea-beast.** Something rises between them (the Bestiary)."
+         ],
+         [
+          "7",
+          "**Sprung spar.** The ship that rolled lower loses 10 feet of Speed until repaired."
+         ],
+         [
+          "8",
+          "**Nightfall.** The quarry gains 1 lead, and the chase continues by lantern, or by none."
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "lead": []
+   },
+   {
+    "title": "The Sea Herself",
+    "sections": [
+     {
+      "title": "Hazards",
+      "blocks": [
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Reefs and shoals:** hidden in bad light. The Rook spots them with a DC 15 Wisdom (Perception) check; a ship that strikes one takes 6d10 Bludgeoning damage that ignores its Damage Threshold and may be holed (a hull breach)."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**The Stillwater:** a circle of open sea that no wind crosses. A sailing ship that drifts into it is becalmed until it is rowed or towed out, a day of hard work for every boat it can put in the water. Galleys and the *Iron Swan* cross it as they please."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Fog-seas of the ice:** the far south's fogs last for days. Every navigation check is at Disadvantage, and every encounter comes out of the fog at close range."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**Sea-ice:** a ship without ice-strakes makes a DC 13 seaworthiness check each day in the pack, or takes 4d10 Bludgeoning damage."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "**The Wrong Coast:** the Sealed Waters of the far south, closed by the Council in 148 EC as \"plague waters.\" The Armada turns back any ship it sees going in. Southern sailors tell of grey ships with no names that sail without lanterns, and of **the Hum**, a note under hearing that you feel in the hull on calm nights. *Never hum along.*"
+       }
+      ]
+     },
+     {
+      "title": "The King Tide",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "For the Three Nights of a King Tide:"
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "Every port closes, and a ship at sea is on its own."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "Encounters come on a 12 or higher."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "The highest water in three years floats ships over reefs they could never cross, and strands them on islands that are not there the next morning."
+       },
+       {
+        "t": "li",
+        "level": 0,
+        "text": "What lives in the deep water comes up. The Killing Tide sails on the Three Nights for exactly that reason."
+       }
+      ]
+     },
+     {
+      "title": "Sea-pacts",
+      "blocks": [
+       {
+        "t": "p",
+        "text": "A ship that sails through the waters of a Coral court sails under that court's sea-pact (Bible Lite, §10). Break the pact (poach a reef, foul the water, spill blood in it) and the court may answer with weather, with a lost anchor, or with something that rises."
+       }
+      ]
+     }
+    ],
+    "lead": []
+   }
+  ],
+  "ships": [
+   {
+    "title": "Small craft and merchant hulls",
+    "intro": "",
+    "ships": [
+     {
+      "kind": "ship",
+      "name": "Rowing Gig",
+      "meta": "Large vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "11"
+       ],
+       [
+        "Hull Points",
+        "30"
+       ],
+       [
+        "Damage Threshold",
+        "none"
+       ],
+       [
+        "Speed",
+        "20 ft. (oars or sail)"
+       ],
+       [
+        "Travel pace",
+        "20 miles"
+       ],
+       [
+        "Seaworthiness",
+        "−4"
+       ],
+       [
+        "Crew",
+        "2 to 6"
+       ],
+       [
+        "Cargo",
+        "half a ton; 6 passengers"
+       ],
+       [
+        "Weapons",
+        "none"
+       ],
+       [
+        "Price",
+        "3 Anchors"
+       ]
+      ],
+      "traits": [],
+      "notes": []
+     },
+     {
+      "kind": "ship",
+      "name": "Southern River Canoe",
+      "meta": "Large vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "11"
+       ],
+       [
+        "Hull Points",
+        "25"
+       ],
+       [
+        "Damage Threshold",
+        "none"
+       ],
+       [
+        "Speed",
+        "30 ft. (paddles)"
+       ],
+       [
+        "Travel pace",
+        "30 miles on a river"
+       ],
+       [
+        "Seaworthiness",
+        "−6 (it is not meant for open sea)"
+       ],
+       [
+        "Crew",
+        "2 to 10"
+       ],
+       [
+        "Cargo",
+        "1 ton; 10 passengers"
+       ],
+       [
+        "Weapons",
+        "none"
+       ],
+       [
+        "Price",
+        "2 Anchors"
+       ]
+      ],
+      "traits": [
+       "**River-Born.** It can be carried around a fall or a rapid by its own crew."
+      ],
+      "notes": []
+     },
+     {
+      "kind": "ship",
+      "name": "Fishing Smack",
+      "meta": "Huge vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "12"
+       ],
+       [
+        "Hull Points",
+        "80"
+       ],
+       [
+        "Damage Threshold",
+        "5"
+       ],
+       [
+        "Speed",
+        "30 ft."
+       ],
+       [
+        "Travel pace",
+        "40 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+0"
+       ],
+       [
+        "Crew",
+        "3 to 8"
+       ],
+       [
+        "Cargo",
+        "5 tons"
+       ],
+       [
+        "Weapons",
+        "none, or one swivel gun"
+       ],
+       [
+        "Price",
+        "3 to 5 Orsals"
+       ]
+      ],
+      "traits": [],
+      "notes": []
+     },
+     {
+      "kind": "ship",
+      "name": "Coastal Trader (one mast)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "13"
+       ],
+       [
+        "Hull Points",
+        "180"
+       ],
+       [
+        "Damage Threshold",
+        "10"
+       ],
+       [
+        "Speed",
+        "35 ft."
+       ],
+       [
+        "Travel pace",
+        "60 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+1"
+       ],
+       [
+        "Crew",
+        "6 to 15"
+       ],
+       [
+        "Cargo",
+        "40 tons; 10 passengers"
+       ],
+       [
+        "Weapons",
+        "two swivel guns; sometimes a light gun on each side"
+       ],
+       [
+        "Price",
+        "100 to 300 Orsals"
+       ]
+      ],
+      "traits": [],
+      "notes": []
+     },
+     {
+      "kind": "ship",
+      "name": "Ocean Merchantman (three masts)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "14"
+       ],
+       [
+        "Hull Points",
+        "250"
+       ],
+       [
+        "Damage Threshold",
+        "15"
+       ],
+       [
+        "Speed",
+        "30 ft."
+       ],
+       [
+        "Travel pace",
+        "70 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+2"
+       ],
+       [
+        "Crew",
+        "20 to 60"
+       ],
+       [
+        "Cargo",
+        "200 tons; 30 passengers"
+       ],
+       [
+        "Weapons",
+        "1 battery of light guns per side; two swivel guns"
+       ],
+       [
+        "Price",
+        "800 to 1,500 Orsals"
+       ]
+      ],
+      "traits": [],
+      "notes": []
+     },
+     {
+      "kind": "ship",
+      "name": "Pirate Brigantine",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "14"
+       ],
+       [
+        "Hull Points",
+        "200"
+       ],
+       [
+        "Damage Threshold",
+        "10"
+       ],
+       [
+        "Speed",
+        "45 ft."
+       ],
+       [
+        "Travel pace",
+        "90 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+1"
+       ],
+       [
+        "Crew",
+        "25 to 90 (pirates overcrew for boarding)"
+       ],
+       [
+        "Cargo",
+        "60 tons"
+       ],
+       [
+        "Weapons",
+        "2 batteries of light guns per side; four swivel guns"
+       ]
+      ],
+      "traits": [
+       "**Built to Run.** It gains a +2 bonus to chase rolls."
+      ],
+      "notes": []
+     },
+     {
+      "kind": "ship",
+      "name": "Whaler (the ice)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "14"
+       ],
+       [
+        "Hull Points",
+        "240"
+       ],
+       [
+        "Damage Threshold",
+        "15"
+       ],
+       [
+        "Speed",
+        "30 ft."
+       ],
+       [
+        "Travel pace",
+        "60 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+3"
+       ],
+       [
+        "Crew",
+        "20 to 40"
+       ],
+       [
+        "Cargo",
+        "150 tons (oil)"
+       ],
+       [
+        "Weapons",
+        "two harpoon guns; whaleboats"
+       ]
+      ],
+      "traits": [
+       "**Ice-Strakes.** A doubled hull; the ship has Advantage on seaworthiness checks in ice and sea-ice."
+      ],
+      "notes": []
+     }
+    ]
+   },
+   {
+    "title": "The Armada's classes",
+    "intro": "Every class has a duty with teeth (Bible Lite, §6). Each is crewed by the Armada's Able or Blooded hands (Part Three), and each carries the special posts aboard: an Oathwarden, a Sword-Warden, a Ship's Tidecaller, a Master of Thunder, a Chartmaster, and the Rook.",
+    "ships": [
+     {
+      "kind": "ship",
+      "name": "Harbinger (cutter)",
+      "meta": "Huge vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "13"
+       ],
+       [
+        "Hull Points",
+        "120"
+       ],
+       [
+        "Damage Threshold",
+        "10"
+       ],
+       [
+        "Speed",
+        "60 ft."
+       ],
+       [
+        "Travel pace",
+        "110 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+1"
+       ],
+       [
+        "Crew",
+        "10 to 30"
+       ],
+       [
+        "Cargo",
+        "10 tons"
+       ],
+       [
+        "Weapons",
+        "1 battery of light guns per side; two swivel guns"
+       ]
+      ],
+      "traits": [
+       "**Dispatch Rider.** A Harbinger gains a +4 bonus to chase rolls."
+      ],
+      "notes": [
+       "Courier. “A Harbinger means news, and news is rarely good.”"
+      ]
+     },
+     {
+      "kind": "ship",
+      "name": "Vindicator (sloop)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "14"
+       ],
+       [
+        "Hull Points",
+        "160"
+       ],
+       [
+        "Damage Threshold",
+        "10"
+       ],
+       [
+        "Speed",
+        "50 ft."
+       ],
+       [
+        "Travel pace",
+        "100 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+1"
+       ],
+       [
+        "Crew",
+        "25 to 70"
+       ],
+       [
+        "Cargo",
+        "20 tons"
+       ],
+       [
+        "Weapons",
+        "2 batteries of light guns per side; a long gun in the bow (bow chaser)"
+       ]
+      ],
+      "traits": [
+       "**Bow Chaser.** It can fire its bow gun at a ship it is chasing, ahead of it."
+      ],
+      "notes": [
+       "Pursuit."
+      ]
+     },
+     {
+      "kind": "ship",
+      "name": "Justicar (river gunboat)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "15"
+       ],
+       [
+        "Hull Points",
+        "150"
+       ],
+       [
+        "Damage Threshold",
+        "10"
+       ],
+       [
+        "Speed",
+        "30 ft. (sail and sweeps)"
+       ],
+       [
+        "Travel pace",
+        "50 miles on a river, 40 at sea"
+       ],
+       [
+        "Seaworthiness",
+        "−1"
+       ],
+       [
+        "Crew",
+        "20 to 50"
+       ],
+       [
+        "Cargo",
+        "15 tons; 40 marines"
+       ],
+       [
+        "Weapons",
+        "2 carronades fore and aft, turning to either side; four swivel guns"
+       ]
+      ],
+      "traits": [
+       "**Shallow Draft.** It can go where a seagoing ship would run aground."
+      ],
+      "notes": [
+       "The Emerald Wrath’s workhorse."
+      ]
+     },
+     {
+      "kind": "ship",
+      "name": "Warden (frigate)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "15"
+       ],
+       [
+        "Hull Points",
+        "300"
+       ],
+       [
+        "Damage Threshold",
+        "15"
+       ],
+       [
+        "Speed",
+        "40 ft."
+       ],
+       [
+        "Travel pace",
+        "90 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+2"
+       ],
+       [
+        "Crew",
+        "120 to 250"
+       ],
+       [
+        "Cargo",
+        "80 tons; 40 marines"
+       ],
+       [
+        "Weapons",
+        "4 batteries of long guns per side; 4 swivel guns"
+       ],
+       [
+        "Price",
+        "2,500 to 4,000 Orsals"
+       ]
+      ],
+      "traits": [],
+      "notes": [
+       "The backbone."
+      ]
+     },
+     {
+      "kind": "ship",
+      "name": "Juggernaut (heavy frigate)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "16"
+       ],
+       [
+        "Hull Points",
+        "360"
+       ],
+       [
+        "Damage Threshold",
+        "15"
+       ],
+       [
+        "Speed",
+        "40 ft."
+       ],
+       [
+        "Travel pace",
+        "85 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+4"
+       ],
+       [
+        "Crew",
+        "150 to 300"
+       ],
+       [
+        "Cargo",
+        "100 tons; 60 marines"
+       ],
+       [
+        "Weapons",
+        "5 batteries of long guns per side"
+       ]
+      ],
+      "traits": [
+       "**Storm-Runner.** It has Advantage on seaworthiness checks, and a gale does not halve its pace."
+      ],
+      "notes": [
+       "Storm-runner, Galven-crewed."
+      ]
+     },
+     {
+      "kind": "ship",
+      "name": "Interdictor (cruiser)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "16"
+       ],
+       [
+        "Hull Points",
+        "420"
+       ],
+       [
+        "Damage Threshold",
+        "20"
+       ],
+       [
+        "Speed",
+        "35 ft."
+       ],
+       [
+        "Travel pace",
+        "80 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+3"
+       ],
+       [
+        "Crew",
+        "250 to 400"
+       ],
+       [
+        "Cargo",
+        "120 tons; 80 marines"
+       ],
+       [
+        "Weapons",
+        "6 batteries of long guns per side; 2 carronades fore"
+       ]
+      ],
+      "traits": [
+       "**Line of Fire.** Once per round, when a ship comes within 600 feet of it, it can fire one battery at that ship as a reaction."
+      ],
+      "notes": [
+       "Blockade and area denial; the Iron Blockade’s fist."
+      ]
+     },
+     {
+      "kind": "ship",
+      "name": "Dreadnought (ship of the line)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "17"
+       ],
+       [
+        "Hull Points",
+        "540"
+       ],
+       [
+        "Damage Threshold",
+        "20"
+       ],
+       [
+        "Speed",
+        "30 ft."
+       ],
+       [
+        "Travel pace",
+        "70 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+3"
+       ],
+       [
+        "Crew",
+        "500 to 800"
+       ],
+       [
+        "Cargo",
+        "200 tons; 120 marines"
+       ],
+       [
+        "Weapons",
+        "8 batteries of long guns per side; 4 carronades"
+       ],
+       [
+        "Price",
+        "10,000 Orsals and up"
+       ]
+      ],
+      "traits": [],
+      "notes": [
+       "“Fears nothing.”"
+      ]
+     },
+     {
+      "kind": "ship",
+      "name": "Enforcer (bombard)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "16"
+       ],
+       [
+        "Hull Points",
+        "450"
+       ],
+       [
+        "Damage Threshold",
+        "20"
+       ],
+       [
+        "Speed",
+        "25 ft."
+       ],
+       [
+        "Travel pace",
+        "60 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+1"
+       ],
+       [
+        "Crew",
+        "200 to 350"
+       ],
+       [
+        "Cargo",
+        "150 tons (mostly powder and shot)"
+       ],
+       [
+        "Weapons",
+        "4 bombard mortars; 2 batteries of light guns per side"
+       ]
+      ],
+      "traits": [
+       "**Siege-Ship.** Its mortars deal double damage to buildings and fortifications."
+      ],
+      "notes": [
+       "Delivers the Council’s verdict to fortresses."
+      ]
+     },
+     {
+      "kind": "ship",
+      "name": "Executioner (man-o-war)",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "18"
+       ],
+       [
+        "Hull Points",
+        "700"
+       ],
+       [
+        "Damage Threshold",
+        "20"
+       ],
+       [
+        "Speed",
+        "30 ft."
+       ],
+       [
+        "Travel pace",
+        "75 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+4"
+       ],
+       [
+        "Crew",
+        "800 to 1,200"
+       ],
+       [
+        "Cargo",
+        "300 tons; 200 marines"
+       ],
+       [
+        "Weapons",
+        "10 batteries of long guns per side; 6 carronades; some carry a Krysta cannon"
+       ],
+       [
+        "Price",
+        "20,000 Orsals and a decade of Council argument"
+       ]
+      ],
+      "traits": [
+       "**Flag of the Fleet.** Every allied ship within a mile that can see its flag adds 1 to its crew-quality bonus."
+      ],
+      "notes": [
+       "Nine built; the great battle-flagships."
+      ]
+     }
+    ]
+   },
+   {
+    "title": "A ship everyone has heard of",
+    "intro": "",
+    "ships": [
+     {
+      "kind": "ship",
+      "name": "The Iron Swan",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "19 (iron hull)"
+       ],
+       [
+        "Hull Points",
+        "400"
+       ],
+       [
+        "Damage Threshold",
+        "20"
+       ],
+       [
+        "Speed",
+        "40 ft., in any wind or none, and against the tide"
+       ],
+       [
+        "Travel pace",
+        "90 miles, whatever the weather short of a storm"
+       ],
+       [
+        "Seaworthiness",
+        "+5"
+       ],
+       [
+        "Crew",
+        "a crew of living flame; no one has counted them"
+       ],
+       [
+        "Weapons",
+        "unknown; ships that have fired on her have not said"
+       ]
+      ],
+      "traits": [
+       "**No Sails.** Wind, calm, and gale do not affect its Speed or travel pace.",
+       "**Burning Wake.** Water within 30 feet of its hull boils at full steam. A creature that starts its turn in that water takes 11 (2d10) Fire damage.",
+       "**Iron.** It is immune to Fire damage, and ramming it is a very poor idea."
+      ],
+      "notes": [
+       "The only steamship in the world, captained by Titania, Gold Hunter, eleventh in the Ranking."
+      ]
+     }
+    ]
+   }
+  ]
+ },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }

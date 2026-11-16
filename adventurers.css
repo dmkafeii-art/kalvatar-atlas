@@ -190,3 +190,23 @@ html.sb-open{overflow:hidden}
 @media (prefers-reduced-motion:reduce){.sb-open-btn{transition:none}.sb-open-btn:hover{transform:none}}
 .sb-card .sb-name,.sb-card .sb-sec h3{color:var(--sb-accent)!important}
 .sb-card .sb-sec h3{border-bottom-color:var(--sb-accent)!important}
+/* At sea (Adventurers) */
+.adv-steps{border-left:4px solid var(--sb-accent)}
+.adv-steps ol,.adv-sea-body ol{margin:8px 0 6px;padding-left:22px}
+.adv-steps li,.adv-sea-body li{margin:6px 0;font:16px/1.55 var(--sans);color:var(--ink)}
+.adv-sea-sec{border-top:1px solid var(--line)}
+.adv-sea-sec:first-of-type{margin-top:6px}
+.adv-sea-sec>summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 2px;cursor:pointer;font:600 19px/1.3 var(--serif);color:var(--ink)}
+.adv-sea-sec>summary::-webkit-details-marker{display:none}
+.adv-sea-sec>summary::after{content:'+';flex:0 0 auto;font:22px/1 var(--serif);color:var(--sb-accent)}
+.adv-sea-sec[open]>summary::after{content:'\2212'}
+.adv-sea-sec>summary:focus-visible{outline:2px solid var(--sb-accent);outline-offset:2px}
+.adv-sea-body{padding:0 2px 14px}
+.adv-sea-body p{font:16px/1.6 var(--sans);color:var(--ink);margin:8px 0}
+.adv-ships{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;margin:10px 0 4px}
+.adv-ship{display:flex;flex-direction:column;gap:3px;text-align:left;padding:12px 14px;border:1px solid var(--line);border-left:3px solid var(--sb-accent);border-radius:3px;background:var(--white);color:var(--ink);cursor:pointer;font:inherit;transition:border-color .2s,transform .2s}
+.adv-ship:hover,.adv-ship:focus-visible{border-color:var(--sb-accent);outline:none;transform:translateY(-1px)}
+.adv-ship strong{font:600 17px/1.25 var(--serif);color:var(--ink)}
+.adv-ship span{font:italic 13px/1.3 var(--serif);color:var(--muted)}
+.adv-ship small{font:11px/1.4 var(--sans);letter-spacing:.8px;text-transform:uppercase;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){.adv-ship{transition:none}.adv-ship:hover{transform:none}}
