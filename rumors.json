@@ -2787,6 +2787,156 @@
   ]
  },
  {
+  "id": "rumor-long-war-1",
+  "text": "There is a ship on the Register that nobody has seen in forty years. She is counted every year. Somebody signs for her.",
+  "heardAt": "heard from a Grey Clerk at Tollmark",
+  "region": "Northern Frontier",
+  "entries": [
+   "long-war",
+   "the-moot-of-banners"
+  ]
+ },
+ {
+  "id": "rumor-long-war-2",
+  "text": "They read the Charter Call to the Admirals once a year behind a shut door, so somebody remembers the words. One year an Admiral asked what happens if a house says no. Nobody answered him.",
+  "heardAt": "heard from an Armada steward",
+  "region": "Northern Frontier",
+  "entries": [
+   "long-war",
+   "the-moot-of-banners"
+  ]
+ },
+ {
+  "id": "rumor-long-war-3",
+  "text": "The bells of Gael Dunlur ring by themselves the night before every great battle. My company heard them twice. We were only in one battle.",
+  "heardAt": "heard from a three-knot veteran",
+  "region": "Northern Frontier",
+  "entries": [
+   "long-war",
+   "the-moot-of-banners"
+  ]
+ },
+ {
+  "id": "rumor-long-war-4",
+  "text": "Half the Krysta that goes north never reaches the Alliance. Ask who is buying the other half.",
+  "heardAt": "heard from a scale-table clerk in Ironfort",
+  "region": "Northern Frontier",
+  "entries": [
+   "long-war",
+   "the-moot-of-banners"
+  ]
+ },
+ {
+  "id": "rumor-sacred-flame-1",
+  "text": "There’s a lamp in the Book of Doors with no place written beside it. They pay a tender for it every year. Nobody knows where the money goes.",
+  "heardAt": "heard from a White Flame copyist",
+  "region": "Southern Wilds",
+  "entries": [
+   "sacred-flame",
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-sacred-flame-2",
+  "text": "The old Seals can’t find their way out of a room. You have to take them by the sleeve. Nobody in the order thinks that’s funny.",
+  "heardAt": "heard from a Jakupur lamp-oil seller",
+  "region": "Southern Wilds",
+  "entries": [
+   "sacred-flame",
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-sacred-flame-3",
+  "text": "My grandmother’s lamp went clear once. Not out. Clear, like water. Three of them came by morning and we were told to visit my aunt for a month.",
+  "heardAt": "heard from a tender’s granddaughter",
+  "region": "Southern Wilds",
+  "entries": [
+   "sacred-flame",
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-changelings-1",
+  "text": "There are two of old Marrin the netmaker in Southhaven. Same face, same limp. They won’t be in the same street. One of them is seven years younger than he ought to be.",
+  "heardAt": "heard from a Southhaven fishwife",
+  "region": "Central Heartland",
+  "entries": [
+   "changelings",
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-changelings-2",
+  "text": "You can’t lend a dead man’s face. But if you die with yours out on loan, they keep it. Think about who that tempts.",
+  "heardAt": "heard from a hedge-arbiter at the Still Days",
+  "region": "Central Heartland",
+  "entries": [
+   "changelings",
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-changelings-3",
+  "text": "The first changelings weren’t spies. Ask a Spring pixie what they were for and it stops laughing.",
+  "heardAt": "heard from a Caelvaron door-warden",
+  "region": "Central Heartland",
+  "entries": [
+   "changelings",
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-the-warped-1",
+  "text": "The warren under Goldwind’s east quay pays something through a crack in the cellar wall every Still Day. Has done since before the quay. Nobody down there remembers what was borrowed.",
+  "heardAt": "heard from a Goldwind salvage-tinker",
+  "region": "Central Heartland",
+  "entries": [
+   "the-warped",
+   "goblinoids"
+  ]
+ },
+ {
+  "id": "rumor-the-warped-2",
+  "text": "You know how the goblins got out when the Veil came down? Some did. Ask who paid for the door.",
+  "heardAt": "heard from a hobgoblin sergeant, drunk",
+  "region": "Central Heartland",
+  "entries": [
+   "the-warped",
+   "goblinoids"
+  ]
+ },
+ {
+  "id": "rumor-the-warped-3",
+  "text": "There’s a tallyman in Underbell who lent a candle to an Orka sorcerer. He’s still waiting on it. That’s the oldest living thing in the Faewild that isn’t a sovereign.",
+  "heardAt": "heard from a road-fae, in the Roam",
+  "region": "Central Heartland",
+  "entries": [
+   "the-warped",
+   "goblinoids"
+  ]
+ },
+ {
+  "id": "rumor-fifth-gate-song",
+  "text": "There’s an old fae walking-song with a bar in it that nobody sings. They all hum it. Ask what the word was and they’ll tell you there never was one, and look like they’ve lost their keys.",
+  "heardAt": "heard from a kalashtar fiddler in Goldwind",
+  "region": "Central Heartland",
+  "entries": [
+   "unbound",
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-borders-too-narrow",
+  "text": "The four borders of the Faewild are narrower than the roads that lead to them. You can walk a day toward the Thaw on a road built to be walked for three. Somebody took the middle out.",
+  "heardAt": "heard from a Caelvaron elf, ten years home",
+  "region": "Central Heartland",
+  "entries": [
+   "faewild-politics",
+   "faewild"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",

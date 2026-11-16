@@ -577,7 +577,8 @@
    "northern-frontier",
    "hunters",
    "council",
-   "coinage"
+   "coinage",
+   "long-war"
   ],
   "illustration": {
    "src": "assets/scenes/ironfort-painterly-v2-960.webp",
@@ -999,6 +1000,12 @@
     ]
    },
    {
+    "title": "The hidden blade",
+    "paragraphs": [
+     "The White Flame has a second arm, the Sacred Flame, whose hunters find rifts and shut them. The city does not say where it keeps its house. Under Jakupur the order tends the Flame Gate, a sealed door into the deep with a fire on it that has never been let go out."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Tana Sukuun has sold a Dreadmaw to the Heartland. The buyer is a Vol Kaern agent, and the saurian is named after the Vol Kaern tower.” (heard in the Southern Wilds)",
@@ -1036,7 +1043,8 @@
    "saurians",
    "aurocs",
    "mercantile-congress",
-   "giant-betta"
+   "giant-betta",
+   "sacred-flame"
   ],
   "illustration": {
    "src": "assets/scenes/jakupur-painterly-v3-960.webp",
@@ -4401,7 +4409,9 @@
    "veil",
    "thin-places",
    "still-days",
-   "frost-elves"
+   "frost-elves",
+   "changelings",
+   "the-warped"
   ]
  },
  {
@@ -4665,7 +4675,8 @@
    "sporrn",
    "lantern-mouse",
    "king-tide",
-   "drow"
+   "drow",
+   "sacred-flame"
   ],
   "illustration": {
    "src": "assets/scenes/below-painterly-v1-960.webp",
@@ -5233,6 +5244,12 @@
     ]
    },
    {
+    "title": "The Register and the Call",
+    "paragraphs": [
+     "About a third of the armed hulls in the islands belong to the noble houses and not to the Armada. Each one is entered by name on the Castellan’s Register, and in a war the Council declares, the Charter Call would bring every one of them under Armada command. The Call has never been made."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Captain Blackstorm once outmaneuvered the whole Armada during a King Tide.” (a dockside account of the Most Wanted)",
@@ -5277,7 +5294,8 @@
    "edran-holst",
    "hunters",
    "battle-of-the-krakens-maw",
-   "kellum"
+   "kellum",
+   "long-war"
   ],
   "illustration": {
    "src": "assets/powers/armada-painterly-v1-960.webp",
@@ -7349,7 +7367,8 @@
    "fae",
    "veil",
    "thin-places",
-   "still-days"
+   "still-days",
+   "sacred-flame"
   ],
   "illustration": {
    "src": "assets/creatures/veil-butterfly-v1-960.webp",
@@ -10132,6 +10151,12 @@
     ]
    },
    {
+    "title": "The cousin’s bowl",
+    "paragraphs": [
+     "On each of the Still Days a warren sets a bowl of food outside its door and does not watch to see who takes it. It is for the cousins who did not get out: the goblin hosts shut inside the Faewild when the Veil rose, and what they have become. A warren that forgets the bowl is talked about."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“A goblin at the Knot is wearing a Council admiral's hat and has a very good story about it.” (heard at the Knot)"
@@ -10157,7 +10182,8 @@
   "related": [
    "below",
    "mercantile-congress",
-   "kobolds"
+   "kobolds",
+   "the-warped"
   ],
   "illustration": {
    "src": "assets/peoples/goblinoids-painterly-v1-960.webp",
@@ -13640,7 +13666,8 @@
    "dragonborn",
    "xathnatraz",
    "aurocs",
-   "languages-of-the-archipelago"
+   "languages-of-the-archipelago",
+   "long-war"
   ]
  },
  {
@@ -14770,7 +14797,8 @@
    "quiet-auction",
    "orcs",
    "southern-movements",
-   "jakupur"
+   "jakupur",
+   "sacred-flame"
   ]
  },
  {
@@ -17989,7 +18017,8 @@
    "johann-faust",
    "great-hunter-crews",
    "northreach",
-   "noble-houses"
+   "noble-houses",
+   "long-war"
   ]
  },
  {
@@ -18424,7 +18453,8 @@
    "great-hunter-crews",
    "mercantile-congress",
    "noble-houses",
-   "northern-frontier"
+   "northern-frontier",
+   "long-war"
   ]
  },
  {
@@ -26602,7 +26632,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZXJlIHdhcyBhIEZpZnRoIENvdXJ0LioqIEl0IGtlcHQgdGhlIFR1cm5pbmdzLCB0aGUgZGF5cyBvbiB3aGljaCBvbmUgc2Vhc29uIGJlY29tZXMgdGhlIG5leHQuIExpa2UgdGhlIG90aGVyIGZvdXIgaXQgaGFkIG5vIGxvcmQgdW50aWwgdGhlIHdhciwgYW5kIHRoZW4gaXQgaGFkIG9uZTogcHJvdWQsIGNsZXZlciwgYW5kIHNvb24gc2V0IG9uIHJ1bGluZyBhbGwgZml2ZS4iLCAiKipUaGUgY291cnRzaGlwcyB3ZXJlIHBvbGljeS4qKiBBZnRlciB0aGUgd2FyIGhpcyB3YXMgdGhlIG9ubHkgcGVhcmwgbGVmdCwgYW5kIGhlIGNhcnJpZWQgaXQgZnJvbSBDb3VydCB0byBDb3VydCwgZm91ciB0aW1lcyBhIHllYXIuIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBhcyBoZSB3ZW50LCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIiwgIioqVGhlIHRyYWRlLioqIEhlIHdlbnQgdG8gT2RhLCB0aGUgU2VhbGVkIE9yYWNsZSwgYW5kIGFza2VkIHRoZSBsYXJnZXN0IHF1ZXN0aW9uIGFueW9uZSBoYXMgYXNrZWQgaGVyOiB0aGUgdHJ1ZSBuYW1lIG9mIGV2ZXJ5IHRoaW5nLiBPZGEgZG9lcyBub3Qgc2VsbC4gVGhlIGFza2luZyBpcyB0aGUgcHJpY2UuIEEgcXVlc3Rpb24gdGhhdCBzaXplIGNvc3QgZXZlcnl0aGluZyBoZSBoYWQ6IGhpcyByZWFsbSwgaGlzIGNyb3duLCBhbmQgaGlzIG93biBuYW1lLiBPZGEga2VwdCBub25lIG9mIGl0LiIsICIqKldoYXQgaXQgZGlkIHRvIGhpbS4qKiBUbyBrbm93IGEgdGhpbmcncyB0cnVlIG5hbWUgaXMgdG8ga25vdyB3aGF0IGl0IGlzLCBhbmQgaGlzIGFtYml0aW9uIGRpZCBub3Qgc3Vydml2ZSB0aGF0LiBIZSBoYXMgbm8gbmFtZSwgc28gbm8gYmFyZ2Fpbiwgd2FyZCwgb3Igb2F0aCBoYXMgYW55dGhpbmcgdG8gaG9sZC4gVGhhdCBpcyB0aGUgVW5ib3VuZC4iLCAiKipIZSBpcyB0aGUgb25seSB0cnVlbmFtZXIuKiogSGUgY291bGQgc3BlYWsgdGhlIHRydWUgbmFtZSBvZiBhbnkgQXJjaGZleSwgYW5kIG9mIGFueXRoaW5nIGVsc2UuIEhlIGhhcyBuZXZlciBiZWVuIHNlZW4gdG8gZG8gaXQuIFRoZSBmb3VyIHNvdmVyZWlnbnMgZG8gbm90IGtub3cgZm9yIGNlcnRhaW4gdGhhdCBoZSBjYW4sIGFuZCBoYXZlIG5ldmVyIGRhcmVkIHRvIGZpbmQgb3V0LiIsICIqKlRoZSBmaXJzdHMuKiogSW4gdGhlIEZhZXdpbGQgYSBmaXJzdCBpcyBhIHRoaW5nIHdpdGggYSBuYW1lLCBhbmQgaXQgY2FuIGJlIG93bmVkLiBUaGUgZmlyc3Qga2lzcywgYW5kIGZvdXIgZmlyc3QgdGltZXMsIHdlbnQgd2l0aCB0aGUgbmFtZXMgd2hlbiBoZSB3YWxrZWQgYXdheS4gSGUgZGlkIG5vdCBtZWFuIHRvIHRha2UgdGhlbSwgYW5kIGhlIHN0aWxsIGhhcyB0aGVtLiIsICIqKlRoZSBUdXJuIGlzIHRoZSBmaWZ0aCBwZWFybC4qKiBFYWNoIENvdXJ0IG9uY2UgaGFkIGEgcGVhcmwgdGhhdCBoZWxkIGl0cyBzZWFzb24sIGFuZCByZW5ld2VkIHRoZSBDb3VydCB0aGF0IGhlbGQgaXQuIFRoZSBPcmthIGJyb2tlIG9yIHN0b2xlIGFsbCBmb3VyLiBUaGUgb25lIHRoZSBzb3ZlcmVpZ25zIHBhc3Mgbm93IGJlbG9uZ2VkIHRvIHRoZSBGaWZ0aCBDb3VydCwgYW5kIGl0IGlzIHN0aWxsIHRoZSBVbmJvdW5kJ3MuIFRoYXQgaXMgd2h5IG5vbmUgb2YgdGhlbSBjYW4ga2VlcCBpdDogaXQgd2FzIG5ldmVyIG1hZGUgZm9yIGEgc2Vhc29uLCBhbmQgYSBDb3VydCB0aGF0IGhvbGRzIGl0IHBhc3QgaXRzIHRpbWUgaXMgdW5tYWRlIGEgbGl0dGxlIGF0IGEgdGltZS4gQnV0IGV2ZXJ5IENvdXJ0IG5lZWRzIGl0cyBxdWFydGVyIG9mIHRoZSB5ZWFyIHdpdGggaXQgdG8gcmVuZXcgaXRzZWxmIGF0IGFsbC4gVGhleSBsaXZlIG9uIGEgdGhpbmcgdGhhdCBiZWxvbmdzIHRvIHRoZSBvbmUgdGhleSBmZWFyLiIsICIqKlRoZSBSb2FtIGlzIGhpcy4qKiBIaXMgcmVhbG0gY2FtZSBsb29zZSBmcm9tIHRoZSBGYWV3aWxkIHdoZW4gaGUgZ2F2ZSBpdCB1cCwgYW5kIG5vYm9keSBldmVyIHRvb2sgcG9zc2Vzc2lvbi4gVGhlIHRpdGxlIGlzIHN0aWxsIGdvb2QuIE5vIENvdXJ0IGtub3dzLCBubyBrYWxhc2h0YXIga25vd3MsIGFuZCBoZSBoYXMgbmV2ZXIgbWVudGlvbmVkIGl0LiIsICIqKlRoZSBEb21lIGlzIHRoZSBHbGFzcyBIYWxsKiosIGhpcyBvbGQgdGhyb25lIHJvb20uIFRoZSBEb21lLXBlYWNlIGlzIGhpcyBob3VzZSBydWxlLCBhbmQgdGhlIGJyaWNrZWQtdXAgZmlmdGggZ2F0ZSBpcyBoaXMgb3duIGRvb3IuIEx1bGxzIHdpbGwgbm90IHBhc3MgdW5kZXIgdGhlIGdsYXNzIGJlY2F1c2UgaXQgaXMgc3RpbGwsIGluIGV2ZXJ5IHdheSB0aGF0IG1hdHRlcnMgdG8gYSBuYW1lLCBoaXMgaG91c2UuIiwgIioqVGhlIExhdGUgRnJvc3QqKiBpcyBoaW0gd2Fsa2luZyBoaXMgb2xkIFR1cm5pbmdzLCBvbmNlIGluIGVhY2ggc2Vhc29uLCBvdXQgb2YgaGFiaXQuIiwgIioqT25kcnkgVmFuZSBrbm93cy4qKiBTaGUgd2FzIHRoZSBsb3JkJ3MgbWFyc2hhbCwgYW5kIHNoZSBzd29yZTogSSB3aWxsIGtlZXAgdGhlIGhhbGwsIGFuZCB0aGUgcGVhY2Ugb2YgdGhlIGhhbGwsIGFuZCB0aGUgZG9vciBvZiB0aGUgaGFsbCwgdW50aWwgbXkgbG9yZCBjb21lcyBob21lIGFuZCBzYXlzIG15IG5hbWUuIFNoZSBpcyBzdGlsbCB3YWl0aW5nLiBTaGUgZG9lcyBub3QgcmVjb2duaXplIHRoZSBVbmJvdW5kOiBoZXIgb2F0aCB3YXMgdG8gYSBuYW1lLCBhbmQgaGUgbm8gbG9uZ2VyIGhhcyBvbmUuIEhlIGhhcyBzYXQgYXQgdGhlIExvbmcgVGFibGUgYSBkb3plbiB0aW1lcyB3aXRoaW4gc2lnaHQgb2YgaGVyIHBvcmNoLCBhbmQgaGFzIG5ldmVyIHRvbGQgaGVyLiBIZSBpcyBhbHNvIHRoZSBvbmx5IG9uZSBhbGl2ZSB3aG8gY291bGQgc2F5IGhlciBuYW1lIHRoZSB3YXkgdGhlIG9hdGggbWVhbnMuIiwgIioqVGhlIGNvZmZlZS4qKiBNb3N0IHNlYXNvbnMgaGUgdGFrZXMgaXQgaW4gR29sZHdpbmQgd2l0aCBDb3VuY2lsb3IgTGFjdGluaXVzIFdpbmRjYWxsZXIsIHdobyByZWNlaXZlcyBoaW0gYXMgYW4gb2xkIGFjcXVhaW50YW5jZSBhbmQgaXMgbm90IGluIHRoZSBsZWFzdCBhZnJhaWQgb2YgaGltLiBUaGVyZSBpcyBtb3JlIHRvIHRoYXQgZnJpZW5kc2hpcCB0aGFuIGEgQ291bmNpbG9yIG9mIEdvbGR3aW5kIG91Z2h0IHRvIGJlIGFibGUgdG8gYWNjb3VudCBmb3IuIiwgIioqVGhlIGNhdCoqIGlzIEZpc2hicmVhZCwgb2YgdGhlIFdhcm0gU3RlcHMgb2YgSXh0YWx1LiBUaGUgZmFlIHN0ZXAgYXJvdW5kIGl0LCBhbmQgc28gZG9lcyBoZS4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZXJlIHdhcyBhIEZpZnRoIENvdXJ0LioqIEl0IGtlcHQgdGhlIFR1cm5pbmdzLCB0aGUgZGF5cyBvbiB3aGljaCBvbmUgc2Vhc29uIGJlY29tZXMgdGhlIG5leHQuIExpa2UgdGhlIG90aGVyIGZvdXIgaXQgaGFkIG5vIGxvcmQgdW50aWwgdGhlIHdhciwgYW5kIHRoZW4gaXQgaGFkIG9uZTogcHJvdWQsIGNsZXZlciwgYW5kIHNvb24gc2V0IG9uIHJ1bGluZyBhbGwgZml2ZS4iLCAiKipUaGUgY291cnRzaGlwcyB3ZXJlIHBvbGljeS4qKiBBZnRlciB0aGUgd2FyIGhpcyB3YXMgdGhlIG9ubHkgcGVhcmwgbGVmdCwgYW5kIGhlIGNhcnJpZWQgaXQgZnJvbSBDb3VydCB0byBDb3VydCwgZm91ciB0aW1lcyBhIHllYXIuIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBhcyBoZSB3ZW50LCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIiwgIioqVGhlIHRyYWRlLioqIEhlIHdlbnQgdG8gT2RhLCB0aGUgU2VhbGVkIE9yYWNsZSwgYW5kIGFza2VkIHRoZSBsYXJnZXN0IHF1ZXN0aW9uIGFueW9uZSBoYXMgYXNrZWQgaGVyOiB0aGUgdHJ1ZSBuYW1lIG9mIGV2ZXJ5IHRoaW5nLiBPZGEgZG9lcyBub3Qgc2VsbC4gVGhlIGFza2luZyBpcyB0aGUgcHJpY2UuIEEgcXVlc3Rpb24gdGhhdCBzaXplIGNvc3QgZXZlcnl0aGluZyBoZSBoYWQ6IGhpcyByZWFsbSwgaGlzIGNyb3duLCBhbmQgaGlzIG93biBuYW1lLiBPZGEga2VwdCBub25lIG9mIGl0LiIsICIqKldoYXQgaXQgZGlkIHRvIGhpbS4qKiBUbyBrbm93IGEgdGhpbmcncyB0cnVlIG5hbWUgaXMgdG8ga25vdyB3aGF0IGl0IGlzLCBhbmQgaGlzIGFtYml0aW9uIGRpZCBub3Qgc3Vydml2ZSB0aGF0LiBIZSBoYXMgbm8gbmFtZSwgc28gbm8gYmFyZ2Fpbiwgd2FyZCwgb3Igb2F0aCBoYXMgYW55dGhpbmcgdG8gaG9sZC4gVGhhdCBpcyB0aGUgVW5ib3VuZC4iLCAiKipIZSBpcyB0aGUgb25seSB0cnVlbmFtZXIuKiogSGUgY291bGQgc3BlYWsgdGhlIHRydWUgbmFtZSBvZiBhbnkgQXJjaGZleSwgYW5kIG9mIGFueXRoaW5nIGVsc2UuIEhlIGhhcyBuZXZlciBiZWVuIHNlZW4gdG8gZG8gaXQuIFRoZSBmb3VyIHNvdmVyZWlnbnMgZG8gbm90IGtub3cgZm9yIGNlcnRhaW4gdGhhdCBoZSBjYW4sIGFuZCBoYXZlIG5ldmVyIGRhcmVkIHRvIGZpbmQgb3V0LiIsICIqKlRoZSBmaXJzdHMuKiogSW4gdGhlIEZhZXdpbGQgYSBmaXJzdCBpcyBhIHRoaW5nIHdpdGggYSBuYW1lLCBhbmQgaXQgY2FuIGJlIG93bmVkLiBUaGUgZmlyc3Qga2lzcywgYW5kIGZvdXIgZmlyc3QgdGltZXMsIHdlbnQgd2l0aCB0aGUgbmFtZXMgd2hlbiBoZSB3YWxrZWQgYXdheS4gSGUgZGlkIG5vdCBtZWFuIHRvIHRha2UgdGhlbSwgYW5kIGhlIHN0aWxsIGhhcyB0aGVtLiIsICIqKlRoZSBUdXJuIGlzIHRoZSBmaWZ0aCBwZWFybC4qKiBFYWNoIENvdXJ0IG9uY2UgaGFkIGEgcGVhcmwgdGhhdCBoZWxkIGl0cyBzZWFzb24sIGFuZCByZW5ld2VkIHRoZSBDb3VydCB0aGF0IGhlbGQgaXQuIFRoZSBPcmthIGJyb2tlIG9yIHN0b2xlIGFsbCBmb3VyLiBUaGUgb25lIHRoZSBzb3ZlcmVpZ25zIHBhc3Mgbm93IGJlbG9uZ2VkIHRvIHRoZSBGaWZ0aCBDb3VydCwgYW5kIGl0IGlzIHN0aWxsIHRoZSBVbmJvdW5kJ3MuIFRoYXQgaXMgd2h5IG5vbmUgb2YgdGhlbSBjYW4ga2VlcCBpdDogaXQgd2FzIG5ldmVyIG1hZGUgZm9yIGEgc2Vhc29uLCBhbmQgYSBDb3VydCB0aGF0IGhvbGRzIGl0IHBhc3QgaXRzIHRpbWUgaXMgdW5tYWRlIGEgbGl0dGxlIGF0IGEgdGltZS4gQnV0IGV2ZXJ5IENvdXJ0IG5lZWRzIGl0cyBxdWFydGVyIG9mIHRoZSB5ZWFyIHdpdGggaXQgdG8gcmVuZXcgaXRzZWxmIGF0IGFsbC4gVGhleSBsaXZlIG9uIGEgdGhpbmcgdGhhdCBiZWxvbmdzIHRvIHRoZSBvbmUgdGhleSBmZWFyLiIsICIqKlRoZSBSb2FtIGlzIGhpcy4qKiBIaXMgcmVhbG0gY2FtZSBsb29zZSBmcm9tIHRoZSBGYWV3aWxkIHdoZW4gaGUgZ2F2ZSBpdCB1cCwgYW5kIG5vYm9keSBldmVyIHRvb2sgcG9zc2Vzc2lvbi4gVGhlIHRpdGxlIGlzIHN0aWxsIGdvb2QuIE5vIENvdXJ0IGtub3dzLCBubyBrYWxhc2h0YXIga25vd3MsIGFuZCBoZSBoYXMgbmV2ZXIgbWVudGlvbmVkIGl0LiIsICIqKlRoZSBEb21lIGlzIHRoZSBHbGFzcyBIYWxsKiosIGhpcyBvbGQgdGhyb25lIHJvb20uIFRoZSBEb21lLXBlYWNlIGlzIGhpcyBob3VzZSBydWxlLCBhbmQgdGhlIGJyaWNrZWQtdXAgZmlmdGggZ2F0ZSBpcyBoaXMgb3duIGRvb3IuIEx1bGxzIHdpbGwgbm90IHBhc3MgdW5kZXIgdGhlIGdsYXNzIGJlY2F1c2UgaXQgaXMgc3RpbGwsIGluIGV2ZXJ5IHdheSB0aGF0IG1hdHRlcnMgdG8gYSBuYW1lLCBoaXMgaG91c2UuIiwgIioqVGhlIExhdGUgRnJvc3QqKiBpcyBoaW0gd2Fsa2luZyBoaXMgb2xkIFR1cm5pbmdzLCBvbmNlIGluIGVhY2ggc2Vhc29uLCBvdXQgb2YgaGFiaXQuIiwgIioqT25kcnkgVmFuZSBrbm93cy4qKiBTaGUgd2FzIHRoZSBsb3JkJ3MgbWFyc2hhbCwgYW5kIHNoZSBzd29yZTogSSB3aWxsIGtlZXAgdGhlIGhhbGwsIGFuZCB0aGUgcGVhY2Ugb2YgdGhlIGhhbGwsIGFuZCB0aGUgZG9vciBvZiB0aGUgaGFsbCwgdW50aWwgbXkgbG9yZCBjb21lcyBob21lIGFuZCBzYXlzIG15IG5hbWUuIFNoZSBpcyBzdGlsbCB3YWl0aW5nLiBTaGUgZG9lcyBub3QgcmVjb2duaXplIHRoZSBVbmJvdW5kOiBoZXIgb2F0aCB3YXMgdG8gYSBuYW1lLCBhbmQgaGUgbm8gbG9uZ2VyIGhhcyBvbmUuIEhlIGhhcyBzYXQgYXQgdGhlIExvbmcgVGFibGUgYSBkb3plbiB0aW1lcyB3aXRoaW4gc2lnaHQgb2YgaGVyIHBvcmNoLCBhbmQgaGFzIG5ldmVyIHRvbGQgaGVyLiBIZSBpcyBhbHNvIHRoZSBvbmx5IG9uZSBhbGl2ZSB3aG8gY291bGQgc2F5IGhlciBuYW1lIHRoZSB3YXkgdGhlIG9hdGggbWVhbnMuIiwgIioqVGhlIGNvZmZlZS4qKiBNb3N0IHNlYXNvbnMgaGUgdGFrZXMgaXQgaW4gR29sZHdpbmQgd2l0aCBDb3VuY2lsb3IgTGFjdGluaXVzIFdpbmRjYWxsZXIsIHdobyByZWNlaXZlcyBoaW0gYXMgYW4gb2xkIGFjcXVhaW50YW5jZSBhbmQgaXMgbm90IGluIHRoZSBsZWFzdCBhZnJhaWQgb2YgaGltLiBUaGVyZSBpcyBtb3JlIHRvIHRoYXQgZnJpZW5kc2hpcCB0aGFuIGEgQ291bmNpbG9yIG9mIEdvbGR3aW5kIG91Z2h0IHRvIGJlIGFibGUgdG8gYWNjb3VudCBmb3IuIiwgIioqVGhlIGNhdCoqIGlzIEZpc2hicmVhZCwgb2YgdGhlIFdhcm0gU3RlcHMgb2YgSXh0YWx1LiBUaGUgZmFlIHN0ZXAgYXJvdW5kIGl0LCBhbmQgc28gZG9lcyBoZS4iLCAiKipUaGUgQ291cnQgb2YgVHVybmluZ3MuKiogQmVmb3JlIHRoZSB0cmFkZSwgdGhlIGNvdW50cnkgYmV0d2VlbiB0aGUgc2Vhc29ucyB3YXMgYSByZWFsbSBvZiBpdHMgb3duOiBhIHJpbmcgb2YgbGFuZCBhIGRheeKAmXMgd2FsayB3aWRlLCB3aGVyZXZlciBvbmUgQ291cnQgbWV0IHRoZSBuZXh0LiBUaGUgQnJpZ2h0IE1hcmNoLCB0aGUgU2V0dGxpbmcsIHRoZSBDbG9zaW5nLCBhbmQgdGhlIFRoYXcgd2VyZSBpdHMgZm91ciBwcm92aW5jZXMuIEl0IHdhcyB0aGUgc21hbGxlc3QgQ291cnQsIGFuZCBldmVyeSB0cmF2ZWxlciwgZW52b3ksIGFuZCBhcm15IGluIHRoZSBGYWV3aWxkIGhhZCB0byBjcm9zcyBpdC4iLCAiKipUaGUgVHVybmZvbGsuKiogSXRzIHBlb3BsZSB3ZXJlIHRoZSBmYWUgb2YgaW4tYmV0d2VlbiB0aGluZ3M6IGR1c2ssIGRvb3JzdGVwcywgZmlyc3QgZnJvc3QsIHRoZSBsYXN0IGxlYWYsIHRoZSBob3VyIGJlZm9yZSBhIHBhcnR5LiBUaGV5IGtlcHQgaW5ucyBhbmQgZ2F0ZXMgYW5kIGZlcnJpZXMsIGJlY2F1c2UgdGhhdCBpcyB3aGF0IGEgY291bnRyeSBkb2VzIHdoZW4gZXZlcnlib2R5IGlzIHBhc3NpbmcgdGhyb3VnaC4iLCAiKipUaGUgR2xhc3MgSGFsbCoqIHN0b29kIHdoZXJlIGFsbCBmb3VyIHByb3ZpbmNlcyBtZXQuIEl0IGhhZCBmb3VyIGdhdGVzLCBvbmUgdG8gZWFjaCBDb3VydCwgYW5kIGEgZmlmdGggdGhhdCB3YXMgaGlzIG93biBhbmQgb3BlbmVkIHdoZXJldmVyIGhlIGxpa2VkLiBFdmVyeSBoYW5kb3ZlciBvZiB0aGUgeWVhciB3YXMgbWFkZSB1bmRlciBpdHMgZ2xhc3MsIHdpdGggaGltIHByZXNpZGluZy4gSXQgaXMgdGhlIG9uZSBidWlsZGluZyBpbiB0aGUgRmFld2lsZCB3aGVyZSBhbGwgZm91ciBzb3ZlcmVpZ25zIGhhdmUgc3Rvb2QgaW4gdGhlIHNhbWUgcm9vbS4iLCAiKipUaGUgRmlmdGggU2Vhc29uLioqIFdoYXQgaGUgd2FudGVkIHdhcyBhIHNlYXNvbiBvZiBoaXMgb3duLiBUaGUgcGxhbiB3YXMgcGF0aWVudDoga2VlcCB0aGUgcGVhcmwgb25lIGRheSBsb25nZXIgYXQgZWFjaCBUdXJuaW5nLCBldmVyeSB5ZWFyLCB1bnRpbCB0aGUgZGF5cyBiZXR3ZWVuIHdlcmUgYSBtb250aCwgdGhlbiBhIHNlYXNvbiwgdGhlbiB0aGUgeWVhci4gVGhlIGNvdXJ0c2hpcHMgd2VyZSB0aGUgZmlyc3QgaGFsZiBvZiBpdC4gTm8gc292ZXJlaWduIHJlZnVzZXMgYSBkYXkgdG8gYSBsb3Zlci4iLCAiKipUaGUgZ2FwIHdoZXJlIHRoZSBuYW1lIHdhcy4qKiBXaGVuIGhlIHRyYWRlZCBoaXMgbmFtZSBpdCB3ZW50IG91dCBvZiBldmVyeXRoaW5nOiB0aGUgc29uZ3MsIHRoZSB0cmVhdGllcywgdGhlIG1lbW9yaWVzIG9mIGZvdXIgc292ZXJlaWducyB3aG8gaGFkIHNhaWQgaXQgaW4gdGhlIGRhcmsuIFRoZXkgcmVtZW1iZXIgdGhhdCB0aGV5IGtuZXcgaXQuIE9sZCBmYWUgd2Fsa2luZy1zb25ncyBoYXZlIGEgYmFyIHRoYXQgZXZlcnlvbmUgaHVtcy4iLCAiKipXaGVyZSB0aGUgVHVybmZvbGsgd2VudC4qKiBUaGV5IHdlbnQgd2l0aCB0aGUgcmVhbG0uIFRoZXkgYXJlIHRoZSByb2FkLWZhZTogdGhlIHdheS1ob3VzZSBrZWVwZXJzIGFuZCByb2FkLWFnZW50cyBvZiB0aGUgUm9hbSwgdW5kZXIgbm8gQ291cnTigJlzIGxhdyBiZWNhdXNlIHRoZSBvbmx5IGxhdyB0aGV5IGV2ZXIgaGFkIGlzIHRoZSBEb21lLXBlYWNlLiBNb3N0IG9mIHRoZW0gaGF2ZSBmb3Jnb3R0ZW4gdGhlcmUgd2FzIGEgQ291cnQuIE9uZHJ5IFZhbmUgaGFzIG5vdC4iLCAiKipXaHkgdGhlIGJvcmRlcnMgYXJlIGJpdHRlci4qKiBUaGUgZm91ciBDb3VydHMgd2VyZSBuZXZlciBtZWFudCB0byB0b3VjaC4gRm9yIHRlbiB0aG91c2FuZCB5ZWFycyB0aGVyZSB3YXMgYSBjb3VudHJ5IGJldHdlZW4gZWFjaCBwYWlyLCBhbmQgc29tZW9uZSB3aG9zZSB3aG9sZSBidXNpbmVzcyB3YXMgdG8gbWFrZSB0aGUgaGFuZG92ZXIgcGxlYXNhbnQuIEV2ZXJ5IHF1YXJyZWwgb24gdGhlIGZvdXIgYm9yZGVycyBpcyBiZXR3ZWVuIG5laWdoYm9ycyB3aG8gdXNlZCB0byBoYXZlIGEgaG9zdC4iXX0="
    }
   ],
   "facts": [
@@ -26923,7 +26953,8 @@
    "fae",
    "veil",
    "thin-places",
-   "still-days"
+   "still-days",
+   "sacred-flame"
   ]
  },
  {
@@ -30550,6 +30581,11 @@
      "She can make herself look like anyone.",
      "She is searching for the Brush of Creation."
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBhaW50ZWQgQ29yYSoqIGlzIGEgY2hhbmdlbGluZyBvZiBBb2lmZWzigJlzIENvdXJ0LCBhbmQgdGhhdCBpcyBob3cgc2hlIHdlYXJzIGFueSBmYWNlLiBUaGUgQnJ1c2ggb2YgQ3JlYXRpb24gaXMgYSBmYWUgcmVsaWMgbG9zdCBpbiB0aGUgaXNsYW5kcywgYW5kIFNwcmluZyBzZW50IGhlciB0byBmaW5kIGl0LiJdfQ=="
    }
   ],
   "facts": [
@@ -30574,7 +30610,8 @@
   "aliases": [],
   "related": [
    "most-wanted",
-   "coins-and-prices"
+   "coins-and-prices",
+   "changelings"
   ],
   "epigraph": {
    "quote": "I had supper with my first mate for an hour before I noticed he was still up on deck.",
@@ -33039,6 +33076,12 @@
     ]
    },
    {
+    "title": "The Count of Keels",
+    "paragraphs": [
+     "The Lord Castellan keeps the Register of every house warship in the islands, and once a year his clerks walk the house docks to count them. He is said to know by heart which houses own more hulls than they have entered, and to be saving the knowledge."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Every harbor-chain from Ironfort to Frosthold was hung on the Lord Castellan's order, and he keeps the keys to most of them.” (a Frosthold chain-warden)"
@@ -33075,7 +33118,8 @@
    "house-holst",
    "coats-and-ranks-of-the-armada",
    "ironfort",
-   "kalivos-durant"
+   "kalivos-durant",
+   "long-war"
   ],
   "illustration": {
    "src": "assets/folk/edran-holst-painterly-v1-960.webp",
@@ -39183,7 +39227,8 @@
    "house-quillane",
    "house-veldane",
    "house-vol-kaern",
-   "house-holst"
+   "house-holst",
+   "long-war"
   ]
  },
  {
@@ -39311,7 +39356,8 @@
    "house-faust",
    "house-vanris",
    "house-holst",
-   "the-moot-of-banners"
+   "the-moot-of-banners",
+   "long-war"
   ]
  },
  {
@@ -45495,7 +45541,9 @@
    "faewild-politics",
    "veil",
    "thin-places",
-   "still-days"
+   "still-days",
+   "changelings",
+   "the-warped"
   ],
   "aliases": [
    "fae",
@@ -45504,8 +45552,6 @@
    "Unseelie",
    "high fae",
    "small folk",
-   "changeling",
-   "changelings",
    "pixie",
    "pixies",
    "road-fae",
@@ -45661,7 +45707,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBSb2FtIGlzIGhpcy4qKiBIaXMgcmVhbG0gY2FtZSBsb29zZSBmcm9tIHRoZSBGYWV3aWxkIHdoZW4gaGUgZ2F2ZSBpdCB1cCwgYW5kIG5vYm9keSBldmVyIHRvb2sgcG9zc2Vzc2lvbi4gVGhlIHRpdGxlIGlzIHN0aWxsIGdvb2QuIE5vIENvdXJ0IGtub3dzLCBubyBrYWxhc2h0YXIga25vd3MsIGFuZCBoZSBoYXMgbmV2ZXIgbWVudGlvbmVkIGl0LiIsICIqKlRoZSB0cmFkZS4qKiBIZSB3ZW50IHRvIE9kYSwgdGhlIFNlYWxlZCBPcmFjbGUsIGFuZCBhc2tlZCB0aGUgbGFyZ2VzdCBxdWVzdGlvbiBhbnlvbmUgaGFzIGFza2VkIGhlcjogdGhlIHRydWUgbmFtZSBvZiBldmVyeSB0aGluZy4gT2RhIGRvZXMgbm90IHNlbGwuIFRoZSBhc2tpbmcgaXMgdGhlIHByaWNlLiBBIHF1ZXN0aW9uIHRoYXQgc2l6ZSBjb3N0IGV2ZXJ5dGhpbmcgaGUgaGFkOiBoaXMgcmVhbG0sIGhpcyBjcm93biwgYW5kIGhpcyBvd24gbmFtZS4gT2RhIGtlcHQgbm9uZSBvZiBpdC4iLCAiKipUaGUgRG9tZSBpcyB0aGUgR2xhc3MgSGFsbCoqLCBoaXMgb2xkIHRocm9uZSByb29tLiBUaGUgRG9tZS1wZWFjZSBpcyBoaXMgaG91c2UgcnVsZSwgYW5kIHRoZSBicmlja2VkLXVwIGZpZnRoIGdhdGUgaXMgaGlzIG93biBkb29yLiBMdWxscyB3aWxsIG5vdCBwYXNzIHVuZGVyIHRoZSBnbGFzcyBiZWNhdXNlIGl0IGlzIHN0aWxsLCBpbiBldmVyeSB3YXkgdGhhdCBtYXR0ZXJzIHRvIGEgbmFtZSwgaGlzIGhvdXNlLiIsICIqKldoeSBvbmx5IGh1bWFucyBvcGVuIChwcm9wb3NhbCkuKiogT25kcnkgVmFuZSB3YXMgaHVtYW4sIHRoZSBmaXJzdCBtb3J0YWwgZXZlciBzd29ybiB0byBhIGZhZSBoYWxsLiBIZXIgb2F0aCBpcyB3aGF0IGhvbGRzIHRoZSBkb29yIG9mIHRoZSBSb2FtIG9wZW4gdG8gaGVyIGtpbmQsIGFuZCB0byBubyBvdGhlci4iLCAiKipOYXhpdGhlIG1vdmVkIGluLioqIEEgY291bnRyeSB3aXRoIG5vIGxvcmQgYW5kIG5vIGZlbmNlIGlzIGEgbGFyZGVyLiBUaGUgTHVsbHMgY2FtZSBhZnRlciwgaW50byBhbiB1bmd1YXJkZWQgaG91c2UuIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBSb2FtIGlzIGhpcy4qKiBIaXMgcmVhbG0gY2FtZSBsb29zZSBmcm9tIHRoZSBGYWV3aWxkIHdoZW4gaGUgZ2F2ZSBpdCB1cCwgYW5kIG5vYm9keSBldmVyIHRvb2sgcG9zc2Vzc2lvbi4gVGhlIHRpdGxlIGlzIHN0aWxsIGdvb2QuIE5vIENvdXJ0IGtub3dzLCBubyBrYWxhc2h0YXIga25vd3MsIGFuZCBoZSBoYXMgbmV2ZXIgbWVudGlvbmVkIGl0LiIsICIqKlRoZSB0cmFkZS4qKiBIZSB3ZW50IHRvIE9kYSwgdGhlIFNlYWxlZCBPcmFjbGUsIGFuZCBhc2tlZCB0aGUgbGFyZ2VzdCBxdWVzdGlvbiBhbnlvbmUgaGFzIGFza2VkIGhlcjogdGhlIHRydWUgbmFtZSBvZiBldmVyeSB0aGluZy4gT2RhIGRvZXMgbm90IHNlbGwuIFRoZSBhc2tpbmcgaXMgdGhlIHByaWNlLiBBIHF1ZXN0aW9uIHRoYXQgc2l6ZSBjb3N0IGV2ZXJ5dGhpbmcgaGUgaGFkOiBoaXMgcmVhbG0sIGhpcyBjcm93biwgYW5kIGhpcyBvd24gbmFtZS4gT2RhIGtlcHQgbm9uZSBvZiBpdC4iLCAiKipUaGUgRG9tZSBpcyB0aGUgR2xhc3MgSGFsbCoqLCBoaXMgb2xkIHRocm9uZSByb29tLiBUaGUgRG9tZS1wZWFjZSBpcyBoaXMgaG91c2UgcnVsZSwgYW5kIHRoZSBicmlja2VkLXVwIGZpZnRoIGdhdGUgaXMgaGlzIG93biBkb29yLiBMdWxscyB3aWxsIG5vdCBwYXNzIHVuZGVyIHRoZSBnbGFzcyBiZWNhdXNlIGl0IGlzIHN0aWxsLCBpbiBldmVyeSB3YXkgdGhhdCBtYXR0ZXJzIHRvIGEgbmFtZSwgaGlzIGhvdXNlLiIsICIqKldoeSBvbmx5IGh1bWFucyBvcGVuIChwcm9wb3NhbCkuKiogT25kcnkgVmFuZSB3YXMgaHVtYW4sIHRoZSBmaXJzdCBtb3J0YWwgZXZlciBzd29ybiB0byBhIGZhZSBoYWxsLiBIZXIgb2F0aCBpcyB3aGF0IGhvbGRzIHRoZSBkb29yIG9mIHRoZSBSb2FtIG9wZW4gdG8gaGVyIGtpbmQsIGFuZCB0byBubyBvdGhlci4iLCAiKipOYXhpdGhlIG1vdmVkIGluLioqIEEgY291bnRyeSB3aXRoIG5vIGxvcmQgYW5kIG5vIGZlbmNlIGlzIGEgbGFyZGVyLiBUaGUgTHVsbHMgY2FtZSBhZnRlciwgaW50byBhbiB1bmd1YXJkZWQgaG91c2UuIiwgIioqV2hlcmUgdGhlIFR1cm5mb2xrIHdlbnQuKiogVGhleSB3ZW50IHdpdGggdGhlIHJlYWxtLiBUaGV5IGFyZSB0aGUgcm9hZC1mYWU6IHRoZSB3YXktaG91c2Uga2VlcGVycyBhbmQgcm9hZC1hZ2VudHMgb2YgdGhlIFJvYW0sIHVuZGVyIG5vIENvdXJ04oCZcyBsYXcgYmVjYXVzZSB0aGUgb25seSBsYXcgdGhleSBldmVyIGhhZCBpcyB0aGUgRG9tZS1wZWFjZS4gTW9zdCBvZiB0aGVtIGhhdmUgZm9yZ290dGVuIHRoZXJlIHdhcyBhIENvdXJ0LiBPbmRyeSBWYW5lIGhhcyBub3QuIl19"
    }
   ],
   "related": [
@@ -46182,7 +46228,8 @@
    "winter-court",
    "spring-court",
    "faewild-politics",
-   "below"
+   "below",
+   "the-warped"
   ],
   "aliases": [
    "The Summer Court",
@@ -46345,7 +46392,8 @@
    "summer-court",
    "winter-court",
    "spring-court",
-   "faewild-politics"
+   "faewild-politics",
+   "the-warped"
   ],
   "aliases": [
    "The Autumn Court",
@@ -46993,7 +47041,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZXJlIHdhcyBhIEZpZnRoIENvdXJ0LioqIEl0IGtlcHQgdGhlIFR1cm5pbmdzLCB0aGUgZGF5cyBvbiB3aGljaCBvbmUgc2Vhc29uIGJlY29tZXMgdGhlIG5leHQuIExpa2UgdGhlIG90aGVyIGZvdXIgaXQgaGFkIG5vIGxvcmQgdW50aWwgdGhlIHdhciwgYW5kIHRoZW4gaXQgaGFkIG9uZTogcHJvdWQsIGNsZXZlciwgYW5kIHNvb24gc2V0IG9uIHJ1bGluZyBhbGwgZml2ZS4iLCAiKipUaGUgY291cnRzaGlwcyB3ZXJlIHBvbGljeS4qKiBBZnRlciB0aGUgd2FyIGhpcyB3YXMgdGhlIG9ubHkgcGVhcmwgbGVmdCwgYW5kIGhlIGNhcnJpZWQgaXQgZnJvbSBDb3VydCB0byBDb3VydCwgZm91ciB0aW1lcyBhIHllYXIuIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBhcyBoZSB3ZW50LCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIiwgIioqVGhlIHRyYWRlLioqIEhlIHdlbnQgdG8gT2RhLCB0aGUgU2VhbGVkIE9yYWNsZSwgYW5kIGFza2VkIHRoZSBsYXJnZXN0IHF1ZXN0aW9uIGFueW9uZSBoYXMgYXNrZWQgaGVyOiB0aGUgdHJ1ZSBuYW1lIG9mIGV2ZXJ5IHRoaW5nLiBPZGEgZG9lcyBub3Qgc2VsbC4gVGhlIGFza2luZyBpcyB0aGUgcHJpY2UuIEEgcXVlc3Rpb24gdGhhdCBzaXplIGNvc3QgZXZlcnl0aGluZyBoZSBoYWQ6IGhpcyByZWFsbSwgaGlzIGNyb3duLCBhbmQgaGlzIG93biBuYW1lLiBPZGEga2VwdCBub25lIG9mIGl0LiIsICIqKkhlIGlzIHRoZSBvbmx5IHRydWVuYW1lci4qKiBIZSBjb3VsZCBzcGVhayB0aGUgdHJ1ZSBuYW1lIG9mIGFueSBBcmNoZmV5LCBhbmQgb2YgYW55dGhpbmcgZWxzZS4gSGUgaGFzIG5ldmVyIGJlZW4gc2VlbiB0byBkbyBpdC4gVGhlIGZvdXIgc292ZXJlaWducyBkbyBub3Qga25vdyBmb3IgY2VydGFpbiB0aGF0IGhlIGNhbiwgYW5kIGhhdmUgbmV2ZXIgZGFyZWQgdG8gZmluZCBvdXQuIiwgIioqVGhlIGZpcnN0cy4qKiBJbiB0aGUgRmFld2lsZCBhIGZpcnN0IGlzIGEgdGhpbmcgd2l0aCBhIG5hbWUsIGFuZCBpdCBjYW4gYmUgb3duZWQuIFRoZSBmaXJzdCBraXNzLCBhbmQgZm91ciBmaXJzdCB0aW1lcywgd2VudCB3aXRoIHRoZSBuYW1lcyB3aGVuIGhlIHdhbGtlZCBhd2F5LiBIZSBkaWQgbm90IG1lYW4gdG8gdGFrZSB0aGVtLCBhbmQgaGUgc3RpbGwgaGFzIHRoZW0uIiwgIioqVGhlIFR1cm4gaXMgdGhlIGZpZnRoIHBlYXJsLioqIEVhY2ggQ291cnQgb25jZSBoYWQgYSBwZWFybCB0aGF0IGhlbGQgaXRzIHNlYXNvbiwgYW5kIHJlbmV3ZWQgdGhlIENvdXJ0IHRoYXQgaGVsZCBpdC4gVGhlIE9ya2EgYnJva2Ugb3Igc3RvbGUgYWxsIGZvdXIuIFRoZSBvbmUgdGhlIHNvdmVyZWlnbnMgcGFzcyBub3cgYmVsb25nZWQgdG8gdGhlIEZpZnRoIENvdXJ0LCBhbmQgaXQgaXMgc3RpbGwgdGhlIFVuYm91bmQncy4gVGhhdCBpcyB3aHkgbm9uZSBvZiB0aGVtIGNhbiBrZWVwIGl0OiBpdCB3YXMgbmV2ZXIgbWFkZSBmb3IgYSBzZWFzb24sIGFuZCBhIENvdXJ0IHRoYXQgaG9sZHMgaXQgcGFzdCBpdHMgdGltZSBpcyB1bm1hZGUgYSBsaXR0bGUgYXQgYSB0aW1lLiBCdXQgZXZlcnkgQ291cnQgbmVlZHMgaXRzIHF1YXJ0ZXIgb2YgdGhlIHllYXIgd2l0aCBpdCB0byByZW5ldyBpdHNlbGYgYXQgYWxsLiBUaGV5IGxpdmUgb24gYSB0aGluZyB0aGF0IGJlbG9uZ3MgdG8gdGhlIG9uZSB0aGV5IGZlYXIuIiwgIioqTm90IGFsbCBmb3VyIHdlcmUgYnJva2VuIChwcm9wb3NhbCkuKiogQXQgbGVhc3Qgb25lIG9mIHRoZSBsb3N0IHBlYXJscyB3YXMgY2FycmllZCBvZmYgd2hvbGUsIGFuZCBsaWVzIGluIGFuIE9ya2EgcnVpbi4gQSBDb3VydCB0aGF0IGdvdCBpdHMgb3duIHBlYXJsIGJhY2sgd291bGQgbmV2ZXIgbmVlZCB0aGUgVHVybiBhZ2FpbiwgYW5kIHRoZSBvdGhlciB0aHJlZSB3b3VsZCBuZXZlciBhbGxvdyBpdC4iLCAiKipUaGUgUm9hbSBpcyBoaXMuKiogSGlzIHJlYWxtIGNhbWUgbG9vc2UgZnJvbSB0aGUgRmFld2lsZCB3aGVuIGhlIGdhdmUgaXQgdXAsIGFuZCBub2JvZHkgZXZlciB0b29rIHBvc3Nlc3Npb24uIFRoZSB0aXRsZSBpcyBzdGlsbCBnb29kLiBObyBDb3VydCBrbm93cywgbm8ga2FsYXNodGFyIGtub3dzLCBhbmQgaGUgaGFzIG5ldmVyIG1lbnRpb25lZCBpdC4iLCAiKipIb3cgaXQgYmVnYW4uKiogQXQgYSBUaGF3LCBoYW5kaW5nIG92ZXIgdGhlIFR1cm4sIEFvaWZlbCBsb29rZWQgYXQgTW9ydGhyeW4gYW5kIHRvbGQgaGVyIHNoZSB3YXMgdGhlIG1vc3QgYmVhdXRpZnVsIHRoaW5nIHNoZSBoYWQgZXZlciBzZWVuLiBTaGUgc2FpZCBpdCBpbiBhbGwgaW5ub2NlbmNlLiBUaGUgUGFsZSBFbXByZXNzIHdlbnQgcGluaywgY291bGQgbm90IGZpbmQgYSB3b3JkLCBhbmQgbmVhcmx5IGRyb3BwZWQgdGhlIHllYXIuIEFvaWZlbCBsYXVnaGVkIHVudGlsIHNoZSBjb3VsZCBub3Qgc3RhbmQsIGFuZCBieSB0aGUgdGltZSBzaGUgc3RvcHBlZCBzaGUgd2FzIGxvc3QuIiwgIioqQW9pZmVsLioqIFNoZSBmYWxscyBpbiBsb3ZlIHdpdGggYW55b25lIHdobyBtYWtlcyBoZXIgbGF1Z2gsIGFuZCBpdCBhbHdheXMgcGFzc2VzLiBUaGlzIG9uZSBoYXMgbm90LiBJdCBpcyB0aGUgb25seSBsb3ZlIHNoZSBoYXMgdGhhdCBzdGF5cywgYW5kIHNoZSBkZXRlc3RzIGl0LCBiZWNhdXNlIHNoZSBjYW4ndCBrZWVwIE1vcnRocnluLCBhbmQgYmVjYXVzZSBpdCByZW1pbmRzIGhlciB0aGF0IHNoZSBpcyBhIFF1ZWVuIHdpdGggYSBzZWFzb24gdG8gY2FycnkuIiwgIioqTW9ydGhyeW4uKiogU2hlIGxvdmVzIEFvaWZlbCwgYW5kIHNoZSBpcyBjYXJlZnVsIGFib3V0IGl0LiBTaGUgd2FzIGZpcnN0IGxvdmVkIGJ5IGEgbG9yZCB3aG8gd2FzIGNvdXJ0aW5nIGZvdXIgdGhyb25lcywgYW5kIHNoZSBoYXMgbm90IGZvcmdvdHRlbi4gU2hlIGlzIHRoZSBwcmFnbWF0aWMgb25lOiBzaGUgZ2l2ZXMgdGhlIFR1cm4gb3ZlciBvbiB0aGUgZGF5LCBhbmQgc2hlIGRvZXMgbm90IGFzayBBb2lmZWwgdG8gc3RheS4iLCAiKipUaGUgaGFuZG92ZXIgaXMgYWxsIHRoZXkgaGF2ZS4qKiBTb21lIHllYXJzIE1vcnRocnluIGRvZXMgbm90IGxldCBnbyBhdCBvbmNlLCBhbmQgd2ludGVyIHJ1bnMgbG9uZy4gU29tZSB5ZWFycyBBb2lmZWwgY29tZXMgZm9yIGl0IGVhcmx5LCBhbmQgc3ByaW5nIGNvbWVzIGVhcmx5LiIsICIqKlRoZSBDb3VydHMgaGF2ZSBpdCBiYWNrd2FyZHMuKiogRWFjaCBob3VzZWhvbGQgYmVsaWV2ZXMgdGhlIG90aGVyIGlzIHNjaGVtaW5nIHRvIHN0cmV0Y2ggaXRzIHNlYXNvbi4gTmVpdGhlciBRdWVlbiBjYW4gY29ycmVjdCB0aGVtIHdpdGhvdXQgZXhwbGFpbmluZy4gTG9yZCBSaW1ld2FyZCBhbmQgRGFtZSBCcmFtYmxlIGtub3csIGFuZCB3cml0ZSBlYWNoIG90aGVyIHZlcnkgY2FyZWZ1bCBsZXR0ZXJzLiIsICIqKldpbnRlcidzIGZpcnN0IEtpbmcgaXMgYWxpdmUuKiogSGlzIG5hbWUgaXMgQ2FsZHJpdGguIEFmdGVyIHRoZSBleGlsZSBoZSBsZWZ0IHRoZSBQYWxlIEhhbGwgYW5kIGhpZCBoaW1zZWxmLCBpbiBzaGFtZSwgYW5kIHRoZSBDb3VydCBpcyBjYWxsZWQgdGhlIExvbmcgU2lsZW5jZSBmb3IgaGltLiBNb3J0aHJ5biB0b29rIHRoZSB0aHJvbmUsIGFuZCBzaGUgaXMgdGhlIG9ubHkgb25lIHdobyBrbm93cyBoZSBsaXZlcyBvciB3aGVyZS4gU29tZSBzYXkgaGUgc2V0IHRoZSBiZXJzZXJrZXJzIG9uIGFuZCB0aGVuIG1hZGUgdGhlbSBoaXMgc2NhcGVnb2F0cy4gSGUgaGFzIG5ldmVyIGRlbmllZCBpdCwgYW5kIGEga2luZyB3aG8gaGFkIG9ubHkgYmVlbiBiZXRyYXllZCB3b3VsZCBub3QgaGF2ZSBoaWRkZW4gZm9yIHRlbiB0aG91c2FuZCB5ZWFycy4iLCAiU3VtbWVyIGFuZCBBdXR1bW4gc3VzcGVjdCBhIHNlY3JldCBhbGxpYW5jZSBiZXR3ZWVuIFdpbnRlciBhbmQgU3ByaW5nLCBhbmQgYXJlIHdyb25nIGFib3V0IHdoYXQga2luZC4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZXJlIHdhcyBhIEZpZnRoIENvdXJ0LioqIEl0IGtlcHQgdGhlIFR1cm5pbmdzLCB0aGUgZGF5cyBvbiB3aGljaCBvbmUgc2Vhc29uIGJlY29tZXMgdGhlIG5leHQuIExpa2UgdGhlIG90aGVyIGZvdXIgaXQgaGFkIG5vIGxvcmQgdW50aWwgdGhlIHdhciwgYW5kIHRoZW4gaXQgaGFkIG9uZTogcHJvdWQsIGNsZXZlciwgYW5kIHNvb24gc2V0IG9uIHJ1bGluZyBhbGwgZml2ZS4iLCAiKipUaGUgY291cnRzaGlwcyB3ZXJlIHBvbGljeS4qKiBBZnRlciB0aGUgd2FyIGhpcyB3YXMgdGhlIG9ubHkgcGVhcmwgbGVmdCwgYW5kIGhlIGNhcnJpZWQgaXQgZnJvbSBDb3VydCB0byBDb3VydCwgZm91ciB0aW1lcyBhIHllYXIuIEhlIGNvdXJ0ZWQgZWFjaCBvZiB0aGUgb3RoZXIgZm91ciBhcyBoZSB3ZW50LCB0byBiaW5kIHRoZWlyIENvdXJ0cyB0byBoaXMsIGFuZCBoZSB3YXMgdGhlIGZpcnN0IGxvdmVyIG9mIGV2ZXJ5IG9uZSBvZiB0aGVtLiBFYWNoIGJlbGlldmVkIHNoZSwgb3IgaGUsIHdhcyB0aGUgb25seSBvbmUuIiwgIioqVGhlIHRyYWRlLioqIEhlIHdlbnQgdG8gT2RhLCB0aGUgU2VhbGVkIE9yYWNsZSwgYW5kIGFza2VkIHRoZSBsYXJnZXN0IHF1ZXN0aW9uIGFueW9uZSBoYXMgYXNrZWQgaGVyOiB0aGUgdHJ1ZSBuYW1lIG9mIGV2ZXJ5IHRoaW5nLiBPZGEgZG9lcyBub3Qgc2VsbC4gVGhlIGFza2luZyBpcyB0aGUgcHJpY2UuIEEgcXVlc3Rpb24gdGhhdCBzaXplIGNvc3QgZXZlcnl0aGluZyBoZSBoYWQ6IGhpcyByZWFsbSwgaGlzIGNyb3duLCBhbmQgaGlzIG93biBuYW1lLiBPZGEga2VwdCBub25lIG9mIGl0LiIsICIqKkhlIGlzIHRoZSBvbmx5IHRydWVuYW1lci4qKiBIZSBjb3VsZCBzcGVhayB0aGUgdHJ1ZSBuYW1lIG9mIGFueSBBcmNoZmV5LCBhbmQgb2YgYW55dGhpbmcgZWxzZS4gSGUgaGFzIG5ldmVyIGJlZW4gc2VlbiB0byBkbyBpdC4gVGhlIGZvdXIgc292ZXJlaWducyBkbyBub3Qga25vdyBmb3IgY2VydGFpbiB0aGF0IGhlIGNhbiwgYW5kIGhhdmUgbmV2ZXIgZGFyZWQgdG8gZmluZCBvdXQuIiwgIioqVGhlIGZpcnN0cy4qKiBJbiB0aGUgRmFld2lsZCBhIGZpcnN0IGlzIGEgdGhpbmcgd2l0aCBhIG5hbWUsIGFuZCBpdCBjYW4gYmUgb3duZWQuIFRoZSBmaXJzdCBraXNzLCBhbmQgZm91ciBmaXJzdCB0aW1lcywgd2VudCB3aXRoIHRoZSBuYW1lcyB3aGVuIGhlIHdhbGtlZCBhd2F5LiBIZSBkaWQgbm90IG1lYW4gdG8gdGFrZSB0aGVtLCBhbmQgaGUgc3RpbGwgaGFzIHRoZW0uIiwgIioqVGhlIFR1cm4gaXMgdGhlIGZpZnRoIHBlYXJsLioqIEVhY2ggQ291cnQgb25jZSBoYWQgYSBwZWFybCB0aGF0IGhlbGQgaXRzIHNlYXNvbiwgYW5kIHJlbmV3ZWQgdGhlIENvdXJ0IHRoYXQgaGVsZCBpdC4gVGhlIE9ya2EgYnJva2Ugb3Igc3RvbGUgYWxsIGZvdXIuIFRoZSBvbmUgdGhlIHNvdmVyZWlnbnMgcGFzcyBub3cgYmVsb25nZWQgdG8gdGhlIEZpZnRoIENvdXJ0LCBhbmQgaXQgaXMgc3RpbGwgdGhlIFVuYm91bmQncy4gVGhhdCBpcyB3aHkgbm9uZSBvZiB0aGVtIGNhbiBrZWVwIGl0OiBpdCB3YXMgbmV2ZXIgbWFkZSBmb3IgYSBzZWFzb24sIGFuZCBhIENvdXJ0IHRoYXQgaG9sZHMgaXQgcGFzdCBpdHMgdGltZSBpcyB1bm1hZGUgYSBsaXR0bGUgYXQgYSB0aW1lLiBCdXQgZXZlcnkgQ291cnQgbmVlZHMgaXRzIHF1YXJ0ZXIgb2YgdGhlIHllYXIgd2l0aCBpdCB0byByZW5ldyBpdHNlbGYgYXQgYWxsLiBUaGV5IGxpdmUgb24gYSB0aGluZyB0aGF0IGJlbG9uZ3MgdG8gdGhlIG9uZSB0aGV5IGZlYXIuIiwgIioqTm90IGFsbCBmb3VyIHdlcmUgYnJva2VuIChwcm9wb3NhbCkuKiogQXQgbGVhc3Qgb25lIG9mIHRoZSBsb3N0IHBlYXJscyB3YXMgY2FycmllZCBvZmYgd2hvbGUsIGFuZCBsaWVzIGluIGFuIE9ya2EgcnVpbi4gQSBDb3VydCB0aGF0IGdvdCBpdHMgb3duIHBlYXJsIGJhY2sgd291bGQgbmV2ZXIgbmVlZCB0aGUgVHVybiBhZ2FpbiwgYW5kIHRoZSBvdGhlciB0aHJlZSB3b3VsZCBuZXZlciBhbGxvdyBpdC4iLCAiKipUaGUgUm9hbSBpcyBoaXMuKiogSGlzIHJlYWxtIGNhbWUgbG9vc2UgZnJvbSB0aGUgRmFld2lsZCB3aGVuIGhlIGdhdmUgaXQgdXAsIGFuZCBub2JvZHkgZXZlciB0b29rIHBvc3Nlc3Npb24uIFRoZSB0aXRsZSBpcyBzdGlsbCBnb29kLiBObyBDb3VydCBrbm93cywgbm8ga2FsYXNodGFyIGtub3dzLCBhbmQgaGUgaGFzIG5ldmVyIG1lbnRpb25lZCBpdC4iLCAiKipIb3cgaXQgYmVnYW4uKiogQXQgYSBUaGF3LCBoYW5kaW5nIG92ZXIgdGhlIFR1cm4sIEFvaWZlbCBsb29rZWQgYXQgTW9ydGhyeW4gYW5kIHRvbGQgaGVyIHNoZSB3YXMgdGhlIG1vc3QgYmVhdXRpZnVsIHRoaW5nIHNoZSBoYWQgZXZlciBzZWVuLiBTaGUgc2FpZCBpdCBpbiBhbGwgaW5ub2NlbmNlLiBUaGUgUGFsZSBFbXByZXNzIHdlbnQgcGluaywgY291bGQgbm90IGZpbmQgYSB3b3JkLCBhbmQgbmVhcmx5IGRyb3BwZWQgdGhlIHllYXIuIEFvaWZlbCBsYXVnaGVkIHVudGlsIHNoZSBjb3VsZCBub3Qgc3RhbmQsIGFuZCBieSB0aGUgdGltZSBzaGUgc3RvcHBlZCBzaGUgd2FzIGxvc3QuIiwgIioqQW9pZmVsLioqIFNoZSBmYWxscyBpbiBsb3ZlIHdpdGggYW55b25lIHdobyBtYWtlcyBoZXIgbGF1Z2gsIGFuZCBpdCBhbHdheXMgcGFzc2VzLiBUaGlzIG9uZSBoYXMgbm90LiBJdCBpcyB0aGUgb25seSBsb3ZlIHNoZSBoYXMgdGhhdCBzdGF5cywgYW5kIHNoZSBkZXRlc3RzIGl0LCBiZWNhdXNlIHNoZSBjYW4ndCBrZWVwIE1vcnRocnluLCBhbmQgYmVjYXVzZSBpdCByZW1pbmRzIGhlciB0aGF0IHNoZSBpcyBhIFF1ZWVuIHdpdGggYSBzZWFzb24gdG8gY2FycnkuIiwgIioqTW9ydGhyeW4uKiogU2hlIGxvdmVzIEFvaWZlbCwgYW5kIHNoZSBpcyBjYXJlZnVsIGFib3V0IGl0LiBTaGUgd2FzIGZpcnN0IGxvdmVkIGJ5IGEgbG9yZCB3aG8gd2FzIGNvdXJ0aW5nIGZvdXIgdGhyb25lcywgYW5kIHNoZSBoYXMgbm90IGZvcmdvdHRlbi4gU2hlIGlzIHRoZSBwcmFnbWF0aWMgb25lOiBzaGUgZ2l2ZXMgdGhlIFR1cm4gb3ZlciBvbiB0aGUgZGF5LCBhbmQgc2hlIGRvZXMgbm90IGFzayBBb2lmZWwgdG8gc3RheS4iLCAiKipUaGUgaGFuZG92ZXIgaXMgYWxsIHRoZXkgaGF2ZS4qKiBTb21lIHllYXJzIE1vcnRocnluIGRvZXMgbm90IGxldCBnbyBhdCBvbmNlLCBhbmQgd2ludGVyIHJ1bnMgbG9uZy4gU29tZSB5ZWFycyBBb2lmZWwgY29tZXMgZm9yIGl0IGVhcmx5LCBhbmQgc3ByaW5nIGNvbWVzIGVhcmx5LiIsICIqKlRoZSBDb3VydHMgaGF2ZSBpdCBiYWNrd2FyZHMuKiogRWFjaCBob3VzZWhvbGQgYmVsaWV2ZXMgdGhlIG90aGVyIGlzIHNjaGVtaW5nIHRvIHN0cmV0Y2ggaXRzIHNlYXNvbi4gTmVpdGhlciBRdWVlbiBjYW4gY29ycmVjdCB0aGVtIHdpdGhvdXQgZXhwbGFpbmluZy4gTG9yZCBSaW1ld2FyZCBhbmQgRGFtZSBCcmFtYmxlIGtub3csIGFuZCB3cml0ZSBlYWNoIG90aGVyIHZlcnkgY2FyZWZ1bCBsZXR0ZXJzLiIsICIqKldpbnRlcidzIGZpcnN0IEtpbmcgaXMgYWxpdmUuKiogSGlzIG5hbWUgaXMgQ2FsZHJpdGguIEFmdGVyIHRoZSBleGlsZSBoZSBsZWZ0IHRoZSBQYWxlIEhhbGwgYW5kIGhpZCBoaW1zZWxmLCBpbiBzaGFtZSwgYW5kIHRoZSBDb3VydCBpcyBjYWxsZWQgdGhlIExvbmcgU2lsZW5jZSBmb3IgaGltLiBNb3J0aHJ5biB0b29rIHRoZSB0aHJvbmUsIGFuZCBzaGUgaXMgdGhlIG9ubHkgb25lIHdobyBrbm93cyBoZSBsaXZlcyBvciB3aGVyZS4gU29tZSBzYXkgaGUgc2V0IHRoZSBiZXJzZXJrZXJzIG9uIGFuZCB0aGVuIG1hZGUgdGhlbSBoaXMgc2NhcGVnb2F0cy4gSGUgaGFzIG5ldmVyIGRlbmllZCBpdCwgYW5kIGEga2luZyB3aG8gaGFkIG9ubHkgYmVlbiBiZXRyYXllZCB3b3VsZCBub3QgaGF2ZSBoaWRkZW4gZm9yIHRlbiB0aG91c2FuZCB5ZWFycy4iLCAiU3VtbWVyIGFuZCBBdXR1bW4gc3VzcGVjdCBhIHNlY3JldCBhbGxpYW5jZSBiZXR3ZWVuIFdpbnRlciBhbmQgU3ByaW5nLCBhbmQgYXJlIHdyb25nIGFib3V0IHdoYXQga2luZC4iLCAiKipUaGUgQ291cnQgb2YgVHVybmluZ3MuKiogQmVmb3JlIHRoZSB0cmFkZSwgdGhlIGNvdW50cnkgYmV0d2VlbiB0aGUgc2Vhc29ucyB3YXMgYSByZWFsbSBvZiBpdHMgb3duOiBhIHJpbmcgb2YgbGFuZCBhIGRheeKAmXMgd2FsayB3aWRlLCB3aGVyZXZlciBvbmUgQ291cnQgbWV0IHRoZSBuZXh0LiBUaGUgQnJpZ2h0IE1hcmNoLCB0aGUgU2V0dGxpbmcsIHRoZSBDbG9zaW5nLCBhbmQgdGhlIFRoYXcgd2VyZSBpdHMgZm91ciBwcm92aW5jZXMuIEl0IHdhcyB0aGUgc21hbGxlc3QgQ291cnQsIGFuZCBldmVyeSB0cmF2ZWxlciwgZW52b3ksIGFuZCBhcm15IGluIHRoZSBGYWV3aWxkIGhhZCB0byBjcm9zcyBpdC4iLCAiKipUaGUgRmlmdGggU2Vhc29uLioqIFdoYXQgaGUgd2FudGVkIHdhcyBhIHNlYXNvbiBvZiBoaXMgb3duLiBUaGUgcGxhbiB3YXMgcGF0aWVudDoga2VlcCB0aGUgcGVhcmwgb25lIGRheSBsb25nZXIgYXQgZWFjaCBUdXJuaW5nLCBldmVyeSB5ZWFyLCB1bnRpbCB0aGUgZGF5cyBiZXR3ZWVuIHdlcmUgYSBtb250aCwgdGhlbiBhIHNlYXNvbiwgdGhlbiB0aGUgeWVhci4gVGhlIGNvdXJ0c2hpcHMgd2VyZSB0aGUgZmlyc3QgaGFsZiBvZiBpdC4gTm8gc292ZXJlaWduIHJlZnVzZXMgYSBkYXkgdG8gYSBsb3Zlci4iLCAiKipXaHkgdGhlIGJvcmRlcnMgYXJlIGJpdHRlci4qKiBUaGUgZm91ciBDb3VydHMgd2VyZSBuZXZlciBtZWFudCB0byB0b3VjaC4gRm9yIHRlbiB0aG91c2FuZCB5ZWFycyB0aGVyZSB3YXMgYSBjb3VudHJ5IGJldHdlZW4gZWFjaCBwYWlyLCBhbmQgc29tZW9uZSB3aG9zZSB3aG9sZSBidXNpbmVzcyB3YXMgdG8gbWFrZSB0aGUgaGFuZG92ZXIgcGxlYXNhbnQuIEV2ZXJ5IHF1YXJyZWwgb24gdGhlIGZvdXIgYm9yZGVycyBpcyBiZXR3ZWVuIG5laWdoYm9ycyB3aG8gdXNlZCB0byBoYXZlIGEgaG9zdC4iXX0="
    }
   ],
   "related": [
@@ -47010,7 +47058,9 @@
    "vael-mournthorn-the-crimson-reaper-king",
    "morthryn-the-pale-empress-of-air-and-ending",
    "aoifel-the-green-laugh",
-   "house-caelvaron"
+   "house-caelvaron",
+   "changelings",
+   "the-warped"
   ],
   "aliases": [
    "politics of the Faewild",
@@ -47589,7 +47639,8 @@
    "jakupur",
    "marked",
    "below",
-   "faewild"
+   "faewild",
+   "sacred-flame"
   ],
   "aliases": [
    "daemon",
@@ -47738,7 +47789,8 @@
    "jakupur",
    "kalashtar",
    "unbound",
-   "house-caelvaron"
+   "house-caelvaron",
+   "sacred-flame"
   ],
   "aliases": [
    "the Veil",
@@ -47945,7 +47997,8 @@
    "tenants",
    "the-roam",
    "house-caelvaron",
-   "silverport"
+   "silverport",
+   "sacred-flame"
   ],
   "aliases": [
    "thin place",
@@ -48113,7 +48166,9 @@
    "reckoners-hall",
    "stillwater",
    "varneth-the-threshold-warden",
-   "tenants"
+   "tenants",
+   "changelings",
+   "the-warped"
   ],
   "aliases": [
    "Still Days",
@@ -48487,6 +48542,998 @@
    "Ash Warden",
    "Ember Vigil",
    "the Ember Vigil"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "long-war",
+  "title": "The Long War",
+  "category": "history",
+  "region": "All regions",
+  "subtitle": "The war the islands sailed away from, and still pay for",
+  "summary": "North of the strait, the Korvan Imperium and the Alliance have been at war for most of a thousand years. The Council of the Charted Isles is not part of it. The noble houses are, and every year they vote how many of their own to send.",
+  "epigraph": {
+   "quote": "We left the war. Nobody told the war.",
+   "by": "A Faust sergeant, home from her second turn"
+  },
+  "facts": [
+   [
+    "Fought between",
+    "the Korvan Imperium and the Alliance"
+   ],
+   [
+    "Where",
+    "the Front, across the middle of Assios"
+   ],
+   [
+    "How long",
+    "most of a thousand years"
+   ],
+   [
+    "The Council’s part",
+    "none, officially"
+   ],
+   [
+    "The houses’ part",
+    "the Front Levy, voted at every Moot of Banners"
+   ],
+   [
+    "A turn at the Front",
+    "two years"
+   ],
+   [
+    "The Levy of 175 EC",
+    "about 4,100 soldiers and sixteen warships"
+   ],
+   [
+    "Getting there",
+    "a fortnight up the Crown Route to Castia"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "A war older than the Charter",
+    "paragraphs": [
+     "Assios is the continent north of the islands. Fifteen hundred years ago the Korvan Imperium came out of its north and took half of it. Everyone it did not take banded together to stop it, and the two have been fighting ever since across the same belt of ground.",
+     "The great houses of Kalvatar are the families that got out. They crossed the strait in the Exodus, and most of them still hold oaths to the Alliance that are older than the Charter. An islander can go a lifetime without seeing the war. An islander with a noble name grows up knowing which cousin is at the Front this year."
+    ]
+   },
+   {
+    "title": "The three sides",
+    "paragraphs": [],
+    "table": {
+     "caption": "Who is fighting",
+     "headers": [
+      "Side",
+      "Who they are"
+     ],
+     "rows": [
+      [
+       "The Imperium",
+       "One throne, one creed, one army. It rules the north from Korvantis and has spent every year since its founding trying to take the rest."
+      ],
+      [
+       "The Alliance",
+       "Everyone else: the Principalities, the Oslirion Baronies, and the League of the Free Cities. They stopped the Imperium together and have never quite trusted each other since. Nobody calls it anything grander, because every member would want its own name first."
+      ],
+      [
+       "The neutral ground",
+       "Berith, the floating school above the Front; the dwarves of Abraneth, who sell steel to both sides; and Velkhaven, the spies’ city. They sell to everyone and are needed by everyone."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Front",
+    "paragraphs": [
+     "The Front is not a line. It is a belt of ruined country a hundred leagues deep, from the western sea to the forests of Amalor: trenches grown over and dug again, forts built on the bones of older forts, and villages that have changed hands so often their people answer to two names. The war moves a few miles in a generation. Most of the people who die in it never see the enemy."
+    ],
+    "list": [
+     "The fortress-towns are the only towns. Each holds a road, a ford, or a hill, and each has a garrison, a chapel, a market, and a graveyard bigger than the town.",
+     "The Iron Host attacks in spring, when the ground dries. The Alliance counterattacks in autumn, before the rains. Winter belongs to raids, and to the wolves.",
+     "Hollin’s Cross is the fortress-town the Host took in 172 EC and held for a winter, until Asteroth’s cavalry took it back in the spring.",
+     "Gael Dunlur is a dead city in the middle of the belt. It has changed hands more times than anyone has counted. Neither side holds it now. Both send patrols, and the patrols do not always come back.",
+     "The free companies fight for whoever pays this season. A Frontier sword, a Galven gunner, or a Hunter crew between contracts can earn more in one season there than in three years at home, if they live."
+    ]
+   },
+   {
+    "title": "The measure of it",
+    "paragraphs": [
+     "Islanders tend to think of the Imperium as a fleet on the far side of the strait. These are the numbers the Armada teaches its officers."
+    ],
+    "table": {
+     "caption": "The three powers, in round numbers",
+     "headers": [
+      "",
+      "The Imperium",
+      "The Alliance",
+      "The islands"
+     ],
+     "rows": [
+      [
+       "People",
+       "about a hundred million",
+       "about eighty million",
+       "about three million seven hundred thousand"
+      ],
+      [
+       "Under arms",
+       "about three million",
+       "nearly its match, under a dozen banners",
+       "the Armada, and some 24,500 household troops of the Twenty"
+      ],
+      [
+       "Warships",
+       "about 2,500, two hundred of them ironclads",
+       "the navies of Soleda and the Free Cities",
+       "about 300 in the Armada, 84 of them the houses’"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Why nobody has won",
+    "paragraphs": [
+     "The Alliance is nearly the Imperium’s size, and it has two things the Imperium cannot make: war-mages, and the Krysta that powers them. The Krysta comes from the islands. It goes north through the Gate at Ironfort, and the Imperium tries every season to stop it.",
+     "That is the islands’ real weight in the war. The soldiers the houses send are a drop in that sea. The crystal is not."
+    ]
+   },
+   {
+    "title": "Why it has not come south",
+    "paragraphs": [],
+    "list": [
+     "Most of the Iron Host is held at the Front, and most of the Iron Fleet by the navies of Soleda and the Free Cities.",
+     "The Chalk Coast, the shore that faces Ironfort, is white cliff with no harbor in it. No army has ever crossed there.",
+     "The only sea road is the Crown Route, which runs against the Crown Current to Castia, an Alliance port.",
+     "The Armada’s Second Fleet, the Iron Blockade, waits at the bottom of it. The ironclads have never come south of the strait."
+    ]
+   },
+   {
+    "title": "The Council is not at war",
+    "paragraphs": [
+     "The Council of the Charted Isles has never declared war on the Imperium. Its Armada keeps the strait and stops imperial warships and contraband, but a ship that comes under the Council’s safe-conduct as a diplomat is let through. Five ships of the Southern Survey have lain off Ironfort on those terms since 171 EC, and the peerage protests it at every Moot.",
+     "The houses are at war, with their own men, ships, coin, and Krysta, under their own banners. They are the only part of Kalvatar that is.",
+     "What the peerage has never done is ask the Council to declare. A declared war would bring the Charter Call, and the Call would put every house warship under an Admiral’s orders. The houses would rather fight the Imperium themselves than hand the Council their fleets to do it."
+    ]
+   },
+   {
+    "title": "The Front Levy",
+    "paragraphs": [
+     "The last great business of every Moot of Banners is the Front Levy: how many soldiers and ships, and how much coin and Krysta, each house sends north for the coming year. The companies sail at First-Sail in Ezra, up the Crown Route with house warships for escort, and serve under Alliance command and their own banners."
+    ],
+    "table": {
+     "caption": "The Levy of 175 EC",
+     "headers": [
+      "House",
+      "What it sent"
+     ],
+     "rows": [
+      [
+       "Faust",
+       "about 2,000 soldiers, the largest share, and four warships"
+      ],
+      [
+       "Vanris",
+       "about 400 marines and six warships"
+      ],
+      [
+       "Vol Kaern, Emberheart, Quillane",
+       "about 300 each; Emberheart’s with a battery of long guns"
+      ],
+      [
+       "Varselis",
+       "about 200"
+      ],
+      [
+       "Caelvaron",
+       "about 150 archers of the Elderwood"
+      ],
+      [
+       "Sunforge, Holst, Solenne, Kaldmark",
+       "about 100 each: armorers, soldiers, healers, and huscarls"
+      ],
+      [
+       "Stormweaver",
+       "thirty storm-mages, whom the Alliance asks for by name"
+      ],
+      [
+       "Alastor",
+       "twelve Knights of the Pale Rose, and the largest purse"
+      ],
+      [
+       "The rest",
+       "coin, charts, information, Krysta, and from House Veldane a wedding gift for every company that sails"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "A turn at the Front",
+    "paragraphs": [
+     "A levy soldier serves a turn of two years and comes home with the autumn convoy. The houses have had a hundred and seventy-five years to build customs around that."
+    ],
+    "list": [
+     "The chalk knot. A soldier who has crossed past the Chalk Coast and come back wears a white cord on the left shoulder, with one knot for each turn. Three knots is as many as most people ever see.",
+     "The first cup. In any Frontier tavern, the first drink of the night is free to a chalk knot. Nobody wrote that down. Try charging for it.",
+     "The Return Share. If a levy soldier does not come home, the house pays the family three years of the soldier’s wages. A house that is late with a Return Share hears about it at the next Moot, by name, aloud.",
+     "The roll. Each company’s dead are read at First-Sail, on the quay, before the new company boards. The new company answers ’aboard’ for every name.",
+     "The companies are named for the quay they sailed from, never for the house: the Bastion Mole, the Keelhaven Stairs, the Greyhaven Light."
+    ]
+   },
+   {
+    "title": "The Castellan’s Register",
+    "paragraphs": [
+     "Every warship a house owns is entered by name with the Armada’s Lord Castellan, today Edran Holst. The Register is how the docks know how many armed hulls each house keeps."
+    ],
+    "list": [
+     "An entry gives the ship’s name, her home quay, her length of keel, her guns, and her master.",
+     "Once a year the Lord Castellan’s clerks walk every house dock and count. The docks call it the Count of Keels.",
+     "An armed hull that is not on the Register is a dark keel. The Armada may seize one on sight, and the house that owned it has no claim.",
+     "A merchantman is not a warship, and need not be entered. A good many house merchantmen are pierced for more guns than a cargo of wool calls for.",
+     "The Twenty have 84 warships on the Register between them. Vanris has the most, with twenty-four. House Holst’s own four cutters are entered in a Holst’s own hand, and the other houses have noticed."
+    ]
+   },
+   {
+    "title": "The Charter Call",
+    "paragraphs": [
+     "The Charter gives the Council one power over the houses’ fleets. In a war the Council declares, every warship on the Castellan’s Register comes under Armada command, with her crew, until the war is over.",
+     "It has never been made. The Kraken’s Maw was fought by the Grand Coalition, which is not a declared war: each house chose what to send, and some sent very little. Captains on both sides of that argument still say the Call would have ended the battle a day sooner, or lost it.",
+     "Nobody alive knows what a Call would look like. The orders for it sit sealed at the Admiralty, and every house keeps its own sealed answer."
+    ]
+   },
+   {
+    "title": "What comes south",
+    "paragraphs": [],
+    "list": [
+     "Refugees: a few hundred a year through the Gate, and more through Black Harbor, where nobody counts.",
+     "Veterans of the free companies, with money, scars, and habits.",
+     "Korvans, the Imperium’s gold, at the Ironfort scale-tables.",
+     "Deserters, some of them dragonborn with stitch-marks where an insignia used to be.",
+     "Pamphlets of the Returned Crown that nobody admits to printing.",
+     "News, a fortnight old at best, and sold by the line on the Ironfort quay."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A Free City recruiter in Ironfort is offering double pay for crews who can sail and shoot. The contract does not say which side of the Front the ship will be on.",
+     "A Frontier mother wants her son brought home from a free company. He does not want to come.",
+     "The Count of Keels has turned up a house frigate under two names in two ports. The Lord Castellan wants to know which entry is the lie before the Moot does.",
+     "A Return Share has gone unpaid for three years, because the house swears the soldier is alive. The family wants someone to go to the Front and find out.",
+     "A man is drinking free on a chalk knot in Bastion, and a sergeant who served both of those turns has never seen him before."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "A character with a chalk knot has a past, a company, and a house that owes them something. Decide all three.",
+     "The fastest way to learn what a noble thinks of the Council is to mention the Southern Survey.",
+     "Passage north pays the Gate-Tithe at Ironfort, one Tide in every Anchor of the fare. Black Harbor is for people who would rather not be counted.",
+     "No non-human sets foot on imperial ground and leaves it free. Plan the route accordingly."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The Imperium counts its years from the day it came out of the north. 175 EC is its 1,507th Year of the Sun.",
+     "The Alliance asks for Greyhaven’s storm-mages by name, thirty a year, and has never once been sent thirty-one.",
+     "House Veldane sends no soldiers. It sends a wedding gift for every company that sails, on the theory that somebody has to assume they are coming back."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There is a ship on the Register that nobody has seen in forty years. She is counted every year. Somebody signs for her.” (a Grey Clerk at Tollmark)",
+     "“They read the Charter Call to the Admirals once a year behind a shut door, so somebody remembers the words. One year an Admiral asked what happens if a house says no. Nobody answered him.” (an Armada steward)",
+     "“The bells of Gael Dunlur ring by themselves the night before every great battle. My company heard them twice. We were only in one battle.” (a three-knot veteran)",
+     "“Half the Krysta that goes north never reaches the Alliance. Ask who is buying the other half.” (a scale-table clerk in Ironfort)"
+    ]
+   }
+  ],
+  "related": [
+   "assios-and-the-wider-world",
+   "the-moot-of-banners",
+   "armada",
+   "edran-holst",
+   "house-holst",
+   "house-faust",
+   "house-vanris",
+   "house-stormweaver",
+   "the-southern-survey",
+   "exodus-and-the-landing",
+   "krakens-maw",
+   "krysta",
+   "ironfort",
+   "bastion",
+   "black-harbor",
+   "returned-crown-and-the-tollmen",
+   "knights-of-the-northern-lights",
+   "nine-fleets"
+  ],
+  "aliases": [
+   "the war with the Imperium",
+   "Long War",
+   "the Long War",
+   "Front Levy",
+   "the Front Levy",
+   "Charter Call",
+   "the Charter Call",
+   "Castellan’s Register",
+   "the Castellan’s Register",
+   "chalk knot",
+   "Return Share",
+   "Count of Keels",
+   "dark keel"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "sacred-flame",
+  "title": "The Sacred Flame",
+  "category": "power",
+  "region": "Southern Wilds",
+  "subtitle": "The people who shut the doors that should not be open",
+  "summary": "The Sacred Flame is the hidden arm of Jakupur’s Order of the White Flame. Its hunters find rifts, shut them, and burn what came through, and they are some of the only people in the islands who go looking for such places on purpose.",
+  "epigraph": {
+   "quote": "What is shut stays shut. What is lit stays lit.",
+   "by": "The vow of the Sacred Flame, all of it"
+  },
+  "facts": [
+   [
+    "Seat",
+    "Jakupur, though nobody will say which door"
+   ],
+   [
+    "Part of",
+    "the Order of the White Flame"
+   ],
+   [
+    "They hunt",
+    "rifts, and what comes through them"
+   ],
+   [
+    "They pray to",
+    "Varneth, the Threshold Warden"
+   ],
+   [
+    "Led by",
+    "the Quiet Flame, whom no outsider has met"
+   ],
+   [
+    "They work in",
+    "threes, called Tapers"
+   ],
+   [
+    "Their mark",
+    "a small flame burned into a doorpost"
+   ],
+   [
+    "They keep",
+    "the Flame Gate, under the city"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The hidden blade",
+    "paragraphs": [
+     "The White Flame governs Jakupur in daylight: archives, expeditions, the city’s peace. The Sacred Flame is the same order after dark. Its hunters destroy or seal the things the scholars would rather study, and the line between keeping knowledge and burning what must not be known is theirs to walk.",
+     "Everybody in the south has heard of the Sacred Flame, and almost nobody has knowingly met one. They carry no badge. What they leave behind is a lamp."
+    ]
+   },
+   {
+    "title": "What they hunt",
+    "paragraphs": [
+     "An ordinary thin place is a window, and the Flame leaves windows alone. It hunts the places where the window was broken."
+    ],
+    "list": [
+     "Scars of the Orka War, where daemons tore their way into the Faewild and the Veil healed badly.",
+     "The doors the Orka cut on purpose, to the daemons’ country, to the Faewild, and to worse. Some of the deepest Orka ruins were sealed against what came through.",
+     "Anything new. A rift that was not there last year was opened by someone.",
+     "What came through, if it is still here.",
+     "The books, tablets, and masks that teach the opening. The Flame burns those, and writes down only their names."
+    ]
+   },
+   {
+    "title": "A Taper",
+    "paragraphs": [
+     "The Flame hunts in threes. A team is called a Taper, and each of the three has one job."
+    ],
+    "table": {
+     "caption": "The three of a Taper",
+     "headers": [
+      "Called",
+      "The work"
+     ],
+     "rows": [
+      [
+       "The Seeker",
+       "Finds the rift and its edges. Carries the veil butterflies, whose wings turn clear as water near a thin place, and reads the ground the way a pilot reads a channel."
+      ],
+      [
+       "The Hand",
+       "Deals with whatever came through. Usually the one who talks to the village afterward, and the only one of the three most people remember."
+      ],
+      [
+       "The Seal",
+       "A ward-mage sworn to Varneth. Speaks the closing. Seals are the rarest of the three, and the order guards them like powder."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "How a rift is shut",
+    "paragraphs": [],
+    "list": [
+     "Find the edges. The Seeker walks the butterflies around it until the wings cloud again, and marks the ground with salt and ash.",
+     "Build a door. A frame of whatever is at hand, stone, driftwood, two spears and a belt, stood up in the rift. Varneth’s law holds at a threshold, and a tear has none until someone gives it one.",
+     "Shut it. The Seal speaks the closing in Varneth’s name, from this side, alone.",
+     "Light the lamp. A small stone lamp is set on the sill and lit from the Taper’s own carried flame.",
+     "Burn the mark. A small flame is branded into the doorpost. Anyone in the south who sees that mark on a frame standing by itself in the forest knows to walk around it and not through."
+    ]
+   },
+   {
+    "title": "Seal-lamps",
+    "paragraphs": [
+     "Every seal the Flame has made has a lamp burning on it. The order calls them seal-lamps. They are plain grey stone, no bigger than two fists, and the flame is white."
+    ],
+    "list": [
+     "The nearest household is asked to tend it, and is paid two Anchors a year and the oil. They are called tenders, and the duty passes down like a field.",
+     "A tender’s patch is a white flame on black. Lightkeepers honor it, and so does every house of Varneth.",
+     "The first rule a southern child learns about fire: never blow out a lamp you did not light.",
+     "The White Flame admits to two hundred and twelve seal-lamps burning in the islands. The full list is the Book of Doors, and it is not shown."
+    ]
+   },
+   {
+    "title": "The Flame Gate",
+    "paragraphs": [
+     "Under Jakupur there is a rift the order sealed long ago, at one of the old doors down into Nadhur. A fire has burned on that seal for longer than anyone in the city can remember. The order’s hunters go down past it on purpose, which very few surface people do, and they say what everyone who trades below says: the deep has been louder for about a generation."
+    ]
+   },
+   {
+    "title": "What they burn",
+    "paragraphs": [
+     "The archive in Jakupur has a shelf with nothing on it but a ledger. The scholars call it the Ash Shelf. Each line in the ledger is the name of something the Sacred Flame burned: a book, a mask, a map to a door. The names are kept so that nobody goes looking for a second copy without knowing what they are looking for."
+    ]
+   },
+   {
+    "title": "Friends and quarrels",
+    "paragraphs": [],
+    "table": {
+     "caption": "How the Flame stands with the rest",
+     "headers": [
+      "With",
+      "How it stands"
+     ],
+     "rows": [
+      [
+       "The University of Kalvatar",
+       "Badly. The University wants a few rifts kept open for study. The Flame’s answer has not changed in a hundred years."
+      ],
+      [
+       "The Wardens of the Veil",
+       "Cousins. Varneth’s priests keep the doors of the ports shut, and the Flame goes where there is no port. Each thinks the other is too gentle or too quick."
+      ],
+      [
+       "The Hunters",
+       "Good customers. The Flame hires companies for the fighting and pays well. The contract always names the quarry, as the Articles require, and never the place."
+      ],
+      [
+       "The Ninth Shovel",
+       "At war. The looters of Zal’Kareth open what the Flame shuts, and sell what the Flame would burn."
+      ],
+      [
+       "The fae",
+       "Polite. A sealed scar is one less wound in the Veil, and the small folk leave the lamps alone."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Who joins",
+    "paragraphs": [
+     "Nobody applies. The order comes to you, usually within a season of the worst night of your life. Its hunters call themselves the Singed: people who stood near a rift when it opened and were still standing afterward. Scholars of the White Flame who read the wrong page are recruited the same way."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The Sacred Flame wants a rift sealed that the University wants kept open, and both want the party.",
+     "A tender’s family has died out, and the lamp has been burning for a month with nobody feeding it oil.",
+     "Six seal-lamps have gone missing along one river. The seals under them are holding, so far.",
+     "A Taper has lost its Seal and has a rift to shut by the next Still Day. It needs anyone who can speak a ward and keep their nerve.",
+     "A door-frame with the flame mark has been found standing in a Goldwind cellar, and the house is older than the mark."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "A lone stone lamp burning in the wild is not treasure. Add oil if you have it, and tell the nearest village.",
+     "The Flame pays in clean Council coin and asks for silence. It checks.",
+     "A veil butterfly whose wings stay clear for an hour is telling you to leave.",
+     "A character who is one of the Singed has a night they do not talk about. The order knows all of it."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "Tenders pass the lamp down like land. Some families in the Wilds have kept the same flame for eleven generations.",
+     "The Flame’s hunters carry their fire in a horn lantern lit from the Flame Gate, and relight from each other if one goes out.",
+     "A door-frame built for a sealing is never taken down. Children dare each other to walk through one. Their grandmothers walk around."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There’s a lamp in the Book of Doors with no place written beside it. They pay a tender for it every year. Nobody knows where the money goes.” (a White Flame copyist)",
+     "“The old Seals can’t find their way out of a room. You have to take them by the sleeve. Nobody in the order thinks that’s funny.” (a Jakupur lamp-oil seller)",
+     "“My grandmother’s lamp went clear once. Not out. Clear, like water. Three of them came by morning and we were told to visit my aunt for a month.” (a tender’s granddaughter)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoYXQgYSBzZWFsIGNvc3RzLioqIFRoZSBjbG9zaW5nIHRha2VzIGEgdGhyZXNob2xkIG91dCBvZiB0aGUgU2VhbCB3aG8gc3BlYWtzIGl0OiB0aGUgbWVtb3J5IG9mIG9uZSBkb29yIHRoZXkgaGF2ZSB3YWxrZWQgdGhyb3VnaC4gVGhlIGZpcnN0IHNlYWxzIGNvc3QgYSBzdHJhbmdlcuKAmXMgZ2F0ZSwgYW4gaW5uIHRoZXkgc2xlcHQgaW4gb25jZS4gVGhlIGxhdGVyIG9uZXMgY29zdCB0aGUgZG9vciBvZiB0aGUgaG91c2UgdGhleSB3ZXJlIGJvcm4gaW4uIEEgU2VhbCB3aG8gaGFzIHNodXQgZm9ydHkgcmlmdHMgY2FuIG5vIGxvbmdlciBmaW5kIHRoZSB3YXkgb3V0IG9mIGEgcm9vbSwgYW5kIHRoZSBvcmRlciByZXRpcmVzIHRoZW0gdG8gYSBob3VzZSBpbiBKYWt1cHVyIHRoYXQgaGFzIG5vIGRvb3JzIGF0IGFsbC4iLCAiKipUaGUgbGFtcCBob2xkcyBub3RoaW5nLioqIEEgc2VhbC1sYW1wIGRvZXMgbm90IGtlZXAgdGhlIHNlYWwgc2h1dC4gSXQgaXMgdGhlIGFsYXJtLiBJdHMgZmxhbWUgdHVybnMgY2xlYXIgYXMgd2F0ZXIgd2hlbiB0aGUgc2VhbCB0aGlucywgdGhlIHdheSBhIHZlaWwgYnV0dGVyZmx54oCZcyB3aW5nIGRvZXMuIFRoZSB0ZW5kZXJzIGFyZSB0aGUgb3JkZXLigJlzIHdhdGNoLCB0d28gaHVuZHJlZCBob3VzZWhvbGRzIG9mIHRoZW0sIGFuZCBtb3N0IGRvIG5vdCBrbm93IGl0LiIsICIqKlRoZSBtaXNzaW5nIGxhbXBzKiogYXJlIG5vdCB0aGUgZmFlLiBBIGxpdCBsYW1wIHRoYXQgbmV2ZXIgZ29lcyBvdXQgaXMgYSB5ZWFy4oCZcyB3YWdlIGluIHRoZSBCZWxvdywgd2hlcmUgbGlnaHQgaXMgbW9uZXksIGFuZCBkcm93IHNjb3V0cyBoYXZlIGJlZ3VuIGNhcnJ5aW5nIHRoZW0gaG9tZS4gQSBzZWFsIHdpdGggbm8gbGFtcCBpcyBhIHNlYWwgbm9ib2R5IGlzIHdhdGNoaW5nLiIsICIqKlRoZSBvbGRlc3QgbGFtcHMqKiB3ZXJlIGJ1cm5pbmcgYmVmb3JlIHRoZSBvcmRlciB3YXMgZm91bmRlZC4gVGhlIGZpcmUgb24gdGhlIEZsYW1lIEdhdGUgaXMgb25lIG9mIHRoZW0uIFRoZSBTYWNyZWQgRmxhbWUgZGlkIG5vdCBpbnZlbnQgdGhlIHNlYWxpbmcuIEl0IGZvdW5kIHRoZSBsYW1wcyBhbHJlYWR5IGxpdCwgYW5kIGxlYXJuZWQgdGhlIHJlc3QgYnkgY29weWluZy4iXX0="
+   }
+  ],
+  "related": [
+   "jakupur",
+   "varneth-the-threshold-warden",
+   "veil",
+   "thin-places",
+   "veil-butterfly",
+   "daemons",
+   "orka",
+   "below",
+   "drow",
+   "zalkareth",
+   "golgarma",
+   "university",
+   "hunters",
+   "fae",
+   "still-days",
+   "lighthouses"
+  ],
+  "aliases": [
+   "the hidden blade",
+   "Sacred Flame",
+   "the Sacred Flame",
+   "seal-lamp",
+   "seal-lamps",
+   "Flame Gate",
+   "the Flame Gate",
+   "Ash Shelf",
+   "the Ash Shelf",
+   "Book of Doors",
+   "the Singed",
+   "the Quiet Flame"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "changelings",
+  "title": "Changelings",
+  "category": "people",
+  "region": "All regions",
+  "subtitle": "Fae who wear a face that somebody lent them",
+  "summary": "A changeling is a fae who wears a mortal’s face. It can’t make one up: the face has to be lent, by someone living, of their own will. Most changelings in the islands are on a Court’s errand. A few came on an errand and never went home.",
+  "epigraph": {
+   "quote": "He was my cousin from Nacre for nine years. I have never had a cousin on Nacre. I still miss him.",
+   "by": "A chandler of Keelhaven"
+  },
+  "facts": [
+   [
+    "What they are",
+    "fae of the Courts"
+   ],
+   [
+    "What they do",
+    "wear a lent face"
+   ],
+   [
+    "The usual term",
+    "a year and a day"
+   ],
+   [
+    "The law",
+    "the contract is forbidden; the changeling is not"
+   ],
+   [
+    "Sent by",
+    "any of the four Courts"
+   ],
+   [
+    "Those who never left",
+    "the Stayed"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Fae who wear faces",
+    "paragraphs": [
+     "Islanders sort the fae by what they have met, and the changeling is the one they met without knowing. A changeling can live in a port for years as someone’s cousin from another island, keep a stall, pay harbor dues, and be missed when it goes.",
+     "Most are on a Court’s errand: to find something, to watch someone, or to wait. A few have simply stayed."
+    ]
+   },
+   {
+    "title": "The lent face",
+    "paragraphs": [
+     "A changeling can’t invent a face, and it can’t steal one. A face goes with a name, and both have to be given."
+    ],
+    "list": [
+     "The lender must be alive, and must agree aloud, with their own name spoken.",
+     "The usual term is a year and a day. Longer terms cost more, and the price is never coin.",
+     "While the face is out on loan, the lender goes unrecognized. Friends look past them in the street. Their own mother asks who is at the door. Dogs still know them.",
+     "When the term ends the face goes home, and people remember the lender again, all at once and a little ashamed.",
+     "If the lender and the changeling ever meet each other’s eyes, the face goes home on the spot, term or no term."
+    ]
+   },
+   {
+    "title": "The changeling contract",
+    "paragraphs": [
+     "Lending a face is against Concord law, and the contracts are sold anyway, at the Still Days and the King Tide."
+    ],
+    "list": [
+     "Debtors sell a year of their face to clear what they owe.",
+     "People who are being hunted sell it for the other half of the bargain: a year in which nobody can recognize them.",
+     "The grieving sell it to stop being looked at.",
+     "An Arbiter will not hear a case about one. A contract signed in a lent face binds the changeling who signed it and not the person whose face it was, and both sides usually learn that late."
+    ]
+   },
+   {
+    "title": "Telling one",
+    "paragraphs": [
+     "A lent face is a face on a certain day, and it does not move on from that day."
+    ],
+    "list": [
+     "It takes no sun and no new scars. A cut on it heals back to exactly what was lent.",
+     "The hair does not grow. A changeling who visits a barber is being careful.",
+     "It never says ’I am’ with the lender’s name. It says ’I am called.’",
+     "A veil butterfly’s wings go clear beside one, as with any fae.",
+     "Worked iron is as unwelcome to it as to any of its kin.",
+     "Ask about the lender’s childhood and it will know every fact and none of the smells."
+    ]
+   },
+   {
+    "title": "Whose errand",
+    "paragraphs": [],
+    "table": {
+     "caption": "What each Court sends a changeling for",
+     "headers": [
+      "Court",
+      "The errand"
+     ],
+     "rows": [
+      [
+       "Spring",
+       "To find something lost, or someone funny. Spring’s changelings fall in love with their neighbors and write home about it."
+      ],
+      [
+       "Summer",
+       "To take the measure of a champion, a fleet, or a rival, and to be seen winning something."
+      ],
+      [
+       "Autumn",
+       "To witness. A debt is coming due, and Autumn wants someone in the room who was there when it was made."
+      ],
+      [
+       "Winter",
+       "To watch one thing for a very long time and say nothing. Winter’s changelings are the ones who stay nine years."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Stayed",
+    "paragraphs": [
+     "Some changelings finish the errand and do not go home. They are called the Stayed. A changeling who is loved under a face for long enough finds that the face stops coming off, and nobody agrees on how long that takes.",
+     "The Stayed marry, keep shops, and bury friends. Their children are born fae-touched, and the family usually knows which grandmother to ask. Being a changeling is no crime in the islands. Most ports have one or two, and most ports know."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A woman has come home to Varhall after a year away, and her family will not let her in, because their daughter never left.",
+     "A man the party is hunting has sold his face. For a year and a day nobody will know him, including the party.",
+     "A Stayed changeling’s lender has turned up alive, forty years late, and wants to look her in the eye.",
+     "An Autumn changeling has been a clerk in the Blackstrand hall for six years, and tomorrow is the day it came to witness."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "If you sell your face, pick the buyer. You will not be able to complain to anyone who remembers you.",
+     "A changeling in a lent face is still a fae. Count the bargain, and do not give it your name as well.",
+     "The quickest test is patience. Come back in five years and see who has not aged."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The outlaw called ’Painted’ Cora is said to wear any face she likes. The docks will tell you it is makeup.",
+     "A lender on loan can still be recognized by animals, by very small children, and by anyone who never knew their name.",
+     "Nobody has drawn a changeling’s own face. People who have seen one say it is like your reflection in a night window, with the lamp behind you."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There are two of old Marrin the netmaker in Southhaven. Same face, same limp. They won’t be in the same street. One of them is seven years younger than he ought to be.” (a Southhaven fishwife)",
+     "“You can’t lend a dead man’s face. But if you die with yours out on loan, they keep it. Think about who that tempts.” (a hedge-arbiter at the Still Days)",
+     "“The first changelings weren’t spies. Ask a Spring pixie what they were for and it stops laughing.” (a Caelvaron door-warden)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBhaW50ZWQgQ29yYSoqIGlzIGEgY2hhbmdlbGluZyBvZiBBb2lmZWzigJlzIENvdXJ0LCBhbmQgdGhhdCBpcyBob3cgc2hlIHdlYXJzIGFueSBmYWNlLiBUaGUgQnJ1c2ggb2YgQ3JlYXRpb24gaXMgYSBmYWUgcmVsaWMgbG9zdCBpbiB0aGUgaXNsYW5kcywgYW5kIFNwcmluZyBzZW50IGhlciB0byBmaW5kIGl0LiIsICIqKlRoZSBmaXJzdCBjaGFuZ2VsaW5ncyB3ZXJlIFNwcmluZ+KAmXMsKiogYW5kIHRoZXkgd2VyZSBtYWRlIGZvciB0aGUgd2FyLiBUaGV5IGJvcnJvd2VkIHRoZSBmYWNlcyBvZiBmYWUgdGhlIE9ya2EgaGFkIHRha2VuLCB3YWxrZWQgaW50byB0aGUgc2xhdmUtcGVucyBpbiBwbGFjZSBvZiB0aGUgZGVhZCwgYW5kIGxlZCB0aGUgbGl2aW5nIG91dC4gVGhhdCBpcyB3aHkgYSBmYWNlIGhhcyB0byBiZSBnaXZlbjogdGhlIGZpcnN0IG9uZXMgd2VyZSBnaXZlbiBieSBwZW9wbGUgd2hvIGtuZXcgdGhleSB3b3VsZCBub3QgbmVlZCB0aGVtIGFnYWluLiIsICIqKlNldmVuIHllYXJzLioqIEEgY2hhbmdlbGluZyB3aG8gd2VhcnMgb25lIGZhY2UgZm9yIHNldmVuIHllYXJzIGtlZXBzIGl0LiBUaGUgbGVuZGVyIGdldHMgdGhlaXJzIGJhY2sgdGhhdCBzYW1lIGRheSwgYW5kIGZyb20gdGhlbiBvbiB0aGVyZSBhcmUgdHdvLiBUaGUgQ291cnRzIGNhbGwgdGhpcyBhIHRoZWZ0IGFuZCBwdW5pc2ggaXQuIFRoZSBTdGF5ZWQgY2FsbCBpdCBhIHdlZGRpbmcgZ2lmdC4iLCAiKipEeWluZyBvbiBsb2FuLioqIElmIHRoZSBsZW5kZXIgZGllcyB3aGlsZSB0aGUgZmFjZSBpcyBvdXQsIHRoZSBjaGFuZ2VsaW5nIGtlZXBzIGl0IGZvciBnb29kLCBhbmQgY2Fubm90IHRha2UgYW5vdGhlci4gV2ludGVyIGhhcyB1c2VkIHRoaXMgZXhhY3RseSBvbmNlLiJdfQ=="
+   }
+  ],
+  "related": [
+   "fae",
+   "faewild",
+   "faewild-politics",
+   "spring-court",
+   "summer-court",
+   "autumn-court",
+   "winter-court",
+   "still-days",
+   "thin-places",
+   "veil-butterfly",
+   "painted-cora",
+   "concord",
+   "arbiters"
+  ],
+  "aliases": [
+   "a lent face",
+   "changeling",
+   "changelings",
+   "Changeling",
+   "changeling contract",
+   "changeling contracts",
+   "the Stayed",
+   "lent face"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "the-warped",
+  "title": "The Warped",
+  "category": "foes",
+  "region": "All regions",
+  "subtitle": "The goblin hosts the Veil shut in, and what they are owed",
+  "summary": "When the Veil rose at the end of the Orka War, the goblinoid hosts that had marched into the Faewild were on the wrong side of it. Their descendants are still there. Ten thousand years in that country have made them something else: lenders, collectors, and the one kind of goblin that other goblins fear.",
+  "epigraph": {
+   "quote": "Take nothing from them. Not bread, not a light, not the time of day. They do not give.",
+   "by": "A warren-mother of Black Harbor"
+  },
+  "facts": [
+   [
+    "What they are",
+    "goblins, hobgoblins, and bugbears, changed"
+   ],
+   [
+    "Where",
+    "Orka ruins inside the Faewild, and the ledger-towns between the seasons"
+   ],
+   [
+    "Since",
+    "the end of the Orka War, about ten thousand years ago"
+   ],
+   [
+    "They pray to",
+    "the Owed Mouth, a crueler face of the Skarn"
+   ],
+   [
+    "They cross",
+    "rarely, through rifts, most often at the Still Days"
+   ],
+   [
+    "They fear",
+    "being paid in full"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Left behind",
+    "paragraphs": [
+     "The Orka did not go into the Faewild alone. They drove goblinoid hosts ahead of them through the daemons’ doors, as carriers, diggers, and the first rank of every assault. When Spring’s first Queen raised the Veil, the doors shut, and the hosts were inside.",
+     "The Courts hunted them. The hosts went to ground in the Orka’s own ruins, in the strips of country between one season and the next where no Court’s law quite reaches, and they outlasted the hunting. Outlasting is what the Skarn teaches."
+    ]
+   },
+   {
+    "title": "What the country did",
+    "paragraphs": [
+     "Every warped goblin alive was born in the Faewild, and so were four hundred generations before it. The place has been in them a long time."
+    ],
+    "list": [
+     "Ears as long as a hand, and eyes that shine like a banked coal.",
+     "Too many teeth, in more than one row. The Skarn is called the Many-Mouthed, and they took it as an instruction.",
+     "A shadow that arrives a moment after they do.",
+     "Hobgoblins among them stand very straight and keep ledgers. Bugbears among them are the collectors, and are quieter than anything that size should be.",
+     "They have fae manners and goblin ethics: they will never break the letter of a bargain, and they wrote the letter."
+    ]
+   },
+   {
+    "title": "The owed outlast",
+    "paragraphs": [
+     "A goblin in the waking world lives about sixty years. A warped goblin does not die of age while anyone owes it a debt. That one fact has shaped everything they are."
+    ],
+    "list": [
+     "They lend. Bread, fire, directions, a night’s shelter, a year of luck: anything you take from one is a loan, whether a price was named or not.",
+     "They never forgive a debt, and they would rather not have it repaid. A debt that is still owed is a year they are still alive.",
+     "Their elders are the ones owed the most. The oldest are said to hold debts from the war itself.",
+     "Pay one in full, before witnesses, and it must take the payment and go. Pay off the last thing it is owed and its years come for it all at once.",
+     "Where island goblinoids say ’the small and clever outlast the great and proud’, the warped say ’the owed outlast everyone.’"
+    ]
+   },
+   {
+    "title": "The Owed Mouth",
+    "paragraphs": [
+     "They pray to the Skarn, in a face the island warrens do not use and do not like to hear named: the Owed Mouth. Its shrines are a stone bowl with a hole in the bottom. Whatever is put in is gone, and the bowl is never full. Their priests are called tallymen, and wear their oldest debt written on the skin."
+    ]
+   },
+   {
+    "title": "The ledger-towns",
+    "paragraphs": [
+     "The warped hold three towns in the country between the seasons, each at a border where two Courts meet and neither wants the trouble of clearing them out."
+    ],
+    "table": {
+     "caption": "The three ledger-towns",
+     "headers": [
+      "Town",
+      "Where",
+      "Known for"
+     ],
+     "rows": [
+      [
+       "Tallymouth",
+       "On the Settling, between Summer and Autumn",
+       "The largest. Summer’s knights come here to borrow for wars that Autumn will not fund, and are ashamed to be seen."
+      ],
+      [
+       "Underbell",
+       "On the Closing, between Autumn and Winter",
+       "Built inside a fallen Orka bell-tower. Quiet, cold, and exact. Its collectors are the ones sent across the Veil."
+      ],
+      [
+       "Pawnwater",
+       "On the Bright March, between Spring and Summer",
+       "A market on stilts over a river that flows both ways. You can buy back anything you ever lost, at the price it has grown to."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "With the Courts",
+    "paragraphs": [],
+    "table": {
+     "caption": "How each Court deals with them",
+     "headers": [
+      "Court",
+      "How it stands"
+     ],
+     "rows": [
+      [
+       "Summer",
+       "Hates them, and borrows from them. Pyraxis has ordered Tallymouth burned three times. Each time, somebody in his own Court owed too much to carry the torch."
+      ],
+      [
+       "Autumn",
+       "Trade rivals. Autumn keeps the Faewild’s books and resents anyone else keeping a set. It also buys their bad debts, at a discount."
+      ],
+      [
+       "Winter",
+       "Leaves them alone, and is left alone. Nobody in Underbell has ever lent to the Pale Hall."
+      ],
+      [
+       "Spring",
+       "Pities them, which they find unbearable, and will not wear shoes in their towns either, which they find worse."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Crossing over",
+    "paragraphs": [
+     "The Veil does not let the warped through easily. One crosses now and then, through a rift, or at a thin place on the Still Days when every bargain comes due. It comes to collect.",
+     "Island goblinoids know them as the cousins who did not get out, and are more afraid of them than of anything else that walks. On the Still Days every warren sets a bowl of food outside the door and does not watch to see who takes it. It is called the cousin’s bowl. Asked whether it is a gift or a payment, a warren-mother will change the subject."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A farmer near a thin place accepted a lit lantern from a small stranger on a bad night. That was his grandfather. The collector has come for the interest.",
+     "A Summer knight wants a debt in Tallymouth paid off quietly, in full, before witnesses who are not fae. He will not say what he borrowed.",
+     "A warped tallyman is in Black Harbor, very old and very polite, looking for the one family in the islands that still owes him. He needs them to stay in debt.",
+     "Somebody has been leaving the cousin’s bowl empty on purpose, in every warren on the island, and the Still Days are a Cycle off."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Take nothing from one. If you already have, find out the price before it grows.",
+     "They are not fae. Iron does not trouble them, and a ward sworn against fae does nothing.",
+     "Witnesses matter. A debt paid in private is a debt it can say you never paid.",
+     "A warped goblin will keep any bargain to the letter. Have someone else read the letter."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The warped count in base twelve, on teeth.",
+     "A goblinoid in matching clothes is either grieving or up to something. A warped goblin is always in matching clothes.",
+     "Pawnwater’s river is said to be the same river as one in the Roam, and sleepers sometimes wake with a pawn ticket."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The warren under Goldwind’s east quay pays something through a crack in the cellar wall every Still Day. Has done since before the quay. Nobody down there remembers what was borrowed.” (a Goldwind salvage-tinker)",
+     "“You know how the goblins got out when the Veil came down? Some did. Ask who paid for the door.” (a hobgoblin sergeant, drunk)",
+     "“There’s a tallyman in Underbell who lent a candle to an Orka sorcerer. He’s still waiting on it. That’s the oldest living thing in the Faewild that isn’t a sovereign.” (a road-fae, in the Roam)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoeSB0aGV5IGxlbmQgdG8gbW9ydGFscy4qKiBUaGUgVmVpbCBpcyBPbndlbiwgYW5kIGl0IGtub3dzIHRoZSB3YXJwZWQgZm9yIHdoYXQgY2FtZSBpbiB3aXRoIHRoZSBPcmthLiBJdCB3aWxsIG5vdCBsZXQgdGhlbSBvdXQuIEJ1dCBhIGRlYnQgaXMgYSB0aGluZyB3aXRoIHR3byBlbmRzLCBhbmQgdGhlIFZlaWwgZG9lcyBub3QgY3V0IHdoYXQgaXMgb3dlZC4gQSB3YXJwZWQgZ29ibGluIGNhbiBjcm9zcyBvbmx5IGFsb25nIGEgZGVidCBvd2VkIHRvIGl0IGluIHRoZSB3YWtpbmcgd29ybGQsIGxpa2UgYSByb3BlLiBFdmVyeSBsYW50ZXJuIGhhbmRlZCB0byBhIGxvc3QgZmFybWVyIGlzIGEgcm9hZCBob21lLiIsICIqKlRoZSBmaXJzdCBkZWJ0LioqIFNvbWUgb2YgdGhlIGhvc3RzIGRpZCBnZXQgb3V0LCBpbiB0aGUgbGFzdCBob3VycywgdGhyb3VnaCBhIGRvb3IgdGhlaXIga2luIGhlbGQgb3BlbiBmcm9tIHRoZSBpbnNpZGUuIFRoZSBwcmljZSBvZiB0aGUgZG9vciB3YXMgYSBwcm9taXNlIHRvIGNvbWUgYmFjayBmb3IgdGhlbS4gVGhlIGlzbGFuZCB3YXJyZW5zIGFyZSB0aG9zZSBwZW9wbGXigJlzIGRlc2NlbmRhbnRzLiBUaGUgY291c2lu4oCZcyBib3dsIGlzIHRoZSBpbnRlcmVzdCwgYW5kIHRoZSBwcmluY2lwYWwgaGFzIG5ldmVyIGJlZW4gcGFpZC4iLCAiKipUaGUgbGVkZ2VyLXRvd25zIHN0YW5kIG9uIHdoYXQgaXMgbGVmdCBvZiB0aGUgRmlmdGggQ291cnQuKiogVGhlIGNvdW50cnkgYmV0d2VlbiB0aGUgc2Vhc29ucyB3YXMgYSByZWFsbSBvbmNlLiBXaGVuIGl0cyBsb3JkIGdhdmUgaXQgdXAsIHNsaXZlcnMgb2YgaXQgc3RheWVkIGJlaGluZCBhdCBlYWNoIGJvcmRlciwgbGF3bGVzcyBiZWNhdXNlIHRoZSBsYXcgd2VudCB3aXRoIGhpbS4gVGhlIHdhcnBlZCBtb3ZlZCBpbiB3aXRoaW4gdGhlIHllYXIuIiwgIioqVGhlIGNhbmRsZS4qKiBUaGUgdGFsbHltYW4gb2YgVW5kZXJiZWxsIHdobyBsZW50IGEgY2FuZGxlIHRvIGFuIE9ya2Egc29yY2VyZXIgaXMgcmVhbC4gSGUgaXMgY2FsbGVkIE9sZCBWaWcsIGFuZCB0aGUgc29yY2VyZXIgaXMgb25lIG9mIHRoZSB0aGluZ3MgdGhlIFNhY3JlZCBGbGFtZeKAmXMgb2xkZXN0IHNlYWxzIGFyZSBob2xkaW5nLiBJZiB0aGF0IHNlYWwgZXZlciBvcGVucywgVmlnIGludGVuZHMgdG8gYmUgc3RhbmRpbmcgdGhlcmUgd2l0aCBoaXMgaGFuZCBvdXQuIl19"
+   }
+  ],
+  "related": [
+   "goblinoids",
+   "faewild",
+   "fae",
+   "faewild-politics",
+   "orka",
+   "daemons",
+   "veil",
+   "thin-places",
+   "still-days",
+   "summer-court",
+   "autumn-court",
+   "winter-court",
+   "spring-court",
+   "the-roam",
+   "black-harbor"
+  ],
+  "aliases": [
+   "the cousins who did not get out",
+   "the warped",
+   "The warped",
+   "warped goblin",
+   "warped goblins",
+   "the Owed Mouth",
+   "Tallymouth",
+   "Underbell",
+   "Pawnwater",
+   "ledger-towns",
+   "cousin’s bowl",
+   "tallyman",
+   "tallymen"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
