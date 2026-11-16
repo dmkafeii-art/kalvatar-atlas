@@ -2973,6 +2973,15 @@
   ]
  },
  {
+  "id": "rumor-hask-5",
+  "text": "I saw the line. Just the line, red, going down the hold from one end to the other, slow. I was eight. I have never been afraid of the dark since. I know what is in it, and it was not there for me.",
+  "heardAt": "heard from a ship’s carpenter of Stormreach",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",

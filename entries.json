@@ -49562,7 +49562,7 @@
   "category": "gods",
   "region": "All regions",
   "source": "The Pantheon",
-  "subtitle": "The Red Hand: fury, violence, and the cornered",
+  "subtitle": "The Red Hand: fury, violence, the cornered, and the hunted",
   "summary": "Hask is the god of fury and violence, and the most feared name in the islands. Nobody worships him and nobody can call him by asking. He answers one thing only: someone weak, cornered, with nowhere left to run. What he sends does not stop until everyone who could be a threat is dead.",
   "epigraph": {
    "quote": "I did not pray. There was no time to pray. I woke up, and my hands were red, and my daughter was holding my sleeve.",
@@ -49575,7 +49575,7 @@
    ],
    [
     "Domains",
-    "Fury, violence, reprisal, the cornered"
+    "Fury, violence, reprisal, the cornered, the hunted"
    ],
    [
     "Symbol",
@@ -49638,6 +49638,22 @@
     ]
    },
    {
+    "title": "What it looks like",
+    "paragraphs": [
+     "People who were in the room and lived are all people he would not touch, so the descriptions come from children, old women, and the one who woke. They agree."
+    ],
+    "list": [
+     "She goes still first. She stops backing away, and her head comes down.",
+     "One eye opens too wide and does not blink again. The other fills with blood, and it runs down her face like tears.",
+     "In the dark the open eye burns red. When she moves it leaves a line of light behind it, like a coal swung on a string. Witnesses remember the line better than the face. It is called the Lit Eye.",
+     "She does not run, and she does not hurry. She walks. Whatever she is walking toward can run, and it does not help.",
+     "She makes no sound. No scream, no word, and her breathing is slow. The people she reaches make all the noise there is.",
+     "There is no skill in it. She uses her hands, and whatever her hands find.",
+     "She does not feel what is done to her. The body pays for all of it afterward.",
+     "When it ends the eye goes out like a pinched wick, and she sits down where she stands."
+    ]
+   },
+   {
     "title": "Why soldiers fear him",
     "paragraphs": [
      "A soldier may be a good man. He may have come to help. Hask does not weigh that. A soldier can defend himself, so a soldier is a threat, and the Red Sleep does not spare threats."
@@ -49654,6 +49670,21 @@
     "paragraphs": [
      "The story of why is told the same way in every port. Once, the other gods hunted Hask for a killing. He ran until he could not run, and an old washerwoman, somebody’s grandmother, hid him under her laundry. When Law came to her door and asked, she looked the Sun King in the face and lied.",
      "Hask had never owed anything to anyone, and did not know what to do with it. He has been paying ever since, in the only coin he has. He is not kind. He is in debt, and he pays whoever she would have hidden."
+    ]
+   },
+   {
+    "title": "God of the hunted",
+    "paragraphs": [
+     "Hask was hunted once, and he has not forgotten what it is. Anyone running from something is his: the fugitive, the runaway, the deserter, the debtor one tide ahead of the collectors, the girl running from a wedding. He does not ask what you did. He was guilty himself.",
+     "Hunted is not cornered. As long as you can still run, he lets you run, and what he gives is smaller."
+    ],
+    "list": [
+     "Hask’s mile. The mile you run after you could not run any more. Runners say the red at the edge of your sight, when your lungs are finished, is him keeping pace.",
+     "Basket-houses. A wash-basket hung mouth down beside a door means a runner may knock there, once, for one night, and nobody will ask a question. Old women keep most of them.",
+     "The lie at the door. In a basket-house, lying to whoever comes asking is the one holy act he has. A grandmother did it for him first.",
+     "The step. Bounty-men, and Hunters on a warrant, do not take a quarry off a washerwoman’s doorstep. They wait at the end of the street, and they do not sleep well.",
+     "If the hunted one can fight, that is all he gets: the mile and the basket. The Red Sleep never comes for him, however afraid he is.",
+     "If the hunted one is weak, and the running ends against a wall, then the other thing happens."
     ]
    },
    {
@@ -49692,6 +49723,7 @@
      "Someone is cornering women on purpose, in a place and at an hour of his choosing, so that the Red Sleep falls on the people he wants dead.",
      "A Red Sleep has been going for an hour in a walled inn-yard. The Aunt who would have stood is ill. The party has to get someone defenseless in front of the sleeper, alive.",
      "A Concord watcher has been following a midwife for a year and is now sure she is on the Red Roll by mistake. The real Aunt is whoever has been watching him.",
+     "The party’s quarry has reached a basket-house. The old woman at the door says she has not seen him, and smiles, and half the street is watching to see what the party does next.",
      "A sergeant who has never lost a fight was passed over by a Red Sleep that killed his whole patrol. He wants to know what it saw in him."
     ]
    },
@@ -49711,7 +49743,8 @@
     "paragraphs": [],
     "list": [
      "Washerwomen in the islands are never robbed. Nobody can say when that started.",
-     "Old women hang a wash-basket by the door, mouth down. Ask and they say it is to keep the rain off it.",
+     "Ask an old woman why her wash-basket hangs mouth down and she will say it is to keep the rain out of it.",
+     "Children in the ports play a chasing game called Lit Eye. Whoever is caught covers one eye and walks. Nobody is allowed to run from the walker, which is the frightening part.",
      "Animals do not fear the Red Sleep. Cats have been seen sitting in the doorway, washing."
     ]
    },
@@ -49721,7 +49754,8 @@
      "“The old woman with the basket isn’t dead. The Aunts know which port she’s in. That’s who they really answer to.” (a laundress in Goldwind)",
      "“A whole boarding party went over the rail of a pearl-lugger and none came back. The only one aboard was the cook’s girl, twelve years old, asleep on the hatch with her hands in her lap.” (an Armada coxswain)",
      "“He answered a man once. A big one, a soldier. Nobody will say what that man had become by then that a grandmother would have hidden him.” (a Red Aunt, to no one in particular)",
-     "“The killing the gods hunted him for? Ask who he did it for. Law never asked.” (a hedge-priest at the Still Days)"
+     "“The killing the gods hunted him for? Ask who he did it for. Law never asked.” (a hedge-priest at the Still Days)",
+     "“I saw the line. Just the line, red, going down the hold from one end to the other, slow. I was eight. I have never been afraid of the dark since. I know what is in it, and it was not there for me.” (a ship’s carpenter of Stormreach)"
     ]
    },
    {
@@ -49756,7 +49790,12 @@
    "the Red Roll",
    "Red Roll",
    "Wash-Basket Debt",
-   "the Wash-Basket Debt"
+   "the Wash-Basket Debt",
+   "the Lit Eye",
+   "Lit Eye",
+   "Hask’s mile",
+   "basket-house",
+   "basket-houses"
   ],
   "translations": {
    "es": "pending"
