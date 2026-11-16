@@ -5312,6 +5312,1206 @@
    ]
   }
  ],
+ "momumba-lord-of-apes": [
+  {
+   "name": "Cohort Girallon",
+   "meta": "Large Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "76 (9d10 + 27)"
+    ],
+    [
+     "Speed",
+     "40 ft., Climb 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "7",
+     "−2"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "7",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +3, Stealth +5"
+    ],
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None, but cohort girallons answer each other in a drummed code no Hunter has broken"
+    ],
+    [
+     "Challenge",
+     "4 (XP 1,100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Cohort Tactics.** The girallon has Advantage on an attack roll against a creature if at least one of the girallon's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.",
+      "**The Lord's Plan.** A band of cohort girallons never all shows itself. Until one of them attacks, the ones still in the canopy have the Invisible condition to any creature that hasn't succeeded on a DC 15 Wisdom (Perception) check to spot them."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The girallon makes two Claw attacks and one Bite attack.",
+      "**Claw.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing damage.",
+      "**Bite.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing damage."
+     ]
+    },
+    {
+     "title": "Bonus Actions",
+     "items": [
+      "**Canopy Leap.** The girallon jumps up to 30 feet to a branch, ledge, or wall it can see, without provoking Opportunity Attacks."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* four great canines (10 Anchors each through a Lodge); a cohort pelt (30 Anchors).",
+    "Momumba's cohort, the most tactical brood of any Lord. A band of six sends two to be seen while four wait above. The tribes pay Momumba tribute so that his cohort will hunt somewhere else."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "badron-queen-of-feathers": [
+  {
+   "name": "Lesser Thunderbird",
+   "meta": "Huge Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "114 (12d12 + 36)"
+    ],
+    [
+     "Speed",
+     "20 ft., Fly 90 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "20",
+     "+5"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "6",
+     "−2"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Dex +6"
+    ],
+    [
+     "Skills",
+     "Perception +8"
+    ],
+    [
+     "Immunities",
+     "Lightning, Thunder"
+    ],
+    [
+     "Senses",
+     "Passive Perception 18"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "6 (XP 2,300; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Storm-Born.** While the thunderbird is in a storm or a gale, its attacks deal an extra 4 (1d8) Lightning damage.",
+      "**Flyby.** The thunderbird doesn't provoke Opportunity Attacks when it flies out of an enemy's reach."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The thunderbird makes one Talons attack and one Beak attack.",
+      "**Talons.** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing damage. If the target is Large or smaller, it has the Grappled condition (escape DC 16), and the thunderbird can fly off with it.",
+      "**Beak.** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 12 (2d6 + 5) Piercing damage.",
+      "**Call the Bolt (Recharge 5–6).** *Dexterity Saving Throw:* DC 14, each creature in a 10-foot-radius, 40-foot-high Cylinder centered on a point the thunderbird can see within 120 feet. *Failure:* 27 (6d8) Lightning damage. *Success:* Half damage."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* storm-feathers (5 Anchors each, a dozen to a bird; fletchers and Tidecallers both buy); a thunder-gizzard stone (80 Anchors).",
+    "Badron's lesser get, scattered across the high airs. Where one hunts, storms follow it; sailors who see the shadow of one on the water reef their sails before the sky changes.",
+    "**The Thunder-Regent.** The eldest of Badron's get, which rules the low weather while she sleeps. Galven crews dip their colors when it passes, and no Lodge has ever posted a contract on it, because a contract on the Regent is a contract on Badron's temper. To run it, use the thunderbird with these changes: it is Huge, it has three times the Hit Points, its Call the Bolt recharges on a 4 to 6, and it has Legendary Resistance (3/Day). It is a fight for Gold Hunters, and a story for everyone else."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "shakarr-the-shadow-of-death": [
+  {
+   "name": "Quietfang",
+   "meta": "Large Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "+4 (14)"
+    ],
+    [
+     "Hit Points",
+     "75 (10d10 + 20)"
+    ],
+    [
+     "Speed",
+     "50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "18",
+     "+4"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "6",
+     "−2"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +5, Stealth +10"
+    ],
+    [
+     "Resistances",
+     "Necrotic"
+    ],
+    [
+     "Senses",
+     "Darkvision 120 ft.; Passive Perception 15"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "5 (XP 1,800; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Silent.** The quietfang makes no sound at all. A creature can't use hearing to locate it, and it can't be heard even when it attacks.",
+      "**Shadow Stealth.** While in Dim Light or Darkness, the quietfang can take the Hide action as a Bonus Action."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The quietfang makes two Rend attacks.",
+      "**Rend.** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 9 (1d10 + 4) Slashing damage plus 7 (2d6) Necrotic damage. If the target has the Surprised or Incapacitated condition, this hit is a Critical Hit."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* a shadow-pelt that drinks lamplight (120 Anchors; cloak-makers to the Undertow); nothing else, because the body fades by dawn.",
+    "The lesser shadow-things that seep from the Bonewilds' dark. They leave Shakarr's signature: a perfect kill, no struggle, no tracks. The natives do not name them aloud, and Hunters call them quietfangs only in a lit room."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "kayuntu-the-violent-monarch-of-the-five-skies": [
+  {
+   "name": "Skyband Wyvern",
+   "meta": "Large Dragon, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "110 (13d10 + 39)"
+    ],
+    [
+     "Speed",
+     "20 ft., Fly 80 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "19",
+     "+4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "5",
+     "−3"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +4"
+    ],
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 14"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "6 (XP 2,300; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Holder of the Band.** Each skyband wyvern claims a band of sky a few hundred feet deep. It has Advantage on attack rolls against any flying creature, and it never willingly leaves its band to pursue one."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The wyvern makes one Bite attack and one Sting attack.",
+      "**Bite.** *Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing damage.",
+      "**Sting.** *Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing damage plus 21 (6d6) Poison damage, and the target has the Poisoned condition until the end of its next turn."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* a sting-bladder (60 Anchors; apothecaries and poisoners); wing-leather (40 Anchors).",
+    "Kayuntu's lesser wyverns of the upper airs. The Aethyn chart their bands each season with the Watch of the Five, because flying through a claimed band is how gliders and thermal-riders die."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "kakankal-emperor-of-flames": [
+  {
+   "name": "Ember Lizard",
+   "meta": "Medium Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "60 (8d8 + 24)"
+    ],
+    [
+     "Speed",
+     "30 ft., Burrow 10 ft. (ash and cinder only), Climb 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "14",
+     "+2"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "10",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Vulnerabilities",
+     "Cold"
+    ],
+    [
+     "Immunities",
+     "Fire"
+    ],
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Ember-Blood.** A creature that hits the lizard with a melee attack while within 5 feet of it takes 3 (1d6) Fire damage."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The lizard makes two Bite attacks.",
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage plus 7 (2d6) Fire damage.",
+      "**Cinder Spit (Recharge 5–6).** *Dexterity Saving Throw:* DC 13, each creature in a 15-foot Cone. *Failure:* 21 (6d6) Fire damage. *Success:* Half damage."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* shed scales (2 Anchors a handful; smiths swear by them for flux); a vial of ember-blood that stays hot for a year (25 Anchors).",
+    "KakanKal's lesser fire-lizards, prized by smiths and held near-sacred by the Cindren, who will not sell ember-blood to anyone who did not ask the lizard first."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "malim-the-laughing-flood": [
+  {
+   "name": "Flood Otter",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "67 (9d10 + 18)"
+    ],
+    [
+     "Speed",
+     "30 ft., Swim 50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "17",
+     "+3"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "8",
+     "−1"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Acrobatics +5, Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The otter can hold its breath for 30 minutes.",
+      "**Malim's Games.** The otter has Advantage on ability checks to grapple or shove, and as an action it can overturn a boat of Large size or smaller that it is underneath."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The otter makes one Bite attack and one Tail Slap attack.",
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing damage.",
+      "**Tail Slap.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage. If the target is Medium or smaller, it has the Grappled condition (escape DC 13), and the otter can drag it underwater as it moves."
+     ]
+    },
+    {
+     "title": "Bonus Actions",
+     "items": [
+      "**Roll Away.** The otter takes the Disengage action."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* a flood-otter pelt, waterproof and warm (50 Anchors).",
+    "Malim's lesser get, mischievous and deadly, infesting the larger rivers. They play. They do not know when to stop. River tribes tell their children to be kind to the water, because Malim is watching."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "ssvayuk-the-mud-that-breathes": [
+  {
+   "name": "Bog-Serpent",
+   "meta": "Huge Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "114 (12d12 + 36)"
+    ],
+    [
+     "Speed",
+     "20 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "20",
+     "+5"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +4, Stealth +7"
+    ],
+    [
+     "Senses",
+     "Tremorsense 60 ft.; Passive Perception 14"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "5 (XP 1,800; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**False Island.** While the serpent is motionless and half-sunk in mud or water, it is indistinguishable from a reed-grown mud-bank.",
+      "**Hold Breath.** The serpent can hold its breath for 1 hour."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The serpent makes one Bite attack and one Constrict attack.",
+      "**Bite.** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 16 (2d10 + 5) Piercing damage.",
+      "**Constrict.** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 14 (2d8 + 5) Bludgeoning damage. If the target is Large or smaller, it has the Grappled condition (escape DC 16) and the Restrained condition while Grappled."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* serpent-hide (90 Anchors; the lizardfolk will not buy it, and may ask where you got it).",
+    "The lesser bog-serpents that haunt Ssvayuk's margins. The lizardfolk call them the grandmother's children and leave them fish. Travelers who camp on dry ground in the great bogs should check that it is ground."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "vukharr-the-white-hunger": [
+  {
+   "name": "Ribwalker",
+   "meta": "Large Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "104 (11d10 + 44)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "20",
+     "+5"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "18",
+     "+4"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +4, Survival +4"
+    ],
+    [
+     "Immunities",
+     "Cold"
+    ],
+    [
+     "Senses",
+     "Passive Perception 14"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "6 (XP 2,300; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**The Emptying.** Beasts with an Intelligence of 3 or lower flee the ribwalker's scent; for a mile around one, the land is empty of game.",
+      "**Starving Frenzy.** The ribwalker has Advantage on attack rolls against any creature that is Bloodied.",
+      "**Snow Camouflage.** The ribwalker has Advantage on Dexterity (Stealth) checks made in snow or ice."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The ribwalker makes one Bite attack and two Claw attacks.",
+      "**Bite.** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing damage plus 7 (2d6) Cold damage.",
+      "**Claw.** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 9 (1d8 + 5) Slashing damage."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* white fur that never ices (70 Anchors); a rib-bow, if a Frost Elf will make one for you.",
+    "Vukharr's lesser white-hunger beasts, gaunt and ravenous, which herald the Lord by emptying the land. Frost Elf warbands paint their faces as a ribwalker's skull before a winter raid."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "ulgrenn-the-hollow-song": [
+  {
+   "name": "Echo",
+   "meta": "Medium Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "52 (8d8 + 16)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "14",
+     "+2"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "5",
+     "−3"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "14",
+     "+2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +4, Stealth +4"
+    ],
+    [
+     "Immunities",
+     "Thunder; Blinded"
+    ],
+    [
+     "Senses",
+     "Blindsight 60 ft. (blind beyond this radius); Passive Perception 14"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "2 (XP 450; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Borrowed Voices.** The echo can mimic any voice or sound it has heard, perfectly. It can only repeat: it can't answer a question with anything it hasn't heard, and a creature that asks it such a question knows at once what it is."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The echo makes two Bite attacks.",
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Piercing damage.",
+      "**Resonance (Recharge 5–6).** *Constitution Saving Throw:* DC 12, each creature in a 15-foot Emanation originating from the echo. *Failure:* 14 (4d6) Thunder damage, and the creature has the Deafened condition until the end of its next turn. *Success:* Half damage only."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* a resonance-bone that hums back any sound (35 Anchors; bell-founders and Sporrn both want them).",
+    "Ulgrenn's progeny, from the size of a dog to the size of a boat. An echo will call to you in your companion's voice from a side-tunnel. Ask it something only your companion knows."
+   ],
+   "role": "progeny"
+  },
+  {
+   "name": "Great Echo",
+   "meta": "Huge Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "14"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "147 (14d12 + 56)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 30 ft., Swim 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "21",
+     "+5"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "18",
+     "+4"
+    ],
+    [
+     "INT",
+     "5",
+     "−3"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "16",
+     "+3"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +5"
+    ],
+    [
+     "Immunities",
+     "Thunder; Blinded, Deafened"
+    ],
+    [
+     "Senses",
+     "Blindsight 120 ft. (blind beyond this radius); Passive Perception 15"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "8 (XP 3,900; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Borrowed Voices.** As the echo, but it has swallowed whole caravans, and it speaks with all of them."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The great echo makes two Bite attacks.",
+      "**Bite.** *Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (3d8 + 5) Piercing damage.",
+      "**The Hollow Song (Recharge 5–6).** *Wisdom Saving Throw:* DC 14, each creature within 120 feet that can hear the great echo. *Failure:* The creature has the Charmed condition for 1 minute, and on each of its turns it must use its movement to come toward the great echo by the safest route. It repeats the save at the end of each of its turns, ending the effect on a success. *Success:* The creature is immune to this Song for 24 hours."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* a song-throat, which the Sporrn will pay 300 Anchors to see destroyed.",
+    "The boat-sized echoes deep in the Calling Halls, where the Hollow Song is loudest. The Orka sealed their deepest ruins against the Lord that makes them."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "thalgorath-the-tide-tyrant": [
+  {
+   "name": "Trench Horror",
+   "meta": "Huge Aberration, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "16"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "172 (15d12 + 75)"
+    ],
+    [
+     "Speed",
+     "10 ft., Swim 60 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "23",
+     "+6"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "20",
+     "+5"
+    ],
+    [
+     "INT",
+     "10",
+     "+0"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "16",
+     "+3"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Con +9, Wis +6"
+    ],
+    [
+     "Resistances",
+     "Cold, Psychic"
+    ],
+    [
+     "Senses",
+     "Darkvision 120 ft.; Passive Perception 12"
+    ],
+    [
+     "Languages",
+     "Telepathy 120 ft., in the voices of the drowned"
+    ],
+    [
+     "Challenge",
+     "10 (XP 5,900; PB +4)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Abyssal.** The horror can breathe only water. Out of water, its Speed is 10 feet and it has Disadvantage on attack rolls."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The horror makes three Tentacle attacks.",
+      "**Tentacle.** *Melee Attack Roll:* +10, reach 20 ft. *Hit:* 15 (2d8 + 6) Bludgeoning damage. If the target is Huge or smaller, it has the Grappled condition (escape DC 18), and the horror pulls it 10 feet closer and down.",
+      "**Drowning Dream (Recharge 5–6).** *Wisdom Saving Throw:* DC 15, each creature within 60 feet that the horror can see. *Failure:* 33 (6d10) Psychic damage, and the creature has the Incapacitated condition until the end of its next turn, certain that it is drowning. *Success:* Half damage only."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* nothing the sea-peoples will let you keep; the Red Choir treats a dead trench horror as a holy relic.",
+    "The deep horrors of the abyssal trenches, Thalgorath's seep: lesser abyssal things that the sea-peoples themselves flee. When one rises, a Coral court sends word to its sea-pact ports, and the wise ones keep their boats ashore."
+   ],
+   "role": "progeny"
+  }
+ ],
+ "tyrakzhul-the-world-eater": [
+  {
+   "name": "First-Jaw Get",
+   "meta": "Gargantuan Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "16"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "264 (16d20 + 96)"
+    ],
+    [
+     "Speed",
+     "50 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "27",
+     "+8"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "22",
+     "+6"
+    ],
+    [
+     "INT",
+     "3",
+     "−4"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "12",
+     "+1"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Str +13, Con +11, Wis +6"
+    ],
+    [
+     "Skills",
+     "Perception +6"
+    ],
+    [
+     "Immunities",
+     "Frightened"
+    ],
+    [
+     "Senses",
+     "Passive Perception 16"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "13 (XP 10,000; PB +5)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Siege Monster.** The get deals double damage to objects and structures.",
+      "**Eldersaur.** Every saurian that can see the get has the Frightened condition while it can see the get, unless it is an Eldersaur too."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The get makes one Bite attack and one Tail attack.",
+      "**Bite.** *Melee Attack Roll:* +13, reach 15 ft. *Hit:* 34 (4d12 + 8) Piercing damage. If the target is Huge or smaller, it has the Grappled condition (escape DC 21) and the Restrained condition while Grappled. The get can't Bite another creature while it has one Grappled.",
+      "**Tail.** *Melee Attack Roll:* +13, reach 20 ft. *Hit:* 21 (3d8 + 8) Bludgeoning damage. If the target is Huge or smaller, it is pushed 15 feet and has the Prone condition.",
+      "**The King's Roar (Recharge 5–6).** *Wisdom Saving Throw:* DC 19, each creature within 300 feet that can hear the get. *Failure:* The creature has the Frightened condition for 1 minute. It repeats the save at the end of each of its turns, ending the effect on a success. *Success:* The creature is immune to this Roar for 24 hours."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* a First-Jaw tooth (1,000 Anchors through a Lodge; more than that off the Ledger, and a Flenser's knife in the back for free).",
+    "Tyrak'Zhul's direct progeny: titanic theropods, Eldersaurs in their own right. A Gold contract, always. Jakupur does not train them, does not sell them, and does not let anyone else try."
+   ],
+   "role": "progeny"
+  }
+ ],
  "swordtooth": [
   {
    "name": "Swordtooth (Azarox)",
@@ -7203,6 +8403,573 @@
    "notes": [
     "One fish to a pool. Two in the same water fight until one is dead, which is the whole business of the clandestine pits."
    ]
+  }
+ ],
+ "red-choir": [
+  {
+   "name": "Red Choir Singer",
+   "meta": "Medium Fiend, Neutral Evil",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "52 (8d8 + 16)"
+    ],
+    [
+     "Speed",
+     "30 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "15",
+     "+2"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "12",
+     "+1"
+    ],
+    [
+     "WIS",
+     "16",
+     "+3"
+    ],
+    [
+     "CHA",
+     "14",
+     "+2"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +5, Religion +3"
+    ],
+    [
+     "Senses",
+     "Darkvision 120 ft.; Passive Perception 15"
+    ],
+    [
+     "Languages",
+     "The Red Choir's tongue; understands Common"
+    ],
+    [
+     "Challenge",
+     "2 (XP 450; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Blood Frenzy.** The singer has Advantage on attack rolls against any creature that is Bloodied.",
+      "**Limited Amphibiousness.** The singer can breathe air and water, but it must be submerged at least once every 4 hours or begin to suffocate.",
+      "**Blood in the Water.** When any creature within 300 feet of the singer takes damage in water, the singer and its allies within hearing gain 10 feet of Swim Speed until the end of their next turns."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The singer makes one Bite attack and one Trident attack.",
+      "**Bite.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage.",
+      "**Trident.** *Melee or Ranged Attack Roll:* +4, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d8 + 2) Piercing damage.",
+      "**The Choir (Recharge 5–6).** *Wisdom Saving Throw:* DC 13, each creature of the singer's choice within 30 feet that can hear it. *Failure:* 18 (4d8) Psychic damage, and the creature has the Frightened condition until the end of its next turn. *Success:* Half damage only."
+     ]
+    }
+   ],
+   "notes": [
+    "The Red Choir's priests. The Choir sings when blood is in the water, and Thalgorath is its choirmaster. Its warriors use the sahuagin of the 2024 Monster Manual."
+   ],
+   "role": "found"
+  }
+ ],
+ "king-tide": [
+  {
+   "name": "Lane Serpent",
+   "meta": "Gargantuan Monstrosity, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "16"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "217 (14d20 + 70)"
+    ],
+    [
+     "Speed",
+     "10 ft., Swim 70 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "25",
+     "+7"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "20",
+     "+5"
+    ],
+    [
+     "INT",
+     "4",
+     "−3"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "6",
+     "−2"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Str +11, Con +9"
+    ],
+    [
+     "Skills",
+     "Perception +5"
+    ],
+    [
+     "Senses",
+     "Passive Perception 15"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "10 (XP 5,900; PB +4)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The serpent can hold its breath for 1 hour.",
+      "**Ship-Breaker.** The serpent's attacks ignore a ship's Damage Threshold (Seafaring, Part Two) and deal double damage to ships and other objects."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The serpent makes one Bite attack and one Crush attack.",
+      "**Bite.** *Melee Attack Roll:* +11, reach 15 ft. *Hit:* 23 (3d10 + 7) Piercing damage.",
+      "**Crush.** *Melee Attack Roll:* +11, reach 15 ft. *Hit:* 29 (4d10 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Grappled condition (escape DC 19) and the Restrained condition while Grappled."
+     ]
+    }
+   ],
+   "notes": [
+    "*Harvest:* serpent-ivory (400 Anchors), a hide that sheathes a hull (600 Anchors); the Killing Tide pays a bounty on every head.",
+    "The great serpents that cross the southern lanes in Storm Water. The Killing Tide hunts them on the King Tide's Three Nights, when they come up."
+   ],
+   "role": "found"
+  }
+ ],
+ "grey-fathoms": [
+  {
+   "name": "Fathom-Kept",
+   "meta": "Medium Undead, Neutral",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "52 (8d8 + 16)"
+    ],
+    [
+     "Speed",
+     "20 ft., Swim 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "15",
+     "+2"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "10",
+     "+0"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "12",
+     "+1"
+    ]
+   ],
+   "mid": [
+    [
+     "Resistances",
+     "Cold, Necrotic"
+    ],
+    [
+     "Immunities",
+     "Poison; Exhaustion, Poisoned"
+    ],
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "Whatever it spoke in life"
+    ],
+    [
+     "Challenge",
+     "2 (XP 450; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Amphibious.** The fathom-kept can breathe air and water, though it does not need to breathe.",
+      "**The Water's Weight.** A creature Grappled by the fathom-kept underwater can't hold its breath."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The fathom-kept makes two Clutch attacks.",
+      "**Clutch.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Bludgeoning damage plus 3 (1d6) Cold damage. If the target is Medium or smaller, it has the Grappled condition (escape DC 12)."
+     ]
+    }
+   ],
+   "notes": [
+    "The kept drowned of the Grey Fathoms, who ransom the dead back to a sea-pact port. A fathom-kept that rises to fight is either guarding something or has been sent; to destroy one is to break a sea-pact with the court that keeps it."
+   ],
+   "role": "found"
+  }
+ ],
+ "below": [
+  {
+   "name": "Lightdrinker Swarm",
+   "meta": "Large Swarm of Tiny Beasts, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "33 (6d10)"
+    ],
+    [
+     "Speed",
+     "5 ft., Fly 40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "2",
+     "−4"
+    ],
+    [
+     "DEX",
+     "15",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "3",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Resistances",
+     "Bludgeoning, Piercing, Slashing"
+    ],
+    [
+     "Immunities",
+     "Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned"
+    ],
+    [
+     "Senses",
+     "Blindsight 60 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1/2 (XP 100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Swarm.** The swarm can occupy another creature's space and vice versa, and it can move through any opening large enough for a Tiny creature. It can't regain Hit Points or gain Temporary Hit Points.",
+      "**Drink the Light.** At the start of each of the swarm's turns, every nonmagical flame or light within 10 feet of it goes out, and any light created by a spell of level 2 or lower in its space ends.",
+      "**Moth to Flame.** The swarm always moves toward the brightest light it can perceive, including a drow's eye-light.",
+      "**Harmless to Flesh.** The swarm has no attacks."
+     ]
+    }
+   ],
+   "notes": [
+    "Pale moths with a gull's wingspan. A swarm on a lantern puts it out in a breath. Most deaths Below begin with the lamp going out."
+   ],
+   "role": "found"
+  },
+  {
+   "name": "Pale Spinner, Wild",
+   "meta": "Medium Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "27 (5d8 + 5)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "12",
+     "+1"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "4",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Stealth +7"
+    ],
+    [
+     "Senses",
+     "Blindsight 60 ft. (blind beyond this radius); Passive Perception 10"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1 (XP 200; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Spider Climb.** The spinner can climb difficult surfaces, including along ceilings, without an ability check.",
+      "**Web Sense.** While in contact with a web, the spinner knows the location of any other creature in contact with the same web."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Bite.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage plus 7 (2d6) Poison damage.",
+      "**Darksilk (Recharge 5–6).** *Dexterity Saving Throw:* DC 11, one creature the spinner can sense within 30 feet. *Failure:* The target has the Restrained condition until it or someone else uses an action to tear free with a DC 12 Strength (Athletics) check."
+     ]
+    }
+   ],
+   "notes": [
+    "The drow's silk-spiders are shy, blind, and as big as dogs. The wild ones of the Old Cut are less shy. A tame spinner has no Bite worth the name and will not leave its herd."
+   ],
+   "role": "found"
+  },
+  {
+   "name": "Pale Crab",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "52 (7d10 + 14)"
+    ],
+    [
+     "Speed",
+     "30 ft., Swim 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "17",
+     "+3"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "1",
+     "−5"
+    ],
+    [
+     "WIS",
+     "9",
+     "−1"
+    ],
+    [
+     "CHA",
+     "3",
+     "−4"
+    ]
+   ],
+   "mid": [
+    [
+     "Senses",
+     "Blindsight 30 ft., Tremorsense 60 ft.; Passive Perception 9"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "2 (XP 450; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Amphibious.** The crab can breathe air and water."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The crab makes two Claw attacks.",
+      "**Claw.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Bludgeoning damage. If the target is Medium or smaller, it has the Grappled condition (escape DC 13) from one of the crab's two claws."
+     ]
+    }
+   ],
+   "notes": [
+    "Blind, white, as wide as a cart-wheel, picking over the wet miles for whatever the tide left. It does not care whether what the tide left is still alive."
+   ],
+   "role": "found"
   }
  ]
 }

@@ -1,4 +1,4 @@
-/* Stat blocks for the islands' animals and companions (2024 rules).
+/* Stat blocks for the islands' animals and companions, the Savage Lords' progeny, and what lives in the sea and Below (2024 rules).
    Data: statblocks.json, built from the Player's Companion and the Bestiary. At the end of a creature's entry
    a button opens its stat block in a popup. Blocks stay in English, as the game documents are. */
 'use strict';
@@ -91,10 +91,13 @@
   const box = document.createElement('div');
   box.className = 'sb-launch';
   box.dataset.entry = id;
-  const many = list.length > 1;
+  const many = list.length > 1, role = list.every(b => b.role === 'progeny') ? 'progeny' : list.every(b => b.role === 'found') ? 'found' : '';
+  const label = role === 'progeny' ? (many ? t('View its progeny’s stat blocks', 'Ver los stat blocks de su progenie') : t('View its progeny’s stat block', 'Ver el stat block de su progenie'))
+   : role === 'found' ? (many ? t('What you may meet here: stat blocks', 'Lo que puedes encontrarte aquí: stat blocks') : t('What you may meet here: stat block', 'Lo que puedes encontrarte aquí: stat block'))
+   : (many ? t('View stat blocks', 'Ver stat blocks') : t('View stat block', 'Ver stat block'));
   box.innerHTML = `<button type="button" class="sb-open-btn" aria-haspopup="dialog">
    <svg class="sb-glyph" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 21 7v10l-9 5-9-5V7z"/><path d="M12 2v20M3 7l18 10M21 7 3 17"/></svg>
-   <span class="sb-open-text"><strong>${many ? t('View stat blocks', 'Ver stat blocks') : t('View stat block', 'Ver stat block')}</strong>
+   <span class="sb-open-text"><strong>${label}</strong>
    <small>${list.map(b => `${h(b.name)} · CR ${h(cr(b))}`).join(' &nbsp;·&nbsp; ')}</small></span><span class="sb-arrow" aria-hidden="true">↗</span></button>`;
   box.querySelector('button').onclick = e => open(id, e.currentTarget);
   const src = prose.querySelector(':scope > .article-source');
