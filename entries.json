@@ -726,7 +726,8 @@
    "court-of-bones",
    "charter-mint",
    "ledger-wolves",
-   "ecler"
+   "ecler",
+   "eamos-goldwind"
   ],
   "illustration": {
    "src": "assets/scenes/goldwind-painterly-v2-960.webp",
@@ -5351,7 +5352,10 @@
    "hunters",
    "battle-of-the-krakens-maw",
    "kellum",
-   "long-war"
+   "long-war",
+   "taelon-stormrider",
+   "larissa-whitewave",
+   "faelen-wolf"
   ],
   "illustration": {
    "src": "assets/powers/armada-painterly-v1-960.webp",
@@ -5463,7 +5467,8 @@
    "calendar",
    "arcane-registry",
    "council",
-   "arbiters"
+   "arbiters",
+   "tidecaller-corisande-lark"
   ],
   "illustration": {
    "src": "assets/powers/concord-painterly-v1-960.webp",
@@ -13745,7 +13750,12 @@
    "xathnatraz",
    "aurocs",
    "languages-of-the-archipelago",
-   "long-war"
+   "long-war",
+   "theomar-vol-sunessi",
+   "twelve-rays",
+   "ghral",
+   "janus-rune",
+   "elric-von-gainer"
   ]
  },
  {
@@ -13983,7 +13993,8 @@
    "undertow",
    "answering-light",
    "icy-expanse",
-   "lighthouses"
+   "lighthouses",
+   "granny-ylva-skerrow"
   ]
  },
  {
@@ -14020,7 +14031,8 @@
    "undertow",
    "knot",
    "goblinoids",
-   "below"
+   "below",
+   "ottar-glimm"
   ]
  },
  {
@@ -14859,7 +14871,8 @@
   "aliases": [],
   "related": [
    "assios-and-the-wider-world",
-   "coral-kingdoms"
+   "coral-kingdoms",
+   "king-rune-of-valengrad"
   ]
  },
  {
@@ -16122,7 +16135,9 @@
    "twelve-flags",
    "saltreach",
    "plague-of-the-burning-sea",
-   "southern-wilds"
+   "southern-wilds",
+   "sister-smoke",
+   "vesper-zane"
   ]
  },
  {
@@ -16481,7 +16496,9 @@
    "krysta",
    "pearl-groove-and-the-pelagar-isle",
    "ironfort",
-   "reckoners-hall"
+   "reckoners-hall",
+   "celestine-goldspire",
+   "vesper-zane"
   ]
  },
  {
@@ -17672,7 +17689,8 @@
    "noble-houses",
    "reckoners-ledger",
    "ledger-wolves",
-   "ecler"
+   "ecler",
+   "hera-seaworth"
   ]
  },
  {
@@ -19675,7 +19693,8 @@
    "briarcrown",
    "heartland",
    "sigil",
-   "noble-houses"
+   "noble-houses",
+   "elowen-silverthorn"
   ]
  },
  {
@@ -29964,7 +29983,8 @@
    "heartland",
    "northern-frontier",
    "arcane-registry",
-   "nine-fleets"
+   "nine-fleets",
+   "eldric-morvane"
   ]
  },
  {
@@ -30165,7 +30185,9 @@
    "southern-quarantine",
    "easthold-westwatch-and-pearl-groove",
    "games-and-pastimes",
-   "goldwind"
+   "goldwind",
+   "larissa-whitewave",
+   "odran-halloway"
   ]
  },
  {
@@ -31713,7 +31735,8 @@
    "battle-of-the-krakens-maw",
    "great-slave-rebellion",
    "most-wanted",
-   "talk-of-175-ec"
+   "talk-of-175-ec",
+   "shade-serpentfang"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/free-tide-960.webp",
@@ -32355,7 +32378,9 @@
    "free-tide",
    "most-wanted",
    "coins-and-prices",
-   "talk-of-175-ec"
+   "talk-of-175-ec",
+   "shade-serpentfang",
+   "sharin-bloodblade"
   ],
   "epigraph": {
    "quote": "They follow her gladly. That is the part the Council can’t put a price on.",
@@ -32589,7 +32614,11 @@
    "duskmire-haven",
    "jakupur",
    "zalkareth",
-   "ledger-wolves"
+   "ledger-wolves",
+   "janus-rune",
+   "old-pell",
+   "ottar-glimm",
+   "granny-ylva-skerrow"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/undertow-960.webp",
@@ -32809,7 +32838,9 @@
    "twelve-flags",
    "goldwind",
    "reckoners-hall",
-   "maera-blackstrand"
+   "maera-blackstrand",
+   "celestine-goldspire",
+   "vesper-zane"
   ],
   "illustration": {
    "src": "assets/folk/horace-council-v1-960.webp",
@@ -33087,7 +33118,8 @@
    "goldwind",
    "ecler",
    "reckoners-ledger",
-   "charter-mint"
+   "charter-mint",
+   "hera-seaworth"
   ]
  },
  {
@@ -34790,7 +34822,8 @@
    "great-hunter-crews",
    "admiral-blackheart",
    "admiral-thulissa",
-   "avalan-grant"
+   "avalan-grant",
+   "shade-serpentfang"
   ]
  },
  {
@@ -34855,7 +34888,9 @@
    "seren-blackheart-the-last-smile",
    "hollowkey",
    "admiral-thulissa",
-   "captain-magnus-and-leoric"
+   "captain-magnus-and-leoric",
+   "sharin-bloodblade",
+   "shade-serpentfang"
   ],
   "illustration": {
    "src": "assets/history/thulissa-blackheart-duel-painterly-v1-960.webp",
@@ -50877,6 +50912,1522 @@
    "council"
   ],
   "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "eamos-goldwind",
+  "title": "Eamos Goldwind",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The founder of Goldwind",
+  "summary": "The Archmage who founded Goldwind around 30 EC, named it for its winds, and took the name as his own. The city believes he died in his tower in old age and lies in the Founder's Tomb beneath the University.",
+  "facts": [
+   [
+    "Known as",
+    "the Archmage; the Founder"
+   ],
+   [
+    "Founded",
+    "Goldwind, about 30 EC"
+   ],
+   [
+    "Also raised",
+    "the University"
+   ],
+   [
+    "Said to lie",
+    "in the Founder's Tomb, beneath the University"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The founder",
+    "paragraphs": [
+     "Thirty years after the Landing, the Archmage Eamos came upon a gulf with constant, perfect sailing-winds and decided it would be his home. He founded a port there, named it Goldwind for those winds, and took the name as his own. The city is named for its breeze, and the founder for the city.",
+     "He raised the University in the same years. For its first decades Goldwind was only a harbor-hub. It grew so fast, and sat so well, that some twenty to thirty years on the Council moved its seat there from the Frontier."
+    ]
+   },
+   {
+    "title": "What the city believes",
+    "paragraphs": [],
+    "list": [
+     "That he died in his tower, in his old age.",
+     "That he lies in the Founder's Tomb, beneath the University.",
+     "That his city came closest to ruin in the Ascendant's War of 105 EC, when Eldric Morvane's mage-army nearly reached its gates."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Nobody has ever seen the inside of the Founder's Tomb. The University says that is respect.” (a University porter)",
+     "“Goldwind was built over something. Ask why its oldest cisterns go down so far.” (a Goldwind well-digger)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBTa3VsbCBpcyBFYW1vcyBHb2xkd2luZC4qKiBUaGUgY2l0eSdzIGZvdW5kZXIgbmV2ZXIgZGllZDogaGUgYmVjYW1lIGEgbGljaCwgYW5kIGhlIGlzIHRoZSBtYXN0ZXIgb2YgdGhlIENvdXJ0IG9mIEJvbmVzLiBIaXMgdG9tYiB1bmRlciB0aGUgVW5pdmVyc2l0eSBpcyBlbXB0eSwgaGlzIHBoeWxhY3RlcnkgaXMgR29sZHdpbmQncyBmb3VuZGluZyBzdG9uZSwgYW5kIHRoZSB1bmRlcmNpdHkgd2FzIGR1ZyBieSBoaXMgZGVhZC4iLCAiKipIaXMgdGVhY2hlciBpcyB0aGUgRGVlcCBLaW5nLioqIEVhbW9zIGZvdW5kZWQgaGlzIGNpdHkgb24gdGhhdCBndWxmIGJlY2F1c2UgdGhlIHJvYWQgZG93biBiZWdpbnMgYmVuZWF0aCBpdCwgYW5kIHRoZSBEZWVwIEtpbmcgdGF1Z2h0IGhpbSB0aGUgbGljaCdzIHJpdGUgaW4gaGlzIGRyZWFtcy4gU29tZSBvZiB0aGUgYm9kaWVzIHBhaWQgdG8gdGhlIENvdXJ0IGdvIGRvd24gdGhlIG9zc3VhcnkncyBsb3dlc3Qgc3RhaXIgdG8ga2VlcCB0aGUga2luZyBmZWQgYW5kIGRyZWFtaW5nLiBFYW1vcyBpcyBoaXMgc3R1ZGVudCwgaGlzIGRlYnRvciwgYW5kIGhpcyBqYWlsZXIuIiwgIioqV2hhdCBoZSBmZWFycy4qKiBUaGUgQmxlZWQ6IHRoZSBFbXB0aWVkIGFyZSBkZWFkIHRoYXQgbm8gb25lIGNhbiBiaW5kLiBFdmVyeSBEZWVwIEtpbmcsIEVhbW9zIGdvZXMgZG93biBoaW1zZWxmLCBhbmQgdGhlIENvdXJ0IGtlZXBzIGEgZGF5IG9mIHNpbGVuY2UgdW50aWwgaGUgY29tZXMgYmFjay4iLCAiKipXaGF0IGhlIHN3b3JlLioqIFRoYXQgaGlzIGNpdHkgd291bGQgbmV2ZXIgZmFsbCBpbnRvIG9uZSBoYW5kLiAq4oCcQSBjaXR5IGhlbGQgYnkgb25lIGhhbmQgaXMgYSBjaXR5IG9uZSBkZWF0aCBjYW4ga2lsbC7igJ0qIl19"
+   }
+  ],
+  "related": [
+   "goldwind",
+   "university",
+   "ascendants-war",
+   "eldric-morvane"
+  ],
+  "aliases": [],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "eldric-morvane",
+  "title": "Eldric Morvane",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The Ascendant",
+  "summary": "The archmage who declared registered magic a cage built by the small to bind the great, raised a mage-army, and nearly took the Heartland in 105 EC. His defeat gave the islands the Arcane Registry.",
+  "facts": [
+   [
+    "Called",
+    "the Ascendant"
+   ],
+   [
+    "Expelled",
+    "from the University, 99 EC"
+   ],
+   [
+    "War",
+    "the Ascendant's War, 105 EC"
+   ],
+   [
+    "Legacy",
+    "the Arcane Registry and its copper rings"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Ascendant",
+    "paragraphs": [
+     "In 99 EC the University expelled Eldric Morvane for binding a spell into a living thing. He took eleven students with him.",
+     "Six years later he declared that registered, controlled, leashed magic was a cage built by the small to bind the great, and that mages were the world's natural rulers. He gathered an army of the willing, the coerced, and the Krysta-bound, enslaved by a forbidden thaumaturgy of his own devising, and nearly conquered the Heartland islands.",
+     "The first Grand Coalition (Hunters, Armada, the noble houses, and the University together) brought him down in the war that bears his name. The orcs of the Stormchanters' island fought beside the other tribes in it, the only war they have ever fought."
+    ]
+   },
+   {
+    "title": "What he left",
+    "paragraphs": [],
+    "list": [
+     "**The Arcane Registry.** Born of his defeat: every arcane caster in Council lands enrolls and wears copper rings, one per circle. He died railing against the cage that now holds every arcanist."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Morvane's books were never all burned. The University's deepest vault has a door with no keyhole.” (a Registry clerk)",
+     "“He took eleven students when he left. The histories name the ones who died in the war. Count them.” (a University archivist)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkhpcyByZXNlYXJjaCBkaWQgbm90IGRpZSB3aXRoIGhpbS4qKiBNb3J2YW5lJ3MgZm9yYmlkZGVuIEtyeXN0YS1iaW5kaW5nLCB0aGUgZW5zbGF2ZW1lbnQgb2YgbWluZCBhbmQgbWFnaWMgdGhyb3VnaCB0aGUgY2F0YWx5c3Qtc3RvbmUsIHNjYXR0ZXJlZCB3aXRoIGhpcyBncmltb2lyZXM6IHNvbWUgc2VhbGVkIGluIHRoZSBVbml2ZXJzaXR5J3MgZGVlcGVzdCB2YXVsdHMsIHNvbWUgaW4gSG91c2UgU2lsdmVydGhvcm4ncyBwcml2YXRlIGNvbGxlY3Rpb24sIHNvbWUgbG9zdCBpbnRvIHRoZSBibGFjayBtYXJrZXQuIiwgIioqUmFua2FyJ3MgdmF0cyBkZXNjZW5kIGZyb20gaXQuKiogVGhlIFJhbmthciBDb3Jwb3JhdGlvbidzIHZhdHMsIHdoaWNoIGNhZ2UgdGhlIEhlYXJ0IG9mIEthdGgncyBjb3B5aW5nIHRvIG1ha2UgYSBmYWxzZSBoZWlyLCBhcmUgYnVpbHQgb24gTW9ydmFuZSdzIHRoYXVtYXR1cmd5LiJdfQ=="
+   }
+  ],
+  "related": [
+   "ascendants-war",
+   "arcane-registry",
+   "university",
+   "goldwind",
+   "eamos-goldwind"
+  ],
+  "aliases": [
+   "Eldric Morvane, the Ascendant"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "elowen-silverthorn",
+  "title": "Elowen Silverthorn",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The necromancer of Briarcrown",
+  "summary": "A daughter of House Silverthorn, the Quiet Knife of Briarcrown, and a necromancer the salons say can command the dead.",
+  "facts": [
+   [
+    "House",
+    "Silverthorn, the Quiet Knife"
+   ],
+   [
+    "Seat",
+    "Briarcrown"
+   ],
+   [
+    "Known as",
+    "a necromancer, rumored to command the dead"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Of the Quiet Knife",
+    "paragraphs": [
+     "House Silverthorn is a discreet house of arcane spies and quiet operators, and one of the biggest unregistered buyers in the magic-item black market. Its motto is *Spoken Soft, Cut Deep.*",
+     "Its children each have a reputation: an assassin, an artificer, a bard, and Elowen, the necromancer. Of the four she is the one the salons lower their voices for."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Elowen Silverthorn can ask a dead man a question and get an answer. The question is what it costs, and who pays.” (a Briarcrown physician)",
+     "“She keeps a ledger nobody has ever seen her write in.” (a Silverthorn footman)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoZSBpcyB0aGUgRXllIG9mIHRoZSBDb3VydCBvZiBCb25lcy4qKiBFbG93ZW4ga2VlcHMgdGhlIEJvbmUgTGVkZ2VyLCB0aGUgc2VjcmV0cyB0aGUgZGVhZCB0b29rIHRvIHRoZSBncmF2ZSBhbmQgdGhlIENvdXJ0IHRvb2sgYmFjayBvdXQuIFNoZSBpcyBzd29ybiB0byB0aGUgQ291cnQgYW5kIGlzIG5vdCBvZiBpdHMgYmxvb2QuIl19"
+   }
+  ],
+  "related": [
+   "house-silverthorn",
+   "goldwind",
+   "court-of-bones"
+  ],
+  "aliases": [],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "celestine-goldspire",
+  "title": "Celestine Goldspire",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The heir who runs the floor",
+  "summary": "Horace Goldspire's daughter and heir, who runs the Spire Floor while her father runs his mouth, and is better with numbers than anyone in Goldwind but the First Reckoner.",
+  "facts": [
+   [
+    "Family",
+    "Goldspire, the Price-Callers, of the Twelve Flags"
+   ],
+   [
+    "Father",
+    "Horace Goldspire"
+   ],
+   [
+    "Runs",
+    "the Spire Floor of the Goldspire Exchange"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Price-Callers' heir",
+    "paragraphs": [
+     "The Goldspire Exchange stands on Goldwind's middle ring, and every Coinsday the Flag Table on its Spire Floor calls the board-price that every factor in the islands quotes for months afterward. Horace Goldspire announces it. Celestine works it out.",
+     "She is dry, tired, and better with numbers than anyone in Goldwind but First Reckoner Maera Blackstrand. The floor knows who is really calling the price."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Celestine checks the board-price twice. Her father announces it once, loudly.” (a Spire Floor runner)",
+     "“She has started asking who has been buying her father's paper.” (a Congress factor)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkdvbGRzcGlyZSBpcyBpbnNvbHZlbnQuKiogVGhlIEV4Y2hhbmdlJ3Mgb3duIHBvc3QtYm9uZCBpcywgaW4gdHJ1dGgsIEJsYWNrc3RyYW5kIG1vbmV5LCBhbmQgTWFlcmEgaG9sZHMgZW5vdWdoIEdvbGRzcGlyZSBwYXBlciB0byBjbG9zZSB0aGUgZmxvb3IgYW55IENvaW5zZGF5IHNoZSBjaG9vc2VzLiIsICIqKlRoZSBzbWFsbC1sb3QgYnV5ZXIqKiBjb2xsZWN0aW5nIEdvbGRzcGlyZSBkZWJ0IGFjcm9zcyBzaXggcG9ydHMgaXMgdGhlIENoYXJ0ZXJob3VzZSBDb21wYW55LCB0aHJvdWdoIEhvdXNlIFphbmUsIEdvbGRzcGlyZSdzIG93biBiYW5uZXJtYW4uIl19"
+   }
+  ],
+  "related": [
+   "horace-goldspire",
+   "twelve-flags",
+   "reckoners-hall",
+   "maera-blackstrand",
+   "vesper-zane"
+  ],
+  "aliases": [],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "vesper-zane",
+  "title": "Vesper Zane",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "A banneret who wants a post",
+  "summary": "The head of House Zane, a Heartland banneret of middling fortune bound to Goldspire by debt, who wants a post of his own on the Spire Floor and does not hide it well.",
+  "facts": [
+   [
+    "House",
+    "Zane, a Heartland banneret"
+   ],
+   [
+    "Bound to",
+    "House Goldspire, by debt"
+   ],
+   [
+    "Wants",
+    "a post of his own on the Spire Floor"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Ambition, badly hidden",
+    "paragraphs": [
+     "House Zane serves Goldspire because it owes Goldspire. Vesper Zane would like that to be the other way round. He dresses better than his income, buys rounds he cannot afford at the coffee-houses, and asks the Flags about vacant posts as if he were only curious."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Zane has been seen in six ports this year, and he is not a man who likes the sea.” (a Silverport harbor-clerk)",
+     "“He paid for supper at the Black Cup with a reckoning drawn on a house that does not like him.” (a Black Cup waiter)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkhlIGlzIHRoZSBDb21wYW55J3MgYnV5ZXIuKiogVGhlIENoYXJ0ZXJob3VzZSBDb21wYW55IGJ1eXMgR29sZHNwaXJlIGRlYnQgaW4gc21hbGwgbG90cyBhY3Jvc3Mgc2l4IHBvcnRzIHRocm91Z2ggSG91c2UgWmFuZSwgYW5kIEltZWxkYSBSb3F1ZSBoYXMgcHJvbWlzZWQgVmVzcGVyIGEgcG9zdCBvZiBoaXMgb3duLiBJZiB0aGUgQ29tcGFueSBob2xkcyBlbm91Z2ggR29sZHNwaXJlIHBhcGVyLCBpdCB3aWxsIG93biB0aGUgZmxvb3IgdGhhdCByZWZ1c2VzIHRvIHNlYXQgaXQuIl19"
+   }
+  ],
+  "related": [
+   "twelve-flags",
+   "celestine-goldspire",
+   "horace-goldspire",
+   "charterhouse-company"
+  ],
+  "aliases": [
+   "House Zane"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "tidecaller-corisande-lark",
+  "title": "Tidecaller Corisande Lark",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The Sea-Gate's Tidecaller",
+  "summary": "The Concord Tidecaller of the Sea-Gate chapel in Goldwind's harbor quarter: a former Armada surgeon's mate, practical, kind, and stubborn past all sense.",
+  "facts": [
+   [
+    "Chapel",
+    "the Sea-Gate, Goldwind's harbor quarter"
+   ],
+   [
+    "Faith",
+    "the Concord"
+   ],
+   [
+    "Age",
+    "forty-one"
+   ],
+   [
+    "Before",
+    "an Armada surgeon's mate"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "At the Sea-Gate",
+    "paragraphs": [
+     "The Sea-Gate chapel serves the harbor quarter: sailors, dockhands, and the drowned. Its Tidecaller learned her trade on the orlop deck of an Armada frigate before she learned her prayers, and she still sets a bone faster than she blesses one.",
+     "She is practical and kind, and stubborn past all sense. The harbor quarter brings her its sick and its dying, and she sits with them."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Sea-Gate's Tidecaller sat with a dying sailor all night and came out white as salt. She hasn't said what he told her.” (a harbor-quarter washerwoman)",
+     "“She's been writing letters to the high council. The letters keep not arriving.” (a Goldwind post-chest clerk)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoZSBoZWFyZCB0aGUgSHVtKiogaW4gYSBkeWluZyBzYWlsb3IncyBjaGVzdC4gU2hlIGhhcyB3cml0dGVuIHRvIHRoZSBDb25jb3JkJ3MgaGlnaCBjb3VuY2lsIHR3aWNlOyBib3RoIGxldHRlcnMgd2VyZSBvcGVuZWQgYnkgdGhlIEJsYWNrIENvYXRzLiBUaGUgdGhpcmQsIHNoZSBpcyBjYXJyeWluZyBoZXJzZWxmLiJdfQ=="
+   }
+  ],
+  "related": [
+   "concord",
+   "goldwind",
+   "ondrel-greywake"
+  ],
+  "aliases": [
+   "Corisande Lark"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "hera-seaworth",
+  "title": "Hera Seaworth",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "The Blackstrand who sails under another name",
+  "summary": "A figure of her own in the islands' maritime trade, and Sabin Blackstrand by birth: First Reckoner Maera Blackstrand's niece. The family does not explain why she uses another name at sea.",
+  "facts": [
+   [
+    "Born",
+    "Sabin Blackstrand"
+   ],
+   [
+    "Kin",
+    "niece of First Reckoner Maera Blackstrand"
+   ],
+   [
+    "Trade",
+    "cargoes and ships"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Two names",
+    "paragraphs": [
+     "On the docks she is Hera Seaworth, a captain and trader with a reputation of her own. In House Blackstrand's book she is Sabin, Maera's niece. The family does not explain the second name, and Hera does not answer questions about the first."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Hera Seaworth will carry anything for anyone, except a reckoning drawn on the Hall.” (a Stormreach factor)",
+     "“Ask her about her aunt and the conversation is over.” (a Silverport chandler)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBvbmUgZXJhc3VyZS4qKiBUaGUgcmVkIHN0YWluIGluIHRoZSBMZWRnZXIgaXMgU2FiaW4gQmxhY2tzdHJhbmQncyBuYW1lLiBBdCBuaW5ldGVlbiBzaGUgYm9ycm93ZWQgZnJvbSBoZXIgb3duIGZhbWlseSdzIEhhbGwsIGxvc3QgdGhlIGNhcmdvLCBhbmQgd2VudCBpbnRvIHRoZSBMZWRnZXIgb24gdGhlIHRoaXJkIENvaW5zZGF5IGxpa2UgYW55b25lIGVsc2UuIE1hZXJhIHRyaWVkIHRvIGVyYXNlIHRoZSBsaW5lLCB0aGUgb25seSB0aW1lIGEgRmlyc3QgUmVja29uZXIgaGFzIHRyaWVkLCBhbmQgbGVkZ2VyIGluayBzaG93ZWQgaXQuIFNhYmluIGhhcyBzYWlsZWQgYXMgSGVyYSBTZWF3b3J0aCBldmVyIHNpbmNlLCBhbmQgaGFzIG5ldmVyIGZvcmdpdmVuIGhlciBhdW50IGZvciB0aGUga2luZG5lc3MuIl19"
+   }
+  ],
+  "related": [
+   "house-blackstrand",
+   "maera-blackstrand",
+   "reckoners-hall"
+  ],
+  "aliases": [
+   "Sabin Blackstrand"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "ottar-glimm",
+  "title": "Ottar Glimm",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The engraver of drowned Anchors",
+  "summary": "The master engraver of the Mint-in-the-Mire, the Duskmire coiners whose drowned Anchors are so good the Charter Mint has twice bought them back by mistake. A gnome of terrible genius and worse temper.",
+  "facts": [
+   [
+    "Works for",
+    "the Mint-in-the-Mire"
+   ],
+   [
+    "Where",
+    "Duskmire Haven, the misty fen near Goldwind"
+   ],
+   [
+    "Makes",
+    "drowned Anchors"
+   ],
+   [
+    "Temper",
+    "worse than his genius is good"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Mint-in-the-Mire",
+    "paragraphs": [
+     "A drowned Anchor sells for three real Tides, and Ottar Glimm's are the best ever struck. Collectors swear the only way to tell them from the Mint's is the loop of cable on the anchor's shank, which the forgeries tie the wrong way, very slightly."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The newest drowned Anchors carry a face nobody recognizes. It isn't an engraver's mistake. Glimm doesn't make mistakes.” (a Duskmire fence)",
+     "“Glimm once threw a die-press at a man for calling his work counterfeit. He prefers ‘second edition.’” (a Gilt Hands fence)"
+    ]
+   }
+  ],
+  "related": [
+   "duskmire-haven",
+   "charter-mint",
+   "undertow",
+   "coinage"
+  ],
+  "aliases": [],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "old-pell",
+  "title": "Old Pell",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The fastest hands in Goldwind",
+  "summary": "A halfling grandmother who teaches the Gilt Hands, the pickpockets and fences of Goldwind's harbor, and has the fastest hands in the city.",
+  "facts": [
+   [
+    "Teaches",
+    "the Gilt Hands"
+   ],
+   [
+    "Where",
+    "Goldwind's Sovereign Harbor and the Commons"
+   ],
+   [
+    "Kind",
+    "a halfling grandmother"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Gilt Hands",
+    "paragraphs": [
+     "Pickpockets and fences, mostly children and the very old, taught by Old Pell. They fence half the harbor's stolen goods. Even the Gilt Hands keep the Keeping, and none of them will lift a purse at the temple on Restday."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“If your purse is gone and you never felt a thing, go and ask Old Pell nicely. Bring cake.” (a Goldwind watchman)",
+     "“She can take the ring off your finger while she shakes your hand, and give it back before you let go.” (a Sovereign Harbor ferryman)"
+    ]
+   }
+  ],
+  "related": [
+   "goldwind",
+   "undertow"
+  ],
+  "aliases": [],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "granny-ylva-skerrow",
+  "title": "Granny Ylva Skerrow",
+  "category": "folk",
+  "region": "Icy Expanse",
+  "subtitle": "The False Lights",
+  "summary": "The head of the Skerrow clan, the False Lights of Crystalhaven: wreckers who hang false lanterns to lure ships onto the ice. She knits beautifully, and has drowned more sailors than the Long Night.",
+  "facts": [
+   [
+    "Leads",
+    "the False Lights, the Skerrow clan"
+   ],
+   [
+    "Where",
+    "Crystalhaven and the blue-ice coasts"
+   ],
+   [
+    "Known for",
+    "her knitting, and her lanterns"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The False Lights",
+    "paragraphs": [
+     "The False Lights are the dark mirror of the Answering Light, and the reason southern captains say *not every kind coast is kind.* They hang lanterns where no harbor is, wait for the ice to do its work, and strip the wrecks."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A coast answered our lantern with three lights in a row, the old way. The captain stood off till dawn. He was right.” (an Expanse sealer)",
+     "“Every Skerrow child gets a scarf from Granny. You can tell a Skerrow by the pattern.” (a Frosthold widow)"
+    ]
+   }
+  ],
+  "related": [
+   "crystalhaven",
+   "lighthouses",
+   "undertow",
+   "icy-expanse"
+  ],
+  "aliases": [
+   "the False Lights",
+   "the Skerrows"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "taelon-stormrider",
+  "title": "Grand Admiral Taelon Stormrider",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "The first Grand Admiral",
+  "summary": "The first Grand Admiral of the Kalvatar Archipelago Navy, who bound the islands' scattered navies into one fleet under one flag.",
+  "facts": [
+   [
+    "Rank",
+    "Grand Admiral, the first"
+   ],
+   [
+    "Founded",
+    "the Armada, in the first years of settlement"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "One fleet under one flag",
+    "paragraphs": [
+     "The Armada was born in the first years of settlement, when the island communities pooled their ships against pirates, sea-beasts, and each other's raids. Taelon Stormrider bound those scattered navies into one fleet under one flag."
+    ]
+   },
+   {
+    "title": "The names the Armada toasts",
+    "paragraphs": [],
+    "list": [
+     "**Grand Admiral Taelon Stormrider,** the first.",
+     "**Ship-Lord Lyanna Seaborn,** whose victories against the pirate fleets are taught in every wardroom.",
+     "**Commodore Orin Thalas,** who rebuilt the Armada's ships and gear and gave it the best-drilled, best-armed hulls in the islands.",
+     "**Fleetlord Larissa Whitewave,** the first admiral to rise from the lower deck."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The first toast in any wardroom is to Stormrider. The second is to whoever is buying.” (an Armada midshipman)"
+    ]
+   }
+  ],
+  "related": [
+   "armada",
+   "nine-fleets",
+   "larissa-whitewave"
+  ],
+  "aliases": [
+   "Taelon Stormrider"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "larissa-whitewave",
+  "title": "Fleetlord Larissa Whitewave",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "The first admiral from the lower deck",
+  "summary": "The first admiral to rise from the lower deck, and one of the two who rowed out between the lines at the Breakwater in 91 EC.",
+  "facts": [
+   [
+    "Rank",
+    "Fleetlord"
+   ],
+   [
+    "Rose from",
+    "a Hand on the lower deck"
+   ],
+   [
+    "Remembered for",
+    "the Breakwater, 91 EC"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "From the lower deck",
+    "paragraphs": [
+     "She signed on as a Hand, earned her coat, and ended her life with a fleet. Since her day no door in the Armada has been closed to the Blooded."
+    ]
+   },
+   {
+    "title": "The Breakwater",
+    "paragraphs": [
+     "In 91 EC, in the second year of the Plague of the Burning Sea, an Armada squadron holding Easthold's harbor closed under a Council writ and a Hunter crew bringing in eleven ships of quarantined survivors met in the fog. A refugee ship drifted across the line, a frightened gun crew fired, and the harbor mouth burned.",
+     "It stopped when Larissa Whitewave and Odran Halloway rowed out together in a single boat between the lines, with no weapons and no colors, and ordered both sides to stand down. Thirty-one died. Every year the Wargames end with the reading of their names."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Every new Hand touches her name on the wardroom board before their first watch. Officers pretend not to see.” (an Armada bosun)"
+    ]
+   }
+  ],
+  "related": [
+   "breakwater",
+   "armada",
+   "odran-halloway",
+   "taelon-stormrider",
+   "plague-of-the-burning-sea"
+  ],
+  "aliases": [
+   "Larissa Whitewave"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "odran-halloway",
+  "title": "Odran Halloway",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "The Hunter in the boat",
+  "summary": "The Gold Hunter who stood first in the Ranking in 91 EC, and who rowed out with Fleetlord Larissa Whitewave to stop the Breakwater.",
+  "facts": [
+   [
+    "Rank",
+    "Gold, first in the Ranking in 91 EC"
+   ],
+   [
+    "Remembered for",
+    "the Breakwater, 91 EC"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The boat",
+    "paragraphs": [
+     "At the Breakwater both sides held sealed, lawful orders: the Armada to keep every southern hull out of Easthold's harbor, the Hunters to bring eleven ships of quarantined survivors in. Odran Halloway carried an admiral's authority among the Hunters that year. When the harbor mouth was burning, he and the Fleetlord rowed out together, unarmed and without colors, and both sides stood down.",
+     "The survivors were brought in and found healthy. Out of that night came the Breakwater Protocols and the Wargames, so that the Armada and the Hunters would never again meet as strangers."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Halloway never told the story. Whitewave told it for him, every year, at the Wargames.” (an old Lodge Chronicler)"
+    ]
+   }
+  ],
+  "related": [
+   "breakwater",
+   "hunters",
+   "larissa-whitewave"
+  ],
+  "aliases": [],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "faelen-wolf",
+  "title": "Faelen Wolf",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "The Wolf of the Serpents",
+  "summary": "Commander of the Sea Serpents, the Armada's naval commandos, who serve under the Black Coats.",
+  "facts": [
+   [
+    "Commands",
+    "the Sea Serpents"
+   ],
+   [
+    "Serves under",
+    "the Black Coats"
+   ],
+   [
+    "Called",
+    "the Wolf of the Serpents"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Sea Serpents",
+    "paragraphs": [
+     "The Armada's naval commandos: covert operations, reconnaissance, and unconventional war, trained harder than any line crew. They serve under the Black Coats, and the Wolf of the Serpents commands them. Few sailors could pick Faelen Wolf out of a crowd, which is the point."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“If you ever meet a Sea Serpent, you won't know it. If you know it, it's because he wanted you to.” (an Armada gunner)",
+     "“The Wolf swims the harbor chain at Goldwind every dawn, in every season.” (a Sentinel Docks watchman)"
+    ]
+   }
+  ],
+  "related": [
+   "armada",
+   "coats-and-ranks-of-the-armada",
+   "the-shroud"
+  ],
+  "aliases": [
+   "the Wolf of the Serpents"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "sharin-bloodblade",
+  "title": "Sharin Bloodblade",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "Blackheart's most merciless lieutenant",
+  "summary": "Admiral Blackheart's most feared lieutenant, never found after the Kraken's Maw.",
+  "facts": [
+   [
+    "Served",
+    "Admiral Blackheart"
+   ],
+   [
+    "Last seen",
+    "the Kraken's Maw, 165 EC"
+   ],
+   [
+    "Body",
+    "never found"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Bloodblade",
+    "paragraphs": [
+     "Of all the captains of Blackheart's armada, the Coalition feared Sharin Bloodblade most. At the Kraken's Maw Blackheart fell and his armada broke. Shade Serpentfang escaped into the night. The infamous Sharin Bloodblade was never found.",
+     "Whether Blackheart's surviving lieutenants still live among the Remnants is one of the open and dangerous questions of the southern sea."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Bloodblade drowned at the Maw. Everyone says so. Nobody has ever said who saw it.” (an old Maw sailor)",
+     "“Seren Blackheart has her father's flag and somebody else's eyes.” (a Hollowkey fence)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoYXJpbiBCbG9vZGJsYWRlIGlzIGFsaXZlLCoqIGFuZCBvbmx5IGhlciBkYXVnaHRlciBrbm93cyBpdC4gU2hlIGFuZCBCbGFja2hlYXJ0IGtlcHQgU2VyZW4ncyBleGlzdGVuY2Ugc28gc2VjcmV0IHRoYXQgdGhlIENvYWxpdGlvbiBuZXZlciBrbmV3IHRoZSBwaXJhdGUtbG9yZCBoYWQgYW4gaGVpci4gU2hhcmluIHN1cnZpdmVkIHRoZSBNYXcgYW5kIHJhaXNlZCBTZXJlbiBpbiBoaWRpbmcuIFdoYXQgc2hlIGlzIGRvaW5nIG5vdywgYW5kIHdoYXQgc2hlIHdhbnRzLCBpcyBTZXJlbidzIGFsb25lIHRvIHJldmVhbDogYSBibGFkZSBoZWxkIGluIHJlc2VydmUsIGFuZCBhIGxldmVyIGZvciBhbnlvbmUgd2hvIGV2ZXIgbGVhcm5lZCB0aGUgdHJ1dGguIl19"
+   }
+  ],
+  "related": [
+   "admiral-blackheart",
+   "krakens-maw",
+   "seren-blackheart-the-last-smile",
+   "free-tide",
+   "shade-serpentfang"
+  ],
+  "aliases": [
+   "the Bloodblade"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "shade-serpentfang",
+  "title": "Shade Serpentfang",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "The venom-bladed lieutenant",
+  "summary": "Blackheart's venom-bladed lieutenant, who cut down Captain Magnus of the Sledgehammer at the Kraken's Maw and escaped into the night. He is the Last Smile's right hand now.",
+  "facts": [
+   [
+    "Served",
+    "Admiral Blackheart"
+   ],
+   [
+    "Serves",
+    "Seren Blackheart, the Last Smile"
+   ],
+   [
+    "Blade",
+    "venomed"
+   ],
+   [
+    "Killed",
+    "Captain Magnus of the Sledgehammer, at the Kraken's Maw"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "At the Maw",
+    "paragraphs": [
+     "In the Battle of the Kraken's Maw, the legendary Hunter Captain Magnus of the *Sledgehammer* was cut down in a duel by Blackheart's venom-bladed lieutenant, Shade Serpentfang. Magnus's son Leoric took command of the *Sledgehammer* mid-battle and fought on. When Blackheart fell, Serpentfang escaped into the night."
+    ]
+   },
+   {
+    "title": "Now",
+    "paragraphs": [
+     "He served the father. He serves the daughter now: Seren Blackheart's right hand, wherever the pale crescent flies."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Serpentfang doesn't drink, doesn't gamble, and doesn't look at anyone but her.” (a Free Tide deckhand)",
+     "“He keeps the blade that killed Magnus, and he has never once cleaned the venom off it.” (a Hollowkey armorer)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkl0IGlzIG5vdCBsb3lhbHR5LiBJdCBpcyBvYnNlc3Npb24uKiogU2VycGVudGZhbmcgaXMgaW4gbG92ZSB3aXRoIFNlcmVuLCBoZWxwbGVzc2x5LCBkYW5nZXJvdXNseSwgY29tcGxldGVseSwgYW5kIGhlIHdvdWxkIGJ1cm4gdGhlIGFyY2hpcGVsYWdvIHRvIHRoZSB3YXRlcmxpbmUgYXQgYSB3b3JkIGZyb20gaGVyLiBUaGF0IG1ha2VzIGhpbSBoZXIgcGVyZmVjdCB3ZWFwb24gYW5kIGhlciBvbmUgdHJ1ZSBibGluZCBzcG90OiBoaXMgZGV2b3Rpb24gaXMgYWJzb2x1dGUsIGhpcyBqZWFsb3VzeSBpcyBhIGxpdmUgYmxhZGUsIGFuZCBhbnlvbmUgd2hvIGxlYXJuZWQgdG8gcGxheSBvbiBlaXRoZXIgY291bGQgdHVybiB0aGUgTGFzdCBTbWlsZSdzIGRlYWRsaWVzdCBrbmlmZSBhZ2FpbnN0IGhlci4iXX0="
+   }
+  ],
+  "related": [
+   "seren-blackheart-the-last-smile",
+   "free-tide",
+   "krakens-maw",
+   "captain-magnus-and-leoric",
+   "admiral-blackheart"
+  ],
+  "aliases": [
+   "Serpentfang"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "sister-smoke",
+  "title": "Sister Smoke",
+  "category": "folk",
+  "region": "Southern Wilds",
+  "subtitle": "Half crook, half hero",
+  "summary": "Lumai Okonja, called Sister Smoke, who leads the Blackleaf Runners: smugglers of untaxed southleaf and coffee around the Charterhouse Company's licenses, who also smuggle the Company's indentured workers out.",
+  "facts": [
+   [
+    "Name",
+    "Lumai Okonja"
+   ],
+   [
+    "Leads",
+    "the Blackleaf Runners"
+   ],
+   [
+    "Where",
+    "Southhaven's plantations and the river-ports"
+   ],
+   [
+    "Wanted by",
+    "the Charterhouse Company"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Blackleaf Runners",
+    "paragraphs": [
+     "Smugglers of untaxed southleaf and coffee who go around the Charterhouse Company's licenses, and who also smuggle the Company's indentured workers out of its towns. Half crooks, half heroes, entirely wanted.",
+     "The Chainbreakers want an alliance with her. The Company wants her head."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“You can get out of a Company town for free, if Sister Smoke likes your face.” (a Southhaven dock-hand)",
+     "“She needs a ship that can outrun a Company cutter, for one night, with forty people in the hold.” (heard in a Southhaven stillhouse)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoZSBpcyBPcnVtYSBraW4sKiogVmV5YW5pIE9ydW1hJ3MgbmllY2UuIFRoZSBPcnVtYSBjYW5vZXMgY2FycnkgdGhlIHdvcmtlcnMgdGhlIFJ1bm5lcnMgZnJlZSBvdXQgb2YgdGhlIENvbXBhbnkgdG93bnMsIHVwcml2ZXIsIHRvIENvbmZlZGVyYWN5IHZpbGxhZ2VzIHRoYXQgaGlkZSB0aGVtLiBJZiB0aGUgQ29tcGFueSBwcm92ZXMgaXQsIGl0IGhhcyBpdHMgcHJldGV4dCB0byBzZWl6ZSB0aGUgTmluZSBNb3V0aHMsIGFuZCB0aGUgcml2ZXItZ29sZCB3aXRoIGl0LiJdfQ=="
+   }
+  ],
+  "related": [
+   "charterhouse-company",
+   "southhaven",
+   "southern-movements",
+   "undertow"
+  ],
+  "aliases": [
+   "Lumai Okonja"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "rovan-ashkar",
+  "title": "Rovan Ashkar",
+  "category": "folk",
+  "region": "Southern Wilds",
+  "subtitle": "The Tempest of the South",
+  "summary": "One of the most dangerous warlords in Kalvatar: Lord Protector of Vaelor, master of the islands he took after the Kraken's Maw, and a man the Armada would rather leave alone.",
+  "facts": [
+   [
+    "Known as",
+    "the Tempest of the South"
+   ],
+   [
+    "Title",
+    "Lord Protector of Vaelor; never crowned"
+   ],
+   [
+    "Seat",
+    "Stormwatch Keep"
+   ],
+   [
+    "Holds",
+    "several islands taken after the Kraken's Maw"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Tempest of the South",
+    "paragraphs": [
+     "Rovan Ashkar governs several islands he conquered after the Kraken's Maw. The Armada avoids intervening in his territory, the Hunters have no real authority there, and the great houses treat him with extreme caution.",
+     "He is Lord Protector of Vaelor. He has never been crowned."
+    ]
+   },
+   {
+    "title": "As he is seen",
+    "paragraphs": [],
+    "list": [
+     "About forty, with very dark hair going grey and eyes the grey of a storm.",
+     "Scars, and a dark uniform with no insignia on it.",
+     "A single sword."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Blackheart wanted him at the Kraken's Maw. He said no, and Blackheart let it go. Blackheart let nothing go.” (an old Maw sailor)",
+     "“The Hunters' writ ends where his waters begin. Nobody ever wrote that down. Everybody knows it.” (a Southhaven Lodge clerk)"
+    ]
+   }
+  ],
+  "related": [
+   "krakens-maw",
+   "southern-wilds",
+   "armada",
+   "hunters"
+  ],
+  "aliases": [
+   "the Tempest of the South"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "theomar-vol-sunessi",
+  "title": "Emperor Theomar Vol Sunessi",
+  "category": "folk",
+  "region": "All regions",
+  "subtitle": "The Twelfth Sun",
+  "summary": "The Emperor of the Korvan Imperium, the Sun on Earth: a cold, patient man who has ruled from the Sun-Throne for forty-one years, has twelve legitimate children, and has not named an heir.",
+  "facts": [
+   [
+    "Title",
+    "Emperor, the Sun on Earth"
+   ],
+   [
+    "Called",
+    "the Twelfth Sun"
+   ],
+   [
+    "Reign",
+    "forty-one years"
+   ],
+   [
+    "Age",
+    "seventy-one"
+   ],
+   [
+    "Seat",
+    "the Sun-Throne, Korvantis"
+   ],
+   [
+    "Heir",
+    "not yet named"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Twelfth Sun",
+    "paragraphs": [
+     "His word is law beyond appeal. Theomar Vol Sunessi is cold and patient, the master of his court and his Host, and he has ruled for forty-one years. He is seventy-one. The rumor in Castia is that he is dying."
+    ]
+   },
+   {
+    "title": "The succession",
+    "paragraphs": [
+     "The Vol Sunessi do not crown the eldest. Near the end of his reign the Emperor names his heir from among his twelve legitimate children, and until he does, the children circle one another. The court calls them the Twelve Rays.",
+     "His bastards are barred from the throne and make superb, deniable agents. The court does not count them. The court should."
+    ]
+   },
+   {
+    "title": "And the islands",
+    "paragraphs": [
+     "The Imperium the Exodus fled does not press Kalvatar with open fleets, but through coin and cult: the Rankar Corporation, the Inquisition's cells, and imperial gold under half the Undertow."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“He will name the youngest, to spite them all.” (the court's rumor)",
+     "“He has named his heir already. The name is in a sealed box, and the box is in the worst possible hands.” (a Castia scrivener)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBFbXBlcm9yIGlzIGR5aW5nLCBhbmQgaGUgaGFzIGFscmVhZHkgY2hvc2VuLioqIFRoZSBuYW1lIGlzIHNlYWxlZCBpbiB0aGUgTWF1ZGFuIFBhbGFjZSwgaW4gR2hyYWwncyBrZWVwaW5nLCBhbmQgaXQgaXMgbm90IG9uZSBhbnkgb2YgdGhlIFJheXMgZXhwZWN0LiIsICIqKkphbnVzIFJ1bmUgaXMgb25lIG9mIGhpcyBiYXN0YXJkcywqKiByYWlzZWQgaW4gdGhlIE1hdWRhbiBQYWxhY2UgYW5kIHRyYWluZWQgYnkgdGhlIElucXVpc2l0aW9uLiJdfQ=="
+   }
+  ],
+  "related": [
+   "assios-and-the-wider-world",
+   "twelve-rays",
+   "ghral",
+   "janus-rune"
+  ],
+  "aliases": [
+   "Theomar Vol Sunessi",
+   "the Twelfth Sun",
+   "Emperor Theomar"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "twelve-rays",
+  "title": "The Twelve Rays",
+  "category": "power",
+  "region": "All regions",
+  "subtitle": "The Emperor's twelve children",
+  "summary": "The twelve legitimate children of Emperor Theomar Vol Sunessi, numbered by birth, who circle one another until he names his heir.",
+  "facts": [
+   [
+    "How many",
+    "twelve, numbered by birth"
+   ],
+   [
+    "Heir",
+    "not yet named"
+   ],
+   [
+    "Barred",
+    "the Emperor's bastards"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Who they are",
+    "paragraphs": [
+     "The Vol Sunessi do not crown the eldest. The Emperor names his heir from among his children near the end of his reign, and until he does, the court calls them the Twelve Rays and watches them circle. Half of them chose the Thunder Princes' pair of colleges at Berith."
+    ]
+   },
+   {
+    "title": "The Rays",
+    "paragraphs": [],
+    "list": [
+     "**First, Ardric.** Margrave of Grimmfaust, commander of the Iron Marches. The Host's choice; he thinks the throne is owed to him.",
+     "**Second, Vessaline.** Chancellor of the Sun-Throne: the purse, the seals, and the court. Nothing moves in Korvantis without her knowing.",
+     "**Third, Draegan.** Sol-sworn, in the Inquisition's Inner Circle. The only Ray the Grand Inquisitor listens to.",
+     "**Fourth, Isembeth.** Grand Admiral of the Iron Fleet at Skadrel. The Ray who looks south, at the islands.",
+     "**Fifth, Marrec.** Master of the Forge-Lands. He builds what the others break.",
+     "**Sixth, Velantha.** Professor at Er Ingenis, the Gearworks, on Berith. The court's scandal: she teaches non-humans.",
+     "**Seventh, Kestrian.** The Southern Hand: the Imperium's policy toward Kalvatar. Janus Rune reports to him.",
+     "**Eighth, Liadra.** Envoy to the Free Cities, at Castia. She sells to the enemy, and the Imperium needs her to.",
+     "**Ninth, Ivren.** Vanished at Hollin's Cross in 172 EC. Dead, the court says. Nobody has found the body.",
+     "**Tenth, Lioren.** Sixteen, and holds nothing yet. The Emperor's favorite, and everyone's piece.",
+     "**Eleventh, Ondessa.** War-Count of Drakengarde, the youngest in the Host. She took Hollin's Cross, and Ardric has not forgiven her for it.",
+     "**Twelfth, Aldren.** A sickly boy of nine. The rumor is the Emperor will name the youngest, to spite them all."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“When the old man dies, the Rays go to war: in the court first, and then everywhere.” (a Castia printer)",
+     "“Ivren isn't dead. Dead princes leave bodies.” (a deserter at Black Harbor)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkl2cmVuIGxpdmVzLioqIFRoZSBOaW50aCBSYXkgbGl2ZXMgaW4gdGhlIGlzbGFuZHMgYXMgSGFsIFJlc3NpY2ssIGNvb2sgdG8gYSBCcm9uemUgY3Jldy4iLCAiKipKYW51cyBSdW5lIGFuc3dlcnMgdG8gS2VzdHJpYW4sKiogdGhlIFNldmVudGggUmF5LCBhbmQgaXMgb25lIG9mIHRoZSBFbXBlcm9yJ3MgYmFzdGFyZHMuIiwgIioqVGhyZWUgYmFyb25zIHRha2UgVmVzc2FsaW5lJ3MgbW9uZXkuKioiLCAiKipXaGVuIHRoZSBuYW1pbmcgY29tZXM6KiogQXJkcmljIHdpbGwgaGF2ZSB0aGUgSG9zdCBiZWhpbmQgaGltOyBWZXNzYWxpbmUgdGhlIHB1cnNlIGFuZCB0aGUgdGhyZWUgYmFyb25zJyBsZXR0ZXJzOyBEcmFlZ2FuIHRoZSBJbnF1aXNpdGlvbiwgaWYgR2hyYWwgYWxsb3dzIGl0LiBLZXN0cmlhbiB3aWxsIHdhbnQgS2FsdmF0YXIgZGVsaXZlcmVkIGJlZm9yZSB0aGUgbmFtaW5nLCBhcyBwcm9vZiB0aGF0IGhpcyBwb2xpY3kgd29ya3MsIGFuZCB3aWxsIHB1c2ggSmFudXMgUnVuZSB0byBkbyBzb21ldGhpbmcgbG91ZC4gVmVsYW50aGEgd2lsbCB3YW50IEl2cmVuIGZvdW5kLCBhbGl2ZSwgYW5kIHdpbGwgYWxseSB3aXRoIGFueW9uZSB3aG8gY2FuIGRvIGl0LCBpc2xhbmRlcnMgaW5jbHVkZWQuIFRoZSBzZWFsZWQgbmFtZSBpbiB0aGUgTWF1ZGFuIFBhbGFjZSBpcyB0aGUgb25lIHRoaW5nIG5vbmUgb2YgdGhlbSBoYXZlIHBsYW5uZWQgZm9yLiJdfQ=="
+   }
+  ],
+  "related": [
+   "theomar-vol-sunessi",
+   "assios-and-the-wider-world",
+   "janus-rune",
+   "ghral"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "ghral",
+  "title": "Ghral",
+  "category": "folk",
+  "region": "All regions",
+  "subtitle": "The Grand Inquisitor",
+  "summary": "The gold dragon who leads the Korvan Imperium's Inquisition from the Maudan Palace. A thousand years ago he claimed the dragonborn clans as his kin.",
+  "facts": [
+   [
+    "Office",
+    "Grand Inquisitor of the Korvan Imperium"
+   ],
+   [
+    "Seat",
+    "the Maudan Palace"
+   ],
+   [
+    "Soldiers",
+    "the Gilded Scales"
+   ],
+   [
+    "Kind",
+    "a gold dragon"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Inquisition",
+    "paragraphs": [
+     "The Inquisition is the militant creed of human supremacy and forced registration. Its cells in Kalvatar hunt heretics, rogue mages, and the non-human, working through and against the Concord, and the two faiths despise each other.",
+     "Ten High Inquisitors serve under Ghral, each with a title: Alistair, the Untouchable Spear of Justice; Elric Von Gainer, the Watchful Judge; Joshua Eifman, the Ten Swords; Marina Alis Doraleon, the Gentle Palm; Gerard Strauss, the Virtuoso; Irina Donner, the Iron Fist; Vaclaf, the Bloodhound; Andros, the Ashbringer; and two more."
+    ]
+   },
+   {
+    "title": "The Gilded Scales",
+    "paragraphs": [
+     "A thousand years ago Ghral claimed the dragonborn clans as his kin. Those who swore to him serve as the Gilded Scales, the Inquisition's own soldiers. The clans who would not swear became the Bound, or fled. That is why the islands' dragonborn are eyed as imperial wherever they go, and why so many of them strip the old insignia and wear the stitch-marks proudly."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Every cell in the islands sends its reports north. Ghral reads them all, and he remembers the names.” (a Frontier priest of the Concord)",
+     "“Draegan is the only Ray he listens to. Draegan has never once disagreed with him.” (a Castia scrivener)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBoZWlyJ3MgbmFtZSBpcyBpbiBoaXMga2VlcGluZy4qKiBUaGUgRW1wZXJvciBoYXMgYWxyZWFkeSBjaG9zZW47IHRoZSBuYW1lIGlzIHNlYWxlZCBpbiB0aGUgTWF1ZGFuIFBhbGFjZSwgaW4gR2hyYWwncyBrZWVwaW5nLCBhbmQgaXQgaXMgbm90IG9uZSBhbnkgb2YgdGhlIFJheXMgZXhwZWN0LiJdfQ=="
+   }
+  ],
+  "related": [
+   "assios-and-the-wider-world",
+   "dragonborn",
+   "theomar-vol-sunessi",
+   "twelve-rays",
+   "elric-von-gainer",
+   "concord"
+  ],
+  "aliases": [
+   "the Grand Inquisitor"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "janus-rune",
+  "title": "Janus Rune",
+  "category": "folk",
+  "region": "All regions",
+  "subtitle": "The Imperium's hand in the islands",
+  "summary": "The name behind the imperial gold that moves through the islands' underworld: the Korvan Imperium's agent in Kalvatar, who reports, the court says, to the Southern Hand.",
+  "facts": [
+   [
+    "Serves",
+    "Kestrian, the Seventh Ray, the Southern Hand"
+   ],
+   [
+    "Works through",
+    "the Rankar Corporation, and gold"
+   ],
+   [
+    "Face",
+    "nobody agrees on one"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The name",
+    "paragraphs": [
+     "The Imperium does not press Kalvatar with open fleets. It pays. Its paymasters, through the Rankar Corporation and the agent called Janus Rune, fund half the Undertow without most of it knowing: dark glass flows north to the continent, and the gold that pays for it is imperial.",
+     "The Black Coats would pay a great deal for his face. Nobody they have asked agrees on one."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Janus Rune isn't one man. It's a name they hand to whoever is holding the purse this year.” (a Black Harbor fence)",
+     "“He has a man aboard a Corvane packet. Which one, nobody knows.” (a Sentinel Docks sorter)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldobyBoZSBpcy4qKiBUaGFuIFNvbCBWYWwgU2VucmlrLCBvbmUgb2YgdGhlIEVtcGVyb3IncyBiYXN0YXJkcywgcmFpc2VkIGluIHRoZSBNYXVkYW4gUGFsYWNlIGFuZCB0cmFpbmVkIGJ5IHRoZSBJbnF1aXNpdGlvbi4gSGUgYW5zd2VycyB0byBLZXN0cmlhbiwgdGhlIFNldmVudGggUmF5LiBIZSB3YW50cyB0byBiZSBsZWdpdGltaXplZCwgYW5kIGhlIGJlbGlldmVzIGEgYnJva2VuIEthbHZhdGFyIGlzIHRoZSBnaWZ0IHRoYXQgd2lsbCBlYXJuIGl0LiIsICIqKkhpcyBnb2xkIGJhbmtyb2xscyB0aGUgQ3JpbXNvbiBMZWdpb24uKiogQWxkb3VzIE9zdHJlbCB3YXNoZXMgdGhlIExlZ2lvbiBtb25leSB0b2dldGhlciB3aXRoIHRoZSBrb3J2YW5zIGZyb20gVmFudHJleSdzIGJyZWFrYWdlIGxlZGdlci4iLCAiKipIaXMgbWFuIGFib2FyZCB0aGUgU3dhbGxvdydzIERlYnQqKiBpcyBMaXNldHRlJ3MgZmlyc3QgbWF0ZS4gU29tZW9uZSBoYXMgY29waWVkIENvcnZhbmUncyBzb3J0aW5nLXJvb20gbWV0aG9kLCBhbmQgaXQgd2FzIG5vdCBDb3J2YW5lLiIsICIqKldoYXQgaGUgd2FudHMgbmV4dDoqKiBhIFR1cm5lZCBzcGVjaW1lbiBmcm9tIHRoZSBTdGlsbGdyZWVuLiBBcyBLZXN0cmlhbiBydW5zIG91dCBvZiB0aW1lLCBoZSB3aWxsIGJlIHB1c2hlZCB0byBkbyBzb21ldGhpbmcgbG91ZC4iXX0="
+   }
+  ],
+  "related": [
+   "twelve-rays",
+   "theomar-vol-sunessi",
+   "undertow",
+   "crimson-legion",
+   "assios-and-the-wider-world"
+  ],
+  "aliases": [],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "elric-von-gainer",
+  "title": "Elric Von Gainer",
+  "category": "folk",
+  "region": "All regions",
+  "subtitle": "The Watchful Judge",
+  "summary": "Once the Valiant of the North of Filgalia, who in 151 EC laid down his march's banners and went over to the Imperium. He is now a High Inquisitor, the Watchful Judge.",
+  "facts": [
+   [
+    "Was",
+    "the Valiant of the North, Filgalia"
+   ],
+   [
+    "Is",
+    "a High Inquisitor, the Watchful Judge"
+   ],
+   [
+    "Went over",
+    "151 EC"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Empty Valiancy",
+    "paragraphs": [
+     "Twenty-four years ago the Valiant of the North laid down his march's banners and went over to the Imperium. Filgalia has not named a new Valiant of the North. It keeps the chair empty, so that no one forgets."
+    ]
+   },
+   {
+    "title": "The Watchful Judge",
+    "paragraphs": [
+     "He is one of the ten High Inquisitors who serve under Ghral. In the Principalities his name is not said at table."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Filgalia keeps his chair empty. Some say it's to shame him. Some say it's being kept for him.” (a Castia envoy's clerk)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBsZXR0ZXJzLioqIFRoZSBWYWxpYW50IG9mIHRoZSBTb3V0aCwgQmVsaWFsIEFudGFyZXMsIGhhcyBiZWVuIHdyaXRpbmcgdG8gaGltIGZvciB0d2VudHkgeWVhcnMuIFRoZSBsZXR0ZXJzIGFyZSBub3QgdHJlYXNvbi4gVGhleSBhcmUgYmV0d2VlbiB0d28gcGVvcGxlIHdobyBsb3ZlZCBlYWNoIG90aGVyIG9uY2UsIGFuZCBGaWxnYWxpYSB3b3VsZCBoYW5nIGhlciBmb3IgdGhlbSBhbnl3YXkuIl19"
+   }
+  ],
+  "related": [
+   "ghral",
+   "assios-and-the-wider-world",
+   "knights-of-the-northern-lights"
+  ],
+  "aliases": [
+   "the Watchful Judge"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "king-rune-of-valengrad",
+  "title": "King Rune of Valengrad",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "The Hammer of Valengrad",
+  "summary": "The king of Valengrad, the last bastion of the lost kingdom of Alcyor on cursed Xathnatraz, held for thirty-five thousand years against the dark. He is twenty-seven, and the first of his line to carry all three of its gifts.",
+  "facts": [
+   [
+    "Styled",
+    "Maross, the Hammer of Valengrad, the Sword of Alcyor, the Benevolent, the Guardian"
+   ],
+   [
+    "Age",
+    "twenty-seven"
+   ],
+   [
+    "Reign",
+    "six years"
+   ],
+   [
+    "Father",
+    "Venethos the Just"
+   ],
+   [
+    "Realm",
+    "Valengrad, on Xathnatraz"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The last bastion",
+    "paragraphs": [
+     "When the Traitor King opened the portal and damned Xathnatraz, the realm of Alcyor fell with it, all but one stronghold. Valengrad has held for thirty-five thousand years in an unending siege, and it is held that a Luminaria, a god-made sun from the Eon of Darkness, still burns over it.",
+     "Its kings are held to be the old kings returning, the same souls cycling back to take up the fight again."
+    ]
+   },
+   {
+    "title": "The king",
+    "paragraphs": [
+     "Rune of Alcyor has reigned for six years, since the death of his father, Venethos the Just. He is inflexible and merciless toward anything that threatens his realm, and warm, calm, and ever-smiling with his own people, who love him for it."
+    ]
+   },
+   {
+    "title": "The three gifts",
+    "paragraphs": [],
+    "list": [
+     "**The Strength of Alcyor.** Bound to his people by the coronation rite, he carries the will of his realm; within its lands it is said he fights with the strength of ten thousand men.",
+     "**The Grimoire of Ederaus.** The great astral grimoire forged by the first sorcerer to fall, which appears only to a champion it deems worthy. It chose Rune.",
+     "**The Blessing of the Gods.** The grace of the gods who did not flee: his healing can draw whole companies back from the edge of death."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Valengrad's king has died before. That's the point of Valengrad's kings.” (a Chartwright who has seen the black isle from the sea)",
+     "“There's a light over Xathnatraz that isn't the sun, and isn't a star, and doesn't move.” (a Khard Muur whaler)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk9uIFhhdGhuYXRyYXosIEtpbmcgUnVuZSBWZXJtaWxsaW9uIG9mIFZhbGVuZ3JhZCBkaWVzIGFuZCBpcyByZWJvcm4gYmVuZWF0aCBhIGZhbGxlbiBzdGFyLCBhZ2FpbiBhbmQgYWdhaW4uKioiXX0="
+   }
+  ],
+  "related": [
+   "xathnatraz"
+  ],
+  "aliases": [
+   "King Rune Vermillion",
+   "Rune Vermillion",
+   "Rune of Alcyor"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "pending"
