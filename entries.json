@@ -32840,7 +32840,8 @@
    "reckoners-hall",
    "maera-blackstrand",
    "celestine-goldspire",
-   "vesper-zane"
+   "vesper-zane",
+   "house-wingate"
   ],
   "illustration": {
    "src": "assets/folk/horace-council-v1-960.webp",
@@ -34823,7 +34824,8 @@
    "admiral-blackheart",
    "admiral-thulissa",
    "avalan-grant",
-   "shade-serpentfang"
+   "shade-serpentfang",
+   "victoria-wingate"
   ]
  },
  {
@@ -35258,7 +35260,9 @@
    "hunters",
    "games-and-pastimes",
    "king-tide",
-   "captain-magnus-and-leoric"
+   "captain-magnus-and-leoric",
+   "house-wingate",
+   "victoria-wingate"
   ]
  },
  {
@@ -43965,7 +43969,8 @@
    "trials-of-ascension",
    "iron",
    "ranking-cards",
-   "inkers-circle"
+   "inkers-circle",
+   "house-wingate"
   ],
   "aliases": [
    "company",
@@ -52428,6 +52433,178 @@
    "format": "character-v1",
    "status": "source-limited"
   },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "victoria-wingate",
+  "title": "Victoria Wingate",
+  "category": "folk",
+  "region": "The Sea",
+  "subtitle": "The lady who did not come home",
+  "summary": "Lady Victoria Wingate, of the continental Wingates: wounded at Hollin's Cross in 172 EC by a wound no healer could close, she sailed south at the King Tide of 174 EC with an expedition to an island the old songs call Anukáli, and did not come home.",
+  "facts": [
+   [
+    "Of",
+    "the continental Wingates"
+   ],
+   [
+    "Wounded",
+    "at Hollin's Cross, 172 EC"
+   ],
+   [
+    "Sailed",
+    "south, at the King Tide of 174 EC"
+   ],
+   [
+    "Came home",
+    "no"
+   ],
+   [
+    "Brother",
+    "Edmond Wingate, who did"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The continental Wingates",
+    "paragraphs": [
+     "The Wingates of the islands are Heartland patrons of expeditions. Their cousins on the continent are the branch the Thousand-Year War has hit hardest: lands near the Front, the men gone, the money gone, and the family desperate. Victoria was that branch's lady."
+    ]
+   },
+   {
+    "title": "Hollin's Cross",
+    "paragraphs": [
+     "In 172 EC the Iron Host took Hollin's Cross, and Victoria took a wound there that no healer on the continent or in the islands could close. She did not stop. She went looking for something that could."
+    ]
+   },
+   {
+    "title": "The expedition",
+    "paragraphs": [
+     "In 174 EC she sailed straight from the continent with a scholar who had found the way, a warforged, a shifter boy with a monkey's tail, a cook, a sellsword who had been at her side for years, and two hired ships standing off the reef. They found the island the old songs call Anukáli, at the King Tide.",
+     "Victoria did not come home. Her brother Edmond did. What happened on the island the common people do not know. The Council received the Hunters' full report, and has not published it."
+    ]
+   },
+   {
+    "title": "As she is remembered",
+    "paragraphs": [],
+    "list": [
+     "Charming, generous, and brave, and kind to strangers when she had every reason not to be.",
+     "Dying, and refusing to act like it.",
+     "*“This is our last resort.”* What she said about the island, to anyone who asked why."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“She isn't dead. The Karnivool's hands say that island is greener every season, and somebody is doing it.” (a Goldwind tavern-keeper)",
+     "“Her sellsword came back to Goldwind under Hunter guard. Ask the Lodge why, and the Lodge changes the subject.” (a Lodge porter)",
+     "“The scholar who found the way is in the islands now, with the warforged and the boy. She doesn't talk about the island either.” (a Goldwind apothecary)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFudWvDoWxpLCBLaW5nIFRpZGUgb2YgMTc0IEVDLioqIExhZHkgVmljdG9yaWEgV2luZ2F0ZSwgZHlpbmcgb2YgYW4gb2xkIHdvdW5kLCBjYW1lIGZvciB0aGUgSGVhcnQgb2YgdGhlIFNlYS4gVG8gaGVyIGl0IHdhcyB0d28gdGhpbmdzIGF0IG9uY2U6IGhlciBsaWZlLCBhbmQgdGhlIGxhc3Qgd2VhcG9uIGhlciBwZW9wbGUgaGFkIGFnYWluc3QgdGhlIEltcGVyaXVtLiBIZXIgbWFuIExlb3JpYyBUaG9ybmUsIHBhY3QtYm91bmQgdG8gYSBzZWFsZWQgcG93ZXIgdGhhdCBrZXB0IGhlciBhbGl2ZSwga2lsbGVkIHRoZSBHb2xkZW4gV2luZ3MgaW4gdGhlIEhlYXJ0J3MgY2F2ZS4gVGhlIEhlYXJ0IGFuZCBpdHMgR3VhcmRpYW4gcG91cmVkIHRoZWlyIGxpdmVzIGludG8gdGhlbS4gVGhleSByb3NlIGZvciBvbmUgZmlnaHQsIHJlc2VhbGVkIHRoZSBwYXRyb24sIGFuZCBzdHJpcHBlZCBMZW9yaWMgb2YgaGlzIHBvd2VyLiBWaWN0b3JpYSwgZHlpbmcsIHRvb2sgdGhlIGR5aW5nIEhlYXJ0J3MgcGxhY2UuIiwgIioqVmljdG9yaWEgV2luZ2F0ZSBpcyB0aGUgSGVhcnQgb2YgdGhlIFNlYSBub3csKiogYm91bmQgdG8gQW51a8OhbGkgdW50aWwgMjc0IEVDLiBUaGUgR3VhcmRpYW4gaXMgZGVhZCwgdGhlIHdhcmQgaXMgZ29uZSwgYW5kIHRoZSBpc2xhbmQgaXMgaW4gdGhlIHdvcmxkLCB1bmd1YXJkZWQuIDE3NyBFQyB3aWxsIGJlIGl0cyBmaXJzdCBLaW5nIFRpZGUgd2l0aG91dCBoaW0uIiwgIioqV2hvIGtub3dzLioqIENvbW1vbiBmb2xrIGtub3cgbm90aGluZyBvZiBpdC4gVGhlIENvdW5jaWwgcmVjZWl2ZWQgdGhlIEh1bnRlcnMnIGZ1bGwgcmVwb3J0LCBhbmQga25vd3MgYWxsIG9mIGl0LiJdfQ=="
+   }
+  ],
+  "related": [
+   "house-wingate",
+   "captain-magnus-and-leoric",
+   "avalan-grant",
+   "hunter-companies",
+   "assios-and-the-wider-world"
+  ],
+  "aliases": [
+   "Lady Victoria Wingate"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "house-wingate",
+  "title": "House Wingate",
+  "category": "houses",
+  "region": "Central Heartland",
+  "subtitle": "Patrons of expeditions",
+  "summary": "A Heartland family of expedition patrons and collectors of curiosities, bannermen of the Goldspire Flag, who sponsor Hunter crews on treasure-hunts. Their cousins on the continent are the branch the Thousand-Year War has hit hardest.",
+  "facts": [
+   [
+    "Known as",
+    "patrons of expeditions"
+   ],
+   [
+    "Rank",
+    "bannermen of House Goldspire, of the Twelve Flags"
+   ],
+   [
+    "Region",
+    "Central Heartland"
+   ],
+   [
+    "Trades",
+    "expeditions, curiosities, and Hunter crews on treasure-hunts"
+   ],
+   [
+    "Branches",
+    "the islands' Wingates, and the continental Wingates"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The house",
+    "paragraphs": [
+     "The Wingates of the Heartland buy maps nobody else believes in and send Hunter crews to find out whether they are true. Most of the time the map is wrong, and the house keeps it anyway: the Wingate cabinet of curiosities is full of things that were nearly treasure.",
+     "They are part of Horace Goldspire's reach, sworn and indebted to the Goldspire Flag, and the floor of the Exchange is where their sponsorships are paid for."
+    ]
+   },
+   {
+    "title": "The continental Wingates",
+    "paragraphs": [
+     "The family's other branch stayed on Assios, on lands near the Front. The Thousand-Year War has hit it harder than any: the men gone, the money gone, and the family desperate. In 172 EC the Iron Host took Hollin's Cross, and the branch's lady, Victoria, took a wound there that would not close."
+    ]
+   },
+   {
+    "title": "The Wingates",
+    "paragraphs": [],
+    "list": [
+     "**Lady Victoria Wingate,** of the continental branch, who sailed south in 174 EC, led the expedition that found Anukáli, and did not come home.",
+     "**Edmond Wingate,** her brother, a Hunter of the Golden Wings, who did come home.",
+     "**Lucy Grant,** who sailed as Lucy Wingate, Edmond's adopted sister. Since 174 EC she has been the daughter of Avalan Grant of the *Karnivool*."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Wingates will pay for any map nobody else believes in. That is how they lost a daughter.” (a Goldwind chart-seller)",
+     "“There is a shelf in the Wingate cabinet with nothing on it. The family says it is for what Victoria was going to bring back.” (a Wingate housemaid)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoYXQgVmljdG9yaWEgZm91bmQuKiogU2hlIGNhbWUgZm9yIHRoZSBIZWFydCBvZiB0aGUgU2VhLCBhbmQgc2hlIGlzIHRoZSBIZWFydCBvZiB0aGUgU2VhIG5vdywgYm91bmQgdG8gQW51a8OhbGkgdW50aWwgMjc0IEVDLiBDb21tb24gZm9sayBrbm93IG5vdGhpbmcgb2YgaXQuIFRoZSBDb3VuY2lsIHJlY2VpdmVkIHRoZSBIdW50ZXJzJyBmdWxsIHJlcG9ydCwgYW5kIGtub3dzIGFsbCBvZiBpdC4iXX0="
+   }
+  ],
+  "related": [
+   "victoria-wingate",
+   "horace-goldspire",
+   "twelve-flags",
+   "hunter-companies",
+   "avalan-grant",
+   "assios-and-the-wider-world"
+  ],
+  "aliases": [
+   "the Wingates"
+  ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "pending"
