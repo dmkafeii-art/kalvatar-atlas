@@ -10877,6 +10877,562 @@
    ]
   }
  ],
+ "house-wingate": [
+  {
+   "name": "Wingate Sellsword",
+   "meta": "Medium Humanoid (Human), Lawful Neutral",
+   "top": [
+    [
+     "Armor Class",
+     "17"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "65 (10d8 + 20)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "16",
+     "+3"
+    ],
+    [
+     "DEX",
+     "13",
+     "+1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "10",
+     "+0"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Str +5, Con +4"
+    ],
+    [
+     "Skills",
+     "Athletics +5, Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "Common, Imperial"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Front-Hardened.** The sellsword has Advantage on saving throws against the Frightened condition.",
+      "**Close Order.** While another Wingate within 5 feet of the sellsword doesn't have the Incapacitated condition, the sellsword has a +1 bonus to its Armor Class. A Wingate line fights two ranks deep: the second rank's halberds reach past the first."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The sellsword makes two attacks, using Halberd or Heavy Crossbow in any combination.",
+      "**Halberd.** *Melee Attack Roll:* +5, reach 10 ft. *Hit:* 9 (1d12 + 3) Slashing damage.",
+      "**Heavy Crossbow.** *Ranged Attack Roll:* +3, range 100/400 ft. *Hit:* 6 (1d10 + 1) Piercing damage."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "items": [
+      "**Parry.** The sellsword adds 2 to its Armor Class against one melee attack that would hit it. To do so, it must see the attacker and be holding a melee weapon."
+     ]
+    }
+   ],
+   "notes": [
+    "A Wingate company is not hired. It agrees to be."
+   ]
+  },
+  {
+   "name": "Wingate Boarder",
+   "meta": "Medium Humanoid (Human), Lawful Neutral",
+   "top": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Initiative",
+     "+3 (13)"
+    ],
+    [
+     "Hit Points",
+     "52 (8d8 + 16)"
+    ],
+    [
+     "Speed",
+     "30 ft., Climb 30 ft., Swim 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "14",
+     "+2"
+    ],
+    [
+     "DEX",
+     "16",
+     "+3"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "10",
+     "+0"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Acrobatics +5, Athletics +4, Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "Common, Deck-sign, Imperial"
+    ],
+    [
+     "Challenge",
+     "2 (XP 450; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Sea Legs.** The boarder can't be knocked Prone by the motion of a ship, and has Advantage on Strength (Athletics) and Dexterity (Acrobatics) checks to keep its footing or to climb rigging.",
+      "**Boarding Rush.** If the boarder moves at least 20 feet straight toward a creature and then hits it with a Cutlass attack on the same turn, the target takes an extra 7 (2d6) Slashing damage. The boarder can deal this extra damage only once per turn."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The boarder makes two attacks, using Cutlass or Throwing Knife in any combination.",
+      "**Cutlass.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage.",
+      "**Throwing Knife.** *Ranged Attack Roll:* +5, range 20/60 ft. *Hit:* 5 (1d4 + 3) Piercing damage."
+     ]
+    },
+    {
+     "title": "Bonus Actions",
+     "items": [
+      "**Swing Aboard.** The boarder moves up to its Speed by rope, rigging, or grapnel line, and its movement doesn't provoke Opportunity Attacks."
+     ]
+    }
+   ],
+   "notes": [
+    "Wingate boarders go over the rail first, and the rest of the deck follows."
+   ]
+  },
+  {
+   "name": "Wingate Captain",
+   "meta": "Medium Humanoid (Human), Lawful Neutral",
+   "top": [
+    [
+     "Armor Class",
+     "18"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "112 (15d8 + 45)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "14",
+     "+2"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "16",
+     "+3"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Str +7, Con +6, Wis +5"
+    ],
+    [
+     "Skills",
+     "Athletics +7, Insight +5, Intimidation +6, Perception +5"
+    ],
+    [
+     "Senses",
+     "Passive Perception 15"
+    ],
+    [
+     "Languages",
+     "Common, Deck-sign, Imperial, and one more"
+    ],
+    [
+     "Challenge",
+     "5 (XP 1,800; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Front-Hardened.** The captain has Advantage on saving throws against the Frightened condition.",
+      "**The Company.** Each Wingate ally within 30 feet of the captain that can see or hear it can't have the Frightened condition."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The captain makes three attacks, using Longsword or Heavy Crossbow in any combination.",
+      "**Longsword.** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 8 (1d8 + 4) Slashing damage, or 9 (1d10 + 4) Slashing damage if used with two hands.",
+      "**Heavy Crossbow.** *Ranged Attack Roll:* +5, range 100/400 ft. *Hit:* 7 (1d10 + 2) Piercing damage."
+     ]
+    },
+    {
+     "title": "Bonus Actions",
+     "items": [
+      "**Orders.** One Wingate ally within 30 feet that can hear the captain can take a Reaction to make one weapon attack."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "items": [
+      "**Parry.** The captain adds 3 to its Armor Class against one melee attack that would hit it. To do so, it must see the attacker and be holding a melee weapon."
+     ]
+    }
+   ],
+   "notes": [
+    "A Wingate captain has buried more of the family's people than most houses have ever hired, and remembers every name."
+   ]
+  },
+  {
+   "kind": "ship",
+   "name": "Wingate War-Brig",
+   "meta": "Gargantuan vehicle (water)",
+   "fields": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Hull Points",
+     "220"
+    ],
+    [
+     "Damage Threshold",
+     "10"
+    ],
+    [
+     "Speed",
+     "45 ft."
+    ],
+    [
+     "Travel pace",
+     "90 miles"
+    ],
+    [
+     "Seaworthiness",
+     "+2"
+    ],
+    [
+     "Crew",
+     "30 to 110 (sailors who fight, and soldiers who sail)"
+    ],
+    [
+     "Cargo",
+     "40 tons; 60 soldiers"
+    ],
+    [
+     "Weapons",
+     "2 batteries of light guns per side; a long gun in the bow; four swivel guns"
+    ]
+   ],
+   "traits": [
+    "**Wingate Crew.** Its crew is Veteran (+4), and losing hands never drops it below Blooded. On the rest of the deck it gains +1 for every full ten hands it has more than the other side, not every twenty."
+   ],
+   "notes": [
+    "A brig built for the Front, carrying soldiers as much as cargo."
+   ],
+   "role": "ships"
+  }
+ ],
+ "reckoners-hall": [
+  {
+   "name": "Counting Guard",
+   "meta": "Medium Humanoid (Any), Lawful Neutral",
+   "top": [
+    [
+     "Armor Class",
+     "16"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "52 (8d8 + 16)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "14",
+     "+2"
+    ],
+    [
+     "DEX",
+     "12",
+     "+1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "10",
+     "+0"
+    ],
+    [
+     "WIS",
+     "13",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Insight +3, Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "Common"
+    ],
+    [
+     "Challenge",
+     "1 (XP 200; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Doorwarden.** The guard has Advantage on Wisdom (Insight) checks to tell whether someone has business in the Hall, and on Wisdom (Perception) checks to notice a concealed weapon."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The guard makes two attacks with its Truncheon.",
+      "**Truncheon.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Bludgeoning damage.",
+      "**Light Crossbow.** *Ranged Attack Roll:* +3, range 80/320 ft. *Hit:* 5 (1d8 + 1) Piercing damage."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "items": [
+      "**Seize.** When a creature within 5 feet of the guard moves away from it, the guard grabs at it. *Strength Saving Throw:* DC 12. *Failure:* The creature has the Grappled condition (escape DC 12) and stops moving."
+     ]
+    }
+   ],
+   "notes": [
+    "A raised voice in the Quiet Room costs one Tide. The Counting Guard collects it, and writes it down."
+   ]
+  },
+  {
+   "name": "Wreck-Clerk",
+   "meta": "Medium Humanoid (Any), Neutral",
+   "top": [
+    [
+     "Armor Class",
+     "13"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "27 (6d8)"
+    ],
+    [
+     "Speed",
+     "30 ft., Swim 30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "11",
+     "+0"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "11",
+     "+0"
+    ],
+    [
+     "INT",
+     "16",
+     "+3"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "11",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Insight +4, Investigation +5, Perception +4"
+    ],
+    [
+     "Senses",
+     "Passive Perception 14"
+    ],
+    [
+     "Languages",
+     "Common, Deck-sign"
+    ],
+    [
+     "Challenge",
+     "1/4 (XP 50; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Hold Breath.** The clerk can hold its breath for 10 minutes.",
+      "**Reads a Wreck.** After 10 minutes aboard or beside a wreck, the clerk knows whether it went down to weather, fire, a fight, or somebody's hand, and roughly when."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Hook Knife.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage.",
+      "**Hand Crossbow.** *Ranged Attack Roll:* +4, range 30/120 ft. *Hit:* 5 (1d6 + 2) Piercing damage."
+     ]
+    },
+    {
+     "title": "Bonus Actions",
+     "items": [
+      "**Back Off.** The clerk takes the Disengage action."
+     ]
+    }
+   ],
+   "notes": [
+    "Captains call them the Hall's crows: they turn up wherever a ship has gone down. They hire Hunters to go where they can't."
+   ]
+  }
+ ],
  "travel": [
   {
    "kind": "ship",

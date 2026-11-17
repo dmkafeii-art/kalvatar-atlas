@@ -10968,6 +10968,61 @@
       ]
      }
     ]
+   },
+   {
+    "title": "The Wingates' hulls",
+    "intro": "The Wingates' Kalvatar branch sails seven ships, tied up at the old dock of the Thorne Estate. Most are brigs built for the Front, and every crew is a veteran one.",
+    "ships": [
+     {
+      "kind": "ship",
+      "name": "Wingate War-Brig",
+      "meta": "Gargantuan vehicle (water)",
+      "fields": [
+       [
+        "Armor Class",
+        "15"
+       ],
+       [
+        "Hull Points",
+        "220"
+       ],
+       [
+        "Damage Threshold",
+        "10"
+       ],
+       [
+        "Speed",
+        "45 ft."
+       ],
+       [
+        "Travel pace",
+        "90 miles"
+       ],
+       [
+        "Seaworthiness",
+        "+2"
+       ],
+       [
+        "Crew",
+        "30 to 110 (sailors who fight, and soldiers who sail)"
+       ],
+       [
+        "Cargo",
+        "40 tons; 60 soldiers"
+       ],
+       [
+        "Weapons",
+        "2 batteries of light guns per side; a long gun in the bow; four swivel guns"
+       ]
+      ],
+      "traits": [
+       "**Wingate Crew.** Its crew is Veteran (+4), and losing hands never drops it below Blooded. On the rest of the deck it gains +1 for every full ten hands it has more than the other side, not every twenty."
+      ],
+      "notes": [
+       "A brig built for the Front, carrying soldiers as much as cargo."
+      ]
+     }
+    ]
    }
   ]
  },
