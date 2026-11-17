@@ -2982,6 +2982,44 @@
   ]
  },
  {
+  "id": "rumor-hall-1",
+  "text": "The Index is still filing down there, under the Reckoners' Hall. On a quiet Coinsday you can hear it through the reading-room floor.",
+  "heardAt": "heard from a counter on the late roll",
+  "region": "Central Heartland",
+  "entries": [
+   "reckoners-hall"
+  ]
+ },
+ {
+  "id": "rumor-hall-2",
+  "text": "One of the pirate flags on the Proof Room's wall belongs to a captain who was seen alive last month.",
+  "heardAt": "heard from a Goldwind dock-hand",
+  "region": "Central Heartland",
+  "entries": [
+   "reckoners-hall",
+   "most-wanted"
+  ]
+ },
+ {
+  "id": "rumor-hall-3",
+  "text": "The Second Reckoner does not accept gifts. He accepts samples.",
+  "heardAt": "heard from a middle-ring baker",
+  "region": "Central Heartland",
+  "entries": [
+   "ecler"
+  ]
+ },
+ {
+  "id": "rumor-hall-4",
+  "text": "Every Coinsday a Ledger Wolf walks up the Hall's steps with a satchel, and walks down without it.",
+  "heardAt": "heard from a waiter at the Black Cup",
+  "region": "Central Heartland",
+  "entries": [
+   "ledger-wolves",
+   "reckoners-hall"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",

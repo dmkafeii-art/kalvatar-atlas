@@ -723,7 +723,10 @@
    "lysandra-vellune",
    "kettik-ninth-step",
    "vellune-finery-enchantments",
-   "court-of-bones"
+   "court-of-bones",
+   "charter-mint",
+   "ledger-wolves",
+   "ecler"
   ],
   "illustration": {
    "src": "assets/scenes/goldwind-painterly-v2-960.webp",
@@ -3928,7 +3931,9 @@
   "related": [
    "mercantile-congress",
    "goldwind",
-   "travel"
+   "travel",
+   "reckoners-ledger",
+   "charter-mint"
   ]
  },
  {
@@ -5621,7 +5626,9 @@
    "council",
    "pocchin",
    "krystawrights",
-   "krysta"
+   "krysta",
+   "reckoners-ledger",
+   "charter-mint"
   ]
  },
  {
@@ -16124,40 +16131,250 @@
   "category": "power",
   "region": "All regions",
   "subtitle": "The bank that holds the islands’ debts",
-  "summary": "The Congress's bank, under First Reckoner Maera Blackstrand, who holds half the islands' debts.",
+  "summary": "The Congress's bank and the true power behind it: deposits, loans, reckonings, sea-insurance, the Council's bounties, and the Ledger, under First Reckoner Maera Blackstrand, who holds half the islands' debts.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "What the Hall does",
     "paragraphs": [
-     "Everyone knows the real power of the Mercantile Congress is its bank, the Reckoners' Hall, the marble hall in Goldwind under First Reckoner Maera Blackstrand, who holds half the islands' debts.",
-     "Credit: the Reckoners lend at 1 in 20 to the Five great houses, and as high as 1 in 5 to a tradesman.",
-     "Bottomry (a loan on a ship and its cargo) runs from 1 in 50 on the coast to 1 in 5 on the ice, and three times that in a King Tide year.",
-     "A reckoning, a letter of credit, costs 2 in 100.",
-     "The Still Days freeze every debt.",
-     "Three Coinsdays unpaid put a name in the Ledger.",
-     "Under salvage law, the Reckoners register claims on named wrecks, and they pay the Council's bounties on proof."
+     "The Reckoners' Hall is the banking guild of the Mercantile Congress and the true power behind it. It does everything with money except spend it."
+    ]
+   },
+   {
+    "title": "The Hall",
+    "paragraphs": [
+     "A square building of white marble on Goldwind's middle ring, with no windows at all on its ground floor and the Blackstrand band and coin cut above its bronze doors. The coffee-houses are across the street, the Goldspire Exchange is next door, and the Charter Mint is wall to wall with it on the other side."
+    ],
+    "list": [
+     "**The steps.** On Coinsday the line of people waiting to pay runs down the steps, along the street, and around the Mint.",
+     "**The doors.** The doorwardens let in anyone with business, and decide what counts as business. A Reckoner's pass, a slip of black card with a Reckoner's seal, settles the question for one person and one day.",
+     "**The Quiet Room.** The great room: a hundred counting-desks in ten rows, light from a roof of thick glass, and not a sound louder than a pen. A raised voice costs one Tide, entered against the name of whoever raised it.",
+     "**The Long Desk.** At the far end, on a step, where the Reckoners on duty sit and sign. Beside the First Reckoner's door, in a glass case, sits *Noon*, one of Ysmer Quillwick's Six Hours, held as surety for a loan nobody has repaid. The counters set their watches by it.",
+     "**The Founders' Desks.** Five desks on a dais. Blackstrand's is used. The other four are under glass, inkwells dry, each with its founder's last ledger open at the last page he wrote.",
+     "**Madam Tally.** A masterpiece abacus under glass, whose tenant will not add up a dishonest sum. The Hall brings her out for the largest accounts.",
+     "**The Small Rooms.** Where a lord comes to borrow, over good wine, and is asked nothing about what the money is for.",
+     "**The Ledger Room.** The Ledger itself, a row of great black books chained to their lecterns.",
+     "**The Wreck Office.** Charts on every wall, with a pin and a number for every named wreck in the islands.",
+     "**The Proof Room.** A tiled room with a drain in the floor, where the Council's bounties are paid. Its walls are hung with the flags of captains whose bounties have been paid, the oldest three deep.",
+     "**The Mint Door.** An iron door into the Charter Mint, opened for every pour of gold. Two Reckoners walk through it each time.",
+     "**The vaults.** The Seal Vaults, where no ink octopus may come, and the Coin Vaults cut into the rock below, warded and guarded, with vault geese."
+    ]
+   },
+   {
+    "title": "The reading room and the stacks",
+    "paragraphs": [],
+    "list": [
+     "**The reading room.** A file is fetched only for a **reader's chit**, signed by a Reckoner, naming the reader and the file.",
+     "**The stacks.** Below the reading room a stair goes down level by level into the rock: the old contracts, the bankruptcies, and the oldest rolls of the founding years, on iron shelves twenty feet high.",
+     "**The drowned levels.** In 169 EC a winter storm broke the old tide-sluice that drained the deep stacks, and the lowest levels, with their old reading room, flooded with the tide. The Hall sealed them and has never pumped them out. It says the paper is not worth the pumping.",
+     "**The Index.** A brass filing automaton the size of a wardrobe, all drawers and long thin arms, left below when the levels were sealed. Clerks who work late swear it is still filing."
+    ]
+   },
+   {
+    "title": "Who works there",
+    "paragraphs": [],
+    "list": [
+     "**The First Reckoner.** Master of the Hall, chosen for life by the Chapter of Reckoners with the doors shut, each vote written in the Ledger. A Blackstrand has held the chair for most of the Hall's history. Today it is Lady Maera Blackstrand.",
+     "**The Second Reckoner.** The First Reckoner's second, who runs the Hall's day: the keys, the duty roll, the reader's chits, and the Bench whenever the First Reckoner does not sit. Today it is Ecler.",
+     "**The Chapter.** About forty full Reckoners in Goldwind, and one at the head of each counting-house. Each holds a *chair*: a set of great accounts that is theirs to keep.",
+     "**The Chief Counter.** Thraim Ironquill, a dwarf, the last of the founding Ironquills to sit near a founder's desk.",
+     "**The Ledger-Keeper.** Always a Tessick. Today it is Anselm Tessick.",
+     "**The Counting Guard.** About 250 guards under House Ullard and their Captain, Hessa Ullard. They have never fought a battle, only a great many very short arguments.",
+     "**Counters.** Some three hundred clerks in Goldwind, many of them dwarves, who speak Counting-house Dwarvish among themselves. A counter earns three Anchors a month.",
+     "**Wreck-clerks.** The Hall's investigators, whose whole work is finding out which ships were lost very conveniently. Captains call them *the Hall's crows*. They often hire Hunters.",
+     "**Assayers and auditors.** The Reckoners who watch every pour at the Mint, weigh strange coin, and check other people's books for a fee.",
+     "**Becoming one.** An apprentice is paid in keep and a pen, and spends years learning a hand the Reckoners will accept. To become a counter, they add the **Long Column**, a column of figures chalked down the whole length of the Quiet Room floor, aloud, walking, without one mistake. A counter raised to Reckoner *takes the black*: a seal, a gown, and an Orsal struck that year, which they will never spend."
+    ]
+   },
+   {
+    "title": "What they wear",
+    "paragraphs": [],
+    "list": [
+     "**Reckoners:** ledger-black gowns with white cuffs. Spotless cuffs mean you have clerks to stain theirs for you.",
+     "**Counters:** counter-grey, a short jacket with brass buttons and a high collar over an ivory waistcoat, and an ink-belt across the chest with a brass inkwell and three quills: one for entering, one for copying, and one that is never inked, for pointing.",
+     "**The chains:** gold for the First Reckoner, brass for the Second, each with a medallion in the shape of an open book."
+    ]
+   },
+   {
+    "title": "Faces at the Hall",
+    "paragraphs": [],
+    "list": [
+     "**Lady Maera Blackstrand**, First Reckoner. Small, neat, white-haired, soft-voiced, with a perfect memory for figures.",
+     "**Ecler**, Second Reckoner. Two metres of black gown and brass chain, a face like a closed ledger, and a weakness for anything sweet.",
+     "**Thraim Ironquill**, Chief Counter. Old, bald, and polite in the way a closed door is polite.",
+     "**Hessa Ullard**, Captain of the Counting Guard. Knows every regular on the Coinsday line by face, and most of them by debt.",
+     "**Iris**, a junior counter at the front desks. Short, fair and quick, and better at reading the Hall's labels than most of the Reckoners."
+    ]
+   },
+   {
+    "title": "Using the Hall",
+    "paragraphs": [],
+    "list": [
+     "**An account.** Bring the coin and a name, and choose a **counter-word**, which is written in the Ledger beside your name and never said aloud in the Hall again. You get a small black deposit-book, and any counting-house pays on the book and the word. A large draw away from home waits for the next Coinsday's pages from Goldwind.",
+     "**A reckoning.** Two in every hundred. It pays only the person named on it, and only on their counter-word. A stolen reckoning is a piece of paper, and it is written in ledger ink, which shows a red stain wherever it is altered.",
+     "**Borrowing, a year:** the Council or one of the Five, 1 in 20. A great house or a Flag, 1 in 12. A merchant with a warehouse, 1 in 8. A captain against a ship, 1 in 6. A tradesman against a shop, 1 in 5.",
+     "**Nothing to pledge?** The Hall lends against something: a ship, a shop, a title, a post. Ask a Lodge Quartermaster for a chit, or the Ledger Wolves, and do not.",
+     "**Insurance, a voyage:** coastal 1 in 50; Frontier to Heartland 1 in 25; to the south 1 in 10; to the ice 1 in 5; three times that in a King Tide year; into the Sealed Waters, not at any price.",
+     "**Sinking your own ship for the bond** puts your name in the Ledger the same day.",
+     "**Wrecks.** Register the claim at the Wreck Office before you dive. The finder takes a third, the owner or insurer the rest, less the Reckoners' tenth. The Coral courts choose first in pact-water, and nothing Below can be registered.",
+     "**Bounties.** The Council's bounties are paid on proof: the captain, the ship, or the flag, witnessed by a Reckoner and two counters. The flag stays on the Proof Room's wall. Lodge contracts are paid by the Lodge."
+    ]
+   },
+   {
+    "title": "The Ledger and the Bench",
+    "paragraphs": [],
+    "list": [
+     "**Coinsday** is settling day. Three Coinsdays unpaid, and a debt goes into the Ledger. The Hall sends a polite letter on the first and on the second. On the third it sends nothing.",
+     "**A name in the Ledger** can borrow nowhere, sign no bottomry bond, and hold no master's chain in any guild, and by the next Coinsday every counting-house knows it.",
+     "**Getting out.** Pay in full, with all the interest that ran. The line is struck through in red and never erased, and a struck name may borrow again after a year and a day.",
+     "**The Still Days** freeze every debt.",
+     "**The Bench of Accounts** sits every Wardsday, with the First or the Second Reckoner in the high chair. It hears disputed debts, contracts, bottomry claims, and salvage quarrels, under Charter law, or dwarven law when the contract asks for it. Bringing a claim costs nothing. Losing one costs everything."
+    ]
+   },
+   {
+    "title": "The counting-houses",
+    "paragraphs": [
+     "Each is a small, windowless copy of the Hall, with a Reckoner at its head, a dozen counters, a strongroom, and a squad of the Counting Guard."
+    ],
+    "list": [
+     "**Goldwind:** the Hall itself.",
+     "**Ironfort:** at the Gate, where more foreign coin is weighed than anywhere else.",
+     "**Bastion:** House Faust's city, and soldiers' pay.",
+     "**Stormreach:** beside the Vanris yards, writing bottomry on new storm-hulls.",
+     "**Silverport:** silk, incense, perfume, and the Heartland's quietest counters.",
+     "**Aurelion:** the Smiths' city, where firearms are bought on credit.",
+     "**Southhaven:** the counting-house that lends least, because the south wears its gold on its arms.",
+     "**Frosthold:** on the ice, where Mother Kess holds more debts than the Hall does.",
+     "**Jakupur:** by treaty, and with ill grace on both sides.",
+     "**Varan Port** has none. Fairweather keeps its own books."
+    ]
+   },
+   {
+    "title": "History",
+    "paragraphs": [],
+    "list": [
+     "**About 30 EC.** Five banking families open the Hall in rented rooms above Goldwind's new wharves: Blackstrand, Penhallow, Garrow, Carrick, and the dwarven Ironquills.",
+     "**About 41 EC.** The Ledger is opened, and the first name ever entered in it is a founder's: Carrick's.",
+     "**About 55 EC.** The Council asks the Hall to warrant the Charter Mint's coin.",
+     "**About 70 EC.** The Hall takes its marble seat on the middle ring, wall to wall with the Mint. The Ironquills give up their founder's desk and run the counters instead.",
+     "**About 90 EC.** The Plague of the Burning Sea. The Hall buys the Congress's debts instead of calling them. Penhallow sells its share; Garrow marries into Blackstrand a generation later.",
+     "**165 EC.** Kraken's Maw. The Hall registers every claim on Blackheart's sunken armada.",
+     "**169 EC.** A storm breaks the tide-sluice, and the deep stacks flood.",
+     "**175 EC.** The Hall prices the King Tide of 177 EC."
+    ]
+   },
+   {
+    "title": "Customs and sayings",
+    "paragraphs": [],
+    "list": [
+     "**The Counting.** On the second of the Still Days the Hall closes its doors, opens its books, and the Chapter reads the year's totals aloud to an empty room. It is the only day the Founders' Desks are uncovered.",
+     "**No gifts refused.** Every gift from a debtor is entered on the credit side of the debtor's account, and the debtor is told.",
+     "**The Reckoners' guess.** Every house's income in the islands is quoted as the Reckoners' guess. The Hall has never published one, and everyone somehow knows them all.",
+     "**The Black Cup.** The coffee-house across the street, where Reckoners drink their coffee standing up.",
+     "**The jackdaws.** Counters borrow counting jackdaws at the end of a Cycle to check their columns, and pay them in Bits.",
+     "*Written, witnessed, owed.* The three words on the Hall's seal.",
+     "*The Hall does not erase.* Said of anything that cannot be taken back.",
+     "*A Tide for the noise.* Said to anyone shouting, anywhere in the Heartland.",
+     "*Third Coinsday.* Said of anyone who has waited too long."
+    ]
+   },
+   {
+    "title": "The Hall and the others",
+    "paragraphs": [],
+    "list": [
+     "**The Congress:** ruled through its debts. Goldspire goes to the meetings.",
+     "**The Twelve Flags:** every post on the Spire Floor stands on a thousand Orsals at the Hall. The Tobbins' bond was accepted in pepper.",
+     "**The Charter Mint:** the Hall warrants every Orsal, audits every pour, and enters every serial number.",
+     "**The Charterhouse Company:** the guilds hate it. The Hall lends to both sides and wins either way.",
+     "**The Violet Counter:** Vol Kaern lends for favors, at no interest. The Hall dislikes it the way fishermen dislike a man who gives fish away.",
+     "**The Ledger Wolves:** loans by knife for those the Hall turns away. Rumor calls them the Hall's deniable hand, and the First Reckoner denies it in a tone that settles nothing.",
+     "**The Hunters:** the Hall pays the Council's bounties and hires Hunters for wreck-work and long errands.",
+     "**The dwarves:** half the counters, the Chief Counter, and the dwarven law the Bench honors.",
+     "**The south:** “Gold on the arm is a vote of no confidence in Goldwind.”"
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A pirate flag on the Proof Room's wall belongs to a captain who has just been seen alive. The Hall wants to know who it paid.",
+     "A wreck-clerk needs someone to dive a wreck whose captain swears she sank in a storm. Her log says the sea was flat.",
+     "A counter has vanished with a deposit-book and a counter-word that were not his.",
+     "Madam Tally has stopped on an account the whole Chapter swears is honest.",
+     "The Ledger Wolves have pinned a torn ledger-corner to a friend's door, and the friend owes the Hall too.",
+     "The Hall needs a contract verified somewhere its clerks are not welcome."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Open an account before you sail, and carry a reckoning, not gold.",
+     "Choose a counter-word nobody would guess, and never say it in a tavern.",
+     "Register a wreck before you dive it, not after.",
+     "Bring the flag. It weighs less than the captain.",
+     "Pay on the second Coinsday, never the third.",
+     "Never raise your voice in the Quiet Room. It costs a Tide, and they write it down."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "A Gold Hunter once paid the Quiet Room's fine, and asked for a receipt.",
+     "Every Reckoner keeps an Orsal from the year they took the black, and none has ever spent one.",
+     "The first name ever entered in the Ledger belonged to one of the Hall's own founders."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Theodora Nightshade: she has slipped in and out of the Reckoners' Hall.” (the docks, about the Most Wanted)"
+     "“Theodora Nightshade: she has slipped in and out of the Reckoners' Hall.” (the docks, about the Most Wanted)",
+     "“The Index is still filing down there. On a quiet Coinsday you can hear it through the reading-room floor.” (a counter on the late roll)",
+     "“One of the flags in the Proof Room belongs to a captain who was seen alive last month.” (a Goldwind dock-hand)",
+     "“Madam Tally stopped once in the middle of a Flag's accounts. The Flag sold its post that season.” (heard on the Spire Floor)",
+     "“The four empty desks are kept for the founders' heirs, in case one of them ever comes back with the money.” (a junior counter)",
+     "“The Hall pays bounties in Orsals, and counts them twice in front of you, slowly.” (a Silver Hunter)",
+     "“There is a name in the Ledger with a red stain where somebody tried to erase it. The Hall does not erase, so somebody inside it did.” (a Tessick clerk)"
     ]
    },
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBVcHdhcmQuKiogVGhlaXIgbGVhZGVyIE9yaWFuZGVsIGhhcyBzZXJ2ZWQgbm90aWNlIGluIHRoZSBsZWRnZXItbmljaGVzIG9mIHRoZSB3YWxsZWQgaG9sZHMuIEluIDE3NiBFQyBzaGUgbWVhbnMgdG8gd2FsayB1cCB0aHJvdWdoIHRoZSBDaXN0ZXJuIERvb3IgYW5kIGxheSB0aGUgY2xhaW0gYmVmb3JlIHRoZSBSZWNrb25lcnMnIEhhbGwsIHVuZGVyIGR3YXJ2ZW4gbGF3LiBTaGUgZG9lcyBub3Qgd2FudCB0aGUgaG9sZHMuIFNoZSB3YW50cyBhIGxpZ2h0IGZvciB0aGUgbGlnaHQsIGFuZCBzaGUgd2lsbCBmb3JnaXZlIHRoZSBhcnJlYXJzIG9mIGFueSBob2xkIHRoYXQgaGVscHMgcGF5IGl0LiIsICJGaXJzdCBSZWNrb25lciBNYWVyYSBCbGFja3N0cmFuZCB3aWxsIGhhdmUgdG8gcnVsZSBvbiBhIGNvbnRyYWN0IG9sZGVyIHRoYW4gdGhlIENvdW5jaWwuIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBUZW50aCBBY2NvdW50LioqIFRoZSBTaWx2ZXIgVmlnaWwncyBzaWx2ZXIgaXMgYm91Z2h0IHRocm91Z2ggdGhlIFRlbnRoIEFjY291bnQsIGRpc2d1aXNlZCBhcyBodWxsLXNoZWF0aGluZyBhbmQgbGFudGVybiBjb250cmFjdHMgZm9yIHRoZSBBcm1hZGEsIGFuZCBGaXJzdCBSZWNrb25lciBNYWVyYSBCbGFja3N0cmFuZCBzaWducyBldmVyeSBwYWdlLiBTaGUgaXMgb25lIG9mIHRoZSBmZXcgYWJvdmUgd2hvIGtub3cgYWJvdXQgdGhlIFZpZ2lsLiBUaGUgY29wcGVyc21pdGhzJyBqb2tlIGFib3V0IHRoZSBBcm1hZGEgYnV5aW5nIG1vcmUgaHVsbC1zaGVhdGhpbmcgdGhhbiBpdCBoYXMgaHVsbHMgaXMgYWJvdXQgdGhpcy4iLCAiKipNYWRhbSBUYWxseSBhbmQgdGhlIFRlbnRoIEFjY291bnQuKiogVGhlIEhhbGwgaGFzIG5ldmVyIGJyb3VnaHQgTWFkYW0gVGFsbHkgb3V0IGZvciB0aGUgVGVudGggQWNjb3VudC4gTWFlcmEgZG9lcyBub3Qgd2FudCB0byBsZWFybiB3aGV0aGVyIHRoZSBiZWFkcyB3b3VsZCBzdG9wLiIsICIqKlRoZSBzaWx2ZXIgZHJhaW4uKiogVGhlIGRyYWluIGhhcyB0d28gbW91dGhzOiB0aGUgVmlnaWwncyBUZW50aCBBY2NvdW50IGFuZCB0aGUgRmVycnltZW4ncyBhbG1zLiBUaGUgSGFsbCdzIGF1ZGl0b3JzIGFyZSBpbnZlc3RpZ2F0aW5nLiBNYWVyYSBydW5zIHRoZSBpbnZlc3RpZ2F0aW9uIGludG8gaGVyIG93biBwYXltZW50cywgd2hpY2ggaXMgdGhlIHNhZmVzdCB3YXkgdG8gbWFrZSBzdXJlIGl0IG5ldmVyIGZpbmRzIHRoZW0sIGFuZCB0aGUgY2xlcmsgd2hvIG5vdGljZWQgdGhhdCB0aGUgc291dGhlcm4gY2hhcGVscyBzcGVuZCBtb3JlIG9uIHNpbHZlciB0aGFuIG9uIGNhbmRsZXMgd2FzIHRvbGQgdG8gc3RvcCBub3RpY2luZy4iLCAiKipQYWxlIG1vb25zLioqIFRvIGZlZWQgdGhlIFZpZ2lsLCB0aGUgTWludCBoYXMgdGhpbm5lZCBuZXcgVGlkZXMgYnkgYWJvdXQgYSBuaW50aCBzaW5jZSAxNTAgRUMuIFRoZSBIYWxsJ3Mgd2FycmFudCBpcyBvbiBldmVyeSBvbmUgb2YgdGhlbS4iLCAiKipHb2xkc3BpcmUgaXMgaW5zb2x2ZW50LioqIFRoZSBFeGNoYW5nZSdzIHBvc3QtYm9uZCBpcywgaW4gdHJ1dGgsIEJsYWNrc3RyYW5kIG1vbmV5LCBhbmQgTWFlcmEgaG9sZHMgZW5vdWdoIG9mIEdvbGRzcGlyZSdzIHBhcGVyIHRvIGNsb3NlIHRoZSBmbG9vciBhbnkgQ29pbnNkYXkgc2hlIGNob29zZXMuIFRoZSBDaGFydGVyaG91c2UgQ29tcGFueSBpcyBidXlpbmcgR29sZHNwaXJlIGRlYnQgaW4gc21hbGwgbG90cyBhY3Jvc3Mgc2l4IHBvcnRzLCB0aHJvdWdoIEhvdXNlIFphbmUuIiwgIioqVGhlIENvdW5jaWwgZGVidC4qKiBUaGUgQ291bmNpbCBib3Jyb3dlZCBmcm9tIHRoZSBIYWxsIHRvIHBheSBmb3IgdGhlIEtyYWtlbidzIE1hdyBDb2FsaXRpb24uIE1hZXJhIGhhcyBuZXZlciBjYWxsZWQgaXQgaW4sIGFuZCBldmVyeSBzZWF0IG9uIHRoZSBDb3VuY2lsIGtub3dzIHNoZSBjb3VsZC4iLCAiKipNb3J0aW1lciBWYW5yaXMqKiBvd2VzIHRoZSBIYWxsIG1vcmUgdGhhbiBhbnkgZmlsZSBzYXlzLiBPbmx5IE1hZXJhIGtub3dzIHRoZSB3aG9sZSBzdW0uIiwgIioqVGhlIExlZGdlciBXb2x2ZXMuKiogVGhleSBhcmUgbm90IHRoZSBIYWxsJ3MgaGFuZC4gVGhleSBhcmUgaXRzIHN1cHBsaWVycy4gRXZlcnkgQ29pbnNkYXkgYSBUaHJhbmUgZmFjdG9yIGJ1eXMgdGhlIFdvbHZlcycgcmlwZXN0IHBhcGVyIGF0IGEgZGlzY291bnQsIGFuZCB0aGUgSGFsbCBjb2xsZWN0cyBpdCBhdCBmdWxsIHZhbHVlLCBpbiBsZWRnZXIgaW5rLCB3aXRob3V0IGEga25pZmUgaW4gc2lnaHQuIE1hZXJhJ3MgZGVuaWFsIGlzIHRydWUsIGFuZCBpdCBzZXR0bGVzIG5vdGhpbmcgYmVjYXVzZSBpdCBzaG91bGQgbm90LiIsICIqKlRoZSBvbmUgZXJhc3VyZS4qKiBUaGUgcmVkIHN0YWluIGluIHRoZSBMZWRnZXIgaXMgU2FiaW4gQmxhY2tzdHJhbmQncyBuYW1lLiBBdCBuaW5ldGVlbiBzaGUgYm9ycm93ZWQgZnJvbSBoZXIgb3duIGZhbWlseSdzIEhhbGwsIGxvc3QgdGhlIGNhcmdvLCBhbmQgd2VudCBpbnRvIHRoZSBMZWRnZXIgb24gdGhlIHRoaXJkIENvaW5zZGF5IGxpa2UgYW55b25lIGVsc2UuIE1hZXJhIHRyaWVkIHRvIGVyYXNlIHRoZSBsaW5lLCB0aGUgb25seSB0aW1lIGEgRmlyc3QgUmVja29uZXIgaGFzIHRyaWVkLCBhbmQgbGVkZ2VyIGluayBzaG93ZWQgaXQuIFNhYmluIGhhcyBzYWlsZWQgYXMgSGVyYSBTZWF3b3J0aCBldmVyIHNpbmNlLCBhbmQgaGFzIG5ldmVyIGZvcmdpdmVuIGhlciBhdW50IGZvciB0aGUga2luZG5lc3MuIiwgIioqVGhlIENvdXJ0IG9mIEJvbmVzLioqIFRoZSBGaXJzdCBSZWNrb25lciBrbm93cyB0aGUgQ291cnQgZXhpc3RzLCBhbmQgc28gZG8gdGhlIFJlY2tvbmVycyB3aG8ga2VlcCB0aGUgc3RyYW5nZXN0IGFjY291bnRzLiBBIGRlYWQgbWFuJ3MgZGVidHMgc29tZXRpbWVzIGdvIG9uIGJlaW5nIHBhaWQsIGluIGNvcHBlciwgYnkgbm9ib2R5LiIsICIqKlRoZSBVcHdhcmQncyBjbGFpbS4qKiBJbiAxNzYgRUMgdGhlIGRyb3cgT3JpYW5kZWwgbWVhbnMgdG8gY29tZSB1cCB0aHJvdWdoIHRoZSBDaXN0ZXJuIERvb3IgYW5kIGxheSB0aGUgRGVlcCBUYWxseSdzIGNsYWltIGJlZm9yZSB0aGUgSGFsbCwgdW5kZXIgZHdhcnZlbiBsYXcsIHdoaWNoIHRoZSBIYWxsIGhvbm9ycy4gTWFlcmEgd2lsbCBoYXZlIHRvIHJ1bGUgb24gYSBjb250cmFjdCBvbGRlciB0aGFuIHRoZSBDb3VuY2lsLCBvd2VkIGJ5IHRoZSBtb3N0IHJlc3BlY3RlZCBkZWJ0b3JzIGluIHRoZSBpc2xhbmRzIHRvIGEgcGVvcGxlIHRoZSBpc2xhbmRzIGhhdmUgbmV2ZXIgc2Vlbi4gVGhlIGhvbGRzJyBjcmVkaXQgc3RhbmRzIGJlaGluZCBhIGdyZWF0IGRlYWwgb2YgdGhlIENvbmdyZXNzJ3MgcGFwZXIuIiwgIioqV2hhdCB0aGUgSGFsbCBpcyB3b3J0aC4qKiBBYm91dCAzMDAsMDAwIE9yc2FscyBsaWUgaW4gdGhlIENvaW4gVmF1bHRzLCBhbmQgbGVzcyB0aGFuIGEgdGhpcmQgb2YgaXQgaXMgdGhlIEhhbGwncyBvd24uIEl0cyBwYXBlciBvbiB0aGUgaXNsYW5kcyBpcyB3b3J0aCBwZXJoYXBzIGZpdmUgdGltZXMgdGhhdCwgaWYgaXQgd2VyZSBldmVyIGFsbCBjYWxsZWQgYXQgb25jZSwgd2hpY2ggd291bGQgZW5kIHRoZSBDaGFydGVyLiJdfQ=="
    }
   ],
   "facts": [
    [
     "First Reckoner",
-    "Maera Blackstrand"
+    "Lady Maera Blackstrand"
+   ],
+   [
+    "Second Reckoner",
+    "Ecler"
    ],
    [
     "Where",
-    "Goldwind"
+    "Goldwind's middle ring, wall to wall with the Charter Mint"
+   ],
+   [
+    "Founded",
+    "about 30 EC; the marble hall about 70 EC"
+   ],
+   [
+    "Seal",
+    "“Written. Witnessed. Owed.”"
+   ],
+   [
+    "Counting-houses",
+    "nine"
+   ],
+   [
+    "Guard",
+    "the Counting Guard, about 250"
+   ],
+   [
+    "Colors",
+    "ledger-black with white cuffs; counters in counter-grey"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -16170,7 +16387,20 @@
    "calendar",
    "hospitality",
    "most-wanted",
-   "goblinoids"
+   "goblinoids",
+   "ecler",
+   "reckoners-ledger",
+   "ledger-wolves",
+   "charter-mint",
+   "maera-blackstrand",
+   "house-blackstrand",
+   "twelve-flags",
+   "charterhouse-company",
+   "vault-geese",
+   "counting-jackdaw",
+   "tenants",
+   "swords-and-hunters",
+   "the-great-flows"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/reckoners-hall-960.webp",
@@ -16180,6 +16410,10 @@
    "height": 1024,
    "alt": "Clerks weigh coins and tend ledgers while captains and merchants wait in the Reckoners’ Hall.",
    "caption": "Clerks weigh coins and tend ledgers while captains and merchants wait in the Reckoners’ Hall."
+  },
+  "epigraph": {
+   "quote": "Read anything they hand you. Then read it again.",
+   "by": "A Goldwind advocate's advice to every client going to the Hall"
   }
  },
  {
@@ -16246,7 +16480,8 @@
    "silverport",
    "krysta",
    "pearl-groove-and-the-pelagar-isle",
-   "ironfort"
+   "ironfort",
+   "reckoners-hall"
   ]
  },
  {
@@ -17301,7 +17536,7 @@
     "title": "Customs of the house",
     "paragraphs": [],
     "list": [
-     "**Coinsday.** The Hall settles accounts on Coinsday, the fourth day of every Cycle, and the family eats a plain supper that night, whatever its guests are served.",
+     "**Coinsday.** The Hall settles accounts on Coinsday, the ninth day of every Cycle, and the family eats a plain supper that night, whatever its guests are served.",
      "**The third Coinsday.** Three Coinsdays unpaid puts a name in the Ledger. The house sends one polite letter on the first and one on the second. On the third it sends nothing, because it no longer needs to.",
      "**The serial number.** Every Blackstrand child is given an Orsal at birth with a serial number noted in the family book. Maera's is still in her purse.",
      "**No gifts refused.** The house accepts every gift from a debtor, and enters it on the credit side of the debtor's account, which the debtor is told.",
@@ -17346,7 +17581,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogW10sICJsaXN0IjogWyIqKlRoZSBUZW50aCBBY2NvdW50LioqIFRoZSBWaWdpbCdzIHNpbHZlciBpcyBib3VnaHQgdGhyb3VnaCB0aGUgVGVudGggQWNjb3VudCBhdCB0aGUgUmVja29uZXJzJyBIYWxsLCBkaXNndWlzZWQgYXMgaHVsbC1zaGVhdGhpbmcgYW5kIGxhbnRlcm4gY29udHJhY3RzIGZvciB0aGUgQXJtYWRhLCBhbmQgTWFlcmEgc2lnbnMgZXZlcnkgcGFnZSAoVm9sdW1lIFhYSSkuIFNoZSBpcyBvbmUgb2YgdGhlIGZldyB3aG8ga25vdyBhYm91dCB0aGUgVmlnaWwuIFRoZSBjb3BwZXJzbWl0aCdzIHJ1bW9yIGlzIGFib3V0IGl0LiIsICIqKlRoZSBzaWx2ZXIgZHJhaW4qKiBoYXMgdHdvIG1vdXRocywgdGhlIFZpZ2lsJ3MgVGVudGggQWNjb3VudCBhbmQgdGhlIEZlcnJ5bWVuJ3MgYWxtcy4gVGhlIEhhbGwgaXMgaW52ZXN0aWdhdGluZywgYW5kIGVhY2ggb3JkZXIgaGlkZXMgKHRoZSBMaXRlKS4gTWFlcmEgcnVucyB0aGUgaW52ZXN0aWdhdGlvbiBpbnRvIGhlciBvd24gcGF5bWVudHMsIHdoaWNoIGlzIHRoZSBzYWZlc3Qgd2F5IHRvIG1ha2Ugc3VyZSBpdCBuZXZlciBmaW5kcyB0aGVtLiIsICIqKlBhbGUgbW9vbnMuKiogVG8gZmVlZCB0aGUgVmlnaWwncyBzaWx2ZXIsIHRoZSBNaW50IGhhcyB0aGlubmVkIG5ldyBUaWRlcyBieSBhYm91dCBhIG5pbnRoIHNpbmNlIDE1MCBFQy4gVGhlIEhhbGwncyB3YXJyYW50IGlzIG9uIGV2ZXJ5IG9uZSAodGhlIExpdGUpLiIsICIqKkdvbGRzcGlyZSBpcyBpbnNvbHZlbnQuKiogVGhlIEV4Y2hhbmdlJ3MgcG9zdC1ib25kIGlzLCBpbiB0cnV0aCwgQmxhY2tzdHJhbmQgbW9uZXksIGFuZCBNYWVyYSBob2xkcyBlbm91Z2ggb2YgR29sZHNwaXJlJ3MgcGFwZXIgdG8gY2xvc2UgdGhlIGZsb29yIGFueSBDb2luc2RheSBzaGUgY2hvb3Nlcy4gVGhlIENoYXJ0ZXJob3VzZSBDb21wYW55IGlzIGJ1eWluZyBHb2xkc3BpcmUgZGVidCBpbiBzbWFsbCBsb3RzIHRocm91Z2ggSG91c2UgWmFuZSAoVm9sdW1lIFhYSSkuIiwgIioqTW9ydGltZXIgVmFucmlzKiogb3dlcyB0aGUgaG91c2UgbW9yZSB0aGFuIENhc3NhbmRyYSBEb3NzbGFzJ3MgZmlsZSBzYXlzLiBPbmx5IE1hZXJhIGtub3dzIHRoZSB3aG9sZSBzdW0gKEhvdXNlIFZhbnJpcykuIiwgIioqVGhlIENvdW5jaWwgZGVidCoqIGlzIHJlYWwuIFRoZSBDb3VuY2lsIGJvcnJvd2VkIGZyb20gdGhlIEhhbGwgZm9yIHRoZSBLcmFrZW4ncyBNYXcgQ29hbGl0aW9uLCBhbmQgTWFlcmEgaGFzIG5ldmVyIGNhbGxlZCBpdCBpbi4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk1hZGFtIFRhbGx5IGFuZCB0aGUgVGVudGggQWNjb3VudC4qKiBUaGUgSGFsbCBoYXMgbmV2ZXIgYnJvdWdodCBNYWRhbSBUYWxseSBvdXQgZm9yIHRoZSBUZW50aCBBY2NvdW50LiBNYWVyYSBkb2VzIG5vdCB3YW50IHRvIGxlYXJuIHdoZXRoZXIgdGhlIGJlYWRzIHdvdWxkIHN0b3AuIiwgIioqVGhlIExlZGdlciBXb2x2ZXMuKiogVGhleSBhcmUgbm90IHRoZSBIYWxsJ3MgaGFuZC4gVGhleSBhcmUgaXRzIHN1cHBsaWVycy4gRXZlcnkgQ29pbnNkYXkgYSBUaHJhbmUgZmFjdG9yIGJ1eXMgdGhlIFdvbHZlcycgcmlwZXN0IHBhcGVyIGF0IGEgZGlzY291bnQsIGFuZCB0aGUgSGFsbCBjb2xsZWN0cyBpdCBhdCBmdWxsIHZhbHVlLCBpbiBsZWRnZXIgaW5rLCB3aXRob3V0IGEga25pZmUgaW4gc2lnaHQuIE1hZXJhJ3MgZGVuaWFsIGlzIHRydWUsIGFuZCBpdCBzZXR0bGVzIG5vdGhpbmcgYmVjYXVzZSBpdCBzaG91bGQgbm90LiIsICIqKlRoZSBvbmUgZXJhc3VyZS4qKiBUaGUgcmVkIHN0YWluIGluIHRoZSBMZWRnZXIgaXMgU2FiaW4gQmxhY2tzdHJhbmQncyBuYW1lLiBBdCBuaW5ldGVlbiBzaGUgYm9ycm93ZWQgZnJvbSBoZXIgb3duIGZhbWlseSdzIEhhbGwsIGxvc3QgdGhlIGNhcmdvLCBhbmQgd2VudCBpbnRvIHRoZSBMZWRnZXIgb24gdGhlIHRoaXJkIENvaW5zZGF5IGxpa2UgYW55b25lIGVsc2UuIE1hZXJhIHRyaWVkIHRvIGVyYXNlIHRoZSBsaW5lLCB0aGUgb25seSB0aW1lIGEgRmlyc3QgUmVja29uZXIgaGFzIHRyaWVkLCBhbmQgbGVkZ2VyIGluayBzaG93ZWQgaXQuIFNhYmluIGhhcyBzYWlsZWQgYXMgSGVyYSBTZWF3b3J0aCBldmVyIHNpbmNlLCBhbmQgaGFzIG5ldmVyIGZvcmdpdmVuIGhlciBhdW50IGZvciB0aGUga2luZG5lc3MuIiwgIioqV2hhdCB0aGUgSGFsbCBpcyB3b3J0aC4qKiBBYm91dCAzMDAsMDAwIE9yc2FscyBsaWUgaW4gdGhlIENvaW4gVmF1bHRzLCBhbmQgbGVzcyB0aGFuIGEgdGhpcmQgb2YgaXQgaXMgdGhlIEhhbGwncyBvd24uIEl0cyBwYXBlciBvbiB0aGUgaXNsYW5kcyBpcyB3b3J0aCBwZXJoYXBzIGZpdmUgdGltZXMgdGhhdCwgaWYgaXQgd2VyZSBldmVyIGFsbCBjYWxsZWQgYXQgb25jZSwgd2hpY2ggd291bGQgZW5kIHRoZSBDaGFydGVyLiJdLCAibGlzdCI6IFsiKipUaGUgVGVudGggQWNjb3VudC4qKiBUaGUgVmlnaWwncyBzaWx2ZXIgaXMgYm91Z2h0IHRocm91Z2ggdGhlIFRlbnRoIEFjY291bnQgYXQgdGhlIFJlY2tvbmVycycgSGFsbCwgZGlzZ3Vpc2VkIGFzIGh1bGwtc2hlYXRoaW5nIGFuZCBsYW50ZXJuIGNvbnRyYWN0cyBmb3IgdGhlIEFybWFkYSwgYW5kIE1hZXJhIHNpZ25zIGV2ZXJ5IHBhZ2UgKFZvbHVtZSBYWEkpLiBTaGUgaXMgb25lIG9mIHRoZSBmZXcgd2hvIGtub3cgYWJvdXQgdGhlIFZpZ2lsLiBUaGUgY29wcGVyc21pdGgncyBydW1vciBpcyBhYm91dCBpdC4iLCAiKipUaGUgc2lsdmVyIGRyYWluKiogaGFzIHR3byBtb3V0aHMsIHRoZSBWaWdpbCdzIFRlbnRoIEFjY291bnQgYW5kIHRoZSBGZXJyeW1lbidzIGFsbXMuIFRoZSBIYWxsIGlzIGludmVzdGlnYXRpbmcsIGFuZCBlYWNoIG9yZGVyIGhpZGVzICh0aGUgTGl0ZSkuIE1hZXJhIHJ1bnMgdGhlIGludmVzdGlnYXRpb24gaW50byBoZXIgb3duIHBheW1lbnRzLCB3aGljaCBpcyB0aGUgc2FmZXN0IHdheSB0byBtYWtlIHN1cmUgaXQgbmV2ZXIgZmluZHMgdGhlbS4iLCAiKipQYWxlIG1vb25zLioqIFRvIGZlZWQgdGhlIFZpZ2lsJ3Mgc2lsdmVyLCB0aGUgTWludCBoYXMgdGhpbm5lZCBuZXcgVGlkZXMgYnkgYWJvdXQgYSBuaW50aCBzaW5jZSAxNTAgRUMuIFRoZSBIYWxsJ3Mgd2FycmFudCBpcyBvbiBldmVyeSBvbmUgKHRoZSBMaXRlKS4iLCAiKipHb2xkc3BpcmUgaXMgaW5zb2x2ZW50LioqIFRoZSBFeGNoYW5nZSdzIHBvc3QtYm9uZCBpcywgaW4gdHJ1dGgsIEJsYWNrc3RyYW5kIG1vbmV5LCBhbmQgTWFlcmEgaG9sZHMgZW5vdWdoIG9mIEdvbGRzcGlyZSdzIHBhcGVyIHRvIGNsb3NlIHRoZSBmbG9vciBhbnkgQ29pbnNkYXkgc2hlIGNob29zZXMuIFRoZSBDaGFydGVyaG91c2UgQ29tcGFueSBpcyBidXlpbmcgR29sZHNwaXJlIGRlYnQgaW4gc21hbGwgbG90cyB0aHJvdWdoIEhvdXNlIFphbmUgKFZvbHVtZSBYWEkpLiIsICIqKk1vcnRpbWVyIFZhbnJpcyoqIG93ZXMgdGhlIGhvdXNlIG1vcmUgdGhhbiBDYXNzYW5kcmEgRG9zc2xhcydzIGZpbGUgc2F5cy4gT25seSBNYWVyYSBrbm93cyB0aGUgd2hvbGUgc3VtIChIb3VzZSBWYW5yaXMpLiIsICIqKlRoZSBDb3VuY2lsIGRlYnQqKiBpcyByZWFsLiBUaGUgQ291bmNpbCBib3Jyb3dlZCBmcm9tIHRoZSBIYWxsIGZvciB0aGUgS3Jha2VuJ3MgTWF3IENvYWxpdGlvbiwgYW5kIE1hZXJhIGhhcyBuZXZlciBjYWxsZWQgaXQgaW4uIl19"
    }
   ],
   "facts": [
@@ -17434,7 +17669,10 @@
   "related": [
    "sigil",
    "reckoners-hall",
-   "noble-houses"
+   "noble-houses",
+   "reckoners-ledger",
+   "ledger-wolves",
+   "ecler"
   ]
  },
  {
@@ -27179,7 +27417,8 @@
    "nethis-the-sealed-word",
    "abysm",
    "reckoners-hall",
-   "assios-and-the-wider-world"
+   "assios-and-the-wider-world",
+   "reckoners-ledger"
   ]
  },
  {
@@ -32349,7 +32588,8 @@
    "returned-crown-and-the-tollmen",
    "duskmire-haven",
    "jakupur",
-   "zalkareth"
+   "zalkareth",
+   "ledger-wolves"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/undertow-960.webp",
@@ -32798,7 +33038,8 @@
     "paragraphs": [
      "A merchant who needs a loan or wants to insure a cargo can turn to the Reckoners’ Hall, the bank of the Mercantile Congress. Its First Reckoner is Lady Maera Blackstrand. She also heads House Blackstrand, the Ledger’s Lord.",
      "Horace Goldspire has the Congress's chair on the Council. Everyone knows the real power of the Congress is the Hall, and that the Hall is Maera Blackstrand.",
-     "She holds half the islands' debts. The house motto is All Accounts Come Due."
+     "She holds half the islands' debts. The house motto is All Accounts Come Due.",
+     "Her Second Reckoner is Ecler, who runs the Hall's day and sits the Bench of Accounts when she does not."
     ]
    },
    {
@@ -32810,7 +33051,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBVcHdhcmQuKiogVGhlaXIgbGVhZGVyIE9yaWFuZGVsIGhhcyBzZXJ2ZWQgbm90aWNlIGluIHRoZSBsZWRnZXItbmljaGVzIG9mIHRoZSB3YWxsZWQgaG9sZHMuIEluIDE3NiBFQyBzaGUgbWVhbnMgdG8gd2FsayB1cCB0aHJvdWdoIHRoZSBDaXN0ZXJuIERvb3IgYW5kIGxheSB0aGUgY2xhaW0gYmVmb3JlIHRoZSBSZWNrb25lcnMnIEhhbGwsIHVuZGVyIGR3YXJ2ZW4gbGF3LiBTaGUgZG9lcyBub3Qgd2FudCB0aGUgaG9sZHMuIFNoZSB3YW50cyBhIGxpZ2h0IGZvciB0aGUgbGlnaHQsIGFuZCBzaGUgd2lsbCBmb3JnaXZlIHRoZSBhcnJlYXJzIG9mIGFueSBob2xkIHRoYXQgaGVscHMgcGF5IGl0LiIsICIqKlRoZSBUZW50aCBBY2NvdW50IGlzIHRoZSBzaWx2ZXIgZHJhaW4uKiogTWFlcmEgQmxhY2tzdHJhbmQgcGF5cyB0aGUgVmlnaWwgdGhyb3VnaCBhIGxlZGdlciB0aGF0IG5vIG90aGVyIENvdW5jaWwgbWVtYmVyIGNhbiBzZWUsIGFuZCB0aGUgTWludCdzIHRoaW5uZWQgVGlkZXMgYXJlIGl0cyBzb3VyY2UuIEJsYWNrc3RyYW5kIGtub3dzIHRoYXQgdGhlIENvdW5jaWwgaXMgcGF5aW5nIGZvciBhIGZsZWV0IGl0IGNhbm5vdCBuYW1lLCBhbmQgc2hlIGhhcyBkZWNpZGVkIHRoYXQgdGhlIGRlYnQgd2lsbCBiZSBjb2xsZWN0ZWQgb25lIGRheSwgYW5kIHRoYXQgc2hlIHdhbnRzIHRoZSBjb2xsZWN0aW5nLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBVcHdhcmQuKiogVGhlaXIgbGVhZGVyIE9yaWFuZGVsIGhhcyBzZXJ2ZWQgbm90aWNlIGluIHRoZSBsZWRnZXItbmljaGVzIG9mIHRoZSB3YWxsZWQgaG9sZHMuIEluIDE3NiBFQyBzaGUgbWVhbnMgdG8gd2FsayB1cCB0aHJvdWdoIHRoZSBDaXN0ZXJuIERvb3IgYW5kIGxheSB0aGUgY2xhaW0gYmVmb3JlIHRoZSBSZWNrb25lcnMnIEhhbGwsIHVuZGVyIGR3YXJ2ZW4gbGF3LiBTaGUgZG9lcyBub3Qgd2FudCB0aGUgaG9sZHMuIFNoZSB3YW50cyBhIGxpZ2h0IGZvciB0aGUgbGlnaHQsIGFuZCBzaGUgd2lsbCBmb3JnaXZlIHRoZSBhcnJlYXJzIG9mIGFueSBob2xkIHRoYXQgaGVscHMgcGF5IGl0LiIsICIqKlRoZSBUZW50aCBBY2NvdW50IGlzIHRoZSBzaWx2ZXIgZHJhaW4uKiogTWFlcmEgQmxhY2tzdHJhbmQgcGF5cyB0aGUgVmlnaWwgdGhyb3VnaCBhIGxlZGdlciB0aGF0IG5vIG90aGVyIENvdW5jaWwgbWVtYmVyIGNhbiBzZWUsIGFuZCB0aGUgTWludCdzIHRoaW5uZWQgVGlkZXMgYXJlIGl0cyBzb3VyY2UuIEJsYWNrc3RyYW5kIGtub3dzIHRoYXQgdGhlIENvdW5jaWwgaXMgcGF5aW5nIGZvciBhIGZsZWV0IGl0IGNhbm5vdCBuYW1lLCBhbmQgc2hlIGhhcyBkZWNpZGVkIHRoYXQgdGhlIGRlYnQgd2lsbCBiZSBjb2xsZWN0ZWQgb25lIGRheSwgYW5kIHRoYXQgc2hlIHdhbnRzIHRoZSBjb2xsZWN0aW5nLiIsICIqKk1hZGFtIFRhbGx5IGFuZCB0aGUgVGVudGggQWNjb3VudC4qKiBUaGUgSGFsbCBoYXMgbmV2ZXIgYnJvdWdodCBNYWRhbSBUYWxseSBvdXQgZm9yIHRoZSBUZW50aCBBY2NvdW50LiBNYWVyYSBkb2VzIG5vdCB3YW50IHRvIGxlYXJuIHdoZXRoZXIgdGhlIGJlYWRzIHdvdWxkIHN0b3AuIiwgIioqVGhlIENvdW5jaWwgZGVidC4qKiBUaGUgQ291bmNpbCBib3Jyb3dlZCBmcm9tIHRoZSBIYWxsIHRvIHBheSBmb3IgdGhlIEtyYWtlbidzIE1hdyBDb2FsaXRpb24uIE1hZXJhIGhhcyBuZXZlciBjYWxsZWQgaXQgaW4sIGFuZCBldmVyeSBzZWF0IG9uIHRoZSBDb3VuY2lsIGtub3dzIHNoZSBjb3VsZC4iLCAiKipUaGUgTGVkZ2VyIFdvbHZlcy4qKiBUaGV5IGFyZSBub3QgdGhlIEhhbGwncyBoYW5kLiBUaGV5IGFyZSBpdHMgc3VwcGxpZXJzLiBFdmVyeSBDb2luc2RheSBhIFRocmFuZSBmYWN0b3IgYnV5cyB0aGUgV29sdmVzJyByaXBlc3QgcGFwZXIgYXQgYSBkaXNjb3VudCwgYW5kIHRoZSBIYWxsIGNvbGxlY3RzIGl0IGF0IGZ1bGwgdmFsdWUsIGluIGxlZGdlciBpbmssIHdpdGhvdXQgYSBrbmlmZSBpbiBzaWdodC4gTWFlcmEncyBkZW5pYWwgaXMgdHJ1ZSwgYW5kIGl0IHNldHRsZXMgbm90aGluZyBiZWNhdXNlIGl0IHNob3VsZCBub3QuIiwgIioqVGhlIG9uZSBlcmFzdXJlLioqIFRoZSByZWQgc3RhaW4gaW4gdGhlIExlZGdlciBpcyBTYWJpbiBCbGFja3N0cmFuZCdzIG5hbWUuIEF0IG5pbmV0ZWVuIHNoZSBib3Jyb3dlZCBmcm9tIGhlciBvd24gZmFtaWx5J3MgSGFsbCwgbG9zdCB0aGUgY2FyZ28sIGFuZCB3ZW50IGludG8gdGhlIExlZGdlciBvbiB0aGUgdGhpcmQgQ29pbnNkYXkgbGlrZSBhbnlvbmUgZWxzZS4gTWFlcmEgdHJpZWQgdG8gZXJhc2UgdGhlIGxpbmUsIHRoZSBvbmx5IHRpbWUgYSBGaXJzdCBSZWNrb25lciBoYXMgdHJpZWQsIGFuZCBsZWRnZXIgaW5rIHNob3dlZCBpdC4gU2FiaW4gaGFzIHNhaWxlZCBhcyBIZXJhIFNlYXdvcnRoIGV2ZXIgc2luY2UsIGFuZCBoYXMgbmV2ZXIgZm9yZ2l2ZW4gaGVyIGF1bnQgZm9yIHRoZSBraW5kbmVzcy4iXX0="
    }
   ],
   "facts": [
@@ -32843,7 +33084,10 @@
    "reckoners-hall",
    "house-blackstrand",
    "mercantile-congress",
-   "goldwind"
+   "goldwind",
+   "ecler",
+   "reckoners-ledger",
+   "charter-mint"
   ]
  },
  {
@@ -39909,7 +40153,8 @@
    "learned-work",
    "household-and-service",
    "swords-and-hunters",
-   "field-mine-and-herd"
+   "field-mine-and-herd",
+   "reckoners-ledger"
   ]
  },
  {
@@ -41067,7 +41312,8 @@
    "ironfort",
    "the-moot-of-banners",
    "noble-houses",
-   "work-at-sea"
+   "work-at-sea",
+   "reckoners-hall"
   ]
  },
  {
@@ -45259,6 +45505,11 @@
      "“Last Dog, the seventh of the Watches, isn’t lost. It was tenanted the night it was finished, and it walked.” (an Aurelion journeyman)",
      "“There’s a letting-smith alive. One. The Smiths’ Guild knows where and pays to keep it quiet.” (a Quiet Auction porter)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk1hZGFtIFRhbGx5IGFuZCB0aGUgVGVudGggQWNjb3VudC4qKiBUaGUgSGFsbCBoYXMgbmV2ZXIgYnJvdWdodCBNYWRhbSBUYWxseSBvdXQgZm9yIHRoZSBUZW50aCBBY2NvdW50LiBNYWVyYSBkb2VzIG5vdCB3YW50IHRvIGxlYXJuIHdoZXRoZXIgdGhlIGJlYWRzIHdvdWxkIHN0b3AuIl19"
    }
   ],
   "related": [
@@ -50289,6 +50540,343 @@
    "Court of Bones",
    "our friends below"
   ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "ecler",
+  "title": "Ecler",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The Second Reckoner",
+  "summary": "Second Reckoner of the Reckoners' Hall: the First Reckoner's second, two metres of black gown and brass chain, the terror of new clerks for about a week.",
+  "facts": [
+   [
+    "Title",
+    "Second Reckoner"
+   ],
+   [
+    "Serves",
+    "First Reckoner Maera Blackstrand"
+   ],
+   [
+    "Where",
+    "The Reckoners' Hall, Goldwind"
+   ],
+   [
+    "Wears",
+    "A black gown and the Second Reckoner's brass chain"
+   ],
+   [
+    "Known for",
+    "A voice like a sentence being passed, and a weakness for anything sweet"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Who he is",
+    "paragraphs": [
+     "Ecler is the Second Reckoner of the Reckoners' Hall, the First Reckoner's second, and the man who actually runs the Hall's day. He is two metres tall, dark-haired, pale and long in the face, and he wears the black gown and the brass chain of his office as if they had been measured for a tower.",
+     "Clerks are terrified of him for about a week. Then they learn that he rose from the counters himself, that he knows every clerk in the Quiet Room by name, and that he cannot say no to anything sweet."
+    ]
+   },
+   {
+    "title": "At the Hall",
+    "paragraphs": [],
+    "list": [
+     "**The keys.** He holds the duty roll and the keys of the Hall below the Quiet Room.",
+     "**The chits.** A reader's chit with his seal on it opens any file in the reading room, and he does not sign many.",
+     "**The Bench.** When the First Reckoner does not sit, Ecler takes the high chair at the Bench of Accounts on Wardsday.",
+     "**The day.** He is the first into the Hall and the last out of it, and the doorwardens set the bolts by his back."
+    ]
+   },
+   {
+    "title": "As the clerks tell it",
+    "paragraphs": [],
+    "list": [
+     "He has never been heard to raise his voice in the Quiet Room. He lowers it, and the room gets quieter.",
+     "The bakers of the middle ring know his order, and so does every clerk who has ever needed a favor.",
+     "He reads with small spectacles on a cord, and looks over them, not through them, at whoever is talking."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Second Reckoner does not accept gifts. He accepts samples.” (a middle-ring baker)",
+     "“He passed the Long Column at fourteen, the youngest anyone remembers, and walked the length of the Quiet Room without once looking down.” (a junior counter)"
+    ]
+   }
+  ],
+  "related": [
+   "reckoners-hall",
+   "maera-blackstrand",
+   "house-blackstrand",
+   "goldwind",
+   "mercantile-congress"
+  ],
+  "aliases": [
+   "Second Reckoner Ecler",
+   "the Second Reckoner"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "reckoners-ledger",
+  "title": "The Reckoners' Ledger",
+  "category": "trade",
+  "region": "All regions",
+  "subtitle": "Three Coinsdays, and your name follows you",
+  "summary": "The Reckoners' register of debts unpaid. Three Coinsdays late, and a name goes in; by the next Coinsday every counting-house in the islands knows it.",
+  "epigraph": {
+   "quote": "The Hall does not erase.",
+   "by": "Said in the Heartland of anything that cannot be taken back"
+  },
+  "facts": [
+   [
+    "Kept by",
+    "House Tessick, in the Reckoners' Hall"
+   ],
+   [
+    "Opened",
+    "about 41 EC"
+   ],
+   [
+    "First name in it",
+    "Carrick, one of the Hall's own founders"
+   ],
+   [
+    "How a name goes in",
+    "three Coinsdays unpaid"
+   ],
+   [
+    "How it comes out",
+    "paid in full, struck through in red"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A row of great black books chained to their lecterns in the Ledger Room of the Reckoners' Hall, written in ledger ink, which shows a red stain wherever it is altered. House Tessick keeps it. Every Coinsday its new pages are copied and sent to every counting-house in the islands."
+    ]
+   },
+   {
+    "title": "How a name goes in",
+    "paragraphs": [],
+    "list": [
+     "Coinsday is settling day. A debt falls due on it.",
+     "The Hall sends a polite letter on the first Coinsday a debt is missed, and another on the second.",
+     "On the third it sends nothing. The name is in the Ledger.",
+     "A captain who sinks his own ship for the bottomry bond goes in the same day, without waiting."
+    ]
+   },
+   {
+    "title": "What it costs you",
+    "paragraphs": [],
+    "list": [
+     "You can borrow nowhere.",
+     "You can sign no bottomry bond.",
+     "You can hold no master's chain in any guild.",
+     "Every counting-house in the islands knows your name by the next Coinsday."
+    ]
+   },
+   {
+    "title": "Getting out",
+    "paragraphs": [],
+    "list": [
+     "Pay the debt in full, with all the interest that ran.",
+     "The line is struck through in red. It is never erased.",
+     "A struck name may borrow again after a year and a day.",
+     "A debtor who cannot pay may bind themselves to work the debt off, under a contract a magistrate seals, or sit in the debtors' hold while the debt grows."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The Still Days freeze every debt, and no debtor may be taken during them.",
+     "The first name ever entered in the Ledger belonged to one of the five families that founded the Hall."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There is a name in the Ledger with a red stain where somebody tried to erase it.” (a Tessick clerk)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBvbmUgZXJhc3VyZS4qKiBUaGUgcmVkIHN0YWluIGluIHRoZSBMZWRnZXIgaXMgU2FiaW4gQmxhY2tzdHJhbmQncyBuYW1lLiBBdCBuaW5ldGVlbiBzaGUgYm9ycm93ZWQgZnJvbSBoZXIgb3duIGZhbWlseSdzIEhhbGwsIGxvc3QgdGhlIGNhcmdvLCBhbmQgd2VudCBpbnRvIHRoZSBMZWRnZXIgb24gdGhlIHRoaXJkIENvaW5zZGF5IGxpa2UgYW55b25lIGVsc2UuIE1hZXJhIHRyaWVkIHRvIGVyYXNlIHRoZSBsaW5lLCB0aGUgb25seSB0aW1lIGEgRmlyc3QgUmVja29uZXIgaGFzIHRyaWVkLCBhbmQgbGVkZ2VyIGluayBzaG93ZWQgaXQuIFNhYmluIGhhcyBzYWlsZWQgYXMgSGVyYSBTZWF3b3J0aCBldmVyIHNpbmNlLCBhbmQgaGFzIG5ldmVyIGZvcmdpdmVuIGhlciBhdW50IGZvciB0aGUga2luZG5lc3MuIiwgIioqVGhlIExlZGdlciBXb2x2ZXMuKiogVGhleSBhcmUgbm90IHRoZSBIYWxsJ3MgaGFuZC4gVGhleSBhcmUgaXRzIHN1cHBsaWVycy4gRXZlcnkgQ29pbnNkYXkgYSBUaHJhbmUgZmFjdG9yIGJ1eXMgdGhlIFdvbHZlcycgcmlwZXN0IHBhcGVyIGF0IGEgZGlzY291bnQsIGFuZCB0aGUgSGFsbCBjb2xsZWN0cyBpdCBhdCBmdWxsIHZhbHVlLCBpbiBsZWRnZXIgaW5rLCB3aXRob3V0IGEga25pZmUgaW4gc2lnaHQuIE1hZXJhJ3MgZGVuaWFsIGlzIHRydWUsIGFuZCBpdCBzZXR0bGVzIG5vdGhpbmcgYmVjYXVzZSBpdCBzaG91bGQgbm90LiJdfQ=="
+   }
+  ],
+  "related": [
+   "reckoners-hall",
+   "house-blackstrand",
+   "coinage",
+   "jobs-and-wages",
+   "still-days",
+   "ledger-wolves"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "ledger-wolves",
+  "title": "The Ledger Wolves",
+  "category": "outlaws",
+  "region": "Central Heartland",
+  "subtitle": "Loans by knife",
+  "summary": "Loan-sharks for those the Reckoners won't lend to, in the lower rings of Goldwind and every Heartland port, collecting by knife.",
+  "facts": [
+   [
+    "Head",
+    "Dagny Sorrel, “the Interest”"
+   ],
+   [
+    "Where",
+    "the lower rings of Goldwind and every Heartland port"
+   ],
+   [
+    "Rate",
+    "1 in 10, every Cycle"
+   ],
+   [
+    "Sign",
+    "a torn ledger-corner pinned to a door"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Who they are",
+    "paragraphs": [
+     "The Ledger Wolves lend to the people the Reckoners' Hall turns away, at rates the Reckoners would blush at, and they collect by knife. Their head is Dagny Sorrel, called *the Interest*.",
+     "Rumor says the Wolves are the Hall's own deniable hand. First Reckoner Maera Blackstrand denies it in a tone that settles nothing."
+    ]
+   },
+   {
+    "title": "How they work",
+    "paragraphs": [],
+    "list": [
+     "**The rate.** One in ten, every Cycle. The Hall charges a tradesman one in five a year.",
+     "**The sign.** A torn ledger-corner pinned to a door. The first is a reminder. Nobody waits for the second.",
+     "**The collecting.** By knife, in the lower rings, where the watch walks in pairs."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "If the Hall will not lend to you, ask a Lodge Quartermaster for a chit before you ask the Wolves.",
+     "If you find a torn ledger-corner on your door, pay before Coinsday."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Every Coinsday a Wolf walks up the Hall's steps with a satchel, and walks down without it.” (a Black Cup waiter)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBMZWRnZXIgV29sdmVzLioqIFRoZXkgYXJlIG5vdCB0aGUgSGFsbCdzIGhhbmQuIFRoZXkgYXJlIGl0cyBzdXBwbGllcnMuIEV2ZXJ5IENvaW5zZGF5IGEgVGhyYW5lIGZhY3RvciBidXlzIHRoZSBXb2x2ZXMnIHJpcGVzdCBwYXBlciBhdCBhIGRpc2NvdW50LCBhbmQgdGhlIEhhbGwgY29sbGVjdHMgaXQgYXQgZnVsbCB2YWx1ZSwgaW4gbGVkZ2VyIGluaywgd2l0aG91dCBhIGtuaWZlIGluIHNpZ2h0LiBNYWVyYSdzIGRlbmlhbCBpcyB0cnVlLCBhbmQgaXQgc2V0dGxlcyBub3RoaW5nIGJlY2F1c2UgaXQgc2hvdWxkIG5vdC4iXX0="
+   }
+  ],
+  "related": [
+   "reckoners-hall",
+   "reckoners-ledger",
+   "undertow",
+   "goldwind"
+  ],
+  "aliases": [
+   "Dagny Sorrel"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "charter-mint",
+  "title": "The Charter Mint",
+  "category": "trade",
+  "region": "Central Heartland",
+  "subtitle": "The only place in the islands that strikes gold",
+  "summary": "The Council's mint on Goldwind's middle ring, wall to wall with the Reckoners' Hall. It alone strikes gold, and no Orsal leaves it without a Reckoner's warrant.",
+  "facts": [
+   [
+    "Where",
+    "Goldwind's middle ring, wall to wall with the Reckoners' Hall"
+   ],
+   [
+    "Master",
+    "a Council office"
+   ],
+   [
+    "Mint-mark",
+    "a small wind-rose"
+   ],
+   [
+    "Strikes",
+    "Anchors and Orsals; every Orsal numbered"
+   ],
+   [
+    "Founded",
+    "about 55 EC"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it does",
+    "paragraphs": [],
+    "list": [
+     "**It alone strikes gold.** The Ironfort Mint strikes Bits and Tides for the Frontier (mint-mark: a tower), and the Southhaven Mint strikes Bits only (a palm).",
+     "**The Orsal.** Struck only on the Reckoners' written warrant, square so it will not roll, and numbered, each number entered in the Hall's ledgers.",
+     "**The pour.** Two Reckoners walk through the Mint Door from the Hall for every pour of gold, and the Hall audits every one.",
+     "**The anchor.** The Mint's anchor wears a single loop of cable around the shank. Collectors swear that only forgeries tie it the wrong way."
+    ]
+   },
+   {
+    "title": "Where the metal comes from",
+    "paragraphs": [],
+    "list": [
+     "**Gold:** southern river-gold, the mines of the deep south, and the refiners of Aurelion.",
+     "**Silver:** a little from Bastion's hill-mines and the Sapphire Isle, and the rest from Assios through the Gate. The islands have never mined enough silver of their own, and every Reckoner knows it.",
+     "**Copper:** Everfall and the western heights, in plenty."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Mint-in-the-Mire's drowned Anchors are so good the Charter Mint has bought them back twice by mistake.” (a Duskmire fence)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBhbGUgbW9vbnMuKiogVG8gZmVlZCB0aGUgVmlnaWwsIHRoZSBNaW50IGhhcyB0aGlubmVkIG5ldyBUaWRlcyBieSBhYm91dCBhIG5pbnRoIHNpbmNlIDE1MCBFQy4gVGhlIEhhbGwncyB3YXJyYW50IGlzIG9uIGV2ZXJ5IG9uZSBvZiB0aGVtLiIsICIqKlRoZSBUZW50aCBBY2NvdW50LioqIFRoZSBTaWx2ZXIgVmlnaWwncyBzaWx2ZXIgaXMgYm91Z2h0IHRocm91Z2ggdGhlIFRlbnRoIEFjY291bnQsIGRpc2d1aXNlZCBhcyBodWxsLXNoZWF0aGluZyBhbmQgbGFudGVybiBjb250cmFjdHMgZm9yIHRoZSBBcm1hZGEsIGFuZCBGaXJzdCBSZWNrb25lciBNYWVyYSBCbGFja3N0cmFuZCBzaWducyBldmVyeSBwYWdlLiBTaGUgaXMgb25lIG9mIHRoZSBmZXcgYWJvdmUgd2hvIGtub3cgYWJvdXQgdGhlIFZpZ2lsLiBUaGUgY29wcGVyc21pdGhzJyBqb2tlIGFib3V0IHRoZSBBcm1hZGEgYnV5aW5nIG1vcmUgaHVsbC1zaGVhdGhpbmcgdGhhbiBpdCBoYXMgaHVsbHMgaXMgYWJvdXQgdGhpcy4iXX0="
+   }
+  ],
+  "related": [
+   "reckoners-hall",
+   "coinage",
+   "goldwind",
+   "council"
+  ],
+  "aliases": [],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "pending"
