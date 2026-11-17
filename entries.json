@@ -49576,7 +49576,7 @@
    ],
    [
     "They work in",
-    "threes, called Tapers"
+    "threes, called Pyres"
    ],
    [
     "Their mark",
@@ -49609,12 +49609,12 @@
     ]
    },
    {
-    "title": "A Taper",
+    "title": "A Pyre",
     "paragraphs": [
-     "The Flame hunts in threes. A team is called a Taper, and each of the three has one job."
+     "The Flame hunts in threes. A team is called a Pyre, and each of the three has one job."
     ],
     "table": {
-     "caption": "The three of a Taper",
+     "caption": "The three of a Pyre",
      "headers": [
       "Called",
       "The work"
@@ -49642,7 +49642,7 @@
      "Find the edges. The Seeker walks the butterflies around it until the wings cloud again, and marks the ground with salt and ash.",
      "Build a door. A frame of whatever is at hand, stone, driftwood, two spears and a belt, stood up in the rift. Varneth’s law holds at a threshold, and a tear has none until someone gives it one.",
      "Shut it. The Seal speaks the closing in Varneth’s name, from this side, alone.",
-     "Light the lamp. A small stone lamp is set on the sill and lit from the Taper’s own carried flame.",
+     "Light the lamp. A small stone lamp is set on the sill and lit from the Pyre’s own carried flame.",
      "Burn the mark. A small flame is branded into the doorpost. Anyone in the south who sees that mark on a frame standing by itself in the forest knows to walk around it and not through."
     ]
    },
@@ -49716,7 +49716,7 @@
      "The Sacred Flame wants a rift sealed that the University wants kept open, and both want the party.",
      "A tender’s family has died out, and the lamp has been burning for a month with nobody feeding it oil.",
      "Six seal-lamps have gone missing along one river. The seals under them are holding, so far.",
-     "A Taper has lost its Seal and has a rift to shut by the next Still Day. It needs anyone who can speak a ward and keep their nerve.",
+     "A Pyre has lost its Seal and has a rift to shut by the next Still Day. It needs anyone who can speak a ward and keep their nerve.",
      "A door-frame with the flame mark has been found standing in a Goldwind cellar, and the house is older than the mark."
     ]
    },
@@ -49796,7 +49796,7 @@
   "category": "people",
   "region": "All regions",
   "subtitle": "Fae who wear a face that somebody lent them",
-  "summary": "A changeling is a fae who wears a mortal’s face. It can’t make one up: the face has to be lent, by someone living, of their own will. Most changelings in the islands are on a Court’s errand. A few came on an errand and never went home.",
+  "summary": "A changeling is a fae who wears a mortal’s face. It can’t make one up: the face has to be lent, by someone living, of their own will. Most changelings in the islands are on a Court’s errand. ",
   "epigraph": {
    "quote": "He was my cousin from Nacre for nine years. I have never had a cousin on Nacre. I still miss him.",
    "by": "A chandler of Keelhaven"
@@ -49811,20 +49811,12 @@
     "wear a lent face"
    ],
    [
-    "The usual term",
-    "a year and a day"
-   ],
-   [
     "The law",
     "the contract is forbidden; the changeling is not"
    ],
    [
     "Sent by",
     "any of the four Courts"
-   ],
-   [
-    "Those who never left",
-    "the Stayed"
    ]
   ],
   "sections": [
@@ -49832,7 +49824,7 @@
     "title": "Fae who wear faces",
     "paragraphs": [
      "Islanders sort the fae by what they have met, and the changeling is the one they met without knowing. A changeling can live in a port for years as someone’s cousin from another island, keep a stall, pay harbor dues, and be missed when it goes.",
-     "Most are on a Court’s errand: to find something, to watch someone, or to wait. A few have simply stayed."
+     "Most are on a Court’s errand: to find something, to watch someone, or to wait."
     ]
    },
    {
@@ -49842,10 +49834,10 @@
     ],
     "list": [
      "The lender must be alive, and must agree aloud, with their own name spoken.",
-     "The usual term is a year and a day. Longer terms cost more, and the price is never coin.",
+     "The price is never coin.",
      "While the face is out on loan, the lender goes unrecognized. Friends look past them in the street. Their own mother asks who is at the door. Dogs still know them.",
-     "When the term ends the face goes home, and people remember the lender again, all at once and a little ashamed.",
-     "If the lender and the changeling ever meet each other’s eyes, the face goes home on the spot, term or no term."
+     "When the changeling gives the face back it goes home, and people remember the lender again, all at once and a little ashamed.",
+     "If the lender and the changeling ever meet each other’s eyes, the face goes home on the spot."
     ]
    },
    {
@@ -49854,10 +49846,10 @@
      "Lending a face is against Concord law, and the contracts are sold anyway, at the Still Days and the King Tide."
     ],
     "list": [
-     "Debtors sell a year of their face to clear what they owe.",
-     "People who are being hunted sell it for the other half of the bargain: a year in which nobody can recognize them.",
+     "Debtors lend their face to clear what they owe.",
+     "People who are being hunted lend it for the other half of the bargain: for as long as the face is out, nobody can recognize them.",
      "The grieving sell it to stop being looked at.",
-     "An Arbiter will not hear a case about one. A contract signed in a lent face binds the changeling who signed it and not the person whose face it was, and both sides usually learn that late."
+     "An Arbiter will not hear a case about one."
     ]
    },
    {
@@ -49904,19 +49896,11 @@
     }
    },
    {
-    "title": "The Stayed",
-    "paragraphs": [
-     "Some changelings finish the errand and do not go home. They are called the Stayed. A changeling who is loved under a face for long enough finds that the face stops coming off, and nobody agrees on how long that takes.",
-     "The Stayed marry, keep shops, and bury friends. Their children are born fae-touched, and the family usually knows which grandmother to ask. Being a changeling is no crime in the islands. Most ports have one or two, and most ports know."
-    ]
-   },
-   {
     "title": "Adventure hooks",
     "paragraphs": [],
     "list": [
      "A woman has come home to Varhall after a year away, and her family will not let her in, because their daughter never left.",
-     "A man the party is hunting has sold his face. For a year and a day nobody will know him, including the party.",
-     "A Stayed changeling’s lender has turned up alive, forty years late, and wants to look her in the eye.",
+     "A man the party is hunting has lent his face away. Until it comes home, nobody will know him, including the party.",
      "An Autumn changeling has been a clerk in the Blackstrand hall for six years, and tomorrow is the day it came to witness."
     ]
    },
@@ -49924,7 +49908,7 @@
     "title": "Tips",
     "paragraphs": [],
     "list": [
-     "If you sell your face, pick the buyer. You will not be able to complain to anyone who remembers you.",
+     "If you lend your face, pick the buyer. You will not be able to complain to anyone who remembers you.",
      "A changeling in a lent face is still a fae. Count the bargain, and do not give it your name as well.",
      "The quickest test is patience. Come back in five years and see who has not aged."
     ]
@@ -49941,7 +49925,6 @@
    {
     "title": "Rumors",
     "paragraphs": [
-     "“There are two of old Marrin the netmaker in Southhaven. Same face, same limp. They won’t be in the same street. One of them is seven years younger than he ought to be.” (a Southhaven fishwife)",
      "“You can’t lend a dead man’s face. But if you die with yours out on loan, they keep it. Think about who that tempts.” (a hedge-arbiter at the Still Days)",
      "“The first changelings weren’t spies. Ask a Spring pixie what they were for and it stops laughing.” (a Caelvaron door-warden)"
     ]
@@ -49949,7 +49932,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBhaW50ZWQgQ29yYSoqIGlzIGEgY2hhbmdlbGluZyBvZiBBb2lmZWzigJlzIENvdXJ0LCBhbmQgdGhhdCBpcyBob3cgc2hlIHdlYXJzIGFueSBmYWNlLiBUaGUgQnJ1c2ggb2YgQ3JlYXRpb24gaXMgYSBmYWUgcmVsaWMgbG9zdCBpbiB0aGUgaXNsYW5kcywgYW5kIFNwcmluZyBzZW50IGhlciB0byBmaW5kIGl0LiIsICIqKlRoZSBmaXJzdCBjaGFuZ2VsaW5ncyB3ZXJlIFNwcmluZ+KAmXMsKiogYW5kIHRoZXkgd2VyZSBtYWRlIGZvciB0aGUgd2FyLiBUaGV5IGJvcnJvd2VkIHRoZSBmYWNlcyBvZiBmYWUgdGhlIE9ya2EgaGFkIHRha2VuLCB3YWxrZWQgaW50byB0aGUgc2xhdmUtcGVucyBpbiBwbGFjZSBvZiB0aGUgZGVhZCwgYW5kIGxlZCB0aGUgbGl2aW5nIG91dC4gVGhhdCBpcyB3aHkgYSBmYWNlIGhhcyB0byBiZSBnaXZlbjogdGhlIGZpcnN0IG9uZXMgd2VyZSBnaXZlbiBieSBwZW9wbGUgd2hvIGtuZXcgdGhleSB3b3VsZCBub3QgbmVlZCB0aGVtIGFnYWluLiIsICIqKlNldmVuIHllYXJzLioqIEEgY2hhbmdlbGluZyB3aG8gd2VhcnMgb25lIGZhY2UgZm9yIHNldmVuIHllYXJzIGtlZXBzIGl0LiBUaGUgbGVuZGVyIGdldHMgdGhlaXJzIGJhY2sgdGhhdCBzYW1lIGRheSwgYW5kIGZyb20gdGhlbiBvbiB0aGVyZSBhcmUgdHdvLiBUaGUgQ291cnRzIGNhbGwgdGhpcyBhIHRoZWZ0IGFuZCBwdW5pc2ggaXQuIFRoZSBTdGF5ZWQgY2FsbCBpdCBhIHdlZGRpbmcgZ2lmdC4iLCAiKipEeWluZyBvbiBsb2FuLioqIElmIHRoZSBsZW5kZXIgZGllcyB3aGlsZSB0aGUgZmFjZSBpcyBvdXQsIHRoZSBjaGFuZ2VsaW5nIGtlZXBzIGl0IGZvciBnb29kLCBhbmQgY2Fubm90IHRha2UgYW5vdGhlci4gV2ludGVyIGhhcyB1c2VkIHRoaXMgZXhhY3RseSBvbmNlLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBhaW50ZWQgQ29yYSoqIGlzIGEgY2hhbmdlbGluZyBvZiBBb2lmZWzigJlzIENvdXJ0LCBhbmQgdGhhdCBpcyBob3cgc2hlIHdlYXJzIGFueSBmYWNlLiBUaGUgQnJ1c2ggb2YgQ3JlYXRpb24gaXMgYSBmYWUgcmVsaWMgbG9zdCBpbiB0aGUgaXNsYW5kcywgYW5kIFNwcmluZyBzZW50IGhlciB0byBmaW5kIGl0LiIsICIqKlRoZSBmaXJzdCBjaGFuZ2VsaW5ncyB3ZXJlIFNwcmluZ+KAmXMsKiogYW5kIHRoZXkgd2VyZSBtYWRlIGZvciB0aGUgd2FyLiBUaGV5IGJvcnJvd2VkIHRoZSBmYWNlcyBvZiBmYWUgdGhlIE9ya2EgaGFkIHRha2VuLCB3YWxrZWQgaW50byB0aGUgc2xhdmUtcGVucyBpbiBwbGFjZSBvZiB0aGUgZGVhZCwgYW5kIGxlZCB0aGUgbGl2aW5nIG91dC4gVGhhdCBpcyB3aHkgYSBmYWNlIGhhcyB0byBiZSBnaXZlbjogdGhlIGZpcnN0IG9uZXMgd2VyZSBnaXZlbiBieSBwZW9wbGUgd2hvIGtuZXcgdGhleSB3b3VsZCBub3QgbmVlZCB0aGVtIGFnYWluLiIsICIqKkR5aW5nIG9uIGxvYW4uKiogSWYgdGhlIGxlbmRlciBkaWVzIHdoaWxlIHRoZSBmYWNlIGlzIG91dCwgdGhlIGNoYW5nZWxpbmcga2VlcHMgaXQgZm9yIGdvb2QsIGFuZCBjYW5ub3QgdGFrZSBhbm90aGVyLiBXaW50ZXIgaGFzIHVzZWQgdGhpcyBleGFjdGx5IG9uY2UuIl19"
    }
   ],
   "related": [
@@ -49974,7 +49957,6 @@
    "Changeling",
    "changeling contract",
    "changeling contracts",
-   "the Stayed",
    "lent face"
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -50275,16 +50257,16 @@
     ]
    },
    {
-    "title": "The Red Sleep",
+    "title": "The Red Wake",
     "paragraphs": [
-     "The one who called goes under, the way a sleeper does, and something else stands up in them. It is called the Red Sleep. They are called the Red Hand because of how they wake: standing, with their hands full of blood. They do remember it, but the way you remember a bad dream: out of order, from too far away, and never quite sure which parts were real."
+     "The one who called goes under, the way a sleeper does, and something else stands up in them. It is called the Red Wake. They are called the Red Hand because of how they wake: standing, with their hands full of blood. They do remember it, but the way you remember a bad dream: out of order, from too far away, and never quite sure which parts were real."
     ],
     "list": [
      "It does not stop until everyone who could be a threat is dead, or until the one who called is dead.",
      "A threat is anyone who could defend themselves. The man with the knife is a threat. So is the guard running in to help.",
      "It never touches the weak. A child can walk through the middle of it. A dog can.",
      "It can’t be reasoned with, bribed, turned, or tired out.",
-     "It has ended early. More than once the Red Sleep has stopped dead because someone defenseless was standing right in front of the sleeper, and there was nobody left to reach except through them."
+     "It has ended early. More than once the Red Wake has stopped dead because someone defenseless was standing right in front of the sleeper, and there was nobody left to reach except through them."
     ]
    },
    {
@@ -50306,10 +50288,10 @@
    {
     "title": "Why soldiers fear him",
     "paragraphs": [
-     "A soldier may be a good man. He may have come to help. Hask does not weigh that. A soldier can defend himself, so a soldier is a threat, and the Red Sleep does not spare threats."
+     "A soldier may be a good man. He may have come to help. Hask does not weigh that. A soldier can defend himself, so a soldier is a threat, and the Red Wake does not spare threats."
     ],
     "list": [
-     "Throwing down a sword does not always save you. The Red Sleep sees what you are, and not only what you are holding.",
+     "Throwing down a sword does not always save you. The Red Wake sees what you are, and not only what you are holding.",
      "Veterans say there is one thing to do if you are in the room when it starts: get behind a child, and stay there.",
      "Armada marines are taught the signs. A cornered woman who suddenly goes quiet, and stops backing away, is the order to leave.",
      "The Sword’s chaplains bless a company against wounds, fever, and fear. There is no blessing against Him at the door, and they do not pretend otherwise."
@@ -50333,7 +50315,7 @@
      "Basket-houses. A wash-basket hung mouth down beside a door means a runner may knock there, once, for one night, and nobody will ask a question. Old women keep most of them.",
      "The lie at the door. In a basket-house, lying to whoever comes asking is the one holy act he has. A grandmother did it for him first.",
      "The step. Bounty-men, and Hunters on a warrant, do not take a quarry off a washerwoman’s doorstep. They wait at the end of the street, and they do not sleep well.",
-     "If the hunted one can fight, that is all he gets: the mile and the basket. The Red Sleep never comes for him, however afraid he is.",
+     "If the hunted one can fight, that is all he gets: the mile and the basket. The Red Wake never comes for him, however afraid he is.",
      "If the hunted one is weak, and the running ends against a wall, then the other thing happens."
     ]
    },
@@ -50347,8 +50329,8 @@
      "They come afterward. They hide the one who woke, wash her hands, deal with what is on the floor, and sit with her until she stops shaking.",
      "They go unarmed, always. An Aunt carries nothing sharper than a spoon and has never learned to fight. The day she could win a fight without him, he would stop answering.",
      "Some of them can call him. Because an Aunt remembers her own corner perfectly, she can go back and stand in it, and the fear is as true as it was the first time. He can’t tell the difference, or does not care to.",
-     "Some of them can steer it. An Aunt who calls him stays awake inside the Red Sleep. She can’t spare a threat, and she can’t make it touch the weak. But she chooses which door it walks through, and the best of them can say ‘enough’ and be heard.",
-     "The Standing. When someone else’s Red Sleep will not end, an Aunt walks in with empty hands and stands in front of the sleeper.",
+     "Some of them can steer it. An Aunt who calls him stays awake inside the Red Wake. She can’t spare a threat, and she can’t make it touch the weak. But she chooses which door it walks through, and the best of them can say ‘enough’ and be heard.",
+     "The Standing. When someone else’s Red Wake will not end, an Aunt walks in with empty hands and stands in front of the sleeper.",
      "The red hand. A red handprint on your doorpost in the morning means an Aunt knows what goes on in that house. It is the only warning they give.",
      "The red thread. Someone he has answered is one of the Answered, and may wear a red thread on the left wrist. People who understand it leave her alone. The Aunts themselves wear nothing."
     ]
@@ -50357,7 +50339,7 @@
     "title": "In the islands",
     "paragraphs": [],
     "list": [
-     "The Arbiters hold that what is done in the Red Sleep is a god’s act and no crime. They have one test: look at the dead. If a child, an old woman, or a dog is among them, it was not Hask, and somebody is lying.",
+     "The Arbiters hold that what is done in the Red Wake is a god’s act and no crime. They have one test: look at the dead. If a child, an old woman, or a dog is among them, it was not Hask, and somebody is lying.",
      "Ezra’s faithful say it plainly: Ezra holds the shield, and Hask is what comes when the shield was not there.",
      "Berserkers of the Laughing Beast claim him as a cousin. He has never claimed them.",
      "The Concord keeps no altar to him and does not preach against him. No priest wants to be the one who told a frightened woman that nobody was coming.",
@@ -50368,13 +50350,13 @@
     "title": "Adventure hooks",
     "paragraphs": [],
     "list": [
-     "A man is charged with five killings in a Tollmark alley and pleads the Red Sleep. One of the dead is a dog.",
+     "A man is charged with five killings in a Tollmark alley and pleads the Red Wake. One of the dead is a dog.",
      "A girl of nine woke with red hands in a house full of slavers. The Red Aunts need her off the island before the slavers’ partners arrive, and nobody in the party may carry a weapon near her.",
-     "Someone is cornering women on purpose, in a place and at an hour of his choosing, so that the Red Sleep falls on the people he wants dead.",
-     "A Red Sleep has been going for an hour in a walled inn-yard. The Aunt who would have stood is ill. The party has to get someone defenseless in front of the sleeper, alive.",
+     "Someone is cornering women on purpose, in a place and at an hour of his choosing, so that the Red Wake falls on the people he wants dead.",
+     "A Red Wake has been going for an hour in a walled inn-yard. The Aunt who would have stood is ill. The party has to get someone defenseless in front of the sleeper, alive.",
      "A Concord watcher has been following a midwife for a year and is now sure she is on the Red Roll by mistake. The real Aunt is whoever has been watching him.",
      "The party’s quarry has reached a basket-house. The old woman at the door says she has not seen him, and smiles, and half the street is watching to see what the party does next.",
-     "A sergeant who has never lost a fight was passed over by a Red Sleep that killed his whole patrol. He wants to know what it saw in him."
+     "A sergeant who has never lost a fight was passed over by a Red Wake that killed his whole patrol. He wants to know what it saw in him."
     ]
    },
    {
@@ -50395,7 +50377,7 @@
      "Washerwomen in the islands are never robbed. Nobody can say when that started.",
      "Ask an old woman why her wash-basket hangs mouth down and she will say it is to keep the rain out of it.",
      "Children in the ports play a chasing game called Lit Eye. Whoever is caught covers one eye and walks. Nobody is allowed to run from the walker, which is the frightening part.",
-     "Animals do not fear the Red Sleep. Cats have been seen sitting in the doorway, washing."
+     "Animals do not fear the Red Wake. Cats have been seen sitting in the doorway, washing."
     ]
    },
    {
@@ -50411,7 +50393,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBncmFuZG1vdGhlciB3YXMgQ2FzdGVsbHluLioqIFRoZSBPcGVuIEhlYXJ0aCwgZ29kZGVzcyBvZiBndWVzdC1yaWdodCwgaW4gdGhlIHNoYXBlIHNoZSBsaWtlcyBiZXN0LiBTaGUgaGlkIGEgZnVnaXRpdmUgdW5kZXIgaGVyIG93biByb29mIGFuZCBsaWVkIGZvciBoaW0sIGFzIGEgaG9zdCBtdXN0LiBIYXNrIGhhcyBuZXZlciB3b3JrZWQgb3V0IHdobyBzaGUgd2FzLiBUaGUgUmVkIEF1bnRzIGhhdmUsIGFuZCBpdCBpcyB0aGUgb25lIHRoaW5nIHRoZXkgYXJlIGFmcmFpZCB0byB0ZWxsIGhpbS4iLCAiKipUaGUgZmlyc3Qga2lsbGluZyB3YXMgdGhlIGZpcnN0IGFuc3dlci4qKiBXaGF0IHRoZSBnb2RzIGh1bnRlZCBoaW0gZm9yIHdhcyBhIHNsYXVnaHRlciBvZiBhcm1lZCBtZW4gYXJvdW5kIG9uZSBjb3JuZXJlZCBjaGlsZC4gTGF3IGp1ZGdlZCB0aGUgZGVhZCBhbmQgZGlkIG5vdCBhc2sgYWJvdXQgdGhlIGNoaWxkLiBIYXNrIGhhcyBub3QgZm9yZ2l2ZW4gTGF3LCBhbmQgdGhlIFN1biBDb3VydCBrbm93cyBpdC4iLCAiKipJdCBjYW4gYmUgYWltZWQsIGEgbGl0dGxlLioqIFRoZSBjYWxsIGhhcyB0byBiZSByZWFsLCBzbyBpdCBjYW7igJl0IGJlIHN0YWdlZCB3aXRoIGEgd2lsbGluZyB3b21hbi4gQnV0IGEgbWFuIHdobyB0cnVseSBjb3JuZXJzIHNvbWVvbmUgd2VhaywgaW4gYSByb29tIGhlIGNob3NlLCBhbW9uZyBwZW9wbGUgaGUgd2FudHMgZGVhZCwgZ2V0cyB3aGF0IGhlIGFycmFuZ2VkLCBpZiBoZSBjYW4gZ2V0IG91dCBmaXJzdC4gSXQgaGFzIGJlZW4gZG9uZSBhdCB0aGUgRnJvbnQgYXQgbGVhc3QgdHdpY2UuIiwgIioqV2hhdCBjb250cm9sIGNvc3RzLioqIEFuIEF1bnQgd2hvIGNhbGxzIGhpbSBoYXMgdG8gZ28gYmFjayBpbnRvIHRoZSB3b3JzdCBtaW51dGUgb2YgaGVyIGxpZmUsIG9uIHB1cnBvc2UsIGFuZCBtZWFuIGl0LiBFYWNoIHRpbWUsIGEgbGl0dGxlIG1vcmUgb2YgaGVyIHN0YXlzIHRoZXJlLiBUaGUgb2xkIG9uZXMgYXJlIHZlcnkgY2FsbSwgYW5kIGl0IGlzIG5vdCBwZWFjZS4gQW5kIHRoZSBzdGVlcmluZyBvbmx5IGdvZXMgc28gZmFyOiBhbiBBdW50IHdobyB0cmllZCB0byB0dXJuIGEgUmVkIFNsZWVwIGF3YXkgZnJvbSBhIG1hbiBzaGUgbG92ZWQgbGVhcm5lZCB0aGF0IOKAmGVub3VnaOKAmSBpcyBhIHJlcXVlc3QuIiwgIioqVGhlIFJlZCBSb2xsKiogaGFzIGFib3V0IHRocmVlIGh1bmRyZWQgbmFtZXMuIFRoZSBDb25jb3Jk4oCZcyBvd24gY291bnQgb2YgdHJ1ZSBBdW50cyBpcyB1bmRlciBmb3J0eS4gVGhlIEF1bnRzIGtub3cgYWJvdXQgdGhlIFJvbGwsIGhhdmUgcmVhZCBpdCwgYW5kIGhhdmUgYWRkZWQgbmFtZXMgdG8gaXQuIiwgIioqVGhlIFN0YW5kaW5nIGNvc3RzIHRoZSBBdW50cy4qKiBUaGUgc2xlZXBlciBkb2VzIG5vdCBoYXJtIHRoZSBvbmUgd2hvIHN0YW5kcy4gQnV0IGZvciBhcyBsb25nIGFzIHNoZSBzdGFuZHMgdGhlcmUsIEhhc2sgaXMgbG9va2luZyBhdCBoZXIsIGFuZCBvbGQgd29tZW4gd2hvIGhhdmUgZG9uZSBpdCB0aHJlZSB0aW1lcyBzdG9wIHNsZWVwaW5nLiBUaGUgZWxkZXN0IEF1bnQgaW4gR29sZHdpbmQgaGFzIHN0b29kIGVsZXZlbiB0aW1lcy4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBncmFuZG1vdGhlciB3YXMgQ2FzdGVsbHluLioqIFRoZSBPcGVuIEhlYXJ0aCwgZ29kZGVzcyBvZiBndWVzdC1yaWdodCwgaW4gdGhlIHNoYXBlIHNoZSBsaWtlcyBiZXN0LiBTaGUgaGlkIGEgZnVnaXRpdmUgdW5kZXIgaGVyIG93biByb29mIGFuZCBsaWVkIGZvciBoaW0sIGFzIGEgaG9zdCBtdXN0LiBIYXNrIGhhcyBuZXZlciB3b3JrZWQgb3V0IHdobyBzaGUgd2FzLiBUaGUgUmVkIEF1bnRzIGhhdmUsIGFuZCBpdCBpcyB0aGUgb25lIHRoaW5nIHRoZXkgYXJlIGFmcmFpZCB0byB0ZWxsIGhpbS4iLCAiKipUaGUgZmlyc3Qga2lsbGluZyB3YXMgdGhlIGZpcnN0IGFuc3dlci4qKiBXaGF0IHRoZSBnb2RzIGh1bnRlZCBoaW0gZm9yIHdhcyBhIHNsYXVnaHRlciBvZiBhcm1lZCBtZW4gYXJvdW5kIG9uZSBjb3JuZXJlZCBjaGlsZC4gTGF3IGp1ZGdlZCB0aGUgZGVhZCBhbmQgZGlkIG5vdCBhc2sgYWJvdXQgdGhlIGNoaWxkLiBIYXNrIGhhcyBub3QgZm9yZ2l2ZW4gTGF3LCBhbmQgdGhlIFN1biBDb3VydCBrbm93cyBpdC4iLCAiKipJdCBjYW4gYmUgYWltZWQsIGEgbGl0dGxlLioqIFRoZSBjYWxsIGhhcyB0byBiZSByZWFsLCBzbyBpdCBjYW7igJl0IGJlIHN0YWdlZCB3aXRoIGEgd2lsbGluZyB3b21hbi4gQnV0IGEgbWFuIHdobyB0cnVseSBjb3JuZXJzIHNvbWVvbmUgd2VhaywgaW4gYSByb29tIGhlIGNob3NlLCBhbW9uZyBwZW9wbGUgaGUgd2FudHMgZGVhZCwgZ2V0cyB3aGF0IGhlIGFycmFuZ2VkLCBpZiBoZSBjYW4gZ2V0IG91dCBmaXJzdC4gSXQgaGFzIGJlZW4gZG9uZSBhdCB0aGUgRnJvbnQgYXQgbGVhc3QgdHdpY2UuIiwgIioqV2hhdCBjb250cm9sIGNvc3RzLioqIEFuIEF1bnQgd2hvIGNhbGxzIGhpbSBoYXMgdG8gZ28gYmFjayBpbnRvIHRoZSB3b3JzdCBtaW51dGUgb2YgaGVyIGxpZmUsIG9uIHB1cnBvc2UsIGFuZCBtZWFuIGl0LiBFYWNoIHRpbWUsIGEgbGl0dGxlIG1vcmUgb2YgaGVyIHN0YXlzIHRoZXJlLiBUaGUgb2xkIG9uZXMgYXJlIHZlcnkgY2FsbSwgYW5kIGl0IGlzIG5vdCBwZWFjZS4gQW5kIHRoZSBzdGVlcmluZyBvbmx5IGdvZXMgc28gZmFyOiBhbiBBdW50IHdobyB0cmllZCB0byB0dXJuIGEgUmVkIFdha2UgYXdheSBmcm9tIGEgbWFuIHNoZSBsb3ZlZCBsZWFybmVkIHRoYXQg4oCYZW5vdWdo4oCZIGlzIGEgcmVxdWVzdC4iLCAiKipUaGUgUmVkIFJvbGwqKiBoYXMgYWJvdXQgdGhyZWUgaHVuZHJlZCBuYW1lcy4gVGhlIENvbmNvcmTigJlzIG93biBjb3VudCBvZiB0cnVlIEF1bnRzIGlzIHVuZGVyIGZvcnR5LiBUaGUgQXVudHMga25vdyBhYm91dCB0aGUgUm9sbCwgaGF2ZSByZWFkIGl0LCBhbmQgaGF2ZSBhZGRlZCBuYW1lcyB0byBpdC4iLCAiKipUaGUgU3RhbmRpbmcgY29zdHMgdGhlIEF1bnRzLioqIFRoZSBzbGVlcGVyIGRvZXMgbm90IGhhcm0gdGhlIG9uZSB3aG8gc3RhbmRzLiBCdXQgZm9yIGFzIGxvbmcgYXMgc2hlIHN0YW5kcyB0aGVyZSwgSGFzayBpcyBsb29raW5nIGF0IGhlciwgYW5kIG9sZCB3b21lbiB3aG8gaGF2ZSBkb25lIGl0IHRocmVlIHRpbWVzIHN0b3Agc2xlZXBpbmcuIFRoZSBlbGRlc3QgQXVudCBpbiBHb2xkd2luZCBoYXMgc3Rvb2QgZWxldmVuIHRpbWVzLiJdfQ=="
    }
   ],
   "related": [
@@ -50431,8 +50413,8 @@
    "Hask",
    "the Red Hand",
    "Red Hand",
-   "the Red Sleep",
-   "Red Sleep",
+   "the Red Wake",
+   "Red Wake",
    "Red Aunts",
    "the Red Aunts",
    "Red Aunt",

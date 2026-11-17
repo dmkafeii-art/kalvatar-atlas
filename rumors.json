@@ -2858,16 +2858,6 @@
  },
  {
   "id": "rumor-changelings-1",
-  "text": "There are two of old Marrin the netmaker in Southhaven. Same face, same limp. They won’t be in the same street. One of them is seven years younger than he ought to be.",
-  "heardAt": "heard from a Southhaven fishwife",
-  "region": "Central Heartland",
-  "entries": [
-   "changelings",
-   "fae"
-  ]
- },
- {
-  "id": "rumor-changelings-2",
   "text": "You can’t lend a dead man’s face. But if you die with yours out on loan, they keep it. Think about who that tempts.",
   "heardAt": "heard from a hedge-arbiter at the Still Days",
   "region": "Central Heartland",
@@ -2877,7 +2867,7 @@
   ]
  },
  {
-  "id": "rumor-changelings-3",
+  "id": "rumor-changelings-2",
   "text": "The first changelings weren’t spies. Ask a Spring pixie what they were for and it stops laughing.",
   "heardAt": "heard from a Caelvaron door-warden",
   "region": "Central Heartland",
