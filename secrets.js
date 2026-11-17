@@ -29,7 +29,10 @@
   box.querySelector('.gm-button').onclick = () => step < 2 ? veil(box, step + 1) : reveal(box);
  }
  async function reveal(box) {
-  const id = box.dataset.entry, all = await load(), entry = all.find(e => e.id === id), sec = entry?.sections.find(s => s.secret);
+  const id = box.dataset.entry, all = await load(), entry = all.find(e => e.id === id);
+  // in Spanish, an entry translated in full brings its secret in Spanish too (the Reckoners' Hall, 17 November)
+  const spanish = es() ? window.Pack2?.data?.entries_es?.[id]?.sections?.find(s => s.secret) : null;
+  const sec = spanish || entry?.sections.find(s => s.secret);
   const holder = box.querySelector('.gm-veil');
   if(!sec) {holder.innerHTML = `<p class="gm-line">${t('The page is blank after all.', 'La página estaba en blanco.')}</p>`; return;}
   let body;
