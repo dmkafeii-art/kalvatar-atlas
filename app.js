@@ -309,7 +309,7 @@ function applyEntryIllustrations(entries) {
  }
 }
 (async()=>{try{
- const response=await fetch('entries.json?v=74');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();
+ const response=await fetch('entries.json?v=75');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();
  availableGoldwindArt = new Set((await Promise.all(galleryScenes.goldwind.map(async ([filename])=>{
   try{const r=await fetch('assets/scenes/'+filename+'-480.webp',{method:'HEAD'});return r.ok?filename:null}catch{return null}
  }))).filter(Boolean));
