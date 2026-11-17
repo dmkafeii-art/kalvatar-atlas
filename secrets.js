@@ -20,7 +20,7 @@
 
  const STEPS = [
   () => [t('Something is written here.', 'Aquí hay algo escrito.'), t('Read it', 'Leerlo')],
-  () => [t('These are the Game Master’s secrets.', 'Estos son los secretos del Game Master.'), t('I understand', 'Entiendo')],
+  () => [t('These are the Game Master’s secrets.', 'Estos son los secretos del Máster.'), t('I understand', 'Entiendo')],
   () => [t('Spoilers. You have been warned.', 'Spoilers. Están advertidos.'), t('Reveal the secret', 'Revelar el secreto')],
  ];
  function veil(box, step) {
@@ -50,7 +50,7 @@
   if(!box) return;
   const m = location.hash.match(/^#entry\/([^/?]+)/);
   box.dataset.entry = m ? decodeURIComponent(m[1]) : '';
-  box.querySelector('h2').textContent = t('Game Master’s secrets', 'Secretos del Game Master');
+  box.querySelector('h2').textContent = t('Game Master’s secrets', 'Secretos del Máster');
   const holder = document.createElement('div');
   holder.className = 'gm-veil';
   box.append(holder);

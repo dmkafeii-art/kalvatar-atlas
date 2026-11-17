@@ -156,7 +156,7 @@
    {
     "title": "El centro cartografiado",
     "paragraphs": [
-     "Goldwind es la capital, hogar del Consejo, la Universidad y la Casa de los Contadores. Más allá, Sunhold es la isla más grande y una rival orgullosa, mientras Highspire vigila las estrellas y Everfall brilla bajo su volcán."
+     "Goldwind es la capital, hogar del Consejo, la Universidad y la Casa de los Tesoreros. Más allá, Sunhold es la isla más grande y una rival orgullosa, mientras Highspire vigila las estrellas y Everfall brilla bajo su volcán."
     ]
    },
    {
@@ -169,7 +169,7 @@
     "title": "En las islas",
     "paragraphs": [
      "La Heartland es el núcleo controlado del archipiélago, el centro próspero y templado donde se reúne el Consejo, enseña la Universidad y las grandes casas compiten por cada asiento que importa. Es cosmopolita de una manera en que la Frontier no lo es. Eruditos, cortesanos, banqueros, maestros artesanos y los servidores de cien intereses enfrentados viven aquí, y todos aprendieron de jóvenes que una sonrisa y una hoja son la misma herramienta sostenida en ángulos distintos. La Heartland es la región más civilizada de las islas y la más peligrosa de subestimar.",
-     "Los cinco asientos del Consejo se llenan desde la Heartland, y el Congreso y la Casa de los Contadores deciden quién puede pedir prestado, construir y comprar. La región tiene los grandes bancos, el Registro Arcano de la Universidad, el templo más grandioso de la Concordia y las alturas del castillo de la Casa Vol Kaern, cuya sombra cae sobre un Consejo que todavía no gobierna. Cada familia ambiciosa del archipiélago tiene un primo que quiere un asiento en Goldwind, y cada asiento en Goldwind es una deuda esperando que la cobren.",
+     "Los cinco asientos del Consejo se llenan desde la Heartland, y el Congreso y la Casa de los Tesoreros deciden quién puede pedir prestado, construir y comprar. La región tiene los grandes bancos, el Registro Arcano de la Universidad, el templo más grandioso de la Concordia y las alturas del castillo de la Casa Vol Kaern, cuya sombra cae sobre un Consejo que todavía no gobierna. Cada familia ambiciosa del archipiélago tiene un primo que quiere un asiento en Goldwind, y cada asiento en Goldwind es una deuda esperando que la cobren.",
      "La política de la Heartland está trenzada con su vida social. La temporada social, con sus bailes y sus partidos, es un parlamento por otros medios. Las convocatorias de la Universidad son tan políticas como académicas. Las bendiciones del sol y la marea de la Concordia, los Juegos del Merrin en los puertos y las bodas nobles de la red Veldane son ocasiones para prometer un asiento o recordar una deuda. \"En Goldwind una sonrisa tiene dos caras\", dice el refrán, y es lo primero que aprende un visitante."
     ]
    },
@@ -472,7 +472,7 @@
    {
     "title": "Una ciudad de cinco asientos",
     "paragraphs": [
-     "Fundada hacia 30 EC por el Archimago Eamos en un golfo de vientos excelentes, Goldwind se convirtió en la sede del Consejo hacia 50 o 55 EC. Alberga la Universidad, el Registro Arcano y la Casa de los Contadores."
+     "Fundada hacia 30 EC por el Archimago Eamos en un golfo de vientos excelentes, Goldwind se convirtió en la sede del Consejo hacia 50 o 55 EC. Alberga la Universidad, el Registro Arcano y la Casa de los Tesoreros."
     ]
    },
    {
@@ -509,7 +509,7 @@
    {
     "title": "En las islas",
     "paragraphs": [
-     "Sube en anillos desde el gran puerto. Abajo están los muelles, los almacenes y el bullicio del puerto. La Universidad de Kalvatar es la escuela de lo arcano más antigua y más grande del archipiélago, y sus archivos guardan más cartas viejas que los de los propios Chartwrights. La Casa de los Contadores es la sede de mármol de la Primera Contadora Maera Blackstrand, donde se llevan las deudas del Congreso Mercantil. El Gran Templo de la Concordia se alza sobre el corazón de la ciudad, y su gran vitral del sol y la marea atrapa la mañana. El puerto de Goldwind es el mercado más concurrido de las islas. La Cistern Door, un muro enano bajo la cisterna más antigua, es la historia de fantasmas favorita de la ciudad: dicen que su argamasa se trabajó desde el otro lado."
+     "Sube en anillos desde el gran puerto. Abajo están los muelles, los almacenes y el bullicio del puerto. La Universidad de Kalvatar es la escuela de lo arcano más antigua y más grande del archipiélago, y sus archivos guardan más cartas viejas que los de los propios Chartwrights. La Casa de los Tesoreros es la sede de mármol de la Primera Tesorera Maera Blackstrand, donde se llevan las deudas del Congreso Mercantil. El Gran Templo de la Concordia se alza sobre el corazón de la ciudad, y su gran vitral del sol y la marea atrapa la mañana. El puerto de Goldwind es el mercado más concurrido de las islas. La Cistern Door, un muro enano bajo la cisterna más antigua, es la historia de fantasmas favorita de la ciudad: dicen que su argamasa se trabajó desde el otro lado."
     ]
    },
    {
@@ -1896,7 +1896,7 @@
    {
     "title": "El crédito y los Still Days",
     "paragraphs": [
-     "Una reckoning es una carta de crédito que se emite a través de los Contadores. Los Still Days congelan toda deuda. Una obligación sin pagar puede seguir a su dueño por el Libro Mayor con la misma seguridad con que un barco sigue una carta."
+     "Una reckoning es una carta de crédito que se emite a través de los Tesoreros. Los Still Days congelan toda deuda. Una obligación sin pagar puede seguir a su dueño por el Libro Mayor con la misma seguridad con que un barco sigue una carta."
     ]
    },
    {
@@ -2455,7 +2455,7 @@
    {
     "title": "El poder fuera de la sala",
     "paragraphs": [
-     "La Concordia no tiene asiento ni lo necesita. La Casa de los Contadores, los gremios y las casas nobles ejercen su influencia a través de derechos y obligaciones que no se limitan a un voto del Consejo."
+     "La Concordia no tiene asiento ni lo necesita. La Casa de los Tesoreros, los gremios y las casas nobles ejercen su influencia a través de derechos y obligaciones que no se limitan a un voto del Consejo."
     ]
    },
    {
@@ -2730,10 +2730,10 @@
    ],
    [
     "Banco",
-    "La Casa de los Contadores"
+    "La Casa de los Tesoreros"
    ],
    [
-    "Primera Contadora",
+    "Primera Tesorera",
     "Maera Blackstrand"
    ]
   ],
@@ -3600,11 +3600,11 @@
  },
  "vault-geese": {
   "gloss": "Gansos de la Bóveda",
-  "subtitle": "Guardan los almacenes del puerto y las bóvedas de la Casa de los Contadores.",
+  "subtitle": "Guardan los almacenes del puerto y las bóvedas de la Casa de los Tesoreros.",
   "summary": "Grandes gansos grises de pico naranja, cuello largo y un odio a los desconocidos que roza lo religioso.",
   "epigraph": {
    "quote": "Las cerraduras se fuerzan. Los gansos no se sobornan.",
-   "by": "Un guardia de la Casa de los Contadores"
+   "by": "Un guardia de la Casa de los Tesoreros"
   },
   "facts": [
    [
@@ -3613,7 +3613,7 @@
    ],
    [
     "Se encuentra en",
-    "Los almacenes de Goldwind y las bóvedas de la Casa de los Contadores"
+    "Los almacenes de Goldwind y las bóvedas de la Casa de los Tesoreros"
    ]
   ],
   "title": "Vault Geese"
@@ -5999,16 +5999,16 @@
   "title": "The Charterhouse Company"
  },
  "reckoners-hall": {
-  "gloss": "La Casa de los Contadores",
+  "gloss": "La Casa de los Tesoreros",
   "subtitle": "El banco que tiene en sus manos las deudas de las islas",
-  "summary": "El banco del Congreso Mercantil y el verdadero poder detrás de él: depósitos, préstamos, libranzas, seguros de mar, las recompensas del Consejo y el Libro Mayor, bajo la Primera Contadora Maera Blackstrand, que tiene en sus manos la mitad de las deudas de las islas.",
+  "summary": "El banco del Congreso Mercantil y el verdadero poder detrás de él: depósitos, préstamos, libranzas, seguros de mar, las recompensas del Consejo y el Libro Mayor, bajo la Primera Tesorera Maera Blackstrand, que tiene en sus manos la mitad de las deudas de las islas.",
   "facts": [
    [
-    "[[Primera Contadora|First Reckoner]]",
-    "Lady Maera Blackstrand"
+    "[[Primera Tesorera|First Reckoner]]",
+    "Dama Maera Blackstrand"
    ],
    [
-    "[[Segundo Contador|Second Reckoner]]",
+    "[[Segundo Tesorero|Second Reckoner]]",
     "Ecler"
    ],
    [
@@ -6038,7 +6038,7 @@
   ],
   "title": "The Reckoners' Hall",
   "aliases": [
-   "Casa de los Contadores"
+   "Casa de los Tesoreros"
   ],
   "epigraph": {
    "quote": "Lee todo lo que te den. Después, léelo otra vez.",
@@ -6048,18 +6048,18 @@
    {
     "title": "Lo que hace la Casa",
     "paragraphs": [
-     "La [[Casa de los Contadores|Reckoners' Hall]] es el gremio bancario del [[Congreso Mercantil|Mercantile Congress]] y el verdadero poder detrás de él. Hace de todo con el dinero, menos gastarlo."
+     "La [[Casa de los Tesoreros|Reckoners' Hall]] es el gremio bancario del [[Congreso Mercantil|Mercantile Congress]] y el verdadero poder detrás de él. Hace de todo con el dinero, menos gastarlo."
     ],
     "list": [
-     "**Guarda depósitos.** Un Anchor de cada cien, al año.",
+     "**Guarda depósitos.** Un [[Ancla|Anchor]] de cada cien, al año.",
      "**Presta.** A casi todo el mundo, a un precio que depende de quién seas.",
      "**Escribe [[libranzas|reckonings]].** Una carta de crédito sellada, pagadera a la persona nombrada en ella en cualquier [[casa de cuentas|counting-house]], por dos de cada cien.",
      "**Asegura.** Con el [[préstamo a la gruesa|bottomry bond]], un préstamo de mar sobre un barco y su carga que se perdona si el barco se pierde.",
      "**Registra naufragios.** Reclamos sobre naufragios con nombre, por un décimo del rescate.",
      "**Paga las recompensas del Consejo.** Contra prueba, en la [[Sala de la Prueba|Proof Room]].",
      "**Lleva el [[Libro Mayor|Ledger]].** El registro de las deudas sin pagar, que sigue al deudor a cada puerto.",
-     "**Respalda los Orsals.** No se acuña ningún Orsal sin el sello de un Contador.",
-     "**Juzga deudas.** En el [[Tribunal de Cuentas|Bench of Accounts]], cada Wardsday."
+     "**Respalda los Orsales.** No se acuña ningún Orsal sin el sello de un Tesorero.",
+     "**Juzga deudas.** En el [[Tribunal de Cuentas|Bench of Accounts]], cada [[Guardadía|Wardsday]]."
     ]
    },
    {
@@ -6068,17 +6068,17 @@
      "Un edificio cuadrado de mármol blanco en el anillo medio de Goldwind, sin una sola ventana en la planta baja, con la banda y la moneda de los Blackstrand talladas sobre sus puertas de bronce. Los cafés están al otro lado de la calle, la [[Bolsa Goldspire|Goldspire Exchange]] está al lado, y la Ceca de la Carta está pared con pared del otro lado."
     ],
     "list": [
-     "**Las escaleras.** En Coinsday, la fila de gente que espera para pagar baja por las escaleras, sigue por la calle y le da la vuelta a la Ceca.",
-     "**Las puertas.** Los porteros dejan pasar a cualquiera que tenga asuntos, y deciden qué cuenta como asunto. Un [[pase de Contador|Reckoner's pass]], una tira de cartulina negra con el sello de un Contador, zanja la cuestión para una persona y un día.",
-     "**[[La Sala Silenciosa|The Quiet Room]].** La gran sala: cien mesas de cuentas en diez filas, luz que baja de un techo de vidrio grueso, y ni un sonido más fuerte que una pluma. Alzar la voz cuesta un Tide, anotado contra el nombre de quien la alzó.",
-     "**[[La Mesa Larga|The Long Desk]].** Al fondo, sobre un escalón, donde se sientan y firman los Contadores de turno. Junto a la puerta del Primer Contador, en una vitrina, está *[[Mediodía|Noon]]*, una de las [[Seis Horas|Six Hours]] de Ysmer Quillwick, retenida como garantía de un préstamo que nadie ha pagado. Los [[contables|counters]] ponen sus relojes en hora con ella.",
+     "**Las escaleras.** Cada [[Monedía|Coinsday]], la fila de gente que espera para pagar baja por las escaleras, sigue por la calle y le da la vuelta a la Ceca.",
+     "**Las puertas.** Los porteros dejan pasar a cualquiera que tenga asuntos, y deciden qué cuenta como asunto. Un [[pase de Tesorero|Reckoner's pass]], una tira de cartulina negra con el sello de un Tesorero, zanja la cuestión para una persona y un día.",
+     "**[[La Sala Silenciosa|The Quiet Room]].** La gran sala: cien mesas de cuentas en diez filas, luz que baja de un techo de vidrio grueso, y ni un sonido más fuerte que una pluma. Alzar la voz cuesta una [[Marea|Tide]], anotado contra el nombre de quien la alzó.",
+     "**[[La Mesa Larga|The Long Desk]].** Al fondo, sobre un escalón, donde se sientan y firman los Tesoreros de turno. Junto a la puerta del Primer Tesorero, en una vitrina, está *[[Mediodía|Noon]]*, una de las [[Seis Horas|Six Hours]] de Ysmer Quillwick, retenida como garantía de un préstamo que nadie ha pagado. Los [[contables|counters]] ponen sus relojes en hora con ella.",
      "**[[Las Mesas de los Fundadores|The Founders' Desks]].** Cinco mesas sobre un estrado. La de Blackstrand se usa. Las otras cuatro están bajo vidrio, con los tinteros secos, y cada una tiene el último libro de cuentas de su fundador abierto en la última página que escribió.",
      "**Madam Tally.** Un ábaco, obra maestra, bajo vidrio, cuyo [[inquilino|tenant]] no suma una cifra deshonesta. La Casa la saca para las cuentas más grandes.",
-     "**[[Las Salas Pequeñas|The Small Rooms]].** Donde un lord viene a pedir prestado, con buen vino de por medio, y nadie le pregunta para qué es el dinero.",
+     "**[[Las Salas Pequeñas|The Small Rooms]].** Donde un señor viene a pedir prestado, con buen vino de por medio, y nadie le pregunta para qué es el dinero.",
      "**[[La Sala del Libro Mayor|The Ledger Room]].** El Libro Mayor en persona: una hilera de grandes libros negros encadenados a sus atriles.",
      "**[[La Oficina de Naufragios|The Wreck Office]].** Cartas náuticas en cada pared, con un alfiler y un número por cada naufragio con nombre de las islas.",
      "**[[La Sala de la Prueba|The Proof Room]].** Un cuarto de azulejos con un desagüe en el piso, donde se pagan las recompensas del Consejo. De sus paredes cuelgan las banderas de los capitanes cuyas recompensas ya se pagaron; las más viejas, en tres capas.",
-     "**[[La Puerta de la Ceca|The Mint Door]].** Una puerta de hierro que da a la Ceca de la Carta y se abre para cada colada de oro. Dos Contadores la cruzan cada vez.",
+     "**[[La Puerta de la Ceca|The Mint Door]].** Una puerta de hierro que da a la Ceca de la Carta y se abre para cada colada de oro. Dos Tesoreros la cruzan cada vez.",
      "**Las bóvedas.** Las [[Bóvedas de Sellos|Seal Vaults]], adonde no puede acercarse ningún pulpo de tinta, y las [[Bóvedas de Monedas|Coin Vaults]], talladas en la roca de abajo, con protecciones, guardias y gansos de bóveda."
     ]
    },
@@ -6086,7 +6086,7 @@
     "title": "La sala de lectura y los depósitos",
     "paragraphs": [],
     "list": [
-     "**La sala de lectura.** Un expediente solo se trae con un **[[vale de lector|reader's chit]]**, firmado por un Contador, que nombra al lector y al expediente.",
+     "**La sala de lectura.** Un expediente solo se trae con un **[[vale de lector|reader's chit]]**, firmado por un Tesorero, que nombra al lector y al expediente.",
      "**[[Los depósitos|The stacks]].** Debajo de la sala de lectura, una escalera baja nivel por nivel dentro de la roca: los contratos viejos, las quiebras y los rollos más antiguos de los años de la fundación, en estantes de hierro de seis metros de alto.",
      "**[[Los niveles ahogados|The drowned levels]].** En 169 EC, una tormenta de invierno rompió la vieja [[compuerta de marea|tide-sluice]] que desaguaba los depósitos profundos, y los niveles más bajos, con su antigua sala de lectura, se inundaron con la marea. La Casa los selló y nunca los ha bombeado. Dice que el papel no vale lo que costaría bombearlos.",
      "**[[El Índice|The Index]].** Un autómata archivador de latón del tamaño de un ropero, todo cajones y brazos largos y delgados, que quedó abajo cuando se sellaron los niveles. Los escribientes que trabajan hasta tarde juran que todavía sigue archivando."
@@ -6096,67 +6096,67 @@
     "title": "Quién trabaja ahí",
     "paragraphs": [],
     "list": [
-     "**[[El Primer Contador|The First Reckoner]].** Quien manda en la Casa, elegido de por vida por el [[Cabildo de Contadores|Chapter of Reckoners]] a puertas cerradas, con cada voto escrito en el Libro Mayor. Un Blackstrand ha ocupado el [[sillón|chair]] durante casi toda la historia de la Casa. Hoy es Lady Maera Blackstrand.",
-     "**[[El Segundo Contador|The Second Reckoner]].** La mano derecha del Primer Contador, que lleva el día a día de la Casa: las llaves, la lista de turnos, los vales de lector y el Tribunal cada vez que el Primer Contador no se sienta. Hoy es Ecler.",
-     "**[[El Cabildo|The Chapter]].** Unos cuarenta Contadores de pleno derecho en Goldwind, y uno al frente de cada casa de cuentas. Cada uno tiene un *sillón*: un conjunto de grandes cuentas que le toca llevar.",
+     "**[[El Primer Tesorero|The First Reckoner]].** Quien manda en la Casa, elegido de por vida por el [[Cabildo de Tesoreros|Chapter of Reckoners]] a puertas cerradas, con cada voto escrito en el Libro Mayor. Un Blackstrand ha ocupado el [[sillón|chair]] durante casi toda la historia de la Casa. Hoy es la Dama Maera Blackstrand.",
+     "**[[El Segundo Tesorero|The Second Reckoner]].** La mano derecha del Primer Tesorero, que lleva el día a día de la Casa: las llaves, la lista de turnos, los vales de lector y el Tribunal cada vez que el Primer Tesorero no se sienta. Hoy es Ecler.",
+     "**[[El Cabildo|The Chapter]].** Unos cuarenta Tesoreros de pleno derecho en Goldwind, y uno al frente de cada casa de cuentas. Cada uno tiene un *sillón*: un conjunto de grandes cuentas que le toca llevar.",
      "**[[El Contable Mayor|The Chief Counter]].** Thraim Ironquill, un enano, el último de los Ironquill fundadores que se sienta cerca de la mesa de un fundador.",
      "**[[El Guardián del Libro Mayor|The Ledger-Keeper]].** Siempre un Tessick. Hoy es Anselm Tessick.",
      "**[[La Guardia de Cuentas|The Counting Guard]].** Unos 250 guardias bajo la Casa Ullard y su Capitana, Hessa Ullard. Nunca han peleado una batalla, solo muchísimas discusiones muy cortas.",
-     "**[[Los contables|Counters]].** Unos trescientos escribientes en Goldwind, muchos de ellos enanos, que entre ellos hablan el [[enano de contaduría|Counting-house Dwarvish]]. Un contable gana tres Anchors al mes.",
-     "**[[Los escribanos de naufragios|Wreck-clerks]].** Los investigadores de la Casa, cuyo único trabajo es averiguar qué barcos se perdieron de una manera demasiado conveniente. Los capitanes los llaman *[[los cuervos de la Casa|the Hall's crows]]*. A menudo contratan Hunters.",
-     "**Ensayadores y auditores.** Los Contadores que vigilan cada colada en la Ceca, pesan monedas extrañas y revisan los libros ajenos por una tarifa.",
-     "**Cómo se llega.** Un aprendiz cobra en techo, comida y una pluma, y pasa años aprendiendo una letra que los Contadores acepten. Para hacerse contable, suma la **[[Columna Larga|Long Column]]**, una columna de cifras escrita con tiza a lo largo de todo el piso de la Sala Silenciosa, en voz alta, caminando, sin un solo error. Un contable elevado a Contador *[[toma el negro|takes the black]]*: un sello, una toga y un Orsal acuñado ese año, que nunca va a gastar."
+     "**[[Los contables|Counters]].** Unos trescientos escribientes en Goldwind, muchos de ellos enanos, que entre ellos hablan el [[enano de contaduría|Counting-house Dwarvish]]. Un contable gana tres Anclas al mes.",
+     "**[[Los escribanos de naufragios|Wreck-clerks]].** Los investigadores de la Casa, cuyo único trabajo es averiguar qué barcos se perdieron de una manera demasiado conveniente. Los capitanes los llaman *[[los cuervos de la Casa|the Hall's crows]]*. A menudo contratan [[Cazadores|Hunters]].",
+     "**Ensayadores y auditores.** Los Tesoreros que vigilan cada colada en la Ceca, pesan monedas extrañas y revisan los libros ajenos por una tarifa.",
+     "**Cómo se llega.** Un aprendiz cobra en techo, comida y una pluma, y pasa años aprendiendo una letra que los Tesoreros acepten. Para hacerse contable, suma la **[[Columna Larga|Long Column]]**, una columna de cifras escrita con tiza a lo largo de todo el piso de la Sala Silenciosa, en voz alta, caminando, sin un solo error. Un contable elevado a Tesorero *[[toma el negro|takes the black]]*: un sello, una toga y un Orsal acuñado ese año, que nunca va a gastar."
     ]
    },
    {
     "title": "Lo que visten",
     "paragraphs": [],
     "list": [
-     "**Los Contadores:** togas [[negro de libro mayor|ledger-black]] con puños blancos. Unos puños impecables quieren decir que tienes escribientes que se manchan los suyos por ti.",
+     "**Los Tesoreros:** togas [[negro de libro mayor|ledger-black]] con puños blancos. Unos puños impecables quieren decir que tienes escribientes que se manchan los suyos por ti.",
      "**Los contables:** [[gris de contable|counter-grey]], una chaqueta corta con botones de latón y cuello alto sobre un chaleco marfil, y un cinturón de tinta cruzado al pecho, con un tintero de latón y tres plumas: una para asentar, una para copiar y una que nunca se moja, para señalar.",
-     "**Las cadenas:** de oro para el Primer Contador y de latón para el Segundo, cada una con un medallón en forma de libro abierto."
+     "**Las cadenas:** de oro para el Primer Tesorero y de latón para el Segundo, cada una con un medallón en forma de libro abierto."
     ]
    },
    {
     "title": "Rostros de la Casa",
     "paragraphs": [],
     "list": [
-     "**Lady Maera Blackstrand**, Primera Contadora. Menuda, pulcra, de pelo blanco y voz suave, con una memoria perfecta para las cifras.",
-     "**Ecler**, Segundo Contador. Dos metros de toga negra y cadena de latón, una cara como un libro de cuentas cerrado, y debilidad por cualquier cosa dulce.",
+     "**Dama Maera Blackstrand**, Primera Tesorera. Menuda, pulcra, de pelo blanco y voz suave, con una memoria perfecta para las cifras.",
+     "**Ecler**, Segundo Tesorero. Dos metros de toga negra y cadena de latón, una cara como un libro de cuentas cerrado, y debilidad por cualquier cosa dulce.",
      "**Thraim Ironquill**, Contable Mayor. Viejo, calvo, y cortés como es cortés una puerta cerrada.",
-     "**Hessa Ullard**, Capitana de la Guardia de Cuentas. Conoce de cara a cada habitual de la fila del Coinsday, y a la mayoría por su deuda.",
-     "**Iris**, una contable novata en las mesas de la entrada. Bajita, de piel clara y rápida, y mejor para leer las etiquetas de la Casa que la mayoría de los Contadores."
+     "**Hessa Ullard**, Capitana de la Guardia de Cuentas. Conoce de cara a cada habitual de la fila del Monedía, y a la mayoría por su deuda.",
+     "**Iris**, una contable novata en las mesas de la entrada. Bajita, de piel clara y rápida, y mejor para leer las etiquetas de la Casa que la mayoría de los Tesoreros."
     ]
    },
    {
     "title": "Cómo usar la Casa",
     "paragraphs": [],
     "list": [
-     "**Una cuenta.** Trae la moneda y un nombre, y elige una **[[palabra de cuenta|counter-word]]**, que se escribe en el Libro Mayor junto a tu nombre y nunca se vuelve a decir en voz alta dentro de la Casa. Recibes una pequeña [[libreta de depósitos|deposit-book]] negra, y cualquier casa de cuentas paga contra la libreta y la palabra. Un retiro grande lejos de casa espera a las páginas del siguiente Coinsday que llegan de Goldwind.",
+     "**Una cuenta.** Trae la moneda y un nombre, y elige una **[[palabra de cuenta|counter-word]]**, que se escribe en el Libro Mayor junto a tu nombre y nunca se vuelve a decir en voz alta dentro de la Casa. Recibes una pequeña [[libreta de depósitos|deposit-book]] negra, y cualquier casa de cuentas paga contra la libreta y la palabra. Un retiro grande lejos de casa espera a las páginas del siguiente Monedía que llegan de Goldwind.",
      "**[[Una libranza|A reckoning]].** Dos de cada cien. Solo le paga a la persona nombrada en ella, y solo con su palabra de cuenta. Una libranza robada es un pedazo de papel, y está escrita en [[tinta de libro mayor|ledger ink]], que deja una mancha roja donde sea que la alteren.",
      "**Pedir prestado, al año:** el Consejo o uno de los [[Cinco|the Five]], 1 de cada 20. Una gran casa o una [[Bandera|Flag]], 1 de cada 12. Un mercader con almacén, 1 de cada 8. Un capitán contra su barco, 1 de cada 6. Un artesano contra su taller, 1 de cada 5.",
-     "**¿Nada que empeñar?** La Casa presta contra algo: un barco, un taller, un título, un cargo. Pídele un vale a un Quartermaster de un Lodge. O a los [[Lobos del Libro Mayor|Ledger Wolves]], y mejor no.",
-     "**Seguro, por viaje:** costero, 1 de cada 50; de la Frontier a la Heartland, 1 de cada 25; al sur, 1 de cada 10; al hielo, 1 de cada 5; el triple en un año de King Tide; hacia las [[Aguas Selladas|Sealed Waters]], a ningún precio.",
+     "**¿Nada que empeñar?** La Casa presta contra algo: un barco, un taller, un título, un cargo. Pídele un vale a un [[Intendente|Quartermaster]] de una [[Logia|Lodge]]. O a los [[Lobos del Libro Mayor|Ledger Wolves]], y mejor no.",
+     "**Seguro, por viaje:** costero, 1 de cada 50; de la Frontier a la Heartland, 1 de cada 25; al sur, 1 de cada 10; al hielo, 1 de cada 5; el triple en un año de [[Marea Rey|King Tide]]; hacia las [[Aguas Selladas|Sealed Waters]], a ningún precio.",
      "**Hundir tu propio barco para cobrar el préstamo a la gruesa** pone tu nombre en el Libro Mayor ese mismo día.",
-     "**Naufragios.** Registra el reclamo en la Oficina de Naufragios antes de bucear. Quien lo encuentra se queda con un tercio, y el dueño o el asegurador con el resto, menos el décimo de los Contadores. Las cortes de los Coral Kingdoms eligen primero en [[aguas de pacto|pact-water]], y nada de Below se puede registrar.",
-     "**Recompensas.** Las recompensas del Consejo se pagan contra prueba: el capitán, el barco o la bandera, con un Contador y dos contables como testigos. La bandera se queda en la pared de la Sala de la Prueba. Los contratos del Lodge los paga el Lodge."
+     "**Naufragios.** Registra el reclamo en la Oficina de Naufragios antes de bucear. Quien lo encuentra se queda con un tercio, y el dueño o el asegurador con el resto, menos el décimo de los Tesoreros. Las cortes de los Coral Kingdoms eligen primero en [[aguas de pacto|pact-water]], y nada de Below entra en el registro.",
+     "**Recompensas.** Las recompensas del Consejo se pagan contra prueba: el capitán, el barco o la bandera, con un Tesorero y dos contables como testigos. La bandera se queda en la pared de la Sala de la Prueba. Los contratos de la Logia los paga la Logia."
     ]
    },
    {
     "title": "El Libro Mayor y el Tribunal",
     "paragraphs": [],
     "list": [
-     "**El Coinsday** es el día de saldar cuentas. Tres Coinsdays sin pagar, y la deuda entra al Libro Mayor. La Casa manda una carta cortés con el primero y otra con el segundo. Con el tercero no manda nada.",
-     "**Un nombre en el Libro Mayor** no puede pedir prestado en ninguna parte, ni firmar un préstamo a la gruesa, ni llevar la cadena de maestro de ningún gremio, y para el siguiente Coinsday lo sabe cada casa de cuentas.",
+     "**El [[Monedía|Coinsday]]** es el día de saldar cuentas. Tres Monedías sin pagar, y la deuda entra al Libro Mayor. La Casa manda una carta cortés con el primero y otra con el segundo. Con el tercero no manda nada.",
+     "**Un nombre en el Libro Mayor** no puede pedir prestado en ninguna parte, ni firmar un préstamo a la gruesa, ni llevar la cadena de maestro de ningún gremio, y para el siguiente Monedía lo sabe cada casa de cuentas.",
      "**Cómo salir.** Paga completo, con todo el interés que corrió. La línea se tacha en rojo y nunca se borra, y un nombre tachado puede volver a pedir prestado después de un año y un día.",
-     "**Los Still Days** congelan todas las deudas.",
-     "**El [[Tribunal de Cuentas|Bench of Accounts]]** se reúne cada Wardsday, con el Primer o el Segundo Contador en la silla alta. Oye deudas en disputa, contratos, reclamos de préstamos a la gruesa y pleitos por rescates, bajo la ley de la Carta, o bajo la ley enana cuando el contrato lo pide. Presentar un reclamo no cuesta nada. Perderlo lo cuesta todo."
+     "**Los [[Días Quietos|Still Days]]** congelan todas las deudas.",
+     "**El [[Tribunal de Cuentas|Bench of Accounts]]** se reúne cada Guardadía, con el Primer o el Segundo Tesorero en la silla alta. Oye deudas en disputa, contratos, reclamos de préstamos a la gruesa y pleitos por rescates, bajo la ley de la Carta, o bajo la ley enana cuando el contrato lo pide. Presentar un reclamo no cuesta nada. Perderlo lo cuesta todo."
     ]
    },
    {
     "title": "Las casas de cuentas",
     "paragraphs": [
-     "Cada una es una copia pequeña y sin ventanas de la Casa, con un Contador al frente, una docena de contables, una cámara fuerte y un escuadrón de la Guardia de Cuentas."
+     "Cada una es una copia pequeña y sin ventanas de la Casa, con un Tesorero al frente, una docena de contables, una cámara fuerte y un escuadrón de la Guardia de Cuentas."
     ],
     "list": [
      "**Goldwind:** la Casa misma.",
@@ -6182,22 +6182,22 @@
      "**Hacia 90 EC.** La [[Plaga del Burning Sea|Plague of the Burning Sea]]. La Casa compra las deudas del Congreso en vez de cobrarlas. Penhallow vende su parte; Garrow se casa con los Blackstrand una generación después.",
      "**165 EC.** Kraken's Maw. La Casa registra cada reclamo sobre la armada hundida de Blackheart.",
      "**169 EC.** Una tormenta rompe la compuerta de marea, y los depósitos profundos se inundan.",
-     "**175 EC.** La Casa le pone precio al King Tide de 177 EC."
+     "**175 EC.** La Casa le pone precio a la Marea Rey de 177 EC."
     ]
    },
    {
     "title": "Costumbres y dichos",
     "paragraphs": [],
     "list": [
-     "**[[El Recuento|The Counting]].** El segundo de los Still Days, la Casa cierra sus puertas y abre sus libros, y el Cabildo lee en voz alta los totales del año ante una sala vacía. Es el único día en que se destapan las Mesas de los Fundadores.",
+     "**[[El Recuento|The Counting]].** El segundo de los Días Quietos, la Casa cierra sus puertas y abre sus libros, y el Cabildo lee en voz alta los totales del año ante una sala vacía. Es el único día en que se destapan las Mesas de los Fundadores.",
      "**No se rechaza ningún regalo.** Cada regalo de un deudor se anota del lado del haber en su cuenta, y al deudor se le avisa.",
-     "**[[El cálculo de los Contadores|The Reckoners' guess]].** Los ingresos de cada casa de las islas se citan como «el cálculo de los Contadores». La Casa nunca ha publicado uno, y de algún modo todo el mundo los sabe todos.",
-     "**[[La Taza Negra|The Black Cup]].** El café de enfrente, donde los Contadores se toman el café de pie.",
-     "**Las grajillas.** Los contables piden prestadas [[grajillas contadoras|counting jackdaws]] al final de un Ciclo para revisar sus columnas, y les pagan en Bits.",
+     "**[[El cálculo de los Tesoreros|The Reckoners' guess]].** Los ingresos de cada casa de las islas se citan como «el cálculo de los Tesoreros». La Casa nunca ha publicado uno, y de algún modo todo el mundo los sabe todos.",
+     "**[[La Taza Negra|The Black Cup]].** El café de enfrente, donde los Tesoreros se toman el café de pie.",
+     "**Las grajillas.** Los contables piden prestadas [[grajillas contadoras|counting jackdaws]] al final de un Ciclo para revisar sus columnas, y les pagan en [[Olas|Bits]].",
      "*[[Escrito, atestiguado, debido.|Written, witnessed, owed.]]* Las tres palabras del sello de la Casa.",
      "*[[La Casa no borra.|The Hall does not erase.]]* Se dice de cualquier cosa que no tiene vuelta atrás.",
-     "*[[Un Tide por el ruido.|A Tide for the noise.]]* Se le dice a cualquiera que grita, en cualquier parte de la Heartland.",
-     "*[[Tercer Coinsday.|Third Coinsday.]]* Se dice de quien esperó demasiado."
+     "*[[Una Marea por el ruido.|A Tide for the noise.]]* Se le dice a cualquiera que grita, en cualquier parte de la Heartland.",
+     "*[[Tercer Monedía.|Third Coinsday.]]* Se dice de quien esperó demasiado."
     ]
    },
    {
@@ -6205,12 +6205,12 @@
     "paragraphs": [],
     "list": [
      "**El Congreso:** gobernado a través de sus deudas. Goldspire va a las reuniones.",
-     "**[[Las Doce Banderas|The Twelve Flags]]:** cada puesto del Spire Floor se sostiene sobre mil Orsals depositados en la Casa. La fianza de los Tobbin se aceptó en pimienta.",
+     "**[[Las Doce Banderas|The Twelve Flags]]:** cada puesto del [[Piso de la Aguja|Spire Floor]] se sostiene sobre mil Orsales depositados en la Casa. La fianza de los Tobbin se aceptó en pimienta.",
      "**La Ceca de la Carta:** la Casa respalda cada Orsal, audita cada colada y anota cada número de serie.",
-     "**La Charterhouse Company:** los gremios la odian. La Casa les presta a los dos bandos y gana de cualquier modo.",
+     "**La [[Compañía Charterhouse|Charterhouse Company]]:** los gremios la odian. La Casa les presta a los dos bandos y gana de cualquier modo.",
      "**[[El Mostrador Violeta|The Violet Counter]]:** Vol Kaern presta a cambio de favores, sin interés. A la Casa le cae mal, como a los pescadores les cae mal el que regala pescado.",
-     "**[[Los Lobos del Libro Mayor|The Ledger Wolves]]:** préstamos a punta de cuchillo para los que la Casa rechaza. Los rumores dicen que son la mano que la Casa puede negar, y la Primera Contadora lo niega en un tono que no zanja nada.",
-     "**Los Hunters:** la Casa paga las recompensas del Consejo y contrata Hunters para trabajos de naufragio y encargos largos.",
+     "**[[Los Lobos del Libro Mayor|The Ledger Wolves]]:** préstamos a punta de cuchillo para los que la Casa rechaza. Los rumores dicen que son la mano que la Casa puede negar, y la Primera Tesorera lo niega en un tono que no zanja nada.",
+     "**Los Cazadores:** la Casa paga las recompensas del Consejo y contrata Cazadores para trabajos de naufragio y encargos largos.",
      "**Los enanos:** la mitad de los contables, el Contable Mayor y la ley enana que respeta el Tribunal.",
      "**El sur:** “El oro en el brazo es un voto de desconfianza contra Goldwind.”",
      "**[[La Casa Wingate|House Wingate]]:** una familia militante de mercenarios de Assios, lo más selecto y exclusivo que el dinero puede comprar, abanderados de nadie, cuya rama de Kalvatar, unos 2,500 hombres y siete barcos, le debe a la Casa más de lo que puede pagar, y sigue pagando."
@@ -6236,35 +6236,35 @@
      "Elige una palabra de cuenta que nadie adivine, y nunca la digas en una taberna.",
      "Registra un naufragio antes de bucear en él, no después.",
      "Trae la bandera. Pesa menos que el capitán.",
-     "Paga en el segundo Coinsday, nunca en el tercero.",
-     "Nunca alces la voz en la Sala Silenciosa. Cuesta un Tide, y lo anotan."
+     "Paga en el segundo Monedía, nunca en el tercero.",
+     "Nunca alces la voz en la Sala Silenciosa. Cuesta una Marea, y lo anotan."
     ]
    },
    {
     "title": "¿Sabías que?",
     "paragraphs": [],
     "list": [
-     "Una vez, un Hunter de oro pagó la multa de la Sala Silenciosa y pidió un recibo.",
-     "Cada Contador guarda un Orsal del año en que tomó el negro, y ninguno lo ha gastado nunca.",
+     "Una vez, un Cazador de oro pagó la multa de la Sala Silenciosa y pidió un recibo.",
+     "Cada Tesorero guarda un Orsal del año en que tomó el negro, y ninguno lo ha gastado nunca.",
      "El primer nombre que se asentó en el Libro Mayor fue el de uno de los propios fundadores de la Casa."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Theodora Nightshade: ha entrado y salido de la Casa de los Contadores.” (los muelles, sobre los Más Buscados)",
-     "“El Índice sigue archivando allá abajo. Un Coinsday tranquilo se le oye a través del piso de la sala de lectura.” (un contable del turno de noche)",
+     "“Theodora Nightshade: ha entrado y salido de la Casa de los Tesoreros.” (los muelles, sobre los Más Buscados)",
+     "“El Índice sigue archivando allá abajo. Un Monedía tranquilo se le oye a través del piso de la sala de lectura.” (un contable del turno de noche)",
      "“Una de las banderas de la Sala de la Prueba es de un capitán al que vieron vivo el mes pasado.” (un estibador de Goldwind)",
-     "“Madam Tally se detuvo una vez en medio de las cuentas de una Bandera. Esa Bandera vendió su puesto esa misma temporada.” (oído en el Spire Floor)",
+     "“Madam Tally se detuvo una vez en medio de las cuentas de una Bandera. Esa Bandera vendió su puesto esa misma temporada.” (oído en el Piso de la Aguja)",
      "“Las cuatro mesas vacías se guardan para los herederos de los fundadores, por si alguno vuelve algún día con el dinero.” (un contable novato)",
-     "“La Casa paga las recompensas en Orsals, y los cuenta dos veces frente a ti, despacio.” (un Hunter de plata)",
+     "“La Casa paga las recompensas en Orsales, y los cuenta dos veces frente a ti, despacio.” (un Cazador de plata)",
      "“Hay un nombre en el Libro Mayor con una mancha roja donde alguien intentó borrarlo. La Casa no borra, así que alguien de adentro lo hizo.” (un escribiente de los Tessick)"
     ]
    },
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKltbTGEgRMOpY2ltYSBDdWVudGF8VGhlIFRlbnRoIEFjY291bnRdXS4qKiBMYSBwbGF0YSBkZSBsYSBbW1ZpZ2lsaWEgZGUgUGxhdGF8U2lsdmVyIFZpZ2lsXV0gc2UgY29tcHJhIGEgdHJhdsOpcyBkZSBsYSBEw6ljaW1hIEN1ZW50YSwgZGlzZnJhemFkYSBkZSBjb250cmF0b3MgZGUgZm9ycm8gZGUgY2FzY29zIHkgZGUgZmFyb2xlcyBwYXJhIGxhIEFybWFkYSwgeSBsYSBQcmltZXJhIENvbnRhZG9yYSBNYWVyYSBCbGFja3N0cmFuZCBmaXJtYSBjYWRhIHDDoWdpbmEuIEVzIHVuYSBkZSBsYXMgcG9jYXMgcGVyc29uYXMgZGUgYXJyaWJhIHF1ZSBzYWJlbiBkZSBsYSBWaWdpbGlhLiBFbCBjaGlzdGUgZGUgbG9zIGNhbGRlcmVyb3MsIHF1ZSBsYSBBcm1hZGEgY29tcHJhIG3DoXMgZm9ycm8gZGUgY2FzY29zIHF1ZSBjYXNjb3MgdGllbmUsIGVzIHNvYnJlIGVzdG8uIiwgIioqTWFkYW0gVGFsbHkgeSBsYSBEw6ljaW1hIEN1ZW50YS4qKiBMYSBDYXNhIG51bmNhIGhhIHNhY2FkbyBhIE1hZGFtIFRhbGx5IHBhcmEgbGEgRMOpY2ltYSBDdWVudGEuIE1hZXJhIG5vIHF1aWVyZSBzYWJlciBzaSBsYXMgY3VlbnRhcyBkZWwgw6FiYWNvIHNlIGRldGVuZHLDrWFuLiIsICIqKkxhIGZ1Z2EgZGUgcGxhdGEuKiogTGEgZnVnYSB0aWVuZSBkb3MgYm9jYXM6IGxhIETDqWNpbWEgQ3VlbnRhIGRlIGxhIFZpZ2lsaWEgeSBsYXMgbGltb3NuYXMgZGUgbG9zIFtbQmFycXVlcm9zfEZlcnJ5bWVuXV0uIExvcyBhdWRpdG9yZXMgZGUgbGEgQ2FzYSBlc3TDoW4gaW52ZXN0aWdhbmRvLiBNYWVyYSBkaXJpZ2UgbGEgaW52ZXN0aWdhY2nDs24gZGUgc3VzIHByb3Bpb3MgcGFnb3MsIHF1ZSBlcyBsYSBmb3JtYSBtw6FzIHNlZ3VyYSBkZSBxdWUgbnVuY2EgbG9zIGVuY3VlbnRyZSwgeSBhbCBlc2NyaWJpZW50ZSBxdWUgbm90w7MgcXVlIGxhcyBjYXBpbGxhcyBkZWwgc3VyIGdhc3RhbiBtw6FzIGVuIHBsYXRhIHF1ZSBlbiB2ZWxhcyBsZSBkaWplcm9uIHF1ZSBkZWphcmEgZGUgbm90YXIgY29zYXMuIiwgIioqW1tMdW5hcyBww6FsaWRhc3xQYWxlIG1vb25zXV0uKiogUGFyYSBhbGltZW50YXIgYSBsYSBWaWdpbGlhLCBsYSBDZWNhIGhhIGFkZWxnYXphZG8gbG9zIFRpZGVzIG51ZXZvcyBlbiBjZXJjYSBkZSB1biBub3Zlbm8gZGVzZGUgMTUwIEVDLiBFbCBhdmFsIGRlIGxhIENhc2EgZXN0w6EgZW4gY2FkYSB1bm8gZGUgZWxsb3MuIiwgIioqR29sZHNwaXJlIGVzdMOhIGVuIHF1aWVicmEuKiogTGEgZmlhbnphIGRlIHB1ZXN0byBkZSBsYSBCb2xzYSBlcywgZW4gcmVhbGlkYWQsIGRpbmVybyBkZSBsb3MgQmxhY2tzdHJhbmQsIHkgTWFlcmEgdGllbmUgc3VmaWNpZW50ZSBwYXBlbCBkZSBHb2xkc3BpcmUgcGFyYSBjZXJyYXIgZWwgU3BpcmUgRmxvb3IgZWwgQ29pbnNkYXkgcXVlIHF1aWVyYS4gTGEgQ2hhcnRlcmhvdXNlIENvbXBhbnkgZXN0w6EgY29tcHJhbmRvIGRldWRhIGRlIEdvbGRzcGlyZSBlbiBsb3RlcyBwZXF1ZcOxb3MgZW4gc2VpcyBwdWVydG9zLCBhIHRyYXbDqXMgZGUgbGEgQ2FzYSBaYW5lLiIsICIqKkxhIGRldWRhIGRlbCBDb25zZWpvLioqIEVsIENvbnNlam8gbGUgcGlkacOzIHByZXN0YWRvIGEgbGEgQ2FzYSBwYXJhIHBhZ2FyIGxhIFtbQ29hbGljacOzbiBkZSBLcmFrZW4ncyBNYXd8S3Jha2VuJ3MgTWF3IENvYWxpdGlvbl1dLiBNYWVyYSBudW5jYSBsYSBoYSBjb2JyYWRvLCB5IGNhZGEgYXNpZW50byBkZWwgQ29uc2VqbyBzYWJlIHF1ZSBwb2Ryw61hLiIsICIqKk1vcnRpbWVyIFZhbnJpcyoqIGxlIGRlYmUgYSBsYSBDYXNhIG3DoXMgZGUgbG8gcXVlIGRpY2UgY3VhbHF1aWVyIGV4cGVkaWVudGUuIFNvbG8gTWFlcmEgc2FiZSBsYSBzdW1hIGNvbXBsZXRhLiIsICIqKkxvcyBMb2JvcyBkZWwgTGlicm8gTWF5b3IuKiogTm8gc29uIGxhIG1hbm8gZGUgbGEgQ2FzYS4gU29uIHN1cyBwcm92ZWVkb3Jlcy4gQ2FkYSBDb2luc2RheSwgdW4gZmFjdG9yIGRlIGxvcyBUaHJhbmUgbGVzIGNvbXByYSBjb24gZGVzY3VlbnRvIGEgbG9zIExvYm9zIHN1IHBhcGVsIG3DoXMgbWFkdXJvLCB5IGxhIENhc2EgbG8gY29icmEgYSB2YWxvciBjb21wbGV0bywgZW4gdGludGEgZGUgbGlicm8gbWF5b3IsIHNpbiB1biBjdWNoaWxsbyBhIGxhIHZpc3RhLiBMYSBuZWdhY2nDs24gZGUgTWFlcmEgZXMgY2llcnRhLCB5IG5vIHphbmphIG5hZGEgcG9ycXVlIG5vIGRlYmUgemFuamFybG8uIiwgIioqRWwgw7puaWNvIGJvcnLDs24uKiogTGEgbWFuY2hhIHJvamEgZGVsIExpYnJvIE1heW9yIGVzIGVsIG5vbWJyZSBkZSBTYWJpbiBCbGFja3N0cmFuZC4gQSBsb3MgZGllY2ludWV2ZSBhw7FvcyBsZSBwaWRpw7MgcHJlc3RhZG8gYSBsYSBDYXNhIGRlIHN1IHByb3BpYSBmYW1pbGlhLCBwZXJkacOzIGxhIGNhcmdhIHkgZW50csOzIGFsIExpYnJvIE1heW9yIGVuIGVsIHRlcmNlciBDb2luc2RheSwgY29tbyBjdWFscXVpZXJhLiBNYWVyYSBpbnRlbnTDsyBib3JyYXIgbGEgbMOtbmVhLCBsYSDDum5pY2EgdmV6IHF1ZSB1biBQcmltZXIgQ29udGFkb3IgbG8gaGEgaW50ZW50YWRvLCB5IGxhIHRpbnRhIGRlIGxpYnJvIG1heW9yIGxvIGRlbGF0w7MuIERlc2RlIGVudG9uY2VzIFNhYmluIG5hdmVnYSBjb21vIEhlcmEgU2Vhd29ydGgsIHkgbnVuY2EgbGUgaGEgcGVyZG9uYWRvIGEgc3UgdMOtYSBlc2EgYm9uZGFkLiIsICIqKltbTGEgQ29ydGUgZGUgSHVlc29zfFRoZSBDb3VydCBvZiBCb25lc11dLioqIExhIFByaW1lcmEgQ29udGFkb3JhIHNhYmUgcXVlIGxhIENvcnRlIGV4aXN0ZSwgeSB0YW1iacOpbiBsbyBzYWJlbiBsb3MgQ29udGFkb3JlcyBxdWUgbGxldmFuIGxhcyBjdWVudGFzIG3DoXMgZXh0cmHDsWFzLiBMYXMgZGV1ZGFzIGRlIHVuIG11ZXJ0byBhIHZlY2VzIHNlIHNpZ3VlbiBwYWdhbmRvLCBlbiBjb2JyZSwgcG9yIG5hZGllLiIsICIqKkVsIHJlY2xhbW8gZGUgW1tsb3MgcXVlIFN1YmVufHRoZSBVcHdhcmRdXS4qKiBFbiAxNzYgRUMsIE9yaWFuZGVsLCBhbCBmcmVudGUgZGUgbG9zIHF1ZSBTdWJlbiwgcGllbnNhIHN1YmlyIHBvciBsYSBDaXN0ZXJuIERvb3IgeSBwcmVzZW50YXIgYW50ZSBsYSBDYXNhIGVsIHJlY2xhbW8gZGUgbGEgW1tDdWVudGEgUHJvZnVuZGF8RGVlcCBUYWxseV1dLCBiYWpvIGxhIGxleSBlbmFuYSwgcXVlIGxhIENhc2EgcmVzcGV0YS4gTWFlcmEgdGVuZHLDoSBxdWUgZmFsbGFyIHNvYnJlIHVuIGNvbnRyYXRvIG3DoXMgdmllam8gcXVlIGVsIENvbnNlam8sIHF1ZSBsb3MgZGV1ZG9yZXMgbcOhcyByZXNwZXRhZG9zIGRlIGxhcyBpc2xhcyBsZSBkZWJlbiBhIHVuIHB1ZWJsbyBxdWUgbGFzIGlzbGFzIG51bmNhIGhhbiB2aXN0by4gRWwgY3LDqWRpdG8gZGUgbG9zIHNhbG9uZXMgZW5hbm9zIHJlc3BhbGRhIGJ1ZW5hIHBhcnRlIGRlbCBwYXBlbCBkZWwgQ29uZ3Jlc28uIiwgIioqTG8gcXVlIHZhbGUgbGEgQ2FzYS4qKiBVbm9zIDMwMCwwMDAgT3JzYWxzIGRlc2NhbnNhbiBlbiBsYXMgQsOzdmVkYXMgZGUgTW9uZWRhcywgeSBtZW5vcyBkZSB1biB0ZXJjaW8gZXMgZGUgbGEgQ2FzYS4gU3UgcGFwZWwgc29icmUgbGFzIGlzbGFzIHZhbGUgcXVpesOhIGNpbmNvIHZlY2VzIGVzbywgc2kgYWxndW5hIHZleiBzZSBjb2JyYXJhIHRvZG8gZGUgdW5hIHZleiwgbG8gcXVlIGFjYWJhcsOtYSBjb24gbGEgQ2FydGEuIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKltbTGEgRMOpY2ltYSBDdWVudGF8VGhlIFRlbnRoIEFjY291bnRdXS4qKiBMYSBwbGF0YSBkZSBsYSBbW1ZpZ2lsaWEgZGUgUGxhdGF8U2lsdmVyIFZpZ2lsXV0gc2UgY29tcHJhIGEgdHJhdsOpcyBkZSBsYSBEw6ljaW1hIEN1ZW50YSwgZGlzZnJhemFkYSBkZSBjb250cmF0b3MgZGUgZm9ycm8gZGUgY2FzY29zIHkgZGUgZmFyb2xlcyBwYXJhIGxhIEFybWFkYSwgeSBsYSBQcmltZXJhIFRlc29yZXJhIE1hZXJhIEJsYWNrc3RyYW5kIGZpcm1hIGNhZGEgcMOhZ2luYS4gRXMgdW5hIGRlIGxhcyBwb2NhcyBwZXJzb25hcyBkZSBhcnJpYmEgcXVlIHNhYmVuIGRlIGxhIFZpZ2lsaWEuIEVsIGNoaXN0ZSBkZSBsb3MgY2FsZGVyZXJvcywgcXVlIGxhIEFybWFkYSBjb21wcmEgbcOhcyBmb3JybyBkZSBjYXNjb3MgcXVlIGNhc2NvcyB0aWVuZSwgZXMgc29icmUgZXN0by4iLCAiKipNYWRhbSBUYWxseSB5IGxhIETDqWNpbWEgQ3VlbnRhLioqIExhIENhc2EgbnVuY2EgaGEgc2FjYWRvIGEgTWFkYW0gVGFsbHkgcGFyYSBsYSBEw6ljaW1hIEN1ZW50YS4gTWFlcmEgbm8gcXVpZXJlIHNhYmVyIHNpIGxhcyBjdWVudGFzIGRlbCDDoWJhY28gc2UgZGV0ZW5kcsOtYW4uIiwgIioqTGEgZnVnYSBkZSBwbGF0YS4qKiBMYSBmdWdhIHRpZW5lIGRvcyBib2NhczogbGEgRMOpY2ltYSBDdWVudGEgZGUgbGEgVmlnaWxpYSB5IGxhcyBsaW1vc25hcyBkZSBsb3MgW1tCYXJxdWVyb3N8RmVycnltZW5dXS4gTG9zIGF1ZGl0b3JlcyBkZSBsYSBDYXNhIGVzdMOhbiBpbnZlc3RpZ2FuZG8uIE1hZXJhIGRpcmlnZSBsYSBpbnZlc3RpZ2FjacOzbiBkZSBzdXMgcHJvcGlvcyBwYWdvcywgcXVlIGVzIGxhIGZvcm1hIG3DoXMgc2VndXJhIGRlIHF1ZSBudW5jYSBsb3MgZW5jdWVudHJlLCB5IGFsIGVzY3JpYmllbnRlIHF1ZSBub3TDsyBxdWUgbGFzIGNhcGlsbGFzIGRlbCBzdXIgZ2FzdGFuIG3DoXMgZW4gcGxhdGEgcXVlIGVuIHZlbGFzIGxlIGRpamVyb24gcXVlIGRlamFyYSBkZSBub3RhciBjb3Nhcy4iLCAiKipbW0x1bmFzIHDDoWxpZGFzfFBhbGUgbW9vbnNdXS4qKiBQYXJhIGFsaW1lbnRhciBhIGxhIFZpZ2lsaWEsIGxhIENlY2EgaGEgYWRlbGdhemFkbyBsYXMgTWFyZWFzIG51ZXZhcyBlbiBjZXJjYSBkZSB1biBub3Zlbm8gZGVzZGUgMTUwIEVDLiBFbCBhdmFsIGRlIGxhIENhc2EgZXN0w6EgZW4gY2FkYSB1bmEgZGUgZWxsYXMuIiwgIioqR29sZHNwaXJlIGVzdMOhIGVuIHF1aWVicmEuKiogTGEgZmlhbnphIGRlIHB1ZXN0byBkZSBsYSBCb2xzYSBlcywgZW4gcmVhbGlkYWQsIGRpbmVybyBkZSBsb3MgQmxhY2tzdHJhbmQsIHkgTWFlcmEgdGllbmUgc3VmaWNpZW50ZSBwYXBlbCBkZSBHb2xkc3BpcmUgcGFyYSBjZXJyYXIgZWwgUGlzbyBkZSBsYSBBZ3VqYSBlbCBNb25lZMOtYSBxdWUgcXVpZXJhLiBMYSBDb21wYcOxw61hIENoYXJ0ZXJob3VzZSBlc3TDoSBjb21wcmFuZG8gZGV1ZGEgZGUgR29sZHNwaXJlIGVuIGxvdGVzIHBlcXVlw7FvcyBlbiBzZWlzIHB1ZXJ0b3MsIGEgdHJhdsOpcyBkZSBsYSBDYXNhIFphbmUuIiwgIioqTGEgZGV1ZGEgZGVsIENvbnNlam8uKiogRWwgQ29uc2VqbyBsZSBwaWRpw7MgcHJlc3RhZG8gYSBsYSBDYXNhIHBhcmEgcGFnYXIgbGEgW1tDb2FsaWNpw7NuIGRlIEtyYWtlbidzIE1hd3xLcmFrZW4ncyBNYXcgQ29hbGl0aW9uXV0uIE1hZXJhIG51bmNhIGxhIGhhIGNvYnJhZG8sIHkgY2FkYSBhc2llbnRvIGRlbCBDb25zZWpvIHNhYmUgcXVlIHBvZHLDrWEuIiwgIioqTW9ydGltZXIgVmFucmlzKiogbGUgZGViZSBhIGxhIENhc2EgbcOhcyBkZSBsbyBxdWUgZGljZSBjdWFscXVpZXIgZXhwZWRpZW50ZS4gU29sbyBNYWVyYSBzYWJlIGxhIHN1bWEgY29tcGxldGEuIiwgIioqTG9zIExvYm9zIGRlbCBMaWJybyBNYXlvci4qKiBObyBzb24gbGEgbWFubyBkZSBsYSBDYXNhLiBTb24gc3VzIHByb3ZlZWRvcmVzLiBDYWRhIE1vbmVkw61hLCB1biBmYWN0b3IgZGUgbG9zIFRocmFuZSBsZXMgY29tcHJhIGNvbiBkZXNjdWVudG8gYSBsb3MgTG9ib3Mgc3UgcGFwZWwgbcOhcyBtYWR1cm8sIHkgbGEgQ2FzYSBsbyBjb2JyYSBhIHZhbG9yIGNvbXBsZXRvLCBlbiB0aW50YSBkZSBsaWJybyBtYXlvciwgc2luIHVuIGN1Y2hpbGxvIGEgbGEgdmlzdGEuIExhIG5lZ2FjacOzbiBkZSBNYWVyYSBlcyBjaWVydGEsIHkgbm8gemFuamEgbmFkYSBwb3JxdWUgbm8gZGViZSB6YW5qYXJsby4iLCAiKipFbCDDum5pY28gYm9ycsOzbi4qKiBMYSBtYW5jaGEgcm9qYSBkZWwgTGlicm8gTWF5b3IgZXMgZWwgbm9tYnJlIGRlIFNhYmluIEJsYWNrc3RyYW5kLiBBIGxvcyBkaWVjaW51ZXZlIGHDsW9zIGxlIHBpZGnDsyBwcmVzdGFkbyBhIGxhIENhc2EgZGUgc3UgcHJvcGlhIGZhbWlsaWEsIHBlcmRpw7MgbGEgY2FyZ2EgeSBlbnRyw7MgYWwgTGlicm8gTWF5b3IgZW4gZWwgdGVyY2VyIE1vbmVkw61hLCBjb21vIGN1YWxxdWllcmEuIE1hZXJhIGludGVudMOzIGJvcnJhciBsYSBsw61uZWEsIGxhIMO6bmljYSB2ZXogcXVlIHVuIFByaW1lciBUZXNvcmVybyBsbyBoYSBpbnRlbnRhZG8sIHkgbGEgdGludGEgZGUgbGlicm8gbWF5b3IgbG8gZGVsYXTDsy4gRGVzZGUgZW50b25jZXMgU2FiaW4gbmF2ZWdhIGNvbW8gSGVyYSBTZWF3b3J0aCwgeSBudW5jYSBsZSBoYSBwZXJkb25hZG8gYSBzdSB0w61hIGVzYSBib25kYWQuIiwgIioqW1tMYSBDb3J0ZSBkZSBIdWVzb3N8VGhlIENvdXJ0IG9mIEJvbmVzXV0uKiogTGEgUHJpbWVyYSBUZXNvcmVyYSBzYWJlIHF1ZSBsYSBDb3J0ZSBleGlzdGUsIHkgdGFtYmnDqW4gbG8gc2FiZW4gbG9zIFRlc29yZXJvcyBxdWUgbGxldmFuIGxhcyBjdWVudGFzIG3DoXMgZXh0cmHDsWFzLiBMYXMgZGV1ZGFzIGRlIHVuIG11ZXJ0byBhIHZlY2VzIHNlIHNpZ3VlbiBwYWdhbmRvLCBlbiBjb2JyZSwgcG9yIG5hZGllLiIsICIqKkVsIHJlY2xhbW8gZGUgW1tsb3MgcXVlIFN1YmVufHRoZSBVcHdhcmRdXS4qKiBFbiAxNzYgRUMsIE9yaWFuZGVsLCBhbCBmcmVudGUgZGUgbG9zIHF1ZSBTdWJlbiwgcGllbnNhIHN1YmlyIHBvciBsYSBDaXN0ZXJuIERvb3IgeSBwcmVzZW50YXIgYW50ZSBsYSBDYXNhIGVsIHJlY2xhbW8gZGUgbGEgW1tDdWVudGEgUHJvZnVuZGF8RGVlcCBUYWxseV1dLCBiYWpvIGxhIGxleSBlbmFuYSwgcXVlIGxhIENhc2EgcmVzcGV0YS4gTWFlcmEgdGVuZHLDoSBxdWUgZmFsbGFyIHNvYnJlIHVuIGNvbnRyYXRvIG3DoXMgdmllam8gcXVlIGVsIENvbnNlam8sIHF1ZSBsb3MgZGV1ZG9yZXMgbcOhcyByZXNwZXRhZG9zIGRlIGxhcyBpc2xhcyBsZSBkZWJlbiBhIHVuIHB1ZWJsbyBxdWUgbGFzIGlzbGFzIG51bmNhIGhhbiB2aXN0by4gRWwgY3LDqWRpdG8gZGUgbG9zIHNhbG9uZXMgZW5hbm9zIHJlc3BhbGRhIGJ1ZW5hIHBhcnRlIGRlbCBwYXBlbCBkZWwgQ29uZ3Jlc28uIiwgIioqTG8gcXVlIHZhbGUgbGEgQ2FzYS4qKiBVbm9zIDMwMCwwMDAgT3JzYWxlcyBkZXNjYW5zYW4gZW4gbGFzIELDs3ZlZGFzIGRlIE1vbmVkYXMsIHkgbWVub3MgZGUgdW4gdGVyY2lvIGVzIGRlIGxhIENhc2EuIFN1IHBhcGVsIHNvYnJlIGxhcyBpc2xhcyB2YWxlIHF1aXrDoSBjaW5jbyB2ZWNlcyBlc28sIHNpIGFsZ3VuYSB2ZXogc2UgY29icmFyYSB0b2RvIGRlIHVuYSB2ZXosIGxvIHF1ZSBhY2FiYXLDrWEgY29uIGxhIENhcnRhLiJdfQ=="
    }
   ]
  },
@@ -10882,7 +10882,7 @@
  "most-wanted": {
   "gloss": "Los Más Buscados",
   "subtitle": "Forajidos de las islas",
-  "summary": "El cartel de recompensas del Consejo, que cuelga en cada Lodge y cada aduana. La Casa de los Contadores paga las recompensas contra prueba.",
+  "summary": "El cartel de recompensas del Consejo, que cuelga en cada Lodge y cada aduana. La Casa de los Tesoreros paga las recompensas contra prueba.",
   "title": "The Most Wanted"
  },
  "quiet-auction": {
@@ -11087,12 +11087,12 @@
  "maera-blackstrand": {
   "title": "Maera Blackstrand",
   "subtitle": "Un nombre en boca de todos",
-  "summary": "Primera Contadora de la Casa de los Contadores y jefa de la Casa Blackstrand, que tiene en sus manos la mitad de las deudas de las islas.",
+  "summary": "Primera Tesorera de la Casa de los Tesoreros y jefa de la Casa Blackstrand, que tiene en sus manos la mitad de las deudas de las islas.",
   "sections": [
    {
     "title": "Panorama",
     "paragraphs": [
-     "Lady Maera Blackstrand es la Primera Contadora de la Casa de los Contadores, el banco del Congreso Mercantil, y la jefa de la Casa Blackstrand, el Señor del Libro Mayor.",
+     "Lady Maera Blackstrand es la Primera Tesorera de la Casa de los Tesoreros, el banco del Congreso Mercantil, y la jefa de la Casa Blackstrand, el Señor del Libro Mayor.",
      "Horace Goldspire tiene la silla del Congreso en el Consejo. Todo el mundo sabe que el verdadero poder del Congreso es la Casa, y que la Casa es Maera Blackstrand.",
      "Tiene en sus manos la mitad de las deudas de las islas. El lema de la casa es Toda cuenta se cobra."
     ]
@@ -11107,7 +11107,7 @@
   "facts": [
    [
     "Título",
-    "Primera Contadora"
+    "Primera Tesorera"
    ],
    [
     "Casa",
