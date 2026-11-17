@@ -50,6 +50,11 @@ function articleIllustration(e){
  const figures=scenes.map(({a,index})=>articleArtFigure(e,a,index,scenes.length>1)).join('');
  return scenes.length>1?`<section class="art-comparison" aria-label="${esc(e.title)} illustrations">${figures}</section>`:figures;
 }
+function articleGallery(e){
+ const photos=articleImages(e).map((a,index)=>({a,index})).filter(({a})=>a.presentation==='gallery');
+ if(!photos.length)return '';
+ return `<section class="atlas-photo-gallery" aria-label="${esc(e.title)} gallery"><div class="section-title"><div><p class="eyebrow">${Pack2.text('SCENES FROM THE CITY','ESCENAS DE LA CIUDAD')}</p><h2>${Pack2.text('Everyday Goldwind.','La vida en Goldwind.')}</h2></div></div><p class="atlas-gallery-intro">${Pack2.text('Beyond the Council halls and the harbor fortunes, the lower streets have their own stories.','Más allá del Consejo y las fortunas del puerto, las calles bajas tienen sus propias historias.')}</p><div class="atlas-gallery-grid">${photos.map(({a,index})=>articleArtFigure(e,a,index,true)).join('')}</div></section>`;
+}
 function articleFieldPlates(e){
  const plates=articleImages(e).map((a,index)=>({a,index})).filter(({a})=>a.kind==='plate');if(!plates.length)return '';
  return `<section class="field-guide-gallery" aria-labelledby="field-guide-title"><div class="section-title"><div><p class="eyebrow">THE NATURALIST’S NOTES</p><h2 id="field-guide-title">In the field guide.</h2></div></div>${plates.map(({a,index})=>articleArtFigure(e,a,index)).join('')}</section>`;
@@ -142,7 +147,7 @@ function renderArticleSection(s,i,current){
 }
 function renderArticle(id){
  const e=byId[id];if(!e){renderNotFound();return}if(!Pack2.canRead(id)){Pack2.renderLocked();return}const categoryHref=e.category==='folk'?NotableFolk.returnHref(e):e.foeParent?'#entry/'+e.foeParent:'#category/'+e.category;setNavigation(e.category);$('#breadcrumb').innerHTML=`<a href="#">The world</a><span>/</span><a href="${esc(categoryHref)}">${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name}</a><span>/</span>${esc(e.title)}`;
- $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header"><p class="eyebrow">${categories[e.category].short.toUpperCase()} / ${esc(e.region.toUpperCase())}</p><h1>${esc(e.title)}</h1><p class="article-subtitle">${esc(e.subtitle)}</p>${Pack2.header(e)}<p class="article-lead">${esc(e.summary)}</p><div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button><span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${window.NotableFolk?.articleLinks(e)||''}${articleIllustration(e)}${e.id==='northern-frontier'?'<a class="frontier-article-cta" href="#map/northern-frontier">Explore the detailed Northern Frontier chart <span aria-hidden="true">↗</span></a>':''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id)).join('')}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-section="${i}">${esc(s.title)}</button>`).join('')}</nav></aside></div>${Pack2.extraArt(e)}${articleFieldPlates(e)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
+ $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header"><p class="eyebrow">${categories[e.category].short.toUpperCase()} / ${esc(e.region.toUpperCase())}</p><h1>${esc(e.title)}</h1><p class="article-subtitle">${esc(e.subtitle)}</p>${Pack2.header(e)}<p class="article-lead">${esc(e.summary)}</p><div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button><span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${window.NotableFolk?.articleLinks(e)||''}${articleIllustration(e)}${articleGallery(e)}${e.id==='northern-frontier'?'<a class="frontier-article-cta" href="#map/northern-frontier">Explore the detailed Northern Frontier chart <span aria-hidden="true">↗</span></a>':''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id)).join('')}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-section="${i}">${esc(s.title)}</button>`).join('')}</nav></aside></div>${Pack2.extraArt(e)}${articleFieldPlates(e)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
  $('#save-article').addEventListener('click',()=>{const present=saved.has(e.id);if(present)saved.delete(e.id);else saved.add(e.id);saveList();const b=$('#save-article');b.classList.toggle('saved',!present);b.setAttribute('aria-pressed',String(!present));b.innerHTML=`<span aria-hidden="true">${!present?'◆':'◇'}</span>${!present?'Saved to reading list':'Save for later'}`;toast(readingStorage?(present?'Removed from your reading list.':'Saved for your next visit.'):'Saved for this visit. This browser could not keep the reading list.')});
  $('#copy-link').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);toast('Article link copied.')}catch(err){toast('Copy the article’s address from your browser to share it.')}});
 }
@@ -252,6 +257,10 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
+ 'goldwind': [
+  ['goldwind-street-wanderer', 'A carefree afternoon', 'Una tarde sin preocupaciones', 'A young woman enjoys the sunshine on one of Goldwind’s lower streets.', 'Una joven disfruta del sol mientras recorre las calles bajas de Goldwind.', {width:1024,height:1536,presentation:'gallery'}],
+  ['goldwind-family-on-steps', 'A family in the lower streets', 'Una familia en las calles bajas', 'A family shares a sunlit moment outside a small Goldwind shop.', 'Una familia comparte un momento soleado a la entrada de una tienda de Goldwind.', {width:1448,height:1086,presentation:'gallery'}]
+ ],
  'pyraxis-the-unbowed-flame': [['pyraxis-aoifel-turn-v1', 'A challenge at the Turn', 'Un reto durante el relevo', 'Pyraxis reacts to one of Aoifel’s ridiculous challenges at the handover of the Turn.', 'Pyraxis reacciona a uno de los retos ridículos de Aoifel durante el relevo del Turn.']],
  'aoifel-the-green-laugh': [
   ['aoifel-wildflower-bed', 'A bed of wildflowers', 'Una cama de flores silvestres', 'Aoifel stretches as she wakes among the wildflowers of the Laughing Garden.', 'Aoifel se estira al despertar entre las flores silvestres del Jardín Risueño.'],
@@ -268,13 +277,16 @@ const galleryScenes = {
  'widows-teeth': [['widows-teeth-pilot-boat', 'A pilot boat through the Teeth', 'Una lancha de prácticos entre los Dientes', 'A pilot boat threads the channel between the jagged rocks of the Widow’s Teeth.', 'Una lancha de prácticos cruza el canal entre los farallones de los Dientes de la Viuda.']]
 };
 
+let availableGoldwindArt = new Set();
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
-  for (const [filename, label, labelEs, caption, captionEs] of galleryScenes[entry.id] ?? []) {
+  for (const [filename, label, labelEs, caption, captionEs, options = {}] of galleryScenes[entry.id] ?? []) {
+   if (entry.id==='goldwind' && !availableGoldwindArt.has(filename)) continue;
    const base = `assets/scenes/${filename}`;
    entry.gallery = [...(entry.gallery || []), {
     thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
-    width: 1536, height: 1024,
+    width: options.width || 1536, height: options.height || 1024,
+    presentation: options.presentation,
     get label() { return Pack2.text(label, labelEs); },
     get alt() { return Pack2.text(caption, captionEs); },
     get caption() { return Pack2.text(caption, captionEs); }
@@ -293,7 +305,11 @@ function applyEntryIllustrations(entries) {
  }
 }
 (async()=>{try{
- const response=await fetch('entries.json?v=71');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();applyEntryIllustrations(input);entries=await Pack2.prepare(input);await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
+ const response=await fetch('entries.json?v=71');if(!response.ok)throw new Error('Atlas unavailable');const input=await response.json();
+ availableGoldwindArt = new Set((await Promise.all(galleryScenes.goldwind.map(async ([filename])=>{
+  try{const r=await fetch('assets/scenes/'+filename+'-480.webp',{method:'HEAD'});return r.ok?filename:null}catch{return null}
+ }))).filter(Boolean));
+ applyEntryIllustrations(input);entries=await Pack2.prepare(input);await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
  const optional=async name=>{try{const r=await fetch(name+'?v=71');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
  [rumors,timeline]=await Promise.all([optional('rumors.json'),optional('timeline.json')]);
  for(const e of entries)e.searchText=fold([e.title,e.summary,e.subtitle,e.region,categories[e.category].name,...(e.aliases||[]),...e.sections.flatMap(s=>[s.title,...(s.paragraphs||[]),...(s.list||[]),...(s.table?[s.table.caption,...s.table.headers,...s.table.rows.flat()]:[])]),...e.facts.flat(),creatureKinds[e.creatureKind]||''].join(' '));
