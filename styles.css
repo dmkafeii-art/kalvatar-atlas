@@ -41,3 +41,6 @@
 .atlas-gallery-grid .article-art-open>img{aspect-ratio:auto;width:100%;height:auto;max-height:610px;object-fit:contain;background:#183133}
 .atlas-gallery-grid .article-art figcaption strong{color:#293f37}
 @media(max-width:720px){.atlas-gallery-grid{grid-template-columns:minmax(0,1fr);gap:18px}.atlas-gallery-grid .article-art-open>img{max-height:none}.atlas-photo-gallery{padding-top:18px}}
+/* Any entry's gallery (17 November): one picture spans the column; two or more share it evenly. Goldwind keeps its own proportions. */
+.atlas-gallery-grid.single{grid-template-columns:minmax(0,1fr)}.atlas-gallery-grid.single .article-art-open>img{max-height:80vh}.atlas-gallery-grid.even{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:720px){.atlas-gallery-grid.even{grid-template-columns:minmax(0,1fr)}}
