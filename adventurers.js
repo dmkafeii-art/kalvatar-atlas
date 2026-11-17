@@ -1,4 +1,4 @@
-/* Adventurers: tools for players. A name generator and the peoples' traits. Data: adventurers.json. */
+/* Adventurers: tools for players. A name generator, the peoples' traits, the workshop, downtime, side quests, treasure, the Sigil, passages, the sea, the Reckoners' Hall, and the Most Wanted. Data: adventurers.json. */
 'use strict';
 window.Adventurers = (() => {
  const h = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=19').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=20').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -148,7 +148,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -613,12 +613,165 @@ window.Adventurers = (() => {
   tiles('sea');
  }
 
+ /* The Reckoners' Hall: what it costs to borrow, insure, keep and carry money, register a wreck, and collect a bounty.
+    Rates from Volume XXV (adventurers.json, "hall"). */
+ const UNIT = {bit: .01, tide: .1, anchor: 1, orsal: 10};
+ const hall = {who: 4, amt: 100, unit: 'anchor', term: 10, voy: 0, val: 1000, vunit: 'anchor', king: 0, keep: 100, kunit: 'anchor', years: 1, salv: 500, sunit: 'anchor', crew: 4, pact: 0, cap: 0, hunters: 4, twins: 1};
+ const amountIn = (id, v, u) => `<span class="adv-amount"><input id="${id}" type="number" min="0" step="any" value="${v}" inputmode="decimal">${sel(id + '-u', [['bit', 'Bits'], ['tide', 'Tides'], ['anchor', 'Anchors'], ['orsal', 'Orsals']], u)}</span>`;
+ const oneIn = n => t(`1 in ${n}`, `1 de cada ${n}`);
+ const months = m => m < 10 ? `${m} ${m === 1 ? t('month', 'mes') : t('months', 'meses')}` : `${m / 10} ${m === 10 ? t('year', 'año') : t('years', 'años')}`;
+ function hallBorrow() {
+  const H = data.hall, b = H.borrow[hall.who], p = (+hall.amt || 0) * UNIT[hall.unit];
+  if(p <= 0) return `<p class="adv-note">${t('How much?', '¿Cuánto?')}</p>`;
+  if(b.wolves) {
+   const cyc = Math.max(1, Math.round(hall.term * 3.6)), owed = p * Math.pow(1 + 1 / b.one_in, cyc);
+   return `<dl class="adv-out">${row(t('The Wolves’ rate', 'La tasa de los Wolves'), oneIn(b.one_in) + ' ' + t('every Cycle', 'cada Cycle'))}${row(t('The first Cycle’s interest', 'El interés del primer Cycle'), coin(p / b.one_in))}${row(t(`Owed after ${months(hall.term)} (${cyc} Cycles)`, `Debes tras ${months(hall.term)} (${cyc} Cycles)`), coin(owed))}</dl>
+   <p class="adv-roll">${t('Every Cycle the Wolves add a tenth to what you owe, and the next tenth is counted on that. They collect by knife, and the first sign is a torn ledger-corner pinned to your door.', 'Cada Cycle los Wolves le suman una décima parte a lo que debes, y la siguiente se cuenta sobre eso. Cobran a cuchillo, y la primera señal es una esquina de libro rota clavada en tu puerta.')}</p>
+   <p class="adv-note">${t('Try a Lodge Quartermaster’s chit first.', 'Primero intenta con un chit del Quartermaster de tu Lodge.')} <a href="#entry/ledger-wolves">The Ledger Wolves</a></p>`;
+  }
+  const year = p / b.one_in, all = year * hall.term / 10;
+  return `<dl class="adv-out">${row(t('The Hall’s rate', 'La tasa del Hall'), oneIn(b.one_in) + ' ' + t('a year', 'al año'))}${row(t('Interest a year', 'Interés al año'), coin(year))}${row(t('Interest a month', 'Interés al mes'), coin(year / 10))}${row(t(`To repay after ${months(hall.term)}`, `A devolver tras ${months(hall.term)}`), coin(p + all))}</dl>
+  <p class="adv-roll">${t('Interest falls due on Coinsday. Three Coinsdays unpaid and your name goes into the Ledger: no loan anywhere, no bottomry bond, no master’s chain in any guild.', 'El interés vence en Coinsday. Tres Coinsdays sin pagar y tu nombre entra al Ledger: ningún préstamo en ninguna parte, ningún seguro de barco, ninguna cadena de maestro en ningún gremio.')}</p>
+  <p class="adv-note">${t('The Hall lends against something: a ship, a shop, a warehouse, a title, a post. You leave with a small card that has your Coinsday on it.', 'El Hall presta contra algo: un barco, un taller, un almacén, un título, un puesto. Sales con una tarjetita que tiene tu Coinsday.')}</p>`;
+ }
+ function hallInsure() {
+  const H = data.hall, v = H.insure[hall.voy], val = (+hall.val || 0) * UNIT[hall.vunit];
+  if(!v.one_in) return `<p class="adv-roll">${t('The Hall will not write it at any price.', 'El Hall no lo asegura a ningún precio.')}</p><p class="adv-note">${t('Nobody insures a voyage into the Sealed Waters. Ask yourself why.', 'Nadie asegura un viaje a las Sealed Waters. Pregúntate por qué.')}</p>`;
+  if(val <= 0) return `<p class="adv-note">${t('What are the ship and her cargo worth?', '¿Cuánto valen el barco y su carga?')}</p>`;
+  const k = hall.king ? H.king_tide : 1, prem = val / v.one_in * k;
+  return `<dl class="adv-out">${row(t('Premium', 'Prima'), oneIn(v.one_in) + (k > 1 ? ' × ' + k : ''))}${row(t('For this voyage', 'Por este viaje'), coin(prem))}${row(t('There and back', 'Ida y vuelta'), coin(prem * 2))}</dl>
+  <p class="adv-roll">${t('A bottomry bond is a sea-loan on the ship and her cargo, forgiven if the ship is lost. That is why the Hall’s wreck-clerks exist: a captain who sinks his own ship for the bond goes into the Ledger the same day.', 'Un bottomry bond es un préstamo sobre el barco y su carga que se perdona si el barco se pierde. Para eso existen los wreck-clerks del Hall: el capitán que hunde su propio barco para cobrarlo entra al Ledger ese mismo día.')}</p>`;
+ }
+ function hallKeep() {
+  const H = data.hall, p = (+hall.keep || 0) * UNIT[hall.kunit];
+  if(p <= 0) return `<p class="adv-note">${t('How much?', '¿Cuánto?')}</p>`;
+  return `<dl class="adv-out">${row(t('Vault fee a year', 'Cuota de bóveda al año'), coin(p / H.deposit))}${row(t(`Vault fee for ${hall.years} ${hall.years === 1 ? 'year' : 'years'}`, `Cuota por ${hall.years} ${hall.years === 1 ? 'año' : 'años'}`), coin(p / H.deposit * hall.years))}${row(t('A reckoning for it costs', 'Un reckoning por esa suma cuesta'), coin(p / H.reckoning))}</dl>
+  <p class="adv-roll">${t('A reckoning is a sealed letter of credit, in ledger ink, payable at any of the nine counting-houses to the person named on it, and only on their counter-word. A stolen reckoning is a piece of paper.', 'Un reckoning es una carta de crédito sellada, en tinta de libro mayor, que paga cualquiera de las nueve casas de cuentas a la persona que nombra, y solo con su counter-word. Un reckoning robado es un papel.')}</p>
+  <p class="adv-note">${t('Choose a counter-word nobody would guess, and never say it in a tavern. A large draw away from home waits for the next Coinsday’s pages from Goldwind.', 'Elige una counter-word que nadie adivine, y nunca la digas en una taberna. Un retiro grande lejos de casa espera las páginas del próximo Coinsday desde Goldwind.')}</p>`;
+ }
+ function hallSalvage() {
+  const H = data.hall, v = (+hall.salv || 0) * UNIT[hall.sunit];
+  if(v <= 0) return `<p class="adv-note">${t('What is it worth?', '¿Cuánto vale?')}</p>`;
+  const tenth = v / H.tenth, rest = v - tenth, finders = rest / H.finder;
+  return `<dl class="adv-out">${row(t('The Reckoners’ tenth', 'La décima del Hall'), coin(tenth))}${row(t('The finders’ third', 'El tercio de quienes lo hallan'), coin(finders))}${row(t('Each finder', 'Cada uno'), coin(Math.floor(finders / hall.crew * 100) / 100))}${row(t('The owner or the insurer', 'El dueño o el asegurador'), coin(rest - finders))}</dl>
+  ${hall.pact ? `<p class="adv-roll">${t('In pact-water the Coral court chooses first: take its pick out of the wreck before you count any of this.', 'En aguas de pacto la corte de coral elige primero: saca su parte del naufragio antes de contar nada de esto.')}</p>` : ''}
+  <p class="adv-note">${t('Register the claim at the Wreck Office before you dive, not after. New-found wrecks are the Chartwrights’ to register, and nothing Below can be registered at all. Here the Hall’s tenth comes off the top; your Game Master may take it from the finders’ third instead.', 'Registra el reclamo en el Wreck Office antes de bucear, no después. Los naufragios recién descubiertos los registran los Chartwrights, y nada de Below se puede registrar. Aquí la décima del Hall sale primero; tu GM puede sacarla del tercio de quienes lo hallan.')}</p>`;
+ }
+ function hallBounty() {
+  const c = data.wanted.captains[hall.cap], n = c.each ? hall.twins : 1, total = c.bounty * n;
+  return `<dl class="adv-out">${row(t('The bounty', 'La recompensa'), coin(total))}${row(t('Each of you', 'Cada uno'), coin(Math.floor(total / hall.hunters * 100) / 100))}${row(t('Proof', 'Prueba'), t('The captain, the ship, or the flag', 'El capitán, el barco o la bandera'))}</dl>
+  ${c.alive ? `<p class="adv-roll">${t('Alive only. A dead Davin pays nothing, and the docks will not forgive you either.', 'Solo vivo. Un Davin muerto no paga nada, y los muelles tampoco te lo perdonarán.')}</p>` : ''}
+  <p class="adv-roll">${t('The Hall pays in the Proof Room, witnessed by a Reckoner and two counters. The flag stays on the wall, and is never given back.', 'El Hall paga en la Proof Room, con un Reckoner y dos counters como testigos. La bandera se queda en la pared y nunca se devuelve.')}</p>
+  <p class="adv-note"><a href="#entry/${h(c.id)}">${h(c.name)}</a> · <a href="#adventurers/wanted">${t('The Most Wanted', 'Los más buscados')}</a></p>`;
+ }
+ function renderHall() {
+  const H = data.hall, terms = [1, 2, 3, 6, 10, 20, 30, 50].map(m => [m, months(m)]), C = data.wanted.captains;
+  frame('hall', `<p class="adv-lead">${t('What the Reckoners’ Hall will charge you, and what it will pay you. The rates are the Hall’s own; your Game Master has the last word.', 'Lo que te cobra el Reckoners’ Hall, y lo que te paga. Las tasas son las del Hall; tu GM tiene la última palabra.')}</p>
+  <section class="adv-panel adv-shop"><h2>${t('Borrow', 'Pedir prestado')}</h2><p class="adv-hint">${t('What a loan costs, by who you are.', 'Lo que cuesta un préstamo, según quién eres.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('Who is borrowing', 'Quién pide')}${sel('hl-who', H.borrow.map((b, i) => [i, b.wolves ? t('Nobody will lend to you (the Ledger Wolves)', 'Nadie te presta (los Ledger Wolves)') : b.who]), hall.who)}</label><label class="pack-label">${t('How much', 'Cuánto')}${amountIn('hl-amt', hall.amt, hall.unit)}</label><label class="pack-label">${t('For how long', 'Por cuánto tiempo')}${sel('hl-term', terms, hall.term)}</label></div><div id="hl-borrow" aria-live="polite">${hallBorrow()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('Insure a ship', 'Asegurar un barco')}</h2><p class="adv-hint">${t('The bottomry premium for one voyage.', 'La prima de bottomry por un viaje.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('The voyage', 'El viaje')}${sel('hl-voy', H.insure.map((v, i) => [i, v.voyage]), hall.voy)}</label><label class="pack-label">${t('Ship and cargo worth', 'Valor del barco y la carga')}${amountIn('hl-val', hall.val, hall.vunit)}</label><label class="pack-label">${t('A King Tide year?', '¿Año de King Tide?')}${sel('hl-king', [[0, t('No', 'No')], [1, t('Yes (177 EC)', 'Sí (177 EC)')]], hall.king)}</label></div><div id="hl-insure" aria-live="polite">${hallInsure()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('Keep and carry money', 'Guardar y llevar dinero')}</h2><p class="adv-hint">${t('A deposit in the vaults, and a reckoning to carry instead of gold.', 'Un depósito en las bóvedas, y un reckoning para llevar en vez de oro.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('How much', 'Cuánto')}${amountIn('hl-keep', hall.keep, hall.kunit)}</label><label class="pack-label">${t('Kept for', 'Guardado por')}${sel('hl-years', [1, 2, 3, 5, 10].map(n => [n, n + ' ' + (n === 1 ? t('year', 'año') : t('years', 'años'))]), hall.years)}</label></div><div id="hl-keep-out" aria-live="polite">${hallKeep()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('Salvage a wreck', 'Rescatar un naufragio')}</h2><p class="adv-hint">${t('Who gets what from a registered wreck.', 'Quién se queda con qué de un naufragio registrado.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('What it is worth', 'Cuánto vale')}${amountIn('hl-salv', hall.salv, hall.sunit)}</label><label class="pack-label">${t('How many finders', 'Cuántos lo hallaron')}${sel('hl-crew', [1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]), hall.crew)}</label><label class="pack-label">${t('In pact-water?', '¿En aguas de pacto?')}${sel('hl-pact', [[0, t('No', 'No')], [1, t('Yes', 'Sí')]], hall.pact)}</label></div><div id="hl-salv-out" aria-live="polite">${hallSalvage()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('Collect a bounty', 'Cobrar una recompensa')}</h2><p class="adv-hint">${t('What the Proof Room pays for a name on the poster.', 'Lo que paga la Proof Room por un nombre del cartel.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('The captain', 'El capitán')}${sel('hl-cap', C.map((c, i) => [i, `${c.name} (${c.bounty.toLocaleString('en-US')})`]), hall.cap)}</label><label class="pack-label" id="hl-twins-l"${C[hall.cap].each ? '' : ' hidden'}>${t('How many twins', 'Cuántos gemelos')}${sel('hl-twins', [[1, '1'], [2, '2']], hall.twins)}</label><label class="pack-label">${t('How many of you', 'Cuántos son')}${sel('hl-hunters', [1, 2, 3, 4, 5, 6, 7, 8].map(n => [n, String(n)]), hall.hunters)}</label></div><div id="hl-bounty" aria-live="polite">${hallBounty()}</div></section>
+  <p class="adv-hint"><a href="#entry/reckoners-hall">${t('About the Reckoners’ Hall', 'Sobre el Reckoners’ Hall')}</a> · <a href="#entry/reckoners-ledger">The Reckoners' Ledger</a> · <a href="#entry/coins-and-prices">Coins and Prices</a></p>`);
+  const bind = (id, key, out, fn, n) => $('#' + id).addEventListener('input', e => {hall[key] = n ? +e.target.value : e.target.value; $('#' + out).innerHTML = fn();});
+  bind('hl-who', 'who', 'hl-borrow', hallBorrow, 1); bind('hl-amt', 'amt', 'hl-borrow', hallBorrow); bind('hl-amt-u', 'unit', 'hl-borrow', hallBorrow); bind('hl-term', 'term', 'hl-borrow', hallBorrow, 1);
+  bind('hl-voy', 'voy', 'hl-insure', hallInsure, 1); bind('hl-val', 'val', 'hl-insure', hallInsure); bind('hl-val-u', 'vunit', 'hl-insure', hallInsure); bind('hl-king', 'king', 'hl-insure', hallInsure, 1);
+  bind('hl-keep', 'keep', 'hl-keep-out', hallKeep); bind('hl-keep-u', 'kunit', 'hl-keep-out', hallKeep); bind('hl-years', 'years', 'hl-keep-out', hallKeep, 1);
+  bind('hl-salv', 'salv', 'hl-salv-out', hallSalvage); bind('hl-salv-u', 'sunit', 'hl-salv-out', hallSalvage); bind('hl-crew', 'crew', 'hl-salv-out', hallSalvage, 1); bind('hl-pact', 'pact', 'hl-salv-out', hallSalvage, 1);
+  bind('hl-twins', 'twins', 'hl-bounty', hallBounty, 1); bind('hl-hunters', 'hunters', 'hl-bounty', hallBounty, 1);
+  $('#hl-cap').addEventListener('input', e => {hall.cap = +e.target.value; $('#hl-twins-l').hidden = !C[hall.cap].each; $('#hl-bounty').innerHTML = hallBounty();});
+  tiles('hall');
+ }
+
+ /* The Most Wanted: the Council's poster, and a generator of dock talk and broadsheet news about its captains.
+    Public knowledge only (Most Wanted, Part One, and wanted.json); none of it is true until the Game Master says so. */
+ const talk = {cap: '', out: []};
+ const shipName = c => c.ship.replace(/^The /, '');
+ const nameAt = (c, start) => {const n = c.name.replace(/, "[^"]*"$/, ''); return start ? n : n.replace(/^The /, 'the ');};
+ const poss = (c, start) => {const n = nameAt(c, start); return /s$/.test(n) ? n + '’' : /"$/.test(n) ? n + '’s' : n + '’s';};
+ const cap1 = s => s.charAt(0).toUpperCase() + s.slice(1);
+ function portFor(c) {
+  const all = data.travel.ports.filter(p => p.kind !== 'hidden'), near = all.filter(p => c.waters.includes(p.region));
+  return pick(near.length ? near : all).name;
+ }
+ function fill(tpl, c, port) {
+  const G = data.wanted.gen, witness = pick(G.witness).replace('{port}', port);
+  const v = {name: nameAt(c, false), ship: '*' + shipName(c) + '*', sign: pick(c.signs), deed: pick(c.deeds), docks: pick(c.docks), tag: c.tag, when: pick(G.when), port, witness,
+   cargo: pick(G.cargo), market: pick(G.market), armada: pick(G.armada), rank: pick(G.rank), n: pick(['two', 'three', 'four']),
+   bounty: c.bounty.toLocaleString('en-US') + ' Anchors' + (c.each ? ' each' : '') + (c.alive ? ', alive only' : '')};
+  let s = tpl.replace(/\{name\}'s/g, poss(c, false)).replace(/\{(\w+)\}/g, (m, k) => {
+   if(k === 'Witness') return cap1(witness);
+   if(k === 'PORT') return port.toUpperCase();
+   if(k === 'TAG') return c.tag.toUpperCase();
+   return v[k] ?? m;
+  });
+  s = s.replace(/^the /, 'The ').replace(/^([a-z])/, x => x.toUpperCase()).replace(/\. the /g, '. The ');
+  return {s, witness};
+ }
+ function makeTalk(kind, capId) {
+  const W = data.wanted, G = W.gen, c = capId ? W.captains.find(x => x.id === capId) : pick(W.captains), port = portFor(c);
+  for(let tries = 0; tries < 8; tries++) {
+   let item;
+   if(kind === 'rumor') {
+    const tpl = pick(G.rumor), r = fill(tpl, c, port);
+    item = {kind, c, text: r.s, by: tpl.includes('{Witness}') ? '' : r.witness};
+   } else {
+    const [head, body] = pick(G.news);
+    item = {kind, c, head: fill(head, c, port).s.toUpperCase(), text: fill(body, c, port).s};
+   }
+   if(!talk.out.some(x => x.text === item.text)) return item;
+  }
+  return null;
+ }
+ function talkHtml() {
+  if(!talk.out.length) return `<p class="adv-empty">${t('Pick a captain, or leave it to the sea, and ask.', 'Elige un capitán, o déjaselo al mar, y pregunta.')}</p>`;
+  return `<ol class="adv-talk">${talk.out.map((x, i) => x.kind === 'rumor'
+   ? `<li class="adv-talk-rumor"><p>“${md(x.text)}”${x.by ? ` <span>(${h(x.by)})</span>` : ''}</p><small><a href="#entry/${h(x.c.id)}">${h(x.c.name)}</a></small><button type="button" class="adv-copy" data-talk="${i}">${t('Copy', 'Copiar')}</button></li>`
+   : `<li class="adv-talk-news"><strong>${md(x.head)}</strong><p>${md(x.text)}</p><small><a href="#entry/${h(x.c.id)}">${h(x.c.name)}</a></small><button type="button" class="adv-copy" data-talk="${i}">${t('Copy', 'Copiar')}</button></li>`).join('')}</ol>`;
+ }
+ function posterHtml() {
+  const W = data.wanted;
+  return `<div class="adv-poster">${W.captains.map(c => `<article class="adv-wanted"><p class="adv-wanted-top">${t('Wanted', 'Se busca')}</p><h3><a href="#entry/${h(c.id)}">${h(c.name)}</a></h3><p class="adv-wanted-ship"><em>${h(c.ship)}</em></p><p class="adv-wanted-price">${c.bounty.toLocaleString('en-US')} <span>Anchors${c.each ? ' ' + t('each', 'cada uno') : ''}</span></p>${c.alive ? `<p class="adv-wanted-alive">${t('Alive only', 'Solo vivo')}</p>` : ''}<div class="adv-wanted-ask"><button type="button" class="adv-copy" data-ask="rumor" data-cap="${h(c.id)}">${t('Dock talk', 'Rumor')}</button><button type="button" class="adv-copy" data-ask="news" data-cap="${h(c.id)}">${t('News', 'Noticia')}</button></div></article>`).join('')}
+  <article class="adv-wanted adv-wanted-swan"><p class="adv-wanted-top">${t('On no poster', 'En ningún cartel')}</p><h3><a href="#entry/${h(W.swan.id)}">The Iron Swan</a></h3><p>${h(W.swan.text)}</p></article></div>`;
+ }
+ function renderWanted() {
+  const W = data.wanted;
+  frame('wanted', `<p class="adv-lead">${t('The Council’s poster hangs in every Lodge, every customs-house, and every tavern that will let it. Here is who is on it, and what the docks are saying this week.', 'El cartel del Council cuelga en cada Lodge, cada aduana y cada taberna que lo deje. Aquí está quién sale en él, y qué se dice en los muelles esta semana.')}</p>
+  <section class="adv-panel adv-shop adv-talk-panel"><h2>${t('Dock talk and news', 'Rumores y noticias')}</h2><p class="adv-hint">${t('What the harbors say about the captains on the poster: a rumor overheard, or a broadsheet headline.', 'Lo que dicen los puertos de los capitanes del cartel: un rumor escuchado, o un titular de hoja suelta.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('About', 'Sobre')}${sel('mw-cap', [['', t('Any captain', 'Cualquier capitán')]].concat(W.captains.map(c => [c.id, c.name])), talk.cap)}</label></div>
+  <div class="pack-actions"><button type="button" class="button" id="mw-rumor">${t('What do the docks say?', '¿Qué se dice en los muelles?')} <span aria-hidden="true">✦</span></button><button type="button" class="button cream" id="mw-news">${t('The broadsheet', 'La hoja de noticias')} <span aria-hidden="true">✦</span></button></div>
+  <div id="mw-out" aria-live="polite">${talkHtml()}</div>
+  <p class="adv-note">${t('Table talk, not canon: none of it is true until your Game Master says so. The Game Master’s sheets on these captains are not here.', 'Charla de mesa, no canon: nada de esto es cierto hasta que tu GM lo diga. Las fichas del GM sobre estos capitanes no están aquí.')}${window.Pack2?.language === 'es' ? ' Los rumores y noticias salen en inglés por ahora.' : ''}</p></section>
+  <section class="adv-panel adv-poster-panel"><h2>${t('The poster', 'El cartel')}</h2><p class="adv-wanted-notice">${h(W.notice)}</p>${posterHtml()}</section>
+  <p class="adv-hint"><a href="#entry/most-wanted">${t('About the Most Wanted', 'Sobre los más buscados')}</a> · <a href="#adventurers/hall">${t('What the Proof Room pays', 'Lo que paga la Proof Room')}</a> · <a href="#entry/free-tide">The Free Tide</a></p>`);
+  const ask = (kind, capId, scroll) => {
+   const item = makeTalk(kind, capId);
+   if(item) {talk.out.unshift(item); talk.out.length = Math.min(talk.out.length, 8);}
+   $('#mw-out').innerHTML = talkHtml();
+   if(scroll) $('#mw-out').scrollIntoView({block: 'nearest', behavior: 'smooth'});
+  };
+  $('#mw-cap').addEventListener('input', e => {talk.cap = e.target.value;});
+  $('#mw-rumor').addEventListener('click', () => ask('rumor', talk.cap));
+  $('#mw-news').addEventListener('click', () => ask('news', talk.cap));
+  $('.adv-poster').addEventListener('click', e => {const b = e.target.closest('[data-ask]'); if(!b) return; talk.cap = b.dataset.cap; $('#mw-cap').value = talk.cap; ask(b.dataset.ask, talk.cap, true);});
+  $('#mw-out').addEventListener('click', async e => {
+   const b = e.target.closest('[data-talk]'); if(!b) return;
+   const x = talk.out[+b.dataset.talk], plain = s => s.replace(/\*/g, '');
+   try {await navigator.clipboard.writeText(x.kind === 'rumor' ? `“${plain(x.text)}”${x.by ? ` (${x.by})` : ''}` : `${plain(x.head)}\n${plain(x.text)}`); b.textContent = t('Copied', 'Copiado');} catch {b.textContent = t('Could not copy', 'No se pudo copiar');}
+  });
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;

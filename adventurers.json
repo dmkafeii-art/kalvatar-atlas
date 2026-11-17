@@ -10971,5 +10971,769 @@
    }
   ]
  },
+ "hall": {
+  "borrow": [
+   {
+    "who": "The Council, or one of the Five",
+    "one_in": 20,
+    "per": "year",
+    "wolves": false
+   },
+   {
+    "who": "A great house, or one of the Twelve Flags",
+    "one_in": 12,
+    "per": "year",
+    "wolves": false
+   },
+   {
+    "who": "A merchant with a warehouse",
+    "one_in": 8,
+    "per": "year",
+    "wolves": false
+   },
+   {
+    "who": "A captain, against a ship",
+    "one_in": 6,
+    "per": "year",
+    "wolves": false
+   },
+   {
+    "who": "A tradesman, against a shop",
+    "one_in": 5,
+    "per": "year",
+    "wolves": false
+   },
+   {
+    "who": "Anyone the Hall will not lend to",
+    "one_in": 10,
+    "per": "cycle",
+    "wolves": true
+   }
+  ],
+  "insure": [
+   {
+    "voyage": "Coastal, within one region",
+    "one_in": 50
+   },
+   {
+    "voyage": "Between the Frontier and the Heartland",
+    "one_in": 25
+   },
+   {
+    "voyage": "To the south",
+    "one_in": 10
+   },
+   {
+    "voyage": "To the ice",
+    "one_in": 5
+   },
+   {
+    "voyage": "Into the Sealed Waters",
+    "one_in": null,
+    "note": "None. The Hall will not write it at any price"
+   }
+  ],
+  "king_tide": 3,
+  "deposit": 100,
+  "reckoning": 50,
+  "finder": 3,
+  "tenth": 10
+ },
+ "wanted": {
+  "notice": "By order of the Council of the Charted Isles. The following captains are wanted for piracy, murder, and crimes against the Charter. Bounties are paid by the Reckoners' Hall on proof, dead or alive, unless marked otherwise. Bring the captain, the ship, or the flag.",
+  "captains": [
+   {
+    "id": "seren-blackheart-the-last-smile",
+    "name": "Seren Blackheart, \"the Last Smile\"",
+    "ship": "Dread Sovereign",
+    "bounty": 2500,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "Her father's ghost guides her in battle.",
+     "She knows where the Kraken's Lair lies.",
+     "A sea witch's pact gives her unnatural skill."
+    ],
+    "tag": "the Last Smile",
+    "waters": [
+     "Southern Wilds",
+     "Central Heartland",
+     "Northern Frontier"
+    ],
+    "signs": [
+     "A pale grinning crescent on a black flag.",
+     "A flagship old sailors swear went down at the Kraken's Maw.",
+     "Free Tide colors on every hull around her."
+    ],
+    "deeds": [
+     "took a Charterhouse Company salt-hulk without firing a shot",
+     "sailed into the roads with more ships behind her than the Council admits",
+     "let a whole crew go ashore and kept only their ship",
+     "sent word that any crew tired of its masters may sail under the crescent"
+    ]
+   },
+   {
+    "id": "corvath-stormbringer",
+    "name": "Corvath Stormbringer",
+    "ship": "The Black Vortex",
+    "bounty": 1200,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "He cannot die.",
+     "His crew are ghosts that steel passes through.",
+     "He throws lightning from his own hands.",
+     "His ship sails inside a storm that never ends."
+    ],
+    "tag": "the Stormbringer",
+    "waters": [
+     "Northern Frontier",
+     "Central Heartland",
+     "Southern Wilds",
+     "Icy Expanse"
+    ],
+    "signs": [
+     "A knot of cloud and lightning moving against the wind.",
+     "A storm that stood in one place all night and was gone at dawn.",
+     "Men at the rail who did not get wet."
+    ],
+    "deeds": [
+     "passed a convoy close enough to hail, and took nothing",
+     "struck a coaster's mast with lightning and sailed on",
+     "was seen standing off a harbor where a ship went down the week before",
+     "rode out a gale that sank two honest ships"
+    ]
+   },
+   {
+    "id": "captain-blackstorm",
+    "name": "Captain Blackstorm",
+    "ship": "The Phantom Tide",
+    "bounty": 1000,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "He commands the dead with whispered words.",
+     "He wears the lost Ring of Depths, which gives him power over sea creatures.",
+     "He once outmaneuvered the whole Armada during a King Tide."
+    ],
+    "tag": "Blackstorm",
+    "waters": [
+     "Southern Wilds",
+     "Central Heartland",
+     "Northern Frontier"
+    ],
+    "signs": [
+     "Old Maw veterans' tattoos on every arm in the boat.",
+     "Grey sails on a hull that runs without a wake.",
+     "Crews from the Kraken's Maw drinking on his coin."
+    ],
+    "deeds": [
+     "fought two of the Last Smile's ships to a standstill",
+     "signed on a whole crew of Maw survivors in one night",
+     "slipped an Armada patrol in a fog",
+     "raised one of Blackheart's old flags beside his own"
+    ]
+   },
+   {
+    "id": "azura-blackbeak-the-siren-of-the-seas",
+    "name": "Azura Blackbeak, \"the Siren of the Seas\"",
+    "ship": "The Banshee's Call",
+    "bounty": 900,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "Her singing voice lures ships onto her guns.",
+     "Her crew is all women and has never lost a boarding."
+    ],
+    "tag": "the Siren of the Seas",
+    "waters": [
+     "Southern Wilds",
+     "Central Heartland"
+    ],
+    "signs": [
+     "Singing over the water before any sail is seen.",
+     "A deep blue hull worked in silver and gold.",
+     "A boarding party of women, every one of them armed."
+    ],
+    "deeds": [
+     "let a ship full of refugees pass and took its escort instead",
+     "boarded a merchant galley while her crew sang",
+     "took a Flag's brig and returned its cook with a letter of thanks",
+     "won a boarding in the time it takes to sing a verse"
+    ]
+   },
+   {
+    "id": "red-mara",
+    "name": "\"Red\" Mara",
+    "ship": "The Red Vengeance",
+    "bounty": 900,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "A map is tattooed on her back in sea serpent's blood.",
+     "Her crew is bound to her by an unbreakable oath of the sea.",
+     "She keeps a hidden cove where runaway slaves are sheltered."
+    ],
+    "tag": "Red Mara",
+    "waters": [
+     "Southern Wilds"
+    ],
+    "signs": [
+     "Chains thrown over the side after a boarding.",
+     "A red hull off the plantation coast.",
+     "A crew that cheers when it takes a slaver."
+    ],
+    "deeds": [
+     "took a slaver and freed every soul below decks",
+     "burned a plantation house's private sloop at its own jetty",
+     "landed forty runaways on a coast nobody charts",
+     "raised the price on her own head by humiliating a colonial magistrate"
+    ]
+   },
+   {
+    "id": "siroc-the-swift",
+    "name": "Siroc the Swift",
+    "ship": "The Wind Dancer",
+    "bounty": 900,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "He can outrun the wind and vanish into thin air.",
+     "He carries an ancient elven artifact that commands the winds.",
+     "He has escaped the Armada more than a dozen times."
+    ],
+    "tag": "the Swift",
+    "waters": [
+     "Central Heartland",
+     "Northern Frontier",
+     "Southern Wilds"
+    ],
+    "signs": [
+     "Sails filling in a dead calm.",
+     "A ship that was there, and then was not.",
+     "A wake where there was no wind."
+    ],
+    "deeds": [
+     "slipped an Armada Vindicator for the thirteenth time",
+     "took a strongbox and nothing else",
+     "outran a squall into harbor and out again before the bells",
+     "left a pursuing captain becalmed with a full wind on his own sails"
+    ]
+   },
+   {
+    "id": "iceblade-twins",
+    "name": "The Iceblade Twins",
+    "ship": "Frostfang",
+    "bounty": 800,
+    "each": true,
+    "alive": false,
+    "docks": [
+     "They freeze an enemy's blood with a look.",
+     "Their ship sails on a road of ice, even in warm water.",
+     "They stole the Crown of Winter."
+    ],
+    "tag": "the Iceblade Twins",
+    "waters": [
+     "Icy Expanse",
+     "Southern Wilds"
+    ],
+    "signs": [
+     "Frost on the rigging of ships in warm water.",
+     "A brother and a sister at the helm, together.",
+     "Plunder sold at Varan Port before the news arrives."
+    ],
+    "deeds": [
+     "froze a merchant brig in her own wake",
+     "sold a whole cargo at Varan Port within a Cycle of taking it",
+     "took a sealer's catch and paid for it in somebody else's coin",
+     "were seen far north of any ice, with ice around them"
+    ]
+   },
+   {
+    "id": "morga-stormdrum",
+    "name": "Morga Stormdrum",
+    "ship": "The Tempest Wreaker",
+    "bounty": 800,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "Her shaman's drum calls the storms.",
+     "She speaks to the beasts of the sea and they obey.",
+     "Her eyes turn the color of a stormy sea when she is angry."
+    ],
+    "tag": "Stormdrum",
+    "waters": [
+     "Central Heartland",
+     "Southern Wilds",
+     "Northern Frontier"
+    ],
+    "signs": [
+     "A great hide drum heard across the water before a squall.",
+     "Weather that turned when her drum did.",
+     "Dolphins running beside her hull like hounds."
+    ],
+    "deeds": [
+     "left port in a hurry, again, as if something were behind her",
+     "drummed up a squall that scattered a convoy",
+     "watered at a cove and was gone by dawn",
+     "turned back a pursuing Warden with a storm nobody forecast"
+    ]
+   },
+   {
+    "id": "kaida-dragonfire",
+    "name": "Kaida Dragonfire",
+    "ship": "The Dragon's Fury",
+    "bounty": 800,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "Her scales turn steel.",
+     "She breathes fire.",
+     "She can smell a ship over the horizon."
+    ],
+    "tag": "Dragonfire",
+    "waters": [
+     "Northern Frontier",
+     "Central Heartland"
+    ],
+    "signs": [
+     "A red and gold hull with dragons carved at bow and stern.",
+     "A burned Imperial pennant nailed to a mast.",
+     "Fire on the water where no fire should be."
+    ],
+    "deeds": [
+     "took an Imperial courier and burned its letters unread",
+     "found an Imperial ship that three Armada captains had lost",
+     "set a smuggler's hull alight and let the crew swim home",
+     "turned down a Council pardon in exchange for her Imperial prizes"
+    ]
+   },
+   {
+    "id": "captain-umbrel",
+    "name": "Captain Umbrel",
+    "ship": "The Shadow Serpent",
+    "bounty": 700,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "He is never seen by day and strikes only at night.",
+     "His ship appears and vanishes like a mirage.",
+     "He stole an invisible cloak from the Skein."
+    ],
+    "tag": "Umbrel",
+    "waters": [
+     "Central Heartland"
+    ],
+    "signs": [
+     "No light showing, and no sound of oars.",
+     "A ship gone before the bells.",
+     "A watchman who saw nothing and lost his purse."
+    ],
+    "deeds": [
+     "emptied a warehouse barge between the second and the third bell",
+     "took a ship at anchor without waking her captain",
+     "left a harbor chain unlocked behind him",
+     "was never seen, which is how everyone knew it was him"
+    ]
+   },
+   {
+    "id": "grogar-the-relentless",
+    "name": "Grogar the Relentless",
+    "ship": "Warbringer",
+    "bounty": 700,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "He survived a duel with a kraken and wears its eye as a trophy.",
+     "His war cries carry over the worst storms.",
+     "He means to unite every orc pirate under his banner."
+    ],
+    "tag": "the Relentless",
+    "waters": [
+     "Southern Wilds",
+     "Northern Frontier"
+    ],
+    "signs": [
+     "War cries over the worst of a storm.",
+     "A great eye worn on a cord.",
+     "Orc crews flying his banner beside their own."
+    ],
+    "deeds": [
+     "added another orc crew to his banner",
+     "fought Harrow Mane's wolf-packs over a crew that belonged to neither",
+     "rammed a merchantman in a gale and boarded her as she rolled",
+     "challenged any captain on the sea to a duel, kraken included"
+    ]
+   },
+   {
+    "id": "arcturus-ironheart",
+    "name": "Arcturus Ironheart",
+    "ship": "The Ironclad",
+    "bounty": 700,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "His ship is plated in iron and cannot be sunk.",
+     "His cannons fire by steam.",
+     "His blades are stronger than anything else at sea."
+    ],
+    "tag": "Ironheart",
+    "waters": [
+     "Southern Wilds",
+     "Central Heartland"
+    ],
+    "signs": [
+     "A smear of gun-smoke on the horizon.",
+     "Clockwork grapnels that bite and hold.",
+     "A hull that rings when a ball strikes it."
+    ],
+    "deeds": [
+     "sold a new kind of gun at Hollowkey to the first buyer with gold",
+     "took a gun-brig and kept only her cannon",
+     "shrugged off a broadside from an Armada Warden",
+     "was seen buying iron plate by the ton"
+    ]
+   },
+   {
+    "id": "theodora-nightshade",
+    "name": "Theodora Nightshade",
+    "ship": "The Nightingale",
+    "bounty": 650,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "She keeps a collection of every poison in the islands.",
+     "She has slipped in and out of the Reckoners' Hall.",
+     "No lock has ever held her."
+    ],
+    "tag": "Nightshade",
+    "waters": [
+     "Central Heartland"
+    ],
+    "signs": [
+     "A lock left open, and nothing else touched.",
+     "A bitter-almond smell in an empty strongroom.",
+     "A sleek ship that leaves before anyone thinks to look for her."
+    ],
+    "deeds": [
+     "walked out of a strongroom with one small box",
+     "poisoned a slaver's water casks and let the slaves row away",
+     "picked a magistrate's lock and left his papers in order",
+     "was seen dining in Goldwind under a name nobody can find"
+    ]
+   },
+   {
+    "id": "silverfin-davin",
+    "name": "\"Silverfin\" Davin",
+    "ship": "The Ocean's Grace",
+    "bounty": 600,
+    "each": false,
+    "alive": true,
+    "docks": [
+     "His charm turns enemies into friends.",
+     "He once jumped overboard in a raid to save a drowning child.",
+     "A mermaid's curse keeps him at sea."
+    ],
+    "tag": "Silverfin",
+    "waters": [
+     "Central Heartland",
+     "Southern Wilds"
+    ],
+    "signs": [
+     "A ship that every witness forgets to describe.",
+     "Sunlit court coral in a harbor market.",
+     "A crew that sings his name in the taverns."
+    ],
+    "deeds": [
+     "pulled a fisher boy out of the water in the middle of a raid",
+     "traded with the Sunlit courts under an Armada patrol's nose",
+     "talked a boarding party into joining him",
+     "paid a harbor's dues for a fishing fleet that could not"
+    ]
+   },
+   {
+    "id": "captain-sabletooth",
+    "name": "Captain Sabletooth",
+    "ship": "The Deepforge",
+    "bounty": 600,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "His cannons never miss.",
+     "He found the lost Dwarven Forge under the sea.",
+     "He is searching for the Hammer of the Deep."
+    ],
+    "tag": "Sabletooth",
+    "waters": [
+     "Central Heartland",
+     "Northern Frontier",
+     "Southern Wilds"
+    ],
+    "signs": [
+     "A ship anchored over empty water for weeks.",
+     "Divers' bells and long ropes over the side.",
+     "Gun-crews that hit with the first shot."
+    ],
+    "deeds": [
+     "sank a pursuing sloop with one broadside",
+     "anchored for twenty days over water with nothing under it",
+     "sent divers down where no wreck is charted",
+     "bought every diving bell in a port"
+    ]
+   },
+   {
+    "id": "lirelai-the-siren",
+    "name": "Lirelai the Siren",
+    "ship": "The Enchanter",
+    "bounty": 600,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "Her voice can calm the wildest storm.",
+     "A sea dragon saved her as a child, and she speaks its tongue.",
+     "She owns a mirror that shows distant shores."
+    ],
+    "tag": "the Siren",
+    "waters": [
+     "Central Heartland",
+     "Southern Wilds"
+    ],
+    "signs": [
+     "A song every tavern knows and nobody wrote.",
+     "A storm that went quiet when she sang.",
+     "Musicians at the oars."
+    ],
+    "deeds": [
+     "sang a gale down to a breeze",
+     "smuggled a cargo past a customs cutter in the middle of a concert",
+     "left a new song in three ports in one Cycle",
+     "was seen talking to something very large in the water"
+    ]
+   },
+   {
+    "id": "storm-eye-jorvik",
+    "name": "\"Storm-Eye\" Jorvik",
+    "ship": "The Stormcutter",
+    "bounty": 560,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "He predicts storms weeks before they come.",
+     "He has a pact with the spirits of the sea.",
+     "His missing eye sees the truth in every heart."
+    ],
+    "tag": "Storm-Eye",
+    "waters": [
+     "Northern Frontier",
+     "Icy Expanse"
+    ],
+    "signs": [
+     "Sails reefed before any cloud shows.",
+     "A one-eyed Galven at the helm.",
+     "Honest pilots watching his rigging."
+    ],
+    "deeds": [
+     "ran for shelter three days before a storm nobody else saw coming",
+     "took a prize in a squall that kept the Armada in harbor",
+     "reefed, and every honest pilot in the roads reefed with him",
+     "sailed out into weather that sank the ship chasing him"
+    ]
+   },
+   {
+    "id": "bellamy-the-bold",
+    "name": "Bellamy the Bold",
+    "ship": "The Daring Venture",
+    "bounty": 560,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "He escaped the gallows by charming the executioner.",
+     "He has a map to a city of gold and lacks only the key.",
+     "His parrot is a rival captain, transformed."
+    ],
+    "tag": "the Bold",
+    "waters": [
+     "Central Heartland",
+     "Northern Frontier"
+    ],
+    "signs": [
+     "A parrot that swears in a captain's voice.",
+     "A captain who bows to the ship he is robbing.",
+     "A crew laughing as it boards."
+    ],
+    "deeds": [
+     "talked his way out of a harbor jail, again",
+     "was seen buying the best fruit in the market for his parrot",
+     "took a pleasure-yacht and returned the guests their jewelry",
+     "dug up half a beach looking for a key"
+    ]
+   },
+   {
+    "id": "painted-cora",
+    "name": "\"Painted\" Cora",
+    "ship": "The Painter's Palette",
+    "bounty": 520,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "She leaves a painted red rose on every ship she plunders.",
+     "She can make herself look like anyone.",
+     "She is searching for the Brush of Creation."
+    ],
+    "tag": "Painted Cora",
+    "waters": [
+     "Central Heartland",
+     "Southern Wilds"
+    ],
+    "signs": [
+     "A painted red rose on a looted ship.",
+     "A passenger nobody remembers boarding.",
+     "A ship seldom seen at all."
+    ],
+    "deeds": [
+     "walked aboard a Flag's brig as its new purser and walked off with the strongbox",
+     "left a red rose painted on the captain's cabin door",
+     "was seen in three ports on the same day, by honest witnesses",
+     "bought every red pigment in a market"
+    ]
+   },
+   {
+    "id": "hrothgar-icevein",
+    "name": "Hrothgar Icevein",
+    "ship": "The Frozen Crown",
+    "bounty": 520,
+    "each": false,
+    "alive": false,
+    "docks": [
+     "His breath freezes a man where he stands.",
+     "He hunts the Frost Elves who exiled him."
+    ],
+    "tag": "Icevein",
+    "waters": [
+     "Icy Expanse"
+    ],
+    "signs": [
+     "Whale oil left out on a jetty for him.",
+     "Frost Elves with bare faces at the oars.",
+     "Ice on a raider's wreck, in summer."
+    ],
+    "deeds": [
+     "sank a skull-painted raider off the ice coast",
+     "drove off a raid on a whaling town and took nothing for it",
+     "left a frozen raider adrift as a warning",
+     "was seen far from the ice, hunting someone"
+    ]
+   }
+  ],
+  "swan": {
+   "id": "titania-and-the-iron-swan",
+   "text": "Every sailor in the islands has heard of the Iron Swan: a ship of solid metal with no sails, pouring black smoke from its stacks, crewed by living flame, and moving against the wind. It is the only steamship in the world. It answers to a woman called Titania, and no Council has ever dared to post a price on her."
+  },
+  "gen": {
+   "witness": [
+    "a net-mender in {port}",
+    "a harbor pilot out of {port}",
+    "a stillhouse keeper in {port}",
+    "a Harbinger's bosun",
+    "a scale-man on the {port} quay",
+    "a Bronze Hunter, three cups in",
+    "a ferryman at {port}",
+    "a customs-clerk of House Holst",
+    "a Reckoners' wreck-clerk",
+    "a widow who keeps a Returning Cup",
+    "a lamp-keeper on the {port} light",
+    "a cook off a coaster",
+    "a Chartwright's apprentice",
+    "a Lodge Chronicler in {port}",
+    "two drunk sailors who agree on nothing else"
+   ],
+   "when": [
+    "last Coinsday",
+    "three nights ago",
+    "this Cycle",
+    "two Cycles back",
+    "at the turn of the month",
+    "before dawn on Tideturn",
+    "on a Graveday, of all days",
+    "the night of the last full Valtaire",
+    "yesterday, if the boat was quick"
+   ],
+   "cargo": [
+    "salt-fish",
+    "coffee and sugar",
+    "Krysta",
+    "brightleaf",
+    "Aurelion firearms",
+    "timber",
+    "kellum",
+    "silk and incense",
+    "pepper",
+    "whale oil",
+    "grain",
+    "wool and hides"
+   ],
+   "market": [
+    "Varan Port",
+    "Hollowkey",
+    "the Quiet Auction",
+    "Black Harbor",
+    "a Fairweather warehouse"
+   ],
+   "armada": [
+    "Harbinger",
+    "Vindicator",
+    "Warden",
+    "Juggernaut",
+    "Interdictor"
+   ],
+   "rank": [
+    "Bronze",
+    "Silver",
+    "Gold"
+   ],
+   "rumor": [
+    "{name}'s {ship} was seen off {port} {when}. {sign}",
+    "In {port} they say {name} {deed} {when}.",
+    "{Witness} swears {name} {deed}.",
+    "About {name}, the docks of {port} say this: {docks}",
+    "{name} {deed}, or so they tell it in {port}. {sign}",
+    "Ask anyone in {port} about {tag}. {docks}"
+   ],
+   "news": [
+    [
+     "SIGHTED OFF {PORT}",
+     "{name} and the {ship} were reported off {port} {when}. {sign} The harbor-master has doubled the night watch."
+    ],
+    [
+     "CONVOY STRUCK",
+     "A {cargo} convoy out of {port} lost {n} hulls {when}. The survivors name {name}. The Rear Admiral's report is not yet posted."
+    ],
+    [
+     "HUNTERS CLAIM A HIT",
+     "A {rank} company of Hunters says it put a ball through the {ship} off {port} {when}. The Reckoners' Hall has not paid: nobody brought the flag."
+    ],
+    [
+     "A FLAG AT THE PROOF ROOM",
+     "A flag said to be {name}'s was brought to the Reckoners' Hall {when}. The Hall has not paid. The counters are still counting the stitches."
+    ],
+    [
+     "ARMADA GIVES CHASE",
+     "An Armada {armada} chased the {ship} out of the waters off {port} {when}, and came back alone."
+    ],
+    [
+     "PRIZE GOODS ON SALE",
+     "{cargo} said to come from a prize of {name}'s is being sold at {market}. The Council's agents are asking who bought it."
+    ],
+    [
+     "THE BOUNTY STANDS",
+     "The Council's price on {name} stands at {bounty}. Bring the captain, the ship, or the flag to the Reckoners' Hall."
+    ],
+    [
+     "{TAG} AGAIN",
+     "{name} {deed}, {when}, near {port}. {sign}"
+    ]
+   ]
+  }
+ },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }
