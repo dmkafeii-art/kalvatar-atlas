@@ -41,27 +41,52 @@ function articleCard(e,illustrated=false){
  return `<a class="entry-card" href="#entry/${e.id}">${visual}<div class="entry-card-copy"><span class="entry-type">${e.creatureKind?(e.creatureKind==='working'?'Working beast':e.creatureKind==='companion'?'Companion':'Saurian'):categories[e.category].short}</span><h3>${esc(e.title)} ${Pack2.newBadge(e.id)}</h3>${e.saurianParent?`<span class="entry-native">${esc(e.aliases?.[0]||e.subtitle.split(' · ')[0])}</span>`:''}<p>${esc(e.summary)}</p><div class="entry-card-bottom"><span>${esc(e.region)}</span><span aria-hidden="true">↗</span></div></div></a>`;
 }
 function articleImages(e){return [e.illustration,...(e.gallery||[])].filter(Boolean)}
-function articleArtFigure(e,a,index,comparison=false){
- const sizes=comparison?'(max-width: 720px) calc(100vw - 36px), (max-width: 1180px) calc((100vw - 300px) / 2), 550px':'(max-width: 720px) calc(100vw - 36px), (max-width: 1180px) calc(100vw - 260px), 1100px';
- return `<figure class="article-art${a.kind==='plate'?' field-guide-plate':''}"><button class="article-art-open" data-open-art="${e.id}" data-art-index="${index}" aria-label="Enlarge illustration of ${esc(a.label||e.title)}"><img src="${esc(a.src)}" srcset="${esc(a.thumb)} 480w, ${esc(a.src)} 960w, ${esc(a.full)} 1536w" sizes="${sizes}" width="${a.width}" height="${a.height}" alt="${esc(a.alt)}" decoding="async" ${index===0?'fetchpriority="high"':'loading="lazy"'}><span class="art-open-hint" aria-hidden="true">View illustration ⤢</span></button><figcaption>${comparison?`<strong>${esc(a.label||e.title)}</strong> — `:''}${esc(a.caption)}</figcaption></figure>`;
+function articleArtFigure(e,a,index,showLabel=false){
+ const sizes='(max-width: 720px) calc(100vw - 36px), (max-width: 1180px) calc(100vw - 260px), 1100px';
+ const label=esc(a.label||e.title);
+ const openLabel=Pack2.text('Enlarge illustration of','Ampliar ilustración de');
+ const hint=Pack2.text('View illustration ⤢','Ver ilustración ⤢');
+ return `<figure class="article-art${a.kind==='plate'?' field-guide-plate':''}"><button class="article-art-open" data-open-art="${e.id}" data-art-index="${index}" aria-label="${openLabel} ${label}"><img src="${esc(a.src)}" srcset="${esc(a.thumb)} 480w, ${esc(a.src)} 960w, ${esc(a.full)} 1536w" sizes="${sizes}" width="${a.width}" height="${a.height}" alt="${esc(a.alt)}" decoding="async" ${index===0?'fetchpriority="high"':'loading="lazy"'}><span class="art-open-hint" aria-hidden="true">${hint}</span></button><figcaption>${showLabel?`<strong>${label}</strong><br>`:''}${esc(a.caption)}</figcaption></figure>`;
 }
-// The DM's word (17 November): an entry's first illustration stays at the top; every other one goes to the gallery at the end.
-function articleScenes(e){return articleImages(e).map((a,index)=>({a,index})).filter(({a})=>a.kind!=='plate')}
-function articleIllustration(e){
- const main=articleScenes(e)[0];
- return main?articleArtFigure(e,main.a,main.index):'';
+function articleArtwork(e){
+ const placements=artSectionsByEntry.get(e.id);
+ const sections=new Map(), gallery=[], plates=[];
+ let main='';
+ const seen=new Set();
+ for(const [index,a] of articleImages(e).entries()){
+  if(seen.has(a.full))continue;
+  seen.add(a.full);
+  if(!main&&a.kind!=='plate'){
+   main=articleArtFigure(e,a,index);
+   continue;
+  }
+  const filename=a.full.split('/').pop().replace(/-1536\.webp$/,'');
+  const section=placements?.get(filename);
+  // Translated sections follow the source order. Match an unchanged title first.
+  let sectionIndex=section?e.sections.findIndex(s=>s.title===section.title):-1;
+  if(sectionIndex===-1&&section&&e._translated){
+   const translated=e.sections[section.index];
+   if(translated&&!['Rumors','Rumores'].includes(translated.title))sectionIndex=section.index;
+  }
+  if(sectionIndex>=0){
+   const figure=articleArtFigure(e,a,index,true);
+   sections.set(sectionIndex,(sections.get(sectionIndex)||'')+figure);
+  }else{
+   (a.kind==='plate'?plates:gallery).push({a,index});
+  }
+ }
+ return {main,sections,gallery,plates};
 }
-function articleGallery(e){
- const photos=articleScenes(e).slice(1);
+function articleGallery(e,photos){
  if(!photos.length)return '';
  const goldwind=e.id==='goldwind';
  const eyebrow=goldwind?Pack2.text('SCENES FROM THE CITY','ESCENAS DE LA CIUDAD'):Pack2.text('THE ILLUSTRATED ATLAS','EL ATLAS ILUSTRADO');
  const heading=goldwind?Pack2.text('Everyday Goldwind.','La vida en Goldwind.'):Pack2.text('In pictures.','En imágenes.');
  const intro=goldwind?Pack2.text('Beyond the Council halls and the harbor fortunes, the lower streets have their own stories.','Más allá del Consejo y las fortunas del puerto, las calles bajas tienen sus propias historias.'):Pack2.text('A closer look at the places, people, and stories of this entry.','Una mirada más cercana a los lugares, personajes e historias de esta entrada.');
- return `<section class="atlas-photo-gallery" aria-label="${esc(e.title)} gallery"><div class="section-title"><div><p class="eyebrow">${eyebrow}</p><h2>${heading}</h2></div></div><p class="atlas-gallery-intro">${intro}</p><div class="atlas-gallery-grid${goldwind?'':photos.length>1?' even':' single'}">${photos.map(({a,index})=>articleArtFigure(e,a,index,true)).join('')}</div></section>`;
+ return `<section class="atlas-photo-gallery" aria-label="${esc(Pack2.text(`Illustrations of ${e.title}`,`Ilustraciones de ${e.title}`))}"><div class="section-title"><div><p class="eyebrow">${eyebrow}</p><h2>${heading}</h2></div></div><p class="atlas-gallery-intro">${intro}</p><div class="atlas-gallery-grid">${photos.map(({a,index})=>articleArtFigure(e,a,index,true)).join('')}</div></section>`;
 }
-function articleFieldPlates(e){
- const plates=articleImages(e).map((a,index)=>({a,index})).filter(({a})=>a.kind==='plate');if(!plates.length)return '';
+function articleFieldPlates(e,plates){
+ if(!plates.length)return '';
  return `<section class="field-guide-gallery" aria-labelledby="field-guide-title"><div class="section-title"><div><p class="eyebrow">THE NATURALIST’S NOTES</p><h2 id="field-guide-title">In the field guide.</h2></div></div>${plates.map(({a,index})=>articleArtFigure(e,a,index)).join('')}</section>`;
 }
 function openIllustration(id,index=0){
@@ -139,7 +164,7 @@ function linkify(text,current){
  return emphasis(result+esc(text.slice(last)));
 }
 function emphasis(html){return html.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g,'$1<em>$2</em>')}
-function renderArticleSection(s,i,current){
+function renderArticleSection(s,i,current,art=''){
  if(s.title==='Rumors'||s.title==='Rumores')return Pack2.rumorSection(s,i,current);
  let body=(s.paragraphs||[]).map(p=>'<p>'+linkify(p,current)+'</p>').join('');
  if(s.list?.length)body+='<ul>'+s.list.map(p=>'<li>'+linkify(p,current)+'</li>').join('')+'</ul>';
@@ -148,11 +173,12 @@ function renderArticleSection(s,i,current){
   body+='<div class="article-table-wrap" role="region" aria-label="'+esc(t.caption)+'" tabindex="0"><table class="article-table"><caption>'+esc(t.caption)+'</caption><thead><tr>'+t.headers.map(h=>'<th scope="col">'+esc(h)+'</th>').join('')+'</tr></thead><tbody>'+t.rows.map(row=>'<tr>'+row.map((cell,j)=>j===0?'<th scope="row">'+linkify(cell,current)+'</th>':'<td>'+linkify(cell,current)+'</td>').join('')+'</tr>').join('')+'</tbody></table></div>';
  }
  const box={'Game Master’s secrets':'secret','The Code':'verse','Adventure hooks':'hooks','Tips':'tips','Did you know?':'curio','Ganchos de aventura':'hooks','Consejos':'tips','¿Sabías que?':'curio'}[s.title];
- return '<section id="article-section-'+i+'"'+(box?' class="article-box article-box-'+box+'"':'')+'><h2>'+esc(s.title)+'</h2>'+body+'</section>';
+ return '<section id="article-section-'+i+'"'+(box?' class="article-box article-box-'+box+'"':'')+'><h2>'+esc(s.title)+'</h2>'+art+body+'</section>';
 }
 function renderArticle(id){
  const e=byId[id];if(!e){renderNotFound();return}if(!Pack2.canRead(id)){Pack2.renderLocked();return}const categoryHref=e.category==='folk'?NotableFolk.returnHref(e):e.foeParent?'#entry/'+e.foeParent:'#category/'+e.category;setNavigation(e.category);$('#breadcrumb').innerHTML=`<a href="#">The world</a><span>/</span><a href="${esc(categoryHref)}">${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name}</a><span>/</span>${esc(e.title)}`;
- $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header"><p class="eyebrow">${categories[e.category].short.toUpperCase()} / ${esc(e.region.toUpperCase())}</p><h1>${esc(e.title)}</h1><p class="article-subtitle">${esc(e.subtitle)}</p>${Pack2.header(e)}<p class="article-lead">${esc(e.summary)}</p><div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button><span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${window.NotableFolk?.articleLinks(e)||''}${articleIllustration(e)}${e.id==='northern-frontier'?'<a class="frontier-article-cta" href="#map/northern-frontier">Explore the detailed Northern Frontier chart <span aria-hidden="true">↗</span></a>':''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id)).join('')}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-section="${i}">${esc(s.title)}</button>`).join('')}</nav></aside></div>${articleFieldPlates(e)}${articleGallery(e)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
+ const art=articleArtwork(e);
+ $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header"><p class="eyebrow">${categories[e.category].short.toUpperCase()} / ${esc(e.region.toUpperCase())}</p><h1>${esc(e.title)}</h1><p class="article-subtitle">${esc(e.subtitle)}</p>${Pack2.header(e)}<p class="article-lead">${esc(e.summary)}</p><div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button><span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${window.NotableFolk?.articleLinks(e)||''}${art.main}${e.id==='northern-frontier'?'<a class="frontier-article-cta" href="#map/northern-frontier">Explore the detailed Northern Frontier chart <span aria-hidden="true">↗</span></a>':''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id,art.sections.get(i))).join('')}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-section="${i}">${esc(s.title)}</button>`).join('')}</nav></aside></div>${articleFieldPlates(e,art.plates)}${articleGallery(e,art.gallery)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
  $('#save-article').addEventListener('click',()=>{const present=saved.has(e.id);if(present)saved.delete(e.id);else saved.add(e.id);saveList();const b=$('#save-article');b.classList.toggle('saved',!present);b.setAttribute('aria-pressed',String(!present));b.innerHTML=`<span aria-hidden="true">${!present?'◆':'◇'}</span>${!present?'Saved to reading list':'Save for later'}`;toast(readingStorage?(present?'Removed from your reading list.':'Saved for your next visit.'):'Saved for this visit. This browser could not keep the reading list.')});
  $('#copy-link').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);toast('Article link copied.')}catch(err){toast('Copy the article’s address from your browser to share it.')}});
 }
@@ -282,20 +308,69 @@ const galleryScenes = {
  'widows-teeth': [['widows-teeth-pilot-boat', 'A pilot boat through the Teeth', 'Una lancha de prácticos entre los Dientes', 'A pilot boat threads the channel between the jagged rocks of the Widow’s Teeth.', 'Una lancha de prácticos cruza el canal entre los farallones de los Dientes de la Viuda.']]
 };
 
+// Use the exact English section titles from the build, before Pack2 localizes entries.
+const gallerySectionTitles = {
+ 'aethyn': {'highspire-painterly-v2':'High places'},
+ 'cindren': {'everfall-painterly-v2':'Forge and fire-vigil'},
+ 'aurocs': {
+  'great-auroc-v2':'Domestic and great aurocs',
+  'ironfort-painterly-v2':'North and south'
+ },
+ 'armada': {'admiralty-high-command-painterly-v2':'The Admiralty’s table'},
+ 'swordtooth': {'jakupur-painterly-v2':'In the stables and the wild'},
+ 'loamback': {'jakupur-painterly-v2':'In southern life'},
+ 'nine-fleets': {
+  'falken-brightsight-painterly-v1':'The nine commands',
+  'enara-torraflame-painterly-v1':'The nine commands',
+  'skarrei-ninth-squall-painterly-v1':'The nine commands'
+ },
+ 'battle-of-the-krakens-maw': {
+  'maw-volunteers-painterly-v1':'The islands answered',
+  'trident-through-the-line-painterly-v1':'Thulissa’s last charge',
+  'thulissa-blackheart-duel-painterly-v1':'Thulissa’s last charge',
+  'maw-wrecks-painterly-v1':'Ten years later'
+ },
+ 'kalivos-durant': {'admiralty-high-command-painterly-v2':'Four kinds of responsibility'},
+ 'serane-marr': {'admiralty-high-command-painterly-v2':'Across the chart table'},
+ 'brigid-thane': {'admiralty-high-command-painterly-v2':'The Cerulean Vanguard'},
+ 'edran-holst': {'admiralty-high-command-painterly-v2':'The shoreward command'},
+ 'admiral-thulissa': {'trident-through-the-line-painterly-v1':'On the Dread Sovereign'},
+ 'hyacinth-alastor': {'hyacinth-vesna-ride-v1':'Vesna, her prized Songcrest'},
+ 'songcrest': {'hyacinth-vesna-ride-v1':'Vesna'},
+ 'radan-sunmere': {'lysandra-radan-harbor-debate-v1':'Amarise knew him before'},
+ 'lysandra-vellune': {'lysandra-radan-harbor-debate-v1':'An assignment she tried to change'},
+ 'pyraxis-the-unbowed-flame': {'pyraxis-aoifel-turn-v1':'What nobody says to her face'},
+ 'aoifel-the-green-laugh': {'aoifel-winter-embrace-v1':'Spring and Winter'},
+ 'morthryn-the-pale-empress-of-air-and-ending': {'morthryn-quiet-confession-v1':'Spring and Winter'},
+ 'stormreach': {'stormreach-shipyard-storm-break':'Overview'},
+ 'kaldmark': {'kaldmark-black-keep':'Overview'},
+ 'widows-teeth': {'widows-teeth-pilot-boat':'Seeing it'}
+};
+const artSectionsByEntry = new Map();
 let availableGoldwindArt = new Set();
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
+  const placements = new Map();
+  for (const [filename, title] of Object.entries(gallerySectionTitles[entry.id] ?? {})) {
+   const index = entry.sections.findIndex(section => section.title === title);
+   if (index >= 0) placements.set(filename, {title, index});
+  }
+  if (placements.size) artSectionsByEntry.set(entry.id, placements);
   for (const [filename, label, labelEs, caption, captionEs, options = {}] of galleryScenes[entry.id] ?? []) {
    if (entry.id==='goldwind' && !availableGoldwindArt.has(filename)) continue;
    const base = `assets/scenes/${filename}`;
-   entry.gallery = [...(entry.gallery || []), {
+   const scene = {
     thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
     width: options.width || 1536, height: options.height || 1024,
     presentation: options.presentation,
     get label() { return Pack2.text(label, labelEs); },
     get alt() { return Pack2.text(caption, captionEs); },
     get caption() { return Pack2.text(caption, captionEs); }
-   }];
+   };
+   const gallery=entry.gallery ??= [];
+   const existing=gallery.findIndex(art=>art.full===scene.full);
+   if(existing===-1)gallery.push(scene);
+   else gallery[existing]=scene;
   }
   const illustration = entryIllustrations[entry.id];
   if (!illustration) continue;
