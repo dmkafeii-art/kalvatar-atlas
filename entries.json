@@ -16152,6 +16152,17 @@
     "title": "What the Hall does",
     "paragraphs": [
      "The Reckoners' Hall is the banking guild of the Mercantile Congress and the true power behind it. It does everything with money except spend it."
+    ],
+    "list": [
+     "**Keeps deposits.** One Anchor in every hundred, a year.",
+     "**Lends.** To nearly everyone, at a price that depends on who you are.",
+     "**Writes reckonings.** A sealed letter of credit, payable at any counting-house to the person named on it, for two in every hundred.",
+     "**Insures.** Through the bottomry bond, a sea-loan on a ship and its cargo that is forgiven if the ship is lost.",
+     "**Registers wrecks.** Claims on named wrecks, for a tenth of the salvage.",
+     "**Pays the Council's bounties.** On proof, in the Proof Room.",
+     "**Keeps the Ledger.** The register of debts unpaid, which follows a debtor to every port.",
+     "**Warrants the Orsals.** No Orsal is struck without a Reckoner's seal.",
+     "**Judges debts.** At the Bench of Accounts, every Wardsday."
     ]
    },
    {
@@ -32762,7 +32773,7 @@
     "title": "Family and succession",
     "paragraphs": [
      "His daughter and heir, Celestine Goldspire, runs the floor. Dry, tired and exceptionally good with numbers, she carries the Exchange’s daily work while her father carries the family’s voice into public affairs.",
-     "Horace’s late wife belonged to House Veldane. His family’s reach also includes sworn and indebted connections: the expedition patrons of House Wingate, the Pellow price-criers and House Zane. The Goldspire name is a network as well as a flag."
+     "Horace’s late wife belonged to House Veldane. His family’s reach also includes sworn and indebted connections: the Kalvatar branch of House Wingate, the Pellow price-criers and House Zane. The Goldspire name is a network as well as a flag."
     ]
    },
    {
@@ -52444,11 +52455,11 @@
   "category": "folk",
   "region": "The Sea",
   "subtitle": "The lady who did not come home",
-  "summary": "Lady Victoria Wingate, of the continental Wingates: wounded at Hollin's Cross in 172 EC by a wound no healer could close, she sailed south at the King Tide of 174 EC with an expedition to an island the old songs call Anukáli, and did not come home.",
+  "summary": "Lady Victoria Wingate, of a militant family of Assios: wounded at Hollin's Cross in 172 EC by a wound no healer could close, she sailed south at the King Tide of 174 EC with an expedition to an island the old songs call Anukáli, and did not come home.",
   "facts": [
    [
-    "Of",
-    "the continental Wingates"
+    "Family",
+    "the Wingates, a militant family of Assios"
    ],
    [
     "Wounded",
@@ -52469,9 +52480,10 @@
   ],
   "sections": [
    {
-    "title": "The continental Wingates",
+    "title": "A family at war",
     "paragraphs": [
-     "The Wingates of the islands are Heartland patrons of expeditions. Their cousins on the continent are the branch the Thousand-Year War has hit hardest: lands near the Front, the men gone, the money gone, and the family desperate. Victoria was that branch's lady."
+     "The Wingates are a militant family of Assios, on lands near the Front, and the Thousand-Year War has nearly spent them: the men gone, the money almost gone. They have not stopped fighting. Victoria was of the main line, on the continent.",
+     "The family keeps a small branch in Kalvatar, and it is there for two things: to save Victoria, and to find a way for the Wingates to keep fighting."
     ]
    },
    {
@@ -52483,7 +52495,7 @@
    {
     "title": "The expedition",
     "paragraphs": [
-     "In 174 EC she sailed straight from the continent with a scholar who had found the way, a warforged, a shifter boy with a monkey's tail, a cook, a sellsword who had been at her side for years, and two hired ships standing off the reef. They found the island the old songs call Anukáli, at the King Tide.",
+     "In 174 EC she sailed straight from the continent with a scholar who had found the way, a warforged, a shifter boy with a monkey's tail, a cook, a sellsword who had been at her side for years, a crew of Wingate veterans who would have followed her anywhere, and two hired ships standing off the reef. They found the island the old songs call Anukáli, at the King Tide.",
      "Victoria did not come home. Her brother Edmond did. What happened on the island the common people do not know. The Council received the Hunters' full report, and has not published it."
     ]
    },
@@ -52534,49 +52546,63 @@
   "title": "House Wingate",
   "category": "houses",
   "region": "Central Heartland",
-  "subtitle": "Patrons of expeditions",
-  "summary": "A Heartland family of expedition patrons and collectors of curiosities, bannermen of the Goldspire Flag, who sponsor Hunter crews on treasure-hunts. Their cousins on the continent are the branch the Thousand-Year War has hit hardest.",
+  "subtitle": "A militant family, far from its war",
+  "summary": "A militant family of Assios whose fight against the Imperium has nearly spent its fortune. The main family is on the continent. Its small Kalvatar branch is in the islands to save Victoria Wingate and to find a way to keep fighting, with almost no money left and sailors and soldiers who are veterans, loyal past reason.",
   "facts": [
    [
     "Known as",
-    "patrons of expeditions"
+    "a militant family"
    ],
    [
-    "Rank",
-    "bannermen of House Goldspire, of the Twelve Flags"
+    "Main family",
+    "on Assios, on lands near the Front"
    ],
    [
-    "Region",
-    "Central Heartland"
+    "In Kalvatar",
+    "a small branch"
    ],
    [
-    "Trades",
-    "expeditions, curiosities, and Hunter crews on treasure-hunts"
+    "Here for",
+    "Victoria Wingate, and a way to keep fighting"
    ],
    [
-    "Branches",
-    "the islands' Wingates, and the continental Wingates"
+    "Funds",
+    "nearly exhausted"
+   ],
+   [
+    "Their people",
+    "veterans, and loyal past reason"
+   ],
+   [
+    "Sworn to",
+    "the Goldspire Flag, and in its debt"
    ]
   ],
   "sections": [
    {
-    "title": "The house",
+    "title": "A family at war",
     "paragraphs": [
-     "The Wingates of the Heartland buy maps nobody else believes in and send Hunter crews to find out whether they are true. Most of the time the map is wrong, and the house keeps it anyway: the Wingate cabinet of curiosities is full of things that were nearly treasure.",
-     "They are part of Horace Goldspire's reach, sworn and indebted to the Goldspire Flag, and the floor of the Exchange is where their sponsorships are paid for."
+     "The Wingates are a militant family of Assios, and they have been fighting the Imperium for longer than most of them have been alive. Their lands lie near the Front, and the Thousand-Year War has hit them harder than almost anyone: the men gone, the money almost gone, the family desperate. They have not stopped fighting, and they do not mean to."
     ]
    },
    {
-    "title": "The continental Wingates",
+    "title": "The Kalvatar branch",
     "paragraphs": [
-     "The family's other branch stayed on Assios, on lands near the Front. The Thousand-Year War has hit it harder than any: the men gone, the money gone, and the family desperate. In 172 EC the Iron Host took Hollin's Cross, and the branch's lady, Victoria, took a wound there that would not close."
+     "The main family is on the continent. The branch in Kalvatar is small, and it is there for two things: to save Victoria Wingate, and to find a way for the Wingates to keep fighting.",
+     "Its funds are nearly exhausted. In the islands the branch is sworn to the Goldspire Flag and in its debt, and every Anchor it has left goes to Victoria or to the war."
+    ]
+   },
+   {
+    "title": "Their people",
+    "paragraphs": [
+     "The Wingates' sailors and soldiers are veterans of the Front, and loyal past reason. They followed the family across the sea, and they stay when the pay is late. A Wingate crew is a small one, and it does not break."
     ]
    },
    {
     "title": "The Wingates",
     "paragraphs": [],
     "list": [
-     "**Lady Victoria Wingate,** of the continental branch, who sailed south in 174 EC, led the expedition that found Anukáli, and did not come home.",
+     "**Lady Victoria Wingate,** of the main line, who sailed south in 174 EC, led the expedition that found Anukáli, and did not come home.",
      "**Edmond Wingate,** her brother, a Hunter of the Golden Wings, who did come home.",
      "**Lucy Grant,** who sailed as Lucy Wingate, Edmond's adopted sister. Since 174 EC she has been the daughter of Avalan Grant of the *Karnivool*."
     ]
@@ -52584,14 +52610,15 @@
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The Wingates will pay for any map nobody else believes in. That is how they lost a daughter.” (a Goldwind chart-seller)",
-     "“There is a shelf in the Wingate cabinet with nothing on it. The family says it is for what Victoria was going to bring back.” (a Wingate housemaid)"
+     "“Try to buy a Wingate sailor. He'll take your coin to his captain, and his captain will send it to the war.” (a Goldwind crimp)",
+     "“They are selling the family silver one fork at a time, and they still pay their men on time.” (a Goldwind pawnbroker)",
+     "“Every Wingate soldier in the islands has a scar from the Front, and not one of them will talk about it.” (a Sentinel Docks surgeon)"
     ]
    },
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoYXQgVmljdG9yaWEgZm91bmQuKiogU2hlIGNhbWUgZm9yIHRoZSBIZWFydCBvZiB0aGUgU2VhLCBhbmQgc2hlIGlzIHRoZSBIZWFydCBvZiB0aGUgU2VhIG5vdywgYm91bmQgdG8gQW51a8OhbGkgdW50aWwgMjc0IEVDLiBDb21tb24gZm9sayBrbm93IG5vdGhpbmcgb2YgaXQuIFRoZSBDb3VuY2lsIHJlY2VpdmVkIHRoZSBIdW50ZXJzJyBmdWxsIHJlcG9ydCwgYW5kIGtub3dzIGFsbCBvZiBpdC4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoYXQgVmljdG9yaWEgZm91bmQuKiogU2hlIGNhbWUgZm9yIHRoZSBIZWFydCBvZiB0aGUgU2VhLCBhcyBoZXIgbGlmZSBhbmQgYXMgdGhlIGZhbWlseSdzIGxhc3Qgd2VhcG9uIGFnYWluc3QgdGhlIEltcGVyaXVtLCBhbmQgc2hlIGlzIHRoZSBIZWFydCBvZiB0aGUgU2VhIG5vdywgYm91bmQgdG8gQW51a8OhbGkgdW50aWwgMjc0IEVDLiBDb21tb24gZm9sayBrbm93IG5vdGhpbmcgb2YgaXQuIFRoZSBDb3VuY2lsIHJlY2VpdmVkIHRoZSBIdW50ZXJzJyBmdWxsIHJlcG9ydCwgYW5kIGtub3dzIGFsbCBvZiBpdC4iXX0="
    }
   ],
   "related": [
