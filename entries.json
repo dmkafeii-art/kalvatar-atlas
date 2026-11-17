@@ -727,7 +727,8 @@
    "charter-mint",
    "ledger-wolves",
    "ecler",
-   "eamos-goldwind"
+   "eamos-goldwind",
+   "house-wingate"
   ],
   "illustration": {
    "src": "assets/scenes/goldwind-painterly-v2-960.webp",
@@ -737,7 +738,31 @@
    "height": 1024,
    "alt": "Merchants unfold cloth on a market stair above Goldwind’s gulf, beneath the University’s copper-ringed spires.",
    "caption": "Morning trade climbs the rings of Goldwind."
+  },
+  "gallery": [
+  {
+   "src": "assets/scenes/goldwind-street-wanderer-960.webp",
+   "thumb": "assets/scenes/goldwind-street-wanderer-480.webp",
+   "full": "assets/scenes/goldwind-street-wanderer-1536.webp",
+   "width": 1536,
+   "height": 1024,
+   "alt": "A young black-haired woman in a red headscarf, pale crop top and embroidered loose trousers strolls barefoot through Goldwind's lower market streets with her hands behind her head.",
+   "caption": "An easy morning in the lower streets, where Goldwind's pace belongs to its people.",
+   "label": "An unhurried walk",
+   "presentation": "gallery"
+  },
+  {
+   "src": "assets/scenes/goldwind-family-on-steps-960.webp",
+   "thumb": "assets/scenes/goldwind-family-on-steps-480.webp",
+   "full": "assets/scenes/goldwind-family-on-steps-1536.webp",
+   "width": 1536,
+   "height": 1024,
+   "alt": "A cheerful multigenerational family rests on sunlit stone steps by a textile merchant's stall in Goldwind, wearing patterned cloth, loose trousers and red scarves.",
+   "caption": "A family rests among the cloth shops and market steps of Goldwind.",
+   "label": "Family on the steps",
+   "presentation": "gallery"
   }
+ ]
  },
  {
   "id": "hunters-citadel",
@@ -52668,7 +52693,8 @@
    "hunter-companies",
    "avalan-grant",
    "captain-magnus-and-leoric",
-   "assios-and-the-wider-world"
+   "assios-and-the-wider-world",
+   "goldwind"
   ],
   "aliases": [
    "the Wingates"

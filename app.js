@@ -53,7 +53,11 @@ function articleIllustration(e){
 function articleGallery(e){
  const photos=articleImages(e).map((a,index)=>({a,index})).filter(({a})=>a.presentation==='gallery');
  if(!photos.length)return '';
- return `<section class="atlas-photo-gallery" aria-label="${esc(e.title)} gallery"><div class="section-title"><div><p class="eyebrow">${Pack2.text('SCENES FROM THE CITY','ESCENAS DE LA CIUDAD')}</p><h2>${Pack2.text('Everyday Goldwind.','La vida en Goldwind.')}</h2></div></div><p class="atlas-gallery-intro">${Pack2.text('Beyond the Council halls and the harbor fortunes, the lower streets have their own stories.','Más allá del Consejo y las fortunas del puerto, las calles bajas tienen sus propias historias.')}</p><div class="atlas-gallery-grid">${photos.map(({a,index})=>articleArtFigure(e,a,index,true)).join('')}</div></section>`;
+ const goldwind=e.id==='goldwind';
+ const eyebrow=goldwind?Pack2.text('SCENES FROM THE CITY','ESCENAS DE LA CIUDAD'):Pack2.text('THE ILLUSTRATED ATLAS','EL ATLAS ILUSTRADO');
+ const heading=goldwind?Pack2.text('Everyday Goldwind.','La vida en Goldwind.'):Pack2.text('In pictures.','En imágenes.');
+ const intro=goldwind?Pack2.text('Beyond the Council halls and the harbor fortunes, the lower streets have their own stories.','Más allá del Consejo y las fortunas del puerto, las calles bajas tienen sus propias historias.'):Pack2.text('A closer look at the places, people, and stories of this entry.','Una mirada más cercana a los lugares, personajes e historias de esta entrada.');
+ return `<section class="atlas-photo-gallery" aria-label="${esc(e.title)} gallery"><div class="section-title"><div><p class="eyebrow">${eyebrow}</p><h2>${heading}</h2></div></div><p class="atlas-gallery-intro">${intro}</p><div class="atlas-gallery-grid">${photos.map(({a,index})=>articleArtFigure(e,a,index,true)).join('')}</div></section>`;
 }
 function articleFieldPlates(e){
  const plates=articleImages(e).map((a,index)=>({a,index})).filter(({a})=>a.kind==='plate');if(!plates.length)return '';
