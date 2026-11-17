@@ -16316,7 +16316,7 @@
      "**The Hunters:** the Hall pays the Council's bounties and hires Hunters for wreck-work and long errands.",
      "**The dwarves:** half the counters, the Chief Counter, and the dwarven law the Bench honors.",
      "**The south:** “Gold on the arm is a vote of no confidence in Goldwind.”",
-     "**House Wingate:** a militant family of mercenaries from Assios, nobody's bannermen, whose Kalvatar branch, some 2,500 men and seven ships, owes the Hall more than it can pay, and keeps paying."
+     "**House Wingate:** a militant family of mercenaries from Assios, the most elite and most exclusive money can buy, nobody's bannermen, whose Kalvatar branch, some 2,500 men and seven ships, owes the Hall more than it can pay, and keeps paying."
     ]
    },
    {
@@ -21755,7 +21755,8 @@
    "bastion",
    "house-vanris",
    "stormreach",
-   "house-alastor"
+   "house-alastor",
+   "house-wingate"
   ]
  },
  {
@@ -52467,7 +52468,7 @@
    ],
    [
     "Siblings",
-    "the eldest of four: Constance, Rowena, and Edmond, the youngest"
+    "the eldest of four: Henrietta, Evangeline, and Edmond, the youngest"
    ],
    [
     "Wounded",
@@ -52490,7 +52491,7 @@
    {
     "title": "A family at war",
     "paragraphs": [
-     "The Wingates are mercenaries, a militant family of Assios, on lands near the Front, and the Thousand-Year War has nearly spent them: the men gone, the money almost gone. They have not stopped fighting. Victoria is the eldest of four: her sisters Constance and Rowena fight at the Front, one on land and one at sea, and Edmond is the youngest.",
+     "The Wingates are mercenaries, the most elite and the most exclusive money can buy, a militant family of Assios on lands near the Front, and the Thousand-Year War has nearly spent them: the men gone, the money almost gone. They have not stopped fighting. Victoria is the eldest of four: her sisters Henrietta and Evangeline fight at the Front, one on land and one at sea, and Edmond is the youngest.",
      "The family keeps a branch in Kalvatar, some 2,500 men and seven ships camped on the derelict Thorne Estate and in debt to the Reckoners' Hall, and it is there for two things: to save Victoria, and to find a way for the Wingates to keep fighting."
     ]
    },
@@ -52556,11 +52557,19 @@
   "category": "houses",
   "region": "Central Heartland",
   "subtitle": "Mercenaries, far from their war",
-  "summary": "A militant family of mercenaries from Assios, large enough to be nobody's bannermen, whose fight against the Imperium has nearly spent its fortune. Its Kalvatar branch, some 2,500 men and seven ships, camps on the derelict Thorne Estate, in debt to the Reckoners' Hall, there to save Victoria Wingate and to find a way to keep fighting.",
+  "summary": "A militant family of mercenaries from Assios, large enough to be nobody's bannermen: the most elite soldiers money can buy, and the most exclusive, who serve only those who stand against the Imperium. Their war has nearly spent their fortune. The family's Kalvatar branch, some 2,500 men and seven ships, camps on the derelict Thorne Estate, in debt to the Reckoners' Hall, there to save Victoria Wingate and to find a way to keep fighting.",
   "facts": [
    [
     "Known as",
     "a militant family of mercenaries"
+   ],
+   [
+    "Reputation",
+    "the most elite soldiers money can buy, and the most exclusive"
+   ],
+   [
+    "Serve",
+    "only those who stand against the Imperium"
    ],
    [
     "Main family",
@@ -52572,7 +52581,7 @@
    ],
    [
     "The siblings",
-    "Victoria, the eldest; Constance and Rowena, at the Front; Edmond, the youngest"
+    "Victoria, the eldest; Henrietta and Evangeline, at the Front; Edmond, the youngest"
    ],
    [
     "Here for",
@@ -52600,6 +52609,14 @@
     ]
    },
    {
+    "title": "The finest swords money can buy",
+    "paragraphs": [
+     "Wingate soldiers are held to be the most elite mercenaries money can buy. They are also very few, so they are not only the best: they are the most exclusive. A Wingate company is not hired. It agrees to be.",
+     "They serve only those who stand against the Imperium, and they turn down everyone else, whatever the purse.",
+     "In the islands the noble houses fight over them, for their most dangerous work and for the work they would rather not put their own colors on. Better to risk mercenaries than loyal soldiers."
+    ]
+   },
+   {
     "title": "The Kalvatar branch",
     "paragraphs": [
      "The main family is on the continent. The branch in Kalvatar is small by the family's measure, some 2,500 men and seven ships, and it is there for two things: to save Victoria Wingate, and to find a way for the Wingates to keep fighting.",
@@ -52616,10 +52633,10 @@
     "title": "What they do for Krysta and coin",
     "paragraphs": [],
     "list": [
-     "**Swords for hire.** Wingate veterans hire out as convoy guards, caravan escorts, and marines aboard merchant hulls: the best-drilled swords for hire in the Heartland, and the cheapest, because they need the coin.",
+     "**Contracts.** The great houses' most dangerous tasks, and their least lawful ones, for a price the Wingates set and the houses pay.",
      "**Krysta for the war.** They buy registered Krysta wherever a war-license lets them, and ship it north from the old dock to the family's war on the continent.",
      "**Salvage.** They take the salvage contracts nobody else wants, and dive the wrecks nobody else will.",
-     "**Anything else that pays,** and that a soldier can do."
+     "**Anything else that pays,** that a soldier can do, and that does nothing for the Imperium."
     ]
    },
    {
@@ -52635,8 +52652,8 @@
     ],
     "list": [
      "**Lady Victoria Wingate,** the eldest, who sailed south in 174 EC, led the expedition that found Anukáli, and did not come home.",
-     "**Constance Wingate,** the second, who fights at the Front on land.",
-     "**Rowena Wingate,** the third, who fights at the Front at sea.",
+     "**Henrietta Wingate,** the second, who fights at the Front on land.",
+     "**Evangeline Wingate,** the third, who fights at the Front at sea.",
      "**Edmond Wingate,** the youngest, a Hunter of the Golden Wings, who did come home.",
      "**Lucy Grant,** who sailed as Lucy Wingate, Edmond's adopted sister. Since 174 EC she has been the daughter of Avalan Grant of the *Karnivool*."
     ]
@@ -52647,7 +52664,8 @@
      "“Try to buy a Wingate sailor. He'll take your coin to his captain, and his captain will send it to the war.” (a Goldwind crimp)",
      "“They are selling the family silver one fork at a time, and they still pay their men on time.” (a Goldwind pawnbroker)",
      "“Not all the glass that leaves the Thorne dock is clear.” (a Holst customs-clerk)",
-     "“Every Wingate soldier in the islands has a scar from the Front, and not one of them will talk about it.” (a Sentinel Docks surgeon)"
+     "“Every Wingate soldier in the islands has a scar from the Front, and not one of them will talk about it.” (a Sentinel Docks surgeon)",
+     "“A great house paid a Wingate company for one night's work last season. The house has never said what it was, and neither have the Wingates.” (a Black Cup waiter)"
     ]
    },
    {
