@@ -46,7 +46,7 @@ function articleArtFigure(e,a,index,showLabel=false){
  const label=esc(a.label||e.title);
  const openLabel=Pack2.text('Enlarge illustration of','Ampliar ilustración de');
  const hint=Pack2.text('View illustration ⤢','Ver ilustración ⤢');
- return `<figure class="article-art${a.kind==='plate'?' field-guide-plate':''}"><button class="article-art-open" data-open-art="${e.id}" data-art-index="${index}" aria-label="${openLabel} ${label}"><img src="${esc(a.src)}" srcset="${esc(a.thumb)} 480w, ${esc(a.src)} 960w, ${esc(a.full)} 1536w" sizes="${sizes}" width="${a.width}" height="${a.height}" alt="${esc(a.alt)}" decoding="async" ${index===0?'fetchpriority="high"':'loading="lazy"'}><span class="art-open-hint" aria-hidden="true">${hint}</span></button><figcaption>${showLabel?`<strong>${label}</strong><br>`:''}${esc(a.caption)}</figcaption></figure>`;
+ return `<figure class="article-art${a.kind==='plate'?' field-guide-plate':''}"><button class="article-art-open" data-open-art="${e.id}" data-art-index="${index}" aria-label="${openLabel} ${label}"><img style="aspect-ratio:${Number(a.width)}/${Number(a.height)}" src="${esc(a.src)}" srcset="${esc(a.thumb)} 480w, ${esc(a.src)} 960w, ${esc(a.full)} ${a.width}w" sizes="${sizes}" width="${a.width}" height="${a.height}" alt="${esc(a.alt)}" decoding="async" ${index===0?'fetchpriority="high"':'loading="lazy"'}><span class="art-open-hint" aria-hidden="true">${hint}</span></button><figcaption>${showLabel?`<strong>${label}</strong><br>`:''}${esc(a.caption)}</figcaption></figure>`;
 }
 function articleArtwork(e){
  const placements=artSectionsByEntry.get(e.id);
@@ -255,6 +255,8 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ 'victoria-wingate': ['folk', 'Victoria Wingate aboard a sailing vessel.', 'Victoria Wingate a bordo de un velero.', 'victoria-wingate-approved-v1', {width:1024,height:1536}],
+ 'house-wingate': ['folk', 'Victoria Wingate aboard a sailing vessel.', 'Victoria Wingate a bordo de un velero.', 'victoria-wingate-approved-v1', {width:1024,height:1536}],
  'summer-court': ['scenes', 'Knights salute each other at the Noonhold, beneath the Summer Court’s golden banners.', 'Dos caballeros se saludan en el Noonhold, bajo los estandartes dorados de la Corte de Verano.', 'summer-court-portrait'],
  'autumn-court': ['scenes', 'The stewards of Autumn weigh a bargain at the edge of the Red Orchards.', 'Los administradores de Otoño sopesan un trato junto a los Huertos Rojos.', 'autumn-court-portrait'],
  'winter-court': ['scenes', 'Snow falls inside the Pale Hall as Winter’s clerks record promises on ice.', 'La nieve cae dentro del Salón Pálido mientras los escribas de Invierno registran promesas en hielo.', 'winter-court-portrait'],
@@ -288,6 +290,11 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
+ 'house-wingate': [
+  ["henrietta-wingate-approved-v1", "Henrietta Wingate", "Henrietta Wingate", "Henrietta adjusts her gloves beside a field tent.", "Henrietta se ajusta los guantes junto a una tienda de campaña.", {"directory": "folk", "width": 1024, "height": 1536}],
+  ["evangeline-wingate-approved-v1", "Evangeline Wingate", "Evangeline Wingate", "Evangeline pauses beside a ship’s chart table.", "Evangeline hace una pausa junto a la mesa de cartas de un barco.", {"directory": "folk", "width": 1024, "height": 1536}],
+  ["edmond-wingate-approved-v1", "Edmond Wingate", "Edmond Wingate", "Edmond rests on a stone terrace overlooking the sea.", "Edmond descansa en una terraza de piedra frente al mar.", {"directory": "folk", "width": 1024, "height": 1536}]
+ ],
  'goldwind': [
   ['goldwind-street-wanderer', 'A carefree afternoon', 'Una tarde sin preocupaciones', 'A young woman enjoys the sunshine on one of Goldwind’s lower streets.', 'Una joven disfruta del sol mientras recorre las calles bajas de Goldwind.', {width:1024,height:1536,presentation:'gallery'}],
   ['goldwind-family-on-steps', 'A family in the lower streets', 'Una familia en las calles bajas', 'A family shares a sunlit moment outside a small Goldwind shop.', 'Una familia comparte un momento soleado a la entrada de una tienda de Goldwind.', {width:1448,height:1086,presentation:'gallery'}]
@@ -310,6 +317,7 @@ const galleryScenes = {
 
 // Use the exact English section titles from the build, before Pack2 localizes entries.
 const gallerySectionTitles = {
+ 'house-wingate': {"henrietta-wingate-approved-v1": "The Wingates", "evangeline-wingate-approved-v1": "The Wingates", "edmond-wingate-approved-v1": "The Wingates"},
  'aethyn': {'highspire-painterly-v2':'High places'},
  'cindren': {'everfall-painterly-v2':'Forge and fire-vigil'},
  'aurocs': {
@@ -358,7 +366,7 @@ function applyEntryIllustrations(entries) {
   if (placements.size) artSectionsByEntry.set(entry.id, placements);
   for (const [filename, label, labelEs, caption, captionEs, options = {}] of galleryScenes[entry.id] ?? []) {
    if (entry.id==='goldwind' && !availableGoldwindArt.has(filename)) continue;
-   const base = `assets/scenes/${filename}`;
+   const base = `assets/${options.directory || 'scenes'}/${filename}`;
    const scene = {
     thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
     width: options.width || 1536, height: options.height || 1024,
@@ -374,11 +382,11 @@ function applyEntryIllustrations(entries) {
   }
   const illustration = entryIllustrations[entry.id];
   if (!illustration) continue;
-  const [directory, caption, captionEs, filename = entry.id] = illustration;
+  const [directory, caption, captionEs, filename = entry.id, options = {}] = illustration;
   const base = `assets/${directory}/${filename}`;
   entry.illustration = {
    thumb: base + '-480.webp', src: base + '-960.webp', full: base + '-1536.webp',
-   width: 1536, height: 1024,
+   width: options.width || 1536, height: options.height || 1024,
    get alt() { return Pack2.text(caption, captionEs); },
    get caption() { return Pack2.text(caption, captionEs); }
   };
