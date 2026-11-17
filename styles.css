@@ -31,3 +31,13 @@
 @media(max-width:1050px){.article-layout{grid-template-columns:minmax(0,1fr) 180px;gap:25px}.reading-trails h3{font-size:22px}.reading-trails>a{padding:20px 18px}}
 @media(max-width:720px){.reading-trails{grid-template-columns:1fr}.reading-trails>a{padding:22px}.reading-trails h3{font-size:26px}.reading-trails p{max-width:none;font-size:11px}.article-table{font-size:11px}.article-table th,.article-table td{padding:11px 13px}.directory-refinements{gap:12px;padding:15px}.directory-refinements label{min-width:150px}}
 @media(max-width:490px){.article-layout{display:flex}.directory-refinements{align-items:stretch}.directory-refinements label{min-width:100%}.directory-refinements select{font-size:12px;min-height:42px}.directory-refinements button{font-size:11px;min-height:40px}.article-table caption{font-size:7px}.reading-trails{gap:13px;margin-top:27px}}
+
+/* Goldwind street-life gallery: independent illustrations, original aspect ratios. */
+.atlas-photo-gallery{margin:35px 0 42px;padding:26px 0 0;border-top:1px solid var(--line)}
+.atlas-photo-gallery .section-title{margin:0 0 10px}
+.atlas-gallery-intro{font:italic 15px/1.65 var(--serif);color:#647262;margin:0 0 22px;max-width:64ch}
+.atlas-gallery-grid{display:grid;grid-template-columns:minmax(0,.86fr) minmax(0,1.14fr);gap:18px;align-items:start}
+.atlas-gallery-grid .article-art{margin:0;min-width:0}
+.atlas-gallery-grid .article-art-open>img{aspect-ratio:auto;width:100%;height:auto;max-height:610px;object-fit:contain;background:#183133}
+.atlas-gallery-grid .article-art figcaption strong{color:#293f37}
+@media(max-width:720px){.atlas-gallery-grid{grid-template-columns:minmax(0,1fr);gap:18px}.atlas-gallery-grid .article-art-open>img{max-height:none}.atlas-photo-gallery{padding-top:18px}}
