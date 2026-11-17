@@ -16316,7 +16316,7 @@
      "**The Hunters:** the Hall pays the Council's bounties and hires Hunters for wreck-work and long errands.",
      "**The dwarves:** half the counters, the Chief Counter, and the dwarven law the Bench honors.",
      "**The south:** “Gold on the arm is a vote of no confidence in Goldwind.”",
-     "**House Wingate:** a militant family of Assios, nobody's bannermen, whose small Kalvatar branch owes the Hall more than it can pay, and keeps paying."
+     "**House Wingate:** a militant family of mercenaries from Assios, nobody's bannermen, whose Kalvatar branch, some 2,500 men and seven ships, owes the Hall more than it can pay, and keeps paying."
     ]
    },
    {
@@ -52463,7 +52463,11 @@
   "facts": [
    [
     "Family",
-    "the Wingates, a militant family of Assios"
+    "the Wingates, a militant family of mercenaries from Assios"
+   ],
+   [
+    "Siblings",
+    "the eldest of four: Constance, Rowena, and Edmond, the youngest"
    ],
    [
     "Wounded",
@@ -52486,8 +52490,8 @@
    {
     "title": "A family at war",
     "paragraphs": [
-     "The Wingates are a militant family of Assios, on lands near the Front, and the Thousand-Year War has nearly spent them: the men gone, the money almost gone. They have not stopped fighting. Victoria was of the main line, on the continent.",
-     "The family keeps a small branch in Kalvatar, camped on the derelict Thorne Estate and in debt to the Reckoners' Hall, and it is there for two things: to save Victoria, and to find a way for the Wingates to keep fighting."
+     "The Wingates are mercenaries, a militant family of Assios, on lands near the Front, and the Thousand-Year War has nearly spent them: the men gone, the money almost gone. They have not stopped fighting. Victoria is the eldest of four: her sisters Constance and Rowena fight at the Front, one on land and one at sea, and Edmond is the youngest.",
+     "The family keeps a branch in Kalvatar, some 2,500 men and seven ships camped on the derelict Thorne Estate and in debt to the Reckoners' Hall, and it is there for two things: to save Victoria, and to find a way for the Wingates to keep fighting."
     ]
    },
    {
@@ -52551,12 +52555,12 @@
   "title": "House Wingate",
   "category": "houses",
   "region": "Central Heartland",
-  "subtitle": "A militant family, far from its war",
-  "summary": "A militant family of Assios, large enough to be nobody's bannermen, whose fight against the Imperium has nearly spent its fortune. Its small Kalvatar branch camps on the derelict Thorne Estate, in debt to the Reckoners' Hall, there to save Victoria Wingate and to find a way to keep fighting.",
+  "subtitle": "Mercenaries, far from their war",
+  "summary": "A militant family of mercenaries from Assios, large enough to be nobody's bannermen, whose fight against the Imperium has nearly spent its fortune. Its Kalvatar branch, some 2,500 men and seven ships, camps on the derelict Thorne Estate, in debt to the Reckoners' Hall, there to save Victoria Wingate and to find a way to keep fighting.",
   "facts": [
    [
     "Known as",
-    "a militant family"
+    "a militant family of mercenaries"
    ],
    [
     "Main family",
@@ -52564,7 +52568,11 @@
    ],
    [
     "In Kalvatar",
-    "a small branch, at the Thorne Estate"
+    "a branch of some 2,500 men and seven ships, at the Thorne Estate"
+   ],
+   [
+    "The siblings",
+    "Victoria, the eldest; Constance and Rowena, at the Front; Edmond, the youngest"
    ],
    [
     "Here for",
@@ -52587,14 +52595,14 @@
    {
     "title": "A family at war",
     "paragraphs": [
-     "The Wingates are a militant family of Assios, and they have been fighting the Imperium for longer than most of them have been alive. Their lands lie near the Front, and the Thousand-Year War has hit them harder than almost anyone: the men gone, the money almost gone, the family desperate. They have not stopped fighting, and they do not mean to.",
+     "The Wingates are mercenaries, a militant family of Assios who sell their swords only to those who fight the Imperium, and they have been fighting it for longer than most of them have been alive. Their lands lie near the Front, and the Thousand-Year War has hit them harder than almost anyone: the men gone, the money almost gone, the family desperate. They have not stopped fighting, and they do not mean to.",
      "They are a large family, large enough to be nobody's bannermen, in Assios or in the islands."
     ]
    },
    {
     "title": "The Kalvatar branch",
     "paragraphs": [
-     "The main family is on the continent. The branch in Kalvatar is small, and it is there for two things: to save Victoria Wingate, and to find a way for the Wingates to keep fighting.",
+     "The main family is on the continent. The branch in Kalvatar is small by the family's measure, some 2,500 men and seven ships, and it is there for two things: to save Victoria Wingate, and to find a way for the Wingates to keep fighting.",
      "Its funds are nearly exhausted, and it owes the Reckoners' Hall. Every Anchor it raises goes to Victoria or to the war."
     ]
    },
@@ -52622,10 +52630,14 @@
    },
    {
     "title": "The Wingates",
-    "paragraphs": [],
+    "paragraphs": [
+     "Four siblings: three sisters and their brother."
+    ],
     "list": [
-     "**Lady Victoria Wingate,** of the main line, who sailed south in 174 EC, led the expedition that found Anukáli, and did not come home.",
-     "**Edmond Wingate,** her brother, a Hunter of the Golden Wings, who did come home.",
+     "**Lady Victoria Wingate,** the eldest, who sailed south in 174 EC, led the expedition that found Anukáli, and did not come home.",
+     "**Constance Wingate,** the second, who fights at the Front on land.",
+     "**Rowena Wingate,** the third, who fights at the Front at sea.",
+     "**Edmond Wingate,** the youngest, a Hunter of the Golden Wings, who did come home.",
      "**Lucy Grant,** who sailed as Lucy Wingate, Edmond's adopted sister. Since 174 EC she has been the daughter of Avalan Grant of the *Karnivool*."
     ]
    },
@@ -52701,13 +52713,13 @@
    {
     "title": "The war camp",
     "paragraphs": [
-     "The Wingates live in it the way an army lives in a field. Tents stand in rows between the ruined walls, the old buildings that still have roofs keep the powder and the sick, and the watch-fires burn all night. The veterans drill at dawn on what was Magnus's lawn."
+     "The Wingates live in it the way an army lives in a field: some 2,500 soldiers and sailors in rows of tents between the ruined walls, with the powder and the sick under the few roofs still standing, and the watch-fires burning all night. The veterans drill at dawn on what was Magnus's lawn."
     ]
    },
    {
     "title": "The old dock",
     "paragraphs": [
-     "One stone pier still holds, and the Wingates' few hulls tie up there. Crates go out from it, north, toward the family's war."
+     "One stone pier still holds. The Wingates have seven ships, more than it can take, and the rest ride at anchor off the shore. Crates go out from it, north, toward the family's war."
     ]
    },
    {
