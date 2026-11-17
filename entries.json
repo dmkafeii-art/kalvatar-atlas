@@ -16315,7 +16315,8 @@
      "**The Ledger Wolves:** loans by knife for those the Hall turns away. Rumor calls them the Hall's deniable hand, and the First Reckoner denies it in a tone that settles nothing.",
      "**The Hunters:** the Hall pays the Council's bounties and hires Hunters for wreck-work and long errands.",
      "**The dwarves:** half the counters, the Chief Counter, and the dwarven law the Bench honors.",
-     "**The south:** “Gold on the arm is a vote of no confidence in Goldwind.”"
+     "**The south:** “Gold on the arm is a vote of no confidence in Goldwind.”",
+     "**House Wingate:** a militant family of Assios, nobody's bannermen, whose small Kalvatar branch owes the Hall more than it can pay, and keeps paying."
     ]
    },
    {
@@ -16426,7 +16427,8 @@
    "counting-jackdaw",
    "tenants",
    "swords-and-hunters",
-   "the-great-flows"
+   "the-great-flows",
+   "house-wingate"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/reckoners-hall-960.webp",
@@ -32773,7 +32775,7 @@
     "title": "Family and succession",
     "paragraphs": [
      "His daughter and heir, Celestine Goldspire, runs the floor. Dry, tired and exceptionally good with numbers, she carries the Exchange’s daily work while her father carries the family’s voice into public affairs.",
-     "Horace’s late wife belonged to House Veldane. His family’s reach also includes sworn and indebted connections: the Kalvatar branch of House Wingate, the Pellow price-criers and House Zane. The Goldspire name is a network as well as a flag."
+     "Horace’s late wife belonged to House Veldane. His family’s reach also includes sworn and indebted connections: the Pellow price-criers and House Zane. The Goldspire name is a network as well as a flag."
     ]
    },
    {
@@ -32851,8 +32853,7 @@
    "reckoners-hall",
    "maera-blackstrand",
    "celestine-goldspire",
-   "vesper-zane",
-   "house-wingate"
+   "vesper-zane"
   ],
   "illustration": {
    "src": "assets/folk/horace-council-v1-960.webp",
@@ -34780,7 +34781,8 @@
    {
     "title": "The Sledgehammer since",
     "paragraphs": [
-     "The Sledgehammer still sails, under the Lodge’s orders. In 174 EC Leoric Thorne came back to Goldwind under Hunter guard, and the Lodge has not said why."
+     "The Sledgehammer still sails, under the Lodge’s orders. In 174 EC Leoric Thorne came back to Goldwind under Hunter guard, and the Lodge has not said why.",
+     "His father's lands, the Thorne Estate, stood empty for ten years. The Wingates camp there now."
     ]
    },
    {
@@ -34836,7 +34838,9 @@
    "admiral-thulissa",
    "avalan-grant",
    "shade-serpentfang",
-   "victoria-wingate"
+   "victoria-wingate",
+   "thorne-estate",
+   "house-wingate"
   ]
  },
  {
@@ -52483,7 +52487,7 @@
     "title": "A family at war",
     "paragraphs": [
      "The Wingates are a militant family of Assios, on lands near the Front, and the Thousand-Year War has nearly spent them: the men gone, the money almost gone. They have not stopped fighting. Victoria was of the main line, on the continent.",
-     "The family keeps a small branch in Kalvatar, and it is there for two things: to save Victoria, and to find a way for the Wingates to keep fighting."
+     "The family keeps a small branch in Kalvatar, camped on the derelict Thorne Estate and in debt to the Reckoners' Hall, and it is there for two things: to save Victoria, and to find a way for the Wingates to keep fighting."
     ]
    },
    {
@@ -52524,6 +52528,7 @@
   ],
   "related": [
    "house-wingate",
+   "thorne-estate",
    "captain-magnus-and-leoric",
    "avalan-grant",
    "hunter-companies",
@@ -52547,7 +52552,7 @@
   "category": "houses",
   "region": "Central Heartland",
   "subtitle": "A militant family, far from its war",
-  "summary": "A militant family of Assios whose fight against the Imperium has nearly spent its fortune. The main family is on the continent. Its small Kalvatar branch is in the islands to save Victoria Wingate and to find a way to keep fighting, with almost no money left and sailors and soldiers who are veterans, loyal past reason.",
+  "summary": "A militant family of Assios, large enough to be nobody's bannermen, whose fight against the Imperium has nearly spent its fortune. Its small Kalvatar branch camps on the derelict Thorne Estate, in debt to the Reckoners' Hall, there to save Victoria Wingate and to find a way to keep fighting.",
   "facts": [
    [
     "Known as",
@@ -52559,7 +52564,7 @@
    ],
    [
     "In Kalvatar",
-    "a small branch"
+    "a small branch, at the Thorne Estate"
    ],
    [
     "Here for",
@@ -52570,26 +52575,43 @@
     "nearly exhausted"
    ],
    [
-    "Their people",
-    "veterans, and loyal past reason"
+    "Owes",
+    "the Reckoners' Hall"
    ],
    [
-    "Sworn to",
-    "the Goldspire Flag, and in its debt"
+    "Their people",
+    "veterans, and loyal past reason"
    ]
   ],
   "sections": [
    {
     "title": "A family at war",
     "paragraphs": [
-     "The Wingates are a militant family of Assios, and they have been fighting the Imperium for longer than most of them have been alive. Their lands lie near the Front, and the Thousand-Year War has hit them harder than almost anyone: the men gone, the money almost gone, the family desperate. They have not stopped fighting, and they do not mean to."
+     "The Wingates are a militant family of Assios, and they have been fighting the Imperium for longer than most of them have been alive. Their lands lie near the Front, and the Thousand-Year War has hit them harder than almost anyone: the men gone, the money almost gone, the family desperate. They have not stopped fighting, and they do not mean to.",
+     "They are a large family, large enough to be nobody's bannermen, in Assios or in the islands."
     ]
    },
    {
     "title": "The Kalvatar branch",
     "paragraphs": [
      "The main family is on the continent. The branch in Kalvatar is small, and it is there for two things: to save Victoria Wingate, and to find a way for the Wingates to keep fighting.",
-     "Its funds are nearly exhausted. In the islands the branch is sworn to the Goldspire Flag and in its debt, and every Anchor it has left goes to Victoria or to the war."
+     "Its funds are nearly exhausted, and it owes the Reckoners' Hall. Every Anchor it raises goes to Victoria or to the war."
+    ]
+   },
+   {
+    "title": "The Thorne Estate",
+    "paragraphs": [
+     "In Kalvatar the Wingates live on the Thorne Estate, the lands that belonged to Captain Magnus Thorne of the *Sledgehammer*, Leoric's father. The place is derelict and abandoned, so the branch lives in it the way an army lives in a field: a war camp of tents, using the ruins and the old buildings for cover. There is an old dock, and it still holds."
+    ]
+   },
+   {
+    "title": "What they do for Krysta and coin",
+    "paragraphs": [],
+    "list": [
+     "**Swords for hire.** Wingate veterans hire out as convoy guards, caravan escorts, and marines aboard merchant hulls: the best-drilled swords for hire in the Heartland, and the cheapest, because they need the coin.",
+     "**Krysta for the war.** They buy registered Krysta wherever a war-license lets them, and ship it north from the old dock to the family's war on the continent.",
+     "**Salvage.** They take the salvage contracts nobody else wants, and dive the wrecks nobody else will.",
+     "**Anything else that pays,** and that a soldier can do."
     ]
    },
    {
@@ -52612,25 +52634,107 @@
     "paragraphs": [
      "“Try to buy a Wingate sailor. He'll take your coin to his captain, and his captain will send it to the war.” (a Goldwind crimp)",
      "“They are selling the family silver one fork at a time, and they still pay their men on time.” (a Goldwind pawnbroker)",
+     "“Not all the glass that leaves the Thorne dock is clear.” (a Holst customs-clerk)",
      "“Every Wingate soldier in the islands has a scar from the Front, and not one of them will talk about it.” (a Sentinel Docks surgeon)"
     ]
    },
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoYXQgVmljdG9yaWEgZm91bmQuKiogU2hlIGNhbWUgZm9yIHRoZSBIZWFydCBvZiB0aGUgU2VhLCBhcyBoZXIgbGlmZSBhbmQgYXMgdGhlIGZhbWlseSdzIGxhc3Qgd2VhcG9uIGFnYWluc3QgdGhlIEltcGVyaXVtLCBhbmQgc2hlIGlzIHRoZSBIZWFydCBvZiB0aGUgU2VhIG5vdywgYm91bmQgdG8gQW51a8OhbGkgdW50aWwgMjc0IEVDLiBDb21tb24gZm9sayBrbm93IG5vdGhpbmcgb2YgaXQuIFRoZSBDb3VuY2lsIHJlY2VpdmVkIHRoZSBIdW50ZXJzJyBmdWxsIHJlcG9ydCwgYW5kIGtub3dzIGFsbCBvZiBpdC4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoYXQgVmljdG9yaWEgZm91bmQuKiogU2hlIGNhbWUgZm9yIHRoZSBIZWFydCBvZiB0aGUgU2VhLCBhcyBoZXIgbGlmZSBhbmQgYXMgdGhlIGZhbWlseSdzIGxhc3Qgd2VhcG9uIGFnYWluc3QgdGhlIEltcGVyaXVtLCBhbmQgc2hlIGlzIHRoZSBIZWFydCBvZiB0aGUgU2VhIG5vdywgYm91bmQgdG8gQW51a8OhbGkgdW50aWwgMjc0IEVDLiBDb21tb24gZm9sayBrbm93IG5vdGhpbmcgb2YgaXQuIFRoZSBDb3VuY2lsIHJlY2VpdmVkIHRoZSBIdW50ZXJzJyBmdWxsIHJlcG9ydCwgYW5kIGtub3dzIGFsbCBvZiBpdC4iLCAiKipEYXJrIGdsYXNzLioqIEEgd2FyLWxpY2Vuc2UgY29zdHMgbW9yZSB0aGFuIHRoZSBicmFuY2ggaGFzIGxlZnQuIFNvbWUgb2YgdGhlIEtyeXN0YSB0aGF0IGdvZXMgbm9ydGggZnJvbSB0aGUgVGhvcm5lIGRvY2sgaXMgZGFyayBnbGFzcywgYm91Z2h0IHRocm91Z2ggdGhlIFVuZGVydG93LCBhbmQgdGhlIGNyYXRlcyBhcmUgbWFya2VkIGFzIHNhbHZhZ2UuIl19"
    }
   ],
   "related": [
    "victoria-wingate",
-   "horace-goldspire",
-   "twelve-flags",
+   "thorne-estate",
+   "reckoners-hall",
    "hunter-companies",
    "avalan-grant",
+   "captain-magnus-and-leoric",
    "assios-and-the-wider-world"
   ],
   "aliases": [
    "the Wingates"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "pending"
+  }
+ },
+ {
+  "id": "thorne-estate",
+  "title": "The Thorne Estate",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "Magnus's empty lands, and a war camp",
+  "summary": "The lands of Captain Magnus Thorne of the Sledgehammer, derelict since he died at the Kraken's Maw and his son left the islands. The Wingates camp there now: a war camp of tents among the ruins, with an old dock that still holds.",
+  "facts": [
+   [
+    "Belonged to",
+    "Captain Magnus Thorne of the Sledgehammer"
+   ],
+   [
+    "Abandoned",
+    "since the Kraken's Maw, 165 EC"
+   ],
+   [
+    "Now",
+    "the Wingates' war camp"
+   ],
+   [
+    "Where",
+    "on the Heartland coast, a day's sail north of Goldwind"
+   ],
+   [
+    "Has",
+    "an old dock"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Magnus's lands",
+    "paragraphs": [
+     "Captain Magnus of the *Sledgehammer* was the most famous Hunter of his day, and the Thorne Estate was his home between voyages. He died at the Kraken's Maw in 165 EC. His son Leoric would not captain the *Sledgehammer* another day and left the islands, and nobody worked the land after that.",
+     "Ten years of weather did the rest: fallen roofs, fields gone to gorse, a great hall with the sky for a ceiling."
+    ]
+   },
+   {
+    "title": "The war camp",
+    "paragraphs": [
+     "The Wingates live in it the way an army lives in a field. Tents stand in rows between the ruined walls, the old buildings that still have roofs keep the powder and the sick, and the watch-fires burn all night. The veterans drill at dawn on what was Magnus's lawn."
+    ]
+   },
+   {
+    "title": "The old dock",
+    "paragraphs": [
+     "One stone pier still holds, and the Wingates' few hulls tie up there. Crates go out from it, north, toward the family's war."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The Wingates need guards they can trust for one shipment north, and they can pay half now.",
+     "A Wingate veteran has gone missing between the camp and the nearest town, and his friends will not wait for the watch.",
+     "Somebody has been watching the camp from the gorse at night, and leaving no tracks."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Leoric Thorne gave his father's land to the Wingates before he sailed south with their lady. He never asked for it back.” (a Goldwind Lodge porter)",
+     "“You can hear them drilling from the coast road at first light. Old soldiers, every one.” (a carter on the north road)"
+    ]
+   }
+  ],
+  "related": [
+   "house-wingate",
+   "captain-magnus-and-leoric",
+   "victoria-wingate",
+   "goldwind"
+  ],
+  "aliases": [
+   "Thorne Estate"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
