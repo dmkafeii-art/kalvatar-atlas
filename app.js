@@ -255,6 +255,16 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "morgha-wall-holder": ["folk", "Morgha Wall-Holder leans against cargo crates on a wharf.", "Morgha Wall-Holder se apoya en unas cajas de carga en el muelle.", "morgha-wall-holder-approved-v1", {"width": 1024, "height": 1536}],
+ "ottilie-veldane": ["folk", "Ottilie Veldane receives visitors with a sealed letter in her lap.", "Ottilie Veldane recibe visitas con una carta sellada en el regazo.", "ottilie-veldane-approved-v1", {"width": 1024, "height": 1536}],
+ "mother-kess": ["folk", "Mother Kess pauses over tea beside a harbor window.", "Mother Kess hace una pausa para tomar té junto a una ventana con vista al puerto.", "mother-kess-approved-v1", {"width": 1024, "height": 1536}],
+ "imelda-roque": ["folk", "Imelda Roque holds a seal beside an open contract.", "Imelda Roque sostiene un sello junto a un contrato abierto.", "imelda-roque-approved-v1", {"width": 1024, "height": 1536}],
+ "alesse-brightwater": ["folk", "Alesse Brightwater stands in a sunlit coastal cloister.", "Alesse Brightwater permanece en un claustro costero iluminado por el sol.", "alesse-brightwater-approved-v1", {"width": 1024, "height": 1536}],
+ "ondrel-greywake": ["folk", "Ondrel Greywake rests on the quay at dusk.", "Ondrel Greywake descansa en el muelle al anochecer.", "ondrel-greywake-approved-v1", {"width": 1024, "height": 1536}],
+ "uha-farsight": ["folk", "Uha Farsight turns toward her crew, her coat caught by the wind.", "Uha Farsight se vuelve hacia su tripulación mientras el viento agita su abrigo.", "uha-farsight-approved-v1", {"width": 1024, "height": 1536}],
+ "zyanya-greymoor": ["folk", "Zyanya Greymoor directs a river maneuver in the rain.", "Zyanya Greymoor dirige una maniobra fluvial bajo la lluvia.", "zyanya-greymoor-approved-v1", {"width": 1024, "height": 1536}],
+ "runa-kaldmark": ["folk", "Runa Kaldmark keeps watch from a snow-dusted deck.", "Runa Kaldmark mantiene la guardia desde una cubierta salpicada de nieve.", "runa-kaldmark-approved-v1", {"width": 1024, "height": 1536}],
+ "zeras-durant": ["folk", "Zeras Durant discusses a maneuver over a chart.", "Zeras Durant comenta una maniobra sobre una carta de navegación.", "zeras-durant-approved-v1", {"width": 1024, "height": 1536}],
  'maera-blackstrand': ['folk', 'Maera Blackstrand beside an open ledger in the Reckoners’ Hall.', 'Maera Blackstrand junto a un libro de cuentas abierto en el Reckoners’ Hall.', 'maera-blackstrand-approved-v1', {width:1024,height:1536}],
  'victoria-wingate': ['folk', 'Victoria Wingate aboard a sailing vessel.', 'Victoria Wingate a bordo de un velero.', 'victoria-wingate-approved-v1', {width:1024,height:1536}],
  'house-wingate': ['folk', 'Victoria Wingate aboard a sailing vessel.', 'Victoria Wingate a bordo de un velero.', 'victoria-wingate-approved-v1', {width:1024,height:1536}],
