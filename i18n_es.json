@@ -322,6 +322,6 @@
   "note": "The Spanish names come with the build; ask Claude (through Kafeii) for a change."
  },
  "rules": {
-  "names": "Everything is in Spanish, proper names too where they can be translated (Goldwind is Ventoro), except people's given names, the player characters, and the Crimson Tide. A translated name carries its English name small, in parentheses, right under it: an entry's title has its English title under it, and in the text the data writes [[nombre|English name]] for the first time a name is used (names.js draws it). Claude keeps the list of names."
+  "names": "Everything is in Spanish, proper names too where they can be translated (Goldwind is Ventoro), except people's given names and the player characters' own names. A translated name carries its English name small, in parentheses, right under it: an entry's title has its English title under it, and in the text the data writes [[nombre|English name]] for the first time a name is used (names.js draws it). Claude keeps the list of names."
  }
 }

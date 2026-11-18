@@ -6338,7 +6338,7 @@
  "great-hunter-crews": {
   "gloss": "The Great Hunter Crews",
   "subtitle": "La Orden de los Cazadores",
-  "summary": "Las tripulaciones que cualquier isleño sabe nombrar, del Crimson Tide al Karnivool, y las tripulaciones rivales de la Junta.",
+  "summary": "Las tripulaciones que cualquier isleño sabe nombrar, de la Marea Carmesí al Karnivool, y las tripulaciones rivales de la Junta.",
   "title": "Las grandes tripulaciones de Cazadores"
  },
  "iron": {
@@ -10162,8 +10162,8 @@
    {
     "title": "Los barcos que resistieron",
     "paragraphs": [
-     "El [[Jubiloso|Jubilant]] de Johann Faust sostuvo la defensa de la Coalición. El [[Cisne de Hierro|Iron Swan]] de Titania atravesó la línea pirata una y otra vez. El Crimson Tide y su tripulación abrieron una brecha en el colosal [[Mirada del Abismo|Gaze of Abyss]] y lo hundieron, a un precio terrible.",
-     "El capitán Magnus del [[Mazo|Sledgehammer]] cayó en un duelo contra Shade [[Colmillosierpe|Serpentfang]], el lugarteniente de Corazón Negro que llevaba una hoja envenenada. Leoric, hijo de Magnus, tomó el mando en plena batalla y siguió luchando. El capitán Falken [[Vistaclara|Brightsight]] combatió junto a la almirante Thulissa desde el Falkoner."
+     "El [[Jubiloso|Jubilant]] de Johann Faust sostuvo la defensa de la Coalición. El [[Cisne de Hierro|Iron Swan]] de Titania atravesó la línea pirata una y otra vez. La [[Marea Carmesí|Crimson Tide]] y su tripulación abrieron una brecha en el colosal [[Mirada del Abismo|Gaze of Abyss]] y lo hundieron, a un precio terrible.",
+     "El capitán Magnus del [[Mazo|Sledgehammer]] cayó en un duelo contra [[Sombra|Shade]] [[Colmillosierpe|Serpentfang]], el lugarteniente de Corazón Negro que llevaba una hoja envenenada. Leoric, hijo de Magnus, tomó el mando en plena batalla y siguió luchando. El capitán Falken [[Vistaclara|Brightsight]] combatió junto a la almirante Thulissa desde el Falkoner."
     ]
    },
    {
@@ -10362,12 +10362,12 @@
  },
  "albion-tempest": {
   "subtitle": "Una espada, una pluma, otro camino",
-  "summary": "Cazador de oro y primer oficial del Crimson Tide, Albion Tempestad reúne en una misma cubierta la destreza del guerrero, las manos del inventor y una esperanza elegida para su pueblo.",
+  "summary": "Cazador de oro y primer oficial de la Marea Carmesí, Albion Tempestad reúne en una misma cubierta la destreza del guerrero, las manos del inventor y una esperanza elegida para su pueblo.",
   "sections": [
    {
     "title": "El camino que sale del hielo",
     "paragraphs": [
-     "Albion creció en la [[Extensión Helada|Icy Expanse]] entre las incursiones de los [[Elfos de la Escarcha|Frost Elves]]. Un encuentro fortuito con los [[Cazadores|Hunters]] le abrió otro camino. Su dedicación y habilidad en combate lo llevaron al oro; su calma táctica le ganó el puesto de primer oficial del galeón Crimson Tide.",
+     "Albion creció en la [[Extensión Helada|Icy Expanse]] entre las incursiones de los [[Elfos de la Escarcha|Frost Elves]]. Un encuentro fortuito con los [[Cazadores|Hunters]] le abrió otro camino. Su dedicación y habilidad en combate lo llevaron al oro; su calma táctica le ganó el puesto de primer oficial del galeón Marea Carmesí.",
      "Sirve con una intención que va más allá de su propio ascenso: cambiar cómo ven las islas a los Elfos de la Escarcha. La reputación de su pueblo llega antes que ellos. Cada servicio le permite dejar un recuerdo distinto."
     ]
    },
@@ -10382,7 +10382,7 @@
     "title": "Mithril en una cubierta de trabajo",
     "paragraphs": [
      "Viste una de las escasas armaduras completas de mithril de las islas y reserva atuendos regios para la [[Logia|Lodge]] y la cubierta. El cabello negro y liso, la complexión ancha de Elfo de la Escarcha, el ojo ámbar y el parche izquierdo le dan una silueta propia. Una cicatriz cruza la mejilla izquierda y la nariz hasta el ojo cubierto.",
-     "El Crimson Tide es también uno de los nombres recordados de las [[Fauces del Kraken|Kraken’s Maw]]. Su tripulación abrió una brecha en el colosal [[Mirada del Abismo|Gaze of Abyss]] y lo hundió, a un precio terrible. El cargo actual de Albion pertenece a una compañía que lleva esa historia compartida, junto a Kirith, Gorman, [[Ahorcador|Hangman]] y Shadow."
+     "La Marea Carmesí es también uno de los nombres recordados de las [[Fauces del Kraken|Kraken’s Maw]]. Su tripulación abrió una brecha en el colosal [[Mirada del Abismo|Gaze of Abyss]] y lo hundió, a un precio terrible. El cargo actual de Albion pertenece a una compañía que lleva esa historia compartida, junto a Kirith, Gorman, [[Ahorcador|Hangman]] y Shadow."
     ]
    },
    {
@@ -10392,7 +10392,7 @@
     ]
    }
   ],
-  "title": "Albion Tempestad",
+  "title": "Albion Tempest",
   "facts": [
    [
     "Pueblo",
@@ -10404,7 +10404,7 @@
    ],
    [
     "Cargo",
-    "Primer oficial del Crimson Tide"
+    "Primer oficial de la [[Marea Carmesí|Crimson Tide]]"
    ],
    [
     "Sello",
@@ -10414,8 +10414,7 @@
     "Oficios",
     "Espada de corte, dispositivos, trampas y reparaciones"
    ]
-  ],
-  "gloss": "Albion Tempest"
+  ]
  },
  "johann-faust": {
   "subtitle": "La Puerta del Norte, la cubierta del Jubiloso",
@@ -10433,7 +10432,7 @@
     "title": "Sostener la defensa",
     "paragraphs": [
      "En las [[Fauces del Kraken|Kraken’s Maw]], en 165 EC, el Jubiloso formó parte de la Coalición de Marina y [[Cazadores|Hunters]] frente a la fuerza mucho mayor de [[Corazón Negro|Blackheart]]. Johann sostuvo la defensa mientras a su alrededor se sucedían ataques y duelos.",
-     "Las islas recuerdan la carga de Thulissa, los ataques repetidos del [[Cisne de Hierro|Iron Swan]] y la costosa victoria del Crimson Tide sobre la [[Mirada del Abismo|Gaze of Abyss]]. La tarea recordada de Johann pertenece a la línea que tuvo que resistir mientras se tomaban esas oportunidades."
+     "Las islas recuerdan la carga de Thulissa, los ataques repetidos del [[Cisne de Hierro|Iron Swan]] y la costosa victoria de la [[Marea Carmesí|Crimson Tide]] sobre la [[Mirada del Abismo|Gaze of Abyss]]. La tarea recordada de Johann pertenece a la línea que tuvo que resistir mientras se tomaban esas oportunidades."
     ]
    },
    {
@@ -10488,7 +10487,7 @@
     ]
    }
   ],
-  "title": "Lactinius Llamavientos",
+  "title": "Lactinius Windcaller",
   "facts": [
    [
     "Pueblo",
@@ -10502,11 +10501,9 @@
     "Rango",
     "Platino; miembro público de los Diez"
    ]
-  ],
-  "gloss": "Lactinius Windcaller"
+  ]
  },
  "midnight-patron": {
-  "gloss": "The Midnight Patron",
   "subtitle": "Un nombre en boca de todos",
   "summary": "El antiguo señor vampiro de Karn Sorroch, cuyo nombre usan las madres para asustar a los niños.",
   "sections": [
@@ -10525,10 +10522,9 @@
     ]
    }
   ],
-  "title": "El Patrón de Medianoche"
+  "title": "The Midnight Patron"
  },
  "mother-kess": {
-  "gloss": "Mother Kess",
   "subtitle": "Un nombre en boca de todos",
   "summary": "La educada, maternal y aterradora cabeza del Consorcio de Buentiempo, que manda en Puerto Varan.",
   "sections": [
@@ -10546,7 +10542,7 @@
     ]
    }
   ],
-  "title": "Madre Kess"
+  "title": "Mother Kess"
  },
  "reinhardt-holst": {
   "subtitle": "Las armas de Corina, su propio rumbo",
@@ -10606,7 +10602,6 @@
   ]
  },
  "titania-and-the-iron-swan": {
-  "gloss": "Titania and the Iron Swan",
   "subtitle": "El oro que todo capitán quiere superar",
   "summary": "En el puesto once del Ranking desde hace ocho años, Titania manda el Cisne de Hierro: un barco metálico sin velas, tripulado por llamas vivas, de cuyo paso habla todo puerto.",
   "sections": [
@@ -10638,7 +10633,7 @@
     ]
    }
   ],
-  "title": "Titania y el Cisne de Hierro",
+  "title": "Titania and the Iron Swan",
   "facts": [
    [
     "Rango",
@@ -11056,7 +11051,7 @@
   ]
  },
  "horace-goldspire": {
-  "title": "Horace Doraguja",
+  "title": "Horace Goldspire",
   "subtitle": "Un nombre en boca de todos",
   "summary": "El asiento del Congreso Mercantil en el Consejo: pomposo, ostentoso e indispensable.",
   "sections": [
@@ -11084,8 +11079,7 @@
     "Familia",
     "[[Doraguja|Goldspire]], de las Doce Banderas"
    ]
-  ],
-  "gloss": "Horace Goldspire"
+  ]
  },
  "arios-and-alina-fafner": {
   "title": "Arios and Alina Fafner",
@@ -11149,7 +11143,7 @@
   ]
  },
  "maera-blackstrand": {
-  "title": "Maera Hebranegra",
+  "title": "Maera Blackstrand",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Primera Tesorera de la Casa de los Tesoreros y jefa de la Casa Hebranegra, que tiene en sus manos la mitad de las deudas de las islas.",
   "sections": [
@@ -11181,8 +11175,7 @@
     "Lema",
     "\"Toda cuenta se cobra.\""
    ]
-  ],
-  "gloss": "Maera Blackstrand"
+  ]
  },
  "imelda-roque": {
   "title": "Imelda Roque",
@@ -11216,7 +11209,7 @@
   ]
  },
  "morgha-wall-holder": {
-  "title": "Morgha Sostenmuros",
+  "title": "Morgha Wall-Holder",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Jefa del Costalarga, el gremio de estibadores, en los muelles de Ventoro.",
   "sections": [
@@ -11243,11 +11236,10 @@
     "Dónde",
     "Los muelles de [[Ventoro|Goldwind]]"
    ]
-  ],
-  "gloss": "Morgha Wall-Holder"
+  ]
  },
  "ottilie-veldane": {
-  "title": "Gran Dama Ottilie Veldane",
+  "title": "Grand Dame Ottilie Veldane",
   "subtitle": "Un nombre en boca de todos",
   "summary": "La matriarca en el centro de la Red de Bodas de la Casa Veldane: todo compromiso del Corazón pasa por su mesa.",
   "sections": [
@@ -11274,11 +11266,10 @@
     "Jefa de la casa",
     "[[Dama|Lady]] Mirabel Veldane"
    ]
-  ],
-  "gloss": "Grand Dame Ottilie Veldane"
+  ]
  },
  "alesse-brightwater": {
-  "title": "Mirasol Alesse Aguaclara",
+  "title": "Sunward Alesse Brightwater",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Cabeza de la Concordia del Sol Naciente y la Marea Honda, junto al Llamamareas Ondrel Estelagrís.",
   "sections": [
@@ -11305,11 +11296,10 @@
     "A su lado",
     "el [[Llamamareas|Tidecaller]] Ondrel [[Estelagrís|Greywake]]"
    ]
-  ],
-  "gloss": "Sunward Alesse Brightwater"
+  ]
  },
  "ondrel-greywake": {
-  "title": "Llamamareas Ondrel Estelagrís",
+  "title": "Tidecaller Ondrel Greywake",
   "subtitle": "Un nombre en boca de todos",
   "summary": "El Llamamareas de la Concordia: un viejo sacerdote del mar de Bastión del Este que leyó las lunas para el Último Salmo durante treinta años.",
   "sections": [
@@ -11340,11 +11330,10 @@
     "Sirvió",
     "Treinta años en el [[Último Salmo|Last Psalm]]"
    ]
-  ],
-  "gloss": "Tidecaller Ondrel Greywake"
+  ]
  },
  "kalivos-durant": {
-  "title": "Gran Almirante Kalivos Durant",
+  "title": "Grand Admiral Kalivos Durant",
   "subtitle": "El Yunque que sostiene las flotas",
   "summary": "Señor de las Nueve Flotas y Señor de Flota del Muro de Hierro: Kalivos Durant manda la Armada desde el Conquistador, con la capital a su espalda y un archipiélago por delante.",
   "sections": [
@@ -11386,11 +11375,10 @@
     "Barco",
     "[[Conquistador|Conqueror]] ([[Verdugo|Executioner]])"
    ]
-  ],
-  "gloss": "Grand Admiral Kalivos Durant"
+  ]
  },
  "serane-marr": {
-  "title": "Gran Mariscal Serane Marr",
+  "title": "Lady High Marshal Serane Marr",
   "subtitle": "La guerra antes de la primera andanada",
   "summary": "Segunda autoridad de la Armada y primera del Mando de Marfil, Serane Marr trabaja donde los mapas, la diplomacia y los movimientos de las flotas se convierten en un plan.",
   "sections": [
@@ -11424,11 +11412,10 @@
     "Casaca",
     "Primera del Mando de Marfil ([[Casacas Blancas|White Coats]])"
    ]
-  ],
-  "gloss": "Lady High Marshal Serane Marr"
+  ]
  },
  "brigid-thane": {
-  "title": "Mariscal de Tormenta Brigid Thane",
+  "title": "Storm Marshal Brigid Thane",
   "subtitle": "Donde resiste la línea azul",
   "summary": "Mariscal de Tormenta Brigid Thane dirige la Vanguardia Cerúlea, la línea de combate de la Armada: las Casacas Azules que deben llevar un plan entre disparos, espuma y bordas enemigas.",
   "sections": [
@@ -11462,11 +11449,10 @@
     "Casaca",
     "Decana de la Vanguardia Cerúlea ([[Casacas Azules|Blue Coats]])"
    ]
-  ],
-  "gloss": "Storm Marshal Brigid Thane"
+  ]
  },
  "edran-holst": {
-  "title": "Señor Castellano Edran Holst",
+  "title": "Lord Castellan Edran Holst",
   "subtitle": "La fuerza detrás de la cadena del puerto",
   "summary": "Responsable de los puertos, estaciones y fortificaciones de la Armada, Edran Holst sostiene la parte del poder naval que permanece en tierra.",
   "sections": [
@@ -11504,11 +11490,10 @@
     "Casa",
     "Holst, el Orden antes que la Piedad"
    ]
-  ],
-  "gloss": "Lord Castellan Edran Holst"
+  ]
  },
  "the-shroud": {
-  "title": "La Mortaja",
+  "title": "The Shroud",
   "subtitle": "Un nombre en boca de todos",
   "summary": "La quinta silla del Alto Mando de la Armada está oficialmente vacía. Los muelles dicen que la ocupa alguien a quien llaman la Mortaja.",
   "sections": [
@@ -11531,11 +11516,10 @@
     "Asiento",
     "La silla vacía del Alto Mando"
    ]
-  ],
-  "gloss": "The Shroud"
+  ]
  },
  "dastan-graylock": {
-  "title": "Dastan Mechagrís",
+  "title": "Dastan Graylock",
   "subtitle": "Rebelde en la puerta del norte",
   "summary": "Desde el Juramento de la Carta, Dastan Mechagrís manda el Bloqueo de Hierro: la guardia del norte frente al Imperio Korvan y una mitad de los Hierros Gemelos.",
   "sections": [
@@ -11573,11 +11557,10 @@
     "Barco",
     "[[Juramento de la Carta|Charter’s Oath]] ([[Verdugo|Executioner]])"
    ]
-  ],
-  "gloss": "Dastan Graylock"
+  ]
  },
  "falken-brightsight": {
-  "title": "Falken Vistaclara",
+  "title": "Falken Brightsight",
   "subtitle": "El Salmista y el barco que recuerda",
   "summary": "Veterano de las Fauces del Kraken, Falken Vistaclara aún manda desde el Falkoner. Su Último Salmo lleva las obligaciones de la Armada ante los pactos del mar y los Reinos de Coral.",
   "sections": [
@@ -11615,8 +11598,7 @@
     "Barco",
     "Falkoner"
    ]
-  ],
-  "gloss": "Falken Brightsight"
+  ]
  },
  "zeras-durant": {
   "title": "Zeras Durant",
@@ -11660,7 +11642,7 @@
   ]
  },
  "enara-torraflame": {
-  "title": "Enara Torrallama",
+  "title": "Enara Torraflame",
   "subtitle": "Uno más a bordo de la Intervención",
   "summary": "Conocida como la Insumergible, Enara Torrallama lleva la Marea Asesina a las crisis: rescates, evacuaciones y los peligros que emergen de las profundidades.",
   "sections": [
@@ -11702,11 +11684,10 @@
     "Primera Espada",
     "Haldan [[Pedernal|Flint]]"
    ]
-  ],
-  "gloss": "Enara Torraflame"
+  ]
  },
  "uha-farsight": {
-  "title": "Uha Vistalarga",
+  "title": "Uha Farsight",
   "subtitle": "El Buscador más allá del mapa",
   "summary": "Uha la Sonriente dirige la Vigía Lejana, la Sexta Flota: exploración y cartografía naval junto a los Cartógrafos.",
   "sections": [
@@ -11738,11 +11719,10 @@
     "Barco",
     "[[Buscador|Seeker]]"
    ]
-  ],
-  "gloss": "Uha Farsight"
+  ]
  },
  "zyanya-greymoor": {
-  "title": "Zyanya Paramogrís",
+  "title": "Zyanya Greymoor",
   "subtitle": "Cañoneras bajo el verde",
   "summary": "La Jaguar manda la Ira Esmeralda desde el Colmillo de Jade y lleva a la Armada por los ríos y las costas de las Tierras Salvajes del Sur.",
   "sections": [
@@ -11784,8 +11764,7 @@
     "Casa",
     "[[Paramogrís|Greymoor]]"
    ]
-  ],
-  "gloss": "Zyanya Greymoor"
+  ]
  },
  "runa-kaldmark": {
   "title": "Runa Kaldmark",
@@ -11833,7 +11812,7 @@
   ]
  },
  "skarrei-ninth-squall": {
-  "title": "Skarrei Novena Borrasca",
+  "title": "Skarrei Ninth-Squall",
   "subtitle": "Hacia la tormenta",
   "summary": "Nubarrón dirige la Tormenta en Pie desde Confín de Tormentas. Skarrei Novena Borrasca es el Señor de Flota Galven responsable de las operaciones de la Armada en mares de tormenta.",
   "sections": [
@@ -11875,8 +11854,7 @@
     "Pueblo",
     "Galven"
    ]
-  ],
-  "gloss": "Skarrei Ninth-Squall"
+  ]
  },
  "zophiel": {
   "title": "Zophiel",
@@ -11909,7 +11887,7 @@
   ]
  },
  "hoskelis-torraflame": {
-  "title": "Hoskelis Torrallama",
+  "title": "Hoskelis Torraflame",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Señor de Barco del Duende de Guerra, primo de Enara Torrallama y su rival de toda la vida.",
   "sections": [
@@ -11940,11 +11918,10 @@
     "Prima",
     "el [[Señor de Flota|Fleetlord]] Enara [[Torrallama|Torraflame]]"
    ]
-  ],
-  "gloss": "Hoskelis Torraflame"
+  ]
  },
  "maelis-windleaf": {
-  "title": "Maelis Hojaviento",
+  "title": "Maelis Windleaf",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Señor de Barco del Acorazado, primer casco de la clase Acorazado, mal escrito para la buena suerte.",
   "sections": [
@@ -11971,11 +11948,10 @@
     "Barco",
     "[[Acorazado|Dreadnaught]]"
    ]
-  ],
-  "gloss": "Maelis Windleaf"
+  ]
  },
  "asim-kelu-manutar": {
-  "title": "Asim Kelu Manutar, \"el Timonel\"",
+  "title": "Asim Kelu Manutar, \"the Helder\"",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Señor de Barco del Helder. El hombre y el barco comparten el nombre, y nadie recuerda quién lo tuvo primero.",
   "sections": [
@@ -12006,8 +11982,7 @@
     "Conocido como",
     "el Helder"
    ]
-  ],
-  "gloss": "Asim Kelu Manutar, \"the Helder\""
+  ]
  },
  "kizur-malekium": {
   "title": "Kizur Malekium",
@@ -12040,7 +12015,7 @@
   ]
  },
  "innaro-of-the-fifteenth": {
-  "title": "Innaro de la Decimoquinta",
+  "title": "Innaro of the Fifteenth",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Guardián de Espada de la Decimoquinta Compañía, la compañía de infantes de marina más antigua de la Armada.",
   "sections": [
@@ -12071,11 +12046,10 @@
     "Segundo",
     "Thom"
    ]
-  ],
-  "gloss": "Innaro of the Fifteenth"
+  ]
  },
  "admiral-thulissa": {
-  "title": "Almirante Thulissa",
+  "title": "Admiral Thulissa",
   "subtitle": "La carga que las islas aún recuerdan",
   "summary": "Almirante del Trident y líder de la Coalición en las Fauces del Kraken, Thulissa llegó a la cubierta de Corazón Negro, lo mató y volvió a su barco con heridas a las que no sobreviviría.",
   "sections": [
@@ -12083,7 +12057,7 @@
     "title": "Dieciséis horas frente a la línea pirata",
     "paragraphs": [
      "En 165 EC, Thulissa del Trident dirigió a la Coalición de Kalvatar en las Fauces del Kraken. Marina y [[Cazadores|Hunters]] reunieron unos cincuenta y seis barcos contra más de ciento doce bajo el almirante [[Corazón Negro|Blackheart]]. La batalla duró dieciséis horas.",
-     "Falken [[Vistaclara|Brightsight]] combatió a su lado desde el Falkoner. En otros puntos de la Coalición, el [[Jubiloso|Jubilant]] sostenía la defensa, el [[Cisne de Hierro|Iron Swan]] atravesaba la línea una y otra vez y el Crimson Tide se enfrentaba a la [[Mirada del Abismo|Gaze of Abyss]]. El mando de Thulissa formó parte de ese esfuerzo compartido y costoso."
+     "Falken [[Vistaclara|Brightsight]] combatió a su lado desde el Falkoner. En otros puntos de la Coalición, el [[Jubiloso|Jubilant]] sostenía la defensa, el [[Cisne de Hierro|Iron Swan]] atravesaba la línea una y otra vez y la [[Marea Carmesí|Crimson Tide]] se enfrentaba a la [[Mirada del Abismo|Gaze of Abyss]]. El mando de Thulissa formó parte de ese esfuerzo compartido y costoso."
     ]
    },
    {
@@ -12119,19 +12093,18 @@
     "Destino",
     "Murió de sus heridas después de la batalla"
    ]
-  ],
-  "gloss": "Admiral Thulissa"
+  ]
  },
  "captain-magnus-and-leoric": {
-  "title": "El Capitán Magnus y Leoric",
+  "title": "Captain Magnus and Leoric",
   "subtitle": "El mando del Mazo, heredado en batalla",
-  "summary": "Magnus cayó ante Shade Colmillosierpe en las Fauces del Kraken. Su hijo Leoric tomó el mando del Mazo mientras la batalla aún seguía.",
+  "summary": "Magnus cayó ante Sombra Colmillosierpe en las Fauces del Kraken. Su hijo Leoric tomó el mando del Mazo mientras la batalla aún seguía.",
   "sections": [
    {
     "title": "Magnus en la Maw",
     "paragraphs": [
      "El capitán Magnus era un [[Cazador|Hunter]] legendario y mandaba el Mazo. En 165 EC, su barco combatió con la Coalición de Marina y [[Cazadores|Hunters]] contra el almirante [[Corazón Negro|Blackheart]] en las Fauces del Kraken.",
-     "Shade Colmillosierpe, lugarteniente de Corazón Negro, llevaba un arma de hoja envenenada. Abatió a Magnus en un duelo. La muerte de un capitán se sumó a una batalla en la que la Coalición ya luchaba en gran inferioridad numérica."
+     "Sombra Colmillosierpe, lugarteniente de Corazón Negro, llevaba un arma de hoja envenenada. Abatió a Magnus en un duelo. La muerte de un capitán se sumó a una batalla en la que la Coalición ya luchaba en gran inferioridad numérica."
     ]
    },
    {
@@ -12144,13 +12117,13 @@
    {
     "title": "El Mazo desde entonces",
     "paragraphs": [
-     "El Mazo sigue navegando, a las órdenes de la Logia. En 174 EC, Leoric Thorne volvió a Ventoro bajo custodia de los Cazadores, y la Logia no ha dicho por qué."
+     "El Mazo sigue navegando, a las órdenes de la Logia. En 174 EC, Leoric [[Espino|Thorne]] volvió a Ventoro bajo custodia de los Cazadores, y la Logia no ha dicho por qué."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Nadie se sienta en la silla del capitán en el alcázar del Mazo. La tripulación dice que se guarda para un Thorne.” (un Cazador de la Logia de Ventoro)",
+     "“Nadie se sienta en la silla del capitán en el alcázar del Mazo. La tripulación dice que se guarda para un Espino.” (un Cazador de la Logia de Ventoro)",
      "“Se fue al continente y le vendió la espada a una dama con una guerra perdida. Lo que ella vino a buscar al sur, no se lo llevó a casa.” (un bebedor de los muelles de Ventoro)"
     ]
    }
@@ -12166,14 +12139,13 @@
    ],
    [
     "Lo mató",
-    "Shade [[Colmillosierpe|Serpentfang]]"
+    "[[Sombra|Shade]] [[Colmillosierpe|Serpentfang]]"
    ],
    [
     "Leoric",
     "Entregó el mando; volvió a [[Ventoro|Goldwind]] bajo custodia, 174 EC"
    ]
-  ],
-  "gloss": "Captain Magnus and Leoric"
+  ]
  },
  "admiral-blackheart": {
   "title": "Almirante Corazón Negro",
@@ -12197,7 +12169,7 @@
    {
     "title": "Lo que sobrevivió a su derrota",
     "paragraphs": [
-     "Shade [[Colmillosierpe|Serpentfang]], el lugarteniente de la hoja envenenada que mató al capitán Magnus, escapó. Sharin [[Hojasangre|Bloodblade]] nunca fue encontrada. Las tripulaciones derrotadas se convirtieron en los [[Restos de Corazón Negro|Remnants of Blackheart]] y llevaron el antiguo nombre hasta los problemas actuales de las islas.",
+     "[[Sombra|Shade]] [[Colmillosierpe|Serpentfang]], el lugarteniente de la hoja envenenada que mató al capitán Magnus, escapó. Sharin [[Hojasangre|Bloodblade]] nunca fue encontrada. Las tripulaciones derrotadas se convirtieron en los [[Restos de Corazón Negro|Remnants of Blackheart]] y llevaron el antiguo nombre hasta los problemas actuales de las islas.",
      "Las historias sobre el Soberano del Pavor siguen circulando en las tabernas del sur. Pertenecen al rumor. La muerte de Corazón Negro en la Maw y la derrota de su armada son historia recordada."
     ]
    },
@@ -12225,21 +12197,21 @@
   "gloss": "Admiral Blackheart"
  },
  "harrow-mane": {
-  "title": "Harrow Mane",
+  "title": "Harrow Melena",
   "subtitle": "Forajidos de las islas",
   "summary": "El señor saqueador de las tripulaciones de manada, demasiado brutales incluso para la Última Sonrisa.",
   "sections": [
    {
     "title": "Panorama",
     "paragraphs": [
-     "Harrow Mane es el señor saqueador que está uniendo a las tripulaciones de manada, demasiado brutales incluso para la flota de la Última Sonrisa.",
-     "Si la Última Sonrisa es carisma y leyenda, Harrow Mane es hambre. La Marea Libre los desprecia a los dos por apropiarse de su credo."
+     "[[Harrow Melena|Harrow Mane]] es el señor saqueador que está uniendo a las tripulaciones de manada, demasiado brutales incluso para la flota de la Última Sonrisa.",
+     "Si la Última Sonrisa es carisma y leyenda, Harrow Melena es hambre. La Marea Libre los desprecia a los dos por apropiarse de su credo."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Harrow Mane no iza bandera. Dice que el mar sabe que es él por la estela.” (un comerciante flotante de Cayo Hueco)"
+     "“Harrow Melena no iza bandera. Dice que el mar sabe que es él por la estela.” (un comerciante flotante de Cayo Hueco)"
     ]
    }
   ],
@@ -12252,10 +12224,11 @@
     "Tripulaciones",
     "las manadas"
    ]
-  ]
+  ],
+  "gloss": "Harrow Mane"
  },
  "the-registrar": {
-  "title": "El Registrador",
+  "title": "The Registrar",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Alguien está cazando a lanzadores sin licencia en la niebla de Ventoro. La Universidad dice que ese funcionario no existe.",
   "sections": [
@@ -12282,18 +12255,17 @@
     "Oficialmente",
     "No existe"
    ]
-  ],
-  "gloss": "The Registrar"
+  ]
  },
  "captain-bramgard": {
-  "title": "Capitán Bramgard",
+  "title": "Captain Bramgard",
   "subtitle": "Un nombre en boca de todos",
-  "summary": "Capitán del galeón Crimson Tide, que abrió y hundió el colosal Mirada del Abismo en las Fauces del Kraken.",
+  "summary": "Capitán del galeón Marea Carmesí, que abrió y hundió el colosal Mirada del Abismo en las Fauces del Kraken.",
   "sections": [
    {
     "title": "Panorama",
     "paragraphs": [
-     "El Capitán Bramgard manda el galeón Crimson Tide, una de las grandes tripulaciones de [[Cazadores|Hunters]].",
+     "El Capitán Bramgard manda el galeón Marea Carmesí, una de las grandes tripulaciones de [[Cazadores|Hunters]].",
      "En las [[Fauces del Kraken|Kraken’s Maw]], él y su tripulación abrieron y hundieron el colosal [[Mirada del Abismo|Gaze of Abyss]], a un precio terrible.",
      "Su primer oficial es el [[Cazador|Hunter]] de oro Albion Tempestad. En su tripulación están Kirith, Gorman, Ahorcador y Shadow."
     ]
@@ -12301,14 +12273,14 @@
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Bramgard no deja subir al Crimson Tide ni un tablón de la Mirada del Abismo. Ni como trofeo, ni como leña.” (un marinero del Crimson Tide)"
+     "“Bramgard no deja subir a la Marea Carmesí ni un tablón de la Mirada del Abismo. Ni como trofeo, ni como leña.” (un marinero de la Marea Carmesí)"
     ]
    }
   ],
   "facts": [
    [
     "Barco",
-    "Crimson Tide (galeón)"
+    "[[Marea Carmesí|Crimson Tide]] (galeón)"
    ],
    [
     "Primer oficial",
@@ -12318,11 +12290,10 @@
     "Tripulación",
     "Kirith, Gorman, [[Ahorcador|Hangman]], Shadow"
    ]
-  ],
-  "gloss": "Captain Bramgard"
+  ]
  },
  "banestorm-brothers": {
-  "title": "Los Hermanos Malatormenta",
+  "title": "The Banestorm Brothers",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Uther y Gunther Malatormenta, cocapitanes del barco Cazador Rolling Thunder.",
   "sections": [
@@ -12349,8 +12320,7 @@
     "Capitanes",
     "Uther y Gunther [[Malatormenta|Banestorm]]"
    ]
-  ],
-  "gloss": "The Banestorm Brothers"
+  ]
  },
  "khaz-aimar-maa-iq": {
   "title": "Khaz'Aimar Maa'iq",
@@ -12421,7 +12391,7 @@
     "title": "Panorama",
     "paragraphs": [
      "Avalan Grant es el capitán y maestro de ceremonias del Karnivool: un barco de [[Cazadores|Hunters]] y un espectáculo ambulante a la vez.",
-     "Su primer oficial y director es Henry Friend, y su intendente es Goodwing. En la compañía están Gibits Binclarg, un erudito gnomo; Trip, un malabarista semiorco; Flare, una tragafuegos semielfa de belleza famosa; y Brag, un cocinero enano.",
+     "Su primer oficial y director es Henry Amigo, y su intendente es Alabuena. En la compañía están Gibits Binclarg, un erudito gnomo; [[Traspié|Trip]], un malabarista semiorco; [[Bengala|Flare]], una tragafuegos semielfa de belleza famosa; y [[Bravata|Brag]], un cocinero enano.",
      "Desde 174 EC la compañía tiene una más: Lucy Grant, una joven [[Cazador|Hunter]] a quien Avalan adoptó como hija."
     ]
    },
@@ -12440,11 +12410,11 @@
    ],
    [
     "Primer oficial",
-    "Henry Friend"
+    "[[Henry Amigo|Henry Friend]]"
    ],
    [
     "Intendente",
-    "Goodwing"
+    "[[Alabuena|Goodwing]]"
    ],
    [
     "Hija",
@@ -12574,7 +12544,7 @@
   "gloss": "\"Old Knife\" Petra Sallow"
  },
  "ninthalarion": {
-  "title": "Ninthalarion",
+  "title": "Ninthalarion Halueth of Clan Balrora",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Un elfo de la escarcha de tamaño enorme que recorre el hielo del sur y, en las ciudades, lleva una casaca roja y negra.",
   "sections": [
@@ -12603,8 +12573,7 @@
     "Visto",
     "El hielo del sur; a veces en las ciudades"
    ]
-  ],
-  "gloss": "Ninthalarion Halueth of Clan Balrora"
+  ]
  },
  "noel": {
   "title": "Noel",
@@ -12637,7 +12606,7 @@
   ]
  },
  "fishbread": {
-  "title": "Pan de Pescado",
+  "title": "Fishbread",
   "subtitle": "Un nombre en boca de todos",
   "summary": "Un gran gato atigrado que duerme en el escalón más alto de los Escalones Tibios de Ixtalu, a un día río arriba de Jakupur.",
   "sections": [
@@ -12665,8 +12634,7 @@
     "Ofrenda",
     "Pan de pescado"
    ]
-  ],
-  "gloss": "Fishbread"
+  ]
  },
  "merla-ciel-tealeaf": {
   "title": "Merla Ciel Tealeaf",
@@ -12699,7 +12667,7 @@
    ],
    [
     "Mesa",
-    "The Table of Twelve"
+    "La [[Mesa de los Doce|Table of Twelve]]"
    ]
   ]
  },
@@ -12733,7 +12701,7 @@
    ],
    [
     "Mesa",
-    "The Table of Twelve"
+    "La [[Mesa de los Doce|Table of Twelve]]"
    ]
   ]
  },
@@ -12767,7 +12735,7 @@
    ],
    [
     "Mesa",
-    "The Table of Twelve"
+    "La [[Mesa de los Doce|Table of Twelve]]"
    ]
   ]
  },
@@ -12802,7 +12770,7 @@
    ],
    [
     "Mesa",
-    "The Year of the Storm"
+    "El [[Año de la Tormenta|Year of the Storm]]"
    ]
   ]
  },
@@ -12836,7 +12804,7 @@
    ],
    [
     "Mesa",
-    "The Year of the Storm"
+    "El [[Año de la Tormenta|Year of the Storm]]"
    ]
   ]
  },
@@ -12871,7 +12839,7 @@
    ],
    [
     "Mesa",
-    "The Year of the Storm"
+    "El [[Año de la Tormenta|Year of the Storm]]"
    ]
   ]
  },
@@ -13320,7 +13288,7 @@
   "gloss": "Spurback"
  },
  "arbiters": {
-  "title": "Los Árbitros",
+  "title": "The Arbiters",
   "subtitle": "Un año, un hilo y la autoridad del cargo",
   "summary": "Elegidos por sorteo anual entre los practicantes registrados de Tercer Círculo o superior, los Árbitros cumplen un año remunerado de servicio sobre la magia poderosa en las tierras del Consejo.",
   "sections": [
@@ -13397,8 +13365,7 @@
   "epigraph": {
    "quote": "Tú no eliges convertirte en uno; el año te elige.",
    "by": "Sobre el sorteo del Día de la Carta"
-  },
-  "gloss": "The Arbiters"
+  }
  },
  "krystawrights": {
   "gloss": "The Krystawrights’ Guild",
