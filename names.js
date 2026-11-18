@@ -9,10 +9,23 @@
  const draw = el => {
   const html = el.innerHTML, next = html.replace(RE, (m, es, en) => `<ruby class="kv-en">${es}<rt lang="en">(${en})</rt></ruby>`);
   if(next !== html) el.innerHTML = next;
+  el.querySelectorAll('ruby.kv-en rt a').forEach(a => a.replaceWith(a.textContent));  // the English under a name is not a second link
+ };
+ // In Spanish some entry names are everyday words too ("abajo", "el hierro"): written in lowercase, they are the word, not the entry.
+ const PLAIN = new Set(['abajo', 'bastión', 'el hierro', 'caos', 'la espada', 'el alféizar', 'la resaca', 'la mortaja', 'el rompeolas', 'la guarda',
+  'el nudo', 'el ciclo', 'el remiendo', 'el sello', 'el desatado', 'la marea libre', 'la puerta callada', 'el hombre pálido']);
+ const unlink = root => {
+  if(window.Pack2?.language !== 'es' || !root.querySelectorAll) return;
+  root.querySelectorAll('a.wiki-link').forEach(a => {
+   const t = a.textContent;
+   if(t && t[0] !== t[0].toUpperCase() && PLAIN.has(t.toLowerCase())) a.replaceWith(t);
+  });
  };
  function scan(node) {
   const root = node?.nodeType === 3 ? node.parentElement : node;
-  if(!root || root.nodeType !== 1 || root.closest(SKIP) || !root.textContent.includes('[[')) return;
+  if(!root || root.nodeType !== 1 || root.closest(SKIP)) return;
+  unlink(root);
+  if(!root.textContent.includes('[[')) return;
   const found = new Set(), walk = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
   for(let n = walk.nextNode(); n; n = walk.nextNode()) {
    if(!n.nodeValue.includes('[[') || n.parentElement.closest(SKIP)) continue;
