@@ -255,6 +255,7 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ 'maera-blackstrand': ['folk', 'Maera Blackstrand beside an open ledger in the Reckoners’ Hall.', 'Maera Blackstrand junto a un libro de cuentas abierto en el Reckoners’ Hall.', 'maera-blackstrand-approved-v1', {width:1024,height:1536}],
  'victoria-wingate': ['folk', 'Victoria Wingate aboard a sailing vessel.', 'Victoria Wingate a bordo de un velero.', 'victoria-wingate-approved-v1', {width:1024,height:1536}],
  'house-wingate': ['folk', 'Victoria Wingate aboard a sailing vessel.', 'Victoria Wingate a bordo de un velero.', 'victoria-wingate-approved-v1', {width:1024,height:1536}],
  'summer-court': ['scenes', 'Knights salute each other at the Noonhold, beneath the Summer Court’s golden banners.', 'Dos caballeros se saludan en el Noonhold, bajo los estandartes dorados de la Corte de Verano.', 'summer-court-portrait'],
