@@ -2810,26 +2810,179 @@
  "mercantile-congress": {
   "gloss": "The Mercantile Congress",
   "subtitle": "El trabajo de las islas, contado",
-  "summary": "El colectivo de los gremios del comercio, de los carpinteros de ribera y los herreros a los tejedores y los estibadores del Costalarga.",
+  "summary": "La reunión de los gremios de las islas, desde la Casa de los Tesoreros, que guarda las deudas de todos, hasta Costalarga, que puede cerrar un puerto con un silbido. Sus maestros se reúnen en la Sala de las Cadenas, y Horace Doraguja lleva su voz al Consejo.",
   "epigraph": {
    "quote": "El Consejo hace las leyes. El Congreso hace el dinero. Adivina quién gana la discusión.",
    "by": "Un corredor del Piso de la Aguja"
   },
   "facts": [
    [
-    "Representante en el Consejo",
+    "También llamado",
+    "el Congreso; los Gremios"
+   ],
+   [
+    "Asiento en el Consejo",
     "Horace [[Doraguja|Goldspire]]"
    ],
    [
-    "Banco",
-    "La Casa de los Tesoreros"
+    "Lo gobierna",
+    "el Consejo del Congreso, de maestros de gremio"
    ],
    [
-    "Primera Tesorera",
-    "Maera [[Hebranegra|Blackstrand]]"
+    "Se reúne",
+    "en la Sala de las Cadenas, Ventoro, el primer Forjadía de cada mes"
+   ],
+   [
+    "El poder de verdad",
+    "la Casa de los Tesoreros, bajo la Primera Tesorera Maera Hebranegra"
+   ],
+   [
+    "Rangos",
+    "Aprendiz, Oficial, Maestro"
+   ],
+   [
+    "Sus días",
+    "el Monedía, cada Ciclo; la Feria de los Artesanos, cada año"
+   ],
+   [
+    "Rival",
+    "la Compañía Casacarta"
    ]
   ],
-  "title": "El Congreso Mercantil"
+  "title": "El Congreso Mercantil",
+  "sections": [
+   {
+    "title": "Qué es el Congreso",
+    "paragraphs": [
+     "El Congreso Mercantil de Kalvatar, el Congreso o simplemente los Gremios, no es una compañía ni un gobierno. Es una reunión de gremios: cada oficio y cada comercio de las tierras del Consejo tiene el suyo, cada uno con su maestro, sus rangos, sus secretos y sus rencores.",
+     "El poder de verdad vive en su gremio de la banca, la [[Casa de los Tesoreros|Reckoners' Hall]], que guarda los depósitos, escribe los préstamos, asegura las cargas y, por lo tanto, tiene con correa a todos los demás gremios y a media nobleza de paso."
+    ]
+   },
+   {
+    "title": "El Consejo del Congreso",
+    "paragraphs": [
+     "Los maestros de gremio se reúnen en la Sala de las Cadenas, en el anillo del medio de [[Ventoro|Goldwind]], el primer [[Forjadía|Forgeday]] de cada mes: el día del Ciclo que les pertenece al oficio y a los gremios.",
+     "Cada gran gremio tiene un voto. Los gremios menores, los alfareros, los toneleros, los molineros y docenas más, mandan cuatro voces entre todos, sorteadas cada año.",
+     "Un maestro vota poniendo su cadena del cargo a un lado u otro de la gran mesa, y la votación se cuenta por peso, no por manos. Por eso los Herreros y los Joyeros llevan las cadenas más pesadas de las islas, y por eso los Tesoreros nunca necesitan traer la suya.",
+     "El Consejo del Congreso elige el asiento del Congreso en el Consejo de las Islas Cartografiadas. Horace Doraguja lo ocupa desde hace más tiempo del que nadie recuerda por qué. Doraguja va a las reuniones; Hebranegra decide lo que Doraguja se puede permitir decir."
+    ]
+   },
+   {
+    "title": "La escalera",
+    "paragraphs": [
+     "Todos los gremios suben la misma escalera, y la cadena del cargo de un maestro se lleva como una corona."
+    ],
+    "list": [
+     "**Aprendiz.** Se le paga con techo y comida, y unas Olas cada Monedía.",
+     "**Oficial.** Unas 2 Anclas al mes, con papeles que lo prueban; una cuota del gremio de 1 Ancla al año.",
+     "**Maestro.** Por una obra maestra, o por prueba de negocio. De cuatro a seis Anclas al mes en casi todos los oficios, y más en los caros; una cuota del gremio de 5 Anclas al año.",
+     "**Ninguna cadena** para un nombre del Libro Mayor, en ningún gremio, hasta que la línea se tache en rojo."
+    ]
+   },
+   {
+    "title": "Los grandes gremios",
+    "paragraphs": [
+     "Dieciocho gremios tienen los grandes votos. Cada uno tiene su página en [[Los Gremios del Congreso|The Guilds of the Congress]]."
+    ],
+    "list": [
+     "**La Casa de los Tesoreros:** la banca, el crédito, el seguro de mar y la deuda.",
+     "**El Gremio de los Carpinteros de Ribera:** cascos, mástiles y reparaciones.",
+     "**El Gremio de los Herreros:** hierro, acero, armas y herramientas.",
+     "**El Gremio de los Tejedores:** tela, brocado y lona de velas.",
+     "**Los Hacedores de Calma:** el kellum, en cada destilería de cada puerto.",
+     "**Los Boticarios y los Alquimistas:** medicinas, tinturas y reactivos.",
+     "**El Gremio de los Joyeros:** gemas, oro y engastes.",
+     "**El Gremio de Artesanos de Krysta:** la Krysta, tallada y engastada.",
+     "**El Gremio de los Faroleros:** luces de puerto, lámparas y los faroles de Ventoro.",
+     "**El Círculo de los Entintadores:** imprentas, hojas sueltas y los rollos de los Cazadores.",
+     "**El Pacto de los Impresores de Cartas:** cartas impresas.",
+     "**La Hermandad de la Salmuera:** pescadores y balleneros.",
+     "**Costalarga:** cargadores y estibadores.",
+     "**El Gremio de las Terrazas:** la hoja clara, cultivada y prensada.",
+     "**Los Perfumistas de Puerto Plata:** perfumes, inciensos y aceites.",
+     "**La Logia de los Domadores de Saurios:** cría y adiestramiento de saurios.",
+     "**La Cordelería:** la cuerda de buena hechura.",
+     "**Las Velas Libres:** capitanes mercantes independientes."
+    ]
+   },
+   {
+    "title": "Las Doce Banderas",
+    "paragraphs": [
+     "Los gremios son oficios. Las [[Doce Banderas|Twelve Flags]] son familias: son dueñas de los cascos, los almacenes, los contratos y las deudas dentro de los que trabajan los gremios. Ninguna carta las nombra y ningún asiento del Consejo es suyo, y nada en las islas tiene precio sin ellas. Cada una tiene un poste en el [[Piso de la Aguja|Spire Floor]] de la Bolsa Doraguja."
+    ]
+   },
+   {
+    "title": "El Monedía",
+    "paragraphs": [
+     "El [[Monedía|Coinsday]], el noveno día de cada Ciclo, es el día del Congreso. En la mañana, la Mesa de las Banderas canta en el Piso de la Aguja el precio de tablero de los grandes productos. Con la campana del mediodía, al lado, la Casa de los Tesoreros lee el precio de cada parte de su Tablero: la Lectura de Monedía.",
+     "En la tarde la fila para pagar baja por las escaleras de la Casa y le da la vuelta a la Ceca, porque el Monedía es también día de liquidar, y tres Monedías sin pagar meten un nombre en el Libro Mayor."
+    ]
+   },
+   {
+    "title": "La Compañía Casacarta",
+    "paragraphs": [
+     "La [[Compañía Casacarta|Charterhouse Company]] no es un gremio y no le responde al Congreso. Tiene sus monopolios por concesión del Consejo, y los usa para darles la vuelta a los gremios: sus propios barcos, sus propios almacenes, sus propios pueblos de compañía y sus propios matones, los hombres de mandato. Los gremios la odian. Los Tesoreros les prestan a los dos lados y ganan de cualquier manera."
+    ]
+   },
+   {
+    "title": "La vida de una carga",
+    "paragraphs": [
+     "Cómo un fardo de café de Puerto Sur se vuelve una taza en Ventoro, y dónde se puede torcer cada paso."
+    ],
+    "list": [
+     "**El cultivador** le vende a un agente: donde se fija el precio.",
+     "**Un almacén del Congreso** lo pesa, lo clasifica y lo sella: donde se falsifica la clase.",
+     "**La Casa de los Tesoreros** escribe un préstamo a la gruesa, un préstamo de mar que se perdona si el barco se hunde: donde un hundimiento conveniente se vuelve negocio.",
+     "**Los aduaneros de la Casa Holst** lo sellan y cobran los derechos de puerto: donde se copia el sello.",
+     "**El viaje,** en convoy, con escolta de Cazadores, o solo, rápido y rezando: donde se pierde, se lo llevan, o se “pierde”.",
+     "**El mercado,** una sala del Congreso, el sótano de una casa de café, un puesto pocchin: donde se corta, se agua o se le cambia la etiqueta.",
+     "Cada paso tiene un sello. Cada sello tiene un falsificador."
+    ]
+   },
+   {
+    "title": "Derechos y cuotas",
+    "paragraphs": [],
+    "list": [
+     "**El [[Diezmo de la Puerta|Gate-Tithe]]:** una Marea por cada Ancla sobre lo que va y viene de Assios, arrendado por la Casa Ostrel en Fuerte de Hierro.",
+     "**Derechos de puerto:** por barco, por marea, en todas partes.",
+     "**Tasas del Registro:** por cada pieza de Krysta refinada que se vende en tierras del Consejo.",
+     "**Peajes de la Compañía:** donde la Casacarta tiene un monopolio, todos los demás pagan por pasar."
+    ]
+   },
+   {
+    "title": "Las grandes ferias",
+    "paragraphs": [],
+    "list": [
+     "**La Feria de los Artesanos,** en Ventoro: la vitrina del Congreso, donde una obra maestra hace o deshace a su autor.",
+     "**Las ferias de mercado pocchin,** dondequiera que se junten una docena de caravanas.",
+     "**La Reunión Tarvan:** rebaños, tartán, cuerno y competencias.",
+     "**Las carreras de la [[Carrera del Espinazo del Sol|Sunspine Run]]** en Jakupur, y fortunas en apuestas.",
+     "**Los festines balleneros** de Bastión de Escarcha, donde se cierran los contratos de aceite del año.",
+     "**La [[Subasta Callada|Quiet Auction]],** que no es una feria, no existe, y a la que va la gente más rica de las islas."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "La cadena de un maestro de gremio desapareció la noche antes de una votación reñida en la Sala de las Cadenas, y es la más pesada.",
+     "Alguien arregló el sorteo de las cuatro voces de los gremios menores, y los alfareros quieren saber quién.",
+     "Un almacén del Congreso en Puerto Sur está clasificando el café dos clases por encima de lo que es, y el sello es auténtico."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Dos de las Doce Banderas dejaron de hablarse en el Piso de la Aguja, y todos los agentes de Ventoro están comprando cuerda.” (se oye en el Piso de la Aguja)",
+     "“En la Sala de las Cadenas pesan las cadenas. Nadie pesa lo que se dice ahí.” (un oficial de los Tejedores)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIHJlbG9qIGRlIGxhIGVjb25vbcOtYSoqIiwgIlNpIG5hZGllIGludGVydmllbmUsIGFzw60gc2UgbXVldmUgZWwgZGluZXJvIHBvciBlbCByZWxvaiBkZSBjaW5jbyBhw7FvcyBkZWwgY2Fub24uIiwgIioqMTc1IEVDIChhaG9yYSk6KioiLCAiTGEgcGxhdGEgdnVlbHZlIGEgc3ViaXIsIHkgYXBhcmVjZW4gbHVuYXMgcMOhbGlkYXMgZW4gQnVlbnRpZW1wby4iLCAiTGEgQ29tcGHDscOtYSBwdWphIHBvciBDb25mw61uIGRlIFNhbC4iLCAiQSBCcmVubnZhciBsZSBmYWx0YSBlbCBhY2VpdGUgZGUgdW5hIHRlbXBvcmFkYS4iLCAiQWxndWllbiBjb21wcmEgZGV1ZGEgZGUgW1tEb3JhZ3VqYXxHb2xkc3BpcmVdXSBlbiBzZWlzIHB1ZXJ0b3MuIiwgIioqMTc2IEVDOioqIiwgIkxvcyBmYXJvbGVzIGRlIFZlbnRvcm8gc2UgYXBhZ2FuIGEgbWVkaWFkb3MgZGVsIGludmllcm5vLCBhIG1lbm9zIHF1ZSBhcGFyZXpjYSBlbCBhY2VpdGUuIiwgIkhhbGxvcm4gdmVuZGUgbGFzIHNhbGluYXMsIHkgbGEgQ29tcGHDscOtYSBzZSBxdWVkYSBjb24gbGEgc2FsIGRlIHRvZG8gZWwgYXJjaGlwacOpbGFnby4iLCAiRWwgZnJhc2NvIGRlIGxvcyBUb2JiaW4gc2UgYWJyZSBlbiBsYSBGZXJpYSBkZSBsb3MgQXJ0ZXNhbm9zLCB5IGxhIENhc2EgQWxhc3RvciBidXNjYSBhIHF1acOpbiBjdWxwYXIuIiwgIioqMTc3IEVDLCBsYSBNYXJlYSBSZXk6KioiLCAiTG9zIHNlZ3Vyb3Mgc2UgdHJpcGxpY2FuLCB5IGxvcyBwdWVydG9zIGNpZXJyYW4gZHVyYW50ZSBsYXMgVHJlcyBOb2NoZXMuIiwgIkxhIHRpZXJyYSBkZSBsYSBjb3N0YSBjYW1iaWEgZGUgbWFub3MgYSBwcmVjaW9zIHJ1aW5vc29zLiIsICJMYSBNYXJlYSBzZSBsbGV2YSB1biBwdWVydG8gcXVlIHJvbXBpw7Mgc3UgcGFjdG8sIHkgY29uIMOpbCBsb3MgYWxtYWNlbmVzIGRlIHVuYSBCYW5kZXJhLiIsICJBbGdvIHN1YmUgcG9yIGxhIENvcnJpZW50ZSBOZWdyYSBoYWNpYSBlbCBub3J0ZSwgeSBlbCBwcmVjaW8gZGUgbGEgcGxhdGEgc2FsdGEgZGUgbGEgbm9jaGUgYSBsYSBtYcOxYW5hLiIsICIqKjE3OCBFQzoqKiIsICJMYSBDb21wYcOxw61hIHRvbWEgZWwgZGVjaW1vdGVyY2VyIGVuY2FzdHJlIHkgZWwgcHJlY2lvIGRlIHRhYmxlcm8uIiwgIkNvbXByYSB1biB2b3RvIGRlbCBDb25zZWpvIGVuIHRvZG8gbWVub3MgZW4gZWwgbm9tYnJlLiIsICIqKjE3OSBFQzoqKiIsICJMYSBMZWdpw7NuIHRvbWEgdW4gcHVlYmxvIGRlIHLDrW8sIHkgbG9zIHLDrW9zIGRlIGxvcyBPcnVtYSBzZSBjaWVycmFuLiIsICJFbCBjYWNhbyB5IGVsIG9ybyBkZSByw61vIHNlIHNlY2FuLiIsICJMYSBDZWNhIGFjdcOxYSBtZW5vcyBBbmNsYXMsIHkgdnVlbHZlIGEgYWRlbGdhemFyIHN1cyBNYXJlYXMuIiwgIioqMTgwIEVDOioqIiwgIkVsIEFsbWlyYW50YXpnbyBib3RhIHN1IHJlc3B1ZXN0YSBkZSBjYcOxw7NuIGRlIEtyeXN0YSBhIGxhIEVzdHJlbGxhIHF1ZSBzZSBBaG9nYS4iLCAiRWwgcHJlY2lvIGRlbCB2aWRyaW8gb3NjdXJvIHNlIGR1cGxpY2EuIiwgIkVsIGxpYnJvIGRlIHJvdHVyYXMgZGUgVmFudHJleSBzZSB2dWVsdmUgZWwgZG9jdW1lbnRvIG3DoXMgdmFsaW9zbyBkZSBsYXMgaXNsYXMuIl19"
+   }
+  ]
  },
  "university": {
   "gloss": "The University of Kalvatar",
@@ -6556,6 +6709,12 @@
     ]
    },
    {
+    "title": "La Lectura de Monedía",
+    "paragraphs": [
+     "Cada [[Monedía|Coinsday]], con la campana del mediodía, un Tesorero del [[Cabildo|Chapter]], sorteado, se para en la Mesa Larga y lee en voz alta el [[Tablero de Partes|Board of Parts]]: el precio de una parte de cada negocio que lleva sus libros con la Casa. El [[Piso de la Aguja|Spire Floor]] de al lado canta el precio de las mercancías; la Casa lee el precio de las empresas que las llevan. Las partes cambian de manos todo el Ciclo en las casas de café de enfrente, y cada operación se asienta aquí el Monedía."
+    ]
+   },
+   {
     "title": "Ganchos de aventura",
     "paragraphs": [],
     "list": [
@@ -6609,23 +6768,272 @@
  },
  "twelve-flags": {
   "gloss": "The Twelve Flags",
-  "subtitle": "Un poder de las islas",
-  "summary": "Las grandes familias mercantes que tienen los doce mástiles de bandera del Piso de la Aguja en Ventoro y cantan el precio de tablero cada Monedía.",
+  "subtitle": "Las familias del Piso de la Aguja",
+  "summary": "Las grandes familias mercantes que tienen los doce postes de bandera del Piso de la Aguja en Ventoro y cantan el precio de tablero de cada Monedía.",
   "facts": [
    [
     "Dónde",
-    "El [[Piso de la Aguja|Spire Floor]], la Bolsa [[Doraguja|Goldspire]], [[Ventoro|Goldwind]]"
+    "el Piso de la Aguja, Bolsa Doraguja, Ventoro"
    ],
    [
-    "Fianza del mástil",
-    "1,000 [[Orsales|Orsals]]"
+    "Fianza del poste",
+    "1,000 Orsales"
    ],
    [
     "Precio de tablero",
-    "Se canta cada [[Monedía|Coinsday]]"
+    "se canta cada Monedía"
+   ],
+   [
+    "La bandera más nueva",
+    "los Oruma, desde 171 EC"
+   ],
+   [
+    "El encastre del centro",
+    "vacío desde que se fundió el piso"
    ]
   ],
-  "title": "Las Doce Banderas"
+  "title": "Las Doce Banderas",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las Doce Banderas son las grandes familias mercantes. Cada una tiene uno de los doce postes de bandera del [[Piso de la Aguja|Spire Floor]], la sala de contratación de la Bolsa Doraguja en [[Ventoro|Goldwind]], donde cada [[Monedía|Coinsday]] la Mesa de las Banderas canta el precio de tablero del café, la sal, el aceite, el grano y lo demás."
+    ],
+    "list": [
+     "**Por qué doce:** una por cada rayo del Ancla, dicen las familias; porque el fundador de la Bolsa tenía doce acreedores, dicen los cínicos.",
+     "**Una familia, nunca una compañía y nunca un gremio.** La única regla en la que las doce siempre han estado de acuerdo.",
+     "**La fianza del poste:** mil Orsales depositados con los Tesoreros, intactos, mientras se tenga el poste.",
+     "**Veinte años en el piso** antes de que una familia pueda aspirar a un poste.",
+     "**La familia que no puede mantener su fianza** pierde el poste el Monedía siguiente, y las demás banderas votan quién se lo queda.",
+     "**El decimotercer encastre.** El piso se fundió con un decimotercer encastre en el centro, para el sol. Nunca ha tenido bandera."
+    ]
+   },
+   {
+    "title": "Las doce de un vistazo",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Bandera",
+      "Sede",
+      "Comercio",
+      "Cabeza"
+     ],
+     "rows": [
+      [
+       "[[Doraguja|Goldspire]]",
+       "la Bolsa Doraguja, Ventoro",
+       "la Bolsa y su corretaje",
+       "el Señor Mercader Horace"
+      ],
+      [
+       "Corvane",
+       "los Muelles del Centinela, Ventoro",
+       "el transporte, y el correo del Consejo",
+       "Matthias, el Cuervo Viejo"
+      ],
+      [
+       "Saffrane",
+       "Puerto Plata",
+       "seda, incienso y perfume",
+       "Madame Ilsabet"
+      ],
+      [
+       "Vantrey",
+       "la Casa de Vidrio, Ventoro",
+       "el corretaje de Krysta con licencia",
+       "el Señor Corredor Edmar"
+      ],
+      [
+       "Belmaris",
+       "el Surco de Perlas",
+       "campanas, y el comercio del sonido con las cortes del coral",
+       "la Señora de las Campanas Orlaine"
+      ],
+      [
+       "Ostrel",
+       "la Casa del Diezmo, Fuerte de Hierro",
+       "el Diezmo de la Puerta y las mesas de pesar",
+       "la Señora del Diezmo Maren"
+      ],
+      [
+       "Hallorn",
+       "las salinas de Confín de Sal y las lonjas de Puerto Gris",
+       "sal y arenque",
+       "Aldric"
+      ],
+      [
+       "Fennick",
+       "el Almacén Largo, Puerto Sur",
+       "café, azúcar y papel de cosecha",
+       "Ondine, semielfa"
+      ],
+      [
+       "Los Oruma",
+       "las Nueve Bocas",
+       "cacao, jade, oro de río y los pilotos de río",
+       "la abuela Veyani"
+      ],
+      [
+       "Sukuun",
+       "los establos Sukuun, Jakupur",
+       "saurios",
+       "Teoma, por su hermana Tana"
+      ],
+      [
+       "Brennvar",
+       "los Hornos de Aceite, Bastión de Escarcha",
+       "aceite de ballena",
+       "la Señora de la Lámpara Astri"
+      ],
+      [
+       "Tobbin",
+       "una caravana de casas que caminan, y un nido en Ventoro",
+       "especias, rarezas y perfume",
+       "Madre Tatta y Pobbo"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Doraguja: los que cantan el precio",
+    "paragraphs": [
+     "**Sede:** la Bolsa Doraguja, Ventoro; el piso mismo es suyo. **Comercio:** la Bolsa, que se queda con una parte de cada doscientas de cada operación cantada en el piso; el corretaje; el vino de Bastión del Sol bajo el sello Doraguja; los lujos importados para la capital.",
+     "**Cabeza:** el Señor Mercader Horace Doraguja, que ocupa el asiento del Congreso en el Consejo: pomposo, generoso y, últimamente, asustado. **Heredera:** Celestine, su hija, que lleva el piso mientras su padre lleva la boca.",
+     "**Bandera:** una aguja de oro sobre azul cobalto, rodeada de doce estrellitas de oro. **Lema:** “El precio es la verdad.”",
+     "**Gancho:** Celestine quiere un grupo discreto que averigüe quién ha estado comprando pequeños lotes de deuda Doraguja en seis puertos distintos."
+    ]
+   },
+   {
+    "title": "Corvane: Cada marea, cada puerto",
+    "paragraphs": [
+     "**Sede:** los Muelles del Centinela, Ventoro, con casas de cuentas en cada gran puerto. **Comercio:** el transporte. La flota mercante más grande de las islas, unos ciento cuarenta cascos; los paquebotes rápidos; las notas de flete; y el correo del Consejo, por contrato con la Casa Holst.",
+     "**Cabeza:** Matthias Corvane, el Cuervo Viejo, de más de setenta años, que todavía lee cada manifiesto él mismo. **Heredera:** su nieta Lisette, capitana de la Deuda de la Golondrina, el casco más rápido bajo cualquier bandera mercante.",
+     "**Bandera:** un ala de cuervo negra sobre verde mar, encima de un gallardete blanco. **Lema:** “Cada marea, cada puerto.”",
+     "**Gancho:** Un paquebote Corvane llegó a Ventoro con todas las cartas a bordo abiertas y vueltas a sellar, y la tripulación jura que nadie tocó el cofre del correo."
+    ]
+   },
+   {
+    "title": "Saffrane: la Casa Perfumada",
+    "paragraphs": [
+     "**Sede:** Puerto Plata. **Comercio:** seda, incienso, perfume, especias reexportadas y velas blancas de aceite de Bastión de Escarcha. Por vieja costumbre, la cabeza de la casa es la cabeza de los Perfumistas de Puerto Plata.",
+     "**Cabeza:** Madame Ilsabet Saffrane, Señora de los Perfumistas. Su hijo Corin, al que llaman la Nariz, es el mejor perfumista de las islas fuera de una caravana pocchin, y está muy cansado de la aclaración.",
+     "**Bandera:** tres hebras de azafrán cruzadas sobre violeta. **Lema:** “Recordados por el aroma.”",
+     "**Gancho:** Saffrane pagará una fortuna por la receta de una familia pocchin, y una mayor por el silencio sobre cómo se consiguió."
+    ]
+   },
+   {
+    "title": "Vantrey: Vidrio claro",
+    "paragraphs": [
+     "**Sede:** la Casa de Vidrio, Ventoro, frente al Registro Arcano, y una casa de cuentas en Caída Eterna. **Comercio:** el corretaje con licencia de Krysta en bruto y refinada, de las vetas de Darlath en Caída Eterna y las minas del sur a los refinadores, los Faroleros y la Armada; la licencia de la Krysta registrada que sube al norte por la Puerta.",
+     "**Cabeza:** el Señor Corredor Edmar Vantrey: preciso, cortés y lo bastante frío para conservar hielo. **Heredera:** Sabeline Vantrey, hija de su hermana, la invitada a cenar favorita del Registro.",
+     "**Bandera:** un prisma transparente sobre negro, que lanza un solo rayo blanco. **Lema:** “Claro de lado a lado.”",
+     "**Gancho:** Una ensayadora Kerrow apareció muerta con una piedra perfecta en la boca, y los libros de Vantrey dicen que esa piedra no existe."
+    ]
+   },
+   {
+    "title": "Belmaris: la Casa de las Campanas",
+    "paragraphs": [
+     "**Sede:** el Surco de Perlas. **Comercio:** la fundición de campanas, el latón, el bronce, la platería, las cajas de música y el vidrio; las campanas de barco de la Armada y de media flota mercante; las campanas de templo de la Concordia; y el comercio del sonido con las cortes del coral, que paga en perlas, seda de alga y púrpura de arrecife.",
+     "**Cabeza:** Orlaine Belmaris, Señora de las Campanas, que nunca ha levantado la voz y se le oye en cualquier sala. Su hija Tamsin, a la que llaman la Lengua, canta el coral tan bien que los Jardines de Vidrio la llaman por su nombre.",
+     "**Bandera:** una campana de bronce sobre azul de mar, encima de tres líneas blancas de olas. **Lema:** “Respondemos.”",
+     "**Gancho:** Una campana sonó bajo el agua frente al Surco de Perlas a medianoche, tres noches seguidas, con la voz de una fundición Belmaris. La fundición jura que nunca la hizo."
+    ]
+   },
+   {
+    "title": "Ostrel: la Balanza de la Puerta",
+    "paragraphs": [
+     "**Sede:** la Casa del Diezmo, Fuerte de Hierro. **Comercio:** el comercio de la Puerta con Assios. Ostrel arrienda el Diezmo de la Puerta, le paga al Consejo una suma fija y se queda con lo que cobra de más; maneja las mesas de pesar de Fuerte de Hierro, donde los korvan y la plata del continente se vuelven moneda del Consejo; e importa acero, vino, libros y armas de fuego de las Ciudades Libres.",
+     "**Cabeza:** Maren Ostrel, Señora del Diezmo de Fuerte de Hierro. Su hermano Aldous es maestro de las mesas de pesar; su hijo Hedric lee más panfletos de la Corona Devuelta de lo que le conviene al heredero de un arrendador de diezmos.",
+     "**Bandera:** un arco de puerta gris hierro con una moneda de oro en la clave, sobre negro. **Lema:** “Nada pasa sin pesarse.”",
+     "**Gancho:** Apareció un korvan imperial en el cofre de la paga de la guarnición de Bastión, y nadie en Bastión ha ido al norte de la Puerta."
+    ]
+   },
+   {
+    "title": "Hallorn: La sal conserva",
+    "paragraphs": [
+     "**Sede:** las salinas de Confín de Sal y las lonjas de Puerto Gris. **Comercio:** casi toda la sal de la Frontera; pescado salado y arenque ahumado; balsas de madera de Confín del Norte; y el contrato de avituallamiento de la Armada en el norte.",
+     "**Cabeza:** Aldric Hallorn: ancho, directo y perdiendo. Su hija Wynne lleva los contratos de la Armada; su hijo Rowan, un Cazador de Plata que dejó el oficio, es el único Hallorn que no está preocupado.",
+     "**Bandera:** tres arenques blancos sobre azul pizarra, dentro de un anillo blanco sal. **Lema:** “La sal conserva.”",
+     "**Gancho:** Después de dos malos años de arenque, la Compañía Casacarta ofreció comprar las salinas de Confín de Sal, y a un hombre de mandato de la Compañía lo han visto recorriéndolas con una cadena de medir."
+    ]
+   },
+   {
+    "title": "Fennick: Comprado antes de crecer",
+    "paragraphs": [
+     "**Sede:** el Almacén Largo, Puerto Sur. **Comercio:** el agenciamiento. Fennick les compra café, azúcar, algodón y hoja del sur a los cultivadores, muchas veces antes de que se siembre la cosecha; la clasifica, la sella, la guarda y la embarca; negocia papel de cosecha en el Piso de la Aguja; y les presta a los cultivadores contra la cosecha del año siguiente.",
+     "**Cabeza:** Ondine Fennick, semielfa, que ha sobrevivido a dos maridos y a cuatro agentes rivales y espera sobrevivir a varios más. Su nieta Celandine es una clasificadora cuya lengua nunca se ha equivocado con un grano.",
+     "**Bandera:** una rama de café con bayas rojas, sobre crema. **Lema:** “Comprado antes de crecer.”",
+     "**Gancho:** Demandaron a una casa de café de Ventoro por servir café Paramogrís falso, y los sacos de su sótano llevan un sello Fennick auténtico."
+    ]
+   },
+   {
+    "title": "Los Oruma: los Parientes del Río",
+    "paragraphs": [
+     "Un clan de río de las Confederaciones, no una casa: la única bandera nativa del Piso de la Aguja, votada en el poste de la Casa Darrowen en 171 EC. **Sede:** las Nueve Bocas, el gran embarcadero del delta. **Comercio:** cacao y jade; oro de río, casi todo el oro que acuña la Ceca de la Carta; plumas, pieles finas y hierbas medicinales; y los ríos mismos, porque ningún casco del Consejo sube lejos sin un piloto Oruma.",
+     "**Cabeza:** la abuela Veyani Oruma, portavoz del consejo del clan. Su nieto Jaseh está en el poste Oruma del Piso de la Aguja y se pone un abrigo de Ventoro sobre las plumas cada Monedía.",
+     "**Bandera:** una canoa de oro sobre verde jade. **Lema:** “El río lleva a quien rema.”",
+     "**Gancho:** La Compañía les ofreció a los Oruma una parte de la concesión de jade de Verdaya a cambio de los pilotos de río. Veyani es la única voz del consejo del clan que no está tentada."
+    ]
+   },
+   {
+    "title": "Sukuun: la Marca de Viejo Trueno",
+    "paragraphs": [
+     "**Sede:** los establos Sukuun, Jakupur, junto a la Carrera del Espinazo del Sol. **Comercio:** linajes y adiestramiento de saurios; saurios de guerra, vendidos en silencio y rara vez; corredores Crestaveloz; piel, dientes y huevos. La casa más grande de la Logia de los Domadores de Saurios: una bestia con la marca Sukuun vale el doble en cualquier parte.",
+     "**Cabeza del comercio:** Teoma Sukuun, que maneja el dinero para que su hermana menor nunca tenga que hacerlo. Tana Sukuun, la mayor domadora de saurios con vida y jinete de Viejo Trueno, nunca ha pisado el Piso de la Aguja y nunca lo hará.",
+     "**Bandera:** la cabeza de una Mandíbula Terrible gris rosada sobre azafrán. **Lema:** “Domamos. No poseemos.”",
+     "**Gancho:** Alguien le ofreció a Teoma dos mil Orsales por Sissix el Cometa, el campeón reinante de los Crestaveloz. Teoma se negó. El mozo del Cometa desapareció."
+    ]
+   },
+   {
+    "title": "Brennvar: la Casa de la Lámpara",
+    "paragraphs": [
+     "**Sede:** los Hornos de Aceite, Bastión de Escarcha. **Comercio:** el aceite de ballena, la mayor parte del aceite de lámpara de las islas; el ámbar gris; pieles, marfil y barbas de ballena; pescado curado en frío; y hielo empacado que baja al sur, a los cultivadores de Puerto Sur.",
+     "**Cabeza:** Astri Brennvar, Señora de la Lámpara de Bastión de Escarcha. Su marido Halvar es el maestro ballenero de la flota, y el capitán Jorundal, al que llaman primo, es el mejor piloto de hielo bajo la cola de Brennvar.",
+     "**Bandera:** la cola de una ballena blanca sobre azul de medianoche, bajo una llama de lámpara dorada. **Lema:** “Alumbramos la oscuridad.”",
+     "**Gancho:** A la Casa de la Lámpara le falta el aceite de una temporada entera, los faroles de Ventoro se apagarán para mediados del invierno, y Astri no dice dónde ha estado cazando su flota."
+    ]
+   },
+   {
+    "title": "Tobbin: la Más Generosa e Incomparable Casa",
+    "paragraphs": [
+     "Una familia pocchin, y la única que ha tenido nunca un poste en el Piso de la Aguja. **Sede:** ninguna; una caravana de casas que caminan a lomo de grommoth, y un nido en Ventoro colgado en las vigas de una cordelería abandonada. **Comercio:** esta generación, especias y rarezas; la anterior, tela; la próxima, lo que traiga el contacto de un primo; y perfume, siempre perfume.",
+     "**Matriarca:** Madre Tatta Tobbin, cuya cola es la más grande de las islas y nunca se ha esquilado. **Macho dominante:** Pobbo Tobbin, Muy Munífico Señor Protector de las Rutas de las Especias, Benefactor de Mercaderes Menores, Amigo de los Pobres (Dentro de lo Razonable).",
+     "**Bandera:** una distinta en cada grommoth; en el Piso de la Aguja, una bandera rosada con una sola cola dorada, y les encantaría que preguntaras por qué. **Lema:** “Un precio justo, tarde o temprano.”",
+     "**Gancho:** Pobbo Tobbin contrata al grupo para llevar un frasco sellado a la Feria de los Artesanos, sin abrirlo, y entregarlo justo a la hora en que Saffrane presente su perfume nuevo."
+    ]
+   },
+   {
+    "title": "Abanderados y el Juramento de la Bandera",
+    "paragraphs": [
+     "Los abanderados de una casa mercante son casas juramentadas, familias comerciantes más pequeñas que llevan la gran bandera debajo de la suya; capitanes de bandera, dueños de sus barcos juramentados para cargar para la casa; y señoríos comprados, nobles menores que viven del crédito de la casa y le prestan su nombre.",
+     "El Juramento de la Bandera se jura en el Piso de la Aguja ante testigos: “Llevo tu bandera. Compro a tu precio. Llevo tu libro honrado.” Al abanderado que lo rompe le arrían la bandera del poste de la gran familia delante de todo el piso, y eso le acaba el crédito en cada casa de cuentas de las islas antes de que la noticia tenga un día."
+    ]
+   },
+   {
+    "title": "La red de las Banderas",
+    "paragraphs": [],
+    "list": [
+     "**Dinero viejo contra dinero nuevo:** Doraguja, Corvane y Saffrane son el piso viejo; los Oruma, Sukuun y Tobbin son los recién llegados a los que el piso viejo todavía llama invitados.",
+     "**La cuestión de la Compañía:** Hallorn y los Oruma son los blancos principales de la Compañía Casacarta; Corvane lleva la carga de la Compañía y se odia por ello.",
+     "**La guerra del perfume:** Saffrane contra Tobbin, con el ámbar gris de Brennvar y los frascos de vidrio de Belmaris vendidos a los dos lados.",
+     "**La cadena del sur:** Fennick compra, Corvane lleva, Doraguja pone el precio, y los Oruma y Sukuun vigilan cada eslabón esperando el momento en que alguien los engañe.",
+     "**La Puerta y el vidrio:** Ostrel cobra el diezmo de lo que Vantrey manda al norte, y las dos casas se auditan una a la otra con un cuidado que casi es cariño.",
+     "**La luz de la capital:** el aceite de Brennvar, las velas de Saffrane y el vidrio de los Faroleros. Cuando falla uno de los tres, Ventoro se queda a oscuras.",
+     "**Todos le deben a Hebranegra.** Nadie lo dice en el piso."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron a un sacerdote de la Madre Escarlata en Puerto Sur comprando al por mayor el café de los agentes Fennick. Nadie dice para qué quiere tanto.” (se oye en las Tierras Salvajes del Sur)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIHBsYW4gZGUgS2FzdGFuIFZvbCBLYWVybiB5YSBlc3TDoSBlbiBtYXJjaGEuKiogQ29tcHLDsyBsYXMgZGV1ZGFzIGRlIEJhc3Rpw7NuIGEgdHJhdsOpcyBkZSBsYSBjYXNhIFphbmUgeSB0aWVuZSBlbCBwYXBlbCBkZSBbW0RvcmFndWphfEdvbGRzcGlyZV1dIGEgdHJhdsOpcyBkZSBsb3MgY29tcHJhZG9yZXMgZGUgbGEgQ29tcGHDscOtYSBDYXNhY2FydGEuIFRvZGF2w61hIG5vIHRpZW5lIGVsIENvbnNlam8sIHBlcm8gdGllbmUgbG9zIHBhZ2Fyw6lzIHF1ZSBkZWNpZGlyw6FuIHF1acOpbiBzZSBzaWVudGEgZW4gc3VzIHNpbGxhcy4iLCAiKipMYSBCb2xzYSBEb3JhZ3VqYSBlcyBpbnNvbHZlbnRlLioqIEhlYnJhbmVncmEgdGllbmUgc3UgcGFwZWwsIHkgbGEgQ29tcGHDscOtYSBDYXNhY2FydGEgY29tcHLDsyBsYSBkZXVkYSBhIHRyYXbDqXMgZGUgbGEgQ2FzYSBaYW5lIHBhcmEgcXVlZGFyc2UgY29uIGVsIHBpc28gZGUgbGEgQm9sc2EuIExhcyBEb2NlIEJhbmRlcmFzIG5vIGxvIHNhYmVuLiBFbCBkZWNpbW90ZXJjZXIgZW5jYXN0cmUsIHF1ZSBudW5jYSBoYSB0ZW5pZG8gYmFuZGVyYSwgZXMgZWwgdmVyZGFkZXJvIG9iamV0aXZvIGRlIGxhIENvbXBhw7HDrWEuIiwgIioqQ29ydmFuZSBsZWUgZWwgY29ycmVvLioqIExhIGNhc2EgQ29ydmFuZSBsZWUgbGEgY29ycmVzcG9uZGVuY2lhIGRlbCBDb3JhesOzbiBwYXJhIGxvcyBDYXNhY2FzIE5lZ3JhcyB5IGxlIHZlbmRlIGVsIHJlc3RvIGEgbGEgTWFkZWphLiBKYW51cyBSdW5lIHRpZW5lIHVuIGhvbWJyZSBhIGJvcmRvIGRlIGxhIERldWRhIGRlIGxhIEdvbG9uZHJpbmEgcXVlIGxlIGluZm9ybWEgZGUgY2FkYSBjYXJ0YSBxdWUgdG9jYSBhbCBDb25ncmVzby4iLCAiKipMb3Mgc2VjcmV0b3MgZGUgbGFzIERvY2UqKiIsICIxLiAqKkRvcmFndWphIGVzIGluc29sdmVudGUuKiogTGEgcHJvcGlhIGZpYW56YSBkZSBwb3N0ZSBkZSBsYSBCb2xzYSBlcywgZW4gdmVyZGFkLCBkaW5lcm8gZGUgSGVicmFuZWdyYSwgeSBNYWVyYSB0aWVuZSBzdWZpY2llbnRlIHBhcGVsIGRlIERvcmFndWphIHBhcmEgY2VycmFyIGVsIHBpc28gY3VhbHF1aWVyIE1vbmVkw61hIHF1ZSBxdWllcmEuIFF1aWVuIGp1bnRhIGRldWRhIGRlIERvcmFndWphIGVuIHBlcXVlw7FvcyBsb3RlcyBlbiBzZWlzIHB1ZXJ0b3MgZXMgKipsYSBDb21wYcOxw61hIENhc2FjYXJ0YSoqLCBhIHRyYXbDqXMgZGUgKipsYSBDYXNhIFphbmUqKiwgYWJhbmRlcmFkYSBkZSBsYSBwcm9waWEgRG9yYWd1amEuIEltZWxkYSBSb3F1ZSBsZSBwcm9tZXRpw7MgYSBWZXNwZXIgWmFuZSB1biBwb3N0ZSBwcm9waW8uIFNpIGxhIENvbXBhw7HDrWEganVudGEgc3VmaWNpZW50ZSBwYXBlbCBkZSBEb3JhZ3VqYSwgc2Vyw6EgZHVlw7FhIGRlbCBwaXNvIHF1ZSBzZSBuaWVnYSBhIGRhcmxlIGFzaWVudG8uIiwgIjIuICoqQ29ydmFuZSBsZWUgZWwgY29ycmVvLioqIENhZGEgY29mcmUgZGUgY29ycmVvIHBhc2EgcG9yIHVuYSBzYWxhIGRlIGNsYXNpZmljYWNpw7NuIGVuIGxvcyBNdWVsbGVzIGRlbCBDZW50aW5lbGEgZG9uZGUgY29waXN0YXMgZGUgQ29ydmFuZSBsZWVuIGxvIHF1ZSBwaWRhbiBsb3MgQ2FzYWNhcyBOZWdyYXMgKHVuIGFycmVnbG8gYmFqbyBlbCBTaWxlbmNpbykgeSBlbCBDdWVydm8gVmllam8gbGUgdmVuZGUgbG8gcXVlIHNvYnJhIGEgbGEgTWFkZWphLiBFbCBwYXF1ZXRlIHZ1ZWx0byBhIHNlbGxhciBkZSBsYSBEZXVkYSBkZSBsYSBHb2xvbmRyaW5hIG5vIGZ1ZSBvYnJhIGRlIENvcnZhbmUuIEFsZ3VpZW4gY29wacOzIGVsIG3DqXRvZG8gZGUgbGEgc2FsYSBkZSBjbGFzaWZpY2FjacOzbiwgeSBlbCBwcmltZXIgb2ZpY2lhbCBkZSBMaXNldHRlIGVzIGVsIGhvbWJyZSBkZSAqKkphbnVzIFJ1bmUqKi4iLCAiMy4gKipMb3MgbWVqb3JlcyBwZXJmdW1lcyBkZSBTYWZmcmFuZSBzb24gcm9iYWRvcy4qKiAqUm9zYSBOZWdyYSosIGVsIHBlcmZ1bWUgZGUgbGEgQ2FzYSBkZSBsYSBSb3NhLCB5IG90cmFzIGRvcyBvYnJhcyBtYWVzdHJhcyBkZSBTYWZmcmFuZSBzZSBsYXMgcm9iw7MgYSBsYSBtYW5hZGEgVG9iYmluIGhhY2UgdHJlaW50YSBhw7FvcyBlbCBkaWZ1bnRvIG1hcmlkbyBkZSBJbHNhYmV0LiBMb3MgVG9iYmluIHRpZW5lbiBsYSBwcnVlYmEuIEVsIGZyYXNjbyBzZWxsYWRvIHF1ZSBQb2JibyBxdWllcmUgZW50cmVnYXIgZW4gbGEgRmVyaWEgZGUgbG9zIEFydGVzYW5vcyBndWFyZGEgbGEgYm90ZWxsYSBvcmlnaW5hbCBkZSBsYSByZWNldGEsIGNvbiBlbCBzZWxsbyBUb2JiaW4uIFNlZ8O6biBsYSBjb3N0dW1icmUgcG9jY2hpbiwgbGEgdmVyZ8O8ZW56YSBmdWUgZGUgbG9zIFRvYmJpbiBlbCBkw61hIGVuIHF1ZSBsYSByZWNldGEgc2FsacOzIGRlIGxhIGNhcmF2YW5hLCB5IGxhIGhhbiBjYXJnYWRvIGVuIHNpbGVuY2lvIHRyZWludGEgYcOxb3MuIExhIHZlbmdhbnphIHRhbWJpw6luIGVzIHN1eWE6IHVuYSByZWNldGEgcXVlIHNhbGUgYSBsYSBsdXogbGEgcHVlZGUgY29waWFyIGN1YWxxdWllcmEsIHkgbG9zIFRvYmJpbiBzZSB2YW4gYSBhc2VndXJhciBkZSBxdWUgdG9kb3MgbG8gaGFnYW4uIEFiaWVydG8gZW4gcMO6YmxpY28sIGxpYmVyYSBhIGNhZGEgcGVyZnVtaXN0YSBkZSBQdWVydG8gUGxhdGEgcGFyYSBjb3BpYXIgKlJvc2EgTmVncmEqLCB5ICoqbGEgQ2FzYSBBbGFzdG9yIG5vIHBlcmRvbmFyw6EgYSBxdWllbiBoYXlhIHZ1ZWx0byBjb23Dum4gc3UgcGVyZnVtZS4qKiIsICI0LiAqKkVsIGxpYnJvIGRlIHJvdHVyYXMgZGUgVmFudHJleS4qKiBVbmEgcGllZHJhIGRlIGNhZGEgZG9jZSBkZSBsYXMgbWluYXMgZGUgRGFybGF0aCBzZSBhbm90YSBjb21vIGRlZmVjdHVvc2EgeSBkZXN0cnVpZGEuIEVuIHJlYWxpZGFkIHN1YmUgYWwgbm9ydGUgcG9yIGxhIFB1ZXJ0YSBjb24gZWwgc2VsbG8gZGUgT3N0cmVsIGNvbW8gdmlkcmlvIHJlZ2lzdHJhZG8sIGhhY2lhICoqbGEgQ29ycG9yYWNpw7NuIFJhbmthcioqLCBkdWXDsWEgZGUgbG8gcXVlIGhheSBiYWpvIERhcmxhdGguIEEgVmFudHJleSBsZSBwYWdhbiBlbiBrb3J2YW4gaW1wZXJpYWxlcy4gTGEgZW5zYXlhZG9yYSBLZXJyb3cgbXVlcnRhIGhhYsOtYSBlbmNvbnRyYWRvIGVsIGxpYnJvIGRlIHJvdHVyYXM7IGxhIHBpZWRyYSBwZXJmZWN0YSBlbiBzdSBib2NhIGZ1ZSB1bmEgYWR2ZXJ0ZW5jaWEgcGFyYSBjdWFscXVpZXJhIHF1ZSBsbyBsZWEuIiwgIjUuICoqQmVsbWFyaXMgeSBsYSBWaWdpbGlhLioqIE3DoXMgYWxsw6EgZGUgbGFzIGNhbXBhbmFzIGRlIHBsYXRhOiBsYSBjYW1wYW5hIGRlIG1lZGlhbm9jaGUgZnJlbnRlIGFsIFN1cmNvIGRlIFBlcmxhcyBlcyB1bmEgY2FtcGFuYSBkZSBsYSBWaWdpbGlhLCBxdWUgc3ViacOzIGRlc2RlIGVsIFDDoWxpZG8gcG9yIGxhIENvcnJpZW50ZSBOZWdyYS4gTG9zICoqSmFyZGluZXMgZGUgVmlkcmlvKiogbGEgZW5jb250cmFyb24geSBsYSB0b2NhbiBwYXJhIHByZWd1bnRhcmxlIGEgVGFtc2luLCBsYSDDum5pY2Egdm96IGRlIHRpZXJyYSBlbiBsYSBxdWUgY29uZsOtYW4sIHF1w6kgZXMuIFNpIFRhbXNpbiByZXNwb25kZSBjb24gbGEgdmVyZGFkLCBsYXMgY29ydGVzIGRlbCBmb25kbyBzYWJyw6FuIHF1ZSBsYSB0aWVycmEgc2llbXByZSBzdXBvIHF1w6kgc2lsZW5jacOzIEFndWFtdWRhLCB5IHNlIGxvIG9jdWx0w7MuIiwgIjYuICoqTGFzIG1lc2FzIGRlIHBlc2FyIGRlIE9zdHJlbCBsYXZhbiBvcm8gaW1wZXJpYWwuKiogQWxkb3VzIE9zdHJlbCBjb252aWVydGUgbG9zIGtvcnZhbiBkZSAqKkphbnVzIFJ1bmUqKiBlbiBBbmNsYXMgbGltcGlhczogZWwgZGluZXJvIHF1ZSBsZSBwYWdhIGEgbGEgTGVnacOzbiBDYXJtZXPDrSwgeSBlbCBxdWUgbGUgcGFnYSBlbCBkZXN2w61vIGEgVmFudHJleS4gTWFyZW4gbm8gbG8gc2FiZS4gRWwga29ydmFuIGRlbCBjb2ZyZSBkZSBwYWdhIGRlIEJhc3Rpw7NuIHNlIGxlIGVzY2Fww7MgYSB1biBwYWdhZG9yIGRlIE9zdHJlbC4gTG9zIHBhbmZsZXRvcyBkZSBsYSBDb3JvbmEgRGV2dWVsdGEgZGUgSGVkcmljIHNlIGltcHJpbWVuIGVuIHBhcGVsIE9zdHJlbCwgZW4gdW5hIGltcHJlbnRhIGEgbGEgcXVlIHBhZ2EgQWxkb3VzLiIsICI3LiAqKkxhIGZ1Z2EgZGUgSGFsbG9ybi4qKiBXeW5uZSBIYWxsb3JuIGxlcyB2ZW5kZSBhIGxvcyAqKkNvcnJlZG9yZXMgZGUgbGEgTmllYmxhKiogZWwgY2FsZW5kYXJpbyBkZSBhdml0dWFsbGFtaWVudG8gZGVsIEJsb3F1ZW8gZGUgSGllcnJvIChxdWUgZGljZSBleGFjdGFtZW50ZSBjdcOhbmRvIHkgZMOzbmRlIHNlIGFiYXN0ZWNlcsOhbiBsYXMgcGF0cnVsbGFzLCB5IHBvciBsbyB0YW50byBkw7NuZGUgZXN0YXLDoW4pLCBhIGNhbWJpbyBkZSBkaW5lcm8gZGUgc2FsIHNpbiBpbXB1ZXN0bywgcGFyYSBtYW50ZW5lciB2aXZhIGxhIGNhc2EgdW5hIHRlbXBvcmFkYSBtw6FzLiBBbGRyaWMgbGVzIHZlbmRlcsOhIGxhcyBzYWxpbmFzIGRlIENvbmbDrW4gZGUgU2FsIGEgbGEgQ29tcGHDscOtYSBkZXNwdcOpcyBkZWwgcHLDs3hpbW8gbWFsIGHDsW8gZGUgYXJlbnF1ZSwgYSBtZW5vcyBxdWUgYWxndWllbiBsZSBkw6kgdW5hIHJhesOzbiBwYXJhIG5vIGhhY2VybG8uIiwgIjguICoqRWwgZmFsc28gUGFyYW1vZ3LDrXMgZGUgRmVubmljay4qKiBMYSBtaXRhZCBkZWwgKmNhZsOpIFBhcmFtb2dyw61zKiBxdWUgc2UgdmVuZGUgZW4gVmVudG9ybyBjcmVjacOzIGVuIGxhcyBmaW5jYXMgbm8gbGlicmVzIGRlIGxhICoqQ2FzYSBWb3NzcmV0aCoqLiBGZW5uaWNrIGxvIGNvbXByYSBiYXJhdG8sIGxlIHBvbmUgZWwgc2VsbG8gUGFyYW1vZ3LDrXMgeSBsbyB2ZW5kZSBjb24gZWwgcmVjYXJnbyBkZWwgYm9pY290LiBPbmRpbmUgbG8gc2FiZS4gUGVycmluIG5vLiBDZWxhbmRpbmUgcHJvYsOzIGxhIGRpZmVyZW5jaWEgeSB0b2RhdsOtYSBubyBkZWNpZGUgcXXDqSBoYWNlci4gQSBbW0RhbWF8TGFkeV1dIEltYXJhIFBhcmFtb2dyw61zIGxhIGRlc3RydWlyw6FuIGVuIGVsIHN1ciBzaSBzYWxlIGEgbGEgbHV6IGRlIGxhIG1hbmVyYSBlcXVpdm9jYWRhLCB5IGxhIHJlaXZpbmRpY2Fyw6FuIHNpIHNhbGUgZGUgbGEgY29ycmVjdGEuIiwgIjkuICoqTG9zIE9ydW1hIHkgbGEgSGVybWFuYSBIdW1vLioqICoqTHVtYWkgT2tvbmphLCBsYSBIZXJtYW5hIEh1bW8sKiogZGUgbG9zIENvcnJlZG9yZXMgZGUgbGEgSG9qYSBOZWdyYSwgZXMgc29icmluYSBkZSBWZXlhbmkgT3J1bWEuIExhcyBjYW5vYXMgT3J1bWEgbGxldmFuIHLDrW8gYXJyaWJhIGEgbG9zIHRyYWJhamFkb3JlcyBlbmRldWRhZG9zIHF1ZSBsb3MgQ29ycmVkb3JlcyBsaWJlcmFuIGRlIGxvcyBwdWVibG9zIGRlIGxhIENvbXBhw7HDrWEsIGhhc3RhIGFsZGVhcyBkZSBsYSBDb25mZWRlcmFjacOzbiBxdWUgbG9zIGVzY29uZGVuLiBTaSBsYSBDb21wYcOxw61hIGxvIHBydWViYSwgdGllbmUgc3UgcHJldGV4dG8gcGFyYSB0b21hciBsYXMgTnVldmUgQm9jYXMsIHkgZWwgb3JvIGRlIHLDrW8gY29uIGVsbGFzLiIsICIxMC4gKipMYXMgYmVzdGlhcyBkZSBndWVycmEgZGUgU3VrdXVuLioqIFRlb21hIFN1a3V1biB2ZW5kZSBiZXN0aWFzIGRlIGd1ZXJyYSBEaWVudGVzcGFkYSB5IExvbW9lc3BpbmEgYSB0cmF2w6lzIGRlICoqbGEgQ2FzYSBEYWx0cm9zc29zKiogYSB1biBjb21wcmFkb3IgZGVsIENvcmF6w7NuLiBFbCBjb21wcmFkb3IgZXMgKipsYSBDYXNhIFZvbCBLYWVybioqLCBxdWUgbGV2YW50YSBlbiBzaWxlbmNpbyB1bmEgY2FiYWxsZXLDrWEgcHJpdmFkYSBkZSBzYXVyaW9zIGVuIHVuYSBmaW5jYSBkZSBpc2xhLCB1bmEgcGllemEgbcOhcyBkZWwganVlZ28gbGFyZ28gZGUgS2FzdGFuLiBUYW5hIG5vIGxvIHNhYmU7IGxvIHRlcm1pbmFyw61hLiBMYSBvZmVydGEgcG9yIFNpc3NpeCBlbCBDb21ldGEgdmlubyBkZWwgKipTaW5kaWNhdG8gZGUgbGEgQ3Jlc3RhKiosIHkgYWwgbW96byBkZXNhcGFyZWNpZG8gbG8gdGllbmVuIGVuIGVsIEZvc28gZGUgbGFzIEZhdWNlcy4iLCAiMTEuICoqQnJlbm52YXIgY2F6YSBlbiBsYXMgQWd1YXMgU2VsbGFkYXMuKiogTG9zIG1lam9yZXMgY2FsYWRlcm9zIGRlIGJhbGxlbmFzIHF1ZSBxdWVkYW4gZW4gZWwgc3VyIGVzdMOhbiBmcmVudGUgYSAqKkFndWFtdWRhKiosIGRvbmRlIGxhcyBiYWxsZW5hcyBzZSBqdW50YW4gcG9ycXVlIG5hZGEgbGFzIGNhemEgYWjDrS4gTGEgVmlnaWxpYSBoYSBoZWNobyB2b2x2ZXIgYSBkb3MgYmFyY29zIGRlIEJyZW5udmFyLiBVbiB0ZXJjZXJvIHZvbHZpw7MgY29uIHVuYSB0cmlwdWxhY2nDs24gcXVlIHp1bWJhLiAqKk1hZHJlIEtlc3MqKiwgcXVlIHRpZW5lIGxhcyBkZXVkYXMgZGUgQnJlbm52YXIsIGxlIHBpZGnDsyBhIEFzdHJpIHVubyBkZSBsb3MgbWFyaW5lcm9zIHF1ZSB6dW1iYW4gY29tbyBwYXJ0ZSBkZWwgcGFnbywgeSBLZXNzIGxlIHZlbmRlIGEgcXVpZW4gcGFndWUgbcOhczsgSmFudXMgUnVuZSBsbGV2YSBhw7FvcyBxdWVyaWVuZG8gdW4gZWplbXBsYXIgZGUgbG9zIFZ1ZWx0b3MuIiwgIjEyLiAqKkxvcyBUb2JiaW4gc2FiZW4gZG9zIGNvc2FzIHF1ZSBuYWRpZSBtw6FzIGhhIGp1bnRhZG86KiogcXVlIGxvcyBwZXJmdW1lcyBkZSBTYWZmcmFuZSBzb24gc3V5b3MsIHkgcXVlIGxhIHBsYXRhIGRlIGxhcyBpc2xhcyBzZSB2YSBhbCBzdXIgeSBubyB2dWVsdmUuIE5vIHNhYmVuIHBvciBxdcOpLiBQaWVuc2FuIHZlbmRlciBsYXMgZG9zIGNvc2FzLCBwb3Igc2VwYXJhZG8sIGFsIG1lam9yIHBvc3RvciwgZW4gZWwgbW9tZW50byBkZSBtYXlvciBlZmVjdG8uIl19"
+   }
+  ]
  },
  "great-hunter-crews": {
   "gloss": "The Great Hunter Crews",
@@ -16037,5 +16445,638 @@
    "cometas grandes"
   ],
   "gloss": "The Kites of Goldwind"
+ },
+ "guilds-of-the-congress": {
+  "title": "Los Gremios del Congreso",
+  "subtitle": "Dieciocho grandes gremios: sus sedes, sus maestros, lo que tienen y sus pleitos",
+  "summary": "Los grandes gremios del Congreso Mercantil, uno por uno: los Tesoreros y los Carpinteros de Ribera, los Herreros y los Tejedores, Costalarga, que puede cerrar un puerto con un silbido, y las Velas Libres, que no tienen maestro y lo dicen bien alto.",
+  "facts": [
+   [
+    "Grandes gremios",
+    "dieciocho, con un voto cada uno en la Sala de las Cadenas"
+   ],
+   [
+    "Gremios menores",
+    "docenas, con cuatro voces sorteadas"
+   ],
+   [
+    "Rangos",
+    "Aprendiz, Oficial, Maestro"
+   ],
+   [
+    "Cuotas",
+    "1 Ancla al año un oficial, 5 un maestro"
+   ],
+   [
+    "Quién no entra",
+    "los tarvan, los sporrn y los pocchin"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Los grandes gremios",
+    "paragraphs": [
+     "Cada oficio y cada comercio de las tierras del Consejo tiene un gremio, y cada uno de los grandes tiene un voto en la Sala de las Cadenas. Estos son los dieciocho que las islas conocen por su nombre: dónde tiene su sede cada uno y quién lo dirige, lo que tiene, con quién se pelea y los problemas que le puede traer a un grupo. Los oficios mismos, sus sueldos y sus dos hechuras, están en [[Oficios y Gremios|Crafts and Guilds]].",
+     "Los gremios menores, los alfareros, los toneleros, los molineros, los cereros y docenas más, tienen sus propias salas y sus propios rencores, y mandan cuatro voces entre todos a la Sala de las Cadenas, sorteadas cada año."
+    ]
+   },
+   {
+    "title": "La Casa de los Tesoreros",
+    "paragraphs": [
+     "El gremio de la banca, en el anillo del medio de Ventoro, bajo la Primera Tesorera Maera Hebranegra."
+    ],
+    "list": [
+     "**Lo que tiene.** Depósitos, préstamos, cartas de crédito, seguros de mar, el Libro Mayor, la garantía del Orsal, y ahora la Lectura de Monedía. Muchos de sus contables son enanos.",
+     "**Su pleito.** Nadie se pelea con la Casa en público. Todos le deben.",
+     "**Gancho.** Una libranza a nombre de un muerto se cobró en tres casas de cuentas en un mismo Ciclo."
+    ]
+   },
+   {
+    "title": "El Gremio de los Carpinteros de Ribera",
+    "paragraphs": [
+     "Los Muelles del Centinela de Ventoro y los astilleros Vanris de Confín de Tormentas. Su cabeza es la Maestra de Quillas, Edda Harrowby, que ha botado más cascos que noches ha dormido."
+    ],
+    "list": [
+     "**Lo que tiene.** Cada quilla que se pone en tierras del Consejo, para la Armada y para las flotas mercantes por igual. Un casco sin la marca del gremio en el codaste no se puede asegurar en la Casa.",
+     "**Su pleito.** Los astilleros Vanris construyen los mejores cascos de tormenta de las islas y lo cobran, y los astilleros de Ventoro lo dicen en cada reunión.",
+     "**Gancho.** Un casco botado la temporada pasada en los Muelles del Centinela volvió con una marca en el codaste que nadie del gremio grabó."
+    ]
+   },
+   {
+    "title": "El Gremio de los Herreros",
+    "paragraphs": [
+     "Aurelion, la ciudad de la Casa Forjasol. Su cabeza es el Maestro de Forja, Garrick Cantohierro, hijo de un abanderado de Forjasol que todavía trabaja en el banco cada mañana."
+    ],
+    "list": [
+     "**Lo que tiene.** Hierro, acero, armas y herramientas, y el sello de cada hoja honrada. Aquí se hacen armas de fuego, pocas y caras, y el Consejo lleva la lista de cada armero.",
+     "**Su pleito.** Con los Joyeros, por quién puede trabajar el oro; con la Resaca, por cada hoja sin sello.",
+     "**Gancho.** Un maestro armero desapareció de Aurelion, y sus planos también."
+    ]
+   },
+   {
+    "title": "El Gremio de los Tejedores",
+    "paragraphs": [
+     "Ventoro. Su cabeza es la Señora del Telar, Perpetua Vale, que nunca se ha puesto una tela que ella no haya aprobado."
+    ],
+    "list": [
+     "**Lo que tiene.** Tela, brocado y lona de velas. Cada vela de buena hechura de las islas lleva el hilo de los Tejedores.",
+     "**Su pleito.** Los tarvan se niegan a entrar por principio, y los Tejedores nunca se lo han perdonado.",
+     "**Gancho.** Se vendió en un mercado del Corazón una pieza de tartán tarvan con el sello de los Tejedores."
+    ]
+   },
+   {
+    "title": "Los Hacedores de Calma",
+    "paragraphs": [
+     "Sin sede. Los maestros se reúnen en Ventoro cada primavera, y el que queda hablando al final habla por el gremio hasta la primavera siguiente."
+    ],
+    "list": [
+     "**Lo que tiene.** El kellum, en cada destilería de cada puerto, y las vacas del alga que pastan el honeywrack.",
+     "**Su pleito.** Entre ellos, siempre. No se ponen de acuerdo en nada.",
+     "**Gancho.** Los maestros se pusieron de acuerdo en una cosa en Ventoro esta primavera, y nadie dice qué fue."
+    ]
+   },
+   {
+    "title": "Los Boticarios y los Alquimistas",
+    "paragraphs": [
+     "Ventoro, dos gremios en una sola sala, con una puerta entre ellos cerrada con llave por los dos lados. El Guardián del Mortero es Corwin Ashby, por los Boticarios; la Maestra del Crisol de los Alquimistas es Liesl Varn."
+    ],
+    "list": [
+     "**Lo que tiene.** Medicinas, tinturas y reactivos, y la licencia para venderlos en cualquier puerto del Consejo.",
+     "**Su pleito.** Una guerra cortés y permanente con los sporrn, cuyos ungüentos son mejores y que no se unen a nada.",
+     "**Gancho.** Se vendió en Ventoro un ungüento sporrn con el sello de los Boticarios, y funcionó."
+    ]
+   },
+   {
+    "title": "El Gremio de los Joyeros",
+    "paragraphs": [
+     "Aurelion y la Isla del Zafiro. Su cabeza es la Guardiana de las Gemas, Lisbet Carrow, que distingue un vidrio cindren de un zafiro por el sonido que hace contra su anillo."
+    ],
+    "list": [
+     "**Lo que tiene.** Gemas, oro y engastes; el precio del zafiro, que lo fija ella.",
+     "**Su pleito.** Con el sur, por el precio del oro; con los plateros, que no saben decir por qué la plata no deja de subir.",
+     "**Gancho.** La mitad de los zafiros de un mercado de Monedía en Puerto Sur son vidrio cindren, y el gremio quiere saber de quién."
+    ]
+   },
+   {
+    "title": "El Gremio de Artesanos de Krysta",
+    "paragraphs": [
+     "Ventoro y Caída Eterna. Su cabeza es el Guardián de las Facetas, Durren Piedrahueca, un enano, como lo son los maestros más célebres."
+    ],
+    "list": [
+     "**Lo que tiene.** La Krysta, tallada, engastada y labrada, con permiso del Registro. A sus maestros se les conoce por su nombre y por su casa patrona.",
+     "**Su pleito.** Con las casas patronas que se roban los maestros unas a otras; con el vidrio oscuro de la Resaca.",
+     "**Gancho.** Un maestro artesano de Krysta se pasó a una casa rival de la noche a la mañana, y se llevó un encargo a medio terminar."
+    ]
+   },
+   {
+    "title": "El Gremio de los Faroleros",
+    "paragraphs": [
+     "Ventoro. Su cabeza es el Maestro de las Luces, Halden Lume, que lleva cuarenta años sin ver la ciudad a oscuras y no piensa verla."
+    ],
+    "list": [
+     "**Lo que tiene.** Luces de puerto, lámparas y los faroles de Ventoro, con licencia de Krysta. Pequeño, vital y rico.",
+     "**Su pleito.** Con cualquiera cuyo aceite llegue tarde, que este año es Brennvar.",
+     "**Gancho.** Los faroles de Ventoro se apagarán para mediados del invierno si nadie encuentra el aceite de una temporada."
+    ]
+   },
+   {
+    "title": "El Círculo de los Entintadores",
+    "paragraphs": [
+     "Ventoro, con una tienda en cada puerto que tenga imprenta. Su cabeza es la Prensa Mayor, Elric Fane, que nunca en su vida ha impreso una fe de erratas."
+    ],
+    "list": [
+     "**Lo que tiene.** Hojas sueltas, libros, los rollos de aventuras de los Cazadores, las cartas del Ranking y el Libro de Patrones de los parches.",
+     "**Su pleito.** Con los Remendados, por cuál lista de parches es la verdadera; con cada compañía de Cazadores de la que se han reído los rollos.",
+     "**Gancho.** Cartas doradas falsas están inundando un puerto, y el Círculo quiere encontrar la imprenta antes de que la temporada no valga nada."
+    ]
+   },
+   {
+    "title": "El Pacto de los Impresores de Cartas",
+    "paragraphs": [
+     "Ventoro. Su cabeza es la Maestra del Compás, Dorrit Hale, que ha dibujado más costas de las que ha visto nunca."
+    ],
+    "list": [
+     "**Lo que tiene.** Cartas impresas, que vende. Una carta solo es legal para navegar si lleva el sello de los [[Cartógrafos|Chartwrights]], que el Pacto no da.",
+     "**Su pleito.** Con los Cartógrafos, todos los días.",
+     "**Gancho.** Una carta del Pacto muestra una isla que los Cartógrafos dicen que no existe, y un capitán zarpó hacia ella."
+    ]
+   },
+   {
+    "title": "La Hermandad de la Salmuera",
+    "paragraphs": [
+     "En todas partes, más fuerte en Bastión de Escarcha. Su cabeza es la Red Mayor, Sigrun Kell, que ha enterrado dos maridos en el mar y todavía pesca."
+    ],
+    "list": [
+     "**Lo que tiene.** Pescadores y balleneros. Humilde, de todo el archipiélago, y capaz de vaciar cada mercado de pescado en una semana si la provocan.",
+     "**Su pleito.** Con los saladores, cada temporada de arenque, por el precio.",
+     "**Gancho.** La Hermandad dejó de descargar pescado en un puerto, y nadie ahí sabe qué hicieron."
+    ]
+   },
+   {
+    "title": "Costalarga",
+    "paragraphs": [
+     "Cada puerto. No tiene más cabeza que un silbato; su jefa en Ventoro es Morgha Sostenmuros, una orca a la que nadie ha visto perder una discusión."
+    ],
+    "list": [
+     "**Lo que tiene.** Cargadores y estibadores. Puede cerrar un puerto con un silbido.",
+     "**Su pleito.** Con los hombres de mandato de la Compañía Casacarta, que cargan sus propios barcos.",
+     "**Gancho.** Costalarga paró el trabajo en los muelles de Ventoro, y cada barrio del Común ha tomado partido."
+    ]
+   },
+   {
+    "title": "El Gremio de las Terrazas",
+    "paragraphs": [
+     "Bastión del Sol. Su cabeza es la Señora de la Hoja, Odile Fairbank, cuya familia ha prensado hoja clara en las mismas terrazas durante cinco generaciones."
+    ],
+    "list": [
+     "**Lo que tiene.** La hoja clara, cultivada y prensada. Dinero viejo en ladrillos de hoja.",
+     "**Su pleito.** Con las casas de café, por una cuestión de identidad.",
+     "**Gancho.** Una casa de café de Ventoro empezó a servir hoja clara, y los dos gremios están furiosos."
+    ]
+   },
+   {
+    "title": "Los Perfumistas de Puerto Plata",
+    "paragraphs": [
+     "Puerto Plata. Por vieja costumbre, su cabeza es la cabeza de la Casa Saffrane: hoy, Madame Ilsabet Saffrane."
+    ],
+    "list": [
+     "**Lo que tiene.** Perfumes, inciensos y aceites, y el derecho a llamar perfume a un perfume en los puertos del Consejo.",
+     "**Su pleito.** En guerra abierta con las familias pocchin, que se niegan a entrar, venden más barato que todos y roban recetas por deporte.",
+     "**Gancho.** Saffrane pagará una fortuna por la receta de una familia pocchin, y una mayor por el silencio sobre cómo se consiguió."
+    ]
+   },
+   {
+    "title": "La Logia de los Domadores de Saurios",
+    "paragraphs": [
+     "Jakupur. Formalmente asociada, porque Jakupur es independiente. A la Logia la dirigen los establos en consejo; Tana Sukuun, la mayor domadora con vida, ha rechazado la presidencia tres veces."
+    ],
+    "list": [
+     "**Lo que tiene.** La cría y el adiestramiento de saurios: el único monopolio de saurios del mundo.",
+     "**Su pleito.** Con el Sindicato de la Cresta, que quiere los linajes para arreglar la Carrera del Espinazo del Sol.",
+     "**Gancho.** Huevos de saurio están saliendo de Jakupur en barriles de pescado, y la Logia quiere saber en qué puerto los están empollando."
+    ]
+   },
+   {
+    "title": "La Cordelería",
+    "paragraphs": [
+     "Las Cordelerías del Común, en Ventoro. Es de la Casa Hessary, abanderada de la Línea Corvane, y su cabeza siempre es un Hessary."
+    ],
+    "list": [
+     "**Lo que tiene.** El sello de la Cordelería, en cada cuerda de buena hechura de las islas: lo más confiable que tiene un marinero.",
+     "**Su pleito.** Con el hielo, que paga el doble por la cuerda y compra la de toda una temporada de una sola vez.",
+     "**Gancho.** Ochocientos metros torcidos para un barco de la Armada salieron caminando de un galpón durante la noche."
+    ]
+   },
+   {
+    "title": "Las Velas Libres",
+    "paragraphs": [
+     "En cualquier lugar con un amarradero. No tienen maestro, y lo dicen bien alto."
+    ],
+    "list": [
+     "**Lo que tiene.** Capitanes mercantes independientes: medio legales, contra todo monopolio, y un poco demasiado amigos de la Resaca.",
+     "**Su pleito.** Con la Compañía Casacarta, con la Línea Corvane y con cualquiera que tenga una flota.",
+     "**Gancho.** Una capitana de las Velas Libres lleva una carga que la Compañía jura que es suya, y le ofrece al grupo una parte por ayudarla a desembarcarla."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Un gremio es la manera más rápida de entrar a una ciudad: los papeles de un oficial abren puertas que la carta de un noble no abre.",
+     "Cada maestro de gremio lleva una cadena del cargo. Cuenta los eslabones antes de discutir con uno.",
+     "Cuando un gremio tiene un problema que no puede llevarle a la guardia, se lo lleva a la Logia de los Cazadores, y paga en monedas y en favores."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“A los Herreros y a los Joyeros les pesan las cadenas cada primavera, y cada primavera pesan un poco más.” (un aprendiz de orfebre de Ventoro)",
+     "“Las Velas Libres no tienen maestro, pero cada una sabe por cuál amarradero preguntar en Puerto Negro.” (un silbador de Costalarga)"
+    ]
+   }
+  ],
+  "gloss": "The Guilds of the Congress"
+ },
+ "coinsday-reading": {
+  "title": "La Lectura de Monedía",
+  "subtitle": "Cada Monedía a mediodía, la Casa de los Tesoreros lee el precio de cada parte de su Tablero",
+  "summary": "El mercado de la Casa de los Tesoreros. Cada Monedía, con la campana del mediodía, un Tesorero lee en voz alta el precio de una parte de cada negocio del Tablero: las grandes compañías, el papel de los gremios, las notas del Consejo y viajes sueltos. El Piso de la Aguja de al lado canta el precio de las mercancías; la Casa lee el precio de las empresas que las llevan.",
+  "facts": [
+   [
+    "Dónde",
+    "la Sala Silenciosa de la Casa de los Tesoreros, Ventoro"
+   ],
+   [
+    "Cuándo",
+    "cada Monedía, con la campana del mediodía"
+   ],
+   [
+    "Qué se lee",
+    "el precio de una parte de cada negocio del Tablero"
+   ],
+   [
+    "Se negocia",
+    "en las casas de café de enfrente, todo el Ciclo"
+   ],
+   [
+    "Quién puede tener partes",
+    "cualquiera con cuenta en la Casa, y con el nombre fuera del Libro Mayor"
+   ],
+   [
+    "La parte de la Casa",
+    "1 de cada 100 de cada operación"
+   ],
+   [
+    "El Reparto",
+    "dos veces al año, en Idel y en Okram"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La Lectura",
+    "paragraphs": [
+     "Cada [[Monedía|Coinsday]], con la campana del mediodía, la Sala Silenciosa de la [[Casa de los Tesoreros|Reckoners' Hall]] se queda todavía más callada. Un Tesorero del Cabildo, sorteado esa mañana, se para en la Mesa Larga y lee el Tablero en voz alta: cada negocio, y el precio de una parte de él. Es la única voz de la Casa que se puede levantar sin multa, una vez por Ciclo.",
+     "Mientras el Lector lee, los contables anotan con tiza los precios nuevos en el Tablero de Partes, una pizarra negra del largo de la Mesa Larga. El Lector termina como la Casa termina cada página: “Escrito. Atestiguado. Debido.” Después los mensajeros de la Casa, de gris de contable, llevan los números al otro lado de la calle, a las casas de café, y anillos arriba, y el siguiente paquebote Corvane los lleva a cada casa de cuentas de las islas.",
+     "El [[Piso de la Aguja|Spire Floor]] de al lado canta el precio de las mercancías. La Casa lee el precio de las empresas que las llevan."
+    ]
+   },
+   {
+    "title": "Partes y negocios",
+    "paragraphs": [
+     "Un negocio es cualquier cosa que lleve sus libros con la Casa y pase su auditoría: una compañía, el papel de un gremio, la empresa de una casa, las notas del propio Consejo, o un solo barco durante una sola temporada. Una parte es una participación en un negocio. Quien la tiene cobra una porción de lo que gana el negocio, en el Reparto, y puede vendérsela a cualquiera que se la compre.",
+     "Las Doce Banderas nunca venden partes de sí mismas: una familia, nunca una compañía. Venden partes de sus empresas, y compran partes de las de las otras, con cuidado."
+    ],
+    "list": [
+     "**Quién puede tener partes:** cualquiera con cuenta en la Casa y una palabra de cuenta. Un nombre del Libro Mayor no puede tener ninguna, y sus partes se venden para pagar sus deudas.",
+     "**Dónde cambian de manos:** en las casas de café de enfrente, la [[Taza Negra|Black Cup]] y lo de Merrow sobre todo, todo el Ciclo, a través de los corredores de tiza, que anotan las ofertas con tiza en las paredes de las casas de café. Cada operación se asienta en la Casa en el Monedía.",
+     "**Lo que cuesta:** la Casa se queda con 1 de cada 100 de cada operación; un corredor de tiza cobra 1 de cada 50 por su trabajo."
+    ]
+   },
+   {
+    "title": "El Tablero",
+    "paragraphs": [
+     "Los negocios del Tablero este año, con el precio de una parte cuando se inscribió cada uno. Cada negocio se mueve según su propio paso: un negocio firme, 1 de cada 50 de su precio de inscripción; uno movido, 1 de cada 20; uno bravo, 1 de cada 10."
+    ],
+    "table": {
+     "caption": "El Tablero de Partes, 175 EC",
+     "headers": [
+      "Negocio",
+      "Qué es",
+      "Inscrito a",
+      "Vaivén y paso",
+      "Reparto al año",
+      "Se mueve con"
+     ],
+     "rows": [
+      [
+       "Notas de la Carta",
+       "el papel del propio Consejo",
+       "10 Anclas",
+       "firme, 2 Mareas",
+       "4 de cada 100",
+       "lo que pide prestado el Consejo"
+      ],
+      [
+       "El Papel de los Faroleros",
+       "los bonos del gremio",
+       "5 Anclas",
+       "firme, 1 Marea",
+       "6 de cada 100",
+       "el aceite, y las licencias de Krysta"
+      ],
+      [
+       "La Cordelería",
+       "las cordelerías de la Casa Hessary",
+       "3 Anclas",
+       "firme, 6 Olas",
+       "6 de cada 100",
+       "los contratos de la Armada, y los pedidos del hielo"
+      ],
+      [
+       "Los Paquebotes Corvane",
+       "los paquebotes y la carga de la Línea Corvane",
+       "12 Anclas",
+       "movida, 6 Mareas",
+       "8 de cada 100",
+       "los convoyes, las tormentas y los piratas"
+      ],
+      [
+       "La Compañía Casacarta",
+       "la Compañía misma",
+       "20 Anclas",
+       "movida, 1 Ancla",
+       "10 de cada 100",
+       "las concesiones, y los motines"
+      ],
+      [
+       "Los Astilleros de Confín de Tormentas",
+       "los astilleros de la Casa Vanris",
+       "14 Anclas",
+       "movida, 7 Mareas",
+       "7 de cada 100",
+       "los cascos nuevos y las reparaciones"
+      ],
+      [
+       "Sal Hallorn",
+       "las salinas de Confín de Sal y el arenque",
+       "4 Anclas",
+       "movida, 2 Mareas",
+       "9 de cada 100",
+       "los años de arenque, y la Compañía"
+      ],
+      [
+       "Sedas Saffrane",
+       "la seda y el perfume de Puerto Plata",
+       "8 Anclas",
+       "movida, 4 Mareas",
+       "8 de cada 100",
+       "la moda, y los pocchin"
+      ],
+      [
+       "Vidrio Vantrey",
+       "el corretaje de Krysta con licencia",
+       "20 Anclas",
+       "brava, 2 Anclas",
+       "12 de cada 100",
+       "las minas, y cada escándalo"
+      ],
+      [
+       "La Flota del Sur de Brennvar",
+       "una temporada de caza de ballenas",
+       "6 Anclas",
+       "brava, 6 Mareas",
+       "15 de cada 100",
+       "la pesca"
+      ],
+      [
+       "Papel del Frente",
+       "los préstamos de la Leva del Frente a la Alianza",
+       "2 Anclas",
+       "brava, 2 Mareas",
+       "18 de cada 100",
+       "las noticias de la guerra"
+      ],
+      [
+       "Un viaje",
+       "un barco, una temporada, inscrito para la Lectura",
+       "1 Ancla",
+       "brava, 1 Marea",
+       "cuando el barco vuelve",
+       "que el barco vuelva"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Cómo llevar la Lectura",
+    "paragraphs": [
+     "Cómo leer el Tablero en la mesa, Monedía tras Monedía."
+    ],
+    "list": [
+     "**Una vez cada Monedía,** tira un d20 en la tabla de lo que se oyó en las casas de café, o elige. Sus números son pasos, que se suman a la tirada de cada negocio que nombra.",
+     "**Después tira 2d6 por cada negocio** en el que el grupo tenga partes, y muévelo los pasos que diga la tabla de tiradas. No hace falta tirar por todo el Tablero.",
+     "**Una parte nunca baja de un paso.** El negocio cuya parte cae a la cuarta parte de su precio de inscripción se va a pique en la Lectura siguiente.",
+     "**Comprar y vender** se hace en las casas de café, a través de un corredor de tiza, al precio de la última Lectura, y cada operación se asienta en la Casa el Monedía.",
+     "**Un gran comprador mueve el Tablero.** Quien compra o vende más de cien partes de un negocio en un Ciclo lo mueve un paso en su contra en la Lectura siguiente, porque las casas de café se dan cuenta.",
+     "**Lejos de Ventoro,** cada casa de cuentas cuelga el Tablero cuando lo trae el paquebote Corvane, unos días tarde, y negocia a ese precio hasta que llega el siguiente."
+    ]
+   },
+   {
+    "title": "La tirada",
+    "paragraphs": [],
+    "table": {
+     "caption": "2d6 por cada negocio, cada Monedía",
+     "headers": [
+      "2d6",
+      "El Tablero"
+     ],
+     "rows": [
+      [
+       "2",
+       "baja 3 pasos: bajamar"
+      ],
+      [
+       "3–4",
+       "baja 2 pasos"
+      ],
+      [
+       "5–6",
+       "baja 1 paso: con el reflujo"
+      ],
+      [
+       "7",
+       "sin cambio: agua muerta"
+      ],
+      [
+       "8–9",
+       "sube 1 paso: con la marea"
+      ],
+      [
+       "10–11",
+       "sube 2 pasos"
+      ],
+      [
+       "12",
+       "sube 3 pasos: pleamar"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Lo que se oyó en las casas de café",
+    "paragraphs": [
+     "Tira un d20 una vez cada Monedía. Los números son pasos."
+    ],
+    "table": {
+     "caption": "d20, una vez cada Monedía",
+     "headers": [
+      "d20",
+      "La noticia"
+     ],
+     "rows": [
+      [
+       "1",
+       "Se pierde un convoy en las rutas del sur. Paquebotes Corvane −3, Brennvar −2, todo viaje −3."
+      ],
+      [
+       "2",
+       "La temporada de tormentas llega antes. Paquebotes Corvane −1; Astilleros de Confín de Tormentas +2 y la Cordelería +1 por las reparaciones."
+      ],
+      [
+       "3",
+       "Un buen año de arenque. Sal Hallorn +2."
+      ],
+      [
+       "4",
+       "Un mal año de arenque, y se habla de que la Compañía compra las salinas. Sal Hallorn −3, la Compañía Casacarta +1."
+      ],
+      [
+       "5",
+       "La Compañía Casacarta gana una concesión nueva. La Compañía +3, Sal Hallorn −1."
+      ],
+      [
+       "6",
+       "Un motín en un puerto de la Compañía. La Compañía Casacarta −3."
+      ],
+      [
+       "7",
+       "Noticias del Frente: un pueblo fortificado cambia de manos. Tira un dado: impar, lo tomó el Imperio, Papel del Frente −3; par, lo tomó la Alianza, Papel del Frente +3."
+      ],
+      [
+       "8",
+       "Una veta nueva de Krysta en Darlath. Vidrio Vantrey +3."
+      ],
+      [
+       "9",
+       "Una piedra con defecto vendida como perfecta, y las hojas sueltas lo publican. Vidrio Vantrey −3."
+      ],
+      [
+       "10",
+       "Falta aceite y los faroles de Ventoro se apagan. Brennvar −2, el Papel de los Faroleros −1."
+      ],
+      [
+       "11",
+       "Una gran pesca vuelve a Bastión de Escarcha. Brennvar +3."
+      ],
+      [
+       "12",
+       "La seda está de moda en los salones esta temporada. Sedas Saffrane +2."
+      ],
+      [
+       "13",
+       "Una caravana pocchin vende más barato que Puerto Plata. Sedas Saffrane −2."
+      ],
+      [
+       "14",
+       "Una compañía de Cazadores limpia una ruta de piratas. Paquebotes Corvane +2, todo viaje +2."
+      ],
+      [
+       "15",
+       "La Marea Libre asalta una ruta. Paquebotes Corvane −2, todo viaje −2."
+      ],
+      [
+       "16",
+       "El Consejo pide prestado, y el dinero se aprieta. Notas de la Carta +1, todo lo demás −1."
+      ],
+      [
+       "17",
+       "Un rumor en las casas de café. Un negocio, a elección del Máster, −2; si el rumor era falso, +2 en la Lectura siguiente."
+      ],
+      [
+       "18",
+       "Un contrato de la Armada. Astilleros de Confín de Tormentas +3, la Cordelería +2, Sal Hallorn +1."
+      ],
+      [
+       "19",
+       "Se acerca un año de Marea Rey, y los seguros se triplican. Todo −1, todo viaje −3."
+      ],
+      [
+       "20",
+       "Un Monedía tranquilo. Nada más que los dados."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "El Reparto",
+    "paragraphs": [
+     "Dos veces al año, en la última Lectura de Idel y en la última de Okram, cada negocio les paga a sus tenedores la mitad de su reparto anual: tantos de cada cien del precio de la parte ese día. El negocio cuya parte está por debajo de la mitad de su precio de inscripción no paga nada ese medio año.",
+     "Un viaje paga solo cuando el barco vuelve. Tira un dado al final de su temporada: con un 1 se perdió, y sus partes no valen nada; con 2 a 4 volvió, y cada parte paga el doble de su precio; con 5 o 6 es un gran viaje, y cada parte paga el triple."
+    ]
+   },
+   {
+    "title": "Las palabras de la Lectura",
+    "paragraphs": [],
+    "list": [
+     "**Con la marea:** sube un paso.",
+     "**Con el reflujo:** baja un paso.",
+     "**Agua muerta:** sin cambio.",
+     "**Pleamar:** sube tres pasos de una vez. **Bajamar:** baja tres.",
+     "**A pique:** borrado del Tablero. El negocio cuya parte cae a la cuarta parte de su precio de inscripción se va a pique en la Lectura siguiente, y sus partes son papel.",
+     "**Una parte de campana:** una parte comprada la mañana de la Lectura, antes de la campana, por alguien que parece saber lo que va a decir el Lector."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un corredor de tiza de la Taza Negra lleva una temporada comprando partes de campana cada Monedía, y nunca se ha equivocado.",
+     "Un viaje inscrito en el Tablero tiene dos barcos con el mismo nombre, navegando en direcciones contrarias.",
+     "El Lector se detuvo a mitad de la Lectura, miró el Tablero y se fue de la Casa. Nadie ha leído el resto."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Lleva una tarjeta por cada inversión: el negocio, el número de partes y el precio pagado. Tira solo por lo que tiene el grupo.",
+     "Lee la Lectura en voz alta en la mesa, con la voz del Lector, y termínala como la Casa: “Escrito. Atestiguado. Debido.”",
+     "Una parte de campana es una historia, no una cosa segura: alguien sabía, y alguien más va a querer saber cómo.",
+     "Haz que un viaje sea personal: un barco en el que navegó el grupo, un capitán al que le deben, una carga que alguna vez escoltaron."
+    ]
+   },
+   {
+    "title": "¿Sabías que?",
+    "paragraphs": [],
+    "list": [
+     "La campana del mediodía suena cuando lo dice *[[Mediodía|Noon]]*: el cronómetro de oro de la vitrina junto a la puerta del Primer Tesorero, la más sencilla de las [[Seis Horas|Six Hours]] de Ysmer [[Mechapluma|Quillwick]]. El campanero mira el cronómetro, no el sol.",
+     "Las marcas de tiza de los corredores en las paredes de la Taza Negra se borran cada Monedía a mediodía, y las paredes están un poco más grises cada año.",
+     "Una parte de un viaje es la manera más barata de entrar a la Casa: un Ancla compra una participación en un barco, y los clubes de estibadores del [[Común|Commons]] juntan sus Olas para comprar una entre todos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Lector lee lo que el Cabildo escribió la noche anterior. Los dados son para los demás.” (un corredor de tiza en lo de Merrow)",
+     "“Compra Papel del Frente cuando suenen las campanas por una victoria, y véndelo antes de que lleguen las listas de bajas.” (un viejo de la Taza Negra)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIFRhYmxlcm8gc2UgcHVlZGUgZGlyaWdpci4qKiBFbCBDYWJpbGRvIHNlIHJlw7puZSBsYSBub2NoZSBhbnRlcyBkZSBjYWRhIExlY3R1cmEgeSBhY3VlcmRhIGVsIG7Dum1lcm8gcXVlIGxlZXLDoSBwYXJhIGNhZGEgbmVnb2NpbzsgbG9zIGRhZG9zIGRlIGxhIG1lc2Egc29uIGxvIHF1ZSBlbCBDYWJpbGRvIG5vIGxvZ3LDsyBhY29yZGFyLiBMYSBQcmltZXJhIFRlc29yZXJhIHB1ZWRlIG1vdmVyIGN1YWxxdWllciBuZWdvY2lvIHVuIHBhc28sIHkgbG8gaGEgaGVjaG8uIExvcyBhdWRpdG9yZXMgZGUgbGEgQ2FzYSBudW5jYSBoYW4gcHJlZ3VudGFkbyBkZSBkw7NuZGUgc2FsZW4gbGFzIHBhcnRlcyBkZSBjYW1wYW5hLiIsICIqKkxhIENvbXBhw7HDrWEgZXN0w6EgY29tcHJhbmRvLioqIEEgdHJhdsOpcyBkZSBsb3MgY29ycmVkb3JlcyBkZSB0aXphIGRlIGxhIENhc2EgWmFuZSwgbGEgQ29tcGHDscOtYSBDYXNhY2FydGEgY29tcHJhIHBhcnRlcyBkZSBsb3MgUGFxdWVib3RlcyBDb3J2YW5lIHkgZGUgU2FsIEhhbGxvcm4gY2FkYSBNb25lZMOtYSwgdW5hcyBwb2NhcyBwb3IgdmV6OiB1biBjYW1pbm8gbcOhcyBoYWNpYSBlbCBQaXNvIGRlIGxhIEFndWphLCB5IGhhY2lhIGVsIHByZWNpbyBkZSB0YWJsZXJvLiIsICIqKkxhcyBwZXNjYXMgZGUgQnJlbm52YXIuKiogTGFzIGdyYW5kZXMgcGVzY2FzIHF1ZSBwb25lbiBlbiBwbGVhbWFyIGEgbGEgRmxvdGEgZGVsIFN1ciBkZSBCcmVubnZhciB2aWVuZW4gZGUgbGFzIEFndWFzIFNlbGxhZGFzIGZyZW50ZSBhIEFndWFtdWRhLiJdfQ=="
+   }
+  ],
+  "gloss": "The Coinsday Reading"
  }
 }

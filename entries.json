@@ -5646,52 +5646,132 @@
   "category": "power",
   "region": "Central Heartland",
   "subtitle": "The islands’ work, counted",
-  "summary": "The collective of trade guilds, from shipwrights and smiths to weavers and longshore dockers.",
+  "summary": "The collective of the islands' guilds, from the Reckoners' Hall that holds everyone's debts to the Longshore that can shut a port with one whistle. Its masters meet in the Hall of Chains, and Horace Goldspire carries its voice to the Council.",
   "sections": [
    {
-    "title": "Guild and Council",
+    "title": "What the Congress is",
     "paragraphs": [
-     "Horace Goldspire represents the Congress on the Council. Its guilds organize the trades that move goods and sustain ports across the archipelago."
+     "The Mercantile Congress of Kalvatar, the Congress or simply the Guilds, is not a company and not a government. It is a collective of guilds: every craft and trade in Council lands has one, each with its own master, ranks, secrets, and grudges.",
+     "The real power lives in its banking guild, the Reckoners' Hall, which holds the deposits, writes the loans, insures the cargoes, and therefore holds a leash on every other guild and half the nobility besides."
     ]
    },
    {
-    "title": "The Reckoners and the Flags",
+    "title": "The Congress Council",
     "paragraphs": [
-     "The Reckoners’ Hall is its bank, under First Reckoner Maera Blackstrand. The Twelve Flags are the merchant families whose posts stand on the Goldspire Exchange’s Spire Floor, where commodity prices are called each Coinsday."
+     "The guild-masters meet in the Hall of Chains, on Goldwind's middle ring, on the first Forgeday of every month: the day of the Cycle that belongs to craft and the guilds.",
+     "Every great guild has a vote. The lesser guilds, the potters, coopers, millers, and dozens more, send four voices between them, drawn by lot every year.",
+     "A master votes by laying their chain of office on one side of the great table or the other, and a vote is counted by weight, not by hands. That is why the Smiths and the Jewelers wear the heaviest chains in the islands, and why the Reckoners never need to bring theirs.",
+     "The Congress Council chooses the Congress's seat on the Council of the Charted Isles. Horace Goldspire has held it longer than anyone remembers why. Goldspire goes to the meetings; Blackstrand decides what Goldspire can afford to say."
     ]
    },
    {
-    "title": "Beyond the guilds",
+    "title": "The ladder",
     "paragraphs": [
-     "The Charterhouse Company stands outside the guild structure, with Council-chartered monopolies and its own company towns and enforcers. Trade is never just the exchange of coins."
+     "Every guild climbs the same ladder, and a master's chain of office is worn like a crown."
+    ],
+    "list": [
+     "**Apprentice.** Paid in keep, and a few Bits on Coinsday.",
+     "**Journeyman.** About 2 Anchors a month, with papers to show for it; guild dues of 1 Anchor a year.",
+     "**Master.** By a masterwork, or by proof of business. Four to six Anchors a month in most crafts, and more in the dear ones; guild dues of 5 Anchors a year.",
+     "**No chain** for a name in the Ledger, in any guild, until the line is struck through in red."
     ]
    },
    {
-    "title": "The Krystawrights",
+    "title": "The great guilds",
     "paragraphs": [
-     "The Krystawrights’ Guild belongs to the Congress. Its masters cut, set, and work Krysta for mages and great houses. The finest crystal is clear until a spell is imbued; the skill and reputation of the person working it can make the commission as desirable as the stone.",
-     "Apprentice workshops train new hands, and some rival patrons compete fiercely for the most gifted. The guild represents this trade; the University’s Arcane Registry separately regulates the practice of higher-circle magic."
+     "Eighteen guilds hold the great votes. Each has its own page in the Guilds of the Congress."
+    ],
+    "list": [
+     "**The Reckoners' Hall:** banking, credit, sea-insurance, and debt.",
+     "**The Shipwrights' Guild:** hulls, masts, and refits.",
+     "**The Smiths' Guild:** iron, steel, arms, and tools.",
+     "**The Weavers' Guild:** cloth, brocade, and sailcloth.",
+     "**The Stillwrights:** kellum, in every stillhouse in every port.",
+     "**The Apothecaries and the Alchemists:** medicine, tinctures, and reagents.",
+     "**The Jewelers' Guild:** gems, gold, and settings.",
+     "**The Krystawrights' Guild:** Krysta, cut and set.",
+     "**The Lanternwrights' Guild:** harbor-lights, lamps, and the Goldwind lanterns.",
+     "**The Inkers' Circle:** printers, broadsheets, and the Hunters' scrolls.",
+     "**The Cartographers' Compact:** printed charts.",
+     "**The Brine Brotherhood:** fishers and whalers.",
+     "**The Longshore:** porters and stevedores.",
+     "**The Terrace Guild:** brightleaf, grown and pressed.",
+     "**The Perfumers of Silverport:** scent, incense, and oils.",
+     "**The Saurian Handlers' Lodge:** saurian breeding and training.",
+     "**The Ropewalk:** proof rope.",
+     "**The Free Sails:** independent merchant-captains."
     ]
    },
    {
-    "title": "In the islands",
+    "title": "The Twelve Flags",
     "paragraphs": [
-     "The Shipwrights of Goldwind and the Vanris yards.",
-     "The Stillwrights, who make kellum.",
-     "The Cartographers' Compact: charts are legal only with a Chartwrights' stamp.",
-     "The Brine Brotherhood, the fishers and whalers.",
-     "The Longshore, the dockers; their Goldwind boss is Morgha Wall-Holder.",
-     "The Terrace Guild, the brightleaf growers.",
-     "The Perfumers of Silverport, at open war with the Pocchin.",
-     "The Saurian Handlers' Lodge of Jakupur, an associate.",
-     "The cargo chain: grower, factor, warehouse stamp, a Reckoners' bottomry bond, the Holst customs seal, convoy or Hunter escort, then market. Every stamp has a forger.",
-     "The Krystawrights’ Guild, whose celebrated masters are known by patron house as well as by name."
+     "The guilds are crafts. The Twelve Flags are families: they own the hulls, the warehouses, the contracts, and the debts the guilds work inside. No charter names them and no Council seat is theirs, and nothing in the islands is priced without them. Each holds a post on the Spire Floor of the Goldspire Exchange."
+    ]
+   },
+   {
+    "title": "Coinsday",
+    "paragraphs": [
+     "Coinsday, the ninth day of every Cycle, is the Congress's day. In the morning the Flag Table calls the board-price of the great staples on the Spire Floor. At the noon bell, next door, the Reckoners' Hall reads the price of every part on its Board: the Coinsday Reading.",
+     "By afternoon the line to pay runs down the Hall's steps and around the Mint, because Coinsday is also settling day, and three Coinsdays unpaid put a name in the Ledger."
+    ]
+   },
+   {
+    "title": "The Charterhouse Company",
+    "paragraphs": [
+     "The Charterhouse Company is not a guild and does not answer to the Congress. It holds its monopolies by grant of the Council, and uses them to go around the guilds: its own ships, its own warehouses, its own company towns, and its own enforcers, the writ-men. The guilds hate it. The Reckoners lend to both sides and win either way."
+    ]
+   },
+   {
+    "title": "The life of a cargo",
+    "paragraphs": [
+     "How a bale of Southhaven coffee becomes a cup in Goldwind, and where every step can be bent."
+    ],
+    "list": [
+     "**The grower** sells to a factor: where the price is set.",
+     "**A Congress warehouse** weighs, grades, and stamps it: where the grade is forged.",
+     "**The Reckoners' Hall** writes a bottomry bond, a sea-loan forgiven if the ship sinks: where a convenient sinking becomes profitable.",
+     "**House Holst's customs-clerks** seal it and take the harbor dues: where the seal is copied.",
+     "**The voyage,** in convoy, under a Hunter escort, or alone and fast and praying: where it is lost, taken, or “lost.”",
+     "**The market,** a Congress hall, a coffee-house cellar, a Pocchin stall: where it is cut, watered, or relabeled.",
+     "Every step has a stamp. Every stamp has a forger."
+    ]
+   },
+   {
+    "title": "Duties and dues",
+    "paragraphs": [],
+    "list": [
+     "**The Gate-Tithe:** one Tide in every Anchor on goods to and from Assios, farmed by House Ostrel at Ironfort.",
+     "**Harbor dues:** per ship, per tide, everywhere.",
+     "**Registry fees:** on every refined Krysta piece sold in Council lands.",
+     "**Company tolls:** wherever the Charterhouse holds a monopoly, everyone else pays to pass."
+    ]
+   },
+   {
+    "title": "The great fairs",
+    "paragraphs": [],
+    "list": [
+     "**The Artisans' Faire,** at Goldwind: the Congress's showcase, where a masterwork makes or breaks its maker.",
+     "**The Pocchin market-fairs,** wherever a dozen caravans meet.",
+     "**The Tarvan Gathering:** herds, tartan, horn, and contests.",
+     "**The Sunspine Run** race-meets at Jakupur, and fortunes in wagers.",
+     "**The whaling-feasts** of Frosthold, where the year's oil-contracts are struck.",
+     "**The Quiet Auction,** which is not a fair, does not exist, and is attended by the richest people in the islands."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A guild-master's chain has gone missing the night before a close vote in the Hall of Chains, and it is the heaviest one.",
+     "Someone has rigged the lot for the lesser guilds' four voices, and the potters want to know who.",
+     "A Congress warehouse at Southhaven is grading coffee two grades above what it is, and the stamp is genuine."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Two of the Twelve Flags have stopped speaking to each other on the Spire Floor, and every factor in Goldwind is buying rope.” (heard on the Spire Floor)"
+     "“Two of the Twelve Flags have stopped speaking to each other on the Spire Floor, and every factor in Goldwind is buying rope.” (heard on the Spire Floor)",
+     "“They weigh the chains in the Hall of Chains. Nobody weighs what's said there.” (a Weavers' journeyman)"
     ]
    },
    {
@@ -5702,16 +5782,36 @@
   ],
   "facts": [
    [
-    "Council representative",
+    "Also called",
+    "the Congress; the Guilds"
+   ],
+   [
+    "Council seat",
     "Horace Goldspire"
    ],
    [
-    "Bank",
-    "The Reckoners’ Hall"
+    "Governed by",
+    "the Congress Council of guild-masters"
    ],
    [
-    "First Reckoner",
-    "Maera Blackstrand"
+    "Meets",
+    "the Hall of Chains, Goldwind, on the first Forgeday of every month"
+   ],
+   [
+    "Real power",
+    "the Reckoners' Hall, under First Reckoner Maera Blackstrand"
+   ],
+   [
+    "Ranks",
+    "Apprentice, Journeyman, Master"
+   ],
+   [
+    "Its days",
+    "Coinsday, every Cycle; the Artisans' Faire, every year"
+   ],
+   [
+    "Rival",
+    "the Charterhouse Company"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -5728,8 +5828,22 @@
    "krystawrights",
    "krysta",
    "reckoners-ledger",
-   "charter-mint"
-  ]
+   "charter-mint",
+   "guilds-of-the-congress",
+   "coinsday-reading",
+   "twelve-flags",
+   "reckoners-hall",
+   "maera-blackstrand",
+   "horace-goldspire",
+   "charterhouse-company",
+   "crafts-and-guilds",
+   "harbor-and-road-work",
+   "morgha-wall-holder",
+   "quiet-auction"
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "krystawrights",
@@ -16367,7 +16481,8 @@
    "plague-of-the-burning-sea",
    "southern-wilds",
    "sister-smoke",
-   "vesper-zane"
+   "vesper-zane",
+   "coinsday-reading"
   ]
  },
  {
@@ -16550,6 +16665,12 @@
     ]
    },
    {
+    "title": "The Coinsday Reading",
+    "paragraphs": [
+     "Every Coinsday at the noon bell, a Reckoner of the Chapter, chosen by lot, stands at the Long Desk and reads the Board of Parts aloud: the price of a part in every concern that keeps its books with the Hall. The Spire Floor next door calls the price of goods; the Hall reads the price of the ventures that carry them. The parts change hands all Cycle in the coffee-houses across the street, and every trade is entered here on Coinsday."
+    ]
+   },
+   {
     "title": "Adventure hooks",
     "paragraphs": [],
     "list": [
@@ -16658,7 +16779,8 @@
    "tenants",
    "swords-and-hunters",
    "the-great-flows",
-   "house-wingate"
+   "house-wingate",
+   "coinsday-reading"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/reckoners-hall-960.webp",
@@ -16688,21 +16810,229 @@
    {
     "title": "Overview",
     "paragraphs": [
-     "The Twelve Flags are the great merchant families. Each holds one of the twelve flag-posts on the Spire Floor, the trading hall of the Goldspire Exchange in Goldwind, where every Coinsday they call the board-price of coffee, salt, oil, grain, and the rest. A post takes a bond of 1,000 Orsals and twenty years on the floor, and it passes only by family.",
-     "Goldspire, who own the Exchange: Merchant Lord Horace, heir Celestine.",
-     "The Corvane Line, the great shipping house that carries the Council's post: Matthias, \"the Old Crow.\"",
-     "Saffrane of Silverport, silk and perfume: Madame Ilsabet.",
-     "Vantrey, the licensed Krysta brokers: Lord-Broker Edmar.",
-     "Belmaris of Pearl Groove, bells and the sea-folk's sound-trade: Bell-Mistress Orlaine.",
-     "Ostrel of Ironfort, farmers of the Gate-Tithe: Tithe-Mistress Maren.",
-     "Hallorn of Saltreach, salt and herring: Aldric.",
-     "Fennick of Southhaven, coffee and sugar factors: Ondine, a half-elf.",
-     "The Oruma, a native river-clan of the Nine Mouths: Grandmother Veyani. They took House Darrowen's post when it fell in 171 EC.",
-     "Sukuun of Jakupur, saurians: Teoma, brother of the great tamer Tana.",
-     "Brennvar of Frosthold, whale-oil: Lamp-Mistress Astri.",
-     "The Tobbin pride, a Pocchin family, to everyone's continuing astonishment: Mother Tatta and Pobbo.",
-     "Bannermen are the sworn houses, flag-captains, and bought bannerets of each flag, bound by the Flag-Oath. A broken oath gets the flag struck.",
-     "The center socket. The Spire Floor has a thirteenth flag-socket at its center that has never held a flag."
+     "The Twelve Flags are the great merchant families. Each holds one of the twelve flag-posts on the Spire Floor, the trading hall of the Goldspire Exchange in Goldwind, where every Coinsday the Flag Table calls the board-price of coffee, salt, oil, grain, and the rest."
+    ],
+    "list": [
+     "**Why twelve:** one for each ray on the Anchor, say the families; because the Exchange's founder had twelve creditors, say the cynics.",
+     "**A family, never a company and never a guild.** The one rule all twelve have always agreed on.",
+     "**The post-bond:** a thousand Orsals on deposit with the Reckoners, untouched, for as long as the post is held.",
+     "**Twenty years on the floor** before a family may stand for a post.",
+     "**A family that cannot keep its bond** loses its post on the next Coinsday, and the other flags vote on who takes it.",
+     "**The thirteenth socket.** The floor was cast with a thirteenth socket at its center, for the sun. It has never held a flag."
+    ]
+   },
+   {
+    "title": "The twelve at a glance",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Flag",
+      "Seat",
+      "Trade",
+      "Head"
+     ],
+     "rows": [
+      [
+       "Goldspire",
+       "the Goldspire Exchange, Goldwind",
+       "the Exchange and its brokerage",
+       "Merchant Lord Horace"
+      ],
+      [
+       "Corvane",
+       "the Sentinel Docks, Goldwind",
+       "carrying, and the Council's post",
+       "Matthias, the Old Crow"
+      ],
+      [
+       "Saffrane",
+       "Silverport",
+       "silk, incense, and perfume",
+       "Madame Ilsabet"
+      ],
+      [
+       "Vantrey",
+       "the Glasshouse, Goldwind",
+       "licensed Krysta brokerage",
+       "Lord-Broker Edmar"
+      ],
+      [
+       "Belmaris",
+       "Pearl Groove",
+       "bells, and the sound-trade with the Coral courts",
+       "Bell-Mistress Orlaine"
+      ],
+      [
+       "Ostrel",
+       "the Tithe-House, Ironfort",
+       "the Gate-Tithe and the scale-tables",
+       "Tithe-Mistress Maren"
+      ],
+      [
+       "Hallorn",
+       "the Saltreach pans and the Greyhaven fish-halls",
+       "salt and herring",
+       "Aldric"
+      ],
+      [
+       "Fennick",
+       "the Long Warehouse, Southhaven",
+       "coffee, sugar, and crop-paper",
+       "Ondine, a half-elf"
+      ],
+      [
+       "The Oruma",
+       "the Nine Mouths",
+       "cacao, jade, river-gold, and the river-pilots",
+       "Grandmother Veyani"
+      ],
+      [
+       "Sukuun",
+       "the Sukuun stables, Jakupur",
+       "saurians",
+       "Teoma, for his sister Tana"
+      ],
+      [
+       "Brennvar",
+       "the Tryworks, Frosthold",
+       "whale-oil",
+       "Lamp-Mistress Astri"
+      ],
+      [
+       "Tobbin",
+       "a caravan of walking houses, and a nest in Goldwind",
+       "spice, exotica, and perfume",
+       "Mother Tatta and Pobbo"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Goldspire: the Price-Callers",
+    "paragraphs": [
+     "**Seat:** the Goldspire Exchange, Goldwind; they own the floor itself. **Trade:** the Exchange, which takes one part in two hundred of every trade called on the floor; brokerage; Sunhold wine under the Goldspire seal; luxury imports for the capital.",
+     "**Head:** Merchant Lord Horace Goldspire, who holds the Congress's seat on the Council: pompous, generous, and lately frightened. **Heir:** Celestine, his daughter, who runs the floor while her father runs his mouth.",
+     "**Flag:** a gold spire on cobalt blue, ringed by twelve small gold stars. **Motto:** “The Price Is the Truth.”",
+     "**Hook:** Celestine wants a discreet crew to learn who has been buying up small lots of Goldspire debt in six different ports."
+    ]
+   },
+   {
+    "title": "Corvane: Every Tide, Every Port",
+    "paragraphs": [
+     "**Seat:** the Sentinel Docks, Goldwind, with counting-houses in every great port. **Trade:** carrying. The largest merchant fleet in the islands, some hundred and forty hulls; the fast packets; freight-notes; and the Council's post, under contract with House Holst.",
+     "**Head:** Matthias Corvane, the Old Crow, past seventy, who still reads every manifest himself. **Heir:** his granddaughter Lisette, captain of the Swallow's Debt, the quickest hull under any merchant flag.",
+     "**Flag:** a black crow's wing on sea-green, over a white pennant. **Motto:** “Every Tide, Every Port.”",
+     "**Hook:** A Corvane packet reached Goldwind with every letter aboard opened and resealed, and the crew swears no one touched the mail-chest."
+    ]
+   },
+   {
+    "title": "Saffrane: the Scented House",
+    "paragraphs": [
+     "**Seat:** Silverport. **Trade:** silk, incense, perfume, re-exported spice, and white candles from Frosthold oil. By long custom the head of the house is the head of the Perfumers of Silverport.",
+     "**Head:** Madame Ilsabet Saffrane, Mistress of the Perfumers. Her son Corin, called the Nose, is the finest perfumer in the islands outside a Pocchin caravan, and very tired of the qualification.",
+     "**Flag:** three saffron threads, crossed, on violet. **Motto:** “Remembered by Scent.”",
+     "**Hook:** Saffrane will pay a fortune for a Pocchin family's recipe, and a larger one for silence about how it was obtained."
+    ]
+   },
+   {
+    "title": "Vantrey: Clear Glass",
+    "paragraphs": [
+     "**Seat:** the Glasshouse, Goldwind, across the square from the Arcane Registry, and a counting-house in Everfall. **Trade:** licensed brokerage of raw and refined Krysta, from Everfall's Darlath seams and the southern mines to the refiners, the Lanternwrights, and the Armada; the license for registered Krysta going north through the Gate.",
+     "**Head:** Lord-Broker Edmar Vantrey: precise, courteous, and cold enough to keep ice. **Heir:** Sabeline Vantrey, his sister's daughter, the Registry's favorite dinner guest.",
+     "**Flag:** a clear prism on black, throwing a single white ray. **Motto:** “Clear Through.”",
+     "**Hook:** A Kerrow assayer was found dead with a flawless stone in her mouth, and Vantrey's books say that stone does not exist."
+    ]
+   },
+   {
+    "title": "Belmaris: the Bell House",
+    "paragraphs": [
+     "**Seat:** Pearl Groove. **Trade:** bell-founding, brass, bronze, silver-work, music-boxes, and glass; ship's bells for the Armada and half the merchant fleets; temple bells for the Concord; and the sound-trade with the Coral courts, which pays in pearls, kelp-silk, and reefpurple.",
+     "**Head:** Orlaine Belmaris, Bell-Mistress, who has never once raised her voice and is heard across any room. Her daughter Tamsin, called the Tongue, sings Coral well enough that the Glass Gardens call her by name.",
+     "**Flag:** a bronze bell on sea-blue, above three white wave-lines. **Motto:** “We Answer.”",
+     "**Hook:** A bell rang underwater off Pearl Groove at midnight, three nights running, with the voice of a Belmaris casting. The foundry swears it never made it."
+    ]
+   },
+   {
+    "title": "Ostrel: the Scale at the Gate",
+    "paragraphs": [
+     "**Seat:** the Tithe-House, Ironfort. **Trade:** the gate-trade with Assios. Ostrel farms the Gate-Tithe, paying the Council a fixed sum and keeping whatever it collects beyond that; runs the Ironfort scale-tables, where korvans and continental silver become Council coin; and imports continental steel, wine, books, and Free City firearms.",
+     "**Head:** Maren Ostrel, Tithe-Mistress of Ironfort. Her brother Aldous is master of the scale-tables; her son Hedric reads more Returned Crown pamphlets than is wise for a tithe-farmer's heir.",
+     "**Flag:** an iron-grey gate-arch with a gold coin in the keystone, on black. **Motto:** “Nothing Passes Unweighed.”",
+     "**Hook:** An imperial korvan has turned up in the Bastion garrison's pay-chest, and nobody in Bastion has been north of the Gate."
+    ]
+   },
+   {
+    "title": "Hallorn: Salt Keeps",
+    "paragraphs": [
+     "**Seat:** the Saltreach pans and the Greyhaven fish-halls. **Trade:** most of the Frontier's salt; salt-fish and smoked herring; timber rafts from Northreach; and the Armada's northern victualling contract.",
+     "**Head:** Aldric Hallorn: broad, blunt, and losing. His daughter Wynne runs the Armada contracts; his son Rowan, a Silver Hunter who left the trade, is the only Hallorn who is not worried.",
+     "**Flag:** three white herring on slate-blue, inside a ring of salt-white. **Motto:** “Salt Keeps.”",
+     "**Hook:** After two bad herring years the Charterhouse Company has offered to buy the Saltreach pans, and a Company writ-man has been seen walking them with a measuring-chain."
+    ]
+   },
+   {
+    "title": "Fennick: Bought Before It Grows",
+    "paragraphs": [
+     "**Seat:** the Long Warehouse, Southhaven. **Trade:** factoring. Fennick buys coffee, sugar, cotton, and southleaf from the planters, very often before the crop is planted; grades, stamps, stores, and ships it; trades crop-paper on the Spire Floor; and lends to planters against next year's harvest.",
+     "**Head:** Ondine Fennick, half-elf, who has outlived two husbands and four rival factors and expects to outlive several more. Her granddaughter Celandine is a grader whose tongue has never once misjudged a bean.",
+     "**Flag:** a coffee-branch with red berries, on cream. **Motto:** “Bought Before It Grows.”",
+     "**Hook:** A Goldwind coffee-house has been sued for serving false Greymoor coffee, and the sacks in its cellar carry a genuine Fennick stamp."
+    ]
+   },
+   {
+    "title": "The Oruma: the River Kin",
+    "paragraphs": [
+     "A river-clan of the Confederacies, not a house: the only native flag on the Spire Floor, voted into House Darrowen's post in 171 EC. **Seat:** the Nine Mouths, the great delta landing. **Trade:** cacao and jade; river-gold, most of the gold the Charter Mint strikes; feathers, fine hides, and medicinal herbs; and the rivers themselves, since no Council hull goes far upriver without an Oruma pilot.",
+     "**Head:** Grandmother Veyani Oruma, speaker of the clan-council. Her grandson Jaseh stands at the Oruma post on the Spire Floor and wears a Goldwind coat over his feathers on Coinsdays.",
+     "**Flag:** a gold canoe on jade green. **Motto:** “The River Carries Whoever Paddles.”",
+     "**Hook:** The Company has offered the Oruma a share of the Verdayan jade concession in return for the river-pilots. Veyani is the only voice on the clan-council that is not tempted."
+    ]
+   },
+   {
+    "title": "Sukuun: the Mark of Old Thunder",
+    "paragraphs": [
+     "**Seat:** the Sukuun stables, Jakupur, beside the Sunspine Run. **Trade:** saurian bloodlines and training; war-saurians, sold quietly and rarely; Swiftcrest racers; hide, teeth, and eggs. The greatest house in the Saurian Handlers' Lodge: a beast under the Sukuun mark fetches double anywhere.",
+     "**Head of the trade:** Teoma Sukuun, who handles the coin so that his younger sister never has to. Tana Sukuun, the greatest saurian-tamer alive and rider of Old Thunder, has never once set foot on the Spire Floor and never will.",
+     "**Flag:** the head of a rose-grey Dreadmaw on saffron. **Motto:** “We Tame. We Do Not Own.”",
+     "**Hook:** Someone offered Teoma two thousand Orsals for Sissix-the-Comet, the reigning Swiftcrest champion. Teoma refused. The Comet's groom has disappeared."
+    ]
+   },
+   {
+    "title": "Brennvar: the Lamplight House",
+    "paragraphs": [
+     "**Seat:** the Tryworks, Frosthold. **Trade:** whale-oil, the largest single share of the lamp-oil in the islands; ambergris; furs, ivory, and whalebone; frostcured fish; and packed ice shipped south to Southhaven's planters.",
+     "**Head:** Astri Brennvar, Lamp-Mistress of Frosthold. Her husband Halvar is whaling-master of the fleet, and Captain Jorundal, called cousin, is the best ice-pilot under the Brennvar fluke.",
+     "**Flag:** a white whale's fluke on midnight blue, beneath a gold lamp-flame. **Motto:** “We Light the Dark.”",
+     "**Hook:** The Lamplight House is a full season's oil short, the Goldwind lanterns will dim by midwinter, and Astri will not say where her fleet has been whaling."
+    ]
+   },
+   {
+    "title": "Tobbin: the Most Generous and Incomparable House",
+    "paragraphs": [
+     "A Pocchin family, and the only one that has ever held a post on the Spire Floor. **Seat:** none; one caravan of walking houses on grommoth-back, and a nest in Goldwind hoisted into the rafters of a disused ropewalk. **Trade:** this generation, spices and exotica; last generation, cloth; next generation, whatever a cousin's contact delivers; and perfume, always perfume.",
+     "**Matriarch:** Mother Tatta Tobbin, whose tail is the largest in the islands and has never once been shorn. **Dominant male:** Pobbo Tobbin, Most Munificent Lord-Protector of the Spice Roads, Benefactor of Lesser Merchants, Friend to the Poor (Within Reason).",
+     "**Flag:** a different one on every grommoth; on the Spire Floor, a pink flag bearing a single golden tail, and they would very much like you to ask why. **Motto:** “A Fair Price, Eventually.”",
+     "**Hook:** Pobbo Tobbin hires the party to carry a sealed jar to the Artisans' Faire, unopened, and deliver it on the very hour Saffrane unveils its new scent."
+    ]
+   },
+   {
+    "title": "Bannermen and the Flag-Oath",
+    "paragraphs": [
+     "A merchant house's bannermen are sworn houses, smaller trading families who fly the great flag beneath their own; flag-captains, owner-captains sworn to carry for the house; and bought bannerets, minor nobles who live on the house's credit and lend it their names.",
+     "The Flag-Oath is sworn on the Spire Floor before witnesses: “I carry your flag. I buy at your price. I keep your ledger true.” A bannerman who breaks it has their flag struck, lowered from the great family's post in front of the whole floor, which ends their credit in every counting-house in the islands before the news is a day old."
+    ]
+   },
+   {
+    "title": "The web of the Flags",
+    "paragraphs": [],
+    "list": [
+     "**Old money against new:** Goldspire, Corvane, and Saffrane are the old floor; the Oruma, Sukuun, and Tobbin are the newcomers the old floor still calls guests.",
+     "**The Company question:** Hallorn and the Oruma are the Charterhouse Company's chief targets; Corvane carries the Company's cargo and hates itself for it.",
+     "**The perfume war:** Saffrane against Tobbin, with Brennvar's ambergris and Belmaris's glass vials sold to both sides.",
+     "**The southern chain:** Fennick buys, Corvane carries, Goldspire prices, and the Oruma and Sukuun watch every link for the moment someone cheats them.",
+     "**The Gate and the glass:** Ostrel tithes what Vantrey ships north, and the two houses audit each other with a thoroughness that is almost affection.",
+     "**The light of the capital:** Brennvar's oil, Saffrane's candles, and the Lanternwrights' glass. When one of the three fails, Goldwind goes dark.",
+     "**Everyone owes Blackstrand.** Nobody says so on the floor."
     ]
    },
    {
@@ -16729,6 +17059,14 @@
    [
     "Board-price",
     "called every Coinsday"
+   ],
+   [
+    "Newest flag",
+    "the Oruma, since 171 EC"
+   ],
+   [
+    "The center socket",
+    "empty since the floor was cast"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -16744,8 +17082,22 @@
    "ironfort",
    "reckoners-hall",
    "celestine-goldspire",
-   "vesper-zane"
-  ]
+   "vesper-zane",
+   "mercantile-congress",
+   "coinsday-reading",
+   "horace-goldspire",
+   "maera-blackstrand",
+   "charterhouse-company",
+   "sunhold",
+   "southhaven",
+   "frosthold",
+   "jakupur",
+   "saltreach",
+   "sister-smoke"
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "great-hunter-crews",
@@ -33091,7 +33443,8 @@
    "reckoners-hall",
    "maera-blackstrand",
    "celestine-goldspire",
-   "vesper-zane"
+   "vesper-zane",
+   "coinsday-reading"
   ],
   "illustration": {
    "src": "assets/folk/horace-council-v1-960.webp",
@@ -33370,7 +33723,8 @@
    "ecler",
    "reckoners-ledger",
    "charter-mint",
-   "hera-seaworth"
+   "hera-seaworth",
+   "coinsday-reading"
   ]
  },
  {
@@ -41212,7 +41566,8 @@
    "highspire",
    "goldwind",
    "harbor-and-road-work",
-   "signed-works"
+   "signed-works",
+   "guilds-of-the-congress"
   ]
  },
  {
@@ -55702,6 +56057,693 @@
    "kite-duel",
    "fighting kites",
    "great kites"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "guilds-of-the-congress",
+  "title": "The Guilds of the Congress",
+  "category": "power",
+  "region": "All regions",
+  "subtitle": "Eighteen great guilds: their seats, their masters, their holdings and their quarrels",
+  "summary": "The great guilds of the Mercantile Congress, one by one: the Reckoners and the Shipwrights, the Smiths and the Weavers, the Longshore that can shut a port with a whistle, and the Free Sails, who have no master and say so loudly.",
+  "facts": [
+   [
+    "Great guilds",
+    "eighteen, with a vote each in the Hall of Chains"
+   ],
+   [
+    "Lesser guilds",
+    "dozens, with four voices drawn by lot"
+   ],
+   [
+    "Ranks",
+    "Apprentice, Journeyman, Master"
+   ],
+   [
+    "Dues",
+    "1 Anchor a year for a journeyman, 5 for a master"
+   ],
+   [
+    "Who will not join",
+    "the Tarvan, the Sporrn, and the Pocchin"
+   ]
+  ],
+  "aliases": [
+   "the great guilds"
+  ],
+  "related": [
+   "mercantile-congress",
+   "crafts-and-guilds",
+   "reckoners-hall",
+   "krystawrights",
+   "inkers-circle",
+   "chartwrights",
+   "harbor-and-road-work",
+   "morgha-wall-holder",
+   "the-ropewalks",
+   "saurians",
+   "kellum",
+   "brightleaf",
+   "aurelion",
+   "silverport",
+   "jakupur",
+   "pocchin",
+   "tarvan",
+   "sporrn",
+   "undertow",
+   "charterhouse-company",
+   "coinsday-reading"
+  ],
+  "sections": [
+   {
+    "title": "The great guilds",
+    "paragraphs": [
+     "Every craft and trade in Council lands has a guild, and the great ones each have a vote in the Hall of Chains. These are the eighteen the islands know by name: where each sits and who leads it, what it holds, whom it quarrels with, and the trouble it can bring a party. The crafts themselves, their wages and their two makes, are in Crafts and Guilds.",
+     "The lesser guilds, the potters, coopers, millers, chandlers, and dozens more, keep their own halls and their own grudges, and send four voices to the Hall of Chains between them, drawn by lot every year."
+    ]
+   },
+   {
+    "title": "The Reckoners' Hall",
+    "paragraphs": [
+     "The banking guild, on Goldwind's middle ring, under First Reckoner Maera Blackstrand."
+    ],
+    "list": [
+     "**What it holds.** Deposits, loans, letters of credit, sea-insurance, the Ledger, the Orsal's warrant, and now the Coinsday Reading. Its counters are often dwarves.",
+     "**Its quarrel.** Nobody quarrels with the Hall in public. Everybody owes it.",
+     "**Hook.** A reckoning in a dead man's name has been paid at three counting-houses in one Cycle."
+    ]
+   },
+   {
+    "title": "The Shipwrights' Guild",
+    "paragraphs": [
+     "The Sentinel Docks of Goldwind and the Vanris yards of Stormreach. Its head is the Master of Keels, Edda Harrowby, who has launched more hulls than she has slept nights."
+    ],
+    "list": [
+     "**What it holds.** Every keel laid in Council lands, for the Armada and the merchant fleets alike. A hull without the guild's brand on its sternpost cannot be insured at the Hall.",
+     "**Its quarrel.** The Vanris yards build the best storm-hulls in the islands and charge for it, and the Goldwind yards say so at every meeting.",
+     "**Hook.** A hull launched last season at the Sentinel Docks has come back with a sternpost brand nobody at the guild cut."
+    ]
+   },
+   {
+    "title": "The Smiths' Guild",
+    "paragraphs": [
+     "Aurelion, House Sunforge's city. Its head is the Forge-Master, Garrick Ironsong, a Sunforge banneret's son who still works a bench every morning."
+    ],
+    "list": [
+     "**What it holds.** Iron, steel, arms, and tools, and the stamp on every honest blade. Firearms are made here, few and dear, and the Council keeps a list of every gunsmith.",
+     "**Its quarrel.** With the Jewelers, over who may work gold; with the Undertow, over every blade without a stamp.",
+     "**Hook.** A master gunsmith has vanished from Aurelion, and so have his drawings."
+    ]
+   },
+   {
+    "title": "The Weavers' Guild",
+    "paragraphs": [
+     "Goldwind. Its head is the Loom-Mistress, Perpetua Vale, who has never once worn a cloth she did not approve."
+    ],
+    "list": [
+     "**What it holds.** Cloth, brocade, and sailcloth. Every proof-made sail in the islands carries the Weavers' thread.",
+     "**Its quarrel.** The Tarvan refuse to join on principle, and the Weavers have never forgiven them.",
+     "**Hook.** A bolt of Tarvan tartan has been sold at a Heartland market with a Weavers' seal on it."
+    ]
+   },
+   {
+    "title": "The Stillwrights",
+    "paragraphs": [
+     "No seat. The masters meet at Goldwind each spring, and the one left speaking at the end speaks for the guild until the next spring."
+    ],
+    "list": [
+     "**What it holds.** Kellum, in every stillhouse in every port, and the wrack cows that graze the honeywrack.",
+     "**Its quarrel.** With each other, always. They agree on nothing.",
+     "**Hook.** The masters agreed on one thing at Goldwind this spring, and nobody will say what it was."
+    ]
+   },
+   {
+    "title": "The Apothecaries and the Alchemists",
+    "paragraphs": [
+     "Goldwind, two guilds in one hall, with one door between them that is locked from both sides. The Warden of the Mortar is Corwin Ashby, for the Apothecaries; the Alchemists' Crucible-Master is Liesl Varn."
+    ],
+    "list": [
+     "**What it holds.** Medicine, tinctures, and reagents, and the license to sell them in any Council port.",
+     "**Its quarrel.** A polite, permanent war with the Sporrn, whose salves are better and who will not join anything.",
+     "**Hook.** A Sporrn salve has been sold in Goldwind under the Apothecaries' seal, and it worked."
+    ]
+   },
+   {
+    "title": "The Jewelers' Guild",
+    "paragraphs": [
+     "Aurelion and the Sapphire Isle. Its head is the Gem-Warden, Lisbet Carrow, who can tell a Cindren glass from a sapphire by the sound it makes on her ring."
+    ],
+    "list": [
+     "**What it holds.** Gems, gold, and settings; the price of sapphire, which it sets.",
+     "**Its quarrel.** With the south, over the price of gold; with the silversmiths, who cannot say why silver keeps rising.",
+     "**Hook.** Half the sapphires at a Coinsday market in Southhaven are Cindren glass, and the guild wants to know whose."
+    ]
+   },
+   {
+    "title": "The Krystawrights' Guild",
+    "paragraphs": [
+     "Goldwind and Everfall. Its head is the Warden of Facets, Durren Stonehollow, a dwarf, as the most celebrated masters are."
+    ],
+    "list": [
+     "**What it holds.** Krysta, cut, set, and worked, with the Registry's leave. Its masters are known by name and by patron house.",
+     "**Its quarrel.** With the patron houses that steal each other's masters; with the Undertow's dark glass.",
+     "**Hook.** A master Krystawright has gone over to a rival house overnight, and taken a commission half-finished."
+    ]
+   },
+   {
+    "title": "The Lanternwrights' Guild",
+    "paragraphs": [
+     "Goldwind. Its head is the Master of Lights, Halden Lume, who has not seen the city dark in forty years and does not mean to."
+    ],
+    "list": [
+     "**What it holds.** Harbor-lights, lamps, and the Goldwind lanterns, under a Krysta license. Small, vital, and rich.",
+     "**Its quarrel.** With anyone whose oil is late, which this year is Brennvar.",
+     "**Hook.** The Goldwind lanterns will dim by midwinter unless someone finds a season's oil."
+    ]
+   },
+   {
+    "title": "The Inkers' Circle",
+    "paragraphs": [
+     "Goldwind, with a shop in every port that has a press. Its head is the Senior Press, Elric Fane, who has never printed a correction in his life."
+    ],
+    "list": [
+     "**What it holds.** Broadsheets, books, the Hunters' adventure-scrolls, the Ranking cards, and the Pattern-Book of patches.",
+     "**Its quarrel.** With the Patchwork, over whose list of patches is the real one; with every Hunter company the scrolls have laughed at.",
+     "**Hook.** Forged gilt cards are flooding a port, and the Circle wants the press found before the season is worthless."
+    ]
+   },
+   {
+    "title": "The Cartographers' Compact",
+    "paragraphs": [
+     "Goldwind. Its head is the Compass-Master, Dorrit Hale, who has drawn more coastlines than she has ever seen."
+    ],
+    "list": [
+     "**What it holds.** Printed charts, which it sells. A chart is only legal to sail by when it carries a Chartwrights' stamp, which the Compact does not give.",
+     "**Its quarrel.** With the Chartwrights, daily.",
+     "**Hook.** A Compact chart shows an island the Chartwrights say is not there, and a captain sailed for it."
+    ]
+   },
+   {
+    "title": "The Brine Brotherhood",
+    "paragraphs": [
+     "Everywhere, strongest at Frosthold. Its head is the Eldest Net, Sigrun Kell, who has buried two husbands at sea and fishes still."
+    ],
+    "list": [
+     "**What it holds.** Fishers and whalers. Humble, archipelago-wide, and able to empty every fish-market in a week if crossed.",
+     "**Its quarrel.** With the salters, every herring season, over the price.",
+     "**Hook.** The Brotherhood has stopped landing fish in one port, and nobody there knows what they did."
+    ]
+   },
+   {
+    "title": "The Longshore",
+    "paragraphs": [
+     "Every harbor. It has no head but a whistle; its Goldwind boss is Morgha Wall-Holder, an orc woman nobody has ever seen lose an argument."
+    ],
+    "list": [
+     "**What it holds.** Porters and stevedores. It can shut a port with one whistle.",
+     "**Its quarrel.** With the Charterhouse Company's writ-men, who load their own ships.",
+     "**Hook.** The Longshore has stopped work on Goldwind's wharves, and every ward of the Commons has taken a side."
+    ]
+   },
+   {
+    "title": "The Terrace Guild",
+    "paragraphs": [
+     "Sunhold. Its head is the Leaf-Mistress, Odile Fairbank, whose family has pressed brightleaf on the same terraces for five generations."
+    ],
+    "list": [
+     "**What it holds.** Brightleaf, grown and pressed. Old money in leaf-bricks.",
+     "**Its quarrel.** With the coffee-houses, as a matter of identity.",
+     "**Hook.** A coffee-house in Goldwind has started serving brightleaf, and both guilds are furious."
+    ]
+   },
+   {
+    "title": "The Perfumers of Silverport",
+    "paragraphs": [
+     "Silverport. By long custom its head is the head of House Saffrane: today Madame Ilsabet Saffrane."
+    ],
+    "list": [
+     "**What it holds.** Scent, incense, and oils, and the right to call a perfume a perfume in Council ports.",
+     "**Its quarrel.** At open war with the Pocchin families, who refuse to join, undersell everyone, and steal recipes for sport.",
+     "**Hook.** Saffrane will pay a fortune for a Pocchin family's recipe, and a larger one for silence about how it was obtained."
+    ]
+   },
+   {
+    "title": "The Saurian Handlers' Lodge",
+    "paragraphs": [
+     "Jakupur. Formally an associate, since Jakupur is independent. The Lodge is led by the stables in council; Tana Sukuun, the greatest tamer alive, has refused the chair three times."
+    ],
+    "list": [
+     "**What it holds.** Saurian breeding and training: the world's only saurian monopoly.",
+     "**Its quarrel.** With the Crest Syndicate, which wants the bloodlines to fix the Sunspine Run.",
+     "**Hook.** Saurian eggs are leaving Jakupur in fish-barrels, and the Lodge wants to know which port is hatching them."
+    ]
+   },
+   {
+    "title": "The Ropewalk",
+    "paragraphs": [
+     "The Ropewalks of the Commons, Goldwind. It is House Hessary's, bannermen of the Corvane Line, and its head is always a Hessary."
+    ],
+    "list": [
+     "**What it holds.** The Ropewalk stamp, on every proof-made rope in the islands: the most trusted thing a sailor owns.",
+     "**Its quarrel.** With the ice, which pays double for rope and buys a whole season's at once.",
+     "**Hook.** Four hundred fathoms laid for an Armada ship walked out of a shed overnight."
+    ]
+   },
+   {
+    "title": "The Free Sails",
+    "paragraphs": [
+     "Anywhere with a mooring. They have no master, and say so loudly."
+    ],
+    "list": [
+     "**What it holds.** Independent merchant-captains: semi-legal, against every monopoly, and a little too friendly with the Undertow.",
+     "**Its quarrel.** With the Charterhouse Company, the Corvane Line, and anyone else with a fleet.",
+     "**Hook.** A Free Sails captain is carrying a cargo the Company swears it owns, and is offering the party a share to help her land it."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "A guild is the quickest way into a city: a journeyman's papers open doors a noble's letter cannot.",
+     "Every guild-master wears a chain of office. Count the links before you argue with one.",
+     "When a guild has a problem it cannot take to the watch, it takes it to the Hunters' Lodge, and pays in coin and in favors."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Smiths and the Jewelers have their chains weighed every spring, and every spring they are a little heavier.” (a Goldwind goldsmith's apprentice)",
+     "“The Free Sails have no master, but every one of them knows whose mooring to ask for in Black Harbor.” (a Longshore whistler)"
+    ]
+   }
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "coinsday-reading",
+  "title": "The Coinsday Reading",
+  "category": "trade",
+  "region": "Central Heartland",
+  "subtitle": "Every Coinsday at noon, the Reckoners' Hall reads the price of every part on its Board",
+  "summary": "The Reckoners' Hall's market. Every Coinsday at the noon bell a Reckoner reads out the price of a part in every concern on the Board: the great companies, the guilds' paper, the Council's notes, and single voyages. The Spire Floor next door calls the price of goods; the Hall reads the price of the ventures that carry them.",
+  "facts": [
+   [
+    "Where",
+    "the Quiet Room of the Reckoners' Hall, Goldwind"
+   ],
+   [
+    "When",
+    "every Coinsday, at the noon bell"
+   ],
+   [
+    "What is read",
+    "the price of a part in every concern on the Board"
+   ],
+   [
+    "Traded",
+    "in the coffee-houses across the street, all Cycle"
+   ],
+   [
+    "Who may hold parts",
+    "anyone with an account at the Hall, and a name not in the Ledger"
+   ],
+   [
+    "The Hall's cut",
+    "1 in 100 of every trade"
+   ],
+   [
+    "The Share-out",
+    "twice a year, in Idel and in Okram"
+   ]
+  ],
+  "aliases": [
+   "Board of Parts"
+  ],
+  "related": [
+   "reckoners-hall",
+   "mercantile-congress",
+   "twelve-flags",
+   "guilds-of-the-congress",
+   "maera-blackstrand",
+   "charterhouse-company",
+   "coins-and-prices",
+   "cycle",
+   "goldwind",
+   "reckoners-ledger",
+   "the-commons"
+  ],
+  "sections": [
+   {
+    "title": "The Reading",
+    "paragraphs": [
+     "On Coinsday, at the noon bell, the Quiet Room of the Reckoners' Hall falls quieter still. A Reckoner of the Chapter, chosen by lot that morning, stands at the Long Desk and reads the Board aloud: every concern, and the price of one part in it. It is the only voice in the Hall that may be raised without a fine, once a Cycle.",
+     "As the Reader reads, the counters chalk the new prices on the Board of Parts, a black slate the length of the Long Desk. The Reader ends as the Hall ends every page: “Written. Witnessed. Owed.” Then the Hall's runners, in counter-grey, carry the numbers across the street to the coffee-houses and up the rings, and the next Corvane packet carries them to every counting-house in the islands.",
+     "The Spire Floor next door calls the price of goods. The Hall reads the price of the ventures that carry them."
+    ]
+   },
+   {
+    "title": "Parts and concerns",
+    "paragraphs": [
+     "A concern is anything that keeps its books with the Hall and passes its audit: a company, a guild's paper, a house's venture, the Council's own notes, or a single ship for a single season. A part is a share in a concern. Its holder is paid a share of what the concern earns, at the Share-out, and can sell the part to anyone who will buy it.",
+     "The Twelve Flags never sell parts of themselves: a family, never a company. They sell parts in their ventures, and buy parts in each other's, carefully."
+    ],
+    "list": [
+     "**Who may hold parts:** anyone with an account at the Hall and a counter-word. A name in the Ledger may hold none, and its parts are sold for its debts.",
+     "**Where they change hands:** in the coffee-houses across the street, the Black Cup and Merrow's above all, all Cycle long, through the chalkers, who chalk the bids on the coffee-house walls. Every trade is entered at the Hall on Coinsday.",
+     "**What it costs:** the Hall takes 1 in 100 of every trade; a chalker takes 1 in 50 for the work."
+    ]
+   },
+   {
+    "title": "The Board",
+    "paragraphs": [
+     "The concerns on the Board this year, with the price of one part when each was listed. Every concern moves by its own step: a steady concern by 1 in 50 of its listing price, a lively one by 1 in 20, a wild one by 1 in 10."
+    ],
+    "table": {
+     "caption": "The Board of Parts, 175 EC",
+     "headers": [
+      "Concern",
+      "What it is",
+      "Listed at",
+      "Swing and step",
+      "Share-out a year",
+      "Moves on"
+     ],
+     "rows": [
+      [
+       "Charter Notes",
+       "the Council's own paper",
+       "10 Anchors",
+       "steady, 2 Tides",
+       "4 in 100",
+       "the Council's borrowing"
+      ],
+      [
+       "The Lanternwrights' Paper",
+       "the guild's bonds",
+       "5 Anchors",
+       "steady, 1 Tide",
+       "6 in 100",
+       "oil, and Krysta licenses"
+      ],
+      [
+       "The Ropewalk",
+       "House Hessary's ropewalks",
+       "3 Anchors",
+       "steady, 6 Bits",
+       "6 in 100",
+       "Armada contracts, and the ice's orders"
+      ],
+      [
+       "The Corvane Packets",
+       "the Corvane Line's packets and freight",
+       "12 Anchors",
+       "lively, 6 Tides",
+       "8 in 100",
+       "convoys, storms, and pirates"
+      ],
+      [
+       "The Charterhouse Company",
+       "the Company itself",
+       "20 Anchors",
+       "lively, 1 Anchor",
+       "10 in 100",
+       "concessions, and riots"
+      ],
+      [
+       "The Stormreach Yards",
+       "House Vanris's yards",
+       "14 Anchors",
+       "lively, 7 Tides",
+       "7 in 100",
+       "new hulls and refits"
+      ],
+      [
+       "Hallorn Salt",
+       "the Saltreach pans and the herring",
+       "4 Anchors",
+       "lively, 2 Tides",
+       "9 in 100",
+       "the herring years, and the Company"
+      ],
+      [
+       "Saffrane Silks",
+       "Silverport's silk and scent",
+       "8 Anchors",
+       "lively, 4 Tides",
+       "8 in 100",
+       "fashion, and the Pocchin"
+      ],
+      [
+       "Vantrey Glass",
+       "licensed Krysta brokerage",
+       "20 Anchors",
+       "wild, 2 Anchors",
+       "12 in 100",
+       "the mines, and every scandal"
+      ],
+      [
+       "Brennvar's Southern Fleet",
+       "a season's whaling",
+       "6 Anchors",
+       "wild, 6 Tides",
+       "15 in 100",
+       "the catch"
+      ],
+      [
+       "Front Paper",
+       "the Front Levy's loans to the Alliance",
+       "2 Anchors",
+       "wild, 2 Tides",
+       "18 in 100",
+       "news from the war"
+      ],
+      [
+       "A voyage",
+       "one ship, one season, registered for the Reading",
+       "1 Anchor",
+       "wild, 1 Tide",
+       "when the ship comes home",
+       "the ship coming home"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Running the Reading",
+    "paragraphs": [
+     "How to read the Board at the table, Coinsday by Coinsday."
+    ],
+    "list": [
+     "**Once each Coinsday,** roll a d20 on the table of what the coffee-houses heard, or choose. Its numbers are steps, added to the 2d6 of every concern it names.",
+     "**Then roll 2d6 for each concern** the party holds parts in, and move it by the steps the 2d6 table gives. There is no need to roll the whole Board.",
+     "**A part is never worth less than one step.** A concern whose part falls to a quarter of its listing price is sunk at the next Reading.",
+     "**Buying and selling** happen in the coffee-houses, through a chalker, at the price of the last Reading, and every trade is entered at the Hall on Coinsday.",
+     "**A big buyer moves the Board.** Whoever buys or sells more than a hundred parts of one concern in a Cycle moves it one step against themselves at the next Reading, because the coffee-houses notice.",
+     "**Away from Goldwind,** every counting-house posts the Board when the Corvane packet brings it, a few days late, and trades at that price until the next packet comes in."
+    ]
+   },
+   {
+    "title": "The roll",
+    "paragraphs": [],
+    "table": {
+     "caption": "2d6 for each concern, every Coinsday",
+     "headers": [
+      "2d6",
+      "The Board"
+     ],
+     "rows": [
+      [
+       "2",
+       "down 3 steps: low water"
+      ],
+      [
+       "3–4",
+       "down 2 steps"
+      ],
+      [
+       "5–6",
+       "down 1 step: on the ebb"
+      ],
+      [
+       "7",
+       "no change: dead water"
+      ],
+      [
+       "8–9",
+       "up 1 step: on the tide"
+      ],
+      [
+       "10–11",
+       "up 2 steps"
+      ],
+      [
+       "12",
+       "up 3 steps: high water"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "What the coffee-houses heard",
+    "paragraphs": [
+     "Roll a d20 once each Coinsday. The numbers are steps."
+    ],
+    "table": {
+     "caption": "d20, once each Coinsday",
+     "headers": [
+      "d20",
+      "The news"
+     ],
+     "rows": [
+      [
+       "1",
+       "A convoy is lost in the southern lanes. Corvane Packets −3, Brennvar −2, every voyage −3."
+      ],
+      [
+       "2",
+       "Storm season comes early. Corvane Packets −1; Stormreach Yards +2 and the Ropewalk +1 for the repairs."
+      ],
+      [
+       "3",
+       "A good herring year. Hallorn Salt +2."
+      ],
+      [
+       "4",
+       "A bad herring year, and talk of the Company buying the pans. Hallorn Salt −3, the Charterhouse Company +1."
+      ],
+      [
+       "5",
+       "The Charterhouse Company wins a new concession. The Company +3, Hallorn Salt −1."
+      ],
+      [
+       "6",
+       "A riot in a Company port. The Charterhouse Company −3."
+      ],
+      [
+       "7",
+       "News from the Front: a fortress-town changes hands. Roll a die: odd, the Imperium took it, Front Paper −3; even, the Alliance did, Front Paper +3."
+      ],
+      [
+       "8",
+       "A new Krysta seam at Darlath. Vantrey Glass +3."
+      ],
+      [
+       "9",
+       "A flawed stone sold as flawless, and the broadsheets have it. Vantrey Glass −3."
+      ],
+      [
+       "10",
+       "The oil is short and the Goldwind lanterns dim. Brennvar −2, the Lanternwrights' Paper −1."
+      ],
+      [
+       "11",
+       "A great catch comes home to Frosthold. Brennvar +3."
+      ],
+      [
+       "12",
+       "Silk is the fashion in the salons this season. Saffrane Silks +2."
+      ],
+      [
+       "13",
+       "A Pocchin caravan undersells Silverport. Saffrane Silks −2."
+      ],
+      [
+       "14",
+       "A Hunter company clears a pirate lane. Corvane Packets +2, every voyage +2."
+      ],
+      [
+       "15",
+       "The Free Tide raids a shipping lane. Corvane Packets −2, every voyage −2."
+      ],
+      [
+       "16",
+       "The Council borrows, and money goes tight. Charter Notes +1, everything else −1."
+      ],
+      [
+       "17",
+       "A rumor in the coffee-houses. One concern, the Game Master's choice, −2; if the rumor was false, +2 at the next Reading."
+      ],
+      [
+       "18",
+       "An Armada contract. Stormreach Yards +3, the Ropewalk +2, Hallorn Salt +1."
+      ],
+      [
+       "19",
+       "A King Tide year draws near, and insurance triples. Everything −1, every voyage −3."
+      ],
+      [
+       "20",
+       "A quiet Coinsday. Nothing but the dice."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Share-out",
+    "paragraphs": [
+     "Twice a year, at the last Reading of Idel and the last Reading of Okram, every concern pays its holders half its yearly share-out: so many in a hundred of the part's price that day. A concern whose part stands under half its listing price pays nothing that half-year.",
+     "A voyage pays only when the ship comes home. Roll a die at the end of its season: on a 1 it is lost, and its parts are worth nothing; on a 2 to 4 it is home, and each part pays twice its price; on a 5 or 6 it is a great voyage, and each part pays three times."
+    ]
+   },
+   {
+    "title": "The words of the Reading",
+    "paragraphs": [],
+    "list": [
+     "**On the tide:** up a step.",
+     "**On the ebb:** down a step.",
+     "**Dead water:** no change.",
+     "**High water:** up three steps at once. **Low water:** down three.",
+     "**Sunk:** struck from the Board. A concern whose part falls to a quarter of its listing price is sunk at the next Reading, and its parts are paper.",
+     "**A bell part:** a part bought on the morning of the Reading, before the bell, by someone who seems to know what the Reader will say."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A chalker at the Black Cup has been buying bell parts every Coinsday for a season, and has never once been wrong.",
+     "A voyage listed on the Board has two ships of the same name, sailing in opposite directions.",
+     "The Reader stopped in the middle of the Reading, looked at the Board, and walked out of the Hall. Nobody has read the rest."
+    ]
+   },
+   {
+    "title": "Tips",
+    "paragraphs": [],
+    "list": [
+     "Keep a card for each holding: the concern, the number of parts, and the price paid. Roll only for what the party holds.",
+     "Read the Reading aloud at the table, in the Reader's voice, and end it the Hall's way: “Written. Witnessed. Owed.”",
+     "A bell part is a story, not a sure thing: someone knew, and someone else will want to know how.",
+     "Make a voyage personal: a ship the party sailed on, a captain they owe, a cargo they once guarded."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "The noon bell is rung when *Noon* says so: the gold chronometer in the glass case beside the First Reckoner's door, the plainest of Ysmer Quillwick's Six Hours. The bell-ringer watches the chronometer, not the sun.",
+     "The chalkers' marks on the Black Cup's walls are washed off every Coinsday at noon, and the walls are a little greyer every year.",
+     "A part in a voyage is the cheapest way into the Hall: one Anchor buys a share of a ship, and the dockers' clubs of the Commons pool their Bits to buy one together."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Reader reads what the Chapter wrote down the night before. The dice are for the rest of us.” (a chalker at Merrow's)",
+     "“Buy Front Paper when the bells ring for a victory, and sell it before the casualty lists come in.” (an old hand at the Black Cup)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBCb2FyZCBjYW4gYmUgc3RlZXJlZC4qKiBUaGUgQ2hhcHRlciBtZWV0cyB0aGUgbmlnaHQgYmVmb3JlIGV2ZXJ5IFJlYWRpbmcgYW5kIGFncmVlcyB0aGUgbnVtYmVyIGl0IHdpbGwgcmVhZCBmb3IgZXZlcnkgY29uY2VybjsgdGhlIGRpY2UgYXQgdGhlIHRhYmxlIGFyZSB3aGF0IHRoZSBDaGFwdGVyIGNvdWxkIG5vdCBhZ3JlZS4gVGhlIEZpcnN0IFJlY2tvbmVyIGNhbiBtb3ZlIGFueSBjb25jZXJuIG9uZSBzdGVwLCBhbmQgaGFzLiBUaGUgSGFsbCdzIGF1ZGl0b3JzIGhhdmUgbmV2ZXIgYXNrZWQgd2hlcmUgdGhlIGJlbGwgcGFydHMgY29tZSBmcm9tLiIsICIqKlRoZSBDb21wYW55IGlzIGJ1eWluZy4qKiBUaHJvdWdoIEhvdXNlIFphbmUncyBjaGFsa2VycywgdGhlIENoYXJ0ZXJob3VzZSBDb21wYW55IGJ1eXMgcGFydHMgaW4gdGhlIENvcnZhbmUgUGFja2V0cyBhbmQgaW4gSGFsbG9ybiBTYWx0IGV2ZXJ5IENvaW5zZGF5LCBhIGZldyBhdCBhIHRpbWU6IG9uZSBtb3JlIHJvYWQgdG8gdGhlIFNwaXJlIEZsb29yLCBhbmQgdG8gdGhlIGJvYXJkLXByaWNlLiIsICIqKkJyZW5udmFyJ3MgY2F0Y2hlcy4qKiBUaGUgZ3JlYXQgY2F0Y2hlcyB0aGF0IHNlbmQgQnJlbm52YXIncyBTb3V0aGVybiBGbGVldCB0byBoaWdoIHdhdGVyIGNvbWUgZnJvbSB0aGUgU2VhbGVkIFdhdGVycyBvZmYgTXV0ZXdhdGVyLiJdfQ=="
+   }
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
