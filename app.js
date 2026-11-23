@@ -314,6 +314,11 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
+ "gullmarket": [["gullmarket-coinsday","Coinsday on Fish Row","Coinsday en Fish Row","A fishwife raises a mackerel as a buyer holds up a coin.","Una pescadera alza una caballa mientras una compradora le muestra una moneda.",{"width":1536,"height":864}]],
+ "the-ropewalks": [["ropewalks-armada","The Armada’s thread","El hilo de la Armada","A ropewalker twists a colored thread into a line for the fleet.","Un cordelero incorpora un hilo de color al cabo de la flota.",{"width":1536,"height":512}]],
+ "the-smokes": [["smokes-barrel-row","Barrel Row","La calle de los toneleros","A cooper brands a barrel lid beside the smokehouses.","Un tonelero marca a fuego una tapa junto a los ahumaderos.",{"width":1536,"height":864}]],
+ "the-tangle": [["tangle-common-hearth","Before dawn at the Common Hearth","Antes del alba en el hogar comunitario","A neighbor adds a log while the courtyard still lies in shadow.","Una vecina añade un leño mientras el patio sigue en penumbra.",{"width":1536,"height":864}]],
+ "the-canals": [["canals-kettle-bridge","Beneath the Kettle Bridge","Bajo el Puente de la Tetera","A boatman sings as his boat clears the stone arch.","Un barquero canta al salir de debajo del arco de piedra.",{"width":1536,"height":864}]],
  "university": [["university-painterly-v1", "Charts and scholarship", "Cartas y estudios", "Charts, science, and arcane study share a courtyard in Goldwind.", "Las cartas de navegación, la ciencia y el estudio arcano comparten un patio en Goldwind.", {"directory":"powers","width":1536,"height":1024,"presentation":"gallery"}]],
  "arbiters": [["hall-of-threads-approved-v1", "The Hall of Threads", "El Salón de los Hilos", "Retired Arbiter regalia is preserved with commemorative plaques in Goldwind’s Hall of Threads.", "Los atuendos de antiguos Árbitros se conservan con placas conmemorativas en el Salón de los Hilos de Goldwind.", {"width":1536,"height":1024}]],
  'house-wingate': [
