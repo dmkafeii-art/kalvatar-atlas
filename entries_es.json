@@ -15384,50 +15384,6 @@
     }
    },
    {
-    "title": "El Puerto Bajo",
-    "paragraphs": [
-     "El puerto propio del Común, para barcas de pesca, gabarras y todo casco demasiado pequeño o demasiado pobre para el Puerto Soberano. Es el puerto más ruidoso del [[Corazón|Heartland]], y en Liora, cuando los puertos celebran los [[Juegos del Merrin|Merrin Games]], lo es todavía más.",
-     "Las viudas de los pescadores le traen aquí su sal a la [[Madre que Ahoga|Drowning Mother]], y los sastres y los proveedores de la orilla remiendan lo que el mar rompe."
-    ]
-   },
-   {
-    "title": "Los Canales",
-    "paragraphs": [
-     "El barrio donde los canales que cruzan los anillos bajos de Ventoro corren más apretados: cien puentecitos, botes a toda hora y casas cuya puerta principal es un amarradero. Las [[vacas del alga|wrack cows]] remolcan las barcazas, los barqueros tienen una canción para cada puente, y una dirección en los Canales se da en puentes, no en calles."
-    ]
-   },
-   {
-    "title": "El Mercado de las Gaviotas",
-    "paragraphs": [
-     "El mercado de la gente común. Todo cuesta Olas, todo lo vende alguien a gritos, y las gaviotas llegan primero. Pescado del Puerto Bajo al amanecer, de todo de segunda mano al mediodía, y comida caliente hasta que se encienden las lámparas.",
-     "No es el Gran Bazar del Corazón, y está orgulloso de no serlo: el Bazar le vende a todas las islas, y el Mercado de las Gaviotas le vende al Común. Una [[Mano Dorada|Gilt Hand]] trabaja cada multitud que se junta ahí, y los niños de la vieja Pell conocen cada puesto."
-    ]
-   },
-   {
-    "title": "Las Cordelerías",
-    "paragraphs": [
-     "Galpones largos y angostos donde la cuerda se tuerce a cuatrocientos metros por vez, y los talleres de velas, los remendadores de redes y los fabricantes de motones que viven al lado. Cada cabo de un barco de Ventoro se torció aquí, y un cordelero te dice de qué manos salió un nudo con solo mirarlo."
-    ]
-   },
-   {
-    "title": "Los Ahumaderos",
-    "paragraphs": [
-     "El barrio de los saladores de pescado y los ahumaderos, a sotavento de todo lo demás a propósito. El humo cuelga encima de día y de noche, y el pescado salado que alimenta a la Armada, y a los ejércitos del Frente al otro lado del estrecho, empieza aquí."
-    ]
-   },
-   {
-    "title": "La Maraña",
-    "paragraphs": [
-     "El barrio más viejo y más pobre: callejones que se doblan sobre sí mismos, casas apoyadas unas en otras y escaleras que llevan a un lugar distinto cada año. La guardia la recorre de a dos. Los que viven ahí dicen que es el barrio más seguro de la ciudad, si vives ahí."
-    ]
-   },
-   {
-    "title": "La Colina de las Cometas",
-    "paragraphs": [
-     "La colina a espaldas del Común, donde están las tabernas y el viento. Cualquier tarde clara su cielo se llena de cometas de pelea, y los apostadores de cometas toman apuestas sobre cada hilo. Fuera de la temporada social, cuando terminan los bailes de los anillos de arriba, las noches de Ventoro son de las tabernas de la Colina."
-    ]
-   },
-   {
     "title": "Quién guarda el orden",
     "paragraphs": [
      "La guardia de la ciudad, de a dos. [[Costalarga|the Longshore]], el gremio de los estibadores, cuya jefa, Morgha [[Sostenmuros|Wall-Holder]], manda en los muelles. Las Manos Doradas, que le vacían los bolsillos al Común y le guardan la paz a su manera. Y los barrios mismos, que arreglan casi todo antes de que la guardia se entere."
@@ -15437,25 +15393,485 @@
     "title": "Ganchos de aventura",
     "paragraphs": [],
     "list": [
-     "Un canal de los Canales ha empezado a correr al revés de noche, y los barqueros no trabajan después de que oscurece.",
-     "Ochocientos metros de cuerda, torcidos para un barco de la Armada, salieron caminando de un galpón de las Cordelerías durante la noche.",
-     "El mejor peleador de cometas de la Colina nunca ha perdido un hilo, y alguien está pagando buenas Mareas por saber por qué."
+     "Costalarga ha parado el trabajo en los muelles, y cada barrio del Común ha tomado partido.",
+     "Alguien nuevo está cobrando la sal (el dinero de protección, en palabras de la Resaca) barrio por barrio, y ya llegó hasta los Ahumaderos."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Cada puente de los Canales tiene nombre, y uno tiene dos. Pregúntales a los barqueros cuál, y te cambian de tema.” (una balsera de los Canales)",
-     "“Las cometas de la Colina no son para jugar. En las noches claras las Manos Doradas mandan recados por todo el Común con ellas.” (un guardia, recorriendo la Maraña de a dos)"
+     "“Allá arriba creen que el Común trabaja para ellos. Aquí abajo sabemos quién se moriría de hambre primero.” (un salador de los Ahumaderos)"
     ]
    }
   ],
   "aliases": [
-   "Puerto Bajo",
-   "el Puerto Bajo",
-   "Mercado de las Gaviotas",
-   "Colina de las Cometas"
+   "Común"
   ],
   "gloss": "The Commons"
+ },
+ "lower-harbor": {
+  "title": "El Puerto Bajo",
+  "subtitle": "El puerto propio del Común, y el más ruidoso del Corazón",
+  "summary": "El puerto de Ventoro para las barcas de pesca, las gabarras y todo casco demasiado pequeño o demasiado pobre para el Puerto Soberano. Es el puerto más ruidoso del Corazón, y en Liora lo es todavía más.",
+  "facts": [
+   [
+    "Barrio de",
+    "el Común, Ventoro"
+   ],
+   [
+    "Barcos",
+    "barcas de pesca, gabarras, transbordadores, pequeños comerciantes"
+   ],
+   [
+    "Conocido por",
+    "el ruido, y los Juegos del Merrin en Liora"
+   ],
+   [
+    "Antes de que salga un barco",
+    "sal en las Gradas de la Sal"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El puerto propio del [[Común|the Commons]], para barcas de pesca, gabarras y todo casco demasiado pequeño o demasiado pobre para el [[Puerto Soberano|Sovereign Harbor]]. Es el puerto más ruidoso del [[Corazón|Heartland]], y en Liora, cuando los puertos celebran los [[Juegos del Merrin|Merrin Games]], lo es todavía más.",
+     "Las viudas de los pescadores le traen aquí su sal a la [[Madre que Ahoga|Drowning Mother]], y los sastres y los proveedores de la orilla remiendan lo que el mar rompe."
+    ]
+   },
+   {
+    "title": "Qué hay ahí",
+    "paragraphs": [],
+    "list": [
+     "**Las Gradas de la Sal.** Una escalera de piedra que baja al agua, donde se deja una pizca de sal antes de que salga cada barco. Al atardecer las gradas están blancas.",
+     "**El Malecón Largo.** El rompeolas donde los barcos se amarran de a tres. Desde su punta empieza la Travesía del Puerto de los Juegos del Merrin.",
+     "**La campana del alba.** Suena cuando sale la flota de pesca, y otra vez cuando vuelve, que es cuando abre el Mercado de las Gaviotas.",
+     "**La fila de la orilla.** Sastres, proveedores y remendadores de velas, que arreglan lo que el mar rompió ayer."
+    ]
+   },
+   {
+    "title": "Costumbres",
+    "paragraphs": [],
+    "list": [
+     "Ningún barco sale del Puerto Bajo sin sal en las Gradas de la Sal. Un capitán que lo olvida no encuentra tripulación a la mañana siguiente.",
+     "Nadie en el Puerto Bajo habla bajito. Una voz baja en el agua quiere decir que algo anda mal."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Una barca de pesca volvió con la marea de la tarde, con las redes llenas y nadie a bordo.",
+     "Desde hace una semana, la sal que se deja en las Gradas de la Sal amanece desaparecida, y nadie vio quién se la llevó."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La Madre que Ahoga no necesita la sal. Las gaviotas sí. Por eso nadie las espanta de las Gradas.” (una vieja remendadora de redes)"
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "The Lower Harbor"
+ },
+ "the-canals": {
+  "title": "Los Canales",
+  "subtitle": "Cien puentes, y puertas que dan al agua",
+  "summary": "El barrio del Común donde los canales de Ventoro corren más apretados: cien puentecitos, botes a toda hora, y direcciones que se dan en puentes, no en calles.",
+  "facts": [
+   [
+    "Barrio de",
+    "el Común, Ventoro"
+   ],
+   [
+    "Puentes",
+    "unos cien, cada uno con nombre"
+   ],
+   [
+    "Cómo moverse",
+    "los barqueros, o los pies y buena memoria"
+   ],
+   [
+    "Remolque",
+    "vacas del alga"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Los canales cruzan todos los anillos bajos de [[Ventoro|Goldwind]], y en este barrio corren más apretados: cien puentecitos, botes a toda hora y casas cuya puerta principal es un amarradero.",
+     "Las [[vacas del alga|wrack cows]] remolcan las barcazas, los barqueros tienen una canción para cada puente, y una dirección en los Canales se da en puentes, no en calles: tercera puerta pasando el Puente de la Tetera, del lado seco."
+    ]
+   },
+   {
+    "title": "Qué hay ahí",
+    "paragraphs": [],
+    "list": [
+     "**El Puente de la Tetera,** el Puente de la Viuda, el Puente Torcido y unos noventa más. Cada uno tiene nombre, y los barqueros se los saben todos.",
+     "**La Puerta del Agua.** Las esclusas donde los canales se juntan con la bahía, abiertas con la marea alta y cerradas con la baja.",
+     "**Los corrales de las vacas.** Donde duermen de noche las vacas del alga que remolcan las barcazas, en la boca del canal. Los destiladores de kellum tienen aquí una manada.",
+     "**Las escaleras de los barqueros.** Cada puente tiene una, y en cada una espera un barquero."
+    ]
+   },
+   {
+    "title": "Costumbres",
+    "paragraphs": [],
+    "list": [
+     "En los Canales las direcciones se dan en puentes. Al forastero que pregunta por una calle le dan un bote.",
+     "Los barqueros cantan la canción de cada puente al pasar por debajo. Un bote que pasa bajo un puente en silencio es un bote que anda en algo."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un canal ha empezado a correr al revés de noche, y los barqueros no trabajan después de que oscurece.",
+     "Una de las canciones de los barqueros tiene una estrofa para un puente que no existe. Anoche, un bote fue a buscarlo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Cada puente de los Canales tiene nombre, y uno tiene dos. Pregúntales a los barqueros cuál, y te cambian de tema.” (una balsera de los Canales)"
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "The Canals"
+ },
+ "gullmarket": {
+  "title": "El Mercado de las Gaviotas",
+  "subtitle": "El mercado de la gente común, donde todo cuesta Olas",
+  "summary": "El mercado del Común. Todo cuesta Olas, todo lo vende alguien a gritos, y las gaviotas llegan primero. No es el Gran Bazar del Corazón, y está orgulloso de no serlo.",
+  "facts": [
+   [
+    "Barrio de",
+    "el Común, Ventoro"
+   ],
+   [
+    "Abre",
+    "cuando vuelve la flota de pesca"
+   ],
+   [
+    "Cierra",
+    "cuando se encienden las lámparas"
+   ],
+   [
+    "Precios",
+    "en Olas, cantados desde un cajón cada Monedía"
+   ],
+   [
+    "Cuida la bolsa",
+    "las Manos Doradas trabajan cada multitud"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El mercado de la gente común. Todo cuesta Olas, todo lo vende alguien a gritos, y las gaviotas llegan primero. Pescado del [[Puerto Bajo|Lower Harbor]] al amanecer, de todo de segunda mano al mediodía, y comida caliente hasta que se encienden las lámparas.",
+     "No es el Gran Bazar del [[Corazón|Heartland]], y está orgulloso de no serlo: el Bazar le vende a todas las islas, y el Mercado de las Gaviotas le vende al Común. Una [[Mano Dorada|Gilt Hand]] trabaja cada multitud que se junta ahí, y los niños de la vieja Pell conocen cada puesto."
+    ]
+   },
+   {
+    "title": "Qué hay ahí",
+    "paragraphs": [],
+    "list": [
+     "**La Fila del Pescado,** al amanecer, cuando entran los botes y las gaviotas con ellos.",
+     "**Segundas Manos,** donde todo fue de otro alguna vez, y algunas cosas todavía lo son.",
+     "**La Fila de las Teteras,** los puestos de comida caliente: guiso de pescado, masa frita y lo que esté más barato ese día.",
+     "**El cajón.** Cada [[Monedía|Coinsday]], mientras las Doce Banderas cantan el precio de tablero en el Piso de la Aguja, una pescadera subida a un cajón volteado canta el precio de todo en el Mercado de las Gaviotas. El Común le cree más a ella."
+    ]
+   },
+   {
+    "title": "Costumbres",
+    "paragraphs": [],
+    "list": [
+     "El primer precio es para las gaviotas. Nadie lo paga salvo un forastero.",
+     "Un puesto es de quien lo abre primero, y a las gaviotas se les aplica la misma regla."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Alguien está pagando con Anclas ahogadas en el Mercado de las Gaviotas, y las pescaderas quieren que el grupo averigüe quién antes que la guardia.",
+     "Un puesto de Segundas Manos vende cosas que se dieron por perdidas en el mar la temporada pasada, todavía mojadas."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La pescadera del cajón nunca ha cantado mal un precio. Las Doce Banderas sí, dos veces.” (un cargador del Mercado de las Gaviotas)"
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "The Gullmarket"
+ },
+ "the-ropewalks": {
+  "title": "Las Cordelerías",
+  "subtitle": "Cuerda, vela y red, torcidas para cada barco de la ciudad",
+  "summary": "El barrio de los galpones largos donde la cuerda de Ventoro se tuerce a cuatrocientos metros por vez, con los talleres de velas, los remendadores de redes y los fabricantes de motones al lado. Cada cabo de un barco de Ventoro se torció aquí.",
+  "facts": [
+   [
+    "Barrio de",
+    "el Común, Ventoro"
+   ],
+   [
+    "Hace",
+    "cuerda, vela, red y motones"
+   ],
+   [
+    "Galpón más largo",
+    "cuatrocientos metros"
+   ],
+   [
+    "Le vende a",
+    "la Armada, las flotas mercantes y cada pescador"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Galpones largos y angostos donde la cuerda se tuerce a cuatrocientos metros por vez, y los talleres de velas, los remendadores de redes y los fabricantes de motones que viven al lado. Cada cabo de un barco de [[Ventoro|Goldwind]] se torció aquí.",
+     "Los cordeleros hilan caminando hacia atrás, soltando la fibra desde la cintura, y uno bueno te dice de qué manos salió un nudo con solo mirarlo."
+    ]
+   },
+   {
+    "title": "Qué hay ahí",
+    "paragraphs": [],
+    "list": [
+     "**Los Galpones Largos.** Las cordelerías mismas, tan largas que un grito en una punta llega a la otra con un instante de atraso.",
+     "**El Patio del Alquitrán,** donde la cuerda se alquitrana contra el mar, y el olor llega hasta los Ahumaderos.",
+     "**Los talleres de velas,** salas altas con pisos tan anchos como para tender una vela mayor.",
+     "**El Taller de Motones,** donde se tornean las poleas de cada aparejo de la ciudad."
+    ]
+   },
+   {
+    "title": "Costumbres",
+    "paragraphs": [],
+    "list": [
+     "Cada cuerda torcida para la Armada lleva un hilo de color en el corazón. Corta una cuerda robada, y dice de qué flota la robaron.",
+     "Un cordelero que termina una cuerda hace el último nudo y no firma nada. El nudo es la firma."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Ochocientos metros de cuerda, torcidos para un barco de la Armada, salieron caminando de un galpón durante la noche.",
+     "Apareció un cuerpo atado con un nudo que ningún cordelero del barrio reconoce como suyo. La mejor de ellos quiere saber quién lo enseñó."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay una cuerda en los Galpones Largos que llevan treinta años torciendo y no está terminada. Nadie dice para quién es.” (un aprendiz de un taller de velas)"
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "The Ropewalks"
+ },
+ "the-smokes": {
+  "title": "Los Ahumaderos",
+  "subtitle": "Los saladores de pescado y los ahumaderos, a sotavento de todo",
+  "summary": "El barrio del Común de los saladores de pescado y los ahumaderos, a sotavento de todo lo demás a propósito. El pescado salado que alimenta a la Armada, y a los ejércitos del Frente al otro lado del estrecho, empieza aquí.",
+  "facts": [
+   [
+    "Barrio de",
+    "el Común, Ventoro"
+   ],
+   [
+    "Hace",
+    "pescado salado y ahumado"
+   ],
+   [
+    "Le vende a",
+    "la Armada, los barcos y los ejércitos del Frente"
+   ],
+   [
+    "Huele a",
+    "lo que te imaginas, y más"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El barrio de los saladores de pescado y los ahumaderos, a sotavento de todo lo demás a propósito. El humo cuelga encima de día y de noche, y el pescado salado que alimenta a la Armada, y a los ejércitos del Frente al otro lado del estrecho, empieza aquí.",
+     "Los barriles suben al norte por la [[Ruta de la Corona|Crown Route]] hasta los puertos de río de las Baronías de Oslirion, y los soldados de las Baronías se lo comen quejándose."
+    ]
+   },
+   {
+    "title": "Qué hay ahí",
+    "paragraphs": [],
+    "list": [
+     "**Los Patios de Salazón,** donde la pesca se abre, se sala y se apila al aire libre.",
+     "**Los Ahumaderos,** largos y bajos, con chimeneas que nunca se han enfriado.",
+     "**La Fila de los Barriles,** donde los toneleros empacan el pescado para la Armada y el Frente, y queman la marca del barrio en cada tapa.",
+     "**Los Pozos de Salmuera,** donde nadie se cae dos veces."
+    ]
+   },
+   {
+    "title": "Costumbres",
+    "paragraphs": [],
+    "list": [
+     "Cada barril que va al Frente lleva la marca del barrio quemada en la tapa. Un soldado del Frente que encuentra uno bueno se acuerda de la marca.",
+     "En los Ahumaderos nadie menciona el olor. El que lo menciona paga la siguiente ronda."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un barril que iba al Frente volvió de Taneth sin abrir, con una carta sellada adentro.",
+     "La chimenea de un ahumadero se enfrió por primera vez que alguien recuerde, y los saladores no quieren entrar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La mitad del Frente come el pescado de los Ahumaderos. La otra mitad come el del Imperio, y nadie de ningún lado dice cuál es peor.” (un tonelero de la Fila de los Barriles)"
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "The Smokes"
+ },
+ "the-tangle": {
+  "title": "La Maraña",
+  "subtitle": "El barrio más viejo y más pobre, todo callejones",
+  "summary": "El barrio más viejo y más pobre del Común: callejones que se doblan sobre sí mismos, casas apoyadas unas en otras y escaleras que llevan a un lugar distinto cada año. Los que viven ahí dicen que es el barrio más seguro de la ciudad, si vives ahí.",
+  "facts": [
+   [
+    "Barrio de",
+    "el Común, Ventoro"
+   ],
+   [
+    "El más viejo",
+    "y el más pobre"
+   ],
+   [
+    "La guardia",
+    "lo recorre de a dos"
+   ],
+   [
+    "La Guarda",
+    "se cumple aquí más que en ningún lado"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El barrio más viejo y más pobre: callejones que se doblan sobre sí mismos, casas apoyadas unas en otras y escaleras que llevan a un lugar distinto cada año, porque el que necesita una escalera se la construye.",
+     "La guardia lo recorre de a dos. Los que viven ahí dicen que es el barrio más seguro de la ciudad, si vives ahí."
+    ]
+   },
+   {
+    "title": "Qué hay ahí",
+    "paragraphs": [],
+    "list": [
+     "**Las escaleras.** Nadie las cuenta, porque al año siguiente la cuenta ya está mal.",
+     "**El Hogar Común,** un fuego de patio que no se ha apagado en la memoria de nadie, porque siempre hay alguien que se levanta a oscuras para mantenerlo.",
+     "**La puerta de la vieja Pell,** que nadie de la Maraña le señala a un forastero, y que cualquier niño sabe encontrar."
+    ]
+   },
+   {
+    "title": "Costumbres",
+    "paragraphs": [],
+    "list": [
+     "La [[Guarda|Keeping]] se cumple en la Maraña más que en ningún otro lugar de las islas: en una mañana fría siempre hay un fuego encendido antes de que nadie se levante, y nadie dice nunca quién lo encendió.",
+     "Hasta las Manos Doradas cumplen la Guarda, y fue en la Maraña donde la aprendieron."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Una escalera entera se movió durante la noche, y ahora sube a una casa que nadie había visto nunca.",
+     "El Hogar Común se apagó anoche. Nadie en la Maraña va a dormir hasta que alguien averigüe por qué."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las cometas de la Colina no son para jugar. En las noches claras las Manos Doradas mandan recados por todo el Común con ellas.” (un guardia, recorriendo la Maraña de a dos)"
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "The Tangle"
+ },
+ "kitehill": {
+  "title": "La Colina de las Cometas",
+  "subtitle": "Tabernas, viento y cometas de pelea",
+  "summary": "La colina a espaldas del Común, donde están las tabernas y el viento. Cualquier tarde clara su cielo se llena de cometas de pelea, y fuera de la temporada social las noches de Ventoro son de sus tabernas.",
+  "facts": [
+   [
+    "Barrio de",
+    "el Común, Ventoro"
+   ],
+   [
+    "Conocida por",
+    "las cometas de pelea, y las apuestas"
+   ],
+   [
+    "Mejor momento",
+    "una tarde clara, fuera de temporada"
+   ],
+   [
+    "Una cometa cortada",
+    "es de quien la atrapa"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La colina a espaldas del Común, donde están las tabernas y el viento. Cualquier tarde clara su cielo se llena de cometas de pelea, con los hilos cubiertos de vidrio para cortarse unas a otras, y los apostadores de cometas toman apuestas sobre cada hilo.",
+     "Fuera de la temporada social, cuando terminan los bailes de los anillos de arriba, las noches de [[Ventoro|Goldwind]] son de las tabernas de la Colina."
+    ]
+   },
+   {
+    "title": "Qué hay ahí",
+    "paragraphs": [],
+    "list": [
+     "**El Campo de las Cometas,** la cima pelada de la colina, donde se vuelan las peleas.",
+     "**El Muro de Tiza,** donde los apostadores anotan las apuestas con tiza, y las borran cuando la guardia sube la colina.",
+     "**Las tabernas:** el Hilo Cortado, la Gaviota y la Tetera, y el Último Carrete, que es la primera a la que se llega subiendo y la última de la que se sale.",
+     "**La Escalera Larga,** que baja al Mercado de las Gaviotas, y que es mucho más larga al final de la noche."
+    ]
+   },
+   {
+    "title": "Costumbres",
+    "paragraphs": [],
+    "list": [
+     "Una cometa cortada es de quien la atrapa, y los niños del Común corren detrás de cada una.",
+     "No se apuesta contra una cometa que uno ha volado. A favor, todo lo que quieras."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "El mejor peleador de cometas de la Colina nunca ha perdido un hilo, y alguien está pagando buenas Mareas por saber por qué.",
+     "Una cometa sin hilo lleva tres noches volando sobre la colina, y los apostadores toman apuestas sobre de quién es."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Muro de Tiza tiene una columna que nadie borra nunca. La guardia la lee todas las noches, y nunca dice ni una palabra.” (un tabernero del Hilo Cortado)"
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "Kitehill"
  }
 }

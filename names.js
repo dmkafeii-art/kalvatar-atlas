@@ -18,7 +18,8 @@
   'el nudo', 'el ciclo', 'el remiendo', 'el sello', 'el desatado', 'la marea libre', 'la puerta callada', 'el hombre pálido',
   'destello', 'terciopelo', 'mula', 'modorra', 'abuelo', 'el abuelo']);
  // The same in English (23 November): the drugs and the Grandfather are everyday words too ("velvet fur", "cobwebs glint").
- const PLAIN_EN = new Set(['glint', 'velvet', 'mule', 'drowse', 'grandfather', 'the grandfather']);
+ const PLAIN_EN = new Set(['glint', 'velvet', 'mule', 'drowse', 'grandfather', 'the grandfather',
+  'canals', 'the canals', 'smokes', 'the smokes', 'tangle', 'the tangle', 'ropewalks', 'the ropewalks']);  // and the Commons' wards
  const unlink = root => {
   if(!root.querySelectorAll) return;
   // both sets in either language: a page read in Spanish can still have its body in English

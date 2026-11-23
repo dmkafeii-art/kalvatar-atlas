@@ -54940,50 +54940,6 @@
     }
    },
    {
-    "title": "The Lower Harbor",
-    "paragraphs": [
-     "The Commons' own harbor, for fishing boats, lighters, and every hull too small or too poor for the Sovereign Harbor. It is the loudest harbor in the Heartland, and in Liora, when the harbors hold the Merrin Games, it is louder still.",
-     "The fishers' widows bring the Drowning Mother her salt here, and the tailors and chandlers of the waterfront mend whatever the sea tears."
-    ]
-   },
-   {
-    "title": "The Canals",
-    "paragraphs": [
-     "The ward where the canals that thread Goldwind's lower rings run thickest: a hundred little bridges, boats at every hour, and houses whose front door is a mooring. Wrack cows tow the barges, the boatmen have a song for every bridge, and an address in the Canals is given in bridges, not streets."
-    ]
-   },
-   {
-    "title": "The Gullmarket",
-    "paragraphs": [
-     "The commoners' market. Everything costs Bits, everything is sold by someone shouting, and the gulls get there first. Fish from the Lower Harbor at dawn, second-hand everything by noon, and hot food until the lamps come up.",
-     "It is not the Great Heartland Bazaar, and it is proud of it: the Bazaar sells to the whole islands, and the Gullmarket sells to the Commons. A Gilt Hand works every crowd in it, and Old Pell's children know every stall."
-    ]
-   },
-   {
-    "title": "The Ropewalks",
-    "paragraphs": [
-     "Long, narrow sheds where rope is walked out a quarter-mile at a time, and the sail-lofts, net-menders, and block-makers that live beside them. Every line on a Goldwind ship was laid here, and a ropewalker can tell you whose hands made a knot by looking at it."
-    ]
-   },
-   {
-    "title": "The Smokes",
-    "paragraphs": [
-     "The ward of the fish-salters and the smokehouses, downwind of everything else on purpose. The smoke hangs over it day and night, and the salt fish that feeds the Armada, and the armies of the Front across the strait, starts here."
-    ]
-   },
-   {
-    "title": "The Tangle",
-    "paragraphs": [
-     "The oldest and poorest ward: alleys that double back on themselves, houses leaning on one another, and stairs that go somewhere different every year. The watch walks it in pairs. The people who live there say it is the safest ward in the city, if you live there."
-    ]
-   },
-   {
-    "title": "Kitehill",
-    "paragraphs": [
-     "The hill at the Commons' back, where the taverns are and the wind is. On any clear evening the sky over it is full of fighting kites, and the kite-gamblers take a bet on every line. Out of the social season, when the balls on the rings above are over, Goldwind's nights belong to Kitehill's taverns."
-    ]
-   },
-   {
     "title": "Who keeps order",
     "paragraphs": [
      "The city watch, in pairs. The Longshore, the dockers' guild, whose boss Morgha Wall-Holder runs the wharves. The Gilt Hands, who pick the Commons' pockets and keep its peace in their own way. And the wards themselves, which settle most things before the watch hears of them."
@@ -54993,34 +54949,580 @@
     "title": "Adventure hooks",
     "paragraphs": [],
     "list": [
-     "A canal in the Canals has started running the wrong way at night, and the boatmen will not work after dark.",
-     "Four hundred fathoms of rope, laid for an Armada ship, walked out of a shed in the Ropewalks overnight.",
-     "Kitehill's best kite-fighter has never lost a line, and someone is paying good Tides to find out why."
+     "The Longshore has stopped work on the wharves, and every ward of the Commons has taken a side.",
+     "Someone new is collecting salt (protection money, in the Undertow's word) ward by ward, and has got as far as the Smokes."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Every bridge in the Canals has a name, and one of them has two. Ask the boatmen which, and they change the subject.” (a ferry-girl of the Canals)",
-     "“Kitehill's kites aren't for fun. On a clear night the Gilt Hands send word across the whole Commons with them.” (a watchman, walking the Tangle in a pair)"
+     "“Up the hill they think the Commons works for them. Down here we know who'd starve first.” (a salter of the Smokes)"
     ]
    }
   ],
   "related": [
    "goldwind",
+   "lower-harbor",
+   "the-canals",
+   "gullmarket",
+   "the-ropewalks",
+   "the-smokes",
+   "the-tangle",
+   "kitehill",
    "merrin-games",
    "drowning-mother",
    "morgha-wall-holder",
    "wrack-cow",
    "vice-and-the-black-market"
   ],
-  "aliases": [
-   "Lower Harbor",
-   "the Lower Harbor",
-   "Gullmarket",
-   "the Gullmarket",
-   "Kitehill"
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "lower-harbor",
+  "title": "The Lower Harbor",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "The Commons' own harbor, and the loudest in the Heartland",
+  "summary": "Goldwind's harbor for fishing boats, lighters, and every hull too small or too poor for the Sovereign Harbor. It is the loudest harbor in the Heartland, and in Liora it is louder still.",
+  "facts": [
+   [
+    "Ward of",
+    "the Commons, Goldwind"
+   ],
+   [
+    "Boats",
+    "fishing boats, lighters, ferries, small traders"
+   ],
+   [
+    "Known for",
+    "the noise, and the Merrin Games in Liora"
+   ],
+   [
+    "Before a boat goes out",
+    "salt on the Salt Steps"
+   ]
   ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The Commons' own harbor, for fishing boats, lighters, and every hull too small or too poor for the Sovereign Harbor. It is the loudest harbor in the Heartland, and in Liora, when the harbors hold the Merrin Games, it is louder still.",
+     "The fishers' widows bring the Drowning Mother her salt here, and the tailors and chandlers of the waterfront mend whatever the sea tears."
+    ]
+   },
+   {
+    "title": "What you find there",
+    "paragraphs": [],
+    "list": [
+     "**The Salt Steps.** A stone stair down to the water, where a pinch of salt is left before every boat goes out. By evening the steps are white.",
+     "**The Long Mole.** The breakwater where the boats tie up three deep. The Harbor Swim of the Merrin Games starts from its end.",
+     "**The dawn bell.** Rung when the fishing fleet goes out, and again when it comes back, which is when the Gullmarket opens.",
+     "**The waterfront row.** Tailors, chandlers, and sail-menders, who mend whatever the sea tore yesterday."
+    ]
+   },
+   {
+    "title": "Customs",
+    "paragraphs": [],
+    "list": [
+     "No boat leaves the Lower Harbor without salt on the Salt Steps. A captain who forgets will not find a crew the next morning.",
+     "Nobody in the Lower Harbor talks quietly. A quiet voice on the water means something is wrong."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A fishing boat came back on the evening tide with its nets full and no one aboard.",
+     "For a week, the salt left on the Salt Steps has been gone by morning, and nobody saw who took it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Drowning Mother doesn't need the salt. The gulls do. That's why nobody shoos them off the Steps.” (an old net-mender)"
+    ]
+   }
+  ],
+  "related": [
+   "the-commons",
+   "goldwind",
+   "merrin-games",
+   "drowning-mother",
+   "gullmarket"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "the-canals",
+  "title": "The Canals",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "A hundred bridges, and doors that open on the water",
+  "summary": "The ward of the Commons where Goldwind's canals run thickest: a hundred little bridges, boats at every hour, and addresses given in bridges, not streets.",
+  "facts": [
+   [
+    "Ward of",
+    "the Commons, Goldwind"
+   ],
+   [
+    "Bridges",
+    "about a hundred, every one with a name"
+   ],
+   [
+    "Getting around",
+    "the boatmen, or your feet and a good memory"
+   ],
+   [
+    "Towing",
+    "wrack cows"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The canals thread all of Goldwind's lower rings, and in this ward they run thickest: a hundred little bridges, boats at every hour, and houses whose front door is a mooring.",
+     "Wrack cows tow the barges, the boatmen have a song for every bridge, and an address in the Canals is given in bridges, not streets: third door past the Kettle Bridge, on the dry side."
+    ]
+   },
+   {
+    "title": "What you find there",
+    "paragraphs": [],
+    "list": [
+     "**The Kettle Bridge,** the Widow's Bridge, the Crooked Bridge, and some ninety more. Every one has a name, and the boatmen know them all.",
+     "**The Water-Gate.** The locks where the canals meet the bay, kept open on the flood and shut on the ebb.",
+     "**The cow-pens.** Where the wrack cows that tow the barges are stabled at night, at the canal mouth. The Stillwrights keep a herd here.",
+     "**The boatmen's stairs.** Every bridge has one, and every boatman waits at one."
+    ]
+   },
+   {
+    "title": "Customs",
+    "paragraphs": [],
+    "list": [
+     "Directions in the Canals are given in bridges. A stranger who asks for a street is given a boat.",
+     "The boatmen sing the bridge's song as they pass under it. A boat that passes under a bridge in silence is a boat that is up to something."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A canal has started running the wrong way at night, and the boatmen will not work after dark.",
+     "One of the boatmen's songs has a verse for a bridge that does not exist. Last night, a boat went looking for it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Every bridge in the Canals has a name, and one of them has two. Ask the boatmen which, and they change the subject.” (a ferry-girl of the Canals)"
+    ]
+   }
+  ],
+  "related": [
+   "the-commons",
+   "goldwind",
+   "wrack-cow"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "gullmarket",
+  "title": "The Gullmarket",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "The commoners' market, where everything costs Bits",
+  "summary": "The Commons' market. Everything costs Bits, everything is sold by someone shouting, and the gulls get there first. It is not the Great Heartland Bazaar, and it is proud of it.",
+  "facts": [
+   [
+    "Ward of",
+    "the Commons, Goldwind"
+   ],
+   [
+    "Opens",
+    "when the fishing fleet comes back"
+   ],
+   [
+    "Closes",
+    "when the lamps come up"
+   ],
+   [
+    "Prices",
+    "in Bits, called from a crate on Coinsday"
+   ],
+   [
+    "Watch your purse",
+    "the Gilt Hands work every crowd"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The commoners' market. Everything costs Bits, everything is sold by someone shouting, and the gulls get there first. Fish from the Lower Harbor at dawn, second-hand everything by noon, and hot food until the lamps come up.",
+     "It is not the Great Heartland Bazaar, and it is proud of it: the Bazaar sells to the whole islands, and the Gullmarket sells to the Commons. A Gilt Hand works every crowd in it, and Old Pell's children know every stall."
+    ]
+   },
+   {
+    "title": "What you find there",
+    "paragraphs": [],
+    "list": [
+     "**Fish Row,** at dawn, when the boats come in and the gulls come with them.",
+     "**Second Hands,** where everything has belonged to somebody else, and some of it still does.",
+     "**Kettle Row,** the hot-food stalls: fish stew, fried dough, and whatever is cheapest that day.",
+     "**The crate.** On Coinsday, while the Twelve Flags call the board-price on the Spire Floor, a fishwife on an upturned crate calls the Gullmarket's price of everything. The Commons trusts hers more."
+    ]
+   },
+   {
+    "title": "Customs",
+    "paragraphs": [],
+    "list": [
+     "The first price is for the gulls. Nobody pays it but a stranger.",
+     "A stall is held by whoever opens it first, and the gulls are held to the same rule."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Someone is paying in drowned Anchors at the Gullmarket, and the fishwives want the party to find out who before the watch does.",
+     "A stall in Second Hands is selling things that were reported lost at sea last season, still wet."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The fishwife on the crate has never once called a price wrong. The Twelve Flags have, twice.” (a Gullmarket porter)"
+    ]
+   }
+  ],
+  "related": [
+   "the-commons",
+   "goldwind",
+   "lower-harbor",
+   "vice-and-the-black-market"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "the-ropewalks",
+  "title": "The Ropewalks",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "Rope, sail, and net, laid for every ship in the city",
+  "summary": "The ward of the long sheds where Goldwind's rope is walked out a quarter-mile at a time, with the sail-lofts, net-menders, and block-makers beside them. Every line on a Goldwind ship was laid here.",
+  "facts": [
+   [
+    "Ward of",
+    "the Commons, Goldwind"
+   ],
+   [
+    "Makes",
+    "rope, sail, net, and blocks"
+   ],
+   [
+    "Longest shed",
+    "a quarter-mile"
+   ],
+   [
+    "Sells to",
+    "the Armada, the merchant fleets, and every fisher"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "Long, narrow sheds where rope is walked out a quarter-mile at a time, and the sail-lofts, net-menders, and block-makers that live beside them. Every line on a Goldwind ship was laid here.",
+     "The ropewalkers spin walking backward, the fiber paid out from their waists, and a good one can tell you whose hands made a knot by looking at it."
+    ]
+   },
+   {
+    "title": "What you find there",
+    "paragraphs": [],
+    "list": [
+     "**The Long Sheds.** The rope-walks themselves, so long that a shout at one end arrives at the other a moment late.",
+     "**The Tar Yard,** where rope is tarred against the sea, and the smell reaches the Smokes.",
+     "**The sail-lofts,** high rooms with floors wide enough to lay a mainsail flat.",
+     "**The Block Shop,** where pulleys are turned for every rig in the city."
+    ]
+   },
+   {
+    "title": "Customs",
+    "paragraphs": [],
+    "list": [
+     "Every rope laid for the Armada carries a colored thread through its heart. Cut a stolen rope, and it names the fleet it was stolen from.",
+     "A ropewalker who finishes a rope ties the last knot and signs nothing. The knot is the signature."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Four hundred fathoms of rope, laid for an Armada ship, walked out of a shed overnight.",
+     "A body was found tied with a knot no ropewalker in the ward will admit to. The best of them wants to know who taught it."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“There's a rope in the Long Sheds that's been walked for thirty years and isn't finished. Nobody will say who it's for.” (a sail-loft apprentice)"
+    ]
+   }
+  ],
+  "related": [
+   "the-commons",
+   "goldwind",
+   "the-smokes"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "the-smokes",
+  "title": "The Smokes",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "The fish-salters and the smokehouses, downwind of everything",
+  "summary": "The Commons' ward of fish-salters and smokehouses, downwind of everything else on purpose. The salt fish that feeds the Armada, and the armies of the Front across the strait, starts here.",
+  "facts": [
+   [
+    "Ward of",
+    "the Commons, Goldwind"
+   ],
+   [
+    "Makes",
+    "salt fish and smoked fish"
+   ],
+   [
+    "Sells to",
+    "the Armada, the ships, and the armies of the Front"
+   ],
+   [
+    "Smells like",
+    "you would expect, and more so"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The ward of the fish-salters and the smokehouses, downwind of everything else on purpose. The smoke hangs over it day and night, and the salt fish that feeds the Armada, and the armies of the Front across the strait, starts here.",
+     "The barrels go north on the Crown Route to the river-ports of the Oslirion Baronies, and the Baronies' soldiers eat it with complaint."
+    ]
+   },
+   {
+    "title": "What you find there",
+    "paragraphs": [],
+    "list": [
+     "**The Salting Yards,** where the catch is split, salted, and stacked in the open air.",
+     "**The Smokehouses,** long and low, with chimneys that have never once gone cold.",
+     "**Barrel Row,** where the coopers pack the fish for the Armada and the Front, and burn the Smokes' mark into every lid.",
+     "**The Brine Pits,** which nobody falls into twice."
+    ]
+   },
+   {
+    "title": "Customs",
+    "paragraphs": [],
+    "list": [
+     "Every barrel bound for the Front carries the Smokes' mark burnt into its lid. A soldier on the Front who finds a good one remembers the mark.",
+     "In the Smokes nobody mentions the smell. Whoever does buys the next round."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A barrel bound for the Front came back from Taneth unopened, with a letter sealed inside it.",
+     "A smokehouse chimney has gone cold for the first time anyone remembers, and the salters will not go in."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Half the Front eats the Smokes' fish. The other half eats the Imperium's, and nobody on either side will say whose is worse.” (a cooper of Barrel Row)"
+    ]
+   }
+  ],
+  "related": [
+   "the-commons",
+   "goldwind",
+   "assios-and-the-wider-world",
+   "the-ropewalks"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "the-tangle",
+  "title": "The Tangle",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "The oldest and poorest ward, all alleys",
+  "summary": "The Commons' oldest and poorest ward: alleys that double back on themselves, houses leaning on one another, and stairs that go somewhere different every year. The people who live there say it is the safest ward in the city, if you live there.",
+  "facts": [
+   [
+    "Ward of",
+    "the Commons, Goldwind"
+   ],
+   [
+    "The oldest",
+    "and the poorest"
+   ],
+   [
+    "The watch",
+    "walks it in pairs"
+   ],
+   [
+    "The Keeping",
+    "kept harder here than anywhere"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The oldest and poorest ward: alleys that double back on themselves, houses leaning on one another, and stairs that go somewhere different every year, because whoever needs a stair builds one.",
+     "The watch walks it in pairs. The people who live there say it is the safest ward in the city, if you live there."
+    ]
+   },
+   {
+    "title": "What you find there",
+    "paragraphs": [],
+    "list": [
+     "**The stairs.** Nobody counts them, because the count is wrong by next year.",
+     "**The Common Hearth,** a courtyard fire that has not gone out in living memory, because somebody always gets up in the dark to keep it.",
+     "**Old Pell's door,** which nobody in the Tangle will point out to a stranger, and every child can find."
+    ]
+   },
+   {
+    "title": "Customs",
+    "paragraphs": [],
+    "list": [
+     "The Keeping is kept harder in the Tangle than anywhere in the islands: on a cold morning there is always a fire lit before anyone else is up, and nobody ever says who lit it.",
+     "Even the Gilt Hands keep the Keeping, and the Tangle is where they learned it."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A whole stair moved overnight, and now it leads up into a house nobody has ever seen before.",
+     "The Common Hearth went out last night. Nobody in the Tangle will sleep until somebody finds out why."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Kitehill's kites aren't for fun. On a clear night the Gilt Hands send word across the whole Commons with them.” (a watchman, walking the Tangle in a pair)"
+    ]
+   }
+  ],
+  "related": [
+   "the-commons",
+   "goldwind",
+   "kitehill"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "kitehill",
+  "title": "Kitehill",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "Taverns, wind, and fighting kites",
+  "summary": "The hill at the Commons' back, where the taverns are and the wind is. On any clear evening its sky is full of fighting kites, and out of the social season Goldwind's nights belong to its taverns.",
+  "facts": [
+   [
+    "Ward of",
+    "the Commons, Goldwind"
+   ],
+   [
+    "Known for",
+    "fighting kites, and the bets on them"
+   ],
+   [
+    "Best time",
+    "a clear evening, out of season"
+   ],
+   [
+    "A cut kite",
+    "belongs to whoever catches it"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The hill at the Commons' back, where the taverns are and the wind is. On any clear evening the sky over it is full of fighting kites, their lines glassed to cut each other's, and the kite-gamblers take a bet on every line.",
+     "Out of the social season, when the balls on the rings above are over, Goldwind's nights belong to Kitehill's taverns."
+    ]
+   },
+   {
+    "title": "What you find there",
+    "paragraphs": [],
+    "list": [
+     "**The Kite Ground,** the bare top of the hill, where the fights are flown.",
+     "**The Chalk Wall,** where the kite-gamblers chalk the odds, and wipe them off when the watch comes up the hill.",
+     "**The taverns:** the Cut Line, the Gull and Kettle, and the Last Spool, which is the first one anybody reaches coming up and the last one anybody leaves.",
+     "**The Long Stair,** down to the Gullmarket, which is much longer at the end of the night."
+    ]
+   },
+   {
+    "title": "Customs",
+    "paragraphs": [],
+    "list": [
+     "A cut kite belongs to whoever catches it, and the children of the Commons run for every one.",
+     "You don't bet against a kite you have flown. You can bet on it as much as you like."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Kitehill's best kite-fighter has never lost a line, and someone is paying good Tides to find out why.",
+     "A kite with no line has been flying over the hill for three nights, and the kite-gamblers are taking bets on who it belongs to."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The Chalk Wall has a column nobody ever wipes. The watch reads it every night, and never says a word.” (a tavern-keeper of the Cut Line)"
+    ]
+   }
+  ],
+  "related": [
+   "the-commons",
+   "goldwind",
+   "the-tangle",
+   "gullmarket"
+  ],
+  "aliases": [],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "complete"
