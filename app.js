@@ -255,6 +255,7 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ 'azhani': ['folk', 'Azhani Emberstep dances on glowing embers at the Gullmarket.', 'Azhani Emberstep baila sobre las brasas en el Gullmarket.', 'azhani', {width:1024,height:1536}],
  "the-commons": ["scenes", "Neighbors trade and work along a street in the Commons.", "Los vecinos compran y trabajan en una calle de El Común.", "the-commons-approved-v1", {"width": 1536, "height": 1024}],
  "the-canals": ["scenes", "A boatwoman sings as she passes beneath the Kettle Bridge.", "Una barquera canta al pasar bajo el Puente de la Tetera.", "the-canals-approved-v1", {"width": 1536, "height": 1024}],
  "gullmarket": ["scenes", "The Gullmarket pricecaller calls from her crate as neighbors shop and eat.", "La pregonera del Gullmarket canta los precios desde su caja mientras los vecinos compran y comen.", "gullmarket-approved-v1", {"width": 1536, "height": 1024}],
