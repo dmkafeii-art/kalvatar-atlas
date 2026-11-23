@@ -12324,32 +12324,96 @@
  },
  "khaz-aimar-maa-iq": {
   "title": "Khaz'Aimar Maa'iq",
-  "subtitle": "Un nombre en boca de todos",
-  "summary": "Capitán del barco Cazador la Última Palabra.",
+  "subtitle": "El Manonegra: un contrato que la Junta puede cerrar",
+  "summary": "Capitán de la compañía de Cazadores La Última Palabra: un antiguo corsario de las islas secas con un brazo de obsidiana negra, cuya palabra es lo único que no vende.",
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Historia",
     "paragraphs": [
-     "Khaz'Aimar Maa'iq es el capitán de la Última Palabra, una de las famosas tripulaciones de [[Cazadores|Hunters]]. En su tripulación están Ashok y Tecton.",
-     "Un contrato que toma la Última Palabra es un contrato que la [[Junta|Board]] puede cerrar: eso significa el nombre, y las [[Logias|Lodges]] han aprendido a creerlo."
+     "Khaz'Aimar Maa'iq capitanea La Última Palabra, una de las grandes tripulaciones de Cazadores, y la compañía lleva el nombre de su nave insignia, como manda la costumbre. Toma los contratos de las Logias y no jura lealtad a ninguna casa, corona ni bandera; como todo Cazador, solo responde a los [[Artículos de Fuerte de Hierro|Ironfort Articles]]. En su tripulación están Ashok y Tecton, y a ellos, y a los demás, los llama la familia que eligió.",
+     "Un contrato que toma La Última Palabra es un contrato que la Junta puede cerrar: eso significa el nombre, y las Logias han aprendido a creerlo.",
+     "Antes del sello navegó como corsario con patente de corso, desde las islas secas de las Tierras Salvajes del Sur. Todavía viste como uno: turbante ornamentado, prendas oscuras con detalles dorados, capa, faja verde, y los anillos y brazaletes de las islas secas subiéndole por el antebrazo, pero solo por el izquierdo."
+    ]
+   },
+   {
+    "title": "La Última Palabra",
+    "paragraphs": [],
+    "list": [
+     "**La flota.** Tres barcos: el galeón *La Última Palabra*, la nave insignia, y las fragatas *El Martín Pescador* y *La Garza*.",
+     "**El emblema.** Una mano negra abierta, con la palma y los dedos extendidos.",
+     "**El lema.** *[[Ninguna nación, solo la moneda. Ninguna piedad, solo la victoria. Ningún remordimiento, solo el botín.|No nation, only coin. No mercy, only victory. No regrets, only the spoils.]]* Es el lema de los años de corso, y sigue pintado bajo la mano en la popa de la nave insignia. Choca con el primer principio de los Cazadores, proteger al vulnerable, y las Logias hacen como que no lo leen: la compañía cumple sus contratos, y eso pesa más."
+    ]
+   },
+   {
+    "title": "El Manonegra",
+    "paragraphs": [
+     "Khaz'Aimar perdió el brazo derecho, y en su lugar lleva uno de obsidiana negra que se mueve y aprieta como el que perdió. De ahí le viene el nombre.",
+     "El brazo canaliza un poder de tonos violetas y púrpuras. No es la luz de la Krysta, que brilla dorada, y cualquiera que sepa de magia nota la diferencia. El Registro Arcano no sabe qué es el brazo, y Khaz'Aimar prefiere que siga así.",
+     "Es zurdo: la cimitarra de rubíes en la mano izquierda, el Manonegra en la derecha. La imagen que conocen las islas es esa: la cimitarra en alto, y la mano negra abierta, llenándose de luz violeta."
+    ]
+   },
+   {
+    "title": "Su palabra",
+    "paragraphs": [
+     "Miente, engaña, negocia y pelea sucio, y no finge lo contrario: es un corsario de oficio, no un caballero. Pero cuando da su palabra, la promesa deja de estar en venta, y ni un rey, ni un enemigo, ni una fortuna pueden comprarla de vuelta. Por eso la Junta confía en La Última Palabra: los Cazadores juran que los contratos atan, y él es de los pocos que lo cumple sin que nadie lo vigile.",
+     "“[[Todo tiene precio hasta que Khaz'Aimar te da su palabra. Después de eso, no hay Orsales suficientes en todas las islas.|Everything has a price until Khaz'Aimar gives you his word. After that, there aren't enough Orsals in all the islands.]]”"
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Khaz'Aimar nunca discute una tarifa. Dice una cifra y espera, y el otro siempre habla primero.” (un Maestro de Contratos)"
+     "“Khaz'Aimar nunca discute una tarifa. Dice una cifra y espera, y el otro siempre habla primero.” (un Maestro de Contratos)",
+     "“En las islas secas cuentan de un rey de ladrones que le pidió a un diablo no morir nunca. El diablo cumplió al pie de la letra: no murió, y nunca volvió a salir de su cráneo.” (un mercader de las islas secas)",
+     "“Ese brazo no es Krysta. Yo he visto Krysta. La Krysta no te devuelve la mirada.” (un escribiente del Registro, fuera de turno)",
+     "“Pregúntale a la gente de La Última Palabra para quién navega y te dirá que para los suyos. Pregúntale otra vez y te lo dirá más fuerte.” (un Intendente de una Logia)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkEgcXXDqSByZXNwb25kZSBlbCBicmF6by4qKiBFbCBwYXRyw7NuIGRlIEtoYXonQWltYXIgZXMgZWwgW1tSZXkgZGUgbG9zIExhZHJvbmVzfEtpbmcgb2YgVGhpZXZlc11dOiB1biBsaWNoIHkgdW4gYXJtYSB2aXZpZW50ZSwgY3V5byBjcsOhbmVvIGVzIGEgbGEgdmV6IHN1IGZpbGFjdGVyaWEgeSBzdSBwcmlzacOzbi4gQ29uY2VkZSB1biBwb2RlciBzb2JyZW5hdHVyYWwgdmVyZGFkZXJvLCB5IGZ1ZSDDqWwgcXVpZW4gbGUgZGV2b2x2acOzIGVsIGJyYXpvIGEgS2hheidBaW1hci4iLCAiKipEZSBsYSBjbGFzZSBkZWwgY29udHJhdG8uKiogU3UgcG9kZXIgZXMgaW5mZXJuYWwsIGRlbCB0aXBvIGRlIGxvcyBkaWFibG9zIChsYSBsZXksIGVsIGNvbnRyYXRvLCBsYSBwYWxhYnJhIHF1ZSBhdGEpLCB5IGZ1bmNpb25hIGNvbW8gdW4gY29udHJhdG86IGRhIGV4YWN0YW1lbnRlIGxvIHF1ZSBkaWNlLCBuaSB1bmEgcGFsYWJyYSBtw6FzLiIsICIqKkVsIGNhbWJpby4qKiBFbCBSZXkgZGUgbG9zIExhZHJvbmVzIHB1ZWRlIGNvbnZlcnRpcnNlIHBvY28gYSBwb2NvIGVuIHF1aWVuIGxvIGxsZXZhLiBFbiBLaGF6J0FpbWFyIHNlIG1hbmlmaWVzdGEgY29tbyB1bmEgaW5mbHVlbmNpYSBxdWUgYW1lbmF6YSBjb24gcmVlbXBsYXphciBsbyBxdWUgZXMuIE5vIG9kaWEgZWwgcG9kZXI7IGxvIHNhbHbDsy4gVGVtZSBxdWUgZWwgw7psdGltbyBwYWdvIHNlYSBkZWphciBkZSBzZXIgS2hheidBaW1hciBNYWEnaXEuIiwgIioqTGEgaGlzdG9yaWEgZGUgbGFzIGlzbGFzIHNlY2FzKiogcHVlZGUgc2VyIGRlIGVzdGEgY2FsYXZlcmEgbyBkZSBvdHJhLiBOYWRpZSBsbyBoYSBkaWNobywgbmkgc2lxdWllcmEgZWwgUmV5IGRlIGxvcyBMYWRyb25lcy4iLCAiKipUb2RhdsOtYSBhYmllcnRvLioqIE5vIHNlIGhhIGVzdGFibGVjaWRvIGPDs21vIHNlIHJlbGFjaW9uYW4gZWwgY3LDoW5lbywgZWwgYXJtYSB2aXZpZW50ZSwgZWwgYnJhem8gZGUgb2JzaWRpYW5hIHkgZWwgY2FtYmlvLiJdfQ=="
    }
   ],
   "facts": [
    [
-    "Barco",
-    "La [[Última Palabra|Last Word]]"
+    "Conocido como",
+    "el [[Manonegra|Blackhand]]"
+   ],
+   [
+    "Rango",
+    "Cazador de oro"
+   ],
+   [
+    "Compañía",
+    "La Última Palabra"
+   ],
+   [
+    "Barcos",
+    "La Última Palabra (galeón), El [[Martín Pescador|Kingfisher]] y La [[Garza|Heron]] (fragatas)"
    ],
    [
     "Tripulación",
     "Ashok, Tecton"
+   ],
+   [
+    "De",
+    "las [[islas secas|dry isles]] de las Tierras Salvajes del Sur"
+   ],
+   [
+    "Antes",
+    "corsario con patente de corso"
+   ],
+   [
+    "Hoja",
+    "una cimitarra con rubíes, en la mano izquierda"
+   ],
+   [
+    "Emblema",
+    "una mano negra abierta"
    ]
+  ],
+  "aliases": [
+   "el Manonegra"
   ]
  },
  "sandros-magnus": {

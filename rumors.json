@@ -3010,6 +3010,24 @@
   ]
  },
  {
+  "id": "rumor-khaz-1",
+  "text": "The Last Word's captain wears an arm of black obsidian, and when he opens the hand it fills with violet light. It isn't Krysta, whatever the Registry says.",
+  "heardAt": "heard on a Lodge's steps",
+  "region": "Southern Wilds",
+  "entries": [
+   "khaz-aimar-maa-iq"
+  ]
+ },
+ {
+  "id": "rumor-khaz-2",
+  "text": "Khaz'Aimar will lie to your face about the wind and the tide. Get his word, though, and you could not buy it back with every Orsal in Goldwind.",
+  "heardAt": "heard from a Contract-Master",
+  "region": "Central Heartland",
+  "entries": [
+   "khaz-aimar-maa-iq"
+  ]
+ },
+ {
   "id": "rumor-faewild-politics-1",
   "text": "The Dome at Halfwake was a throne room once. Ask yourself whose.",
   "heardAt": "heard from a road-fae clerk",

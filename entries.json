@@ -16443,6 +16443,9 @@
   "epigraph": {
    "quote": "Read anything they hand you. Then read it again.",
    "by": "A Goldwind advocate's advice to every client going to the Hall"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -16530,7 +16533,7 @@
      "Crimson Tide: Captain Bramgard, who breached and sank the Gaze of Abyss at the Kraken's Maw, and his First Mate Albion Tempest.",
      "Rolling Thunder: co-captains Uther and Gunther Banestorm.",
      "Jubilant: Captain Johann Faust of House Faust.",
-     "The Last Word: Captain Khaz'Aimar Maa'iq.",
+     "The Last Word: Captain Khaz'Aimar Maa'iq, the Blackhand, with three hulls under an open black hand.",
      "Zephyr: Sandros Magnus.",
      "Karnivool: a Hunters' ship and a traveling show at once, under captain and ringmaster Avalan Grant.",
      "Retribution's Wrath: Reinhardt Holst, disinherited by House Holst; the youngest Gold, seventeenth in the Ranking.",
@@ -35126,47 +35129,111 @@
   "title": "Khaz'Aimar Maa'iq",
   "category": "folk",
   "region": "All regions",
-  "subtitle": "A contract the Board can close",
-  "summary": "Captain of the Hunter ship The Last Word.",
+  "subtitle": "The Blackhand: a contract the Board can close",
+  "summary": "Captain of the Hunter company The Last Word: a former corsair of the dry isles with an arm of black obsidian, whose word is the one thing he will not sell.",
   "sections": [
    {
     "title": "Background",
     "paragraphs": [
-     "Khaz'Aimar Maa'iq is the captain of The Last Word, one of the famous Hunter crews. His crew counts Ashok and Tecton.",
-     "A contract the Last Word takes is a contract the Board can close: that is what the name means, and the Lodges have learned to believe it."
+     "Khaz'Aimar Maa'iq captains The Last Word, one of the great Hunter crews, and the company carries its flagship's name, as the custom goes. It takes the Lodges' contracts and swears to no house, crown, or flag; like every Hunter, it answers to the Ironfort Articles and nothing else. His crew counts Ashok and Tecton, and he calls them, and the rest, the family he chose.",
+     "A contract the Last Word takes is a contract the Board can close: that is what the name means, and the Lodges have learned to believe it.",
+     "Before the sigil he sailed as a corsair under letters of marque, out of the dry isles of the Southern Wilds. He still dresses like one: an ornate turban, dark cloth worked with gold, a cloak, a green sash, and the dry isles' rings and bangles climbing the left forearm only."
+    ]
+   },
+   {
+    "title": "The Last Word",
+    "paragraphs": [],
+    "list": [
+     "**The fleet.** Three hulls: the galleon *The Last Word*, the flagship, and the frigates *The Kingfisher* and *The Heron*.",
+     "**The emblem.** An open black hand, palm and fingers spread.",
+     "**The motto.** *No nation, only coin. No mercy, only victory. No regrets, only the spoils.* It is the motto of the corsair years, still painted under the hand on the flagship's stern. It sits badly with the first tenet of the Hunters, to protect the vulnerable, and the Lodges pretend not to read it: the company keeps its contracts, and that weighs more."
+    ]
+   },
+   {
+    "title": "The Blackhand",
+    "paragraphs": [
+     "Khaz'Aimar lost his right arm, and wears one of black obsidian in its place, which moves and grips like the one he lost. It gave him his name.",
+     "The arm draws on a power that shows violet and purple. It is not Krysta-light, which burns gold, and anyone who knows magic sees the difference. The Arcane Registry does not know what the arm is, and Khaz'Aimar would like that to stay true.",
+     "He is left-handed: the ruby-set scimitar in the left hand, the Blackhand in the right. The picture the islands know is that one: the scimitar raised, and the black hand open and filling with violet light."
+    ]
+   },
+   {
+    "title": "His word",
+    "paragraphs": [
+     "He lies, cheats, bargains, and fights dirty, and does not pretend otherwise: a corsair by trade, not a knight. But once he gives his word, it is no longer for sale, and no king, enemy, or fortune can buy it back. That is why the Board trusts the Last Word: the Hunters swear that contracts bind, and he is one of the few who keeps it with no one watching.",
+     "“Everything has a price until Khaz'Aimar gives you his word. After that, there aren't enough Orsals in all the islands.”"
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Khaz'Aimar never argues a fee. He names one, and waits, and the other side always talks first.” (a Contract-Master)"
+     "“Khaz'Aimar never argues a fee. He names one, and waits, and the other side always talks first.” (a Contract-Master)",
+     "“In the dry isles they tell of a king of thieves who asked a devil never to die. The devil kept the letter of it: he never died, and he never got out of his skull again.” (a dry-isles trader)",
+     "“That arm isn't Krysta. I've seen Krysta. Krysta doesn't look back at you.” (a Registry clerk, off duty)",
+     "“Ask the Last Word's people who they sail for and they'll say each other. Ask again and they'll say it louder.” (a Lodge Quartermaster)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoYXQgdGhlIGFybSBhbnN3ZXJzIHRvLioqIEtoYXonQWltYXIncyBwYXRyb24gaXMgdGhlIEtpbmcgb2YgVGhpZXZlczogYSBsaWNoIGFuZCBhIGxpdmluZyB3ZWFwb24sIHdob3NlIHNrdWxsIGlzIGF0IG9uY2UgaGlzIHBoeWxhY3RlcnkgYW5kIGhpcyBwcmlzb24uIEhlIGdyYW50cyByZWFsIHN1cGVybmF0dXJhbCBwb3dlciwgYW5kIGl0IHdhcyBoZSB3aG8gZ2F2ZSBLaGF6J0FpbWFyIGhpcyBhcm0gYmFjay4iLCAiKipPZiB0aGUgY29udHJhY3Qga2luZC4qKiBIaXMgcG93ZXIgaXMgaW5mZXJuYWwsIG9mIHRoZSBkZXZpbHMnIHNvcnQgKGxhdywgY29udHJhY3QsIHRoZSBiaW5kaW5nIHdvcmQpLCBhbmQgaXQgd29ya3MgbGlrZSBhIGNvbnRyYWN0OiBpdCBnaXZlcyBleGFjdGx5IHdoYXQgaXQgc2F5cywgYW5kIG5vdCBvbmUgd29yZCBtb3JlLiIsICIqKlRoZSBjaGFuZ2UuKiogVGhlIEtpbmcgb2YgVGhpZXZlcyBjYW4gc2xvd2x5IGJlY29tZSB3aG9ldmVyIGNhcnJpZXMgaGltLiBJbiBLaGF6J0FpbWFyIGl0IHNob3dzIGFzIGFuIGluZmx1ZW5jZSB0aGF0IHRocmVhdGVucyB0byByZXBsYWNlIHdobyBoZSBpcy4gSGUgZG9lcyBub3QgaGF0ZSB0aGUgcG93ZXI7IGl0IHNhdmVkIGhpbS4gSGUgZmVhcnMgdGhlIGxhc3QgcGF5bWVudCBpcyB0byBzdG9wIGJlaW5nIEtoYXonQWltYXIgTWFhJ2lxLiIsICIqKlRoZSBkcnktaXNsZXMgc3RvcnkqKiBtYXkgYmUgdGhpcyBza3VsbCdzIG9yIGFub3RoZXIncy4gTm8gb25lIGhhcyBzYWlkLCB0aGUgS2luZyBvZiBUaGlldmVzIGluY2x1ZGVkLiIsICIqKlN0aWxsIG9wZW4uKiogSG93IHRoZSBza3VsbCwgdGhlIGxpdmluZyB3ZWFwb24sIHRoZSBvYnNpZGlhbiBhcm0sIGFuZCB0aGUgY2hhbmdlIGJlbG9uZyB0b2dldGhlciBoYXMgbm90IGJlZW4gc2V0dGxlZC4iXX0="
    }
   ],
   "facts": [
    [
-    "Ship",
+    "Known as",
+    "the Blackhand"
+   ],
+   [
+    "Rank",
+    "Gold Hunter"
+   ],
+   [
+    "Company",
     "The Last Word"
+   ],
+   [
+    "Ships",
+    "The Last Word (galleon), The Kingfisher and The Heron (frigates)"
    ],
    [
     "Crew",
     "Ashok, Tecton"
+   ],
+   [
+    "From",
+    "the dry isles of the Southern Wilds"
+   ],
+   [
+    "Before",
+    "a corsair under letters of marque"
+   ],
+   [
+    "Blade",
+    "a ruby-set scimitar, in the left hand"
+   ],
+   [
+    "Emblem",
+    "an open black hand"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
   "aliases": [
-   "Khaz'Aimar"
+   "Khaz'Aimar",
+   "the Blackhand"
   ],
   "dossier": {
    "format": "character-v1",
    "status": "source-limited"
   },
   "translations": {
-   "es": "pending"
+   "es": "complete"
   },
   "related": [
    "great-hunter-crews",
-   "hunters"
+   "hunters",
+   "arcane-registry",
+   "southern-wilds"
   ]
  },
  {

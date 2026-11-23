@@ -7,9 +7,11 @@
  const BLOCK = 'p,li,dd,dt,h1,h2,h3,h4,figcaption,td,th,caption,blockquote';
  const SKIP = 'script,style,textarea,input,select,rt';
  const draw = el => {
-  const html = el.innerHTML, next = html.replace(RE, (m, es, en) => `<ruby class="kv-en">${es}<rt lang="en">(${en})</rt></ruby>`);
+  // a name sits over its English as ruby text; a whole phrase (a motto, a saying) gets its English on a line of its own under it
+  const html = el.innerHTML, next = html.replace(RE, (m, es, en) => es.replace(/<[^>]+>/g, '').length > 40
+   ? `${es}<span class="kv-en-line" lang="en">(${en})</span>` : `<ruby class="kv-en">${es}<rt lang="en">(${en})</rt></ruby>`);
   if(next !== html) el.innerHTML = next;
-  el.querySelectorAll('ruby.kv-en rt a').forEach(a => a.replaceWith(a.textContent));  // the English under a name is not a second link
+  el.querySelectorAll('ruby.kv-en rt a, .kv-en-line a').forEach(a => a.replaceWith(a.textContent));  // the English under a name is not a second link
  };
  // In Spanish some entry names are everyday words too ("abajo", "el hierro"): written in lowercase, they are the word, not the entry.
  const PLAIN = new Set(['abajo', 'bastión', 'el hierro', 'caos', 'la espada', 'el alféizar', 'la resaca', 'la mortaja', 'el rompeolas', 'la guarda',
@@ -36,7 +38,8 @@
  }
  const css = document.createElement('style');
  css.textContent = 'ruby.kv-en{-webkit-ruby-position:after;ruby-position:under;ruby-align:center;white-space:nowrap}' +
-  'ruby.kv-en>rt{font-size:.62em;font-style:italic;font-weight:400;letter-spacing:0;text-transform:none;opacity:.8;line-height:1.2}';
+  'ruby.kv-en>rt{font-size:.62em;font-style:italic;font-weight:400;letter-spacing:0;text-transform:none;opacity:.8;line-height:1.2}' +
+  '.kv-en-line{display:block;font-size:.72em;font-style:italic;font-weight:400;opacity:.8;margin:.2em 0 .35em}';
  document.head.append(css);
  new MutationObserver(list => list.forEach(m => m.addedNodes.forEach(scan))).observe(document.documentElement, {childList: true, subtree: true});
  document.addEventListener('DOMContentLoaded', () => scan(document.body));
