@@ -26868,7 +26868,7 @@
    "southern-wilds",
    "assios-and-the-wider-world",
    "memnara-the-unbroken-thread",
-   "seryn"
+   "azhani"
   ]
  },
  {
@@ -52646,7 +52646,7 @@
    "southhaven",
    "southern-movements",
    "undertow",
-   "seryn"
+   "azhani"
   ],
   "aliases": [
    "Lumai Okonja"
@@ -55580,7 +55580,7 @@
      "**Second Hands,** where everything has belonged to somebody else, and some of it still does.",
      "**Kettle Row,** the hot-food stalls: fish stew, fried dough, and whatever is cheapest that day.",
      "**The crate.** On Coinsday, while the Twelve Flags call the board-price on the Spire Floor, a fishwife on an upturned crate calls the Gullmarket's price of everything. The Commons trusts hers more.",
-     "**Seryn Emberstep.** When the crate has called the last price, Seryn Emberstep dances barefoot on the cobbles of Fish Row, and half the Commons stops work to watch. On festival nights she dances on the embers."
+     "**Azhani Emberstep.** When the crate has called the last price, Azhani Emberstep dances barefoot on the cobbles of Fish Row, and half the Commons stops work to watch. On festival nights she dances on the embers."
     ]
    },
    {
@@ -55611,7 +55611,7 @@
    "goldwind",
    "lower-harbor",
    "vice-and-the-black-market",
-   "seryn"
+   "azhani"
   ],
   "aliases": [],
   "source": "Kalvatar Library · 175 EC",
@@ -55924,7 +55924,7 @@
    "goldwind-kites",
    "the-tangle",
    "gullmarket",
-   "seryn"
+   "azhani"
   ],
   "aliases": [],
   "source": "Kalvatar Library · 175 EC",
@@ -56403,7 +56403,7 @@
    "goldwind",
    "reckoners-ledger",
    "the-commons",
-   "seryn"
+   "azhani"
   ],
   "sections": [
    {
@@ -56757,8 +56757,8 @@
   }
  },
  {
-  "id": "seryn",
-  "title": "Seryn Emberstep",
+  "id": "azhani",
+  "title": "Azhani Emberstep",
   "category": "folk",
   "region": "Central Heartland",
   "subtitle": "The dancer of the Gullmarket, who kneels to no one",
@@ -56766,7 +56766,7 @@
   "facts": [
    [
     "Known as",
-    "Emberstep; in the salons, Seryn of the Blue Hand"
+    "Emberstep; in the salons, Azhani of the Blue Hand"
    ],
    [
     "People",
@@ -56805,7 +56805,7 @@
    {
     "title": "Overview",
     "paragraphs": [
-     "Seryn is the most famous dancer in Goldwind. She is of the blue folk, the nomads of the dry isles, and she came north on a Free Sails ship some years ago with nothing but a drum and the brass on her arm. On Coinsday afternoons she dances on the cobbles of the Gullmarket; on kite nights she dances in the taverns of Kitehill; and in the social season the great houses pay her to dance in their salons, and pay more to have her stay for supper.",
+     "Azhani is the most famous dancer in Goldwind. She is of the blue folk, the nomads of the dry isles, and she came north on a Free Sails ship some years ago with nothing but a drum and the brass on her arm. On Coinsday afternoons she dances on the cobbles of the Gullmarket; on kite nights she dances in the taverns of Kitehill; and in the social season the great houses pay her to dance in their salons, and pay more to have her stay for supper.",
      "She is warm with the crowd, quick with a joke, and generous with the Gullmarket's children. With lords she is polite, and nothing more. The Commons calls her Emberstep, for the ember dance. Nobody in Goldwind has ever seen her in shoes."
     ]
    },
@@ -56832,7 +56832,7 @@
    {
     "title": "The ember dance",
     "paragraphs": [
-     "On festival nights the Gullmarket rakes the coals from the fishwives' braziers out across Fish Row, and Seryn dances on them. She comes off the embers the way she went on: her feet soft, clean, and unmarked. It earned her the name Emberstep in her first season, and it has filled the Gullmarket every festival since.",
+     "On festival nights the Gullmarket rakes the coals from the fishwives' braziers out across Fish Row, and Azhani dances on them. She comes off the embers the way she went on: her feet soft, clean, and unmarked. It earned her the name Emberstep in her first season, and it has filled the Gullmarket every festival since.",
      "The Commons argues about it endlessly: a trick, a salve, a Ringless working, a pact. The few in the crowd who pray to Sevrin say nothing, and look at the iron on her ankle."
     ]
    },
@@ -56856,7 +56856,7 @@
     "title": "Adventure hooks",
     "paragraphs": [],
     "list": [
-     "Someone has started a story in the Gullmarket that Seryn stole the brass on her arm. The fishwives want to know who before it sticks.",
+     "Someone has started a story in the Gullmarket that Azhani stole the brass on her arm. The fishwives want to know who before it sticks.",
      "A Charterhouse Company writ-man has watched her dance three Coinsdays running, and writes in a little book every time she ends.",
      "A Ringless hedge-mage swears the ember dance is a working and wants to prove it. He asks the party to get him close enough to her feet to find out.",
      "She hires the party to walk a “cousin” from the Canals to a Free Sails mooring at night. She asks no questions about their weapons, and answers none about the cousin."
@@ -56875,7 +56875,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoZSBsZWFkcyB0aGUgT3BlbiBMb2NrLCoqIHRoZSBDaGFpbmJyZWFrZXJzJyBjZWxsIGluIEdvbGR3aW5kOiBhIGRvemVuIGhhbmRzIHRoYXQgZG8gaW4gdGhlIGNhcGl0YWwgd2hhdCB0aGUgQ2hhaW5icmVha2VycyBkbyBpbiB0aGUgc291dGggd2l0aCBmaXJlLiBUaGV5IGJ1eSB1cCBpbmRlbnR1cmUgcGFwZXIgYW5kIGJ1cm4gaXQsIGZvcmdlIGNsZWFuIG5hbWVzIGZvciB0aG9zZSB3aG8gZXNjYXBlIG5vcnRoLCBrZWVwIHRoZSBDaGFpbmJyZWFrZXJzJyBsaXN0IG9mIGV2ZXJ5b25lIGluIEdvbGR3aW5kIHdobyBidXlzIHBhcGVyIHBlb3BsZSwgYW5kIHBheSBmb3IgdGhlIHBvd2Rlci4gSXRzIG1hcmsgaXMgU2V2cmluJ3M6IGEgbG9jayBsZWZ0IGJyb2tlbiBvcGVuLiIsICIqKldoZXJlIHRoZSBtb25leSBjb21lcyBmcm9tLioqIFRoZSBDaGFwdGVyIG9mIFJlY2tvbmVycyBtZWV0cyB0aGUgbmlnaHQgYmVmb3JlIGV2ZXJ5IENvaW5zZGF5IFJlYWRpbmcgYW5kIGFncmVlcyB0aGUgbnVtYmVycyBpdCB3aWxsIHJlYWQuIE9uZSBvZiB0aGUgY291bnRlcnMgd2hvIGNvcGllcyB0aGVtIG91dCBpcyBoZXJzOiBoaXMgbW90aGVyIGRpZWQgaW4gYSBDb21wYW55IHRvd24uIEhlIGJyaW5ncyBoZXIgdGhlIG51bWJlcnMgYXQgTWVycm93J3MsIHdoZXJlIHNoZSBpcyBkYW5jaW5nLCBhbmQgYmVmb3JlIHRoZSBub29uIGJlbGwgaGVyIGNoYWxrZXIgYXQgdGhlIEJsYWNrIEN1cCBidXlzIHRoZSBiZWxsIHBhcnRzLiBUaGUgY2hhbGtlciB3aG8gaGFzIG5ldmVyIG9uY2UgYmVlbiB3cm9uZyBpcyB0aGUgT3BlbiBMb2NrJ3MsIGFuZCBldmVyeSBBbmNob3IgaGUgbWFrZXMgZ29lcyBzb3V0aC4iLCAiKipXaG8gc2hlIHdhcy4qKiBTaGUgd2FzIGJvcm4gb24gdGhlIGRyeSBpc2xlcywgb2YgdGhlIEJsdWUgSGFuZCwgYSBjbGFuIG9mIHRoZSBibHVlIGZvbGsgdGhhdCBjYXJyaWVkIFZlcmRheWFuIGphZGUgYnkgY2FyYXZhbiBhbmQgY2Fub2UgZm9yIGxvbmdlciB0aGFuIGFueW9uZSByZW1lbWJlcnMuIFRoZSBDb21wYW55J3MgamFkZSBjb25jZXNzaW9uIGNsb3NlZCB0aGUgcm9hZCwgdGhlIGNsYW4ncyBkZWJ0cyB3ZXJlIGJvdWdodCwgYW5kIHRoZSBkZWJ0cyB3ZXJlIHNvbGQgb24gYXMgaW5kZW50dXJlLiBBdCBlbGV2ZW4gU2VyeW4gd2FzIHBhcGVyIGluIGEgQ29tcGFueSB0b3duIG91dHNpZGUgU291dGhoYXZlbiwgd2hlcmUgdGhlIG92ZXJzZWVycyB0b29rIHRoZSBjaGlsZHJlbidzIHNob2VzIHNvIHRoZXkgY291bGQgbm90IHJ1biBvbiB0aGUgY2FuZS1zdHViYmxlLiBUaGUgaXJvbiBvbiBoZXIgYW5rbGUgaXMgYSBsaW5rIG9mIHRoZSBjaGFpbiB0aGF0IGxvY2tlZCB0aGUgY2hpbGRyZW4ncyBidW5raG91c2UgYXQgbmlnaHQ6IHNoZSBicm9rZSBpdCB0aGUgbmlnaHQgc2hlIHJhbi4iLCAiKipTZXZyaW4ncyBibGVzc2luZy4qKiBTaGUgd2FzIGZpZnRlZW4sIGFuZCB0aGUgb3ZlcnNlZXJzIGhhZCBmaXJlZCB0aGUgY2FuZSBmb3IgdGhlIGhhcnZlc3QuIFNoZSByYW4gYW55d2F5LCBiYXJlZm9vdCwgc3RyYWlnaHQgdGhyb3VnaCB0aGUgYnVybmluZyBmaWVsZCwgcHJheWluZyB0aGUgb25seSB3YXkgU2V2cmluIGlzIHByYXllZCB0bzogc3RhbmRpbmcuIFNoZSBzaG91bGQgaGF2ZSBjb21lIG91dCBjcmlwcGxlZC4gU2hlIGNhbWUgb3V0IHdpdGggaGVyIGZlZXQgdW5tYXJrZWQsIGFuZCBTaXN0ZXIgU21va2UncyBjYW5vZSB3YXMgd2FpdGluZyBvbiB0aGUgZmFyIGJhbmsuIFNpbmNlIHRoYXQgbmlnaHQgaGVyIGJhcmUgZmVldCBmZWVsIG5vIHBhaW4gYW5kIG5vIGRpc2NvbWZvcnQgZnJvbSBhbnl0aGluZyB0aGV5IHN0YW5kIG9uLCBlbWJlcnMsIGljZSwgYnJva2VuIGdsYXNzLCBjYWx0cm9wcywgY2FuZS1zdHViYmxlLCBhbmQgdGhleSBzdGF5IHNvZnQsIGNsZWFuLCBhbmQgcGVyZmVjdCwgYXMgaWYgc2hlIGhhZCBuZXZlciBvbmNlIGdvbmUgYmFyZWZvb3QuIEluIHBsYXksIHNoZSBpZ25vcmVzIGhhcm0gYW5kIGRpZmZpY3VsdCBncm91bmQgdGhhdCBjb21lIG9ubHkgZnJvbSB3aGF0IGlzIHVuZGVyZm9vdCwgYW5kIG5vdGhpbmcgbW9yZTogdGhlIGJsZXNzaW5nIGd1YXJkcyB0aGUgZmVldCB0aGF0IHJhbiwgbm90IHRoZSByZXN0IG9mIGhlci4gU2hlIGJlbGlldmVzIHRoYXQgaWYgc2hlIGV2ZXIgcHV0cyBvbiBzaG9lcyB0byBoaWRlLCBvciBrbmVlbHMgdG8gYW55b25lIHdobyB3b3VsZCBvd24gaGVyLCB0aGUgYmxlc3Npbmcgd2lsbCBsZWF2ZSBoZXIuIFNoZSBtYXkgYmUgcmlnaHQuIiwgIioqV2hhdCBzaGUgaG9sZHMuKiogVGhlIE9wZW4gTG9jayBoYXMgYSBjb3B5IG9mIHRoZSB0cnVlIGdyYWRpbmctYm9vayBvZiB0aGUgRmVubmljayBmYWN0b3JzJyBMb25nIFdhcmVob3VzZSwgd2hpY2ggc2hvd3MgdGhhdCBoYWxmIHRoZSBHcmV5bW9vciBjb2ZmZWUgc29sZCBpbiBHb2xkd2luZCBncmV3IG9uIEhvdXNlIFZvc3NyZXRoJ3MgdW5mcmVlIGVzdGF0ZXMuIFNoZSBoYXMgbm90IGRlY2lkZWQgd2hldGhlciB0byBidXJuIEZlbm5pY2sgd2l0aCBpdCwgb3IgdG8gZ2l2ZSBpdCB0byBMYWR5IEltYXJhIEdyZXltb29yLCB3aG9zZSBob3VzZSBxdWlldGx5IHBheXMgZm9yIHRoZSBDaGFpbmJyZWFrZXJzJyBwb3dkZXIsIGluIHRoZSB3YXkgdGhhdCB3aWxsIHZpbmRpY2F0ZSBoZXIgYW5kIG5vdCBydWluIGhlci4iLCAiKipXaGF0IHNoZSBtZWFucyB0byBkby4qKiBFYWNoIHNlYXNvbiB0aGUgQ29tcGFueSdzIHJ1bm5lcnMgY2FycnkgaXRzIG5ldyBpbmRlbnR1cmUgY29udHJhY3RzIHRvIHRoZSBSZWNrb25lcnMnIEhhbGwgdG8gYmUgZW50ZXJlZCBvbiBDb2luc2RheS4gVGhlIE9wZW4gTG9jayBtZWFucyB0byB0YWtlIHRoZW0gb24gdGhlIHN0cmVldCBhbmQgYnVybiB0aGVtIGluIHRoZSBHdWxsbWFya2V0LCBpbiBmcm9udCBvZiBldmVyeW9uZSwgYXQgdGhlIGVuZCBvZiBhbiBlbWJlciBkYW5jZS4gSXQgd291bGQgZnJlZSBubyBvbmUgb24gcGFwZXIsIHNpbmNlIHRoZSBDb21wYW55IGtlZXBzIGNvcGllcyBpbiB0aGUgc291dGg7IGl0IHdvdWxkIHNob3cgZXZlcnkgYm91bmQgd29ya2VyIGluIHRoZSBpc2xhbmRzIHRoYXQgdGhlIHBhcGVyIGJ1cm5zLiBTaXN0ZXIgU21va2UgdGhpbmtzIGl0IGlzIGEgd2FzdGUgb2YgZ29vZCBwZW9wbGUuIFNlcnluIHRoaW5rcyBpdCBpcyB0aGUgd2hvbGUgcG9pbnQuIiwgIioqU2hlIGlzIHJ1dGhsZXNzLioqIExhc3Qgc3ByaW5nIGEgVm9zc3JldGggYnV5ZXIgb2YgcGFwZXIgcGVvcGxlIHdhcyBmb3VuZCBpbiB0aGUgQ2FuYWxzLCBhbmQgdGhlIHdhdGNoIHdyb3RlIGl0IGRvd24gYXMgZHJpbmsuIEl0IHdhcyBub3QgZHJpbmsuIiwgIioqV2hvIGlzIGNsb3NpbmcgaW4uKiogR292ZXJub3IgSW1lbGRhIFJvcXVlIGhhcyBwdXQgYSBwcmljZSBvbiDigJx0aGUgT3BlbiBMb2Nr4oCdIGFuZCBhIHdyaXQtbWFuIG9uIHRoZSBHdWxsbWFya2V0LiBUaGUgd3JpdC1tYW4gaXMgVGF2byBvZiB0aGUgQmx1ZSBIYW5kLCBoZXIgb3duIGNvdXNpbiwgd2hvIHNpZ25lZCB3aXRoIHRoZSBDb21wYW55IHRvIHBheSB0aGUgY2xhbidzIGRlYnQuIEhlIGtub3dzIGV4YWN0bHkgd2hvIHNoZSBpcy4gSGUgaGFzIG5vdCB0b2xkIGFueW9uZSB5ZXQsIGFuZCBoZSBkb2VzIG5vdCBrbm93IGhpbXNlbGYgd2h5IG5vdC4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoZSBsZWFkcyB0aGUgT3BlbiBMb2NrLCoqIHRoZSBDaGFpbmJyZWFrZXJzJyBjZWxsIGluIEdvbGR3aW5kOiBhIGRvemVuIGhhbmRzIHRoYXQgZG8gaW4gdGhlIGNhcGl0YWwgd2hhdCB0aGUgQ2hhaW5icmVha2VycyBkbyBpbiB0aGUgc291dGggd2l0aCBmaXJlLiBUaGV5IGJ1eSB1cCBpbmRlbnR1cmUgcGFwZXIgYW5kIGJ1cm4gaXQsIGZvcmdlIGNsZWFuIG5hbWVzIGZvciB0aG9zZSB3aG8gZXNjYXBlIG5vcnRoLCBrZWVwIHRoZSBDaGFpbmJyZWFrZXJzJyBsaXN0IG9mIGV2ZXJ5b25lIGluIEdvbGR3aW5kIHdobyBidXlzIHBhcGVyIHBlb3BsZSwgYW5kIHBheSBmb3IgdGhlIHBvd2Rlci4gSXRzIG1hcmsgaXMgU2V2cmluJ3M6IGEgbG9jayBsZWZ0IGJyb2tlbiBvcGVuLiIsICIqKldoZXJlIHRoZSBtb25leSBjb21lcyBmcm9tLioqIFRoZSBDaGFwdGVyIG9mIFJlY2tvbmVycyBtZWV0cyB0aGUgbmlnaHQgYmVmb3JlIGV2ZXJ5IENvaW5zZGF5IFJlYWRpbmcgYW5kIGFncmVlcyB0aGUgbnVtYmVycyBpdCB3aWxsIHJlYWQuIE9uZSBvZiB0aGUgY291bnRlcnMgd2hvIGNvcGllcyB0aGVtIG91dCBpcyBoZXJzOiBoaXMgbW90aGVyIGRpZWQgaW4gYSBDb21wYW55IHRvd24uIEhlIGJyaW5ncyBoZXIgdGhlIG51bWJlcnMgYXQgTWVycm93J3MsIHdoZXJlIHNoZSBpcyBkYW5jaW5nLCBhbmQgYmVmb3JlIHRoZSBub29uIGJlbGwgaGVyIGNoYWxrZXIgYXQgdGhlIEJsYWNrIEN1cCBidXlzIHRoZSBiZWxsIHBhcnRzLiBUaGUgY2hhbGtlciB3aG8gaGFzIG5ldmVyIG9uY2UgYmVlbiB3cm9uZyBpcyB0aGUgT3BlbiBMb2NrJ3MsIGFuZCBldmVyeSBBbmNob3IgaGUgbWFrZXMgZ29lcyBzb3V0aC4iLCAiKipXaG8gc2hlIHdhcy4qKiBTaGUgd2FzIGJvcm4gb24gdGhlIGRyeSBpc2xlcywgb2YgdGhlIEJsdWUgSGFuZCwgYSBjbGFuIG9mIHRoZSBibHVlIGZvbGsgdGhhdCBjYXJyaWVkIFZlcmRheWFuIGphZGUgYnkgY2FyYXZhbiBhbmQgY2Fub2UgZm9yIGxvbmdlciB0aGFuIGFueW9uZSByZW1lbWJlcnMuIFRoZSBDb21wYW55J3MgamFkZSBjb25jZXNzaW9uIGNsb3NlZCB0aGUgcm9hZCwgdGhlIGNsYW4ncyBkZWJ0cyB3ZXJlIGJvdWdodCwgYW5kIHRoZSBkZWJ0cyB3ZXJlIHNvbGQgb24gYXMgaW5kZW50dXJlLiBBdCBlbGV2ZW4gQXpoYW5pIHdhcyBwYXBlciBpbiBhIENvbXBhbnkgdG93biBvdXRzaWRlIFNvdXRoaGF2ZW4sIHdoZXJlIHRoZSBvdmVyc2VlcnMgdG9vayB0aGUgY2hpbGRyZW4ncyBzaG9lcyBzbyB0aGV5IGNvdWxkIG5vdCBydW4gb24gdGhlIGNhbmUtc3R1YmJsZS4gVGhlIGlyb24gb24gaGVyIGFua2xlIGlzIGEgbGluayBvZiB0aGUgY2hhaW4gdGhhdCBsb2NrZWQgdGhlIGNoaWxkcmVuJ3MgYnVua2hvdXNlIGF0IG5pZ2h0OiBzaGUgYnJva2UgaXQgdGhlIG5pZ2h0IHNoZSByYW4uIiwgIioqU2V2cmluJ3MgYmxlc3NpbmcuKiogU2hlIHdhcyBmaWZ0ZWVuLCBhbmQgdGhlIG92ZXJzZWVycyBoYWQgZmlyZWQgdGhlIGNhbmUgZm9yIHRoZSBoYXJ2ZXN0LiBTaGUgcmFuIGFueXdheSwgYmFyZWZvb3QsIHN0cmFpZ2h0IHRocm91Z2ggdGhlIGJ1cm5pbmcgZmllbGQsIHByYXlpbmcgdGhlIG9ubHkgd2F5IFNldnJpbiBpcyBwcmF5ZWQgdG86IHN0YW5kaW5nLiBTaGUgc2hvdWxkIGhhdmUgY29tZSBvdXQgY3JpcHBsZWQuIFNoZSBjYW1lIG91dCB3aXRoIGhlciBmZWV0IHVubWFya2VkLCBhbmQgU2lzdGVyIFNtb2tlJ3MgY2Fub2Ugd2FzIHdhaXRpbmcgb24gdGhlIGZhciBiYW5rLiBTaW5jZSB0aGF0IG5pZ2h0IGhlciBiYXJlIGZlZXQgZmVlbCBubyBwYWluIGFuZCBubyBkaXNjb21mb3J0IGZyb20gYW55dGhpbmcgdGhleSBzdGFuZCBvbiwgZW1iZXJzLCBpY2UsIGJyb2tlbiBnbGFzcywgY2FsdHJvcHMsIGNhbmUtc3R1YmJsZSwgYW5kIHRoZXkgc3RheSBzb2Z0LCBjbGVhbiwgYW5kIHBlcmZlY3QsIGFzIGlmIHNoZSBoYWQgbmV2ZXIgb25jZSBnb25lIGJhcmVmb290LiBJbiBwbGF5LCBzaGUgaWdub3JlcyBoYXJtIGFuZCBkaWZmaWN1bHQgZ3JvdW5kIHRoYXQgY29tZSBvbmx5IGZyb20gd2hhdCBpcyB1bmRlcmZvb3QsIGFuZCBub3RoaW5nIG1vcmU6IHRoZSBibGVzc2luZyBndWFyZHMgdGhlIGZlZXQgdGhhdCByYW4sIG5vdCB0aGUgcmVzdCBvZiBoZXIuIFNoZSBiZWxpZXZlcyB0aGF0IGlmIHNoZSBldmVyIHB1dHMgb24gc2hvZXMgdG8gaGlkZSwgb3Iga25lZWxzIHRvIGFueW9uZSB3aG8gd291bGQgb3duIGhlciwgdGhlIGJsZXNzaW5nIHdpbGwgbGVhdmUgaGVyLiBTaGUgbWF5IGJlIHJpZ2h0LiIsICIqKldoYXQgc2hlIGhvbGRzLioqIFRoZSBPcGVuIExvY2sgaGFzIGEgY29weSBvZiB0aGUgdHJ1ZSBncmFkaW5nLWJvb2sgb2YgdGhlIEZlbm5pY2sgZmFjdG9ycycgTG9uZyBXYXJlaG91c2UsIHdoaWNoIHNob3dzIHRoYXQgaGFsZiB0aGUgR3JleW1vb3IgY29mZmVlIHNvbGQgaW4gR29sZHdpbmQgZ3JldyBvbiBIb3VzZSBWb3NzcmV0aCdzIHVuZnJlZSBlc3RhdGVzLiBTaGUgaGFzIG5vdCBkZWNpZGVkIHdoZXRoZXIgdG8gYnVybiBGZW5uaWNrIHdpdGggaXQsIG9yIHRvIGdpdmUgaXQgdG8gTGFkeSBJbWFyYSBHcmV5bW9vciwgd2hvc2UgaG91c2UgcXVpZXRseSBwYXlzIGZvciB0aGUgQ2hhaW5icmVha2VycycgcG93ZGVyLCBpbiB0aGUgd2F5IHRoYXQgd2lsbCB2aW5kaWNhdGUgaGVyIGFuZCBub3QgcnVpbiBoZXIuIiwgIioqV2hhdCBzaGUgbWVhbnMgdG8gZG8uKiogRWFjaCBzZWFzb24gdGhlIENvbXBhbnkncyBydW5uZXJzIGNhcnJ5IGl0cyBuZXcgaW5kZW50dXJlIGNvbnRyYWN0cyB0byB0aGUgUmVja29uZXJzJyBIYWxsIHRvIGJlIGVudGVyZWQgb24gQ29pbnNkYXkuIFRoZSBPcGVuIExvY2sgbWVhbnMgdG8gdGFrZSB0aGVtIG9uIHRoZSBzdHJlZXQgYW5kIGJ1cm4gdGhlbSBpbiB0aGUgR3VsbG1hcmtldCwgaW4gZnJvbnQgb2YgZXZlcnlvbmUsIGF0IHRoZSBlbmQgb2YgYW4gZW1iZXIgZGFuY2UuIEl0IHdvdWxkIGZyZWUgbm8gb25lIG9uIHBhcGVyLCBzaW5jZSB0aGUgQ29tcGFueSBrZWVwcyBjb3BpZXMgaW4gdGhlIHNvdXRoOyBpdCB3b3VsZCBzaG93IGV2ZXJ5IGJvdW5kIHdvcmtlciBpbiB0aGUgaXNsYW5kcyB0aGF0IHRoZSBwYXBlciBidXJucy4gU2lzdGVyIFNtb2tlIHRoaW5rcyBpdCBpcyBhIHdhc3RlIG9mIGdvb2QgcGVvcGxlLiBBemhhbmkgdGhpbmtzIGl0IGlzIHRoZSB3aG9sZSBwb2ludC4iLCAiKipTaGUgaXMgcnV0aGxlc3MuKiogTGFzdCBzcHJpbmcgYSBWb3NzcmV0aCBidXllciBvZiBwYXBlciBwZW9wbGUgd2FzIGZvdW5kIGluIHRoZSBDYW5hbHMsIGFuZCB0aGUgd2F0Y2ggd3JvdGUgaXQgZG93biBhcyBkcmluay4gSXQgd2FzIG5vdCBkcmluay4iLCAiKipXaG8gaXMgY2xvc2luZyBpbi4qKiBHb3Zlcm5vciBJbWVsZGEgUm9xdWUgaGFzIHB1dCBhIHByaWNlIG9uIOKAnHRoZSBPcGVuIExvY2vigJ0gYW5kIGEgd3JpdC1tYW4gb24gdGhlIEd1bGxtYXJrZXQuIFRoZSB3cml0LW1hbiBpcyBUYXZvIG9mIHRoZSBCbHVlIEhhbmQsIGhlciBvd24gY291c2luLCB3aG8gc2lnbmVkIHdpdGggdGhlIENvbXBhbnkgdG8gcGF5IHRoZSBjbGFuJ3MgZGVidC4gSGUga25vd3MgZXhhY3RseSB3aG8gc2hlIGlzLiBIZSBoYXMgbm90IHRvbGQgYW55b25lIHlldCwgYW5kIGhlIGRvZXMgbm90IGtub3cgaGltc2VsZiB3aHkgbm90LiJdfQ=="
    }
   ],
   "related": [
@@ -56894,8 +56894,8 @@
    "undertow"
   ],
   "aliases": [
-   "Seryn",
-   "Seryn of the Blue Hand"
+   "Azhani",
+   "Azhani of the Blue Hand"
   ],
   "dossier": {
    "format": "character-v1",
