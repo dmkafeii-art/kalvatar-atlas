@@ -303,6 +303,7 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
+ "arbiters": [["hall-of-threads-approved-v1", "The Hall of Threads", "El Salón de los Hilos", "Retired Arbiter regalia is preserved with commemorative plaques in Goldwind’s Hall of Threads.", "Los atuendos de antiguos Árbitros se conservan con placas conmemorativas en el Salón de los Hilos de Goldwind.", {"width":1536,"height":1024}]],
  'house-wingate': [
   ["henrietta-wingate-approved-v1", "Henrietta Wingate", "Henrietta Wingate", "Henrietta adjusts her gloves beside a field tent.", "Henrietta se ajusta los guantes junto a una tienda de campaña.", {"directory": "folk", "width": 1024, "height": 1536}],
   ["evangeline-wingate-approved-v1", "Evangeline Wingate", "Evangeline Wingate", "Evangeline pauses beside a ship’s chart table.", "Evangeline hace una pausa junto a la mesa de cartas de un barco.", {"directory": "folk", "width": 1024, "height": 1536}],
@@ -330,6 +331,7 @@ const galleryScenes = {
 
 // Use the exact English section titles from the build, before Pack2 localizes entries.
 const gallerySectionTitles = {
+ "arbiters": {"hall-of-threads-approved-v1":"The Hall of Threads"},
  'house-wingate': {"henrietta-wingate-approved-v1": "The Wingates", "evangeline-wingate-approved-v1": "The Wingates", "edmond-wingate-approved-v1": "The Wingates"},
  'aethyn': {'highspire-painterly-v2':'High places'},
  'cindren': {'everfall-painterly-v2':'Forge and fire-vigil'},
