@@ -255,6 +255,7 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "university": ["powers", "The University of Kalvatar rises above Goldwind beneath its copper-ringed spires.", "La Universidad de Kalvatar se alza sobre Goldwind bajo sus agujas ceñidas de cobre.", "university-approved-v2", {"width":1536,"height":1024}],
  "krystawrights": ["scenes", "A master Krystawright finishes an imbued crystal as his apprentice watches.", "Un maestro Krystawright termina un cristal imbuido mientras su aprendiz observa.", "krystawrights-approved-v1", {"width":1536,"height":1024}],
  "arcane-registry": ["scenes", "A sealed Writ changes hands at Goldwind’s Arcane Registry, beside a tray of copper rings.", "Un Writ sellado cambia de manos en el Registro Arcano de Goldwind, junto a una bandeja de anillos de cobre.", "arcane-registry-approved-v1", {"width": 1536, "height": 1024}],
  "imra-and-claire": ["folk", "Imra and Claire aboard The Last Word.", "Imra y Claire a bordo de La Última Palabra.", "imra-and-claire-approved-v1", {"width": 1536, "height": 1024}],
@@ -304,6 +305,7 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
+ "university": [["university-painterly-v1", "Charts and scholarship", "Cartas y estudios", "Charts, science, and arcane study share a courtyard in Goldwind.", "Las cartas de navegación, la ciencia y el estudio arcano comparten un patio en Goldwind.", {"directory":"powers","width":1536,"height":1024,"presentation":"gallery"}]],
  "arbiters": [["hall-of-threads-approved-v1", "The Hall of Threads", "El Salón de los Hilos", "Retired Arbiter regalia is preserved with commemorative plaques in Goldwind’s Hall of Threads.", "Los atuendos de antiguos Árbitros se conservan con placas conmemorativas en el Salón de los Hilos de Goldwind.", {"width":1536,"height":1024}]],
  'house-wingate': [
   ["henrietta-wingate-approved-v1", "Henrietta Wingate", "Henrietta Wingate", "Henrietta adjusts her gloves beside a field tent.", "Henrietta se ajusta los guantes junto a una tienda de campaña.", {"directory": "folk", "width": 1024, "height": 1536}],
