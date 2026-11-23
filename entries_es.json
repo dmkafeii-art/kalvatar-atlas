@@ -12520,34 +12520,75 @@
   "gloss": "Harrow Mane"
  },
  "the-registrar": {
-  "title": "The Registrar",
-  "subtitle": "Un nombre en boca de todos",
+  "title": "El Registrador",
+  "subtitle": "El cazador de los que no tienen registro, al que nadie le paga",
   "summary": "Alguien está cazando a lanzadores sin licencia en la niebla de Ventoro. La Universidad dice que ese funcionario no existe.",
   "sections": [
    {
     "title": "Panorama",
     "paragraphs": [
-     "Alguien está cazando a lanzadores sin licencia en la niebla de Ventoro, y la ciudad lo llama el [[Registrador|Registrar]].",
-     "La Universidad de Kalvatar dice que ese funcionario no existe. El Registro Arcano dice lo mismo, más rápido."
+     "Alguien está cazando a lanzadores sin licencia en la niebla de [[Ventoro|Goldwind]], y la ciudad lo llama el Registrador.",
+     "La Universidad de Kalvatar dice que ese funcionario no existe. El [[Registro Arcano|Arcane Registry]] dice lo mismo, más rápido."
+    ]
+   },
+   {
+    "title": "Lo que ha visto la niebla",
+    "paragraphs": [
+     "Los que lo han visto y conservaron sus anillos describen a un hombre alto de gris: un abrigo largo, un sombrero ancho, y una tela que atrapa la luz de las lámparas como las insignias de un [[Árbitro|Arbiter]]. Las insignias de un Árbitro llevan un ojo bordado. Las suyas no.",
+     "Llega después de un conjuro, nunca antes. Un lanzador sin anillos que trabaja el Tercer Círculo en Ventoro tiene, quizá, una hora.",
+     "A algunos de los que encuentra los dejan al amanecer en la puerta del Registro, atados, con el nombre prendido en el abrigo. A otros no los encuentran nunca. El Registro jamás ha dicho una palabra de dónde salen los atados."
+    ]
+   },
+   {
+    "title": "Los Sin Anillo",
+    "paragraphs": [
+     "Los [[Sin Anillo|Ringless]], los lanzadores sin registro del [[Corazón|Heartland]], se están muriendo por él. Su seña es un dedo desnudo envuelto en hilo de cobre, y pagarían lo que fuera por conocer su cara: un trabajo de magia por encargo, gratis, a quien se la traiga."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Los Sin Anillo ofrecen un trabajo de magia por encargo, gratis, a quien les traiga la cara del Registrador.",
+     "Dejaron atada en la puerta del Registro a una lanzadora con todos sus anillos. O el Registrador se equivocó, o los anillos son falsos."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“El Registrador existe. Es un hombre alto, de gris, que visita de noche los sótanos de la Universidad, y la Universidad niega que haya venido nunca a la ciudad.” (se oye en Ventoro)"
+     "“El Registrador existe. Es un hombre alto de gris que visita de noche los sótanos de la Universidad, y la Universidad niega que haya venido nunca a la ciudad.” (se oye en Ventoro)",
+     "“No caza para el Registro. Caza porque el Registro dejó de hacerlo.” (una intermediaria de los Sin Anillo)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkZ1ZSB1biDDgXJiaXRyby4qKiBTZSBsbGFtYSBDb3J2ZWwgQXJkYW5lLCBsYW56YWRvciByZWdpc3RyYWRvIGRlbCBRdWludG8gQ8OtcmN1bG8uIEVsIHNvcnRlbyBsbyBlbGlnacOzIGVuIHVuIETDrWEgZGUgbGEgQ2FydGEgaGFjZSBtdWNobywgeSBzZSBvZnJlY2nDsyBkZSB2b2x1bnRhcmlvIHBvciBudWV2ZSBhw7FvcyBtw6FzOiBsb3MgZGlleiBwZXJpb2RvcyBxdWUgcGVybWl0ZSB1bmEgdmlkYS4gRWwgRMOtYSBkZSBsYSBDYXJ0YSBlbiBxdWUgdGVybWluw7Mgc3UgZMOpY2ltbyBwZXJpb2RvIHlhIG5vIHB1ZG8gc2VydmlyIG3DoXMsIHkgbm8gcHVkbyBkZWphciBkZSBlc2N1Y2hhci4iLCAiKipTdSBoaWxvIG5vIGVzIG9maWNpYWwuKiogRGV2b2x2acOzIHN1cyBpbnNpZ25pYXMgYWwgU2Fsw7NuIGRlIGxvcyBIaWxvcywgY29tbyBwaWRlIGVsIGNhcmdvLiBEZXNwdcOpcyBjb21wcsOzIGhpbG8gZGUgS3J5c3RhIGVuIGJydXRvIGEgdHJhdsOpcyBkZSBsYSBbW1Jlc2FjYXxVbmRlcnRvd11dLCB2aWRyaW8gb3NjdXJvIGhpbGFkbyBmaW5vLCB5IHRlamnDsyBvdHJvIGp1ZWdvIMOpbCBtaXNtby4gRXN0w6Egc2ludG9uaXphZG8gY29uIMOpbCBjb21vIGVsIHByaW1lcm86IGN1YW5kbyBsYSBtYWdpYSBwb2Rlcm9zYSByZXN1ZW5hIGVuIFZlbnRvcm8sIMOpbCBsYSBveWUuIExvIHRlamnDsyBzaW4gZWwgb2pvLiBFbCBjYXphZG9yIGRlIGxvcyBxdWUgbm8gdGllbmVuIHJlZ2lzdHJvIGxsZXZhIEtyeXN0YSBzaW4gcmVnaXN0cm8sIHkgbG8gc2FiZS4iLCAiKipMYSBVbml2ZXJzaWRhZCBkaWNlIGxhIHZlcmRhZC4qKiBOdW5jYSBoYSBzaWRvIHBhcnRlIGRlIGVsbGEuIExvcyBzw7N0YW5vcyBkb25kZSBsbyBwb25lIGVsIHJ1bW9yIHNvbiBsb3MgZGVsIFNhbMOzbiBkZSBsb3MgSGlsb3MsIHF1ZSBjb3JyZW4gYmFqbyBlbCBiYXJyaW8gZGUgbG9zIGVzdHVkaW9zb3M7IGFsZ3VuYXMgbm9jaGVzIGJhamEgYSBtaXJhciBsYSBiYW5kYSBxdWUgbGxldsOzIGR1cmFudGUgZGlleiBhw7Fvcy4iLCAiKipFbCBSZWdpc3RybyBzYWJlIGV4YWN0YW1lbnRlIHF1acOpbiBlcywqKiB5IGRpY2UgcXVlIG5vIGV4aXN0ZSBwb3JxdWUgbGEgb3RyYSByZXNwdWVzdGEgZXMgcGVvcjogdW4gYW50aWd1byDDgXJiaXRybyBjb24gaGlsbyBzaW4gcmVnaXN0cm8uIFJlY2liZSBhIGxvcyBsYW56YWRvcmVzIHF1ZSDDqWwgZGVqYSBhdGFkb3MgZW4gc3UgcHVlcnRhLCB5IGFsZ3Vub3MgZGUgc3VzIGd1YXJkaWFuZXMgbGUgZGVqYW4gdW5hIHJlamEgc2luIGxsYXZlLiIsICIqKlF1w6kgaGFjZSBjb24gbG9zIGRlbcOhcy4qKiBBIGNhZGEgbGFuemFkb3IgcXVlIGVuY3VlbnRyYSBsZSBkYSB1bmEgc29sYSBvcG9ydHVuaWRhZCBkZSBjYW1pbmFyIGF0YWRvIGhhc3RhIGxhIHB1ZXJ0YSBkZWwgUmVnaXN0cm8uIExvcyBxdWUgZW50aWVycmFuIGxvcyBTaW4gQW5pbGxvIHNvbiBsb3MgcXVlIHBlbGVhcm9uIGNvbiDDqWwuIiwgIioqUG9yIHF1w6kuKiogRW4gZGlleiBhw7FvcyBkZSBzZXJ2aWNpbyB2aW8gY8OzbW8gbG9zIG1pc21vcyBub21icmVzIHNpbiByZWdpc3RybyBzZSBlc2NhcGFiYW4gY2FkYSB2ZXogcXVlIHRlcm1pbmFiYSBlbCBwZXJpb2RvIGRlIHVuIMOBcmJpdHJvIHkgZW1wZXphYmEgZWwgZGVsIHNpZ3VpZW50ZS4gRGVjaWRpw7MgcXVlIGxhIGxleSBuZWNlc2l0YWJhIGEgYWxndWllbiBjdXlvIHBlcmlvZG8gbnVuY2EgdGVybWluYS4iXX0="
    }
   ],
   "facts": [
    [
-    "Dónde",
-    "[[Ventoro|Goldwind]], en la niebla"
+    "Le dicen",
+    "el Registrador"
    ],
    [
-    "Oficialmente",
-    "No existe"
+    "Caza",
+    "a los lanzadores sin anillos, los Sin Anillo sobre todo"
+   ],
+   [
+    "Se le ve",
+    "de noche, en la niebla: un hombre alto de gris"
+   ],
+   [
+    "Trabaja para",
+    "nadie, dicen todos"
+   ],
+   [
+    "Llega",
+    "después de un conjuro, nunca antes"
    ]
-  ]
+  ],
+  "gloss": "The Registrar"
  },
  "captain-bramgard": {
   "title": "Captain Bramgard",
@@ -15835,7 +15876,8 @@
     "title": "Panorama",
     "paragraphs": [
      "La colina a espaldas del Común, donde están las tabernas y el viento. Cualquier tarde clara su cielo se llena de cometas de pelea, con los hilos cubiertos de vidrio para cortarse unas a otras, y los apostadores de cometas toman apuestas sobre cada hilo.",
-     "Fuera de la temporada social, cuando terminan los bailes de los anillos de arriba, las noches de [[Ventoro|Goldwind]] son de las tabernas de la Colina."
+     "Fuera de la temporada social, cuando terminan los bailes de los anillos de arriba, las noches de [[Ventoro|Goldwind]] son de las tabernas de la Colina.",
+     "Aquí las cometas son un oficio, no un pasatiempo: las escuadras vuelan desde la colina, los cometeros construyen en ella, y las apuestas se anotan en su muro. Es el único barrio del Común donde te puedes topar con un noble en las escaleras, de vuelta de una apuesta."
     ]
    },
    {
@@ -15843,6 +15885,7 @@
     "paragraphs": [],
     "list": [
      "**El Campo de las Cometas,** la cima pelada de la colina, donde se vuelan las peleas.",
+     "**Los talleres,** donde los cometeros construyen para cada escuadra de la ciudad, y la sede del Carrete Rojo, la escuadra más vieja de la colina.",
      "**El Muro de Tiza,** donde los apostadores anotan las apuestas con tiza, y las borran cuando la guardia sube la colina.",
      "**Las tabernas:** el Hilo Cortado, la Gaviota y la Tetera, y el Último Carrete, que es la primera a la que se llega subiendo y la última de la que se sale.",
      "**La Escalera Larga,** que baja al Mercado de las Gaviotas, y que es mucho más larga al final de la noche."
@@ -15873,5 +15916,126 @@
   ],
   "aliases": [],
   "gloss": "Kitehill"
+ },
+ "goldwind-kites": {
+  "title": "Las Cometas de Ventoro",
+  "subtitle": "Cometas de pelea y cometas grandes: un deporte, un oficio, y la mejor apuesta de la ciudad",
+  "summary": "En el viento incansable de Ventoro, las cometas son deporte y negocio: escuadras de voladores y cometeros, nombres famosos con sus colores y sus cartas, cometas de pelea que ganan peleas y cometas grandes que ganan listones, y una apuesta sobre cada una.",
+  "facts": [
+   [
+    "Casa",
+    "la Colina de las Cometas, y el cielo sobre el golfo"
+   ],
+   [
+    "Dos clases",
+    "cometas de pelea y cometas grandes"
+   ],
+   [
+    "Las de pelea ganan",
+    "peleas"
+   ],
+   [
+    "Las grandes ganan",
+    "listones"
+   ],
+   [
+    "Equipos",
+    "escuadras"
+   ],
+   [
+    "El gran día",
+    "la Fiesta de los Vientos, en Idel"
+   ],
+   [
+    "Lo pagan",
+    "las apuestas, y las casas nobles"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Una ciudad que vuela",
+    "paragraphs": [
+     "El viento de [[Ventoro|Goldwind]] nunca termina de parar, y la ciudad vuela en él. Los duelistas de cometas vuelan cometas de pelea con hilos cubiertos de vidrio e intentan cortarse unos a otros, el muro del puerto aplaude y abuchea, y todo el mundo apuesta. Las casas nobles patrocinan a los voladores famosos.",
+     "El oficio vive en la [[Colina de las Cometas|Kitehill]], a espaldas del Común. Es el único barrio del Común donde te puedes topar con un noble en las escaleras, de vuelta de una apuesta."
+    ]
+   },
+   {
+    "title": "Dos clases de cometa",
+    "paragraphs": [],
+    "list": [
+     "**Cometas de pelea.** Pequeñas, rápidas y malas, voladas con hilos cubiertos de vidrio para cortar. Dos cometas cruzan los hilos, y pierde el primer hilo cortado. Las cometas de pelea ganan peleas.",
+     "**Cometas grandes.** Grandes, vistosas y bonitas: dragones de treinta metros, barcos a toda vela, bandadas enteras de pájaros en un solo hilo. Las cometas grandes ganan listones."
+    ]
+   },
+   {
+    "title": "Las escuadras",
+    "paragraphs": [
+     "Un equipo de cometas es una escuadra, y toda escuadra que se respete tiene sus colores, su parche y su hinchada. Las escuadras más viejas vuelan desde la Colina misma; las más ricas son de las casas nobles, y vuelan desde los anillos."
+    ],
+    "list": [
+     "**Voladores,** que pelean los hilos y se llevan los aplausos.",
+     "**Cometeros,** que las construyen: carpinteros de varillas que cortan el armazón, y pintores de seda que hacen bonita una cometa grande.",
+     "**Vidrieros,** que cubren los hilos de vidrio. El vidrio de cada escuadra es un secreto, y a un buen vidriero se le paga más de lo que les dicen a los voladores.",
+     "**Corredores,** los niños que persiguen las cometas cortadas, porque una cometa cortada es de quien la atrapa.",
+     "**Un contable,** porque una escuadra sin contable es una escuadra endeudada."
+    ]
+   },
+   {
+    "title": "Los nombres",
+    "paragraphs": [
+     "En Ventoro los grandes voladores son tan famosos como los Cazadores. Los [[Entintadores|Inkers]] imprimen sus cartas, los niños las cambian junto con las del Ranking de Cazadores, y los colores de un volador se venden en el Mercado de las Gaviotas la mañana siguiente a una victoria."
+    ],
+    "list": [
+     "**Sable Wren, la Invicta,** del Carrete Rojo, la escuadra más vieja de la Colina. Nunca ha perdido un hilo.",
+     "**Tamsin Reel,** que ha construido más cometas ganadoras de listón que nadie vivo, y que no vuela nunca.",
+     "**Ivo Calmaviento, la Ráfaga,** un muchacho de la Maraña que ahora vuela para una escuadra noble, y al que abuchean en la Colina cada vez que gana."
+    ]
+   },
+   {
+    "title": "La temporada y la Fiesta de los Vientos",
+    "paragraphs": [
+     "Las cometas vuelan durante toda el [[Agua Buena|Fair Water]], los meses del verano. La corona de la temporada es la Fiesta de los Vientos, en Idel, cuando la ciudad entera baja al golfo.",
+     "Las cometas grandes vuelan por los listones: el Listón Largo para la más grande, el Listón de Oro para la más bonita y el Listón del Viento para la que mejor vuela. Las cometas de pelea vuelan el Corte, cien hilos hasta quedar uno. Quien sostiene el último hilo vuela con una borla de oro durante un año."
+    ]
+   },
+   {
+    "title": "El dinero",
+    "paragraphs": [
+     "Cada pelea tiene sus apuestas, y los apostadores de cometas las anotan con tiza en el Muro de Tiza de la Colina. Una escuadra vive de su patrocinador y de sus premios, un gran volador en una buena temporada gana más que un Cazador de Plata, y los talleres de los cometeros de la Colina le venden a cada escuadra de la ciudad.",
+     "El [[Sindicato de la Cresta|Crest Syndicate]] arregla las carreras del sur, y Ventoro jura que nadie arregla una cometa. Ventoro se equivoca por lo menos una vez por temporada."
+    ]
+   },
+   {
+    "title": "Las reglas del hilo",
+    "paragraphs": [],
+    "list": [
+     "Una cometa cortada es de quien la atrapa.",
+     "Ninguna mano toca el hilo de otro volador.",
+     "No se apuesta contra una cometa que uno ha volado.",
+     "La escuadra a la que pillan cubriendo su hilo con vidrio de Krysta queda vetada de por vida. El vidrio de Krysta lo corta todo, y eso no es una pelea."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Alguien está pagando buenas Mareas por saber cómo es que Sable Wren nunca ha perdido un hilo.",
+     "Una cometa grande que iba por el Listón de Oro desapareció de su taller tres días antes de la Fiesta de los Vientos.",
+     "La vidriera del Carrete Rojo apareció al pie de la Escalera Larga, y su receta no aparece."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las escuadras nobles no vuelan para ganar. Vuelan para perder el día indicado.” (un apostador de cometas en el Muro de Tiza)",
+     "“La Ráfaga apuesta por sí mismo a través de un primo de la Maraña, en cada pelea. Nadie se lo ha dicho a su escuadra.” (un corredor del Carrete Rojo)"
+    ]
+   }
+  ],
+  "aliases": [
+   "cometas de pelea",
+   "cometas grandes"
+  ],
+  "gloss": "The Kites of Goldwind"
  }
 }

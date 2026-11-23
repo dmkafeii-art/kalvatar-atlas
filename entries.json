@@ -35203,7 +35203,7 @@
   "title": "The Registrar",
   "category": "folk",
   "region": "Central Heartland",
-  "subtitle": "A name the University denies",
+  "subtitle": "The hunter of the unregistered, whom nobody employs",
   "summary": "Someone is hunting unlicensed casters through Goldwind's fog. The University says no such officer exists.",
   "sections": [
    {
@@ -35214,20 +35214,60 @@
     ]
    },
    {
+    "title": "What the fog has seen",
+    "paragraphs": [
+     "Those who have seen him and kept their rings describe a tall man in grey: a long coat, a broad hat, and cloth that catches the lamplight the way an Arbiter's regalia does. An Arbiter's regalia carries an embroidered eye. His carries none.",
+     "He comes after a working, never before it. A caster without rings who works the Third Circle in Goldwind may have an hour.",
+     "Some of the ones he finds are left at the Registry's door at dawn, bound, with their names pinned to their coats. Some are never found. The Registry has never said a word about where the bound ones come from."
+    ]
+   },
+   {
+    "title": "The Ringless",
+    "paragraphs": [
+     "The Ringless, the unregistered casters of the Heartland, are dying of him. Their sign is a bare finger wrapped in copper thread, and they will pay anything to learn his face: one working of bright work, free, to whoever brings it."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The Ringless offer one working of bright work, free, to anyone who brings them the Registrar's face.",
+     "A caster with all her rings was left bound at the Registry's door. Either the Registrar has made a mistake, or the rings are false."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
-     "“The Registrar exists. He is a tall man in grey who visits the University's cellars at night, and the University denies he has ever come to the city.” (heard in Goldwind)"
+     "“The Registrar exists. He is a tall man in grey who visits the University's cellars at night, and the University denies he has ever come to the city.” (heard in Goldwind)",
+     "“He doesn't hunt for the Registry. He hunts because the Registry stopped.” (a go-between of the Ringless)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkhlIHdhcyBhbiBBcmJpdGVyLioqIEhpcyBuYW1lIGlzIENvcnZlbCBBcmRhbmUsIGEgcmVnaXN0ZXJlZCBjYXN0ZXIgb2YgdGhlIEZpZnRoIENpcmNsZS4gVGhlIGxvdCBkcmV3IGhpbSBvbiBhIENoYXJ0ZXIgRGF5IGxvbmcgYWdvLCBhbmQgaGUgdm9sdW50ZWVyZWQgZm9yIG5pbmUgeWVhcnMgbW9yZTogdGhlIHRlbiB0ZXJtcyBhIGxpZmV0aW1lIGFsbG93cy4gT24gdGhlIENoYXJ0ZXIgRGF5IGhpcyB0ZW50aCB0ZXJtIGVuZGVkIGhlIGNvdWxkIHNlcnZlIG5vIGZ1cnRoZXIsIGFuZCBoZSBjb3VsZCBub3Qgc3RvcCBsaXN0ZW5pbmcuIiwgIioqSGlzIHRocmVhZCBpcyBub3Qgb2ZmaWNpYWwuKiogSGUgZ2F2ZSBoaXMgcmVnYWxpYSBiYWNrIHRvIHRoZSBIYWxsIG9mIFRocmVhZHMsIGFzIHRoZSBvZmZpY2UgYXNrcy4gVGhlbiBoZSBib3VnaHQgcmF3IEtyeXN0YS10aHJlYWQgdGhyb3VnaCB0aGUgVW5kZXJ0b3csIGRhcmsgZ2xhc3Mgc3B1biBmaW5lLCBhbmQgd292ZSBhbm90aGVyIHNldCBoaW1zZWxmLiBJdCBpcyBhdHR1bmVkIHRvIGhpbSBhcyB0aGUgZmlyc3Qgd2FzOiB3aGVuIHBvd2VyZnVsIG1hZ2ljIHJpbmdzIGluIEdvbGR3aW5kLCBoZSBoZWFycyBpdC4gSGUgd292ZSBpdCB3aXRob3V0IHRoZSBleWUuIFRoZSBodW50ZXIgb2YgdGhlIHVucmVnaXN0ZXJlZCB3ZWFycyB1bnJlZ2lzdGVyZWQgS3J5c3RhLCBhbmQga25vd3MgaXQuIiwgIioqVGhlIFVuaXZlcnNpdHkgaXMgdGVsbGluZyB0aGUgdHJ1dGguKiogSGUgaGFzIG5ldmVyIGJlZW4gcGFydCBvZiBpdC4gVGhlIGNlbGxhcnMgdGhlIHJ1bW9yIHB1dHMgaGltIGluIGFyZSB0aGUgSGFsbCBvZiBUaHJlYWRzJywgd2hpY2ggcnVuIHVuZGVyIHRoZSBzY2hvbGFyLXF1YXJ0ZXI7IHNvbWUgbmlnaHRzIGhlIGdvZXMgZG93biB0byBsb29rIGF0IHRoZSBzYXNoIGhlIHdvcmUgZm9yIHRlbiB5ZWFycy4iLCAiKipUaGUgUmVnaXN0cnkga25vd3MgZXhhY3RseSB3aG8gaGUgaXMsKiogYW5kIHNheXMgaGUgZG9lcyBub3QgZXhpc3QgYmVjYXVzZSB0aGUgb3RoZXIgYW5zd2VyIGlzIHdvcnNlOiBhIGZvcm1lciBBcmJpdGVyIGluIHVucmVnaXN0ZXJlZCB0aHJlYWQuIEl0IHRha2VzIHRoZSBjYXN0ZXJzIGhlIGxlYXZlcyBib3VuZCBhdCBpdHMgZG9vciwgYW5kIHNvbWUgb2YgaXRzIHdhcmRlbnMgbGVhdmUgYSBnYXRlIHVubG9ja2VkIGZvciBoaW0uIiwgIioqV2hhdCBoZSBkb2VzIHdpdGggdGhlIHJlc3QuKiogSGUgZ2l2ZXMgZXZlcnkgY2FzdGVyIGhlIGZpbmRzIG9uZSBjaGFuY2UgdG8gd2FsayB0byB0aGUgUmVnaXN0cnkncyBkb29yIGJvdW5kLiBUaGUgb25lcyB0aGUgUmluZ2xlc3MgYnVyeSBhcmUgdGhlIG9uZXMgd2hvIGZvdWdodCBoaW0uIiwgIioqV2h5LioqIEluIHRlbiB5ZWFycyBvZiBzZXJ2aWNlIGhlIHdhdGNoZWQgdGhlIHNhbWUgdW5yZWdpc3RlcmVkIG5hbWVzIHNsaXAgYXdheSBldmVyeSB0aW1lIG9uZSBBcmJpdGVyJ3MgdGVybSBlbmRlZCBhbmQgdGhlIG5leHQgYmVnYW4uIEhlIGRlY2lkZWQgdGhlIGxhdyBuZWVkZWQgc29tZW9uZSB3aG9zZSB0ZXJtIG5ldmVyIGVuZHMuIl19"
    }
   ],
   "facts": [
    [
-    "Where",
-    "Goldwind, in the fog"
+    "Called",
+    "the Registrar"
    ],
    [
-    "Officially",
-    "Does not exist"
+    "Hunts",
+    "casters without rings, the Ringless above all"
+   ],
+   [
+    "Seen",
+    "at night, in the fog: a tall man in grey"
+   ],
+   [
+    "Employed by",
+    "nobody, says everybody"
+   ],
+   [
+    "Comes",
+    "after a working, never before"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -35239,13 +35279,14 @@
    "status": "source-limited"
   },
   "translations": {
-   "es": "pending"
+   "es": "complete"
   },
   "related": [
    "arcane-registry",
    "university",
    "goldwind",
-   "magic-in-the-islands"
+   "magic-in-the-islands",
+   "arbiters"
   ]
  },
  {
@@ -55480,7 +55521,8 @@
     "title": "Overview",
     "paragraphs": [
      "The hill at the Commons' back, where the taverns are and the wind is. On any clear evening the sky over it is full of fighting kites, their lines glassed to cut each other's, and the kite-gamblers take a bet on every line.",
-     "Out of the social season, when the balls on the rings above are over, Goldwind's nights belong to Kitehill's taverns."
+     "Out of the social season, when the balls on the rings above are over, Goldwind's nights belong to Kitehill's taverns.",
+     "The kites are a trade here, not a pastime: the lofts fly from the hill, the kitecrafters build on it, and the bets are chalked on its wall. It is the only ward of the Commons where you can run into a noble on the stairs, on the way back from a bet."
     ]
    },
    {
@@ -55488,6 +55530,7 @@
     "paragraphs": [],
     "list": [
      "**The Kite Ground,** the bare top of the hill, where the fights are flown.",
+     "**The workshops,** where the kitecrafters build for every loft in the city, and the Red Spool's loft, the oldest on the hill.",
      "**The Chalk Wall,** where the kite-gamblers chalk the odds, and wipe them off when the watch comes up the hill.",
      "**The taverns:** the Cut Line, the Gull and Kettle, and the Last Spool, which is the first one anybody reaches coming up and the last one anybody leaves.",
      "**The Long Stair,** down to the Gullmarket, which is much longer at the end of the night."
@@ -55519,10 +55562,147 @@
   "related": [
    "the-commons",
    "goldwind",
+   "goldwind-kites",
    "the-tangle",
    "gullmarket"
   ],
   "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "goldwind-kites",
+  "title": "The Kites of Goldwind",
+  "category": "culture",
+  "region": "Central Heartland",
+  "subtitle": "Fighting kites and great kites: a sport, a trade, and the best bet in the city",
+  "summary": "In Goldwind's ceaseless wind, kites are a sport and a business: lofts of fliers and kitecrafters, famous names with their own colors and cards, fighting kites that win fights and great kites that win ribbons, and a bet on every one of them.",
+  "facts": [
+   [
+    "Home",
+    "Kitehill, and the sky over the gulf"
+   ],
+   [
+    "Two kinds",
+    "fighting kites and great kites"
+   ],
+   [
+    "Fighting kites win",
+    "fights"
+   ],
+   [
+    "Great kites win",
+    "ribbons"
+   ],
+   [
+    "Teams",
+    "lofts"
+   ],
+   [
+    "The great day",
+    "the Festival of Winds, in Idel"
+   ],
+   [
+    "Paid for by",
+    "bets, and the noble houses"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "A city that flies",
+    "paragraphs": [
+     "Goldwind's wind never quite stops, and the city flies in it. Kite-duelists fly fighting kites on glass-dusted lines and try to cut each other down, the harbor wall cheers and jeers, and everybody bets. The noble houses sponsor the famous fliers.",
+     "The trade lives on Kitehill, at the back of the Commons. It is the only ward of the Commons where you can run into a noble on the stairs, on the way back from a bet."
+    ]
+   },
+   {
+    "title": "Two kinds of kite",
+    "paragraphs": [],
+    "list": [
+     "**Fighting kites.** Small, quick, and mean, flown on lines glassed to cut. Two kites cross lines, and the first line cut loses. Fighting kites win fights.",
+     "**Great kites.** Big, bright, and beautiful: dragons a hundred feet long, ships under full sail, whole flocks of birds on one line. Great kites win ribbons."
+    ]
+   },
+   {
+    "title": "The lofts",
+    "paragraphs": [
+     "A kite team is a loft, and every loft worth the name has its colors, its patch, and its following. The oldest lofts fly from Kitehill itself; the richest are the noble houses' own, and fly from the rings."
+    ],
+    "list": [
+     "**Fliers,** who fight the lines and get the cheers.",
+     "**Kitecrafters,** who build them: frame-wrights who cut the spars, and silk-painters who make a great kite beautiful.",
+     "**Glazers,** who glass the lines. Every loft's glass is a secret, and a good glazer is paid more than the fliers are told.",
+     "**Runners,** the children who chase the cut kites, because a cut kite belongs to whoever catches it.",
+     "**A bookkeeper,** because a loft without one is a loft in debt."
+    ]
+   },
+   {
+    "title": "The names",
+    "paragraphs": [
+     "In Goldwind the great fliers are as famous as Hunters. The Inkers print their cards, children trade them beside the Hunter Ranking, and a flier's colors sell in the Gullmarket the morning after a win."
+    ],
+    "list": [
+     "**Sable Wren, the Unbeaten,** of the Red Spool, Kitehill's oldest loft. She has never lost a line.",
+     "**Tamsin Reel,** who has built more ribbon-winners than anyone alive, and will not fly at all.",
+     "**Ivo Stillwind, the Gust,** a boy from the Tangle who flies for a noble loft now, and is booed for it on Kitehill every time he wins."
+    ]
+   },
+   {
+    "title": "The season and the Festival of Winds",
+    "paragraphs": [
+     "Kites fly all through Fair Water, the summer months. The season's crown is the Festival of Winds, in Idel, when the whole city comes down to the gulf.",
+     "The great kites fly for the ribbons: the Long Ribbon for the largest, the Gold Ribbon for the most beautiful, and the Wind's Ribbon for the one that flies best. The fighting kites fly the Cut, a hundred lines down to one. Whoever holds the last line flies with a gold tassel for a year."
+    ]
+   },
+   {
+    "title": "The money",
+    "paragraphs": [
+     "Every fight has odds, and the kite-gamblers chalk them on the Chalk Wall of Kitehill. A loft lives on its sponsor and its winnings, a great flier in a good season earns more than a Silver Hunter, and the kitecrafters' workshops on the hill sell to every loft in the city.",
+     "The Crest Syndicate fixes the races in the south, and Goldwind swears nobody fixes a kite. Goldwind is wrong at least once a season."
+    ]
+   },
+   {
+    "title": "Rules of the line",
+    "paragraphs": [],
+    "list": [
+     "A cut kite belongs to whoever catches it.",
+     "No hand touches another flier's line.",
+     "You don't bet against a kite you have flown.",
+     "A loft caught glassing its line with Krysta is barred for life. Krysta-glass cuts anything, and that is not a fight."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Someone is paying good Tides to learn how Sable Wren has never lost a line.",
+     "A great kite meant for the Gold Ribbon has vanished from its workshop three days before the Festival of Winds.",
+     "The Red Spool's glazer was found at the foot of the Long Stair, and her recipe is gone."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The noble lofts don't fly to win. They fly to lose on the right day.” (a kite-gambler at the Chalk Wall)",
+     "“The Gust bets on himself through a cousin in the Tangle, every fight. Nobody's told his loft.” (a runner of the Red Spool)"
+    ]
+   }
+  ],
+  "related": [
+   "kitehill",
+   "the-commons",
+   "goldwind",
+   "inkers-circle",
+   "patches"
+  ],
+  "aliases": [
+   "kite-duels",
+   "kite-duel",
+   "fighting kites",
+   "great kites"
+  ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "complete"
