@@ -26867,7 +26867,8 @@
    "great-slave-rebellion",
    "southern-wilds",
    "assios-and-the-wider-world",
-   "memnara-the-unbroken-thread"
+   "memnara-the-unbroken-thread",
+   "seyrana"
   ]
  },
  {
@@ -52644,7 +52645,8 @@
    "charterhouse-company",
    "southhaven",
    "southern-movements",
-   "undertow"
+   "undertow",
+   "seyrana"
   ],
   "aliases": [
    "Lumai Okonja"
@@ -55577,7 +55579,8 @@
      "**Fish Row,** at dawn, when the boats come in and the gulls come with them.",
      "**Second Hands,** where everything has belonged to somebody else, and some of it still does.",
      "**Kettle Row,** the hot-food stalls: fish stew, fried dough, and whatever is cheapest that day.",
-     "**The crate.** On Coinsday, while the Twelve Flags call the board-price on the Spire Floor, a fishwife on an upturned crate calls the Gullmarket's price of everything. The Commons trusts hers more."
+     "**The crate.** On Coinsday, while the Twelve Flags call the board-price on the Spire Floor, a fishwife on an upturned crate calls the Gullmarket's price of everything. The Commons trusts hers more.",
+     "**The Barefoot.** When the crate has called the last price, Seyrana the Barefoot dances on the cobbles of Fish Row, and half the Commons stops work to watch."
     ]
    },
    {
@@ -55607,7 +55610,8 @@
    "the-commons",
    "goldwind",
    "lower-harbor",
-   "vice-and-the-black-market"
+   "vice-and-the-black-market",
+   "seyrana"
   ],
   "aliases": [],
   "source": "Kalvatar Library · 175 EC",
@@ -55919,7 +55923,8 @@
    "goldwind",
    "goldwind-kites",
    "the-tangle",
-   "gullmarket"
+   "gullmarket",
+   "seyrana"
   ],
   "aliases": [],
   "source": "Kalvatar Library · 175 EC",
@@ -56397,7 +56402,8 @@
    "cycle",
    "goldwind",
    "reckoners-ledger",
-   "the-commons"
+   "the-commons",
+   "seyrana"
   ],
   "sections": [
    {
@@ -56745,6 +56751,147 @@
     "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBCb2FyZCBjYW4gYmUgc3RlZXJlZC4qKiBUaGUgQ2hhcHRlciBtZWV0cyB0aGUgbmlnaHQgYmVmb3JlIGV2ZXJ5IFJlYWRpbmcgYW5kIGFncmVlcyB0aGUgbnVtYmVyIGl0IHdpbGwgcmVhZCBmb3IgZXZlcnkgY29uY2VybjsgdGhlIGRpY2UgYXQgdGhlIHRhYmxlIGFyZSB3aGF0IHRoZSBDaGFwdGVyIGNvdWxkIG5vdCBhZ3JlZS4gVGhlIEZpcnN0IFJlY2tvbmVyIGNhbiBtb3ZlIGFueSBjb25jZXJuIG9uZSBzdGVwLCBhbmQgaGFzLiBUaGUgSGFsbCdzIGF1ZGl0b3JzIGhhdmUgbmV2ZXIgYXNrZWQgd2hlcmUgdGhlIGJlbGwgcGFydHMgY29tZSBmcm9tLiIsICIqKlRoZSBDb21wYW55IGlzIGJ1eWluZy4qKiBUaHJvdWdoIEhvdXNlIFphbmUncyBjaGFsa2VycywgdGhlIENoYXJ0ZXJob3VzZSBDb21wYW55IGJ1eXMgcGFydHMgaW4gdGhlIENvcnZhbmUgUGFja2V0cyBhbmQgaW4gSGFsbG9ybiBTYWx0IGV2ZXJ5IENvaW5zZGF5LCBhIGZldyBhdCBhIHRpbWU6IG9uZSBtb3JlIHJvYWQgdG8gdGhlIFNwaXJlIEZsb29yLCBhbmQgdG8gdGhlIGJvYXJkLXByaWNlLiIsICIqKkJyZW5udmFyJ3MgY2F0Y2hlcy4qKiBUaGUgZ3JlYXQgY2F0Y2hlcyB0aGF0IHNlbmQgQnJlbm52YXIncyBTb3V0aGVybiBGbGVldCB0byBoaWdoIHdhdGVyIGNvbWUgZnJvbSB0aGUgU2VhbGVkIFdhdGVycyBvZmYgTXV0ZXdhdGVyLiJdfQ=="
    }
   ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "seyrana",
+  "title": "Seyrana the Barefoot",
+  "category": "folk",
+  "region": "Central Heartland",
+  "subtitle": "The dancer of the Gullmarket, who kneels to no one",
+  "summary": "The most famous dancer in Goldwind: a woman of the blue folk of the dry isles who dances barefoot on the Gullmarket's cobbles by day and in the salons of the great houses by night, and has never once knelt to anyone.",
+  "facts": [
+   [
+    "Known as",
+    "the Barefoot; in the salons, Seyrana of the Blue Hand"
+   ],
+   [
+    "People",
+    "human, of the blue folk of the dry isles"
+   ],
+   [
+    "Age",
+    "about twenty-five"
+   ],
+   [
+    "Dances",
+    "the Gullmarket by day; Kitehill and the salons by night"
+   ],
+   [
+    "Hair",
+    "a mass of black curls with an indigo sheen"
+   ],
+   [
+    "Eyes",
+    "green as wet jade"
+   ],
+   [
+    "Feet",
+    "bare, always"
+   ],
+   [
+    "Plays",
+    "the frame drum, and the lute"
+   ],
+   [
+    "Never",
+    "kneels"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "Seyrana is the most famous dancer in Goldwind. She is of the blue folk, the nomads of the dry isles, and she came north on a Free Sails ship some years ago with nothing but a drum and the brass on her arm. On Coinsday afternoons she dances on the cobbles of the Gullmarket; on kite nights she dances in the taverns of Kitehill; and in the social season the great houses pay her to dance in their salons, and pay more to have her stay for supper.",
+     "She is warm with the crowd, quick with a joke, and generous with the Gullmarket's children. With lords she is polite, and nothing more. The Commons calls her the Barefoot, because nobody in Goldwind has ever seen her in shoes."
+    ]
+   },
+   {
+    "title": "Appearance",
+    "paragraphs": [
+     "She is tall and long-limbed, with warm brown skin and a great mass of black curls that shine blue where the indigo has gone into them. She wears them loose to dance and bound high in a brass band to walk. Her eyes are green as wet jade, and she looks straight at whoever is talking to her, which unsettles lords.",
+     "Her brow and her palms are faintly blue, as every one of the blue folk's are: the indigo of their robes rubs into the skin and never quite leaves. A fine gold chain crosses her brow with a single drop at the center, and her earrings are two great gold crescents."
+    ],
+    "list": [
+     "**To dance:** a crimson shawl worked with white triangles, knotted at one shoulder; a short wrapped top; a long indigo skirt slit at the hip; and a sash hung with old coin that rings when she turns.",
+     "**On her left arm,** brass bangles climb from wrist to elbow: the blue folk carry their wealth on the arm, and she says she can count hers while she dances.",
+     "**On her right ankle,** an anklet of little brass discs. **On her left,** a single link of old iron, broken open. She says it is for luck. People who know Sevrin's signs say it is not luck.",
+     "**Her feet** are always bare, on stone, in rain, and once, famously, in snow."
+    ]
+   },
+   {
+    "title": "The dance",
+    "paragraphs": [
+     "She dances to her own frame drum, ringed with brass discs, or to whatever fiddler the Gullmarket can find. Her dances are fast, proud, and full of turns, and the coin on her sash keeps the beat.",
+     "Every dance ends the same way: she stops dead, stands tall, crosses her wrists above her head, and throws them apart. The Gullmarket shouts “Open!” and throws its Bits. Most of the crowd thinks it is a flourish. The ones who were ever bound know it is Sevrin's standing prayer, and the breaking of a collar."
+    ]
+   },
+   {
+    "title": "She kneels to no one",
+    "paragraphs": [
+     "In her first season a lord of the rings told her to kneel to take his purse. She left the purse on his floor and walked out barefoot into the rain, and the Commons has loved her ever since. Now the salons pay her to stand. She will bow to an audience from the waist, and to nobody lower."
+    ]
+   },
+   {
+    "title": "Where to find her",
+    "paragraphs": [],
+    "list": [
+     "**The Gullmarket,** on Coinsday afternoons, when the crate has called the last price.",
+     "**Kitehill,** on kite nights, in whichever tavern the winners are drinking in.",
+     "**Merrow's,** the coffee-house across from the Reckoners' Hall, late on the eve of every Coinsday, where she dances for the chalkers and the clerks.",
+     "**The salons of the rings,** in the social season, if you are invited, and she is."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Someone has started a story in the Gullmarket that Seyrana stole the brass on her arm. The fishwives want to know who before it sticks.",
+     "A Charterhouse Company writ-man has watched her dance three Coinsdays running, and writes in a little book every time she ends.",
+     "She hires the party to walk a “cousin” from the Canals to a Free Sails mooring at night. She asks no questions about their weapons, and answers none about the cousin."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“She's never worn shoes in Goldwind, not even in the snow, and her feet have never once bled.” (a Gullmarket fishwife)",
+     "“A lord's son offered her a hundred Anchors for the iron on her ankle. She laughed, and he hasn't shown his face at Kitehill since.” (a kite-loft hand)",
+     "“The blue on their hands never washes off. The blue folk say it only fades when you stop wandering.” (a Silverport dyer)",
+     "“She dances at Merrow's the night before every Coinsday, and the chalkers tip her like she's telling their fortunes.” (a Black Cup waiter)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoZSBsZWFkcyB0aGUgT3BlbiBMb2NrLCoqIHRoZSBDaGFpbmJyZWFrZXJzJyBjZWxsIGluIEdvbGR3aW5kOiBhIGRvemVuIGhhbmRzIHRoYXQgZG8gaW4gdGhlIGNhcGl0YWwgd2hhdCB0aGUgQ2hhaW5icmVha2VycyBkbyBpbiB0aGUgc291dGggd2l0aCBmaXJlLiBUaGV5IGJ1eSB1cCBpbmRlbnR1cmUgcGFwZXIgYW5kIGJ1cm4gaXQsIGZvcmdlIGNsZWFuIG5hbWVzIGZvciB0aG9zZSB3aG8gZXNjYXBlIG5vcnRoLCBrZWVwIHRoZSBDaGFpbmJyZWFrZXJzJyBsaXN0IG9mIGV2ZXJ5b25lIGluIEdvbGR3aW5kIHdobyBidXlzIHBhcGVyIHBlb3BsZSwgYW5kIHBheSBmb3IgdGhlIHBvd2Rlci4gSXRzIG1hcmsgaXMgU2V2cmluJ3M6IGEgbG9jayBsZWZ0IGJyb2tlbiBvcGVuLiIsICIqKldoZXJlIHRoZSBtb25leSBjb21lcyBmcm9tLioqIFRoZSBDaGFwdGVyIG9mIFJlY2tvbmVycyBtZWV0cyB0aGUgbmlnaHQgYmVmb3JlIGV2ZXJ5IENvaW5zZGF5IFJlYWRpbmcgYW5kIGFncmVlcyB0aGUgbnVtYmVycyBpdCB3aWxsIHJlYWQuIE9uZSBvZiB0aGUgY291bnRlcnMgd2hvIGNvcGllcyB0aGVtIG91dCBpcyBoZXJzOiBoaXMgbW90aGVyIGRpZWQgaW4gYSBDb21wYW55IHRvd24uIEhlIGJyaW5ncyBoZXIgdGhlIG51bWJlcnMgYXQgTWVycm93J3MsIHdoZXJlIHNoZSBpcyBkYW5jaW5nLCBhbmQgYmVmb3JlIHRoZSBub29uIGJlbGwgaGVyIGNoYWxrZXIgYXQgdGhlIEJsYWNrIEN1cCBidXlzIHRoZSBiZWxsIHBhcnRzLiBUaGUgY2hhbGtlciB3aG8gaGFzIG5ldmVyIG9uY2UgYmVlbiB3cm9uZyBpcyB0aGUgT3BlbiBMb2NrJ3MsIGFuZCBldmVyeSBBbmNob3IgaGUgbWFrZXMgZ29lcyBzb3V0aC4iLCAiKipXaG8gc2hlIHdhcy4qKiBTaGUgd2FzIGJvcm4gb24gdGhlIGRyeSBpc2xlcywgb2YgdGhlIEJsdWUgSGFuZCwgYSBjbGFuIG9mIHRoZSBibHVlIGZvbGsgdGhhdCBjYXJyaWVkIFZlcmRheWFuIGphZGUgYnkgY2FyYXZhbiBhbmQgY2Fub2UgZm9yIGxvbmdlciB0aGFuIGFueW9uZSByZW1lbWJlcnMuIFRoZSBDb21wYW55J3MgamFkZSBjb25jZXNzaW9uIGNsb3NlZCB0aGUgcm9hZCwgdGhlIGNsYW4ncyBkZWJ0cyB3ZXJlIGJvdWdodCwgYW5kIHRoZSBkZWJ0cyB3ZXJlIHNvbGQgb24gYXMgaW5kZW50dXJlLiBBdCBlbGV2ZW4gU2V5cmFuYSB3YXMgcGFwZXIgaW4gYSBDb21wYW55IHRvd24gb3V0c2lkZSBTb3V0aGhhdmVuLCB3aGVyZSB0aGUgb3ZlcnNlZXJzIHRvb2sgdGhlIGNoaWxkcmVuJ3Mgc2hvZXMgc28gdGhleSBjb3VsZCBub3QgcnVuIG9uIHRoZSBjYW5lLXN0dWJibGUuIEF0IGZpZnRlZW4gc2hlIHJhbiBhbnl3YXksIGJhcmVmb290LCBhbmQgU2lzdGVyIFNtb2tlJ3MgY2Fub2UgdG9vayBoZXIgdXByaXZlci4gU2hlIGhhcyBub3Qgd29ybiBzaG9lcyBzaW5jZS4gVGhlIGlyb24gb24gaGVyIGFua2xlIGlzIGEgbGluayBvZiB0aGUgY2hhaW4gdGhhdCBsb2NrZWQgdGhlIGNoaWxkcmVuJ3MgYnVua2hvdXNlIGF0IG5pZ2h0OiBzaGUgYnJva2UgaXQgdGhlIG5pZ2h0IHNoZSByYW4uIiwgIioqV2hhdCBzaGUgaG9sZHMuKiogVGhlIE9wZW4gTG9jayBoYXMgYSBjb3B5IG9mIHRoZSB0cnVlIGdyYWRpbmctYm9vayBvZiB0aGUgRmVubmljayBmYWN0b3JzJyBMb25nIFdhcmVob3VzZSwgd2hpY2ggc2hvd3MgdGhhdCBoYWxmIHRoZSBHcmV5bW9vciBjb2ZmZWUgc29sZCBpbiBHb2xkd2luZCBncmV3IG9uIEhvdXNlIFZvc3NyZXRoJ3MgdW5mcmVlIGVzdGF0ZXMuIFNoZSBoYXMgbm90IGRlY2lkZWQgd2hldGhlciB0byBidXJuIEZlbm5pY2sgd2l0aCBpdCwgb3IgdG8gZ2l2ZSBpdCB0byBMYWR5IEltYXJhIEdyZXltb29yLCB3aG9zZSBob3VzZSBxdWlldGx5IHBheXMgZm9yIHRoZSBDaGFpbmJyZWFrZXJzJyBwb3dkZXIsIGluIHRoZSB3YXkgdGhhdCB3aWxsIHZpbmRpY2F0ZSBoZXIgYW5kIG5vdCBydWluIGhlci4iLCAiKipXaGF0IHNoZSBtZWFucyB0byBkby4qKiBFYWNoIHNlYXNvbiB0aGUgQ29tcGFueSdzIHJ1bm5lcnMgY2FycnkgaXRzIG5ldyBpbmRlbnR1cmUgY29udHJhY3RzIHRvIHRoZSBSZWNrb25lcnMnIEhhbGwgdG8gYmUgZW50ZXJlZCBvbiBDb2luc2RheS4gVGhlIE9wZW4gTG9jayBtZWFucyB0byB0YWtlIHRoZW0gb24gdGhlIHN0cmVldCBhbmQgYnVybiB0aGVtIGluIHRoZSBHdWxsbWFya2V0LCBpbiBmcm9udCBvZiBldmVyeW9uZSwgYXQgdGhlIGVuZCBvZiBhIGRhbmNlLiBJdCB3b3VsZCBmcmVlIG5vIG9uZSBvbiBwYXBlciwgc2luY2UgdGhlIENvbXBhbnkga2VlcHMgY29waWVzIGluIHRoZSBzb3V0aDsgaXQgd291bGQgc2hvdyBldmVyeSBib3VuZCB3b3JrZXIgaW4gdGhlIGlzbGFuZHMgdGhhdCB0aGUgcGFwZXIgYnVybnMuIFNpc3RlciBTbW9rZSB0aGlua3MgaXQgaXMgYSB3YXN0ZSBvZiBnb29kIHBlb3BsZS4gU2V5cmFuYSB0aGlua3MgaXQgaXMgdGhlIHdob2xlIHBvaW50LiIsICIqKlNoZSBpcyBydXRobGVzcy4qKiBMYXN0IHNwcmluZyBhIFZvc3NyZXRoIGJ1eWVyIG9mIHBhcGVyIHBlb3BsZSB3YXMgZm91bmQgaW4gdGhlIENhbmFscywgYW5kIHRoZSB3YXRjaCB3cm90ZSBpdCBkb3duIGFzIGRyaW5rLiBJdCB3YXMgbm90IGRyaW5rLiIsICIqKldobyBpcyBjbG9zaW5nIGluLioqIEdvdmVybm9yIEltZWxkYSBSb3F1ZSBoYXMgcHV0IGEgcHJpY2Ugb24g4oCcdGhlIE9wZW4gTG9ja+KAnSBhbmQgYSB3cml0LW1hbiBvbiB0aGUgR3VsbG1hcmtldC4gVGhlIHdyaXQtbWFuIGlzIFRhdm8gb2YgdGhlIEJsdWUgSGFuZCwgaGVyIG93biBjb3VzaW4sIHdobyBzaWduZWQgd2l0aCB0aGUgQ29tcGFueSB0byBwYXkgdGhlIGNsYW4ncyBkZWJ0LiBIZSBrbm93cyBleGFjdGx5IHdobyBzaGUgaXMuIEhlIGhhcyBub3QgdG9sZCBhbnlvbmUgeWV0LCBhbmQgaGUgZG9lcyBub3Qga25vdyBoaW1zZWxmIHdoeSBub3QuIl19"
+   }
+  ],
+  "related": [
+   "gullmarket",
+   "kitehill",
+   "the-commons",
+   "goldwind",
+   "sevrin-the-chainbreaker",
+   "sister-smoke",
+   "charterhouse-company",
+   "coinsday-reading",
+   "reckoners-hall",
+   "the-canals",
+   "house-greymoor",
+   "house-vossreth",
+   "undertow"
+  ],
+  "aliases": [
+   "Seyrana",
+   "Seyrana of the Blue Hand"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "complete"

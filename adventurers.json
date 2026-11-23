@@ -11790,5 +11790,1446 @@
    ]
   }
  },
+ "coinsday": {
+  "concerns": [
+   {
+    "id": "charter-notes",
+    "en": "Charter Notes",
+    "es": "Notas de la Carta",
+    "what_en": "the Council's own paper",
+    "what_es": "el papel del propio Consejo",
+    "price": 1000,
+    "step": 20,
+    "swing_en": "steady",
+    "swing_es": "firme",
+    "share": 4,
+    "moves_en": "the Council's borrowing",
+    "moves_es": "lo que pide prestado el Consejo",
+    "voyage": false
+   },
+   {
+    "id": "lantern-paper",
+    "en": "The Lanternwrights' Paper",
+    "es": "El Papel de los Faroleros",
+    "what_en": "the guild's bonds",
+    "what_es": "los bonos del gremio",
+    "price": 500,
+    "step": 10,
+    "swing_en": "steady",
+    "swing_es": "firme",
+    "share": 6,
+    "moves_en": "oil, and Krysta licenses",
+    "moves_es": "el aceite, y las licencias de Krysta",
+    "voyage": false
+   },
+   {
+    "id": "ropewalk",
+    "en": "The Ropewalk",
+    "es": "La Cordelería",
+    "what_en": "House Hessary's ropewalks",
+    "what_es": "las cordelerías de la Casa Hessary",
+    "price": 300,
+    "step": 6,
+    "swing_en": "steady",
+    "swing_es": "firme",
+    "share": 6,
+    "moves_en": "Armada contracts, and the ice's orders",
+    "moves_es": "los contratos de la Armada, y los pedidos del hielo",
+    "voyage": false
+   },
+   {
+    "id": "corvane-packets",
+    "en": "The Corvane Packets",
+    "es": "Los Paquebotes Corvane",
+    "what_en": "the Corvane Line's packets and freight",
+    "what_es": "los paquebotes y la carga de la Línea Corvane",
+    "price": 1200,
+    "step": 60,
+    "swing_en": "lively",
+    "swing_es": "movida",
+    "share": 8,
+    "moves_en": "convoys, storms, and pirates",
+    "moves_es": "los convoyes, las tormentas y los piratas",
+    "voyage": false
+   },
+   {
+    "id": "charterhouse",
+    "en": "The Charterhouse Company",
+    "es": "La Compañía Casacarta",
+    "what_en": "the Company itself",
+    "what_es": "la Compañía misma",
+    "price": 2000,
+    "step": 100,
+    "swing_en": "lively",
+    "swing_es": "movida",
+    "share": 10,
+    "moves_en": "concessions, and riots",
+    "moves_es": "las concesiones, y los motines",
+    "voyage": false
+   },
+   {
+    "id": "stormreach-yards",
+    "en": "The Stormreach Yards",
+    "es": "Los Astilleros de Confín de Tormentas",
+    "what_en": "House Vanris's yards",
+    "what_es": "los astilleros de la Casa Vanris",
+    "price": 1400,
+    "step": 70,
+    "swing_en": "lively",
+    "swing_es": "movida",
+    "share": 7,
+    "moves_en": "new hulls and refits",
+    "moves_es": "los cascos nuevos y las reparaciones",
+    "voyage": false
+   },
+   {
+    "id": "hallorn-salt",
+    "en": "Hallorn Salt",
+    "es": "Sal Hallorn",
+    "what_en": "the Saltreach pans and the herring",
+    "what_es": "las salinas de Confín de Sal y el arenque",
+    "price": 400,
+    "step": 20,
+    "swing_en": "lively",
+    "swing_es": "movida",
+    "share": 9,
+    "moves_en": "the herring years, and the Company",
+    "moves_es": "los años de arenque, y la Compañía",
+    "voyage": false
+   },
+   {
+    "id": "saffrane-silks",
+    "en": "Saffrane Silks",
+    "es": "Sedas Saffrane",
+    "what_en": "Silverport's silk and scent",
+    "what_es": "la seda y el perfume de Puerto Plata",
+    "price": 800,
+    "step": 40,
+    "swing_en": "lively",
+    "swing_es": "movida",
+    "share": 8,
+    "moves_en": "fashion, and the Pocchin",
+    "moves_es": "la moda, y los pocchin",
+    "voyage": false
+   },
+   {
+    "id": "vantrey-glass",
+    "en": "Vantrey Glass",
+    "es": "Vidrio Vantrey",
+    "what_en": "licensed Krysta brokerage",
+    "what_es": "el corretaje de Krysta con licencia",
+    "price": 2000,
+    "step": 200,
+    "swing_en": "wild",
+    "swing_es": "brava",
+    "share": 12,
+    "moves_en": "the mines, and every scandal",
+    "moves_es": "las minas, y cada escándalo",
+    "voyage": false
+   },
+   {
+    "id": "brennvar-fleet",
+    "en": "Brennvar's Southern Fleet",
+    "es": "La Flota del Sur de Brennvar",
+    "what_en": "a season's whaling",
+    "what_es": "una temporada de caza de ballenas",
+    "price": 600,
+    "step": 60,
+    "swing_en": "wild",
+    "swing_es": "brava",
+    "share": 15,
+    "moves_en": "the catch",
+    "moves_es": "la pesca",
+    "voyage": false
+   },
+   {
+    "id": "front-paper",
+    "en": "Front Paper",
+    "es": "Papel del Frente",
+    "what_en": "the Front Levy's loans to the Alliance",
+    "what_es": "los préstamos de la Leva del Frente a la Alianza",
+    "price": 200,
+    "step": 20,
+    "swing_en": "wild",
+    "swing_es": "brava",
+    "share": 18,
+    "moves_en": "news from the war",
+    "moves_es": "las noticias de la guerra",
+    "voyage": false
+   },
+   {
+    "id": "voyage",
+    "en": "A voyage",
+    "es": "Un viaje",
+    "what_en": "one ship, one season, registered for the Reading",
+    "what_es": "un barco, una temporada, inscrito para la Lectura",
+    "price": 100,
+    "step": 10,
+    "swing_en": "wild",
+    "swing_es": "brava",
+    "share": 0,
+    "moves_en": "the ship coming home",
+    "moves_es": "que el barco vuelva",
+    "voyage": true
+   }
+  ],
+  "events": [
+   {
+    "en": "A convoy is lost in the southern lanes. Corvane Packets −3, Brennvar −2, every voyage −3.",
+    "es": "Se pierde un convoy en las rutas del sur. Paquebotes Corvane −3, Brennvar −2, todo viaje −3.",
+    "fx": {
+     "corvane-packets": -3,
+     "brennvar-fleet": -2,
+     "voyage": -3
+    }
+   },
+   {
+    "en": "Storm season comes early. Corvane Packets −1; Stormreach Yards +2 and the Ropewalk +1 for the repairs.",
+    "es": "La temporada de tormentas llega antes. Paquebotes Corvane −1; Astilleros de Confín de Tormentas +2 y la Cordelería +1 por las reparaciones.",
+    "fx": {
+     "corvane-packets": -1,
+     "stormreach-yards": 2,
+     "ropewalk": 1
+    }
+   },
+   {
+    "en": "A good herring year. Hallorn Salt +2.",
+    "es": "Un buen año de arenque. Sal Hallorn +2.",
+    "fx": {
+     "hallorn-salt": 2
+    }
+   },
+   {
+    "en": "A bad herring year, and talk of the Company buying the pans. Hallorn Salt −3, the Charterhouse Company +1.",
+    "es": "Un mal año de arenque, y se habla de que la Compañía compra las salinas. Sal Hallorn −3, la Compañía Casacarta +1.",
+    "fx": {
+     "hallorn-salt": -3,
+     "charterhouse": 1
+    }
+   },
+   {
+    "en": "The Charterhouse Company wins a new concession. The Company +3, Hallorn Salt −1.",
+    "es": "La Compañía Casacarta gana una concesión nueva. La Compañía +3, Sal Hallorn −1.",
+    "fx": {
+     "charterhouse": 3,
+     "hallorn-salt": -1
+    }
+   },
+   {
+    "en": "A riot in a Company port. The Charterhouse Company −3.",
+    "es": "Un motín en un puerto de la Compañía. La Compañía Casacarta −3.",
+    "fx": {
+     "charterhouse": -3
+    }
+   },
+   {
+    "en": "News from the Front: a fortress-town changes hands. Roll a die: odd, the Imperium took it, Front Paper −3; even, the Alliance did, Front Paper +3.",
+    "es": "Noticias del Frente: un pueblo fortificado cambia de manos. Tira un dado: impar, lo tomó el Imperio, Papel del Frente −3; par, lo tomó la Alianza, Papel del Frente +3.",
+    "fx": {
+     "front": true
+    }
+   },
+   {
+    "en": "A new Krysta seam at Darlath. Vantrey Glass +3.",
+    "es": "Una veta nueva de Krysta en Darlath. Vidrio Vantrey +3.",
+    "fx": {
+     "vantrey-glass": 3
+    }
+   },
+   {
+    "en": "A flawed stone sold as flawless, and the broadsheets have it. Vantrey Glass −3.",
+    "es": "Una piedra con defecto vendida como perfecta, y las hojas sueltas lo publican. Vidrio Vantrey −3.",
+    "fx": {
+     "vantrey-glass": -3
+    }
+   },
+   {
+    "en": "The oil is short and the Goldwind lanterns dim. Brennvar −2, the Lanternwrights' Paper −1.",
+    "es": "Falta aceite y los faroles de Ventoro se apagan. Brennvar −2, el Papel de los Faroleros −1.",
+    "fx": {
+     "brennvar-fleet": -2,
+     "lantern-paper": -1
+    }
+   },
+   {
+    "en": "A great catch comes home to Frosthold. Brennvar +3.",
+    "es": "Una gran pesca vuelve a Bastión de Escarcha. Brennvar +3.",
+    "fx": {
+     "brennvar-fleet": 3
+    }
+   },
+   {
+    "en": "Silk is the fashion in the salons this season. Saffrane Silks +2.",
+    "es": "La seda está de moda en los salones esta temporada. Sedas Saffrane +2.",
+    "fx": {
+     "saffrane-silks": 2
+    }
+   },
+   {
+    "en": "A Pocchin caravan undersells Silverport. Saffrane Silks −2.",
+    "es": "Una caravana pocchin vende más barato que Puerto Plata. Sedas Saffrane −2.",
+    "fx": {
+     "saffrane-silks": -2
+    }
+   },
+   {
+    "en": "A Hunter company clears a pirate lane. Corvane Packets +2, every voyage +2.",
+    "es": "Una compañía de Cazadores limpia una ruta de piratas. Paquebotes Corvane +2, todo viaje +2.",
+    "fx": {
+     "corvane-packets": 2,
+     "voyage": 2
+    }
+   },
+   {
+    "en": "The Free Tide raids a shipping lane. Corvane Packets −2, every voyage −2.",
+    "es": "La Marea Libre asalta una ruta. Paquebotes Corvane −2, todo viaje −2.",
+    "fx": {
+     "corvane-packets": -2,
+     "voyage": -2
+    }
+   },
+   {
+    "en": "The Council borrows, and money goes tight. Charter Notes +1, everything else −1.",
+    "es": "El Consejo pide prestado, y el dinero se aprieta. Notas de la Carta +1, todo lo demás −1.",
+    "fx": {
+     "charter-notes": 1,
+     "*": -1
+    }
+   },
+   {
+    "en": "A rumor in the coffee-houses. One concern, the Game Master's choice, −2; if the rumor was false, +2 at the next Reading.",
+    "es": "Un rumor en las casas de café. Un negocio, a elección del Máster, −2; si el rumor era falso, +2 en la Lectura siguiente.",
+    "fx": {
+     "rumor": true
+    }
+   },
+   {
+    "en": "An Armada contract. Stormreach Yards +3, the Ropewalk +2, Hallorn Salt +1.",
+    "es": "Un contrato de la Armada. Astilleros de Confín de Tormentas +3, la Cordelería +2, Sal Hallorn +1.",
+    "fx": {
+     "stormreach-yards": 3,
+     "ropewalk": 2,
+     "hallorn-salt": 1
+    }
+   },
+   {
+    "en": "A King Tide year draws near, and insurance triples. Everything −1, every voyage −3.",
+    "es": "Se acerca un año de Marea Rey, y los seguros se triplican. Todo −1, todo viaje −3.",
+    "fx": {
+     "*": -1,
+     "voyage": -3
+    }
+   },
+   {
+    "en": "A quiet Coinsday. Nothing but the dice.",
+    "es": "Un Monedía tranquilo. Nada más que los dados.",
+    "fx": {}
+   }
+  ],
+  "roll": {
+   "2": -3,
+   "3": -2,
+   "4": -2,
+   "5": -1,
+   "6": -1,
+   "7": 0,
+   "8": 1,
+   "9": 1,
+   "10": 2,
+   "11": 2,
+   "12": 3
+  },
+  "words": [
+   [
+    3,
+    "high water",
+    "pleamar"
+   ],
+   [
+    1,
+    "on the tide",
+    "con la marea"
+   ],
+   [
+    0,
+    "dead water",
+    "agua muerta"
+   ],
+   [
+    -2,
+    "on the ebb",
+    "con el reflujo"
+   ],
+   [
+    -99,
+    "low water",
+    "bajamar"
+   ]
+  ],
+  "fees": {
+   "hall": 100,
+   "chalker": 50
+  }
+ },
+ "undertow": {
+  "settle": [
+   [
+    "village",
+    "Village",
+    "Aldea"
+   ],
+   [
+    "town",
+    "Town",
+    "Pueblo"
+   ],
+   [
+    "city",
+    "City",
+    "Ciudad"
+   ],
+   [
+    "black",
+    "Black port",
+    "Puerto negro"
+   ]
+  ],
+  "regions": [
+   [
+    "northern-frontier",
+    "Northern Frontier",
+    "Frontera del Norte"
+   ],
+   [
+    "central-heartland",
+    "Central Heartland",
+    "Corazón Central"
+   ],
+   [
+    "southern-wilds",
+    "Southern Wilds",
+    "Tierras Salvajes del Sur"
+   ],
+   [
+    "icy-expanse",
+    "Icy Expanse",
+    "Extensión Helada"
+   ]
+  ],
+  "drugs": [
+   {
+    "id": "glint",
+    "en": "Glint",
+    "es": "Destello",
+    "pct": [
+     2,
+     10,
+     30,
+     60
+    ],
+    "dc": 12,
+    "price_en": "2 Tides a pinch; a habit runs 1 to 2 Anchors a month",
+    "price_es": "2 Mareas la pizca; un vicio cuesta de 1 a 2 Anclas al mes",
+    "law_en": "banned",
+    "law_es": "prohibida",
+    "home_en": "the southern ports",
+    "home_es": "los puertos del sur",
+    "home": [
+     "southern-wilds"
+    ],
+    "far": [
+     "northern-frontier",
+     "icy-expanse"
+    ]
+   },
+   {
+    "id": "qelxaru",
+    "en": "Qelxaru",
+    "es": "Qelxaru",
+    "pct": [
+     0,
+     1,
+     5,
+     15
+    ],
+    "dc": 18,
+    "price_en": "2 Anchors a cap",
+    "price_es": "2 Anclas el hongo",
+    "law_en": "banned",
+    "law_es": "prohibido",
+    "home_en": "the southern jungle",
+    "home_es": "la selva del sur",
+    "home": [
+     "southern-wilds"
+    ],
+    "far": [
+     "northern-frontier",
+     "icy-expanse"
+    ]
+   },
+   {
+    "id": "red-hush",
+    "en": "Red Hush",
+    "es": "Silencio Rojo",
+    "pct": [
+     1,
+     5,
+     20,
+     35
+    ],
+    "dc": 15,
+    "price_en": "1 Tide a bundle of ten leaves",
+    "price_es": "1 Marea el atado de diez hojas",
+    "law_en": "banned",
+    "law_es": "prohibida",
+    "home_en": "the Heartland",
+    "home_es": "el Corazón",
+    "home": [
+     "central-heartland"
+    ],
+    "far": [
+     "icy-expanse"
+    ]
+   },
+   {
+    "id": "venn-shae",
+    "en": "Venn-shae",
+    "es": "Venn-shae",
+    "pct": [
+     10,
+     30,
+     50,
+     60
+    ],
+    "dc": null,
+    "price_en": "5 Bits a dose",
+    "price_es": "5 Olas la dosis",
+    "law_en": "legal",
+    "law_es": "legal",
+    "home_en": "diving ports and Pearl Groove",
+    "home_es": "los puertos de buzos y el Surco de Perlas",
+    "home": [],
+    "far": []
+   },
+   {
+    "id": "velvet",
+    "en": "Velvet",
+    "es": "Terciopelo",
+    "pct": [
+     2,
+     15,
+     60,
+     50
+    ],
+    "dc": null,
+    "price_en": "1 Anchor a bottle",
+    "price_es": "1 Ancla el frasco",
+    "law_en": "legal, and taxed",
+    "law_es": "legal, y paga impuesto",
+    "home_en": "Goldwind and the Heartland",
+    "home_es": "Ventoro y el Corazón",
+    "home": [
+     "central-heartland"
+    ],
+    "far": []
+   },
+   {
+    "id": "naxtumen",
+    "en": "Naxtumen",
+    "es": "Naxtumen",
+    "pct": [
+     1,
+     3,
+     10,
+     25
+    ],
+    "dc": 15,
+    "price_en": "1 Tide a pipe in the south; five times that elsewhere",
+    "price_es": "1 Marea la pipa en el sur; cinco veces más en otras partes",
+    "law_en": "banned; selling it is a crime under Confederacy law",
+    "law_es": "prohibida; venderla es delito según la ley de la Confederación",
+    "home_en": "the south",
+    "home_es": "el sur",
+    "home": [
+     "southern-wilds"
+    ],
+    "far": [
+     "northern-frontier",
+     "icy-expanse"
+    ]
+   },
+   {
+    "id": "drowse",
+    "en": "Drowse",
+    "es": "Modorra",
+    "pct": [
+     40,
+     70,
+     95,
+     95
+    ],
+    "dc": null,
+    "price_en": "2 Bits a cup",
+    "price_es": "2 Olas la taza",
+    "law_en": "legal; sold in the tea-houses of every dock",
+    "law_es": "legal; se vende en las casas de té de todos los muelles",
+    "home_en": "everywhere",
+    "home_es": "en todas partes",
+    "home": [
+     "northern-frontier",
+     "central-heartland",
+     "southern-wilds",
+     "icy-expanse"
+    ],
+    "far": []
+   },
+   {
+    "id": "mule",
+    "en": "Mule",
+    "es": "Mula",
+    "pct": [
+     30,
+     60,
+     80,
+     90
+    ],
+    "dc": null,
+    "price_en": "1 Bit a root; the overseers give it “free” and take it out of the wage",
+    "price_es": "1 Ola la raíz; los capataces la dan “gratis” y la descuentan del jornal",
+    "law_en": "legal",
+    "law_es": "legal",
+    "home_en": "the south, and the mines",
+    "home_es": "el sur, y las minas",
+    "home": [
+     "southern-wilds"
+    ],
+    "far": []
+   },
+   {
+    "id": "lordsblood",
+    "en": "Lordsblood",
+    "es": "Sangre de Señor",
+    "pct": [
+     0,
+     1,
+     5,
+     15
+    ],
+    "dc": 18,
+    "price_en": "20 Anchors a dose",
+    "price_es": "20 Anclas la dosis",
+    "law_en": "banned; the Hunters go after whoever sells it",
+    "law_es": "prohibida; los Cazadores persiguen a quien la vende",
+    "home_en": "the Quiet Auction",
+    "home_es": "la Subasta Callada",
+    "home": [],
+    "far": []
+   },
+   {
+    "id": "damareth",
+    "en": "Damareth",
+    "es": "Damareth",
+    "pct": [
+     0,
+     0,
+     5,
+     2
+    ],
+    "dc": 22,
+    "price_en": "50 Anchors a vial",
+    "price_es": "50 Anclas el frasco",
+    "law_en": "banned, as fae goods; nobody arrests a duke",
+    "law_es": "prohibido, como mercancía feérica; nadie arresta a un duque",
+    "home_en": "the old houses, at the Still Days",
+    "home_es": "las casas viejas, en los Días Quietos",
+    "home": [],
+    "far": []
+   },
+   {
+    "id": "tikkatel",
+    "en": "Tikkatel",
+    "es": "Tikkatel",
+    "pct": [
+     1,
+     10,
+     40,
+     30
+    ],
+    "dc": 12,
+    "price_en": "1 Tide a dose",
+    "price_es": "1 Marea la dosis",
+    "law_en": "tolerated: the University bans it, and the Reckoners' Hall looks the other way",
+    "law_es": "tolerada: la Universidad la prohíbe, y la Casa de los Tesoreros hace como que no la ve",
+    "home_en": "Goldwind and the University",
+    "home_es": "Ventoro y la Universidad",
+    "home": [
+     "central-heartland"
+    ],
+    "far": [
+     "southern-wilds",
+     "icy-expanse"
+    ]
+   },
+   {
+    "id": "vastren",
+    "en": "Vastren",
+    "es": "Vastren",
+    "pct": [
+     0,
+     2,
+     5,
+     20
+    ],
+    "dc": 15,
+    "price_en": "3 Tides a wafer in the islands",
+    "price_es": "3 Mareas la oblea en las islas",
+    "law_en": "banned, as imperial goods",
+    "law_es": "prohibida, como mercancía del Imperio",
+    "home_en": "Black Harbor and Ironfort",
+    "home_es": "Puerto Negro y Fuerte de Hierro",
+    "home": [
+     "northern-frontier"
+    ],
+    "far": [
+     "southern-wilds",
+     "icy-expanse"
+    ]
+   },
+   {
+    "id": "stillface",
+    "en": "Stillface",
+    "es": "Cara Quieta",
+    "pct": [
+     0,
+     1,
+     5,
+     10
+    ],
+    "dc": 18,
+    "price_en": "2 Anchors a vial in the islands",
+    "price_es": "2 Anclas el frasco en las islas",
+    "law_en": "on no list: the Council has never heard of it",
+    "law_es": "en ninguna lista: el Consejo nunca ha oído hablar de ella",
+    "home_en": "nowhere in the islands",
+    "home_es": "ningún lugar de las islas",
+    "home": [],
+    "far": []
+   }
+  ],
+  "goods": [
+   {
+    "en": "Dark glass: unregistered Krysta",
+    "es": "Vidrio oscuro: Krysta sin registro",
+    "price_en": "1½ to 3 times the legal price",
+    "price_es": "de 1½ a 3 veces el precio legal",
+    "min": 1
+   },
+   {
+    "en": "Blackleaf and dream-herbs",
+    "es": "Hoja negra y hierbas de sueño",
+    "price_en": "10 to 30 in 100 under market",
+    "price_es": "de 10 a 30 de cada 100 por debajo del mercado",
+    "min": 0
+   },
+   {
+    "en": "Untaxed coffee, leaf, and sugar",
+    "es": "Café, hoja y azúcar sin impuestos",
+    "price_en": "10 to 20 in 100 under market",
+    "price_es": "de 10 a 20 de cada 100 por debajo del mercado",
+    "min": 0
+   },
+   {
+    "en": "Lord-bone: horn, hide, and teeth of Savage Lord progeny",
+    "es": "Hueso de señor: cuerno, piel y dientes de la progenie de los Señores Salvajes",
+    "price_en": "hundreds of Anchors; a progeny's tooth, 500 and up",
+    "price_es": "cientos de Anclas; un diente de progenie, 500 o más",
+    "min": 2
+   },
+   {
+    "en": "Antiquities: Orka relics and sacred things",
+    "es": "Antigüedades: reliquias orka y objetos sagrados",
+    "price_en": "whatever a collector can be made to pay",
+    "price_es": "lo que se le pueda sacar a un coleccionista",
+    "min": 2
+   },
+   {
+    "en": "Wet goods: salvage from a claimed wreck",
+    "es": "Mercancía mojada: rescate de un naufragio reclamado",
+    "price_en": "by the piece",
+    "price_es": "por pieza",
+    "min": 1
+   },
+   {
+    "en": "Guns",
+    "es": "Armas de fuego",
+    "price_en": "2 to 3 times legal",
+    "price_es": "de 2 a 3 veces el precio legal",
+    "min": 2
+   },
+   {
+    "en": "Fae goods: bottled bargains, fae-wine",
+    "es": "Mercancía feérica: tratos embotellados, vino de las hadas",
+    "price_en": "never what you pay",
+    "price_es": "nunca lo que pagas",
+    "min": 2
+   },
+   {
+    "en": "Stone: a forged Chartwrights' stamp",
+    "es": "Piedra: un sello falso de los Cartógrafos",
+    "price_en": "50 Anchors",
+    "price_es": "50 Anclas",
+    "min": 2
+   },
+   {
+    "en": "Ink: a forged letter of marque",
+    "es": "Tinta: una patente de corso falsa",
+    "price_en": "300 Anchors",
+    "price_es": "300 Anclas",
+    "min": 2
+   },
+   {
+    "en": "Brass rings: counterfeit Registry rings",
+    "es": "Anillos de latón: anillos falsos del Registro",
+    "price_en": "20 Anchors a circle",
+    "price_es": "20 Anclas por círculo",
+    "min": 2
+   },
+   {
+    "en": "False seals: a customs seal, a grade-stamp",
+    "es": "Sellos falsos: un sello de aduana, un sello de clase",
+    "price_en": "10 Anchors a seal; 2 Bits a sack for a Greymoor stamp",
+    "price_es": "10 Anclas por sello; 2 Olas por saco para un sello de Paramogrís",
+    "min": 1
+   },
+   {
+    "en": "Drowned Anchors: counterfeit gold",
+    "es": "Anclas ahogadas: oro falso",
+    "price_en": "3 real Tides apiece, by the hundred",
+    "price_es": "3 Mareas de verdad cada una, por centenas",
+    "min": 1
+   },
+   {
+    "en": "Pale moons: light Tides",
+    "es": "Lunas pálidas: Mareas livianas",
+    "price_en": "bought at 7 Bits, passed at full face",
+    "price_es": "se compran a 7 Olas y se pasan a valor completo",
+    "min": 1
+   },
+   {
+    "en": "Irons: Hunter endorsement-coins",
+    "es": "Hierros: monedas de aval de los Cazadores",
+    "price_en": "150 to 300 Anchors in the season before the Trials",
+    "price_es": "de 150 a 300 Anclas en la temporada antes de las Pruebas",
+    "min": 2
+   },
+   {
+    "en": "Brass Sigils: false Hunter badges",
+    "es": "Sellos de latón: insignias falsas de Cazador",
+    "price_en": "30 Anchors; the Lodges hang the forger",
+    "price_es": "30 Anclas; las Logias cuelgan al falsificador",
+    "min": 2
+   },
+   {
+    "en": "Sealed pages: charts from the Far Watch's sealed books",
+    "es": "Páginas selladas: cartas de los libros sellados de la Vigía Lejana",
+    "price_en": "a thousand Anchors and up, and a Black Coat at your door",
+    "price_es": "mil Anclas o más, y un Casaca Negra a tu puerta",
+    "min": 3
+   },
+   {
+    "en": "Saurian eggs, out of Jakupur",
+    "es": "Huevos de saurio, sacados de Jakupur",
+    "price_en": "the Game Master's price",
+    "price_es": "el precio que diga el Máster",
+    "min": 1
+   },
+   {
+    "en": "Black pages: banned spells, stolen spellbooks",
+    "es": "Páginas negras: conjuros prohibidos, libros de conjuros robados",
+    "price_en": "the Game Master's price",
+    "price_es": "el precio que diga el Máster",
+    "min": 2
+   },
+   {
+    "en": "Star coral, which breaks a sea-pact",
+    "es": "Coral estrellado, que rompe un pacto con el mar",
+    "price_en": "the Game Master's price",
+    "price_es": "el precio que diga el Máster",
+    "min": 2
+   },
+   {
+    "en": "Imperial goods: Korvan silk, arms, and papers",
+    "es": "Bienes del Imperio: seda, armas y papeles de Korvan",
+    "price_en": "the Game Master's price",
+    "price_es": "el precio que diga el Máster",
+    "min": 1
+   },
+   {
+    "en": "A clean name: forged birth and death records",
+    "es": "Un nombre limpio: actas falsas de nacimiento y de muerte",
+    "price_en": "20 Anchors, with papers",
+    "price_es": "20 Anclas, con papeles",
+    "min": 2
+   },
+   {
+    "en": "False relics: saints' bones, holy water",
+    "es": "Reliquias falsas: huesos de santos, agua bendita",
+    "price_en": "a few Tides, to the faithful",
+    "price_es": "unas Mareas, a los fieles",
+    "min": 0
+   },
+   {
+    "en": "A washed ship: stolen, repainted, new papers",
+    "es": "Un barco lavado: robado, repintado, con papeles nuevos",
+    "price_en": "the Game Master's price",
+    "price_es": "el precio que diga el Máster",
+    "min": 3
+   },
+   {
+    "en": "A seat at a pit fight, and the betting",
+    "es": "Un lugar en una pelea de foso, y las apuestas",
+    "price_en": "a Tide at the door",
+    "price_es": "una Marea en la puerta",
+    "min": 2
+   }
+  ],
+  "more": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    4
+   ],
+   [
+    3,
+    5
+   ]
+  ],
+  "keeper": [
+   [
+    1,
+    "“Never heard of her.”",
+    "“Nunca he oído de ella.”",
+    "Leave, quickly: the Bell is listening.",
+    "Vete, rápido: la Campana está escuchando."
+   ],
+   [
+    3,
+    "“She's gone visiting.”",
+    "“Salió de visita.”",
+    "Not here, not now, or not for you.",
+    "No aquí, no ahora, o no para ti."
+   ],
+   [
+    6,
+    "“She's in the back.”",
+    "“Está atrás.”",
+    "Come in.",
+    "Pasa."
+   ]
+  ],
+  "trouble": [
+   {
+    "en": "The seller is the Bell's: the deal is real, and so is the watchman waiting outside.",
+    "es": "El vendedor es de la Campana: el trato es real, y también el guardia que espera afuera."
+   },
+   {
+    "en": "It is cut with something cheaper: half strength, or worse.",
+    "es": "Está cortado con algo más barato: la mitad de fuerte, o peor."
+   },
+   {
+    "en": "Someone else is buying the same thing tonight, with more coin.",
+    "es": "Alguien más está comprando lo mismo esta noche, y con más dinero."
+   },
+   {
+    "en": "The Bell raided last night, everyone is nervous, and the price is doubled.",
+    "es": "La Campana hizo una redada anoche, todos están nerviosos, y el precio se duplica."
+   },
+   {
+    "en": "They want a favor, not coin: carry a parcel, forget a face, leave a door open.",
+    "es": "Quieren un favor, no dinero: llevar un paquete, olvidar una cara, dejar una puerta abierta."
+   },
+   {
+    "en": "This is somebody's ground. Pay salt, 2 Bits, or be followed home.",
+    "es": "Esto es terreno de alguien. Paga la sal, 2 Olas, o te siguen hasta tu casa."
+   },
+   {
+    "en": "A Hunter is watching the seller for a bounty, and now is watching you.",
+    "es": "Un Cazador vigila al vendedor por una recompensa, y ahora te vigila a ti."
+   },
+   {
+    "en": "All clear. A struck deal holds.",
+    "es": "Todo en orden. Un trato cerrado se cumple."
+   }
+  ],
+  "fence": [
+   {
+    "id": "ordinary",
+    "en": "Ordinary stolen goods",
+    "es": "Bienes robados comunes",
+    "pays": 4,
+    "note_en": "",
+    "note_es": ""
+   },
+   {
+    "id": "melt",
+    "en": "Jewels, plate, anything easily melted or recut",
+    "es": "Joyas, vajilla, lo que se funde o se talla de nuevo",
+    "pays": 3,
+    "note_en": "",
+    "note_es": ""
+   },
+   {
+    "id": "traced",
+    "en": "Anything that can be traced: a numbered Orsal, a Kerrow-marked stone, a Hunter's Sigil, a Belmaris bell",
+    "es": "Lo que se puede rastrear: un Orsal numerado, una piedra con marca Kerrow, el Sello de un Cazador, una campana Belmaris",
+    "pays": 10,
+    "note_en": "if they buy at all",
+    "note_es": "si es que lo compran"
+   }
+  ],
+  "rates_en": [
+   "**An iron** fetches top coin, because it carries no name and cannot be traced: 150 to 300 Anchors in the season before the Trials. That is the whole trouble with irons.",
+   "**Smuggler's freight** is double honest freight; dark glass and guns go at triple.",
+   "**Laundering** coin through the Sunspine Run's betting-books costs a fifth, paid to the Crest Syndicate.",
+   "**Company brass** is bought from the Company's workers at half its face, and sold back to the Company's clerks at three-quarters. Everyone knows exactly what is happening."
+  ],
+  "rates_es": [
+   "**Un hierro** se paga a precio alto, porque no lleva nombre y no se puede rastrear: de 150 a 300 Anclas en la temporada antes de las Pruebas. Ese es todo el problema de los hierros.",
+   "**El flete de contrabandista** es el doble del flete honrado; el vidrio oscuro y las armas van al triple.",
+   "**Lavar** dinero en los libros de apuestas de la Carrera del Espinazo del Sol cuesta una quinta parte, que se le paga al Sindicato de la Cresta.",
+   "**El latón de la Compañía** se les compra a los trabajadores de la Compañía a la mitad de su valor, y se les vende de vuelta a los escribientes de la Compañía a tres cuartos. Todos saben exactamente lo que pasa."
+  ],
+  "services": [
+   {
+    "en": [
+     "A watchman looks the other way",
+     "Any watch",
+     "1 Tide"
+    ],
+    "es": [
+     "Un guardia mira para otro lado",
+     "Cualquier guardia",
+     "1 Marea"
+    ]
+   },
+   {
+    "en": [
+     "A customs-clerk seals a false manifest",
+     "Any harbor but the Grey Clerks'",
+     "1 to 5 Anchors a cargo"
+    ],
+    "es": [
+     "Un aduanero sella un manifiesto falso",
+     "Cualquier puerto menos el de los Escribanos Grises",
+     "de 1 a 5 Anclas por carga"
+    ]
+   },
+   {
+    "en": [
+     "A harbor-master, for a season",
+     "Smaller ports",
+     "20 Anchors"
+    ],
+    "es": [
+     "Un capitán de puerto, por una temporada",
+     "Los puertos más chicos",
+     "20 Anclas"
+    ]
+   },
+   {
+    "en": [
+     "A magistrate's verdict",
+     "Colonial courts above all",
+     "1 Orsal and up"
+    ],
+    "es": [
+     "El veredicto de un magistrado",
+     "Los tribunales coloniales sobre todo",
+     "1 Orsal o más"
+    ]
+   },
+   {
+    "en": [
+     "A Registry warden forgets a face",
+     "Goldwind",
+     "10 Anchors; the Registrar has never been bought, as far as anyone knows"
+    ],
+    "es": [
+     "Un guardián del Registro olvida una cara",
+     "Ventoro",
+     "10 Anclas; al Registrador nunca lo han comprado, que se sepa"
+    ]
+   },
+   {
+    "en": [
+     "A new name, with papers",
+     "Goldwind; Black Harbor",
+     "20 Anchors"
+    ],
+    "es": [
+     "Un nombre nuevo, con papeles",
+     "Ventoro; Puerto Negro",
+     "20 Anclas"
+    ]
+   },
+   {
+    "en": [
+     "Out of Goldwind, unseen",
+     "The Ringless (for casters)",
+     "10 Anchors"
+    ],
+    "es": [
+     "Salir de Ventoro sin que te vean",
+     "Los Sin Anillo (para lanzadores)",
+     "10 Anclas"
+    ]
+   },
+   {
+    "en": [
+     "Out of a Company town",
+     "The Blackleaf Runners",
+     "Free, if Sister Smoke likes your face"
+    ],
+    "es": [
+     "Salir de un pueblo de la Compañía",
+     "Los Corredores de la Hoja Negra",
+     "Gratis, si a la Hermana Humo le gusta tu cara"
+    ]
+   },
+   {
+    "en": [
+     "Passage with no questions",
+     "Free Sails captains; the Driftborn",
+     "Three times the fare"
+    ],
+    "es": [
+     "Pasaje sin preguntas",
+     "Capitanes de las Velas Libres; los Nacidos a la Deriva",
+     "Tres veces el pasaje"
+    ]
+   },
+   {
+    "en": [
+     "Protection: a market stall",
+     "Every port",
+     "2 Bits a Cycle"
+    ],
+    "es": [
+     "Protección: un puesto de mercado",
+     "Todos los puertos",
+     "2 Olas por Ciclo"
+    ]
+   },
+   {
+    "en": [
+     "Protection: a tavern",
+     "Every port",
+     "1 Anchor a month"
+    ],
+    "es": [
+     "Protección: una taberna",
+     "Todos los puertos",
+     "1 Ancla al mes"
+    ]
+   },
+   {
+    "en": [
+     "Protection: a warehouse",
+     "Every port",
+     "1 Orsal a year"
+    ],
+    "es": [
+     "Protección: un almacén",
+     "Todos los puertos",
+     "1 Orsal al año"
+    ]
+   },
+   {
+    "en": [
+     "Passage of the sea-road",
+     "The Tollmen",
+     "1 Tide a mast, every passage"
+    ],
+    "es": [
+     "Paso por el camino del mar",
+     "Los Peajeros",
+     "1 Marea por mástil, cada paso"
+    ]
+   },
+   {
+    "en": [
+     "A loan nobody else will make",
+     "The Ledger Wolves",
+     "1 in 10 every Cycle; collected by knife"
+    ],
+    "es": [
+     "Un préstamo que nadie más te hace",
+     "Los Lobos del Libro Mayor",
+     "1 de cada 10 cada Ciclo; se cobra a cuchillo"
+    ]
+   },
+   {
+    "en": [
+     "A crew pressed by the crimps",
+     "Every great harbor",
+     "2 Anchors a body; the body wakes at sea"
+    ],
+    "es": [
+     "Una tripulación reclutada a la fuerza",
+     "Todos los grandes puertos",
+     "2 Anclas por cuerpo; el cuerpo despierta en altamar"
+    ]
+   },
+   {
+    "en": [
+     "A fixed race",
+     "The Crest Syndicate",
+     "A fifth of the winnings, and a favor owed to the Odds-Mother"
+    ],
+    "es": [
+     "Una carrera arreglada",
+     "El Sindicato de la Cresta",
+     "Una quinta parte de la ganancia, y un favor que se le debe a la Madre de las Apuestas"
+    ]
+   },
+   {
+    "en": [
+     "Bright work: unregistered spellcasting",
+     "The Ringless; hedge-mages",
+     "5 to 50 Anchors a working"
+    ],
+    "es": [
+     "Trabajo brillante: magia sin registro",
+     "Los Sin Anillo; magos de seto",
+     "de 5 a 50 Anclas por trabajo"
+    ]
+   },
+   {
+    "en": [
+     "A secret",
+     "The Skein",
+     "Whatever you can least afford"
+    ],
+    "es": [
+     "Un secreto",
+     "La Madeja",
+     "Lo que menos te puedas permitir"
+    ]
+   },
+   {
+    "en": [
+     "A death",
+     "Undertow knives",
+     "20 to 100 Anchors; a badge-holding crew, more, and the Lodges strip badges for it"
+    ],
+    "es": [
+     "Una muerte",
+     "Los cuchillos de la Resaca",
+     "de 20 a 100 Anclas; una cuadrilla con insignia, más, y las Logias les quitan la insignia por eso"
+    ]
+   },
+   {
+    "en": [
+     "Ransom, brokered",
+     "Mother Kess",
+     "A deckhand 5 Anchors; a captain 50 to 500; a noble a thousand Orsals; Kess takes a tenth"
+    ],
+    "es": [
+     "Un rescate, negociado",
+     "Madre Kess",
+     "Un marinero 5 Anclas; un capitán de 50 a 500; un noble mil Orsales; Kess se queda con una décima"
+    ]
+   },
+   {
+    "en": [
+     "A seat at the Quiet Auction",
+     "The Hushmaster",
+     "Cannot be bought. That is the point"
+    ],
+    "es": [
+     "Un lugar en la Subasta Callada",
+     "El Maestro del Silencio",
+     "No se puede comprar. De eso se trata"
+    ]
+   }
+  ],
+  "finding_en": [
+   "**The turned hook.** Look for a fishhook carved point-up, a hook that catches nothing, on a doorpost, under a tavern bench, or inked inside a ferryman's wrist. Then ask the keeper whether Aunt Brine is about.",
+   "**No business at a dawn fire.** The Keeping is sacred to thieves as much as to anyone.",
+   "**No paper.** Nothing written that a Holst clerk could read.",
+   "**A struck deal holds.** Borrowed from the Pocchin, and enforced harder.",
+   "**Nothing to the Inquisition.** The one line every crook in the islands agrees on.",
+   "**Don't drown the harbor.** No poaching pact-water, no breaking a port's sea-pact. The Quiet Auction keeps its own rules, which is why it is feared.",
+   "**Break one and you are cut loose:** no fence will touch your goods, no captain will carry you, no door with a turned hook will open."
+  ],
+  "finding_es": [
+   "**El anzuelo volteado.** Busca un anzuelo tallado con la punta hacia arriba, un anzuelo que no pesca nada, en el marco de una puerta, debajo de un banco de taberna o tatuado en la muñeca de un barquero. Después pregúntale al dueño si anda por ahí la Tía Salmuera.",
+   "**Nada de negocios junto a un fuego del alba.** La [[Guarda|Keeping]] es sagrada para los ladrones tanto como para cualquiera.",
+   "**Nada de papel.** Nada escrito que pueda leer un escribiente de los Holst.",
+   "**Un trato cerrado se cumple.** Tomado de los pocchin, y se hace cumplir con más dureza.",
+   "**Nada a la Inquisición.** La única línea en la que están de acuerdo todos los maleantes de las islas.",
+   "**No ahogues el puerto.** Nada de pescar en aguas de pacto, nada de romper el pacto con el mar de un puerto. La Subasta Callada tiene sus propias reglas, y por eso le temen.",
+   "**Rompe una y te sueltan:** ningún reducidor toca tu mercancía, ningún capitán te lleva, ninguna puerta con un anzuelo volteado se abre."
+  ],
+  "cant": [
+   {
+    "en": [
+     "Glass",
+     "Krysta: clear glass is registered, dark glass is not"
+    ],
+    "es": [
+     "Vidrio",
+     "Krysta: el vidrio claro tiene registro, el oscuro no"
+    ]
+   },
+   {
+    "en": [
+     "Wet goods",
+     "salvage, above all from a claimed wreck"
+    ],
+    "es": [
+     "Mercancía mojada",
+     "rescate, sobre todo de un naufragio reclamado"
+    ]
+   },
+   {
+    "en": [
+     "A dry run",
+     "legal cargo carried as cover"
+    ],
+    "es": [
+     "Un viaje seco",
+     "carga legal que sirve de tapadera"
+    ]
+   },
+   {
+    "en": [
+     "The Bell",
+     "the law: the watch, the customs-clerks, the Registry"
+    ],
+    "es": [
+     "La Campana",
+     "la ley: la guardia, los aduaneros, el Registro"
+    ]
+   },
+   {
+    "en": [
+     "A long tide",
+     "a prison sentence"
+    ],
+    "es": [
+     "Una marea larga",
+     "una condena de cárcel"
+    ]
+   },
+   {
+    "en": [
+     "Going under",
+     "joining the Undertow, or vanishing into it"
+    ],
+    "es": [
+     "Hundirse",
+     "entrar a la Resaca, o desaparecer en ella"
+    ]
+   },
+   {
+    "en": [
+     "A fish",
+     "a mark; a victim"
+    ],
+    "es": [
+     "Un pez",
+     "un incauto; una víctima"
+    ]
+   },
+   {
+    "en": [
+     "Paper",
+     "forged documents of any kind"
+    ],
+    "es": [
+     "Papel",
+     "documentos falsos de cualquier clase"
+    ]
+   },
+   {
+    "en": [
+     "A drowned Anchor",
+     "a counterfeit coin"
+    ],
+    "es": [
+     "Un Ancla ahogada",
+     "una moneda falsa"
+    ]
+   },
+   {
+    "en": [
+     "Bright work",
+     "unregistered spellcasting for hire"
+    ],
+    "es": [
+     "Trabajo brillante",
+     "magia sin registro por encargo"
+    ]
+   },
+   {
+    "en": [
+     "Paying salt",
+     "protection money"
+    ],
+    "es": [
+     "Pagar la sal",
+     "dinero de protección"
+    ]
+   },
+   {
+    "en": [
+     "The Quiet",
+     "the Quiet Auction"
+    ],
+    "es": [
+     "La Callada",
+     "la Subasta Callada"
+    ]
+   },
+   {
+    "en": [
+     "Cut loose",
+     "shunned by the whole Undertow"
+    ],
+    "es": [
+     "Soltado",
+     "rechazado por toda la Resaca"
+    ]
+   },
+   {
+    "en": [
+     "Kin-cut",
+     "betrayal of your own crew"
+    ],
+    "es": [
+     "Corte de sangre",
+     "traición a tu propia cuadrilla"
+    ]
+   },
+   {
+    "en": [
+     "A Harbinger",
+     "bad news (stolen from the Armada)"
+    ],
+    "es": [
+     "Un Heraldo",
+     "malas noticias (robado de la Armada)"
+    ]
+   }
+  ]
+ },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }

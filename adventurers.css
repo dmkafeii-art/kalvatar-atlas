@@ -238,3 +238,18 @@ html.sb-open{overflow:hidden}
 .adv-wanted-swan{text-align:left;border-top-color:var(--muted)}
 .adventurers .adv-wanted-swan p:last-child{font:14px/1.6 var(--serif);color:var(--muted)}
 @media (max-width:560px){.adventurers .adv-talk p,.adv-talk-news strong{margin-right:0}.adv-talk small{display:block}.adv-talk li .adv-copy{position:static;margin-top:8px}}
+/* The Coinsday Reading and the black market (23 November) */
+.adv-news{border-left:3px solid var(--sb-accent);padding:8px 14px;margin:14px 0;background:color-mix(in srgb,var(--sb-accent) 6%,transparent)}
+.adv-news strong{display:block;font:600 11px/1.4 var(--mono);letter-spacing:1.2px;color:var(--sb-accent);text-transform:uppercase;margin-bottom:4px}
+.adv-news p{margin:0 0 4px}
+.adv-reading-n{font:600 12px/1.4 var(--mono);letter-spacing:1.6px;color:var(--gold);text-transform:uppercase;margin:12px 0 0}
+.adv-up{color:#3f7a4a;white-space:nowrap}.adv-down{color:#a3412c;white-space:nowrap}.adv-flat{color:var(--muted)}
+[data-theme=lantern] .adv-up{color:#8fc79a}[data-theme=lantern] .adv-down{color:#e7a184}
+.adv-sunk td{color:var(--muted);font-style:italic}
+.adv-reader{position:relative;border:1px solid var(--line);border-radius:3px;padding:14px 16px 12px;margin:14px 0}
+.adv-reader strong{display:block;font:600 11px/1.4 var(--mono);letter-spacing:1.2px;color:var(--gold);text-transform:uppercase;margin:0 80px 8px 0}
+.adv-reader pre{white-space:pre-wrap;font:italic 15px/1.6 var(--serif);color:var(--ink);margin:0}
+.adv-reader .adv-copy{position:absolute;right:12px;top:10px}
+.adv-rates{margin:12px 0 4px;padding-left:20px;font:15px/1.55 var(--serif)}
+.adv-rates li{margin:0 0 6px}
+

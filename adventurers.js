@@ -1,4 +1,4 @@
-/* Adventurers: tools for players. A name generator, the peoples' traits, the workshop, downtime, side quests, treasure, the Sigil, passages, the sea, the Reckoners' Hall, and the Most Wanted. Data: adventurers.json. */
+/* Adventurers: tools for players. A name generator, the peoples' traits, the workshop, downtime, side quests, treasure, the Sigil, passages, the sea, the Reckoners' Hall, the Coinsday Reading, the black market, and the Most Wanted. Data: adventurers.json. */
 'use strict';
 window.Adventurers = (() => {
  const h = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=21').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=22').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -148,7 +148,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('coinsday', '#adventurers/coinsday', t('Coinsday Reading', 'Lectura de Monedía'))}${link('black', '#adventurers/black-market', t('Black market', 'Mercado negro'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -239,9 +239,9 @@ window.Adventurers = (() => {
   let bits = Math.round(anchors * 100);
   if(bits <= 0) return t('nothing', 'nada');
   const out = [], unit = (n, one, many) => n ? out.push(n.toLocaleString('en-US') + ' ' + (n === 1 ? one : many)) : 0;
-  unit(Math.floor(bits / 1000), 'Orsal', t('Orsals', 'Orsals')); bits %= 1000;
-  unit(Math.floor(bits / 100), t('Anchor', 'Anchor'), t('Anchors', 'Anchors')); bits %= 100;
-  unit(Math.floor(bits / 10), t('Tide', 'Tide'), t('Tides', 'Tides')); unit(bits % 10, 'Bit', 'Bits');
+  unit(Math.floor(bits / 1000), 'Orsal', t('Orsals', 'Orsales')); bits %= 1000;
+  unit(Math.floor(bits / 100), t('Anchor', 'Ancla'), t('Anchors', 'Anclas')); bits %= 100;
+  unit(Math.floor(bits / 10), t('Tide', 'Marea'), t('Tides', 'Mareas')); unit(bits % 10, t('Bit', 'Ola'), t('Bits', 'Olas'));
   return out.join(', ');
  }
  const days = n => n + ' ' + (n === 1 ? t('day', 'día') : t('days', 'días'));
@@ -617,7 +617,7 @@ window.Adventurers = (() => {
     Rates from Volume XXV (adventurers.json, "hall"). */
  const UNIT = {bit: .01, tide: .1, anchor: 1, orsal: 10};
  const hall = {who: 4, amt: 100, unit: 'anchor', term: 10, voy: 0, val: 1000, vunit: 'anchor', king: 0, keep: 100, kunit: 'anchor', years: 1, salv: 500, sunit: 'anchor', crew: 4, pact: 0, cap: 0, hunters: 4, twins: 1};
- const amountIn = (id, v, u) => `<span class="adv-amount"><input id="${id}" type="number" min="0" step="any" value="${v}" inputmode="decimal">${sel(id + '-u', [['bit', 'Bits'], ['tide', 'Tides'], ['anchor', 'Anchors'], ['orsal', 'Orsals']], u)}</span>`;
+ const amountIn = (id, v, u) => `<span class="adv-amount"><input id="${id}" type="number" min="0" step="any" value="${v}" inputmode="decimal">${sel(id + '-u', [['bit', t('Bits', 'Olas')], ['tide', t('Tides', 'Mareas')], ['anchor', t('Anchors', 'Anclas')], ['orsal', t('Orsals', 'Orsales')]], u)}</span>`;
  const oneIn = n => t(`1 in ${n}`, `1 de cada ${n}`);
  const months = m => m < 10 ? `${m} ${m === 1 ? t('month', 'mes') : t('months', 'meses')}` : `${m / 10} ${m === 10 ? t('year', 'año') : t('years', 'años')}`;
  function hallBorrow() {
@@ -766,12 +766,199 @@ window.Adventurers = (() => {
   });
  }
 
+ /* The Coinsday Reading: every Coinsday at the noon bell the Reckoners' Hall reads the price of a part in every concern on its Board.
+    Here it is read Coinsday by Coinsday: the news from the coffee-houses (a d20), 2d6 for every concern, and the Reader's words.
+    The Board a table is using is kept in this browser only (Kalvatar_Mercantile_Congress, Part Three; adventurers.json, "coinsday"). */
+ const CK = 'kalvatar-coinsday-v1';
+ const board = {prices: null, sunk: {}, sinking: {}, n: 0, last: null, pending: null, sure: false};
+ const hold = {id: 'charter-notes', parts: 10, paid: 10, unit: 'anchor', vparts: 10, vprice: 1, vunit: 'anchor', home: null};
+ const die = n => 1 + Math.floor(Math.random() * n);
+ const concern = id => data.coinsday.concerns.find(c => c.id === id);
+ const bitsCoin = b => coin(b / 100);
+ function boardReset() {
+  board.prices = {}; board.sunk = {}; board.sinking = {}; board.n = 0; board.last = null; board.pending = null;
+  data.coinsday.concerns.forEach(c => {board.prices[c.id] = c.price;});
+ }
+ function boardLoad() {
+  if(board.prices) return;
+  try {
+   const s = JSON.parse(localStorage.getItem(CK) || 'null');
+   if(s && s.prices && data.coinsday.concerns.every(c => c.id in s.prices)) Object.assign(board, s, {sure: false});
+  } catch {}
+  if(!board.prices) boardReset();
+ }
+ function boardSave() {
+  try {localStorage.setItem(CK, JSON.stringify({prices: board.prices, sunk: board.sunk, sinking: board.sinking, n: board.n, last: board.last, pending: board.pending}));} catch {}
+ }
+ const word = s => {const w = data.coinsday.words.find(([min]) => s >= min); return t(w[1], w[2]);};
+ function ringBell() {
+  const C = data.coinsday, ev = die(20), e = C.events[ev - 1], fx = e.fx, rows = [];
+  let note = '', front = 0, rumor = null;
+  if(fx.front) {const r = die(6); front = r % 2 ? -3 : 3; note = r % 2 ? t(`The die: ${r}. The Imperium took it.`, `El dado: ${r}. Lo tomó el Imperio.`) : t(`The die: ${r}. The Alliance took it.`, `El dado: ${r}. Lo tomó la Alianza.`);}
+  const live = C.concerns.filter(c => !board.sunk[c.id]);
+  if(fx.rumor && live.length) {rumor = pick(live).id; note = t(`The rumor was about ${concern(rumor).en}.`, `El rumor era sobre ${concern(rumor).es}.`);}
+  const before = board.pending; board.pending = null;
+  if(rumor && chance(.5)) board.pending = rumor;  // half the rumors prove false, and the concern gets its two steps back
+  C.concerns.forEach(c => {
+   if(board.sunk[c.id]) return;
+   if(board.sinking[c.id]) {board.sunk[c.id] = true; delete board.sinking[c.id]; rows.push({id: c.id, sunk: true}); return;}
+   const a = die(6), b = die(6), r = C.roll[a + b];
+   let ex = typeof fx[c.id] === 'number' ? fx[c.id] : typeof fx['*'] === 'number' ? fx['*'] : 0;
+   if(fx.front && c.id === 'front-paper') ex = front;
+   if(rumor === c.id) ex = -2;
+   const back = before === c.id ? 2 : 0, steps = r + ex + back, was = board.prices[c.id], now = Math.max(c.step, was + steps * c.step);
+   board.prices[c.id] = now;
+   if(now <= c.price / 4) board.sinking[c.id] = true;
+   rows.push({id: c.id, a, b, r, ex: ex + back, steps, was, now, sinking: !!board.sinking[c.id], back: !!back});
+  });
+  board.n += 1;
+  board.last = {n: board.n, ev, note, rows, back: before};
+  boardSave();
+ }
+ function readerWords() {
+  const o = board.last;
+  if(!o) return '';
+  const lines = o.rows.map(x => {
+   const c = concern(x.id), name = t(c.en, c.es);
+   return x.sunk ? t(`${name}: sunk.`, `${name}: a pique.`) : `${name}: ${bitsCoin(x.now)}, ${word(x.steps)}.`;
+  });
+  return lines.concat(t('Written. Witnessed. Owed.', 'Escrito. Atestiguado. Debido.')).join('\n');
+ }
+ function readingHtml() {
+  const C = data.coinsday, o = board.last;
+  const arrow = s => s > 0 ? `<span class="adv-up" aria-label="${t('up', 'sube')}">▲ ${s}</span>` : s < 0 ? `<span class="adv-down" aria-label="${t('down', 'baja')}">▼ ${-s}</span>` : '<span class="adv-flat">=</span>';
+  if(!o) {
+   return `<p class="adv-empty">${t('The Board as it was listed. Ring the noon bell to read the first Coinsday.', 'El Tablero como se inscribió. Toca la campana del mediodía para leer el primer Monedía.')}</p>
+   <div class="adv-table"><table><thead><tr><th>${t('Concern', 'Negocio')}</th><th>${t('A part', 'Una parte')}</th><th>${t('Swing and step', 'Vaivén y paso')}</th></tr></thead><tbody>${C.concerns.map(c => `<tr><td>${h(t(c.en, c.es))}</td><td>${bitsCoin(board.prices[c.id])}</td><td>${h(t(c.swing_en, c.swing_es))}, ${bitsCoin(c.step)}</td></tr>`).join('')}</tbody></table></div>`;
+  }
+  const e = C.events[o.ev - 1], back = o.back ? concern(o.back) : null;
+  return `<p class="adv-reading-n">${t('Reading', 'Lectura')} ${o.n}</p>
+  <div class="adv-news"><strong>${t('What the coffee-houses heard', 'Lo que se oyó en las casas de café')} (d20: ${o.ev})</strong><p>${md(t(e.en, e.es))}${o.note ? ' ' + h(o.note) : ''}</p>${back ? `<p>${h(t(`The rumor about ${back.en} was false: two steps back.`, `El rumor sobre ${back.es} era falso: recupera dos pasos.`))}</p>` : ''}</div>
+  <div class="adv-table"><table><thead><tr><th>${t('Concern', 'Negocio')}</th><th>2d6</th><th>${t('News', 'Noticia')}</th><th>${t('Steps', 'Pasos')}</th><th>${t('A part', 'Una parte')}</th><th>${t('The word', 'La palabra')}</th></tr></thead><tbody>${o.rows.map(x => {
+   const c = concern(x.id), name = h(t(c.en, c.es));
+   if(x.sunk) return `<tr class="adv-sunk"><td>${name}</td><td colspan="5">${t('Sunk: struck from the Board, and its parts are paper.', 'A pique: borrado del Tablero, y sus partes son papel.')}</td></tr>`;
+   return `<tr><td>${name}</td><td>${x.a} + ${x.b}</td><td>${x.ex ? (x.ex > 0 ? '+' : '') + x.ex : ''}</td><td>${arrow(x.steps)}</td><td>${bitsCoin(x.now)}${x.sinking ? ` <em>${t('(sinking)', '(hundiéndose)')}</em>` : ''}</td><td>${h(word(x.steps))}</td></tr>`;
+  }).join('')}${Object.keys(board.sunk).filter(id => !o.rows.some(x => x.id === id)).map(id => `<tr class="adv-sunk"><td>${h(t(concern(id).en, concern(id).es))}</td><td colspan="5">${t('Sunk.', 'A pique.')}</td></tr>`).join('')}</tbody></table></div>
+  <div class="adv-reader"><strong>${t('The Reader’s words', 'Las palabras del Lector')}</strong><pre>${h(readerWords())}</pre><button type="button" class="adv-copy" id="cd-copy">${t('Copy', 'Copiar')}</button></div>`;
+ }
+ function holdOut() {
+  const c = concern(hold.id), n = Math.max(0, Math.floor(+hold.parts || 0)), paid = (+hold.paid || 0) * UNIT[hold.unit] * 100;
+  if(!n) return `<p class="adv-note">${t('How many parts?', '¿Cuántas partes?')}</p>`;
+  if(board.sunk[c.id]) return `<p class="adv-roll">${t('Sunk. The parts are paper, and the Hall will not enter a trade in them.', 'A pique. Las partes son papel, y la Casa no asienta operaciones con ellas.')}</p>`;
+  const now = board.prices[c.id], worth = now * n, cost = paid * n, fees = worth / data.coinsday.fees.hall + worth / data.coinsday.fees.chalker;
+  const half = c.voyage ? null : now < c.price / 2 ? 0 : worth * c.share / 200;
+  const diff = worth - cost;
+  return `<dl class="adv-out">${row(t('A part now', 'Una parte ahora'), bitsCoin(now))}${row(t('Your parts are worth', 'Tus partes valen'), bitsCoin(worth))}${cost ? row(t('You paid', 'Pagaste'), bitsCoin(cost)) + row(diff >= 0 ? t('Up', 'Ganas') : t('Down', 'Pierdes'), bitsCoin(Math.abs(diff))) : ''}${row(t('To sell today, after the Hall’s and the chalker’s cut', 'Al vender hoy, después de la parte de la Casa y del corredor'), bitsCoin(worth - fees))}${half === null ? '' : row(t('At the next Share-out', 'En el próximo Reparto'), half ? bitsCoin(half) : t('nothing: the part is under half its listing price', 'nada: la parte está por debajo de la mitad de su precio de inscripción'))}</dl>
+  ${c.voyage ? `<p class="adv-note">${t('A voyage pays nothing at the Share-out. It pays when the ship comes home: see below.', 'Un viaje no paga nada en el Reparto. Paga cuando el barco vuelve: mira abajo.')}</p>` : `<p class="adv-note">${t(`The Share-out is paid at the last Reading of Idel and of Okram: half of ${c.share} in 100 a year, on the part's price that day.`, `El Reparto se paga en la última Lectura de Idel y de Okram: la mitad de ${c.share} de cada 100 al año, sobre el precio de la parte ese día.`)}</p>`}`;
+ }
+ function homeOut() {
+  const o = hold.home;
+  if(!o) return `<p class="adv-empty">${t('At the end of the ship’s season, roll.', 'Al final de la temporada del barco, tira.')}</p>`;
+  const text = o.r === 1 ? t('Lost. The parts are worth nothing.', 'Perdido. Las partes no valen nada.') : o.r <= 4 ? t('Home. Each part pays twice its price.', 'Volvió. Cada parte paga el doble de su precio.') : t('A great voyage. Each part pays three times its price.', 'Un gran viaje. Cada parte paga el triple de su precio.');
+  return `<dl class="adv-out">${row('d6', String(o.r))}${row(t('The ship', 'El barco'), text)}${row(t('You are paid', 'Te pagan'), o.pay ? bitsCoin(o.pay) : t('nothing', 'nada'))}</dl>`;
+ }
+ function renderCoinsday() {
+  boardLoad();
+  const C = data.coinsday;
+  frame('coinsday', `<p class="adv-lead">${t('Every Coinsday at the noon bell, the Reckoners’ Hall reads the price of a part in every concern on its Board. Read it here, Coinsday by Coinsday. This browser keeps the Board your table is using.', 'Cada Monedía, con la campana del mediodía, la Casa de los Tesoreros lee el precio de una parte de cada negocio de su Tablero. Léelo aquí, Monedía tras Monedía. Este navegador guarda el Tablero que usa tu mesa.')}</p>
+  <section class="adv-panel adv-shop"><h2>${t('The Reading', 'La Lectura')}</h2><p class="adv-hint">${t('The news from the coffee-houses, 2d6 for every concern, and the Reader’s words.', 'La noticia de las casas de café, 2d6 por cada negocio, y las palabras del Lector.')}</p>
+  <div class="pack-actions"><button type="button" class="button" id="cd-bell">${t('Ring the noon bell', 'Toca la campana del mediodía')} <span aria-hidden="true">✦</span></button><button type="button" class="button cream" id="cd-reset">${t('Start a new Board', 'Empezar un Tablero nuevo')}</button></div>
+  <div id="cd-out" aria-live="polite">${readingHtml()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('Your parts', 'Tus partes')}</h2><p class="adv-hint">${t('What your parts are worth on today’s Board, what selling costs, and the next Share-out.', 'Cuánto valen tus partes en el Tablero de hoy, cuánto cuesta vender, y el próximo Reparto.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('Concern', 'Negocio')}${sel('cd-id', C.concerns.map(c => [c.id, t(c.en, c.es)]), hold.id)}</label><label class="pack-label">${t('Parts', 'Partes')}${num('cd-parts', hold.parts, 1, 100000)}</label><label class="pack-label">${t('Paid for each', 'Pagado por cada una')}${amountIn('cd-paid', hold.paid, hold.unit)}</label></div><div id="cd-hold" aria-live="polite">${holdOut()}</div></section>
+  <section class="adv-panel adv-shop"><h2>${t('A voyage comes home', 'Un viaje vuelve a casa')}</h2><p class="adv-hint">${t('Parts in a single ship, paid when her season ends.', 'Partes de un solo barco, que se pagan cuando termina su temporada.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('Parts', 'Partes')}${num('cd-vparts', hold.vparts, 1, 100000)}</label><label class="pack-label">${t('Price of a part', 'Precio de una parte')}${amountIn('cd-vprice', hold.vprice, hold.vunit)}</label></div>
+  <div class="pack-actions"><button type="button" class="button" id="cd-home">${t('Did she come home?', '¿Volvió el barco?')} <span aria-hidden="true">✦</span></button></div><div id="cd-home-out" aria-live="polite">${homeOut()}</div></section>
+  <p class="adv-hint"><a href="#entry/coinsday-reading">${t('About the Coinsday Reading', 'Sobre la Lectura de Monedía')}</a> · <a href="#entry/reckoners-hall">${t('The Reckoners’ Hall', 'La Casa de los Tesoreros')}</a> · <a href="#entry/twelve-flags">${t('The Twelve Flags', 'Las Doce Banderas')}</a> · <a href="#adventurers/hall">${t('Borrow, insure, keep', 'Pedir prestado, asegurar, guardar')}</a></p>`);
+  const out = () => {$('#cd-out').innerHTML = readingHtml(); $('#cd-hold').innerHTML = holdOut();};
+  $('#cd-bell').addEventListener('click', () => {board.sure = false; $('#cd-reset').textContent = t('Start a new Board', 'Empezar un Tablero nuevo'); ringBell(); out();});
+  $('#cd-reset').addEventListener('click', e => {
+   if(!board.sure) {board.sure = true; e.target.textContent = t('Sure? Press again', '¿Seguro? Pulsa otra vez'); return;}
+   board.sure = false; e.target.textContent = t('Start a new Board', 'Empezar un Tablero nuevo'); boardReset(); boardSave(); out();
+  });
+  $('#cd-out').addEventListener('click', async e => {
+   if(e.target.id !== 'cd-copy') return;
+   try {await navigator.clipboard.writeText(readerWords()); e.target.textContent = t('Copied', 'Copiado');} catch {e.target.textContent = t('Could not copy', 'No se pudo copiar');}
+  });
+  const bind = (id, key, fn, outId) => $('#' + id).addEventListener('input', e => {hold[key] = e.target.value; $('#' + outId).innerHTML = fn();});
+  bind('cd-id', 'id', holdOut, 'cd-hold'); bind('cd-parts', 'parts', holdOut, 'cd-hold'); bind('cd-paid', 'paid', holdOut, 'cd-hold'); bind('cd-paid-u', 'unit', holdOut, 'cd-hold');
+  bind('cd-vparts', 'vparts', () => {hold.home = null; return homeOut();}, 'cd-home-out'); bind('cd-vprice', 'vprice', () => {hold.home = null; return homeOut();}, 'cd-home-out'); bind('cd-vprice-u', 'vunit', () => {hold.home = null; return homeOut();}, 'cd-home-out');
+  $('#cd-home').addEventListener('click', () => {
+   const r = die(6), n = Math.max(0, Math.floor(+hold.vparts || 0)), p = (+hold.vprice || 0) * UNIT[hold.vunit] * 100;
+   hold.home = {r, pay: r === 1 ? 0 : n * p * (r <= 4 ? 2 : 3)};
+   $('#cd-home-out').innerHTML = homeOut();
+  });
+  if(opened.coinsday === undefined) opened.coinsday = 0;
+  tiles('coinsday');
+ }
+
+ /* The black market: what the Undertow has this week, what a fence pays, what it costs to buy a blind eye, and how to find the
+    door. From Kalvatar_Vice_and_Contraband and Volumes XIX and XXI (adventurers.json, "undertow"). */
+ const bm = {settle: 'city', region: 'central-heartland', out: null, val: 100, unit: 'anchor', kind: 'ordinary'};
+ function rollMarket() {
+  const U = data.undertow, si = U.settle.findIndex(s => s[0] === bm.settle), kr = die(6);
+  const drugs = U.drugs.map(x => {
+   const home = x.home.includes(bm.region), far = !home && x.far.includes(bm.region);
+   let p = x.pct[si];
+   if(home) p = Math.min(95, p * 2); else if(far) p = Math.floor(p / 2);
+   const r = die(100);
+   return {x, p, r, has: r <= p, home, far};
+  });
+  const [lo, hi] = U.more[si], n = lo + Math.floor(Math.random() * (hi - lo + 1)), pool = U.goods.filter(g => g.min <= si).slice(), goods = [];
+  while(goods.length < n && pool.length) goods.push(pool.splice(Math.floor(Math.random() * pool.length), 1)[0]);
+  const tr = die(8);
+  bm.out = {kr, keeper: U.keeper.find(k => kr <= k[0]), drugs, goods, tr, trouble: U.trouble[tr - 1]};
+ }
+ function marketHtml() {
+  const o = bm.out, es = window.Pack2?.language === 'es';
+  if(!o) return `<p class="adv-empty">${t('Choose where you are, and ask around.', 'Elige dónde estás, y pregunta por ahí.')}</p>`;
+  const on = o.drugs.filter(d => d.has), off = o.drugs.filter(d => !d.has);
+  const tag = d => d.home ? ` <em>${t('at home here: chance doubled', 'en su tierra: probabilidad doble')}</em>` : d.far ? ` <em>${t('far from home: chance halved', 'lejos de su tierra: probabilidad a la mitad')}</em>` : '';
+  const find = d => d.x.dc ? t(`Finding the seller: a day, and a Persuasion or Investigation check, DC ${d.x.dc}, with someone who knows the Undertow.`, `Encontrar al vendedor: un día, y una prueba de Persuasión o Investigación, CD ${d.x.dc}, con alguien que conozca la Resaca.`) + (d.x.id === 'damareth' ? t(' Without a title, add 5.', ' Sin título, suma 5.') : '') : t('Ask anyone.', 'Pregúntale a cualquiera.');
+  return `<div class="adv-news"><strong>${t('Is Aunt Brine about?', '¿Anda por ahí la Tía Salmuera?')} (d6: ${o.kr})</strong><p>${h(t(o.keeper[1], o.keeper[2]))} ${h(t(o.keeper[3], o.keeper[4]))}</p></div>
+  <h3>${t('Selling this week', 'A la venta esta semana')}</h3>${on.length ? `<ul class="adv-loot">${on.map(d => `<li><strong><a href="#entry/${h(d.x.id)}">${h(es ? d.x.es : d.x.en)}</a></strong> <span>${h(es ? d.x.price_es : d.x.price_en)}. ${h(cap1(es ? d.x.law_es : d.x.law_en))}. ${h(find(d))} (d100: ${d.r}, ${t('needed', 'hacía falta')} ${d.p} ${t('or less', 'o menos')})${tag(d)}</span></li>`).join('')}</ul>` : `<p class="adv-note">${t('Nothing this week. Try again next week, or another port.', 'Nada esta semana. Prueba la semana que viene, o en otro puerto.')}</p>`}
+  ${o.goods.length ? `<h3>${t('And what else is about', 'Y qué más anda por ahí')}</h3><ul class="adv-loot">${o.goods.map(g => `<li><strong>${h(es ? g.es : g.en)}</strong> <span>${h(es ? g.price_es : g.price_en)}</span></li>`).join('')}</ul>` : ''}
+  <div class="adv-news"><strong>${t('The catch', 'La trampa')} (d8: ${o.tr})</strong><p>${h(es ? o.trouble.es : o.trouble.en)}</p></div>
+  <p class="adv-note">${t('Not about this week', 'No hay esta semana')}: ${off.map(d => h(es ? d.x.es : d.x.en)).join(', ') || t('nothing', 'nada')}. ${t('Some things are never on this list. The Chainbreakers keep their own list of who buys them.', 'Algunas cosas nunca están en esta lista. Los Rompecadenas llevan su propia lista de quién las compra.')}</p>`;
+ }
+ function fenceOut() {
+  const U = data.undertow, f = U.fence.find(x => x.id === bm.kind), v = (+bm.val || 0) * UNIT[bm.unit];
+  if(v <= 0) return `<p class="adv-note">${t('What would it fetch honestly?', '¿Cuánto valdría honradamente?')}</p>`;
+  const note = t(f.note_en, f.note_es);
+  return `<dl class="adv-out">${row(t('The fence pays', 'El reducidor paga'), `${coin(v / f.pays)} (${oneIn(f.pays)}${note ? ', ' + h(note) : ''})`)}${row(t('You lose', 'Pierdes'), coin(v - v / f.pays))}</dl>`;
+ }
+ function renderBlack() {
+  const U = data.undertow, es = window.Pack2?.language === 'es';
+  frame('black', `<p class="adv-lead">${t('Everything the harbors will not carry moves through the Undertow. Here is what it has this week, what it pays, and what it charges. Your Game Master has the last word, and so does the Bell.', 'Todo lo que los puertos no quieren llevar se mueve por la Resaca. Aquí está lo que tiene esta semana, lo que paga y lo que cobra. Tu Máster tiene la última palabra, y la Campana también.')}</p>
+  <section class="adv-panel adv-shop"><h2>${t('What is for sale', 'Qué hay a la venta')}</h2><p class="adv-hint">${t('The drugs and the goods about this week, by the size of the place and the region.', 'Las drogas y la mercancía que hay esta semana, según el tamaño del lugar y la región.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('Where', 'Dónde')}${sel('bm-settle', U.settle.map(s => [s[0], es ? s[2] : s[1]]), bm.settle)}</label><label class="pack-label">${t('Region', 'Región')}${sel('bm-region', U.regions.map(r => [r[0], es ? r[2] : r[1]]), bm.region)}</label></div>
+  <div class="pack-actions"><button type="button" class="button" id="bm-roll">${t('Ask around', 'Pregunta por ahí')} <span aria-hidden="true">✦</span></button></div>
+  <div id="bm-out" aria-live="polite">${marketHtml()}</div>
+  <p class="adv-note">${t('Black ports are Fairweather, Black Harbor, Hollowkey, and their like.', 'Los puertos negros son Buentiempo, Puerto Negro, Cayo Hueco y los que se les parecen.')} <a href="#entry/vice-and-the-black-market">${t('The drugs, one by one', 'Las drogas, una por una')}</a></p></section>
+  <section class="adv-panel adv-shop"><h2>${t('The fence', 'El reducidor')}</h2><p class="adv-hint">${t('What a fence pays for what you took.', 'Lo que paga un reducidor por lo que te llevaste.')}</p>
+  <div class="adv-controls"><label class="pack-label">${t('Honest price', 'Precio honrado')}${amountIn('bm-val', bm.val, bm.unit)}</label><label class="pack-label">${t('What it is', 'Qué es')}${sel('bm-kind', U.fence.map(f => [f.id, es ? f.es : f.en]), bm.kind)}</label></div>
+  <div id="bm-fence" aria-live="polite">${fenceOut()}</div><ul class="adv-rates">${(es ? U.rates_es : U.rates_en).map(r => `<li>${md(r)}</li>`).join('')}</ul></section>
+  <section class="adv-panel adv-shop"><h2>${t('What it charges', 'Lo que cobra')}</h2><p class="adv-hint">${t('A blind eye, a new name, a way out, and worse.', 'Un ojo ciego, un nombre nuevo, una salida, y cosas peores.')}</p>
+  <div class="adv-table"><table><thead><tr><th>${t('Service', 'Servicio')}</th><th>${t('Who sells it', 'Quién lo vende')}</th><th>${t('Price', 'Precio')}</th></tr></thead><tbody>${U.services.map(s => `<tr>${(es ? s.es : s.en).map(c => `<td>${h(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div></section>
+  <section class="adv-panel adv-shop"><h2>${t('Finding the door', 'Encontrar la puerta')}</h2><p class="adv-hint">${t('The turned hook, the five rules, and the cant.', 'El anzuelo volteado, las cinco reglas y la jerga.')}</p>
+  <ul class="adv-rates">${(es ? U.finding_es : U.finding_en).map(r => `<li>${md(r)}</li>`).join('')}</ul>
+  <h3>${t('The cant', 'La jerga')}</h3><div class="adv-table"><table><tbody>${U.cant.map(c => {const [a, b] = es ? c.es : c.en; return `<tr><td><strong>${h(a)}</strong></td><td>${h(b)}</td></tr>`;}).join('')}</tbody></table></div></section>
+  <p class="adv-hint"><a href="#entry/undertow">${t('The Undertow', 'La Resaca')}</a> · <a href="#entry/vice-and-the-black-market">${t('Vice and the black market', 'El vicio y el mercado negro')}</a> · <a href="#entry/quiet-auction">${t('The Quiet Auction', 'La Subasta Callada')}</a> · <a href="#entry/ledger-wolves">${t('The Ledger Wolves', 'Los Lobos del Libro Mayor')}</a></p>`);
+  $('#bm-settle').addEventListener('input', e => {bm.settle = e.target.value;});
+  $('#bm-region').addEventListener('input', e => {bm.region = e.target.value;});
+  $('#bm-roll').addEventListener('click', () => {rollMarket(); $('#bm-out').innerHTML = marketHtml();});
+  const bind = (id, key) => $('#' + id).addEventListener('input', e => {bm[key] = e.target.value; $('#bm-fence').innerHTML = fenceOut();});
+  bind('bm-val', 'val'); bind('bm-val-u', 'unit'); bind('bm-kind', 'kind');
+  if(opened.black === undefined) opened.black = 0;
+  tiles('black');
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else if(parts[1] === 'coinsday') renderCoinsday(); else if(parts[1] === 'black-market') renderBlack(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;
