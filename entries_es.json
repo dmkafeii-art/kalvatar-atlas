@@ -12330,7 +12330,7 @@
    {
     "title": "Historia",
     "paragraphs": [
-     "Khaz'Aimar Maa'iq capitanea La Última Palabra, una de las grandes tripulaciones de Cazadores, y la compañía lleva el nombre de su nave insignia, como manda la costumbre. Toma los contratos de las Logias y no jura lealtad a ninguna casa, corona ni bandera; como todo Cazador, solo responde a los [[Artículos de Fuerte de Hierro|Ironfort Articles]]. En su tripulación están Ashok y Tecton, y a ellos, y a los demás, los llama la familia que eligió.",
+     "Khaz'Aimar Maa'iq capitanea La Última Palabra, una de las grandes tripulaciones de Cazadores, y la compañía lleva el nombre de su nave insignia, como manda la costumbre. Toma los contratos de las Logias y no jura lealtad a ninguna casa, corona ni bandera; como todo Cazador, solo responde a los [[Artículos de Fuerte de Hierro|Ironfort Articles]]. Su primera oficial es su esposa, Imra; en su tripulación están Ashok y Tecton; y a todos los llama la familia que eligió.",
      "Un contrato que toma La Última Palabra es un contrato que la Junta puede cerrar: eso significa el nombre, y las Logias han aprendido a creerlo.",
      "Antes del sello navegó como corsario con patente de corso, desde las islas secas de las Tierras Salvajes del Sur. Todavía viste como uno: turbante ornamentado, prendas oscuras con detalles dorados, capa, faja verde, y los anillos y brazaletes de las islas secas subiéndole por el antebrazo, pero solo por el izquierdo."
     ]
@@ -12385,11 +12385,15 @@
    ],
    [
     "Compañía",
-    "La Última Palabra"
+    "La [[Última Palabra|Last Word]]"
    ],
    [
     "Barcos",
     "La Última Palabra (galeón), El [[Martín Pescador|Kingfisher]] y La [[Garza|Heron]] (fragatas)"
+   ],
+   [
+    "Primera oficial",
+    "su esposa, Imra"
    ],
    [
     "Tripulación",
@@ -13454,5 +13458,70 @@
    ]
   ],
   "title": "El Gremio de Artesanos de Krysta"
+ },
+ "imra-and-claire": {
+  "title": "Imra y Claire",
+  "subtitle": "Primera oficial de La Última Palabra: dos almas, un cuerpo",
+  "summary": "La primera oficial de La Última Palabra y esposa de su capitán, Khaz'Aimar Maa'iq: una elfa clériga de pelo castaño rojizo y ojos de dos colores, en la que viven dos mujeres, la despiadada Imra y la bondadosa Claire.",
+  "facts": [
+   [
+    "Cargo",
+    "Primera oficial de La [[Última Palabra|Last Word]]"
+   ],
+   [
+    "Casada con",
+    "Khaz'Aimar Maa'iq"
+   ],
+   [
+    "Pueblo",
+    "elfa"
+   ],
+   [
+    "Vocación",
+    "clériga, las dos"
+   ],
+   [
+    "Cabello",
+    "castaño rojizo"
+   ],
+   [
+    "Ojos",
+    "uno marrón muy claro, el otro violeta"
+   ],
+   [
+    "Las dos",
+    "Imra, que manda; y Claire"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Imra es la primera oficial de La Última Palabra y la esposa de su capitán, Khaz'Aimar Maa'iq. Es elfa y hermosa, de pelo castaño rojizo y ojos de dos colores: uno marrón muy claro, el otro violeta.",
+     "En ese cuerpo viven dos mujeres. Imra es la que más trata la tripulación, y la que manda: despiadada, cínica y satisfecha de sí misma. Claire es compasiva y bondadosa. Las dos son clérigas."
+    ]
+   },
+   {
+    "title": "La partición de las almas",
+    "paragraphs": [
+     "Entre los elfos de Argentus los gemelos son raros, y una pareja se toma como un augurio. Se dice que los gemelos comparten una sola alma, partida en dos, y que lo que uno hace bien el otro no: si uno tiene don para la magia, el otro es mejor con la espada.",
+     "Pase lo que pase, la culpa es de la madre: se cree que algo malo hizo para traer sobre sus hijos la [[partición de las almas|split of souls]].",
+     "Imra y Claire son un caso aún más extraño, porque las dos viven en el mismo cuerpo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Pídele piedad a la primera oficial y se te va a reír en la cara. Pídesela otra vez mañana y quizá te la dé.” (un marinero de La Última Palabra)",
+     "“Me curó como una santa y me discutió la tarifa como un Maestro de Contratos, la misma tarde.” (un Cazador del [[Martín Pescador|Kingfisher]])",
+     "“Los gemelos elfos traen mala suerte. Pregúntale a cualquier elfo viejo, y después pregúntale quién era la madre.” (un marinero elfo)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvIHF1ZSBndWFyZGFuIGxvcyBhbmNpYW5vcy4qKiBBbGd1bmFzIHRyaWJ1cyBlbGZhcyBzYWNyaWZpY2FuIGEgdW5vIGRlIGxvcyBnZW1lbG9zLCBwYXJhIHZvbHZlciBhIHVuaXIgbGFzIGRvcyBhbG1hcyBlbiB1bmEuIE90cmFzIGRlamFuIGNyZWNlciBhIGxvcyBkb3MgeSBxdWUgY2FkYSB1bm8ganVudGUgdW5hIHZpZGEgcHJvcGlhIChxdWUgdW5vIGRvbWluZSBsYSBtYWdpYSwgcG9yIGVqZW1wbG8pLCB5IGRlc3B1w6lzIHNhY3JpZmljYW4gYSB1bm8sIHBhcmEgcXVlIGVsIG90cm8gc2UgdnVlbHZhIG3DoXMgZnVlcnRlIHkgc2UgcXVlZGUgY29uIGxvIHF1ZSBzYWLDrWEgZWwgZ2VtZWxvIG11ZXJ0by4iLCAiKipUYWLDui4qKiBUb2RvIGVsIHByb2Nlc28gZXMgdGFiw7ouIFNvbG8gbG9zIGFuY2lhbm9zIGNvbm9jZW4gZWwgcml0dWFsLCB5IGEgbG9zIGdlbWVsb3MgbG9zIGNyw61hbiBjcmV5ZW5kbyBxdWUgc29uIGNvbW8gdG9kb3MgbG9zIGRlbcOhcy4iLCAiKipUb2RhdsOtYSBhYmllcnRvLioqIE5vIHNlIGhhIGNvbnRhZG8gY8OzbW8gbGxlZ2Fyb24gSW1yYSB5IENsYWlyZSBhIGNvbXBhcnRpciB1biBzb2xvIGN1ZXJwby4iXX0="
+   }
+  ]
  }
 }

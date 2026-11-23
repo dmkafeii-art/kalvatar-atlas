@@ -35135,7 +35135,7 @@
    {
     "title": "Background",
     "paragraphs": [
-     "Khaz'Aimar Maa'iq captains The Last Word, one of the great Hunter crews, and the company carries its flagship's name, as the custom goes. It takes the Lodges' contracts and swears to no house, crown, or flag; like every Hunter, it answers to the Ironfort Articles and nothing else. His crew counts Ashok and Tecton, and he calls them, and the rest, the family he chose.",
+     "Khaz'Aimar Maa'iq captains The Last Word, one of the great Hunter crews, and the company carries its flagship's name, as the custom goes. It takes the Lodges' contracts and swears to no house, crown, or flag; like every Hunter, it answers to the Ironfort Articles and nothing else. His first mate is his wife, Imra; his crew counts Ashok and Tecton; and he calls them all the family he chose.",
      "A contract the Last Word takes is a contract the Board can close: that is what the name means, and the Lodges have learned to believe it.",
      "Before the sigil he sailed as a corsair under letters of marque, out of the dry isles of the Southern Wilds. He still dresses like one: an ornate turban, dark cloth worked with gold, a cloak, a green sash, and the dry isles' rings and bangles climbing the left forearm only."
     ]
@@ -35197,6 +35197,10 @@
     "The Last Word (galleon), The Kingfisher and The Heron (frigates)"
    ],
    [
+    "First mate",
+    "his wife, Imra"
+   ],
+   [
     "Crew",
     "Ashok, Tecton"
    ],
@@ -35233,7 +35237,8 @@
    "great-hunter-crews",
    "hunters",
    "arcane-registry",
-   "southern-wilds"
+   "southern-wilds",
+   "imra-and-claire"
   ]
  },
  {
@@ -52825,6 +52830,91 @@
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "pending"
+  }
+ },
+ {
+  "id": "imra-and-claire",
+  "title": "Imra and Claire",
+  "category": "folk",
+  "region": "All regions",
+  "subtitle": "First mate of the Last Word: two souls, one body",
+  "summary": "The first mate of The Last Word and wife of its captain, Khaz'Aimar Maa'iq: an elf cleric with auburn hair and eyes of two colors, in whom two women live, ruthless Imra and kind Claire.",
+  "facts": [
+   [
+    "Role",
+    "First mate of The Last Word"
+   ],
+   [
+    "Married to",
+    "Khaz'Aimar Maa'iq"
+   ],
+   [
+    "People",
+    "elf"
+   ],
+   [
+    "Calling",
+    "cleric, both of them"
+   ],
+   [
+    "Hair",
+    "auburn"
+   ],
+   [
+    "Eyes",
+    "one a very light brown, the other violet"
+   ],
+   [
+    "The two",
+    "Imra, who leads; and Claire"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "Imra is the first mate of The Last Word and the wife of its captain, Khaz'Aimar Maa'iq. She is an elf and a beauty, with auburn hair and eyes of two colors: one a very light brown, the other violet.",
+     "Two women live in that body. Imra is the one the crew meets most, and the one in charge: ruthless, cynical, and pleased with herself. Claire is compassionate and kind. Both of them are clerics."
+    ]
+   },
+   {
+    "title": "The split of souls",
+    "paragraphs": [
+     "Among the elves of Argentus twins are rare, and a pair is taken as an omen. It is said that twins share one soul between them, split in two, and that what one does well the other does not: if one has a gift for magic, the other is better with a blade.",
+     "Whatever comes of it, the mother is blamed: she is held to have done something wrong, to have brought the split of souls on her children.",
+     "Imra and Claire are a stranger case still, because both of them live in the same body."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Ask the first mate for mercy and she'll laugh at you. Ask again tomorrow and you might get it.” (a Last Word deckhand)",
+     "“She patched me up like a saint and argued my fee like a Contract-Master, the same afternoon.” (a Hunter of the Kingfisher)",
+     "“Elf twins are bad luck. Ask any old elf, and then ask who the mother was.” (an elf sailor)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKldoYXQgdGhlIGVsZGVycyBrZWVwLioqIFNvbWUgZWx2ZW4gdHJpYmVzIHNhY3JpZmljZSBvbmUgdHdpbiwgdG8gbWFrZSB0aGUgdHdvIHNvdWxzIG9uZSBhZ2Fpbi4gT3RoZXJzIGxldCBib3RoIGdyb3cgdXAgYW5kIGdhdGhlciBhIGxpZmUgb2YgdGhlaXIgb3duIChvbmUgb2YgdGhlbSBtYXN0ZXJpbmcgbWFnaWMsIHNheSksIGFuZCB0aGVuIHNhY3JpZmljZSBvbmUsIHNvIHRoYXQgdGhlIG90aGVyIGdyb3dzIHN0cm9uZ2VyIGFuZCBrZWVwcyB3aGF0IHRoZSBkZWFkIHR3aW4ga25ldy4iLCAiKipUYWJvby4qKiBUaGUgd2hvbGUgb2YgaXQgaXMgdGFib28uIE9ubHkgdGhlIGVsZGVycyBrbm93IHRoZSByaXRlLCBhbmQgdGhlIHR3aW5zIGFyZSByYWlzZWQgYmVsaWV2aW5nIHRoZXkgYXJlIGxpa2UgZXZlcnlvbmUgZWxzZS4iLCAiKipTdGlsbCBvcGVuLioqIEhvdyBJbXJhIGFuZCBDbGFpcmUgY2FtZSB0byBzaGFyZSBvbmUgYm9keSBoYXMgbm90IGJlZW4gdG9sZC4iXX0="
+   }
+  ],
+  "related": [
+   "khaz-aimar-maa-iq",
+   "great-hunter-crews",
+   "elves"
+  ],
+  "aliases": [
+   "Imra",
+   "Claire"
+  ],
+  "dossier": {
+   "format": "character-v1",
+   "status": "source-limited"
+  },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
   }
  },
  {
