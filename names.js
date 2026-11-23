@@ -15,12 +15,16 @@
  };
  // In Spanish some entry names are everyday words too ("abajo", "el hierro"): written in lowercase, they are the word, not the entry.
  const PLAIN = new Set(['abajo', 'bastión', 'el hierro', 'caos', 'la espada', 'el alféizar', 'la resaca', 'la mortaja', 'el rompeolas', 'la guarda',
-  'el nudo', 'el ciclo', 'el remiendo', 'el sello', 'el desatado', 'la marea libre', 'la puerta callada', 'el hombre pálido']);
+  'el nudo', 'el ciclo', 'el remiendo', 'el sello', 'el desatado', 'la marea libre', 'la puerta callada', 'el hombre pálido',
+  'destello', 'terciopelo', 'mula', 'modorra', 'abuelo', 'el abuelo']);
+ // The same in English (23 November): the drugs and the Grandfather are everyday words too ("velvet fur", "cobwebs glint").
+ const PLAIN_EN = new Set(['glint', 'velvet', 'mule', 'drowse', 'grandfather', 'the grandfather']);
  const unlink = root => {
-  if(window.Pack2?.language !== 'es' || !root.querySelectorAll) return;
+  if(!root.querySelectorAll) return;
+  // both sets in either language: a page read in Spanish can still have its body in English
   root.querySelectorAll('a.wiki-link').forEach(a => {
-   const t = a.textContent;
-   if(t && t[0] !== t[0].toUpperCase() && PLAIN.has(t.toLowerCase())) a.replaceWith(t);
+   const t = a.textContent, low = t.toLowerCase();
+   if(t && t[0] !== t[0].toUpperCase() && (PLAIN.has(low) || PLAIN_EN.has(low))) a.replaceWith(t);
   });
  };
  function scan(node) {

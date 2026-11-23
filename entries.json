@@ -4302,7 +4302,8 @@
    "starfall-reef",
    "faewild",
    "krystawrights",
-   "mercantile-congress"
+   "mercantile-congress",
+   "glint"
   ],
   "illustration": {
    "src": "assets/culture/krysta-painterly-v2-960.webp",
@@ -4343,6 +4344,16 @@
      "Winter, the Long Silence, under Morthryn, the Pale Empress of Air and Ending, whose Court exiled the Frost Elves.",
      "Spring, the First Bloom, under Aoifel, the Green Laugh.",
      "The Unbound, who belongs to no court, and whom the four courts fear."
+    ]
+   },
+   {
+    "title": "The shape of the Faewild",
+    "paragraphs": [
+     "The Faewild is round, and the four Courts share it like a cake cut in four: Spring's country, Summer's, Autumn's, and Winter's, each a quarter, each wearing its season.",
+     "The four cuts are the borders, and each is named for the handover made across it: the Bright March, the Settling, the Closing, and the Thaw. All four run in from the edge and meet at the center.",
+     "At the center stands the Grandfather, a tree so large that it is a country of its own, and the fae believe every one of them came from it. The Turn changes hands under its branches. It has been barely alive since the war, and with the pearls gone, keeping it alive is the one thing the four Courts truly agree on.",
+     "Around the four countries runs a ring, and the ring is the Veil: from the inside, a limbo between the Faewild and the waking world. No Court rules it. It is the Unbound's country.",
+     "From the limbo there is a road to every plane and every reality there is. You have to know the way, and very few do. It is the most dangerous road there is."
     ]
    },
    {
@@ -4425,6 +4436,14 @@
    [
     "The old wound",
     "the Orka War"
+   ],
+   [
+    "At the center",
+    "the Grandfather"
+   ],
+   [
+    "Around it",
+    "the Veil, the Unbound's limbo"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -4459,7 +4478,8 @@
    "still-days",
    "frost-elves",
    "changelings",
-   "the-warped"
+   "the-warped",
+   "the-grandfather"
   ]
  },
  {
@@ -27113,7 +27133,9 @@
    "the-roam",
    "dream-eaters",
    "faewild-politics",
-   "halfwake"
+   "halfwake",
+   "the-grandfather",
+   "veil"
   ]
  },
  {
@@ -32311,7 +32333,8 @@
   "related": [
    "varan-port",
    "undertow",
-   "zalkareth"
+   "zalkareth",
+   "vice-and-the-black-market"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/quiet-auction-v3-960.webp",
@@ -32648,7 +32671,8 @@
    "janus-rune",
    "old-pell",
    "ottar-glimm",
-   "granny-ylva-skerrow"
+   "granny-ylva-skerrow",
+   "vice-and-the-black-market"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/undertow-960.webp",
@@ -47601,7 +47625,8 @@
    {
     "title": "The Turn",
     "paragraphs": [
-     "The seasons of the waking world do not change by themselves. They change when a sphere the size of an apple passes from one sovereign's hand to the next. The fae call it the Turn. Islanders who have heard of it call it the Year-Pearl."
+     "The seasons of the waking world do not change by themselves. They change when a sphere the size of an apple passes from one sovereign's hand to the next. The fae call it the Turn. Islanders who have heard of it call it the Year-Pearl.",
+     "The handover is made at the center of the Faewild, under the Grandfather, where the four borders run together."
     ],
     "list": [
      "The Turn is a sphere about the size of an apple, and the season is inside it. In Spring's hands it holds blossom on the wind. In Summer's it is too bright to look at. In Autumn's the leaves are always falling, and in Winter's it snows.",
@@ -47655,6 +47680,12 @@
      "The old way and the new. Seelie against Unseelie, inside every Court. A sovereign who leans too far one way finds half the household looking at the door.",
      "The Frost Elves. Winter sent them out. Once a century Spring asks, politely, for them to be let home. Winter says no, and then the two Courts talk about something else for a long time.",
      "The one with no Court. Nobody can plan around him, and every plan has to."
+    ]
+   },
+   {
+    "title": "What they agree on",
+    "paragraphs": [
+     "The Grandfather. The tree at the center, where every fae is said to have come from, has been barely alive since the war. With the pearls gone, the four Courts work together to keep it alive. It is the one thing they truly agree on."
     ]
    },
    {
@@ -47806,7 +47837,8 @@
    "aoifel-the-green-laugh",
    "house-caelvaron",
    "changelings",
-   "the-warped"
+   "the-warped",
+   "the-grandfather"
   ],
   "aliases": [
    "politics of the Faewild",
@@ -48438,6 +48470,10 @@
    [
     "Across it",
     "Krysta is cold, and time runs differently"
+   ],
+   [
+    "From the inside",
+    "a ring of limbo, the Unbound's country"
    ]
   ],
   "sections": [
@@ -48463,6 +48499,14 @@
     "title": "Across it",
     "paragraphs": [
      "Krysta carried across goes cold, and a spell held in a stone can’t be loosed until the stone comes home. Time is not kept the same way. A mortal who spends one night across the Veil may come back the same evening, or a season later, or find the children grown."
+    ]
+   },
+   {
+    "title": "From the inside",
+    "paragraphs": [
+     "From the waking world the Veil is a border nobody can find. From the Faewild it is a place: a ring of limbo around the four Courts' countries, between the Faewild and the waking world.",
+     "No Court rules it. It is the Unbound's country, and he walks it as if he lived there.",
+     "From the limbo there is a road to every plane and every reality there is. You have to know the way, and very few do. It is the most dangerous road there is."
     ]
    },
    {
@@ -48520,7 +48564,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBWZWlsIGlzIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIG1ha2luZyBpdC4gU2hlIGJlY2FtZSBpdC4gV2hhdCBpcyBsZWZ0IG9mIGhlciBpcyBlc3NlbmNlOiB0aGUgZmFlIGFzIHRoZXkgd2VyZSBiZWZvcmUgdGhlIHdhciwgc3ByZWFkIHRoaW4gaW50byBhIGJvcmRlci4gSXQgaXMgdGhpbm5lc3QgYXQgdGhlIEtpbmcgVGlkZSBhbmQgb24gdGhlIFN0aWxsIERheXMgYmVjYXVzZSB0aGF0IGlzIHdoZW4gc2hlIGlzIG1vc3QgdGlyZWQuIiwgIioqV2h5IEFvaWZlbCBnb2VzIGJhcmVmb290LioqIFNoZSBrbm93cyB3aGF0IHRoZSBWZWlsIGlzLiBTaGUgd2lsbCBub3Qgd2FsayBvbiBoZXIgcHJlZGVjZXNzb3Igc2hvZCwgYW5kIHNoZSB3aWxsIG5vdCBsZXQgYW55b25lIGVsc2UgZG8gaXQgZWl0aGVyLiIsICIqKlRoZSBVbmJvdW5kIHdhbGtzIHRocm91Z2ggaXQqKiBiZWNhdXNlIGhlIGtub3dzIGl0cyBuYW1lLCBhbmQgaXRzIG5hbWUgaXMgaGVycy4iLCAiKipXaHkgZmFlIGRlYnRzIGZhbGwgZHVlIG9uIHRoZSBTdGlsbCBEYXlzLioqIFRoZSBmaXZlIGRheXMgYmVsb25nIHRvIG5vIGdvZCwgc28gbm8gZ29kJ3MgbGF3IHN0YW5kcyBiZXR3ZWVuIGEgQ291cnQgYW5kIGl0cyBkZWJ0b3IuIFRoZSBXYXJkZW5zJyB3YXJkcyBhcmUgc3dvcm4gdG8gVmFybmV0aCwgYW5kIGZvciBmaXZlIGRheXMgVmFybmV0aCBpcyBub3Qgb24gZHV0eS4gVGhleSBob2xkIG9uIGhhYml0LiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBWZWlsIGlzIE9ud2VuLioqIFNwcmluZydzIGZpcnN0IFF1ZWVuIGRpZCBub3QgZGllIG1ha2luZyBpdC4gU2hlIGJlY2FtZSBpdC4gV2hhdCBpcyBsZWZ0IG9mIGhlciBpcyBlc3NlbmNlOiB0aGUgZmFlIGFzIHRoZXkgd2VyZSBiZWZvcmUgdGhlIHdhciwgc3ByZWFkIHRoaW4gaW50byBhIGJvcmRlci4gSXQgaXMgdGhpbm5lc3QgYXQgdGhlIEtpbmcgVGlkZSBhbmQgb24gdGhlIFN0aWxsIERheXMgYmVjYXVzZSB0aGF0IGlzIHdoZW4gc2hlIGlzIG1vc3QgdGlyZWQuIiwgIioqV2h5IEFvaWZlbCBnb2VzIGJhcmVmb290LioqIFNoZSBrbm93cyB3aGF0IHRoZSBWZWlsIGlzLiBTaGUgd2lsbCBub3Qgd2FsayBvbiBoZXIgcHJlZGVjZXNzb3Igc2hvZCwgYW5kIHNoZSB3aWxsIG5vdCBsZXQgYW55b25lIGVsc2UgZG8gaXQgZWl0aGVyLiIsICIqKlRoZSBVbmJvdW5kIHdhbGtzIHRocm91Z2ggaXQqKiBiZWNhdXNlIGhlIGtub3dzIGl0cyBuYW1lLCBhbmQgaXRzIG5hbWUgaXMgaGVycy4iLCAiKipXaHkgZmFlIGRlYnRzIGZhbGwgZHVlIG9uIHRoZSBTdGlsbCBEYXlzLioqIFRoZSBmaXZlIGRheXMgYmVsb25nIHRvIG5vIGdvZCwgc28gbm8gZ29kJ3MgbGF3IHN0YW5kcyBiZXR3ZWVuIGEgQ291cnQgYW5kIGl0cyBkZWJ0b3IuIFRoZSBXYXJkZW5zJyB3YXJkcyBhcmUgc3dvcm4gdG8gVmFybmV0aCwgYW5kIGZvciBmaXZlIGRheXMgVmFybmV0aCBpcyBub3Qgb24gZHV0eS4gVGhleSBob2xkIG9uIGhhYml0LiIsICIqKlRoZSBsaW1ibyBpcyBoZXIgdG9vLioqIFRoZSBWZWlsIGlzIE9ud2VuLCBhbmQgdGhlIHJpbmcgaXMgd2hhdCBzaGUgYmVjYW1lLCBzbyBhIHRyYXZlbGVyIGluIHRoZSBsaW1ibyB3YWxrcyBvbiB3aGF0IGlzIGxlZnQgb2YgaGVyLiBJdCBpcyBvbmUgbW9yZSByZWFzb24gQW9pZmVsIGdvZXMgYmFyZWZvb3QsIGFuZCB0aGUgcmVhc29uIHRoZSBVbmJvdW5kLCB3aG8ga25vd3MgaGVyIG5hbWUsIGlzIGF0IGhvbWUgdGhlcmUuIl19"
    }
   ],
   "related": [
@@ -48536,7 +48580,8 @@
    "kalashtar",
    "unbound",
    "house-caelvaron",
-   "sacred-flame"
+   "sacred-flame",
+   "the-grandfather"
   ],
   "aliases": [
    "the Veil",
@@ -52928,6 +52973,1692 @@
    "format": "character-v1",
    "status": "source-limited"
   },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "vice-and-the-black-market",
+  "title": "Vice and the Black Market",
+  "category": "outlaws",
+  "region": "All regions",
+  "subtitle": "What the islands take, and what the Undertow sells",
+  "summary": "Some of the islands' drugs are sold in tea-houses and perfumeries; the rest are the Undertow's, with everything else the law forbids. How a habit takes hold, where each drug is found, and what else changes hands in the dark.",
+  "facts": [
+   [
+    "Drugs",
+    "thirteen: eleven of the islands, two of the continent"
+   ],
+   [
+    "Legal",
+    "Drowse, Mule, Velvet, Venn-shae"
+   ],
+   [
+    "Tolerated",
+    "Tikkatel"
+   ],
+   [
+    "The rest",
+    "the Undertow's"
+   ],
+   [
+    "The Habit",
+    "Taken, Hooked, Owned"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The islands have their drugs, like everywhere else. Some are legal: the tea-houses of every dock pour Drowse, the overseers hand out Mule, the perfumeries of Goldwind bottle Velvet, and the diving ports sell Venn-shae. Tikkatel is banned by the University and ignored by everyone else. The rest belong to the Undertow, with every other thing the law forbids.",
+     "Two of them come from the continent: Vastren, the Iron Host's wafer, and Stillface, the oil of Velkhaven's spies."
+    ]
+   },
+   {
+    "title": "The Habit",
+    "paragraphs": [
+     "For the table. Every drug takes hold the same way; each one's page says what its toll does at each step."
+    ],
+    "list": [
+     "**Hooking.** Each dose calls for a Constitution saving throw against the drug's Hook DC. On a failure the Habit takes one step: **Taken**, then **Hooked**, then **Owned**. Each drug's toll says what each step does to you.",
+     "**Withdrawal.** From Hooked on, each Long Rest you finish without a dose gives you 1 Exhaustion level, and no rest removes that Exhaustion while the Habit lasts.",
+     "**Getting clean.** Seven Long Rests in a row without a dose, then a saving throw against the Hook DC: on a success the Habit drops one step. *Greater Restoration* drops it one step as well; *Lesser Restoration* does nothing for a Habit.",
+     "**Too much.** A second dose before the first wears off calls for a saving throw against the Hook DC + 5. On a failure, you die the way that drug kills."
+    ]
+   },
+   {
+    "title": "The drugs",
+    "paragraphs": [],
+    "table": {
+     "caption": "The drugs of the islands and the continent",
+     "headers": [
+      "Drug",
+      "What it is",
+      "Hook DC",
+      "Price",
+      "Law"
+     ],
+     "rows": [
+      [
+       "Glint",
+       "Krysta snuff",
+       "16",
+       "2 Tides a pinch",
+       "banned"
+      ],
+      [
+       "Qelxaru",
+       "Deadman's Wrath",
+       "17",
+       "2 Anchors a cap",
+       "banned"
+      ],
+      [
+       "Red Hush",
+       "The assassins' leaf",
+       "12",
+       "1 Tide a bundle of ten leaves",
+       "banned"
+      ],
+      [
+       "Venn-shae",
+       "The divers' paste",
+       "13",
+       "5 Bits a dose",
+       "legal"
+      ],
+      [
+       "Velvet",
+       "The salons' syrup",
+       "14",
+       "1 Anchor a bottle",
+       "legal, and taxed"
+      ],
+      [
+       "Naxtumen",
+       "Smoking tomorrow",
+       "14",
+       "1 Tide a pipe in the south",
+       "banned"
+      ],
+      [
+       "Drowse",
+       "The poor folk's tea",
+       "15",
+       "2 Bits a cup",
+       "legal"
+      ],
+      [
+       "Mule",
+       "The overseers' root",
+       "13",
+       "1 Bit a root",
+       "legal"
+      ],
+      [
+       "Lordsblood",
+       "A Lord's toast",
+       "15",
+       "20 Anchors a dose",
+       "banned"
+      ],
+      [
+       "Damareth",
+       "The old houses' oil",
+       "14",
+       "50 Anchors a vial",
+       "banned, as fae goods"
+      ],
+      [
+       "Tikkatel",
+       "Clerk's Salt",
+       "13",
+       "1 Tide a dose",
+       "tolerated"
+      ],
+      [
+       "Vastren",
+       "The Iron Host's wafer",
+       "15",
+       "3 Tides a wafer in the islands",
+       "banned, as imperial goods"
+      ],
+      [
+       "Stillface",
+       "The spies' oil",
+       "13",
+       "2 Anchors a vial in the islands",
+       "on no list"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Finding it",
+    "paragraphs": [
+     "Roll the chance for the settlement: it is the chance that someone there is selling it this week. At home, in the region or trade the table names, double it, to at most 95 in 100; far from home, halve it.",
+     "If there is some, finding the seller of a banned drug takes a day and a Charisma (Persuasion) or Intelligence (Investigation) check against the DC, with someone who knows the Undertow. A legal drug needs no check: ask anyone. Black ports are Fairweather, Black Harbor, Hollowkey, and their like. Damareth also wants a title: without one, add 5 to the DC."
+    ],
+    "table": {
+     "caption": "The chance that it is there this week",
+     "headers": [
+      "Drug",
+      "Village",
+      "Town",
+      "City",
+      "Black port",
+      "At home",
+      "Seller DC"
+     ],
+     "rows": [
+      [
+       "Drowse",
+       "40%",
+       "70%",
+       "95%",
+       "95%",
+       "Everywhere",
+       "none"
+      ],
+      [
+       "Mule",
+       "30%",
+       "60%",
+       "80%",
+       "90%",
+       "The south, and the mines",
+       "none"
+      ],
+      [
+       "Venn-shae",
+       "10%",
+       "30%",
+       "50%",
+       "60%",
+       "Diving ports and Pearl Groove",
+       "none"
+      ],
+      [
+       "Velvet",
+       "2%",
+       "15%",
+       "60%",
+       "50%",
+       "Goldwind and the Heartland",
+       "none"
+      ],
+      [
+       "Glint",
+       "2%",
+       "10%",
+       "30%",
+       "60%",
+       "The southern ports",
+       "12"
+      ],
+      [
+       "Tikkatel",
+       "1%",
+       "10%",
+       "40%",
+       "30%",
+       "Goldwind and the University",
+       "12"
+      ],
+      [
+       "Red Hush",
+       "1%",
+       "5%",
+       "20%",
+       "35%",
+       "The Heartland",
+       "15"
+      ],
+      [
+       "Naxtumen",
+       "1%",
+       "3%",
+       "10%",
+       "25%",
+       "The south",
+       "15"
+      ],
+      [
+       "Vastren",
+       "0%",
+       "2%",
+       "5%",
+       "20%",
+       "Black Harbor and Ironfort",
+       "15"
+      ],
+      [
+       "Qelxaru",
+       "0%",
+       "1%",
+       "5%",
+       "15%",
+       "The southern jungle",
+       "18"
+      ],
+      [
+       "Lordsblood",
+       "0%",
+       "1%",
+       "5%",
+       "15%",
+       "The Quiet Auction",
+       "18"
+      ],
+      [
+       "Stillface",
+       "0%",
+       "1%",
+       "5%",
+       "10%",
+       "Nowhere in the islands",
+       "18"
+      ],
+      [
+       "Damareth",
+       "0%",
+       "0%",
+       "5%",
+       "2%",
+       "The old houses, at the Still Days",
+       "22"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "What else the Undertow sells",
+    "paragraphs": [
+     "Beyond the dark glass, the guns, the forgeries, and the rest of its usual trade:"
+    ],
+    "list": [
+     "**Fresh bodies.** Graves robbed for the anatomists, and for anyone else who wants the dead.",
+     "**False Sigils, and dead men's.** A Hunter's Sigil opens ports, contracts, and questions.",
+     "**Saurian eggs,** smuggled out of Jakupur to break its monopoly.",
+     "**Poisons:** the toads and saurians of the south, for the knife trade.",
+     "**Knife contracts:** killings for hire, at a set rate.",
+     "**Black contracts:** pacts written in the Pact-words, and soul-debts bought and sold.",
+     "**Black pages:** spells the Arcane Registry has banned, and stolen spellbooks.",
+     "**Sealed charts:** charts of the Sealed Waters, and of the routes the Chartwrights close.",
+     "**Rewritten iron:** warforged stolen and rewritten to obey. It is the slavery of the made, who were never born.",
+     "**Star coral:** Krysta-veined coral from the Starfall Reef. Selling it breaks a sea-pact.",
+     "**Imperial goods:** silk, arms, and papers from Korvan that come in despite the war, sometimes with a spy behind them.",
+     "**Parts of peoples:** aethyn feathers, galven sparks, liriath sap. It is so foul that half the Undertow will not touch it.",
+     "**Clean names:** forged birth and death records, to buy a dead man's name and start again.",
+     "**False relics:** saints' bones, and the White Flame's holy water.",
+     "**Washed ships:** stolen hulls, repainted, with new papers.",
+     "**Pit fights:** to the death, or against the progeny of the Savage Lords, with the betting."
+    ]
+   }
+  ],
+  "related": [
+   "undertow",
+   "quiet-auction",
+   "glint",
+   "qelxaru",
+   "red-hush",
+   "venn-shae",
+   "velvet",
+   "naxtumen",
+   "drowse",
+   "mule",
+   "lordsblood",
+   "damareth",
+   "tikkatel",
+   "vastren",
+   "stillface"
+  ],
+  "aliases": [
+   "black market"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "glint",
+  "title": "Glint",
+  "category": "trade",
+  "region": "Southern Wilds",
+  "subtitle": "Krysta snuff: magic that surges, and eyes that glass",
+  "summary": "Krysta-dust cut with southern herbs and snuffed. It makes a caster's magic surge wild, and it glasses the eyes of those who take it too long.",
+  "facts": [
+   [
+    "Street name",
+    "A sunrise"
+   ],
+   [
+    "Taken",
+    "Snuffed from the back of the hand"
+   ],
+   [
+    "From",
+    "Hidden labs in the south"
+   ],
+   [
+    "Hook DC",
+    "16"
+   ],
+   [
+    "Price",
+    "2 Tides a pinch; a habit runs 1 to 2 Anchors a month"
+   ],
+   [
+    "Law",
+    "Banned"
+   ],
+   [
+    "Found",
+    "village 2%, town 10%, city 30%, black port 60%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "Krysta scraped from the offcuts of dark glass and cut with southern herbs in hidden labs. It is snuffed from the back of the hand, and it is the Undertow's drug above all the others.",
+     "Casters in the salons of Goldwind, the darker corners of the University, the unregistered, and every dock."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 1 hour."
+    ],
+    "list": [
+     "+1 to your spell attack rolls and spell save DC.",
+     "Once, you can cast a spell of level 1 to 3 without expending a spell slot.",
+     "Each time you cast a spell of level 1 or higher, roll a d20. On a 1, roll on the Wild Magic Surge table."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (16) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** you want the gold, and nothing else feels as bright.",
+     "**Hooked:** the eyes glass: flecks of crystal in the iris that never leave.",
+     "**Owned:** madness. You see the world in gold and trust no one, with Disadvantage on Wisdom saving throws. At the end, they put out their own eyes to stop seeing the light."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "The blood crystallizes. The body lights gold from inside, and the heart stops. The corpse goes on glittering, and there are people who scrape it to sell again."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "Gold dust under the nose, and crystal in the eyes."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "A lecturer at the University has been giving brilliant classes all season, and has stopped blinking."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "krysta",
+   "arcane-registry",
+   "university",
+   "undertow",
+   "southern-wilds"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "qelxaru",
+  "title": "Qelxaru",
+  "category": "trade",
+  "region": "Southern Wilds",
+  "subtitle": "Deadman's Wrath: the fury that grows on the fallen",
+  "summary": "A red-black fungus that grows only on the bodies of warriors. Whoever eats it rages without pain, and in the end it grows in them.",
+  "facts": [
+   [
+    "Street name",
+    "Deadman's Wrath, or a dead man's supper"
+   ],
+   [
+    "Taken",
+    "Eaten raw"
+   ],
+   [
+    "From",
+    "The bodies of warriors, on the old battlefields of the jungle"
+   ],
+   [
+    "Hook DC",
+    "17"
+   ],
+   [
+    "Price",
+    "2 Anchors a cap"
+   ],
+   [
+    "Law",
+    "Banned"
+   ],
+   [
+    "Found",
+    "village 0%, town 1%, city 5%, black port 15%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A red-black fungus that grows only on the bodies of warriors, on the old battlefields of the southern jungle. It is eaten raw, and it tastes of grave-earth. The jungle folk say a warrior's anger does not die with him: it grows on him.",
+     "Its name is the jungle's own, in Confederacy speech: *qel*, those before, and *xaru*, fury. The chant-keepers call it a curse and will not say it aloud. On the docks it is Deadman's Wrath.",
+     "Mercenaries, pit fighters, and warriors who want a fury they were not born with."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 1 minute."
+    ],
+    "list": [
+     "You enter a Rage as a barbarian does: +2 to damage with Strength attacks, Resistance to Bludgeoning, Piercing, and Slashing damage, and Advantage on Strength checks and saving throws. It lasts the full minute, and you can't end it early.",
+     "If you already have Rage, Qelxaru feeds it: your Rage Damage bonus rises by 2, and you are immune to the Frightened condition.",
+     "You feel no pain. At 0 Hit Points you don't fall: you fight on until the Rage ends, but every hit you take at 0 Hit Points counts as a failed Death Saving Throw. Many die on their feet without knowing it.",
+     "At the start of each of your turns, if no enemy is within your reach, make a DC 13 Wisdom saving throw or attack the nearest creature."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (17) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** your tongue grows black veins, and your breath smells of wet earth.",
+     "**Hooked:** the fungus takes root in your stomach. You eat little, you vomit black spores, and your Hit Point maximum drops by 1d4 every month.",
+     "**Owned:** whenever you take damage, make a DC 13 Wisdom saving throw or enter the Rage without a dose. When you die, the fungus fruits from your body: you are the next harvest."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "The heart bursts in the middle of the fury."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "Black veins on the tongue, and breath like an open grave."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "The harvesters follow the wars. It is said that some warlords feed Qelxaru to their warriors before a battle, so as to harvest them after."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "southern-wilds",
+   "golgarma",
+   "undertow"
+  ],
+  "aliases": [
+   "Deadman's Wrath"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "red-hush",
+  "title": "Red Hush",
+  "category": "trade",
+  "region": "Central Heartland",
+  "subtitle": "The assassins' leaf: the world goes slow, and the mouth goes red",
+  "summary": "A red-veined leaf that killers chew. The world slows around them; their gums bleed, their teeth rot, and in time their eyes stay red for good.",
+  "facts": [
+   [
+    "Street name",
+    "A quiet chew"
+   ],
+   [
+    "Taken",
+    "Chewed whole and spat red"
+   ],
+   [
+    "From",
+    "A thorny shrub of the Heartland's dry hills, and walled gardens"
+   ],
+   [
+    "Hook DC",
+    "12"
+   ],
+   [
+    "Price",
+    "1 Tide a bundle of ten leaves"
+   ],
+   [
+    "Law",
+    "Banned"
+   ],
+   [
+    "Found",
+    "village 1%, town 5%, city 20%, black port 35%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "The leaf of a thorny shrub with red veins, grown on the Heartland's dry hills and behind garden walls. It is chewed whole and spat red. Whoever chews it sees the world slow down: a blow on its way, a hand going to a knife, a word about to be said.",
+     "Assassins, bodyguards, duelists, and the Armada's boarders."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 1 hour."
+    ],
+    "list": [
+     "Advantage on Initiative rolls and on Dexterity saving throws.",
+     "You can take two Reactions each round.",
+     "Disadvantage on Charisma checks: everyone talks slowly, and you answer late."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (12) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** the gums bleed, and the mouth is red.",
+     "**Hooked:** the teeth rot and fall out.",
+     "**Owned:** the eyes stay bloodshot for good, and you have Disadvantage on Persuasion checks with anyone who can see your face. That is why they wear masks, and say little."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "The heart grows as slow as the world. You drop to 0 Hit Points."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "A mask, a silence, and red spit on the floor. Where there is red spit, a killer has been."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "A masked bodyguard who never speaks and is never late has started arriving early."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "heartland",
+   "undertow"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "venn-shae",
+  "title": "Venn-shae",
+  "category": "trade",
+  "region": "The Sea",
+  "subtitle": "The divers' paste: an hour without air, and a life without enough of it",
+  "summary": "A grey paste the pearl-clans make from a deep fish. Divers hold their breath for an hour on it; in time they cannot breathe on land.",
+  "facts": [
+   [
+    "Street name",
+    "A long breath"
+   ],
+   [
+    "Taken",
+    "A paste, swallowed"
+   ],
+   [
+    "From",
+    "The gland of a pale deep-water fish, made by the pearl-clans of Pearl Groove"
+   ],
+   [
+    "Hook DC",
+    "13"
+   ],
+   [
+    "Price",
+    "5 Bits a dose"
+   ],
+   [
+    "Law",
+    "Legal"
+   ],
+   [
+    "Found",
+    "village 10%, town 30%, city 50%, black port 60%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A grey paste made from the gland of a pale fish of deep water. The pearl-clans of Pearl Groove make it, and sing its name in the Coral song: *venn-shae*, the sea inside. It is legal, and every diving port sells it.",
+     "Pearl divers and wreck salvagers, above all at Kraken's Maw."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 4 hours."
+    ],
+    "list": [
+     "You can hold your breath for 1 hour.",
+     "Darkvision out to 60 feet underwater.",
+     "Advantage on Strength (Athletics) checks to swim."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (13) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** blue lips.",
+     "**Hooked:** on land the air is not enough. After you take the Dash action, make a DC 12 Constitution saving throw or gain 1 Exhaustion level.",
+     "**Owned:** you must go under salt water once a day or gain 1 Exhaustion level. Old divers sleep in tubs of seawater."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "You drown on dry land."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "Blue lips, and creases down the neck like gills."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "A diver went down to the wreck three hours ago and has not come up."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "pearl-groove-and-the-pelagar-isle",
+   "krakens-maw",
+   "coral-kingdoms"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "velvet",
+  "title": "Velvet",
+  "category": "trade",
+  "region": "Central Heartland",
+  "subtitle": "The salons' syrup: no fear, no shame, and a heart that tires",
+  "summary": "A dark purple syrup for balls, theaters, and salons. It takes away fear and shame, and it wears out the heart.",
+  "facts": [
+   [
+    "Street name",
+    "A dance card"
+   ],
+   [
+    "Taken",
+    "A syrup, from a bottle the size of a thumb"
+   ],
+   [
+    "From",
+    "A jungle orchid, refined in the perfumeries of Goldwind"
+   ],
+   [
+    "Hook DC",
+    "14"
+   ],
+   [
+    "Price",
+    "1 Anchor a bottle"
+   ],
+   [
+    "Law",
+    "Legal, and taxed"
+   ],
+   [
+    "Found",
+    "village 2%, town 15%, city 60%, black port 50%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A dark purple syrup made from a jungle orchid and refined in the perfumeries of Goldwind, sold in bottles the size of a thumb. It is legal, and the Council taxes it.",
+     "Salons, theaters, the season's balls, nervous debutantes, and old courtiers."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 4 hours."
+    ],
+    "list": [
+     "Advantage on Charisma checks.",
+     "Immunity to the Frightened condition.",
+     "Disadvantage on Wisdom (Insight) checks and on saving throws against being Charmed: everyone is lovely.",
+     "When it wears off comes the crash: 1 Exhaustion level."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (14) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** a purple tongue, and a laugh too loud.",
+     "**Hooked:** without Velvet you have Disadvantage on Charisma checks: nothing is any fun.",
+     "**Owned:** the heart tires. When you drop to 0 Hit Points, you fail your first Death Saving Throw automatically."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "You die dancing, and smiling. In the Heartland, “died of velvet” is how a scandal is said aloud."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "A purple tongue, and a laugh too loud."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "A debutante has died at her first ball. Her house says it was a fever."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "goldwind",
+   "heartland"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "naxtumen",
+  "title": "Naxtumen",
+  "category": "trade",
+  "region": "Southern Wilds",
+  "subtitle": "Smoking tomorrow: a true glimpse of what is coming, paid for with what has been",
+  "summary": "A dream-smoke of the deep green that shows what is coming. The chant-keepers burn it once in a lifetime; the Undertow sells it by the pipe. Tomorrow costs yesterday.",
+  "facts": [
+   [
+    "Street name",
+    "Tomorrow; taking it is “smoking tomorrow”"
+   ],
+   [
+    "Taken",
+    "Smoked"
+   ],
+   [
+    "From",
+    "A dream-herb of the deep green"
+   ],
+   [
+    "Hook DC",
+    "14"
+   ],
+   [
+    "Price",
+    "1 Tide a pipe in the south; five times that elsewhere"
+   ],
+   [
+    "Law",
+    "Banned; selling it is a crime under Confederacy law"
+   ],
+   [
+    "Found",
+    "village 1%, town 3%, city 10%, black port 25%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A dream-herb of the deep green, smoked. The chant-keepers burn it once in a lifetime, in a rite, and mark it on the skin. Selling it is a crime under Confederacy law, and the Undertow sells it by the pipe.",
+     "Its name is Confederacy speech: *naxem*, to remember, and *tumen*, to forget. On the docks it is Tomorrow.",
+     "Gamblers, lovers, and captains before they sail."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 8 hours."
+    ],
+    "list": [
+     "When you smoke it, roll a d20 and keep the number. Once while it lasts, you can replace any d20 roll you can see with that number.",
+     "The Game Master gives you one glimpse of what is coming: vague, and true."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (14) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Tomorrow costs yesterday.** Each time you fail a save against the Hook DC, you lose a memory, the one the Game Master chooses.",
+     "**Taken and Hooked:** the fingertips go grey with smoke, and the eyes are somewhere else.",
+     "**Owned:** you forget your own name, and you speak of what will happen as though it already had."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "You stay in tomorrow: catatonia, and death by thirst unless someone tends you."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "Grey fingertips, and a way of speaking in the past tense about things that have not happened."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "A smoker tells the party how one of them is going to die."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "southern-wilds",
+   "southhaven",
+   "undertow"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "drowse",
+  "title": "Drowse",
+  "category": "trade",
+  "region": "Icy Expanse",
+  "subtitle": "The poor folk's tea: no pain, deep sleep, and a breath that slows",
+  "summary": "A tea of pale moss from the ice-caves. The hold-healers use it for pain; the docks drink it to sleep. It is the commonest drug death in the islands.",
+  "facts": [
+   [
+    "Street name",
+    "A cup of pale"
+   ],
+   [
+    "Taken",
+    "Drunk as a tea"
+   ],
+   [
+    "From",
+    "A pale moss of the ice-caves of the Expanse, carried north by the whalers"
+   ],
+   [
+    "Hook DC",
+    "15"
+   ],
+   [
+    "Price",
+    "2 Bits a cup"
+   ],
+   [
+    "Law",
+    "Legal; sold in the tea-houses of every dock"
+   ],
+   [
+    "Found",
+    "village 40%, town 70%, city 95%, black port 95%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A tea made from a pale moss of the ice-caves of the Icy Expanse. The hold-healers use it for pain, and the whalers carry it north. It is legal, and every dock has a tea-house that sells it.",
+     "Dockers, veterans of the Front, widows, and anyone something hurts. It is the poor folk's drug."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 8 hours."
+    ],
+    "list": [
+     "2d6 Temporary Hit Points.",
+     "A Long Rest takes you 4 hours.",
+     "Your Speed drops by 10 feet, and you have Disadvantage on Wisdom (Perception) checks and Initiative rolls."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (15) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** waxen skin.",
+     "**Hooked:** without Drowse, a Long Rest removes no Exhaustion.",
+     "**Owned:** your breathing slows. At the end of each Long Rest, make a DC 10 Constitution saving throw or gain 1 Exhaustion level."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "You stop breathing in your sleep. It is the commonest drug death in the islands, and the docks have a way of saying it: “the drowse took him.”"
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "Waxen skin, and the voice of someone just woken."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "Someone is cutting the Drowse on the Longshore, and the docks wake to find sleepers who did not wake."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "icy-expanse",
+   "undertow"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "mule",
+  "title": "Mule",
+  "category": "trade",
+  "region": "Southern Wilds",
+  "subtitle": "The overseers' root: no sleep, no rest, and a body that keeps going until it stops",
+  "summary": "A black root the mine overseers of Vossreth and Karn Sorroch give their unfree workers, so they can work without sleep. “You give the mules mule.”",
+  "facts": [
+   [
+    "Street name",
+    "A long shift"
+   ],
+   [
+    "Taken",
+    "Chewed, or boiled"
+   ],
+   [
+    "From",
+    "A black root of the south"
+   ],
+   [
+    "Hook DC",
+    "13"
+   ],
+   [
+    "Price",
+    "1 Bit a root; the overseers give it “free” and take it out of the wage"
+   ],
+   [
+    "Law",
+    "Legal"
+   ],
+   [
+    "Found",
+    "village 30%, town 60%, city 80%, black port 90%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A black root of the south, chewed or boiled. The mine overseers of Vossreth and Karn Sorroch give it to their unfree workers, so that the work never stops. “You give the mules mule,” they say. It is legal.",
+     "Miners, convoy crews, couriers, and soldiers on a forced march."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 24 hours."
+    ],
+    "list": [
+     "You don't need to sleep.",
+     "Exhaustion from a forced march or from going without sleep does not affect you.",
+     "Advantage on Constitution saving throws.",
+     "When it wears off, you gain 2 Exhaustion levels at once."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (13) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** you never sit down.",
+     "**Hooked:** your hands shake. Disadvantage on Dexterity (Sleight of Hand) checks and with fine tools.",
+     "**Owned:** without Mule, your Speed is halved."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "The heart bursts in the middle of the shift."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "Someone who never sits down, and whose hands shake."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "The Chainbreakers burn crates of Mule wherever they find them, and a worker they freed cannot stop working."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "house-vossreth",
+   "karn-sorroch",
+   "southern-wilds"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "lordsblood",
+  "title": "Lordsblood",
+  "category": "trade",
+  "region": "All regions",
+  "subtitle": "A Lord's toast: the beast's gifts, and the beast's marks",
+  "summary": "Powdered marrow of Savage Lord progeny, taken in wine. It gives the beast's senses and claws, leaves the beast's marks, and at the King Tide the Lord calls.",
+  "facts": [
+   [
+    "Street name",
+    "A Lord's toast"
+   ],
+   [
+    "Taken",
+    "Powder, stirred into wine"
+   ],
+   [
+    "From",
+    "The marrow of Savage Lord progeny, hunted by the Flensers"
+   ],
+   [
+    "Hook DC",
+    "15"
+   ],
+   [
+    "Price",
+    "20 Anchors a dose"
+   ],
+   [
+    "Law",
+    "Banned; the Hunters go after whoever sells it"
+   ],
+   [
+    "Found",
+    "village 0%, town 1%, city 5%, black port 15%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "The marrow of Savage Lord progeny, ground to powder and stirred into wine. The Flensers hunt the progeny for it, and the alchemists buy it at the Quiet Auction with the rest of the lord-bone.",
+     "Nobles who want to feel like predators, pit fighters, and the desperate."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 1 hour."
+    ],
+    "list": [
+     "Darkvision out to 60 feet.",
+     "Advantage on Wisdom (Perception) checks that rely on smell or hearing.",
+     "Claws or fangs: a natural weapon that deals 1d6 + your Strength modifier.",
+     "Your Speed increases by 10 feet."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (15) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Each step leaves a mark of that Lord's beast, for good.**",
+     "**Taken:** the beast's eyes.",
+     "**Hooked:** the beast's fur, scales, or feathers.",
+     "**Owned:** the beast's teeth and hunger. The Lord of that line can feel you, and at the King Tide it calls: make a DC 15 Wisdom saving throw or go to it."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "The beast takes you: you become a beast of that Lord's line, for good. The character is lost."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "Eyes that are not quite a person's."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "At the King Tide, a noble tears off his clothes and runs for the jungle."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "savage-lords",
+   "quiet-auction",
+   "undertow"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "damareth",
+  "title": "Damareth",
+  "category": "trade",
+  "region": "Central Heartland",
+  "subtitle": "The old houses' oil: desire where there was none, and a fever that keeps",
+  "summary": "A fae oil the old houses buy at the Still Days. It kindles desire and stamina: an heir is a contract, and damareth signs it.",
+  "facts": [
+   [
+    "Street name",
+    "A wedding night"
+   ],
+   [
+    "Taken",
+    "Drops on the wrists and lips, or one in the wine"
+   ],
+   [
+    "From",
+    "The seeds of a Summer flower that opens only where the Veil is thin"
+   ],
+   [
+    "Hook DC",
+    "14"
+   ],
+   [
+    "Price",
+    "50 Anchors a vial"
+   ],
+   [
+    "Law",
+    "Banned, as fae goods; nobody arrests a duke"
+   ],
+   [
+    "Found",
+    "village 0%, town 0%, city 5%, black port 2%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A dark red oil pressed from the seeds of a Summer flower that opens only where the Veil is thin. A few drops go on the wrists and the lips, or one goes in the wine. It smells of a summer noon.",
+     "The old houses name it in Exodus Imperial, which they keep for what the servants should not follow: *damareth*, the wedding night. The Concord bans it with the rest of the fae goods, and nobody arrests a duke.",
+     "The old houses. An heir is a contract, and damareth signs it: it makes marriages by contract give children. In the season courts it serves lovers too."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts one night."
+    ],
+    "list": [
+     "It kindles desire, and stamina.",
+     "You ignore the effects of 1 Exhaustion level, and you have Advantage on Constitution saving throws.",
+     "Disadvantage on Wisdom (Insight) checks and on saving throws against being Charmed: everything seems a good idea."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (14) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** the cheeks still burn the next day.",
+     "**Hooked:** without damareth there is no desire.",
+     "**Owned:** the fever. With each dose, make a DC 12 Constitution saving throw or be Poisoned for 1d4 days."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "A fever that burns through in a single night. “Died on the wedding night,” and the house keeps it quiet."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "The smell of a summer noon, and cheeks that burn the morning after."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "A marriage by contract joins two rival houses, and someone has switched the groom's vial."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "fae",
+   "summer-court",
+   "heartland"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "tikkatel",
+  "title": "Tikkatel",
+  "category": "trade",
+  "region": "Central Heartland",
+  "subtitle": "Clerk's Salt: a sharp mind for a night, and a head that won't stop counting",
+  "summary": "White crystals from a gnomish workshop, licked from the back of the hand. Students take it at examinations and clerks at the year's close.",
+  "facts": [
+   [
+    "Street name",
+    "Clerk's Salt, or a late ledger"
+   ],
+   [
+    "Taken",
+    "Licked from the back of the hand"
+   ],
+   [
+    "From",
+    "A gnomish workshop formula"
+   ],
+   [
+    "Hook DC",
+    "13"
+   ],
+   [
+    "Price",
+    "1 Tide a dose"
+   ],
+   [
+    "Law",
+    "Tolerated: the University bans it, and the Reckoners' Hall looks the other way"
+   ],
+   [
+    "Found",
+    "village 1%, town 10%, city 40%, black port 30%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "White crystals made to a gnomish workshop formula, licked from the back of the hand. They taste of ink and metal. The gnomes named it from their own saying, *tikka tel*, make it better. The clerks call it Clerk's Salt.",
+     "Students at examination time, the clerks of the Reckoners' Hall at the year's close, Chartwrights, and inventors who don't sleep."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 8 hours."
+    ],
+    "list": [
+     "Advantage on Intelligence checks and on checks with tools.",
+     "You don't need to sleep that night.",
+     "Disadvantage on Charisma checks: you talk too fast."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (13) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** an eyelid that jumps.",
+     "**Hooked:** nosebleeds, and Disadvantage on saving throws to maintain Concentration without a dose.",
+     "**Owned:** you can't stop counting: stairs, coins, words."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "The head burns out. You drop to 0 Hit Points, and if you live, you have Disadvantage on Intelligence checks until a *Greater Restoration*."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "Ink on the back of the hand, and a red nose."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "At the year's close a clerk is found dead over a set of books that balance far too well."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "gnomes",
+   "university",
+   "reckoners-hall"
+  ],
+  "aliases": [
+   "Clerk's Salt"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "vastren",
+  "title": "Vastren",
+  "category": "trade",
+  "region": "All regions",
+  "subtitle": "The Iron Host's wafer: no fear, and no way to say no",
+  "summary": "A pale wafer stamped with the Sun-letters, given to the Iron Host at every dawn before battle. It takes away fear, and in time it takes away the word no. It comes to the islands with deserters.",
+  "facts": [
+   [
+    "Street name",
+    "The Host"
+   ],
+   [
+    "Taken",
+    "A wafer, eaten at dawn"
+   ],
+   [
+    "From",
+    "The faith of the Sun, in the Korvan Imperium, for the Iron Host"
+   ],
+   [
+    "Hook DC",
+    "15"
+   ],
+   [
+    "Price",
+    "3 Tides a wafer in the islands"
+   ],
+   [
+    "Law",
+    "Banned, as imperial goods"
+   ],
+   [
+    "Found",
+    "village 0%, town 2%, city 5%, black port 20%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A pale wafer stamped with the Sun-letters, baked by the faith of the Sun and given to the Iron Host at every dawn before battle. In Imperial it is *vastren*, the host, the same word as the army's: one throne, one sun, one host.",
+     "In the islands it is imperial goods, and banned. It comes across the strait with the deserters who could not leave it behind.",
+     "The Iron Host; in the islands, deserters, imperial agents, and the curious."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 8 hours."
+    ],
+    "list": [
+     "Immunity to the Frightened condition.",
+     "Advantage on saving throws against being Charmed, except by your own officers.",
+     "While an ally is within 5 feet of you, you have +1 to your Armor Class: you hold the line."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (15) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** you wake at every dawn, and turn to face the sun.",
+     "**Hooked:** when someone you take for your superior gives you an order, you need a DC 15 Wisdom saving throw to refuse it. Without a wafer, you have Disadvantage on saving throws against being Frightened.",
+     "**Owned:** you can't refuse an order from a superior at all."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "You see the Sun. You are Blinded for good, and you march toward the light until your heart stops, unless someone holds you down for a day."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "A blister on the tongue in the shape of a sun, and a salute at dawn that the hand makes on its own."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "A deserter from the Iron Host has been clean for a year. Someone has started leaving a wafer on his doorstep, every dawn."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "assios-and-the-wider-world",
+   "black-harbor"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "stillface",
+  "title": "Stillface",
+  "category": "trade",
+  "region": "All regions",
+  "subtitle": "The spies' oil: a face that gives nothing away, and in time feels nothing",
+  "summary": "A clear oil from Velkhaven, the continent's city of spies. Three drops, and the face and body give nothing away. In time they give nothing at all.",
+  "facts": [
+   [
+    "Street name",
+    "A quiet hand"
+   ],
+   [
+    "Taken",
+    "Three drops of oil on the tongue"
+   ],
+   [
+    "From",
+    "The apothecaries of Velkhaven, the spies' city, who do not say what is in it"
+   ],
+   [
+    "Hook DC",
+    "13"
+   ],
+   [
+    "Price",
+    "2 Anchors a vial in the islands"
+   ],
+   [
+    "Law",
+    "On no list: the Council has never heard of it"
+   ],
+   [
+    "Found",
+    "village 0%, town 1%, city 5%, black port 10%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "A clear oil from Velkhaven, the city on stilts where the spies of both sides of the war meet and drink together. Three drops go on the tongue. Velkhaven's apothecaries do not say what is in it. It is on no list in the islands, because the Council has never heard of it.",
+     "Spies of both sides, the secret-brokers, card players, and liars of quality."
+    ]
+   },
+   {
+    "title": "What it does",
+    "paragraphs": [
+     "For the table. It lasts 4 hours."
+    ],
+    "list": [
+     "Your face and body give nothing away: Advantage on Charisma (Deception) checks.",
+     "Wisdom (Insight) checks made to read you have Disadvantage."
+    ]
+   },
+   {
+    "title": "The toll",
+    "paragraphs": [
+     "Each failed save against the Hook DC (13) takes the Habit one step further: Taken, Hooked, Owned (Vice and the Black Market)."
+    ],
+    "list": [
+     "**Taken:** numb lips.",
+     "**Hooked:** the face stays still without it too: Disadvantage on Charisma (Persuasion) and (Performance) checks.",
+     "**Owned:** the stillness goes inward. You can't read others either, with Disadvantage on Wisdom (Insight) checks, and you can't cry."
+    ]
+   },
+   {
+    "title": "Too much",
+    "paragraphs": [
+     "The stillness reaches the heart."
+    ]
+   },
+   {
+    "title": "How to tell",
+    "paragraphs": [
+     "A face like a portrait: it smiles with the mouth, and never with the eyes."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [
+     "Two spies sit at the same table, both on Stillface, and the party has to know which one is lying."
+    ]
+   }
+  ],
+  "related": [
+   "vice-and-the-black-market",
+   "assios-and-the-wider-world"
+  ],
+  "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "the-grandfather",
+  "title": "The Grandfather",
+  "category": "place",
+  "region": "Beyond the Veil",
+  "subtitle": "The tree at the heart of the Faewild",
+  "summary": "A tree at the center of the Faewild, where the four Courts' countries meet and the Turn changes hands. The fae believe they all came from it. It has been barely alive since the Orka War, and keeping it alive is the one thing the four Courts agree on.",
+  "facts": [
+   [
+    "Where",
+    "the center of the Faewild, where the four borders meet"
+   ],
+   [
+    "What happens there",
+    "the Turn changes hands"
+   ],
+   [
+    "Believed to be",
+    "where every fae came from"
+   ],
+   [
+    "Since the war",
+    "barely alive"
+   ],
+   [
+    "Kept alive by",
+    "all four Courts, together"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "At the center",
+    "paragraphs": [
+     "The Faewild is round, and the four Courts share it like a cake cut in four. Where the four countries touch, at the center, stands a tree so large that it is a country of its own. The fae call it the Grandfather, and they believe that every fae came from it.",
+     "The four borders run in from the edge of the Faewild and meet under its branches. That is where the Turn changes hands, four times a year, from one sovereign's bare hand to the next."
+    ]
+   },
+   {
+    "title": "Since the war",
+    "paragraphs": [
+     "The Grandfather has been barely alive since the Orka War. With the pearls gone, the four Courts work together to keep it alive. It is the one thing they truly agree on, and the only work in the Faewild that no Court has ever sent a bill for."
+    ]
+   }
+  ],
+  "related": [
+   "faewild",
+   "faewild-politics",
+   "fae",
+   "spring-court",
+   "summer-court",
+   "autumn-court",
+   "winter-court",
+   "unbound",
+   "veil"
+  ],
+  "aliases": [],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "complete"

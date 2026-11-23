@@ -13590,5 +13590,1493 @@
     "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvIHF1ZSBndWFyZGFuIGxvcyBhbmNpYW5vcy4qKiBBbGd1bmFzIHRyaWJ1cyBlbGZhcyBzYWNyaWZpY2FuIGEgdW5vIGRlIGxvcyBnZW1lbG9zLCBwYXJhIHZvbHZlciBhIHVuaXIgbGFzIGRvcyBhbG1hcyBlbiB1bmEuIE90cmFzIGRlamFuIGNyZWNlciBhIGxvcyBkb3MgeSBxdWUgY2FkYSB1bm8ganVudGUgdW5hIHZpZGEgcHJvcGlhIChxdWUgdW5vIGRvbWluZSBsYSBtYWdpYSwgcG9yIGVqZW1wbG8pLCB5IGRlc3B1w6lzIHNhY3JpZmljYW4gYSB1bm8sIHBhcmEgcXVlIGVsIG90cm8gc2UgdnVlbHZhIG3DoXMgZnVlcnRlIHkgc2UgcXVlZGUgY29uIGxvIHF1ZSBzYWLDrWEgZWwgZ2VtZWxvIG11ZXJ0by4iLCAiKipUYWLDui4qKiBUb2RvIGVsIHByb2Nlc28gZXMgdGFiw7ouIFNvbG8gbG9zIGFuY2lhbm9zIGNvbm9jZW4gZWwgcml0dWFsLCB5IGEgbG9zIGdlbWVsb3MgbG9zIGNyw61hbiBjcmV5ZW5kbyBxdWUgc29uIGNvbW8gdG9kb3MgbG9zIGRlbcOhcy4iLCAiKipUb2RhdsOtYSBhYmllcnRvLioqIE5vIHNlIGhhIGNvbnRhZG8gY8OzbW8gbGxlZ2Fyb24gSW1yYSB5IENsYWlyZSBhIGNvbXBhcnRpciB1biBzb2xvIGN1ZXJwby4iXX0="
    }
   ]
+ },
+ "vice-and-the-black-market": {
+  "title": "El Vicio y el Mercado Negro",
+  "subtitle": "Lo que toman las islas, y lo que vende la Resaca",
+  "summary": "Algunas drogas de las islas se venden en casas de té y perfumerías; las demás son de la Resaca, junto con todo lo demás que la ley prohíbe. Cómo se agarra un vicio, dónde se encuentra cada droga, y qué más cambia de manos a oscuras.",
+  "facts": [
+   [
+    "Drogas",
+    "trece: once de las islas, dos del continente"
+   ],
+   [
+    "Legales",
+    "Modorra, Mula, Terciopelo, Venn-shae"
+   ],
+   [
+    "Toleradas",
+    "Tikkatel"
+   ],
+   [
+    "Las demás",
+    "de la Resaca"
+   ],
+   [
+    "El Vicio",
+    "Tomado, Enganchado, Poseído"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las islas tienen sus drogas, como en todas partes. Algunas son legales: las casas de té de todos los muelles sirven [[Modorra|Drowse]], los capataces reparten [[Mula|Mule]], las perfumerías de [[Ventoro|Goldwind]] embotellan [[Terciopelo|Velvet]], y los puertos de buzos venden Venn-shae. La Universidad prohíbe el Tikkatel y nadie más le hace caso. Las demás son de la [[Resaca|Undertow]], con todo lo demás que la ley prohíbe.",
+     "Dos vienen del continente: el Vastren, la oblea de la Hueste de Hierro, y la [[Cara Quieta|Stillface]], el aceite de los espías de Velkhaven."
+    ]
+   },
+   {
+    "title": "El Vicio",
+    "paragraphs": [
+     "Para la mesa. Toda droga se agarra igual; la página de cada una dice qué hace su costo en cada paso."
+    ],
+    "list": [
+     "**Engancharse.** Cada dosis pide una salvación de Constitución contra la CD de enganche de la droga. Si fallas, el Vicio da un paso: **Tomado**, luego **Enganchado**, luego **Poseído**. El costo de cada droga dice qué te hace cada paso.",
+     "**La abstinencia.** Desde Enganchado, cada descanso largo que terminas sin una dosis te da 1 nivel de Agotamiento, y ningún descanso te lo quita mientras dure el Vicio.",
+     "**Dejarla.** Siete descansos largos seguidos sin consumir, y después una salvación contra la CD de enganche: si la pasas, el Vicio baja un paso. *Restablecimiento mayor* también lo baja un paso; *Restablecimiento menor* no le hace nada.",
+     "**Demasiado.** Una segunda dosis antes de que se acabe la primera pide una salvación contra la CD de enganche + 5. Si la fallas, mueres como mata esa droga."
+    ]
+   },
+   {
+    "title": "Las drogas",
+    "paragraphs": [],
+    "table": {
+     "caption": "Las drogas de las islas y del continente",
+     "headers": [
+      "Droga",
+      "Qué es",
+      "CD de enganche",
+      "Precio",
+      "Ley"
+     ],
+     "rows": [
+      [
+       "Destello",
+       "Rapé de Krysta",
+       "16",
+       "2 Mareas la pizca",
+       "prohibida"
+      ],
+      [
+       "Qelxaru",
+       "La Ira del Muerto",
+       "17",
+       "2 Anclas el hongo",
+       "prohibido"
+      ],
+      [
+       "Silencio Rojo",
+       "La hoja de los asesinos",
+       "12",
+       "1 Marea el atado de diez hojas",
+       "prohibida"
+      ],
+      [
+       "Venn-shae",
+       "La pasta de los buzos",
+       "13",
+       "5 Olas la dosis",
+       "legal"
+      ],
+      [
+       "Terciopelo",
+       "El jarabe de los salones",
+       "14",
+       "1 Ancla el frasco",
+       "legal, y paga impuesto"
+      ],
+      [
+       "Naxtumen",
+       "Fumar mañana",
+       "14",
+       "1 Marea la pipa en el sur",
+       "prohibida"
+      ],
+      [
+       "Modorra",
+       "El té de los pobres",
+       "15",
+       "2 Olas la taza",
+       "legal"
+      ],
+      [
+       "Mula",
+       "La raíz de los capataces",
+       "13",
+       "1 Ola la raíz",
+       "legal"
+      ],
+      [
+       "Sangre de Señor",
+       "Un brindis del Señor",
+       "15",
+       "20 Anclas la dosis",
+       "prohibida"
+      ],
+      [
+       "Damareth",
+       "El aceite de las casas viejas",
+       "14",
+       "50 Anclas el frasco",
+       "prohibido, como mercancía feérica"
+      ],
+      [
+       "Tikkatel",
+       "La Sal de Escribano",
+       "13",
+       "1 Marea la dosis",
+       "tolerada"
+      ],
+      [
+       "Vastren",
+       "La oblea de la Hueste de Hierro",
+       "15",
+       "3 Mareas la oblea en las islas",
+       "prohibida, como mercancía del Imperio"
+      ],
+      [
+       "Cara Quieta",
+       "El aceite de los espías",
+       "13",
+       "2 Anclas el frasco en las islas",
+       "en ninguna lista"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Encontrarla",
+    "paragraphs": [
+     "Tira la probabilidad del asentamiento: es la probabilidad de que alguien la esté vendiendo ahí esta semana. En casa, en la región o el oficio que dice la tabla, duplícala, hasta un máximo de 95 en 100; lejos de casa, divídela a la mitad.",
+     "Si hay, encontrar a quien vende una droga prohibida toma un día y una prueba de Carisma (Persuasión) o de Inteligencia (Investigación) contra la CD, con alguien que conozca la Resaca. Una droga legal no pide prueba: se le pregunta a cualquiera. Puertos negros son [[Buentiempo|Fairweather]], [[Puerto Negro|Black Harbor]], [[Cayo Hueco|Hollowkey]] y otros como ellos. El Damareth además pide un título: sin título, suma 5 a la CD."
+    ],
+    "table": {
+     "caption": "La probabilidad de que haya esta semana",
+     "headers": [
+      "Droga",
+      "Aldea",
+      "Pueblo",
+      "Ciudad",
+      "Puerto negro",
+      "En casa",
+      "CD del vendedor"
+     ],
+     "rows": [
+      [
+       "Modorra",
+       "40%",
+       "70%",
+       "95%",
+       "95%",
+       "En todas partes",
+       "ninguna"
+      ],
+      [
+       "Mula",
+       "30%",
+       "60%",
+       "80%",
+       "90%",
+       "El sur, y las minas",
+       "ninguna"
+      ],
+      [
+       "Venn-shae",
+       "10%",
+       "30%",
+       "50%",
+       "60%",
+       "Los puertos de buzos y el Surco de Perlas",
+       "ninguna"
+      ],
+      [
+       "Terciopelo",
+       "2%",
+       "15%",
+       "60%",
+       "50%",
+       "Ventoro y el Corazón",
+       "ninguna"
+      ],
+      [
+       "Destello",
+       "2%",
+       "10%",
+       "30%",
+       "60%",
+       "Los puertos del sur",
+       "12"
+      ],
+      [
+       "Tikkatel",
+       "1%",
+       "10%",
+       "40%",
+       "30%",
+       "Ventoro y la Universidad",
+       "12"
+      ],
+      [
+       "Silencio Rojo",
+       "1%",
+       "5%",
+       "20%",
+       "35%",
+       "El Corazón",
+       "15"
+      ],
+      [
+       "Naxtumen",
+       "1%",
+       "3%",
+       "10%",
+       "25%",
+       "El sur",
+       "15"
+      ],
+      [
+       "Vastren",
+       "0%",
+       "2%",
+       "5%",
+       "20%",
+       "Puerto Negro y Fuerte de Hierro",
+       "15"
+      ],
+      [
+       "Qelxaru",
+       "0%",
+       "1%",
+       "5%",
+       "15%",
+       "La selva del sur",
+       "18"
+      ],
+      [
+       "Sangre de Señor",
+       "0%",
+       "1%",
+       "5%",
+       "15%",
+       "La Subasta Callada",
+       "18"
+      ],
+      [
+       "Cara Quieta",
+       "0%",
+       "1%",
+       "5%",
+       "10%",
+       "Ningún lugar de las islas",
+       "18"
+      ],
+      [
+       "Damareth",
+       "0%",
+       "0%",
+       "5%",
+       "2%",
+       "Las casas viejas, en los Días Quietos",
+       "22"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Qué más vende la Resaca",
+    "paragraphs": [
+     "Además del vidrio oscuro, las armas, las falsificaciones y el resto de su comercio de siempre:"
+    ],
+    "list": [
+     "**Cuerpos frescos.** Tumbas saqueadas para los anatomistas, y para cualquiera que quiera muertos.",
+     "**Sellos falsos, y de muertos.** El Sello de un Cazador abre puertos, contratos y preguntas.",
+     "**Huevos de saurio,** sacados de Jakupur para romper su monopolio.",
+     "**Venenos:** los sapos y los saurios del sur, para el oficio del cuchillo.",
+     "**Contratos de cuchillo:** asesinatos por encargo, con tarifa fija.",
+     "**Contratos negros:** pactos escritos en las Palabras de Pacto, y deudas de alma que se compran y se venden.",
+     "**Páginas negras:** conjuros que el [[Registro Arcano|Arcane Registry]] prohibió, y libros de conjuros robados.",
+     "**Cartas selladas:** cartas náuticas de las [[Aguas Selladas|Sealed Waters]], y de las rutas que cierran los Cartógrafos.",
+     "**Hierro reescrito:** warforged robados y reescritos para obedecer. Es la esclavitud de los que fueron hechos y nunca nacieron.",
+     "**Coral estrellado:** coral con vetas de Krysta del [[Arrecife de las Estrellas Caídas|Starfall Reef]]. Venderlo rompe un pacto con el mar.",
+     "**Bienes del Imperio:** seda, armas y papeles de Korvan que entran pese a la guerra, a veces con un espía detrás.",
+     "**Partes de pueblos:** plumas de aethyn, chispas de galven, savia de liriath. Es tan sucio que media Resaca no lo toca.",
+     "**Nombres limpios:** actas de nacimiento y de muerte falsas, para comprar el nombre de un muerto y empezar de nuevo.",
+     "**Reliquias falsas:** huesos de santos, y el agua bendita de la [[Llama Blanca|White Flame]].",
+     "**Barcos lavados:** cascos robados, repintados y con papeles nuevos.",
+     "**Peleas de foso:** a muerte, o contra la progenie de los Señores Salvajes, con las apuestas."
+    ]
+   }
+  ],
+  "aliases": [
+   "mercado negro"
+  ],
+  "gloss": "Vice and the Black Market"
+ },
+ "glint": {
+  "title": "Destello",
+  "subtitle": "Rapé de Krysta: magia que se desborda y ojos que se vidrian",
+  "summary": "Polvo de Krysta cortado con hierbas del sur, que se esnifa. Desborda la magia de quien lanza conjuros, y vidria los ojos de quien la toma demasiado tiempo.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Un amanecer"
+   ],
+   [
+    "Se toma",
+    "Se esnifa del dorso de la mano"
+   ],
+   [
+    "De dónde viene",
+    "Laboratorios escondidos del sur"
+   ],
+   [
+    "CD de enganche",
+    "16"
+   ],
+   [
+    "Precio",
+    "2 Mareas la pizca; un vicio cuesta de 1 a 2 Anclas al mes"
+   ],
+   [
+    "Ley",
+    "Prohibida"
+   ],
+   [
+    "Se encuentra",
+    "aldea 2%, pueblo 10%, ciudad 30%, puerto negro 60%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Krysta raspada de los recortes del [[vidrio oscuro|dark glass]] y cortada con hierbas del sur en laboratorios escondidos. Se esnifa del dorso de la mano, y es la droga de la [[Resaca|Undertow]] por encima de todas.",
+     "Lanzadores de conjuros de los salones de [[Ventoro|Goldwind]], los rincones oscuros de la Universidad, los que no tienen registro y todos los muelles."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 1 hora."
+    ],
+    "list": [
+     "+1 a tus tiradas de ataque de conjuro y a la CD de tus conjuros.",
+     "Una vez, puedes lanzar un conjuro de nivel 1 a 3 sin gastar un espacio de conjuro.",
+     "Cada vez que lanzas un conjuro de nivel 1 o más, tira un d20. Con un 1, tira en la tabla de Oleada de Magia Salvaje."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (16) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** quieres el oro, y nada más brilla igual.",
+     "**Enganchado:** los ojos se vidrian: motas de cristal en el iris que nunca se van.",
+     "**Poseído:** la locura. Ves el mundo en oro y no te fías de nadie, con desventaja en salvaciones de Sabiduría. Al final, se arrancan los ojos para dejar de ver la luz."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "La sangre se cristaliza. El cuerpo se enciende en oro por dentro y el corazón se para. El cadáver sigue brillando, y hay quien lo raspa para revenderlo."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Polvo dorado bajo la nariz y cristal en los ojos."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Un catedrático de la Universidad lleva toda la temporada dando clases brillantes, y ya no parpadea."
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "Glint"
+ },
+ "qelxaru": {
+  "title": "Qelxaru",
+  "subtitle": "La Ira del Muerto: la furia que crece sobre los caídos",
+  "summary": "Un hongo rojo negro que solo crece en los cadáveres de guerreros. Quien lo come entra en furia sin sentir dolor, y al final le crece por dentro.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Ira del Muerto, o una cena de muerto"
+   ],
+   [
+    "Se toma",
+    "Se come crudo"
+   ],
+   [
+    "De dónde viene",
+    "Los cadáveres de guerreros, en los campos de batalla viejos de la selva"
+   ],
+   [
+    "CD de enganche",
+    "17"
+   ],
+   [
+    "Precio",
+    "2 Anclas el hongo"
+   ],
+   [
+    "Ley",
+    "Prohibido"
+   ],
+   [
+    "Se encuentra",
+    "aldea 0%, pueblo 1%, ciudad 5%, puerto negro 15%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Un hongo rojo negro que solo crece en los cadáveres de guerreros, en los campos de batalla viejos de la selva del sur. Se come crudo, y sabe a tierra de tumba. La gente de la selva dice que la ira de un guerrero no muere con él: le crece encima.",
+     "Su nombre es el de la selva, en qelanu, la lengua de la Confederación: *qel*, los de antes, y *xaru*, furia. Los guardianes de los cantos lo llaman maldición y no lo dicen en voz alta. En los muelles es la Ira del Muerto.",
+     "Mercenarios, luchadores de foso y guerreros que quieren una furia con la que no nacieron."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 1 minuto."
+    ],
+    "list": [
+     "Entras en Furia como un bárbaro: +2 al daño con ataques de Fuerza, resistencia al daño contundente, perforante y cortante, y ventaja en pruebas y salvaciones de Fuerza. Dura el minuto entero, y no puedes terminarla antes.",
+     "Si ya tienes Furia, el Qelxaru la aviva: tu bonificador de daño de Furia sube 2, y eres inmune a la condición de Asustado.",
+     "No sientes dolor. A 0 PG no caes: sigues peleando hasta que se acaba la Furia, pero cada golpe que recibes a 0 PG cuenta como una salvación de muerte fallada. Muchos mueren de pie sin saberlo.",
+     "Al inicio de cada uno de tus turnos, si no hay enemigos a tu alcance, haz una salvación de Sabiduría CD 13 o ataca a la criatura más cercana."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (17) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** la lengua se te llena de venas negras, y el aliento te huele a tierra mojada.",
+     "**Enganchado:** el hongo echa raíz en tu estómago. Comes poco, vomitas esporas negras, y tus PG máximos bajan 1d4 cada mes.",
+     "**Poseído:** cada vez que recibes daño, haz una salvación de Sabiduría CD 13 o entras en Furia sin dosis. Cuando mueres, el hongo brota de tu cuerpo: eres la próxima cosecha."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "El corazón revienta en plena furia."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Venas negras en la lengua, y un aliento de tumba abierta."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Los cosechadores siguen a las guerras. Se dice que hay señores de la guerra que les dan Qelxaru a sus guerreros antes de la batalla, para cosecharlos después."
+    ]
+   }
+  ],
+  "aliases": [
+   "Ira del Muerto"
+  ]
+ },
+ "red-hush": {
+  "title": "Silencio Rojo",
+  "subtitle": "La hoja de los asesinos: el mundo va lento, y la boca se pone roja",
+  "summary": "Una hoja de venas rojas que mascan los asesinos. El mundo se vuelve lento a su alrededor; les sangran las encías, se les pudren los dientes, y con el tiempo los ojos se les quedan rojos para siempre.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Una mascada callada"
+   ],
+   [
+    "Se toma",
+    "Se masca entera y se escupe roja"
+   ],
+   [
+    "De dónde viene",
+    "Un arbusto espinoso de los cerros secos del Corazón, y jardines amurallados"
+   ],
+   [
+    "CD de enganche",
+    "12"
+   ],
+   [
+    "Precio",
+    "1 Marea el atado de diez hojas"
+   ],
+   [
+    "Ley",
+    "Prohibida"
+   ],
+   [
+    "Se encuentra",
+    "aldea 1%, pueblo 5%, ciudad 20%, puerto negro 35%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "La hoja de un arbusto espinoso de venas rojas, que crece en los cerros secos del [[Corazón|Heartland]] y detrás de muros de jardín. Se masca entera y se escupe roja. Quien la masca ve el mundo ir más lento: un golpe que viene, una mano que va hacia un cuchillo, una palabra a punto de decirse.",
+     "Asesinos, guardaespaldas, duelistas y los abordadores de la Armada."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 1 hora."
+    ],
+    "list": [
+     "Ventaja en las tiradas de Iniciativa y en las salvaciones de Destreza.",
+     "Puedes tomar dos reacciones por ronda.",
+     "Desventaja en las pruebas de Carisma: todos hablan lento, y tú contestas tarde."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (12) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** sangran las encías, y la boca se pone roja.",
+     "**Enganchado:** los dientes se pudren y se caen.",
+     "**Poseído:** los ojos se quedan inyectados de sangre para siempre, y tienes desventaja en Persuasión con cualquiera que te vea la cara. Por eso usan máscara, y hablan poco."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "El corazón se vuelve tan lento como el mundo. Caes a 0 PG."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Una máscara, un silencio y escupitajos rojos en el piso. Donde hay escupitajo rojo, pasó un asesino."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Un guardaespaldas enmascarado que nunca habla y nunca llega tarde ha empezado a llegar temprano."
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "Red Hush"
+ },
+ "venn-shae": {
+  "title": "Venn-shae",
+  "subtitle": "La pasta de los buzos: una hora sin aire, y una vida sin el suficiente",
+  "summary": "Una pasta gris que los clanes de perla hacen de un pez de lo hondo. Con ella los buzos aguantan la respiración una hora; con el tiempo, no pueden respirar en tierra.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Un aliento largo"
+   ],
+   [
+    "Se toma",
+    "Una pasta, que se traga"
+   ],
+   [
+    "De dónde viene",
+    "La glándula de un pez pálido de aguas hondas, preparada por los clanes de perla del Surco de Perlas"
+   ],
+   [
+    "CD de enganche",
+    "13"
+   ],
+   [
+    "Precio",
+    "5 Olas la dosis"
+   ],
+   [
+    "Ley",
+    "Legal"
+   ],
+   [
+    "Se encuentra",
+    "aldea 10%, pueblo 30%, ciudad 50%, puerto negro 60%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Una pasta gris hecha de la glándula de un pez pálido de aguas hondas. La preparan los clanes de perla del [[Surco de Perlas|Pearl Groove]], y cantan su nombre en el canto del coral: *venn-shae*, el mar de adentro. Es legal, y la vende todo puerto de buzos.",
+     "Buzos de perlas y rescatadores de naufragios, sobre todo en las [[Fauces del Kraken|Kraken's Maw]]."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 4 horas."
+    ],
+    "list": [
+     "Puedes aguantar la respiración 1 hora.",
+     "Visión en la oscuridad de 60 pies bajo el agua.",
+     "Ventaja en las pruebas de Fuerza (Atletismo) para nadar."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (13) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** labios azules.",
+     "**Enganchado:** en tierra el aire no alcanza. Después de usar la acción de Carrera, haz una salvación de Constitución CD 12 o gana 1 nivel de Agotamiento.",
+     "**Poseído:** tienes que meterte bajo agua salada una vez al día o ganas 1 nivel de Agotamiento. Los buzos viejos duermen en tinas de agua de mar."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "Te ahogas en tierra firme."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Labios azules, y pliegues en el cuello como agallas."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Un buzo bajó al naufragio hace tres horas y todavía no sube."
+    ]
+   }
+  ],
+  "aliases": []
+ },
+ "velvet": {
+  "title": "Terciopelo",
+  "subtitle": "El jarabe de los salones: sin miedo, sin vergüenza, y un corazón que se cansa",
+  "summary": "Un jarabe morado oscuro para bailes, teatros y salones. Quita el miedo y la vergüenza, y gasta el corazón.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Una tarjeta de baile"
+   ],
+   [
+    "Se toma",
+    "Un jarabe, de un frasco del tamaño de un pulgar"
+   ],
+   [
+    "De dónde viene",
+    "Una orquídea de la selva, refinada en las perfumerías de Ventoro"
+   ],
+   [
+    "CD de enganche",
+    "14"
+   ],
+   [
+    "Precio",
+    "1 Ancla el frasco"
+   ],
+   [
+    "Ley",
+    "Legal, y paga impuesto"
+   ],
+   [
+    "Se encuentra",
+    "aldea 2%, pueblo 15%, ciudad 60%, puerto negro 50%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Un jarabe morado oscuro hecho de una orquídea de la selva y refinado en las perfumerías de [[Ventoro|Goldwind]], que se vende en frascos del tamaño de un pulgar. Es legal, y el Consejo le cobra impuesto.",
+     "Salones, teatros, los bailes de la temporada, debutantes nerviosas y cortesanos viejos."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 4 horas."
+    ],
+    "list": [
+     "Ventaja en las pruebas de Carisma.",
+     "Inmunidad a la condición de Asustado.",
+     "Desventaja en las pruebas de Sabiduría (Perspicacia) y en las salvaciones contra Hechizado: todos son encantadores.",
+     "Al terminar viene el bajón: 1 nivel de Agotamiento."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (14) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** la lengua morada, y una risa demasiado alta.",
+     "**Enganchado:** sin Terciopelo tienes desventaja en las pruebas de Carisma: nada tiene gracia.",
+     "**Poseído:** el corazón se cansa. Cuando caes a 0 PG, fallas automáticamente tu primera salvación de muerte."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "Mueres bailando, y sonriendo. En el Corazón, “murió de terciopelo” es como se dice escándalo en voz alta."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Una lengua morada, y una risa demasiado alta."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Una debutante murió en su primer baile. Su casa dice que fue una fiebre."
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "Velvet"
+ },
+ "naxtumen": {
+  "title": "Naxtumen",
+  "subtitle": "Fumar mañana: un vistazo verdadero de lo que viene, pagado con lo que fue",
+  "summary": "Un humo de sueño de la selva honda que muestra lo que viene. Los guardianes de los cantos lo queman una vez en la vida; la Resaca lo vende por pipa. Mañana cuesta ayer.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Mañana; tomarla es “fumar mañana”"
+   ],
+   [
+    "Se toma",
+    "Se fuma"
+   ],
+   [
+    "De dónde viene",
+    "Una hierba de sueño de la selva honda"
+   ],
+   [
+    "CD de enganche",
+    "14"
+   ],
+   [
+    "Precio",
+    "1 Marea la pipa en el sur; cinco veces más en otras partes"
+   ],
+   [
+    "Ley",
+    "Prohibida; venderla es delito según la ley de la Confederación"
+   ],
+   [
+    "Se encuentra",
+    "aldea 1%, pueblo 3%, ciudad 10%, puerto negro 25%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Una hierba de sueño de la selva honda, que se fuma. Los guardianes de los cantos la queman una vez en la vida, en un rito, y lo marcan en la piel. Venderla es delito según la ley de la Confederación, y la [[Resaca|Undertow]] la vende por pipa.",
+     "Su nombre es qelanu, la lengua de la Confederación: *naxem*, recordar, y *tumen*, olvidar. En los muelles es Mañana.",
+     "Apostadores, amantes y capitanes antes de zarpar."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 8 horas."
+    ],
+    "list": [
+     "Al fumarla, tira un d20 y guarda el número. Una vez mientras dure, puedes cambiar cualquier d20 que veas tirar por ese número.",
+     "El Máster te da un vistazo de lo que viene: vago, y verdadero."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (14) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Mañana cuesta ayer.** Cada vez que fallas una salvación contra la CD de enganche, pierdes un recuerdo, el que elija el Máster.",
+     "**Tomado y Enganchado:** las yemas de los dedos se ponen grises de humo, y la mirada está en otra parte.",
+     "**Poseído:** olvidas tu propio nombre, y hablas de lo que va a pasar como si ya hubiera pasado."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "Te quedas en el mañana: catatonia, y muerte de sed si nadie te cuida."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Yemas de los dedos grises, y una manera de hablar en pasado de cosas que no han pasado."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Un fumador le dice al grupo cómo va a morir uno de ellos."
+    ]
+   }
+  ],
+  "aliases": []
+ },
+ "drowse": {
+  "title": "Modorra",
+  "subtitle": "El té de los pobres: sin dolor, sueño hondo, y una respiración que se va haciendo lenta",
+  "summary": "Un té de musgo pálido de las cuevas de hielo. Los sanadores de los fortines lo usan para el dolor; los muelles lo toman para dormir. Es la muerte por droga más común de las islas.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Una taza de pálido"
+   ],
+   [
+    "Se toma",
+    "Se toma en té"
+   ],
+   [
+    "De dónde viene",
+    "Un musgo pálido de las cuevas de hielo de la Extensión, que los balleneros suben al norte"
+   ],
+   [
+    "CD de enganche",
+    "15"
+   ],
+   [
+    "Precio",
+    "2 Olas la taza"
+   ],
+   [
+    "Ley",
+    "Legal; se vende en las casas de té de todos los muelles"
+   ],
+   [
+    "Se encuentra",
+    "aldea 40%, pueblo 70%, ciudad 95%, puerto negro 95%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Un té hecho de un musgo pálido de las cuevas de hielo de la [[Extensión Helada|Icy Expanse]]. Los sanadores de los fortines lo usan para el dolor, y los balleneros lo suben al norte. Es legal, y todo muelle tiene una casa de té que lo vende.",
+     "Estibadores, veteranos del Frente, viudas y cualquiera a quien algo le duela. Es la droga de los pobres."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 8 horas."
+    ],
+    "list": [
+     "2d6 PG temporales.",
+     "Un descanso largo te toma 4 horas.",
+     "Tu velocidad baja 10 pies, y tienes desventaja en las pruebas de Sabiduría (Percepción) y en las tiradas de Iniciativa."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (15) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** la piel como de cera.",
+     "**Enganchado:** sin Modorra, un descanso largo no te quita Agotamiento.",
+     "**Poseído:** la respiración se hace lenta. Al terminar cada descanso largo, haz una salvación de Constitución CD 10 o gana 1 nivel de Agotamiento."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "Dejas de respirar dormido. Es la muerte por droga más común de las islas, y los muelles tienen cómo decirlo: “se lo llevó la modorra”."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "La piel como de cera, y la voz de quien se acaba de despertar."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Alguien está cortando la Modorra en Costalarga, y los muelles amanecen con dormidos que no despertaron."
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "Drowse"
+ },
+ "mule": {
+  "title": "Mula",
+  "subtitle": "La raíz de los capataces: sin sueño, sin descanso, y un cuerpo que sigue hasta que se para",
+  "summary": "Una raíz negra que los capataces de las minas de Vossreth y Karn Sorroch les dan a sus trabajadores no libres, para que trabajen sin dormir. “A las mulas se les da mula.”",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Un turno largo"
+   ],
+   [
+    "Se toma",
+    "Se masca, o se hierve"
+   ],
+   [
+    "De dónde viene",
+    "Una raíz negra del sur"
+   ],
+   [
+    "CD de enganche",
+    "13"
+   ],
+   [
+    "Precio",
+    "1 Ola la raíz; los capataces la dan “gratis” y la descuentan del jornal"
+   ],
+   [
+    "Ley",
+    "Legal"
+   ],
+   [
+    "Se encuentra",
+    "aldea 30%, pueblo 60%, ciudad 80%, puerto negro 90%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Una raíz negra del sur, que se masca o se hierve. Los capataces de las minas de Vossreth y Karn Sorroch se la dan a sus trabajadores no libres, para que el trabajo no se pare nunca. “A las mulas se les da mula”, dicen. Es legal.",
+     "Mineros, cuadrillas de convoy, mensajeros y soldados en marcha forzada."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 24 horas."
+    ],
+    "list": [
+     "No necesitas dormir.",
+     "El Agotamiento por marcha forzada o por no dormir no te afecta.",
+     "Ventaja en las salvaciones de Constitución.",
+     "Cuando se acaba, ganas 2 niveles de Agotamiento de golpe."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (13) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** nunca te sientas.",
+     "**Enganchado:** te tiemblan las manos. Desventaja en las pruebas de Destreza (Juego de Manos) y con herramientas finas.",
+     "**Poseído:** sin Mula, tu velocidad baja a la mitad."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "El corazón revienta a mitad del turno."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Alguien que nunca se sienta, y a quien le tiemblan las manos."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Los Rompecadenas queman los cajones de Mula donde los encuentran, y un trabajador que liberaron no puede dejar de trabajar."
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "Mule"
+ },
+ "lordsblood": {
+  "title": "Sangre de Señor",
+  "subtitle": "Un brindis del Señor: los dones de la bestia, y sus marcas",
+  "summary": "Médula en polvo de la progenie de los Señores Salvajes, tomada en vino. Da los sentidos y las garras de la bestia, deja sus marcas, y en la Marea Rey el Señor llama.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Un brindis del Señor"
+   ],
+   [
+    "Se toma",
+    "En polvo, disuelta en vino"
+   ],
+   [
+    "De dónde viene",
+    "La médula de la progenie de los Señores Salvajes, que cazan los Desolladores"
+   ],
+   [
+    "CD de enganche",
+    "15"
+   ],
+   [
+    "Precio",
+    "20 Anclas la dosis"
+   ],
+   [
+    "Ley",
+    "Prohibida; los Cazadores persiguen a quien la vende"
+   ],
+   [
+    "Se encuentra",
+    "aldea 0%, pueblo 1%, ciudad 5%, puerto negro 15%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "La médula de la progenie de los [[Señores Salvajes|Savage Lords]], molida y disuelta en vino. Los [[Desolladores|Flensers]] cazan la progenie para sacarla, y los alquimistas la compran en la [[Subasta Callada|Quiet Auction]] junto con el resto del hueso de señor.",
+     "Nobles que quieren sentirse depredadores, luchadores de foso y desesperados."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 1 hora."
+    ],
+    "list": [
+     "Visión en la oscuridad de 60 pies.",
+     "Ventaja en las pruebas de Sabiduría (Percepción) que dependen del olfato o del oído.",
+     "Garras o colmillos: un arma natural que hace 1d6 + tu modificador de Fuerza.",
+     "Tu velocidad aumenta 10 pies."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (15) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Cada paso deja una marca de la bestia de ese Señor, para siempre.**",
+     "**Tomado:** los ojos de la bestia.",
+     "**Enganchado:** el pelo, las escamas o las plumas de la bestia.",
+     "**Poseído:** los dientes y el hambre de la bestia. El Señor de ese linaje te siente, y en la [[Marea Rey|King Tide]] llama: haz una salvación de Sabiduría CD 15 o vas."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "Te lleva la bestia: te conviertes en una bestia del linaje de ese Señor, para siempre. El personaje se pierde."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Unos ojos que ya no son del todo de persona."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "En plena Marea Rey, un noble se arranca la ropa y corre hacia la selva."
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "Lordsblood"
+ },
+ "damareth": {
+  "title": "Damareth",
+  "subtitle": "El aceite de las casas viejas: deseo donde no lo había, y una fiebre que se queda",
+  "summary": "Un aceite feérico que las casas viejas compran en los Días Quietos. Enciende el deseo y el aguante: un heredero es un contrato, y el damareth lo firma.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Una noche de bodas"
+   ],
+   [
+    "Se toma",
+    "Unas gotas en las muñecas y los labios, o una en el vino"
+   ],
+   [
+    "De dónde viene",
+    "Las semillas de una flor del Verano que solo abre donde el Velo es delgado"
+   ],
+   [
+    "CD de enganche",
+    "14"
+   ],
+   [
+    "Precio",
+    "50 Anclas el frasco"
+   ],
+   [
+    "Ley",
+    "Prohibido, como mercancía feérica; nadie arresta a un duque"
+   ],
+   [
+    "Se encuentra",
+    "aldea 0%, pueblo 0%, ciudad 5%, puerto negro 2%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Un aceite rojo oscuro prensado de las semillas de una flor del Verano que solo abre donde el [[Velo|Veil]] es delgado. Unas gotas van en las muñecas y los labios, o una va en el vino. Huele a mediodía de verano.",
+     "Las casas viejas lo nombran en Imperial del Éxodo, que guardan para lo que los sirvientes no deben entender: *damareth*, la noche de bodas. La [[Concordia|Concord]] lo prohíbe junto con el resto de la mercancía feérica, y nadie arresta a un duque.",
+     "Las casas viejas. Un heredero es un contrato, y el damareth lo firma: hace que los matrimonios por contrato den hijos. En las cortes de temporada también sirve a los amantes."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura una noche."
+    ],
+    "list": [
+     "Enciende el deseo, y el aguante.",
+     "Ignoras los efectos de 1 nivel de Agotamiento, y tienes ventaja en las salvaciones de Constitución.",
+     "Desventaja en las pruebas de Sabiduría (Perspicacia) y en las salvaciones contra Hechizado: todo parece buena idea."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (14) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** las mejillas siguen encendidas al día siguiente.",
+     "**Enganchado:** sin damareth no hay deseo.",
+     "**Poseído:** la fiebre. Con cada dosis, haz una salvación de Constitución CD 12 o quedas Envenenado durante 1d4 días."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "Una fiebre que te consume en una sola noche. “Murió en su noche de bodas”, y la casa lo calla."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Olor a mediodía de verano, y mejillas que arden a la mañana siguiente."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Un matrimonio por contrato une a dos casas rivales, y alguien cambió el frasco del novio."
+    ]
+   }
+  ],
+  "aliases": []
+ },
+ "tikkatel": {
+  "title": "Tikkatel",
+  "subtitle": "La Sal de Escribano: una mente afilada por una noche, y una cabeza que no deja de contar",
+  "summary": "Cristales blancos de un taller gnomo, que se lamen del dorso de la mano. Los estudiantes la toman en los exámenes y los escribanos al cierre del año.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Sal de Escribano, o un libro tarde"
+   ],
+   [
+    "Se toma",
+    "Se lame del dorso de la mano"
+   ],
+   [
+    "De dónde viene",
+    "Una fórmula de taller gnomo"
+   ],
+   [
+    "CD de enganche",
+    "13"
+   ],
+   [
+    "Precio",
+    "1 Marea la dosis"
+   ],
+   [
+    "Ley",
+    "Tolerada: la Universidad la prohíbe, y la Casa de los Tesoreros hace como que no la ve"
+   ],
+   [
+    "Se encuentra",
+    "aldea 1%, pueblo 10%, ciudad 40%, puerto negro 30%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Cristales blancos hechos con una fórmula de taller gnomo, que se lamen del dorso de la mano. Saben a tinta y a metal. Los gnomos la nombraron con su propio dicho, *tikka tel*, hazlo mejor. Los escribanos le dicen Sal de Escribano.",
+     "Estudiantes en época de exámenes, los escribanos de la [[Casa de los Tesoreros|Reckoners' Hall]] al cierre del año, [[Cartógrafos|Chartwrights]] e inventores que no duermen."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 8 horas."
+    ],
+    "list": [
+     "Ventaja en las pruebas de Inteligencia y en las pruebas con herramientas.",
+     "Esa noche no necesitas dormir.",
+     "Desventaja en las pruebas de Carisma: hablas demasiado rápido."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (13) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** un párpado que salta.",
+     "**Enganchado:** sangras por la nariz, y tienes desventaja en las salvaciones para mantener la concentración sin una dosis.",
+     "**Poseído:** no puedes dejar de contar: escalones, monedas, palabras."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "Se funde la cabeza. Caes a 0 PG, y si sobrevives, tienes desventaja en las pruebas de Inteligencia hasta un *Restablecimiento mayor*."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Tinta en el dorso de la mano, y la nariz roja."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Al cierre del año aparece un escribano muerto sobre unas cuentas que cuadran demasiado bien."
+    ]
+   }
+  ],
+  "aliases": [
+   "Sal de Escribano"
+  ]
+ },
+ "vastren": {
+  "title": "Vastren",
+  "subtitle": "La oblea de la Hueste de Hierro: sin miedo, y sin manera de decir que no",
+  "summary": "Una oblea pálida sellada con las letras del Sol, que la Hueste de Hierro recibe cada amanecer antes de la batalla. Quita el miedo, y con el tiempo quita la palabra no. Llega a las islas con los desertores.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "La Oblea"
+   ],
+   [
+    "Se toma",
+    "Una oblea, que se come al amanecer"
+   ],
+   [
+    "De dónde viene",
+    "La fe del Sol, en el Imperio Korvan, para la Hueste de Hierro"
+   ],
+   [
+    "CD de enganche",
+    "15"
+   ],
+   [
+    "Precio",
+    "3 Mareas la oblea en las islas"
+   ],
+   [
+    "Ley",
+    "Prohibida, como mercancía del Imperio"
+   ],
+   [
+    "Se encuentra",
+    "aldea 0%, pueblo 2%, ciudad 5%, puerto negro 20%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Una oblea pálida sellada con las letras del Sol, horneada por la fe del Sol y repartida a la Hueste de Hierro cada amanecer antes de la batalla. En Imperial es *vastren*, la hueste, la misma palabra que la del ejército: un trono, un sol, una hueste.",
+     "En las islas es mercancía del Imperio, y está prohibida. Cruza el estrecho con los desertores que no pudieron dejarla atrás.",
+     "La Hueste de Hierro; en las islas, desertores, agentes del Imperio y curiosos."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 8 horas."
+    ],
+    "list": [
+     "Inmunidad a la condición de Asustado.",
+     "Ventaja en las salvaciones contra Hechizado, salvo contra tus propios oficiales.",
+     "Mientras haya un aliado a 5 pies o menos de ti, tienes +1 a la Clase de Armadura: mantienes la línea."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (15) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** despiertas en cada amanecer, y te vuelves hacia el sol.",
+     "**Enganchado:** cuando alguien a quien tomas por tu superior te da una orden, necesitas una salvación de Sabiduría CD 15 para negarte. Sin oblea, tienes desventaja en las salvaciones contra Asustado.",
+     "**Poseído:** no puedes negarte a ninguna orden de un superior."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "Ves el Sol. Quedas Cegado para siempre, y marchas hacia la luz hasta que se te para el corazón, a menos que alguien te sujete durante un día."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Una ampolla en la lengua con forma de sol, y un saludo al amanecer que la mano hace sola."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Un desertor de la Hueste de Hierro lleva un año limpio. Alguien ha empezado a dejarle una oblea en la puerta, cada amanecer."
+    ]
+   }
+  ],
+  "aliases": []
+ },
+ "stillface": {
+  "title": "Cara Quieta",
+  "subtitle": "El aceite de los espías: una cara que no delata nada, y que con el tiempo no siente nada",
+  "summary": "Un aceite transparente de Velkhaven, la ciudad de los espías del continente. Tres gotas, y la cara y el cuerpo no delatan nada. Con el tiempo, no dan nada en absoluto.",
+  "facts": [
+   [
+    "Nombre en la calle",
+    "Una mano callada"
+   ],
+   [
+    "Se toma",
+    "Tres gotas de aceite en la lengua"
+   ],
+   [
+    "De dónde viene",
+    "Los boticarios de Velkhaven, la ciudad de los espías, que no dicen qué lleva"
+   ],
+   [
+    "CD de enganche",
+    "13"
+   ],
+   [
+    "Precio",
+    "2 Anclas el frasco en las islas"
+   ],
+   [
+    "Ley",
+    "En ninguna lista: el Consejo nunca ha oído hablar de ella"
+   ],
+   [
+    "Se encuentra",
+    "aldea 0%, pueblo 1%, ciudad 5%, puerto negro 10%"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Un aceite transparente de Velkhaven, la ciudad sobre pilotes donde los espías de los dos lados de la guerra se reúnen y beben juntos. Van tres gotas en la lengua. Los boticarios de Velkhaven no dicen qué lleva. No está en ninguna lista de las islas, porque el Consejo nunca ha oído hablar de él.",
+     "Espías de los dos lados, los corredores de secretos, jugadores de cartas y mentirosos de calidad."
+    ]
+   },
+   {
+    "title": "Qué hace",
+    "paragraphs": [
+     "Para la mesa. Dura 4 horas."
+    ],
+    "list": [
+     "Tu cara y tu cuerpo no delatan nada: ventaja en las pruebas de Carisma (Engaño).",
+     "Las pruebas de Sabiduría (Perspicacia) para leerte tienen desventaja."
+    ]
+   },
+   {
+    "title": "El costo",
+    "paragraphs": [
+     "Cada salvación fallada contra la CD de enganche (13) lleva el Vicio un paso más allá: Tomado, Enganchado, Poseído (El Vicio y el Mercado Negro)."
+    ],
+    "list": [
+     "**Tomado:** labios dormidos.",
+     "**Enganchado:** la cara se queda quieta también sin ella: desventaja en las pruebas de Carisma (Persuasión) y (Interpretación).",
+     "**Poseído:** la quietud se va hacia adentro. Tampoco puedes leer a los demás, con desventaja en las pruebas de Sabiduría (Perspicacia), y no puedes llorar."
+    ]
+   },
+   {
+    "title": "Demasiado",
+    "paragraphs": [
+     "La quietud llega al corazón."
+    ]
+   },
+   {
+    "title": "Cómo se nota",
+    "paragraphs": [
+     "Una cara como de retrato: sonríe con la boca, y nunca con los ojos."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [
+     "Dos espías se sientan a la misma mesa, los dos con Cara Quieta, y el grupo tiene que saber cuál miente."
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "Stillface"
+ },
+ "the-grandfather": {
+  "title": "El Abuelo",
+  "subtitle": "El árbol en el corazón del Feérico",
+  "summary": "Un árbol en el centro del Feérico, donde se tocan los países de las cuatro Cortes y el Giro cambia de manos. Los feéricos creen que todos vinieron de él. Está apenas vivo desde la Guerra Orka, y mantenerlo vivo es lo único en lo que las cuatro Cortes están de acuerdo.",
+  "facts": [
+   [
+    "Dónde",
+    "el centro del Feérico, donde se juntan las cuatro fronteras"
+   ],
+   [
+    "Qué pasa ahí",
+    "el Giro cambia de manos"
+   ],
+   [
+    "Se cree que es",
+    "de donde vinieron todos los feéricos"
+   ],
+   [
+    "Desde la guerra",
+    "apenas vivo"
+   ],
+   [
+    "Lo mantienen vivo",
+    "las cuatro Cortes, juntas"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "En el centro",
+    "paragraphs": [
+     "El [[Feérico|Faewild]] es redondo, y las cuatro Cortes lo comparten como un pastel partido en cuatro. Donde se tocan los cuatro países, en el centro, hay un árbol tan grande que es un país en sí mismo. Los feéricos lo llaman el Abuelo, y creen que todos los feéricos vinieron de él.",
+     "Las cuatro fronteras entran desde el borde del Feérico y se juntan bajo sus ramas. Ahí cambia de manos el [[Giro|Turn]], cuatro veces al año, de la mano desnuda de un soberano a la del siguiente."
+    ]
+   },
+   {
+    "title": "Desde la guerra",
+    "paragraphs": [
+     "El Abuelo está apenas vivo desde la [[Guerra Orka|Orka War]]. Sin las perlas, las cuatro Cortes trabajan juntas para mantenerlo vivo. Es lo único en lo que de verdad están de acuerdo, y el único trabajo del Feérico por el que ninguna Corte ha pasado nunca la cuenta."
+    ]
+   }
+  ],
+  "aliases": [],
+  "gloss": "The Grandfather"
  }
 }
