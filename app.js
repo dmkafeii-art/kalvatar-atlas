@@ -255,6 +255,7 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "imra-and-claire": ["folk", "Imra and Claire aboard The Last Word.", "Imra y Claire a bordo de The Last Word.", "imra-and-claire-approved-v1", {"width": 1536, "height": 1024}],
  "morgha-wall-holder": ["folk", "Morgha Wall-Holder leans against cargo crates on a wharf.", "Morgha Wall-Holder se apoya en unas cajas de carga en el muelle.", "morgha-wall-holder-approved-v1", {"width": 1024, "height": 1536}],
  "ottilie-veldane": ["folk", "Ottilie Veldane receives visitors with a sealed letter in her lap.", "Ottilie Veldane recibe visitas con una carta sellada en el regazo.", "ottilie-veldane-approved-v1", {"width": 1024, "height": 1536}],
  "mother-kess": ["folk", "Mother Kess pauses over tea beside a harbor window.", "Mother Kess hace una pausa para tomar té junto a una ventana con vista al puerto.", "mother-kess-approved-v1", {"width": 1024, "height": 1536}],
