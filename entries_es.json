@@ -16032,7 +16032,7 @@
      "**Segundas Manos,** donde todo fue de otro alguna vez, y algunas cosas todavía lo son.",
      "**La Fila de las Teteras,** los puestos de comida caliente: guiso de pescado, masa frita y lo que esté más barato ese día.",
      "**El cajón.** Cada [[Monedía|Coinsday]], mientras las Doce Banderas cantan el precio de tablero en el Piso de la Aguja, una pescadera subida a un cajón volteado canta el precio de todo en el Mercado de las Gaviotas. El Común le cree más a ella.",
-     "**La Descalza.** Cuando el cajón ha cantado el último precio, Seyrana la Descalza baila sobre los adoquines de la Fila del Pescado, y medio Común deja de trabajar para mirarla."
+     "**Seryn Pisabrasas.** Cuando el cajón ha cantado el último precio, Seryn Pisabrasas baila descalza sobre los adoquines de la Fila del Pescado, y medio Común deja de trabajar para mirarla. Las noches de fiesta baila sobre las brasas."
     ]
    },
    {
@@ -17080,14 +17080,14 @@
   ],
   "gloss": "The Coinsday Reading"
  },
- "seyrana": {
-  "title": "Seyrana la Descalza",
+ "seryn": {
+  "title": "Seryn Pisabrasas",
   "subtitle": "La bailarina del Mercado de las Gaviotas, que no se arrodilla ante nadie",
-  "summary": "La bailarina más famosa de Ventoro: una mujer de la gente azul de las islas secas que baila descalza sobre los adoquines del Mercado de las Gaviotas de día y en los salones de las grandes casas de noche, y que nunca se ha arrodillado ante nadie.",
+  "summary": "La bailarina más famosa de Ventoro: una mujer de la gente azul de las islas secas que baila descalza sobre los adoquines del Mercado de las Gaviotas de día, sobre sus brasas las noches de fiesta y en los salones de las grandes casas, y que nunca se ha arrodillado ante nadie.",
   "facts": [
    [
     "Conocida como",
-    "la Descalza; en los salones, Seyrana de la Mano Azul"
+    "Pisabrasas; en los salones, Seryn de la Mano Azul"
    ],
    [
     "Pueblo",
@@ -17111,7 +17111,7 @@
    ],
    [
     "Pies",
-    "descalzos, siempre"
+    "descalzos, siempre, y sin una marca"
    ],
    [
     "Toca",
@@ -17126,8 +17126,8 @@
    {
     "title": "Panorama",
     "paragraphs": [
-     "Seyrana es la bailarina más famosa de [[Ventoro|Goldwind]]. Es de la gente azul, los nómadas de las islas secas, y llegó al norte en un barco de las Velas Libres hace unos años, sin nada más que un pandero y el latón de su brazo. Los Monedías por la tarde baila sobre los adoquines del [[Mercado de las Gaviotas|Gullmarket]]; las noches de cometas baila en las tabernas de la [[Colina de las Cometas|Kitehill]]; y en la temporada social las grandes casas le pagan para que baile en sus salones, y le pagan más para que se quede a cenar.",
-     "Es cálida con la gente, rápida para la broma y generosa con los niños del Mercado. Con los señores es cortés, y nada más. El [[Común|Commons]] la llama la Descalza, porque nadie en Ventoro la ha visto nunca con zapatos."
+     "Seryn es la bailarina más famosa de [[Ventoro|Goldwind]]. Es de la gente azul, los nómadas de las islas secas, y llegó al norte en un barco de las Velas Libres hace unos años, sin nada más que un pandero y el latón de su brazo. Los Monedías por la tarde baila sobre los adoquines del [[Mercado de las Gaviotas|Gullmarket]]; las noches de cometas baila en las tabernas de la [[Colina de las Cometas|Kitehill]]; y en la temporada social las grandes casas le pagan para que baile en sus salones, y le pagan más para que se quede a cenar.",
+     "Es cálida con la gente, rápida para la broma y generosa con los niños del Mercado. Con los señores es cortés, y nada más. El [[Común|Commons]] la llama Pisabrasas, por la danza de las brasas. Nadie en Ventoro la ha visto nunca con zapatos."
     ]
    },
    {
@@ -17140,7 +17140,7 @@
      "**Para bailar:** un chal carmesí labrado con triángulos blancos, anudado en un hombro; un top corto cruzado; una falda larga de índigo abierta en la cadera; y una faja con monedas viejas que suenan cuando gira.",
      "**En el brazo izquierdo,** brazaletes de latón le suben de la muñeca al codo: la gente azul lleva su riqueza en el brazo, y ella dice que puede contar la suya mientras baila.",
      "**En el tobillo derecho,** una tobillera de discos de latón. **En el izquierdo,** un solo eslabón de hierro viejo, roto y abierto. Dice que es de la suerte. Quienes conocen las señales de Sevrin dicen que no es suerte.",
-     "**Sus pies** siempre están descalzos, sobre piedra, bajo la lluvia y, una vez, famosamente, en la nieve."
+     "**Sus pies** siempre están descalzos, sobre piedra, bajo la lluvia, en la nieve y sobre brasas, y siempre están suaves y limpios, sin un callo ni una cicatriz, como los pies de alguien que nunca en su vida anduvo descalza."
     ]
    },
    {
@@ -17148,6 +17148,13 @@
     "paragraphs": [
      "Baila al son de su propio pandero, rodeado de discos de latón, o de cualquier violinista que encuentre el Mercado. Sus danzas son rápidas, orgullosas y llenas de giros, y las monedas de su faja llevan el compás.",
      "Todas sus danzas terminan igual: se detiene en seco, se para bien derecha, cruza las muñecas sobre la cabeza y las separa de golpe. El Mercado grita “¡Abierto!” y le tira sus Olas. Casi todos creen que es un floreo. Los que alguna vez estuvieron atados saben que es la oración de pie de Sevrin, y la rotura de un collar."
+    ]
+   },
+   {
+    "title": "La danza de las brasas",
+    "paragraphs": [
+     "Las noches de fiesta, el Mercado de las Gaviotas esparce las brasas de los braseros de las pescaderas por la Fila del Pescado, y Seryn baila sobre ellas. Sale de las brasas como entró: con los pies suaves, limpios y sin una marca. Eso le ganó el nombre de Pisabrasas en su primera temporada, y llena el Mercado cada fiesta desde entonces.",
+     "El Común discute sin fin: un truco, un ungüento, un trabajo de los Sin Anillo, un pacto. Los pocos del público que le rezan a Sevrin no dicen nada, y miran el hierro de su tobillo."
     ]
    },
    {
@@ -17160,7 +17167,7 @@
     "title": "Dónde encontrarla",
     "paragraphs": [],
     "list": [
-     "**El Mercado de las Gaviotas,** los Monedías por la tarde, cuando el cajón ha cantado el último precio.",
+     "**El Mercado de las Gaviotas,** los Monedías por la tarde, cuando el cajón ha cantado el último precio; y las noches de fiesta, sobre las brasas.",
      "**La Colina de las Cometas,** las noches de cometas, en la taberna donde estén bebiendo los ganadores.",
      "**Lo de Merrow,** la casa de café frente a la [[Casa de los Tesoreros|Reckoners' Hall]], tarde la víspera de cada Monedía, donde baila para los corredores de tiza y los escribientes.",
      "**Los salones de los anillos,** en la temporada social, si te invitan a ti, y a ella."
@@ -17170,15 +17177,17 @@
     "title": "Ganchos de aventura",
     "paragraphs": [],
     "list": [
-     "Alguien empezó a contar en el Mercado que Seyrana se robó el latón de su brazo. Las pescaderas quieren saber quién antes de que la historia se pegue.",
+     "Alguien empezó a contar en el Mercado que Seryn se robó el latón de su brazo. Las pescaderas quieren saber quién antes de que la historia se pegue.",
      "Un hombre de mandato de la [[Compañía Casacarta|Charterhouse Company]] la ha visto bailar tres Monedías seguidos, y anota en una libretita cada vez que termina.",
+     "Un mago de seto de los Sin Anillo jura que la danza de las brasas es un trabajo mágico y quiere probarlo. Le pide al grupo que lo acerque lo bastante a sus pies para averiguarlo.",
      "Contrata al grupo para acompañar de noche a un “primo” desde los [[Canales|Canals]] hasta un amarradero de las Velas Libres. No pregunta nada sobre sus armas, y no responde nada sobre el primo."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Nunca se ha puesto zapatos en Ventoro, ni siquiera con nieve, y nunca le han sangrado los pies.” (una pescadera del Mercado de las Gaviotas)",
+     "“Ha bailado sobre carbones, en la nieve, sobre los vidrios rotos detrás de lo de Merrow, y tiene los pies más suaves que una dama.” (una pescadera del Mercado de las Gaviotas)",
+     "“No es ningún truco. Sevrin le bendijo esos pies, y él no bendice a cualquiera.” (una liberta que vende cuerda en las Cordelerías)",
      "“El hijo de un señor le ofreció cien Anclas por el hierro del tobillo. Ella se rió, y él no ha vuelto a asomarse por la Colina de las Cometas.” (un mozo de un taller de cometas)",
      "“El azul de las manos nunca se les quita. La gente azul dice que solo se destiñe cuando dejas de andar.” (un tintorero de Puerto Plata)",
      "“Baila en lo de Merrow la noche antes de cada Monedía, y los corredores de tiza le dan propina como si les leyera la suerte.” (un mesero de la Taza Negra)"
@@ -17187,9 +17196,9 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkRpcmlnZSBlbCBDYW5kYWRvIEFiaWVydG8sKiogbGEgY8OpbHVsYSBkZSBsb3MgUm9tcGVjYWRlbmFzIGVuIFZlbnRvcm86IHVuYSBkb2NlbmEgZGUgbWFub3MgcXVlIGhhY2VuIGVuIGxhIGNhcGl0YWwgbG8gcXVlIGxvcyBSb21wZWNhZGVuYXMgaGFjZW4gZW4gZWwgc3VyIGNvbiBmdWVnby4gQ29tcHJhbiBwYXBlbCBkZSBzZXJ2aWR1bWJyZSB5IGxvIHF1ZW1hbiwgZmFsc2lmaWNhbiBub21icmVzIGxpbXBpb3MgcGFyYSBsb3MgcXVlIGVzY2FwYW4gYWwgbm9ydGUsIGxsZXZhbiBsYSBsaXN0YSBkZSBsb3MgUm9tcGVjYWRlbmFzIGNvbiB0b2RvcyBsb3MgcXVlIGNvbXByYW4gZ2VudGUgZGUgcGFwZWwgZW4gVmVudG9ybywgeSBwYWdhbiBsYSBww7Nsdm9yYS4gU3UgbWFyY2EgZXMgbGEgZGUgU2V2cmluOiB1biBjYW5kYWRvIGRlamFkbyByb3RvIHkgYWJpZXJ0by4iLCAiKipEZSBkw7NuZGUgc2FsZSBlbCBkaW5lcm8uKiogRWwgQ2FiaWxkbyBkZSBUZXNvcmVyb3Mgc2UgcmXDum5lIGxhIG5vY2hlIGFudGVzIGRlIGNhZGEgTGVjdHVyYSBkZSBNb25lZMOtYSB5IGFjdWVyZGEgbG9zIG7Dum1lcm9zIHF1ZSB2YSBhIGxlZXIuIFVubyBkZSBsb3MgY29udGFibGVzIHF1ZSBsb3MgcGFzYSBlbiBsaW1waW8gZXMgc3V5bzogc3UgbWFkcmUgbXVyacOzIGVuIHVuIHB1ZWJsbyBkZSBsYSBDb21wYcOxw61hLiBMZSBsbGV2YSBsb3MgbsO6bWVyb3MgYSBsbyBkZSBNZXJyb3csIGRvbmRlIGVsbGEgZXN0w6EgYmFpbGFuZG8sIHkgYW50ZXMgZGUgbGEgY2FtcGFuYSBkZWwgbWVkaW9kw61hIHN1IGNvcnJlZG9yIGRlIHRpemEgZGUgbGEgVGF6YSBOZWdyYSBjb21wcmEgbGFzIHBhcnRlcyBkZSBjYW1wYW5hLiBFbCBjb3JyZWRvciBxdWUgbnVuY2Egc2UgaGEgZXF1aXZvY2FkbyBlcyBkZWwgQ2FuZGFkbyBBYmllcnRvLCB5IGNhZGEgQW5jbGEgcXVlIGdhbmEgc2UgdmEgYWwgc3VyLiIsICIqKlF1acOpbiBlcmEuKiogTmFjacOzIGVuIGxhcyBpc2xhcyBzZWNhcywgZGUgbGEgTWFubyBBenVsLCB1biBjbGFuIGRlIGxhIGdlbnRlIGF6dWwgcXVlIGxsZXZhYmEgamFkZSBkZSBWZXJkYXlhIGVuIGNhcmF2YW5hIHkgZW4gY2Fub2EgZGVzZGUgYW50ZXMgZGUgcXVlIG5hZGllIHJlY3VlcmRlLiBMYSBjb25jZXNpw7NuIGRlIGphZGUgZGUgbGEgQ29tcGHDscOtYSBjZXJyw7MgZWwgY2FtaW5vLCBsYXMgZGV1ZGFzIGRlbCBjbGFuIHNlIGNvbXByYXJvbiwgeSBsYXMgZGV1ZGFzIHNlIHJldmVuZGllcm9uIGNvbW8gc2VydmlkdW1icmUuIEEgbG9zIG9uY2UgYcOxb3MgU2V5cmFuYSBlcmEgcGFwZWwgZW4gdW4gcHVlYmxvIGRlIGxhIENvbXBhw7HDrWEgZW4gbGFzIGFmdWVyYXMgZGUgUHVlcnRvIFN1ciwgZG9uZGUgbG9zIGNhcGF0YWNlcyBsZXMgcXVpdGFiYW4gbG9zIHphcGF0b3MgYSBsb3MgbmnDsW9zIHBhcmEgcXVlIG5vIHB1ZGllcmFuIGNvcnJlciBzb2JyZSBlbCByYXN0cm9qbyBkZSBsYSBjYcOxYS4gQSBsb3MgcXVpbmNlIGNvcnJpw7MgZGUgdG9kb3MgbW9kb3MsIGRlc2NhbHphLCB5IGxhIGNhbm9hIGRlIGxhIEhlcm1hbmEgSHVtbyBsYSBsbGV2w7MgcsOtbyBhcnJpYmEuIE5vIHNlIGhhIHZ1ZWx0byBhIHBvbmVyIHphcGF0b3MuIEVsIGhpZXJybyBkZSBzdSB0b2JpbGxvIGVzIHVuIGVzbGFiw7NuIGRlIGxhIGNhZGVuYSBxdWUgY2VycmFiYSBkZSBub2NoZSBsYSBiYXJyYWNhIGRlIGxvcyBuacOxb3M6IGxvIHJvbXBpw7MgbGEgbm9jaGUgcXVlIGh1ecOzLiIsICIqKkxvIHF1ZSB0aWVuZS4qKiBFbCBDYW5kYWRvIEFiaWVydG8gdGllbmUgdW5hIGNvcGlhIGRlbCB2ZXJkYWRlcm8gbGlicm8gZGUgY2xhc2lmaWNhY2nDs24gZGVsIEFsbWFjw6luIExhcmdvIGRlIGxvcyBhZ2VudGVzIEZlbm5pY2ssIHF1ZSBtdWVzdHJhIHF1ZSBsYSBtaXRhZCBkZWwgY2Fmw6kgUGFyYW1vZ3LDrXMgcXVlIHNlIHZlbmRlIGVuIFZlbnRvcm8gY3JlY2nDsyBlbiBsYXMgZmluY2FzIG5vIGxpYnJlcyBkZSBsYSBDYXNhIFZvc3NyZXRoLiBObyBoYSBkZWNpZGlkbyBzaSBxdWVtYXIgYSBGZW5uaWNrIGNvbiDDqWwsIG8gZMOhcnNlbG8gYSBbW0RhbWF8TGFkeV1dIEltYXJhIFBhcmFtb2dyw61zLCBjdXlhIGNhc2EgcGFnYSBlbiBzaWxlbmNpbyBsYSBww7Nsdm9yYSBkZSBsb3MgUm9tcGVjYWRlbmFzLCBkZSBsYSBtYW5lcmEgcXVlIGxhIHJlaXZpbmRpcXVlIHkgbm8gbGEgYXJydWluZS4iLCAiKipMbyBxdWUgcGllbnNhIGhhY2VyLioqIENhZGEgdGVtcG9yYWRhIGxvcyBtZW5zYWplcm9zIGRlIGxhIENvbXBhw7HDrWEgbGxldmFuIHN1cyBjb250cmF0b3MgZGUgc2VydmlkdW1icmUgbnVldm9zIGEgbGEgQ2FzYSBkZSBsb3MgVGVzb3Jlcm9zIHBhcmEgYXNlbnRhcmxvcyBlbCBNb25lZMOtYS4gRWwgQ2FuZGFkbyBBYmllcnRvIHBpZW5zYSBxdWl0w6Fyc2Vsb3MgZW4gbGEgY2FsbGUgeSBxdWVtYXJsb3MgZW4gZWwgTWVyY2FkbyBkZSBsYXMgR2F2aW90YXMsIGRlbGFudGUgZGUgdG9kb3MsIGFsIGZpbmFsIGRlIHVuYSBkYW56YS4gTm8gbGliZXJhcsOtYSBhIG5hZGllIGVuIGVsIHBhcGVsLCBwb3JxdWUgbGEgQ29tcGHDscOtYSBndWFyZGEgY29waWFzIGVuIGVsIHN1cjsgbGVzIG1vc3RyYXLDrWEgYSB0b2RvcyBsb3MgdHJhYmFqYWRvcmVzIGF0YWRvcyBkZSBsYXMgaXNsYXMgcXVlIGVsIHBhcGVsIHNlIHF1ZW1hLiBMYSBIZXJtYW5hIEh1bW8gY3JlZSBxdWUgZXMgZGVzcGVyZGljaWFyIGJ1ZW5hIGdlbnRlLiBTZXlyYW5hIGNyZWUgcXVlIGRlIGVzbyBzZSB0cmF0YSB0b2RvLiIsICIqKkVzIGRlc3BpYWRhZGEuKiogTGEgcHJpbWF2ZXJhIHBhc2FkYSBhcGFyZWNpw7MgZW4gbG9zIENhbmFsZXMgdW4gY29tcHJhZG9yIGRlIGdlbnRlIGRlIHBhcGVsIGRlIGxhIENhc2EgVm9zc3JldGgsIHkgbGEgZ3VhcmRpYSBsbyBhbm90w7MgY29tbyBib3JyYWNoZXJhLiBObyBmdWUgYm9ycmFjaGVyYS4iLCAiKipRdWnDqW4gc2UgbGUgYWNlcmNhLioqIExhIGdvYmVybmFkb3JhIEltZWxkYSBSb3F1ZSBwdXNvIHByZWNpbyBhIOKAnGVsIENhbmRhZG8gQWJpZXJ0b+KAnSB5IHVuIGhvbWJyZSBkZSBtYW5kYXRvIGVuIGVsIE1lcmNhZG8gZGUgbGFzIEdhdmlvdGFzLiBFbCBob21icmUgZGUgbWFuZGF0byBlcyBUYXZvIGRlIGxhIE1hbm8gQXp1bCwgc3UgcHJvcGlvIHByaW1vLCBxdWUgZmlybcOzIGNvbiBsYSBDb21wYcOxw61hIHBhcmEgcGFnYXIgbGEgZGV1ZGEgZGVsIGNsYW4uIFNhYmUgZXhhY3RhbWVudGUgcXVpw6luIGVzIGVsbGEuIFRvZGF2w61hIG5vIHNlIGxvIGhhIGRpY2hvIGEgbmFkaWUsIHkgbmkgw6lsIG1pc21vIHNhYmUgcG9yIHF1w6kgbm8uIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkRpcmlnZSBlbCBDYW5kYWRvIEFiaWVydG8sKiogbGEgY8OpbHVsYSBkZSBsb3MgUm9tcGVjYWRlbmFzIGVuIFZlbnRvcm86IHVuYSBkb2NlbmEgZGUgbWFub3MgcXVlIGhhY2VuIGVuIGxhIGNhcGl0YWwgbG8gcXVlIGxvcyBSb21wZWNhZGVuYXMgaGFjZW4gZW4gZWwgc3VyIGNvbiBmdWVnby4gQ29tcHJhbiBwYXBlbCBkZSBzZXJ2aWR1bWJyZSB5IGxvIHF1ZW1hbiwgZmFsc2lmaWNhbiBub21icmVzIGxpbXBpb3MgcGFyYSBsb3MgcXVlIGVzY2FwYW4gYWwgbm9ydGUsIGxsZXZhbiBsYSBsaXN0YSBkZSBsb3MgUm9tcGVjYWRlbmFzIGNvbiB0b2RvcyBsb3MgcXVlIGNvbXByYW4gZ2VudGUgZGUgcGFwZWwgZW4gVmVudG9ybywgeSBwYWdhbiBsYSBww7Nsdm9yYS4gU3UgbWFyY2EgZXMgbGEgZGUgU2V2cmluOiB1biBjYW5kYWRvIGRlamFkbyByb3RvIHkgYWJpZXJ0by4iLCAiKipEZSBkw7NuZGUgc2FsZSBlbCBkaW5lcm8uKiogRWwgQ2FiaWxkbyBkZSBUZXNvcmVyb3Mgc2UgcmXDum5lIGxhIG5vY2hlIGFudGVzIGRlIGNhZGEgTGVjdHVyYSBkZSBNb25lZMOtYSB5IGFjdWVyZGEgbG9zIG7Dum1lcm9zIHF1ZSB2YSBhIGxlZXIuIFVubyBkZSBsb3MgY29udGFibGVzIHF1ZSBsb3MgcGFzYSBlbiBsaW1waW8gZXMgc3V5bzogc3UgbWFkcmUgbXVyacOzIGVuIHVuIHB1ZWJsbyBkZSBsYSBDb21wYcOxw61hLiBMZSBsbGV2YSBsb3MgbsO6bWVyb3MgYSBsbyBkZSBNZXJyb3csIGRvbmRlIGVsbGEgZXN0w6EgYmFpbGFuZG8sIHkgYW50ZXMgZGUgbGEgY2FtcGFuYSBkZWwgbWVkaW9kw61hIHN1IGNvcnJlZG9yIGRlIHRpemEgZGUgbGEgVGF6YSBOZWdyYSBjb21wcmEgbGFzIHBhcnRlcyBkZSBjYW1wYW5hLiBFbCBjb3JyZWRvciBxdWUgbnVuY2Egc2UgaGEgZXF1aXZvY2FkbyBlcyBkZWwgQ2FuZGFkbyBBYmllcnRvLCB5IGNhZGEgQW5jbGEgcXVlIGdhbmEgc2UgdmEgYWwgc3VyLiIsICIqKlF1acOpbiBlcmEuKiogTmFjacOzIGVuIGxhcyBpc2xhcyBzZWNhcywgZGUgbGEgTWFubyBBenVsLCB1biBjbGFuIGRlIGxhIGdlbnRlIGF6dWwgcXVlIGxsZXZhYmEgamFkZSBkZSBWZXJkYXlhIGVuIGNhcmF2YW5hIHkgZW4gY2Fub2EgZGVzZGUgYW50ZXMgZGUgcXVlIG5hZGllIHJlY3VlcmRlLiBMYSBjb25jZXNpw7NuIGRlIGphZGUgZGUgbGEgQ29tcGHDscOtYSBjZXJyw7MgZWwgY2FtaW5vLCBsYXMgZGV1ZGFzIGRlbCBjbGFuIHNlIGNvbXByYXJvbiwgeSBsYXMgZGV1ZGFzIHNlIHJldmVuZGllcm9uIGNvbW8gc2VydmlkdW1icmUuIEEgbG9zIG9uY2UgYcOxb3MgU2VyeW4gZXJhIHBhcGVsIGVuIHVuIHB1ZWJsbyBkZSBsYSBDb21wYcOxw61hIGVuIGxhcyBhZnVlcmFzIGRlIFB1ZXJ0byBTdXIsIGRvbmRlIGxvcyBjYXBhdGFjZXMgbGVzIHF1aXRhYmFuIGxvcyB6YXBhdG9zIGEgbG9zIG5pw7FvcyBwYXJhIHF1ZSBubyBwdWRpZXJhbiBjb3JyZXIgc29icmUgZWwgcmFzdHJvam8gZGUgbGEgY2HDsWEuIEVsIGhpZXJybyBkZSBzdSB0b2JpbGxvIGVzIHVuIGVzbGFiw7NuIGRlIGxhIGNhZGVuYSBxdWUgY2VycmFiYSBkZSBub2NoZSBsYSBiYXJyYWNhIGRlIGxvcyBuacOxb3M6IGxvIHJvbXBpw7MgbGEgbm9jaGUgcXVlIGh1ecOzLiIsICIqKkxhIGJlbmRpY2nDs24gZGUgU2V2cmluLioqIFRlbsOtYSBxdWluY2UgYcOxb3MsIHkgbG9zIGNhcGF0YWNlcyBoYWLDrWFuIHByZW5kaWRvIGZ1ZWdvIGEgbGEgY2HDsWEgcGFyYSBsYSB6YWZyYS4gQ29ycmnDsyBkZSB0b2RvcyBtb2RvcywgZGVzY2FsemEsIGRlcmVjaG8gYSB0cmF2w6lzIGRlbCBjYW1wbyBlbiBsbGFtYXMsIHJlemFuZG8gZGUgbGEgw7puaWNhIG1hbmVyYSBlbiBxdWUgc2UgbGUgcmV6YSBhIFNldnJpbjogZGUgcGllLiBEZWJpw7MgaGFiZXIgc2FsaWRvIGxpc2lhZGEuIFNhbGnDsyBjb24gbG9zIHBpZXMgc2luIHVuYSBtYXJjYSwgeSBsYSBjYW5vYSBkZSBsYSBIZXJtYW5hIEh1bW8gbGEgZXNwZXJhYmEgZW4gbGEgb3RyYSBvcmlsbGEuIERlc2RlIGVzYSBub2NoZSBzdXMgcGllcyBkZXNjYWx6b3Mgbm8gc2llbnRlbiBkb2xvciBuaSBtb2xlc3RpYSBwb3IgbmFkYSBkZSBsbyBxdWUgcGlzYW4sIGJyYXNhcywgaGllbG8sIHZpZHJpbyByb3RvLCBhYnJvam9zLCByYXN0cm9qbyBkZSBjYcOxYSwgeSBzaWd1ZW4gc3VhdmVzLCBsaW1waW9zIHkgcGVyZmVjdG9zLCBjb21vIHNpIG51bmNhIGh1YmllcmEgYW5kYWRvIGRlc2NhbHphLiBFbiBqdWVnbywgaWdub3JhIGVsIGRhw7FvIHkgZWwgdGVycmVubyBkaWbDrWNpbCBxdWUgdmllbmVuIHNvbG8gZGUgbG8gcXVlIHRpZW5lIGJham8gbG9zIHBpZXMsIHkgbmFkYSBtw6FzOiBsYSBiZW5kaWNpw7NuIGN1aWRhIGxvcyBwaWVzIHF1ZSBjb3JyaWVyb24sIG5vIGVsIHJlc3RvIGRlIGVsbGEuIENyZWUgcXVlIHNpIGFsZ3VuYSB2ZXogc2UgcG9uZSB6YXBhdG9zIHBhcmEgZXNjb25kZXJzZSwgbyBzZSBhcnJvZGlsbGEgYW50ZSBhbGd1aWVuIHF1ZSBxdWllcmEgc2VyIHN1IGR1ZcOxbywgbGEgYmVuZGljacOzbiBsYSBkZWphcsOhLiBQdWVkZSBxdWUgdGVuZ2EgcmF6w7NuLiIsICIqKkxvIHF1ZSB0aWVuZS4qKiBFbCBDYW5kYWRvIEFiaWVydG8gdGllbmUgdW5hIGNvcGlhIGRlbCB2ZXJkYWRlcm8gbGlicm8gZGUgY2xhc2lmaWNhY2nDs24gZGVsIEFsbWFjw6luIExhcmdvIGRlIGxvcyBhZ2VudGVzIEZlbm5pY2ssIHF1ZSBtdWVzdHJhIHF1ZSBsYSBtaXRhZCBkZWwgY2Fmw6kgUGFyYW1vZ3LDrXMgcXVlIHNlIHZlbmRlIGVuIFZlbnRvcm8gY3JlY2nDsyBlbiBsYXMgZmluY2FzIG5vIGxpYnJlcyBkZSBsYSBDYXNhIFZvc3NyZXRoLiBObyBoYSBkZWNpZGlkbyBzaSBxdWVtYXIgYSBGZW5uaWNrIGNvbiDDqWwsIG8gZMOhcnNlbG8gYSBbW0RhbWF8TGFkeV1dIEltYXJhIFBhcmFtb2dyw61zLCBjdXlhIGNhc2EgcGFnYSBlbiBzaWxlbmNpbyBsYSBww7Nsdm9yYSBkZSBsb3MgUm9tcGVjYWRlbmFzLCBkZSBsYSBtYW5lcmEgcXVlIGxhIHJlaXZpbmRpcXVlIHkgbm8gbGEgYXJydWluZS4iLCAiKipMbyBxdWUgcGllbnNhIGhhY2VyLioqIENhZGEgdGVtcG9yYWRhIGxvcyBtZW5zYWplcm9zIGRlIGxhIENvbXBhw7HDrWEgbGxldmFuIHN1cyBjb250cmF0b3MgZGUgc2VydmlkdW1icmUgbnVldm9zIGEgbGEgQ2FzYSBkZSBsb3MgVGVzb3Jlcm9zIHBhcmEgYXNlbnRhcmxvcyBlbCBNb25lZMOtYS4gRWwgQ2FuZGFkbyBBYmllcnRvIHBpZW5zYSBxdWl0w6Fyc2Vsb3MgZW4gbGEgY2FsbGUgeSBxdWVtYXJsb3MgZW4gZWwgTWVyY2FkbyBkZSBsYXMgR2F2aW90YXMsIGRlbGFudGUgZGUgdG9kb3MsIGFsIGZpbmFsIGRlIHVuYSBkYW56YSBkZSBsYXMgYnJhc2FzLiBObyBsaWJlcmFyw61hIGEgbmFkaWUgZW4gZWwgcGFwZWwsIHBvcnF1ZSBsYSBDb21wYcOxw61hIGd1YXJkYSBjb3BpYXMgZW4gZWwgc3VyOyBsZXMgbW9zdHJhcsOtYSBhIHRvZG9zIGxvcyB0cmFiYWphZG9yZXMgYXRhZG9zIGRlIGxhcyBpc2xhcyBxdWUgZWwgcGFwZWwgc2UgcXVlbWEuIExhIEhlcm1hbmEgSHVtbyBjcmVlIHF1ZSBlcyBkZXNwZXJkaWNpYXIgYnVlbmEgZ2VudGUuIFNlcnluIGNyZWUgcXVlIGRlIGVzbyBzZSB0cmF0YSB0b2RvLiIsICIqKkVzIGRlc3BpYWRhZGEuKiogTGEgcHJpbWF2ZXJhIHBhc2FkYSBhcGFyZWNpw7MgZW4gbG9zIENhbmFsZXMgdW4gY29tcHJhZG9yIGRlIGdlbnRlIGRlIHBhcGVsIGRlIGxhIENhc2EgVm9zc3JldGgsIHkgbGEgZ3VhcmRpYSBsbyBhbm90w7MgY29tbyBib3JyYWNoZXJhLiBObyBmdWUgYm9ycmFjaGVyYS4iLCAiKipRdWnDqW4gc2UgbGUgYWNlcmNhLioqIExhIGdvYmVybmFkb3JhIEltZWxkYSBSb3F1ZSBwdXNvIHByZWNpbyBhIOKAnGVsIENhbmRhZG8gQWJpZXJ0b+KAnSB5IHVuIGhvbWJyZSBkZSBtYW5kYXRvIGVuIGVsIE1lcmNhZG8gZGUgbGFzIEdhdmlvdGFzLiBFbCBob21icmUgZGUgbWFuZGF0byBlcyBUYXZvIGRlIGxhIE1hbm8gQXp1bCwgc3UgcHJvcGlvIHByaW1vLCBxdWUgZmlybcOzIGNvbiBsYSBDb21wYcOxw61hIHBhcmEgcGFnYXIgbGEgZGV1ZGEgZGVsIGNsYW4uIFNhYmUgZXhhY3RhbWVudGUgcXVpw6luIGVzIGVsbGEuIFRvZGF2w61hIG5vIHNlIGxvIGhhIGRpY2hvIGEgbmFkaWUsIHkgbmkgw6lsIG1pc21vIHNhYmUgcG9yIHF1w6kgbm8uIl19"
    }
   ],
-  "gloss": "Seyrana the Barefoot"
+  "gloss": "Seryn Emberstep"
  }
 }
