@@ -673,6 +673,72 @@
     ]
    },
    {
+    "title": "The parts of the city",
+    "paragraphs": [
+     "Goldwind climbs in rings from a bay of three harbors, and the islanders name its parts like the rooms of a house."
+    ],
+    "table": {
+     "caption": "The parts of Goldwind",
+     "headers": [
+      "Part",
+      "Where",
+      "What it is"
+     ],
+     "rows": [
+      [
+       "The Commons",
+       "the bay's widest shore",
+       "The commoners' town and its own harbor, the Lower Harbor: seven wards of fishers, boatmen, dockers, salters, and ropemakers. It has a page of its own."
+      ],
+      [
+       "The Sovereign Harbor",
+       "the bay, under the rings",
+       "The harbor of the merchant fleets, House Holst's customs-house, and the promenade where the city walks the Turning at sunset."
+      ],
+      [
+       "The Sentinel Docks",
+       "the bay, under the great lighthouse",
+       "The shipwrights' yards, the post-houses where the mail-chests come in, and the great lighthouse that is also Tholmar's shrine."
+      ],
+      [
+       "The old quarter",
+       "halfway up the rings",
+       "The streets of the harbor-town Goldwind was before it was the capital: crooked, handsome, and full of theaters, the Veil of Shadows among them."
+      ],
+      [
+       "The banking quarter",
+       "the middle ring",
+       "The Reckoners' Hall, the Charter Mint, the Goldspire Exchange, and the coffee-houses across the street."
+      ],
+      [
+       "The scholar-quarter",
+       "the upper rings",
+       "The University's copper-ringed spires, its two great schools, and the printers and taverns that take scrip."
+      ],
+      [
+       "The Council ring",
+       "higher still",
+       "The white halls of the Council of the Charted Isles, and the Lord Mayor's offices."
+      ],
+      [
+       "The Vol Kaern Heights",
+       "the crown of the city",
+       "House Vol Kaern's castle, whose shadow falls on the Council it does not rule."
+      ],
+      [
+       "The Hunter's Citadel",
+       "the cliffs beside the cataract",
+       "The Hunters' hall, lodge, and fortress, climbing the cliffs beside a single roaring cataract."
+      ],
+      [
+       "The Great Heartland Bazaar",
+       "below the rings",
+       "The city's great market, with food and goods from every corner of the islands."
+      ]
+     ]
+    }
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“The Gate-Tithe is cheating us in both directions. It keeps the gold in Ironfort and sends the paper to Goldwind.” (heard in the Northern Frontier)",
@@ -701,6 +767,10 @@
    [
     "Founder",
     "Archmage Eamos"
+   ],
+   [
+    "The bay",
+    "the Commons, the Sovereign Harbor, the Sentinel Docks"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -728,7 +798,8 @@
    "ledger-wolves",
    "ecler",
    "eamos-goldwind",
-   "house-wingate"
+   "house-wingate",
+   "the-commons"
   ],
   "illustration": {
    "src": "assets/scenes/goldwind-painterly-v2-960.webp",
@@ -738,6 +809,9 @@
    "height": 1024,
    "alt": "Merchants unfold cloth on a market stair above Goldwind’s gulf, beneath the University’s copper-ringed spires.",
    "caption": "Morning trade climbs the rings of Goldwind."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -5745,32 +5819,132 @@
   "category": "power",
   "region": "Central Heartland",
   "subtitle": "Learning with a seat at the table",
-  "summary": "The University of Kalvatar is seated in Goldwind and is one of the five powers represented on the Council.",
+  "summary": "The University of Kalvatar is seated in Goldwind and is one of the five powers on the Council: two schools, eight colleges, the League of Explorers, and a whole quarter that pays in scrip.",
   "sections": [
    {
-    "title": "A public institution of power",
+    "title": "A seat at the table",
     "paragraphs": [
-     "Thessaly Kane holds the University’s Council seat. Scholarship, arcane practice, and political responsibility meet in an institution whose influence extends beyond its halls."
+     "The University of Kalvatar is the archipelago's oldest and largest school of the arcane, and one of the five powers that sit on the Council. Thessaly Kane heads it and holds its seat. She succeeded her father, Thobias Kane; the old headmaster, retired, still advises her from his library, and the Council still asks him what she thinks.",
+     "Its archives hold more of the old charts than the Chartwrights' own, which the Chartwrights have never forgiven."
     ]
    },
    {
-    "title": "The city around it",
+    "title": "Two schools",
     "paragraphs": [
-     "The University shares Goldwind with the Council, the Arcane Registry, and the Reckoners’ Hall. A visitor seeking arcane instruction also enters a city where casting is closely regulated."
+     "The **Goldwind Academy** teaches maritime science, commerce, and the arts. The **Sylariel Institute of Arcane Studies** teaches magic, and is named for Sylariel the Wise, whom the city remembers as one of the founders of the Hunters."
     ]
    },
    {
-    "title": "Inside the walls",
+    "title": "The colleges",
     "paragraphs": [
-     "The University is the archipelago's oldest and largest school of the arcane, and it keeps the Arcane Registry and its copper rings. Its archives hold more of the old charts than the Chartwrights' own.",
-     "Its two great schools are the Goldwind Academy (maritime science, commerce, and the arts) and the Sylariel Institute of Arcane Studies."
+     "Each school keeps its colleges, and every college has its robe. A student belongs to one, and a scholar may belong to two, wearing the first robe with the second's color at the cuffs.",
+     "The College of the Body keeps, among others, the Department of Maritime Pathology, which nobody has ever asked to visit."
+    ],
+    "table": {
+     "caption": "The colleges of the University",
+     "headers": [
+      "College",
+      "School",
+      "What it studies",
+      "Robe"
+     ],
+     "rows": [
+      [
+       "Charts and Stars",
+       "Academy",
+       "navigation, the stars, and the old charts, with the archives that keep them",
+       "deep blue"
+      ],
+      [
+       "The Hull",
+       "Academy",
+       "ships, harbors, and the engines of the sea",
+       "tar brown"
+      ],
+      [
+       "The Ledger",
+       "Academy",
+       "trade, law, and the Charter",
+       "bottle green"
+      ],
+      [
+       "Letters",
+       "Academy",
+       "history, the tongues, music, and the arts",
+       "wine red"
+      ],
+      [
+       "The Circle",
+       "Institute",
+       "the theory of magic, and the nine circles the Registry counts",
+       "violet"
+      ],
+      [
+       "Krysta",
+       "Institute",
+       "the crystal: grading, charging, and setting it, beside the Krystawrights",
+       "amber"
+      ],
+      [
+       "Wards and Thresholds",
+       "Institute",
+       "protection, the Veil, the fae, and the dead",
+       "slate grey"
+      ],
+      [
+       "The Body",
+       "Institute",
+       "healing, with magic and without it, and anatomy",
+       "bone white"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Ranks and robes",
+    "paragraphs": [
+     "Every scholar wears the robe of their college, and their copper rings openly, one for each circle the Registry counts."
+    ],
+    "list": [
+     "**Fresh ink.** A first-year. The ink on their name in the rolls is still wet.",
+     "**Scholar.** A student who has passed their college's examination. Scholars teach the first-years and are paid in scrip.",
+     "**Magister.** A master of the University, who holds a chair, takes students of their own, and leads its expeditions.",
+     "**Dean.** The head of a college, chosen by its Magisters.",
+     "**The head of the University,** who holds its Council seat: Thessaly Kane."
     ]
    },
    {
-    "title": "In the islands",
+    "title": "The year",
     "paragraphs": [
-     "Its copper-ringed spires stand above the banking quarter in Goldwind's rings.",
-     "Its scholars are paid in University scrip, which passes as money among them."
+     "The University's year opens on Eliol 1st, in the month of Chart and Star, and ends with the examinations in the last week of Okram. The scholar-quarter calls it the Long Week, and its lamps do not go out."
+    ]
+   },
+   {
+    "title": "The League of Explorers",
+    "paragraphs": [
+     "The League of Explorers charts the unknown. It sends scholars where the charts end, and hires Hunters, Delvers above all, to bring them back. Its finds go to the archives, and its charts to the Chartwrights for their stamp. It pays well, and it buries many."
+    ]
+   },
+   {
+    "title": "The scholar-quarter",
+    "paragraphs": [
+     "Around the spires on the upper rings lives the scholar-quarter: printers, booksellers, lodging-houses, and the taverns that serve students. Its money is University scrip, paper notes good at the University's halls, the printers, and those taverns, and worth nothing on the harbor.",
+     "When a student earns a first copper ring, their college walks them down the rings to the harbor and back, and every tavern on the way stands them a drink they may not pay for. Few arrive back on their own feet."
+    ]
+   },
+   {
+    "title": "Beyond Goldwind",
+    "paragraphs": [
+     "Every few years the University sends its best scholar to Berith, the floating school of Assios, and every few years one of them stays. The Institute is named for a founder of the Hunters, and the Lodges and the University have needed each other ever since."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The League of Explorers is hiring Hunters for an expedition past the last chart, and pays half in advance, which it never does.",
+     "A first-year has earned a copper ring she should not be able to. The Registry says nobody has ever taught her.",
+     "During the Long Week a whole college's examinations were stolen, and every Dean suspects another college."
     ]
    },
    {
@@ -5779,24 +5953,41 @@
      "“The Registrar exists. He is a tall man in grey who visits the University's cellars at night, and the University denies he has ever come to the city.” (heard in the Central Heartland)",
      "“Sailors' songs count the great dragons of the world as nine. A Highspire star-reader once counted ten, and the University took her charts away.” (a Highspire lens-grinder)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBEZXBhcnRtZW50IG9mIE1hcml0aW1lIFBhdGhvbG9neSBpcyB0aGUgU2VhbGVkIEZhY3VsdHkqKiAoVm9sdW1lIFhYKTogdGhlIHNjaG9sYXJzLCBzdXJnZW9ucywgYW5kIHNtaXRocyBvZiB0aGUgU2lsdmVyIFZpZ2lsIHdobyBzdHVkeSB0aGUgQmxlZWQsIHRyZWF0IHRoZSBEcmlmdGluZywga2VlcCB0aGUgZXNjYXBlLWxlZGdlciwgYW5kIG1ha2UgdGhlIHdhcmRzaWx2ZXIsIGxlZCBieSBNYWdpc3RlciBUZW9kcmljIEh1bmUuIFRoZSBkdWxsIG5hbWUgd2FzIGNob3NlbiB3aXRoIGdyZWF0IGNhcmUuIFRoZXNzYWx5IEthbmUga25vd3MsIHdoaWNoIGlzIHdoeSBzaGUgbmV2ZXIgYXNrcyB3aGF0IHRoZSBDb2xsZWdlIG9mIHRoZSBCb2R5IHNwZW5kcy4iLCAiKipUaGUgbG9zdCBleHBlZGl0aW9uLioqIEluIDE0OCBFQyBhIFVuaXZlcnNpdHkgZXhwZWRpdGlvbiB1bmRlciBNYWdpc3RlciBFZHJpbiBDYXVsIGNhbXBlZCBvbiB0aGUgaGlnaCBpY2UgYmV5b25kIFNub3d2YWggYW5kIHdhcyBuZXZlciBoZWFyZCBmcm9tIGFnYWluLiBUaGF0IHdhcyB0aGUgbmlnaHQgdGhlIFdvdW5kIG9wZW5lZC4gVGhlIExlYWd1ZSBvZiBFeHBsb3JlcnMgbGlzdHMgaXQgYXMgbG9zdCBvbiB0aGUgaWNlLCBhbmQgSHVuZSBpcyBzdGlsbCB0cnlpbmcgdG8gdW5kbyB3aGF0IGhpcyBtYXN0ZXIgZGlkLiIsICIqKldoZXJlIHRoZSBhbmF0b21pc3RzJyBib2RpZXMgY29tZSBmcm9tLioqIFNvbWUgb2YgdGhlIGRlYWQgdGhlIENvbGxlZ2Ugb2YgdGhlIEJvZHkgYnV5cyBjb21lIGZyb20gdGhlIENvdXJ0IG9mIEJvbmVzLCB0aHJvdWdoIHRoZSBNYXJyb3cuIFRoZSBDb2xsZWdlIGRvZXMgbm90IGFzay4iXX0="
    }
   ],
   "facts": [
    [
-    "Location",
-    "Goldwind"
+    "Seat",
+    "the scholar-quarter of Goldwind"
    ],
    [
-    "Council representative",
+    "Head and Council seat",
     "Thessaly Kane"
    ],
    [
-    "Sphere",
-    "Learning and arcane scholarship"
+    "Schools",
+    "the Goldwind Academy; the Sylariel Institute of Arcane Studies"
    ],
    [
-    "Seat",
-    "Goldwind"
+    "Colleges",
+    "eight"
+   ],
+   [
+    "Money",
+    "University scrip"
+   ],
+   [
+    "Worn",
+    "robes by college, and copper rings"
+   ],
+   [
+    "Its year",
+    "Eliol 1st to the Long Week of Okram"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -5813,7 +6004,10 @@
    "council",
    "arcane-registry",
    "krysta",
-   "arbiters"
+   "arbiters",
+   "the-commons",
+   "hunters",
+   "chartwrights"
   ],
   "illustration": {
    "src": "assets/powers/university-painterly-v1-960.webp",
@@ -5823,6 +6017,9 @@
    "height": 1024,
    "alt": "Students work with maritime charts and instruments beneath the University of Kalvatar’s copper-ringed spires.",
    "caption": "Charts, science, and arcane study share a courtyard in Goldwind."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -54659,6 +54856,171 @@
    "veil"
   ],
   "aliases": [],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "the-commons",
+  "title": "The Commons",
+  "category": "place",
+  "region": "Central Heartland",
+  "subtitle": "Goldwind's own town: seven wards, one harbor, and everyone who works for the rest",
+  "summary": "The commoners' town on Goldwind's bay, with its own harbor, the Lower Harbor. Seven wards of fishers, boatmen, dockers, salters, and ropemakers: the part of the capital that does the work and makes the noise.",
+  "facts": [
+   [
+    "Where",
+    "Goldwind's bay, one of its three parts"
+   ],
+   [
+    "Harbor",
+    "the Lower Harbor, the loudest in the Heartland"
+   ],
+   [
+    "Wards",
+    "seven"
+   ],
+   [
+    "Market",
+    "the Gullmarket"
+   ],
+   [
+    "Order kept by",
+    "the city watch, in pairs, and the wards themselves"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "Goldwind's bay has three parts: the Sovereign Harbor of the merchant fleets, the Sentinel Docks of the shipwrights, and the Commons. The Commons is the commoners' town, older than the capital, poorer than it, and a great deal louder. The people who live there call it a town of its own, and say that Goldwind is the part up the hill.",
+     "It has seven wards. Nobody agrees where one ends and the next begins, and everybody knows."
+    ]
+   },
+   {
+    "title": "The seven wards",
+    "paragraphs": [],
+    "table": {
+     "caption": "The wards of the Commons",
+     "headers": [
+      "Ward",
+      "What it is"
+     ],
+     "rows": [
+      [
+       "The Lower Harbor",
+       "the Commons' own harbor, and the loudest in the Heartland"
+      ],
+      [
+       "The Canals",
+       "a hundred bridges, and doors that open on the water"
+      ],
+      [
+       "The Gullmarket",
+       "the commoners' market, where everything costs Bits"
+      ],
+      [
+       "The Ropewalks",
+       "rope, sail, and net, laid for every ship in the city"
+      ],
+      [
+       "The Smokes",
+       "the fish-salters and the smokehouses, downwind"
+      ],
+      [
+       "The Tangle",
+       "the oldest and poorest ward, all alleys"
+      ],
+      [
+       "Kitehill",
+       "taverns, wind, and fighting kites"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Lower Harbor",
+    "paragraphs": [
+     "The Commons' own harbor, for fishing boats, lighters, and every hull too small or too poor for the Sovereign Harbor. It is the loudest harbor in the Heartland, and in Liora, when the harbors hold the Merrin Games, it is louder still.",
+     "The fishers' widows bring the Drowning Mother her salt here, and the tailors and chandlers of the waterfront mend whatever the sea tears."
+    ]
+   },
+   {
+    "title": "The Canals",
+    "paragraphs": [
+     "The ward where the canals that thread Goldwind's lower rings run thickest: a hundred little bridges, boats at every hour, and houses whose front door is a mooring. Wrack cows tow the barges, the boatmen have a song for every bridge, and an address in the Canals is given in bridges, not streets."
+    ]
+   },
+   {
+    "title": "The Gullmarket",
+    "paragraphs": [
+     "The commoners' market. Everything costs Bits, everything is sold by someone shouting, and the gulls get there first. Fish from the Lower Harbor at dawn, second-hand everything by noon, and hot food until the lamps come up.",
+     "It is not the Great Heartland Bazaar, and it is proud of it: the Bazaar sells to the whole islands, and the Gullmarket sells to the Commons. A Gilt Hand works every crowd in it, and Old Pell's children know every stall."
+    ]
+   },
+   {
+    "title": "The Ropewalks",
+    "paragraphs": [
+     "Long, narrow sheds where rope is walked out a quarter-mile at a time, and the sail-lofts, net-menders, and block-makers that live beside them. Every line on a Goldwind ship was laid here, and a ropewalker can tell you whose hands made a knot by looking at it."
+    ]
+   },
+   {
+    "title": "The Smokes",
+    "paragraphs": [
+     "The ward of the fish-salters and the smokehouses, downwind of everything else on purpose. The smoke hangs over it day and night, and the salt fish that feeds the Armada, and the armies of the Front across the strait, starts here."
+    ]
+   },
+   {
+    "title": "The Tangle",
+    "paragraphs": [
+     "The oldest and poorest ward: alleys that double back on themselves, houses leaning on one another, and stairs that go somewhere different every year. The watch walks it in pairs. The people who live there say it is the safest ward in the city, if you live there."
+    ]
+   },
+   {
+    "title": "Kitehill",
+    "paragraphs": [
+     "The hill at the Commons' back, where the taverns are and the wind is. On any clear evening the sky over it is full of fighting kites, and the kite-gamblers take a bet on every line. Out of the social season, when the balls on the rings above are over, Goldwind's nights belong to Kitehill's taverns."
+    ]
+   },
+   {
+    "title": "Who keeps order",
+    "paragraphs": [
+     "The city watch, in pairs. The Longshore, the dockers' guild, whose boss Morgha Wall-Holder runs the wharves. The Gilt Hands, who pick the Commons' pockets and keep its peace in their own way. And the wards themselves, which settle most things before the watch hears of them."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A canal in the Canals has started running the wrong way at night, and the boatmen will not work after dark.",
+     "Four hundred fathoms of rope, laid for an Armada ship, walked out of a shed in the Ropewalks overnight.",
+     "Kitehill's best kite-fighter has never lost a line, and someone is paying good Tides to find out why."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Every bridge in the Canals has a name, and one of them has two. Ask the boatmen which, and they change the subject.” (a ferry-girl of the Canals)",
+     "“Kitehill's kites aren't for fun. On a clear night the Gilt Hands send word across the whole Commons with them.” (a watchman, walking the Tangle in a pair)"
+    ]
+   }
+  ],
+  "related": [
+   "goldwind",
+   "merrin-games",
+   "drowning-mother",
+   "morgha-wall-holder",
+   "wrack-cow",
+   "vice-and-the-black-market"
+  ],
+  "aliases": [
+   "Lower Harbor",
+   "the Lower Harbor",
+   "Gullmarket",
+   "the Gullmarket",
+   "Kitehill"
+  ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "complete"

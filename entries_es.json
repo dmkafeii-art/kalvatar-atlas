@@ -472,13 +472,13 @@
    {
     "title": "Una ciudad de cinco asientos",
     "paragraphs": [
-     "Fundada hacia 30 EC por el Archimago Eamos en un golfo de vientos excelentes, [[Ventoro|Goldwind]] se convirtió en la sede del Consejo hacia 50 o 55 EC. Alberga la Universidad, el Registro Arcano y la Casa de los Tesoreros."
+     "Fundada hacia 30 EC por el Archimago Eamos en un golfo de vientos excelentes, [[Ventoro|Goldwind]] se convirtió en la sede del Consejo hacia 50 o 55 EC. Alberga la Universidad, el [[Registro Arcano|Arcane Registry]] y la [[Casa de los Tesoreros|Reckoners' Hall]]."
     ]
    },
    {
     "title": "Moneda y consecuencia",
     "paragraphs": [
-     "La Bolsa [[Doraguja|Goldspire]] tiene el [[Piso de la Aguja|Spire Floor]], donde las Doce Banderas cantan los precios de las mercancías cada [[Monedía|Coinsday]]. Las leyes de la ciudad también hacen del lanzamiento arcano sin registro un delito grave. En Ventoro, un anillo de cobre puede importar tanto como un buen abrigo."
+     "La Bolsa [[Doraguja|Goldspire]] tiene el [[Piso de la Aguja|Spire Floor]], donde las Doce Banderas cantan los precios de las mercancías cada [[Monedía|Coinsday]]. Las leyes de la ciudad hacen un delito grave lanzar conjuros del Tercer Círculo o más sin un [[Mandato|Writ]]. En Ventoro, un anillo de cobre puede importar tanto como un buen abrigo."
     ]
    },
    {
@@ -490,7 +490,7 @@
    {
     "title": "Quién gobierna",
     "paragraphs": [
-     "El Consejo de las Islas Cartografiadas se reúne en su sala de cinco asientos, y sus rivalidades son el clima de la ciudad. En el día a día, las oficinas del [[Señor|Lord]] Alcalde y la guardia de la ciudad mantienen el orden, la Concordia le presta a la ley su peso moral y los códigos de aduana de la Casa Holst manejan el puerto.",
+     "El Consejo de las Islas Cartografiadas se reúne en su sala de cinco asientos, y sus rivalidades son el clima de la ciudad. En el día a día, las oficinas del [[Alcalde Mayor|Lord Mayor]] y la guardia de la ciudad mantienen el orden, la [[Concordia|Concord]] le presta a la ley su peso moral y los códigos de aduana de la Casa Holst manejan el puerto.",
      "Dentro de las murallas, el Registro Arcano se aplica con rigor. Lanzar sin anillos en la capital es un asunto serio, y la justicia, imparcial en principio, se inclina en silencio hacia la posición social."
     ]
    },
@@ -509,15 +509,92 @@
    {
     "title": "En las islas",
     "paragraphs": [
-     "Sube en anillos desde el gran puerto. Abajo están los muelles, los almacenes y el bullicio del puerto. La Universidad de Kalvatar es la escuela de lo arcano más antigua y más grande del archipiélago, y sus archivos guardan más cartas viejas que los de los propios [[Cartógrafos|Chartwrights]]. La Casa de los Tesoreros es la sede de mármol de la Primera Tesorera Maera [[Hebranegra|Blackstrand]], donde se llevan las deudas del Congreso Mercantil. El Gran Templo de la Concordia se alza sobre el corazón de la ciudad, y su gran vitral del sol y la marea atrapa la mañana. El puerto de Ventoro es el mercado más concurrido de las islas. La [[Puerta de la Cisterna|Cistern Door]], un muro enano bajo la cisterna más antigua, es la historia de fantasmas favorita de la ciudad: dicen que su argamasa se trabajó desde el otro lado."
+     "Sube en anillos desde el gran puerto. Abajo están los muelles, los almacenes y el bullicio del puerto. La Universidad de Kalvatar es la escuela de lo arcano más antigua y más grande del archipiélago, y sus archivos guardan más cartas viejas que los de los propios [[Cartógrafos|Chartwrights]]. La Casa de los Tesoreros es la sede de mármol de la Primera Tesorera Maera [[Hebranegra|Blackstrand]], donde se llevan las deudas del [[Congreso Mercantil|Mercantile Congress]]. El Gran Templo de la Concordia se alza sobre el corazón de la ciudad, y su gran vitral del sol y la marea atrapa la mañana. El puerto de Ventoro es el mercado más concurrido de las islas. La [[Puerta de la Cisterna|Cistern Door]], un muro enano bajo la cisterna más antigua, es la historia de fantasmas favorita de la ciudad: dicen que su argamasa se trabajó desde el otro lado."
     ]
+   },
+   {
+    "title": "La vitrina de Vellune",
+    "paragraphs": [
+     "En las calles que suben por encima del paseo del puerto, Vellune: Galas y Encantamientos tiene un solo traje en su vitrina a la sombra y un libro de pruebas lleno de citas. Su dueña, Amarise Vellune, es además una de los [[Árbitros|Arbiters]] recién elegidos de la ciudad; Tessa Bellfold lleva la tienda mientras ella sirve."
+    ]
+   },
+   {
+    "title": "Las partes de la ciudad",
+    "paragraphs": [
+     "Ventoro sube en anillos desde una bahía de tres puertos, y la gente de las islas nombra sus partes como los cuartos de una casa."
+    ],
+    "table": {
+     "caption": "Las partes de Ventoro",
+     "headers": [
+      "Parte",
+      "Dónde",
+      "Qué es"
+     ],
+     "rows": [
+      [
+       "El Común",
+       "la orilla más ancha de la bahía",
+       "El pueblo de la gente común y su propio puerto, el Puerto Bajo: siete barrios de pescadores, barqueros, estibadores, saladores y cordeleros. Tiene su propia página."
+      ],
+      [
+       "El Puerto Soberano",
+       "la bahía, bajo los anillos",
+       "El puerto de las flotas mercantes, la aduana de la Casa Holst y el paseo donde la ciudad hace la Vuelta al atardecer."
+      ],
+      [
+       "Los Muelles del Centinela",
+       "la bahía, bajo el gran faro",
+       "Los astilleros, las casas de correo donde llegan los cofres de cartas, y el gran faro que es también el santuario de Tholmar."
+      ],
+      [
+       "El barrio viejo",
+       "a media altura de los anillos",
+       "Las calles del pueblo portuario que fue Ventoro antes de ser la capital: torcidas, bonitas y llenas de teatros, entre ellos el Velo de Sombras."
+      ],
+      [
+       "El barrio de la banca",
+       "el anillo del medio",
+       "La Casa de los Tesoreros, la Ceca de la Carta, la Bolsa Doraguja y los cafés de enfrente."
+      ],
+      [
+       "El barrio de los estudiosos",
+       "los anillos altos",
+       "Las agujas con anillos de cobre de la Universidad, sus dos grandes escuelas, y las imprentas y tabernas que aceptan vales."
+      ],
+      [
+       "El anillo del Consejo",
+       "más arriba todavía",
+       "Las salas blancas del Consejo de las Islas Cartografiadas, y las oficinas del Alcalde Mayor."
+      ],
+      [
+       "Las Alturas de Vol Kaern",
+       "la corona de la ciudad",
+       "El castillo de la Casa Vol Kaern, cuya sombra cae sobre el Consejo que no gobierna."
+      ],
+      [
+       "La Ciudadela de los Cazadores",
+       "los acantilados junto a la catarata",
+       "La sala, la logia y la fortaleza de los Cazadores, que suben por los acantilados junto a una sola catarata que ruge."
+      ],
+      [
+       "El Gran Bazar del Corazón",
+       "bajo los anillos",
+       "El gran mercado de la ciudad, con comida y mercancías de cada rincón de las islas."
+      ]
+     ]
+    }
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“El Diezmo de la Puerta nos roba en las dos direcciones. Se queda el oro en Fuerte de Hierro y le manda el papel a Ventoro.” (se oye en la Frontera del Norte)",
-     "“El camino seco. Los caminos de Abajo van de isla en isla, y un contrabandista que los conociera podría llevar una carga a pie desde Puerto Negro hasta Ventoro sin pagar ni un derecho de puerto.” (se comenta)"
+     "“El [[Diezmo de la Puerta|Gate-Tithe]] nos roba en las dos direcciones. Se queda el oro en [[Fuerte de Hierro|Ironfort]] y le manda el papel a Ventoro.” (se oye en la [[Frontera del Norte|Northern Frontier]])",
+     "“El camino seco. Los caminos de [[Abajo|Below]] van de isla en isla, y un contrabandista que los conociera podría llevar una carga a pie desde [[Puerto Negro|Black Harbor]] hasta Ventoro sin pagar ni un derecho de puerto.” (se comenta)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVhbW9zIFtbVmVudG9yb3xHb2xkd2luZF1dKiogZnVuZMOzIGxhIGNpdWRhZCBlbiBlc2UgZ29sZm8gcG9ycXVlIGVsIGNhbWlubyBoYWNpYSBhYmFqbyBlbXBpZXphIGJham8gw6lsLiBFbCBbW1JleSBIb25kb3xEZWVwIEtpbmddXSBsZSBlbnNlw7HDsyBlbiBzdWXDsW9zIGVsIHJpdG8gZGVsIGxpY2hlLiBBbGd1bm9zIGRlIGxvcyBjdWVycG9zIHF1ZSBzZSBsZSBwYWdhbiBhIGxhIENvcnRlIGRlIGxvcyBIdWVzb3MgYmFqYW4gcG9yIGxhIGVzY2FsZXJhIG3DoXMgaG9uZGEgcGFyYSB0ZW5lciBhbCByZXkgYWxpbWVudGFkbyB5IHNvw7FhbmRvLiBFYW1vcyBlcyBzdSBhbHVtbm8sIHN1IGRldWRvciB5IHN1IGNhcmNlbGVyby4iLCAiKipFbCBSZXkgSG9uZG8gZXMgdW5hIHBlcnNvbmEuKiogT3J2YW50aGlzIGZ1ZSB1biBkcmFnw7NuIGRvcmFkbyBkZSBsYSBlcmEgZGUgbG9zIE9ya2EgcXVlIGF0w7Mgc3UgdmlkYSBhIHVuIGNvcmF6w7NuIGRlIEtyeXN0YSB5IHNlIGxldmFudMOzIGNvbW8gZHJhY29saWNoZSwgZWwgbmlncm9tYW50ZSBtw6FzIGdyYW5kZSBxdWUgaGEgY29ub2NpZG8gZWwgbXVuZG8uIExvcyBkcmFnb25lcyBkZSBhcXVlbGxhIGVyYSBsbyBzZWxsYXJvbiBtdXkgYWJham8sIGJham8gbGEgW1tUdW1iYSBkZWwgU29sfFN1bidzIEdyYXZlXV0uIFVuYSB2ZXogcG9yIGdlbmVyYWNpw7NuIHNlIGRhIHZ1ZWx0YSBlbiBzdSBzdWXDsW8sIHkgZWwgZm9uZG8gZGVsIG1hciBzZSBkYSB2dWVsdGEgY29uIMOpbC4iLCAiKipMYSBbW0xsYW1hbWFyZWFzfFRpZGVjYWxsZXJdXSBDb3Jpc2FuZGUgTGFyayoqLCBkZSBsYSBjYXBpbGxhIGRlIGxhIFB1ZXJ0YSBkZWwgTWFyLCBvecOzIGVsIFp1bWJpZG8gZGUgbGEgSGVyaWRhIGVuIGVsIHBlY2hvIGRlIHVuIG1hcmluZXJvIHF1ZSBzZSBtb3LDrWEuIEhhIGVzY3JpdG8gZG9zIHZlY2VzIGFsIGFsdG8gY29uc2VqbyBkZSBsYSBDb25jb3JkaWEsIHkgbGFzIGRvcyBjYXJ0YXMgbGFzIGFicmllcm9uIGxvcyBbW0Nhc2FjYXMgTmVncmFzfEJsYWNrIENvYXRzXV0uIExhIHRlcmNlcmEgbGEgbGxldmEgZWxsYSBtaXNtYS4iLCAiRWwgYW1vIGRlIGxhIENvcnRlIGVzICoqRWFtb3MgVmVudG9ybyoqLCBlbCBBcmNoaW1hZ28gcXVlIGZ1bmTDsyBWZW50b3JvIGhhY2lhIDMwIEVDLCBsZSBwdXNvIGVsIG5vbWJyZSBwb3Igc3VzIHZpZW50b3MgeSBsbyB0b23DsyBjb21vIHByb3Bpby4gTnVuY2EgbXVyacOzLiBTZSBjb252aXJ0acOzIGVuIHVuICoqbGljaGUqKi4iLCAiKipFbCBDcsOhbmVvOioqIEVhbW9zIFZlbnRvcm8uIl19"
    }
   ],
   "title": "Ventoro"
@@ -2757,30 +2834,182 @@
  "university": {
   "gloss": "The University of Kalvatar",
   "subtitle": "El saber con asiento en la mesa",
-  "summary": "La Universidad de Kalvatar tiene su sede en Ventoro y es uno de los cinco poderes representados en el Consejo.",
+  "summary": "La Universidad de Kalvatar tiene su sede en Ventoro y es uno de los cinco poderes representados en el Consejo: dos escuelas, ocho colegios, la Liga de Exploradores y un barrio entero que paga en vales.",
   "epigraph": {
    "quote": "Cada anillo de cobre en tu mano es una puerta que se abre, y un nombre que el Registro nunca olvidará.",
    "by": "Un magíster de la Universidad"
   },
   "facts": [
    [
-    "Ubicación",
-    "[[Ventoro|Goldwind]]"
+    "Sede",
+    "el barrio de los estudiosos de Ventoro"
    ],
    [
-    "Representante en el Consejo",
+    "Cabeza y asiento en el Consejo",
     "Thessaly Kane"
    ],
    [
-    "Esfera",
-    "El saber y el estudio arcano"
+    "Escuelas",
+    "la Academia de Ventoro; el Instituto Sylariel de Estudios Arcanos"
    ],
    [
-    "Sede",
-    "Ventoro"
+    "Colegios",
+    "ocho"
+   ],
+   [
+    "Dinero",
+    "los vales de la Universidad"
+   ],
+   [
+    "Se lleva",
+    "toga por colegio, y anillos de cobre"
+   ],
+   [
+    "Su año",
+    "del 1 de Eliol a la Semana Larga de Okram"
    ]
   ],
-  "title": "La Universidad de Kalvatar"
+  "title": "La Universidad de Kalvatar",
+  "sections": [
+   {
+    "title": "Un asiento en la mesa",
+    "paragraphs": [
+     "La Universidad de Kalvatar es la escuela de lo arcano más antigua y más grande del archipiélago, y uno de los cinco poderes que se sientan en el Consejo. Thessaly Kane la encabeza y ocupa su asiento. Sucedió a su padre, Thobias Kane; el viejo director, ya retirado, todavía la aconseja desde su biblioteca, y el Consejo todavía le pregunta a él qué piensa ella.",
+     "Sus archivos guardan más cartas viejas que los de los propios [[Cartógrafos|Chartwrights]], cosa que los Cartógrafos nunca le han perdonado."
+    ]
+   },
+   {
+    "title": "Dos escuelas",
+    "paragraphs": [
+     "La **Academia de [[Ventoro|Goldwind]]** enseña ciencia marítima, comercio y artes. El **Instituto Sylariel de Estudios Arcanos** enseña magia, y lleva el nombre de Sylariel la Sabia, a quien la ciudad recuerda como una de las fundadoras de los Cazadores."
+    ]
+   },
+   {
+    "title": "Los colegios",
+    "paragraphs": [
+     "Cada escuela tiene sus colegios, y cada colegio su toga. Un estudiante pertenece a uno, y un erudito puede pertenecer a dos: lleva la toga del primero con el color del segundo en los puños.",
+     "El Colegio del Cuerpo tiene, entre otros, el Departamento de Patología Marítima, que nadie ha pedido nunca visitar."
+    ],
+    "table": {
+     "caption": "Los colegios de la Universidad",
+     "headers": [
+      "Colegio",
+      "Escuela",
+      "Qué estudia",
+      "Toga"
+     ],
+     "rows": [
+      [
+       "Cartas y Estrellas",
+       "Academia",
+       "la navegación, las estrellas y las cartas viejas, con los archivos que las guardan",
+       "azul hondo"
+      ],
+      [
+       "El Casco",
+       "Academia",
+       "los barcos, los puertos y las máquinas del mar",
+       "pardo de brea"
+      ],
+      [
+       "El Libro Mayor",
+       "Academia",
+       "el comercio, la ley y la Carta",
+       "verde botella"
+      ],
+      [
+       "Letras",
+       "Academia",
+       "la historia, las lenguas, la música y las artes",
+       "rojo vino"
+      ],
+      [
+       "El Círculo",
+       "Instituto",
+       "la teoría de la magia, y los nueve círculos que cuenta el Registro",
+       "violeta"
+      ],
+      [
+       "Krysta",
+       "Instituto",
+       "el cristal: graduarlo, cargarlo y engastarlo, junto a los maestros de la Krysta",
+       "ámbar"
+      ],
+      [
+       "Guardas y Umbrales",
+       "Instituto",
+       "la protección, el Velo, los feéricos y los muertos",
+       "gris pizarra"
+      ],
+      [
+       "El Cuerpo",
+       "Instituto",
+       "la curación, con magia y sin ella, y la anatomía",
+       "blanco hueso"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Rangos y togas",
+    "paragraphs": [
+     "Todo erudito lleva la toga de su colegio, y sus anillos de cobre a la vista, uno por cada círculo que cuenta el [[Registro Arcano|Arcane Registry]]."
+    ],
+    "list": [
+     "**Tinta fresca.** Un estudiante de primer año. La tinta de su nombre en los registros todavía está húmeda.",
+     "**Erudito.** Un estudiante que pasó el examen de su colegio. Los eruditos les enseñan a los de primer año y cobran en vales.",
+     "**Magíster.** Un maestro de la Universidad, que tiene cátedra, toma estudiantes propios y dirige sus expediciones.",
+     "**Decano.** La cabeza de un colegio, elegida por sus magísteres.",
+     "**La cabeza de la Universidad,** que ocupa su asiento en el Consejo: Thessaly Kane."
+    ]
+   },
+   {
+    "title": "El año",
+    "paragraphs": [
+     "El año de la Universidad empieza el 1 de Eliol, el mes de la Carta y la Estrella, y termina con los exámenes de la última semana de Okram. El barrio de los estudiosos la llama la Semana Larga, y sus lámparas no se apagan."
+    ]
+   },
+   {
+    "title": "La Liga de Exploradores",
+    "paragraphs": [
+     "La Liga de Exploradores cartografía lo desconocido. Manda eruditos adonde terminan las cartas, y contrata Cazadores, [[Exploradores de Ruinas|Delvers]] sobre todo, para traerlos de vuelta. Sus hallazgos van a los archivos, y sus cartas a los Cartógrafos para que las sellen. Paga bien, y entierra a muchos."
+    ]
+   },
+   {
+    "title": "El barrio de los estudiosos",
+    "paragraphs": [
+     "Alrededor de las agujas, en los anillos altos, vive el barrio de los estudiosos: imprentas, librerías, casas de huéspedes y las tabernas que atienden a los estudiantes. Su dinero son los vales de la Universidad, billetes de papel que valen en las salas de la Universidad, en las imprentas y en esas tabernas, y nada en el puerto.",
+     "Cuando un estudiante gana su primer anillo de cobre, su colegio lo lleva caminando anillos abajo hasta el puerto y de vuelta, y cada taberna del camino le invita una copa que no puede pagar. Pocos vuelven por su propio pie."
+    ]
+   },
+   {
+    "title": "Más allá de Ventoro",
+    "paragraphs": [
+     "Cada pocos años la Universidad manda a su mejor erudito a Berith, la escuela flotante de Assios, y cada pocos años uno de ellos se queda. El Instituto lleva el nombre de una fundadora de los Cazadores, y las [[Logias|Lodges]] y la Universidad se necesitan desde entonces."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "La Liga de Exploradores contrata Cazadores para una expedición más allá de la última carta, y paga la mitad por adelantado, cosa que nunca hace.",
+     "Una estudiante de primer año ganó un anillo de cobre que no debería poder ganar. El Registro dice que nadie le ha enseñado nunca.",
+     "Durante la Semana Larga se robaron los exámenes de un colegio entero, y cada decano sospecha de otro colegio."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Registrador existe. Es un hombre alto de gris que visita de noche los sótanos de la Universidad, y la Universidad niega que haya venido nunca a la ciudad.” (se oye en el [[Corazón Central|Central Heartland]])",
+     "“Las canciones de los marineros cuentan nueve grandes dragones en el mundo. Una lectora de estrellas de [[Aguja Alta|Highspire]] contó una vez diez, y la Universidad le quitó las cartas.” (un pulidor de lentes de Aguja Alta)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIERlcGFydGFtZW50byBkZSBQYXRvbG9nw61hIE1hcsOtdGltYSBlcyBsYSBGYWN1bHRhZCBTZWxsYWRhKiogKFZvbHVtZW4gWFgpOiBsb3MgZXJ1ZGl0b3MsIGNpcnVqYW5vcyB5IGhlcnJlcm9zIGRlIGxhIFZpZ2lsaWEgZGUgUGxhdGEgcXVlIGVzdHVkaWFuIGxhIFNhbmdyw61hLCB0cmF0YW4gYSBsb3MgcXVlIERlcml2YW4sIGxsZXZhbiBlbCBsaWJybyBkZSBmdWdhcyB5IGhhY2VuIGxhIHBsYXRhIGRlIGd1YXJkYSwgYmFqbyBlbCBtYW5kbyBkZWwgbWFnw61zdGVyIFRlb2RyaWMgSHVuZS4gRWwgbm9tYnJlIGFidXJyaWRvIHNlIGVsaWdpw7MgY29uIG11Y2hvIGN1aWRhZG8uIFRoZXNzYWx5IEthbmUgbG8gc2FiZSwgeSBwb3IgZXNvIG51bmNhIHByZWd1bnRhIGVuIHF1w6kgZ2FzdGEgZWwgQ29sZWdpbyBkZWwgQ3VlcnBvLiIsICIqKkxhIGV4cGVkaWNpw7NuIHBlcmRpZGEuKiogRW4gMTQ4IEVDIHVuYSBleHBlZGljacOzbiBkZSBsYSBVbml2ZXJzaWRhZCBhbCBtYW5kbyBkZWwgbWFnw61zdGVyIEVkcmluIENhdWwgYWNhbXDDsyBlbiBlbCBoaWVsbyBhbHRvLCBtw6FzIGFsbMOhIGRlIFNub3d2YWgsIHkgbnVuY2Egc2Ugdm9sdmnDsyBhIHNhYmVyIGRlIGVsbGEuIEVzYSBmdWUgbGEgbm9jaGUgZW4gcXVlIHNlIGFicmnDsyBsYSBIZXJpZGEuIExhIExpZ2EgZGUgRXhwbG9yYWRvcmVzIGxhIHRpZW5lIGFub3RhZGEgY29tbyBwZXJkaWRhIGVuIGVsIGhpZWxvLCB5IEh1bmUgdG9kYXbDrWEgaW50ZW50YSBkZXNoYWNlciBsbyBxdWUgaGl6byBzdSBtYWVzdHJvLiIsICIqKkRlIGTDs25kZSBzYWxlbiBsb3MgY3VlcnBvcyBkZSBsb3MgYW5hdG9taXN0YXMuKiogQWxndW5vcyBkZSBsb3MgbXVlcnRvcyBxdWUgY29tcHJhIGVsIENvbGVnaW8gZGVsIEN1ZXJwbyB2aWVuZW4gZGUgbGEgQ29ydGUgZGUgbG9zIEh1ZXNvcywgcG9yIGxhIE3DqWR1bGEuIEVsIENvbGVnaW8gbm8gcHJlZ3VudGEuIl19"
+   }
+  ]
  },
  "arcane-registry": {
   "gloss": "The Arcane Registry",
@@ -15078,5 +15307,155 @@
   ],
   "aliases": [],
   "gloss": "The Grandfather"
+ },
+ "the-commons": {
+  "title": "El Común",
+  "subtitle": "El pueblo propio de Ventoro: siete barrios, un puerto, y todos los que trabajan para los demás",
+  "summary": "El pueblo de la gente común en la bahía de Ventoro, con su propio puerto, el Puerto Bajo. Siete barrios de pescadores, barqueros, estibadores, saladores y cordeleros: la parte de la capital que hace el trabajo y el ruido.",
+  "facts": [
+   [
+    "Dónde",
+    "la bahía de Ventoro, una de sus tres partes"
+   ],
+   [
+    "Puerto",
+    "el Puerto Bajo, el más ruidoso del Corazón"
+   ],
+   [
+    "Barrios",
+    "siete"
+   ],
+   [
+    "Mercado",
+    "el Mercado de las Gaviotas"
+   ],
+   [
+    "Guardan el orden",
+    "la guardia de la ciudad, de a dos, y los barrios mismos"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La bahía de [[Ventoro|Goldwind]] tiene tres partes: el [[Puerto Soberano|Sovereign Harbor]] de las flotas mercantes, los [[Muelles del Centinela|Sentinel Docks]] de los astilleros, y el Común. El Común es el pueblo de la gente común: más viejo que la capital, más pobre, y mucho más ruidoso. Los que viven ahí dicen que es un pueblo aparte, y que Ventoro es la parte de la colina.",
+     "Tiene siete barrios. Nadie se pone de acuerdo en dónde termina uno y empieza el siguiente, y todos lo saben."
+    ]
+   },
+   {
+    "title": "Los siete barrios",
+    "paragraphs": [],
+    "table": {
+     "caption": "Los barrios del Común",
+     "headers": [
+      "Barrio",
+      "Qué es"
+     ],
+     "rows": [
+      [
+       "El Puerto Bajo",
+       "el puerto propio del Común, y el más ruidoso del Corazón"
+      ],
+      [
+       "Los Canales",
+       "cien puentes, y puertas que dan al agua"
+      ],
+      [
+       "El Mercado de las Gaviotas",
+       "el mercado de la gente común, donde todo cuesta Olas"
+      ],
+      [
+       "Las Cordelerías",
+       "cuerda, vela y red, torcidas para cada barco de la ciudad"
+      ],
+      [
+       "Los Ahumaderos",
+       "los saladores de pescado y los ahumaderos, a sotavento"
+      ],
+      [
+       "La Maraña",
+       "el barrio más viejo y más pobre, todo callejones"
+      ],
+      [
+       "La Colina de las Cometas",
+       "tabernas, viento y cometas de pelea"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "El Puerto Bajo",
+    "paragraphs": [
+     "El puerto propio del Común, para barcas de pesca, gabarras y todo casco demasiado pequeño o demasiado pobre para el Puerto Soberano. Es el puerto más ruidoso del [[Corazón|Heartland]], y en Liora, cuando los puertos celebran los [[Juegos del Merrin|Merrin Games]], lo es todavía más.",
+     "Las viudas de los pescadores le traen aquí su sal a la [[Madre que Ahoga|Drowning Mother]], y los sastres y los proveedores de la orilla remiendan lo que el mar rompe."
+    ]
+   },
+   {
+    "title": "Los Canales",
+    "paragraphs": [
+     "El barrio donde los canales que cruzan los anillos bajos de Ventoro corren más apretados: cien puentecitos, botes a toda hora y casas cuya puerta principal es un amarradero. Las [[vacas del alga|wrack cows]] remolcan las barcazas, los barqueros tienen una canción para cada puente, y una dirección en los Canales se da en puentes, no en calles."
+    ]
+   },
+   {
+    "title": "El Mercado de las Gaviotas",
+    "paragraphs": [
+     "El mercado de la gente común. Todo cuesta Olas, todo lo vende alguien a gritos, y las gaviotas llegan primero. Pescado del Puerto Bajo al amanecer, de todo de segunda mano al mediodía, y comida caliente hasta que se encienden las lámparas.",
+     "No es el Gran Bazar del Corazón, y está orgulloso de no serlo: el Bazar le vende a todas las islas, y el Mercado de las Gaviotas le vende al Común. Una [[Mano Dorada|Gilt Hand]] trabaja cada multitud que se junta ahí, y los niños de la vieja Pell conocen cada puesto."
+    ]
+   },
+   {
+    "title": "Las Cordelerías",
+    "paragraphs": [
+     "Galpones largos y angostos donde la cuerda se tuerce a cuatrocientos metros por vez, y los talleres de velas, los remendadores de redes y los fabricantes de motones que viven al lado. Cada cabo de un barco de Ventoro se torció aquí, y un cordelero te dice de qué manos salió un nudo con solo mirarlo."
+    ]
+   },
+   {
+    "title": "Los Ahumaderos",
+    "paragraphs": [
+     "El barrio de los saladores de pescado y los ahumaderos, a sotavento de todo lo demás a propósito. El humo cuelga encima de día y de noche, y el pescado salado que alimenta a la Armada, y a los ejércitos del Frente al otro lado del estrecho, empieza aquí."
+    ]
+   },
+   {
+    "title": "La Maraña",
+    "paragraphs": [
+     "El barrio más viejo y más pobre: callejones que se doblan sobre sí mismos, casas apoyadas unas en otras y escaleras que llevan a un lugar distinto cada año. La guardia la recorre de a dos. Los que viven ahí dicen que es el barrio más seguro de la ciudad, si vives ahí."
+    ]
+   },
+   {
+    "title": "La Colina de las Cometas",
+    "paragraphs": [
+     "La colina a espaldas del Común, donde están las tabernas y el viento. Cualquier tarde clara su cielo se llena de cometas de pelea, y los apostadores de cometas toman apuestas sobre cada hilo. Fuera de la temporada social, cuando terminan los bailes de los anillos de arriba, las noches de Ventoro son de las tabernas de la Colina."
+    ]
+   },
+   {
+    "title": "Quién guarda el orden",
+    "paragraphs": [
+     "La guardia de la ciudad, de a dos. [[Costalarga|the Longshore]], el gremio de los estibadores, cuya jefa, Morgha [[Sostenmuros|Wall-Holder]], manda en los muelles. Las Manos Doradas, que le vacían los bolsillos al Común y le guardan la paz a su manera. Y los barrios mismos, que arreglan casi todo antes de que la guardia se entere."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un canal de los Canales ha empezado a correr al revés de noche, y los barqueros no trabajan después de que oscurece.",
+     "Ochocientos metros de cuerda, torcidos para un barco de la Armada, salieron caminando de un galpón de las Cordelerías durante la noche.",
+     "El mejor peleador de cometas de la Colina nunca ha perdido un hilo, y alguien está pagando buenas Mareas por saber por qué."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Cada puente de los Canales tiene nombre, y uno tiene dos. Pregúntales a los barqueros cuál, y te cambian de tema.” (una balsera de los Canales)",
+     "“Las cometas de la Colina no son para jugar. En las noches claras las Manos Doradas mandan recados por todo el Común con ellas.” (un guardia, recorriendo la Maraña de a dos)"
+    ]
+   }
+  ],
+  "aliases": [
+   "Puerto Bajo",
+   "el Puerto Bajo",
+   "Mercado de las Gaviotas",
+   "Colina de las Cometas"
+  ],
+  "gloss": "The Commons"
  }
 }
