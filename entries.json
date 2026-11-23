@@ -345,7 +345,10 @@
    "malims-stair",
    "mirrormere",
    "kaskan",
-   "monumak"
+   "monumak",
+   "blue-folk",
+   "chainbreakers",
+   "brassfield"
   ]
  },
  {
@@ -15083,7 +15086,8 @@
    "house-vossreth",
    "undertow",
    "coins-and-prices",
-   "games-and-pastimes"
+   "games-and-pastimes",
+   "brassfield"
   ]
  },
  {
@@ -16471,7 +16475,16 @@
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
-  "aliases": [],
+  "aliases": [
+   "the Company",
+   "Company brass",
+   "Company town",
+   "Company towns",
+   "Company store",
+   "writ-men",
+   "writ-man",
+   "brass-collars"
+  ],
   "related": [
    "mercantile-congress",
    "talk-of-175-ec",
@@ -16482,7 +16495,8 @@
    "southern-wilds",
    "sister-smoke",
    "vesper-zane",
-   "coinsday-reading"
+   "coinsday-reading",
+   "brassfield"
   ]
  },
  {
@@ -19202,7 +19216,8 @@
    "southern-wilds",
    "sigil",
    "southhaven",
-   "noble-houses"
+   "noble-houses",
+   "chainbreakers"
   ]
  },
  {
@@ -22300,7 +22315,9 @@
    "karn-sorroch",
    "sigil",
    "southhaven",
-   "noble-houses"
+   "noble-houses",
+   "chainbreakers",
+   "brassfield"
   ]
  },
  {
@@ -23076,7 +23093,8 @@
    "halflings",
    "icy-expanse",
    "brother-dog",
-   "hask-the-red-hand"
+   "hask-the-red-hand",
+   "driftborn"
   ]
  },
  {
@@ -26868,7 +26886,9 @@
    "southern-wilds",
    "assios-and-the-wider-world",
    "memnara-the-unbroken-thread",
-   "azhani"
+   "azhani",
+   "chainbreakers",
+   "brassfield"
   ]
  },
  {
@@ -30871,7 +30891,8 @@
   "related": [
    "southern-movements",
    "free-tide",
-   "hospitality"
+   "hospitality",
+   "chainbreakers"
   ]
  },
  {
@@ -31716,7 +31737,8 @@
   "aliases": [],
   "related": [
    "most-wanted",
-   "coins-and-prices"
+   "coins-and-prices",
+   "chainbreakers"
   ],
   "epigraph": {
    "quote": "They didn’t take the cargo. They took the people in the hold, and the people went gladly.",
@@ -33082,7 +33104,8 @@
    "sevrin-the-chainbreaker",
    "southern-wilds",
    "talk-of-175-ec",
-   "zalkareth"
+   "zalkareth",
+   "chainbreakers"
   ],
   "illustration": {
    "src": "assets/atlas-scenes/southern-movements-960.webp",
@@ -35867,7 +35890,8 @@
    "hunters",
    "arcane-registry",
    "southern-wilds",
-   "imra-and-claire"
+   "imra-and-claire",
+   "blue-folk"
   ]
  },
  {
@@ -41091,7 +41115,8 @@
    "widows-teeth",
    "frosthold",
    "the-great-flows",
-   "swords-and-hunters"
+   "swords-and-hunters",
+   "driftborn"
   ]
  },
  {
@@ -52646,7 +52671,9 @@
    "southhaven",
    "southern-movements",
    "undertow",
-   "azhani"
+   "azhani",
+   "chainbreakers",
+   "brassfield"
   ],
   "aliases": [
    "Lumai Okonja"
@@ -54698,7 +54725,9 @@
    "vice-and-the-black-market",
    "house-vossreth",
    "karn-sorroch",
-   "southern-wilds"
+   "southern-wilds",
+   "brassfield",
+   "chainbreakers"
   ],
   "aliases": [],
   "source": "Kalvatar Library · 175 EC",
@@ -56875,7 +56904,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoZSBsZWFkcyB0aGUgT3BlbiBMb2NrLCoqIHRoZSBDaGFpbmJyZWFrZXJzJyBjZWxsIGluIEdvbGR3aW5kOiBhIGRvemVuIGhhbmRzIHRoYXQgZG8gaW4gdGhlIGNhcGl0YWwgd2hhdCB0aGUgQ2hhaW5icmVha2VycyBkbyBpbiB0aGUgc291dGggd2l0aCBmaXJlLiBUaGV5IGJ1eSB1cCBpbmRlbnR1cmUgcGFwZXIgYW5kIGJ1cm4gaXQsIGZvcmdlIGNsZWFuIG5hbWVzIGZvciB0aG9zZSB3aG8gZXNjYXBlIG5vcnRoLCBrZWVwIHRoZSBDaGFpbmJyZWFrZXJzJyBsaXN0IG9mIGV2ZXJ5b25lIGluIEdvbGR3aW5kIHdobyBidXlzIHBhcGVyIHBlb3BsZSwgYW5kIHBheSBmb3IgdGhlIHBvd2Rlci4gSXRzIG1hcmsgaXMgU2V2cmluJ3M6IGEgbG9jayBsZWZ0IGJyb2tlbiBvcGVuLiIsICIqKldoZXJlIHRoZSBtb25leSBjb21lcyBmcm9tLioqIFRoZSBDaGFwdGVyIG9mIFJlY2tvbmVycyBtZWV0cyB0aGUgbmlnaHQgYmVmb3JlIGV2ZXJ5IENvaW5zZGF5IFJlYWRpbmcgYW5kIGFncmVlcyB0aGUgbnVtYmVycyBpdCB3aWxsIHJlYWQuIE9uZSBvZiB0aGUgY291bnRlcnMgd2hvIGNvcGllcyB0aGVtIG91dCBpcyBoZXJzOiBoaXMgbW90aGVyIGRpZWQgaW4gYSBDb21wYW55IHRvd24uIEhlIGJyaW5ncyBoZXIgdGhlIG51bWJlcnMgYXQgTWVycm93J3MsIHdoZXJlIHNoZSBpcyBkYW5jaW5nLCBhbmQgYmVmb3JlIHRoZSBub29uIGJlbGwgaGVyIGNoYWxrZXIgYXQgdGhlIEJsYWNrIEN1cCBidXlzIHRoZSBiZWxsIHBhcnRzLiBUaGUgY2hhbGtlciB3aG8gaGFzIG5ldmVyIG9uY2UgYmVlbiB3cm9uZyBpcyB0aGUgT3BlbiBMb2NrJ3MsIGFuZCBldmVyeSBBbmNob3IgaGUgbWFrZXMgZ29lcyBzb3V0aC4iLCAiKipXaG8gc2hlIHdhcy4qKiBTaGUgd2FzIGJvcm4gb24gdGhlIGRyeSBpc2xlcywgb2YgdGhlIEJsdWUgSGFuZCwgYSBjbGFuIG9mIHRoZSBibHVlIGZvbGsgdGhhdCBjYXJyaWVkIFZlcmRheWFuIGphZGUgYnkgY2FyYXZhbiBhbmQgY2Fub2UgZm9yIGxvbmdlciB0aGFuIGFueW9uZSByZW1lbWJlcnMuIFRoZSBDb21wYW55J3MgamFkZSBjb25jZXNzaW9uIGNsb3NlZCB0aGUgcm9hZCwgdGhlIGNsYW4ncyBkZWJ0cyB3ZXJlIGJvdWdodCwgYW5kIHRoZSBkZWJ0cyB3ZXJlIHNvbGQgb24gYXMgaW5kZW50dXJlLiBBdCBlbGV2ZW4gQXpoYW5pIHdhcyBwYXBlciBpbiBhIENvbXBhbnkgdG93biBvdXRzaWRlIFNvdXRoaGF2ZW4sIHdoZXJlIHRoZSBvdmVyc2VlcnMgdG9vayB0aGUgY2hpbGRyZW4ncyBzaG9lcyBzbyB0aGV5IGNvdWxkIG5vdCBydW4gb24gdGhlIGNhbmUtc3R1YmJsZS4gVGhlIGlyb24gb24gaGVyIGFua2xlIGlzIGEgbGluayBvZiB0aGUgY2hhaW4gdGhhdCBsb2NrZWQgdGhlIGNoaWxkcmVuJ3MgYnVua2hvdXNlIGF0IG5pZ2h0OiBzaGUgYnJva2UgaXQgdGhlIG5pZ2h0IHNoZSByYW4uIiwgIioqU2V2cmluJ3MgYmxlc3NpbmcuKiogU2hlIHdhcyBmaWZ0ZWVuLCBhbmQgdGhlIG92ZXJzZWVycyBoYWQgZmlyZWQgdGhlIGNhbmUgZm9yIHRoZSBoYXJ2ZXN0LiBTaGUgcmFuIGFueXdheSwgYmFyZWZvb3QsIHN0cmFpZ2h0IHRocm91Z2ggdGhlIGJ1cm5pbmcgZmllbGQsIHByYXlpbmcgdGhlIG9ubHkgd2F5IFNldnJpbiBpcyBwcmF5ZWQgdG86IHN0YW5kaW5nLiBTaGUgc2hvdWxkIGhhdmUgY29tZSBvdXQgY3JpcHBsZWQuIFNoZSBjYW1lIG91dCB3aXRoIGhlciBmZWV0IHVubWFya2VkLCBhbmQgU2lzdGVyIFNtb2tlJ3MgY2Fub2Ugd2FzIHdhaXRpbmcgb24gdGhlIGZhciBiYW5rLiBTaW5jZSB0aGF0IG5pZ2h0IGhlciBiYXJlIGZlZXQgZmVlbCBubyBwYWluIGFuZCBubyBkaXNjb21mb3J0IGZyb20gYW55dGhpbmcgdGhleSBzdGFuZCBvbiwgZW1iZXJzLCBpY2UsIGJyb2tlbiBnbGFzcywgY2FsdHJvcHMsIGNhbmUtc3R1YmJsZSwgYW5kIHRoZXkgc3RheSBzb2Z0LCBjbGVhbiwgYW5kIHBlcmZlY3QsIGFzIGlmIHNoZSBoYWQgbmV2ZXIgb25jZSBnb25lIGJhcmVmb290LiBJbiBwbGF5LCBzaGUgaWdub3JlcyBoYXJtIGFuZCBkaWZmaWN1bHQgZ3JvdW5kIHRoYXQgY29tZSBvbmx5IGZyb20gd2hhdCBpcyB1bmRlcmZvb3QsIGFuZCBub3RoaW5nIG1vcmU6IHRoZSBibGVzc2luZyBndWFyZHMgdGhlIGZlZXQgdGhhdCByYW4sIG5vdCB0aGUgcmVzdCBvZiBoZXIuIFNoZSBiZWxpZXZlcyB0aGF0IGlmIHNoZSBldmVyIHB1dHMgb24gc2hvZXMgdG8gaGlkZSwgb3Iga25lZWxzIHRvIGFueW9uZSB3aG8gd291bGQgb3duIGhlciwgdGhlIGJsZXNzaW5nIHdpbGwgbGVhdmUgaGVyLiBTaGUgbWF5IGJlIHJpZ2h0LiIsICIqKldoYXQgc2hlIGhvbGRzLioqIFRoZSBPcGVuIExvY2sgaGFzIGEgY29weSBvZiB0aGUgdHJ1ZSBncmFkaW5nLWJvb2sgb2YgdGhlIEZlbm5pY2sgZmFjdG9ycycgTG9uZyBXYXJlaG91c2UsIHdoaWNoIHNob3dzIHRoYXQgaGFsZiB0aGUgR3JleW1vb3IgY29mZmVlIHNvbGQgaW4gR29sZHdpbmQgZ3JldyBvbiBIb3VzZSBWb3NzcmV0aCdzIHVuZnJlZSBlc3RhdGVzLiBTaGUgaGFzIG5vdCBkZWNpZGVkIHdoZXRoZXIgdG8gYnVybiBGZW5uaWNrIHdpdGggaXQsIG9yIHRvIGdpdmUgaXQgdG8gTGFkeSBJbWFyYSBHcmV5bW9vciwgd2hvc2UgaG91c2UgcXVpZXRseSBwYXlzIGZvciB0aGUgQ2hhaW5icmVha2VycycgcG93ZGVyLCBpbiB0aGUgd2F5IHRoYXQgd2lsbCB2aW5kaWNhdGUgaGVyIGFuZCBub3QgcnVpbiBoZXIuIiwgIioqV2hhdCBzaGUgbWVhbnMgdG8gZG8uKiogRWFjaCBzZWFzb24gdGhlIENvbXBhbnkncyBydW5uZXJzIGNhcnJ5IGl0cyBuZXcgaW5kZW50dXJlIGNvbnRyYWN0cyB0byB0aGUgUmVja29uZXJzJyBIYWxsIHRvIGJlIGVudGVyZWQgb24gQ29pbnNkYXkuIFRoZSBPcGVuIExvY2sgbWVhbnMgdG8gdGFrZSB0aGVtIG9uIHRoZSBzdHJlZXQgYW5kIGJ1cm4gdGhlbSBpbiB0aGUgR3VsbG1hcmtldCwgaW4gZnJvbnQgb2YgZXZlcnlvbmUsIGF0IHRoZSBlbmQgb2YgYW4gZW1iZXIgZGFuY2UuIEl0IHdvdWxkIGZyZWUgbm8gb25lIG9uIHBhcGVyLCBzaW5jZSB0aGUgQ29tcGFueSBrZWVwcyBjb3BpZXMgaW4gdGhlIHNvdXRoOyBpdCB3b3VsZCBzaG93IGV2ZXJ5IGJvdW5kIHdvcmtlciBpbiB0aGUgaXNsYW5kcyB0aGF0IHRoZSBwYXBlciBidXJucy4gU2lzdGVyIFNtb2tlIHRoaW5rcyBpdCBpcyBhIHdhc3RlIG9mIGdvb2QgcGVvcGxlLiBBemhhbmkgdGhpbmtzIGl0IGlzIHRoZSB3aG9sZSBwb2ludC4iLCAiKipTaGUgaXMgcnV0aGxlc3MuKiogTGFzdCBzcHJpbmcgYSBWb3NzcmV0aCBidXllciBvZiBwYXBlciBwZW9wbGUgd2FzIGZvdW5kIGluIHRoZSBDYW5hbHMsIGFuZCB0aGUgd2F0Y2ggd3JvdGUgaXQgZG93biBhcyBkcmluay4gSXQgd2FzIG5vdCBkcmluay4iLCAiKipXaG8gaXMgY2xvc2luZyBpbi4qKiBHb3Zlcm5vciBJbWVsZGEgUm9xdWUgaGFzIHB1dCBhIHByaWNlIG9uIOKAnHRoZSBPcGVuIExvY2vigJ0gYW5kIGEgd3JpdC1tYW4gb24gdGhlIEd1bGxtYXJrZXQuIFRoZSB3cml0LW1hbiBpcyBUYXZvIG9mIHRoZSBCbHVlIEhhbmQsIGhlciBvd24gY291c2luLCB3aG8gc2lnbmVkIHdpdGggdGhlIENvbXBhbnkgdG8gcGF5IHRoZSBjbGFuJ3MgZGVidC4gSGUga25vd3MgZXhhY3RseSB3aG8gc2hlIGlzLiBIZSBoYXMgbm90IHRvbGQgYW55b25lIHlldCwgYW5kIGhlIGRvZXMgbm90IGtub3cgaGltc2VsZiB3aHkgbm90LiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNoZSBsZWFkcyB0aGUgT3BlbiBMb2NrLCoqIHRoZSBDaGFpbmJyZWFrZXJzJyBjZWxsIGluIEdvbGR3aW5kOiBhIGRvemVuIGhhbmRzIHRoYXQgZG8gaW4gdGhlIGNhcGl0YWwgd2hhdCB0aGUgQ2hhaW5icmVha2VycyBkbyBpbiB0aGUgc291dGggd2l0aCBmaXJlLiBUaGV5IGJ1eSB1cCBpbmRlbnR1cmUgcGFwZXIgYW5kIGJ1cm4gaXQsIGZvcmdlIGNsZWFuIG5hbWVzIGZvciB0aG9zZSB3aG8gZXNjYXBlIG5vcnRoLCBrZWVwIHRoZSBDaGFpbmJyZWFrZXJzJyBsaXN0IG9mIGV2ZXJ5b25lIGluIEdvbGR3aW5kIHdobyBidXlzIHBhcGVyIHBlb3BsZSwgYW5kIHBheSBmb3IgdGhlIHBvd2Rlci4gSXRzIG1hcmsgaXMgU2V2cmluJ3M6IGEgbG9jayBsZWZ0IGJyb2tlbiBvcGVuLiIsICIqKldoZXJlIHRoZSBtb25leSBjb21lcyBmcm9tLioqIFRoZSBDaGFwdGVyIG9mIFJlY2tvbmVycyBtZWV0cyB0aGUgbmlnaHQgYmVmb3JlIGV2ZXJ5IENvaW5zZGF5IFJlYWRpbmcgYW5kIGFncmVlcyB0aGUgbnVtYmVycyBpdCB3aWxsIHJlYWQuIE9uZSBvZiB0aGUgY291bnRlcnMgd2hvIGNvcGllcyB0aGVtIG91dCBpcyBoZXJzOiBoaXMgbW90aGVyIGRpZWQgaW4gYSBDb21wYW55IHRvd24uIEhlIGJyaW5ncyBoZXIgdGhlIG51bWJlcnMgYXQgTWVycm93J3MsIHdoZXJlIHNoZSBpcyBkYW5jaW5nLCBhbmQgYmVmb3JlIHRoZSBub29uIGJlbGwgaGVyIGNoYWxrZXIgYXQgdGhlIEJsYWNrIEN1cCBidXlzIHRoZSBiZWxsIHBhcnRzLiBUaGUgY2hhbGtlciB3aG8gaGFzIG5ldmVyIG9uY2UgYmVlbiB3cm9uZyBpcyB0aGUgT3BlbiBMb2NrJ3MsIGFuZCBldmVyeSBBbmNob3IgaGUgbWFrZXMgZ29lcyBzb3V0aC4iLCAiKipXaG8gc2hlIHdhcy4qKiBTaGUgd2FzIGJvcm4gb24gdGhlIGRyeSBpc2xlcywgb2YgdGhlIEJsdWUgSGFuZCwgYSBjbGFuIG9mIHRoZSBibHVlIGZvbGsgdGhhdCBjYXJyaWVkIFZlcmRheWFuIGphZGUgYnkgY2FyYXZhbiBhbmQgY2Fub2UgZm9yIGxvbmdlciB0aGFuIGFueW9uZSByZW1lbWJlcnMuIFRoZSBDb21wYW55J3MgamFkZSBjb25jZXNzaW9uIGNsb3NlZCB0aGUgcm9hZCwgdGhlIGNsYW4ncyBkZWJ0cyB3ZXJlIGJvdWdodCwgYW5kIHRoZSBkZWJ0cyB3ZXJlIHNvbGQgb24gYXMgaW5kZW50dXJlLiBBdCBlbGV2ZW4gQXpoYW5pIHdhcyBwYXBlciBpbiBCcmFzc2ZpZWxkLCBhIENvbXBhbnkgdG93biBvdXRzaWRlIFNvdXRoaGF2ZW4sIHdoZXJlIHRoZSBvdmVyc2VlcnMgdG9vayB0aGUgY2hpbGRyZW4ncyBzaG9lcyBzbyB0aGV5IGNvdWxkIG5vdCBydW4gb24gdGhlIGNhbmUtc3R1YmJsZS4gVGhlIGlyb24gb24gaGVyIGFua2xlIGlzIGEgbGluayBvZiB0aGUgY2hhaW4gdGhhdCBsb2NrZWQgdGhlIGNoaWxkcmVuJ3MgYnVua2hvdXNlIGF0IG5pZ2h0OiBzaGUgYnJva2UgaXQgdGhlIG5pZ2h0IHNoZSByYW4uIiwgIioqU2V2cmluJ3MgYmxlc3NpbmcuKiogU2hlIHdhcyBmaWZ0ZWVuLCBhbmQgdGhlIG92ZXJzZWVycyBoYWQgZmlyZWQgdGhlIGNhbmUgZm9yIHRoZSBoYXJ2ZXN0LiBTaGUgcmFuIGFueXdheSwgYmFyZWZvb3QsIHN0cmFpZ2h0IHRocm91Z2ggdGhlIGJ1cm5pbmcgZmllbGQsIHByYXlpbmcgdGhlIG9ubHkgd2F5IFNldnJpbiBpcyBwcmF5ZWQgdG86IHN0YW5kaW5nLiBTaGUgc2hvdWxkIGhhdmUgY29tZSBvdXQgY3JpcHBsZWQuIFNoZSBjYW1lIG91dCB3aXRoIGhlciBmZWV0IHVubWFya2VkLCBhbmQgU2lzdGVyIFNtb2tlJ3MgY2Fub2Ugd2FzIHdhaXRpbmcgb24gdGhlIGZhciBiYW5rLiBTaW5jZSB0aGF0IG5pZ2h0IGhlciBiYXJlIGZlZXQgZmVlbCBubyBwYWluIGFuZCBubyBkaXNjb21mb3J0IGZyb20gYW55dGhpbmcgdGhleSBzdGFuZCBvbiwgZW1iZXJzLCBpY2UsIGJyb2tlbiBnbGFzcywgY2FsdHJvcHMsIGNhbmUtc3R1YmJsZSwgYW5kIHRoZXkgc3RheSBzb2Z0LCBjbGVhbiwgYW5kIHBlcmZlY3QsIGFzIGlmIHNoZSBoYWQgbmV2ZXIgb25jZSBnb25lIGJhcmVmb290LiBJbiBwbGF5LCBzaGUgaWdub3JlcyBoYXJtIGFuZCBkaWZmaWN1bHQgZ3JvdW5kIHRoYXQgY29tZSBvbmx5IGZyb20gd2hhdCBpcyB1bmRlcmZvb3QsIGFuZCBub3RoaW5nIG1vcmU6IHRoZSBibGVzc2luZyBndWFyZHMgdGhlIGZlZXQgdGhhdCByYW4sIG5vdCB0aGUgcmVzdCBvZiBoZXIuIFNoZSBiZWxpZXZlcyB0aGF0IGlmIHNoZSBldmVyIHB1dHMgb24gc2hvZXMgdG8gaGlkZSwgb3Iga25lZWxzIHRvIGFueW9uZSB3aG8gd291bGQgb3duIGhlciwgdGhlIGJsZXNzaW5nIHdpbGwgbGVhdmUgaGVyLiBTaGUgbWF5IGJlIHJpZ2h0LiIsICIqKldoYXQgc2hlIGhvbGRzLioqIFRoZSBPcGVuIExvY2sgaGFzIGEgY29weSBvZiB0aGUgdHJ1ZSBncmFkaW5nLWJvb2sgb2YgdGhlIEZlbm5pY2sgZmFjdG9ycycgTG9uZyBXYXJlaG91c2UsIHdoaWNoIHNob3dzIHRoYXQgaGFsZiB0aGUgR3JleW1vb3IgY29mZmVlIHNvbGQgaW4gR29sZHdpbmQgZ3JldyBvbiBIb3VzZSBWb3NzcmV0aCdzIHVuZnJlZSBlc3RhdGVzLiBTaGUgaGFzIG5vdCBkZWNpZGVkIHdoZXRoZXIgdG8gYnVybiBGZW5uaWNrIHdpdGggaXQsIG9yIHRvIGdpdmUgaXQgdG8gTGFkeSBJbWFyYSBHcmV5bW9vciwgd2hvc2UgaG91c2UgcXVpZXRseSBwYXlzIGZvciB0aGUgQ2hhaW5icmVha2VycycgcG93ZGVyLCBpbiB0aGUgd2F5IHRoYXQgd2lsbCB2aW5kaWNhdGUgaGVyIGFuZCBub3QgcnVpbiBoZXIuIiwgIioqV2hhdCBzaGUgbWVhbnMgdG8gZG8uKiogRWFjaCBzZWFzb24gdGhlIENvbXBhbnkncyBydW5uZXJzIGNhcnJ5IGl0cyBuZXcgaW5kZW50dXJlIGNvbnRyYWN0cyB0byB0aGUgUmVja29uZXJzJyBIYWxsIHRvIGJlIGVudGVyZWQgb24gQ29pbnNkYXkuIFRoZSBPcGVuIExvY2sgbWVhbnMgdG8gdGFrZSB0aGVtIG9uIHRoZSBzdHJlZXQgYW5kIGJ1cm4gdGhlbSBpbiB0aGUgR3VsbG1hcmtldCwgaW4gZnJvbnQgb2YgZXZlcnlvbmUsIGF0IHRoZSBlbmQgb2YgYW4gZW1iZXIgZGFuY2UuIEl0IHdvdWxkIGZyZWUgbm8gb25lIG9uIHBhcGVyLCBzaW5jZSB0aGUgQ29tcGFueSBrZWVwcyBjb3BpZXMgaW4gdGhlIHNvdXRoOyBpdCB3b3VsZCBzaG93IGV2ZXJ5IGJvdW5kIHdvcmtlciBpbiB0aGUgaXNsYW5kcyB0aGF0IHRoZSBwYXBlciBidXJucy4gU2lzdGVyIFNtb2tlIHRoaW5rcyBpdCBpcyBhIHdhc3RlIG9mIGdvb2QgcGVvcGxlLiBBemhhbmkgdGhpbmtzIGl0IGlzIHRoZSB3aG9sZSBwb2ludC4iLCAiKipTaGUgaXMgcnV0aGxlc3MuKiogTGFzdCBzcHJpbmcgYSBWb3NzcmV0aCBidXllciBvZiBwYXBlciBwZW9wbGUgd2FzIGZvdW5kIGluIHRoZSBDYW5hbHMsIGFuZCB0aGUgd2F0Y2ggd3JvdGUgaXQgZG93biBhcyBkcmluay4gSXQgd2FzIG5vdCBkcmluay4iLCAiKipXaG8gaXMgY2xvc2luZyBpbi4qKiBHb3Zlcm5vciBJbWVsZGEgUm9xdWUgaGFzIHB1dCBhIHByaWNlIG9uIOKAnHRoZSBPcGVuIExvY2vigJ0gYW5kIGEgd3JpdC1tYW4gb24gdGhlIEd1bGxtYXJrZXQuIFRoZSB3cml0LW1hbiBpcyBUYXZvIG9mIHRoZSBCbHVlIEhhbmQsIGhlciBvd24gY291c2luLCB3aG8gc2lnbmVkIHdpdGggdGhlIENvbXBhbnkgdG8gcGF5IHRoZSBjbGFuJ3MgZGVidC4gSGUga25vd3MgZXhhY3RseSB3aG8gc2hlIGlzLiBIZSBoYXMgbm90IHRvbGQgYW55b25lIHlldCwgYW5kIGhlIGRvZXMgbm90IGtub3cgaGltc2VsZiB3aHkgbm90LiJdfQ=="
    }
   ],
   "related": [
@@ -56891,7 +56920,10 @@
    "the-canals",
    "house-greymoor",
    "house-vossreth",
-   "undertow"
+   "undertow",
+   "chainbreakers",
+   "blue-folk",
+   "brassfield"
   ],
   "aliases": [
    "Azhani",
@@ -56901,6 +56933,561 @@
    "format": "character-v1",
    "status": "source-limited"
   },
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "chainbreakers",
+  "title": "The Chainbreakers",
+  "category": "outlaws",
+  "region": "Southern Wilds",
+  "subtitle": "They break the collars, and they burn the ledgers",
+  "summary": "The armed abolitionists of the south. Since 63 EC freed thralls, deserters, and the devout of Sevrin have fought the trade the Abolition outlawed and the south never gave up: they strike the slaver-rings, the mines, and the tyrant-houses, break every collar they find, and burn the paper too. Heroes to the bound; murderers to the houses that own them.",
+  "facts": [
+   [
+    "Since",
+    "63 EC, sworn by veterans of the Great Slave Rebellion"
+   ],
+   [
+    "God",
+    "Sevrin the Chainbreaker"
+   ],
+   [
+    "Signs",
+    "a snapped iron collar; a lock left broken open"
+   ],
+   [
+    "They hunt",
+    "the slaver-rings, the tyrant-houses, House Vossreth, and whoever buys paper people"
+   ],
+   [
+    "Hunted by",
+    "the tyrant-houses, the Company's writ-men, and the Council, when it has to"
+   ],
+   [
+    "Ranks",
+    "freed thralls, freed hands, deserters, idealists, and the faithful of Sevrin"
+   ],
+   [
+    "Where",
+    "the Southern Wilds above all, and a cell in every great port"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The Abolition ended slavery in Council lands in about 60 EC. The south kept it anyway: in the tyrant-houses' mines, on the unfree estates, in the slaver-rings' pens, and in indenture paper whose debts somehow never shrink. The Chainbreakers are the people who refused to wait for the Council to notice.",
+     "They are the most sympathetic of the southern movements, and among the most ruthless. They free the unfree by force, strike the slaver-rings and the Krysta-mines, and burn every ledger they can reach, because a debt written down is a chain too. To the bound they are heroes. To the houses that own them they are murderers and arsonists. The Council, which cannot say they are wrong, calls them outlaws, and has never tried very hard to catch them."
+    ]
+   },
+   {
+    "title": "The oath",
+    "paragraphs": [
+     "In 63 EC, three years after the Great Slave Rebellion, its veterans swore that the trade would never come back, and began hunting the ships that carried it. They have never stopped. The oath is said standing, because Sevrin is never prayed to on the knees, and it is short: *“No collar on any neck while I have hands.”*",
+     "For twenty years they sank slave-ships. When the ships stopped sailing openly, the trade went inland, into the mines, the estates, and the paper, and the Chainbreakers followed it."
+    ]
+   },
+   {
+    "title": "Who they are",
+    "paragraphs": [],
+    "list": [
+     "**Freed thralls,** above all, who know the pens and the mines from the inside.",
+     "**Freed hands,** who walked away from an indenture of the Company into the green, and whose paper still says they owe.",
+     "**Deserters** from the Armada and the Hunters, who know how to fight and have stopped asking whose leave they need.",
+     "**Idealists** from the Heartland, who come south in good boots and learn fast or go home.",
+     "**The devout of Sevrin,** the liberty-god, whose worship the Korvan Imperium outlaws, which has only made him stronger."
+    ]
+   },
+   {
+    "title": "How they fight",
+    "paragraphs": [],
+    "list": [
+     "**The strike.** A night raid on a slaver-ring's pen, a mine's barracks, or a tyrant-house's estate: the collars broken, the ledgers burned, and the freed taken out by river before dawn.",
+     "**The paper.** Indenture is legal, so it cannot be broken with a hammer. They buy it, steal it, or burn it, and they keep their own list of everyone who buys paper people.",
+     "**The cells.** No cell knows more than two others. A captured Chainbreaker can give up very little, and most give up nothing.",
+     "**The sea.** Their ships hunt the ghost-cargo hulls that still slip out of the south by night. The docks say that “Red” Mara of the *Red Vengeance*, a Free Tide captain, is a friend of theirs, and keeps a hidden cove where runaways are sheltered.",
+     "**The road out.** The freed go upriver to the Confederacy villages, north on Free Sails ships, or into the Free Tide, which offers a berth to any thrall who will swear that the sea belongs to no one."
+    ]
+   },
+   {
+    "title": "Signs and customs",
+    "paragraphs": [],
+    "list": [
+     "**The snapped collar** is Sevrin's symbol, and theirs. A collar is broken, never unlocked.",
+     "**The open lock.** A lock left broken open on a gate is their sign, and a warning to whoever kept the gate.",
+     "**On their feet.** They pray standing, and kneel to no one: not to a lord, not to a judge, not to the god.",
+     "**One link.** Many of the freed keep a single link of what held them, broken open, on a cord, a wrist, or an ankle.",
+     "**The burning.** A raid is not over until the ledgers are ash. *Paper is a chain too.*"
+    ]
+   },
+   {
+    "title": "Friends and enemies",
+    "paragraphs": [
+     "**Their enemies** are the slaver-rings above all; the tyrant-houses; House Vossreth and the Midnight Patron's mines at Karn Sorroch; Elendor, the slaver of the Fairweather Combine; and the Company's indenture. The Undertow will not touch ghost-cargo, and does not mourn the slavers the Chainbreakers kill.",
+     "**Their friends** are fewer and quieter: the Blackleaf Runners, who smuggle the Company's indentured out, and whom the Chainbreakers want as allies; the Hearthkeepers, whose orphanages the slavers prey on; and the Verdant Pact, in spirit. The Emerald Wrath's gunners swear their fleetlord has sunk slavers and reported storms."
+    ]
+   },
+   {
+    "title": "In the cities",
+    "paragraphs": [
+     "There is a Chainbreaker cell in every great port, the docks say, and in Goldwind most of all, where the indenture contracts are entered and the buyers of paper people live. Nobody can say who leads it. Everyone has a guess."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The Chainbreakers plan to hit a Vossreth mine, which means crossing the Midnight Patron, who notices everything.",
+     "The Chainbreakers want an alliance with Sister Smoke's Blackleaf Runners. The Company wants her head. Both want the party to choose.",
+     "A worker the Chainbreakers brought out of the Deeps cannot stop working: the overseers fed him Mule for three years.",
+     "A list of buyers of paper people has been taken from a Chainbreaker courier. Half the names on it are Heartland names, and some are very respectable.",
+     "A Hunter Board posts a bounty on a Chainbreaker who burned a counting-house of the Company. The Chainbreaker swears the counting-house was empty. The Company says it was not."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“They burned the ledgers at a Company store, and the workers paid their debts in ash. The Company wrote them all back in by morning.” (a Southhaven clerk)",
+     "“Red Mara's cove has no water you can drink, and nobody who gets there ever wants to leave.” (a Free Sails deckhand)",
+     "“Every Chainbreaker carries a broken link. If you see one on a gentleman, don't say so out loud.” (a Goldwind pawnbroker)",
+     "“They don't kneel. Not to a lord, not to a judge, not to their own god. That's how you tell one.” (a writ-man of the Company)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkdyZXltb29yIHBheXMuKiogSG91c2UgR3JleW1vb3Igc3VwcGxpZXMgdGhlIENoYWluYnJlYWtlcnMgd2l0aCBzaWx2ZXIsIGlyb253b29kLCBhbmQgc2FmZS1ob3VzZXMgYWxvbmcgdGhlIHJpdmVyLCBhbmQgcGF5cyBmb3IgdGhlaXIgcG93ZGVyLiBMYWR5IEltYXJhIGJlbGlldmVzIHRoYXQgbm8gb25lIGtub3dzLCBhbmQgaGVyIHN0ZXdhcmQgaGFzIGJlZW4gcGFpZCB0byBrZWVwIGl0IHNvLiBUaGUgT2Rkcy1Nb3RoZXIga25vd3MuIiwgIioqVGhlIEZpdmUgQ29sbGFycy4qKiBUaGUgQ2hhaW5icmVha2VycyBoYXZlIG5vIHNpbmdsZSBsZWFkZXIuIE9uY2UgYSB5ZWFyIGZpdmUgb2xkIGZpZ2h0ZXJzIG1lZXQsIG5ldmVyIHR3aWNlIGluIHRoZSBzYW1lIHBsYWNlLCBhbmQgc2V0dGxlIHdoYXQgdGhlIGNlbGxzIGNhbm5vdCBzZXR0bGUgYW1vbmcgdGhlbXNlbHZlcy4gRWFjaCBrZWVwcyBhIGNvbGxhciB0aGUgZmlyc3QgQ2hhaW5icmVha2VycyBicm9rZSBvZmYgdGhlaXIgb3duIG5lY2tzLCBhbmQgdGhlIGNlbGxzIGNhbGwgdGhlbSB0aGUgRml2ZSBDb2xsYXJzLiBUaGVpciBlbGRlc3QsIHdobyBzcGVha3MgZm9yIHRoZW0sIGlzIE1vdGhlciBSdWRhIE5pbmVmaW5nZXJzLCB3aG8gYnJva2UgaGVyIG93biBjb2xsYXIgYXQgS2FybiBTb3Jyb2NoIGZvcnR5IHllYXJzIGFnbyBhbmQgbGVmdCBhIGZpbmdlciBpbiB0aGUgbG9jay4iLCAiKipUaGUgT3BlbiBMb2NrLioqIFRoZSBHb2xkd2luZCBjZWxsIGlzIHRoZSBPcGVuIExvY2ssIGxlZCBieSB0aGUgZGFuY2VyIEF6aGFuaSBFbWJlcnN0ZXAuIEl0IGJ1eXMgYW5kIGJ1cm5zIGluZGVudHVyZSBwYXBlciwga2VlcHMgdGhlIGxpc3Qgb2YgdGhlIGNhcGl0YWwncyBidXllcnMsIGFuZCBwYXlzIGZvciBoYWxmIHRoZSBzb3V0aGVybiBjZWxscycgcG93ZGVyIHdpdGggYmVsbCBwYXJ0cyBhdCB0aGUgQ29pbnNkYXkgUmVhZGluZy4iLCAiKipUaGUgZG9vciBpbnRvIEthcm4gU29ycm9jaC4qKiBUaGUgcmFpZCBvbiB0aGUgVm9zc3JldGggbWluZSBpcyByZWFsLCBhbmQgdGhlIHBsYW4gY2FtZSBmcm9tIGluc2lkZTogc29tZW9uZSBhdCBSZWRoYW5kIHNlbmRzIHRoZSBDaGFpbmJyZWFrZXJzIHRoZSBEZWVwcycgZ3VhcmQtcm90YXRpb25zLCB1bnNpZ25lZC4gVGhlIEZpdmUgQ29sbGFycyB0aGluayBpdCBpcyBhIHRyYXAuIEl0IGlzIExvcmQgQ2FsZHJlbiBWb3NzcmV0aCwgd2hvIHdhbnRzIGhpcyBvd24gY2hhaW5zIGJyb2tlbiBhbmQgY2Fubm90IHNheSBzby4gV2hldGhlciBpdCBpcyBzdGlsbCBhIHRyYXAgZGVwZW5kcyBvbiBob3cgbXVjaCBvZiBoaW0gdGhlIE1pZG5pZ2h0IFBhdHJvbiBvd25zIHRoYXQgbmlnaHQuIiwgIioqVGhlIExhc3QgTGluay4qKiBOb3QgZXZlcnkgY2VsbCBvYmV5cyB0aGUgRml2ZSBDb2xsYXJzLiBUaGUgTGFzdCBMaW5rIGtpbGxzIHRoZSBidXllcnMsIG5vdCBvbmx5IHRoZSBjb2xsYXJzOiBubyBidXllciBsaXZlcyB0byBidXkgYWdhaW4uIEl0IGJ1cm5lZCB0aGUgU291dGhoYXZlbiBjb3VudGluZy1ob3VzZSB3aXRoIGEgY2xlcmsgaW5zaWRlLCBhbmQgd2FzIGN1dCBsb29zZSBmb3IgaXQuIEl0cyBuZXcgcG93ZGVyIGlzIHBhaWQgZm9yIGluIGNvaW4gZmlsZWQgc21vb3RoLCBzbyB0aGF0IG5vIG9uZSBjYW4gc2VlIHdob3NlIGZhY2Ugd2FzIG9uIGl0OiBKYW51cyBSdW5lJ3MgbW9uZXksIHdoaWNoIGtlZXBzIHRoZSBzb3V0aCBidXJuaW5nLiIsICIqKlJlZCBNYXJhJ3MgY292ZSoqIGlzIHJlYWwsIGFuZCBvbmUgb2YgdGhlaXIgc3RhdGlvbnM6IHRoZSBmcmVlZCByZXN0IHRoZXJlIGJlZm9yZSB0aGUgT3J1bWEgY2Fub2VzIGNhcnJ5IHRoZW0gdXByaXZlci4gUmVkIE1hcmEgc2FpbHMgZm9yIHRoZSBGcmVlIFRpZGUsIG5vdCBmb3IgdGhlIEZpdmUgQ29sbGFycywgYW5kIGlzIGEgZnJpZW5kLCBub3QgYSBzb2xkaWVyLiJdfQ=="
+   }
+  ],
+  "related": [
+   "sevrin-the-chainbreaker",
+   "southern-movements",
+   "great-slave-rebellion",
+   "azhani",
+   "sister-smoke",
+   "red-mara",
+   "house-greymoor",
+   "house-vossreth",
+   "karn-sorroch",
+   "charterhouse-company",
+   "brassfield",
+   "blue-folk",
+   "driftborn",
+   "free-tide",
+   "mule",
+   "janus-rune",
+   "undertow",
+   "southern-wilds"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "blue-folk",
+  "title": "The Blue Folk",
+  "category": "culture",
+  "region": "Southern Wilds",
+  "subtitle": "The wanderers of the dry isles, who wear their wealth on the arm",
+  "summary": "The people of the dry isles, a scatter of sun-scoured islands at the edge of the Southern Wilds: carriers, dyers, salt-workers, corsairs, and dancer-warriors, who wear indigo against the sun until it stains their skin, carry their wealth as brass up the forearm, and say the blue only fades when you stop wandering.",
+  "facts": [
+   [
+    "Where",
+    "the dry isles of the Southern Wilds, and every road and harbor between them and the markets"
+   ],
+   [
+    "Who",
+    "a culture, not a race; anyone raised among the clans is blue folk"
+   ],
+   [
+    "Known for",
+    "indigo, brass, dancing, corsairs, and the old jade road"
+   ],
+   [
+    "Dress",
+    "indigo robes and face-veils; crimson fringed sashes, teal and white turbans, gold past restraint"
+   ],
+   [
+    "Wealth",
+    "rings and bangles stacked up the forearm"
+   ],
+   [
+    "Names",
+    "a given name, and the clan's: Azhani of the Blue Hand"
+   ]
+  ],
+  "aliases": [
+   "dry isles",
+   "dry-isles folk"
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The dry isles lie at the sun-beaten edge of the Southern Wilds, where the jungle gives out and the rains fail: islands of red rock, salt pans, thorn-scrub, and wells that everyone knows by name. The people who live among them are called the blue folk, for the indigo they wear, which rubs into the skin and never quite leaves.",
+     "They are a culture, not a race. Most of them are human, but a dwarf or a half-orc raised among the clans is blue folk too, and is treated so. They are wanderers by trade and by temper: carriers, dyers, salt-workers, corsairs, and the best dancers in the islands."
+    ]
+   },
+   {
+    "title": "Indigo and brass",
+    "paragraphs": [],
+    "list": [
+     "**The blue.** Indigo robes and face-veils keep off the sun and the sand. The dye comes off on the skin, at the brow and the palms first, and stays. The dry isles' indigo is the color Goldwind's dyers pay most for, and the blue folk say it only fades when you stop wandering.",
+     "**The arm.** They carry no purses. Their wealth goes on the forearm, as rings and bangles of brass and gold stacked from wrist to elbow, and it chimes when they move. A purse can be cut; an arm has to be fought for.",
+     "**Brass that sings.** Bells on the headcloth, discs on the anklet, coin on the sash: a blue folk caravan is heard before it is seen, and means to be.",
+     "**Gold past restraint.** On a feast day the dry isles wear the most theatrical version of the southern dress: crimson fringed sashes, teal and white turbans, wide collars, armbands, and more gold than seems possible."
+    ]
+   },
+   {
+    "title": "The clans",
+    "paragraphs": [
+     "The blue folk live by clan, and a clan is a road as much as a family: what it carries, and where. A person is named for their clan."
+    ],
+    "list": [
+     "**The Blue Hand** carried Verdayan jade by caravan and canoe for longer than anyone remembers, until the Company's concession closed the road.",
+     "**The Salt Wind** work the salt pans of the inner isles, and sell to whoever pays, which since the salt monopoly of 175 EC means the Company.",
+     "**The Singing Brass** are smiths and corsairs. The brass on every arm in the dry isles was beaten in their forges, and more than one letter of marque was carried by their ships.",
+     "**The Far Cistern** keep the wells, and the law of the wells."
+    ]
+   },
+   {
+    "title": "Water and the guest",
+    "paragraphs": [],
+    "list": [
+     "**The well-law.** Nobody is refused water in the dry isles, not an enemy and not a stranger, and nobody draws twice before everyone has drawn once. To foul a well is the one crime every clan punishes the same way, and nobody says how.",
+     "**The road-cup.** A traveler who reaches a camp at dusk is given a cup of water before anyone asks their name. Once they have drunk, they are a guest until they leave, and nobody in the camp may harm them."
+    ]
+   },
+   {
+    "title": "The dancers",
+    "paragraphs": [
+     "The dry isles' dancers are its warriors, and the other way round. The dances teach the footwork, the balance, and the turn; the sash of coin is a weight to swing; the anklets keep the time. A blue folk girl learns to dance before she learns to fight, and is never told there is a difference.",
+     "Every great harbor has a blue folk dancer or two. Goldwind has Azhani Emberstep, the most famous of them all."
+    ]
+   },
+   {
+    "title": "Names",
+    "paragraphs": [
+     "A given name, short and bright, and the clan's after it: Azhani of the Blue Hand, Ishava of the Salt Wind, Nazhi of the Singing Brass. Corsairs and the old families of the ports carry longer names, like the Hunter captain Khaz'Aimar Maa'iq, who sailed out of the dry isles under letters of marque."
+    ]
+   },
+   {
+    "title": "The jade road",
+    "paragraphs": [
+     "For generations the Blue Hand and the clans like it carried Verdayan jade from the Confederacy fields down to the coast. When the Charterhouse Company took the Verdayan jade concession, the road closed. The clans that had lived by it fell into debt, and the Company bought the debts. Some of their children are paper in the Company's towns now.",
+     "The blue folk do not forgive easily. They have long memories, and long roads."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [],
+    "list": [
+     "**In Goldwind** the dyers buy their indigo, the salons hire their dancers, and the Commons loves Azhani Emberstep.",
+     "**In the southern ports** the blue folk carry whatever the rivers bring down, and the harbor-masters count their brass and despair.",
+     "**At sea** their corsairs once sailed under letters of marque. Some still do, and some sail under no letter at all.",
+     "**The King of Thieves.** In the ports of the dry isles they tell of a king of thieves who asked a devil never to die. The devil kept the letter of it: the king never died, and he never got out of his skull again."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A well in the dry isles has been fouled. Every clan suspects every other, and the well-law says what happens next.",
+     "A Blue Hand elder wants to buy back a grandchild's indenture. The Company names a price, and then another.",
+     "The Salt Wind want to sell their salt to anyone but the Company, which holds the monopoly. They ask the party to carry a cargo of salt that does not exist."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Never count a blue folk's brass out loud. It's the same as asking to fight for it.” (a Southhaven harbor-master)",
+     "“The Singing Brass beat a bell for every ship they ever took, and hang the bells in a cave on the outer isles. On a windy night you can hear the cave from the sea.” (a Free Sails deckhand)",
+     "“A dry-isles girl can dance on a ship's rail in a gale. I've seen it. I've also seen what she did with the sash after.” (an Armada gunner)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBiYWNrIGRvb3IuKiogVGhlIGRyeSBpc2xlcyBhcmUgdGhlIENoYWluYnJlYWtlcnMnIHNvdXRoZXJuIHJvYWQuIFRoZSBibHVlIGZvbGsgY2FycnkgdGhlIGZyZWVkIGZyb20gdGhlIENvbXBhbnkgY29hc3QgYWNyb3NzIHRoZSBpc2xlcyB1bmRlciBpbmRpZ28gdmVpbHMgdGhhdCBoaWRlIGFueSBmYWNlLCB0byBGcmVlIFNhaWxzIGNhcHRhaW5zIGFuZCB0byB0aGUgRHJpZnRib3JuJ3MgU2FsdCBCcmlkZSwgd2hpY2ggbGllcyBvZmYgdGhlIG91dGVyIGlzbGVzIG9uY2UgYSBzZWFzb24uIFRoZSBGYXIgQ2lzdGVybidzIHdlbGxzIHdhdGVyIHRoZW0gb24gdGhlIHdheS4iLCAiKipDb3VzaW4gYWdhaW5zdCBjb3VzaW4uKiogVGhlIENvbXBhbnkgcmVjcnVpdHMgd3JpdC1tZW4gYW1vbmcgdGhlIGluZGVidGVkIGNsYW5zOiBhIHllYXIgb2Ygc2VydmljZSBmb3IgYSBjb3VzaW4ncyBwYXBlci4gVGF2byBvZiB0aGUgQmx1ZSBIYW5kIGlzIG9uZSBvZiB0aGVtLCBhbmQgbm90IHRoZSBvbmx5IG9uZS4iLCAiKipUaGUgU2FsdCBXaW5kJ3MgY2hvaWNlLioqIFRoZSBTYWx0IFdpbmQgc2VsbCB0aGVpciBzYWx0IHRvIHRoZSBDb21wYW55IGJlY2F1c2UgdGhlIENvbXBhbnkgaG9sZHMgdGhlaXIgY2hpbGRyZW4ncyBwYXBlci4gVGhlIENoYWluYnJlYWtlcnMgaGF2ZSBhc2tlZCB0aGVtIHRvIGxldCBhIHNhbHQgYmFyZ2UgYnVybi4gVGhleSBoYXZlIG5vdCBzYWlkIG5vLiJdfQ=="
+   }
+  ],
+  "related": [
+   "azhani",
+   "khaz-aimar-maa-iq",
+   "chainbreakers",
+   "driftborn",
+   "brassfield",
+   "charterhouse-company",
+   "southern-wilds",
+   "southhaven",
+   "goldwind",
+   "castellyn-the-open-hearth"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "driftborn",
+  "title": "The Driftborn",
+  "category": "culture",
+  "region": "The Sea",
+  "subtitle": "The people who never come ashore",
+  "summary": "Families who live their whole lives at sea on ship-flotillas and never set foot ashore. Every evening each flotilla lashes itself together into the raft-up, a floating town for one night, and casts off again at dawn. Some are honest traders; some carry what the harbors won't.",
+  "facts": [
+   [
+    "Where",
+    "the open sea, the lanes, and the lee of every great harbor"
+   ],
+   [
+    "Ashore",
+    "never"
+   ],
+   [
+    "God",
+    "Castellyn of the Open Hearth, keeper of guest-law"
+   ],
+   [
+    "Known for",
+    "the raft-up, guest-law, and passage with no questions at three times the fare"
+   ],
+   [
+    "Answer to",
+    "the tide, and no flag"
+   ]
+  ],
+  "aliases": [
+   "raft-up"
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "The Driftborn are born at sea, live at sea, and are given to the sea, on flotillas of family hulls that have never been to a shipyard all at once. They answer to the tide and no flag, and drift between the legal and the free: some flotillas are honest traders, and some shade into the Pirate Freeholds and the Free Tide."
+    ]
+   },
+   {
+    "title": "The raft-up",
+    "paragraphs": [
+     "At sunset a flotilla's hulls come together bow to stern and side to side, lashed with knots every Driftborn child can tie before they can swim. Planks go down between the decks, lanterns go up, and for one night there is a town: markets, weddings, quarrels, music, and the eldest sitting in judgment. At dawn the lines are cast off, and it is a fleet again.",
+     "A stranger may come to a raft-up by boat, and is a guest until dawn. The raft-up is the best place in the islands to buy something nobody can trace, and the worst place to make trouble."
+    ]
+   },
+   {
+    "title": "Never ashore",
+    "paragraphs": [],
+    "list": [
+     "**The plank.** A Driftborn trades with the land across a plank from the deck to the quay, and never crosses it. Goods go over the plank; feet do not.",
+     "**Born and buried at sea.** A Driftborn is born on a deck and given to the sea from one. There are no Driftborn graves on land, and they find the idea sad.",
+     "**Leaving.** A Driftborn who steps ashore of their own will has left the people. They may come back to a raft-up as a guest. They cannot come back as Driftborn."
+    ]
+   },
+   {
+    "title": "Guest-law",
+    "paragraphs": [
+     "To harm someone you have fed, or who has fed you, is among the gravest sins a Kalvatari can commit, and the Driftborn keep Castellyn's law harder than anyone. Whoever eats at a raft-up is safe there until dawn, whatever they are. Whoever breaks the peace of a raft-up is put over the side with a cask, and the flotilla sails away."
+    ]
+   },
+   {
+    "title": "The flotillas",
+    "paragraphs": [],
+    "list": [
+     "**The Long Lash,** the oldest, which says it has not been cast off whole since before the Landing.",
+     "**The Salt Bride,** the richest, whose raft-up is a fair, and whose weddings last a week.",
+     "**The Hundred Hulls,** which has never had a hundred hulls, and has never had fewer than a hundred people who say it has."
+    ]
+   },
+   {
+    "title": "Trade and passage",
+    "paragraphs": [],
+    "list": [
+     "**Honest trade** in fish, salt, rope, and whatever one harbor has and the next wants.",
+     "**Passage with no questions,** at three times the fare, for anyone a harbor would rather not see leave.",
+     "**What the harbors won't carry.** Some flotillas never touching shore carry what no customs-clerk ever sees."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "The party needs passage with no questions. A Driftborn captain names the fare, three times the honest one, and one more condition: nobody aboard sets foot ashore until she says.",
+     "A guest who broke the peace of the Salt Bride's raft-up was put over the side with a cask. He has washed up alive in a harbor, and wants revenge on the whole flotilla.",
+     "A Driftborn girl has walked across the plank and wants to stay ashore. Her flotilla will not come for her. Her mother asks the party to."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Eat what they give you, all of it, and they'll never let harm come to you aboard. Leave some and see what happens.” (a Free Sails cook)",
+     "“The Long Lash's ropes are older than the Charter. They say the knots remember names.” (a rope-maker of the Ropewalks)",
+     "“You can buy anything at a raft-up. You can't buy your way onto one.” (a Black Harbor smuggler)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBMYW50ZXJuIFJhZnQuKiogQSBEcmlmdGJvcm4gZmxvdGlsbGEgY2FsbGVkIHRoZSBMYW50ZXJuIFJhZnQgd2FzIHJhZnRlZCB1cCBhdCB0aGUgbW91dGggb2YgTXV0ZXdhdGVyIG9uIHRoZSBuaWdodCBvZiAxNDggRUMuIEhhbGYgb2YgaXQgd2VudCBpbnRvIHRoZSB3YXRlci4gVGhlIGhhbGYgdGhhdCBsaXZlZCBuZXZlciBsZWZ0OiB0aGVpciBodWxscyBhcmUgbGFzaGVkIGludG8gdGhlIFNpbHZlciBWaWdpbCdzIGhhcmJvciwgYW5kIHRoZXkgcGlsb3QgdGhlIHNvdW5kIGJ5IGJlbGwuIFRoZSByZXN0IG9mIHRoZSBEcmlmdGJvcm4gc3BlYWsgb2YgdGhlIExhbnRlcm4gUmFmdCBhcyBsb3N0LCBhbmQgZG8gbm90IGFzay4iLCAiKipUaGUgU2FsdCBCcmlkZSBjYXJyaWVzIHRoZSBmcmVlZC4qKiBPbmNlIGEgc2Vhc29uIHRoZSBTYWx0IEJyaWRlJ3MgcmFmdC11cCBsaWVzIG9mZiB0aGUgb3V0ZXIgZHJ5IGlzbGVzIGZvciBhIG5pZ2h0LCBhbmQgc2FpbHMgbm9ydGggd2l0aCBtb3JlIHBlb3BsZSB0aGFuIGl0IGNhbWUgd2l0aC4gVGhlIENoYWluYnJlYWtlcnMgcGF5IGluIHNhbHQgYW5kIGluIHNpbGVuY2UuIl19"
+   }
+  ],
+  "related": [
+   "work-at-sea",
+   "castellyn-the-open-hearth",
+   "blue-folk",
+   "chainbreakers",
+   "free-tide",
+   "hollowkey",
+   "undertow",
+   "the-ropewalks",
+   "southern-wilds"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "brassfield",
+  "title": "Brassfield",
+  "category": "place",
+  "region": "Southern Wilds",
+  "subtitle": "A Company cane town above Southhaven, where the debt never shrinks",
+  "summary": "One of the Charterhouse Company's cane towns in the hills above Southhaven: six hundred indentured workers, a mill, a store, a counting-house, and a ledger in which every debt grows a little every Coinsday. All of it legal.",
+  "facts": [
+   [
+    "Owner",
+    "the Charterhouse Company"
+   ],
+   [
+    "Where",
+    "the cane coast above Southhaven, on a slow brown river"
+   ],
+   [
+    "Grows",
+    "cane, boiled into sugar"
+   ],
+   [
+    "Workers",
+    "about six hundred, under indenture"
+   ],
+   [
+    "Paid in",
+    "Company brass, good only at the Company store"
+   ],
+   [
+    "Run by",
+    "Factor Pernell Sabb, for the Company"
+   ],
+   [
+    "In law",
+    "a debt-bond, sealed by a magistrate"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "Brassfield is one of a dozen Company towns on the cane coast above Southhaven, and not the worst of them, which is the most frightening thing anyone says about it. The Charterhouse Company owns everything in it: the fields, the mill, the houses, the store, the dogs, and the paper of everyone who lives there.",
+     "Nobody in Brassfield is a slave. The Abolition saw to that. Everyone in Brassfield owes."
+    ]
+   },
+   {
+    "title": "How a person becomes paper",
+    "paragraphs": [
+     "In law it is a debt-bond: a debtor binds themselves to work a debt off, under a contract a magistrate seals. In the Company's hands it is indenture, and the debt somehow never shrinks."
+    ],
+    "list": [
+     "**The debt is bought.** The Company buys debts from merchants, courts, and clans that cannot pay, and the debtor, or the debtor's child, comes with it.",
+     "**The debt grows.** Passage to Brassfield, the tools, a cot, a blanket, and every meal from the store are added to it, at the store's prices.",
+     "**The wage is brass.** Wages are paid in Company brass, brass tokens good only at the Company store. The workers call it collar-money.",
+     "**The fines.** A late bell, a broken tool, a word to an overseer: each is a fine, and each goes on the paper.",
+     "**Coinsday.** On Coinsday the clerk reads every worker's debt aloud from the counting-house steps. It is always a little larger than the last time.",
+     "**The children.** A child born in Brassfield owes for its own keep from the day it is born."
+    ]
+   },
+   {
+    "title": "The town",
+    "paragraphs": [],
+    "list": [
+     "**The counting-house,** a whitewashed office with barred windows, where the ledger lives and the writ-men sleep.",
+     "**The store,** the only place in Brassfield where brass is worth anything, and where it is worth a little less every season.",
+     "**The mill and the boiling-house,** where Loamback saurians turn the crushing-wheel, and the cane-juice boils day and night in the season.",
+     "**The rows,** the workers' long houses, and the children's bunkhouse, which is chained at night.",
+     "**The cane,** which runs from the river to the hills, taller than a rider.",
+     "**The landing,** on a slow brown river, where the sugar barges go down to Southhaven and nothing is supposed to go up.",
+     "**The gate and the kennels,** because the cane is easy to run into, and the dogs know it better than anyone."
+    ]
+   },
+   {
+    "title": "The year",
+    "paragraphs": [],
+    "list": [
+     "**The burn.** Before the cut, the overseers fire the cane to strip the leaves and drive out the snakes. For three days Brassfield is smoke. It is the best time of the year to run, and everyone knows it, the overseers most of all.",
+     "**The cut.** At harvest the cutters work from first light to last, and the overseers hand out Mule “free” and take it out of the wage.",
+     "**Bare feet.** The young go barefoot, by the overseers' rule, so that they cannot run on the stubble.",
+     "**The boiling.** In the season the mill never stops, and neither does anyone in it."
+    ]
+   },
+   {
+    "title": "Who runs it",
+    "paragraphs": [],
+    "list": [
+     "**Factor Pernell Sabb,** the Company's man: neat, soft-spoken, and exact. He has never raised his voice or his hand, and has never once been wrong about a sum. He sends the season's contracts to Goldwind himself.",
+     "**Cane-Boss Harl Tannow,** the head overseer, who rides the rows with a cane-knife and a whistle, and is the one the workers mean when they say *the boss*."
+    ]
+   },
+   {
+    "title": "Getting out",
+    "paragraphs": [
+     "The paper says a debt can be paid off. Nobody in Brassfield has ever seen it happen.",
+     "People leave anyway: in the smoke of the burn, down the river by night, into the green with the dogs behind them. The Blackleaf Runners take some of them out, if Sister Smoke likes their faces. The Company's towns say the Chainbreakers take the rest.",
+     "In the rows they tell of a girl who ran through the burning cane and came out on the far side unburned. They do not say her name. They pray to Sevrin standing, in the cane, where the overseers cannot see."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A Southhaven merchant's debt has been sold to the Company. His daughter is on the next cart to Brassfield, and the paper is perfectly legal.",
+     "The Company hires the party to track a runaway family through the cane before the dogs do. The party will get there first.",
+     "A Reckoners' Hall auditor wants someone to bring back one page of Brassfield's ledger. Any page.",
+     "The burn starts in three days. Someone inside wants to be on the river when it does."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Nobody's ever paid off their paper at Brassfield. I asked the clerk once. He said it's arithmetic.” (a Southhaven carter)",
+     "“The Brassfield dogs have been taught one smell: cane-ash on bare feet.” (a Blackleaf Runner)",
+     "“Factor Sabb has a daughter at the University. She thinks her father sells sugar.” (a Goldwind student)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlR3byBsZWRnZXJzLioqIEZhY3RvciBTYWJiIGtlZXBzIHR3byBib29rcy4gVGhlIG9uZSBoZSByZWFkcyBvbiBDb2luc2RheSBzYXlzIGV2ZXJ5IGRlYnQgaXMgZ3Jvd2luZy4gVGhlIHRydWUgb25lLCBpbiB0aGUgY291bnRpbmctaG91c2Ugc3Ryb25nLWJveCwgc2F5cyB0aGF0IHR3byBodW5kcmVkIG9mIEJyYXNzZmllbGQncyBzaXggaHVuZHJlZCBwYWlkIHRoZWlyIHBhcGVyIG9mZiB5ZWFycyBhZ28uIFRoZSBDb21wYW55IGtub3dzLiBUaGUgUmVja29uZXJzJyBIYWxsLCB3aGljaCBlbnRlcnMgdGhlIGNvbnRyYWN0cywgZG9lcyBub3Qga25vdyB0aGF0IGl0IGtub3dzLiIsICIqKlRoZSBjb250cmFjdHMgZ28gbm9ydGguKiogRWFjaCBzZWFzb24gU2FiYiBzZW5kcyBCcmFzc2ZpZWxkJ3MgbmV3IGNvbnRyYWN0cyB0byBHb2xkd2luZCwgdG8gYmUgZW50ZXJlZCBhdCB0aGUgUmVja29uZXJzJyBIYWxsIG9uIENvaW5zZGF5LiBUaGF0IGlzIHRoZSBjYXJnbyB0aGUgT3BlbiBMb2NrIG1lYW5zIHRvIGJ1cm4gaW4gdGhlIEd1bGxtYXJrZXQuIiwgIioqU29sZCBvbi4qKiBXaGVuIHRoZSBDb21wYW55J3MgcXVvdGEgaXMgbWV0LCBCcmFzc2ZpZWxkJ3Mgc3VycGx1cyBwYXBlciBpcyBzb2xkIHRvIEhvdXNlIFZvc3NyZXRoJ3MgdW5mcmVlIGVzdGF0ZXMgYXMgbGFib3IuIFRoZSBDb3VuY2lsIGRvZXMgbm90IGNhbGwgaXQgYnkgaXRzIG5hbWUuIiwgIioqQXpoYW5pJ3MgdG93bi4qKiBBemhhbmkgRW1iZXJzdGVwIHdhcyBwYXBlciBoZXJlLiBUaGUgY2hpbGRyZW4ncyBidW5raG91c2UgY2hhaW4gc3RpbGwgaGFzIHRoZSBnYXAgd2hlcmUgc2hlIGJyb2tlIHRoZSBsaW5rLiBDYW5lLUJvc3MgVGFubm93IHdhcyBhIHlvdW5nIG92ZXJzZWVyIHRoZSBuaWdodCBzaGUgcmFuLCBhbmQgaGUgc2F3IGhlciBjb21lIG91dCBvZiB0aGUgZmlyZS4gSGUgaGFzIG5ldmVyIHRvbGQgYW55b25lLCBhbmQgaGUgaGFzIG5ldmVyIGZpcmVkIHRoZSBjYW5lIHNpbmNlIHdpdGhvdXQgbG9va2luZyBmb3IgaGVyLiJdfQ=="
+   }
+  ],
+  "related": [
+   "charterhouse-company",
+   "imelda-roque",
+   "southhaven",
+   "azhani",
+   "chainbreakers",
+   "sister-smoke",
+   "house-vossreth",
+   "house-greymoor",
+   "mule",
+   "loamback",
+   "reckoners-hall",
+   "coinsday-reading",
+   "blue-folk",
+   "sevrin-the-chainbreaker"
+  ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {
    "es": "complete"

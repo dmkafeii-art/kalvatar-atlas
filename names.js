@@ -19,7 +19,8 @@
   'destello', 'terciopelo', 'mula', 'modorra', 'abuelo', 'el abuelo']);
  // The same in English (23 November): the drugs and the Grandfather are everyday words too ("velvet fur", "cobwebs glint").
  const PLAIN_EN = new Set(['glint', 'velvet', 'mule', 'drowse', 'grandfather', 'the grandfather',
-  'canals', 'the canals', 'smokes', 'the smokes', 'tangle', 'the tangle', 'ropewalks', 'the ropewalks']);  // and the Commons' wards
+  'canals', 'the canals', 'smokes', 'the smokes', 'tangle', 'the tangle', 'ropewalks', 'the ropewalks',  // and the Commons' wards
+  'iron', 'the iron', 'the company']);  // the metal, not the Hunters' coin; a Hunter company, not the Charterhouse Company
  const unlink = root => {
   if(!root.querySelectorAll) return;
   // both sets in either language: a page read in Spanish can still have its body in English

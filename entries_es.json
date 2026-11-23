@@ -17196,9 +17196,474 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkRpcmlnZSBlbCBDYW5kYWRvIEFiaWVydG8sKiogbGEgY8OpbHVsYSBkZSBsb3MgUm9tcGVjYWRlbmFzIGVuIFZlbnRvcm86IHVuYSBkb2NlbmEgZGUgbWFub3MgcXVlIGhhY2VuIGVuIGxhIGNhcGl0YWwgbG8gcXVlIGxvcyBSb21wZWNhZGVuYXMgaGFjZW4gZW4gZWwgc3VyIGNvbiBmdWVnby4gQ29tcHJhbiBwYXBlbCBkZSBzZXJ2aWR1bWJyZSB5IGxvIHF1ZW1hbiwgZmFsc2lmaWNhbiBub21icmVzIGxpbXBpb3MgcGFyYSBsb3MgcXVlIGVzY2FwYW4gYWwgbm9ydGUsIGxsZXZhbiBsYSBsaXN0YSBkZSBsb3MgUm9tcGVjYWRlbmFzIGNvbiB0b2RvcyBsb3MgcXVlIGNvbXByYW4gZ2VudGUgZGUgcGFwZWwgZW4gVmVudG9ybywgeSBwYWdhbiBsYSBww7Nsdm9yYS4gU3UgbWFyY2EgZXMgbGEgZGUgU2V2cmluOiB1biBjYW5kYWRvIGRlamFkbyByb3RvIHkgYWJpZXJ0by4iLCAiKipEZSBkw7NuZGUgc2FsZSBlbCBkaW5lcm8uKiogRWwgQ2FiaWxkbyBkZSBUZXNvcmVyb3Mgc2UgcmXDum5lIGxhIG5vY2hlIGFudGVzIGRlIGNhZGEgTGVjdHVyYSBkZSBNb25lZMOtYSB5IGFjdWVyZGEgbG9zIG7Dum1lcm9zIHF1ZSB2YSBhIGxlZXIuIFVubyBkZSBsb3MgY29udGFibGVzIHF1ZSBsb3MgcGFzYSBlbiBsaW1waW8gZXMgc3V5bzogc3UgbWFkcmUgbXVyacOzIGVuIHVuIHB1ZWJsbyBkZSBsYSBDb21wYcOxw61hLiBMZSBsbGV2YSBsb3MgbsO6bWVyb3MgYSBsbyBkZSBNZXJyb3csIGRvbmRlIGVsbGEgZXN0w6EgYmFpbGFuZG8sIHkgYW50ZXMgZGUgbGEgY2FtcGFuYSBkZWwgbWVkaW9kw61hIHN1IGNvcnJlZG9yIGRlIHRpemEgZGUgbGEgVGF6YSBOZWdyYSBjb21wcmEgbGFzIHBhcnRlcyBkZSBjYW1wYW5hLiBFbCBjb3JyZWRvciBxdWUgbnVuY2Egc2UgaGEgZXF1aXZvY2FkbyBlcyBkZWwgQ2FuZGFkbyBBYmllcnRvLCB5IGNhZGEgQW5jbGEgcXVlIGdhbmEgc2UgdmEgYWwgc3VyLiIsICIqKlF1acOpbiBlcmEuKiogTmFjacOzIGVuIGxhcyBpc2xhcyBzZWNhcywgZGUgbGEgTWFubyBBenVsLCB1biBjbGFuIGRlIGxhIGdlbnRlIGF6dWwgcXVlIGxsZXZhYmEgamFkZSBkZSBWZXJkYXlhIGVuIGNhcmF2YW5hIHkgZW4gY2Fub2EgZGVzZGUgYW50ZXMgZGUgcXVlIG5hZGllIHJlY3VlcmRlLiBMYSBjb25jZXNpw7NuIGRlIGphZGUgZGUgbGEgQ29tcGHDscOtYSBjZXJyw7MgZWwgY2FtaW5vLCBsYXMgZGV1ZGFzIGRlbCBjbGFuIHNlIGNvbXByYXJvbiwgeSBsYXMgZGV1ZGFzIHNlIHJldmVuZGllcm9uIGNvbW8gc2VydmlkdW1icmUuIEEgbG9zIG9uY2UgYcOxb3MgQXpoYW5pIGVyYSBwYXBlbCBlbiB1biBwdWVibG8gZGUgbGEgQ29tcGHDscOtYSBlbiBsYXMgYWZ1ZXJhcyBkZSBQdWVydG8gU3VyLCBkb25kZSBsb3MgY2FwYXRhY2VzIGxlcyBxdWl0YWJhbiBsb3MgemFwYXRvcyBhIGxvcyBuacOxb3MgcGFyYSBxdWUgbm8gcHVkaWVyYW4gY29ycmVyIHNvYnJlIGVsIHJhc3Ryb2pvIGRlIGxhIGNhw7FhLiBFbCBoaWVycm8gZGUgc3UgdG9iaWxsbyBlcyB1biBlc2xhYsOzbiBkZSBsYSBjYWRlbmEgcXVlIGNlcnJhYmEgZGUgbm9jaGUgbGEgYmFycmFjYSBkZSBsb3MgbmnDsW9zOiBsbyByb21wacOzIGxhIG5vY2hlIHF1ZSBodXnDsy4iLCAiKipMYSBiZW5kaWNpw7NuIGRlIFNldnJpbi4qKiBUZW7DrWEgcXVpbmNlIGHDsW9zLCB5IGxvcyBjYXBhdGFjZXMgaGFiw61hbiBwcmVuZGlkbyBmdWVnbyBhIGxhIGNhw7FhIHBhcmEgbGEgemFmcmEuIENvcnJpw7MgZGUgdG9kb3MgbW9kb3MsIGRlc2NhbHphLCBkZXJlY2hvIGEgdHJhdsOpcyBkZWwgY2FtcG8gZW4gbGxhbWFzLCByZXphbmRvIGRlIGxhIMO6bmljYSBtYW5lcmEgZW4gcXVlIHNlIGxlIHJlemEgYSBTZXZyaW46IGRlIHBpZS4gRGViacOzIGhhYmVyIHNhbGlkbyBsaXNpYWRhLiBTYWxpw7MgY29uIGxvcyBwaWVzIHNpbiB1bmEgbWFyY2EsIHkgbGEgY2Fub2EgZGUgbGEgSGVybWFuYSBIdW1vIGxhIGVzcGVyYWJhIGVuIGxhIG90cmEgb3JpbGxhLiBEZXNkZSBlc2Egbm9jaGUgc3VzIHBpZXMgZGVzY2Fsem9zIG5vIHNpZW50ZW4gZG9sb3IgbmkgbW9sZXN0aWEgcG9yIG5hZGEgZGUgbG8gcXVlIHBpc2FuLCBicmFzYXMsIGhpZWxvLCB2aWRyaW8gcm90bywgYWJyb2pvcywgcmFzdHJvam8gZGUgY2HDsWEsIHkgc2lndWVuIHN1YXZlcywgbGltcGlvcyB5IHBlcmZlY3RvcywgY29tbyBzaSBudW5jYSBodWJpZXJhIGFuZGFkbyBkZXNjYWx6YS4gRW4ganVlZ28sIGlnbm9yYSBlbCBkYcOxbyB5IGVsIHRlcnJlbm8gZGlmw61jaWwgcXVlIHZpZW5lbiBzb2xvIGRlIGxvIHF1ZSB0aWVuZSBiYWpvIGxvcyBwaWVzLCB5IG5hZGEgbcOhczogbGEgYmVuZGljacOzbiBjdWlkYSBsb3MgcGllcyBxdWUgY29ycmllcm9uLCBubyBlbCByZXN0byBkZSBlbGxhLiBDcmVlIHF1ZSBzaSBhbGd1bmEgdmV6IHNlIHBvbmUgemFwYXRvcyBwYXJhIGVzY29uZGVyc2UsIG8gc2UgYXJyb2RpbGxhIGFudGUgYWxndWllbiBxdWUgcXVpZXJhIHNlciBzdSBkdWXDsW8sIGxhIGJlbmRpY2nDs24gbGEgZGVqYXLDoS4gUHVlZGUgcXVlIHRlbmdhIHJhesOzbi4iLCAiKipMbyBxdWUgdGllbmUuKiogRWwgQ2FuZGFkbyBBYmllcnRvIHRpZW5lIHVuYSBjb3BpYSBkZWwgdmVyZGFkZXJvIGxpYnJvIGRlIGNsYXNpZmljYWNpw7NuIGRlbCBBbG1hY8OpbiBMYXJnbyBkZSBsb3MgYWdlbnRlcyBGZW5uaWNrLCBxdWUgbXVlc3RyYSBxdWUgbGEgbWl0YWQgZGVsIGNhZsOpIFBhcmFtb2dyw61zIHF1ZSBzZSB2ZW5kZSBlbiBWZW50b3JvIGNyZWNpw7MgZW4gbGFzIGZpbmNhcyBubyBsaWJyZXMgZGUgbGEgQ2FzYSBWb3NzcmV0aC4gTm8gaGEgZGVjaWRpZG8gc2kgcXVlbWFyIGEgRmVubmljayBjb24gw6lsLCBvIGTDoXJzZWxvIGEgW1tEYW1hfExhZHldXSBJbWFyYSBQYXJhbW9ncsOtcywgY3V5YSBjYXNhIHBhZ2EgZW4gc2lsZW5jaW8gbGEgcMOzbHZvcmEgZGUgbG9zIFJvbXBlY2FkZW5hcywgZGUgbGEgbWFuZXJhIHF1ZSBsYSByZWl2aW5kaXF1ZSB5IG5vIGxhIGFycnVpbmUuIiwgIioqTG8gcXVlIHBpZW5zYSBoYWNlci4qKiBDYWRhIHRlbXBvcmFkYSBsb3MgbWVuc2FqZXJvcyBkZSBsYSBDb21wYcOxw61hIGxsZXZhbiBzdXMgY29udHJhdG9zIGRlIHNlcnZpZHVtYnJlIG51ZXZvcyBhIGxhIENhc2EgZGUgbG9zIFRlc29yZXJvcyBwYXJhIGFzZW50YXJsb3MgZWwgTW9uZWTDrWEuIEVsIENhbmRhZG8gQWJpZXJ0byBwaWVuc2EgcXVpdMOhcnNlbG9zIGVuIGxhIGNhbGxlIHkgcXVlbWFybG9zIGVuIGVsIE1lcmNhZG8gZGUgbGFzIEdhdmlvdGFzLCBkZWxhbnRlIGRlIHRvZG9zLCBhbCBmaW5hbCBkZSB1bmEgZGFuemEgZGUgbGFzIGJyYXNhcy4gTm8gbGliZXJhcsOtYSBhIG5hZGllIGVuIGVsIHBhcGVsLCBwb3JxdWUgbGEgQ29tcGHDscOtYSBndWFyZGEgY29waWFzIGVuIGVsIHN1cjsgbGVzIG1vc3RyYXLDrWEgYSB0b2RvcyBsb3MgdHJhYmFqYWRvcmVzIGF0YWRvcyBkZSBsYXMgaXNsYXMgcXVlIGVsIHBhcGVsIHNlIHF1ZW1hLiBMYSBIZXJtYW5hIEh1bW8gY3JlZSBxdWUgZXMgZGVzcGVyZGljaWFyIGJ1ZW5hIGdlbnRlLiBBemhhbmkgY3JlZSBxdWUgZGUgZXNvIHNlIHRyYXRhIHRvZG8uIiwgIioqRXMgZGVzcGlhZGFkYS4qKiBMYSBwcmltYXZlcmEgcGFzYWRhIGFwYXJlY2nDsyBlbiBsb3MgQ2FuYWxlcyB1biBjb21wcmFkb3IgZGUgZ2VudGUgZGUgcGFwZWwgZGUgbGEgQ2FzYSBWb3NzcmV0aCwgeSBsYSBndWFyZGlhIGxvIGFub3TDsyBjb21vIGJvcnJhY2hlcmEuIE5vIGZ1ZSBib3JyYWNoZXJhLiIsICIqKlF1acOpbiBzZSBsZSBhY2VyY2EuKiogTGEgZ29iZXJuYWRvcmEgSW1lbGRhIFJvcXVlIHB1c28gcHJlY2lvIGEg4oCcZWwgQ2FuZGFkbyBBYmllcnRv4oCdIHkgdW4gaG9tYnJlIGRlIG1hbmRhdG8gZW4gZWwgTWVyY2FkbyBkZSBsYXMgR2F2aW90YXMuIEVsIGhvbWJyZSBkZSBtYW5kYXRvIGVzIFRhdm8gZGUgbGEgTWFubyBBenVsLCBzdSBwcm9waW8gcHJpbW8sIHF1ZSBmaXJtw7MgY29uIGxhIENvbXBhw7HDrWEgcGFyYSBwYWdhciBsYSBkZXVkYSBkZWwgY2xhbi4gU2FiZSBleGFjdGFtZW50ZSBxdWnDqW4gZXMgZWxsYS4gVG9kYXbDrWEgbm8gc2UgbG8gaGEgZGljaG8gYSBuYWRpZSwgeSBuaSDDqWwgbWlzbW8gc2FiZSBwb3IgcXXDqSBuby4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkRpcmlnZSBlbCBDYW5kYWRvIEFiaWVydG8sKiogbGEgY8OpbHVsYSBkZSBsb3MgUm9tcGVjYWRlbmFzIGVuIFZlbnRvcm86IHVuYSBkb2NlbmEgZGUgbWFub3MgcXVlIGhhY2VuIGVuIGxhIGNhcGl0YWwgbG8gcXVlIGxvcyBSb21wZWNhZGVuYXMgaGFjZW4gZW4gZWwgc3VyIGNvbiBmdWVnby4gQ29tcHJhbiBwYXBlbCBkZSBzZXJ2aWR1bWJyZSB5IGxvIHF1ZW1hbiwgZmFsc2lmaWNhbiBub21icmVzIGxpbXBpb3MgcGFyYSBsb3MgcXVlIGVzY2FwYW4gYWwgbm9ydGUsIGxsZXZhbiBsYSBsaXN0YSBkZSBsb3MgUm9tcGVjYWRlbmFzIGNvbiB0b2RvcyBsb3MgcXVlIGNvbXByYW4gZ2VudGUgZGUgcGFwZWwgZW4gVmVudG9ybywgeSBwYWdhbiBsYSBww7Nsdm9yYS4gU3UgbWFyY2EgZXMgbGEgZGUgU2V2cmluOiB1biBjYW5kYWRvIGRlamFkbyByb3RvIHkgYWJpZXJ0by4iLCAiKipEZSBkw7NuZGUgc2FsZSBlbCBkaW5lcm8uKiogRWwgQ2FiaWxkbyBkZSBUZXNvcmVyb3Mgc2UgcmXDum5lIGxhIG5vY2hlIGFudGVzIGRlIGNhZGEgTGVjdHVyYSBkZSBNb25lZMOtYSB5IGFjdWVyZGEgbG9zIG7Dum1lcm9zIHF1ZSB2YSBhIGxlZXIuIFVubyBkZSBsb3MgY29udGFibGVzIHF1ZSBsb3MgcGFzYSBlbiBsaW1waW8gZXMgc3V5bzogc3UgbWFkcmUgbXVyacOzIGVuIHVuIHB1ZWJsbyBkZSBsYSBDb21wYcOxw61hLiBMZSBsbGV2YSBsb3MgbsO6bWVyb3MgYSBsbyBkZSBNZXJyb3csIGRvbmRlIGVsbGEgZXN0w6EgYmFpbGFuZG8sIHkgYW50ZXMgZGUgbGEgY2FtcGFuYSBkZWwgbWVkaW9kw61hIHN1IGNvcnJlZG9yIGRlIHRpemEgZGUgbGEgVGF6YSBOZWdyYSBjb21wcmEgbGFzIHBhcnRlcyBkZSBjYW1wYW5hLiBFbCBjb3JyZWRvciBxdWUgbnVuY2Egc2UgaGEgZXF1aXZvY2FkbyBlcyBkZWwgQ2FuZGFkbyBBYmllcnRvLCB5IGNhZGEgQW5jbGEgcXVlIGdhbmEgc2UgdmEgYWwgc3VyLiIsICIqKlF1acOpbiBlcmEuKiogTmFjacOzIGVuIGxhcyBpc2xhcyBzZWNhcywgZGUgbGEgTWFubyBBenVsLCB1biBjbGFuIGRlIGxhIGdlbnRlIGF6dWwgcXVlIGxsZXZhYmEgamFkZSBkZSBWZXJkYXlhIGVuIGNhcmF2YW5hIHkgZW4gY2Fub2EgZGVzZGUgYW50ZXMgZGUgcXVlIG5hZGllIHJlY3VlcmRlLiBMYSBjb25jZXNpw7NuIGRlIGphZGUgZGUgbGEgQ29tcGHDscOtYSBjZXJyw7MgZWwgY2FtaW5vLCBsYXMgZGV1ZGFzIGRlbCBjbGFuIHNlIGNvbXByYXJvbiwgeSBsYXMgZGV1ZGFzIHNlIHJldmVuZGllcm9uIGNvbW8gc2VydmlkdW1icmUuIEEgbG9zIG9uY2UgYcOxb3MgQXpoYW5pIGVyYSBwYXBlbCBlbiBDYW1wbyBkZSBMYXTDs24sIHVuIHB1ZWJsbyBkZSBsYSBDb21wYcOxw61hIGVuIGxhcyBhZnVlcmFzIGRlIFB1ZXJ0byBTdXIsIGRvbmRlIGxvcyBjYXBhdGFjZXMgbGVzIHF1aXRhYmFuIGxvcyB6YXBhdG9zIGEgbG9zIG5pw7FvcyBwYXJhIHF1ZSBubyBwdWRpZXJhbiBjb3JyZXIgc29icmUgZWwgcmFzdHJvam8gZGUgbGEgY2HDsWEuIEVsIGhpZXJybyBkZSBzdSB0b2JpbGxvIGVzIHVuIGVzbGFiw7NuIGRlIGxhIGNhZGVuYSBxdWUgY2VycmFiYSBkZSBub2NoZSBsYSBiYXJyYWNhIGRlIGxvcyBuacOxb3M6IGxvIHJvbXBpw7MgbGEgbm9jaGUgcXVlIGh1ecOzLiIsICIqKkxhIGJlbmRpY2nDs24gZGUgU2V2cmluLioqIFRlbsOtYSBxdWluY2UgYcOxb3MsIHkgbG9zIGNhcGF0YWNlcyBoYWLDrWFuIHByZW5kaWRvIGZ1ZWdvIGEgbGEgY2HDsWEgcGFyYSBsYSB6YWZyYS4gQ29ycmnDsyBkZSB0b2RvcyBtb2RvcywgZGVzY2FsemEsIGRlcmVjaG8gYSB0cmF2w6lzIGRlbCBjYW1wbyBlbiBsbGFtYXMsIHJlemFuZG8gZGUgbGEgw7puaWNhIG1hbmVyYSBlbiBxdWUgc2UgbGUgcmV6YSBhIFNldnJpbjogZGUgcGllLiBEZWJpw7MgaGFiZXIgc2FsaWRvIGxpc2lhZGEuIFNhbGnDsyBjb24gbG9zIHBpZXMgc2luIHVuYSBtYXJjYSwgeSBsYSBjYW5vYSBkZSBsYSBIZXJtYW5hIEh1bW8gbGEgZXNwZXJhYmEgZW4gbGEgb3RyYSBvcmlsbGEuIERlc2RlIGVzYSBub2NoZSBzdXMgcGllcyBkZXNjYWx6b3Mgbm8gc2llbnRlbiBkb2xvciBuaSBtb2xlc3RpYSBwb3IgbmFkYSBkZSBsbyBxdWUgcGlzYW4sIGJyYXNhcywgaGllbG8sIHZpZHJpbyByb3RvLCBhYnJvam9zLCByYXN0cm9qbyBkZSBjYcOxYSwgeSBzaWd1ZW4gc3VhdmVzLCBsaW1waW9zIHkgcGVyZmVjdG9zLCBjb21vIHNpIG51bmNhIGh1YmllcmEgYW5kYWRvIGRlc2NhbHphLiBFbiBqdWVnbywgaWdub3JhIGVsIGRhw7FvIHkgZWwgdGVycmVubyBkaWbDrWNpbCBxdWUgdmllbmVuIHNvbG8gZGUgbG8gcXVlIHRpZW5lIGJham8gbG9zIHBpZXMsIHkgbmFkYSBtw6FzOiBsYSBiZW5kaWNpw7NuIGN1aWRhIGxvcyBwaWVzIHF1ZSBjb3JyaWVyb24sIG5vIGVsIHJlc3RvIGRlIGVsbGEuIENyZWUgcXVlIHNpIGFsZ3VuYSB2ZXogc2UgcG9uZSB6YXBhdG9zIHBhcmEgZXNjb25kZXJzZSwgbyBzZSBhcnJvZGlsbGEgYW50ZSBhbGd1aWVuIHF1ZSBxdWllcmEgc2VyIHN1IGR1ZcOxbywgbGEgYmVuZGljacOzbiBsYSBkZWphcsOhLiBQdWVkZSBxdWUgdGVuZ2EgcmF6w7NuLiIsICIqKkxvIHF1ZSB0aWVuZS4qKiBFbCBDYW5kYWRvIEFiaWVydG8gdGllbmUgdW5hIGNvcGlhIGRlbCB2ZXJkYWRlcm8gbGlicm8gZGUgY2xhc2lmaWNhY2nDs24gZGVsIEFsbWFjw6luIExhcmdvIGRlIGxvcyBhZ2VudGVzIEZlbm5pY2ssIHF1ZSBtdWVzdHJhIHF1ZSBsYSBtaXRhZCBkZWwgY2Fmw6kgUGFyYW1vZ3LDrXMgcXVlIHNlIHZlbmRlIGVuIFZlbnRvcm8gY3JlY2nDsyBlbiBsYXMgZmluY2FzIG5vIGxpYnJlcyBkZSBsYSBDYXNhIFZvc3NyZXRoLiBObyBoYSBkZWNpZGlkbyBzaSBxdWVtYXIgYSBGZW5uaWNrIGNvbiDDqWwsIG8gZMOhcnNlbG8gYSBbW0RhbWF8TGFkeV1dIEltYXJhIFBhcmFtb2dyw61zLCBjdXlhIGNhc2EgcGFnYSBlbiBzaWxlbmNpbyBsYSBww7Nsdm9yYSBkZSBsb3MgUm9tcGVjYWRlbmFzLCBkZSBsYSBtYW5lcmEgcXVlIGxhIHJlaXZpbmRpcXVlIHkgbm8gbGEgYXJydWluZS4iLCAiKipMbyBxdWUgcGllbnNhIGhhY2VyLioqIENhZGEgdGVtcG9yYWRhIGxvcyBtZW5zYWplcm9zIGRlIGxhIENvbXBhw7HDrWEgbGxldmFuIHN1cyBjb250cmF0b3MgZGUgc2VydmlkdW1icmUgbnVldm9zIGEgbGEgQ2FzYSBkZSBsb3MgVGVzb3Jlcm9zIHBhcmEgYXNlbnRhcmxvcyBlbCBNb25lZMOtYS4gRWwgQ2FuZGFkbyBBYmllcnRvIHBpZW5zYSBxdWl0w6Fyc2Vsb3MgZW4gbGEgY2FsbGUgeSBxdWVtYXJsb3MgZW4gZWwgTWVyY2FkbyBkZSBsYXMgR2F2aW90YXMsIGRlbGFudGUgZGUgdG9kb3MsIGFsIGZpbmFsIGRlIHVuYSBkYW56YSBkZSBsYXMgYnJhc2FzLiBObyBsaWJlcmFyw61hIGEgbmFkaWUgZW4gZWwgcGFwZWwsIHBvcnF1ZSBsYSBDb21wYcOxw61hIGd1YXJkYSBjb3BpYXMgZW4gZWwgc3VyOyBsZXMgbW9zdHJhcsOtYSBhIHRvZG9zIGxvcyB0cmFiYWphZG9yZXMgYXRhZG9zIGRlIGxhcyBpc2xhcyBxdWUgZWwgcGFwZWwgc2UgcXVlbWEuIExhIEhlcm1hbmEgSHVtbyBjcmVlIHF1ZSBlcyBkZXNwZXJkaWNpYXIgYnVlbmEgZ2VudGUuIEF6aGFuaSBjcmVlIHF1ZSBkZSBlc28gc2UgdHJhdGEgdG9kby4iLCAiKipFcyBkZXNwaWFkYWRhLioqIExhIHByaW1hdmVyYSBwYXNhZGEgYXBhcmVjacOzIGVuIGxvcyBDYW5hbGVzIHVuIGNvbXByYWRvciBkZSBnZW50ZSBkZSBwYXBlbCBkZSBsYSBDYXNhIFZvc3NyZXRoLCB5IGxhIGd1YXJkaWEgbG8gYW5vdMOzIGNvbW8gYm9ycmFjaGVyYS4gTm8gZnVlIGJvcnJhY2hlcmEuIiwgIioqUXVpw6luIHNlIGxlIGFjZXJjYS4qKiBMYSBnb2Jlcm5hZG9yYSBJbWVsZGEgUm9xdWUgcHVzbyBwcmVjaW8gYSDigJxlbCBDYW5kYWRvIEFiaWVydG/igJ0geSB1biBob21icmUgZGUgbWFuZGF0byBlbiBlbCBNZXJjYWRvIGRlIGxhcyBHYXZpb3Rhcy4gRWwgaG9tYnJlIGRlIG1hbmRhdG8gZXMgVGF2byBkZSBsYSBNYW5vIEF6dWwsIHN1IHByb3BpbyBwcmltbywgcXVlIGZpcm3DsyBjb24gbGEgQ29tcGHDscOtYSBwYXJhIHBhZ2FyIGxhIGRldWRhIGRlbCBjbGFuLiBTYWJlIGV4YWN0YW1lbnRlIHF1acOpbiBlcyBlbGxhLiBUb2RhdsOtYSBubyBzZSBsbyBoYSBkaWNobyBhIG5hZGllLCB5IG5pIMOpbCBtaXNtbyBzYWJlIHBvciBxdcOpIG5vLiJdfQ=="
    }
   ],
   "gloss": "Azhani Emberstep"
+ },
+ "chainbreakers": {
+  "title": "Los Rompecadenas",
+  "subtitle": "Rompen los collares, y queman los libros",
+  "summary": "Los abolicionistas armados del sur. Desde 63 EC, esclavos libertos, desertores y devotos de Sevrin persiguen el comercio que la Abolición prohibió y que el sur nunca dejó: atacan las redes esclavistas, las minas y las casas tiranas, rompen cada collar que encuentran y queman también el papel. Héroes para los atados; asesinos para las casas que los poseen.",
+  "facts": [
+   [
+    "Desde",
+    "63 EC, jurados por veteranos de la Gran Rebelión de los Esclavos"
+   ],
+   [
+    "Dios",
+    "Sevrin el Rompecadenas"
+   ],
+   [
+    "Señales",
+    "un collar de hierro partido; un candado dejado roto y abierto"
+   ],
+   [
+    "Persiguen",
+    "a las redes esclavistas, a las casas tiranas, a la Casa Vossreth y a quien compre gente de papel"
+   ],
+   [
+    "Los persiguen",
+    "las casas tiranas, los hombres de mandato de la Compañía y el Consejo, cuando no le queda más remedio"
+   ],
+   [
+    "Filas",
+    "esclavos libertos, peones libres, desertores, idealistas y los fieles de Sevrin"
+   ],
+   [
+    "Dónde",
+    "las Tierras Salvajes del Sur sobre todo, y una célula en cada gran puerto"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La Abolición terminó con la esclavitud en las tierras del Consejo hacia 60 EC. El sur la conservó de todos modos: en las minas de las casas tiranas, en las fincas no libres, en los corrales de las redes esclavistas y en un papel de servidumbre cuyas deudas, no se sabe cómo, nunca se achican. Los Rompecadenas son la gente que se negó a esperar a que el Consejo se diera cuenta.",
+     "Son el más simpático de los movimientos del sur, y de los más despiadados. Liberan a los no libres por la fuerza, atacan las redes esclavistas y las minas de Krysta, y queman cada libro de cuentas que alcanzan, porque una deuda escrita también es una cadena. Para los atados son héroes. Para las casas que los poseen son asesinos e incendiarios. El Consejo, que no puede decir que estén equivocados, los llama forajidos, y nunca se ha esforzado mucho por atraparlos."
+    ]
+   },
+   {
+    "title": "El juramento",
+    "paragraphs": [
+     "En 63 EC, tres años después de la Gran Rebelión de los Esclavos, sus veteranos juraron no dejar que el comercio volviera nunca, y empezaron a cazar los barcos que lo llevaban. Nunca han parado. El juramento se dice de pie, porque a Sevrin nunca se le reza de rodillas, y es corto: *“Ningún collar en ningún cuello mientras yo tenga manos.”*",
+     "Durante veinte años hundieron barcos de esclavos. Cuando los barcos dejaron de navegar a la vista, el comercio se fue tierra adentro, a las minas, a las fincas y al papel, y los Rompecadenas lo siguieron."
+    ]
+   },
+   {
+    "title": "Quiénes son",
+    "paragraphs": [],
+    "list": [
+     "**Esclavos libertos,** sobre todo, que conocen los corrales y las minas desde adentro.",
+     "**Peones libres,** que se fueron de una servidumbre de la Compañía hacia la selva, y cuyo papel todavía dice que deben.",
+     "**Desertores** de la Armada y de los Cazadores, que saben pelear y ya no preguntan con permiso de quién.",
+     "**Idealistas** del Corazón Central, que bajan al sur con buenas botas y aprenden rápido o se vuelven a casa.",
+     "**Los devotos de Sevrin,** el dios de la libertad, cuyo culto prohíbe el Imperio de Korvan, lo cual solo lo ha hecho más fuerte."
+    ]
+   },
+   {
+    "title": "Cómo pelean",
+    "paragraphs": [],
+    "list": [
+     "**El golpe.** Un asalto nocturno a un corral de esclavistas, a la barraca de una mina o a una finca de una casa tirana: los collares rotos, los libros quemados y los liberados sacados por el río antes del amanecer.",
+     "**El papel.** La servidumbre es legal, así que no se rompe con un martillo. La compran, la roban o la queman, y llevan su propia lista de todos los que compran gente de papel.",
+     "**Las células.** Ninguna célula conoce a más de otras dos. Un Rompecadenas capturado puede entregar muy poco, y la mayoría no entrega nada.",
+     "**El mar.** Sus barcos cazan los cascos de carga fantasma que todavía salen del sur de noche. Los muelles dicen que Mara “la Roja”, de la *[[Venganza Roja|Red Vengeance]]*, capitana de la Marea Libre, es amiga suya, y que tiene una cala escondida donde se refugian los fugitivos.",
+     "**El camino de salida.** Los liberados se van río arriba a las aldeas de la Confederación, al norte en barcos de las Velas Libres, o a la Marea Libre, que le ofrece un lugar a bordo a cualquier esclavo que jure que el mar no es de nadie."
+    ]
+   },
+   {
+    "title": "Señales y costumbres",
+    "paragraphs": [],
+    "list": [
+     "**El collar partido** es el símbolo de Sevrin, y el suyo. Un collar se rompe, nunca se abre con llave.",
+     "**El candado abierto.** Un candado dejado roto y abierto en un portón es su marca, y una advertencia para quien cuidaba el portón.",
+     "**De pie.** Rezan de pie, y no se arrodillan ante nadie: ni ante un señor, ni ante un juez, ni ante el dios.",
+     "**Un eslabón.** Muchos liberados guardan un solo eslabón de lo que los ató, roto y abierto, en un cordón, en la muñeca o en el tobillo.",
+     "**La quema.** Un asalto no termina hasta que los libros son ceniza. *El papel también es una cadena.*"
+    ]
+   },
+   {
+    "title": "Amigos y enemigos",
+    "paragraphs": [
+     "**Sus enemigos** son las redes esclavistas sobre todo; las casas tiranas; la Casa Vossreth y las minas del [[Patrón de Medianoche|Midnight Patron]] en Karn Sorroch; Elendor, el esclavista del Consorcio de Buentiempo; y la servidumbre de la Compañía. La [[Resaca|Undertow]] no toca la carga fantasma, y no llora a los esclavistas que matan los Rompecadenas.",
+     "**Sus amigos** son menos y más callados: los Corredores de la Hoja Negra, que sacan a escondidas a los siervos de la Compañía, y a quienes los Rompecadenas quieren de aliados; los Guardianes del Hogar, cuyos orfanatos acechan los esclavistas; y el Pacto Verde, en espíritu. Los artilleros de la [[Ira Esmeralda|Emerald Wrath]] juran que su almirante ha hundido esclavistas y los ha reportado como tormentas."
+    ]
+   },
+   {
+    "title": "En las ciudades",
+    "paragraphs": [
+     "Hay una célula de Rompecadenas en cada gran puerto, dicen los muelles, y en Ventoro más que en ninguno, donde se asientan los contratos de servidumbre y viven los compradores de gente de papel. Nadie puede decir quién la dirige. Todos tienen una sospecha."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Los Rompecadenas planean atacar una mina de Vossreth, lo que significa cruzarse con el Patrón de Medianoche, que lo nota todo.",
+     "Los Rompecadenas quieren una alianza con los Corredores de la Hoja Negra de la Hermana Humo. La Compañía quiere su cabeza. Los dos quieren que el grupo elija.",
+     "Un trabajador que los Rompecadenas sacaron de las Hondas no puede dejar de trabajar: los capataces lo alimentaron con Mula durante tres años.",
+     "A un correo de los Rompecadenas le quitaron una lista de compradores de gente de papel. La mitad de los nombres son del Corazón Central, y algunos son muy respetables.",
+     "Un tablón de contratos de los Cazadores pone precio a un Rompecadenas que quemó una casa de cuentas de la Compañía. El Rompecadenas jura que estaba vacía. La Compañía dice que no."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Quemaron los libros de una tienda de la Compañía, y los trabajadores pagaron sus deudas en ceniza. La Compañía volvió a anotarlas todas antes del amanecer.” (un escribiente de Puerto Sur)",
+     "“La cala de Mara la Roja no tiene agua que se pueda beber, y nadie que llega ahí quiere irse.” (un contramaestre de las Velas Libres)",
+     "“Todo Rompecadenas lleva un eslabón roto. Si le ves uno a un caballero, no lo digas en voz alta.” (un prestamista de Ventoro)",
+     "“No se arrodillan. Ni ante un señor, ni ante un juez, ni ante su propio dios. Así se reconoce a uno.” (un hombre de mandato de la Compañía)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBhcmFtb2dyw61zIHBhZ2EuKiogTGEgQ2FzYSBQYXJhbW9ncsOtcyBsZXMgZGEgYSBsb3MgUm9tcGVjYWRlbmFzIHBsYXRhLCBtYWRlcmEgZGUgaGllcnJvIHkgY2FzYXMgc2VndXJhcyBhIGxvIGxhcmdvIGRlbCByw61vLCB5IGxlcyBwYWdhIGxhIHDDs2x2b3JhLiBbW0RhbWF8TGFkeV1dIEltYXJhIGNyZWUgcXVlIG5hZGllIGxvIHNhYmUsIHkgYSBzdSBtYXlvcmRvbW8gbGUgcGFnYW4gcGFyYSBxdWUgc2lnYSBhc8OtLiBMYSBNYWRyZSBkZSBsYXMgQXB1ZXN0YXMgbG8gc2FiZS4iLCAiKipMb3MgQ2luY28gQ29sbGFyZXMuKiogTG9zIFJvbXBlY2FkZW5hcyBubyB0aWVuZW4gdW4gc29sbyBqZWZlLiBVbmEgdmV6IGFsIGHDsW8gc2UgcmXDum5lbiBjaW5jbyB2aWVqb3MgbHVjaGFkb3JlcywgbnVuY2EgZG9zIHZlY2VzIGVuIGVsIG1pc21vIGx1Z2FyLCB5IGRlY2lkZW4gbG8gcXVlIGxhcyBjw6lsdWxhcyBubyBwdWVkZW4gZGVjaWRpciBlbnRyZSBlbGxhcy4gQ2FkYSB1bm8gZ3VhcmRhIHVuIGNvbGxhciBxdWUgbG9zIHByaW1lcm9zIFJvbXBlY2FkZW5hcyBzZSBhcnJhbmNhcm9uIGRlbCBjdWVsbG8sIHkgbGFzIGPDqWx1bGFzIGxvcyBsbGFtYW4gbG9zIENpbmNvIENvbGxhcmVzLiBMYSBtYXlvciwgcXVlIGhhYmxhIHBvciBlbGxvcywgZXMgbGEgTWFkcmUgUnVkYSBOdWV2ZWRlZG9zLCBxdWUgcm9tcGnDsyBzdSBwcm9waW8gY29sbGFyIGVuIEthcm4gU29ycm9jaCBoYWNlIGN1YXJlbnRhIGHDsW9zIHkgZGVqw7MgdW4gZGVkbyBlbiBsYSBjZXJyYWR1cmEuIiwgIioqRWwgQ2FuZGFkbyBBYmllcnRvLioqIExhIGPDqWx1bGEgZGUgVmVudG9ybyBlcyBlbCBDYW5kYWRvIEFiaWVydG8sIGRpcmlnaWRhIHBvciBsYSBiYWlsYXJpbmEgQXpoYW5pIFBpc2FicmFzYXMuIENvbXByYSB5IHF1ZW1hIHBhcGVsIGRlIHNlcnZpZHVtYnJlLCBsbGV2YSBsYSBsaXN0YSBkZSBsb3MgY29tcHJhZG9yZXMgZGUgbGEgY2FwaXRhbCB5IHBhZ2EgbGEgbWl0YWQgZGUgbGEgcMOzbHZvcmEgZGUgbGFzIGPDqWx1bGFzIGRlbCBzdXIgY29uIHBhcnRlcyBkZSBjYW1wYW5hIGVuIGxhIExlY3R1cmEgZGUgTW9uZWTDrWEuIiwgIioqTGEgcHVlcnRhIGEgS2FybiBTb3Jyb2NoLioqIEVsIGFzYWx0byBhIGxhIG1pbmEgZGUgVm9zc3JldGggZXMgcmVhbCwgeSBlbCBwbGFuIHZpbm8gZGUgYWRlbnRybzogYWxndWllbiBlbiBNYW5vcnJvamEgbGVzIG1hbmRhIGEgbG9zIFJvbXBlY2FkZW5hcywgc2luIGZpcm1hLCBsb3MgdHVybm9zIGRlIGd1YXJkaWEgZGUgbGFzIEhvbmRhcy4gTG9zIENpbmNvIENvbGxhcmVzIGNyZWVuIHF1ZSBlcyB1bmEgdHJhbXBhLiBFcyBbW1Nlw7FvcnxMb3JkXV0gQ2FsZHJlbiBWb3NzcmV0aCwgcXVlIHF1aWVyZSBxdWUgbGUgcm9tcGFuIHN1cyBwcm9waWFzIGNhZGVuYXMgeSBubyBwdWVkZSBkZWNpcmxvLiBRdWUgc2lnYSBzaWVuZG8gdW5hIHRyYW1wYSBkZXBlbmRlIGRlIGN1w6FudG8gZGUgw6lsIHNlYSBkZWwgUGF0csOzbiBkZSBNZWRpYW5vY2hlIGVzYSBub2NoZS4iLCAiKipFbCDDmmx0aW1vIEVzbGFiw7NuLioqIE5vIHRvZGFzIGxhcyBjw6lsdWxhcyBvYmVkZWNlbiBhIGxvcyBDaW5jbyBDb2xsYXJlcy4gRWwgw5psdGltbyBFc2xhYsOzbiBtYXRhIGEgbG9zIGNvbXByYWRvcmVzLCBubyBzb2xvIGxvcyBjb2xsYXJlczogbmluZ8O6biBjb21wcmFkb3Igdml2ZSBwYXJhIHZvbHZlciBhIGNvbXByYXIuIFF1ZW3DsyBsYSBjYXNhIGRlIGN1ZW50YXMgZGUgUHVlcnRvIFN1ciBjb24gdW4gZXNjcmliaWVudGUgYWRlbnRybywgeSBsbyBzb2x0YXJvbiBwb3IgZXNvLiBTdSBww7Nsdm9yYSBudWV2YSBzZSBwYWdhIGNvbiBtb25lZGFzIGxpbWFkYXMsIHBhcmEgcXVlIG5hZGllIHZlYSBkZSBxdWnDqW4gZXJhIGxhIGNhcmE6IGVsIGRpbmVybyBkZSBKYW51cyBSdW5lLCBxdWUgbWFudGllbmUgYXJkaWVuZG8gZWwgc3VyLiIsICIqKkxhIGNhbGEgZGUgTWFyYSBsYSBSb2phKiogZXMgcmVhbCwgeSBlcyB1bmEgZGUgc3VzIGVzdGFjaW9uZXM6IGxvcyBsaWJlcmFkb3MgZGVzY2Fuc2FuIGFow60gYW50ZXMgZGUgcXVlIGxhcyBjYW5vYXMgZGUgbG9zIE9ydW1hIGxvcyBsbGV2ZW4gcsOtbyBhcnJpYmEuIE1hcmEgbGEgUm9qYSBuYXZlZ2EgcGFyYSBsYSBNYXJlYSBMaWJyZSwgbm8gcGFyYSBsb3MgQ2luY28gQ29sbGFyZXMsIHkgZXMgdW5hIGFtaWdhLCBubyB1bmEgc29sZGFkby4iXX0="
+   }
+  ],
+  "gloss": "The Chainbreakers"
+ },
+ "blue-folk": {
+  "title": "La Gente Azul",
+  "subtitle": "Los nómadas de las islas secas, que llevan su riqueza en el brazo",
+  "summary": "El pueblo de las islas secas, un puñado de islas quemadas por el sol en el borde de las Tierras Salvajes del Sur: porteadores, tintoreros, salineros, corsarios y bailarinas-guerreras, que visten de índigo contra el sol hasta que les mancha la piel, llevan su riqueza en latón subiendo por el antebrazo, y dicen que el azul solo se destiñe cuando dejas de andar.",
+  "facts": [
+   [
+    "Dónde",
+    "las islas secas de las Tierras Salvajes del Sur, y cada camino y cada puerto entre ellas y los mercados"
+   ],
+   [
+    "Quiénes",
+    "una cultura, no una raza; quien se cría entre los clanes es gente azul"
+   ],
+   [
+    "Conocidos por",
+    "el índigo, el latón, la danza, los corsarios y el viejo camino del jade"
+   ],
+   [
+    "Vestido",
+    "túnicas y velos de índigo; fajas carmesí con flecos, turbantes turquesa y blancos, oro sin medida"
+   ],
+   [
+    "Riqueza",
+    "anillos y brazaletes apilados por el antebrazo"
+   ],
+   [
+    "Nombres",
+    "un nombre propio, y el del clan: Azhani de la Mano Azul"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las islas secas están en el borde quemado de las Tierras Salvajes del Sur, donde se acaba la selva y fallan las lluvias: islas de roca roja, salinas, matorral de espinos y pozos que todos conocen por su nombre. A la gente que vive entre ellas la llaman la gente azul, por el índigo que visten, que se les mete en la piel y nunca se va del todo.",
+     "Son una cultura, no una raza. Casi todos son humanos, pero un enano o un semiorco criado entre los clanes también es gente azul, y así se le trata. Son andariegos de oficio y de carácter: porteadores, tintoreros, salineros, corsarios y las mejores bailarinas de las islas."
+    ]
+   },
+   {
+    "title": "Índigo y latón",
+    "paragraphs": [],
+    "list": [
+     "**El azul.** Las túnicas y los velos de índigo los protegen del sol y de la arena. El tinte se pasa a la piel, primero en la frente y las palmas, y se queda. El índigo de las islas secas es el color por el que más pagan los tintoreros de Ventoro, y la gente azul dice que solo se destiñe cuando dejas de andar.",
+     "**El brazo.** No llevan bolsas. Su riqueza va en el antebrazo, en anillos y brazaletes de latón y oro apilados de la muñeca al codo, y suena cuando se mueven. Una bolsa se corta; por un brazo hay que pelear.",
+     "**Latón que canta.** Cascabeles en el tocado, discos en la tobillera, monedas en la faja: a una caravana de la gente azul se la oye antes de verla, y así lo quiere.",
+     "**Oro sin medida.** En día de fiesta, las islas secas visten la versión más teatral de la ropa del sur: fajas carmesí con flecos, turbantes turquesa y blancos, collares anchos, brazaletes y más oro del que parece posible."
+    ]
+   },
+   {
+    "title": "Los clanes",
+    "paragraphs": [
+     "La gente azul vive por clanes, y un clan es tanto un camino como una familia: lo que lleva, y adónde. Cada persona lleva el nombre de su clan."
+    ],
+    "list": [
+     "**La Mano Azul** llevó jade de Verdaya en caravana y en canoa desde antes de que nadie recuerde, hasta que la concesión de la Compañía cerró el camino.",
+     "**El Viento de Sal** trabaja las salinas de las islas interiores, y le vende a quien pague, que desde el monopolio de la sal de 175 EC quiere decir la Compañía.",
+     "**El Latón que Canta** son herreros y corsarios. El latón de cada brazo de las islas secas se batió en sus fraguas, y más de una patente de corso viajó en sus barcos.",
+     "**La Cisterna Lejana** cuida los pozos, y la ley de los pozos."
+    ]
+   },
+   {
+    "title": "El agua y el huésped",
+    "paragraphs": [],
+    "list": [
+     "**La ley del pozo.** En las islas secas a nadie se le niega agua, ni a un enemigo ni a un forastero, y nadie saca dos veces antes de que todos hayan sacado una. Ensuciar un pozo es el único crimen que todos los clanes castigan igual, y nadie dice cómo.",
+     "**La copa del camino.** Al viajero que llega a un campamento al anochecer se le da una copa de agua antes de preguntarle el nombre. Una vez que bebe, es huésped hasta que se va, y nadie en el campamento puede hacerle daño."
+    ]
+   },
+   {
+    "title": "Las bailarinas",
+    "paragraphs": [
+     "Las bailarinas de las islas secas son sus guerreras, y al revés. Las danzas enseñan los pasos, el equilibrio y el giro; la faja de monedas es un peso para hacer girar; las tobilleras llevan el compás. Una niña de la gente azul aprende a bailar antes que a pelear, y nadie le dice que haya diferencia.",
+     "Cada gran puerto tiene una o dos bailarinas de la gente azul. Ventoro tiene a Azhani Pisabrasas, la más famosa de todas."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Un nombre propio, corto y brillante, y después el del clan: Azhani de la Mano Azul, Ishava del Viento de Sal, Nazhi del Latón que Canta. Los corsarios y las viejas familias de los puertos llevan nombres más largos, como el capitán cazador Khaz'Aimar Maa'iq, que salió de las islas secas con patente de corso."
+    ]
+   },
+   {
+    "title": "El camino del jade",
+    "paragraphs": [
+     "Durante generaciones, la Mano Azul y los clanes como ella llevaron el jade de Verdaya desde los campos de la Confederación hasta la costa. Cuando la [[Compañía Casacarta|Charterhouse Company]] se quedó con la concesión del jade de Verdaya, el camino se cerró. Los clanes que vivían de él se endeudaron, y la Compañía compró las deudas. Algunos de sus hijos son papel en los pueblos de la Compañía.",
+     "La gente azul no perdona fácil. Tiene la memoria larga, y los caminos también."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [],
+    "list": [
+     "**En Ventoro** los tintoreros compran su índigo, los salones contratan a sus bailarinas y el Común quiere a Azhani Pisabrasas.",
+     "**En los puertos del sur** la gente azul carga lo que bajen los ríos, y los capitanes de puerto cuentan su latón y se desesperan.",
+     "**En el mar** sus corsarios navegaban con patente de corso. Algunos todavía lo hacen, y otros navegan sin patente ninguna.",
+     "**El Rey de los Ladrones.** En los puertos de las islas secas cuentan de un rey de los ladrones que le pidió a un diablo no morir nunca. El diablo cumplió al pie de la letra: el rey nunca murió, y nunca volvió a salir de su calavera."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Alguien ensució un pozo de las islas secas. Cada clan sospecha de todos los demás, y la ley del pozo dice lo que pasa después.",
+     "Una anciana de la Mano Azul quiere recomprar la servidumbre de un nieto. La Compañía pone un precio, y después otro.",
+     "El Viento de Sal quiere venderle su sal a cualquiera menos a la Compañía, que tiene el monopolio. Le pide al grupo que lleve un cargamento de sal que no existe."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Nunca cuentes en voz alta el latón de uno de la gente azul. Es lo mismo que pedirle pelea por él.” (un capitán de puerto de Puerto Sur)",
+     "“El Latón que Canta funde una campana por cada barco que ha tomado, y las cuelga en una cueva de las islas exteriores. Las noches de viento se oye la cueva desde el mar.” (un contramaestre de las Velas Libres)",
+     "“Una muchacha de las islas secas puede bailar sobre la borda en plena tormenta. Lo he visto. También he visto lo que hizo después con la faja.” (un artillero de la Armada)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIHB1ZXJ0YSBkZSBhdHLDoXMuKiogTGFzIGlzbGFzIHNlY2FzIHNvbiBlbCBjYW1pbm8gc3VyIGRlIGxvcyBSb21wZWNhZGVuYXMuIExhIGdlbnRlIGF6dWwgbGxldmEgYSBsb3MgbGliZXJhZG9zIGRlc2RlIGxhIGNvc3RhIGRlIGxhIENvbXBhw7HDrWEgYSB0cmF2w6lzIGRlIGxhcyBpc2xhcywgYmFqbyB2ZWxvcyBkZSDDrW5kaWdvIHF1ZSBlc2NvbmRlbiBjdWFscXVpZXIgY2FyYSwgaGFzdGEgY2FwaXRhbmVzIGRlIGxhcyBWZWxhcyBMaWJyZXMgeSBoYXN0YSBsYSBOb3ZpYSBkZSBTYWwgZGUgbG9zIE5hY2lkb3MgYSBsYSBEZXJpdmEsIHF1ZSBwYXNhIGZyZW50ZSBhIGxhcyBpc2xhcyBleHRlcmlvcmVzIHVuYSB2ZXogcG9yIHRlbXBvcmFkYS4gTG9zIHBvem9zIGRlIGxhIENpc3Rlcm5hIExlamFuYSBsZXMgZGFuIGRlIGJlYmVyIGVuIGVsIGNhbWluby4iLCAiKipQcmltbyBjb250cmEgcHJpbW8uKiogTGEgQ29tcGHDscOtYSByZWNsdXRhIGhvbWJyZXMgZGUgbWFuZGF0byBlbnRyZSBsb3MgY2xhbmVzIGVuZGV1ZGFkb3M6IHVuIGHDsW8gZGUgc2VydmljaW8gYSBjYW1iaW8gZGVsIHBhcGVsIGRlIHVuIHByaW1vLiBUYXZvIGRlIGxhIE1hbm8gQXp1bCBlcyB1bm8gZGUgZWxsb3MsIHkgbm8gZWwgw7puaWNvLiIsICIqKkxvIHF1ZSBkZWNpZGUgZWwgVmllbnRvIGRlIFNhbC4qKiBFbCBWaWVudG8gZGUgU2FsIGxlIHZlbmRlIHN1IHNhbCBhIGxhIENvbXBhw7HDrWEgcG9ycXVlIGxhIENvbXBhw7HDrWEgdGllbmUgZWwgcGFwZWwgZGUgc3VzIGhpam9zLiBMb3MgUm9tcGVjYWRlbmFzIGxlIGhhbiBwZWRpZG8gcXVlIGRlamUgYXJkZXIgdW5hIGJhcmNhemEgZGUgc2FsLiBObyBoYSBkaWNobyBxdWUgbm8uIl19"
+   }
+  ],
+  "gloss": "The Blue Folk"
+ },
+ "driftborn": {
+  "title": "Los Nacidos a la Deriva",
+  "subtitle": "La gente que nunca baja a tierra",
+  "summary": "Familias que pasan la vida entera en el mar, en flotillas de barcos, y nunca pisan tierra. Cada tarde cada flotilla se amarra en una sola, la balsada, un pueblo flotante por una noche, y se suelta otra vez al amanecer. Algunos son comerciantes honrados; otros llevan lo que los puertos no quieren llevar.",
+  "facts": [
+   [
+    "Dónde",
+    "el mar abierto, las rutas y el resguardo de cada gran puerto"
+   ],
+   [
+    "En tierra",
+    "nunca"
+   ],
+   [
+    "Dios",
+    "Castellyn del Hogar Abierto, guardián de la ley del huésped"
+   ],
+   [
+    "Conocidos por",
+    "la balsada, la ley del huésped y el pasaje sin preguntas al triple del precio"
+   ],
+   [
+    "Responden a",
+    "la marea, y a ninguna bandera"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Los Nacidos a la Deriva nacen en el mar, viven en el mar y se entregan al mar, en flotillas de cascos familiares que nunca han estado todos juntos en un astillero. Responden a la marea y a ninguna bandera, y van a la deriva entre lo legal y lo libre: algunas flotillas son comerciantes honrados, y otras se acercan a los Puertos Libres piratas y a la [[Marea Libre|Free Tide]]."
+    ]
+   },
+   {
+    "title": "La balsada",
+    "paragraphs": [
+     "Al atardecer, los cascos de una flotilla se juntan de proa a popa y de costado a costado, amarrados con nudos que cualquier niño de la Deriva sabe hacer antes de saber nadar. Bajan las planchas entre las cubiertas, suben los faroles, y por una noche hay un pueblo: mercados, bodas, pleitos, música y los mayores sentados a juzgar. Al amanecer se sueltan las amarras, y vuelve a ser una flota.",
+     "Un forastero puede llegar a una balsada en bote, y es huésped hasta el amanecer. La balsada es el mejor lugar de las islas para comprar algo que nadie pueda rastrear, y el peor para armar problemas."
+    ]
+   },
+   {
+    "title": "Nunca en tierra",
+    "paragraphs": [],
+    "list": [
+     "**La plancha.** Uno de la Deriva comercia con la tierra por una plancha de la cubierta al muelle, y nunca la cruza. Las mercancías pasan por la plancha; los pies no.",
+     "**Nacer y morir en el mar.** Uno de la Deriva nace en una cubierta y se entrega al mar desde otra. No hay tumbas de la Deriva en tierra, y la idea les parece triste.",
+     "**Irse.** Quien pisa tierra por su propia voluntad ha dejado al pueblo. Puede volver a una balsada como huésped. No puede volver como uno de la Deriva."
+    ]
+   },
+   {
+    "title": "La ley del huésped",
+    "paragraphs": [
+     "Hacerle daño a alguien a quien diste de comer, o que te dio de comer, es de los pecados más graves que puede cometer un kalvatari, y los de la Deriva guardan la ley de Castellyn con más dureza que nadie. Quien come en una balsada está a salvo ahí hasta el amanecer, sea lo que sea. A quien rompe la paz de una balsada lo echan por la borda con un barril, y la flotilla se va."
+    ]
+   },
+   {
+    "title": "Las flotillas",
+    "paragraphs": [],
+    "list": [
+     "**La Atadura Larga,** la más antigua, que dice que no se ha soltado entera desde antes del Desembarco.",
+     "**La Novia de Sal,** la más rica, cuya balsada es una feria, y cuyas bodas duran una semana.",
+     "**Los Cien Cascos,** que nunca ha tenido cien cascos, y nunca ha tenido menos de cien personas que dicen que sí."
+    ]
+   },
+   {
+    "title": "Comercio y pasaje",
+    "paragraphs": [],
+    "list": [
+     "**Comercio honrado** de pescado, sal, cuerda y lo que un puerto tenga y el siguiente quiera.",
+     "**Pasaje sin preguntas,** al triple del precio, para cualquiera a quien un puerto prefiera no ver irse.",
+     "**Lo que los puertos no llevan.** Algunas flotillas, sin tocar nunca tierra, llevan lo que ningún aduanero llega a ver."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "El grupo necesita un pasaje sin preguntas. Una capitana de la Deriva pone el precio, el triple del honrado, y una condición más: nadie a bordo pisa tierra hasta que ella lo diga.",
+     "Un huésped que rompió la paz de la balsada de la Novia de Sal fue echado por la borda con un barril. Apareció vivo en un puerto, y quiere vengarse de toda la flotilla.",
+     "Una muchacha de la Deriva cruzó la plancha y quiere quedarse en tierra. Su flotilla no va a venir por ella. Su madre le pide al grupo que lo haga."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Cómete lo que te den, todo, y nunca dejarán que te pase nada a bordo. Deja algo y ya verás.” (un cocinero de las Velas Libres)",
+     "“Las cuerdas de la Atadura Larga son más viejas que la Carta. Dicen que los nudos recuerdan nombres.” (un cordelero de las Cordelerías)",
+     "“En una balsada puedes comprar cualquier cosa. Lo que no puedes es comprar un lugar en una.” (un contrabandista de Puerto Negro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIEJhbHNhIGRlIGxvcyBGYXJvbGVzLioqIFVuYSBmbG90aWxsYSBkZSBsYSBEZXJpdmEgbGxhbWFkYSBsYSBCYWxzYSBkZSBsb3MgRmFyb2xlcyBlc3RhYmEgYW1hcnJhZGEgZW4gbGEgYm9jYSBkZSBBZ3VhbXVkYSBsYSBub2NoZSBkZSAxNDggRUMuIExhIG1pdGFkIHNlIGZ1ZSBhbCBhZ3VhLiBMYSBtaXRhZCBxdWUgdml2acOzIG51bmNhIHNlIGZ1ZTogc3VzIGNhc2NvcyBlc3TDoW4gYW1hcnJhZG9zIGVuIGVsIHB1ZXJ0byBkZSBsYSBWaWdpbGlhIGRlIFBsYXRhLCB5IGd1w61hbiBlbCBlc3RyZWNobyBhIGNhbXBhbmFkYXMuIEVsIHJlc3RvIGRlIGxhIERlcml2YSBoYWJsYSBkZSBsYSBCYWxzYSBkZSBsb3MgRmFyb2xlcyBjb21vIHBlcmRpZGEsIHkgbm8gcHJlZ3VudGEuIiwgIioqTGEgTm92aWEgZGUgU2FsIGxsZXZhIGEgbG9zIGxpYmVyYWRvcy4qKiBVbmEgdmV6IHBvciB0ZW1wb3JhZGEsIGxhIGJhbHNhZGEgZGUgbGEgTm92aWEgZGUgU2FsIHBhc2EgdW5hIG5vY2hlIGZyZW50ZSBhIGxhcyBpc2xhcyBzZWNhcyBleHRlcmlvcmVzLCB5IHphcnBhIGFsIG5vcnRlIGNvbiBtw6FzIGdlbnRlIGRlIGxhIHF1ZSBsbGVnw7MuIExvcyBSb21wZWNhZGVuYXMgcGFnYW4gZW4gc2FsIHkgZW4gc2lsZW5jaW8uIl19"
+   }
+  ],
+  "gloss": "The Driftborn"
+ },
+ "brassfield": {
+  "title": "Campo de Latón",
+  "subtitle": "Un pueblo cañero de la Compañía sobre Puerto Sur, donde la deuda nunca se achica",
+  "summary": "Uno de los pueblos cañeros de la Compañía Casacarta en las colinas sobre Puerto Sur: seiscientos trabajadores en servidumbre, un trapiche, una tienda, una casa de cuentas y un libro en el que cada deuda crece un poco cada Monedía. Todo legal.",
+  "facts": [
+   [
+    "Dueña",
+    "la Compañía Casacarta"
+   ],
+   [
+    "Dónde",
+    "la costa cañera sobre Puerto Sur, junto a un río lento y pardo"
+   ],
+   [
+    "Cultiva",
+    "caña, que se hierve en azúcar"
+   ],
+   [
+    "Trabajadores",
+    "unos seiscientos, en servidumbre"
+   ],
+   [
+    "Se paga en",
+    "latón de la Compañía, que solo vale en la tienda de la Compañía"
+   ],
+   [
+    "Lo dirige",
+    "el factor Pernell Sabb, por la Compañía"
+   ],
+   [
+    "En la ley",
+    "un vínculo de deuda, sellado por un magistrado"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Campo de Latón es uno de la docena de pueblos de la Compañía en la costa cañera sobre Puerto Sur, y no el peor, que es lo más aterrador que alguien dice de él. La [[Compañía Casacarta|Charterhouse Company]] es dueña de todo lo que hay adentro: los campos, el trapiche, las casas, la tienda, los perros y el papel de todos los que viven ahí.",
+     "Nadie en Campo de Latón es esclavo. De eso se encargó la Abolición. Todos en Campo de Latón deben."
+    ]
+   },
+   {
+    "title": "Cómo una persona se vuelve papel",
+    "paragraphs": [
+     "En la ley es un vínculo de deuda: un deudor se obliga a trabajar para saldar una deuda, con un contrato que sella un magistrado. En manos de la Compañía es servidumbre, y la deuda, no se sabe cómo, nunca se achica."
+    ],
+    "list": [
+     "**La deuda se compra.** La Compañía les compra deudas a comerciantes, tribunales y clanes que no pueden pagar, y el deudor, o el hijo del deudor, viene con ella.",
+     "**La deuda crece.** El pasaje a Campo de Latón, las herramientas, un catre, una manta y cada comida de la tienda se le suman, a los precios de la tienda.",
+     "**El sueldo es latón.** Los sueldos se pagan en latón de la Compañía, fichas de latón que solo valen en la tienda de la Compañía. Los trabajadores lo llaman dinero de collar.",
+     "**Las multas.** Llegar tarde a la campana, romper una herramienta, decirle algo a un capataz: cada cosa es una multa, y cada multa va al papel.",
+     "**El Monedía.** El Monedía, el escribiente lee en voz alta la deuda de cada trabajador desde los escalones de la casa de cuentas. Siempre es un poco más grande que la vez anterior.",
+     "**Los niños.** Un niño nacido en Campo de Latón debe su propio sustento desde el día en que nace."
+    ]
+   },
+   {
+    "title": "El pueblo",
+    "paragraphs": [],
+    "list": [
+     "**La casa de cuentas,** una oficina encalada con rejas en las ventanas, donde vive el libro y duermen los hombres de mandato.",
+     "**La tienda,** el único lugar de Campo de Latón donde el latón vale algo, y donde vale un poco menos cada temporada.",
+     "**El trapiche y la casa de calderas,** donde saurios [[Lomogreda|Loamback]] mueven la rueda que muele, y el jugo de caña hierve día y noche en temporada.",
+     "**Las hileras,** las casas largas de los trabajadores, y la barraca de los niños, que se cierra con cadena de noche.",
+     "**La caña,** que va del río a las colinas, más alta que un jinete.",
+     "**El embarcadero,** en un río lento y pardo, donde las barcazas de azúcar bajan a Puerto Sur y nada debería subir.",
+     "**El portón y las perreras,** porque en la caña es fácil meterse, y los perros la conocen mejor que nadie."
+    ]
+   },
+   {
+    "title": "El año",
+    "paragraphs": [],
+    "list": [
+     "**La quema.** Antes del corte, los capataces le prenden fuego a la caña para quitarle las hojas y espantar las culebras. Durante tres días Campo de Latón es humo. Es la mejor época del año para huir, y todos lo saben, los capataces más que nadie.",
+     "**El corte.** En la zafra, los cortadores trabajan de la primera luz a la última, y los capataces reparten Mula “gratis” y la descuentan del sueldo.",
+     "**Los pies descalzos.** Los jóvenes andan descalzos, por regla de los capataces, para que no puedan correr sobre el rastrojo.",
+     "**La molienda.** En temporada el trapiche nunca para, y nadie adentro tampoco."
+    ]
+   },
+   {
+    "title": "Quién lo dirige",
+    "paragraphs": [],
+    "list": [
+     "**El factor Pernell Sabb,** el hombre de la Compañía: pulcro, de voz suave y exacto. Nunca ha levantado la voz ni la mano, y nunca se ha equivocado en una cuenta. Él mismo manda a Ventoro los contratos de cada temporada.",
+     "**El Capataz Mayor Harl Tannow,** el jefe de los capataces, que recorre las hileras con un machete y un silbato, y es a quien se refieren los trabajadores cuando dicen *el jefe*."
+    ]
+   },
+   {
+    "title": "Salir",
+    "paragraphs": [
+     "El papel dice que una deuda se puede saldar. Nadie en Campo de Latón lo ha visto pasar nunca.",
+     "La gente se va de todos modos: en el humo de la quema, río abajo de noche, a la selva con los perros detrás. Los Corredores de la Hoja Negra sacan a algunos, si a la [[Hermana Humo|Sister Smoke]] le gusta su cara. Los pueblos de la Compañía dicen que a los demás se los llevan los Rompecadenas.",
+     "En las hileras cuentan de una niña que corrió a través de la caña en llamas y salió del otro lado sin quemarse. No dicen su nombre. Le rezan a Sevrin de pie, en la caña, donde los capataces no los ven."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "La deuda de un comerciante de Puerto Sur se vendió a la Compañía. Su hija va en la próxima carreta a Campo de Latón, y el papel es perfectamente legal.",
+     "La Compañía contrata al grupo para rastrear a una familia fugitiva en la caña antes que los perros. El grupo va a llegar primero.",
+     "Un auditor de la Casa de los Tesoreros quiere que alguien le traiga una página del libro de Campo de Latón. Cualquier página.",
+     "La quema empieza en tres días. Alguien adentro quiere estar en el río cuando empiece."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Nadie ha saldado nunca su papel en Campo de Latón. Una vez le pregunté al escribiente. Me dijo que es aritmética.” (un carretero de Puerto Sur)",
+     "“A los perros de Campo de Latón les enseñaron un solo olor: ceniza de caña en pies descalzos.” (un Corredor de la Hoja Negra)",
+     "“El factor Sabb tiene una hija en la Universidad. Ella cree que su padre vende azúcar.” (un estudiante de Ventoro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkRvcyBsaWJyb3MuKiogRWwgZmFjdG9yIFNhYmIgbGxldmEgZG9zIGxpYnJvcy4gRWwgcXVlIGxlZSBlbCBNb25lZMOtYSBkaWNlIHF1ZSBjYWRhIGRldWRhIGVzdMOhIGNyZWNpZW5kby4gRWwgdmVyZGFkZXJvLCBlbiBsYSBjYWphIGZ1ZXJ0ZSBkZSBsYSBjYXNhIGRlIGN1ZW50YXMsIGRpY2UgcXVlIGRvc2NpZW50b3MgZGUgbG9zIHNlaXNjaWVudG9zIGRlIENhbXBvIGRlIExhdMOzbiBzYWxkYXJvbiBzdSBwYXBlbCBoYWNlIGHDsW9zLiBMYSBDb21wYcOxw61hIGxvIHNhYmUuIExhIENhc2EgZGUgbG9zIFRlc29yZXJvcywgcXVlIGFzaWVudGEgbG9zIGNvbnRyYXRvcywgbm8gc2FiZSBxdWUgbG8gc2FiZS4iLCAiKipMb3MgY29udHJhdG9zIHZhbiBhbCBub3J0ZS4qKiBDYWRhIHRlbXBvcmFkYSBTYWJiIG1hbmRhIGxvcyBjb250cmF0b3MgbnVldm9zIGRlIENhbXBvIGRlIExhdMOzbiBhIFZlbnRvcm8sIHBhcmEgYXNlbnRhcmxvcyBlbiBsYSBDYXNhIGRlIGxvcyBUZXNvcmVyb3MgZWwgTW9uZWTDrWEuIEVzYSBlcyBsYSBjYXJnYSBxdWUgZWwgQ2FuZGFkbyBBYmllcnRvIHBpZW5zYSBxdWVtYXIgZW4gZWwgTWVyY2FkbyBkZSBsYXMgR2F2aW90YXMuIiwgIioqUmV2ZW5kaWRvcy4qKiBDdWFuZG8gc2UgY3VtcGxlIGxhIGN1b3RhIGRlIGxhIENvbXBhw7HDrWEsIGVsIHBhcGVsIHNvYnJhbnRlIGRlIENhbXBvIGRlIExhdMOzbiBzZSB2ZW5kZSBjb21vIG1hbm8gZGUgb2JyYSBhIGxhcyBmaW5jYXMgbm8gbGlicmVzIGRlIGxhIENhc2EgVm9zc3JldGguIEVsIENvbnNlam8gbm8gbG8gbGxhbWEgcG9yIHN1IG5vbWJyZS4iLCAiKipFbCBwdWVibG8gZGUgQXpoYW5pLioqIEF6aGFuaSBQaXNhYnJhc2FzIGZ1ZSBwYXBlbCBhcXXDrS4gTGEgY2FkZW5hIGRlIGxhIGJhcnJhY2EgZGUgbG9zIG5pw7FvcyB0b2RhdsOtYSB0aWVuZSBlbCBodWVjbyBkb25kZSByb21wacOzIGVsIGVzbGFiw7NuLiBFbCBDYXBhdGF6IE1heW9yIFRhbm5vdyBlcmEgdW4gY2FwYXRheiBqb3ZlbiBsYSBub2NoZSBxdWUgaHV5w7MsIHkgbGEgdmlvIHNhbGlyIGRlbCBmdWVnby4gTnVuY2Egc2UgbG8gaGEgY29udGFkbyBhIG5hZGllLCB5IGRlc2RlIGVudG9uY2VzIG51bmNhIGhhIHByZW5kaWRvIGxhIGNhw7FhIHNpbiBidXNjYXJsYS4iXX0="
+   }
+  ],
+  "gloss": "Brassfield"
  }
 }
