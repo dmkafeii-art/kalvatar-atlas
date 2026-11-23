@@ -3786,7 +3786,8 @@
    "faewild",
    "kalvatar",
    "arbiters",
-   "still-days"
+   "still-days",
+   "month-names"
   ]
  },
  {
@@ -12134,7 +12135,8 @@
    "the-keeping",
    "companions",
    "promise-doves",
-   "hospitality"
+   "hospitality",
+   "month-names"
   ]
  },
  {
@@ -49578,7 +49580,8 @@
    "varneth-the-threshold-warden",
    "tenants",
    "changelings",
-   "the-warped"
+   "the-warped",
+   "month-names"
   ],
   "aliases": [
    "Still Days",
@@ -53031,7 +53034,8 @@
    "theomar-vol-sunessi",
    "undertow",
    "crimson-legion",
-   "assios-and-the-wider-world"
+   "assios-and-the-wider-world",
+   "month-names"
   ],
   "aliases": [],
   "dossier": {
@@ -57487,6 +57491,213 @@
    "coinsday-reading",
    "blue-folk",
    "sevrin-the-chainbreaker"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "month-names",
+  "title": "Bastards and Month-Names",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "A bastard has no house, so the god of their month takes them in",
+  "summary": "In Council lands a child born outside a house carries no house name. They carry the god of the month they were born in instead: Korin of Ezra, Sefa of Memnara. The islands say the gods take in the ones the houses won't, and every month has a reputation to go with it.",
+  "facts": [
+   [
+    "The rule",
+    "a given name, then the birth-month: Korin of Ezra"
+   ],
+   [
+    "Born in the Still Days",
+    "of no month"
+   ],
+   [
+    "Giving the name",
+    "before a magistrate and two witnesses, in Veriden"
+   ],
+   [
+    "Inheritance",
+    "none, unless the name is given; then behind every child born in the house"
+   ],
+   [
+    "Foundlings",
+    "named for the month they were found in"
+   ],
+   [
+    "In the Imperium",
+    "Val, where the house's own carry Vol"
+   ]
+  ],
+  "aliases": [
+   "month-name",
+   "month-names",
+   "the Eleventh Month",
+   "homecoming children"
+  ],
+  "sections": [
+   {
+    "title": "Overview",
+    "paragraphs": [
+     "A child born outside a house has no house name to carry. In Council lands they carry the god of the month they were born in instead, and the god stands where the house would: Korin of Ezra, Sefa of Memnara, Wynn of Liora. The islands say the gods take in the ones the houses won't.",
+     "How much it matters depends on where you stand. The Frontier does not care: *hold or drown*, and nobody asks a wall-holder's father. The Heartland's salons whisper. The south remembers. The Hunters do not care at all."
+    ]
+   },
+   {
+    "title": "What the months say",
+    "paragraphs": [
+     "Every month has a reputation, and its children wear it whether it fits or not."
+    ],
+    "table": {
+     "headers": [
+      "Month",
+      "Keeps",
+      "What the docks say of its children"
+     ],
+     "rows": [
+      [
+       "Eo",
+       "Hearth and Home",
+       "They want a home more than anyone, and make the best ones."
+      ],
+      [
+       "Eliol",
+       "Chart and Star",
+       "Always looking for where they came from."
+      ],
+      [
+       "Ezra",
+       "Mast and Sail",
+       "Restless. Half the Free Sails are of Ezra."
+      ],
+      [
+       "Liora",
+       "Heart and Hand",
+       "Love-children: the sweetest insult in the islands."
+      ],
+      [
+       "Rhor",
+       "Net and Anvil",
+       "They work twice as hard to be counted once."
+      ],
+      [
+       "Idel",
+       "Coin and Cargo",
+       "They know what everything costs, themselves included."
+      ],
+      [
+       "Veriden",
+       "Truth and Justice",
+       "The homecoming children. Born to argue."
+      ],
+      [
+       "Halvenir",
+       "Salt and Harvest",
+       "Lucky at sea, and they know it."
+      ],
+      [
+       "Memnara",
+       "Bell and Remembrance",
+       "Unlucky, people say, and they remember every slight."
+      ],
+      [
+       "Okram",
+       "Harbor and Rest",
+       "The ones who always come back."
+      ],
+      [
+       "The Still Days",
+       "no god",
+       "Of no month. The fae have a claim, the old wives say."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The homecoming children",
+    "paragraphs": [
+     "The fleets come home in Okram, the month of Harbor and Rest, and the Lanterns of Unity light every harbor. The children of the homecoming are born seven months later, in Veriden, the month of Truth and Justice, which is also the month of oaths and courts. So *of Veriden* means a sailor's child as often as not, and the magistrates hear more paternity suits in Veriden than in the rest of the year together.",
+     "*“The courts settle in Veriden what the lanterns started in Okram.”*"
+    ]
+   },
+   {
+    "title": "Of no month",
+    "paragraphs": [
+     "The five Still Days between Okram and Eo belong to no god. Debts pause, the courts close, and every fae bargain in the islands falls due. A bastard born in them has no god to take them in, and is called *of no month*. The old wives say the fae have a claim on such children, and most mothers do not wait to find out: they keep the birth quiet and name the child for Eo the next morning. Eo 1st is the commonest birthday among the islands' bastards, and every midwife knows why."
+    ]
+   },
+   {
+    "title": "Giving the name",
+    "paragraphs": [
+     "A father can give his name to a bastard before a magistrate and two witnesses, and it is done in Veriden, the month of oaths. The child drops the month and takes the house. A child given the name inherits, but behind every child born in the house.",
+     "Some refuse it. A Hunter of Ezra with a Gold Sigil does not always want the name of the lord who would not give it to a child, and *of Ezra by choice* is a thing people say, proudly."
+    ]
+   },
+   {
+    "title": "Foundlings",
+    "paragraphs": [
+     "The Hearthkeepers' orphanages name a foundling for the month it was found in. So *of Ezra* can mean a bastard or a foundling, and nobody can tell which by the name. More than one bastard of a great house has let the islands believe they were simply found."
+    ]
+   },
+   {
+    "title": "Among the Hunters",
+    "paragraphs": [
+     "The Sigil erases birth. The Lodges are full of month-names, the Ranking does not care, and a Hunter's word counts the same whoever their father was. *“The Sigil has no father.”*"
+    ]
+   },
+   {
+    "title": "The Eleventh Month",
+    "paragraphs": [
+     "On the steps where Goldwind's rings meet the Commons there is a tavern called the Eleventh Month, after the month that does not exist, which is where its customers stand in their families' books. It is where the bastards of the great houses drink.",
+     "No house names are spoken inside, by custom. The houses pay their bastards' tabs there without asking what was drunk, which is the closest most of them come to saying the name."
+    ]
+   },
+   {
+    "title": "In the Imperium",
+    "paragraphs": [
+     "The Emperor's bastards are barred from the throne and make superb, deniable agents. The court does not count them. The court should.",
+     "The scholars of the Imperium note a pattern in its names: a child of a noble house born inside it carries *Vol*, as in Theomar Vol Sunessi and the Vol Kaern; one of the blood born outside it carries *Val*. The Imperium sends a great many Vals abroad."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A dying lord wants to give his name to his bastard of Memnara before Veriden ends. His heir would very much rather he did not live that long.",
+     "A child born in the Still Days has been left on a Hearthkeepers' step, with a fae token in the blanket.",
+     "A Black Coat has asked the Eleventh Month's keeper, very politely, whether any Val has been drinking there.",
+     "A Hunter of Ezra has just learned which house he belongs to. The house has just learned he is a Gold."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Half the Eo-born in the islands were born in the Still Days. Ask any midwife.” (a midwife of the Canals)",
+     "“If you want a house's secrets, buy a round at the Eleventh Month.” (a Skein runner)",
+     "“The envoy at the Council's table is a Val. So is the Survey's commander. Count them.” (a University scholar of the Imperium)",
+     "“Every Okram the lanterns go up, and every Veriden the magistrates sigh.” (a magistrate's clerk)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkphbnVzIFJ1bmUgaXMgYSBWYWwuKiogSGlzIHRydWUgbmFtZSBpcyBUaGFuIFNvbCBWYWwgU2VucmlrOiBvbmUgb2YgdGhlIEVtcGVyb3IncyBiYXN0YXJkcywgcmFpc2VkIGluIHRoZSBNYXVkYW4gUGFsYWNlIGFuZCB0cmFpbmVkIGJ5IHRoZSBJbnF1aXNpdGlvbiwgd2hvIHdhbnRzIHRvIGJlIGxlZ2l0aW1pemVkLiBBbnlvbmUgd2hvIGtub3dzIHRoZSBWb2wgYW5kIHRoZSBWYWwgY2FuIHJlYWQgaXQgaW4gaGlzIG5hbWUsIHdoaWNoIGlzIG9uZSByZWFzb24gYWxtb3N0IG5vYm9keSBpbiB0aGUgaXNsYW5kcyBoYXMgaGVhcmQgaXQuIiwgIioqV2h5IHRoZSBtb3RoZXJzIGxpZS4qKiBUaGUgb2xkIHdpdmVzIGFyZSByaWdodC4gQSBjaGlsZCBvZiBubyBtb250aCBoYXMgbm8gZ29kJ3MgbmFtZSBzdGFuZGluZyBvdmVyIHRoZWlycywgYW5kIGEgZmFlIGNhbiB0YWtlIGhvbGQgb2Ygc3VjaCBhIG5hbWUgYXMgZWFzaWx5IGFzIGEgdHJ1ZSBuYW1lLiBNb3N0IHN1Y2ggY2hpbGRyZW4gYXJlIG5ldmVyIG5vdGljZWQuIFRoZSBvbmVzIHdobyBhcmUgZ2V0IGEgdmlzaXRvciBvbiB0aGVpciBzZXZlbnRoIFN0aWxsIERheXMsIGFuZCBhIGJhcmdhaW4gb2ZmZXJlZCB2ZXJ5IGtpbmRseS4iLCAiKipUaGUgRWxldmVudGggTW9udGggbGlzdGVucy4qKiBJdHMga2VlcGVyLCBPcmllbCBvZiBJZGVsLCBzZWxscyB3aGF0IHRoZSBiYXN0YXJkcyBvZiB0aGUgZ3JlYXQgaG91c2VzIHNheSBvdmVyIHRoZWlyIHBhaWQtZm9yIGRyaW5rcyB0byB0aGUgU2tlaW4sIG9uZSBzZWNyZXQgYSBtb250aCwgbmV2ZXIgdHdvIGZyb20gdGhlIHNhbWUgaG91c2UuIl19"
+   }
+  ],
+  "related": [
+   "calendar",
+   "still-days",
+   "hearth-customs",
+   "assios-and-the-wider-world",
+   "the-southern-survey",
+   "janus-rune",
+   "kitehill",
+   "the-commons",
+   "goldwind",
+   "hunters",
+   "ranking-cards",
+   "hunter-companies"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {

@@ -17665,5 +17665,186 @@
    }
   ],
   "gloss": "Brassfield"
+ },
+ "month-names": {
+  "title": "Bastardos y nombres de mes",
+  "subtitle": "Un bastardo no tiene casa, así que lo acoge el dios de su mes",
+  "summary": "En las tierras del Consejo, un niño nacido fuera de una casa no lleva nombre de casa. Lleva, en cambio, el dios del mes en que nació: Korin de Ezra, Sefa de Memnara. Las islas dicen que los dioses acogen a los que las casas no quieren, y cada mes tiene su fama.",
+  "facts": [
+   [
+    "La regla",
+    "un nombre propio, y después el mes de nacimiento: Korin de Ezra"
+   ],
+   [
+    "Nacidos en los Días Quietos",
+    "de ningún mes"
+   ],
+   [
+    "Dar el nombre",
+    "ante un magistrado y dos testigos, en Veriden"
+   ],
+   [
+    "Herencia",
+    "ninguna, salvo que se dé el nombre; entonces, detrás de todos los hijos nacidos en la casa"
+   ],
+   [
+    "Expósitos",
+    "llevan el nombre del mes en que los encontraron"
+   ],
+   [
+    "En el Imperio",
+    "Val, donde los de la casa llevan Vol"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Un niño nacido fuera de una casa no tiene nombre de casa que llevar. En las tierras del Consejo lleva, en cambio, el dios del mes en que nació, y el dios ocupa el lugar de la casa: Korin de Ezra, Sefa de Memnara, Wynn de Liora. Las islas dicen que los dioses acogen a los que las casas no quieren.",
+     "Cuánto importa depende de dónde estés. A la Frontera no le importa: *aguanta o te ahogas*, y nadie le pregunta por su padre a quien sostiene un muro. Los salones del Corazón Central lo susurran. El sur se acuerda. A los Cazadores no les importa en absoluto."
+    ]
+   },
+   {
+    "title": "Lo que dicen los meses",
+    "paragraphs": [
+     "Cada mes tiene su fama, y sus hijos la llevan les quede o no."
+    ],
+    "table": {
+     "headers": [
+      "Mes",
+      "Guarda",
+      "Lo que dicen los muelles de sus hijos"
+     ],
+     "rows": [
+      [
+       "Eo",
+       "Hogar y Casa",
+       "Quieren un hogar más que nadie, y hacen los mejores."
+      ],
+      [
+       "Eliol",
+       "Carta y Estrella",
+       "Siempre buscando de dónde vienen."
+      ],
+      [
+       "Ezra",
+       "Mástil y Vela",
+       "Inquietos. La mitad de las Velas Libres son de Ezra."
+      ],
+      [
+       "Liora",
+       "Corazón y Mano",
+       "Hijos del amor: el insulto más dulce de las islas."
+      ],
+      [
+       "Rhor",
+       "Red y Yunque",
+       "Trabajan el doble para que los cuenten una vez."
+      ],
+      [
+       "Idel",
+       "Moneda y Carga",
+       "Saben lo que cuesta todo, ellos incluidos."
+      ],
+      [
+       "Veriden",
+       "Verdad y Justicia",
+       "Los hijos del regreso. Nacidos para discutir."
+      ],
+      [
+       "Halvenir",
+       "Sal y Cosecha",
+       "Con suerte en el mar, y lo saben."
+      ],
+      [
+       "Memnara",
+       "Campana y Recuerdo",
+       "Con mala suerte, dice la gente, y recuerdan cada desaire."
+      ],
+      [
+       "Okram",
+       "Puerto y Descanso",
+       "Los que siempre vuelven."
+      ],
+      [
+       "Los Días Quietos",
+       "ningún dios",
+       "De ningún mes. Las hadas tienen derecho sobre ellos, dicen las viejas."
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Los hijos del regreso",
+    "paragraphs": [
+     "Las flotas vuelven a casa en Okram, el mes de Puerto y Descanso, y los Faroles de la Unidad encienden todos los puertos. Los hijos del regreso nacen siete meses después, en Veriden, el mes de la Verdad y la Justicia, que también es el mes de los juramentos y los tribunales. Así que *de Veriden* quiere decir hijo de marinero tan a menudo como no, y los magistrados oyen más juicios de paternidad en Veriden que en todo el resto del año junto.",
+     "*“Los tribunales arreglan en Veriden lo que los faroles empezaron en Okram.”*"
+    ]
+   },
+   {
+    "title": "De ningún mes",
+    "paragraphs": [
+     "Los cinco Días Quietos entre Okram y Eo no pertenecen a ningún dios. Las deudas se detienen, los tribunales cierran y vence cada trato feérico de las islas. Un bastardo nacido en ellos no tiene dios que lo acoja, y se le dice *de ningún mes*. Las viejas dicen que las hadas tienen derecho sobre esos niños, y casi ninguna madre espera a averiguarlo: callan el parto y le ponen al niño el nombre de Eo a la mañana siguiente. El 1 de Eo es el cumpleaños más común entre los bastardos de las islas, y todas las parteras saben por qué."
+    ]
+   },
+   {
+    "title": "Dar el nombre",
+    "paragraphs": [
+     "Un padre puede darle su nombre a un bastardo ante un magistrado y dos testigos, y se hace en Veriden, el mes de los juramentos. El hijo deja el mes y toma la casa. Un hijo que recibe el nombre hereda, pero detrás de todos los hijos nacidos en la casa.",
+     "Algunos lo rechazan. Una Cazadora de Ezra con un Sello de Oro no siempre quiere el nombre del señor que no se lo quiso dar a una niña, y *de Ezra por elección* es algo que la gente dice con orgullo."
+    ]
+   },
+   {
+    "title": "Expósitos",
+    "paragraphs": [
+     "Los orfanatos de los Guardianes del Hogar le ponen a un expósito el nombre del mes en que lo encontraron. Así que *de Ezra* puede querer decir bastardo o expósito, y nadie puede saber cuál por el nombre. Más de un bastardo de una gran casa ha dejado que las islas crean que simplemente lo encontraron."
+    ]
+   },
+   {
+    "title": "Entre los Cazadores",
+    "paragraphs": [
+     "El Sello borra el nacimiento. Las Logias están llenas de nombres de mes, al Escalafón no le importa, y la palabra de un Cazador vale lo mismo sea quien sea su padre. *“El Sello no tiene padre.”*"
+    ]
+   },
+   {
+    "title": "El Undécimo Mes",
+    "paragraphs": [
+     "En las escalinatas donde los anillos de Ventoro se encuentran con el Común hay una taberna llamada el Undécimo Mes, por el mes que no existe, que es donde están sus clientes en los libros de sus familias. Ahí beben los bastardos de las grandes casas.",
+     "Por costumbre, adentro no se dice ningún nombre de casa. Las casas pagan ahí la cuenta de sus bastardos sin preguntar qué se bebió, que es lo más cerca que casi todas llegan a darles el nombre."
+    ]
+   },
+   {
+    "title": "En el Imperio",
+    "paragraphs": [
+     "Los bastardos del Emperador no pueden llegar al trono y son agentes magníficos, y desechables. La corte no los cuenta. Debería.",
+     "Los estudiosos del Imperio notan un patrón en sus nombres: el hijo de una casa noble nacido dentro de ella lleva *Vol*, como Theomar Vol Sunessi y los Vol Kaern; el de la sangre nacido fuera lleva *Val*. El Imperio manda muchísimos Val al extranjero."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un señor moribundo quiere darle su nombre a su bastarda de Memnara antes de que termine Veriden. Su heredero preferiría con todas sus ganas que no viviera tanto.",
+     "Dejaron en el escalón de los Guardianes del Hogar a un niño nacido en los Días Quietos, con una prenda feérica en la manta.",
+     "Un Casaca Negra le preguntó al dueño del Undécimo Mes, con mucha cortesía, si algún Val ha estado bebiendo ahí.",
+     "Un Cazador de Ezra acaba de enterarse de a qué casa pertenece. La casa acaba de enterarse de que es un Oro."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La mitad de los nacidos en Eo de las islas nacieron en los Días Quietos. Pregúntale a cualquier partera.” (una partera de los Canales)",
+     "“Si quieres los secretos de una casa, invita una ronda en el Undécimo Mes.” (un mensajero de la Madeja)",
+     "“El enviado en la mesa del Consejo es un Val. El comandante de la Prospección también. Cuéntalos.” (un estudioso del Imperio de la Universidad)",
+     "“Cada Okram suben los faroles, y cada Veriden suspiran los magistrados.” (el escribiente de un magistrado)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkphbnVzIFJ1bmUgZXMgdW4gVmFsLioqIFN1IHZlcmRhZGVybyBub21icmUgZXMgVGhhbiBTb2wgVmFsIFNlbnJpazogdW5vIGRlIGxvcyBiYXN0YXJkb3MgZGVsIEVtcGVyYWRvciwgY3JpYWRvIGVuIGVsIFBhbGFjaW8gTWF1ZGFuIHkgZW50cmVuYWRvIHBvciBsYSBJbnF1aXNpY2nDs24sIHF1ZSBxdWllcmUgc2VyIGxlZ2l0aW1hZG8uIEN1YWxxdWllcmEgcXVlIGNvbm96Y2EgZWwgVm9sIHkgZWwgVmFsIHB1ZWRlIGxlZXJsbyBlbiBzdSBub21icmUsIHF1ZSBlcyB1bmEgZGUgbGFzIHJhem9uZXMgcG9yIGxhcyBxdWUgY2FzaSBuYWRpZSBlbiBsYXMgaXNsYXMgbG8gaGEgb8OtZG8uIiwgIioqUG9yIHF1w6kgbWllbnRlbiBsYXMgbWFkcmVzLioqIExhcyB2aWVqYXMgdGllbmVuIHJhesOzbi4gVW4gbmnDsW8gZGUgbmluZ8O6biBtZXMgbm8gdGllbmUgZWwgbm9tYnJlIGRlIHVuIGRpb3MgZW5jaW1hIGRlbCBzdXlvLCB5IHVuIGhhZGEgcHVlZGUgYWdhcnJhciBlc2Ugbm9tYnJlIHRhbiBmw6FjaWwgY29tbyB1biBub21icmUgdmVyZGFkZXJvLiBBIGxhIG1heW9yw61hIGRlIGVzb3MgbmnDsW9zIG5hZGllIGxvcyBub3RhLiBBIGxvcyBxdWUgc8OtLCBsZXMgbGxlZ2EgdW5hIHZpc2l0YSBlbiBzdXMgc8OpcHRpbW9zIETDrWFzIFF1aWV0b3MsIHkgdW4gdHJhdG8gb2ZyZWNpZG8gY29uIG11Y2hhIGFtYWJpbGlkYWQuIiwgIioqRWwgVW5kw6ljaW1vIE1lcyBlc2N1Y2hhLioqIFN1IGR1ZcOxYSwgT3JpZWwgZGUgSWRlbCwgbGUgdmVuZGUgYSBsYSBNYWRlamEgbG8gcXVlIGRpY2VuIGxvcyBiYXN0YXJkb3MgZGUgbGFzIGdyYW5kZXMgY2FzYXMgc29icmUgc3VzIGJlYmlkYXMgcGFnYWRhcywgdW4gc2VjcmV0byBhbCBtZXMsIG51bmNhIGRvcyBkZSBsYSBtaXNtYSBjYXNhLiJdfQ=="
+   }
+  ],
+  "gloss": "Bastards and Month-Names"
  }
 }
