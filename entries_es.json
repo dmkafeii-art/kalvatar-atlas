@@ -4047,6 +4047,69 @@
    ]
   ],
   "title": "Los Elfos",
+  "sections": [
+   {
+    "title": "Una herencia compartida",
+    "paragraphs": [
+     "Los elfos honran a Aelthuvar, el de muchos aspectos, y recuerdan el [[Éxodo|Exodus]] desde el Feérico, pasando por Castia. La memoria compartida ha dado pueblos distintos, cada uno con su lugar en el archipiélago."
+    ]
+   },
+   {
+    "title": "Altos elfos y elfos de los bosques",
+    "paragraphs": [
+     "Los altos elfos guardan tradiciones cortesanas y longevas; el [[Trono de los Cien Años|Hundred-Year Throne]] de la Casa Caelvaron es su gran expresión política. Su vestimenta severa, bordada en hilo de plata, puede pasar un siglo sin cambiar. Entre sus nombres están Aellorien, Sylthaen, Caelia e Ithral.",
+     "Los elfos de los bosques cuidan los bosques templados como guardianes prácticos. Les sientan mejor las capas de trabajo teñidas con corteza y las capuchas discretas que las galas. Fen, Lorel, Bryn y Aske son nombres conocidos."
+    ]
+   },
+   {
+    "title": "Elfos del Bosque del Sol y de la escarcha",
+    "paragraphs": [
+     "Los elfos del Bosque del Sol son los elfos de piel oscura de las selvas del sur, entretejidos desde hace mucho con las comunidades nativas. Muchos median entre los guardianes de los cantos y la ley colonial. Los distinguen las túnicas de colores profundos, los forros de oro, las borlas cálidas, el jade y una flor en el pelo; Isuel, Nayeth, Zorai y Tamsel son nombres comunes.",
+     "Los elfos de la escarcha viven en el hielo del extremo sur. Pieles blancas, amuletos de hueso y pintura de calavera sirven de plegaria y de advertencia entre quienes emulan al [[Hambre Blanca|White Hunger]]. Entre sus nombres están Ysgra, Khelvi, Drasna y Hresk."
+    ]
+   },
+   {
+    "title": "Los Ithrennai",
+    "paragraphs": [
+     "Los drow se llaman a sí mismos los Ithrennai, los que se quedaron. Los relatos de la superficie hablan de piel entre gris ceniza y pizarra, pelo blanco y ojos de luz tenue. Pocos elfos de la superficie hablan de sus parientes de [[Abajo|Below]]. Los viajeros describen [[sedaoscura|darksilk]] y velos de luz, y nombres como Ilvane, Oriandel, Iolith y Sennarel."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Esperanza de vida: unos siete siglos. Los altos elfos de Caelvaron, que pasan diez años en el Feérico por cada cien en el mundo, viven aún más. Los drow, que regalan su luz, rara vez llegan a cuatro.",
+     "Aspecto y vestimenta, por linaje:",
+     "Altos elfos: líneas severas y elegantes, hilo de plata, un siglo pasados de moda y sin que les importe en lo más mínimo.",
+     "Elfos de los bosques: capas de trabajo teñidas con corteza y capuchas, sin adornos y en silencio.",
+     "Elfos del Bosque del Sol: piel oscura; túnicas en capas de colores profundos forradas de oro, borlas rojas y ámbar, una sola flor en el pelo, jade y piedra roja.",
+     "Drow: altos y delgados, de piel entre gris ceniza y pizarra oscura, pelo blanco como perla de cueva y ojos que guardan una tenue luz propia, blanca y dorada, que se apaga con la edad. Sedaoscura ceñida, con capucha; lejos de casa, un velo de luz sobre los ojos. La superficie, que casi nunca los ve, cuenta historias en su lugar.",
+     "Fe: Aelthuvar, el de muchos aspectos; los elfos de la escarcha emulan al Hambre Blanca, Vukharr.",
+     "Nombres de pila, por linaje:",
+     "Los drow no tienen apellidos; a un drow se le conoce por el último de su linaje que lo dio todo en la [[Lámpara|Lamp]]."
+    ]
+   },
+   {
+    "title": "Gemelos y la partición de las almas",
+    "paragraphs": [
+     "Entre los elfos los gemelos son raros, y una pareja se toma como un augurio. Los elfos dicen que los gemelos comparten una sola alma, partida en dos, y que lo que uno hace bien el otro no: si uno tiene don para la magia, el otro es mejor con la espada.",
+     "Lo llaman la [[partición de las almas|split of souls]], y le echan la culpa a la madre: se cree que algo malo hizo para traerla sobre sus hijos.",
+     "Hay un caso en las islas aún más extraño: Imra, primera oficial de La [[Última Palabra|Last Word]], en la que viven dos mujeres en un solo cuerpo, Imra y Claire."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los elfos de la escarcha ya no asaltan la Bóveda Auroral. Los elfos de la escarcha dicen que Vukharr está soñando algo nuevo.” (oído en la Extensión Helada)",
+     "“Ojos de drow. Los ojos de un drow brillan en la oscuridad, y cuanto más viejo el drow, más tenue el brillo.” (lo que se dice)",
+     "“Hrothgar Vena de Hielo: caza a los elfos de la escarcha que lo exiliaron.” (los muelles, sobre los Más Buscados)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBkcm93IHNvbiBsb3MgcXVlIHNlIHF1ZWRhcm9uLioqIFVuYSBodWVzdGUgZGUgZmXDqXJpY29zIGRlIFZlcmFubyBjcnV6w7MgZWwgW1tWZWxvfFZlaWxdXSB5IGJhasOzIGhhc3RhIGxhIGdyaWV0YS4gU3UgY2FwaXRhbmEsIEVsdW5hc3NlLCB2ZXJ0acOzIHN1IHByb3BpYSBsdXogZW4gZWwgc29sIG11ZXJ0byB5IGxvIHZvbHZpw7MgYSBlbmNlbmRlciwgeSBtdXJpw7MgYWxsw60gY29uIGxvcyBvam9zIGFwYWdhZG9zLiBTdSBodWVzdGUgc2UgcXVlZMOzIHBhcmEgYWxpbWVudGFybG8geSB0b23DsyBlbCBub21icmUgZGUgSXRocmVubmFpLCBsb3MgcXVlIHNlIHF1ZWRhcm9uLiBWZXJhbm8gcHJvbWV0acOzIHZvbHZlciBwb3IgZWxsb3MgeSBubyB2b2x2acOzLiBIYW4gcmVnYWxhZG8gdGFudGEgbHV6IGRlc2RlIGVudG9uY2VzIHF1ZSBlbCBGZcOpcmljbyB5YSBubyBsb3MgcmVjb25vY2UuIiwgIioqTm8gc29uIG1hbHZhZG9zLCB5IHRhbXBvY28gc29uIGJvbmRhZG9zb3MuKiogSGFuIHBhc2FkbyBlcmFzIHBhZ2FuZG8gbGEgc2VndXJpZGFkIGRlIHRvZG9zIGxvcyBkZW3DoXMgY29uIHN1IHByb3BpYSBsdXogeSBzdXMgcHJvcGlvcyBhw7FvcywgeSBsb3MgYWJhbmRvbmFyb24gcG9yIGVsbG8uIEhhbiBlbnRlbmRpZG8gcXVlIHN1cyBhbGlhZG9zIHNvbiBwb2NvcyBvIG5pbmd1bm8geSBxdWUgbGEgc3VwZXJmaWNpZSBsb3MgdG9tYSBwb3IgZW5lbWlnb3MsIGFzw60gcXVlIGFjdMO6YW4gY29tbyBlbmVtaWdvcy4gTm8gY29uZsOtYW4gZW4gbmFkaWUuIEFzYWx0YW4gcGFyYSB0ZW5lciBsbyBxdWUgbmVjZXNpdGFuIHkgbm8gbGVzIGltcG9ydGEgYSBxdWnDqW4gbWF0YW4uIFBhcmEgZWxsb3MgZXMgYXJpdG3DqXRpY2EsIHkgZXMgbG8gcXVlIGxlcyBkZWphcm9uLiIsICIqKlBvciBxdcOpIGxvcyBsbGFtYW4gbGFkcm9uZXMgZGUgbHV6LioqIEFiYWpvLCBsYSBsdXogZXMgZGluZXJvIHkgbGEgW1tMw6FtcGFyYXxMYW1wXV0gc2llbXByZSB0aWVuZSBoYW1icmUuIFVuIGFzYWx0byBkcm93IHNlIGxsZXZhIGNhZGEgdmVsYSwgbMOhbXBhcmEsIGVzcGVqbyB5IGdlbWEgZGUgbGEgY2FzYSwgeSBsb3Mgc29icmV2aXZpZW50ZXMgZGljZW4gbG8gcXVlIGRpcsOtYSBjdWFscXVpZXJhOiByb2JhbiBsYSBsdXouIERlIGFow60gaHVibyB1biBwYXNvIGNvcnRvIGFsIHJlc3RvIGRlIGxhIGhpc3RvcmlhLCBxdWUgcXVpZXJlbiBkZWphciBlbCBtdW5kbyBhIG9zY3VyYXMgcGFyYSBzaWVtcHJlLiBTb24gbGEgw7puaWNhIHJhesOzbiBkZSBxdWUgbm8gbG8gZXN0w6kuIiwgIioqVmVyYW5vIGxvcyBqdXLDsyBlbmVtaWdvcy4qKiBMYSBbW0Nvcm9uYSBBcmRpZW50ZXxCdXJuaW5nIENyb3duXV0gZXMgZWwgc29sIGRlbCBtZWRpb2TDrWEsIHkgbm8gaGF5IG5hZGEgcXVlIHRlbWEgbcOhcyBxdWUgbGEgb3NjdXJpZGFkLiBDdWFuZG8gbGEgaGlzdG9yaWEgZGUgbG9zIGxhZHJvbmVzIGRlIGx1eiBsbGVnw7MgYWwgW1tBbGPDoXphciBkZWwgTWVkaW9kw61hfE5vb25ob2xkXV0sIFZlcmFubyBsYSBjcmV5w7MsIHkganVyw7MgYSBsb3MgZHJvdyB0cmFpZG9yZXMgeSBlbmVtaWdvcyBwYXJhIHNpZW1wcmUuIFZlcmFubyBubyByZWN1ZXJkYSBxdWUgbG9zIGRyb3cgc29uIHN1IHByb3BpYSBodWVzdGUsIGxhIHF1ZSBwcm9tZXRpw7Mgdm9sdmVyIGEgYnVzY2FyLiBQeXJheGlzIGhhIGp1cmFkbyBkZXN0cnVpciBhbCDDum5pY28gcHVlYmxvIHF1ZSBjdW1wbGUgc3UgcHJvbWVzYSBwb3IgZWxsYS4iLCAiKipTb2xvIHZhIGEgcGVvci4qKiBDYWRhIGFzYWx0byBsZSBjb25maXJtYSBsYSBoaXN0b3JpYSBhIGxhIHN1cGVyZmljaWUuIENhZGEgbWFzYWNyZSBkZSB1bmEgcGFydGlkYSBkZSBleHBsb3JhZG9yZXMgZHJvdyBsZXMgZGEgbGEgcmF6w7NuIGEgbG9zIGRyb3cuIE5hZGllIHZpdm8sIGRlIG5pbmfDum4gbGFkbywgaGEgdmlzdG8gcXVlIHBhc2UgZGUgb3RyYSBtYW5lcmEuIiwgIioqRWwgcml0byBkZSBsb3MgZ2VtZWxvcy4qKiBMb3MgYW5jaWFub3MgZGUgYWxndW5hcyB0cmlidXMgc2FjcmlmaWNhbiBhIHVubyBkZSBsb3MgZ2VtZWxvcywgcGFyYSB2b2x2ZXIgYSB1bmlyIGxhcyBkb3MgYWxtYXMgZW4gdW5hLiBPdHJvcyBkZWphbiBjcmVjZXIgYSBsb3MgZG9zIHkgcXVlIGNhZGEgdW5vIGp1bnRlIHVuYSB2aWRhIHByb3BpYSwgeSBkZXNwdcOpcyBzYWNyaWZpY2FuIGEgdW5vLCBwYXJhIHF1ZSBlbCBvdHJvIHNlIHZ1ZWx2YSBtw6FzIGZ1ZXJ0ZSB5IHNlIHF1ZWRlIGNvbiBsbyBxdWUgc2Fiw61hIGVsIGdlbWVsbyBtdWVydG8uIFRvZG8gZXMgdGFiw7o6IHNvbG8gbG9zIGFuY2lhbm9zIGNvbm9jZW4gZWwgcml0dWFsLCB5IGEgbG9zIGdlbWVsb3MgbG9zIGNyw61hbiBjcmV5ZW5kbyBxdWUgc29uIGNvbW8gdG9kb3MgbG9zIGRlbcOhcy4iXX0="
+   }
+  ],
   "gloss": "The Elves"
  },
  "gnomes": {
