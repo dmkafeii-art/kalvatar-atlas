@@ -255,6 +255,7 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "arcane-registry": ["scenes", "A sealed Writ changes hands at Goldwind’s Arcane Registry, beside a tray of copper rings.", "Un Writ sellado cambia de manos en el Registro Arcano de Goldwind, junto a una bandeja de anillos de cobre.", "arcane-registry-approved-v1", {"width": 1536, "height": 1024}],
  "imra-and-claire": ["folk", "Imra and Claire aboard The Last Word.", "Imra y Claire a bordo de La Última Palabra.", "imra-and-claire-approved-v1", {"width": 1536, "height": 1024}],
  "morgha-wall-holder": ["folk", "Morgha Wall-Holder leans against cargo crates on a wharf.", "Morgha Wall-Holder se apoya en unas cajas de carga en el muelle.", "morgha-wall-holder-approved-v1", {"width": 1024, "height": 1536}],
  "ottilie-veldane": ["folk", "Ottilie Veldane receives visitors with a sealed letter in her lap.", "Ottilie Veldane recibe visitas con una carta sellada en el regazo.", "ottilie-veldane-approved-v1", {"width": 1024, "height": 1536}],
