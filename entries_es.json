@@ -10755,23 +10755,44 @@
  },
  "trials-of-ascension": {
   "gloss": "The Trials of Ascension",
-  "subtitle": "La Orden de los Cazadores",
-  "summary": "El examen anual de los Cazadores, en el mes de Ezra. Su última etapa es el Voto, donde el iron del candidato se engasta en un nuevo Sello de bronce.",
+  "subtitle": "La prueba de cada año",
+  "summary": "El examen anual de los Cazadores, que se hace en el mes de Ezra. Su último tramo es el Voto, donde el hierro del candidato se engasta en un Sello de Bronce nuevo.",
   "facts": [
    [
     "Cuándo",
-    "Una vez al año, en Ezra"
+    "una vez al año, en Ezra"
    ],
    [
     "Entrada",
-    "Un iron"
+    "un hierro"
    ],
    [
     "Termina con",
-    "El Voto y el Juramento"
+    "el [[Voto|Vow]] y el [[Juramento|Oath]]"
    ]
   ],
-  "title": "Las Pruebas de Ascensión"
+  "title": "Las Pruebas de Ascensión",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las [[Pruebas de Ascensión|Trials of Ascension]] son el examen de los [[Cazadores|Hunters]], y se hacen una vez al año, en Ezra, el mes de [[Mástil y Vela|Mast and Sail]].",
+     "Necesitas un hierro para presentarte.",
+     "Los que aprueban hacen el Juramento y quedan hechos Bronce.",
+     "A un candidato que reprueba se le anima a presentarse otra vez; a unos pocos se les ofrecen en cambio puestos de apoyo: escribientes, intendentes, personal de la [[Logia|Lodge]] y las manos que mantienen en el mar los barcos de los Cazadores.",
+     "Soltar el hierro. El último tramo de las [[Pruebas|Trials]] es el Voto, donde el candidato hace el Juramento ante el salón. El hierro que llevaba se engasta en el reverso de su nuevo [[Sello|Sigil]] de Bronce mientras el salón mira.",
+     "Dale la vuelta al Sello de cualquier Cazador y se ve el cuño de ese año.",
+     "Por eso cada Sello de Bronce lleva el hierro del Cazador que respondió por él.",
+     "El hierro queda gastado en el Sello, así que no se puede vender, empeñar ni volver a presentar."
+    ]
+   },
+   {
+    "title": "Copiar los Artículos",
+    "paragraphs": [
+     "Antes de las Pruebas cada candidato copia a mano los [[Artículos de Fuerte de Hierro|Ironfort Articles]] y entrega la copia. En el Voto, el candidato dice solo seis versos del [[Código|Code]], y el salón responde con el séptimo."
+    ]
+   }
+  ]
  },
  "coats-and-ranks-of-the-armada": {
   "gloss": "The Coats and Ranks of the Armada",
@@ -25148,5 +25169,202 @@
    }
   ],
   "title": "Duermevela"
+ },
+ "knights-of-the-northern-lights": {
+  "gloss": "The Knights of the Northern Lights",
+  "aliases": [
+   "Caballeros de las Luces del Norte"
+  ],
+  "subtitle": "El pueblo antes que la corona",
+  "summary": "Caballeros amalorianos que sirven en la Frontera con permisos del Consejo, juramentados a la gente común y opuestos a los agentes del Imperio Korvan.",
+  "facts": [
+   [
+    "Origen",
+    "Amalor, Assios"
+   ],
+   [
+    "Casa capitular",
+    "[[Fuerte de Hierro|Ironfort]]"
+   ],
+   [
+    "Autoridad",
+    "Permiso de paso del [[Consejo|Council]]"
+   ],
+   [
+    "Señal",
+    "Estrella de plata, luz verde, azul medianoche"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Al otro lado del estrecho",
+    "paragraphs": [
+     "La orden se fundó en Amalor, en Assios, durante la [[Guerra de los Mil Años|Thousand-Year War]]. Su nombre viene de las luces sobre el estrecho en las noches de invierno. Los niños amalorianos las llaman los faroles de los caballeros que murieron haciendo guardia.",
+     "Sus caballeros persiguen a los agentes imperiales en los puertos de la [[Frontera|Frontier]], protegen a los refugiados de quienes se aprovechan de ellos y sirven a la gente común dondequiera que viajen. Su juramento pone al pueblo antes que a la corona."
+    ]
+   },
+   {
+    "title": "En suelo del Consejo",
+    "paragraphs": [
+     "Los caballeros son extranjeros armados en Kalvatar. Actúan con permisos de paso que da el Consejo de las [[Islas Cartografiadas|Charted Isles]], y tienen que entregar a la justicia del Consejo a los agentes que capturan.",
+     "Su casa capitular está en Fuerte de Hierro. Los magistrados de la Frontera muchas veces agradecen la ayuda; a la Armada le resulta menos cómoda, y algunos miembros del Consejo sospechan que Amalor tiene ojos en las islas."
+    ]
+   },
+   {
+    "title": "Rangos y señal",
+    "paragraphs": [
+     "Los rangos de la orden son Caballero, [[Caballero Andante|Knight-Errant]], [[Caballero Capitán|Knight-Captain]] y [[Señor Guardián|Lord Warden]]. Un Caballero Andante tiene permiso para viajar solo en peregrinación. El Señor [[Guardián|Warden]] manda la orden en Kalvatar.",
+     "Su señal es una estrella de plata sobre una cinta de luz verde en azul medianoche. Caelan Caelius lleva esa señal a las islas olvidadas, donde un juramento puede exigir arreglar un techo con la misma facilidad que desenvainar una espada."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlY3JldG86KiogbGEgW1tWYWxpZW50ZSBkZWwgU3VyfFZhbGlhbnQgb2YgdGhlIFNvdXRoXV0sIEJlbGlhbCBBbnRhcmVzLCBsZSBlc2NyaWJlIGEgRWxyaWMgVm9uIEdhaW5lciBkZXNkZSBoYWNlIHZlaW50ZSBhw7Fvcy4gTGFzIGNhcnRhcyBubyBzb24gdHJhaWNpw7NuLiBTb24gZW50cmUgZG9zIHBlcnNvbmFzIHF1ZSBzZSBxdWlzaWVyb24gYWxndW5hIHZleiwgeSBGaWxnYWxpYSBsYSBjb2xnYXLDrWEgcG9yIGVsbGFzIGRlIHRvZG9zIG1vZG9zLiIsICIqKlNlY3JldG86KiogbGEgaW5jdXJzacOzbiBjb250cmEgbGEgY3VhZHJhIHJlYWwgZGUgQW1hbG9yIGZ1ZSBkZWwgW1tJbXBlcmlvfEltcGVyaXVtXV0sIGNvbiBsb3MgY29sb3JlcyBkZSBsYSBbW0FsaWFuemF8QWxsaWFuY2VdXSwgcGFyYSBwb25lciBhIEFtYWxvciBjb250cmEgQXN0ZXJvdGguIEVsIFtbU2V4dG8gUmF5b3xTaXh0aCBSYXldXSwgVmVsYW50aGEsIGxvIHNhYmUsIHkgZXN0w6EgZGVjaWRpZW5kbyBxdcOpIGhhY2VyLiJdfQ=="
+   }
+  ],
+  "title": "Los Caballeros de las Luces del Norte"
+ },
+ "inkers-circle": {
+  "gloss": "The Inkers’ Circle",
+  "aliases": [
+   "Entintadores",
+   "Círculo de los Entintadores",
+   "el Círculo",
+   "Libro de Patrones",
+   "rollos de aventuras",
+   "hoja de noticias"
+  ],
+  "subtitle": "Imprimen las noticias, las cartas y tu reputación",
+  "summary": "El gremio de impresores, encuadernadores y grabadores. Imprime las hojas de noticias, los libros, los rollos de aventuras de los Cazadores y las cartas del Escalafón, y guarda el Libro de Patrones de cada parche oficial.",
+  "epigraph": {
+   "quote": "Un Cazador puede matar a un guiverno un Tumbadía y nadie se va a enterar. Nosotros decidimos qué pasó, y para el Reposadía ya salió.",
+   "by": "Un maestro del Círculo de los Entintadores"
+  },
+  "facts": [
+   [
+    "Qué es",
+    "un gremio del [[Congreso Mercantil|Mercantile Congress]]"
+   ],
+   [
+    "Imprime",
+    "hojas de noticias, libros, [[rollos de aventuras|adventure-scrolls]], cartas del [[Escalafón|Ranking]]"
+   ],
+   [
+    "Guarda",
+    "el [[Libro de Patrones|Pattern-Book]] de los parches oficiales"
+   ],
+   [
+    "Un maestro encuadernador gana",
+    "6 [[Anclas|Anchors]] al mes"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Lo que hacen",
+    "paragraphs": [
+     "Cada puerto con una imprenta tiene una tienda del [[Círculo|Circle]]. Imprime la hoja de noticias, encuaderna los libros y vende los rollos de aventuras: relatos impresos baratos de lo que hicieron los [[Cazadores|Hunters]] esta temporada, la mitad casi verdaderos.",
+     "El Círculo hace y deshace reputaciones de Cazadores. Una compañía a la que los rollos quieren consigue patrocinadores. Una compañía a la que ignoran más le vale ser muy buena."
+    ]
+   },
+   {
+    "title": "Las cartas y el Libro de Patrones",
+    "paragraphs": [
+     "Hace unos quince años el Círculo empezó a imprimir cartas del Escalafón y a registrar parches, y se encontró con que había empezado dos manías a la vez. Hoy una tienda del Círculo es donde los niños compran sobres, los coleccionistas de parches discuten por páginas y los posaderos pagan un Ancla para inscribir un diseño nuevo.",
+     "El Libro de Patrones es el registro de los parches oficiales: el diseño, su dueño, sus colores y la hazaña que lo gana. Cada tienda tiene una copia, y cualquiera puede pedir ver una página."
+    ]
+   },
+   {
+    "title": "El Círculo y los Retazos",
+    "paragraphs": [
+     "El libro del Círculo lista lo que está registrado. La Lista de los [[Retazos|Patchwork]] lista lo que existe. Las dos no coinciden, y ninguna de las dos partes va a admitir que la lista de la otra es la verdadera. Casi todos los parches legendarios están en la Lista y no en el libro."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "A una tienda del Círculo le robaron una página del Libro de Patrones. Solo la página.",
+     "Una compañía quiere saber quién pagó el rollo que la volvió un chiste, y pagará mejor por que le impriman uno nuevo.",
+     "Cartas doradas falsificadas están inundando un puerto. El Círculo quiere que encuentren la imprenta antes de que la temporada no valga nada.",
+     "Una grabadora jura que la cara que le dijeron que tallara para el juego de esta temporada es de alguien que murió hace diez años."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "La entrada más vieja del Libro de Patrones tiene el número dos.",
+     "La primera carta de un Cazador es un día más grande en la mayoría de las familias que su primer contrato.",
+     "Cada [[Monedía|Coinsday]] el Círculo imprime una hoja de noticias más de las que vende. Nadie en el piso sabe quién la recoge."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La primera página del Libro de Patrones no fue un error del encuadernador. Alguien registró un parche antes de que hubiera libro, y el Círculo todavía está buscando a quien lo lleva.” (un aprendiz del Círculo)",
+     "“Hay una imprenta en la tienda de Ventoro que funciona sola en los Días Quietos. Cierran el cuarto con llave y no leen lo que sale.” (un repartidor de papel)"
+    ]
+   }
+  ],
+  "title": "El Círculo de los Entintadores"
+ },
+ "twelve-rays": {
+  "gloss": "The Twelve Rays",
+  "subtitle": "Los doce hijos del Emperador",
+  "summary": "Los doce hijos legítimos del Emperador Theomar Vol Sunessi, numerados por nacimiento, que se rondan unos a otros hasta que él nombre a su heredero.",
+  "facts": [
+   [
+    "Cuántos",
+    "doce, numerados por nacimiento"
+   ],
+   [
+    "Heredero",
+    "todavía sin nombrar"
+   ],
+   [
+    "Excluidos",
+    "los bastardos del Emperador"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Quiénes son",
+    "paragraphs": [
+     "Los Vol Sunessi no coronan al mayor. El Emperador nombra a su heredero de entre sus hijos cerca del final de su reinado, y hasta que lo hace, la corte los llama los Doce Rayos y los mira rondarse. La mitad eligió el par de colegios de los [[Príncipes del Trueno|Thunder Princes]] en Berith."
+    ]
+   },
+   {
+    "title": "Los Rayos",
+    "paragraphs": [],
+    "list": [
+     "**Primero, Ardric.** Margrave de Grimmfaust, comandante de las [[Marcas de Hierro|Iron Marches]]. El elegido de la Hueste; cree que el trono se le debe.",
+     "**Segunda, Vessaline.** Canciller del [[Trono del Sol|Sun-Throne]]: la bolsa, los sellos y la corte. Nada se mueve en Korvantis sin que ella lo sepa.",
+     "**Tercero, Draegan.** [[Juramentado del Sol|Sol-sworn]], en el [[Círculo Interior|Inner Circle]] de la Inquisición. El único Rayo al que escucha el Gran Inquisidor.",
+     "**Cuarta, Isembeth.** [[Gran Almirante|Grand Admiral]] de la [[Flota de Hierro|Iron Fleet]] en Skadrel. El Rayo que mira al sur, hacia las islas.",
+     "**Quinto, Marrec.** Señor de las [[Tierras de la Forja|Forge-Lands]]. Construye lo que los demás rompen.",
+     "**Sexta, Velantha.** Profesora en Er Ingenis, el [[Taller de Engranajes|Gearworks]], en Berith. El escándalo de la corte: les enseña a los no humanos.",
+     "**Séptimo, Kestrian.** La [[Mano del Sur|Southern Hand]]: la política del [[Imperio|Imperium]] hacia Kalvatar. Janus Rune le reporta a él.",
+     "**Octava, Liadra.** Enviada ante las [[Ciudades Libres|Free Cities]], en Castia. Le vende al enemigo, y el Imperio necesita que lo haga.",
+     "**Noveno, Ivren.** Desaparecido en el Cruce del Acebo en el 172 EC. Muerto, dice la corte. Nadie ha encontrado el cuerpo.",
+     "**Décimo, Lioren.** Dieciséis años, y todavía no tiene nada. El favorito del Emperador, y la pieza de todos.",
+     "**Undécima, Ondessa.** [[Condesa de Guerra|War-Count]] de Drakengarde, la más joven de la Hueste. Tomó el Cruce del Acebo, y Ardric no se lo ha perdonado.",
+     "**Duodécimo, Aldren.** Un niño enfermizo de nueve años. El rumor es que el Emperador va a nombrar al más chico, para fastidiarlos a todos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Cuando el viejo se muera, los Rayos se van a ir a la guerra: primero en la corte, y después en todas partes.” (un impresor de Castia)",
+     "“Ivren no está muerto. Los príncipes muertos dejan cuerpos.” (un desertor en Puerto Negro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkl2cmVuIHZpdmUuKiogRWwgW1tOb3Zlbm8gUmF5b3xOaW50aCBSYXldXSB2aXZlIGVuIGxhcyBpc2xhcyBjb21vIEhhbCBSZXNzaWNrLCBjb2NpbmVybyBkZSB1bmEgdHJpcHVsYWNpw7NuIGRlIEJyb25jZS4iLCAiKipKYW51cyBSdW5lIGxlIHJlc3BvbmRlIGEgS2VzdHJpYW4sKiogZWwgW1tTw6lwdGltbyBSYXlvfFNldmVudGggUmF5XV0sIHkgZXMgdW5vIGRlIGxvcyBiYXN0YXJkb3MgZGVsIEVtcGVyYWRvci4iLCAiKipUcmVzIGJhcm9uZXMgYWNlcHRhbiBlbCBkaW5lcm8gZGUgVmVzc2FsaW5lLioqIiwgIioqQ3VhbmRvIGxsZWd1ZSBlbCBub21icmFtaWVudG86KiogQXJkcmljIHRlbmRyw6EgYSBsYSBIdWVzdGUgZGV0csOhczsgVmVzc2FsaW5lLCBsYSBib2xzYSB5IGxhcyBjYXJ0YXMgZGUgbG9zIHRyZXMgYmFyb25lczsgRHJhZWdhbiwgbGEgSW5xdWlzaWNpw7NuLCBzaSBHaHJhbCBsbyBwZXJtaXRlLiBLZXN0cmlhbiB2YSBhIHF1ZXJlciBlbnRyZWdhciBLYWx2YXRhciBhbnRlcyBkZWwgbm9tYnJhbWllbnRvLCBjb21vIHBydWViYSBkZSBxdWUgc3UgcG9sw610aWNhIGZ1bmNpb25hLCB5IHZhIGEgZW1wdWphciBhIEphbnVzIFJ1bmUgYSBoYWNlciBhbGdvIHJ1aWRvc28uIFZlbGFudGhhIHZhIGEgcXVlcmVyIHF1ZSBlbmN1ZW50cmVuIGEgSXZyZW4sIHZpdm8sIHkgc2UgdmEgYSBhbGlhciBjb24gY3VhbHF1aWVyYSBxdWUgcHVlZGEgaGFjZXJsbywgaXNsZcOxb3MgaW5jbHVpZG9zLiBFbCBub21icmUgc2VsbGFkbyBlbiBlbCBbW1BhbGFjaW8gTWF1ZGFufE1hdWRhbiBQYWxhY2VdXSBlcyBsbyDDum5pY28gcGFyYSBsbyBxdWUgbmluZ3VubyBkZSBlbGxvcyB0aWVuZSB1biBwbGFuLiJdfQ=="
+   }
+  ],
+  "title": "Los Doce Rayos"
  }
 }
