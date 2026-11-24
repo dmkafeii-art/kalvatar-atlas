@@ -1,0 +1,3313 @@
+[
+ {
+  "id": "rumor-1",
+  "text": "Un ballenero jura que contó una isla en las rutas del sur que estaba a la ida y ya no estaba a la vuelta. Los [[Cartógrafos|Chartwrights]] la registraron igual.",
+  "heardAt": "se oye entre los [[Cartógrafos|Chartwrights]]",
+  "region": "All regions",
+  "entries": [
+   "kalvatar"
+  ]
+ },
+ {
+  "id": "rumor-2",
+  "text": "El [[Diezmo de la Puerta|Gate-Tithe]] nos roba en las dos direcciones. Se queda con el oro en [[Fuerte de Hierro|Ironfort]] y manda el papel a [[Ventoro|Goldwind]].",
+  "heardAt": "se oye en la [[Frontera del Norte|Northern Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "northern-frontier",
+   "ironfort",
+   "goldwind",
+   "hospitality"
+  ]
+ },
+ {
+  "id": "rumor-3",
+  "text": "Los [[Dientes de la Viuda|Widow's Teeth]] cantan una tonada nueva. Las viejas dicen que se va a perder un bote en el Paso antes de que termine la [[Bruma|Murk]].",
+  "heardAt": "se oye en la [[Frontera del Norte|Northern Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "northern-frontier",
+   "widows-teeth"
+  ]
+ },
+ {
+  "id": "rumor-4",
+  "text": "Vieron a Johann Faust en una taberna de [[Puerto Gris|Greyhaven]] con un hombre que lleva la insignia del [[Último Salmo|Last Psalm]]. Nadie sabe de qué lado piensa ponerse.",
+  "heardAt": "se oye en la [[Frontera del Norte|Northern Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "northern-frontier",
+   "greyhaven",
+   "johann-faust"
+  ]
+ },
+ {
+  "id": "rumor-5",
+  "text": "Mortimer Vanris va a venderle [[Guardatormentas|Stormguard]] al [[Corazón|Heartland]] antes de que termine el año. Su hermano ya le escribió al [[Consejo|Council]] sobre eso.",
+  "heardAt": "se oye en la [[Frontera del Norte|Northern Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "northern-frontier",
+   "heartland",
+   "house-vanris"
+  ]
+ },
+ {
+  "id": "rumor-6",
+  "text": "Tana Sukuun le vendió una [[Mandíbula Terrible|Dreadmaw]] al [[Corazón|Heartland]]. El comprador es un agente de los Vol Kaern, y el saurio lleva el nombre de la torre de los Vol Kaern.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Central Heartland",
+  "entries": [
+   "heartland",
+   "southern-wilds",
+   "jakupur",
+   "saurians",
+   "dreadmaw",
+   "house-vol-kaern"
+  ]
+ },
+ {
+  "id": "rumor-7",
+  "text": "Vieron a Dio [[Corascua|Emberheart]] caminando por los jardines de [[Bastión del Sol|Sunhold]]. Los que lo vieron dicen que no era del todo el mismo hombre que caminaba ahí el año pasado.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "Central Heartland",
+  "entries": [
+   "heartland",
+   "sunhold",
+   "house-emberheart"
+  ]
+ },
+ {
+  "id": "rumor-8",
+  "text": "Kastan Vol Kaern está comprando las deudas de [[Bastión|Bastion]] a través de la casa Zane. Va a ser dueño de la puerta de la [[Frontera|Frontier]] antes de que el [[Consejo|Council]] sepa que empezó.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "Central Heartland",
+  "entries": [
+   "heartland",
+   "bastion",
+   "house-vol-kaern"
+  ]
+ },
+ {
+  "id": "rumor-9",
+  "text": "[[Sissix el Cometa|Sissix-the-Comet]] perdió una manga por primera vez en dos temporadas. El jinete que le ganó tiene una marca de los Vossreth en la muñeca y ningún recuerdo de la carrera.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "southern-wilds",
+   "swiftcrest",
+   "house-vossreth"
+  ]
+ },
+ {
+  "id": "rumor-10",
+  "text": "Vieron a un sacerdote de la [[Madre Escarlata|Scarlet Mother]] en [[Puerto Sur|Southhaven]] comprando al por mayor el café de los factores Fennick. Nadie dice qué quiere con tanto.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "southern-wilds",
+   "brightleaf",
+   "southhaven",
+   "twelve-flags"
+  ]
+ },
+ {
+  "id": "rumor-11",
+  "text": "El [[Primer Ascenso|First Ascent]] vorthani recibió a una huésped que no quiere cargar una piedra. Los monjes dicen que no es una huésped.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "southern-wilds",
+   "vorthani",
+   "anvil-reach"
+  ]
+ },
+ {
+  "id": "rumor-12",
+  "text": "Los [[Elfos de la Escarcha|Frost Elves]] dejaron de saquear la [[Bóveda Auroral|Auroral Vault]]. Los Elfos de la Escarcha dicen que Vukharr está soñando con algo nuevo.",
+  "heardAt": "se oye en la [[Extensión Helada|Icy Expanse]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "icy-expanse",
+   "auroral-vault",
+   "elves",
+   "vukharr-the-white-hunger"
+  ]
+ },
+ {
+  "id": "rumor-13",
+  "text": "Vieron a Mira en [[Refugio de Cristal|Crystalhaven]] con el nieto de la [[Abuela Skerrow|Granny Skerrow]]. A la heredera de un contrabandista nunca se la ve con el nieto de una naufragadora salvo que uno de los dos piense quedarse con la silla del otro.",
+  "heardAt": "se oye en la [[Extensión Helada|Icy Expanse]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "icy-expanse",
+   "crystalhaven"
+  ]
+ },
+ {
+  "id": "rumor-14",
+  "text": "El círculo negro en el cielo se está extendiendo. Una flota ballenera que navegó demasiado lejos el año pasado volvió con el cielo sobre sus mástiles hecho negro.",
+  "heardAt": "se oye en la [[Extensión Helada|Icy Expanse]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "icy-expanse"
+  ]
+ },
+ {
+  "id": "rumor-15",
+  "text": "Vieron a Emri nadando junto a la [[Columnata Ahogada|Drowned Colonnade]] con un bulto de plata a la espalda. Nadie le ha preguntado qué lleva.",
+  "heardAt": "se oye en el Mar y en los [[Reinos de Coral|Coral Kingdoms]]",
+  "region": "The Sea",
+  "entries": [
+   "coral-kingdoms",
+   "drowned-colonnade"
+  ]
+ },
+ {
+  "id": "rumor-16",
+  "text": "El [[Coro Rojo|Red Choir]] empezó a cantar en una noche tranquila, sin sangre en el agua. Los [[Llamamareas|Tidecallers]] dicen que la canción sube desde el [[Arrecife de las Estrellas Caídas|Starfall Reef]].",
+  "heardAt": "se oye en el Mar y en los [[Reinos de Coral|Coral Kingdoms]]",
+  "region": "The Sea",
+  "entries": [
+   "coral-kingdoms",
+   "starfall-reef",
+   "concord",
+   "red-choir"
+  ]
+ },
+ {
+  "id": "rumor-17",
+  "text": "Pelagar está comprando al por mayor el coral de las [[Estrellas Caídas|Starfall]]. A cambio, los [[Jardines de Vidrio|Glass Gardens]] dejaron de comerciar con Pelagar.",
+  "heardAt": "se oye en el Mar y en los [[Reinos de Coral|Coral Kingdoms]]",
+  "region": "The Sea",
+  "entries": [
+   "coral-kingdoms",
+   "glass-gardens",
+   "pearl-groove-and-the-pelagar-isle"
+  ]
+ },
+ {
+  "id": "rumor-18",
+  "text": "El mes pasado los [[Viejos Caparazones|Old Shells]] respondieron una pregunta que nadie había hecho. La respuesta fue el nombre de un barco, y al barco no se lo ha vuelto a ver.",
+  "heardAt": "se oye en el Mar y en los [[Reinos de Coral|Coral Kingdoms]]",
+  "region": "The Sea",
+  "entries": [
+   "coral-kingdoms",
+   "old-shells"
+  ]
+ },
+ {
+  "id": "rumor-19",
+  "text": "Los hurones chispa de la aduana de [[Fuerte de Hierro|Ironfort]] no se acercan al equipaje de un noble en particular. No echan chispas. Se esconden.",
+  "heardAt": "un escribiente de aduanas de [[Fuerte de Hierro|Ironfort]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "ironfort",
+   "spark-ferret"
+  ]
+ },
+ {
+  "id": "rumor-20",
+  "text": "El camino seco. Los caminos de [[Abajo|Below]] van de isla en isla, y un contrabandista que los conociera podría llevar una carga a pie de [[Puerto Negro|Black Harbor]] a [[Ventoro|Goldwind]] sin pagar un solo derecho de puerto.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "Central Heartland",
+  "entries": [
+   "goldwind",
+   "below",
+   "black-harbor"
+  ]
+ },
+ {
+  "id": "rumor-21",
+  "text": "Las canciones de los marineros cuentan nueve grandes dragones en el mundo. Una lectora de estrellas de [[Aguja Alta|Highspire]] contó una vez diez, y la [[Universidad|University]] le quitó sus cartas.",
+  "heardAt": "un pulidor de lentes de [[Aguja Alta|Highspire]]",
+  "region": "Central Heartland",
+  "entries": [
+   "highspire",
+   "university"
+  ]
+ },
+ {
+  "id": "rumor-22",
+  "text": "Los astrónomos de [[Aguja Alta|Highspire]] tienen en sus cartas una estrella que cruza el cielo al revés.",
+  "heardAt": "un paje de los [[Cunaestrella|Starborn]]",
+  "region": "Central Heartland",
+  "entries": [
+   "highspire"
+  ]
+ },
+ {
+  "id": "rumor-23",
+  "text": "De noche sube un zumbido hondo por el piso de las minas de Darlath, y los cindren que trabajan cerca se apagan.",
+  "heardAt": "un vidriero de [[Caída Eterna|Everfall]]",
+  "region": "Central Heartland",
+  "entries": [
+   "everfall",
+   "cindren"
+  ]
+ },
+ {
+  "id": "rumor-24",
+  "text": "Una de cada doce cajas de piedra de Darlath sale de [[Caída Eterna|Everfall]] marcada como \"rota\" y nunca se ve en la refinería.",
+  "heardAt": "un carretero de [[Caída Eterna|Everfall]]",
+  "region": "Central Heartland",
+  "entries": [
+   "everfall",
+   "krysta",
+   "marked"
+  ]
+ },
+ {
+  "id": "rumor-25",
+  "text": "Los cindren de [[Caída Eterna|Everfall]] dicen que el [[Bosque de Vidrio|Glass Forest]] dio trece campanadas el último [[Tumbadía|Graveday]], y siempre ha sonado de doce en doce.",
+  "heardAt": "un [[Guardián de Ceniza|Ash Warden]]",
+  "region": "Central Heartland",
+  "entries": [
+   "everfall",
+   "glass-forest",
+   "cindren",
+   "cycle"
+  ]
+ },
+ {
+  "id": "rumor-26",
+  "text": "El elfo oscuro de la [[Hoja Oxidada|Rusty Blade]] pagó sus cuartos con una moneda que nadie supo nombrar. El viejo Daun la clavó sobre la barra.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-27",
+  "text": "Lunas pálidas. Las [[Mareas|Tides]] nuevas suenan apagadas, dicen los pesadores de [[Buentiempo|Fairweather]], y empezaron a pesarlas. La [[Ceca|Mint]] no dice nada.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "Icy Expanse",
+  "entries": [
+   "varan-port",
+   "two-moons-and-the-tides"
+  ]
+ },
+ {
+  "id": "rumor-28",
+  "text": "Los [[Bajíos Dorados|Gilded Shallows]] ahora brillan de noche, aunque la marea esté baja. La [[Concordia|Concord]] dice que es una bendición. El [[Registro|Registry]] dice que es un incendio.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "Central Heartland",
+  "entries": [
+   "gilded-shallows",
+   "concord",
+   "arcane-registry"
+  ]
+ },
+ {
+  "id": "rumor-29",
+  "text": "Los [[Acantilados que Cantan|Singing Cliffs]] dieron la primavera pasada un acorde que ningún capitán de puerto había oído nunca. El tiempo que vino después fue perfectamente normal, y eso los preocupó más.",
+  "heardAt": "se oye en [[Aguja Alta|Highspire]]",
+  "region": "Central Heartland",
+  "entries": [
+   "singing-cliffs"
+  ]
+ },
+ {
+  "id": "rumor-30",
+  "text": "A los árboles de la [[Catedral Verde|Cathedral Green]] les están creciendo tumbas nuevas. Los liriath dicen que son sus propios muertos, pero nadie de su clase ha muerto en la Catedral en cuarenta años.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "cathedral-green",
+   "liriath"
+  ]
+ },
+ {
+  "id": "rumor-31",
+  "text": "Una tripulación galven entró a una tormenta frente a [[Confín de Tormentas|Stormreach]] y volvió con todas las marcas de los brazos ardiendo blancas, riéndose.",
+  "heardAt": "se oye en los astilleros de [[Confín de Tormentas|Stormreach]]",
+  "region": "The Sea",
+  "entries": [
+   "galven"
+  ]
+ },
+ {
+  "id": "rumor-32",
+  "text": "Una floriana de la [[Catedral Verde|Cathedral Green]] ha visto cuatro amaneceres, y los liriath dejaron de hablar más que en susurros cerca de ella.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "florians"
+  ]
+ },
+ {
+  "id": "rumor-33",
+  "text": "Una tarvan en la Mesa del Gigante oyó al [[Gigante Dormido|Sleeping Giant]] darse vuelta en su sueño. Se fue a su casa y vendió todos sus caballos.",
+  "heardAt": "se oye en la [[Frontera del Norte|Northern Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "tarvan",
+   "giants-table",
+   "sleeping-giant"
+  ]
+ },
+ {
+  "id": "rumor-34",
+  "text": "La manada Tobbin dice que la famosa [[Rosa Negra|Black Rose]] de Saffrane fue suya primero, y que todavía tiene el recibo de venta.",
+  "heardAt": "un pocchin, a gritos",
+  "region": "Central Heartland",
+  "entries": [
+   "pocchin",
+   "silverport"
+  ]
+ },
+ {
+  "id": "rumor-35",
+  "text": "Un sanador sporrn subió a [[Puerto Sur|Southhaven]] con medicina que nadie había pedido, tres días antes de que llegara la fiebre.",
+  "heardAt": "se oye en [[Puerto Sur|Southhaven]]",
+  "region": "Below",
+  "entries": [
+   "sporrn"
+  ]
+ },
+ {
+  "id": "rumor-36",
+  "text": "Un enviado de una corte bajó a tierra en [[Bastión del Este|Easthold]] con campanas en las dos muñecas y pidió hablar con quien guarda la promesa más vieja del puerto.",
+  "heardAt": "se oye en [[Bastión del Este|Easthold]]",
+  "region": "The Sea",
+  "entries": [
+   "coral-peoples"
+  ]
+ },
+ {
+  "id": "rumor-37",
+  "text": "Un lapalumbre de [[Puerto Gris|Greyhaven]] sacó del agua un anillo de oro que nadie a bordo había perdido, y la mujer del capitán de puerto anda muy callada desde entonces.",
+  "heardAt": "se oye en los muelles de [[Puerto Gris|Greyhaven]]",
+  "region": "All regions",
+  "entries": [
+   "lampet"
+  ]
+ },
+ {
+  "id": "rumor-38",
+  "text": "La farera de [[Confín de Sal|Saltreach]] jura que su ratón sacó la cola la noche en que pasó un barco sin ninguna luz.",
+  "heardAt": "se oye en una taberna de la [[Frontera|Frontier]]",
+  "region": "All regions",
+  "entries": [
+   "lantern-mouse"
+  ]
+ },
+ {
+  "id": "rumor-39",
+  "text": "La ranita de lluvia de un correo se sentó sobre un despacho del [[Consejo|Council]] durante todo un naufragio. El despacho quedó seco. El correo no tuvo tanta suerte.",
+  "heardAt": "se oye entre las tripulaciones de los Heraldos",
+  "region": "All regions",
+  "entries": [
+   "pocket-rainfrog"
+  ]
+ },
+ {
+  "id": "rumor-40",
+  "text": "En algún lugar bajo el coral hay un arrecife hecho solo de botones, y todos los tejones de botones de las islas conocen el camino.",
+  "heardAt": "la puerta trasera de un sastre",
+  "region": "Below",
+  "entries": [
+   "button-badger",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-41",
+  "text": "Un tejón de botones de [[Puerto Plata|Silverport]] sigue trayendo a casa botones de plata con un escudo de casa que nadie sabe ubicar.",
+  "heardAt": "se oye en una sastrería de [[Puerto Plata|Silverport]]",
+  "region": "All regions",
+  "entries": [
+   "button-badger"
+  ]
+ },
+ {
+  "id": "rumor-42",
+  "text": "Dicen que una polilla de taza no calienta una taza envenenada. Nadie ha sido tan valiente como para probarlo dos veces.",
+  "heardAt": "se oye en una casa de té de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "teacup-moth"
+  ]
+ },
+ {
+  "id": "rumor-43",
+  "text": "Un [[gran uro|great auroc]] rompió su amarra en [[Bastión|Bastion]] y caminó derecho hasta los páramos tarvan, como si conociera el camino.",
+  "heardAt": "se oye en [[Bastión|Bastion]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "aurocs"
+  ]
+ },
+ {
+  "id": "rumor-44",
+  "text": "Un noble de [[Ventoro|Goldwind]] ofreció una fortuna por el chorlito espejo de un niño de la calle. El niño dijo que no, y el chorlito dijo algo peor.",
+  "heardAt": "se oye en [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "companions"
+  ]
+ },
+ {
+  "id": "rumor-45",
+  "text": "Una lechuza del silencio se calló en una boda en [[Confín de Sal|Saltreach]] la última [[Agua de Tormenta|Storm Water]], y al novio no se lo ha vuelto a ver.",
+  "heardAt": "una taberna de la [[Frontera|Frontier]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "calendar",
+   "hush-owl",
+   "saltreach"
+  ]
+ },
+ {
+  "id": "rumor-46",
+  "text": "El Capitán [[Tormenta Negra|Blackstorm]]: una vez superó en maniobras a toda la Armada durante una [[Marea Rey|King Tide]].",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "The Sea",
+  "entries": [
+   "king-tide",
+   "armada",
+   "captain-blackstorm"
+  ]
+ },
+ {
+  "id": "rumor-47",
+  "text": "Las [[Mareas|Tides]] nuevas son más livianas que las viejas. La [[Ceca|Mint]] dice que es el desgaste de los cuños.",
+  "heardAt": "se oye en el [[Piso de la Aguja|Spire Floor]]",
+  "region": "All regions",
+  "entries": [
+   "coinage"
+  ]
+ },
+ {
+  "id": "rumor-48",
+  "text": "Un [[Heraldo|Harbinger]] hizo de [[Fuerte de Hierro|Ironfort]] a [[Ventoro|Goldwind]] en once días. El [[Almirantazgo|Admiralty]] no dice cómo.",
+  "heardAt": "se oye en [[Fuerte de Hierro|Ironfort]]",
+  "region": "The Sea",
+  "entries": [
+   "travel"
+  ]
+ },
+ {
+  "id": "rumor-49",
+  "text": "Una abuela de [[Bastión del Sol|Sunhold]] tiene un libro de camino cuya última página en blanco se empezó a llenar sola.",
+  "heardAt": "se oye en [[Bastión del Sol|Sunhold]]",
+  "region": "All regions",
+  "entries": [
+   "small-ways"
+  ]
+ },
+ {
+  "id": "rumor-50",
+  "text": "El [[Patrón de Medianoche|Midnight Patron]] está comprando todas las cartas viejas del lejano sur, y paga con Krysta sin tallar.",
+  "heardAt": "un vendedor de cartas de Zal'Kareth",
+  "region": "All regions",
+  "entries": [
+   "krysta",
+   "midnight-patron"
+  ]
+ },
+ {
+  "id": "rumor-51",
+  "text": "Una perla de memoria vendida en el [[Surco de Perlas|Pearl Groove]] muestra la cara de una mujer sobre los [[Tronos Hundidos|Sunken Thrones]]. Está mirando hacia arriba, y está sonriendo.",
+  "heardAt": "se oye en el Mar y en los [[Reinos de Coral|Coral Kingdoms]]",
+  "region": "The Sea",
+  "entries": [
+   "sea-pacts",
+   "pearl-groove-and-the-pelagar-isle",
+   "sunken-thrones"
+  ]
+ },
+ {
+  "id": "rumor-52",
+  "text": "Los albañiles de siete fortalezas enanas dejaron de hablar de lo que encontraron en la repisa junto al muro.",
+  "heardAt": "el aprendiz de un cantero enano",
+  "region": "Below",
+  "entries": [
+   "below",
+   "dwarves"
+  ]
+ },
+ {
+  "id": "rumor-53",
+  "text": "Los enanos tienen una palabra vieja para los drow, y no la dicen delante de un banquero.",
+  "heardAt": "un cambista de [[Ventoro|Goldwind]]",
+  "region": "Below",
+  "entries": [
+   "below",
+   "dwarves"
+  ]
+ },
+ {
+  "id": "rumor-54",
+  "text": "Vieron a progenie de tres Señores distintos cazando codo con codo en las [[Tierras Salvajes del Sur|Southern Wilds]], todos tras el mismo animal pálido.",
+  "heardAt": "se oye en la [[Logia|Lodge]] de Jakupur",
+  "region": "All regions",
+  "entries": [
+   "savage-lords"
+  ]
+ },
+ {
+  "id": "rumor-55",
+  "text": "La silla vacía en el [[Alto Mando del Almirantazgo|Admiralty's High Command]] fue desempolvada la semana pasada. Nadie admite haberlo ordenado.",
+  "heardAt": "se oye entre los escribientes de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "council"
+  ]
+ },
+ {
+  "id": "rumor-56",
+  "text": "Los [[Diez de Platino|Platinum Ten]] caminan entre nosotros. Nadie sabe quiénes son.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "All regions",
+  "entries": [
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-57",
+  "text": "La primera de los Diez lleva en la cima del Ranking desde antes de que naciera la abuela de cualquiera. Los Cronistas dejaron de anotar su edad.",
+  "heardAt": "un [[Cronista|Chronicler]] de la [[Logia|Lodge]], después de su tercer kellum",
+  "region": "All regions",
+  "entries": [
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-58",
+  "text": "Un gigante de [[Elfo de la Escarcha|Frost Elf]] camina por el hielo con un sacerdote encapuchado que nunca come. Los [[Cazadores|Hunters]] publicaron un contrato por él, y lo tomó Albion [[Tempestad|Tempest]].",
+  "heardAt": "un escribiente de la [[Logia|Lodge]] de [[Bastión de Escarcha|Frosthold]]",
+  "region": "All regions",
+  "entries": [
+   "hunters",
+   "albion-tempest"
+  ]
+ },
+ {
+  "id": "rumor-59",
+  "text": "[[Siroc el Veloz|Siroc the Swift]]: se le ha escapado a la Armada más de una docena de veces.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "The Sea",
+  "entries": [
+   "armada",
+   "siroc-the-swift"
+  ]
+ },
+ {
+  "id": "rumor-60",
+  "text": "Una [[Perseguidora|Pursuer]] llegó a [[Puerto Sur|Southhaven]] buscando a un rompejuramentos, y el hombre que se llevó era un ballenero que no podía dejar de tararear.",
+  "heardAt": "una viuda del puerto de [[Puerto Sur|Southhaven]]",
+  "region": "All regions",
+  "entries": [
+   "concord"
+  ]
+ },
+ {
+  "id": "rumor-61",
+  "text": "Los [[Cartógrafos|Chartwrights]] mantienen las islas de las tortugas fuera de las cartas públicas. Pregúntale a un agrimensor dónde están y mira cómo lo mira su tortuga.",
+  "heardAt": "una tienda de cartas de navegación de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "chartwrights"
+  ]
+ },
+ {
+  "id": "rumor-62",
+  "text": "Dos de las [[Doce Banderas|Twelve Flags]] dejaron de hablarse en el [[Piso de la Aguja|Spire Floor]], y todos los factores de [[Ventoro|Goldwind]] están comprando cuerda.",
+  "heardAt": "se oye en el [[Piso de la Aguja|Spire Floor]]",
+  "region": "Central Heartland",
+  "entries": [
+   "mercantile-congress"
+  ]
+ },
+ {
+  "id": "rumor-63",
+  "text": "El [[Registrador|Registrar]] existe. Es un hombre alto vestido de gris que de noche visita los sótanos de la [[Universidad|University]], y la Universidad niega que haya venido nunca a la ciudad.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "Central Heartland",
+  "entries": [
+   "university",
+   "arcane-registry"
+  ]
+ },
+ {
+  "id": "rumor-64",
+  "text": "Las terrazas de [[Bastión del Sol|Sunhold]] cultivan un brightleaf del que el [[Registro|Registry]] compra hasta la última hoja, y a nadie lo han dejado probarlo nunca.",
+  "heardAt": "una recolectora del [[Gremio de las Terrazas|Terrace Guild]]",
+  "region": "Central Heartland",
+  "entries": [
+   "arcane-registry",
+   "brightleaf",
+   "sunhold"
+  ]
+ },
+ {
+  "id": "rumor-65",
+  "text": "Una salamandra de hogar en Kaldmark durmió sobre el mismo carbón todo un invierno, y la fortaleza que la tenía no perdió a nadie por el frío.",
+  "heardAt": "se oye en la [[Extensión Helada|Icy Expanse]]",
+  "region": "All regions",
+  "entries": [
+   "hearth-newt"
+  ]
+ },
+ {
+  "id": "rumor-66",
+  "text": "Un grillo durmió con su canto a toda una tripulación la noche en que abordaron su barco. Los ladrones se llevaron la carga y dejaron el grillo.",
+  "heardAt": "se oye en las rutas del sur",
+  "region": "All regions",
+  "entries": [
+   "lullaby-cricket"
+  ]
+ },
+ {
+  "id": "rumor-67",
+  "text": "Vieron a un par de palomas de promesa volando mar adentro, las dos, juntas. Nadie quiere pensar en lo que eso significa.",
+  "heardAt": "un pueblo de pescadores",
+  "region": "All regions",
+  "entries": [
+   "promise-doves"
+  ]
+ },
+ {
+  "id": "rumor-68",
+  "text": "Una paloma de promesa voló en círculos sobre [[Ventoro|Goldwind]] durante tres días. La cuidadora de su pareja había navegado hacia la niebla frente a la [[Frontera|Frontier]], y la paloma no podía decidir dónde estaba.",
+  "heardAt": "se oye en [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "promise-doves"
+  ]
+ },
+ {
+  "id": "rumor-69",
+  "text": "Hay un chorlito espejo en [[Ventoro|Goldwind]] que habla como un hombre al que nadie en la ciudad recuerda.",
+  "heardAt": "los muelles de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "mirror-plover"
+  ]
+ },
+ {
+  "id": "rumor-70",
+  "text": "Un chorlito espejo de [[Bastión del Este|Easthold]] todavía habla como un capitán que se ahogó hace once años. Su viuda le lleva pan todas las mañanas.",
+  "heardAt": "se oye en [[Bastión del Este|Easthold]]",
+  "region": "All regions",
+  "entries": [
+   "mirror-plover"
+  ]
+ },
+ {
+  "id": "rumor-71",
+  "text": "Un pirata encadenado en [[Fuerte de Hierro|Ironfort]] salió libre porque su cangrejo de los nudos le soltó la soga en el patíbulo.",
+  "heardAt": "se oye en [[Puerto Negro|Black Harbor]]",
+  "region": "All regions",
+  "entries": [
+   "knot-crab"
+  ]
+ },
+ {
+  "id": "rumor-72",
+  "text": "Ninguna rata de las vías de agua quiere subir al nuevo [[Vindicador|Vindicator]] en [[Confín de Tormentas|Stormreach]]. El astillero dice que es el olor a brea fresca. La tripulación dice que no.",
+  "heardAt": "se oye en los astilleros de [[Confín de Tormentas|Stormreach]]",
+  "region": "All regions",
+  "entries": [
+   "leak-rat"
+  ]
+ },
+ {
+  "id": "rumor-73",
+  "text": "Un loro de alcantarilla en [[Cayo Hueco|Hollowkey]] sabe el nombre íntimo que un almirante del [[Consejo|Council]] le dice a su mujer, y lo repite todas las tardes a la sexta campana.",
+  "heardAt": "se oye en [[Cayo Hueco|Hollowkey]]",
+  "region": "All regions",
+  "entries": [
+   "gutter-parrot"
+  ]
+ },
+ {
+  "id": "rumor-74",
+  "text": "Un cormorán de [[Puerto Gris|Greyhaven]] volvió de la niebla con un pez que nadie en el norte había visto nunca.",
+  "heardAt": "se oye en la costa de la [[Frontera|Frontier]]",
+  "region": "All regions",
+  "entries": [
+   "net-cormorant"
+  ]
+ },
+ {
+  "id": "rumor-75",
+  "text": "El murciélago catador de un noble rechazó una copa en una boda del [[Corazón|Heartland]], y la familia del novio se fue antes del postre.",
+  "heardAt": "se oye en los salones de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "taster-bat"
+  ]
+ },
+ {
+  "id": "rumor-76",
+  "text": "Una grajilla contadora de la [[Casa de los Tesoreros|Reckoners' Hall]] no se posa en el escritorio de un escribiente. El escribiente pidió que lo cambien de lugar.",
+  "heardAt": "se oye en el [[Piso de la Aguja|Spire Floor]]",
+  "region": "Central Heartland",
+  "entries": [
+   "counting-jackdaw"
+  ]
+ },
+ {
+  "id": "rumor-77",
+  "text": "Un pulpo de tinta copió la cara de un desconocido en una página de un libro de cuentas. El desconocido ha estado buscando esa página desde entonces.",
+  "heardAt": "se oye en una [[casa de cuentas|counting-house]] de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "ink-octopus"
+  ]
+ },
+ {
+  "id": "rumor-78",
+  "text": "Un taller de velas de [[Ventoro|Goldwind]] tiene una araña zurcidora que solo remienda velas de barcos que vuelven a casa.",
+  "heardAt": "se oye en los talleres de velas de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "darning-spider"
+  ]
+ },
+ {
+  "id": "rumor-79",
+  "text": "Las ardillas planeadoras llevan notas de amor por los techos de [[Ventoro|Goldwind]] entre la hija de un noble y un escribiente del muelle. Media ciudad lo sabe; el padre de ella no.",
+  "heardAt": "se oye en los tejados de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "glider-squirrel"
+  ]
+ },
+ {
+  "id": "rumor-80",
+  "text": "Las casas de juego de [[Puerto Plata|Silverport]] empezaron a revisar en la puerta los bolsillos de los clientes buscando gecos.",
+  "heardAt": "se oye en [[Puerto Plata|Silverport]]",
+  "region": "Central Heartland",
+  "entries": [
+   "fortune-gecko"
+  ]
+ },
+ {
+  "id": "rumor-81",
+  "text": "Un pececillo marcapáginas de la biblioteca de la [[Universidad|University]] se detuvo en una página que no está en el libro.",
+  "heardAt": "se oye entre los estudiantes de la [[Universidad|University]]",
+  "region": "Central Heartland",
+  "entries": [
+   "bookmark-silverfish"
+  ]
+ },
+ {
+  "id": "rumor-82",
+  "text": "El caracol de un marinero lleva un mes apuntando mar adentro, hacia ninguna isla de ninguna carta.",
+  "heardAt": "se oye en [[Confín de Sal|Saltreach]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "homeward-snail"
+  ]
+ },
+ {
+  "id": "rumor-83",
+  "text": "Todas las liebres tamborileras de los páramos de [[Confín del Norte|Northreach]] tamborilearon a la vez una noche del invierno pasado, y nadie encontró nada de nada.",
+  "heardAt": "se oye entre los arrieros de [[Confín del Norte|Northreach]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "drum-hare"
+  ]
+ },
+ {
+  "id": "rumor-84",
+  "text": "Un pinzón eco de [[Bastión|Bastion]] repite una frase con una voz que nadie en la casa reconoce.",
+  "heardAt": "se oye en [[Bastión|Bastion]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "echo-finch"
+  ]
+ },
+ {
+  "id": "rumor-85",
+  "text": "Un erizo de los sueños dejó el pecho de su durmiente en plena noche y no quiso volver. El durmiente no ha sido el mismo.",
+  "heardAt": "se oye en un pueblo de setos de la [[Frontera|Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "dreamcurl-hedgehog"
+  ]
+ },
+ {
+  "id": "rumor-86",
+  "text": "Un hurón chispa de la aduana de [[Fuerte de Hierro|Ironfort]] se volvió loco con una caja de \"cerámica\" que iba al norte.",
+  "heardAt": "se oye en la [[Puerta|Gate]] de [[Fuerte de Hierro|Ironfort]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "spark-ferret"
+  ]
+ },
+ {
+  "id": "rumor-87",
+  "text": "Las rapaces de pulgar de una calle de Jakupur empezaron a cazar algo demasiado pequeño para que nadie más lo vea.",
+  "heardAt": "se oye en Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "thumb-raptor"
+  ]
+ },
+ {
+  "id": "rumor-88",
+  "text": "Una mariposa del velo se volvió transparente como el vidrio en medio de un baile de [[Ventoro|Goldwind]], y así se quedó toda la noche.",
+  "heardAt": "se oye en los salones de [[Ventoro|Goldwind]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "veil-butterfly"
+  ]
+ },
+ {
+  "id": "rumor-89",
+  "text": "El musgo de un perezoso de musgo mantuvo vivo a un [[Cazador|Hunter]] durante tres días en la selva profunda, y el perezoso no se fue hasta que llegaron los sanadores.",
+  "heardAt": "se oye en la [[Logia|Lodge]] de Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "moss-sloth"
+  ]
+ },
+ {
+  "id": "rumor-90",
+  "text": "Una mangosta de rastro siguió una montura robada por media [[Tierras Salvajes|Wilds]] y llevó a su persona derecho al establo de un magistrado de [[Puerto Sur|Southhaven]].",
+  "heardAt": "se oye en [[Puerto Sur|Southhaven]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "trail-mongoose"
+  ]
+ },
+ {
+  "id": "rumor-91",
+  "text": "Un [[Elfo de la Escarcha|Frost Elf]] dejó un armiño bufanda en la puerta de un forastero durante la [[Larga Noche|Long Night]], y el forastero sobrevivió.",
+  "heardAt": "se oye en [[Bastión de Escarcha|Frosthold]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "scarf-stoat"
+  ]
+ },
+ {
+  "id": "rumor-92",
+  "text": "Todas las lechuzas del silencio de un cementerio de Snowvah se esponjaron a la vez en la última [[Marea Rey|King Tide]].",
+  "heardAt": "se oye en la [[Extensión Helada|Icy Expanse]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "hush-owl"
+  ]
+ },
+ {
+  "id": "rumor-93",
+  "text": "Un petrel de tierra a la vista llevó a un ballenero perdido a una isla que no estaba ahí cuando los [[Cartógrafos|Chartwrights]] fueron a buscarla.",
+  "heardAt": "se oye entre los balleneros",
+  "region": "Icy Expanse",
+  "entries": [
+   "landfall-petrel"
+  ]
+ },
+ {
+  "id": "rumor-94",
+  "text": "El caballito de mar de un buscador de perlas sopló su burbuja para un desconocido que se ahogaba, y a la mañana siguiente los [[Jardines de Vidrio|Glass Gardens]] le mandaron una perla al buscador.",
+  "heardAt": "se oye en el [[Surco de Perlas|Pearl Groove]]",
+  "region": "The Sea",
+  "entries": [
+   "bubble-seahorse"
+  ]
+ },
+ {
+  "id": "rumor-95",
+  "text": "Todas las anémonas de marea de [[Puerto Sur|Southhaven]] se cerraron al mediodía el mismo día del año pasado, a destiempo, exactamente lo que se tarda en decir una oración.",
+  "heardAt": "una viuda del puerto de [[Puerto Sur|Southhaven]]",
+  "region": "The Sea",
+  "entries": [
+   "tide-anemone",
+   "southhaven"
+  ]
+ },
+ {
+  "id": "rumor-96",
+  "text": "Una anémona en una ventana de [[Bastión del Este|Easthold]] supo que la marea había cambiado en casa, mientras su cuidadora estaba a un mes de navegación.",
+  "heardAt": "se oye en [[Bastión del Este|Easthold]]",
+  "region": "The Sea",
+  "entries": [
+   "tide-anemone"
+  ]
+ },
+ {
+  "id": "rumor-97",
+  "text": "Un sabueso de la [[Logia|Lodge]] de Jakupur empezó a rastrear algo por lo que la Junta no ha publicado ningún contrato.",
+  "heardAt": "se oye en la [[Logia|Lodge]] de Jakupur",
+  "region": "All regions",
+  "entries": [
+   "lodge-hound"
+  ]
+ },
+ {
+  "id": "rumor-98",
+  "text": "Las cabras de techo de una caravana vieron a unos bandidos en el camino de la [[Frontera|Frontier]] una hora entera antes que los carreteros, y los bandidos todavía se preguntan cómo.",
+  "heardAt": "se oye en los caminos de la [[Frontera|Frontier]]",
+  "region": "All regions",
+  "entries": [
+   "roof-goats"
+  ]
+ },
+ {
+  "id": "rumor-99",
+  "text": "Un perro de la marea de [[Puerto Gris|Greyhaven]] sacó del mar a un desconocido que no quiere decir de qué barco vino.",
+  "heardAt": "se oye en [[Puerto Gris|Greyhaven]]",
+  "region": "All regions",
+  "entries": [
+   "tidehound"
+  ]
+ },
+ {
+  "id": "rumor-100",
+  "text": "Un charrán llevó a la torre de [[Fuerte de Hierro|Ironfort]] una nota pidiendo médico, desde un barco que nunca entró a puerto.",
+  "heardAt": "se oye en la rada de [[Fuerte de Hierro|Ironfort]]",
+  "region": "All regions",
+  "entries": [
+   "roadstead-tern"
+  ]
+ },
+ {
+  "id": "rumor-101",
+  "text": "La manada que guía a los barcos por los [[Dientes de la Viuda|Widow's Teeth]] dejó de responder al silbato de un piloto.",
+  "heardAt": "se oye en [[Puerto Gris|Greyhaven]]",
+  "region": "All regions",
+  "entries": [
+   "pilot-dolphins"
+  ]
+ },
+ {
+  "id": "rumor-102",
+  "text": "La aduana de [[Puerto Varan|Varan Port]] empezó a dragar el agua bajo los muelles. Todavía no encontraron ninguna anguila.",
+  "heardAt": "se oye en [[Puerto Varan|Varan Port]]",
+  "region": "All regions",
+  "entries": [
+   "courier-eel"
+  ]
+ },
+ {
+  "id": "rumor-103",
+  "text": "Las [[vacas del alga|wrack cows]] de los [[Hacedores de Calma|Stillwrights]] se negaron a pastar en un lecho de algamiel todo el verano, y el kellum de ese lecho sabía raro.",
+  "heardAt": "se oye entre los [[Hacedores de Calma|Stillwrights]]",
+  "region": "Central Heartland",
+  "entries": [
+   "wrack-cow"
+  ]
+ },
+ {
+  "id": "rumor-104",
+  "text": "Una tortuga de ferry de los canales del [[Corazón|Heartland]] llegó tarde por primera vez en sesenta años. Nadie sabe adónde fue durante esa hora.",
+  "heardAt": "se oye en los canales del [[Corazón|Heartland]]",
+  "region": "Central Heartland",
+  "entries": [
+   "ferry-turtle"
+  ]
+ },
+ {
+  "id": "rumor-105",
+  "text": "Los gansos de la bóveda de los Tesoreros estuvieron callados la noche en que desapareció un libro de cuentas.",
+  "heardAt": "se oye en el [[Piso de la Aguja|Spire Floor]]",
+  "region": "Central Heartland",
+  "entries": [
+   "vault-geese"
+  ]
+ },
+ {
+  "id": "rumor-106",
+  "text": "Los porqueros juran que los cerdos de alcantarilla no quieren bajar por un callejón de las calles bajas de [[Ventoro|Goldwind]].",
+  "heardAt": "se oye en las calles bajas de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "gutter-pigs"
+  ]
+ },
+ {
+  "id": "rumor-107",
+  "text": "Una herrera de Aurelion dice que su sapo fuelle no sopla para hojas destinadas al [[Imperio|Imperium]].",
+  "heardAt": "se oye en Aurelion",
+  "region": "Central Heartland",
+  "entries": [
+   "bellows-toad"
+  ]
+ },
+ {
+  "id": "rumor-108",
+  "text": "El desfile de patos del alba de [[Bastión del Sol|Sunhold]] recorrió las terrazas al revés una mañana, y la hoja de esa temporada fue la mejor en veinte años.",
+  "heardAt": "se oye en [[Bastión del Sol|Sunhold]]",
+  "region": "Central Heartland",
+  "entries": [
+   "terrace-ducks"
+  ]
+ },
+ {
+  "id": "rumor-109",
+  "text": "Una granja de seda de [[Puerto Plata|Silverport]] está criando una polilla cuya seda brilla en la oscuridad. Las otras granjas quieren saber cómo.",
+  "heardAt": "se oye en [[Puerto Plata|Silverport]]",
+  "region": "Central Heartland",
+  "entries": [
+   "silverport-silkmoth"
+  ]
+ },
+ {
+  "id": "rumor-110",
+  "text": "Una manada de cuernopáramos se fue de los páramos de [[Confín del Norte|Northreach]] en una sola noche, con cintas y todo, y la encontraron parada en un círculo de piedras.",
+  "heardAt": "se oye entre los tarvan",
+  "region": "Northern Frontier",
+  "entries": [
+   "moorhorn"
+  ]
+ },
+ {
+  "id": "rumor-111",
+  "text": "El dibujo de punto de parentela de una familia de pescadores apareció en un ahogado que nadie del pueblo conocía.",
+  "heardAt": "se oye en la costa de la [[Frontera|Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "oilfleece-sheep"
+  ]
+ },
+ {
+  "id": "rumor-112",
+  "text": "Los topos de destello de una mina de la [[Frontera|Frontier]] están cavando hacia abajo, no hacia ninguna veta, y los mineros dejaron de seguirlos.",
+  "heardAt": "se oye en las minas de la [[Frontera|Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "glint-mole"
+  ]
+ },
+ {
+  "id": "rumor-113",
+  "text": "Las nutrias pastoras de las [[Nueve Bocas|Nine Mouths]] empezaron a espantar los peces de un pueblo del río. El pueblo hizo algo.",
+  "heardAt": "se oye en los ríos de las [[Nueve Bocas|Nine Mouths]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "herd-otter"
+  ]
+ },
+ {
+  "id": "rumor-114",
+  "text": "Un tiro de sabuesos de escarcha se detuvo en seco sobre el hielo y no quiso seguir. El trineo dio la vuelta. La grieta que olieron todavía la están midiendo.",
+  "heardAt": "se oye en [[Bastión de Escarcha|Frosthold]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "rimehound"
+  ]
+ },
+ {
+  "id": "rumor-115",
+  "text": "Los lobos balleneros no vinieron por la lengua después de la última caza. [[Bastión de Escarcha|Frosthold]] no ha decidido si preocuparse.",
+  "heardAt": "se oye en [[Bastión de Escarcha|Frosthold]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "whale-wolves"
+  ]
+ },
+ {
+  "id": "rumor-116",
+  "text": "Un cangrejo zancudo salió del mar en un puerto de mercado sin jinete y con una canasta llena de campanas.",
+  "heardAt": "se oye en la costa del [[Corazón|Heartland]]",
+  "region": "The Sea",
+  "entries": [
+   "strider-crab"
+  ]
+ },
+ {
+  "id": "rumor-117",
+  "text": "Desde hace tres noches seguidas se ve frente a [[Bastión del Este|Easthold]] un corcel de la marea con una montura de concha vacía.",
+  "heardAt": "se oye en [[Bastión del Este|Easthold]]",
+  "region": "The Sea",
+  "entries": [
+   "tidesteed"
+  ]
+ },
+ {
+  "id": "rumor-118",
+  "text": "Un cardumen farol de Thalassar empezó a nadar una ronda nueva, y las cortes discuten adónde lleva.",
+  "heardAt": "se oye entre los buzos de perlas",
+  "region": "The Sea",
+  "entries": [
+   "lamp-shoal"
+  ]
+ },
+ {
+  "id": "rumor-119",
+  "text": "Alguien vende tinte de púrpura de arrecife en [[Puerto Plata|Silverport]] a mitad de precio. Los pueblos del coral quieren saber de dónde sale.",
+  "heardAt": "se oye en [[Puerto Plata|Silverport]]",
+  "region": "The Sea",
+  "entries": [
+   "reefpurple-whelk"
+  ]
+ },
+ {
+  "id": "rumor-120",
+  "text": "Un escarabajo de carga se detuvo en un túnel enano y no se quiso mover, y los mineros encontraron una puerta detrás de la roca donde se paró.",
+  "heardAt": "se oye en un fortín enano",
+  "region": "Below",
+  "entries": [
+   "haulbeetle"
+  ]
+ },
+ {
+  "id": "rumor-121",
+  "text": "Una vieja tortuga de cartas de [[Ventoro|Goldwind]] tiene un caparazón cuyas placas coinciden con una isla que no muestra ninguna carta. Tres agrimensores han pedido comprar sus cartas. No está en venta.",
+  "heardAt": "se oye entre los [[Cartógrafos|Chartwrights]]",
+  "region": "All regions",
+  "entries": [
+   "chartback-tortoise"
+  ]
+ },
+ {
+  "id": "rumor-122",
+  "text": "Una familia pocchin rechazó una isla entera por su grommoth más viejo. Dos veces.",
+  "heardAt": "se oye en un campamento de caravanas",
+  "region": "All regions",
+  "entries": [
+   "grommoth"
+  ]
+ },
+ {
+  "id": "rumor-123",
+  "text": "Un veterano dracónido de [[Bastión|Bastion]] todavía lleva su insignia imperial, y la guarnición decidió dejarlo.",
+  "heardAt": "se oye en [[Bastión|Bastion]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "dragonborn"
+  ]
+ },
+ {
+  "id": "rumor-124",
+  "text": "La [[Puerta de la Cisterna|Cistern Door]]. En el fondo de la cisterna más vieja de [[Ventoro|Goldwind]] hay un muro enano, y alguien ha estado trabajando su argamasa desde el otro lado.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "Central Heartland",
+  "entries": [
+   "dwarves",
+   "cistern-door"
+  ]
+ },
+ {
+  "id": "rumor-125",
+  "text": "Ojos de drow. Los ojos de un drow brillan en la oscuridad, y cuanto más viejo es el drow, más apagados brillan.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "All regions",
+  "entries": [
+   "elves"
+  ]
+ },
+ {
+  "id": "rumor-126",
+  "text": "[[Hrothgar Vena de Hielo|Hrothgar Icevein]]: caza a los [[Elfos de la Escarcha|Frost Elves]] que lo desterraron.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "elves",
+   "hrothgar-icevein"
+  ]
+ },
+ {
+  "id": "rumor-127",
+  "text": "Un taller gnomo de [[Ventoro|Goldwind]] construyó un reloj que anda hacia atrás durante los [[Días Quietos|Still Days]].",
+  "heardAt": "se oye en [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "gnomes"
+  ]
+ },
+ {
+  "id": "rumor-128",
+  "text": "Un trasgo del [[Nudo|Knot]] lleva el sombrero de un almirante del [[Consejo|Council]] y tiene una historia muy buena sobre eso.",
+  "heardAt": "se oye en el [[Nudo|Knot]]",
+  "region": "All regions",
+  "entries": [
+   "goblinoids"
+  ]
+ },
+ {
+  "id": "rumor-129",
+  "text": "Un goliat bajó de las cordilleras altas con una cuenta que nadie tiene derecho a llevar: la de haber escalado el [[Yunque del Cielo|Sky Anvil]].",
+  "heardAt": "se oye en la [[Sierra del Yunque|Anvil Reach]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "goliaths"
+  ]
+ },
+ {
+  "id": "rumor-130",
+  "text": "A una intérprete semielfa de [[Puerto Plata|Silverport]] le ofrecieron una fortuna por traducir mal una sola palabra en una mesa de tratados.",
+  "heardAt": "se oye en [[Puerto Plata|Silverport]]",
+  "region": "All regions",
+  "entries": [
+   "half-elves"
+  ]
+ },
+ {
+  "id": "rumor-131",
+  "text": "Una posada mediana de los caminos del río del [[Corazón|Heartland]] nunca se ha quedado sin camas, lleguen los huéspedes que lleguen.",
+  "heardAt": "se oye en los caminos del río",
+  "region": "All regions",
+  "entries": [
+   "halflings"
+  ]
+ },
+ {
+  "id": "rumor-132",
+  "text": "Vieron a un comerciante de Jakupur y a un señor de la [[Frontera|Frontier]] bebiendo juntos en [[Ventoro|Goldwind]], riéndose. Los dos lo niegan.",
+  "heardAt": "se oye en [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "humans"
+  ]
+ },
+ {
+  "id": "rumor-133",
+  "text": "Una madriguera kóbold bajo el [[Pantano del Ocaso|Duskmire]] empezó a vender mapas de los túneles de abajo. Cada mapa es un poco distinto.",
+  "heardAt": "se oye en el [[Nudo|Knot]]",
+  "region": "All regions",
+  "entries": [
+   "kobolds"
+  ]
+ },
+ {
+  "id": "rumor-134",
+  "text": "Una anciana de los hombres lagarto se volvió a pintar con un dibujo que nadie ha llevado en cien años.",
+  "heardAt": "se oye en las grandes ciénagas",
+  "region": "Southern Wilds",
+  "entries": [
+   "lizardfolk"
+  ]
+ },
+ {
+  "id": "rumor-135",
+  "text": "Dicen que un jefe orco del sur enterró en el mar una máscara de daimón, a propósito, con un [[Relato|Telling]] cantado encima.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "All regions",
+  "entries": [
+   "orcs"
+  ]
+ },
+ {
+  "id": "rumor-136",
+  "text": "Alguien desenvainó el acero en el Descanso de los Soldados el invierno pasado. Los manantiales corrieron fríos una semana.",
+  "heardAt": "se oye en [[Bastión|Bastion]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "soldiers-rest"
+  ]
+ },
+ {
+  "id": "rumor-137",
+  "text": "Una nadadora llegó al fondo de la [[Escalera de Malim|Malim's Stair]] riéndose, sin un rasguño, y juró que el río la había llevado todo el camino.",
+  "heardAt": "se oye en el [[Agua que Ríe|Laughing Water]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "malims-stair"
+  ]
+ },
+ {
+  "id": "rumor-138",
+  "text": "Un guía dice que uno de los huesos de las planicies blancas se ha movido, un poquito, cada año desde que él era niño.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "bonewilds"
+  ]
+ },
+ {
+  "id": "rumor-139",
+  "text": "En la última noche de la [[Marea Rey|King Tide]], se vio una tercera luna en el [[Lago Espejo|Mirrormere]].",
+  "heardAt": "se oye entre los guardacantos",
+  "region": "Southern Wilds",
+  "entries": [
+   "mirrormere"
+  ]
+ },
+ {
+  "id": "rumor-140",
+  "text": "Algo pálido ha estado caminando por el fondo de los [[Jardines de las Ballenas Caídas|Whalefall Gardens]] con la marea baja, cuidándolos.",
+  "heardAt": "se oye en [[Bastión de Escarcha|Frosthold]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "whalefall-gardens"
+  ]
+ },
+ {
+  "id": "rumor-141",
+  "text": "El [[Agua Quieta|Stillwater]] se movió tres leguas al oeste. Las cartas de la Armada dicen que siempre estuvo ahí. Los marineros dicen que siempre se estuvo moviendo.",
+  "heardAt": "se oye en el Mar y en los [[Reinos de Coral|Coral Kingdoms]]",
+  "region": "The Sea",
+  "entries": [
+   "stillwater"
+  ]
+ },
+ {
+  "id": "rumor-142",
+  "text": "Los [[Viejos Caparazones|Old Shells]] salieron a la superficie en el [[Agua Quieta|Stillwater]] tres veces este año. Antes subían una vez por generación.",
+  "heardAt": "un [[Llamamareas|Tidecaller]] del [[Último Salmo|Last Psalm]]",
+  "region": "The Sea",
+  "entries": [
+   "stillwater",
+   "old-shells"
+  ]
+ },
+ {
+  "id": "rumor-143",
+  "text": "En un pueblo de la [[Frontera|Frontier]] se encendió el fuego cada mañana durante un año después de que murió la última guardiana, y nadie vio nunca quién lo encendía.",
+  "heardAt": "se oye en la [[Frontera|Frontier]]",
+  "region": "All regions",
+  "entries": [
+   "the-keeping"
+  ]
+ },
+ {
+  "id": "rumor-144",
+  "text": "Una [[Taza del Regreso|Returning Cup]] de [[Bastión del Este|Easthold]] se dio vuelta sola en la ventana, y el marinero al que esperaba entró a la mañana siguiente.",
+  "heardAt": "se oye en [[Bastión del Este|Easthold]]",
+  "region": "All regions",
+  "entries": [
+   "hearth-customs"
+  ]
+ },
+ {
+  "id": "rumor-145",
+  "text": "Una destilería de [[Ventoro|Goldwind]] tiene un barril de icebrand tan viejo que pudo haber bajado de los primeros balleneros. No está en venta, y por eso todos lo quieren.",
+  "heardAt": "se oye en [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "kellum"
+  ]
+ },
+ {
+  "id": "rumor-146",
+  "text": "Una manada salvaje de dientespadas aprendió a esperar afuera de las puertas de Jakupur a la hora en que salen las caravanas.",
+  "heardAt": "se oye en Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "swordtooth"
+  ]
+ },
+ {
+  "id": "rumor-147",
+  "text": "Un noble de Jakupur amuralló su jardín con lomoespinas vivos en lugar de piedra. Sus vecinos duermen mal.",
+  "heardAt": "se oye en Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "thornback"
+  ]
+ },
+ {
+  "id": "rumor-148",
+  "text": "Un colalátigo del [[Foso de las Fauces|Maw-Pit]] rompió tres escudos en un combate y después se negó a pelear con nadie que no llevara uno.",
+  "heardAt": "se oye en el [[Foso de las Fauces|Maw-Pit]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "lashtail"
+  ]
+ },
+ {
+  "id": "rumor-149",
+  "text": "Un garraplana llevó el mensaje de un explorador cuarenta millas sobre la selva en una sola tarde, y al explorador nunca lo encontraron.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "glidetalon"
+  ]
+ },
+ {
+  "id": "rumor-150",
+  "text": "Una jinete de cieloaleta dice que voló tan alto que vio todo el sur a la vez, y que algo le devolvía la mirada.",
+  "heardAt": "se oye en Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "skyfin"
+  ]
+ },
+ {
+  "id": "rumor-151",
+  "text": "El lomogreda más viejo de las canteras de Jakupur solo acarrea piedra para una familia, y esa familia lleva tres generaciones muerta.",
+  "heardAt": "se oye en Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "loamback"
+  ]
+ },
+ {
+  "id": "rumor-152",
+  "text": "Un altisaurio cruzó a una fiesta de bodas por un río crecido sin derramar una sola copa.",
+  "heardAt": "se oye en el camino de Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "altisaur"
+  ]
+ },
+ {
+  "id": "rumor-153",
+  "text": "Un cuernopeña corneó a un recaudador en un pueblo del sur y el magistrado lo declaró legítima defensa.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "craghorn"
+  ]
+ },
+ {
+  "id": "rumor-154",
+  "text": "Un zancafango llevó a casa a un niño perdido por el pantano y no se fue hasta que le dieron de comer.",
+  "heardAt": "se oye entre las tribus de las ciénagas",
+  "region": "Southern Wilds",
+  "entries": [
+   "murkstrider"
+  ]
+ },
+ {
+  "id": "rumor-155",
+  "text": "Un comerciante acampó una semana en una isla del delta. La octava mañana, la isla se fue.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "mirewallow"
+  ]
+ },
+ {
+  "id": "rumor-156",
+  "text": "Los aletanavajas de un río dejaron de picar la carnada, y los barqueros dicen que esperan algo más grande.",
+  "heardAt": "se oye en las rutas de los zancafangos",
+  "region": "Southern Wilds",
+  "entries": [
+   "razorfin"
+  ]
+ },
+ {
+  "id": "rumor-157",
+  "text": "Una manada de lomobramos se echó toda a la vez en la sabana y no se levantó hasta que pasó el terremoto.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "bellowback"
+  ]
+ },
+ {
+  "id": "rumor-158",
+  "text": "Todas las faceclocas de un pueblo de Jakupur pusieron un huevo con una pinta roja la misma mañana.",
+  "heardAt": "se oye en Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "cluckmaw"
+  ]
+ },
+ {
+  "id": "rumor-159",
+  "text": "Un escriba de Jakupur jura que las plumas de su gallipluma solo escriben la verdad.",
+  "heardAt": "se oye en Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "quillhen"
+  ]
+ },
+ {
+  "id": "rumor-160",
+  "text": "La recompensa de la [[Llama Blanca|White Flame]] por los pielcrepúsculos salvajes se pagó dos veces el año pasado, las dos por el mismo animal.",
+  "heardAt": "se oye en Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "gloamhide"
+  ]
+ },
+ {
+  "id": "rumor-162",
+  "text": "Nadie ha pintado nunca al [[Gran Inquisidor del Imperio|Imperium's Grand Inquisitor]]. Los espías de la [[Frontera|Frontier]] que dicen haberlo visto no quieren decir cómo era.",
+  "heardAt": "un escribiente de aduanas de [[Fuerte de Hierro|Ironfort]]",
+  "region": "All regions",
+  "entries": [
+   "assios-and-the-wider-world"
+  ]
+ },
+ {
+  "id": "rumor-163",
+  "text": "Los marineros que vuelven de Khard Muur dicen que Valengrad coronó al Rey Rune el año pasado. También lo coronaron el año anterior, y en medio lo enterraron.",
+  "heardAt": "un marinero que volvió del oeste",
+  "region": "The Sea",
+  "entries": [
+   "assios-and-the-wider-world",
+   "xathnatraz"
+  ]
+ },
+ {
+  "id": "rumor-164",
+  "text": "La [[Costa Equivocada|Wrong Coast]]. Las aguas en cuarentena del lejano sur son \"aguas de peste\", dice el [[Consejo|Council]]. Los marineros del sur cuentan historias de barcos grises sin nombre que navegan sin faroles, y del [[Zumbido|Hum]]: una nota por debajo de lo que se oye que se siente en el casco en las noches calmas. Nunca la tararees.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "All regions",
+  "entries": [
+   "wrong-coast",
+   "southern-quarantine"
+  ]
+ },
+ {
+  "id": "rumor-165",
+  "text": "Vieron al heredero de los [[Doraguja|Goldspire]] en una casa de empeño del camino del [[Pantano del Ocaso|Duskmire]], con una capa prestada.",
+  "heardAt": "el muchacho de un prestamista del [[Pantano del Ocaso|Duskmire]]",
+  "region": "Central Heartland",
+  "entries": [
+   "duskmire-haven"
+  ]
+ },
+ {
+  "id": "rumor-166",
+  "text": "Las lámparas de [[Ventoro|Goldwind]] arden más limpias desde que [[Bastión de Escarcha|Frosthold]] cambió su aceite. Los faroleros dicen que el humo huele apenas a monedas.",
+  "heardAt": "un farolero de [[Ventoro|Goldwind]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "frosthold"
+  ]
+ },
+ {
+  "id": "rumor-167",
+  "text": "Reinhardt Holst le invita un trago a cada pirata viejo de [[Cayo Hueco|Hollowkey]] y a cada uno le hace la misma pregunta: ¿qué colores hundieron al [[Serafín del Mar|Sea Seraph]]?",
+  "heardAt": "un tabernero de [[Cayo Hueco|Hollowkey]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "hollowkey",
+   "reinhardt-holst"
+  ]
+ },
+ {
+  "id": "rumor-168",
+  "text": "El barco de Damyel hizo de [[Puerto Sur|Southhaven]] a Mumit en cinco días, contra el viento. El [[Justiciero|Justicar]] más rápido de la [[Ira Esmeralda|Emerald Wrath]] necesita dos semanas.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "southhaven",
+   "nine-fleets"
+  ]
+ },
+ {
+  "id": "rumor-169",
+  "text": "El agua de tormenta del manantial de [[Confín de Tormentas|Stormreach]] sabe a mar donde antes sabía a roca.",
+  "heardAt": "se oye en la [[Frontera del Norte|Northern Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "stormreach"
+  ]
+ },
+ {
+  "id": "rumor-170",
+  "text": "Unos pescadores frente a [[Confín de Tormentas|Stormreach]] sacaron con la red una escotilla de latón del tamaño de una puerta, con un volante.",
+  "heardAt": "una pescadera de [[Confín de Tormentas|Stormreach]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "stormreach"
+  ]
+ },
+ {
+  "id": "rumor-171",
+  "text": "No navegues al oeste. Más allá del borde de las cartas está la maldita Xathnatraz, la isla donde se selló la oscuridad del viejo Eón. Los barcos que van a buscarla vuelven con menos gente, o no vuelven.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "The Sea",
+  "entries": [
+   "xathnatraz"
+  ]
+ },
+ {
+  "id": "rumor-172",
+  "text": "El [[Foso de las Fauces|Maw-Pit]] tiene este mes una pelea en la que no hay ningún condenado. Hay un niño.",
+  "heardAt": "se oye en las [[Tierras Salvajes del Sur|Southern Wilds]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "maw-pit"
+  ]
+ },
+ {
+  "id": "rumor-173",
+  "text": "Abyssara: lo que cae en la fosa del suroeste no vuelve; lo que vuelve, vuelve cambiado.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "The Sea",
+  "entries": [
+   "abyssara-the-black-below"
+  ]
+ },
+ {
+  "id": "rumor-174",
+  "text": "Alguien está comprando todo el tinte de púrpura de arrecife que pasa por el [[Surco de Perlas|Pearl Groove]]. El [[Consejo|Council]] no encuentra al comprador, y la casa Pelagar no quiere decirlo.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "The Sea",
+  "entries": [
+   "pearl-groove-and-the-pelagar-isle",
+   "dress-and-the-five-glance-read"
+  ]
+ },
+ {
+  "id": "rumor-175",
+  "text": "El encaje del centro. El [[Piso de la Aguja|Spire Floor]] tiene un decimotercer encaje de bandera en el centro que nunca ha tenido bandera, y la [[Compañía Casacarta|Charterhouse Company]] lo quiere con muchas ganas.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "All regions",
+  "entries": [
+   "charterhouse-company"
+  ]
+ },
+ {
+  "id": "rumor-176",
+  "text": "[[Theodora Belladona|Theodora Nightshade]]: ha entrado y salido de la [[Casa de los Tesoreros|Reckoners' Hall]] sin que la vean.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "reckoners-hall",
+   "theodora-nightshade"
+  ]
+ },
+ {
+  "id": "rumor-177",
+  "text": "La [[Casa de la Rosa|Rose House]] firma cada contrato dos veces: una con tinta, y otra con algo que no se seca.",
+  "heardAt": "un amanuense de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "house-alastor"
+  ]
+ },
+ {
+  "id": "rumor-178",
+  "text": "La Dama Xanthea Alastor y la Dama Lysandria Caelvaron bailan juntas en cada boda Veldane, y en ninguna otra.",
+  "heardAt": "un invitado a una boda de los Veldane",
+  "region": "All regions",
+  "entries": [
+   "house-alastor",
+   "house-caelvaron",
+   "house-veldane"
+  ]
+ },
+ {
+  "id": "rumor-179",
+  "text": "A Halsof Varselis le pidieron que ocupe la silla de los [[Cinco|the Five]], y ha dicho que no tres veces. La cuarta vez puede que diga que sí.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "All regions",
+  "entries": [
+   "house-varselis"
+  ]
+ },
+ {
+  "id": "rumor-180",
+  "text": "La [[Larga Noche|Long Night]] va a llegar temprano este año. Las casas de aceite de la [[Hermandad de la Salmuera|Brine Brotherhood]] ya están vendidas para los próximos dos inviernos.",
+  "heardAt": "se oye en la [[Extensión Helada|Icy Expanse]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "festivals-of-the-ice"
+  ]
+ },
+ {
+  "id": "rumor-181",
+  "text": "Cada año, la noche de las Fauces, alguien deja un cuchillo de hoja roja en el arrecife donde cayó [[Corazón Negro|Blackheart]].",
+  "heardAt": "un recuperador de las Fauces",
+  "region": "All regions",
+  "entries": [
+   "battle-of-the-krakens-maw"
+  ]
+ },
+ {
+  "id": "rumor-182",
+  "text": "Los niños de [[Ventoro|Goldwind]] dicen que la veleta de cobre del [[Salón del Consejo|Council Hall]] gira para mirar a Lactinius [[Llamavientos|Windcaller]] dondequiera que camine.",
+  "heardAt": "un patio de escuela de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "lactinius-windcaller"
+  ]
+ },
+ {
+  "id": "rumor-183",
+  "text": "Nadie ha visto nunca al [[Cisne de Hierro|Iron Swan]] cargar carbón.",
+  "heardAt": "todos los muelles de las islas",
+  "region": "All regions",
+  "entries": [
+   "titania-and-the-iron-swan"
+  ]
+ },
+ {
+  "id": "rumor-184",
+  "text": "Cora, \"la Pintada\": deja una rosa roja pintada en cada barco que saquea.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "painted-cora"
+  ]
+ },
+ {
+  "id": "rumor-185",
+  "text": "Cora, \"la Pintada\": puede hacerse parecer a cualquiera.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "painted-cora"
+  ]
+ },
+ {
+  "id": "rumor-186",
+  "text": "Cora, \"la Pintada\": busca el [[Pincel de la Creación|Brush of Creation]].",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "painted-cora"
+  ]
+ },
+ {
+  "id": "rumor-187",
+  "text": "Mara, \"la Roja\": tiene un mapa tatuado en la espalda con sangre de serpiente marina.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "red-mara"
+  ]
+ },
+ {
+  "id": "rumor-188",
+  "text": "Mara, \"la Roja\": su tripulación está atada a ella por un juramento del mar que no se puede romper.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "red-mara"
+  ]
+ },
+ {
+  "id": "rumor-189",
+  "text": "Mara, \"la Roja\": tiene una cala escondida donde se refugian esclavos fugados.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "red-mara"
+  ]
+ },
+ {
+  "id": "rumor-190",
+  "text": "Davin, \"[[Aleta de Plata|Silverfin]]\": su encanto convierte enemigos en amigos.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "silverfin-davin"
+  ]
+ },
+ {
+  "id": "rumor-191",
+  "text": "Davin, \"[[Aleta de Plata|Silverfin]]\": una vez saltó por la borda en pleno asalto para salvar a un niño que se ahogaba.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "silverfin-davin"
+  ]
+ },
+ {
+  "id": "rumor-192",
+  "text": "Davin, \"[[Aleta de Plata|Silverfin]]\": la maldición de una sirena lo mantiene en el mar.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "silverfin-davin"
+  ]
+ },
+ {
+  "id": "rumor-193",
+  "text": "Jorvik, \"[[Ojo de Tormenta|Storm-Eye]]\": predice las tormentas semanas antes de que lleguen.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "storm-eye-jorvik"
+  ]
+ },
+ {
+  "id": "rumor-194",
+  "text": "Jorvik, \"[[Ojo de Tormenta|Storm-Eye]]\": tiene un pacto con los espíritus del mar.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "storm-eye-jorvik"
+  ]
+ },
+ {
+  "id": "rumor-195",
+  "text": "Jorvik, \"[[Ojo de Tormenta|Storm-Eye]]\": el ojo que le falta ve la verdad en todo corazón.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "storm-eye-jorvik"
+  ]
+ },
+ {
+  "id": "rumor-196",
+  "text": "[[Arcturus Corazón de Hierro|Arcturus Ironheart]]: su barco está blindado en hierro y no se puede hundir.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "arcturus-ironheart"
+  ]
+ },
+ {
+  "id": "rumor-197",
+  "text": "[[Arcturus Corazón de Hierro|Arcturus Ironheart]]: sus cañones disparan con vapor.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "arcturus-ironheart"
+  ]
+ },
+ {
+  "id": "rumor-198",
+  "text": "[[Arcturus Corazón de Hierro|Arcturus Ironheart]]: sus hojas son más fuertes que cualquier otra cosa en el mar.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "arcturus-ironheart"
+  ]
+ },
+ {
+  "id": "rumor-199",
+  "text": "[[Azura Pico Negro|Azura Blackbeak]]: su canto atrae a los barcos hasta sus cañones.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "azura-blackbeak-the-siren-of-the-seas"
+  ]
+ },
+ {
+  "id": "rumor-200",
+  "text": "[[Azura Pico Negro|Azura Blackbeak]]: su tripulación es toda de mujeres y nunca ha perdido un abordaje.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "azura-blackbeak-the-siren-of-the-seas"
+  ]
+ },
+ {
+  "id": "rumor-201",
+  "text": "[[Bellamy el Audaz|Bellamy the Bold]]: se libró de la horca encantando al verdugo.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "bellamy-the-bold"
+  ]
+ },
+ {
+  "id": "rumor-202",
+  "text": "[[Bellamy el Audaz|Bellamy the Bold]]: tiene el mapa de una ciudad de oro y solo le falta la llave.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "bellamy-the-bold"
+  ]
+ },
+ {
+  "id": "rumor-203",
+  "text": "[[Bellamy el Audaz|Bellamy the Bold]]: su loro es un capitán rival, transformado.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "bellamy-the-bold"
+  ]
+ },
+ {
+  "id": "rumor-204",
+  "text": "El Capitán [[Tormenta Negra|Blackstorm]]: comanda a los muertos con palabras susurradas.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "captain-blackstorm"
+  ]
+ },
+ {
+  "id": "rumor-205",
+  "text": "El Capitán [[Tormenta Negra|Blackstorm]]: lleva el perdido Anillo de las Profundidades, que le da poder sobre las criaturas del mar.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "captain-blackstorm"
+  ]
+ },
+ {
+  "id": "rumor-206",
+  "text": "El [[Capitán Diente de Sable|Captain Sabletooth]]: sus cañones nunca fallan.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "captain-sabletooth"
+  ]
+ },
+ {
+  "id": "rumor-207",
+  "text": "El [[Capitán Diente de Sable|Captain Sabletooth]]: encontró la [[Forja Enana|Dwarven Forge]] perdida bajo el mar.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "captain-sabletooth"
+  ]
+ },
+ {
+  "id": "rumor-208",
+  "text": "El [[Capitán Diente de Sable|Captain Sabletooth]]: busca el [[Martillo de las Profundidades|Hammer of the Deep]].",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "captain-sabletooth"
+  ]
+ },
+ {
+  "id": "rumor-209",
+  "text": "El Capitán Umbrel: nunca se lo ve de día y solo ataca de noche.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "captain-umbrel"
+  ]
+ },
+ {
+  "id": "rumor-210",
+  "text": "El Capitán Umbrel: su barco aparece y desaparece como un espejismo.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "captain-umbrel"
+  ]
+ },
+ {
+  "id": "rumor-211",
+  "text": "El Capitán Umbrel: le robó una capa invisible a la [[Madeja|Skein]].",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "captain-umbrel",
+   "undertow"
+  ]
+ },
+ {
+  "id": "rumor-212",
+  "text": "[[Corvath Trae Tormentas|Corvath Stormbringer]]: no puede morir.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "corvath-stormbringer"
+  ]
+ },
+ {
+  "id": "rumor-213",
+  "text": "[[Corvath Trae Tormentas|Corvath Stormbringer]]: su tripulación son fantasmas a los que el acero atraviesa.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "corvath-stormbringer"
+  ]
+ },
+ {
+  "id": "rumor-214",
+  "text": "[[Corvath Trae Tormentas|Corvath Stormbringer]]: lanza rayos con sus propias manos.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "corvath-stormbringer"
+  ]
+ },
+ {
+  "id": "rumor-215",
+  "text": "Los reclutadores de la [[Legión Carmesí|Crimson Legion]] pagan con monedas limadas, para que no se vea de quién era la cara.",
+  "heardAt": "un desertor en [[Puerto Sur|Southhaven]]",
+  "region": "All regions",
+  "entries": [
+   "crimson-legion"
+  ]
+ },
+ {
+  "id": "rumor-216",
+  "text": "Un desertor de la [[Legión|Legion]] jura que la [[Madre Escarlata|Scarlet Mother]] sangra como cualquiera, y que cojea en las mañanas frías.",
+  "heardAt": "el mismo desertor, más tarde",
+  "region": "All regions",
+  "entries": [
+   "crimson-legion"
+  ]
+ },
+ {
+  "id": "rumor-217",
+  "text": "[[Grogar el Implacable|Grogar the Relentless]]: sobrevivió a un duelo con un kraken y lleva su ojo como trofeo.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "grogar-the-relentless"
+  ]
+ },
+ {
+  "id": "rumor-218",
+  "text": "[[Grogar el Implacable|Grogar the Relentless]]: sus gritos de guerra se oyen por encima de las peores tormentas.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "grogar-the-relentless"
+  ]
+ },
+ {
+  "id": "rumor-219",
+  "text": "[[Grogar el Implacable|Grogar the Relentless]]: quiere unir a todos los piratas orcos bajo su estandarte.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "grogar-the-relentless"
+  ]
+ },
+ {
+  "id": "rumor-220",
+  "text": "[[Hrothgar Vena de Hielo|Hrothgar Icevein]]: su aliento congela a un hombre donde está parado.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "hrothgar-icevein"
+  ]
+ },
+ {
+  "id": "rumor-221",
+  "text": "Los [[Gemelos Hoja de Hielo|Iceblade Twins]]: congelan la sangre de un enemigo con una mirada.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "iceblade-twins"
+  ]
+ },
+ {
+  "id": "rumor-222",
+  "text": "Los [[Gemelos Hoja de Hielo|Iceblade Twins]]: su barco navega sobre un camino de hielo, hasta en agua tibia.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "iceblade-twins"
+  ]
+ },
+ {
+  "id": "rumor-223",
+  "text": "Los [[Gemelos Hoja de Hielo|Iceblade Twins]]: robaron la [[Corona del Invierno|Crown of Winter]].",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "iceblade-twins"
+  ]
+ },
+ {
+  "id": "rumor-224",
+  "text": "[[Kaida Fuego de Dragón|Kaida Dragonfire]]: sus escamas desvían el acero.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "kaida-dragonfire"
+  ]
+ },
+ {
+  "id": "rumor-225",
+  "text": "[[Kaida Fuego de Dragón|Kaida Dragonfire]]: escupe fuego.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "kaida-dragonfire"
+  ]
+ },
+ {
+  "id": "rumor-226",
+  "text": "[[Kaida Fuego de Dragón|Kaida Dragonfire]]: puede oler un barco más allá del horizonte.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "kaida-dragonfire"
+  ]
+ },
+ {
+  "id": "rumor-227",
+  "text": "[[Lirelai la Sirena|Lirelai the Siren]]: su voz puede calmar la tormenta más salvaje.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "lirelai-the-siren"
+  ]
+ },
+ {
+  "id": "rumor-228",
+  "text": "[[Lirelai la Sirena|Lirelai the Siren]]: un dragón marino la salvó de niña, y habla su lengua.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "lirelai-the-siren"
+  ]
+ },
+ {
+  "id": "rumor-229",
+  "text": "[[Lirelai la Sirena|Lirelai the Siren]]: tiene un espejo que muestra costas lejanas.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "lirelai-the-siren"
+  ]
+ },
+ {
+  "id": "rumor-230",
+  "text": "[[Morga Tambor de Tormenta|Morga Stormdrum]]: su tambor de chamana llama a las tormentas.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "morga-stormdrum"
+  ]
+ },
+ {
+  "id": "rumor-231",
+  "text": "[[Morga Tambor de Tormenta|Morga Stormdrum]]: les habla a las bestias del mar y le obedecen.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "morga-stormdrum"
+  ]
+ },
+ {
+  "id": "rumor-232",
+  "text": "[[Morga Tambor de Tormenta|Morga Stormdrum]]: sus ojos se vuelven del color de un mar de tormenta cuando se enoja.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "morga-stormdrum"
+  ]
+ },
+ {
+  "id": "rumor-233",
+  "text": "La [[Subasta Callada|Quiet Auction]]: una subasta flotante del mercado negro de reliquias y maravillas ahogadas, solo con invitación, nunca allanada ni una vez.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "All regions",
+  "entries": [
+   "quiet-auction"
+  ]
+ },
+ {
+  "id": "rumor-234",
+  "text": "[[Seren Corazón Negro|Seren Blackheart]]: el fantasma de su padre la guía en la batalla.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "seren-blackheart-the-last-smile"
+  ]
+ },
+ {
+  "id": "rumor-235",
+  "text": "[[Seren Corazón Negro|Seren Blackheart]]: sabe dónde está la [[Guarida del Kraken|Kraken's Lair]].",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "seren-blackheart-the-last-smile"
+  ]
+ },
+ {
+  "id": "rumor-236",
+  "text": "[[Seren Corazón Negro|Seren Blackheart]]: un pacto con una bruja del mar le da una destreza que no es natural.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "seren-blackheart-the-last-smile"
+  ]
+ },
+ {
+  "id": "rumor-237",
+  "text": "[[Siroc el Veloz|Siroc the Swift]]: puede correr más que el viento y desaparecer en el aire.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "siroc-the-swift"
+  ]
+ },
+ {
+  "id": "rumor-238",
+  "text": "[[Siroc el Veloz|Siroc the Swift]]: lleva un antiguo artefacto élfico que manda sobre los vientos.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "siroc-the-swift"
+  ]
+ },
+ {
+  "id": "rumor-239",
+  "text": "[[Theodora Belladona|Theodora Nightshade]]: tiene una colección de todos los venenos de las islas.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "theodora-nightshade"
+  ]
+ },
+ {
+  "id": "rumor-240",
+  "text": "[[Theodora Belladona|Theodora Nightshade]]: ninguna cerradura la ha detenido nunca.",
+  "heardAt": "los muelles, sobre los [[Más Buscados|Most Wanted]]",
+  "region": "All regions",
+  "entries": [
+   "theodora-nightshade"
+  ]
+ },
+ {
+  "id": "rumor-241",
+  "text": "Una [[Ola|Bit]] de cobre ennegrecida en la lengua de un muerto significa una sola cosa en la [[Resaca|Undertow]]: no preguntes.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "All regions",
+  "entries": [
+   "undertow"
+  ]
+ },
+ {
+  "id": "rumor-242",
+  "text": "La [[Resaca|Undertow]]: la red de contrabandistas que mueve lo que los puertos no mueven. Todo el mundo tiene un primo que conoce a alguien.",
+  "heardAt": "lo que dice todo el mundo",
+  "region": "All regions",
+  "entries": [
+   "undertow"
+  ]
+ },
+ {
+  "id": "rumor-faust-unacknowledged-son",
+  "text": "Algunos parientes de Johann Faust sospechan que puede tener un hijo nacido fuera del matrimonio. Ninguno se pone de acuerdo en quién podría ser la madre.",
+  "heardAt": "susurrado en la familia Faust",
+  "region": "Northern Frontier",
+  "entries": [
+   "johann-faust"
+  ]
+ },
+ {
+  "id": "rumor-hyacinth-reinhardt-midsummer",
+  "text": "“Vieron juntos a Hyacinth Alastor y a Reinhardt Holst en la [[Gala de Pleno Verano|Midsummer Gala]] del Señor Vanris. Una conversación casual, dicen. Claro. En los salones ya se preguntan si hay algo más entre la heredera de la [[Casa de la Rosa|Rose House]] y el Holst desheredado.” (susurrado detrás de un abanico de seda)",
+  "heardAt": "susurrado en los salones nobles después de la [[Gala de Pleno Verano|Midsummer Gala]] del Señor Vanris",
+  "region": "Central Heartland",
+  "entries": [
+   "hyacinth-alastor",
+   "reinhardt-holst",
+   "house-vanris",
+   "goldwind"
+  ]
+ },
+ {
+  "id": "rumor-giant-betta-heartland-pool",
+  "text": "“Su señoría dice que el segundo estanque es para otro color. El hombre que trajo los peces preguntó dónde harían sus apuestas los invitados.” (un sirviente de una casa del [[Corazón|Heartland]])",
+  "heardAt": "se oye entre los sirvientes de una casa del [[Corazón|Heartland]]",
+  "region": "Central Heartland",
+  "entries": [
+   "giant-betta",
+   "heartland",
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-vellune-radan-hat",
+  "text": "Ahora tiene el sueldo de un año y todavía entra solo para preguntarle qué opina de su sombrero.",
+  "heardAt": "una clienta de Vellune, sobre [[Radan Solmar|Radan Sunmere]]",
+  "region": "Central Heartland",
+  "entries": [
+   "vellune-finery-enchantments",
+   "lysandra-vellune",
+   "radan-sunmere"
+  ]
+ },
+ {
+  "id": "rumor-stormchanter-alliance",
+  "text": "Por primera vez en setenta años, los [[Cantatormentas|Stormchanters]] hablan de unirse a las otras tribus orcas en una guerra.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "Central Heartland",
+  "entries": [
+   "storm-listeners",
+   "orc-tribes"
+  ]
+ },
+ {
+  "id": "rumor-stormchanter-thunderbird-egg",
+  "text": "Un huevo de pájaro del trueno descansa en lo más alto del santuario de los [[Cantatormentas|Stormchanters]]. Dicen que la tribu lo está vigilando.",
+  "heardAt": "se oye en el [[Corazón Central|Central Heartland]]",
+  "region": "Central Heartland",
+  "entries": [
+   "storm-listeners"
+  ]
+ },
+ {
+  "id": "rumor-anukali-karnivool",
+  "text": "Marineros del Karnivool juran que en la última [[Marea Rey|King Tide]] vieron una isla que las viejas canciones llaman Anukáli, con todo un pueblo encima, y un leviatán que los siguió hacia el norte, llamando como una ballena, hasta que se hundió. La [[Logia|Lodge]] dice que los marineros del Karnivool beben.",
+  "heardAt": "se oye en las tabernas de [[Ventoro|Goldwind]]",
+  "region": "The Sea",
+  "entries": [
+   "avalan-grant",
+   "king-tide"
+  ]
+ },
+ {
+  "id": "rumor-leoric-under-guard",
+  "text": "Leoric [[Espino|Thorne]] volvió a casa el año pasado en la bodega de un barco de Cazadores y no en su alcázar. Diez años desaparecido, y la [[Logia|Lodge]] no dice dónde lo encontró.",
+  "heardAt": "se oye en la [[Logia|Lodge]] de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "captain-magnus-and-leoric"
+  ]
+ },
+ {
+  "id": "rumor-slowwater-breath",
+  "text": "El [[Aguamansa|Slowwater]] sube y baja dos veces al día sin marea que lo mueva. La gente del pantano lo llama el [[Aliento|Breath]] y no dice de quién.",
+  "heardAt": "se oye en las [[Nueve Bocas|Nine Mouths]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "slowwater"
+  ]
+ },
+ {
+  "id": "rumor-slowwater-islands",
+  "text": "Los [[Nacidos del Lodazal|Bogborn]] cuentan sus islas cada amanecer. Una familia que cuenta una de más se ha ido para el mediodía, con nido y todo.",
+  "heardAt": "se oye en [[Puerto Sur|Southhaven]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "slowwater",
+   "bogborn"
+  ]
+ },
+ {
+  "id": "rumor-bogborn-slow-blood",
+  "text": "Las familias más viejas de los [[Nacidos del Lodazal|Bogborn]] pueden quedarse bajo el agua demasiado tiempo, y tienen la piel fría. Dicen que viene en la sangre, como la cola de un cambiante.",
+  "heardAt": "se oye entre los oruma",
+  "region": "Southern Wilds",
+  "entries": [
+   "bogborn"
+  ]
+ },
+ {
+  "id": "rumor-patches-borrowed-thread",
+  "text": "Alguien lleva la Escalera que nunca la nadó. Las tribus del río saben quién, y esperan a ver si vuelve.",
+  "heardAt": "se oye en la [[Escalera de Malim|Malim's Stair]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "patches",
+   "malims-stair"
+  ]
+ },
+ {
+  "id": "rumor-seven-watches-buyer",
+  "text": "Alguien está comprando las [[Siete Guardias|Seven Watches]], callado, a través de tres factores distintos. Ya tiene cuatro.",
+  "heardAt": "se oye en la [[Subasta Callada|Quiet Auction]]",
+  "region": "All regions",
+  "entries": [
+   "signed-works",
+   "quiet-auction"
+  ]
+ },
+ {
+  "id": "rumor-ledger-empty-line",
+  "text": "Hay una línea en el [[Libro de Hazañas|Ledger of Deeds]] de [[Ventoro|Goldwind]] con el nombre de una compañía y ninguna firma debajo. El [[Cronista|Chronicler]] no quiere tacharla.",
+  "heardAt": "se oye en la [[Logia|Lodge]] de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "hunter-companies",
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-ten-with-a-face",
+  "text": "Una carta del Ranking de la temporada 168 muestra a la [[Primera de los Diez|First of the Ten]] con cara. Existen tres copias, y los [[Entintadores|Inkers]] ya recompraron dos.",
+  "heardAt": "se oye entre los vendedores de cartas de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "ranking-cards",
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-pattern-book-first-page",
+  "text": "La entrada más vieja del [[Libro de Patrones|Pattern-Book]] de los [[Entintadores|Inkers]] tiene el número dos. Alguien registró un parche antes de que existiera el libro.",
+  "heardAt": "se oye en un taller del Círculo",
+  "region": "All regions",
+  "entries": [
+   "inkers-circle",
+   "patches"
+  ]
+ },
+ {
+  "id": "rumor-card-not-in-set",
+  "text": "Alguien sigue sacando una carta del Ranking que no está en la colección: borde sencillo, sin nombre, y los números cambian cada vez que la miras.",
+  "heardAt": "se oye en una partida de cara o cruz en el muelle",
+  "region": "All regions",
+  "entries": [
+   "ranking-cards"
+  ]
+ },
+ {
+  "id": "rumor-full-coat-hollowkey",
+  "text": "El abrigo completo, con los nueve parches difíciles, cuelga de una pared en [[Cayo Hueco|Hollowkey]]. El noveno parche no es el Negro.",
+  "heardAt": "se oye tarde en la [[Feria de los Artesanos|Artisans' Faire]]",
+  "region": "All regions",
+  "entries": [
+   "patchwork",
+   "hollowkey"
+  ]
+ },
+ {
+  "id": "rumor-still-days-press",
+  "text": "Una prensa del taller de [[Ventoro|Goldwind]] del Círculo de los [[Entintadores|Inkers]] funciona sola en los [[Días Quietos|Still Days]]. Cierran el cuarto con llave.",
+  "heardAt": "se lo oyó a un repartidor de papeles",
+  "region": "Central Heartland",
+  "entries": [
+   "inkers-circle"
+  ]
+ },
+ {
+  "id": "rumor-last-dog-walked",
+  "text": "[[Último Perro|Last Dog]], la séptima de las [[Siete Guardias|Seven Watches]], no está perdida. La habitaron la noche en que la terminaron, y se fue caminando.",
+  "heardAt": "se oye en Aurelion",
+  "region": "Northern Frontier",
+  "entries": [
+   "tenants",
+   "signed-works"
+  ]
+ },
+ {
+  "id": "rumor-letting-smith",
+  "text": "Queda vivo un herrero arrendador, y el [[Gremio de Herreros|Smiths' Guild]] paga para que no se sepa dónde.",
+  "heardAt": "se oye en la [[Subasta Callada|Quiet Auction]]",
+  "region": "All regions",
+  "entries": [
+   "tenants"
+  ]
+ },
+ {
+  "id": "rumor-ninefinger",
+  "text": "Nueve Dedos ha estado en cuatro ciudades este año. Busca a alguien en particular.",
+  "heardAt": "se oye entre los cerrajeros de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "tenants"
+  ]
+ },
+ {
+  "id": "rumor-blind-light",
+  "text": "La [[Luz Ciega|Blind Light]] no está apagada. Tres tripulaciones fueron a volver a encenderla, y las tres dicen que estaba ardiendo cuando desembarcaron y apagada a la mañana.",
+  "heardAt": "se oye en [[Puerto Gris|Greyhaven]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "lighthouses"
+  ]
+ },
+ {
+  "id": "rumor-lost-count",
+  "text": "Hay una cuenta de destellos en los viejos libros de pilotos que ya no muestra ninguna torre. Un patrón la vio el invierno pasado, muy mar adentro, donde no hay ninguna roca.",
+  "heardAt": "se oye en la [[Hermandad de la Salmuera|Brine Brotherhood]]",
+  "region": "The Sea",
+  "entries": [
+   "lighthouses"
+  ]
+ },
+ {
+  "id": "rumor-unsold-lens",
+  "text": "Los [[Hacedores de Faroles|Lanternwrights]] guardan una lente que no venden. Pregunta para qué sirve y el taller cierra temprano.",
+  "heardAt": "se oye en [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "lighthouses"
+  ]
+ },
+ {
+  "id": "rumor-guild-changeling",
+  "text": "Hay un cambiado en la junta de un gremio de [[Ventoro|Goldwind]]. Once años, y vota con sensatez, así que nadie ha buscado mucho.",
+  "heardAt": "se oye en la [[Casa de los Tesoreros|Reckoners' Hall]]",
+  "region": "Central Heartland",
+  "entries": [
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-winter-weather",
+  "text": "El Invierno tiene amigos en el hielo, y les paga con el tiempo.",
+  "heardAt": "se oye entre los balleneros de [[Bastión de Escarcha|Frosthold]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-autumn-debts",
+  "text": "El Otoño está comprando deudas mortales: comunes, de prestamistas comunes. Nadie sabe lo que significa deberle a una [[Corte|Court]] por accidente.",
+  "heardAt": "se oye en [[Bastión del Sol|Sunhold]]",
+  "region": "Central Heartland",
+  "entries": [
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-drow-1",
+  "text": "No roban la luz para usarla. La bajan y se la dan de comer a algo.",
+  "heardAt": "se lo oyó a un comerciante sporrn en [[Puerto Sur|Southhaven]]",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-drow-2",
+  "text": "Una drow se sentó una hora en el [[Nudo|Knot]] y compró sal como cualquiera. Pagó con una cuentita gris que estaba tibia. Nadie la tocó. Nadie se atrevió.",
+  "heardAt": "se lo oyó a un puestero trasgo",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-drow-3",
+  "text": "Los enanos saben lo que son los drow. Pregúntale a uno y míralo ponerse cortés.",
+  "heardAt": "se lo oyó a un minero de Darlath",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-drow-4",
+  "text": "Los caballeros del Verano los cazan. Vi a uno con armadura de placas dorada en la boca de una mina, preguntando por cuál pozo. No volvió a subir.",
+  "heardAt": "se lo oyó a un capataz de mina en Monumak",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-drow-5",
+  "text": "A mi hija la dejaron viva. Pasaron por encima de ella. Le sacaron la lámpara de la mano y la dejaron parada en la oscuridad.",
+  "heardAt": "se lo oyó a un farolero de los [[Caminos de Brasa|Ember Roads]]",
+  "region": "All regions",
+  "entries": [
+   "drow",
+   "below"
+  ]
+ },
+ {
+  "id": "rumor-articles-first-copy",
+  "text": "La primera copia de los [[Artículos|Articles]], en el [[Crisol|Crucible]], tiene una octava estrofa del [[Código|Code]] debajo de una tira de papel pegada. Nunca han dejado que nadie se le acerque con el pulgar mojado.",
+  "heardAt": "se oye en el [[Crisol|Crucible]], en [[Fuerte de Hierro|Ironfort]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-struck-twice",
+  "text": "Hay un [[Cazador|Hunter]] que fue tachado, readmitido y tachado otra vez. El [[Libro Mayor|Ledger]] muestra un nombre con dos líneas encima, y la Junta de [[Ventoro|Goldwind]] no dice de quién es.",
+  "heardAt": "se oye en la [[Logia|Lodge]] de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "hunters"
+  ]
+ },
+ {
+  "id": "rumor-orka-1",
+  "text": "Hay un salón bajo Golgarma donde los señores siguen sentados. Enmascarados. Nadie los enterró, porque nadie estaba seguro de que estuvieran muertos.",
+  "heardAt": "se lo oyó a un desertor de la [[Legión Carmesí|Crimson Legion]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "orka"
+  ]
+ },
+ {
+  "id": "rumor-orka-2",
+  "text": "Las máscaras bonitas son las malas. Las feas solo te matan.",
+  "heardAt": "se lo oyó a un cavador de la [[Novena Pala|Ninth Shovel]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "orka"
+  ]
+ },
+ {
+  "id": "rumor-orka-3",
+  "text": "Una reina orka ahogó su propio imperio para detenerlo. Las [[Tribus que Recuerdan|Remembering Tribes]] saben su nombre y no se lo dan a los de afuera.",
+  "heardAt": "se lo oyó a un guardacantos de [[Puerto Sur|Southhaven]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "orka"
+  ]
+ },
+ {
+  "id": "rumor-daemons-1",
+  "text": "Se sabe lo fuerte que es uno por sus cuernos. No digo hacia qué lado va la cosa.",
+  "heardAt": "se lo oyó a un archivero de la [[Universidad|University]]",
+  "region": "All regions",
+  "entries": [
+   "daemons"
+  ]
+ },
+ {
+  "id": "rumor-daemons-2",
+  "text": "Ninguno de ellos ha conseguido nunca lo que de verdad busca. Si uno lo consigue, todos nos vamos a enterar a la mañana siguiente.",
+  "heardAt": "se lo oyó a un inquisidor de la [[Concordia|Concord]]",
+  "region": "All regions",
+  "entries": [
+   "daemons"
+  ]
+ },
+ {
+  "id": "rumor-daemons-3",
+  "text": "Alguien lleva uno puesto en [[Ventoro|Goldwind]]. Uno fino. Nunca lo mirarías dos veces.",
+  "heardAt": "se lo oyó a un mozo de la [[Subasta Callada|Quiet Auction]]",
+  "region": "All regions",
+  "entries": [
+   "daemons"
+  ]
+ },
+ {
+  "id": "rumor-veil-1",
+  "text": "Se está adelgazando. Los [[Guardianes|Wardens]] renuevan los sellos cada Día Quieto, y cada año les lleva más tiempo.",
+  "heardAt": "se lo oyó a un farolero de una casa de guarda",
+  "region": "All regions",
+  "entries": [
+   "veil"
+  ]
+ },
+ {
+  "id": "rumor-veil-2",
+  "text": "Un [[Guardián|Warden]] de [[Puerto Plata|Silverport]] selló una puerta hace treinta años y no ha salido de la calle desde entonces. Dice que algo del otro lado ya sabe su nombre.",
+  "heardAt": "se lo oyó a un proveedor de barcos de [[Puerto Plata|Silverport]]",
+  "region": "All regions",
+  "entries": [
+   "veil"
+  ]
+ },
+ {
+  "id": "rumor-veil-3",
+  "text": "La Reina de la Primavera no usa zapatos por aquello de lo que está hecho el [[Velo|Veil]]. Es todo lo que el duendecillo quiso decir.",
+  "heardAt": "se lo oyó a una anciana floriana",
+  "region": "All regions",
+  "entries": [
+   "veil"
+  ]
+ },
+ {
+  "id": "rumor-thin-places-1",
+  "text": "Algunas noches hay un cuarto camino en una encrucijada sobre [[Bastión del Sol|Sunhold]]. Un carretero lo tomó por error y llegó a su casa antes de haber salido.",
+  "heardAt": "se lo oyó a un arriero del [[Corazón|Heartland]]",
+  "region": "All regions",
+  "entries": [
+   "thin-places"
+  ]
+ },
+ {
+  "id": "rumor-thin-places-2",
+  "text": "La campana de [[Verdequieto|Stillgreen]] sonó nueve veces el mes pasado. Nunca había sonado más de tres.",
+  "heardAt": "se lo oyó a un guardacantos del [[Anillo Tzolani|Tzolani Ring]]",
+  "region": "All regions",
+  "entries": [
+   "thin-places"
+  ]
+ },
+ {
+  "id": "rumor-thin-places-3",
+  "text": "Alguien ha estado sellando lugares delgados que no le hacían daño a nadie. No son los [[Guardianes|Wardens]]. Ellos quieren saber quién.",
+  "heardAt": "se lo oyó a un escribiente de una casa de guarda",
+  "region": "All regions",
+  "entries": [
+   "thin-places"
+  ]
+ },
+ {
+  "id": "rumor-still-days-1",
+  "text": "Un niño de puerta puede ver quién está cobrando. Mi hermana podía. Dejó de mirar por las ventanas.",
+  "heardAt": "se lo oyó a una remendadora de redes de [[Puerto Gris|Greyhaven]]",
+  "region": "All regions",
+  "entries": [
+   "still-days"
+  ]
+ },
+ {
+  "id": "rumor-still-days-2",
+  "text": "Una vez hubo un sexto Día Quieto. Un solo año. A todos los almanaques de ese año les falta la última página.",
+  "heardAt": "se lo oyó a un archivero de la [[Universidad|University]]",
+  "region": "All regions",
+  "entries": [
+   "still-days"
+  ]
+ },
+ {
+  "id": "rumor-still-days-3",
+  "text": "Un hombre de [[Bastión del Sol|Sunhold]] cerró un trato de caballos con un apretón de manos en el [[Recuento|Counting]]. Lleva diecinueve años entregando ese caballo.",
+  "heardAt": "se lo oyó a un arriero del [[Corazón|Heartland]]",
+  "region": "All regions",
+  "entries": [
+   "still-days"
+  ]
+ },
+ {
+  "id": "rumor-frost-elves-1",
+  "text": "El [[Hambre Pintada|Painted Hunger]] atacó la marca de Kaldmark llevando el sello de una casa de aceite de [[Bastión de Escarcha|Frosthold]]. La [[Hermandad|Brotherhood]] dice que es falso. Los Kaldmark dicen que no.",
+  "heardAt": "se lo oyó a un jinete de la marca",
+  "region": "Icy Expanse",
+  "entries": [
+   "frost-elves"
+  ]
+ },
+ {
+  "id": "rumor-frost-elves-2",
+  "text": "Hay un cazador viejo en uno de los salones hondos que nunca se ha pintado. Ya era viejo cuando sus abuelas eran niñas. A él le dan de comer primero.",
+  "heardAt": "se lo oyó a un guía elfo de la Escarcha, después de la tercera copa",
+  "region": "Icy Expanse",
+  "entries": [
+   "frost-elves"
+  ]
+ },
+ {
+  "id": "rumor-frost-elves-3",
+  "text": "Dejaron de saquear cerca de la [[Bóveda|Vault]] del todo. Dicen que el Hambre está soñando con algo nuevo.",
+  "heardAt": "se lo oyó a un ballenero de [[Bastión de Escarcha|Frosthold]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "frost-elves"
+  ]
+ },
+ {
+  "id": "rumor-frost-elves-4",
+  "text": "Los caballeros del Verano no quieren pelear con ellos. Con cualquier otro saqueador, encantados. Pregúntale a uno por qué y te cambia el tema a su espada.",
+  "heardAt": "se lo oyó a un kalashtar de [[Bastión del Sol|Sunhold]]",
+  "region": "Icy Expanse",
+  "entries": [
+   "frost-elves"
+  ]
+ },
+ {
+  "id": "rumor-ash-wardens-1",
+  "text": "Hay una página del libro del [[Conteo|Count]] del 133. El número que tiene es cero. Contuvo el aliento un día entero, y nadie quiere decir qué estaba pasando en la caldera.",
+  "heardAt": "se lo oyó a un soplador de vidrio de [[Caída Eterna|Everfall]]",
+  "region": "Central Heartland",
+  "entries": [
+   "ash-wardens",
+   "everfall"
+  ]
+ },
+ {
+  "id": "rumor-ash-wardens-2",
+  "text": "Las casas mineras tienen su propio conteo. Es más bajo. Para eso pagan.",
+  "heardAt": "se lo oyó a un capataz de turno de Darlath",
+  "region": "Central Heartland",
+  "entries": [
+   "ash-wardens",
+   "everfall"
+  ]
+ },
+ {
+  "id": "rumor-ash-wardens-3",
+  "text": "El carbón de la [[Primera Guardiana|First Warden]] lleva un año tibio. No ha tocado nada. Está esperando estar segura.",
+  "heardAt": "se lo oyó a una novicia, fuera de servicio",
+  "region": "Central Heartland",
+  "entries": [
+   "ash-wardens",
+   "everfall"
+  ]
+ },
+ {
+  "id": "rumor-long-war-1",
+  "text": "Hay un barco en el Registro que nadie ha visto en cuarenta años. Se lo cuenta cada año. Alguien firma por él.",
+  "heardAt": "se lo oyó a un [[Escribiente Gris|Grey Clerk]] en [[Marcapeaje|Tollmark]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "long-war",
+   "the-moot-of-banners"
+  ]
+ },
+ {
+  "id": "rumor-long-war-2",
+  "text": "Una vez al año les leen a los Almirantes el [[Llamado de la Carta|Charter Call]] detrás de una puerta cerrada, para que alguien recuerde las palabras. Un año un Almirante preguntó qué pasa si una casa dice que no. Nadie le respondió.",
+  "heardAt": "se lo oyó a un mayordomo de la Armada",
+  "region": "Northern Frontier",
+  "entries": [
+   "long-war",
+   "the-moot-of-banners"
+  ]
+ },
+ {
+  "id": "rumor-long-war-3",
+  "text": "Las campanas de Gael Dunlur suenan solas la noche antes de cada gran batalla. Mi compañía las oyó dos veces. Solo estuvimos en una batalla.",
+  "heardAt": "se lo oyó a un veterano de tres nudos",
+  "region": "Northern Frontier",
+  "entries": [
+   "long-war",
+   "the-moot-of-banners"
+  ]
+ },
+ {
+  "id": "rumor-long-war-4",
+  "text": "La mitad de la Krysta que va al norte nunca llega a la [[Alianza|Alliance]]. Pregunta quién compra la otra mitad.",
+  "heardAt": "se lo oyó a un escribiente de la mesa de balanzas en [[Fuerte de Hierro|Ironfort]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "long-war",
+   "the-moot-of-banners"
+  ]
+ },
+ {
+  "id": "rumor-sacred-flame-1",
+  "text": "Hay una lámpara en el [[Libro de las Puertas|Book of Doors]] sin ningún lugar escrito al lado. Cada año pagan a un cuidador por ella. Nadie sabe adónde va el dinero.",
+  "heardAt": "se lo oyó a un copista de la [[Llama Blanca|White Flame]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "sacred-flame",
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-sacred-flame-2",
+  "text": "Los viejos [[Sellados|Seals]] no saben salir de un cuarto. Hay que llevarlos de la manga. Nadie en la orden piensa que eso sea gracioso.",
+  "heardAt": "se lo oyó a una vendedora de aceite de lámpara de Jakupur",
+  "region": "Southern Wilds",
+  "entries": [
+   "sacred-flame",
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-sacred-flame-3",
+  "text": "La lámpara de mi abuela se volvió transparente una vez. No apagada. Transparente, como el agua. A la mañana llegaron tres de ellos y nos dijeron que fuéramos a visitar a mi tía un mes.",
+  "heardAt": "se lo oyó a la nieta de una cuidadora",
+  "region": "Southern Wilds",
+  "entries": [
+   "sacred-flame",
+   "jakupur"
+  ]
+ },
+ {
+  "id": "rumor-changelings-1",
+  "text": "No puedes prestar la cara de un muerto. Pero si te mueres con la tuya prestada, se la quedan. Piensa a quién tienta eso.",
+  "heardAt": "se lo oyó a un árbitro de seto en los [[Días Quietos|Still Days]]",
+  "region": "Central Heartland",
+  "entries": [
+   "changelings",
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-changelings-2",
+  "text": "Los primeros cambiados no eran espías. Pregúntale a un duendecillo de la Primavera para qué eran y deja de reírse.",
+  "heardAt": "se lo oyó a un guardián de puertas de los Caelvaron",
+  "region": "Central Heartland",
+  "entries": [
+   "changelings",
+   "fae"
+  ]
+ },
+ {
+  "id": "rumor-the-warped-1",
+  "text": "La madriguera bajo el muelle este de [[Ventoro|Goldwind]] paga algo por una grieta en la pared del sótano cada Día Quieto. Lo hace desde antes del muelle. Nadie allá abajo recuerda qué se pidió prestado.",
+  "heardAt": "se lo oyó a un chatarrero de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "the-warped",
+   "goblinoids"
+  ]
+ },
+ {
+  "id": "rumor-the-warped-2",
+  "text": "¿Sabes cómo salieron los trasgos cuando cayó el [[Velo|Veil]]? Algunos salieron. Pregunta quién pagó la puerta.",
+  "heardAt": "se lo oyó a un sargento hobgoblin, borracho",
+  "region": "Central Heartland",
+  "entries": [
+   "the-warped",
+   "goblinoids"
+  ]
+ },
+ {
+  "id": "rumor-the-warped-3",
+  "text": "Hay un contador en [[Bajocampana|Underbell]] que le prestó una vela a un hechicero orka. Todavía la está esperando. Es lo más viejo que vive en el [[Feérico|Faewild]] y que no es un soberano.",
+  "heardAt": "se lo oyó a un feérico de los caminos, en la [[Errancia|Roam]]",
+  "region": "Central Heartland",
+  "entries": [
+   "the-warped",
+   "goblinoids"
+  ]
+ },
+ {
+  "id": "rumor-fifth-gate-song",
+  "text": "Hay una vieja canción feérica de caminar con un compás que nadie canta. Todos lo tararean. Pregunta cuál era la palabra y te dicen que nunca hubo una, y ponen cara de haber perdido las llaves.",
+  "heardAt": "se lo oyó a un violinista kalashtar en [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "unbound",
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-borders-too-narrow",
+  "text": "Las cuatro fronteras del [[Feérico|Faewild]] son más angostas que los caminos que llevan a ellas. Puedes caminar un día hacia el [[Deshielo|Thaw]] por un camino hecho para caminarse en tres. Alguien sacó el medio.",
+  "heardAt": "se lo oyó a un elfo Caelvaron, diez años después de volver a casa",
+  "region": "Central Heartland",
+  "entries": [
+   "faewild-politics",
+   "faewild"
+  ]
+ },
+ {
+  "id": "rumor-hask-1",
+  "text": "La vieja de la canasta no está muerta. Las [[Tías|Aunts]] saben en qué puerto está. A ella es a quien de verdad le responden.",
+  "heardAt": "se lo oyó a una lavandera en [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
+  "id": "rumor-hask-2",
+  "text": "Toda una partida de abordaje saltó la borda de un balandro perlero y ninguno volvió. La única a bordo era la hija del cocinero, de doce años, dormida sobre la escotilla con las manos en el regazo.",
+  "heardAt": "se lo oyó a un timonel de la Armada",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
+  "id": "rumor-hask-3",
+  "text": "Una vez le respondió a un hombre. Uno grande, un soldado. Nadie quiere decir en qué se había convertido ya ese hombre para que una abuela lo escondiera.",
+  "heardAt": "se lo oyó a una [[Tía Roja|Red Aunt]], que no hablaba con nadie en particular",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
+  "id": "rumor-hask-4",
+  "text": "¿La muerte por la que los dioses lo cazaron? Pregunta por quién la hizo. La ley nunca preguntó.",
+  "heardAt": "se lo oyó a un sacerdote de seto en los [[Días Quietos|Still Days]]",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
+  "id": "rumor-hask-5",
+  "text": "Vi la línea. Solo la línea, roja, bajando por la bodega de un extremo al otro, despacio. Tenía ocho años. Desde entonces nunca le he tenido miedo a la oscuridad. Sé lo que hay en ella, y no estaba ahí por mí.",
+  "heardAt": "se lo oyó a un carpintero de barcos de [[Confín de Tormentas|Stormreach]]",
+  "region": "Central Heartland",
+  "entries": [
+   "hask-the-red-hand"
+  ]
+ },
+ {
+  "id": "rumor-hall-1",
+  "text": "[[El Índice|The Index]] sigue archivando allá abajo, bajo la [[Casa de los Tesoreros|Reckoners' Hall]]. En un [[Monedía|Coinsday]] tranquilo se lo oye a través del piso de la sala de lectura.",
+  "heardAt": "se lo oyó a un contador del turno tardío",
+  "region": "Central Heartland",
+  "entries": [
+   "reckoners-hall"
+  ]
+ },
+ {
+  "id": "rumor-hall-2",
+  "text": "Una de las banderas piratas de la pared de la [[Sala de la Prueba|Proof Room]] es de un capitán al que vieron vivo el mes pasado.",
+  "heardAt": "se lo oyó a un estibador de [[Ventoro|Goldwind]]",
+  "region": "Central Heartland",
+  "entries": [
+   "reckoners-hall",
+   "most-wanted"
+  ]
+ },
+ {
+  "id": "rumor-hall-3",
+  "text": "[[El Segundo Tesorero|The Second Reckoner]] no acepta regalos. Acepta muestras.",
+  "heardAt": "se lo oyó a un panadero del anillo medio",
+  "region": "Central Heartland",
+  "entries": [
+   "ecler"
+  ]
+ },
+ {
+  "id": "rumor-hall-4",
+  "text": "Cada [[Monedía|Coinsday]] un [[Lobo del Libro Mayor|Ledger Wolf]] sube las escaleras de la Casa con una cartera, y baja sin ella.",
+  "heardAt": "se lo oyó a un mesero de la [[Taza Negra|Black Cup]]",
+  "region": "Central Heartland",
+  "entries": [
+   "ledger-wolves",
+   "reckoners-hall"
+  ]
+ },
+ {
+  "id": "rumor-khaz-1",
+  "text": "El capitán de La [[Última Palabra|Last Word]] lleva un brazo de obsidiana negra, y cuando abre la mano se le llena de luz violeta. No es Krysta, diga lo que diga el [[Registro|Registry]].",
+  "heardAt": "se oye en las escaleras de una [[Logia|Lodge]]",
+  "region": "Southern Wilds",
+  "entries": [
+   "khaz-aimar-maa-iq"
+  ]
+ },
+ {
+  "id": "rumor-khaz-2",
+  "text": "Khaz'Aimar te va a mentir en la cara sobre el viento y la marea. Pero consigue su palabra, y no podrías recomprarla con todos los Orsales de [[Ventoro|Goldwind]].",
+  "heardAt": "se lo oyó a un [[Maestro de Contratos|Contract-Master]]",
+  "region": "Central Heartland",
+  "entries": [
+   "khaz-aimar-maa-iq"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-1",
+  "text": "La [[Cúpula|Dome]] de [[Duermevela|Halfwake]] fue una vez un salón del trono. Pregúntate de quién.",
+  "heardAt": "se lo oyó a un escribiente feérico de los caminos",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics",
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-2",
+  "text": "Nunca ha dicho un nombre verdadero. Ni una vez. Creo que es porque solo necesita hacerlo una vez.",
+  "heardAt": "se lo oyó a un [[Guardián del Velo|Warden of the Veil]]",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics",
+   "unbound"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-3",
+  "text": "Uno de los cuatro le ha pedido que se lo devuelva. El beso. Él dijo que lo buscaría.",
+  "heardAt": "se lo oyó a un duendecillo, a cambio de un botón",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics",
+   "unbound"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-4",
+  "text": "[[Guardaescarcha|Rimeward]] y la [[Dama Zarza|Dame Bramble]] se escriben todas las semanas. Un chambelán del Invierno y una árbitra de la Primavera. Sobre el tiempo, dicen.",
+  "heardAt": "se lo oyó a un [[Escribiente de la Escarcha|Hoarfrost Clerk]]",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-5",
+  "text": "Los escribientes de la [[Oficina de Reclamos|Claims Office]] encontraron hace años el viejo título de la [[Errancia|Roam]]. Lo volvieron a guardar.",
+  "heardAt": "se lo oyó a un kalashtar de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics",
+   "the-roam"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-6",
+  "text": "Una de las cuatro perlas perdidas está en Golgarma. Entera. La [[Legión|Legion]] la usa de pisapapeles y se pregunta por qué en ese cuarto siempre es otoño.",
+  "heardAt": "se lo oyó a un excavador, borracho",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-faewild-politics-7",
+  "text": "El viejo Rey del Invierno no desterró a esos berserkers por lo que hicieron. Los mandó a hacerlo, y después necesitó a quién culpar.",
+  "heardAt": "se lo oyó a un caballero del Verano, en voz baja",
+  "region": "All regions",
+  "entries": [
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-marshal-waiting",
+  "text": "La [[Mariscala de Duermevela|Marshal of Halfwake]] está esperando a alguien. Hay una segunda silla en su porche, y nunca le han pedido a nadie que se siente en ella.",
+  "heardAt": "se lo oyó a un kalashtar de [[Puerto Gris|Greyhaven]]",
+  "region": "All regions",
+  "entries": [
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-free-seat",
+  "text": "Hay un cliente al que la [[Mesa Larga|Long Table]] nunca le cobra. Dice que no tiene nada que contar, y la casa le cree.",
+  "heardAt": "se lo oyó a un feérico de los caminos en la [[Mesa Larga|Long Table]]",
+  "region": "All regions",
+  "entries": [
+   "halfwake",
+   "unbound"
+  ]
+ },
+ {
+  "id": "rumor-dropped-year",
+  "text": "Una vez la [[Pálida Emperatriz|Pale Empress]] casi deja caer el año. Es todo lo que dirá cualquier [[Escribiente de la Escarcha|Hoarfrost Clerk]], y después renuncia.",
+  "heardAt": "se lo oyó a un duendecillo, a cambio de dos botones",
+  "region": "All regions",
+  "entries": [
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-queens-goodbye",
+  "text": "Cuando el invierno se alarga, las [[Reinas|Queens]] se están despidiendo. Cuando la primavera llega temprano, la Primavera fue de visita.",
+  "heardAt": "se oye en las granjas de la [[Frontera|Frontier]]",
+  "region": "Northern Frontier",
+  "entries": [
+   "aoifel-the-green-laugh",
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-first-kiss",
+  "text": "El que no tiene [[Corte|Court]] fue el primer amor de los cuatro soberanos, y cuando se fue se llevó el primer beso. Ninguno puede recordar el suyo.",
+  "heardAt": "se lo oye a cualquier duendecillo, a cambio de un botón",
+  "region": "All regions",
+  "entries": [
+   "unbound",
+   "faewild-politics"
+  ]
+ },
+ {
+  "id": "rumor-weak-summer-court",
+  "text": "Desafíala. Ese es todo el secreto del Verano. Solo asegúrate de querer lo que pasa después de que ella gane.",
+  "heardAt": "se lo oyó a un duendecillo de fuego, a cambio de un precio",
+  "region": "All regions",
+  "entries": [
+   "pyraxis-the-unbowed-flame",
+   "summer-court"
+  ]
+ },
+ {
+  "id": "rumor-summer-court-1",
+  "text": "Hay una mortal que le ganó a [[Aurenn Cicatriz de Sol|Aurenn Sunscar]]. El Verano la ha estado buscando durante sesenta años, para decirle que peleó bien.",
+  "heardAt": "se lo oyó a un kalashtar de [[Bastión del Sol|Sunhold]]",
+  "region": "All regions",
+  "entries": [
+   "summer-court"
+  ]
+ },
+ {
+  "id": "rumor-weak-autumn-court",
+  "text": "Cántale \"Tráela a Casa\" y di tu precio antes de la última estrofa. Funcionó una vez. El cantor nunca más necesitó trabajar.",
+  "heardAt": "se lo oyó a un cantor de baladas de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "vael-mournthorn-the-crimson-reaper-king",
+   "autumn-court"
+  ]
+ },
+ {
+  "id": "rumor-autumn-court-1",
+  "text": "[[Rue Mantoceniza|Rue Ashmantle]] nunca le ha cobrado a un niño. El Otoño finge no haberse dado cuenta.",
+  "heardAt": "se lo oyó a un granjero de la frontera",
+  "region": "All regions",
+  "entries": [
+   "autumn-court"
+  ]
+ },
+ {
+  "id": "rumor-weak-winter-court",
+  "text": "Hubo un deshielo a mitad del invierno, en el año 150. Sin tormenta, sin viento. Alguien le dijo algo bonito a alguien.",
+  "heardAt": "se lo oyó a un ballenero de [[Bastión de Escarcha|Frosthold]]",
+  "region": "All regions",
+  "entries": [
+   "morthryn-the-pale-empress-of-air-and-ending",
+   "winter-court"
+  ]
+ },
+ {
+  "id": "rumor-winter-court-1",
+  "text": "[[Isolwen la Sin Deshielo|Isolwen the Unthawed]] habló el invierno pasado. Una palabra. Nadie en el [[Salón Pálido|Pale Hall]] la quiere repetir.",
+  "heardAt": "se lo oyó a un comerciante de [[Bastión de Escarcha|Frosthold]]",
+  "region": "All regions",
+  "entries": [
+   "winter-court"
+  ]
+ },
+ {
+  "id": "rumor-weak-spring-court",
+  "text": "Siete a la vez. Un malabarista, dos poetas, un cabrero, un caballero del Verano, un pocchin y la abuela de alguien. Pregúntale a cualquier duendecillo.",
+  "heardAt": "se lo oyó a un jardinero floriano",
+  "region": "All regions",
+  "entries": [
+   "aoifel-the-green-laugh",
+   "spring-court"
+  ]
+ },
+ {
+  "id": "rumor-spring-court-1",
+  "text": "Hay un juego en el [[Jardín que Ríe|Laughing Garden]] que empezó antes de la [[Guerra Orka|Orka War]]. Dos de los jugadores son mortales, y creen que todavía es la misma tarde.",
+  "heardAt": "se lo oyó a una anciana floriana",
+  "region": "All regions",
+  "entries": [
+   "spring-court"
+  ]
+ },
+ {
+  "id": "rumor-weak-unbound",
+  "text": "Si alguna vez necesitas que se quede, sirve. Si alguna vez necesitas que se vaya, molesta al gato. Yo no haría lo segundo.",
+  "heardAt": "se lo oyó a un [[Guardián del Velo|Warden of the Veil]]",
+  "region": "All regions",
+  "entries": [
+   "unbound"
+  ]
+ },
+ {
+  "id": "rumor-the-roam-9",
+  "text": "Hay un quinto país allá afuera sin ninguna estación. Los caminos que llevan a él no están en ningún mapa de reclamos, y los soñadores que lo encuentran vuelven sin color en los ojos.",
+  "heardAt": "se lo oyó a una lectora de sueños de [[Puerto Gris|Greyhaven]]",
+  "region": "All regions",
+  "entries": [
+   "the-roam"
+  ]
+ },
+ {
+  "id": "rumor-the-roam-10",
+  "text": "Una mujer entró a [[Duermevela|Halfwake]] despierta. En cuerpo. Sin ningún feérico con ella. Compró un caballo y se fue por la [[Puerta Roja|Red Gate]].",
+  "heardAt": "se lo oyó a un kalashtar de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "the-roam"
+  ]
+ },
+ {
+  "id": "rumor-the-roam-11",
+  "text": "La Línea Corvane ofreció una fortuna por usar el [[Muro de los Avisos|Posting Wall]]. La [[Mariscala|Marshal]] respondió con una palabra.",
+  "heardAt": "se lo oyó a un escribiente de [[Ventoro|Goldwind]]",
+  "region": "All regions",
+  "entries": [
+   "the-roam"
+  ]
+ },
+ {
+  "id": "rumor-halfwake-12",
+  "text": "El cuerpo de la [[Mariscala|Marshal]] está en una cama en [[Puerto Gris|Greyhaven]]. Sesenta años dormida, y la gente de Skaia la da vuelta cada mañana.",
+  "heardAt": "se lo oyó a la aprendiz de una lectora de sueños",
+  "region": "All regions",
+  "entries": [
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-halfwake-13",
+  "text": "Hay una quinta puerta, tapiada, sin ningún color. Algunas noches los ladrillos están en el suelo.",
+  "heardAt": "se lo oyó a un escribiente feérico de los caminos",
+  "region": "All regions",
+  "entries": [
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-halfwake-14",
+  "text": "Una vez alguien le vendió a la [[Mesa Larga|Long Table]] su propio nombre. Todavía sigue ahí. Lava las tazas.",
+  "heardAt": "se lo oyó a un kalashtar de Jakupur",
+  "region": "All regions",
+  "entries": [
+   "halfwake"
+  ]
+ },
+ {
+  "id": "rumor-dream-eaters-15",
+  "text": "Puedes recuperar tu sueño. Encuentra al que te lo comió y mátalo bajo la [[Cúpula|Dome]]. Nadie lo ha hecho, porque nadie sabe cómo se mata un color que falta.",
+  "heardAt": "se lo oyó a un kalashtar de [[Bastión del Sol|Sunhold]]",
+  "region": "All regions",
+  "entries": [
+   "dream-eaters"
+  ]
+ },
+ {
+  "id": "rumor-dream-eaters-16",
+  "text": "Alguien te puede dar el suyo. Una noche de sueño, entregada, y nunca más duerme en lugar tuyo.",
+  "heardAt": "se lo oyó a una lectora de sueños de [[Puerto Gris|Greyhaven]]",
+  "region": "All regions",
+  "entries": [
+   "dream-eaters"
+  ]
+ },
+ {
+  "id": "rumor-dream-eaters-17",
+  "text": "El que no tiene [[Corte|Court]] lo ha hecho gratis. Dos veces. Iba pasando.",
+  "heardAt": "se lo oyó a un feérico de los caminos",
+  "region": "All regions",
+  "entries": [
+   "dream-eaters"
+  ]
+ }
+]

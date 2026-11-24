@@ -1,0 +1,568 @@
+[
+ {
+  "term": "Aethyn",
+  "say": "AY-thin",
+  "meaning": "Los alados observadores de estrellas de [[Aguja Alta|Highspire]].",
+  "entry": "aethyn"
+ },
+ {
+  "term": "Aetzox",
+  "say": "AYT-zox",
+  "meaning": "Nombre kalvatari del cieloaleta.",
+  "entry": "skyfin"
+ },
+ {
+  "term": "Ancla",
+  "say": "Anchor · ANG-ker",
+  "meaning": "La moneda de oro, diez [[Mareas|Tides]]: el mes de un jornalero.",
+  "entry": "coinage"
+ },
+ {
+  "term": "Argentus",
+  "say": "ar-JEN-tus",
+  "meaning": "El mundo.",
+  "entry": "kalvatar"
+ },
+ {
+  "term": "Assios",
+  "say": "AH-see-os",
+  "meaning": "El gran continente del norte, en guerra desde hace mil años.",
+  "entry": "assios-and-the-wider-world"
+ },
+ {
+  "term": "Azarox",
+  "say": "AZ-ah-rox",
+  "meaning": "Nombre kalvatari del dientespada.",
+  "entry": "swordtooth"
+ },
+ {
+  "term": "Badron",
+  "say": "BAD-ron",
+  "meaning": "Reina de las Plumas.",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Ola",
+  "say": "Bit · BIT",
+  "meaning": "La moneda de cobre, con un agujero para ensartarla.",
+  "entry": "coinage"
+ },
+ {
+  "term": "Hoja Clara",
+  "say": "Brightleaf · BRITE-leef",
+  "meaning": "El té de las islas, prensado en ladrillos que en el mar valen como dinero.",
+  "entry": "brightleaf"
+ },
+ {
+  "term": "Bumako",
+  "say": "boo-MAH-koh",
+  "meaning": "Nombre kalvatari del lomobramo.",
+  "entry": "bellowback"
+ },
+ {
+  "term": "Ciel",
+  "say": "SEE-el",
+  "meaning": "La luna pequeña y lejana, que da su vuelta en 57 días.",
+  "entry": "calendar"
+ },
+ {
+  "term": "Cindren",
+  "say": "SIN-dren",
+  "meaning": "El pueblo forjador de [[Caída Eterna|Everfall]], tocado por las brasas.",
+  "entry": "cindren"
+ },
+ {
+  "term": "Monedía",
+  "say": "Coinsday · KOINZ-day",
+  "meaning": "Día de mercado, cuando se pagan las deudas y llegan las caravanas pocchin.",
+  "entry": "calendar"
+ },
+ {
+  "term": "El Ciclo",
+  "say": "The Cycle · SY-kul",
+  "meaning": "La semana de diez días, de [[Albasol|Sunsdawn]] a [[Reposadía|Restday]].",
+  "entry": "calendar"
+ },
+ {
+  "term": "El Rey Hondo",
+  "say": "The Deep King · DEEP king",
+  "meaning": "La alineación mayor, una vez por generación, cuando las costas se vuelven a dibujar. La próxima se calcula para el 180 EC.",
+  "entry": "king-tide"
+ },
+ {
+  "term": "EC",
+  "say": "ee-SEE",
+  "meaning": "La Era de la Carta, contada desde el Desembarco. El presente es el 175 EC.",
+  "entry": "calendar"
+ },
+ {
+  "term": "Caída Eterna",
+  "say": "Everfall · EV-er-fall",
+  "meaning": "La isla volcánica de la Casa [[Corascua|Emberheart]] y de los cindren.",
+  "entry": "everfall"
+ },
+ {
+  "term": "Florianos",
+  "say": "Florians · FLOR-ee-anz",
+  "meaning": "El pueblo flor que vive un solo día.",
+  "entry": "florians"
+ },
+ {
+  "term": "Galven",
+  "say": "GAL-ven",
+  "meaning": "Los marineros de piel azul y sangre de tormenta.",
+  "entry": "galven"
+ },
+ {
+  "term": "Ventoro",
+  "say": "Goldwind · GOLD-wind",
+  "meaning": "La capital, en un golfo de viento constante.",
+  "entry": "goldwind"
+ },
+ {
+  "term": "Golgarma",
+  "say": "gol-GAR-mah",
+  "meaning": "Las ruinas orkas del sur.",
+  "entry": "golgarma"
+ },
+ {
+  "term": "Gormak",
+  "say": "GOR-mak",
+  "meaning": "Nombre kalvatari del cuernopeña.",
+  "entry": "craghorn"
+ },
+ {
+  "term": "Grommoth",
+  "say": "GROM-moth",
+  "meaning": "La gran bestia peluda que carga una casa pocchin.",
+  "entry": "grommoth"
+ },
+ {
+  "term": "Aguja Alta",
+  "say": "Highspire · HY-spire",
+  "meaning": "La ciudad de torres de la Casa [[Cunaestrella|Starborn]] y de los aethyn.",
+  "entry": "highspire"
+ },
+ {
+  "term": "Algamiel",
+  "say": "Honeywrack · HUN-ee-rak",
+  "meaning": "El alga dulce como el azúcar con la que se hace el kellum.",
+  "entry": "kellum"
+ },
+ {
+  "term": "Ilmaroth",
+  "say": "IL-mah-roth",
+  "meaning": "Élfico antiguo: donde se enterró la luz. La oscuridad más honda.",
+  "entry": "below"
+ },
+ {
+  "term": "El hierro",
+  "say": "The iron · EYE-urn",
+  "meaning": "No es un rango: la moneda que un candidato necesita para presentarse a las [[Pruebas|Trials]] de los [[Cazadores|Hunters]].",
+  "entry": "hunters"
+ },
+ {
+  "term": "Fuerte de Hierro",
+  "say": "Ironfort · EYE-urn-fort",
+  "meaning": "La puerta del norte, donde se firmó la Carta.",
+  "entry": "ironfort"
+ },
+ {
+  "term": "Ithrennai",
+  "say": "ith-REN-eye",
+  "meaning": "Como se llaman a sí mismos los drow: los que se quedaron.",
+  "entry": "elves"
+ },
+ {
+  "term": "Jakupur",
+  "say": "JAH-koo-poor",
+  "meaning": "La ciudad estado sauriana del sur.",
+  "entry": "jakupur"
+ },
+ {
+  "term": "KakanKal",
+  "say": "KAH-kan-kahl",
+  "meaning": "Emperador de las Llamas.",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Kalvatar",
+  "say": "KAL-vah-tar",
+  "meaning": "El archipiélago: más de 5,800 islas desde la [[Frontera|Frontier]] hasta el hielo.",
+  "entry": "kalvatar"
+ },
+ {
+  "term": "KAN",
+  "say": "KAN (or kay-ay-EN)",
+  "meaning": "La Armada de Kalvatar, con nueve flotas.",
+  "entry": "armada"
+ },
+ {
+  "term": "Karn Sorroch",
+  "say": "KARN SOR-rokh",
+  "meaning": "Una oscura tierra de selva con minas de Krysta.",
+  "entry": "karn-sorroch"
+ },
+ {
+  "term": "Kayuntu",
+  "say": "kah-YOON-too",
+  "meaning": "El Monarca Violento de los [[Cinco Cielos|Five Skies]].",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Kellum",
+  "say": "KEL-lum",
+  "meaning": "El licor que se destila del alga algamiel en todos los puertos.",
+  "entry": "kellum"
+ },
+ {
+  "term": "Kharzûm",
+  "say": "khar-ZOOM",
+  "meaning": "Enano: la deuda de abajo. Las galerías selladas bajo los fortines enanos.",
+  "entry": "below"
+ },
+ {
+  "term": "Khaurun",
+  "say": "KHOW-roon",
+  "meaning": "El Cuádruple, dios de los vorthani.",
+  "entry": "vorthani"
+ },
+ {
+  "term": "La Marea Rey",
+  "say": "The King Tide · KING tide",
+  "meaning": "Más o menos cada tres años, tres días y tres noches del mar más alto y más bajo. La próxima toca en el 177 EC.",
+  "entry": "king-tide"
+ },
+ {
+  "term": "korvan",
+  "say": "KOR-van",
+  "meaning": "La moneda imperial de oro de Assios.",
+  "entry": "coinage"
+ },
+ {
+  "term": "Korzak",
+  "say": "KOR-zak",
+  "meaning": "Nombre kalvatari del lomoespina.",
+  "entry": "thornback"
+ },
+ {
+  "term": "Krysta",
+  "say": "KRIS-tah",
+  "meaning": "El cristal raro que fortalece y guarda la magia.",
+  "entry": "krysta"
+ },
+ {
+  "term": "Lactinius",
+  "say": "lak-TIN-ee-us",
+  "meaning": "El único [[Cazador|Hunter]] de Platino que se conoce públicamente.",
+  "entry": "hunters"
+ },
+ {
+  "term": "Lapalumbre",
+  "say": "Lampet · LAM-pet",
+  "meaning": "La luz más pequeña del puerto, un cachorro de foca compañero.",
+  "entry": "lampet"
+ },
+ {
+  "term": "Liriath",
+  "say": "LEER-ee-ath",
+  "meaning": "El pueblo planta de lo verde.",
+  "entry": "liriath"
+ },
+ {
+  "term": "Malim",
+  "say": "mah-LEEM",
+  "meaning": "La [[Inundación que Ríe|Laughing Flood]].",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Marrox",
+  "say": "MAR-rox",
+  "meaning": "Nombre kalvatari del zancafango.",
+  "entry": "murkstrider"
+ },
+ {
+  "term": "Mokun",
+  "say": "MOH-koon",
+  "meaning": "Nombre kalvatari del lomogreda.",
+  "entry": "loamback"
+ },
+ {
+  "term": "Momumba",
+  "say": "moh-MOOM-bah",
+  "meaning": "Señor de los Simios.",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Nadhûr",
+  "say": "nahd-HOOR",
+  "meaning": "Orka: lo que se tragó. Las ciudades de abajo, ahogadas.",
+  "entry": "below"
+ },
+ {
+  "term": "Ors",
+  "say": "ORS",
+  "meaning": "El sol, en el habla de todos los días. La gente se levanta con Ors y jura por Ors.",
+  "entry": "calendar"
+ },
+ {
+  "term": "Orsal",
+  "say": "OR-sal",
+  "meaning": "La pesada moneda cuadrada de oro de las bóvedas, diez [[Anclas|Anchors]]: el año de un jornalero.",
+  "entry": "coinage"
+ },
+ {
+  "term": "Pirrak",
+  "say": "PEER-rak",
+  "meaning": "Nombre kalvatari de la gallipluma.",
+  "entry": "quillhen"
+ },
+ {
+  "term": "Pocchin",
+  "say": "POH-chin",
+  "meaning": "El pueblo mercader y peludo de las caravanas.",
+  "entry": "pocchin"
+ },
+ {
+  "term": "Pokok",
+  "say": "POH-kok",
+  "meaning": "Nombre kalvatari del faucecloca.",
+  "entry": "cluckmaw"
+ },
+ {
+  "term": "Razku",
+  "say": "RAHZ-koo",
+  "meaning": "Nombre kalvatari del aletanavaja.",
+  "entry": "razorfin"
+ },
+ {
+  "term": "Shakarr",
+  "say": "shah-KAR",
+  "meaning": "La Sombra de la Muerte.",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Sello",
+  "say": "Sigil · SIJ-il",
+  "meaning": "La insignia de un [[Cazador|Hunter]], forjada en la [[Logia|Lodge]] de [[Ventoro|Goldwind]].",
+  "entry": "hunters"
+ },
+ {
+  "term": "Sissix",
+  "say": "SIS-iks",
+  "meaning": "Nombre kalvatari del crestaveloz.",
+  "entry": "swiftcrest"
+ },
+ {
+  "term": "Sporrn",
+  "say": "SPORN",
+  "meaning": "El callado pueblo hongo de la oscuridad de abajo.",
+  "entry": "sporrn"
+ },
+ {
+  "term": "Ssvayuk",
+  "say": "SSVAH-yook",
+  "meaning": "El [[Lodo que Respira|Mud That Breathes]].",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Sszuka",
+  "say": "SSOO-kah",
+  "meaning": "Nombre kalvatari del cienorrevolcón.",
+  "entry": "mirewallow"
+ },
+ {
+  "term": "Los Días Quietos",
+  "say": "The Still Days · STILL dayz",
+  "meaning": "Cinco días al final del año que no le pertenecen a ningún dios. Las deudas se detienen; los tratos feéricos se vencen.",
+  "entry": "calendar"
+ },
+ {
+  "term": "Mirasol",
+  "say": "Sunward · SUN-ward",
+  "meaning": "Un sacerdote del sol de la [[Concordia|Concord]]; el [[Mirasol|Sunward]] la encabeza.",
+  "entry": "concord"
+ },
+ {
+  "term": "Tarvan",
+  "say": "TAR-van",
+  "meaning": "Los clanes con cuernos de los páramos altos.",
+  "entry": "tarvan"
+ },
+ {
+  "term": "Thalgorath",
+  "say": "THAL-go-rath",
+  "meaning": "El Tirano de las Mareas.",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Marea",
+  "say": "Tide · TIDE",
+  "meaning": "La moneda de plata, diez [[Olas|Bits]], con las dos lunas sobre una ola.",
+  "entry": "coinage"
+ },
+ {
+  "term": "Llamamareas",
+  "say": "Tidecaller · TIDE-call-er",
+  "meaning": "Un sacerdote del mar de la [[Concordia|Concord]].",
+  "entry": "concord"
+ },
+ {
+  "term": "Tyrak'Zhul",
+  "say": "TEER-ak ZHOOL",
+  "meaning": "El Devorador del Mundo, padre tirano de todos los saurios.",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Tza'kun",
+  "say": "tsah-KOON",
+  "meaning": "Saurio anciano: el antiguo venerado, un título y no una raza.",
+  "entry": "saurians"
+ },
+ {
+  "term": "Tzharrok",
+  "say": "TSHAR-rok",
+  "meaning": "Nombre kalvatari de la mandíbula terrible.",
+  "entry": "dreadmaw"
+ },
+ {
+  "term": "Tzulak",
+  "say": "TSOO-lak",
+  "meaning": "Nombre kalvatari del colalátigo.",
+  "entry": "lashtail"
+ },
+ {
+  "term": "Ulgrenn",
+  "say": "UL-gren",
+  "meaning": "La Canción Hueca.",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Valtaire",
+  "say": "val-TAIR",
+  "meaning": "La gran luna cercana. Su vuelta de 36 días es el mes.",
+  "entry": "calendar"
+ },
+ {
+  "term": "Puerto Varan",
+  "say": "Varan Port · VAR-an port",
+  "meaning": "El mercado negro del extremo sur, al que los suyos llaman [[Buentiempo|Fairweather]].",
+  "entry": "varan-port"
+ },
+ {
+  "term": "Vollun",
+  "say": "VOL-lun",
+  "meaning": "Nombre kalvatari del garraplana.",
+  "entry": "glidetalon"
+ },
+ {
+  "term": "Vorthani",
+  "say": "vor-THAH-nee",
+  "meaning": "El pueblo de monjes con cuatro brazos y cuernos de la [[Sierra del Yunque|Anvil Reach]].",
+  "entry": "vorthani"
+ },
+ {
+  "term": "Vukharr",
+  "say": "voo-KHAR",
+  "meaning": "El [[Hambre Blanca|White Hunger]].",
+  "entry": "savage-lords"
+ },
+ {
+  "term": "Xathnatraz",
+  "say": "ZATH-nah-traz",
+  "meaning": "Una isla maldita a un mundo de distancia, en los cuentos de los marineros.",
+  "entry": "xathnatraz"
+ },
+ {
+  "term": "Xolca",
+  "say": "SHOL-kah",
+  "meaning": "Nombre kalvatari del pielsombra.",
+  "entry": "gloamhide"
+ },
+ {
+  "term": "Yaltox",
+  "say": "YAL-tox",
+  "meaning": "Nombre kalvatari del altisaurio.",
+  "entry": "altisaur"
+ },
+ {
+  "term": "Zal'Kareth",
+  "say": "zahl-KAR-eth",
+  "meaning": "Una tierra del sur más allá de la selva profunda.",
+  "entry": "zalkareth"
+ },
+ {
+  "term": "Keshix",
+  "say": "KEH-shiks",
+  "meaning": "Nombre kalvatari del crestadoble.",
+  "entry": "twincrest"
+ },
+ {
+  "term": "Saalix",
+  "say": "SAA-liks",
+  "meaning": "Nombre kalvatari del cantocresta.",
+  "entry": "songcrest"
+ },
+ {
+  "term": "Tammok",
+  "say": "TAM-mok",
+  "meaning": "Nombre kalvatari del lomoespolón.",
+  "entry": "packthumb"
+ },
+ {
+  "term": "Falda de Marea",
+  "say": "Tideskirt · TIDE-skirt",
+  "meaning": "Una falda cruzada y ligera de algodón de mar, cortada para el paseo del puerto, con el ruedo justo encima del tobillo para que no toque la piedra mojada.",
+  "entry": "lysandra-vellune",
+  "aside": true
+ },
+ {
+  "term": "Esmalte de Concha",
+  "say": "Shellgloss · SHELL-gloss",
+  "meaning": "Una laca molida de concha rosada, que las esmaltadoras de los salones de [[Ventoro|Goldwind]] ponen en las uñas.",
+  "entry": "lysandra-vellune",
+  "aside": true
+ },
+ {
+  "term": "Tharnek",
+  "say": "THAR-nek",
+  "meaning": "El nombre que los enanos mismos le dan al Recuento Eterno.",
+  "entry": "dwarves",
+  "aside": true
+ },
+ {
+  "term": "Haldvekh",
+  "say": "HALD-vekh",
+  "meaning": "La Caída de los Salones.",
+  "entry": "dwarves",
+  "aside": true
+ },
+ {
+  "term": "Fulkhald",
+  "say": "FULK-hald",
+  "meaning": "Hondabrasa, los salones enanos de [[Caída Eterna|Everfall]].",
+  "entry": "dwarves",
+  "aside": true
+ },
+ {
+  "term": "Khûnhaldar",
+  "say": "KHOON-hal-dar",
+  "meaning": "Los fortines hondos de la [[Extensión|Expanse]].",
+  "entry": "dwarves",
+  "aside": true
+ },
+ {
+  "term": "Ezhvarganthûr",
+  "say": "ezh-var-GAN-thoor",
+  "meaning": "El Viejo Hogarhondo.",
+  "entry": "dwarves",
+  "aside": true
+ },
+ {
+  "term": "tharngar",
+  "say": "THARN-gar",
+  "meaning": "Un guardián del recuento.",
+  "entry": "dwarves",
+  "aside": true
+ }
+]

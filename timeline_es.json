@@ -1,0 +1,66 @@
+[
+ {
+  "date": "Antes del 1 EC",
+  "title": "[[El Éxodo y el Desembarco|The Exodus and the Landing]]",
+  "text": "Hace unos 190 años, las casas antiimperiales de Assios huyeron hacia el sur: quince años de travesías desesperadas, protegidas por las compañías que se convirtieron en los [[Cazadores|Hunters]].",
+  "related": [
+   "exodus-and-the-landing"
+  ]
+ },
+ {
+  "date": "Hacia el 60 EC",
+  "title": "[[La Gran Rebelión de los Esclavos|The Great Slave Rebellion]]",
+  "text": "Hacia el 60 EC: los esclavizados de la joven federación se alzaron, y la esclavitud quedó abolida en las tierras del [[Consejo|Council]].",
+  "related": [
+   "great-slave-rebellion"
+  ]
+ },
+ {
+  "date": "Hacia el 90 EC",
+  "title": "[[La Peste del Mar Ardiente|The Plague of the Burning Sea]]",
+  "text": "Hacia el 90 EC: una gran pestilencia marítima que barrió el archipiélago y marcó a una generación.",
+  "related": [
+   "plague-of-the-burning-sea"
+  ]
+ },
+ {
+  "date": "91 EC",
+  "title": "[[El Rompeolas|The Breakwater]]",
+  "text": "91 EC: la única vez que la Armada y los [[Cazadores|Hunters]] pelearon en serio entre sí. Les dejó a las islas los Protocolos del [[Rompeolas|Breakwater]] y los Juegos de Guerra de cada año.",
+  "related": [
+   "breakwater"
+  ]
+ },
+ {
+  "date": "105 EC",
+  "title": "[[La Guerra del Ascendente|The Ascendant's War]]",
+  "text": "105 EC: el Archimago Eldric Morvane levantó un ejército de magos atados a la Krysta y casi se queda con el [[Corazón|Heartland]]. De ahí nació el [[Registro Arcano|Arcane Registry]].",
+  "related": [
+   "ascendants-war"
+  ]
+ },
+ {
+  "date": "148 EC",
+  "title": "[[La Cuarentena del Sur|The Southern Quarantine]]",
+  "text": "148 EC: una fiebre mató a la colonia de [[Buenaesperanza|Fairhope]] y a un escuadrón de exploración de la Carta en el extremo sur, y el [[Consejo|Council]] selló esas aguas.",
+  "related": [
+   "southern-quarantine"
+  ]
+ },
+ {
+  "date": "165 EC",
+  "title": "[[La Batalla de las Fauces del Kraken|The Battle of the Kraken's Maw]]",
+  "text": "165 EC, dieciséis horas: la Coalición de la Marina y los [[Cazadores|Hunters]] rompió la armada pirata de la Almirante [[Corazón Negro|Blackheart]].",
+  "related": [
+   "battle-of-the-krakens-maw"
+  ]
+ },
+ {
+  "date": "174 EC",
+  "title": "[[La última Marea Rey|The last King Tide]]",
+  "text": "174 EC: las Tres Noches llegaron y se fueron. Los marineros todavía discuten qué se vio ese año en el extremo sur.",
+  "related": [
+   "king-tide"
+  ]
+ }
+]

@@ -1,0 +1,334 @@
+{
+ "start_here": {
+  "title": "Empieza aquí",
+  "intro": "¿Primera vez en Kalvatar? Lee la primera página y después las diez que vienen detrás, en este orden.",
+  "steps": [
+   {
+    "entry": "kalvatar-in-ten-minutes",
+    "why": "Todo el mundo de juego en una página, antes de las diez que siguen."
+   },
+   {
+    "entry": "kalvatar",
+    "why": "Qué son las islas, y qué tan grande es el mar."
+   },
+   {
+    "entry": "travel",
+    "why": "Por qué todo tarda semanas, y las noticias tardan meses."
+   },
+   {
+    "entry": "calendar",
+    "why": "Los meses, el Ciclo y cómo se escribe una fecha."
+   },
+   {
+    "entry": "coinage",
+    "why": "[[Olas|Bits]], [[Mareas|Tides]], [[Anclas|Anchors]] y [[Orsales|Orsals]], y lo que se compra con ellas."
+   },
+   {
+    "entry": "council",
+    "why": "Quién gobierna la sexta parte cartografiada de las islas."
+   },
+   {
+    "entry": "hunters",
+    "why": "El gremio al que entran casi todos los aventureros, y cómo funciona el hierro."
+   },
+   {
+    "entry": "companions",
+    "why": "Por qué casi todo el mundo tiene a alguien pequeño."
+   },
+   {
+    "entry": "king-tide",
+    "why": "Las Tres Noches que temen todos los isleños."
+   },
+   {
+    "entry": "savage-lords",
+    "why": "La primera regla de lo salvaje."
+   },
+   {
+    "entry": "goldwind",
+    "why": "La capital, por donde pasan casi todas las historias."
+   }
+  ]
+ },
+ "make_a_character": {
+  "title": "Haz tu personaje",
+  "intro": "Elige un pueblo, después un trasfondo que le quede, y después lee de dónde vienes. Las reglas completas están en el Compañero del Jugador (reglas de 2024).",
+  "paths": [
+   {
+    "people": "aethyn",
+    "backgrounds": "[[Aprendiz de Cartógrafo|Chartwright's Apprentice]], [[Erudito del Registro|Registry Scholar]], [[Acólito Llamamareas|Tidecaller Acolyte]]",
+    "heritage_feat": "[[Jinete de Térmicas|Thermal Rider]]",
+    "why_you_travel": "eres un volador mensajero atado a una flota o a una casa, un explorador de tormentas, un lector de estrellas que persigue el error de una carta, o uno de los raros parientes del cielo que se ataron a una tripulación.",
+    "read_next": [
+     "aethyn",
+     "heartland",
+     "highspire",
+     "singing-cliffs",
+     "king-tide"
+    ]
+   },
+   {
+    "people": "cindren",
+    "backgrounds": "[[Oficial de Gremio|Guild Journeyman]], [[Nacido en una Guarnición de la Frontera|Frontier Garrison-Born]], [[Refugiado de la Guerra Larga|Refugee of the Long War]]",
+    "heritage_feat": "[[Corazón Encendido|Kindled Heart]]",
+    "why_you_travel": "eres un [[Guardián de Ceniza|Ash Warden]] enviado a vigilar algo, un vidriero con un encargo lejos de casa, o alguien que ya no soporta lo que la minería de Rankar les está haciendo a las profundidades bajo tu hogar.",
+    "read_next": [
+     "cindren",
+     "heartland",
+     "everfall",
+     "vorthani",
+     "glass-forest"
+    ]
+   },
+   {
+    "people": "coral-peoples",
+    "backgrounds": "[[Buzo de Perlas|Pearl Diver]], [[Acólito Llamamareas|Tidecaller Acolyte]], Factor",
+    "heritage_feat": "[[Enviado de la Corte|Court Envoy]]",
+    "why_you_travel": "eres un guardián de pactos enviado a vigilar un puerto, un factor de perlas de negocios, un piloto de mareas a sueldo, o un enviado que la corte preferiría no admitir que mandó.",
+    "read_next": [
+     "coral-peoples",
+     "coral-kingdoms",
+     "coral-kingdoms",
+     "sea-pacts",
+     "starfall-reef"
+    ]
+   },
+   {
+    "people": "dragonborn",
+    "backgrounds": "[[Refugiado de la Guerra Larga|Refugee of the Long War]], [[Nacido en una Guarnición de la Frontera|Frontier Garrison-Born]], [[Casaca Gris|Grey Coat]]",
+    "heritage_feat": "[[Escamas Juradas al Clan|Clan-Sworn Scales]]",
+    "why_you_travel": "huiste del [[Imperio|Imperium]], naciste en un clan que huyó, o viniste al sur a comerciar y nunca volviste.",
+    "read_next": [
+     "dragonborn",
+     "northern-frontier",
+     "northern-frontier",
+     "humans",
+     "kobolds"
+    ]
+   },
+   {
+    "people": "dwarves",
+    "backgrounds": "[[Oficial de Gremio|Guild Journeyman]], Factor, [[Aprendiz de Cartógrafo|Chartwright's Apprentice]]",
+    "heritage_feat": "[[La Vieja Cuenta|The Old Score]]",
+    "why_you_travel": "te mandó una deuda en la Cuenta Eterna, te aburrió un puesto de escribiente con los Tesoreros, o viste algo detrás de una galería tapiada de lo que nadie más quiere hablar.",
+    "read_next": [
+     "dwarves",
+     "below",
+     "krysta",
+     "mercantile-congress"
+    ]
+   },
+   {
+    "people": "elves",
+    "backgrounds": "[[Erudito del Registro|Registry Scholar]], [[Guardián de Arboleda|Grove Warden]], [[Guardacantos|Chant-Keeper]], [[Ballenero del Filo Frío|Cold-Edge Whaler]]",
+    "heritage_feat": "[[Memoria Larga|Long Memory]]",
+    "why_you_travel": "un Alto Elfo con una discusión que el [[Consejo|Council]] perdió hace un siglo; un Elfo del Bosque que sigue lo verde; un guardacantos del [[Bosque del Sol|Sunwood]] que lleva una disputa entre las dos leyes del sur; un [[Elfo de la Escarcha|Frost Elf]] que dejó de pintarse la calavera y se volvió [[Sin Pintar|Unpainted]].",
+    "read_next": [
+     "elves",
+     "faewild",
+     "southern-wilds",
+     "icy-expanse"
+    ]
+   },
+   {
+    "people": "galven",
+    "backgrounds": "[[Casaca Gris|Grey Coat]], [[Ballenero del Filo Frío|Cold-Edge Whaler]], [[Corredor de la Resaca|Undertow Runner]]",
+    "heritage_feat": "[[Agua Quieta|Still-Water]]",
+    "why_you_travel": "todo galven navega. Puedes ser un piloto de tormentas a sueldo, el aprendiz de una bruja del tiempo, o un hostigador en el barco más audaz que te aceptó.",
+    "read_next": [
+     "galven",
+     "coral-kingdoms",
+     "savage-lords",
+     "coral-kingdoms",
+     "travel"
+    ]
+   },
+   {
+    "people": "gnomes",
+    "backgrounds": "[[Oficial de Gremio|Guild Journeyman]], [[Erudito del Registro|Registry Scholar]], [[Aprendiz de Cartógrafo|Chartwright's Apprentice]]",
+    "heritage_feat": "[[La Chispa de Tik|Tik's Spark]]",
+    "why_you_travel": "abriste algo que no debías, alguien te robó tu diseño, o necesitas una pieza que solo existe en el fondo de un naufragio.",
+    "read_next": [
+     "gnomes",
+     "heartland",
+     "goldwind",
+     "university",
+     "krysta"
+    ]
+   },
+   {
+    "people": "goblinoids",
+    "backgrounds": "[[Corredor de la Resaca|Undertow Runner]], [[Estibador de la Costalarga|Longshore Hand]], [[Oficial de Gremio|Guild Journeyman]]",
+    "heritage_feat": "[[Subestimado|Underestimated]]",
+    "why_you_travel": "alguien te subestimó y se lo hiciste pagar; la madriguera necesita monedas; o encontraste un rescate demasiado bueno para vendérselo a nadie más que a ti.",
+    "read_next": [
+     "goblinoids",
+     "below",
+     "mercantile-congress",
+     "kobolds"
+    ]
+   },
+   {
+    "people": "goliaths",
+    "backgrounds": "[[Candidato al Hierro|Iron Candidate]], [[Ballenero del Filo Frío|Cold-Edge Whaler]], [[Nacido en una Guarnición de la Frontera|Frontier Garrison-Born]]",
+    "heritage_feat": "[[Cada Proeza Contada|Every Feat Counted]]",
+    "why_you_travel": "se te acabaron las montañas; perdiste una competencia y necesitas una hazaña más grande para recuperarla; o un primo vorthani te pidió que le llevaras algo.",
+    "read_next": [
+     "goliaths",
+     "southern-wilds",
+     "vorthani",
+     "anvil-reach",
+     "hospitality"
+    ]
+   },
+   {
+    "people": "half-elves",
+    "backgrounds": "Factor, [[Corredor de la Resaca|Undertow Runner]], [[Guardacantos|Chant-Keeper]]",
+    "heritage_feat": "[[Dos Mesas|Two Tables]]",
+    "why_you_travel": "arreglas tratos entre gente que preferiría no verse, o te cansaste de ser solo la mitad de algo.",
+    "read_next": [
+     "half-elves",
+     "elves",
+     "humans",
+     "mercantile-congress"
+    ]
+   },
+   {
+    "people": "halflings",
+    "backgrounds": "[[Refugiado de la Guerra Larga|Refugee of the Long War]], [[Estibador de la Costalarga|Longshore Hand]], [[Corredor de la Resaca|Undertow Runner]]",
+    "heritage_feat": "[[El Favor de Penny|Penny's Favor]]",
+    "why_you_travel": "un huésped se fue sin pagar y se llevó algo valioso; el río que pilotas está cambiando; la aventura pasó lo bastante cerca para oírla, y la seguiste.",
+    "read_next": [
+     "halflings",
+     "hospitality",
+     "button-badger",
+     "the-keeping"
+    ]
+   },
+   {
+    "people": "humans",
+    "backgrounds": "todos los trasfondos; la corriente de un humano sugiere por dónde empezar",
+    "heritage_feat": "[[Muchos Ríos|Many Rivers]]",
+    "why_you_travel": null,
+    "read_next": [
+     "humans",
+     "northern-frontier",
+     "southern-wilds",
+     "icy-expanse"
+    ]
+   },
+   {
+    "people": "kobolds",
+    "backgrounds": "[[Oficial de Gremio|Guild Journeyman]], [[Corredor de la Resaca|Undertow Runner]], [[Estibador de la Costalarga|Longshore Hand]]",
+    "heritage_feat": "[[Ingeniero de Madriguera|Warren Engineer]]",
+    "why_you_travel": "la madriguera te mandó a aprender algo; hay un dracónido que necesita que lo adopten, le guste o no; o la madriguera se derrumbó y tú eres lo que queda.",
+    "read_next": [
+     "kobolds",
+     "below",
+     "dragonborn",
+     "button-badger"
+    ]
+   },
+   {
+    "people": "liriath",
+    "backgrounds": "[[Guardián de Arboleda|Grove Warden]], [[Guardacantos|Chant-Keeper]], [[Refugiado de la Guerra Larga|Refugee of the Long War]]",
+    "heritage_feat": "[[Raíces Hondas|Deep Roots]]",
+    "why_you_travel": "para tratar, enseñar y negociar por las arboledas; para cazar a la tripulación que taló a tu familia; o porque el último anciano de una arboleda te mandó con un mensaje que solo tú puedes llevar.",
+    "read_next": [
+     "liriath",
+     "southern-wilds",
+     "cathedral-green",
+     "florians",
+     "southern-wilds"
+    ]
+   },
+   {
+    "people": "lizardfolk",
+    "backgrounds": "[[Cuidador de Saurianos|Saurian Handler]], [[Guardián de Arboleda|Grove Warden]], [[Buzo de Perlas|Pearl Diver]]",
+    "heritage_feat": "[[Fauces que Aprietan|Clamping Jaws]]",
+    "why_you_travel": "te mandó un trato; la tribu necesita algo que solo tienen las colonias; o las estás estudiando, y son fascinantes.",
+    "read_next": [
+     "lizardfolk",
+     "southern-wilds",
+     "southern-wilds",
+     "saurians",
+     "savage-lords"
+    ]
+   },
+   {
+    "people": "marked",
+    "backgrounds": "Factor, [[Corredor de la Resaca|Undertow Runner]], [[Erudito del Registro|Registry Scholar]]",
+    "heritage_feat": "[[El Nombre Elegido|The Chosen Name]]",
+    "why_you_travel": "debes una deuda de Marcado, o te deben una; una casa quiere un arreglador al que pueda desconocer; o tu luz o tus cuernos por fin eligieron por ti.",
+    "read_next": [
+     "marked",
+     "hospitality",
+     "mercantile-congress",
+     "concord"
+    ]
+   },
+   {
+    "people": "orcs",
+    "backgrounds": "[[Estibador de la Costalarga|Longshore Hand]], [[Candidato al Hierro|Iron Candidate]], [[Nacido en una Guarnición de la Frontera|Frontier Garrison-Born]]",
+    "heritage_feat": "[[El Relato|The Telling]]",
+    "why_you_travel": "el [[Relato|Telling]] te dio una advertencia que llevar; te ganaste un nombre de hazaña y quieres uno mejor; o alguien está desenterrando el viejo imperio y tu linaje recuerda por qué lo enterraron.",
+    "read_next": [
+     "orcs",
+     "southern-wilds",
+     "below",
+     "hunters"
+    ]
+   },
+   {
+    "people": "pocchin",
+    "backgrounds": "Factor, [[Corredor de la Resaca|Undertow Runner]], [[Oficial de Gremio|Guild Journeyman]]",
+    "heritage_feat": "[[Títulos Bramados|Bellowed Titles]]",
+    "why_you_travel": "la familia te mandó a abrir un comercio nuevo; estás juntando un Tesoro propio; o hay que arreglar un Trato que alguien rompió.",
+    "read_next": [
+     "pocchin",
+     "grommoth",
+     "roof-goats",
+     "counting-jackdaw"
+    ]
+   },
+   {
+    "people": "sporrn",
+    "backgrounds": "[[Guardián de Arboleda|Grove Warden]], [[Refugiado de la Guerra Larga|Refugee of the Long War]], [[Guardacantos|Chant-Keeper]]",
+    "heritage_feat": "[[Lazo de la Colonia|Colony-Link]]",
+    "why_you_travel": "para comerciar, para avisar, para huir de una colonia que empezó a cantar, o por una curiosidad lenta por los pueblos de piel blanda.",
+    "read_next": [
+     "sporrn",
+     "below",
+     "below",
+     "moss-sloth",
+     "liriath"
+    ]
+   },
+   {
+    "people": "tarvan",
+    "backgrounds": "[[Candidato al Hierro|Iron Candidate]], [[Nacido en una Guarnición de la Frontera|Frontier Garrison-Born]], [[Ballenero del Filo Frío|Cold-Edge Whaler]]",
+    "heritage_feat": "[[Formas de Armas del Clan|Clan Weapon-Forms]]",
+    "why_you_travel": "todo tarvan que se encuentra más allá de las tierras altas es un caminalejos, uno de los cuatro o cinco de cada generación que nacen con el tirón vuelto hacia afuera, o uno de los [[Crines de Sal|Saltmanes]] que navegan.",
+    "read_next": [
+     "tarvan",
+     "northern-frontier",
+     "moorhorn",
+     "northern-frontier",
+     "hospitality"
+    ]
+   },
+   {
+    "people": "vorthani",
+    "backgrounds": "[[Candidato al Hierro|Iron Candidate]], [[Guardián de Arboleda|Grove Warden]], [[Guardacantos|Chant-Keeper]]",
+    "heritage_feat": "[[Cuatrojurado|Foursworn]]",
+    "why_you_travel": "eres uno de los Descendidos, que recorren el mundo con permiso para poner a prueba sus votos; uno de los Inacabados, que rompieron un voto o se Encendieron y no pudieron pagar; o uno de los Sin Cumbre, nacidos en las tierras bajas sin ninguna montaña.",
+    "read_next": [
+     "vorthani",
+     "southern-wilds",
+     "anvil-reach",
+     "goliaths",
+     "cindren"
+    ]
+   }
+  ]
+ }
+}
