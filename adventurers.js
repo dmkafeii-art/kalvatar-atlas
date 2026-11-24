@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=26').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=27').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -148,7 +148,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('folk', '#adventurers/folk', t('Folk generator', 'Generador de PNJ'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('almanac', '#adventurers/almanac', t('Almanac', 'Almanaque'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('trade', '#adventurers/trade', t('Cargo and trade', 'Carga y comercio'))}${link('tavern', '#adventurers/tavern', t('Taverns', 'Tabernas'))}${link('encounters', '#adventurers/encounters', t('Encounters', 'Encuentros'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('coinsday', '#adventurers/coinsday', t('Coinsday Reading', 'Lectura de Monedía'))}${link('black', '#adventurers/black-market', t('Black market', 'Mercado negro'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('folk', '#adventurers/folk', t('Folk generator', 'Generador de PNJ'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('almanac', '#adventurers/almanac', t('Almanac', 'Almanaque'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('trade', '#adventurers/trade', t('Cargo and trade', 'Carga y comercio'))}${link('purse', '#adventurers/purse', t('Ship’s purse', 'Bolsa del barco'))}${link('tavern', '#adventurers/tavern', t('Taverns', 'Tabernas'))}${link('encounters', '#adventurers/encounters', t('Encounters', 'Encuentros'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('coinsday', '#adventurers/coinsday', t('Coinsday Reading', 'Lectura de Monedía'))}${link('black', '#adventurers/black-market', t('Black market', 'Mercado negro'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -1580,12 +1580,96 @@ window.Adventurers = (() => {
   bindCopy($('#tr-out'));
  }
 
+ /* The Ship's purse (the DM's word, 23 November): what a ship costs to keep at sea, and how a prize or a salvage is shared.
+    From the merchant's pay-book, the Free Tide's articles, and Volume XXI. Data: "trade", "purse". */
+ const pu = {hull: 'coaster', crew: 10, quality: 'able', pay: 'wages', mine: true, far: false, sea: 30, port: 4, aboard: 4, refit: 0, insure: false, voyage: 'coastal', king: false, prize: 100, letter: false, salvage: false};
+ function puCrew(P, n) {
+  const roles = [];
+  let left = n;
+  for(const o of P.officers) {if(n >= o[4] && left > o[5]) {roles.push({role: o, count: o[5]}); left -= o[5];}}
+  const able = Math.round(left * 14 / 50);
+  roles.push({role: ['able', 'Able seaman', 'Marinero diestro', P.able, 0, 0, 'hand'], count: able}, {role: ['hand', 'Hand', 'Marinero raso', P.hand, 0, 0, 'hand'], count: left - able});
+  return roles.filter(r => r.count > 0);
+ }
+ function puRun() {
+  const T = data.trade, P = T.purse, hull = P.hulls.find(x => x[0] === pu.hull), q = P.quality.find(x => x[0] === pu.quality);
+  const crew = Math.max(1, Math.round(+pu.crew || hull[4][2])), roles = puCrew(P, crew);
+  const wageOf = r => r.role[0] === 'captain' && pu.mine ? 0 : r.role[3] * (['able', 'hand', 'boy', 'cook', 'sailmaker'].includes(r.role[0]) ? q[3] : 1) * (pu.far ? P.far : 1);
+  const month = pu.pay === 'wages' ? roles.reduce((s, r) => s + wageOf(r) * r.count, 0) : 0;
+  const sea = Math.max(0, +pu.sea || 0), port = Math.max(0, +pu.port || 0), days = sea + port, aboard = crew + Math.max(0, +pu.aboard || 0);
+  const wages = Math.round(month * days / 36), rations = P.ration * aboard * days, dues = port * 2 * P.dues[hull[6] ? 1 : 0];
+  const refit = P.refit[pu.refit] ? Math.round(hull[3] / P.refit[pu.refit]) : 0;
+  const voyage = T.voyages.find(v => v[0] === pu.voyage), premium = pu.insure ? Math.round(hull[3] / voyage[3] * (pu.king ? 3 : 1)) : 0;
+  const total = wages + rations + dues + refit + premium;
+  // the prize, or the salvage
+  const value = Math.max(0, +pu.prize || 0) * 100;
+  let split = null;
+  if(pu.salvage) {const hall = Math.round(value / P.salvage[1]), finder = Math.round((value - hall) / P.salvage[0]); split = {hall, finder, owner: value - hall - finder};}
+  else {
+   const council = pu.letter ? Math.round(value / P.council) : 0, fund = Math.round((value - council) / P.fund), pool = value - council - fund;
+   const shares = roles.reduce((s, r) => s + r.count * (r.role[6] === 'captain' ? 2 : r.role[6] === 'officer' ? 1.5 : 1), 0);
+   split = {council, fund, pool, shares, one: pool / shares};
+  }
+  return {hull, q, crew, roles, wageOf, month, days, sea, port, aboard, wages, rations, dues, refit, premium, total, voyage, split, value};
+ }
+ function puSheet(o) {
+  const c = b => h(coin(Math.round(b) / 100));
+  const roleRows = o.roles.map(r => `${r.count} × ${h(L(r.role.slice(1, 3)))}${pu.pay === 'wages' ? ': ' + (o.wageOf(r) ? c(o.wageOf(r)) + ' ' + t('a month', 'al mes') : t('one of you, unpaid', 'uno de ustedes, sin sueldo')) : ''}`).join('<br>');
+  const sp = o.split;
+  const split = pu.salvage ? `${dd(t('The Reckoners’ tenth', 'El diezmo de los Tesoreros'), c(sp.hall))}${dd(t('The finder’s third', 'El tercio del que lo encuentra'), `<strong>${c(sp.finder)}</strong>`)}${dd(t('The owner or the insurer', 'El dueño o el asegurador'), c(sp.owner))}`
+   : `${sp.council ? dd(t('The Council’s quarter', 'El cuarto del Consejo'), c(sp.council)) : ''}${dd(t('The ship’s fund, one in ten', 'El fondo del barco, uno de cada diez'), c(sp.fund))}
+     ${dd(t('The shares', 'Las partes'), `${sp.shares} ${t('shares', 'partes')}: ${t('one share is', 'una parte vale')} <strong>${c(sp.one)}</strong>`)}
+     ${dd(t('Who takes what', 'Quién se lleva qué'), `${t('The captain, two shares', 'El capitán, dos partes')}: ${c(sp.one * 2)}<br>${t('An officer, one and a half', 'Un oficial, una y media')}: ${c(sp.one * 1.5)}<br>${t('A hand, one', 'Un marinero, una')}: ${c(sp.one)}`)}`;
+  return `<article class="adv-sheet" id="pu-sheet"><header><p class="adv-sheet-kicker">${isEs() ? 'Tripulación ' + h(L(o.q.slice(1, 3)).toLowerCase()) : h(L(o.q.slice(1, 3))) + ' crew'} (${o.q[4] >= 0 ? '+' : ''}${o.q[4]}) · ${pu.pay === 'wages' ? t('on wages', 'a sueldo') : t('on shares, by the articles', 'a partes, según los artículos')}</p>
+  <h3 class="adv-sheet-name">${h(L(o.hull.slice(1, 3)))}</h3><p class="adv-sheet-sub">${o.crew} ${t('hands', 'tripulantes')} · ${t('worth', 'vale')} ${c(o.hull[3])} · ${o.hull[5]} ${t('tons of cargo', 'toneladas de carga')}</p></header><dl>
+  ${dd(t('The crew', 'La tripulación'), roleRows)}
+  ${pu.pay === 'wages' ? dd(t('Wages, a month of 36 days', 'Sueldos, un mes de 36 días'), `<strong>${c(o.month)}</strong>` + (pu.far ? ` <span class="adv-meta">${t('a fifth more, for the south or the ice', 'un quinto más, por el sur o el hielo')}</span>` : '')) : dd(t('Wages', 'Sueldos'), t('none: they sail for shares, and the prize pays them', 'ninguno: navegan por partes, y les paga la presa'))}
+  ${dd(t('This voyage', 'Este viaje'), `${o.sea} ${t('days at sea', 'días en el mar')}, ${o.port} ${t('in port', 'en puerto')}, ${o.aboard} ${t('mouths aboard', 'bocas a bordo')}`)}
+  ${pu.pay === 'wages' ? dd(t('Wages for it', 'Sueldos del viaje'), c(o.wages)) : ''}${dd(t('Rations', 'Raciones'), `${c(o.rations)} <span class="adv-meta">${t('two Bits a head a day', 'dos Olas por cabeza al día')}</span>`)}
+  ${dd(t('Harbor dues', 'Derechos de puerto'), `${c(o.dues)} <span class="adv-meta">${o.hull[6] ? t('a great ship: 5 Tides a tide', 'un barco grande: 5 Mareas por marea') : t('a coaster: 5 Bits a tide', 'un costero: 5 Olas por marea')}, ${t('two tides to the day', 'dos mareas al día')}</span>`)}
+  ${o.refit ? dd(t('The yard', 'El astillero'), c(o.refit)) : ''}${o.premium ? dd(t('Hull insurance', 'Seguro del casco'), `${c(o.premium)} <span class="adv-meta">${h(L(o.voyage.slice(1, 3)))}</span>`) : ''}
+  ${dd(t('The purse', 'La bolsa'), `<strong>${c(o.total)}</strong>` + (o.days ? ` <span class="adv-meta">${c(o.total / o.days)} ${t('a day', 'al día')}</span>` : ''))}</dl>
+  <h3 class="adv-sheet-sub">${pu.salvage ? t(`A salvage worth ${c(o.value)}`, `Un rescate que vale ${c(o.value)}`) : t(`A prize worth ${c(o.value)}`, `Una presa que vale ${c(o.value)}`)}</h3><dl>${split}</dl></article>`;
+ }
+ function renderPurse() {
+  const T = data.trade, P = T.purse;
+  frame('purse', `<p class="adv-lead">${t('What it costs to keep a ship at sea, from the captain’s wage to the last ration, and how a prize or a salvage is shared out.', 'Lo que cuesta mantener un barco en el mar, del sueldo del capitán a la última ración, y cómo se reparte una presa o un rescate.')}</p>
+  <section class="adv-panel"><div class="adv-controls">
+  <label class="pack-label">${t('The ship', 'El barco')}${sel('pu-hull', P.hulls.map(x => [x[0], L(x.slice(1, 3))]), pu.hull)}</label>
+  <label class="pack-label">${t('Crew', 'Tripulación')}${num('pu-crew', pu.crew, 1, 1200)}</label>
+  <label class="pack-label">${t('Crew quality', 'Calidad de la tripulación')}${sel('pu-quality', P.quality.map(x => [x[0], L(x.slice(1, 3))]), pu.quality)}</label>
+  <label class="pack-label">${t('Paid by', 'Se paga')}${sel('pu-pay', [['wages', t('Wages', 'A sueldo')], ['shares', t('Shares (the articles)', 'Partes (los artículos)')]], pu.pay)}</label>
+  <label class="pack-label">${t('Days at sea', 'Días en el mar')}${num('pu-sea', pu.sea, 0, 3650)}</label>
+  <label class="pack-label">${t('Days in port', 'Días en puerto')}${num('pu-port', pu.port, 0, 3650)}</label>
+  <label class="pack-label">${t('Passengers, you included', 'Pasajeros, ustedes incluidos')}${num('pu-aboard', pu.aboard, 0, 500)}</label>
+  <label class="pack-label">${t('The yard', 'El astillero')}${sel('pu-refit', [[0, t('No repairs', 'Sin reparaciones')], [1, t('A light refit (a twentieth)', 'Una reparación ligera (un vigésimo)')], [2, t('After a hard storm (a tenth)', 'Después de una tormenta fuerte (un décimo)')]], pu.refit)}</label>
+  <label class="pack-label">${t('The voyage', 'El viaje')}${sel('pu-voyage', T.voyages.map(v => [v[0], L(v.slice(1, 3))]), pu.voyage)}</label>
+  <label class="pack-label">${t('A prize or salvage, in Anchors', 'Presa o rescate, en Anclas')}${num('pu-prize', pu.prize, 0, 1000000)}</label>
+  <label class="adv-check"><input type="checkbox" id="pu-mine" ${pu.mine ? 'checked' : ''}> ${t('The captain is one of you', 'El capitán es uno de ustedes')}</label>
+  <label class="adv-check"><input type="checkbox" id="pu-far" ${pu.far ? 'checked' : ''}> ${t('A long voyage south or to the ice', 'Un viaje largo al sur o al hielo')}</label>
+  <label class="adv-check"><input type="checkbox" id="pu-insure" ${pu.insure ? 'checked' : ''}> ${t('Insure the hull', 'Asegurar el casco')}</label>
+  <label class="adv-check"><input type="checkbox" id="pu-king" ${pu.king ? 'checked' : ''}> ${t('A King Tide year', 'Un año de Marea Rey')}</label>
+  <label class="adv-check"><input type="checkbox" id="pu-letter" ${pu.letter ? 'checked' : ''}> ${t('Under a Council letter: the Council takes a quarter', 'Con carta del Consejo: el Consejo se lleva un cuarto')}</label>
+  <label class="adv-check"><input type="checkbox" id="pu-salvage" ${pu.salvage ? 'checked' : ''}> ${t('It is salvage, not a prize', 'Es un rescate, no una presa')}</label></div>
+  <div class="pack-actions"><button type="button" class="button" id="pu-go">${t('Count the purse', 'Contar la bolsa')} <span aria-hidden="true">✦</span></button></div>
+  <div id="pu-out" aria-live="polite"><div class="adv-sheet-actions">${copyButton('pu-sheet')}</div>${puSheet(puRun())}</div>
+  <p class="adv-note">${t('Wages follow the merchant’s pay-book: a sixty-hand merchantman costs about 100 Anchors a month. Shares follow the Free Tide’s articles: a hand one, an officer one and a half, the captain two, and the ship’s fund one in ten before the split. Salvage: the Reckoners take their tenth, the finder a third of the rest.', 'Los sueldos siguen el libro de pagos del mercante: un mercante de sesenta tripulantes cuesta unas 100 Anclas al mes. Las partes siguen los artículos de la Marea Libre: un marinero una, un oficial una y media, el capitán dos, y el fondo del barco uno de cada diez antes del reparto. Rescate: los Tesoreros se llevan su diezmo, y quien lo encuentra un tercio del resto.')} <a href="#entry/work-at-sea">${t('Work at sea', 'El trabajo en el mar')}</a> · <a href="#adventurers/sea">${t('At sea', 'En altamar')}</a></p></section>`);
+  const read = () => {
+   ['hull', 'quality', 'pay', 'voyage'].forEach(k => {pu[k] = $('#pu-' + k).value;});
+   ['crew', 'sea', 'port', 'aboard', 'prize', 'refit'].forEach(k => {pu[k] = Math.max(0, Math.round(+$('#pu-' + k).value || 0));});
+   ['mine', 'far', 'insure', 'king', 'letter', 'salvage'].forEach(k => {pu[k] = $('#pu-' + k).checked;});
+  };
+  $('#pu-hull').addEventListener('input', e => {const hl = P.hulls.find(x => x[0] === e.target.value); $('#pu-crew').value = hl[4][2];});
+  $('#pu-go').addEventListener('click', () => {read(); $('#pu-out').innerHTML = `<div class="adv-sheet-actions">${copyButton('pu-sheet')}</div>${puSheet(puRun())}`;});
+  bindCopy($('#pu-out'));
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else if(parts[1] === 'coinsday') renderCoinsday(); else if(parts[1] === 'black-market') renderBlack(); else if(parts[1] === 'almanac') renderAlmanac(); else if(parts[1] === 'trade') renderTrade(); else if(parts[1] === 'folk') renderFolk(); else if(parts[1] === 'tavern') renderTavern(); else if(parts[1] === 'encounters') renderEncounters(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else if(parts[1] === 'coinsday') renderCoinsday(); else if(parts[1] === 'black-market') renderBlack(); else if(parts[1] === 'almanac') renderAlmanac(); else if(parts[1] === 'trade') renderTrade(); else if(parts[1] === 'purse') renderPurse(); else if(parts[1] === 'folk') renderFolk(); else if(parts[1] === 'tavern') renderTavern(); else if(parts[1] === 'encounters') renderEncounters(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;
