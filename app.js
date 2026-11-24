@@ -255,6 +255,11 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "drinkseed": ["scenes", "Drinkseed soaks in a fen kitchen.", "El drinkseed se remoja en una cocina del pantano.", "drinkseed", {"width": 1536, "height": 1024}],
+ "the-grandfather": ["scenes", "A living shoot catches the light on the Grandfather.", "Un brote del árbol ancestral recibe la luz.", "the-grandfather", {"width": 1536, "height": 864}],
+ "blue-folk": ["scenes", "Travelers draw water at a well in the dry isles.", "Unos viajeros sacan agua de un pozo en las islas secas.", "blue-folk", {"width": 1536, "height": 864}],
+ "driftborn": ["scenes", "Driftborn families lash their boats together at sunset.", "Las familias Driftborn amarran sus barcos entre sí al atardecer.", "driftborn", {"width": 1536, "height": 864}],
+ "mirehorn": ["scenes", "A mirehorn pulls a plough through a flooded field.", "Un mirehorn arrastra un arado por un campo inundado.", "mirehorn", {"width": 1536, "height": 864}],
  "giants-table": ["scenes", "Horned moorhorses circle the stone at sunrise.", "Caballos cornudos rodean la losa al amanecer.", "giants-table", {"width": 1536, "height": 768}],
  "inkers-circle": ["scenes", "A printer lifts a fresh sheet of Hunter Ranking cards.", "Un impresor levanta una hoja recién impresa de cartas de cazadores.", "inkers-circle", {"width": 1536, "height": 864}],
  "brassfield": ["scenes", "A cane worker counts brass tokens as the clerk reads the ledger.", "Un trabajador cuenta fichas de latón mientras el escribiente lee las deudas.", "brassfield", {"width": 1536, "height": 864}],
