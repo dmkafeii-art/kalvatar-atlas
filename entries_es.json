@@ -1068,27 +1068,94 @@
  },
  "liriath": {
   "subtitle": "La larga memoria de lo verde",
-  "summary": "Gente vegetal alta como árboles, cuyos cuerpos, ánimos y comunidades siguen el giro de las estaciones.",
+  "summary": "Gente planta alta como los árboles, cuyos cuerpos, ánimos y comunidades siguen el giro de las estaciones.",
   "epigraph": {
-   "quote": "He sido paciente durante trescientos años. Puedo ser paciente contigo.",
-   "by": "Un anciano liriath"
+   "quote": "He tenido paciencia durante trescientos años. Puedo tenerla contigo.",
+   "by": "Una anciana liriath"
   },
   "facts": [
    [
     "Naturaleza",
-    "Gente vegetal"
+    "Gente planta"
    ],
    [
     "Vida",
-    "Longeva"
+    "Muy larga"
    ],
    [
     "Parientes",
-    "Los [[Florianos|Florians]], las flores de un día"
+    "Los florianos, las flores de un día"
    ]
   ],
   "title": "Los Liriath",
-  "gloss": "The Liriath"
+  "gloss": "The Liriath",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Los liriath son árboles vivos y verdor que crece. La corteza, las raíces, el musgo, las enredaderas colgantes y las ramas forman sus cuerpos; las caras asoman de nudos, huecos y grietas. Su sangre es savia. Los ancianos parecidos a robles y las figuras parecidas a sauces muestran la variedad de sus parientes árbol."
+    ]
+   },
+   {
+    "title": "Las estaciones en la sangre",
+    "paragraphs": [
+     "El calor trae flor y vigor. El frío y la sequía los vuelven hacia adentro; un invierno hondo puede enraizar a un liriath en un letargo. La edad se cuenta en estaciones aguantadas, y los más viejos se alzan como monumentos vivos."
+    ]
+   },
+   {
+    "title": "Las arboledas de los antepasados",
+    "paragraphs": [
+     "Los liriath plantan a sus muertos. El último enraizamiento de una vida se vuelve un árbol entre los antepasados, de modo que una arboleda es a la vez familia, biblioteca y lugar de descanso. Las más viejas guardan miles de años de memoria."
+    ]
+   },
+   {
+    "title": "La herida del sur",
+    "paragraphs": [
+     "Talar una arboleda de antepasados destruye familia viva e historia. Algunos liriath negocian y enseñan; otros defienden su tierra con espinas, veneno y una ira paciente. Muchos apoyan el [[Pacto Verde|Verdant Pact]]."
+    ]
+   },
+   {
+    "title": "Fe y adorno",
+    "paragraphs": [
+     "El [[Fuego Verde|Green Fire]] y la [[Corte de la Primavera|Spring Court]] dan forma a sus ritos. El [[Despertar Verde|Green Waking]] celebra la renovación. El adorno se cultiva: corteza moldeada, musgo adiestrado y flores de la estación, con fajas de junco para cargar cosas. Las flores blancas marcan el luto; las rojas, el cortejo."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Sylsa, Fenroe, Ilyth, Ossare, Thal y Miren. Un nombre se puede conservar una estación o un siglo."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los liriath son vida verde que camina, avivada (dicen los guardacantos) por el Fuego Verde, con el desborde salvaje de la Corte de la Primavera en su savia. En esta época son la selva que los colonos están talando, y sienten la herida colonial en el cuerpo."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Los parientes flor viven más o menos un siglo; los parientes árbol pueden estar en pie muchos siglos, y los más viejos son medio árbol y se los cuenta como monumentos vivos.",
+     "Las estaciones: los liriath florecen en los meses cálidos y se vuelven hacia adentro en el frío. En un invierno lo bastante hondo entran en letargo, por eso casi no se los conoce en el hielo.",
+     "Temperamento: la paciencia de las cosas que crecen. Lentos para enojarse, lentos para confiar, e implacables una vez que cualquiera de las dos cosas echó raíz."
+    ]
+   },
+   {
+    "title": "Opcional: un floriano bendecido por la arboleda",
+    "paragraphs": [
+     "Los florianos son los diminutos primos de los liriath, hechos del todo de flor, que viven un solo día y no saben nada del tiempo. Son una maravilla del mundo, no un pueblo para jugar. Si un jugador y el DJ quieren uno de todos modos, la historia tiene que responder primero una pregunta: la bendición honda de una arboleda, o alguna magia, estiró la floración de este floriano.",
+     "Reglas: usa los rasgos liriath con los parientes flor. Un floriano es mucho más pequeño que la mayoría de las criaturas Pequeñas (como mucho a la altura de la rodilla), pero para las reglas es Pequeño.",
+     "El floriano no tiene sentido del pasado ni del futuro. Tiene Ventaja en las tiradas de salvación para evitar o terminar el estado Asustado.",
+     "El DJ decide cuánto dura la bendición, y qué haría falta para conservarla. Esa pregunta es el arco del personaje."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“A los árboles de la Catedral Verde les empezaron a crecer tumbas nuevas. Los liriath dicen que son sus propios muertos, pero ninguno de los suyos ha muerto en lo Verde en cuarenta años.” (se oye en las Tierras Salvajes del Sur)"
+    ]
+   }
+  ]
  },
  "florians": {
   "subtitle": "Toda una vida, del alba al anochecer",
@@ -5679,30 +5746,81 @@
  },
  "lizardfolk": {
   "subtitle": "Los pragmáticos de sangre fría",
-  "summary": "Gente paciente de pantano y de costa que toma los tratos al pie de la letra.",
+  "summary": "Gente paciente del pantano y de la orilla que toma los tratos al pie de la letra.",
   "epigraph": {
-   "quote": "Me volvieron a pintar al alba. Mira mejor, y habla con más cuidado.",
-   "by": "Un anciano hombre lagarto del Agua Lenta"
+   "quote": "Me volvieron a pintar al amanecer. Mira más de cerca, y habla con más cuidado.",
+   "by": "Una anciana hombre lagarto del Agua Lenta"
   },
   "facts": [
    [
     "Hogar",
-    "Pantano y costa"
+    "Pantano y orilla"
    ],
    [
-    "Patrón",
+    "Patrona",
     "Sszathra"
    ]
   ],
   "title": "Los Hombres Lagarto",
-  "gloss": "The Lizardfolk"
+  "gloss": "The Lizardfolk",
+  "sections": [
+   {
+    "title": "Un pueblo deliberado",
+    "paragraphs": [
+     "Los hombres lagarto desperdician poco, planean con mucha anticipación y estudian la costumbre de los de sangre caliente de hablar sin querer decir lo que dijeron. Las tribus de las ciénagas honran a Sszathra, la [[Madre de Sangre Fría|Cold-Blooded Mother]], junto a Ssvayuk, al que algunos llaman su mano viva."
+    ]
+   },
+   {
+    "title": "Ropa y posición",
+    "paragraphs": [
+     "Arneses, cinturones, caparazón, hueso y pintura de barro sirven de equipo, de ropa, de rango y de oración. Un cambio de pintura de un día para otro puede marcar un cambio importante de posición."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Sszara, Hessk, Yssith, Karssh y Ozzek; los nombres de tribu hablan del agua: Hessk del [[Agua Lenta|Slow Water]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los hombres lagarto son pacientes, literales y nada sentimentales. No desperdician nada, guardan un luto breve, planean a largo plazo, y la costumbre de los de sangre caliente de decir cosas que no quieren decir les parece una fuente infinita de estudio callado."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: unos setenta años.",
+     "Aspecto: con escamas y mandíbula larga, con pintura de barro puesta en dibujos que son ropa, rango y oración a la vez.",
+     "Tierra natal: los pantanos y las orillas de las [[Tierras Salvajes del Sur|Southern Wilds]]; las tribus de las ciénagas.",
+     "Temperamento: literales y leales a la letra. Un hombre lagarto que se volvió a pintar de un día para otro cambió de posición, y es sabio darse cuenta."
+    ]
+   },
+   {
+    "title": "Jugar con un hombre lagarto",
+    "paragraphs": [
+     "Por qué estás entre los de sangre caliente: te mandó un trato; la tribu necesita algo que solo tienen las colonias; o los estás estudiando, y son fascinantes.",
+     "Clases que encajan: druida, bárbaro, explorador, monje.",
+     "Trasfondos que encajan: Cuidador de Saurianos, [[Guardián|Warden]] de Arboleda, Buzo de Perlas.",
+     "Dote de linaje: Fauces que Aprietan.",
+     "Ganchos: un contrato cuyas palabras exactas piensas cumplir; lo que dijo el barro sobre alguien de tu grupo; la progenie del [[Señor Salvaje|Savage Lord]] moviéndose en la ciénaga."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una anciana hombre lagarto se volvió a pintar con un dibujo que nadie ha llevado en cien años.” (se oye en las grandes ciénagas)"
+    ]
+   }
+  ]
  },
  "marked": {
-  "subtitle": "Una puerta abierta",
-  "summary": "Tiflins y aasimar, cuyas herencias visibles han creado una cultura de discreción y ayuda mutua.",
+  "subtitle": "Una puerta que se sostiene abierta",
+  "summary": "Tiflins y aasimar, cuyas herencias visibles han criado una cultura de discreción y ayuda mutua.",
   "epigraph": {
-   "quote": "Algunos escondemos los cuernos. Otros los coronamos. Las dos cosas son decisiones, y las dos son nuestras.",
-   "by": "Una de los Marcados, en un salón de Ventoro"
+   "quote": "Algunos escondemos los cuernos. Algunos los coronamos. Las dos cosas son elecciones, y las dos son nuestras.",
+   "by": "Una Marcada, en un salón de Ventoro"
   },
   "facts": [
    [
@@ -5710,32 +5828,134 @@
     "[[Tiflins|Tieflings]] y aasimar"
    ],
    [
-    "Patrón",
+    "Patrono",
     "Nethis, señor de los pactos"
    ]
   ],
   "title": "Los Marcados",
-  "gloss": "The Marked"
+  "gloss": "The Marked",
+  "sections": [
+   {
+    "title": "El pueblo del pacto",
+    "paragraphs": [
+     "Los tocados por los daimones llevan cuernos; los tocados por lo celestial llevan luz. La sospecha injusta hizo que el ingenio, la defensa de los suyos y la ayuda mutua confiable fueran el centro de las comunidades Marcadas. Bajo Nethis, señor de los pactos, la puerta de un Marcado está abierta para un Marcado extraño, y una deuda se honra."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Guantes, cuellos altos, fundas para los cuernos y velos pueden esconder o celebrar una herencia. Quien los lleva elige, y las dos elecciones se respetan."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Los apellidos como Nemis, Orith, Sarran y Liorel se guardan cerca. Muchos también toman un nombre elegido que se lleva como un voto: Merced, Libro, Recio o Parejo."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La puerta de un Marcado nunca se le cierra a un Marcado extraño, y una deuda entre [[Marcados|Marked]] se paga."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: un poco más que los humanos.",
+     "Temperamento: un pueblo al que el mundo vigila aprende temprano a ser el doble de bueno y la mitad de ruidoso. Los mejores intermediarios, defensores y arregladores de las islas tienen, en una proporción desmedida, cuernos, luz o las dos cosas."
+    ]
+   },
+   {
+    "title": "Jugar con uno de los Marcados",
+    "paragraphs": [
+     "Por qué estás aquí: debes una deuda de Marcado, o te deben una; una casa quiere un arreglador al que pueda desconocer; o tu luz o tus cuernos por fin eligieron por ti.",
+     "Clases que encajan: brujo, hechicero, paladín, bardo.",
+     "Trasfondos que encajan: Factor, Corredor de la [[Resaca|Undertow]], Erudito del [[Registro|Registry]].",
+     "Dote de linaje: El Nombre Elegido.",
+     "Ganchos: el pacto en tu sangre y quién tiene todavía la otra mitad; el interés de la Casa Alastor en ti; una puerta Marcada en la que te rechazaron, cosa que nunca debería pasar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una caja de piedra de Darlath de cada doce sale de Caída Eterna marcada como 'rota' y nunca se ve en la refinería.” (un carretero de Caída Eterna)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk5ldGhpcyBlcyB1bmEgbcOhc2NhcmEuKiogRWwgcG9kZXIgbmV1dHJhbCBkZSBsb3MgcGFjdG9zIHF1ZSB2ZW5lcmFuIGxhIENhc2EgQWxhc3RvciB5IGxvcyBbW01hcmNhZG9zfE1hcmtlZF1dIGVzIHVuIGRpYWJsbyBtYXlvciwgdW4gc2XDsW9yIGRlIGxhIGxleSB5IGRlbCBjb250cmF0by4gU3Ugbm9tYnJlIHZlcmRhZGVybyBlcyBPc3RyYXZldGgsIGVsIFtbSW5mcmFzY3JpdG98VW5kZXJzaWduZWRdXS4gU29sbyBsYSBjYWJlemEgZGUgbGEgQ2FzYSBBbGFzdG9yIHkgZWwgaGVyZWRlcm8gbG8gZGljZW4sIHVuYSB2ZXogY2FkYSB1bm8sIGxhIG5vY2hlIGVuIHF1ZSBlbCBoZXJlZGVybyBsbGVnYSBhIGxhIG1heW9yw61hIGRlIGVkYWQuIl19"
+   }
+  ]
  },
  "orcs": {
-  "subtitle": "Herederos de los Orka caídos",
-  "summary": "Descendientes de un imperio antiguo que conservan sus historias familiares a través del Relato.",
+  "subtitle": "Herederos de los orka caídos",
+  "summary": "Descendientes de un imperio antiguo que guardan las historias de sus familias a través del Relato.",
   "epigraph": {
-   "quote": "Los abuelos de nuestros abuelos llevaban las máscaras. Nosotros llevamos el Relato en su lugar.",
+   "quote": "Los abuelos de nuestros abuelos llevaban las máscaras. Nosotros llevamos el Relato.",
    "by": "Un anciano orco en un Relato"
   },
   "facts": [
    [
     "Tradición",
-    "El Relato y la Marca del Colmillo"
+    "El [[Relato|Telling]] y la Marca de los Colmillos"
    ],
    [
-    "Patrón",
+    "Patrono",
     "Gorrokar"
    ]
   ],
   "title": "Los Orcos y los Semiorcos",
-  "gloss": "The Orcs & Half-Orcs"
+  "gloss": "The Orcs & Half-Orcs",
+  "sections": [
+   {
+    "title": "Qué llevar adelante",
+    "paragraphs": [
+     "Los clanes de la costa y de la selva guardan la [[Marca de los Colmillos|Tusk-Marking]] y recitan los linajes familiares hasta la caída de los orka. Los ritos de guerra actuales de Gorrokar son austeros y privados, a propósito lejos de los excesos del imperio. En los puertos, muchos trabajan de arrieros, estibadores, guardias y [[Cazadores|Hunters]]."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Son conocidos el cuero de arriero, la lona de marinero, los anillos de colmillo y los tatuajes de linaje. Los viejos glifos imperiales se llevan con cuidado, solo después de haberse ganado el Relato completo."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Karguz, Morgha, Uzzek, Hargra y Dresha. El Relato da nombres de hazaña como Morgha Sostienemuros o Uzzek Cuerda-y-Cuchillo."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los orcos descienden de los orka, cuyo imperio comprado a los daimones se ahogó en la época llamada la [[Maravilla|Wonder]], y han pasado cada generación desde entonces decidiendo qué cargar de él y qué dejar en el agua. Con el Relato, el linaje hablado de cada familia corre hacia atrás hasta la caída, para que ningún orco se quede nunca sin una historia y ninguna historia se quede sin una advertencia."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: unos ochenta años.",
+     "Tierra natal: las tribus de la costa y de la selva, y los oficios bravos de cada puerto: estibadores, arrieros, guardias y Cazadores. La jefa de la [[Costalarga|Longshore]] en [[Ventoro|Goldwind]], Morgha Sostienemuros, es orca.",
+     "Fe: los ritos de guerra de Gorrokar, austeros y privados, nada que ver con el exceso del viejo imperio, que es justamente la idea.",
+     "Temperamento: directos, leales y desconfiados de cualquier cosa que huela a los tratos del viejo imperio.",
+     "Ropa: cueros de arriero y lona de marinero, anillos de colmillo y la Marca de los Colmillos.",
+     "Los semiorcos usan los rasgos de orco o los de humano, y guardan el Relato si su familia lo guarda."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Dicen que un jefe orco del sur enterró una máscara de daimón en el mar, a propósito, con un Relato cantado encima.” (se oye en las Tierras Salvajes del Sur)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbQ3VlbnRhIGRlIGxvcyBDdWVybm9zfENvdW50IG9mIEhvcm5zXV0uKiogTG9zIGRhaW1vbmVzIHN1YmVuIGhhY2lhIGxhIGRpdmluaWRhZCBzb2x0YW5kbyBjdWVybm9zLiBMb3MgZGUgbXVjaG9zIGN1ZXJub3Mgc29uIGxvcyBtw6FzIGTDqWJpbGVzLCBsb3MgZGUgdW4gc29sbyBjdWVybm8gc29uIFByw61uY2lwZXMsIHkgZWwgcHJpbWVybyBxdWUgc3VlbHRlIHN1IMO6bHRpbW8gY3Vlcm5vIHNlIHZvbHZlcsOhIHVuIGRpb3MuIE5pbmd1bm8gbG8gaGEgaGVjaG8gdG9kYXbDrWEuIExvcyBvcmthIHNpcnZpZXJvbiBhIGRpZWNpc8OpaXMsIGxvcyBbW1BhZHJlcyBkZSBsYXMgTcOhc2NhcmFzfE1hc2tmYXRoZXJzXV0sIHkgY2FkYSB1bm8gdGllbmUgdW5hIG3DoXNjYXJhLiIsICIqKk5hZGjDu3IuKiogQ3VhbmRvIGxhcyBtw6FzY2FyYXMgYWh1ZWNhcm9uIGVsIGltcGVyaW8sIGxhIHJlaW5hIGNoYW1hbmEgRHVyemhhIFtbTm92aWEgZGVsIE1hcnxTZWEtQnJpZGVdXSBzZWxsw7MgbGFzIGNpdWRhZGVzIGRlIGFiYWpvIGNvbiBsb3Mgc2XDsW9yZXMgZW5tYXNjYXJhZG9zIGFkZW50cm8geSBkZWrDsyBlbnRyYXIgYWwgbWFyLiBNaWxlcyBkZSBvcmthIGNvbXVuZXMgc2UgYWhvZ2Fyb24gY29uIGVsbG9zLiBMb3MgZW5tYXNjYXJhZG9zIG5vIHJlc3BpcmFuLiBTaWd1ZW4gc2VudGFkb3MgZW4gc3VzIHRyb25vcy4iLCAiKipMYXMgW1tUcmlidXMgcXVlIFJlY3VlcmRhbnxSZW1lbWJlcmluZyBUcmliZXNdXSoqIHNhYmVuIGVsIG5vbWJyZSBkZSBsYSBOb3ZpYSBkZWwgTWFyIHkgbG8gcXVlIGhpem8uIEhyYXNrYSBbW1ZvdG9waWVkcmF8U3RvbmV2b3ddXSBlbnNlw7FhIHF1ZSBlbCBpbXBlcmlvIGNhecOzIHBvcnF1ZSBsbGV2w7MgbGFzIG3DoXNjYXJhcywgeSBlbnRpZXJyYSBjYWRhIHVuYSBxdWUgZW5jdWVudHJhLiBVemdvciBkZSBsYSBbW0ZyZW50ZSBEZXNudWRhfEJhcmUgQnJvd11dIGJ1c2NhIGxhIG3DoXNjYXJhIGRlIE1hcmFkYW5hc2gsIHkgYXZlcmlndcOzIGTDs25kZSBlc3TDoS4iLCAiKipDaW5jbyBtw6FzY2FyYXMgc2UgcHVlZGVuIGVuY29udHJhci4qKiBMYSBtw6FzY2FyYSBkZSBndWVycmEgZGUgTWFyYWRhbmFzaCBlc3TDoSBlbiBlbCBzYWzDs24gZGVsIHRyb25vIG3DoXMgaG9uZG8gYmFqbyBHb2xnYXJtYS4gTGEgbcOhc2NhcmEgc29ucmllbnRlIGRlIERhbW9udXMgdG9kYXbDrWEgc2UgbGxldmEgcHVlc3RhLCBlbiB1biB0cm9ubyBhaG9nYWRvIGRlIE5hZGjDu3IuIExhIG3DoXNjYXJhIGRlIGhpZXJybyBkZSBNdW5kdXMgZXN0w6EgZW4gbGEgY2FyYSBkZSB1biBlc2NsYXZpc3RhIHF1ZSBzZSBoYWNlIGxsYW1hciBlbCBbW1BhZHJlIGRlIGxhcyBDYWRlbmFzfENoYWluZmF0aGVyXV0geSBubyBzZSBsYSBwdWVkZSBxdWl0YXIuIExhIG3DoXNjYXJhIHF1ZSBzb25yw61lIGRlIEJyaWtrbyBzZSBoYSB2ZW5kaWRvIGN1YXRybyB2ZWNlcyBlbiBsYSBbW1N1YmFzdGEgQ2FsbGFkYXxRdWlldCBBdWN0aW9uXV0sIHkgYSBjYWRhIGNvbXByYWRvciBsbyB0cmFpY2lvbmFyb24gYW50ZXMgZGUgdW4gYcOxby4gTGEgbcOhc2NhcmEgZGUgWmlrYW5pdHJheiBubyBlc3TDoSBlbiBuaW5ndW5hIHBhcnRlLCB5IHNlIGxhIHZlIGNlcmNhIGRlIGxhcyBbW0JvY2FzIEh1ZWNhc3xIb2xsb3ctbW91dGhzXV0uIiwgIioqTGFzIG3DoXNjYXJhczogY3XDoWxlcywgeSBkw7NuZGUqKiIsICJMYXMgbcOhc2NhcmFzIGRlIGxvcyBkaWVjaXPDqWlzIFBhZHJlcyBkZSBsYXMgTcOhc2NhcmFzIHRvZGF2w61hIGV4aXN0ZW4sIGF1bnF1ZSBsYSBtYXlvcsOtYSBlc3TDoW4gcGVyZGlkYXMuIEVzdGFzIGNpbmNvIHNvbiBsYXMgcXVlIHVuYSBjYW1wYcOxYSBwdWVkZSBlbmNvbnRyYXIuIiwgIioqTGEgbcOhc2NhcmEgZGUgZ3VlcnJhIGRlIE1hcmFkYW5hc2gqKiAoZWwgW1tDb25xdWlzdGFkb3J8Q29ucXVlcm9yXV0sIHVuIGN1ZXJubykuIETDs25kZSBlc3TDoSBlbiBlbCAxNzUgRUM6IGVuIGVsIHNhbMOzbiBkZWwgdHJvbm8gbcOhcyBob25kbyBiYWpvIEdvbGdhcm1hLCBkZXRyw6FzIGRlIGxhIHB1ZXJ0YSBxdWUgYWJyacOzIGxhIFtbTm92ZW5hIFBhbGF8TmludGggU2hvdmVsXV0gZWwgYcOxbyBwYXNhZG8uIFF1w6kgbGEgZ3VhcmRhOiBsYSBbW0xlZ2nDs24gQ2FybWVzw618Q3JpbXNvbiBMZWdpb25dXSwgcXVlIHRpZW5lIGxhIFtbR2FyZ2FudGF8VGhyb2F0XV0geSB0b2RhdsOtYSBubyBzYWJlIGxvIHF1ZSBoYXkgZGV0csOhcyBkZSBsYSBwdWVydGEuIiwgIioqTGEgbcOhc2NhcmEgc29ucmllbnRlIGRlIERhbW9udXMqKiAoZWwgVGVudGFkb3IsIGRvcyBjdWVybm9zKS4gRMOzbmRlIGVzdMOhIGVuIGVsIDE3NSBFQzogZW4gdW4gdHJvbm8gYWhvZ2FkbyBkZSBOYWRow7tyLCB0b2RhdsOtYSBwdWVzdGEuIFF1w6kgbGEgZ3VhcmRhOiB1biBzZWxsbyBzcG9ycm4gdml2byBkZSBsYSBbW0xhcmdhIEZsb3JhY2nDs258TG9uZyBCbG9vbV1dOyBsYSBjb2xvbmlhIHNpZW50ZSBjYWRhIGzDoW1wYXJhIHF1ZSBzZSBsZXZhbnRhIGVuIGVzZSBzYWzDs24uIiwgIioqTGEgbcOhc2NhcmEgZGUgaGllcnJvIGRlIE11bmR1cyoqIChsYSBDYWRlbmEpLiBEw7NuZGUgZXN0w6EgZW4gZWwgMTc1IEVDOiBsYSBsbGV2YSBlbCBhbW8gZGVsIFtbQW5pbGxvIGRlIEVzY2xhdmlzdGFzfFNsYXZlciBSaW5nXV0gbcOhcyBncmFuZGUgZGVsIHN1ciwgcXVlIHNlIGhhY2UgbGxhbWFyICoqZWwgUGFkcmUgZGUgbGFzIENhZGVuYXMqKi4gUXXDqSBsYSBndWFyZGE6IHN1IHByb3BpbyBtaWVkbzogbm8gc2UgbGEgcHVlZGUgcXVpdGFyLCB5IGxvIHNhYmUuIiwgIioqTGEgbcOhc2NhcmEgcXVlIHNvbnLDrWUgZGUgQnJpa2tvKiogKGVsIEN1Y2hpbGxvIHF1ZSBTb25yw61lKS4gRMOzbmRlIGVzdMOhIGVuIGVsIDE3NSBFQzogdmVuZGlkYSBjdWF0cm8gdmVjZXMgZW4gbGEgU3ViYXN0YSBDYWxsYWRhIGRlc2RlIGVsIDE2MCBFQy4gUXXDqSBsYSBndWFyZGE6IG5hZGEuIEEgY2FkYSBjb21wcmFkb3IgbG8gdHJhaWNpb27DsyBhbGd1aWVuIGNlcmNhbm8gYW50ZXMgZGUgdW4gYcOxbywgeSBsYSB2b2x2acOzIGEgdmVuZGVyLiIsICIqKkxhIG3DoXNjYXJhIGRlIFppa2FuaXRyYXoqKiAoZWwgRGVzaGFjZWRvcikuIETDs25kZSBlc3TDoSBlbiBlbCAxNzUgRUM6IGVuIG5pbmd1bmEgcGFydGUuIERlc2hhY2UgYSBxdWllbiBsYSBsbGV2YSBwdWVzdGEsIHkgZGVzcHXDqXMgYSBzw60gbWlzbWEsIHkgZGVzcHXDqXMgZXN0w6EgZW4gb3RybyBsYWRvLiBRdcOpIGxhIGd1YXJkYTogbG9zIHNwb3JybiBkaWNlbiBxdWUgc2UgbGEgaGEgdmlzdG8gY2VyY2EgZGUgbGFzIEJvY2FzIEh1ZWNhcy4gTG9zIHNwb3JybiBubyBicm9tZWFuLiIsICIqKkxvcyByZWNpcGllbnRlcyBkZSBob3kuKiogVmFuaXJpb25pcyBsbGVnYSBhIHRyYXbDqXMgZGUgbGEgW1tNYWRyZSBFc2NhcmxhdGF8U2NhcmxldCBNb3RoZXJdXSAoVm9sdW1lbiBYSVYpLiBaaGlyYWssIGVsIEJlYmVzYW5ncmUsIGVzdMOhIGVuIGxvcyByaXRvcyByb2pvcyBkZSBsYSBMZWdpw7NuIENhcm1lc8OtIGEgdHJhdsOpcyBkZSBzdSBzYWNlcmRvdGUgZGUgZ3VlcnJhLCBlbCAqKltbQWJhZCBSb2pvfFJlZCBBYmJvdF1dKiosIHF1ZSBjcmVlIHF1ZSBhZG9yYSBhbCBkaW9zIGRlIGxhIE1hZHJlIEVzY2FybGF0YSB5IHRpZW5lIG1lZGlhIHJhesOzbi4gTXVuZHVzIHRpZW5lIGFsIFBhZHJlIGRlIGxhcyBDYWRlbmFzLiBMb3Mgb3Ryb3MgdHJlY2UgZHVlcm1lbi4gRG9ybWlyIG5vIGVzIGxvIG1pc21vIHF1ZSBoYWJlcnNlIGlkby4iLCAiKipMYXMgVHJpYnVzIHF1ZSBSZWN1ZXJkYW4uKiogTGFzIHRyaWJ1cyBvcmNhcyBkZWwgc3VyIHF1ZSByZWN1ZXJkYW4gZWwgaW1wZXJpbyBvcmthIHRpZW5lbiBkb3MgamVmZXMgcXVlIHZhbGUgbGEgcGVuYSBjb25vY2VyOiIsICIqKkhyYXNrYSBWb3RvcGllZHJhKiosIHVuYSBqZWZhIGZpZWwgYSBHb3Jyb2thciwgcXVlIGVuc2XDsWEgcXVlIGVsIGltcGVyaW8gY2F5w7MgcG9ycXVlIGxsZXbDsyBsYXMgbcOhc2NhcmFzLCB5IHF1ZSBsYSByZWRlbmNpw7NuIGRlIHN1IHB1ZWJsbyBlcyBlbnRlcnJhciBjYWRhIG3DoXNjYXJhIHF1ZSBlbmN1ZW50cmVuLiBMYSBOb3ZlbmEgUGFsYSBoYSBwdWVzdG8gcHJlY2lvIGEgc3UgY2FiZXphLiIsICIqKlV6Z29yIGRlIGxhIEZyZW50ZSBEZXNudWRhKiosIHF1ZSBzZSBhZmVpdMOzIGxhIGNhYmV6YSBwYXJhIG1vc3RyYXIgZMOzbmRlIGxlIHZhbiBhIGNyZWNlciBsb3MgY3Vlcm5vcywgeSBxdWUgYnVzY2EgbGEgbcOhc2NhcmEgZGUgTWFyYWRhbmFzaC4gQXZlcmlndcOzIGTDs25kZSBlc3TDoS4iXX0="
+   }
+  ]
  },
  "anvil-reach": {
   "gloss": "The Anvil Reach",
