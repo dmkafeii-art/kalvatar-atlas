@@ -6867,7 +6867,7 @@
    ],
    [
     "Quién vive cerca",
-    "guías, pastores, los [[Vigilahuesos|Bonewatchers]], la gente de la manada en la hierba"
+    "guías, pastores, los [[Vigilahuesos|Bonewatchers]], la [[gente de la manada|pride-kin]] en la hierba"
    ],
    [
     "El rito",
@@ -6891,7 +6891,7 @@
     "title": "Quién vive en el borde",
     "paragraphs": [
      "Nadie vive en las llanuras. A su alrededor vive la gente que se gana la vida con el miedo que les tienen: los guías que llevan a los viajeros por el borde, los pastores que tienen sus bestias en la hierba y las cuentan dos veces, y las tribus que toman sus nombres del hueso y del polvo.",
-     "Los Vigilahuesos, saqueadores sin juramento, tienen sus campamentos en el borde y hacen una guardia de noche que no tiene nada que ver con las caravanas. La gente de la manada caza en la hierba más allá de los árboles muertos, y la gente de marfil pasa en sus caminos largos para visitar los huesos."
+     "Los Vigilahuesos, saqueadores sin juramento, tienen sus campamentos en el borde y hacen una guardia de noche que no tiene nada que ver con las caravanas. La gente de la manada caza en la hierba más allá de los árboles muertos, y la [[gente de marfil|ivory-kin]] pasa en sus caminos largos para visitar los huesos."
     ]
    },
    {
@@ -6961,7 +6961,7 @@
     "title": "El lugar",
     "paragraphs": [
      "El [[Lago Espejo|Mirrormere]] llena un cráter viejo, y parece que no le llega ningún viento. En una noche clara las dos lunas flotan en él, perfectas y quietas, y el cielo se ve tan hondo bajo el borde como por encima.",
-     "Los caminos largos de las sabanas terminan aquí, y la gente de marfil hace descansar a sus manadas en la ladera de afuera antes de dar la vuelta."
+     "Los caminos largos de las sabanas terminan aquí, y la [[gente de marfil|ivory-kin]] hace descansar a sus manadas en la ladera de afuera antes de dar la vuelta."
     ]
    },
    {
@@ -22993,7 +22993,7 @@
    {
     "title": "En las islas",
     "paragraphs": [
-     "La mayoría de las manadas corren por las sabanas del sur junto a la gente de la manada y la gente de marfil. Unas pocas cruzaron al norte hace mucho y corren por el tojo y el brezo de Confín del Norte, donde las granjas de cría las contratan como maestras de caballos. Ninguno de los dos lados está muy seguro de quién trabaja para quién."
+     "La mayoría de las manadas corren por las sabanas del sur junto a la [[gente de la manada|pride-kin]] y la [[gente de marfil|ivory-kin]]. Unas pocas cruzaron al norte hace mucho y corren por el tojo y el brezo de Confín del Norte, donde las granjas de cría las contratan como maestras de caballos. Ninguno de los dos lados está muy seguro de quién trabaja para quién."
     ]
    },
    {
@@ -23052,7 +23052,7 @@
    {
     "title": "Panorama",
     "paragraphs": [
-     "La gente de marfil es la gente más grande con la que la mayoría de los isleños va a compartir un camino: de piel gris, con colmillos, de nariz larga y lenta para enojarse. Una manada recorre el mismo circuito de pozos y mercados año tras año, y el sur arregla su calendario por su paso."
+     "La [[gente de marfil|ivory-kin]] es la gente más grande con la que la mayoría de los isleños va a compartir un camino: de piel gris, con colmillos, de nariz larga y lenta para enojarse. Una manada recorre el mismo circuito de pozos y mercados año tras año, y el sur arregla su calendario por su paso."
     ]
    },
    {
@@ -23123,7 +23123,7 @@
    {
     "title": "Panorama",
     "paragraphs": [
-     "La gente de la manada le saca una cabeza a casi todos, con melena o lisos, del dorado al pardo polvo, con una voz hecha para los campos abiertos. Son un pueblo de la hierba y no quieren mucho a las paredes, aunque muchos aceptan una parte de [[Cazador|Hunter]] o la paga de una caravana y van a ver los puertos por sí mismos."
+     "La [[gente de la manada|pride-kin]] le saca una cabeza a casi todos, con melena o lisos, del dorado al pardo polvo, con una voz hecha para los campos abiertos. Son un pueblo de la hierba y no quieren mucho a las paredes, aunque muchos aceptan una parte de [[Cazador|Hunter]] o la paga de una caravana y van a ver los puertos por sí mismos."
     ]
    },
    {
@@ -24158,5 +24158,387 @@
    }
   ],
   "title": "Bocapizarra"
+ },
+ "slowwater": {
+  "gloss": "The Slowwater",
+  "aliases": [
+   "Aguamansa",
+   "el Aguamansa"
+  ],
+  "subtitle": "El pantano que respira",
+  "summary": "Una llanura inundada en el interior del oeste de las Tierras Salvajes: agua hasta la rodilla por leguas, cortadera más alta que una persona e islas de árboles. Su agua sube y baja dos veces al día, y ninguna marea llega hasta ahí.",
+  "epigraph": {
+   "quote": "Cuando el agua se ríe, ya te fuiste. Hasta entonces, fíjate dónde te sientas.",
+   "by": "un guía de los Nacidos del Lodazal"
+  },
+  "facts": [
+   [
+    "Región",
+    "[[Tierras Salvajes del Sur|Southern Wilds]], entre la selva y las [[Nueve Bocas|Nine Mouths]]"
+   ],
+   [
+    "Tipo",
+    "Llanura inundada"
+   ],
+   [
+    "Quién vive ahí",
+    "los [[Nacidos del Lodazal|Bogborn]], los hombres lagarto y las [[Calaveras de Junco|Reedskulls]] en los cruces"
+   ],
+   [
+    "Conocida por",
+    "el [[Aliento|Breath]], el [[fuegolento|slowfire]] y las islas que no están en la cuenta de ayer"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "El [[Aguamansa|Slowwater]] está entre la selva y el delta de las Nueve Bocas. El agua llega a la rodilla por leguas y casi no se mueve. La cortadera crece más alta que una persona y corta como su nombre, y la única tierra alta son las islas de árboles. Los hombres lagarto la nombraron primero, por el agua, como nombran a sus propias tribus."
+    ]
+   },
+   {
+    "title": "El Aliento",
+    "paragraphs": [
+     "Dos veces al día el agua sube un palmo y vuelve a bajar, aunque el mar queda lejos y ninguna marea llega al pantano. La gente de ahí lo llama el Aliento y arregla su día según él. Pregunta de quién es el aliento, y te van a decir que te ocupes de lo tuyo."
+    ]
+   },
+   {
+    "title": "Verlo",
+    "paragraphs": [
+     "Los viajeros van en un bote plano de junco, empujado con pértiga o tirado por un zancafango, y van con un guía. Los canales se mueven. También, dicen los guías, algunas de las islas.",
+     "El pantano termina donde el agua empieza a correr y a hacer ruido. Ese es el delta, y el delta es de la [[Inundación que Ríe|Laughing Flood]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Cuenta las islas cuando acampes y vuelve a contarlas al alba. Si hay una de más, no le preguntes nada. Vete.” (un guía de los Nacidos del Lodazal)",
+     "“El Aliento es el Lodo que Respira, haciendo lo que dice su nombre. Todo el pantano está sentado sobre su pecho.” (un comerciante hombre lagarto)"
+    ]
+   }
+  ],
+  "title": "El Aguamansa"
+ },
+ "thorne-estate": {
+  "gloss": "The Thorne Estate",
+  "aliases": [
+   "Finca Espino"
+  ],
+  "subtitle": "Las tierras vacías de Magnus, y un campamento de guerra",
+  "summary": "Las tierras del capitán Magnus Espino del *Mazo*, abandonadas desde que murió en las Fauces del Kraken y su hijo se fue de las islas. Ahora acampan ahí los Wingate: un campamento de guerra de tiendas entre las ruinas, con un muelle viejo que todavía aguanta.",
+  "facts": [
+   [
+    "Era de",
+    "el capitán Magnus [[Espino|Thorne]] del *[[Mazo|Sledgehammer]]*"
+   ],
+   [
+    "Abandonada",
+    "desde las [[Fauces del Kraken|Kraken's Maw]], 165 EC"
+   ],
+   [
+    "Ahora",
+    "el campamento de guerra de los Wingate"
+   ],
+   [
+    "Dónde",
+    "en la costa del [[Corazón|Heartland]], a un día de navegación al norte de [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Tiene",
+    "un muelle viejo"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Las tierras de Magnus",
+    "paragraphs": [
+     "El capitán Magnus del *Mazo* fue el [[Cazador|Hunter]] más famoso de su tiempo, y la [[Finca Espino|Thorne Estate]] era su casa entre viaje y viaje. Murió en las Fauces del Kraken en el 165 EC. Su hijo Leoric no quiso capitanear el *Mazo* ni un día más y se fue de las islas, y después de eso nadie trabajó la tierra.",
+     "Diez años de mal tiempo hicieron el resto: techos caídos, campos tragados por el tojo, un gran salón con el cielo por techo."
+    ]
+   },
+   {
+    "title": "El campamento de guerra",
+    "paragraphs": [
+     "Los Wingate viven en ella como vive un ejército en un campo: unos 2,500 soldados y marineros en filas de tiendas entre los muros en ruinas, con la pólvora y los enfermos bajo los pocos techos que siguen en pie, y las hogueras de guardia encendidas toda la noche. Los veteranos hacen instrucción al alba en lo que era el prado de Magnus."
+    ]
+   },
+   {
+    "title": "El muelle viejo",
+    "paragraphs": [
+     "Un muelle de piedra todavía aguanta. Los Wingate tienen siete barcos, más de los que puede recibir, y los demás se quedan anclados frente a la costa. Desde ahí salen cajones, hacia el norte, hacia la guerra de la familia."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Los Wingate necesitan guardias de confianza para un cargamento al norte, y pueden pagar la mitad por adelantado.",
+     "Un veterano Wingate desapareció entre el campamento y el pueblo más cercano, y sus amigos no van a esperar a la guardia.",
+     "Alguien ha estado vigilando el campamento desde el tojo de noche, sin dejar huellas."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Leoric Espino les dio la tierra de su padre a los Wingate antes de irse al sur con su dama. Nunca la pidió de vuelta.” (un portero de la Logia de Ventoro)",
+     "“Desde el camino de la costa se los oye hacer instrucción con la primera luz. Soldados viejos, todos.” (un carretero del camino del norte)"
+    ]
+   }
+  ],
+  "title": "La Finca Espino"
+ },
+ "savannas": {
+  "gloss": "The Savannas",
+  "aliases": [
+   "sabanas",
+   "las sabanas",
+   "la hierba larga"
+  ],
+  "subtitle": "La hierba larga del sur",
+  "summary": "La hierba abierta entre el borde de la selva y las llanuras blancas de las Tierras de Huesos: tierra de manadas, cruzada por largos caminos de pozo en pozo.",
+  "epigraph": {
+   "quote": "En la selva el problema lo oyes primero. Aquí afuera lo ves a un día de distancia, y él te ve a ti.",
+   "by": "un pastor de lomobramos"
+  },
+  "facts": [
+   [
+    "Región",
+    "[[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Tipo",
+    "Pradera"
+   ],
+   [
+    "Quién vive ahí",
+    "tribus pastoras, la [[gente de la manada|pride-kin]], la [[gente de marfil|ivory-kin]], centauros"
+   ],
+   [
+    "Conocidas por",
+    "las manadas de lomobramos, los largos caminos y un cielo sin nada en medio"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Donde la selva se adelgaza, empieza la hierba, y corre hasta los árboles muertos del borde de las [[Tierras de Huesos|Bonewilds]]. Hay árboles de copa plana, tierra roja, cauces secos que se llenan en una hora cuando llegan las lluvias, y pozos que valen más que pueblos.",
+     "Las sabanas son el pasto del sur. Los lomobramos pastan aquí por miles, y los [[uros|aurocs]] llevan a los pastores que los cuidan."
+    ]
+   },
+   {
+    "title": "Quién vive ahí",
+    "paragraphs": [
+     "Tres pueblos viejos comparten la hierba con las tribus pastoras. La **gente de la manada** la caza y protege lo que la cruza. La **gente de marfil** la recorre en grandes vueltas lentas, y el sur pone su calendario según su paso. Los **centauros** la corren en manadas que no son dueñas de ninguna tierra y recuerdan cada pozo.",
+     "Un pozo es de quien lo cavó y está abierto para quien llegue con sed. Ensuciar uno es el peor delito que conoce la hierba."
+    ]
+   },
+   {
+    "title": "Los largos caminos",
+    "paragraphs": [
+     "Los caminos de las sabanas no se construyen. Se gastan: por las manadas, por las caravanas y por la gente de marfil, que ha recorrido la misma línea desde antes de que nadie llevara la cuenta. Van de las Tierras de Huesos al [[Lago Espejo|Mirrormere]], y las caravanas pagan bien por caminar detrás de una manada."
+    ]
+   },
+   {
+    "title": "Si vienes de aquí",
+    "paragraphs": [],
+    "list": [
+     "Puedes juzgar la distancia, el tiempo y el humor de una manada de un vistazo.",
+     "Sabes qué pozos son dulces, cuáles son de temporada y de quién son.",
+     "Has hecho una guardia de noche contra algo que nunca entró a la luz del fuego.",
+     "Las paredes te ponen inquieto, y la selva te hace sentir vigilado."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay un pozo pasando los últimos espinos que se llena solo en la temporada seca. Los centauros le dan la vuelta.” (un explorador de caravana)",
+     "“Antes de las lluvias, toda la hierba se queda callada una noche. Los pastores dicen que esa es la noche en que la Sombra sale de las llanuras a beber.” (un pastor de lomobramos)"
+    ]
+   }
+  ],
+  "title": "Las Sabanas"
+ },
+ "thin-places": {
+  "gloss": "Thin Places",
+  "aliases": [
+   "lugar delgado",
+   "lugares delgados"
+  ],
+  "subtitle": "Donde el Velo está gastado, y lo que no hay que hacer ahí",
+  "summary": "Un lugar delgado es un sitio donde el Velo entre las islas y el Feérico se ha gastado hasta romperse: un anillo de piedras, una poza, una puerta que no siempre se abre al mismo cuarto. Cada distrito tiene uno, y cada abuela sabe dónde está.",
+  "epigraph": {
+   "quote": "Nosotros no subimos allá. No, no pasa nada. Por eso no subimos allá.",
+   "by": "Un pastor del este del Corazón"
+  },
+  "facts": [
+   [
+    "Qué son",
+    "lugares gastados del [[Velo|Veil]]"
+   ],
+   [
+    "Dónde están",
+    "en todas las regiones, más en el este del [[Corazón|Heartland]] y en las [[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Se abren más",
+    "en la [[Marea Rey|King Tide]] y en los [[Días Quietos|Still Days]]"
+   ],
+   [
+    "Los cuidan",
+    "los [[Guardianes del Velo|Wardens of the Veil]], y los vecinos"
+   ],
+   [
+    "Se reconocen por",
+    "las [[mariposas del velo|veil butterflies]] que se vuelven transparentes"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es un lugar delgado",
+    "paragraphs": [
+     "El Velo no tiene el mismo grosor en todas partes. Donde se ha gastado hasta romperse, el [[Feérico|Faewild]] y el mundo despierto quedan uno contra otro como dos páginas, y hay cosas que pasan entre ellos: un olor, una estación, un sonido, y a veces una persona.",
+     "La mayoría de los [[lugares delgados|thin places]] son viejos y tranquilos. No ha pasado nada en ellos en la memoria de los vivos, que es exactamente como los vecinos piensan mantenerlos."
+    ]
+   },
+   {
+    "title": "Clases de lugar delgado",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Clase",
+      "Cómo es"
+     ],
+     "rows": [
+      [
+       "Un anillo de piedras",
+       "La clase más vieja. La hierba de adentro es de otro verde, y nada la pasta."
+      ],
+      [
+       "Una poza o un manantial",
+       "Agua quieta que muestra el cielo equivocado. No bebas, y no mires por mucho tiempo."
+      ],
+      [
+       "Una puerta",
+       "Una puerta en un bosque, en un muro o en un pueblo viejo, que no siempre se abre al mismo cuarto. Los guardianes sellan estas primero."
+      ],
+      [
+       "Una encrucijada",
+       "Se cruzan tres caminos, y a veces hay un cuarto. Cuenta los caminos antes de elegir uno."
+      ],
+      [
+       "Una cañada o una hondonada",
+       "Al atardecer flotan luces ahí. En lugares así se encuentran niños, y se pierden."
+      ],
+      [
+       "Una cicatriz",
+       "Tierra por donde se abrieron paso los daimones de los orka, y el Velo sanó mal. Por una cicatriz no pasa nada bueno."
+      ]
+     ],
+     "caption": "Cómo reconocer uno"
+    }
+   },
+   {
+    "title": "Las reglas",
+    "paragraphs": [
+     "Cada distrito tiene las suyas, y vienen a ser más o menos lo mismo."
+    ],
+    "list": [
+     "No duermas ahí. En una noche de Marea Rey o en un Día Quieto, el que duerme puede despertarse en otra parte.",
+     "No comas ni bebas nada que encuentres ahí.",
+     "No contestes si te llaman por tu nombre.",
+     "No te lleves nada, y no dejes nada que te importaría que usaran.",
+     "Si las mariposas del velo se volvieron transparentes, vete.",
+     "Si tienes que pasar, lleva hierro, y di en voz alta que solo estás de paso."
+    ]
+   },
+   {
+    "title": "Para qué se usan",
+    "paragraphs": [],
+    "list": [
+     "Los feéricos cruzan por ellos, para comerciar, para cobrar y para mirar.",
+     "Un maestro que quiere un [[inquilino|tenant]] para una hoja termina la pieza en uno, y deja la puerta abierta toda la noche.",
+     "Las curanderas de los setos recogen ahí, al mediodía, y nunca solas.",
+     "Los enamorados se encuentran ahí, porque nadie más va a ir. Algunas de las familias viejas empezaron así.",
+     "La gente deja ahí cosas que quiere que se lleven."
+    ]
+   },
+   {
+    "title": "Lugares delgados conocidos",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Lugar",
+      "Dónde",
+      "Lo que se dice"
+     ],
+     "rows": [
+      [
+       "La campana de [[Verdequieto|Stillgreen]]",
+       "El borde de Verdequieto, Tierras Salvajes del Sur",
+       "Una campana de plata en un poste de la [[Empalizada|Pale]] que suena sola. El [[Anillo Tzolani|Tzolani Ring]] la cuida, y mantiene a la gente lejos de ella."
+      ],
+      [
+       "La puerta cerrada de [[Puerto Plata|Silverport]]",
+       "El barrio viejo, Puerto Plata",
+       "Una puerta sellada por un [[Guardián del Velo|Warden of the Veil]], en un muro sin nada detrás. Hay gente que ha intentado atravesar el muro de al lado."
+      ],
+      [
+       "Los pueblos de la frontera",
+       "El este del Corazón",
+       "Los pueblos más cerca del Feérico tienen casas de guarda de Varneth, y casi todos pueden nombrar una piedra o un manantial del que se mantiene lejos a los niños."
+      ],
+      [
+       "La puerta de Elyria",
+       "Elyria, [[Corazón Central|Central Heartland]]",
+       "Por donde los altos elfos de la [[Casa Caelvaron|House Caelvaron]] vuelven a casa, diez años de cada cien. Es el único cruce de las islas que se mantiene abierto a propósito."
+      ]
+     ],
+     "caption": "Algunos de los que se habla en las islas"
+    }
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un niño lleva un mes dejando pan en las piedras. Esta mañana le dejaron algo a cambio.",
+     "Un lugar delgado que estuvo tranquilo doscientos años empezó a tener su propio clima.",
+     "Un herrero le pagó al grupo para que cuidara de noche la puerta de un taller. A la mañana la hoja está tibia, y también algo más en el cuarto.",
+     "Dos pueblos reclaman el mismo manantial. Uno de ellos quiere que lo sellen."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Pregúntales a los de ahí dónde está el suyo antes de acampar. Te lo van a decir, y van a mirar dónde pones la tienda.",
+     "Un frasco de mariposas del velo cuesta poco y ha salvado a más viajeros que una espada.",
+     "Si te despiertas en otra parte, no camines. Encuentra un camino, y espera a que te encuentren."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Una boda en la que las mariposas se vuelven transparentes es una boda en la que alguien debería hacerle una pregunta a la abuela de la novia.",
+     "La hierba dentro de un anillo de piedras sigue verde bajo la nieve.",
+     "De vez en cuando nace cerca de un lugar delgado un niño tocado por los feéricos. La familia casi siempre sabe por qué."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Algunas noches hay un cuarto camino en una encrucijada sobre Bastión del Sol. Un carretero lo tomó por error y llegó a su casa antes de haber salido.” (un arriero del Corazón)",
+     "“La campana de Verdequieto sonó nueve veces el mes pasado. Nunca había sonado más de tres.” (un guardián del canto del Anillo Tzolani)",
+     "“Alguien ha estado sellando lugares delgados que no le hacían daño a nadie. No son los Guardianes. Ellos quieren saber quién.” (un escribiente de una casa de guarda)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIFtbVmVsb3xWZWlsXV0gZXMgT253ZW4uKiogTGEgcHJpbWVyYSBSZWluYSBkZSBsYSBQcmltYXZlcmEgbm8gbXVyacOzIGFsIGhhY2VybG8uIFNlIGNvbnZpcnRpw7MgZW4gw6lsLiBMbyBxdWUgcXVlZGEgZGUgZWxsYSBlcyBlc2VuY2lhOiBsb3MgZmXDqXJpY29zIGNvbW8gZXJhbiBhbnRlcyBkZSBsYSBndWVycmEsIGV4dGVuZGlkb3MgZmlub3MgaGFzdGEgdm9sdmVyc2UgdW5hIGZyb250ZXJhLiBFcyBtw6FzIGRlbGdhZG8gZW4gbGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0geSBlbiBsb3MgW1tEw61hcyBRdWlldG9zfFN0aWxsIERheXNdXSBwb3JxdWUgZXMgY3VhbmRvIGVsbGEgZXN0w6EgbcOhcyBjYW5zYWRhLiIsICIqKkxhcyBjaWNhdHJpY2VzIHNvbiBkaXN0aW50YXMuKiogVW4gW1tsdWdhciBkZWxnYWRvfHRoaW4gcGxhY2VdXSBnYXN0YWRvIHBvciBlbCB0aWVtcG8gc2UgYWJyZSBhbCBbW0Zlw6lyaWNvfEZhZXdpbGRdXS4gVW5hIGNpY2F0cml6IGRlc2dhcnJhZGEgcG9yIGxvcyBkYWltb25lcyBkZSBsb3Mgb3JrYSBwdWVkZSBhYnJpcnNlIGFsIEZlw6lyaWNvLCBhbCBwYcOtcyBkZSBsb3MgZGFpbW9uZXMgbyBhbCBWYWPDrW8uIl19"
+   }
+  ],
+  "title": "Lugares delgados"
  }
 }
