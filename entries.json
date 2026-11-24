@@ -40293,6 +40293,9 @@
    "height": 1024,
    "alt": "An Ironfang leader with a riveted iron jaw and oversized metal tusks leads a caravan raid beneath ancient titan ribs.",
    "caption": "An Ironfang raid in the Bonewilds."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -40344,7 +40347,10 @@
    "heartland",
    "orka",
    "daemons"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "ironfang-warband",
@@ -40382,7 +40388,10 @@
   "related": [
    "gnoll-warbands",
    "bonewilds"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "bonewatchers",
@@ -40421,7 +40430,10 @@
   "related": [
    "gnoll-warbands",
    "bonewilds"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "ashmaws",
@@ -40469,6 +40481,9 @@
    "height": 1024,
    "alt": "An Ashmaw Flint leads ash-marked gnolls through a dry ravine at dusk.",
    "caption": "An Ashmaw Flint leads ash-marked gnolls through a dry ravine at dusk."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -40530,6 +40545,9 @@
    "height": 1024,
    "alt": "Redjaw gnoll sailors navigate reef waters at dawn beneath a red jawbone banner.",
    "caption": "Redjaw gnoll sailors navigate reef waters at dawn beneath a red jawbone banner."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -40578,6 +40596,9 @@
    "height": 1024,
    "alt": "An orc chief sets down a pot of sacred embers before a valley outpost.",
    "caption": "An orc chief sets down a pot of sacred embers before a valley outpost."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -40626,6 +40647,9 @@
    "height": 1024,
    "alt": "Reedskull orcs carry an iron offering through mist toward a drowned mound.",
    "caption": "Reedskull orcs carry an iron offering through mist toward a drowned mound."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {

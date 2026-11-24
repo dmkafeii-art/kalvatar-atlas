@@ -26365,5 +26365,292 @@
    }
   ],
   "title": "Los barcos de plata"
+ },
+ "gnoll-warbands": {
+  "gloss": "Gnoll Warbands",
+  "subtitle": "Bandas de saqueo de las Tierras de Huesos",
+  "summary": "Nacidas en las tierras secas de las Tierras de Huesos, las bandas de guerra gnoll saquean por todo Kalvatar. Hace poco se vieron sus estandartes en la Frontera del Norte.",
+  "facts": [
+   [
+    "Origen",
+    "Las tierras secas de las [[Tierras de Huesos|Bonewilds]]"
+   ],
+   [
+    "Alcance",
+    "Todo Kalvatar"
+   ],
+   [
+    "Avistamientos recientes",
+    "La [[Frontera del Norte|Northern Frontier]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Desde las tierras secas",
+    "paragraphs": [
+     "Las tierras secas alrededor de las Tierras de Huesos tienen la mayor concentración de bandas de guerra gnoll. Hay bandas que también saquean los confines secos de las [[Tierras Salvajes del Sur|Southern Wilds]] y cruzan el archipiélago en barcos capturados o a bordo de botes de contrabandistas. Los informes de la Frontera del Norte hablan de quijadas atadas con alambre en estandartes vistos a los dos lados de un estrecho.",
+     "Todavía se forman bandas nuevas, casi siempre de partidas de saqueo que se rompen o de seguidores que dejan a un jefe. Pocas duran. Los [[Jurados|Sworn]] cazan activamente a estas bandas más chicas, y a muchos sobrevivientes no les queda más remedio que unirse a la [[Banda de Guerra Colmillo de Hierro|Ironfang Warband]], a los [[Vigilahuesos|Bonewatchers]], a las [[Fauces de Ceniza|Ashmaws]] o a las [[Mandíbulas Rojas|Redjaws]].",
+     "Ellos mismos no cruzan las grandes llanuras blancas. Ese es el país de Shakarr, donde nada carroñea, y ni los Jurados comen ahí."
+    ]
+   },
+   {
+    "title": "El Hambre",
+    "paragraphs": [
+     "El Hambre es la primera etapa de la posesión demoníaca. Un solo gnoll que empieza a cambiar durante un saqueo puede despertar el mismo frenesí en otros. Los afectados devoran lo que pueden, de las provisiones y el ganado a los cautivos. Cuando no queda nada, se vuelven unos contra otros. Volver a ser los de antes es casi inaudito. Algunas bandas juradas dejan a propósito que el frenesí recorra sus filas.",
+     "Para los Jurados, la carne de gnoll es la más deliciosa de todas y la manera más segura y rápida de despertar el Hambre. Les guardan un odio especial a los [[No Jurados|Unsworn]] y los atacan cada vez que pueden, con ganas de darse un festín con su carne. Un festín que empieza con los enemigos caídos puede terminar con los Jurados devorándose entre ellos."
+    ]
+   },
+   {
+    "title": "Los Pedernales",
+    "paragraphs": [
+     "Los pocos sobrevivientes que salen transformados se llaman [[Pedernales|Flints]]. Más grandes y más fuertes, tienen visiones atadas al viejo pacto. Entre las bandas juradas, un Pedernal muchas veces se vuelve jefe de guerra o sacerdote. Aunque el frenesí pase, la posesión deja su marca."
+    ]
+   },
+   {
+    "title": "Kharveth, las Fauces Huecas",
+    "paragraphs": [
+     "El daimón Kharveth recibe de sus bandas juradas el primer mordisco del saqueo. Su marca es una mandíbula con los dientes vueltos hacia adentro. Sus sacerdotes llaman instrucciones a las visiones de los Pedernales, aunque dos sacerdotes pueden oír el mismo relato y mandar a sus bandas a la guerra una contra otra."
+    ]
+   },
+   {
+    "title": "Los No Jurados",
+    "paragraphs": [
+     "Algunas bandas se separaron de los adoradores de Kharveth hace tanto que sus cantores cuentan la separación en milenios. Todavía saquean y piden rescate por los cautivos, y algunos jefes mantienen tratos con los poblados durante años. Vigilan a los suyos buscando señales del Hambre y arrastran lejos de los demás a un compañero afectado antes de que el frenesí se extienda."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Kharveth es más viejo que los gnolls. Era una de las dieciséis máscaras de los orka, y el viejo pacto es de ellos.” (un erudito de la Universidad que estudia a los orka)"
+    ]
+   }
+  ],
+  "title": "Las bandas de guerra gnoll"
+ },
+ "orc-tribes": {
+  "gloss": "Orc Tribes",
+  "subtitle": "Estandartes de guerra y ritos viejos",
+  "summary": "Casi todos los orcos de las islas son estibadores, arrieros y gente de pueblo. A las tribus de saqueo se las mantiene dispersas por los caminos de la Frontera y los accesos al Corazón, y están ganando fuerza en las Tierras Salvajes del Sur.",
+  "facts": [
+   [
+    "Amenaza creciente",
+    "[[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Saber relacionado",
+    "Los orcos y los semiorcos"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Donde se juntan los estandartes",
+    "paragraphs": [
+     "Por los caminos del norte y los accesos al [[Corazón Central|Central Heartland]], las guarniciones y las patrullas regulares mantienen dispersas a casi todas las partidas armadas de saqueo. En las Tierras Salvajes del Sur, algunas tribus han ganado guerreros, tomado cruces y obligado a poblados aislados a pagar tributo. Su fuerza cambia con la temporada y con qué jefes logran mantener juntos a sus seguidores."
+    ]
+   },
+   {
+    "title": "Ritos viejos",
+    "paragraphs": [
+     "Entre las tribus que ahora llaman la atención, los [[Colmillos de Brasa|Embertusks]] llevan brasas de un santuario más viejo que su antepasado más viejo registrado, mientras que las [[Calaveras de Junco|Reedskulls]] ofrecen su primer botín a una presencia que dicen que vive bajo un túmulo ahogado. El [[Relato|Telling]] sobrevive en las dos, aunque cada una recita una cuenta distinta de lo que se les debe a los muertos."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhcyBbW1RyaWJ1cyBxdWUgUmVjdWVyZGFufFJlbWVtYmVyaW5nIFRyaWJlc11dKiogc2FiZW4gZWwgbm9tYnJlIGRlIGxhIFtbTm92aWEgZGVsIE1hcnxTZWEtQnJpZGVdXSB5IGxvIHF1ZSBoaXpvLiBIcmFza2EgW1tWb3RvcGllZHJhfFN0b25ldm93XV0gZW5zZcOxYSBxdWUgZWwgaW1wZXJpbyBjYXnDsyBwb3JxdWUgbGxldsOzIGxhcyBtw6FzY2FyYXMsIHkgZW50aWVycmEgY2FkYSB1bmEgcXVlIGVuY3VlbnRyYS4gVXpnb3IgZGUgbGEgW1tGcmVudGUgRGVzbnVkYXxCYXJlIEJyb3ddXSBidXNjYSBsYSBtw6FzY2FyYSBkZSBNYXJhZGFuYXNoLCB5IGF2ZXJpZ3XDsyBkw7NuZGUgZXN0w6EuIiwgIioqTGEgW1tDdWVudGEgZGUgbG9zIEN1ZXJub3N8Q291bnQgb2YgSG9ybnNdXS4qKiBMb3MgZGFpbW9uZXMgc3ViZW4gaGFjaWEgbGEgZGl2aW5pZGFkIHNvbHRhbmRvIGN1ZXJub3MuIExvcyBkZSBtdWNob3MgY3Vlcm5vcyBzb24gbG9zIG3DoXMgZMOpYmlsZXMsIGxvcyBkZSB1biBzb2xvIGN1ZXJubyBzb24gUHLDrW5jaXBlcywgeSBlbCBwcmltZXJvIHF1ZSBzdWVsdGUgc3Ugw7psdGltbyBjdWVybm8gc2Ugdm9sdmVyw6EgdW4gZGlvcy4gTmluZ3VubyBsbyBoYSBoZWNobyB0b2RhdsOtYS4gTG9zIG9ya2Egc2lydmllcm9uIGEgZGllY2lzw6lpcywgbG9zIFtbUGFkcmVzIGRlIGxhcyBNw6FzY2FyYXN8TWFza2ZhdGhlcnNdXSwgeSBjYWRhIHVubyB0aWVuZSB1bmEgbcOhc2NhcmEuIiwgIioqQ2luY28gbcOhc2NhcmFzIHNlIHB1ZWRlbiBlbmNvbnRyYXIuKiogTGEgbcOhc2NhcmEgZGUgZ3VlcnJhIGRlIE1hcmFkYW5hc2ggZXN0w6EgZW4gZWwgc2Fsw7NuIGRlbCB0cm9ubyBtw6FzIGhvbmRvIGJham8gR29sZ2FybWEuIExhIG3DoXNjYXJhIHNvbnJpZW50ZSBkZSBEYW1vbnVzIHRvZGF2w61hIHNlIGxsZXZhIHB1ZXN0YSwgZW4gdW4gdHJvbm8gYWhvZ2FkbyBkZSBOYWRow7tyLiBMYSBtw6FzY2FyYSBkZSBoaWVycm8gZGUgTXVuZHVzIGVzdMOhIGVuIGxhIGNhcmEgZGUgdW4gZXNjbGF2aXN0YSBxdWUgc2UgaGFjZSBsbGFtYXIgZWwgW1tQYWRyZSBkZSBsYXMgQ2FkZW5hc3xDaGFpbmZhdGhlcl1dIHkgbm8gc2UgbGEgcHVlZGUgcXVpdGFyLiBMYSBtw6FzY2FyYSBxdWUgc29ucsOtZSBkZSBCcmlra28gc2UgaGEgdmVuZGlkbyBjdWF0cm8gdmVjZXMgZW4gbGEgW1tTdWJhc3RhIENhbGxhZGF8UXVpZXQgQXVjdGlvbl1dLCB5IGEgY2FkYSBjb21wcmFkb3IgbG8gdHJhaWNpb25hcm9uIGFudGVzIGRlIHVuIGHDsW8uIExhIG3DoXNjYXJhIGRlIFppa2FuaXRyYXogbm8gZXN0w6EgZW4gbmluZ3VuYSBwYXJ0ZSwgeSBzZSBsYSB2ZSBjZXJjYSBkZSBsYXMgW1tCb2NhcyBIdWVjYXN8SG9sbG93LW1vdXRoc11dLiJdfQ=="
+   }
+  ],
+  "title": "Las tribus orcas"
+ },
+ "ironfang-warband": {
+  "gloss": "Ironfang Warband",
+  "subtitle": "El primer mordisco es de Kharveth",
+  "summary": "Una banda jurada que lleva dientes de hierro y le da la bienvenida al Hambre en pleno saqueo.",
+  "facts": [
+   [
+    "Lealtad",
+    "Jurada a Kharveth"
+   ],
+   [
+    "Señal",
+    "Dientes de hierro en un cordón"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Hierro en la boca",
+    "paragraphs": [
+     "Los guerreros [[Colmillo de Hierro|Ironfang]] se ponen fundas de hierro atadas con alambre sobre los dientes rotos. Sus jefes llevan en un cordón las fundas de sus predecesores y solo se las entregan a un sucesor que haya sobrevivido al Hambre. Sus estandartes muestran los dientes de Kharveth vueltos hacia adentro."
+    ]
+   },
+   {
+    "title": "El corral abierto",
+    "paragraphs": [
+     "Cuando un guerrero empieza a cambiar, los sacerdotes sueltan el ganado y llaman al resto de la banda a comer. Los Colmillo de Hierro cuentan a cada [[Pedernal|Flint]] que se levanta de un saqueo así como una voz nueva de Kharveth. También recuerdan los nombres de los saqueos de los que nadie volvió."
+    ]
+   }
+  ],
+  "title": "La Banda de Guerra Colmillo de Hierro"
+ },
+ "bonewatchers": {
+  "gloss": "Bonewatchers",
+  "subtitle": "La guardia en el borde de las llanuras blancas",
+  "summary": "Saqueadores No Jurados que protegen sus campamentos contra el Hambre y a veces mantienen tratos con las caravanas.",
+  "facts": [
+   [
+    "Lealtad",
+    "[[No Jurados|Unsworn]]"
+   ],
+   [
+    "Señal",
+    "Estacas de hueso en pareja en el borde del campamento"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "En el borde de los huesos",
+    "paragraphs": [
+     "Los [[Vigilahuesos|Bonewatchers]] acampan por el borde de las [[Tierras de Huesos|Bonewilds]], más allá de las grandes llanuras blancas. Un jefe puede aceptar sal, ganado o un rescate y garantizar el paso seguro hasta el próximo pozo. Sus centinelas recuerdan qué caravanas pagaron y cuáles trataron de rodearlos.",
+     "Lo que vigilan, dicen, son los huesos de Shakarr."
+    ]
+   },
+   {
+    "title": "Hacer la guardia de noche",
+    "paragraphs": [
+     "Después de un saqueo, parejas de vigías se sientan aparte del festín. A la primera señal de un cambio, alejan al afectado de los fuegos y le cierran el sendero detrás. Sus cantores nombran a los antepasados que le dieron la espalda a Kharveth, aunque no se ponen de acuerdo sobre hace cuánto fue la ruptura."
+    ]
+   }
+  ],
+  "title": "Los Vigilahuesos"
+ },
+ "ashmaws": {
+  "gloss": "Ashmaws",
+  "subtitle": "Las mandíbulas bajo la ceniza",
+  "summary": "Los devotos errantes de Kharveth se marcan el hocico con ceniza y buscan los saqueos que anuncian sus Pedernales.",
+  "facts": [
+   [
+    "Lealtad",
+    "[[Jurados|Sworn]] a Kharveth"
+   ],
+   [
+    "Señal",
+    "Ceniza frotada en el hocico"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El rastro de ceniza",
+    "paragraphs": [
+     "Las [[Fauces de Ceniza|Ashmaws]] llevan tinajas de barro con ceniza de los fuegos de saqueos anteriores. Antes de marchar se la frotan en el hocico y dejan la huella de una mandíbula en el polvo detrás de ellos. Un [[Pedernal|Flint]] elige su destino a partir de visiones de lugares que nunca han visto."
+    ]
+   },
+   {
+    "title": "Lo que recuerdan los sacerdotes",
+    "paragraphs": [
+     "Han cruzado la tierra seca por un granero que ofrecía poco botín, y después pasaron a la vista de una caravana rica sin seguirla. Sus sacerdotes dijeron que habían visto la puerta del granero en una visión compartida. Los sobrevivientes del saqueo recordaron que las Fauces de Ceniza llamaban por su nombre a alguien que estaba adentro."
+    ]
+   }
+  ],
+  "title": "Las Fauces de Ceniza"
+ },
+ "redjaws": {
+  "gloss": "Redjaws",
+  "subtitle": "Quijadas rojas en los caminos del mar",
+  "summary": "Las Mandíbulas Rojas son saqueadores No Jurados que aprendieron a navegar. Ahora son una banda de guerra casi enteramente marítima, y atacan embarcaderos de transbordadores y almacenes de la costa hasta tan al norte como la Frontera del Norte.",
+  "facts": [
+   [
+    "Lealtad",
+    "[[No Jurados|Unsworn]]"
+   ],
+   [
+    "Avistamientos recientes",
+    "La [[Frontera del Norte|Northern Frontier]]"
+   ],
+   [
+    "Operaciones",
+    "Saqueo marítimo por los caminos del mar"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La vida en los caminos del mar",
+    "paragraphs": [
+     "Las [[Mandíbulas Rojas|Redjaws]] aprendieron a navegar entre islas y ahora pasan casi todo su tiempo a flote. Sus tripulaciones leen las mareas, sondean canales desconocidos y saben qué caletas resguardadas pueden esconder un barco hasta que pase una patrulla. Todavía saquean en tierra, pero eligen blancos a los que pueden llegar desde el agua y cargan el botín a bordo antes de que la costa pueda juntar una persecución."
+    ]
+   },
+   {
+    "title": "La quijada roja",
+    "paragraphs": [
+     "Las Mandíbulas Rojas tiñen sus estandartes de quijadas con tierra roja de las tierras secas. Saquean almacenes aislados y embarcaderos de transbordadores, y después venden lo que no pueden cargar. Su jefe devuelve a un cautivo una vez que se paga el rescate. Los poblados que se niegan han encontrado sus transbordadores desaparecidos a la mañana siguiente."
+    ]
+   },
+   {
+    "title": "Un trato en el norte",
+    "paragraphs": [
+     "Los vigías de la [[Frontera|Frontier]] cuentan de una partida de las Mandíbulas Rojas que devolvió a sus cautivos bajo tregua y volvió dos noches después a pedir refugio. Los gnolls dijeron que habían dejado a uno de los suyos amarrado bajo cubierta después de las primeras señales del Hambre. Al caer la noche el barco iba a la deriva de vuelta hacia el embarcadero."
+    ]
+   }
+  ],
+  "title": "Las Mandíbulas Rojas"
+ },
+ "embertusks": {
+  "gloss": "Embertusks",
+  "subtitle": "Las brasas bajo la cresta negra",
+  "summary": "Una tribu orca de las Tierras Salvajes del Sur que lleva brasas sagradas a la batalla y saquea los caminos debajo de su santuario.",
+  "facts": [
+   [
+    "Territorio",
+    "Crestas secas y caminos de valle"
+   ],
+   [
+    "Señal",
+    "Brasas encendidas en ollas de barro con tapa"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El hogar enterrado",
+    "paragraphs": [
+     "Los [[Colmillos de Brasa|Embertusks]] dicen que su santuario ya ardía cuando el primer antepasado lo encontró bajo una cresta partida. Llevan sus brasas en ollas de barro con tapa. Un jefe de guerra pone una al pie de una puerta antes de exigir tributo, y los guerreros esperan la respuesta mientras la olla humea."
+    ]
+   },
+   {
+    "title": "El camino de la cresta",
+    "paragraphs": [
+     "Han sumado bandas más chicas a sus filas ofreciéndoles acceso al santuario y una parte del ganado que suben de los caminos de abajo. Algunos ancianos quieren que la tribu defienda la cresta. Los jefes de guerra más jóvenes empujan más abajo por los valles, donde un cruce capturado puede dejar más que una granja quemada."
+    ]
+   }
+  ],
+  "title": "Los Colmillos de Brasa"
+ },
+ "reedskulls": {
+  "gloss": "Reedskulls",
+  "subtitle": "Lo que duerme bajo el túmulo ahogado",
+  "summary": "Una tribu orca que se extiende por los humedales de las Tierras Salvajes del Sur, donde reclama los cruces y cobra tributo en hierro.",
+  "facts": [
+   [
+    "Territorio",
+    "Humedales y cruces de río"
+   ],
+   [
+    "Señal",
+    "Calaveras atadas con juncos"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El túmulo ahogado",
+    "paragraphs": [
+     "Las [[Calaveras de Junco|Reedskulls]] atan juncos alrededor de calaveras de animales y las cuelgan sobre los canales que reclaman. Con el agua más baja vadean hasta un túmulo ahogado y hunden una ofrenda de hierro. Sus ancianos dicen que algo de abajo aprendió el sonido de los nombres de sus antepasados y todavía contesta cuando el agua está baja."
+    ]
+   },
+   {
+    "title": "Los cruces",
+    "paragraphs": [
+     "La tribu ha tomado más cruces a medida que creció. Las partidas de las Calaveras de Junco cortan las sogas de los transbordadores y se llevan los botes de los pueblos que rechazan sus exigencias. Prefieren el tributo en clavos, herramientas y hojas, y cada botín renueva la disputa sobre cuánto forjar y cuánto darle a la cosa de abajo."
+    ]
+   }
+  ],
+  "title": "Las Calaveras de Junco"
  }
 }
