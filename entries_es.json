@@ -28170,5 +28170,150 @@
    }
   ],
   "title": "Los Torcidos"
+ },
+ "orka": {
+  "gloss": "The Orka",
+  "aliases": [
+   "Orka",
+   "los orka",
+   "imperio orka",
+   "Gorrokar",
+   "Tribus que Recuerdan",
+   "cara desnuda",
+   "Padres de las Máscaras"
+  ],
+  "subtitle": "El imperio orco que llevó la cara de los daimones, y lo que le costó",
+  "summary": "Mucho antes de que ningún humano viera las islas, el sur era de los orka: un imperio de orcos más grande que cualquier cosa que se haya levantado desde entonces. Compró su poder a los daimones, una máscara a la vez, y las máscaras se lo comieron.",
+  "epigraph": {
+   "quote": "No los conquistaron. Escríbelo. Nadie les ganó. Se gastaron.",
+   "by": "Hraska Votopiedra, narradora de las Tribus que Recuerdan"
+  },
+  "facts": [
+   [
+    "Cuándo",
+    "las edades hondas, mucho antes del [[Desembarco|Landing]]"
+   ],
+   [
+    "Dónde",
+    "las [[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Su dios",
+    "Gorrokar, antes de los daimones"
+   ],
+   [
+    "Su poder",
+    "dieciséis pactos con daimones, cada uno sellado con una máscara"
+   ],
+   [
+    "Su guerra",
+    "la [[Guerra Orka|Orka War]], contra los feéricos y los elfos"
+   ],
+   [
+    "Su final",
+    "las máscaras"
+   ],
+   [
+    "Sus herederos",
+    "los orcos de las islas"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El imperio",
+    "paragraphs": [
+     "Los orka eran orcos, y eran constructores. Levantaron ciudades de piedra por todo el sur, tuvieron caminos, ejércitos y registros, y dejaron monumentos que todavía se alzan sobre la selva como los huesos de algo enorme. Su dios era Gorrokar: la fuerza, la caza, la tribu y una clase dura de honor. Bajo él los orka eran feroces y todavía no estaban condenados.",
+     "Si se hubiera detenido ahí, las islas los recordarían como uno de los grandes pueblos del mundo."
+    ]
+   },
+   {
+    "title": "El trato",
+    "paragraphs": [
+     "No se detuvo ahí. Los señores de los orka querían más de lo que podía dar el duro camino de Gorrokar, y había cosas escuchando que se alegraron de ofrecérselo. Los daimones prometieron dominio, hechicería y conquista, a un precio que los orka creyeron que podían pagar.",
+     "Cada pacto se selló con una máscara, hecha a semejanza del daimón al que ataba. A través de la máscara el poder del daimón corría hacia quien la llevaba. Un caudillo con la máscara de un daimón de la guerra se volvía algo que no se podía detener. La moda se extendió por las casas gobernantes, y después ya no fue una moda. Ser señor de los orka era llevar la cara de un daimón."
+    ]
+   },
+   {
+    "title": "El precio",
+    "paragraphs": [
+     "Una máscara que se lleva el tiempo suficiente ya no se quita. Crece hacia quien la lleva, carne con hueso, y lo que hay debajo se gasta. Año tras año quedaba menos orco detrás de cada máscara y más de la cosa que la había hecho, hasta que adentro no quedó nadie.",
+     "El imperio no se dio cuenta. Sus señores seguían dando órdenes y ganando guerras. Simplemente habían dejado de ser sus señores."
+    ]
+   },
+   {
+    "title": "Las incursiones al Feérico",
+    "paragraphs": [
+     "A medida que los daimones se hacían más fuertes abrieron caminos hacia el [[Feérico|Faewild]], y los orka pasaron por ellos a buscar esclavos y sacrificios. Un feérico es la ofrenda más rica que se le puede dar a un daimón, y la magia feérica le facilita a un daimón tomar forma en el mundo.",
+     "Los feéricos nunca habían peleado una guerra. Aprendieron, y llamaron a sus primos los elfos, que llevaron la pelea a los orka en el sur. Las historias mortales llaman a esa mitad la [[Guerra de las Cortes|War of the Courts]]. Los feéricos llaman al todo la Guerra Orka, y la página del propio Feérico la cuenta."
+    ]
+   },
+   {
+    "title": "La caída",
+    "paragraphs": [
+     "Nadie les ganó a los orka. El [[Velo|Veil]] se levantó y los dejó fuera del Feérico. Los elfos se retiraron. Sin nada que saquear y sin nadie a quien conquistar, los señores enmascarados se volvieron unos contra otros, culto contra culto, y el imperio se deshizo en una generación. Los relatos viejos dicen que al final alguien dejó entrar al mar en las ciudades de abajo a propósito."
+    ]
+   },
+   {
+    "title": "Lo que queda",
+    "paragraphs": [],
+    "list": [
+     "Golgarma y las otras ciudades muertas de las Tierras Salvajes del Sur, que la selva lleva diez mil años tratando de cubrir y no ha podido.",
+     "Las ciudades de abajo ahogadas. Los orka construían hacia abajo además de hacia arriba, y ahora el mar está en los salones bajos.",
+     "Los orcos de las islas, que son sus descendientes y están cansados de que les pregunten.",
+     "Las [[Tribus que Recuerdan|Remembering Tribes]], que guardaron el saber viejo y están divididas sobre qué hacer con él.",
+     "Los [[lugares delgados|thin places]] y la mala tierra del sur, por donde los daimones se abrieron paso.",
+     "Las máscaras. Todavía están allá abajo, y siempre hay alguien buscándolas."
+    ]
+   },
+   {
+    "title": "Los orcos de hoy",
+    "paragraphs": [
+     "Casi todos los orcos de las islas son estibadores, arrieros, marineros y gente de pueblo, y conocen el imperio solo como una historia que otra gente cuenta sobre ellos. Unas pocas tribus guardaron el saber. Las Tribus que Recuerdan están divididas: unas honran a Gorrokar y quieren recuperar el honor de los orka sin los daimones, y otras quieren las máscaras. A un orco de la primera clase que ha jurado no llevar nunca una se le dice [[cara desnuda|bare-faced]], y lo dice con orgullo."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Una excavación en las Tierras Salvajes del Sur dejó de mandar informes. El último decía que habían encontrado un salón sellado y que los sellos estaban del lado de afuera.",
+     "Un estibador orco de [[Puerto Sur|Southhaven]] sueña en una lengua que no habla. Su abuela la reconoce, y tiene miedo.",
+     "Dos jefes de las Tribus que Recuerdan quieren la misma ruina: uno para enterrar lo que hay adentro, el otro para desenterrarlo. Cada uno se ofrece a contratar al grupo.",
+     "Han visto a una figura enmascarada en la boca de una mina del sur, parada completamente quieta durante tres noches. No ha respirado ni una vez.",
+     "La [[Universidad|University]] quiere que se reconozca un camino orka hasta su final. El último agrimensor volvió antes de tiempo y renunció."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Un personaje orco puede saberse el [[Relato|Telling]], la historia de su propia familia, sin saber nada del imperio. Decide cuál.",
+     "La cantería orka no tiene argamasa ni ventanas en los pisos bajos. Si los sellos de una puerta están del lado de afuera, déjala.",
+     "Nunca te pongas nada que encuentres en una ruina orka. Las islas tienen un dicho para eso: nadie se pone un regalo."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Las piedras más viejas de Golgarma son más viejas que el trato de los orka. Las tallas cambian a media altura de los muros.",
+     "A Gorrokar todavía se le adora. Es el dios de la fuerza honrada, y sus fieles dicen que ha estado esperando una disculpa.",
+     "Los orka tenían esclavos por cientos de miles. Uno de los dieciséis daimones no existía para otra cosa."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay un salón bajo Golgarma donde los señores todavía están sentados. Enmascarados. Nadie los enterró, porque nadie estaba seguro de que estuvieran muertos.” (un desertor de la Legión Carmesí)",
+     "“Las máscaras bonitas son las malas. Las feas solo te matan.” (un excavador de la Novena Pala)",
+     "“Una reina orka ahogó a su propio imperio para detenerlo. Las Tribus que Recuerdan saben su nombre y no se lo dan a los de afuera.” (una guardiana del canto de Puerto Sur)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbQ3VlbnRhIGRlIGxvcyBDdWVybm9zfENvdW50IG9mIEhvcm5zXV0uKiogTG9zIGRhaW1vbmVzIHN1YmVuIGhhY2lhIGxhIGRpdmluaWRhZCBzb2x0YW5kbyBjdWVybm9zLiBMb3MgZGUgbXVjaG9zIGN1ZXJub3Mgc29uIGxvcyBtw6FzIGTDqWJpbGVzLCBsb3MgZGUgdW4gc29sbyBjdWVybm8gc29uIFByw61uY2lwZXMsIHkgZWwgcHJpbWVybyBxdWUgc3VlbHRlIHN1IMO6bHRpbW8gY3Vlcm5vIHNlIHZvbHZlcsOhIHVuIGRpb3MuIE5pbmd1bm8gbG8gaGEgaGVjaG8gdG9kYXbDrWEuIExvcyBvcmthIHNpcnZpZXJvbiBhIGRpZWNpc8OpaXMsIGxvcyBbW1BhZHJlcyBkZSBsYXMgTcOhc2NhcmFzfE1hc2tmYXRoZXJzXV0sIHkgY2FkYSB1bm8gdGllbmUgdW5hIG3DoXNjYXJhLiIsICIqKk5hZGjDu3IuKiogQ3VhbmRvIGxhcyBtw6FzY2FyYXMgYWh1ZWNhcm9uIGVsIGltcGVyaW8sIGxhIHJlaW5hIGNoYW1hbmEgRHVyemhhIFtbTm92aWEgZGVsIE1hcnxTZWEtQnJpZGVdXSBzZWxsw7MgbGFzIGNpdWRhZGVzIGRlIGFiYWpvIGNvbiBsb3Mgc2XDsW9yZXMgZW5tYXNjYXJhZG9zIGFkZW50cm8geSBkZWrDsyBlbnRyYXIgYWwgbWFyLiBNaWxlcyBkZSBvcmthIGNvbXVuZXMgc2UgYWhvZ2Fyb24gY29uIGVsbG9zLiBMb3MgZW5tYXNjYXJhZG9zIG5vIHJlc3BpcmFuLiBTaWd1ZW4gc2VudGFkb3MgZW4gc3VzIHRyb25vcy4iLCAiKipMYXMgW1tUcmlidXMgcXVlIFJlY3VlcmRhbnxSZW1lbWJlcmluZyBUcmliZXNdXSoqIHNhYmVuIGVsIG5vbWJyZSBkZSBsYSBOb3ZpYSBkZWwgTWFyIHkgbG8gcXVlIGhpem8uIEhyYXNrYSBbW1ZvdG9waWVkcmF8U3RvbmV2b3ddXSBlbnNlw7FhIHF1ZSBlbCBpbXBlcmlvIGNhecOzIHBvcnF1ZSBsbGV2w7MgbGFzIG3DoXNjYXJhcywgeSBlbnRpZXJyYSBjYWRhIHVuYSBxdWUgZW5jdWVudHJhLiBVemdvciBkZSBsYSBbW0ZyZW50ZSBEZXNudWRhfEJhcmUgQnJvd11dIGJ1c2NhIGxhIG3DoXNjYXJhIGRlIE1hcmFkYW5hc2gsIHkgYXZlcmlndcOzIGTDs25kZSBlc3TDoS4iLCAiKipDaW5jbyBtw6FzY2FyYXMgc2UgcHVlZGVuIGVuY29udHJhci4qKiBMYSBtw6FzY2FyYSBkZSBndWVycmEgZGUgTWFyYWRhbmFzaCBlc3TDoSBlbiBlbCBzYWzDs24gZGVsIHRyb25vIG3DoXMgaG9uZG8gYmFqbyBHb2xnYXJtYS4gTGEgbcOhc2NhcmEgc29ucmllbnRlIGRlIERhbW9udXMgdG9kYXbDrWEgc2UgbGxldmEgcHVlc3RhLCBlbiB1biB0cm9ubyBhaG9nYWRvIGRlIE5hZGjDu3IuIExhIG3DoXNjYXJhIGRlIGhpZXJybyBkZSBNdW5kdXMgZXN0w6EgZW4gbGEgY2FyYSBkZSB1biBlc2NsYXZpc3RhIHF1ZSBzZSBoYWNlIGxsYW1hciBlbCBbW1BhZHJlIGRlIGxhcyBDYWRlbmFzfENoYWluZmF0aGVyXV0geSBubyBzZSBsYSBwdWVkZSBxdWl0YXIuIExhIG3DoXNjYXJhIHF1ZSBzb25yw61lIGRlIEJyaWtrbyBzZSBoYSB2ZW5kaWRvIGN1YXRybyB2ZWNlcyBlbiBsYSBbW1N1YmFzdGEgQ2FsbGFkYXxRdWlldCBBdWN0aW9uXV0sIHkgYSBjYWRhIGNvbXByYWRvciBsbyB0cmFpY2lvbmFyb24gYW50ZXMgZGUgdW4gYcOxby4gTGEgbcOhc2NhcmEgZGUgWmlrYW5pdHJheiBubyBlc3TDoSBlbiBuaW5ndW5hIHBhcnRlLCB5IHNlIGxhIHZlIGNlcmNhIGRlIGxhcyBbW0JvY2FzIEh1ZWNhc3xIb2xsb3ctbW91dGhzXV0uIiwgIioqUGFyYSBxdcOpIGxhZG8gY29ycmUuKiogVW4gZGFpbcOzbiBtZW5vciBlcyB1biBob3Jyb3IgaGluY2hhZG8gZGUgY2llbnRvcyBkZSBjdWVybm9zLiBBIG1lZGlkYSBxdWUgdW4gZGFpbcOzbiBnYW5hIHBvZGVyIGxvcyB2YSBzb2x0YW5kbywgeSBzZSB2dWVsdmUgbcOhcyBsaW1waW8sIG3DoXMgZWxlZ2FudGUgeSBtw6FzIGh1bWFuby4gRG9zIG8gdHJlcyBjdWVybm9zIG1hcmNhbiBhIHVuIEdyYW4gRGFpbcOzbi4gVW5vIG1hcmNhIGEgdW4gUHLDrW5jaXBlLiBNYXJhZGFuYXNoIHRpZW5lIHVubywgRGFtb251cyBkb3MsIE5vcmRyYWthcm5hIHRyZXMgeSBWYW5pcmlvbmlzIGRvcy4gQWwgZGVzY29ub2NpZG8gaGVybW9zbyBlcyBhbCBxdWUgaGF5IHF1ZSB0ZW1lci4iLCAiKipMbyBxdWUgYnVzY2FuLioqIFNvbHRhciBlbCDDumx0aW1vIGN1ZXJubyBlcyB2b2x2ZXJzZSB1biBkaW9zLiBDYWRhIHBhY3RvLCBjYWRhIGFsbWEgeSBjYWRhIGltcGVyaW8gY29udmVuY2lkbyBkZSBpciBhIHN1IHJ1aW5hIGVzIGNvbWJ1c3RpYmxlIHBhcmEgZXNhIHN1YmlkYS4gTmluZ3VubyBsYSBoYSB0ZXJtaW5hZG8gdG9kYXbDrWEuIiwgIioqTGEgW1tNYWRyZSBFc2NhcmxhdGF8U2NhcmxldCBNb3RoZXJdXSoqIGRlIGxhIFtbTGVnacOzbiBDYXJtZXPDrXxDcmltc29uIExlZ2lvbl1dIGVzdMOhIHRvY2FkYSBwb3IgVmFuaXJpb25pcywgcXVlIGxhIGFsY2FuemEgYSB0cmF2w6lzIGRlIHVuIHJlY2lwaWVudGUgbnVldm8geSBzaW4gc2FiZXJsbywgY29tbyBhbGd1bmEgdmV6IGFsY2FuesOzIGEgdHJhdsOpcyBkZSBsb3Mgc2XDsW9yZXMgZGUgbG9zIG9ya2EuIl19"
+   }
+  ],
+  "title": "Los orka"
  }
 }
