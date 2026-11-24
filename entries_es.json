@@ -21540,7 +21540,7 @@
    {
     "title": "La Apertura",
     "paragraphs": [
-     "El primer sueño verdadero se llama **la [[Apertura|Opening]]**, y todo kalashtar recuerda la noche en que pasó. Llega casi siempre entre la infancia y los primeros años de adulto, a veces más tarde, rara vez antes de los siete o después de los treinta. Les llega sobre todo a los que nacieron o se criaron cerca de un **[[lugar delgado|thin place]]**, donde el [[Velo|Veil]] se gasta, y en un año de [[Marea Rey|King Tide]] más que en cualquier otro. Un niño que despierta de ella llorando, o riéndose, o hablando un lisseth que nunca aprendió, se abrió, y la familia lo sabe para la mañana.",
+     "El primer sueño verdadero se llama **la [[Apertura|Opening]]**, y todo kalashtar recuerda la noche en que pasó. Llega casi siempre entre la infancia y los primeros años de adulto, a veces más tarde, rara vez antes de los siete o después de los treinta. Les llega sobre todo a los que nacieron o se criaron cerca de un **[[lugar delgado|thin place]]**, donde el [[Velo|Veil]] se gasta, y en un año de [[Marea Rey|King Tide]] más que en cualquier otro. Un niño que despierta de ella llorando, o riéndose, o hablando un [[lisseth|Lisseth]] que nunca aprendió, se abrió, y la familia lo sabe para la mañana.",
      "Corre en algunas familias más de lo que permite el azar. Los hijos de un kalashtar nacen humanos, como todos, y algunos empiezan a soñar."
     ]
    },
@@ -21632,5 +21632,288 @@
    }
   ],
   "title": "Los Kalashtar"
+ },
+ "fae": {
+  "gloss": "The Fae",
+  "aliases": [
+   "feéricos",
+   "los feéricos",
+   "Luminosos",
+   "Sombríos",
+   "altos feéricos",
+   "gente menuda",
+   "duendecillo",
+   "duendecillos",
+   "feéricos de los caminos",
+   "lisseth",
+   "vino feérico",
+   "seda de luna",
+   "las cuatro Cortes"
+  ],
+  "subtitle": "La gente de las cuatro Cortes, y los que no tienen ninguna",
+  "summary": "Los feéricos son la gente del Feérico. No mueren de viejos, cumplen su palabra al pie de la letra y esperan lo mismo de ti. Los isleños comercian con ellos, llevan su sangre y les enseñan a todos los niños cuatro reglas antes de dejarlos salir del patio.",
+  "epigraph": {
+   "quote": "Un feérico va a cumplir su palabra al pie de la letra. Esa es la advertencia, no el consuelo.",
+   "by": "Un Guardián del Velo"
+  },
+  "facts": [
+   [
+    "Hogar",
+    "el [[Feérico|Faewild]], más allá del [[Velo|Veil]]"
+   ],
+   [
+    "Vida",
+    "no mueren de viejos"
+   ],
+   [
+    "Lengua",
+    "el [[lisseth|Lisseth]], el habla de las hojas"
+   ],
+   [
+    "Cortes",
+    "Verano, Otoño, Invierno, Primavera"
+   ],
+   [
+    "Cruzan en",
+    "los [[lugares delgados|thin places]], la [[Marea Rey|King Tide]], los [[Días Quietos|Still Days]]"
+   ],
+   [
+    "Los detiene",
+    "el hierro, y una guarda jurada a Varneth"
+   ],
+   [
+    "Quieren",
+    "hierro trabajado, arte, historias, secretos"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Quiénes son",
+    "paragraphs": [
+     "Los feéricos son la gente del Feérico, del otro lado del Velo. Son los primos mayores de los elfos, que vinieron a las islas en gran número como sus aliados en la [[Guerra Orka|Orka War]]. Un feérico no muere de viejo. Casi todos los que se encuentra un isleño ya eran viejos cuando se firmó la Carta.",
+     "Los cuentos viejos dicen que fueron mansos alguna vez, sin tronos y sin caballeros. Después los orka entraron al Feérico a saquear, y aprendieron la guerra, y siendo lo que son, la aprendieron bien y nunca la olvidaron. Un feérico de hoy es cortés, paciente y peligroso, casi siempre en ese orden.",
+     "Cumplen su palabra al pie de la letra, y te hacen cumplir la tuya igual. Casi todo lo que un isleño sabe sobre cómo tratar con ellos se reduce a eso."
+    ]
+   },
+   {
+    "title": "Las cuatro Cortes",
+    "paragraphs": [
+     "Casi todos los feéricos pertenecen a una [[Corte|Court]], y cada Corte es una estación bajo su propio [[Archifeérico|Archfey]]. La Corte de un feérico te dice qué honra y qué te va a quitar.",
+     "El [[Desatado|Unbound]] no pertenece a ninguna, y las cuatro Cortes le tienen miedo."
+    ],
+    "table": {
+     "headers": [
+      "Estación",
+      "Corte",
+      "Soberano",
+      "Temple"
+     ],
+     "rows": [
+      [
+       "Verano",
+       "La [[Corona Ardiente|Burning Crown]]",
+       "[[Pyraxis, la Llama que no se Inclina|Pyraxis, the Unbowed Flame]]",
+       "Caballeros dorados. Honran el valor, desprecian la debilidad, y se baten a duelo contigo por un insulto y hacen fiesta cuando pierdes."
+      ],
+      [
+       "Otoño",
+       "La [[Cosecha Roja|Red Harvest]]",
+       "[[Vael Espinaluto|Vael Mournthorn]], el [[Rey Segador Carmesí|Crimson Reaper-King]]",
+       "La Corte de los tratos, las deudas y los precios. Un mortal que va allá a cerrar un trato casi nunca sale ganando."
+      ],
+      [
+       "Invierno",
+       "El [[Largo Silencio|Long Silence]]",
+       "Morthryn, la [[Pálida Emperatriz del Aire y del Final|Pale Empress of Air and Ending]]",
+       "Fría, paciente y cruel, con un código de hierro. La Corte menos amiga de las islas, y la única a la que le importa lo que vale la Krysta."
+      ],
+      [
+       "Primavera",
+       "La [[Primera Flor|First Bloom]]",
+       "Aoifel, la [[Risa Verde|Green Laugh]]",
+       "Juegos, juventud y vida nueva. La más mansa de las cuatro, lo cual en el Feérico no es muy manso."
+      ]
+     ],
+     "caption": "Las Cortes del Feérico"
+    }
+   },
+   {
+    "title": "El camino viejo y el nuevo",
+    "paragraphs": [
+     "Los [[Luminosos|Seelie]] y los [[Sombríos|Unseelie]] no son Cortes. Son dos respuestas a la misma guerra, y los dos se encuentran en cada Corte, a veces en la misma mesa."
+    ],
+    "list": [
+     "Los Luminosos guardan los caminos viejos: el ritual, el trato que obliga, la astucia antes que la crueldad, el truco elegante. “No necesitamos volvernos los orka para derrotarlos.”",
+     "Los Sombríos guardan el camino nuevo: duro, depredador y sin piedad. “La misericordia casi acaba con nosotros. Nunca más.”",
+     "La Primavera es casi toda Luminosa y el Invierno casi todo Sombrío. El Otoño está partido por la mitad, y sus peleas llegan a las islas como precios que cambiaron."
+    ]
+   },
+   {
+    "title": "Clases de feéricos",
+    "paragraphs": [
+     "Los isleños los clasifican por lo que se han encontrado."
+    ],
+    "table": {
+     "headers": [
+      "Clase",
+      "Qué son"
+     ],
+     "rows": [
+      [
+       "Los altos feéricos",
+       "Los señores y las damas de las Cortes: altos, hermosos y muy viejos. Son los primos mayores de los elfos, y los que cierran los tratos que terminan en las canciones."
+      ],
+      [
+       "La gente menuda",
+       "Duendecillos, sílfides y sus primos. Son los feéricos que un isleño tiene más probabilidades de encontrarse: en una ventana, en un seto, en un lugar delgado. Llevan mensajes y hacen mandados, a cambio de un precio."
+      ],
+      [
+       "Los cambiados",
+       "Feéricos que llevan caras. Un cambiado puede vivir años en un puerto como el primo de alguien de otra isla. Casi todos andan en un encargo de una Corte, y unos pocos simplemente se quedaron."
+      ],
+      [
+       "Los [[Torcidos|warped]]",
+       "Goblinoides que quedaron atrapados en el Feérico en la Guerra Orka y nunca salieron. Edades en ese país los cambiaron, y le rezan a una cara más cruel del Skarn."
+      ],
+      [
+       "Los feéricos de los caminos",
+       "Feéricos de la [[Errancia|Roam]], muy lejos de cualquier Corte y bajo la ley de ninguna: los que atienden las casas de camino, los agentes de camino y los errantes. Son los feéricos que mejor conoce un kalashtar."
+      ]
+     ],
+     "caption": "Los feéricos que un isleño se puede encontrar"
+    }
+   },
+   {
+    "title": "Dónde cruzan",
+    "paragraphs": [
+     "El Velo está delgado en algunos lugares todo el tiempo, y en todas partes una parte del tiempo."
+    ],
+    "list": [
+     "Los lugares delgados. Un círculo de piedras, un estanque, una puerta en un bosque. La gente del lugar sabe dónde está el suyo, y qué no hacer ahí.",
+     "La Marea Rey. El Velo se gasta más que nunca cuando llega la gran marea.",
+     "Los Días Quietos. Los tratos feéricos se vencen en los cinco días que no le pertenecen a ningún dios, y los feéricos vienen a cobrar.",
+     "El hierro. El hierro trabajado limita dónde y cómo puede cruzar un feérico, y por eso comercian por él y por eso odian verlo desenvainado.",
+     "Las guardas. Una guarda contra el cruce se jura en nombre de [[Varneth, el Guardián del Umbral|Varneth, the Threshold Warden]], y se renueva cada Día Quieto.",
+     "Las [[mariposas del velo|Veil butterflies]]. Sus alas se vuelven transparentes como el agua cuando hay un feérico o un lugar delgado cerca.",
+     "La Errancia. El campo abierto detrás del sueño no es de ellos, pero entran a él con la misma facilidad con que se baja de un porche. Un kalashtar se encuentra allá más feéricos de los que se encuentra nunca alguien despierto."
+    ]
+   },
+   {
+    "title": "Lo que comercian",
+    "paragraphs": [
+     "Todas las Cortes comercian con las islas en alguna medida. Los feéricos traen [[seda de luna|moon-silk]], fruta que no debería existir, favores y nombres. Se llevan hierro trabajado, arte, historias y secretos, y valoran una buena historia más que un cofre de monedas.",
+     "La [[Casa Caelvaron|House Caelvaron]] es el único poder de las islas con tratos constantes y formales, porque sus Altos Elfos pasan diez años en el Feérico por cada cien en el mundo. Los pocchin comercian con fruta feérica y no dicen dónde la consiguen.",
+     "Algunas mercancías feéricas van contra la ley de la [[Concordia|Concord]] y contra el sentido común a la vez: tratos embotellados, un [[vino feérico|fae-wine]] que le quita un año a quien lo bebe, y contratos de cambiado. Se venden igual, en los Días Quietos y en la Marea Rey, y el precio nunca es lo que pagas.",
+     "Un feérico también puede ser un patrono. La magia feérica, tenida por pacto, es una de las cuatro fuentes de magia de las islas, y no le responde a la manera de contar del [[Registro|Registry]]."
+    ]
+   },
+   {
+    "title": "Modales",
+    "paragraphs": [
+     "Todo niño de las islas oye las cuatro reglas: nunca des tu nombre verdadero, nunca digas gracias, nunca aceptes un regalo que no puedas devolver, y cuenta un trato tres veces. Lo demás es práctica."
+    ],
+    "table": {
+     "headers": [
+      "Si un feérico",
+      "Haz esto"
+     ],
+     "rows": [
+      [
+       "Te pregunta el nombre",
+       "Da el nombre con el que te llaman, y di que es eso: \"Me llaman Bryn.\" Nunca digas \"mi nombre es\"."
+      ],
+      [
+       "Te ofrece un regalo",
+       "Recházalo, o págalo en el acto con algo tuyo. Un regalo que no puedes devolver es una deuda sin número."
+      ],
+      [
+       "Te hace un favor",
+       "No digas gracias. Elogia lo que hizo: \"Eso estuvo bien hecho.\""
+      ],
+      [
+       "Te ofrece un trato",
+       "Cuéntalo tres veces, en voz alta, y pregunta qué pasa si cualquiera de los dos lados falla. Después cuéntalo una vez más."
+      ],
+      [
+       "Te ofrece comida o vino",
+       "Pregunta primero el precio. Se sabe de vino feérico que le quitó un año al que lo bebió."
+      ],
+      [
+       "Se siente insultado por ti",
+       "Discúlpate enseguida, exactamente, y por lo que hiciste. Una disculpa vaga es un segundo insulto."
+      ],
+      [
+       "Está parado en tu camino",
+       "Deja tu hierro envainado. Desenvainar hierro contra un feérico es una declaración, y ellos responden a las declaraciones."
+      ]
+     ],
+     "caption": "Si un feérico hace esto"
+    }
+   },
+   {
+    "title": "Sangre feérica en las islas",
+    "paragraphs": [],
+    "list": [
+     "Los elfos son sus primos en el mundo despierto, y llevan un poco de la misma luz.",
+     "A los [[Elfos de la Escarcha|Frost Elves]] los echaron de él. El Invierno desterró a sus antepasados, y sus descendientes no recuerdan haber sido feéricos.",
+     "Los semielfos llevan un poco y son bienvenidos en dos mesas.",
+     "Los kalashtar son humanos, pero sueñan la Errancia cada noche, y a las Cortes les interesa quién ha empezado a hacerlo.",
+     "De vez en cuando nace un niño tocado por lo feérico cerca de un lugar delgado. La familia casi siempre sabe a qué abuela preguntarle."
+    ]
+   },
+   {
+    "title": "El lisseth",
+    "paragraphs": [
+     "Las Cortes hablan lisseth, el habla de las hojas. Sus letras se cultivan, no se escriben, y cada palabra es un trato. Un mortal que lo aprende aprende a hablar despacio."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "El trato de una abuela se vence este Día Quieto, y la abuela murió en la primavera. El feérico vino a cobrarle a quien tenga su nombre.",
+     "Llega un duendecillo con un mensaje para alguien del grupo, de parte de alguien que nunca ha conocido. Quiere su pago antes de hablar.",
+     "Un caballero del Verano desafió a un pueblo portuario por un insulto que nadie recuerda haber hecho. Va a aceptar a un campeón.",
+     "Hay una caja de vino feérico suelta en un puerto una semana antes de una boda. Ya faltan tres botellas.",
+     "Alguien del pueblo no ha envejecido en treinta años, y los vecinos recién empezaron a contar."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Un [[nombre de uso|use-name]] es seguro y un nombre verdadero no. Decide cuál ha estado dando tu personaje.",
+     "Los feéricos pagan bien las historias. Una que nadie haya oído vale más que una bolsa, así que guárdate una.",
+     "Si un trato te suena justo, no lo has contado las veces suficientes.",
+     "Un feérico que te debe es una compañía más segura que un feérico al que le caes bien."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "La Krysta no hace nada en el Feérico. Una lámpara de Krysta que se lleva al otro lado es un pisapapeles de vidrio.",
+     "“Gracias” admite una deuda. Los isleños que saben de feéricos dicen “bien hecho” en cambio, y algunos conservan la costumbre en casa.",
+     "Vael Espinaluto es el único rey entre los cuatro soberanos.",
+     "Los feéricos cuentan el tiempo de otra manera. Un feérico que dice “pronto” puede estar hablando de tus nietos."
+    ]
+   },
+   {
+    "title": "La guerra que los hizo",
+    "paragraphs": [
+     "Casi todo lo duro de los feéricos viene de una sola guerra. No tenían tronos ni caballeros hasta que el imperio de los orka, enmascarado de daimones, empezó a saquear el Feérico en busca de esclavos y sacrificios. Los feéricos la llaman la Guerra Orka, y la página del propio Feérico la cuenta."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay un cambiado en la junta de un gremio de Ventoro. Once años, y vota con sensatez, así que nadie ha buscado mucho.” (un escribiente de la Casa de los Tesoreros)",
+     "“A los Elfos de la Escarcha no los desterraron por huir. Pregúntale a un feérico del Invierno por qué los desterraron y se va a ir del cuarto.” (un comerciante de Bastión de Escarcha)",
+     "“El Invierno tiene amigos en el hielo, y les paga con el tiempo.” (un ballenero de la Hermandad de la Salmuera)",
+     "“El Otoño está comprando deudas mortales. Comunes, de prestamistas comunes. Nadie sabe lo que significa deberle a una Corte por accidente.” (un prestamista de Bastión del Sol)"
+    ]
+   }
+  ],
+  "title": "Los Feéricos"
  }
 }
