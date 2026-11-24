@@ -255,6 +255,11 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "serpents-coil": ["scenes", "A schooner threads the reefs at low tide.", "Una goleta cruza los arrecifes en bajamar.", "serpents-coil", {"width": 1536, "height": 864}],
+ "halfwake": ["scenes", "Lanterns reflect in the glass vault above Halfwake.", "Los faroles se reflejan en la bóveda de vidrio de Halfwake.", "halfwake", {"width": 1536, "height": 864}],
+ "suns-grave": ["scenes", "Two fishers find gold leaf in their net.", "Dos pescadores encuentran una lámina de oro en su red.", "suns-grave", {"width": 1536, "height": 864}],
+ "slowwater": ["scenes", "A lizardfolk guide poles a reed boat through the marsh.", "Un guía lagarto impulsa una barca de juncos por la ciénaga.", "slowwater", {"width": 1536, "height": 864}],
+ "signed-works": ["scenes", "An armorer inspects her mark beside the guild stamp.", "Una armera examina su marca junto al sello del gremio.", "signed-works", {"width": 1536, "height": 1024}],
  "cistern-door": ["scenes", "A kobold sweeps beside the dwarven wall.", "Un kobold barre junto al muro enano.", "cistern-door", {"width": 1536, "height": 864}],
  "merrin-games": ["scenes", "Harbor grandmothers judge a fish chowder.", "Las abuelas del puerto prueban un guiso de pescado.", "merrin-games", {"width": 1536, "height": 864}],
  "answering-light": ["scenes", "A child raises a lantern to answer a passing ship.", "Un niño alza un farol en respuesta a un barco que pasa.", "answering-light", {"width": 1536, "height": 864}],
