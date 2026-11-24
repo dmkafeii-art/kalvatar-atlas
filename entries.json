@@ -14768,6 +14768,9 @@
   "epigraph": {
    "quote": "My grandmother sold water on the great avenue. Now I sell it to the people running from there.",
    "by": "a river-port trader north of Golgarma"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -14925,7 +14928,10 @@
    "house-vossreth",
    "krysta",
    "talk-of-175-ec"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "krakens-maw",
@@ -15099,6 +15105,9 @@
   "epigraph": {
    "quote": "A Northreach horse will carry you anywhere. A Northreach dealer will take you about as far.",
    "by": "a Goldwind remount buyer"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -15438,7 +15447,10 @@
    "assios-and-the-wider-world",
    "coral-kingdoms",
    "king-rune-of-valengrad"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "zalkareth",

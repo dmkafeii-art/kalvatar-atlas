@@ -8537,15 +8537,79 @@
   ]
  },
  "golgarma": {
-  "subtitle": "Un lugar de las Tierras Salvajes del Sur",
-  "summary": "Golgarma es una ciudad de ruinas orka, inmensos monumentos de piedra que se alzan sobre la selva como los huesos de un dios muerto.",
+  "subtitle": "La ciudad que dejaron los orka",
+  "summary": "Una ciudad de ruinas orka, vastos monumentos de piedra que se alzan sobre la selva como los huesos de un dios muerto. Ahora la tiene la Legión Carmesí.",
   "facts": [
    [
     "Región",
     "[[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Tipo",
+    "Ruinas orka"
+   ],
+   [
+    "En manos de",
+    "la [[Legión Carmesí|Crimson Legion]]"
+   ],
+   [
+    "La gran escalera",
+    "la Garganta de Golgarma, que baja a la ciudad de abajo de Nadhûr"
+   ],
+   [
+    "En el 175 EC",
+    "las incursiones de la [[Legión|Legion]] empujan hacia el norte cada temporada"
    ]
   ],
-  "title": "Golgarma"
+  "title": "Golgarma",
+  "epigraph": {
+   "quote": "Mi abuela vendía agua en la gran avenida. Ahora yo se la vendo a la gente que huye de ahí.",
+   "by": "una comerciante de un puerto de río al norte de Golgarma"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Las avenidas de Golgarma son lo bastante anchas para un ejército, y sus monumentos son más altos que los árboles que han crecido entre ellos. Las ruinas siguen siendo hermosas. Un visitante que recorre las grandes avenidas al atardecer puede sentir en la piedra el orgullo de los orka.",
+     "En el corazón de la ciudad los orka cortaron una gran escalera hacia lo hondo. Se llama la Garganta de Golgarma, y lleva a la ciudad de abajo de Nadhûr."
+    ]
+   },
+   {
+    "title": "Quién la tiene",
+    "paragraphs": [
+     "La Legión Carmesí tiene las ruinas y hace ondear sus estandartes desde la escalera, que tomó este año. Sus incursiones empujan al norte de Golgarma cada temporada. La [[Ira Esmeralda|Emerald Wrath]] pidió una segunda escuadra para defender de ellas los puertos de río, y el [[Consejo|Council]] está revisando el pedido."
+    ]
+   },
+   {
+    "title": "Quién vivía a su sombra",
+    "paragraphs": [
+     "Las tribus de las ruinas vivieron entre los monumentos de afuera durante generaciones: lectores de piedra, cortadores de lianas y guías que sabían qué puertas eran seguras. Los clanes orcos cuentan la ciudad como la casa de un antepasado y cuidaban sus santuarios de afuera. Casi todos están ahora en el camino al norte, o escondidos en la selva a la vista de su casa.",
+     "Las cuadrillas de excavadores todavía se cuelan por lo que dejaron los orka. Salen menos que antes."
+    ]
+   },
+   {
+    "title": "Si vienes de aquí",
+    "paragraphs": [],
+    "list": [
+     "Creciste jugando sobre piedra tallada más vieja que cualquier reino, y nada de lo que se ha construido después te impresiona.",
+     "Sabes qué puertas no abrió nunca tu gente, y nunca te dijeron por qué.",
+     "La Legión se llevó tu casa, y conoces gente que no alcanzó a salir.",
+     "Sabes leer un poco de la talla vieja, o por lo menos hacia dónde apunta."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La Legión no bajó peleando por la Garganta. Algo se la abrió desde abajo.” (una lectora de piedra refugiada)",
+     "“Hay luces en las ventanas altas de noche, en el barrio donde la Legión no acampa.” (un práctico de río de la Ira Esmeralda)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbTWFkcmUgRXNjYXJsYXRhfFNjYXJsZXQgTW90aGVyXV0qKiBsbGV2YSB0cmVzIGHDsW9zIHNvw7FhbmRvIGNvbiB1biB0cm9ubyBhaG9nYWRvIGJham8gR29sZ2FybWEgeSB1bmEgaGVybW9zYSBjYXJhIGRlIGRvcyBjdWVybm9zLiBFcyB1bmEgbcOhc2NhcmEgZGUgVmFuaXJpb25pcywgdG9kYXbDrWEgcHVlc3RhLiBFcyBsbyBxdWUgbGEgW1tOb3ZlbmEgUGFsYXxOaW50aCBTaG92ZWxdXSBhYnJpw7MsIHkgZXMgcG9yIGxvIHF1ZSBsYSBbW0xlZ2nDs258TGVnaW9uXV0gdGllbmUgbGEgR2FyZ2FudGEuIEVsbGEgbm8gcXVpZXJlIGxhIG3DoXNjYXJhLiBRdWllcmUgbG8gcXVlIGxhIGxsZXZhIHB1ZXN0YS4iLCAiKipDaW5jbyBtw6FzY2FyYXMgc2UgcHVlZGVuIGVuY29udHJhci4qKiBMYSBtw6FzY2FyYSBkZSBndWVycmEgZGUgTWFyYWRhbmFzaCBlc3TDoSBlbiBlbCBzYWzDs24gZGVsIHRyb25vIG3DoXMgaG9uZG8gYmFqbyBHb2xnYXJtYS4gTGEgbcOhc2NhcmEgc29ucmllbnRlIGRlIERhbW9udXMgdG9kYXbDrWEgc2UgbGxldmEgcHVlc3RhLCBlbiB1biB0cm9ubyBhaG9nYWRvIGRlIE5hZGjDu3IuIExhIG3DoXNjYXJhIGRlIGhpZXJybyBkZSBNdW5kdXMgZXN0w6EgZW4gbGEgY2FyYSBkZSB1biBlc2NsYXZpc3RhIHF1ZSBzZSBoYWNlIGxsYW1hciBlbCBQYWRyZSBkZSBsYXMgQ2FkZW5hcyB5IG5vIHNlIGxhIHB1ZWRlIHF1aXRhci4gTGEgbcOhc2NhcmEgcXVlIHNvbnLDrWUgZGUgQnJpa2tvIHNlIGhhIHZlbmRpZG8gY3VhdHJvIHZlY2VzIGVuIGxhIFtbU3ViYXN0YSBDYWxsYWRhfFF1aWV0IEF1Y3Rpb25dXSwgeSBhIGNhZGEgY29tcHJhZG9yIGxvIHRyYWljaW9uYXJvbiBhbnRlcyBkZSB1biBhw7FvLiBMYSBtw6FzY2FyYSBkZSBaaWthbml0cmF6IG5vIGVzdMOhIGVuIG5pbmd1bmEgcGFydGUsIHkgc2UgbGEgdmUgY2VyY2EgZGUgbGFzIFtbQm9jYXMgSHVlY2FzfEhvbGxvdy1tb3V0aHNdXS4iLCAiKipOYWRow7tyLioqIEN1YW5kbyBsYXMgbcOhc2NhcmFzIGFodWVjYXJvbiBlbCBpbXBlcmlvLCBsYSByZWluYSBjaGFtYW5hIER1cnpoYSBbW05vdmlhIGRlbCBNYXJ8U2VhLUJyaWRlXV0gc2VsbMOzIGxhcyBjaXVkYWRlcyBkZSBhYmFqbyBjb24gbG9zIHNlw7FvcmVzIGVubWFzY2FyYWRvcyBhZGVudHJvIHkgZGVqw7MgZW50cmFyIGFsIG1hci4gTWlsZXMgZGUgb3JrYSBjb211bmVzIHNlIGFob2dhcm9uIGNvbiBlbGxvcy4gTG9zIGVubWFzY2FyYWRvcyBubyByZXNwaXJhbi4gU2lndWVuIHNlbnRhZG9zIGVuIHN1cyB0cm9ub3MuIl19"
+   }
+  ]
  },
  "greyhaven": {
   "gloss": "Greyhaven",
@@ -8619,15 +8683,28 @@
   ]
  },
  "karn-sorroch": {
-  "subtitle": "Un lugar de las Tierras Salvajes del Sur",
-  "summary": "Karn Sorroch es el dominio de Velemnos, el Patrón de Medianoche, una tierra oscura y selvática de infames minas de Krysta trabajadas por quienes no son libres.",
+  "subtitle": "Las minas del Patrón de Medianoche",
+  "summary": "Karn Sorroch es el dominio de Velemnos, el Patrón de Medianoche, una tierra oscura y selvática de minas de Krysta infames, trabajadas por los no libres.",
   "facts": [
    [
     "Región",
-    "[[Tierras Salvajes del Sur|Southern Wilds]]"
+    "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
    ]
   ],
-  "title": "Karn Sorroch"
+  "title": "Karn Sorroch",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El pueblo de Karn Sorroch es un campamento minero fortificado en un recodo del río, con las puertas custodiadas por los siervos de la Casa Vossreth, y sus calles se alumbran con lámparas de Krysta de baja ley cuyos conjuros guardados brillan azules dentro de las piedras. La Krysta sale de las minas hondas en carretas bajo el sello de los Vossreth, y las minas son la fuente más rica de [[vidrio oscuro|dark glass]] del sur. A ningún visitante se le permite ver al Patrón, y la mayoría de los visitantes que lo intentan no vuelven a salir."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW0FwYWdhZG9zfFVubGl0XV0uKiogQ2FlZHJpdGggZWwgZGUgT8OtZG9zIEFiaWVydG9zIGVzY3VjaGEgYSBsYSB2b3ogZGUgbGEgZ3JpZXRhLCBxdWUgbGUgZGlqbyBxdWUgZGVqYXIgYXBhZ2FyIGxhIFtbTMOhbXBhcmF8TGFtcF1dIGVzIGxhIGxpYmVyYWNpw7NuLiBWZWxlbW5vcyBsbGV2YSBzZWlzIGHDsW9zIGhhYmxhbmRvIGNvbiDDqWwsIHkgcGllbnNhIGVzdGFyIHBhcmFkbyBlbiBsYSBncmlldGEgY3VhbmRvIHNlIGFicmEuIiwgIioqVmVsZW1ub3MqKiBwYWfDsyBsYXMgY3VhdHJvIGV4cGVkaWNpb25lcyBkZSBsYSBbW1VuaXZlcnNpZGFkfFVuaXZlcnNpdHldXSBoYWNpYSBbW0FiYWpvfEJlbG93XV0gYmFqbyB1bmEgYmFuZGVyYSBsaW1waWEuIFRhbWJpw6luIHF1aWVyZSBhbCBQZXJzZWd1aWRvLCBxdWUgY3JlZSBxdWUgcG9kcsOtYSBsbGV2YXJsbyBhIHRyYXbDqXMgZGUgdW5hIHB1ZXJ0YSBzZWxsYWRhLiIsICIqKkl4a2FsZW0sIGVsIFtbTmnDsW8gZGUgRW50cmVtZWRpb3xCZXR3ZWVuLUNoaWxkXV0uKiogVW5hIGxpZWJyZS16b3JybyBkZSBzZWlzIHBhdGFzIGRlbCB0YW1hw7FvIGRlIHVuIHBvbmksIGdyaXMgcXVlIHNlIGRlc3ZhbmVjZSBoYWNpYSBuaW5nw7puIGNvbG9yIGVuIGxvcyBib3JkZXMsIHF1ZSBwdWVkZSBzZXIgc8OzbGlkYSwgYWd1YSBvIG5lYmxpbmEuIFZpdmUgZGUgbGEgS3J5c3RhIHkgY3JlY2UgY29tacOpbmRvc2UgYSBsYXMgcHJvZ2VuaWVzIHF1ZSBtYXRhLiBOdW5jYSBoYSBtYXRhZG8gYSB1bmEgcGVyc29uYS4gRW4gZWwgMTc1IEVDIHNlIG11ZXZlIHBvciBsb3MgW1tsdWdhcmVzIGRlbGdhZG9zfHRoaW4gcGxhY2VzXV0gZGVsIGJvcmRlIGRlIFtbVmVyZGVxdWlldG98U3RpbGxncmVlbl1dLCBlc2NvbmRpZGEgcG9yIGxvcyBndWFyZGlhbmVzIGRlbCBjYW50byBkZWwgW1tBbmlsbG8gVHpvbGFuaXxUem9sYW5pIFJpbmddXS4gVmVsZW1ub3MgbGEgcXVpZXJlIGNvbW8gY2FtaW5vIGEgdHJhdsOpcyBkZSB1bmEgcHVlcnRhIHNlbGxhZGEsIHkgSmFudXMgUnVuZSBsYSBxdWllcmUgZW4gdW5hIGphdWxhLiIsICIqKlZlbGVtbm9zLCBlbCBbW1BhdHLDs24gZGUgTWVkaWFub2NoZXxNaWRuaWdodCBQYXRyb25dXTogbG8gcXVlIGNhemEqKiIsICJFbCBhbnRpZ3VvIHZhbXBpcm8gZGUgKipLYXJuIFNvcnJvY2gqKiAoVm9sdW1lbiBWSUlJKSBubyBwZXJzaWd1ZSBsYSByaXF1ZXphLCBuaSBzaXF1aWVyYSBsYSBtZXJhIHN1cGVydml2ZW5jaWEuIEEgbG8gbGFyZ28gZGUgc3VzIGxhcmdvcyBzaWdsb3Mgc2UgaGEgY29udmVuY2lkbyBkZSBxdWUgbG9zICoqc2VjcmV0b3MgbcOhcyBob25kb3MgZGUgS2FsdmF0YXIqKiwgbGFzIHJ1aW5hcyBkZSBsb3MgW1tQcmltb2fDqW5pdG9zfEZpcnN0Ym9ybl1dLCBsb3MgcG9ydGFsZXMgb3JrYSBzZWxsYWRvcyB5IHNvYnJlIHRvZG8gbGFzIGNvc2FzIGRlIGxhcyBmb3NhcyBhYmlzYWxlcywgc29uIGhpbG9zIHF1ZSBsbGV2YW4gZGUgdnVlbHRhIGFsIMO6bmljbyBwb2RlciBxdWUgZWwgbXVuZG8gcGFzw7MgdHJlaW50YSB5IGNpbmNvIG1pbCBhw7FvcyBvbHZpZGFuZG86IGxhICoqb3NjdXJpZGFkIHNlbGxhZGEgZGVsIFtbRcOzbiBkZSBsYSBPc2N1cmlkYWR8RW9uIG9mIERhcmtuZXNzXV0qKiAoVm9sdW1lbiBWSUkpLiBWZWxlbW5vcyBwaWVuc2EgKiplbmNvbnRyYXIgdW4gZnJhZ21lbnRvIGRlIGVzYSBvc2N1cmlkYWQgcHJpbW9yZGlhbCwgbyBlbCBzZWNyZXRvIGRlIGPDs21vIHNlIGhpem8geSBzZSBlbmphdWzDsywgeSByZWNsYW1hcmxvKiosIHBhcmEgdm9sdmVyc2UgYWxnbyBtw6FzIGFsbMOhIGRlIHVuIHZhbXBpcm86IHVuIHBvZGVyIHF1ZSBubyBsZSByZXNwb25kYSBuaSBhbCBzb2wsIG5pIGEgZGlvcyBhbGd1bm8sIG5pIGFsIGxlbnRvIGltcHVlc3RvIGRlbCB0aWVtcG8uIFBvciBlc28gc3VzIHNpcnZpZW50ZXMgcGVpbmFuIGxhcyBydWluYXMsIHBvciBlc28gZmluYW5jaWEgbGFzIGV4cGVkaWNpb25lcyBkZSBsYSBVbml2ZXJzaWRhZCBiYWpvIHVuYSBiYW5kZXJhIGxpbXBpYSwgeSBwb3IgZXNvIHN1IGFsY2FuY2UgbGxlZ2EgaGFzdGEgZWwgY29udGluZW50ZSwgcG9ycXVlIGxhcyByZXNwdWVzdGFzIGNvcnJlbiBoYWNpYSBlbCBub3J0ZSwgaGFjaWEgQXNzaW9zIHkgbGEgaGlzdG9yaWEgYWhvZ2FkYSBkZSBYYXRobmF0cmF6LiBFcyB1biBidXNjYWRvciBkZSBsYSBPc2N1cmlkYWQsIHkgZXMgcGFjaWVudGUsIHkgeWEgZXN0w6EgbcOhcyBjZXJjYSBkZSBsbyBxdWUgbmFkaWUgc2FiZS4iXX0="
+   }
+  ]
  },
  "krakens-maw": {
   "gloss": "The Kraken's Maw",
@@ -8682,15 +8759,79 @@
  },
  "northreach": {
   "gloss": "Northreach",
-  "subtitle": "Un lugar de la Frontera del Norte",
-  "summary": "Confín del Norte es la tierra de caballos de la Frontera, un país de aulagas, brezo, criaderos y largos caminos grises.",
+  "subtitle": "La tierra de caballos de la Frontera",
+  "summary": "Una tierra de tojo, brezo, criaderos de caballos y largos caminos grises, donde se crían los mejores caballos de las islas y donde bajan a reunirse los clanes tarvan.",
   "facts": [
    [
     "Región",
     "[[Frontera del Norte|Northern Frontier]]"
+   ],
+   [
+    "Tipo",
+    "Páramo y tierra de caballos"
+   ],
+   [
+    "Conocida por",
+    "los criaderos de [[Confín del Norte|Northreach]], las remontas Faust, las pieles y la madera"
+   ],
+   [
+    "La Reunión",
+    "la [[Reunión|Gathering]] Tarvan: mercado, asamblea, fiesta y prueba a la vez"
+   ],
+   [
+    "Quién vive ahí",
+    "criadores de caballos, tramperos, leñadores y los clanes tarvan"
    ]
   ],
-  "title": "Confín del Norte"
+  "title": "Confín del Norte",
+  "epigraph": {
+   "quote": "Un caballo de Confín del Norte te lleva a cualquier parte. Un tratante de Confín del Norte te lleva más o menos igual de lejos.",
+   "by": "un comprador de remontas de Ventoro"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Tierra adentro desde la costa, los páramos suben en tojo y brezo hacia el alto país tarvan. La tierra es pobre para los cultivos y excelente para caballos y ovejas. Largos caminos grises unen los criaderos con los puertos, y se puede cabalgar medio día por uno sin encontrar un muro.",
+     "Las remontas Faust se crían aquí, y los criaderos de Confín del Norte dan los mejores caballos de las islas, que en [[Ventoro|Goldwind]] valen el doble de su peso en [[Anclas|Anchors]]."
+    ]
+   },
+   {
+    "title": "Quién vive ahí",
+    "paragraphs": [
+     "Familias criadoras de caballos que pueden recitar un linaje hasta la décima yegua. Tramperos, cuyos pueblos dan las pieles que forran cada capucha de la [[Frontera|Frontier]]. Leñadores, cuyos campamentos cortan la madera que la [[Extensión|Expanse]] no puede cultivar. Y los clanes tarvan, que pastorean sus propios rebaños en los páramos altos.",
+     "También corren por el brezal unas cuantas manadas de centauros. Los criaderos los contratan como maestros de caballos, y ninguna de las dos partes está del todo segura de quién trabaja para quién."
+    ]
+   },
+   {
+    "title": "La Reunión",
+    "paragraphs": [
+     "El año en que todos los clanes tarvan dispersos bajan juntos, Confín del Norte acoge la Reunión Tarvan. Es un mercado, una asamblea, una fiesta y una prueba a la vez: se venden caballos, se arreglan pleitos, se hacen casamientos y los campeones pelean por el honor de hacerlo."
+    ]
+   },
+   {
+    "title": "Si vienes de aquí",
+    "paragraphs": [],
+    "list": [
+     "Montabas antes de saber leer, y juzgas a la gente por cómo trata a un caballo.",
+     "Sabes de pieles, de madera o de linajes lo suficiente para que no te engañen en ninguno.",
+     "Estás acostumbrado a la distancia, al mal tiempo y a vecinos a una mañana a caballo.",
+     "Has ido a una Reunión, y todavía debes o te deben algo de ella."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El mejor potro del año siempre se lo lleva un comprador al que nadie vio llegar. Pagado en moneda vieja, todas las veces.” (un mozo de cuadra de Confín del Norte)",
+     "“Los centauros ya no corren por el páramo alto más allá de las piedras paradas. Dicen que el suelo tiene pulso.” (un mozo de posta de Bastión)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIEdpZ2FudGUgZGVzcGllcnRhIGRlc3BhY2lvLioqIEVsIGVzcMOtcml0dSBkZSBsYSB0aWVycmEgYmFqbyBlbCBww6FyYW1vIGRlIFtbQ29uZsOtbiBkZWwgTm9ydGV8Tm9ydGhyZWFjaF1dIG5vIGVzdMOhIGRvcm1pZG8uIFNlIGVzdMOhIG1vdmllbmRvLCB1biBwb2NvIGEgbGEgdmV6LCBiYWpvIGxvcyByZWJhw7FvcyB0YXJ2YW4sIHkgZWwgYWx6YXJzZSBkZSBsYXMgdmllamFzIHBpZWRyYXMgZGVsIHDDoXJhbW8gZXMgbGEgcHJpbWVyYSBzZcOxYWwuIExhcyBhc2FtYmxlYXMgdGFydmFuIGxvIHNhYmVuLCB5IHNlIGxvIGhhbiBvY3VsdGFkbyBhIGxhcyBndWFybmljaW9uZXMgZGUgbGEgW1tGcm9udGVyYXxGcm9udGllcl1dIGR1cmFudGUgc2VpcyBhw7Fvcy4iXX0="
+   }
+  ]
  },
  "saltreach": {
   "gloss": "Saltreach",
@@ -8886,12 +9027,12 @@
   ]
  },
  "xathnatraz": {
-  "subtitle": "Un lugar del mar abierto",
-  "summary": "Una isla negra y maldita frente a la costa suroeste de Khard Muur, donde quedó sellada la oscuridad del viejo Eón. Los barcos que van a buscarla vuelven con menos gente, o no vuelven.",
+  "subtitle": "La isla que nadie sale a buscar",
+  "summary": "Una isla negra y maldita frente a la costa suroeste de Khard Muur, donde se selló la oscuridad del viejo Eón. Los barcos que van a buscarla vuelven con menos gente, o no vuelven.",
   "facts": [
    [
     "Dónde",
-    "Frente a la costa suroeste de Khard Muur"
+    "frente a la costa suroeste de Khard Muur"
    ],
    [
     "Último bastión",
@@ -8899,10 +9040,34 @@
    ],
    [
     "Rey",
-    "Rune Vermillion"
+    "[[Rune Bermellón|Rune Vermillion]]"
    ]
   ],
-  "title": "Xathnatraz"
+  "title": "Xathnatraz",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Xathnatraz es una isla negra frente a la costa suroeste de Khard Muur, el continente salvaje más allá del océano del oeste.",
+     "Todo niño aprende que hace mucho un [[Eón de la Oscuridad|Eon of Darkness]] sin sol se tragó el mundo, y que su oscuridad se selló dentro de Xathnatraz.",
+     "Su reino perdido de Alcyor cayó hace mucho. Solo resiste el último bastión, Valengrad, bajo el Rey Rune Bermellón.",
+     "Ningún barco ha desembarcado ahí en la memoria de los vivos sin que la tripulación cayera con una fiebre que quema en la sangre.",
+     "\"No navegues al oeste\", dicen los marineros. Los barcos que van a buscarla vuelven con menos gente, o no vuelven."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“No navegues al oeste. Más allá del borde de las cartas está la maldita Xathnatraz, la isla donde se selló la oscuridad del viejo Eón. Los barcos que van a buscarla vuelven con menos gente, o no vuelven.” (lo que dice todo el mundo)",
+     "“Los marineros que vuelven de Khard Muur dicen que Valengrad coronó al Rey Rune el año pasado. También lo coronaron el año anterior, y en medio lo enterraron.” (un marinero que volvió del oeste)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIG11bmRvIGhvbmRvOiBwb3IgcXXDqSBlbCBSZXkgVHJhaWRvciBhYnJpw7MgbGEgcHVlcnRhKioiLCAiTGEgZ3JhbiBwcmVndW50YSBzaW4gcmVzcHVlc3RhIGRlIEFyZ2VudHVzIHRpZW5lIHJlc3B1ZXN0YSBhaG9yYSwgeSBlcyB1bmEgdHJhZ2VkaWEgbcOhcyBxdWUgdW5hIHZpbGxhbsOtYS4gRWwgKipSZXkgVHJhaWRvcioqIGRlIEF0aGFzIG5vIGFicmnDsyBlbCBwb3J0YWwgYWwgQ2FvcyBwb3IgcG9kZXIsIG5pIHBvciBjb25xdWlzdGEsIG5pIHBvciBsb2N1cmEuIExvIGFicmnDsyAqKnBhcmEgZW5nYcOxYXIgYSBsYSBtdWVydGUqKiwgcGFyYSBzYWx2YXIgdW5hIHNvbGEgdmlkYS4gU3UgaGVyZWRlcm8gKGVuIGFsZ3Vub3MgcmVsYXRvcyBzdSBlc3Bvc2EsIGVuIG90cm9zIHN1IGhpam8pIHNlIGVzdGFiYSBtdXJpZW5kbywgbcOhcyBhbGzDoSBkZWwgYXJ0ZSBkZSBjdWFscXVpZXIgc2FuYWRvciwgeSB1bmEgY29zYSBwYWNpZW50ZSBxdWUgc3VzdXJyYWJhIGRlc2RlIGVsIFZhY8OtbyBsZSBwcm9tZXRpw7MgcXVlIGxhIGN1cmEsIGxhIGRlc2hlY2h1cmEgZGUgbGEgbXVlcnRlIG1pc21hLCBlc3RhYmEganVzdG8gZGV0csOhcyBkZSB1bmEgcHVlcnRhIHF1ZSBsbyBheXVkYXLDrWEgYSBhYnJpci4gTGUgY3JlecOzLiBBYnJpw7MgbGEgcHVlcnRhLiBZIGxhIG9zY3VyaWRhZCBxdWUgZW50csOzIHBhcmEgXCJzYWx2YXIgdW5hIHZpZGFcIiAqKnNlIHRyYWfDsyBlbCBzb2wgZGVsIG11bmRvIGVudGVybyoqIHBvciB1bmEgZXJhLCBjb25kZW7DsyBzdSByZWlubyB5IGNvbXByw7MgdHJlaW50YSB5IGNpbmNvIG1pbCBhw7FvcyBkZSBvc2N1cmlkYWQgYWwgcHJlY2lvIGRlIHVuIGRvbG9yIHF1ZSDDqWwgbm8gcHVkbyBzb3BvcnRhci4iLCAiRXMgbGEgbGVjY2nDs24gbcOhcyB2aWVqYSBkZWwgbXVuZG8gaG9uZG8sIHkgbGEgcXVlIGVsIFZhY8OtbyBjdWVudGEgbWVqb3I6ICpsYSBvc2N1cmlkYWQgbm8gbWllbnRlIHNvYnJlIGxvIHF1ZSBvZnJlY2UsIHNvbG8gc29icmUgbG8gcXVlIGN1ZXN0YS4qIFkgbGUgZGEgc3UgZm9ybWEgZmluYWwgYSBsYSBwZWxlYSBldGVybmEgZGUgUnVuZSBlbiBsYSBtYWxkaXRhIFhhdGhuYXRyYXo6IGVsIGxpbmFqZSBkZSBBbGN5b3IgbGxldmEgdHJlaW50YSB5IGNpbmNvIG1pbGVuaW9zIHBhZ2FuZG8sIHZpZGEgdHJhcyB2aWRhIHJlZW5jYXJuYWRhLCBwb3IgbGEgbmVnYXRpdmEgZGUgdW4gYW50ZXBhc2FkbyBhIGRlamFyIG1vcmlyIGEgdW5hIHBlcnNvbmEuIiwgIioqTGEgc2VndW5kYSBlc3RyZWxsYSBkZSBYYXRobmF0cmF6LioqIEJham8gbGEgaXNsYSBoYXkgdW5hIGVzdHJlbGxhIGNhw61kYSwgeSBlcyBsYSBmdWVudGUgZGUgbG9zIHJlbmFjaW1pZW50b3MgZGVsIFJleSBSdW5lLiBMYSBlc3RyZWxsYSBlcyBsYSBMdW1pbmFyaWEgcXVlIHNlIGh1bmRpw7MgZW4gZWwgW1tFw7NuIGRlIGxhIE9zY3VyaWRhZHxFb24gb2YgRGFya25lc3NdXSwgeSBlbCBbW0NvcmF6w7NuIGRlIEthdGh8SGVhcnQgb2YgS2F0aF1dIGZ1ZSBhbGd1bmEgdmV6IHN1IGd1YXJkacOhbi4gRWwgW1tJbXBlcmlvfEltcGVyaXVtXV0gcXVpZXJlIGxhIGVzdHJlbGxhIHBhcmEgZWwgQ29yYXrDs24uIFZlbGVtbm9zIGxhIHF1aWVyZSBwYXJhIHPDrS4iXX0="
+   }
+  ]
  },
  "zalkareth": {
   "subtitle": "El último pueblo del Consejo",
