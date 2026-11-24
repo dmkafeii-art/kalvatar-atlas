@@ -26787,5 +26787,640 @@
    9
   ]
  },
+ "trade": {
+  "regions": [
+   "Northern Frontier",
+   "Central Heartland",
+   "Southern Wilds",
+   "Icy Expanse"
+  ],
+  "goods": [
+   {
+    "id": "salt",
+    "name": [
+     "salt, a fifty-pound sack",
+     "sal, un saco de cincuenta libras"
+    ],
+    "kind": "staple",
+    "prices": [
+     2,
+     5,
+     10,
+     4
+    ],
+    "per_ton": 40,
+    "company": "Southern Wilds",
+    "open": false
+   },
+   {
+    "id": "grain",
+    "name": [
+     "grain, a sack",
+     "grano, un saco"
+    ],
+    "kind": "staple",
+    "prices": [
+     4,
+     3,
+     4,
+     10
+    ],
+    "per_ton": 20,
+    "open": false
+   },
+   {
+    "id": "salt-fish",
+    "name": [
+     "salt-fish and smoked herring, a barrel",
+     "pescado salado y arenque ahumado, un barril"
+    ],
+    "kind": "staple",
+    "prices": [
+     40,
+     80,
+     90,
+     null
+    ],
+    "per_ton": 7,
+    "open": true
+   },
+   {
+    "id": "frostcured",
+    "name": [
+     "frostcured fish, a barrel",
+     "pescado curado en el hielo, un barril"
+    ],
+    "kind": "staple",
+    "prices": [
+     null,
+     70,
+     80,
+     30
+    ],
+    "per_ton": 7,
+    "open": true
+   },
+   {
+    "id": "whale-oil",
+    "name": [
+     "whale-oil, a barrel",
+     "aceite de ballena, un barril"
+    ],
+    "kind": "strategic",
+    "prices": [
+     360,
+     300,
+     240,
+     100
+    ],
+    "per_ton": 7,
+    "open": true
+   },
+   {
+    "id": "timber",
+    "name": [
+     "timber, a beam",
+     "madera, una viga"
+    ],
+    "kind": "staple",
+    "prices": [
+     20,
+     50,
+     10,
+     200
+    ],
+    "per_ton": 4,
+    "open": false
+   },
+   {
+    "id": "mast-pine",
+    "name": [
+     "mast-pine, a mainmast",
+     "pino de mástil, un palo mayor"
+    ],
+    "kind": "strategic",
+    "prices": [
+     500,
+     1500,
+     null,
+     null
+    ],
+    "per_ton": 0.2,
+    "armada": true,
+    "open": false
+   },
+   {
+    "id": "ironwood",
+    "name": [
+     "ironwood, a keel-timber",
+     "palo de hierro, una pieza de quilla"
+    ],
+    "kind": "strategic",
+    "prices": [
+     null,
+     6000,
+     2000,
+     null
+    ],
+    "per_ton": 0.33,
+    "armada": true,
+    "open": false
+   },
+   {
+    "id": "iron",
+    "name": [
+     "iron, a bar",
+     "hierro, una barra"
+    ],
+    "kind": "strategic",
+    "prices": [
+     10,
+     20,
+     30,
+     40
+    ],
+    "per_ton": 40,
+    "open": false
+   },
+   {
+    "id": "coffee",
+    "name": [
+     "coffee, a hundredweight sack",
+     "café, un saco de cien libras"
+    ],
+    "kind": "staple",
+    "prices": [
+     3000,
+     2000,
+     400,
+     5000
+    ],
+    "per_ton": 20,
+    "open": false
+   },
+   {
+    "id": "sugar",
+    "name": [
+     "cane-sugar, a loaf",
+     "azúcar de caña, un pan"
+    ],
+    "kind": "staple",
+    "prices": [
+     10,
+     10,
+     3,
+     20
+    ],
+    "per_ton": 200,
+    "open": false
+   },
+   {
+    "id": "cacao",
+    "name": [
+     "cacao, a fifty-pound sack",
+     "cacao, un saco de cincuenta libras"
+    ],
+    "kind": "luxury",
+    "prices": [
+     900,
+     750,
+     100,
+     null
+    ],
+    "per_ton": 40,
+    "open": true
+   },
+   {
+    "id": "cotton",
+    "name": [
+     "cotton, a bale",
+     "algodón, una paca"
+    ],
+    "kind": "staple",
+    "prices": [
+     600,
+     500,
+     200,
+     null
+    ],
+    "per_ton": 4,
+    "open": true
+   },
+   {
+    "id": "cloth",
+    "name": [
+     "cotton cloth, a bolt",
+     "tela de algodón, una pieza"
+    ],
+    "kind": "staple",
+    "prices": [
+     100,
+     80,
+     40,
+     200
+    ],
+    "per_ton": 50,
+    "open": false
+   },
+   {
+    "id": "brightleaf",
+    "name": [
+     "brightleaf, a crate of twenty bricks",
+     "brightleaf, una caja de veinte ladrillos"
+    ],
+    "kind": "staple",
+    "prices": [
+     300,
+     160,
+     300,
+     400
+    ],
+    "per_ton": 50,
+    "open": true
+   },
+   {
+    "id": "wine",
+    "name": [
+     "Sunhold table wine, a case of twelve",
+     "vino de mesa de Bastión del Sol, una caja de doce"
+    ],
+    "kind": "staple",
+    "prices": [
+     60,
+     36,
+     72,
+     120
+    ],
+    "per_ton": 50,
+    "fragile": true,
+    "open": true
+   },
+   {
+    "id": "icebrand",
+    "name": [
+     "icebrand, a case of twelve",
+     "icebrand, una caja de doce"
+    ],
+    "kind": "luxury",
+    "prices": [
+     280,
+     240,
+     300,
+     48
+    ],
+    "per_ton": 80,
+    "fragile": true,
+    "open": true
+   },
+   {
+    "id": "furs",
+    "name": [
+     "furs, a bale of twenty pelts",
+     "pieles, un fardo de veinte"
+    ],
+    "kind": "luxury",
+    "prices": [
+     200,
+     800,
+     null,
+     200
+    ],
+    "per_ton": 10,
+    "open": true
+   },
+   {
+    "id": "ambergris",
+    "name": [
+     "ambergris, an ounce",
+     "ámbar gris, una onza"
+    ],
+    "kind": "luxury",
+    "prices": [
+     null,
+     1000,
+     null,
+     200
+    ],
+    "per_ton": 32000,
+    "open": false
+   },
+   {
+    "id": "sap",
+    "name": [
+     "jungle-sap, a cask",
+     "savia de la selva, un barril"
+    ],
+    "kind": "strategic",
+    "prices": [
+     250,
+     200,
+     50,
+     null
+    ],
+    "per_ton": 7,
+    "armada": true,
+    "open": true
+   },
+   {
+    "id": "southleaf",
+    "name": [
+     "southleaf pipeweed, a bale of a hundred twists",
+     "southleaf, un fardo de cien rollos"
+    ],
+    "kind": "staple",
+    "prices": [
+     350,
+     300,
+     100,
+     400
+    ],
+    "per_ton": 20,
+    "open": true
+   },
+   {
+    "id": "citrus",
+    "name": [
+     "citrus, a crate of a hundred lemons",
+     "cítricos, una caja de cien limones"
+    ],
+    "kind": "staple",
+    "prices": [
+     100,
+     100,
+     20,
+     300
+    ],
+    "per_ton": 20,
+    "spoils": 20,
+    "open": true
+   },
+   {
+    "id": "ice",
+    "name": [
+     "ice, a packed block",
+     "hielo, un bloque empacado"
+    ],
+    "kind": "luxury",
+    "prices": [
+     null,
+     null,
+     10,
+     1
+    ],
+    "per_ton": 10,
+    "melts": true,
+    "open": false
+   },
+   {
+    "id": "glass",
+    "name": [
+     "window glass, a crate of twenty panes",
+     "vidrio de ventana, una caja de veinte paneles"
+    ],
+    "kind": "craft",
+    "prices": [
+     400,
+     200,
+     400,
+     400
+    ],
+    "per_ton": 25,
+    "fragile": true,
+    "open": true
+   },
+   {
+    "id": "tartan",
+    "name": [
+     "tartan, a bolt",
+     "tartán, una pieza"
+    ],
+    "kind": "craft",
+    "prices": [
+     100,
+     300,
+     600,
+     600
+    ],
+    "per_ton": 50,
+    "open": true
+   },
+   {
+    "id": "woad",
+    "name": [
+     "woad, a dye-cake",
+     "glasto, una torta de tinte"
+    ],
+    "kind": "craft",
+    "prices": [
+     2,
+     6,
+     12,
+     null
+    ],
+    "per_ton": 200,
+    "open": true
+   }
+  ],
+  "freight": [
+   [
+    "ironfort",
+    "goldwind",
+    100
+   ],
+   [
+    "goldwind",
+    "southhaven",
+    200
+   ],
+   [
+    "southhaven",
+    "jakupur",
+    100
+   ],
+   [
+    "southhaven",
+    "varan-port",
+    400
+   ],
+   [
+    "goldwind",
+    "varan-port",
+    600
+   ]
+  ],
+  "ways": [
+   [
+    "convoy",
+    "By convoy",
+    "En convoy",
+    1,
+    1.3333333333333333,
+    0.5
+   ],
+   [
+    "freighter",
+    "On a freighter",
+    "En un carguero",
+    1.2,
+    1,
+    1
+   ],
+   [
+    "fast",
+    "Fast and alone",
+    "Rápido y solo",
+    2,
+    0.6666666666666666,
+    0.75
+   ],
+   [
+    "own",
+    "Your own ship",
+    "Tu propio barco",
+    0,
+    1,
+    1
+   ]
+  ],
+  "voyages": [
+   [
+    "coastal",
+    "Coastal, within one region",
+    "Costero, dentro de una región",
+    50,
+    2
+   ],
+   [
+    "north",
+    "Between the Frontier and the Heartland",
+    "Entre la Frontera y el Corazón",
+    25,
+    4
+   ],
+   [
+    "south",
+    "To or from the south",
+    "Hacia o desde el sur",
+    10,
+    8
+   ],
+   [
+    "ice",
+    "To or from the ice",
+    "Hacia o desde el hielo",
+    5,
+    15
+   ]
+  ],
+  "market": [
+   [
+    2,
+    0.6,
+    "a glut: everyone has a hold of it",
+    "una sobreoferta: todos tienen una bodega llena"
+   ],
+   [
+    4,
+    0.8,
+    "low",
+    "bajo"
+   ],
+   [
+    9,
+    1,
+    "fair",
+    "normal"
+   ],
+   [
+    11,
+    1.25,
+    "short",
+    "escaso"
+   ],
+   [
+    12,
+    1.6,
+    "starving for it",
+    "desesperado por comprarlo"
+   ]
+  ],
+  "escorts": [
+   [
+    "none",
+    "No escort",
+    "Sin escolta",
+    0,
+    1
+   ],
+   [
+    "bronze",
+    "A Bronze Hunter crew",
+    "Una cuadrilla de Cazadores de Bronce",
+    750,
+    0.5
+   ],
+   [
+    "silver",
+    "A Silver Hunter crew",
+    "Una cuadrilla de Cazadores de Plata",
+    4500,
+    0.15
+   ]
+  ],
+  "trouble": [
+   [
+    "storm",
+    "A storm: the hold takes water.",
+    "Una tormenta: entra agua a la bodega."
+   ],
+   [
+    "storm",
+    "A storm: cargo goes over the side to save the ship.",
+    "Una tormenta: la carga se tira por la borda para salvar el barco."
+   ],
+   [
+    "raiders",
+    "Raiders on the horizon.",
+    "Saqueadores en el horizonte."
+   ],
+   [
+    "calm",
+    "Becalmed, for days.",
+    "Calma chicha, por días."
+   ],
+   [
+    "inspection",
+    "An Armada cutter orders you to heave to and opens the hold.",
+    "Un cúter de la Armada ordena ponerse al pairo y abre la bodega."
+   ],
+   [
+    "lost",
+    "The ship is lost.",
+    "El barco se pierde."
+   ]
+  ],
+  "raiders": {
+   "Northern Frontier": [
+    "Redjaw corsairs",
+    "corsarios Redjaw"
+   ],
+   "Central Heartland": [
+    "wreckers with false lights",
+    "naufragadores con luces falsas"
+   ],
+   "Southern Wilds": [
+    "corsairs out of the dry isles",
+    "corsarios de las islas secas"
+   ],
+   "Icy Expanse": [
+    "Fairweather's wreckers",
+    "los naufragadores de Buentiempo"
+   ]
+  },
+  "convoy_money": 10,
+  "kess": 10,
+  "black": 0.75,
+  "wholesale": 0.6
+ },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }
