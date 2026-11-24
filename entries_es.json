@@ -15850,163 +15850,509 @@
  },
  "painted-cora": {
   "gloss": "\"Painted\" Cora",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Paleta del Pintor. Recompensa: 520 Anclas.",
+  "subtitle": "Una rosa roja en cada presa",
+  "summary": "Capitana de la *Paleta del Pintor*. Recompensa: 520 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Paleta del Pintor|Painter's Palette]]"
+    "La *[[Paleta del Pintor|Painter's Palette]]*"
    ],
    [
     "Recompensa",
     "520 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "falsificadores, actores y ladrones"
+   ],
+   [
+    "Navega para",
+    "nadie"
    ]
   ],
-  "title": "Cora, \"la Pintada\""
+  "title": "Cora, \"la Pintada\"",
+  "epigraph": {
+   "quote": "Cené con mi primer oficial durante una hora antes de darme cuenta de que él seguía arriba en cubierta.",
+   "by": "Un capitán mercante, después"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "Cora, \"la Pintada\", toma barcos subiendo a bordo como alguien que pertenece ahí. A la *Paleta del Pintor* casi nunca se la ve. Su precio es de 520 Anclas y deja una rosa roja pintada en cada presa."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Deja una rosa roja pintada en cada barco que saquea.",
+     "Puede parecerse a cualquiera.",
+     "Está buscando el [[Pincel de la Creación|Brush of Creation]]."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkNvcmEsIOKAnGxhIFBpbnRhZGHigJ0qKiBlcyB1bmEgY2FtYmlhZGEgZGUgbGEgW1tDb3J0ZXxDb3VydF1dIGRlIEFvaWZlbCwgeSBhc8OtIGVzIGNvbW8gbGxldmEgY3VhbHF1aWVyIGNhcmEuIEVsIFtbUGluY2VsIGRlIGxhIENyZWFjacOzbnxCcnVzaCBvZiBDcmVhdGlvbl1dIGVzIHVuYSByZWxpcXVpYSBmZcOpcmljYSBwZXJkaWRhIGVuIGxhcyBpc2xhcywgeSBsYSBQcmltYXZlcmEgbGEgbWFuZMOzIGEgZW5jb250cmFybG8uIiwgIioqTGVhbHRhZDoqKiBuaW5ndW5hLiIsICIqKlRyaXB1bGFjacOzbjoqKiBmYWxzaWZpY2Fkb3JlcywgYWN0b3JlcyB5IGxhZHJvbmVzLiIsICIqKkxhIHZlcmRhZDoqKiBDb3JhIGVzIHVuYSAqKmNhbWJpYW50ZSoqIGRlIGxhIFtbQ29ydGUgZGUgbGEgUHJpbWF2ZXJhfFNwcmluZyBDb3VydF1dIGRlICoqQW9pZmVsKiosIHkgcG9yIGVzbyBsbGV2YSBjdWFscXVpZXIgY2FyYS4gRWwgUGluY2VsIGRlIGxhIENyZWFjacOzbiBlcyB1bmEgcmVsaXF1aWEgZmXDqXJpY2EgcGVyZGlkYSBlbiBsYXMgaXNsYXMsIHkgc3UgY29ydGUgbGEgbWFuZMOzIGEgZW5jb250cmFybG8uIl19"
+   }
+  ]
  },
  "red-mara": {
   "gloss": "\"Red\" Mara",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Venganza Roja. Recompensa: 900 Anclas.",
+  "subtitle": "La *Venganza Roja* y su tripulación liberada",
+  "summary": "Capitana de la *Venganza Roja*. Recompensa: 900 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Venganza Roja|Red Vengeance]]"
+    "La *[[Venganza Roja|Red Vengeance]]*"
    ],
    [
     "Recompensa",
     "900 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "siervos liberados, casi todos"
+   ],
+   [
+    "Navega para",
+    "la [[Marea Libre|Free Tide]]"
    ]
   ],
-  "title": "Mara, \"la Roja\""
+  "title": "Mara, \"la Roja\"",
+  "epigraph": {
+   "quote": "No se llevaron la carga. Se llevaron a la gente de la bodega, y la gente se fue contenta.",
+   "by": "El informe de un factor de plantación"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "Mara, \"la Roja\", de la *Venganza Roja*, vale 900 Anclas, y las casas de plantación del sur pagarían más. Su tripulación es gente que ella sacó encadenada de otros barcos.",
+     "Su juramento es el credo de la Marea Libre: el mar no es de nadie, y nosotros tampoco."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Tiene un mapa tatuado en la espalda con sangre de serpiente marina.",
+     "Su tripulación está atada a ella por un juramento del mar que no se puede romper.",
+     "Tiene una caleta escondida donde se refugian los esclavos fugados."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbGEgW1tNYXJlYSBMaWJyZXxGcmVlIFRpZGVdXSwgeSBhbWlnYSBjYWxsYWRhIGRlIGxvcyBbW1JvbXBlY2FkZW5hc3xDaGFpbmJyZWFrZXJzXV0uIiwgIioqVHJpcHVsYWNpw7NuOioqIHNpZXJ2b3MgbGliZXJhZG9zLCBjYXNpIHRvZG9zLiIsICIqKkxhIHZlcmRhZDoqKiBsYSBjYWxldGEgZXNjb25kaWRhIGVzIHJlYWwsIHkgZXMgdW5hIGRlIGxhcyBlc3RhY2lvbmVzIGRlIGxvcyBSb21wZWNhZGVuYXM6IGxvcyB0cmFiYWphZG9yZXMgbGliZXJhZG9zIGRlc2NhbnNhbiBhaMOtIGFudGVzIGRlIHF1ZSBsYXMgY2Fub2FzIG9ydW1hIGxvcyBsbGV2ZW4gcsOtbyBhcnJpYmEuIEVsIHRhdHVhamUgZGUgc3UgZXNwYWxkYSBlcyB1bmEgY2FydGEgZGUgbG9zIHBhc29zIHNlZ3Vyb3MgaGFjaWEgKipbW0NheW8gSHVlY298SG9sbG93a2V5XV0qKiwgZW50aW50YWRhIGNvbiBzYW5ncmUgZGUgc2VycGllbnRlIG1hcmluYSBwYXJhIHF1ZSBuaW5nw7puIGFndWEgbGEgcHVlZGEgYm9ycmFyLiBFbCBqdXJhbWVudG8gZGUgc3UgdHJpcHVsYWNpw7NuIGVzIGVsIGNyZWRvIGRlIGxhIE1hcmVhIExpYnJlOiAqZWwgbWFyIG5vIGVzIGRlIG5hZGllLCB5IG5vc290cm9zIHRhbXBvY28uKiJdfQ=="
+   }
+  ]
  },
  "silverfin-davin": {
   "gloss": "\"Silverfin\" Davin",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Gracia del Océano. Recompensa: 600 Anclas, solo vivo.",
+  "subtitle": "El pirata contra el que nadie quiere declarar",
+  "summary": "Capitán de la *Gracia del Océano*. Recompensa: 600 Anclas, solo vivo.",
   "facts": [
    [
     "Barco",
-    "La [[Gracia del Océano|Ocean's Grace]]"
+    "La *[[Gracia del Océano|Ocean's Grace]]*"
    ],
    [
     "Recompensa",
     "600 [[Anclas|Anchors]], solo vivo"
+   ],
+   [
+    "Tripulación",
+    "una tripulación alegre que lo quiere"
+   ],
+   [
+    "Navega para",
+    "nadie"
    ]
   ],
-  "title": "Davin, \"Aleta de Plata\""
+  "title": "Davin, \"Aleta de Plata\"",
+  "epigraph": {
+   "quote": "Sí, me robó. También me arregló la bomba y le mandó saludos a mi esposa. No voy a firmar nada.",
+   "by": "Un capitán mercante, a un escribiente de la Armada"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "Davin, \"[[Aleta de Plata|Silverfin]]\", de la *Gracia del Océano*, es el pirata más querido de las islas, y el único nombre del cartel al que se busca solo vivo: 600 Anclas. El [[Consejo|Council]] lo quiere por su comercio con las cortes soleadas.",
+     "Casi nunca se le ve en tierra. Los capitanes de la Armada se quejan de que ningún testigo quiere hablar contra él."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Su encanto vuelve amigos a sus enemigos.",
+     "Una vez se tiró por la borda en pleno saqueo para salvar a un niño que se ahogaba.",
+     "La maldición de una sirena lo mantiene en el mar."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYS4iLCAiKipUcmlwdWxhY2nDs246KiogdW5hIHRyaXB1bGFjacOzbiBhbGVncmUgcXVlIGxvIHF1aWVyZS4iLCAiKipMYSB2ZXJkYWQ6KiogbGEgbWFsZGljacOzbiBlcyByZWFsLiBMZSByb21wacOzIHVuYSBwcm9tZXNhIGEgdW5hIHNpcmVuYSBkZSBsb3MgKipbW0phcmRpbmVzIGRlIFZpZHJpb3xHbGFzcyBHYXJkZW5zXV0qKiwgeSBzaSBzZSBxdWVkYSBlbiB0aWVycmEgbcOhcyBkZSB1biBkw61hLCBlbXBpZXphIGEgYWhvZ2Fyc2UgZW4gZWwgYWlyZS4gRGUgdmVyZGFkIHNlIHRpcsOzIHBvciBsYSBib3JkYSBwb3IgdW4gbmnDsW8uIEVzIGVsIHBpcmF0YSBtw6FzIHF1ZXJpZG8gZGUgbGFzIGlzbGFzLCB5IGxvcyBjYXBpdGFuZXMgZGUgbGEgQXJtYWRhIHNlIHF1ZWphbiBkZSBxdWUgbmFkaWUgcXVpZXJlIGRlY2xhcmFyIGNvbnRyYSDDqWwuIl19"
+   }
+  ]
  },
  "storm-eye-jorvik": {
   "gloss": "\"Storm-Eye\" Jorvik",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de el Cortatormentas. Recompensa: 560 Anclas.",
+  "subtitle": "Sabe de la tormenta antes que el cielo",
+  "summary": "Capitán del *Cortatormentas*. Recompensa: 560 Anclas.",
   "facts": [
    [
     "Barco",
-    "El [[Cortatormentas|Stormcutter]]"
+    "El *[[Cortatormentas|Stormcutter]]*"
    ],
    [
     "Recompensa",
     "560 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "galven y marineros de [[Confín de Tormentas|Stormreach]]"
+   ],
+   [
+    "Navega para",
+    "nadie"
    ]
   ],
-  "title": "Jorvik, \"Ojo de Tormenta\""
+  "title": "Jorvik, \"Ojo de Tormenta\"",
+  "epigraph": {
+   "quote": "Cielo despejado, mar plano y el Cortatormentas corriendo a puerto. Así que nosotros también corrimos.",
+   "by": "Un práctico de Confín de Tormentas"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "Jorvik, \"[[Ojo de Tormenta|Storm-Eye]]\", es un galven tuerto, y al *Cortatormentas* nunca lo agarra desprevenido el tiempo. Su precio es de 560 Anclas.",
+     "Los prácticos honrados miran sus velas. Cuando Jorvik toma rizos, ellos toman rizos."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Predice las tormentas semanas antes de que lleguen.",
+     "Tiene un pacto con los espíritus del mar.",
+     "Su ojo perdido ve la verdad en cada corazón."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYS4iLCAiKipUcmlwdWxhY2nDs246KiogZ2FsdmVuIHkgbWFyaW5lcm9zIGRlIFtbQ29uZsOtbiBkZSBUb3JtZW50YXN8U3Rvcm1yZWFjaF1dLiIsICIqKkxhIHZlcmRhZDoqKiBKb3J2aWsgZXMgdW4gKipnYWx2ZW4qKiBxdWUgcGVyZGnDsyBlbCBvam8gcG9yIHVuIHJheW8sIHkgbGEgY2ljYXRyaXogZXMgcG9yIGRvbmRlIGxlIGhhYmxhICoqRWlyaGFsKiosIGVsIFJheW8gVml2by4gQXPDrSBzYWJlIGRlIGxhcyB0b3JtZW50YXMgY29uIHNlbWFuYXMgZGUgYW50aWNpcGFjacOzbi4gTm8gdmUgbGEgdmVyZGFkIGVuIGVsIGNvcmF6w7NuIGRlIGxvcyBob21icmVzOyBsZXMgbGVlIGxhIGNhcmEsIHkgZXMgbXV5IGJ1ZW5vIHBhcmEgZXNvLiJdfQ=="
+   }
+  ]
  },
  "arcturus-ironheart": {
   "gloss": "Arcturus Ironheart",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de el Blindado. Recompensa: 700 Anclas.",
+  "subtitle": "El carpintero de ribera en hierro",
+  "summary": "Capitán del *Blindado*. Recompensa: 700 Anclas.",
   "facts": [
    [
     "Barco",
-    "El [[Blindado|Ironclad]]"
+    "El *[[Blindado|Ironclad]]*"
    ],
    [
     "Recompensa",
     "700 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "enanos y gnomos"
+   ],
+   [
+    "Navega para",
+    "[[Cayo Hueco|Hollowkey]], donde es maestro carpintero de ribera"
    ]
   ],
-  "title": "Arcturus Corazón de Hierro"
+  "title": "Arcturus Corazón de Hierro",
+  "epigraph": {
+   "quote": "Le dimos de lleno cuatro veces. La cuarta bala volvió.",
+   "by": "Un artillero de la Armada"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "El *Blindado* está forrado de hierro y equipado con garfios de relojería, y deja una mancha de humo de pólvora dondequiera que pelea. El precio de [[Arcturus Corazón de Hierro|Arcturus Ironheart]] es de 700 Anclas.",
+     "Hace las mejores armas del mar, y en Cayo Hueco se las vende a cualquiera."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Su barco está forrado de hierro y no se puede hundir.",
+     "Sus cañones disparan con vapor.",
+     "Sus hojas son más fuertes que cualquier otra cosa en el mar."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogW1tDYXlvIEh1ZWNvfEhvbGxvd2tleV1dLCBkb25kZSBlcyBlbCBtYWVzdHJvIGNhcnBpbnRlcm8gZGUgcmliZXJhIGRlbCBtZXJjYWRvIGZsb3RhbnRlLiIsICIqKlRyaXB1bGFjacOzbjoqKiBlbmFub3MgeSBnbm9tb3MuIiwgIioqTGEgdmVyZGFkOioqIGVuIGVsICpbW0JsaW5kYWRvfElyb25jbGFkXV0qIG5vIGhheSB2YXBvcjsgbG9zIFwiY2HDsW9uZXMgZGUgdmFwb3JcIiBzb24gdW4gcnVtb3IgbmFjaWRvIGRlbCBodW1vIGRlIHN1cyBjYcOxb25lcyBkZSBmdWVnbyBkZSBLcnlzdGEuIEFyY3R1cnVzIGRlasOzIHN1IGZvcnTDrW4gc2luIGNhcmdhciBzdSBwYXJ0ZSBkZSBsYSBjYXJnYSBkZSBsYSBzdWVydGUsIHkgc3UgZm9ydMOtbiBsZSBwdXNvIHByZWNpbyBlbiBzaWxlbmNpby4gSGFjZSBsYXMgbWVqb3JlcyBhcm1hcyBkZWwgbWFyLCB5IHNlIGxhcyB2ZW5kZSBhIGN1YWxxdWllcmEgZW4gQ2F5byBIdWVjby4iXX0="
+   }
+  ]
  },
  "azura-blackbeak-the-siren-of-the-seas": {
   "gloss": "Azura Blackbeak, \"the Siren of the Seas\"",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Llamada de la Plañidera. Recompensa: 900 Anclas.",
+  "subtitle": "La canción antes de los cañones",
+  "summary": "Capitana de la *Llamada de la Plañidera*. Recompensa: 900 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Llamada de la Plañidera|Banshee's Call]]"
+    "La *[[Llamada de la Plañidera|Banshee's Call]]*"
    ],
    [
     "Recompensa",
     "900 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "toda de mujeres, de todos los puertos de las islas"
+   ],
+   [
+    "Navega para",
+    "la [[Marea Libre|Free Tide]]"
    ]
   ],
-  "title": "Azura Pico Negro, \"la Sirena de los Mares\""
+  "title": "Azura Pico Negro, \"la Sirena de los Mares\"",
+  "epigraph": {
+   "quote": "La guardia oyó cantar y giró el timón hacia allá. Todos. Todavía no sé cuál era la tonada.",
+   "by": "Un timonel sobreviviente"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "La *Llamada de la Plañidera* está pintada de azul hondo y trabajada en plata y oro, y casi siempre se la oye antes de verla. [[Azura Pico Negro|Azura Blackbeak]] es una buena espadachina y una estratega mejor, con un precio de 900 Anclas.",
+     "Tiene una regla conocida: nunca toma un barco que lleve refugiados."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Su voz al cantar atrae a los barcos hacia sus cañones.",
+     "Su tripulación es toda de mujeres y nunca ha perdido un abordaje."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbGEgW1tNYXJlYSBMaWJyZXxGcmVlIFRpZGVdXS4iLCAiKipUcmlwdWxhY2nDs246KiogdG9kYSBkZSBtdWplcmVzLCBkZSB0b2RvcyBsb3MgcHVlcnRvcyBkZSBsYXMgaXNsYXMuIiwgIioqTGEgdmVyZGFkOioqIHN1IHZveiBlcyBzYW5ncmUgZGUgbGEgZ2VudGUgZGVsIG1hci4gU3UgcGFkcmUgZXJhIHVuIGNhbnRvciBkZSBsYXMgY29ydGVzIHNvbGVhZGFzLCB5IGxhIGNhbmNpw7NuIHF1ZSBhdHJhZSBhIGxvcyBiYXJjb3MgYSBzdXMgbWFub3MgZXMgZWwgbWlzbW8gZG9uIGNvbiBxdWUgbGFzIHNpcmVuYXMgZ3XDrWFuIGEgbG9zIGJhcmNvcyBhIHNhbHZvLCBhbCByZXbDqXMuIExhIENhc2EgUGVsYWdhciBwYWdhcsOtYSBiaWVuIHBvciBzYWJlciBhIHF1w6kgY29ydGUgcGVydGVuZWNlLiBFcyB1bmEgYnVlbmEgZXNwYWRhY2hpbmEgeSB1bmEgZXN0cmF0ZWdhIG1lam9yLCB5IG51bmNhIHRvbWEgdW4gYmFyY28gcXVlIGxsZXZlIHJlZnVnaWFkb3MuIl19"
+   }
+  ]
  },
  "bellamy-the-bold": {
   "gloss": "Bellamy the Bold",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Empresa Audaz. Recompensa: 560 Anclas.",
+  "subtitle": "El hombre que se salvó de la horca hablando",
+  "summary": "Capitán de la *Empresa Audaz*. Recompensa: 560 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Empresa Audaz|Daring Venture]]"
+    "La *[[Empresa Audaz|Daring Venture]]*"
    ],
    [
     "Recompensa",
     "560 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "una tripulación leal y caótica"
+   ],
+   [
+    "Navega para",
+    "nadie"
    ]
   ],
-  "title": "Bellamy el Audaz"
+  "title": "Bellamy el Audaz",
+  "epigraph": {
+   "quote": "Tenía la soga en el cuello. Diez minutos después el verdugo estaba invitando la ronda.",
+   "by": "Un carcelero de Ventoro"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "[[Bellamy el Audaz|Bellamy the Bold]], de la *Empresa Audaz*, vale 560 Anclas y ya lo atraparon una vez. Tiene un loro al que alimenta mejor que a sus oficiales y al que le pide perdón cuando cree que nadie lo oye."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Se salvó de la horca encantando al verdugo.",
+     "Tiene un mapa hacia una ciudad de oro y solo le falta la llave.",
+     "Su loro es un capitán rival, transformado."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYS4iLCAiKipUcmlwdWxhY2nDs246KiogdW5hIHRyaXB1bGFjacOzbiBsZWFsIHkgY2HDs3RpY2EuIiwgIioqTGEgdmVyZGFkOioqIGVsIGxvcm8gZGUgdmVyZGFkIGVzIHVuIGNhcGl0w6FuIHJpdmFsIHRyYW5zZm9ybWFkbywgZW1icnVqYWRvIHBvciB1biBjb21lcmNpYW50ZSBkZSBtYWxlZmljaW9zIHBvY2NoaW4gZHVyYW50ZSB1biB0cmF0byBxdWUgc2FsacOzIG1hbCwgeSBCZWxsYW15IGxvIGFsaW1lbnRhIGJpZW4gcG9yIGN1bHBhLiBFbCBtYXBhIGVzIHJlYWw6IGxsZXZhIGEgdW4gdGVzb3JvIG9ya2Egc2VsbGFkbyBiYWpvIEdvbGdhcm1hLCB5IGxhIGxsYXZlIGxhIHRpZW5lIGxhIFtbTGVnacOzbiBDYXJtZXPDrXxDcmltc29uIExlZ2lvbl1dLiJdfQ=="
+   }
+  ]
  },
  "captain-blackstorm": {
   "gloss": "Captain Blackstorm",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Marea Fantasma. Recompensa: 1,000 Anclas.",
+  "subtitle": "Capitán de la *Marea Fantasma*",
+  "summary": "Capitán de la *Marea Fantasma*. Recompensa: 1,000 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Marea Fantasma|Phantom Tide]]"
+    "La *[[Marea Fantasma|Phantom Tide]]*"
    ],
    [
     "Recompensa",
     "1,000 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "sobrevivientes de la flota rota de [[Corazón Negro|Blackheart]]"
+   ],
+   [
+    "Navega para",
+    "los [[Restos de Corazón Negro|Remnants of Blackheart]]"
    ]
   ],
-  "title": "Capitán Tormenta Negra"
+  "title": "Capitán Tormenta Negra",
+  "epigraph": {
+   "quote": "Lleva los colores del viejo almirante, y la hija del almirante no lo soporta.",
+   "by": "Un mercader del mercado flotante de Cayo Hueco"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "El capitán [[Tormenta Negra|Blackstorm]] manda la *Marea Fantasma* y tiene la lealtad de las tripulaciones que salieron vivas de las [[Fauces del Kraken|Kraken’s Maw]]. Le vale 1,000 Anclas al [[Consejo|Council]].",
+     "Quiere reconstruir la vieja flota bajo su propia bandera, y eso lo enfrenta con la Última Sonrisa. El pleito entre ellos va empeorando."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Manda a los muertos con palabras susurradas.",
+     "Lleva el perdido Anillo de las Profundidades, que le da poder sobre las criaturas del mar.",
+     "Una vez dejó atrás a toda la Armada durante una [[Marea Rey|King Tide]]."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbG9zIFtbUmVzdG9zIGRlIENvcmF6w7NuIE5lZ3JvfFJlbW5hbnRzIG9mIEJsYWNraGVhcnRdXS4iLCAiKipUcmlwdWxhY2nDs246Kiogc29icmV2aXZpZW50ZXMgZGUgbGEgZmxvdGEgcm90YSBkZSBbW0NvcmF6w7NuIE5lZ3JvfEJsYWNraGVhcnRdXS4iLCAiKipMYSB2ZXJkYWQ6KiogZXJhIG9maWNpYWwgZGUgY3ViaWVydGEgZW4gdW5vIGRlIGxvcyBiYXJjb3MgZGUgQ29yYXrDs24gTmVncm8gZW4gbGFzIFtbRmF1Y2VzIGRlbCBLcmFrZW58S3Jha2VuJ3MgTWF3XV0sIHkgcXVpZXJlIHJlY29uc3RydWlyIGxhIGZsb3RhIGRlbCB2aWVqbyBhbG1pcmFudGUgYmFqbyBzdSBwcm9waWEgYmFuZGVyYS4gRWwgQW5pbGxvIGRlIGxhcyBQcm9mdW5kaWRhZGVzIGVzIHJlYWwgcGVybyBtw6FzIGNoaWNvIHF1ZSBsYXMgY2FuY2lvbmVzOiBtYW5kYSBhIHRpYnVyb25lcywgYW5ndWlsYXMgeSBjYWxhbWFyZXMsIG51bmNhIGEgdW4ga3Jha2VuLiBMZSBnYW7DsyBhIGxhIEFybWFkYSBlbiB1bmEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0gcG9ycXVlIHVuIHByw6FjdGljbyBkZSBsb3MgQ29ycmVkb3JlcyBkZSBsYSBOaWVibGEgbG8gbGxldsOzIHBvciBsb3MgW1tEaWVudGVzIGRlIGxhIFZpdWRhfFdpZG93J3MgVGVldGhdXSwgeSBudW5jYSBzZSBsbyBoYSBjb250YWRvIGEgc3UgdHJpcHVsYWNpw7NuLiBWZSBhIFNlcmVuIGNvbW8gdW5hIHVzdXJwYWRvcmEgZGVsIGxlZ2FkbyBkZSBzdSBwYWRyZSwgeSBlbCBwbGVpdG8gZW50cmUgZWxsb3MgdmEgZW1wZW9yYW5kby4iXX0="
+   }
+  ]
  },
  "captain-sabletooth": {
   "gloss": "Captain Sabletooth",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Forjahonda. Recompensa: 600 Anclas.",
+  "subtitle": "Artillero, buzo, excavador",
+  "summary": "Capitán de la *Forjahonda*. Recompensa: 600 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Forjahonda|Deepforge]]"
+    "La *[[Forjahonda|Deepforge]]*"
    ],
    [
     "Recompensa",
     "600 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "artilleros y buzos"
+   ],
+   [
+    "Navega para",
+    "él mismo"
    ]
   ],
-  "title": "Capitán Diente de Sable"
+  "title": "Capitán Diente de Sable",
+  "epigraph": {
+   "quote": "Un disparo por delante de la proa es una advertencia. Desde la Forjahonda es una cortesía. Podría haberse llevado el mástil.",
+   "by": "El segundo de un mercante"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "La *Forjahonda* del capitán Diente de Sable lleva las mejores dotaciones de cañón del cartel y, curiosamente, una compañía completa de buzos. Su precio es de 600 Anclas.",
+     "Pasa largas semanas anclado sobre agua vacía, y no le gusta tener compañía ahí."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Sus cañones nunca fallan.",
+     "Encontró la [[Forja Enana|Dwarven Forge]] perdida bajo el mar.",
+     "Está buscando el [[Martillo de las Profundidades|Hammer of the Deep]]."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbGEgc3V5YSBwcm9waWEuIiwgIioqVHJpcHVsYWNpw7NuOioqIGFydGlsbGVyb3MgeSBidXpvcy4iLCAiKipMYSB2ZXJkYWQ6KiogbGEgXCJbW0ZvcmphIEVuYW5hfER3YXJ2ZW4gRm9yZ2VdXSBiYWpvIGVsIG1hclwiIGVzIHVuIGZvcnTDrW4gYWhvZ2FkbyBkZSAqKktoYXJ6w7ttKiosIGludW5kYWRvIGVuIGVsIFtbUmV5IEhvbmRvfERlZXAgS2luZ11dIGRlbCAxNTAgRUMuIFN1IGZvcmphIHRvZGF2w61hIGFyZGUgZGV0csOhcyBkZSB1biBzZWxsby4gRWwgTWFydGlsbG8gZGUgbG8gSG9uZG8gZXMgZWwgbWFydGlsbG8gbWFlc3RybyBkZWwgZm9ydMOtbiwgeSBsb3MgW1tTYWxvbmVzIGRlIFBhZ298UGF5aW5nIEhhbGxzXV0gdG9kYXbDrWEgbG8gY3VlbnRhbiBjb21vIHBhcnRlIGRlIGxhIGd1YXJkYSBxdWUgZGViZW4gbG9zIGVuYW5vcy4gRGllbnRlIGRlIFNhYmxlIGVzdMOhIGRlc2VudGVycmFuZG8gdW5hIGRldWRhLiJdfQ=="
+   }
+  ]
  },
  "captain-umbrel": {
   "gloss": "Captain Umbrel",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Serpiente de Sombra. Recompensa: 700 Anclas.",
+  "subtitle": "Nunca de día",
+  "summary": "Capitán de la *Serpiente de Sombra*. Recompensa: 700 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Serpiente de Sombra|Shadow Serpent]]"
+    "La *[[Serpiente de Sombra|Shadow Serpent]]*"
    ],
    [
     "Recompensa",
     "700 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "una tripulación callada que trabaja de noche"
+   ],
+   [
+    "Navega para",
+    "él mismo, por lo que se sabe"
    ]
   ],
-  "title": "Capitán Umbrel"
+  "title": "Capitán Umbrel",
+  "epigraph": {
+   "quote": "Pusimos guardia doble. A la mañana la guardia estaba bien y la bodega estaba vacía.",
+   "by": "Un patrón de barco en Puerto Plata"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "Nadie puede describir al capitán Umbrel, porque nadie lo ha visto de día. La *Serpiente de Sombra* ataca de noche, sin mostrar una luz, y se va antes de las campanas. La recompensa es de 700 Anclas."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Nunca se le ve de día y solo ataca de noche.",
+     "Su barco aparece y desaparece como un espejismo.",
+     "Le robó una capa invisible a la [[Madeja|Skein]]."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbGEgc3V5YSBwcm9waWEsIHkgcXVpesOhIFtbbG9zIHF1ZSBTdWJlbnx0aGUgVXB3YXJkXV0uIiwgIioqVHJpcHVsYWNpw7NuOioqIHVuYSB0cmlwdWxhY2nDs24gY2FsbGFkYSBxdWUgdHJhYmFqYSBkZSBub2NoZS4iLCAiKipMYSB2ZXJkYWQ6KiogVW1icmVsIGVzIHVuICoqSXRocmVubmFpKiosIHVubyBkZSBsb3MgZHJvdyBkZSBJbG1hcm90aCwgcXVlIHN1YmnDsyBkZSBbW0FiYWpvfEJlbG93XV0uIExhIGx1eiBkZWwgZMOtYSBsZSBoYWNlIGRhw7FvIGVuIGxvcyBvam9zLCB5IHBvciBlc28gc29sbyBhdGFjYSBkZSBub2NoZS4gTGEgY2FwYSBlcyByZWFsOyBsYSBbW01hZGVqYXxTa2Vpbl1dIGxhIHF1aWVyZSBkZSB2dWVsdGEgeSBubyBsbyBoYSBlbmNvbnRyYWRvLiBTaSBzdWJpw7MgcG9yIHN1IGN1ZW50YSBvIHBvciBsb3MgcXVlIFN1YmVuLCBxdWUgcXVpZXJlbiBxdWUgbGEgc3VwZXJmaWNpZSBwYWd1ZSBzdSB2aWVqYSBkZXVkYSwgbm8gbG8gaGEgZGljaG8uIl19"
+   }
+  ]
  },
  "corvath-stormbringer": {
   "gloss": "Corvath Stormbringer",
