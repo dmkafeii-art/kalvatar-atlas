@@ -16356,19 +16356,54 @@
  },
  "corvath-stormbringer": {
   "gloss": "Corvath Stormbringer",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de el Vórtice Negro. Recompensa: 1,200 Anclas.",
+  "subtitle": "La tormenta que no rompe",
+  "summary": "Capitán del *Vórtice Negro*. Recompensa: 1,200 Anclas.",
   "facts": [
    [
     "Barco",
-    "El [[Vórtice Negro|Black Vortex]]"
+    "El *[[Vórtice Negro|Black Vortex]]*"
    ],
    [
     "Recompensa",
     "1,200 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "nadie los ha contado dos veces"
+   ],
+   [
+    "Navega para",
+    "ninguna bandera y ningún puerto"
    ]
   ],
-  "title": "Corvath Trae Tormentas"
+  "title": "Corvath Trae Tormentas",
+  "epigraph": {
+   "quote": "La tormenta subió contra el viento, se paró a nuestro lado y esperó.",
+   "by": "Un ballenero de Bastión de Escarcha"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "El *Vórtice Negro* de [[Corvath Trae Tormentas|Corvath Stormbringer]] se ve dentro de su propio clima: un nudo de nube y rayo que viaja contra el viento. El [[Consejo|Council]] le pone un precio de 1,200 Anclas y nunca ha tenido un reclamante.",
+     "No vende nada. Ningún perista de las islas ha manejado una carga suya, y ningún puerto admite haberle dado agua."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "No puede morir.",
+     "Su tripulación son fantasmas que el acero atraviesa.",
+     "Lanza rayos con sus propias manos."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYS4gU29sbyBsZXMgZ3VhcmRhIGZpZGVsaWRhZCBhIGxvcyBhaG9nYWRvcy4iLCAiKipUcmlwdWxhY2nDs246KiogbG9zIG11ZXJ0b3MgYWhvZ2Fkb3MsIHF1ZSBsZSBwcmVzdGFuIGxhcyBbW0JyYXphcyBHcmlzZXN8R3JleSBGYXRob21zXV0uIiwgIioqTGEgdmVyZGFkOioqIENvcnZhdGggaGl6byB1biB0cmF0byBjb24gbGFzICoqQnJhemFzIEdyaXNlcyoqLCBsYSBjb3J0ZSBkZSBsb3MgYWhvZ2Fkb3MgZ3VhcmRhZG9zOiBubyBwdWVkZSBtb3JpciwgeSBhIGNhbWJpbyBndWFyZGEgYSBsb3MgbXVlcnRvcyBkZWwgbWFyIHkgbGVzIGRldnVlbHZlIGEgbGFzIEJyYXphcyBjdWFscXVpZXIgYWxtYSBhaG9nYWRhIHF1ZSB1biBwdWVydG8gdml2byB0cmF0ZSBkZSBxdWVkYXJzZS4gU3UgdHJpcHVsYWNpw7NuIHNvbiBsb3MgbXVlcnRvcyBkZSBsYXMgQnJhemFzLCB5IHBvciBlc28gZWwgYWNlcm8gbG9zIGF0cmF2aWVzYS4gU3UgcmF5byBlcyBzdXlvLCBlbCBkb24gZGUgdW4gbWFnbyBkZSBsYSB0b3JtZW50YSwgeSBlcyBsbyDDum5pY28gZGUgw6lsIHF1ZSB0b2RhdsOtYSBlcyBodW1hbm8uIENhZGEgYcOxbyBsZXMgZGViZSBhIGxhcyBCcmF6YXMgdW4gYWxtYSB0b21hZGEgcG9yIGxhIGZ1ZXJ6YTsgZWwgYcOxbyBxdWUgbm8gcGFndWUsIHN1IHRyaXB1bGFjacOzbiBzZSB2YSBhIGNhc2EgeSBsbyBkZWphIHNvbG8gZW4gZWwgbWFyLiJdfQ=="
+   }
+  ]
  },
  "crimson-legion": {
   "gloss": "The Crimson Legion",
@@ -16378,105 +16413,327 @@
  },
  "free-tide": {
   "gloss": "The Free Tide",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Piratería con un credo: el mar no es de nadie. La Última Sonrisa está reuniendo los restos de la armada de Corazón Negro en algo parecido a una nación pirata.",
-  "title": "La Marea Libre"
+  "subtitle": "El mar no es de nadie",
+  "summary": "Piratería con credo: el mar no es de nadie. La Última Sonrisa está juntando los restos de la armada de Corazón Negro en algo parecido a una nación pirata.",
+  "title": "La Marea Libre",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La [[Marea Libre|Free Tide]] es piratería con credo: el mar no es de nadie.",
+     "La [[Última Sonrisa|Last Smile]], su reina pirata, cuya bandera es una media luna pálida que sonríe sobre negro, está juntando los restos de la armada de [[Corazón Negro|Blackheart]] en algo parecido a una nación pirata, y la gente la sigue con gusto.",
+     "Se dice que su buque insignia es un monstruo forjado con Krysta que lleva un arma llamada la [[Estrella que se Ahoga|Drowning Star]], capaz de borrar un puerto. Algunos marineros viejos juran que es el propio *[[Soberano del Pavor|Dread Sovereign]]* de Corazón Negro, sacado de las Fauces, cosa que es imposible, admiten, y siguen jurándolo igual.",
+     "[[Harrow Melena|Harrow Mane]] guía a las tripulaciones de manada de lobos, demasiado brutales hasta para la Última Sonrisa.",
+     "Los [[Restos de Corazón Negro|Remnants of Blackheart]] son las tripulaciones que sobrevivieron a las Fauces.",
+     "[[Cayo Hueco|Hollowkey]] es el más grande de los [[Feudos Libres Piratas|Pirate Freeholds]], un mercado flotante donde no ondea ninguna bandera del [[Consejo|Council]]."
+    ]
+   }
+  ]
  },
  "grogar-the-relentless": {
   "gloss": "Grogar the Relentless",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando del Traeguerras. Recompensa: 700 Anclas.",
+  "subtitle": "Una sola bandera para todos los orcos del mar",
+  "summary": "Capitán del *Traeguerras*. Recompensa: 700 Anclas.",
   "facts": [
    [
     "Barco",
-    "[[Traeguerras|Warbringer]]"
+    "*[[Traeguerras|Warbringer]]*"
    ],
    [
     "Recompensa",
     "700 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "saqueadores orcos"
+   ],
+   [
+    "Navega para",
+    "su propia bandera"
    ]
   ],
-  "title": "Grogar el Implacable"
+  "title": "Grogar el Implacable",
+  "epigraph": {
+   "quote": "Lo oyes antes de ver el barco. Después desearías solo haberlo oído.",
+   "by": "Un vigía de la Armada"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "[[Grogar el Implacable|Grogar the Relentless]] manda el *Traeguerras* y lleva un gran ojo colgado de un cordón al cuello. Vale 700 Anclas.",
+     "Quiere juntar a todas las tripulaciones orcas del mar bajo una sola bandera, y [[Harrow Melena|Harrow Mane]], que quiere las mismas tripulaciones, se le atraviesa."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Sobrevivió a un duelo con un kraken y lleva su ojo como trofeo.",
+     "Sus gritos de guerra se oyen por encima de las peores tormentas.",
+     "Quiere unir a todos los piratas orcos bajo su bandera."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6Kiogc3UgcHJvcGlhIGJhbmRlcmEuIiwgIioqVHJpcHVsYWNpw7NuOioqIHNhcXVlYWRvcmVzIG9yY29zIHkgc2VtaW9yY29zLiIsICIqKkxhIHZlcmRhZDoqKiBlbCBvam8gcXVlIGxsZXZhIGVyYSBkZSB1biBjYWxhbWFyIGdpZ2FudGUsIG5vIGRlIHVuIGtyYWtlbiwgcGVybyBzw60gcGVsZcOzIGNvbiDDqWwgc29sby4gU3UgcGxhbiBkZSB1bmlyIGEgbG9zIHBpcmF0YXMgb3Jjb3MgbG8gcG9uZSBlbiByaXZhbGlkYWQgZGlyZWN0YSBjb24gKipbW0hhcnJvdyBNZWxlbmF8SGFycm93IE1hbmVdXSoqLCB5IGxhIFtbTGVnacOzbiBDYXJtZXPDrXxDcmltc29uIExlZ2lvbl1dIGxvIGhhIGVzdGFkbyBjb3J0ZWphbmRvIGNvbiBwcm9tZXNhcyBkZSBnbG9yaWEgb3JrYS4iXX0="
+   }
+  ]
  },
  "hrothgar-icevein": {
   "gloss": "Hrothgar Icevein",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Corona Helada. Recompensa: 520 Anclas.",
+  "subtitle": "El desterrado sin pintura",
+  "summary": "Capitán de la *Corona Helada*. Recompensa: 520 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Corona Helada|Frozen Crown]]"
+    "La *[[Corona Helada|Frozen Crown]]*"
    ],
    [
     "Recompensa",
     "520 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "[[Elfos de la Escarcha|Frost Elves]] que rechazaron la pintura de calavera"
+   ],
+   [
+    "Navega para",
+    "nadie"
    ]
   ],
-  "title": "Hrothgar Vena de Hielo"
+  "title": "Hrothgar Vena de Hielo",
+  "epigraph": {
+   "quote": "Caras desnudas, todos. Nunca había visto Elfos de la Escarcha sin la calavera. Nos dejaron ir.",
+   "by": "Un anciano de un pueblo ballenero"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "A [[Hrothgar Vena de Hielo|Hrothgar Icevein]] lo echó su propia banda de guerra, y la *Corona Helada* va tripulada por Elfos de la Escarcha con la cara desnuda. El [[Consejo|Council]] le pone un precio de 520 Anclas.",
+     "Saquea a los saqueadores. Se sabe de pueblos balleneros de la costa del hielo que le dejan aceite afuera."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Su aliento congela a un hombre donde está parado.",
+     "Caza a los Elfos de la Escarcha que lo desterraron."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYSwgYXVucXVlIGxlcyBtYW5kYSBtb25lZGEgYSBsb3MgW1tTaW4gUGludGFyfFVucGFpbnRlZF1dLiIsICIqKlRyaXB1bGFjacOzbjoqKiBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gcXVlIHJlY2hhemFyb24gbGEgcGludHVyYSBkZSBjYWxhdmVyYS4iLCAiKipMYSB2ZXJkYWQ6KiogYSBIcm90aGdhciBsbyBkZXN0ZXJyw7MgZWwgKipbW0hhbWJyZSBQaW50YWRhfFBhaW50ZWQgSHVuZ2VyXV0qKiBwb3IgbmVnYXJzZSBhIHNhcXVlYXIgdW4gcHVlYmxvIGJhbGxlbmVybyBsbGVubyBkZSBuacOxb3MuIENhemEgYSBsYSBiYW5kYSBkZSBndWVycmEgcXVlIGxvIGVjaMOzLCB5IGVuIHNlY3JldG8gZmluYW5jaWEgYSBsb3MgU2luIFBpbnRhciBkZSAqKktoZWx2aSBbW1RyZW56YXBsYXRhfFNpbHZlcmJyYWlkXV0qKi4iXX0="
+   }
+  ]
  },
  "iceblade-twins": {
   "gloss": "The Iceblade Twins",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando del Colmillo de Escarcha. Recompensa: 800 Anclas por cabeza.",
+  "subtitle": "Un camino de hielo en agua tibia",
+  "summary": "Capitanes del *Colmillo de Escarcha*. Recompensa: 800 Anclas cada uno.",
   "facts": [
    [
     "Barco",
-    "[[Colmillo de Escarcha|Frostfang]]"
+    "*[[Colmillo de Escarcha|Frostfang]]*"
    ],
    [
     "Recompensa",
-    "800 [[Anclas|Anchors]] por cabeza"
+    "800 [[Anclas|Anchors]] cada uno"
+   ],
+   [
+    "Tripulación",
+    "[[Elfos de la Escarcha|Frost Elves]] y foqueros de la [[Extensión|Expanse]]"
+   ],
+   [
+    "Navega para",
+    "nadie"
    ]
   ],
-  "title": "Los Gemelos Hoja de Hielo"
+  "title": "Los Gemelos Hoja de Hielo",
+  "epigraph": {
+   "quote": "El agua se congeló debajo de nosotros en pleno verano, frente a Puerto Sur. Después vinieron caminando.",
+   "by": "El segundo de una barca azucarera"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "Los [[Gemelos Hoja de Hielo|Iceblade Twins]] son Elfos de la Escarcha, un hermano y una hermana, y el [[Consejo|Council]] les pone un precio de 800 Anclas a cada uno. Su barco es el *Colmillo de Escarcha*, y el frío viaja con él hasta aguas que nunca han visto hielo.",
+     "Lo que se llevan aparece a la venta en [[Puerto Varan|Varan Port]]."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Congelan la sangre de un enemigo con una mirada.",
+     "Su barco navega por un camino de hielo, hasta en agua tibia.",
+     "Robaron la [[Corona del Invierno|Crown of Winter]]."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYTsgdmVuZGVuIGxvIHF1ZSBzZSBsbGV2YW4gZW4gW1tQdWVydG8gVmFyYW58VmFyYW4gUG9ydF1dLiIsICIqKlRyaXB1bGFjacOzbjoqKiBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0geSBmb3F1ZXJvcyBkZSBsYSBbW0V4dGVuc2nDs258RXhwYW5zZV1dLiIsICIqKkxhIHZlcmRhZDoqKiBsb3MgZ2VtZWxvcyBzb24gRWxmb3MgZGUgbGEgRXNjYXJjaGEsIHVuIGhlcm1hbm8geSB1bmEgaGVybWFuYSwgeSBsYSAqKltbQ29yb25hIGRlbCBJbnZpZXJub3xDcm93biBvZiBXaW50ZXJdXSoqIGVzIHJlYWwuIFNlIGxhIHJvYmFyb24gYSBsYSBbW0NvcnRlfENvdXJ0XV0gZGVsIEludmllcm5vIGRlICoqTW9ydGhyeW4qKiBkdXJhbnRlIGxhIMO6bHRpbWEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0sIGN1YW5kbyBlbCBbW1ZlbG98VmVpbF1dIGVzdGFiYSBkZWxnYWRvLiBFbCBjYW1pbm8gZGUgaGllbG8gYmFqbyBzdSBxdWlsbGEgZXMgb2JyYSBkZSBsYSBDb3JvbmEsIHkgdGFtYmnDqW4gZWwgZnLDrW8gZGUgc3VzIG9qb3MuIExhIENvcnRlIGRlbCBJbnZpZXJubyBsYSBxdWllcmUgZGUgdnVlbHRhLCB5IGVsIFtbTGFyZ28gU2lsZW5jaW98TG9uZyBTaWxlbmNlXV0gZXMgcGFjaWVudGUuIl19"
+   }
+  ]
  },
  "kaida-dragonfire": {
   "gloss": "Kaida Dragonfire",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Furia del Dragón. Recompensa: 800 Anclas.",
+  "subtitle": "Azote de los barcos imperiales",
+  "summary": "Capitana de la *Furia del Dragón*. Recompensa: 800 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Furia del Dragón|Dragon's Fury]]"
+    "La *[[Furia del Dragón|Dragon's Fury]]*"
    ],
    [
     "Recompensa",
     "800 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "dracónidos y hombres lagarto"
+   ],
+   [
+    "Navega para",
+    "la [[Marea Libre|Free Tide]]"
    ]
   ],
-  "title": "Kaida Fuego de Dragón"
+  "title": "Kaida Fuego de Dragón",
+  "epigraph": {
+   "quote": "Dejó pasar nuestra barca. Al mercante imperial que venía detrás lo quemó hasta la línea de flotación.",
+   "by": "Un patrón de Puerto Gris"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "[[Kaida Fuego de Dragón|Kaida Dragonfire]] es una dracónida de Assios, y la *Furia del Dragón* es roja y dorada, con dragones tallados en la proa y en la popa. El [[Consejo|Council]] ofrece 800 Anclas.",
+     "Caza barcos imperiales antes que cualquier otra presa, y los encuentra cuando nadie más puede."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Sus escamas desvían el acero.",
+     "Escupe fuego.",
+     "Puede oler un barco más allá del horizonte."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbGEgW1tNYXJlYSBMaWJyZXxGcmVlIFRpZGVdXS4iLCAiKipUcmlwdWxhY2nDs246KiogZHJhY8Ozbmlkb3MgeSBob21icmVzIGxhZ2FydG8uIiwgIioqTGEgdmVyZGFkOioqIEthaWRhIGNydXrDsyBlbCBlc3RyZWNobyBkZXNkZSBBc3Npb3MgZGUgbmnDsWEgeSByb21wacOzIHN1IGp1cmFtZW50byBkZSBjbGFuIGNvbiAqKlRoYXJ1dW4qKiBwYXJhIGlyc2UgYWwgbWFyLiBDYXphIGJhcmNvcyBpbXBlcmlhbGVzIHBvciBlbmNpbWEgZGUgdG9kbywgeSBsYSBNYXJlYSBMaWJyZSB1c2Egc3Ugb2xmYXRvIHBhcmEgZW5jb250cmFyIGxvcyBiYXJjb3MgZGUgUmFua2FyLiBObyBzYWJlIHF1ZSBKYW51cyBSdW5lIHBhZ2EgcGFydGUgZGUgbGFzIGN1ZW50YXMgZGUgbGEgTWFyZWEgTGlicmUuIl19"
+   }
+  ]
  },
  "lirelai-the-siren": {
   "gloss": "Lirelai the Siren",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de el Encantador. Recompensa: 600 Anclas.",
+  "subtitle": "La voz que calma la tormenta",
+  "summary": "Capitana del *Encantador*. Recompensa: 600 Anclas.",
   "facts": [
    [
     "Barco",
-    "El [[Encantador|Enchanter]]"
+    "El *[[Encantador|Enchanter]]*"
    ],
    [
     "Recompensa",
     "600 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "músicos y contrabandistas"
+   ],
+   [
+    "Navega para",
+    "nadie"
    ]
   ],
-  "title": "Lirelai la Sirena"
+  "title": "Lirelai la Sirena",
+  "epigraph": {
+   "quote": "La turbonada se calmó como si alguien la hubiera hecho callar. Después oímos quién.",
+   "by": "Un patrón pesquero"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "[[Lirelai la Sirena|Lirelai the Siren]] navega en el *Encantador* con una tripulación que toca tan bien como contrabandea. Vale 600 Anclas, y la mitad de las tabernas de puerto se saben sus canciones sin saber de quién son."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Su voz puede calmar la tormenta más brava.",
+     "Un dragón marino la salvó de niña, y ella habla su lengua.",
+     "Tiene un espejo que muestra costas lejanas."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYS4iLCAiKipUcmlwdWxhY2nDs246KiogbcO6c2ljb3MgeSBjb250cmFiYW5kaXN0YXMuIiwgIioqTGEgdmVyZGFkOioqIGVsIFwiZHJhZ8OzbiBtYXJpbm9cIiBxdWUgbGEgc2FsdsOzIGZ1ZSB1bm8gZGUgbG9zICoqW1tWaWVqb3MgQ2FwYXJhem9uZXN8T2xkIFNoZWxsc11dKiosIHVuYSB0b3J0dWdhIHNhYmlhIGxldmlhdMOhbiwgeSBlbGxhIGZ1ZSBsYSByZXNwdWVzdGEgYSB1bmEgZGUgc3VzIHRyZXMgcHJlZ3VudGFzIGRlIHN1IGdlbmVyYWNpw7NuLiBTdSBlc3Blam8gZXMgdW5hIHBlcmxhIGRlIGFkaXZpbmFjacOzbiBkZSBsYSBbW0NvcnJpZW50ZSBxdWUgU3VzdXJyYXxXaGlzcGVyaW5nIEN1cnJlbnRdXSBlbmdhc3RhZGEgZW4gcGxhdGEsIHkgbXVlc3RyYSBjdWFscXVpZXIgY29zdGEgZG9uZGUgYWxndWllbiBoYXlhIGhhYmxhZG8gc29icmUgZWwgYWd1YS4iXX0="
+   }
+  ]
  },
  "morga-stormdrum": {
   "gloss": "Morga Stormdrum",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de el Desatatempestades. Recompensa: 800 Anclas.",
+  "subtitle": "El tambor que llama al tiempo",
+  "summary": "Capitana del *Desatatempestades*. Recompensa: 800 Anclas.",
   "facts": [
    [
     "Barco",
-    "El [[Desatatempestades|Tempest Wreaker]]"
+    "El *[[Desatatempestades|Tempest Wreaker]]*"
    ],
    [
     "Recompensa",
     "800 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "orcos, galven y gente de la tormenta"
+   ],
+   [
+    "Navega para",
+    "nadie, aunque la [[Marea Libre|Free Tide]] la recibiría"
    ]
   ],
-  "title": "Morga Tambor de Tormenta"
+  "title": "Morga Tambor de Tormenta",
+  "epigraph": {
+   "quote": "Cuando oigas el tambor, toma rizos en todo. Tienes más o menos lo que tardas en decirlo.",
+   "by": "Una timonel galven"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "[[Morga Tambor de Tormenta|Morga Stormdrum]] toca un gran tambor de cuero desde el alcázar del *Desatatempestades*, y el tiempo responde. Vale 800 Anclas.",
+     "Lleva dos temporadas moviéndose, de puerto en puerto, como si algo la siguiera."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Su tambor de chamana llama a las tormentas.",
+     "Les habla a las bestias del mar y ellas obedecen.",
+     "Sus ojos se vuelven del color de un mar de tormenta cuando se enoja."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYSwgYXVucXVlIGxhIFtbTWFyZWEgTGlicmV8RnJlZSBUaWRlXV0gbGEgcmVjaWJpcsOtYS4iLCAiKipUcmlwdWxhY2nDs246Kiogc2VtaW9yY29zLCBnYWx2ZW4geSBnZW50ZSBkZSBsYSB0b3JtZW50YS4iLCAiKipMYSB2ZXJkYWQ6Kiogc3UgdGFtYm9yIGVzdMOhIHRlbnNhZG8gY29uIGVsIGN1ZXJvIGRlIHVuYSBkZSBsYXMgcHJvZ2VuaWVzIGRlICoqS2F5dW50dSoqLCBlbCBNb25hcmNhIFZpb2xlbnRvIGRlIGxvcyBbW0NpbmNvIENpZWxvc3xGaXZlIFNraWVzXV0sIHkgc8OtIGxsYW1hIGEgbGFzIHRvcm1lbnRhcy4gVGFtYmnDqW4gbGxhbWEgYSBsb3Mgc2FjZXJkb3RlcyBkZSBsYSB0b3JtZW50YSBkZSBLYXl1bnR1LCBxdWUgcXVpZXJlbiBlbCBjdWVybyBkZSB2dWVsdGEsIHkgcXVlIGxsZXZhbiBkb3MgdGVtcG9yYWRhcyBhY29ydMOhbmRvbGUgbGEgZGlzdGFuY2lhLiJdfQ=="
+   }
+  ]
  },
  "most-wanted": {
   "gloss": "The Most Wanted",
