@@ -270,3 +270,7 @@ html.sb-open{overflow:hidden}
 .adv-crowd li>div{min-width:0}
 .adventurers .adv-crowd .adv-meta{display:block;margin-top:2px}
 @media(max-width:720px){.adv-sheet{padding:14px 14px 8px}.adv-sheet dl{grid-template-columns:1fr;gap:2px}.adv-sheet dt{margin-top:8px}.adventurers .adv-sheet-name{font-size:26px}}
+.adv-trip{display:grid;grid-template-columns:minmax(130px,200px) 1fr;gap:8px 18px;margin:8px 0 0}
+.adv-trip dt{font:11px/1.9 var(--mono);letter-spacing:.4px;color:var(--muted);text-transform:uppercase}
+.adventurers .adv-trip dd{margin:0;font:16px/1.55 var(--serif)}
+@media(max-width:720px){.adv-trip{grid-template-columns:1fr;gap:2px}}

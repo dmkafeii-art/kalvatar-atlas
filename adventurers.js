@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=24').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=25').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -148,7 +148,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('folk', '#adventurers/folk', t('Folk generator', 'Generador de PNJ'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('tavern', '#adventurers/tavern', t('Taverns', 'Tabernas'))}${link('encounters', '#adventurers/encounters', t('Encounters', 'Encuentros'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('coinsday', '#adventurers/coinsday', t('Coinsday Reading', 'Lectura de Monedía'))}${link('black', '#adventurers/black-market', t('Black market', 'Mercado negro'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('folk', '#adventurers/folk', t('Folk generator', 'Generador de PNJ'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('almanac', '#adventurers/almanac', t('Almanac', 'Almanaque'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('tavern', '#adventurers/tavern', t('Taverns', 'Tabernas'))}${link('encounters', '#adventurers/encounters', t('Encounters', 'Encuentros'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('coinsday', '#adventurers/coinsday', t('Coinsday Reading', 'Lectura de Monedía'))}${link('black', '#adventurers/black-market', t('Black market', 'Mercado negro'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -1347,12 +1347,110 @@ window.Adventurers = (() => {
   return r ? L(r.slice(1, 3)) : t('At sea', 'En el mar');
  };
 
+ /* The Almanac (the DM's word, 23 November): any day of the Charter calendar, what it is, what falls on it, and what comes after
+    a voyage of so many days. Day 0 is Eo 1st, 175 EC, a Sunsdawn; the Cycle runs on through months and years. Data: "almanac". */
+ const al = {year: 175, month: 0, day: 1, add: 0, out: null};
+ const ORD_EN = ['first', 'second', 'third', 'fourth', 'fifth'], ORD_ES = ['primer', 'segundo', 'tercer', 'cuarto', 'quinto'];
+ const alAbs = (y, m, d) => (y - 175) * 365 + (m < 10 ? m * 36 + d - 1 : 360 + d - 1);
+ const alFrom = A => {const y = 175 + Math.floor(A / 365), doy = A - (y - 175) * 365; return doy < 360 ? {y, m: Math.floor(doy / 36), d: doy % 36 + 1} : {y, m: 10, d: doy - 359};};
+ const alCycle = A => ((A % 10) + 10) % 10;
+ const alOrd = n => n + (n % 100 >= 11 && n % 100 <= 13 ? 'th' : {1: 'st', 2: 'nd', 3: 'rd'}[n % 10] || 'th');
+ function alName(A) {
+  const D = data.almanac, x = alFrom(A), cd = L(D.cycle[alCycle(A)].day);
+  if(x.m === 10) return isEs() ? `${cd}, el ${ORD_ES[x.d - 1]} Día Quieto, ${x.y} EC` : `${cd}, the ${ORD_EN[x.d - 1]} Still Day, ${x.y} EC`;
+  const mn = D.months[x.m].name;
+  return isEs() ? `${cd}, ${x.d} de ${mn}, ${x.y} EC` : `${cd}, ${mn} ${alOrd(x.d)}, ${x.y} EC`;
+ }
+ const alNext = (A, pred, from = 0, limit = 1200) => {for(let i = from; i <= limit; i++) if(pred(A + i)) return i; return null;};
+ const alIn = n => n === 0 ? t('today', 'hoy') : n === 1 ? t('tomorrow', 'mañana') : t(`in ${n} days`, `en ${n} días`);
+ const alFixed = A => {const x = alFrom(A); return x.m === 10 ? [] : data.almanac.fixed.filter(f => f.month === x.m && f.day === x.d);};
+ const alShare = A => {const x = alFrom(A); if(!data.almanac.share_out.includes(x.m) || alCycle(A) !== 8) return false; return x.d + 10 > 36;};  // the last Coinsday of Idel or Okram
+ function alMoon(x) {
+  if(x.m === 10) return t('Valtaire wanes between the years', 'Valtaire mengua entre los años');
+  const d = x.d, full = data.almanac.full;
+  if(d === full) return t('Valtaire is full tonight', 'Valtaire está lleno esta noche');
+  if(Math.abs(d - full) <= 3) return d < full ? t('Valtaire is nearly full', 'Valtaire está casi lleno') : t('Valtaire is just past full', 'Valtaire acaba de pasar su plenitud');
+  if(d >= 34 || d <= 2) return t('Valtaire is dark', 'Valtaire está oscuro');
+  return d < full ? t('Valtaire is waxing', 'Valtaire está creciendo') : t('Valtaire is waning', 'Valtaire está menguando');
+ }
+ const alFeast = f => `${h(L(f.name))} <span class="adv-meta">${linkTo(f.link, L(f.keeper))}</span>`;
+ function alSheet(A, id, title) {
+  const D = data.almanac, x = alFrom(A), still = x.m === 10, M = still ? null : D.months[x.m], cyc = D.cycle[alCycle(A)];
+  const grave = alCycle(A) === 6, season = M ? M.season : null;
+  const today = alFixed(A), monthly = M ? D.monthly.filter(f => f.month === x.m) : [];
+  const signs = season ? D.signs.filter(s => s.seasons.includes(season[0])) : [];
+  const upcoming = [];
+  for(let i = 1; i <= 400 && upcoming.length < 3; i++) alFixed(A + i).forEach(f => upcoming.length < 3 && upcoming.push([i, f]));
+  const coin = alNext(A, B => alCycle(B) === 8), rest = alNext(A, B => alCycle(B) === 9), share = alNext(A, alShare);
+  const stillIn = alNext(A, B => alFrom(B).m === 10);
+  const kingIn = ((x.y - D.king.last) % D.king.every + D.king.every) % D.king.every;
+  const king = kingIn === 0 ? t('This is a King Tide year: three days of it, and the Tidecallers are arguing in public over the week.', 'Este es un año de Marea Rey: tres días, y los Llamamareas discuten en público por la semana.')
+   : t(`The next King Tide is due in ${x.y + D.king.every - kingIn} EC.`, `La próxima Marea Rey llega en ${x.y + D.king.every - kingIn} EC.`);
+  const kid = (k => k.given)(regional('central-heartland', pick(['masc', 'fem'])));
+  const born = still ? (isEs() ? `${kid} de Eo, si su madre le pone el nombre del mes siguiente; ${kid} de ningún mes, si no` : `${kid} of Eo, if the mother names the child for the next month; ${kid} of no month, if not`)
+   : `${kid} ${t('of', 'de')} ${M.name}. <em>${h(L(M.says))}</em>`;
+  return `<article class="adv-sheet" id="${id}"><header><p class="adv-sheet-kicker">${title ? h(title) + ' · ' : ''}${still ? t('The Still Days', 'Los Días Quietos') : h(L(season)) + ' · ' + h(L(M.epithet))}</p>
+  <h3 class="adv-sheet-name">${h(alName(A))}</h3></header><dl>
+  ${dd(t('Day of the Cycle', 'Día del Ciclo'), `<strong>${h(L(cyc.day))}</strong>: ${h(L(cyc.for))}` + (grave ? `<br><em>${t('Nobody sets sail on a Graveday.', 'Nadie zarpa en Tumbadía.')}</em>` : ''))}
+  ${dd(t('The month', 'El mes'), still ? h(L(D.still)) : `${linkTo(M.link, M.name)}, ${h(L(M.epithet))}: ${h(L(M.keeps))}`)}
+  ${dd(t('The moon', 'La luna'), h(alMoon(x)) + (x.d === D.full && !still ? `; ${t('the Full Turn is kept tonight', 'esta noche se guarda la Vuelta Llena')}` : ''))}
+  ${dd(t('Feasts today', 'Fiestas de hoy'), today.length ? today.map(alFeast).join('<br>') : t('none in the calendar', 'ninguna en el calendario'))}
+  ${dd(t('All this month', 'Todo este mes'), monthly.map(f => `${h(L(f.when))}: ${alFeast(f)}`).join('<br>'))}
+  ${dd(t('By a sign, this season', 'Con una señal, esta estación'), signs.map(s => `${h(L(s.name))} <span class="adv-meta">${h(L(s.sign))}</span>`).join('<br>'))}
+  ${dd(t('The next feasts', 'Las próximas fiestas'), upcoming.map(([n, f]) => `${h(alIn(n))}: ${alFeast(f)}`).join('<br>'))}
+  ${dd(t('Coinsday', 'Monedía'), `${h(cap1(alIn(coin)))}${coin ? ' · ' + h(alName(A + coin)) : ''}. ${t('Market day; debts are paid.', 'Día de mercado; se pagan las deudas.')}`)}
+  ${dd(t('Restday', 'Reposadía'), `${h(cap1(alIn(rest)))}${rest ? ' · ' + h(alName(A + rest)) : ''}`)}
+  ${dd(t('The Share-out', 'El Reparto'), share === null ? '' : `${h(cap1(alIn(share)))} · ${h(alName(A + share))}. ${t('Every concern of the Reading pays half its yearly share-out.', 'Cada negocio de la Lectura paga la mitad de su reparto anual.')}`)}
+  ${dd(t('The Still Days', 'Los Días Quietos'), stillIn === 0 ? h(L(D.still)) : h(cap1(alIn(stillIn))))}
+  ${dd(t('The King Tide', 'La Marea Rey'), king)}
+  ${dd(t('A child born today outside a house', 'Un niño nacido hoy fuera de una casa'), born)}</dl></article>`;
+ }
+ function alTrip(A, n) {
+  const D = data.almanac, lo = Math.min(A, A + n), hi = Math.max(A, A + n);
+  let coins = 0, rests = 0, stills = 0, shares = 0; const feasts = [];
+  for(let B = lo + 1; B <= hi; B++) {const c = alCycle(B); if(c === 8) coins++; if(c === 9) rests++; if(alFrom(B).m === 10) stills++; if(alShare(B)) shares++; alFixed(B).forEach(f => feasts.push(f));}
+  const start = alCycle(A) === 6 && n > 0;
+  const pl = (k, one, many) => `${k} ${k === 1 ? one : many}`;
+  return `<dl class="adv-trip">${dd(t('On the way', 'En el camino'), `${pl(Math.abs(n), t('day', 'día'), t('days', 'días'))}: ${pl(coins, t('Coinsday', 'Monedía'), t('Coinsdays', 'Monedías'))}, ${pl(rests, t('Restday', 'Reposadía'), t('Restdays', 'Reposadías'))}` + (stills ? `, ${pl(stills, t('Still Day', 'Día Quieto'), t('Still Days', 'Días Quietos'))}` : '') + (shares ? `, ${t('and a Share-out', 'y un Reparto')}` : '') + '.')}
+  ${dd(t('Feasts passed', 'Fiestas que pasan'), feasts.length ? feasts.slice(0, 8).map(f => h(L(f.name))).join('; ') + (feasts.length > 8 ? t(`; and ${feasts.length - 8} more`, `; y ${feasts.length - 8} más`) : '') : t('none', 'ninguna'))}
+  ${start ? dd(t('Before you go', 'Antes de salir'), `<em>${t('You would be setting sail on a Graveday. The crew will not like it.', 'Zarparían en Tumbadía. A la tripulación no le va a gustar.')}</em>`) : ''}</dl>`;
+ }
+ function alToday() {
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', {timeZone: 'America/Panama', year: 'numeric', month: 'numeric', day: 'numeric'}).formatToParts(new Date()).filter(x => x.type !== 'literal').map(x => [x.type, Number(x.value)]));
+  const day = Math.min(365, Math.floor((Date.UTC(p.year, p.month - 1, p.day) - Date.UTC(p.year, 0, 1)) / 86400000) + 1);
+  return day <= 360 ? {year: 175, month: Math.floor((day - 1) / 36), day: (day - 1) % 36 + 1} : {year: 175, month: 10, day: day - 360};
+ }
+ function renderAlmanac() {
+  const D = data.almanac;
+  if(!al.out) {Object.assign(al, alToday()); al.out = true;}
+  frame('almanac', `<p class="adv-lead">${t('Any day of the Charter calendar: the day of the Cycle, the season, the moon, the feasts, the next Coinsday and Share-out, and what a voyage of so many days will pass on the way.', 'Cualquier día del calendario de la Carta: el día del Ciclo, la estación, la luna, las fiestas, el próximo Monedía y el Reparto, y lo que un viaje de tantos días deja atrás en el camino.')}</p>
+  <section class="adv-panel"><div class="adv-controls">
+  <label class="pack-label">${t('Year (EC)', 'Año (EC)')}${num('al-year', al.year, 1, 999)}</label>
+  <label class="pack-label">${t('Month', 'Mes')}${sel('al-month', D.months.map((m, i) => [i, m.name]).concat([[10, t('The Still Days', 'Los Días Quietos')]]), al.month)}</label>
+  <label class="pack-label">${t('Day', 'Día')}${num('al-day', al.day, 1, 36)}</label>
+  <label class="pack-label">${t('Days of voyage or rest', 'Días de viaje o descanso')}${num('al-add', al.add, -3650, 3650)}</label></div>
+  <div class="pack-actions"><button type="button" class="button" id="al-go">${t('Read the day', 'Leer el día')} <span aria-hidden="true">✦</span></button><button type="button" class="button cream" id="al-today">${t('Today in the islands', 'Hoy en las islas')}</button></div>
+  <div id="al-out" aria-live="polite">${almanacOut()}</div>
+  <p class="adv-note">${t('Ten months of thirty-six days, and five Still Days. Sunsdawn on Eo 1st, 175 EC, is the atlas’s convention, and the Cycle runs on without restarting. Valtaire, the near moon, is full on the 18th of every month.', 'Diez meses de treinta y seis días, y cinco Días Quietos. Albasol el 1 de Eo de 175 EC es la convención del atlas, y el Ciclo sigue sin reiniciarse. Valtaire, la luna cercana, está lleno el 18 de cada mes.')} <a href="#calendar">${t('The calendar', 'El calendario')}</a> · <a href="#entry/month-names">${t('Month-names', 'Los nombres de mes')}</a> · <a href="#adventurers/coinsday">${t('The Coinsday Reading', 'La Lectura de Monedía')}</a></p></section>`);
+  const read = () => {al.year = Math.max(1, +$('#al-year').value || 175); al.month = +$('#al-month').value; al.day = Math.max(1, Math.min(al.month === 10 ? 5 : 36, +$('#al-day').value || 1)); al.add = Math.round(+$('#al-add').value || 0); $('#al-day').value = al.day;};
+  $('#al-go').addEventListener('click', () => {read(); $('#al-out').innerHTML = almanacOut();});
+  $('#al-today').addEventListener('click', () => {Object.assign(al, alToday()); $('#al-year').value = al.year; $('#al-month').value = al.month; $('#al-day').value = al.day; $('#al-out').innerHTML = almanacOut();});
+  $('#al-month').addEventListener('input', () => {$('#al-day').max = +$('#al-month').value === 10 ? 5 : 36;});
+  bindCopy($('#al-out'));
+ }
+ function almanacOut() {
+  const A = alAbs(al.year, al.month, al.day);
+  let html = `<div class="adv-sheet-actions">${copyButton('al-sheet')}</div>${alSheet(A, 'al-sheet', '')}`;
+  if(al.add) html += `<h3>${al.add > 0 ? t(`After ${al.add} days`, `Después de ${al.add} días`) : t(`${-al.add} days before`, `${-al.add} días antes`)}</h3>${alTrip(A, al.add)}${alSheet(A + al.add, 'al-sheet-2', al.add > 0 ? t('Arrival', 'Llegada') : t('Then', 'Entonces'))}`;
+  return html;
+ }
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else if(parts[1] === 'coinsday') renderCoinsday(); else if(parts[1] === 'black-market') renderBlack(); else if(parts[1] === 'folk') renderFolk(); else if(parts[1] === 'tavern') renderTavern(); else if(parts[1] === 'encounters') renderEncounters(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else if(parts[1] === 'coinsday') renderCoinsday(); else if(parts[1] === 'black-market') renderBlack(); else if(parts[1] === 'almanac') renderAlmanac(); else if(parts[1] === 'folk') renderFolk(); else if(parts[1] === 'tavern') renderTavern(); else if(parts[1] === 'encounters') renderEncounters(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;

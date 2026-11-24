@@ -648,172 +648,166 @@
    "section": "Okram of Harbor and Rest"
   },
   {
-   "when": "Feast",
-   "feast": "Sign",
-   "keeper": "Keeper",
-   "section": "Moveable feasts"
-  },
-  {
-   "when": "The Pour-Out",
-   "feast": "The first rain of Open Water",
+   "when": "The first rain of Open Water",
+   "feast": "The Pour-Out",
    "keeper": "The Drowning Mother",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "Kindling Night",
-   "feast": "The founding of a house",
+   "when": "The founding of a house",
+   "feast": "Kindling Night",
    "keeper": "The Hunger That Warms",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The First Wind",
-   "feast": "The turn of the trade-winds in Fair Water",
+   "when": "The turn of the trade-winds in Fair Water",
+   "feast": "The First Wind",
    "keeper": "The Breath That Wanders",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The First Grass",
-   "feast": "The first grazing of spring on the moor",
+   "when": "The first grazing of spring on the moor",
+   "feast": "The First Grass",
    "keeper": "The Sleeping Giant",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Blooming of the Dead",
-   "feast": "About three weeks after a Sporrn burial",
+   "when": "About three weeks after a Sporrn burial",
+   "feast": "The Blooming of the Dead",
    "keeper": "Hyssen",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Sinking",
-   "feast": "The dark moon before the King Tide",
+   "when": "The dark moon before the King Tide",
+   "feast": "The Sinking",
    "keeper": "Mhavros",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Hollow Night",
-   "feast": "Every moonless night",
+   "when": "Every moonless night",
+   "feast": "The Hollow Night",
    "keeper": "Ungoreth",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Dark Hour",
-   "feast": "Every moonless night, in silence",
+   "when": "Every moonless night, in silence",
+   "feast": "The Dark Hour",
    "keeper": "The Nameless God",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Full Turn",
-   "feast": "Every thirty-six days, when Valtaire is full",
+   "when": "Every thirty-six days, when Valtaire is full",
+   "feast": "The Full Turn",
    "keeper": "Valtaire",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "Ciel's Homecoming",
-   "feast": "The return of Ciel to the full",
+   "when": "The return of Ciel to the full",
+   "feast": "Ciel's Homecoming",
    "keeper": "Ciel",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The High Tide Flight",
-   "feast": "The night Valtaire and Ciel pull together",
+   "when": "The night Valtaire and Ciel pull together",
+   "feast": "The High Tide Flight",
    "keeper": "Aevyr",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Changing Tide",
-   "feast": "The two turns of the tides each year",
+   "when": "The two turns of the tides each year",
+   "feast": "The Changing Tide",
    "keeper": "Veshanna",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Swarm Day",
-   "feast": "The locust cloud seen over the fields",
+   "when": "The locust cloud seen over the fields",
+   "feast": "The Swarm Day",
    "keeper": "Khagun",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Burning of the Quays",
-   "feast": "The first storm of Storm Water",
+   "when": "The first storm of Storm Water",
+   "feast": "The Burning of the Quays",
    "keeper": "Athuraz",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Living Lightning",
-   "feast": "The first storm of Storm Water",
+   "when": "The first storm of Storm Water",
+   "feast": "The Living Lightning",
    "keeper": "Eirhal",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Nine Nights",
-   "feast": "Nine nights after the first frost",
+   "when": "Nine nights after the first frost",
+   "feast": "The Nine Nights",
    "keeper": "Mishri",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Ghostlight Vigil",
-   "feast": "The strongest aurora over the Icy Expanse",
+   "when": "The strongest aurora over the Icy Expanse",
+   "feast": "The Ghostlight Vigil",
    "keeper": "Volvieg",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Reading of the Wings",
-   "feast": "The sighting of Badron before the storm season",
+   "when": "The sighting of Badron before the storm season",
+   "feast": "The Reading of the Wings",
    "keeper": "Badron",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Tribute of the Ape",
-   "feast": "The seasonal leaving of fruit in Storm Water",
+   "when": "The seasonal leaving of fruit in Storm Water",
+   "feast": "The Tribute of the Ape",
    "keeper": "Momumba",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Watch of the Five",
-   "feast": "Each season, when the storm-priests chart the layers",
+   "when": "Each season, when the storm-priests chart the layers",
+   "feast": "The Watch of the Five",
    "keeper": "Kayuntu",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Reading of the Mud",
-   "feast": "A stirring in the bog",
+   "when": "A stirring in the bog",
+   "feast": "The Reading of the Mud",
    "keeper": "Ssvayuk",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Skull-Paint",
-   "feast": "Before any Frost Elf raid",
+   "when": "Before any Frost Elf raid",
+   "feast": "The Skull-Paint",
    "keeper": "Vukharr",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Stopping of the Ears",
-   "feast": "Any descent into the deep dark",
+   "when": "Any descent into the deep dark",
+   "feast": "The Stopping of the Ears",
    "keeper": "Ulgrenn",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The King Tide dread",
-   "feast": "Three days, roughly every third year",
+   "when": "Three days, roughly every third year",
+   "feast": "The King Tide dread",
    "keeper": "Thalgorath",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Stilling",
-   "feast": "When Tyrak'Zhul is known to be moving",
+   "when": "When Tyrak'Zhul is known to be moving",
+   "feast": "The Stilling",
    "keeper": "Tyrak'Zhul",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Late Frost",
-   "feast": "An unscheduled night each season, at the Courts' borders",
+   "when": "An unscheduled night each season, at the Courts' borders",
+   "feast": "The Late Frost",
    "keeper": "The Unbound",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   },
   {
-   "when": "The Unspoken",
-   "feast": "Each crossing of the Bonewilds",
+   "when": "Each crossing of the Bonewilds",
+   "feast": "The Unspoken",
    "keeper": "Shakarr",
-   "section": "Moveable feasts"
+   "section": "Feasts that come by a sign"
   }
  ],
  "king_tide": {

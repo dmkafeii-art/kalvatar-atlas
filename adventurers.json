@@ -24937,5 +24937,1855 @@
    ]
   }
  },
+ "almanac": {
+  "seasons": [
+   [
+    "Closed Water",
+    "Agua Cerrada"
+   ],
+   [
+    "Open Water",
+    "Agua Abierta"
+   ],
+   [
+    "Fair Water",
+    "Agua Buena"
+   ],
+   [
+    "Storm Water",
+    "Agua de Tormenta"
+   ]
+  ],
+  "months": [
+   {
+    "name": "Eo",
+    "season": [
+     "Closed Water",
+     "Agua Cerrada"
+    ],
+    "epithet": [
+     "Hearth and Home",
+     "Hogar y Casa"
+    ],
+    "keeps": [
+     "Family, the house, beginnings (Eo 1st is Landing-Day, New Year)",
+     "La familia, la casa, los comienzos (el 1 de Eo es el Día del Desembarco, el Año Nuevo)"
+    ],
+    "says": [
+     "They want a home more than anyone, and make the best ones.",
+     "Quieren un hogar más que nadie, y hacen los mejores."
+    ],
+    "link": "eo"
+   },
+   {
+    "name": "Eliol",
+    "season": [
+     "Closed Water",
+     "Agua Cerrada"
+    ],
+    "epithet": [
+     "Chart and Star",
+     "Carta y Estrella"
+    ],
+    "keeps": [
+     "Learning, study, finding your way",
+     "Aprender, estudiar, encontrar el camino"
+    ],
+    "says": [
+     "Always looking for where they came from.",
+     "Siempre buscando de dónde vienen."
+    ],
+    "link": "eliol"
+   },
+   {
+    "name": "Ezra",
+    "season": [
+     "Open Water",
+     "Agua Abierta"
+    ],
+    "epithet": [
+     "Mast and Sail",
+     "Mástil y Vela"
+    ],
+    "keeps": [
+     "Setting out, voyages, courage",
+     "Zarpar, los viajes, el valor"
+    ],
+    "says": [
+     "Restless. Half the Free Sails are of Ezra.",
+     "Inquietos. La mitad de las Velas Libres son de Ezra."
+    ],
+    "link": "ezra"
+   },
+   {
+    "name": "Liora",
+    "season": [
+     "Open Water",
+     "Agua Abierta"
+    ],
+    "epithet": [
+     "Heart and Hand",
+     "Corazón y Mano"
+    ],
+    "keeps": [
+     "Love and friendship",
+     "El amor y la amistad"
+    ],
+    "says": [
+     "Love-children: the sweetest insult in the islands.",
+     "Hijos del amor: el insulto más dulce de las islas."
+    ],
+    "link": "liora-of-the-open-heart"
+   },
+   {
+    "name": "Rhor",
+    "season": [
+     "Fair Water",
+     "Agua Buena"
+    ],
+    "epithet": [
+     "Net and Anvil",
+     "Red y Yunque"
+    ],
+    "keeps": [
+     "Work, craft, a living",
+     "El trabajo, el oficio, ganarse la vida"
+    ],
+    "says": [
+     "They work twice as hard to be counted once.",
+     "Trabajan el doble para que los cuenten una vez."
+    ],
+    "link": "rhor"
+   },
+   {
+    "name": "Idel",
+    "season": [
+     "Fair Water",
+     "Agua Buena"
+    ],
+    "epithet": [
+     "Coin and Cargo",
+     "Moneda y Carga"
+    ],
+    "keeps": [
+     "Trade and fortune",
+     "El comercio y la fortuna"
+    ],
+    "says": [
+     "They know what everything costs, themselves included.",
+     "Saben lo que cuesta todo, ellos incluidos."
+    ],
+    "link": "idel"
+   },
+   {
+    "name": "Veriden",
+    "season": [
+     "Fair Water",
+     "Agua Buena"
+    ],
+    "epithet": [
+     "Truth and Justice",
+     "Verdad y Justicia"
+    ],
+    "keeps": [
+     "Oaths, courts, honesty",
+     "Los juramentos, los tribunales, la honestidad"
+    ],
+    "says": [
+     "The homecoming children. Born to argue.",
+     "Los hijos del regreso. Nacidos para discutir."
+    ],
+    "link": "veriden-the-oathkeeper"
+   },
+   {
+    "name": "Halvenir",
+    "season": [
+     "Storm Water",
+     "Agua de Tormenta"
+    ],
+    "epithet": [
+     "Salt and Harvest",
+     "Sal y Cosecha"
+    ],
+    "keeps": [
+     "Plenty, and keeping it",
+     "La abundancia, y conservarla"
+    ],
+    "says": [
+     "Lucky at sea, and they know it.",
+     "Con suerte en el mar, y lo saben."
+    ],
+    "link": "halvenir-the-reaper-of-grain"
+   },
+   {
+    "name": "Memnara",
+    "season": [
+     "Storm Water",
+     "Agua de Tormenta"
+    ],
+    "epithet": [
+     "Bell and Remembrance",
+     "Campana y Recuerdo"
+    ],
+    "keeps": [
+     "The dead and the drowned",
+     "Los muertos y los ahogados"
+    ],
+    "says": [
+     "Unlucky, people say, and they remember every slight.",
+     "Con mala suerte, dice la gente, y recuerdan cada desaire."
+    ],
+    "link": "memnara-the-unbroken-thread"
+   },
+   {
+    "name": "Okram",
+    "season": [
+     "Closed Water",
+     "Agua Cerrada"
+    ],
+    "epithet": [
+     "Harbor and Rest",
+     "Puerto y Descanso"
+    ],
+    "keeps": [
+     "Coming home, rest",
+     "Volver a casa, el descanso"
+    ],
+    "says": [
+     "The ones who always come back.",
+     "Los que siempre vuelven."
+    ],
+    "link": "okram"
+   }
+  ],
+  "still": [
+   "Five days that belong to no god: debts pause, the courts close, and fae bargains come due.",
+   "Cinco días que no son de ningún dios: las deudas se detienen, los tribunales cierran, y vencen los tratos con las hadas."
+  ],
+  "cycle": [
+   {
+    "day": [
+     "Sunsdawn",
+     "Albasol"
+    ],
+    "for": [
+     "Beginnings, law, Concord worship",
+     "Los comienzos, la ley, el culto de la Concordia"
+    ]
+   },
+   {
+    "day": [
+     "Tideturn",
+     "Vuelvemarea"
+    ],
+    "for": [
+     "Sailing and trade, the day to weigh anchor",
+     "Navegar y comerciar, el día de levar anclas"
+    ]
+   },
+   {
+    "day": [
+     "Hearthday",
+     "Hogardía"
+    ],
+    "for": [
+     "Home and family",
+     "La casa y la familia"
+    ]
+   },
+   {
+    "day": [
+     "Forgeday",
+     "Forjadía"
+    ],
+    "for": [
+     "Craft, labor, the guilds",
+     "El oficio, el trabajo, los gremios"
+    ]
+   },
+   {
+    "day": [
+     "Wardsday",
+     "Guardadía"
+    ],
+    "for": [
+     "Courts, oaths, justice",
+     "Los tribunales, los juramentos, la justicia"
+    ]
+   },
+   {
+    "day": [
+     "Greenday",
+     "Verdedía"
+    ],
+    "for": [
+     "Fields and harvest",
+     "Los campos y la cosecha"
+    ]
+   },
+   {
+    "day": [
+     "Graveday",
+     "Tumbadía"
+    ],
+    "for": [
+     "The dead and the ancestors, never set sail on a Graveday",
+     "Los muertos y los ancestros; nunca se zarpa en Tumbadía"
+    ]
+   },
+   {
+    "day": [
+     "Windsday",
+     "Vientodía"
+    ],
+    "for": [
+     "Travel, roads, news",
+     "Los viajes, los caminos, las noticias"
+    ]
+   },
+   {
+    "day": [
+     "Coinsday",
+     "Monedía"
+    ],
+    "for": [
+     "Market day; debts paid; Pocchin caravans roll into town",
+     "Día de mercado; se pagan las deudas; llegan las caravanas pocchin"
+    ]
+   },
+   {
+    "day": [
+     "Restday",
+     "Reposadía"
+    ],
+    "for": [
+     "The islands' day off, temple, tidecall, and the long meal",
+     "El día libre de las islas: el templo, el tidecall y la comida larga"
+    ]
+   }
+  ],
+  "fixed": [
+   {
+    "month": 0,
+    "day": 1,
+    "name": [
+     "Landing-Day, the first fire of the year. Charter Day: the Registry draws the year's Arbiters",
+     "Día del Desembarco, el primer fuego del año. Día de la Carta: el Registro sortea a los Árbitros del año"
+    ],
+    "keeper": [
+     "Eo",
+     "Eo"
+    ],
+    "link": "eo"
+   },
+   {
+    "month": 0,
+    "day": 12,
+    "name": [
+     "The Common Table",
+     "La Mesa Común"
+    ],
+    "keeper": [
+     "Coriell",
+     "Coriell"
+    ],
+    "link": "patrons-of-the-peoples"
+   },
+   {
+    "month": 0,
+    "day": 19,
+    "name": [
+     "The Crowning Day",
+     "El Día de la Coronación"
+    ],
+    "keeper": [
+     "Vorthung",
+     "Vorthung"
+    ],
+    "link": "goliaths"
+   },
+   {
+    "month": 0,
+    "day": 27,
+    "name": [
+     "The Clan Hearth",
+     "El Hogar del Clan"
+    ],
+    "keeper": [
+     "Varganthûr",
+     "Varganthûr"
+    ],
+    "link": "dwarves"
+   },
+   {
+    "month": 1,
+    "day": 6,
+    "name": [
+     "The First Light Walk",
+     "El Paseo de la Primera Luz"
+    ],
+    "keeper": [
+     "Aelthuvar",
+     "Aelthuvar"
+    ],
+    "link": "elves"
+   },
+   {
+    "month": 1,
+    "day": 10,
+    "name": [
+     "Hospital Night",
+     "La Noche del Hospital"
+    ],
+    "keeper": [
+     "Maela",
+     "Maela"
+    ],
+    "link": "maela-the-mender"
+   },
+   {
+    "month": 1,
+    "day": 11,
+    "name": [
+     "The Fasting of Questions",
+     "El Ayuno de las Preguntas"
+    ],
+    "keeper": [
+     "Oda",
+     "Oda"
+    ],
+    "link": "oda"
+   },
+   {
+    "month": 1,
+    "day": 14,
+    "name": [
+     "Charting Day",
+     "El Día de las Cartas"
+    ],
+    "keeper": [
+     "Wanderlight, shared with Eliol",
+     "Luzerrante, compartido con Eliol"
+    ],
+    "link": "wanderlight-the-far-strider"
+   },
+   {
+    "month": 1,
+    "day": 18,
+    "name": [
+     "Dice Night",
+     "La Noche de los Dados"
+    ],
+    "keeper": [
+     "Fortura",
+     "Fortura"
+    ],
+    "link": "fortura-the-fickle"
+   },
+   {
+    "month": 1,
+    "day": 19,
+    "name": [
+     "The Reading of the Long Nights",
+     "La Lectura de las Noches Largas"
+    ],
+    "keeper": [
+     "Eliol",
+     "Eliol"
+    ],
+    "link": "eliol"
+   },
+   {
+    "month": 1,
+    "day": 21,
+    "name": [
+     "The Long Waking",
+     "La Vigilia Larga"
+    ],
+    "keeper": [
+     "Naxithe",
+     "Naxithe"
+    ],
+    "link": "naxithe-the-dream-eater"
+   },
+   {
+    "month": 1,
+    "day": 25,
+    "name": [
+     "Lamplight",
+     "Luz de Lámpara"
+    ],
+    "keeper": [
+     "Lunia",
+     "Lunia"
+    ],
+    "link": "lunia-the-lady-of-light"
+   },
+   {
+    "month": 1,
+    "day": 30,
+    "name": [
+     "Starfall",
+     "Lluvia de Estrellas"
+    ],
+    "keeper": [
+     "Skaia",
+     "Skaia"
+    ],
+    "link": "skaia"
+   },
+   {
+    "month": 2,
+    "day": 3,
+    "name": [
+     "The Green Waking",
+     "El Despertar Verde"
+    ],
+    "keeper": [
+     "Yarrowen, with Ilavash",
+     "Yarrowen, con Ilavash"
+    ],
+    "link": "green-fire"
+   },
+   {
+    "month": 2,
+    "day": 13,
+    "name": [
+     "The Laughing Thaw",
+     "El Deshielo que Ríe"
+    ],
+    "keeper": [
+     "Aoifel",
+     "Aoifel"
+    ],
+    "link": "aoifel-the-green-laugh"
+   },
+   {
+    "month": 2,
+    "day": 19,
+    "name": [
+     "The Crossroads Coins",
+     "Las Monedas del Cruce"
+    ],
+    "keeper": [
+     "Kessa",
+     "Kessa"
+    ],
+    "link": "kessa-of-the-crossroads"
+   },
+   {
+    "month": 2,
+    "day": 22,
+    "name": [
+     "The Masking of the Quays",
+     "Las Máscaras de los Muelles"
+    ],
+    "keeper": [
+     "Elcifer",
+     "Elcifer"
+    ],
+    "link": "elcifer"
+   },
+   {
+    "month": 2,
+    "day": 27,
+    "name": [
+     "The Captain's Cup",
+     "La Copa del Capitán"
+    ],
+    "keeper": [
+     "Tholmar",
+     "Tholmar"
+    ],
+    "link": "tholmar-the-star-wake"
+   },
+   {
+    "month": 2,
+    "day": 30,
+    "name": [
+     "The Riot of Cups",
+     "El Motín de las Copas"
+    ],
+    "keeper": [
+     "Cael",
+     "Cael"
+    ],
+    "link": "cael-the-vintner"
+   },
+   {
+    "month": 3,
+    "day": 1,
+    "name": [
+     "Friend-knots",
+     "Nudos de Amistad"
+    ],
+    "keeper": [
+     "Liora",
+     "Liora"
+    ],
+    "link": "liora-of-the-open-heart"
+   },
+   {
+    "month": 3,
+    "day": 18,
+    "name": [
+     "The Untying, under Valtaire's full light",
+     "El Desanudo, bajo la luz llena de Valtaire"
+    ],
+    "keeper": [
+     "Liora, with Valtaire",
+     "Liora, con Valtaire"
+    ],
+    "link": "liora-of-the-open-heart"
+   },
+   {
+    "month": 4,
+    "day": 4,
+    "name": [
+     "The Quenching",
+     "El Temple"
+    ],
+    "keeper": [
+     "Durmakhâim",
+     "Durmakhâim"
+    ],
+    "link": "dwarves"
+   },
+   {
+    "month": 4,
+    "day": 9,
+    "name": [
+     "The Founding of Goldwind",
+     "La Fundación de Ventoro"
+    ],
+    "keeper": [
+     "Rhor",
+     "Rhor"
+    ],
+    "link": "rhor"
+   },
+   {
+    "month": 4,
+    "day": 14,
+    "name": [
+     "Penny's Supper",
+     "La Cena de Penny"
+    ],
+    "keeper": [
+     "Penny Greenstep",
+     "Penny Pasoverde"
+    ],
+    "link": "halflings"
+   },
+   {
+    "month": 4,
+    "day": 16,
+    "name": [
+     "The Sword-Cooling",
+     "El Enfriado de la Espada"
+    ],
+    "keeper": [
+     "Brakkundr",
+     "Brakkundr"
+    ],
+    "link": "brakkundr-the-war-forge"
+   },
+   {
+    "month": 4,
+    "day": 21,
+    "name": [
+     "Tinkers' Night",
+     "La Noche de los Remendones"
+    ],
+    "keeper": [
+     "Tik",
+     "Tik"
+    ],
+    "link": "gnomes"
+   },
+   {
+    "month": 4,
+    "day": 24,
+    "name": [
+     "Mirror Night",
+     "La Noche del Espejo"
+    ],
+    "keeper": [
+     "Iliriel",
+     "Iliriel"
+    ],
+    "link": "iliriel-the-perfect-form"
+   },
+   {
+    "month": 4,
+    "day": 27,
+    "name": [
+     "The Road Blessing",
+     "La Bendición del Camino"
+    ],
+    "keeper": [
+     "Brother Dog",
+     "Hermano Perro"
+    ],
+    "link": "brother-dog"
+   },
+   {
+    "month": 4,
+    "day": 30,
+    "name": [
+     "The Tusking",
+     "El Colmilleo"
+    ],
+    "keeper": [
+     "Gorrokar",
+     "Gorrokar"
+    ],
+    "link": "orcs"
+   },
+   {
+    "month": 5,
+    "day": 8,
+    "name": [
+     "The Turning of the Sand",
+     "La Vuelta de la Arena"
+    ],
+    "keeper": [
+     "Daelhir",
+     "Daelhir"
+    ],
+    "link": "daelhir"
+   },
+   {
+    "month": 5,
+    "day": 11,
+    "name": [
+     "The Whisper Night",
+     "La Noche del Susurro"
+    ],
+    "keeper": [
+     "Sruth",
+     "Sruth"
+    ],
+    "link": "sruth-the-whisper-in-coin"
+   },
+   {
+    "month": 5,
+    "day": 12,
+    "name": [
+     "Sunturn, the sun at its height over Goldwind",
+     "El Giro del Sol, el sol en lo más alto sobre Ventoro"
+    ],
+    "keeper": [
+     "Law the Sun King",
+     "Law, el Rey Sol"
+    ],
+    "link": "patrons-of-the-peoples"
+   },
+   {
+    "month": 5,
+    "day": 16,
+    "name": [
+     "The Laughing Water",
+     "El Agua que Ríe"
+    ],
+    "keeper": [
+     "Malim",
+     "Malim"
+    ],
+    "link": "malim-the-laughing-flood"
+   },
+   {
+    "month": 5,
+    "day": 20,
+    "name": [
+     "The Opening of the Coral Gate",
+     "La Apertura de la Puerta de Coral"
+    ],
+    "keeper": [
+     "Vaythra",
+     "Vaythra"
+    ],
+    "link": "sea-pacts"
+   },
+   {
+    "month": 5,
+    "day": 21,
+    "name": [
+     "The Midsummer Bonfires",
+     "Las Hogueras de Pleno Verano"
+    ],
+    "keeper": [
+     "Pyraxis",
+     "Pyraxis"
+    ],
+    "link": "pyraxis-the-unbowed-flame"
+   },
+   {
+    "month": 5,
+    "day": 24,
+    "name": [
+     "The Droving",
+     "La Arreada"
+    ],
+    "keeper": [
+     "Ulmach",
+     "Ulmach"
+    ],
+    "link": "patrons-of-the-peoples"
+   },
+   {
+    "month": 5,
+    "day": 25,
+    "name": [
+     "The Gilded Fair",
+     "La Feria Dorada"
+    ],
+    "keeper": [
+     "Venkovolkos",
+     "Venkovolkos"
+    ],
+    "link": "venkovolkos"
+   },
+   {
+    "month": 5,
+    "day": 28,
+    "name": [
+     "Mouthday",
+     "El Día de la Boca"
+    ],
+    "keeper": [
+     "Skarn",
+     "Skarn"
+    ],
+    "link": "goblinoids"
+   },
+   {
+    "month": 6,
+    "day": 6,
+    "name": [
+     "The Sunhold Accord",
+     "El Acuerdo de Bastión del Sol"
+    ],
+    "keeper": [
+     "Veriden",
+     "Veriden"
+    ],
+    "link": "veriden-the-oathkeeper"
+   },
+   {
+    "month": 6,
+    "day": 13,
+    "name": [
+     "The Clan Swearing",
+     "El Juramento de los Clanes"
+    ],
+    "keeper": [
+     "Tharuun",
+     "Tharuun"
+    ],
+    "link": "patrons-of-the-peoples"
+   },
+   {
+    "month": 6,
+    "day": 14,
+    "name": [
+     "The Balancing",
+     "El Equilibrio"
+    ],
+    "keeper": [
+     "Ilis",
+     "Ilis"
+    ],
+    "link": "ilis"
+   },
+   {
+    "month": 6,
+    "day": 17,
+    "name": [
+     "The Steady",
+     "La Calma"
+    ],
+    "keeper": [
+     "Sathrun",
+     "Sathrun"
+    ],
+    "link": "hunger-that-warms"
+   },
+   {
+    "month": 6,
+    "day": 19,
+    "name": [
+     "The Dominion Parade, held in private",
+     "El Desfile del Dominio, en privado"
+    ],
+    "keeper": [
+     "Korthax",
+     "Korthax"
+    ],
+    "link": "korthax-the-iron-crown"
+   },
+   {
+    "month": 6,
+    "day": 24,
+    "name": [
+     "Tally Day",
+     "El Día de la Cuenta"
+    ],
+    "keeper": [
+     "Khazrûkk",
+     "Khazrûkk"
+    ],
+    "link": "dwarves"
+   },
+   {
+    "month": 6,
+    "day": 27,
+    "name": [
+     "Ledger Day, held in private",
+     "El Día del Libro Mayor, en privado"
+    ],
+    "keeper": [
+     "Vautun",
+     "Vautun"
+    ],
+    "link": "vautun-the-ledger-keeper"
+   },
+   {
+    "month": 6,
+    "day": 30,
+    "name": [
+     "The Raising of Walls",
+     "El Levantamiento de los Muros"
+    ],
+    "keeper": [
+     "Magnus",
+     "Magnus"
+    ],
+    "link": "magnus"
+   },
+   {
+    "month": 7,
+    "day": 3,
+    "name": [
+     "The Night of Torn Sails",
+     "La Noche de las Velas Rotas"
+    ],
+    "keeper": [
+     "Vael",
+     "Vael"
+    ],
+    "link": "stormcaller-vael"
+   },
+   {
+    "month": 7,
+    "day": 9,
+    "name": [
+     "The Open Hunt",
+     "La Cacería Abierta"
+    ],
+    "keeper": [
+     "The Green Hunter",
+     "El Cazador Verde"
+    ],
+    "link": "green-hunter"
+   },
+   {
+    "month": 7,
+    "day": 13,
+    "name": [
+     "The Empty Feast",
+     "El Banquete Vacío"
+    ],
+    "keeper": [
+     "Orphanos",
+     "Orphanos"
+    ],
+    "link": "orphanos"
+   },
+   {
+    "month": 7,
+    "day": 17,
+    "name": [
+     "The Breaking Night",
+     "La Noche de la Ruptura"
+    ],
+    "keeper": [
+     "Sevrin",
+     "Sevrin"
+    ],
+    "link": "sevrin-the-chainbreaker"
+   },
+   {
+    "month": 7,
+    "day": 19,
+    "name": [
+     "Grandmother's Bath",
+     "El Baño de la Abuela"
+    ],
+    "keeper": [
+     "Sszathra",
+     "Sszathra"
+    ],
+    "link": "lizardfolk"
+   },
+   {
+    "month": 7,
+    "day": 26,
+    "name": [
+     "The Wild Run",
+     "La Carrera Salvaje"
+    ],
+    "keeper": [
+     "The Laughing Beast",
+     "La Bestia que Ríe"
+    ],
+    "link": "laughing-beast"
+   },
+   {
+    "month": 7,
+    "day": 28,
+    "name": [
+     "The Ember Dance",
+     "La Danza de las Brasas"
+    ],
+    "keeper": [
+     "Elisse",
+     "Elisse"
+    ],
+    "link": "elisse"
+   },
+   {
+    "month": 7,
+    "day": 30,
+    "name": [
+     "The Open Sill Night",
+     "La Noche del Alféizar Abierto"
+    ],
+    "keeper": [
+     "Castellyn",
+     "Castellyn"
+    ],
+    "link": "castellyn-the-open-hearth"
+   },
+   {
+    "month": 7,
+    "day": 34,
+    "name": [
+     "The Red Harvest and the Last Bargain",
+     "La Cosecha Roja y el Último Trato"
+    ],
+    "keeper": [
+     "Vael Mournthorn",
+     "Vael Espinaluto"
+    ],
+    "link": "vael-mournthorn-the-crimson-reaper-king"
+   },
+   {
+    "month": 8,
+    "day": 22,
+    "name": [
+     "Songs for the Drowned",
+     "Canciones para los Ahogados"
+    ],
+    "keeper": [
+     "Khadras",
+     "Khadras"
+    ],
+    "link": "khadras"
+   },
+   {
+    "month": 8,
+    "day": 25,
+    "name": [
+     "The Night of the Ancestors",
+     "La Noche de los Ancestros"
+    ],
+    "keeper": [
+     "Yaxqel, with Memnara and the Quiet Door",
+     "Yaxqel, con Memnara y la Puerta Callada"
+    ],
+    "link": "patrons-of-the-peoples"
+   },
+   {
+    "month": 9,
+    "day": 2,
+    "name": [
+     "The Door-Walk",
+     "El Paseo de las Puertas"
+    ],
+    "keeper": [
+     "Varneth",
+     "Varneth"
+    ],
+    "link": "varneth-the-threshold-warden"
+   },
+   {
+    "month": 9,
+    "day": 4,
+    "name": [
+     "The Lamp Night",
+     "La Noche de la Lámpara"
+    ],
+    "keeper": [
+     "Tramica",
+     "Tramica"
+    ],
+    "link": "tramica"
+   },
+   {
+    "month": 9,
+    "day": 9,
+    "name": [
+     "The Quiet Count",
+     "La Cuenta Callada"
+    ],
+    "keeper": [
+     "The Pale Man",
+     "El Hombre Pálido"
+    ],
+    "link": "pale-man"
+   },
+   {
+    "month": 9,
+    "day": 14,
+    "name": [
+     "The Tithe-Day",
+     "El Día del Diezmo"
+    ],
+    "keeper": [
+     "Elros",
+     "Elros"
+    ],
+    "link": "elros"
+   },
+   {
+    "month": 9,
+    "day": 17,
+    "name": [
+     "The Auction Night, held in secret",
+     "La Noche de la Subasta, en secreto"
+    ],
+    "keeper": [
+     "Abysm",
+     "Abysm"
+    ],
+    "link": "abysm"
+   },
+   {
+    "month": 9,
+    "day": 18,
+    "name": [
+     "The Long Night",
+     "La Noche Larga"
+    ],
+    "keeper": [
+     "Oorah",
+     "Oorah"
+    ],
+    "link": "oorah"
+   },
+   {
+    "month": 9,
+    "day": 22,
+    "name": [
+     "The Long Silence",
+     "El Largo Silencio"
+    ],
+    "keeper": [
+     "Morthryn",
+     "Morthryn"
+    ],
+    "link": "morthryn-the-pale-empress-of-air-and-ending"
+   },
+   {
+    "month": 9,
+    "day": 27,
+    "name": [
+     "The Week of Coughs, held in secret",
+     "La Semana de las Toses, en secreto"
+    ],
+    "keeper": [
+     "Asmodul",
+     "Asmodul"
+    ],
+    "link": "asmodul"
+   },
+   {
+    "month": 9,
+    "day": 28,
+    "name": [
+     "The Underscale Night",
+     "La Noche del Bajaescama"
+    ],
+    "keeper": [
+     "Vrix",
+     "Vrix"
+    ],
+    "link": "kobolds"
+   },
+   {
+    "month": 9,
+    "day": 29,
+    "name": [
+     "The Coronation of Frost",
+     "La Coronación de la Escarcha"
+    ],
+    "keeper": [
+     "Saelthar",
+     "Saelthar"
+    ],
+    "link": "saelthar-the-cold-throne"
+   }
+  ],
+  "monthly": [
+   {
+    "month": 0,
+    "when": [
+     "Eo, the month",
+     "Eo, todo el mes"
+    ],
+    "name": [
+     "Ironwake, the garrison's bonfires for the dead",
+     "La Vela de Hierro, las hogueras de la guarnición por los muertos"
+    ],
+    "keeper": [
+     "Eo",
+     "Eo"
+    ],
+    "link": "eo"
+   },
+   {
+    "month": 1,
+    "when": [
+     "Eliol, the month",
+     "Eliol, todo el mes"
+    ],
+    "name": [
+     "The convocations and examinations",
+     "Las convocatorias y los exámenes"
+    ],
+    "keeper": [
+     "Eliol",
+     "Eliol"
+    ],
+    "link": "eliol"
+   },
+   {
+    "month": 2,
+    "when": [
+     "Ezra, first calm morning",
+     "Ezra, la primera mañana en calma"
+    ],
+    "name": [
+     "First-Sail, with the coin for Lilim",
+     "La Primera Vela, con la moneda para Lilim"
+    ],
+    "keeper": [
+     "Ezra, with Lilim",
+     "Ezra, con Lilim"
+    ],
+    "link": "ezra"
+   },
+   {
+    "month": 2,
+    "when": [
+     "Ezra, the month",
+     "Ezra, todo el mes"
+    ],
+    "name": [
+     "The Bastion tourneys",
+     "Los torneos de Bastión"
+    ],
+    "keeper": [
+     "Ezra, with the Sword",
+     "Ezra, con la Espada"
+    ],
+    "link": "ezra"
+   },
+   {
+    "month": 3,
+    "when": [
+     "Liora 2nd to 17th",
+     "Del 2 al 17 de Liora"
+    ],
+    "name": [
+     "The Merrin Games, twelve trials",
+     "Los Juegos del Merrin, doce pruebas"
+    ],
+    "keeper": [
+     "Liora",
+     "Liora"
+    ],
+    "link": "liora-of-the-open-heart"
+   },
+   {
+    "month": 4,
+    "when": [
+     "Rhor, the month",
+     "Rhor, todo el mes"
+    ],
+    "name": [
+     "The Artisans' Faire",
+     "La Feria de los Artesanos"
+    ],
+    "keeper": [
+     "Rhor",
+     "Rhor"
+    ],
+    "link": "rhor"
+   },
+   {
+    "month": 5,
+    "when": [
+     "Idel, the month",
+     "Idel, todo el mes"
+    ],
+    "name": [
+     "The Festival of Winds",
+     "La Fiesta de los Vientos"
+    ],
+    "keeper": [
+     "Idel",
+     "Idel"
+    ],
+    "link": "idel"
+   },
+   {
+    "month": 7,
+    "when": [
+     "Halvenir 30th, in secret",
+     "30 de Halvenir, en secreto"
+    ],
+    "name": [
+     "The Unfeast",
+     "La Antifiesta"
+    ],
+    "keeper": [
+     "Chaos",
+     "Chaos"
+    ],
+    "link": "chaos"
+   },
+   {
+    "month": 7,
+    "when": [
+     "Halvenir, the month",
+     "Halvenir, todo el mes"
+    ],
+    "name": [
+     "The Bounty of the Sea, and the Last Sheaf",
+     "La Abundancia del Mar, y la Última Gavilla"
+    ],
+    "keeper": [
+     "Halvenir",
+     "Halvenir"
+    ],
+    "link": "halvenir-the-reaper-of-grain"
+   },
+   {
+    "month": 8,
+    "when": [
+     "Memnara, the month",
+     "Memnara, todo el mes"
+    ],
+    "name": [
+     "Storm-Watch, the bells for each name the sea took",
+     "La Guardia de Tormenta, las campanas por cada nombre que se llevó el mar"
+    ],
+    "keeper": [
+     "Memnara",
+     "Memnara"
+    ],
+    "link": "memnara-the-unbroken-thread"
+   },
+   {
+    "month": 9,
+    "when": [
+     "Okram, the month",
+     "Okram, todo el mes"
+    ],
+    "name": [
+     "The Returning Cups, and on the last night the Lanterns of Unity",
+     "Las Copas del Regreso, y en la última noche los Faroles de la Unidad"
+    ],
+    "keeper": [
+     "Okram",
+     "Okram"
+    ],
+    "link": "okram"
+   }
+  ],
+  "signs": [
+   {
+    "name": [
+     "The Pour-Out",
+     "El Derrame"
+    ],
+    "sign": [
+     "The first rain of Open Water",
+     "La primera lluvia del Agua Abierta"
+    ],
+    "keeper": [
+     "The Drowning Mother",
+     "La Madre que Ahoga"
+    ],
+    "link": "drowning-mother",
+    "seasons": [
+     "Open Water"
+    ]
+   },
+   {
+    "name": [
+     "Kindling Night",
+     "La Noche del Encendido"
+    ],
+    "sign": [
+     "The founding of a house",
+     "La fundación de una casa"
+    ],
+    "keeper": [
+     "The Hunger That Warms",
+     "El Hambre que Calienta"
+    ],
+    "link": "hunger-that-warms",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The First Wind",
+     "El Primer Viento"
+    ],
+    "sign": [
+     "The turn of the trade-winds in Fair Water",
+     "El cambio de los vientos alisios en el Agua Buena"
+    ],
+    "keeper": [
+     "The Breath That Wanders",
+     "El Aliento que Vaga"
+    ],
+    "link": "breath-that-wanders",
+    "seasons": [
+     "Fair Water"
+    ]
+   },
+   {
+    "name": [
+     "The First Grass",
+     "La Primera Hierba"
+    ],
+    "sign": [
+     "The first grazing of spring on the moor",
+     "El primer pastoreo de primavera en el páramo"
+    ],
+    "keeper": [
+     "The Sleeping Giant",
+     "El Gigante Dormido"
+    ],
+    "link": "sleeping-giant",
+    "seasons": [
+     "Open Water"
+    ]
+   },
+   {
+    "name": [
+     "The Blooming of the Dead",
+     "La Floración de los Muertos"
+    ],
+    "sign": [
+     "About three weeks after a Sporrn burial",
+     "Unas tres semanas después de un entierro sporrn"
+    ],
+    "keeper": [
+     "Hyssen",
+     "Hyssen"
+    ],
+    "link": "patrons-of-the-peoples",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Sinking",
+     "El Hundimiento"
+    ],
+    "sign": [
+     "The dark moon before the King Tide",
+     "La luna oscura antes de la Marea Rey"
+    ],
+    "keeper": [
+     "Mhavros",
+     "Mhavros"
+    ],
+    "link": "mhavros",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Hollow Night",
+     "La Noche Hueca"
+    ],
+    "sign": [
+     "Every moonless night",
+     "Cada noche sin luna"
+    ],
+    "keeper": [
+     "Ungoreth",
+     "Ungoreth"
+    ],
+    "link": "ungoreth-the-hollow-hunger",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Dark Hour",
+     "La Hora Oscura"
+    ],
+    "sign": [
+     "Every moonless night, in silence",
+     "Cada noche sin luna, en silencio"
+    ],
+    "keeper": [
+     "The Nameless God",
+     "El Dios sin Nombre"
+    ],
+    "link": "nameless-god",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Full Turn",
+     "La Vuelta Llena"
+    ],
+    "sign": [
+     "Every thirty-six days, when Valtaire is full",
+     "Cada treinta y seis días, cuando Valtaire está lleno"
+    ],
+    "keeper": [
+     "Valtaire",
+     "Valtaire"
+    ],
+    "link": "two-moons-and-the-tides",
+    "seasons": []
+   },
+   {
+    "name": [
+     "Ciel's Homecoming",
+     "El Regreso de Ciel"
+    ],
+    "sign": [
+     "The return of Ciel to the full",
+     "Cuando Ciel vuelve a estar lleno"
+    ],
+    "keeper": [
+     "Ciel",
+     "Ciel"
+    ],
+    "link": "two-moons-and-the-tides",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The High Tide Flight",
+     "El Vuelo de la Pleamar"
+    ],
+    "sign": [
+     "The night Valtaire and Ciel pull together",
+     "La noche en que Valtaire y Ciel tiran juntos"
+    ],
+    "keeper": [
+     "Aevyr",
+     "Aevyr"
+    ],
+    "link": "patrons-of-the-peoples",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Changing Tide",
+     "La Marea que Cambia"
+    ],
+    "sign": [
+     "The two turns of the tides each year",
+     "Los dos giros de las mareas cada año"
+    ],
+    "keeper": [
+     "Veshanna",
+     "Veshanna"
+    ],
+    "link": "veshanna-the-two-faced",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Swarm Day",
+     "El Día del Enjambre"
+    ],
+    "sign": [
+     "The locust cloud seen over the fields",
+     "La nube de langostas sobre los campos"
+    ],
+    "keeper": [
+     "Khagun",
+     "Khagun"
+    ],
+    "link": "khagun-the-rotmother",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Burning of the Quays",
+     "La Quema de los Muelles"
+    ],
+    "sign": [
+     "The first storm of Storm Water",
+     "La primera tormenta del Agua de Tormenta"
+    ],
+    "keeper": [
+     "Athuraz",
+     "Athuraz"
+    ],
+    "link": "athuraz",
+    "seasons": [
+     "Storm Water"
+    ]
+   },
+   {
+    "name": [
+     "The Living Lightning",
+     "El Rayo Vivo"
+    ],
+    "sign": [
+     "The first storm of Storm Water",
+     "La primera tormenta del Agua de Tormenta"
+    ],
+    "keeper": [
+     "Eirhal",
+     "Eirhal"
+    ],
+    "link": "galven",
+    "seasons": [
+     "Storm Water"
+    ]
+   },
+   {
+    "name": [
+     "The Nine Nights",
+     "Las Nueve Noches"
+    ],
+    "sign": [
+     "Nine nights after the first frost",
+     "Nueve noches después de la primera helada"
+    ],
+    "keeper": [
+     "Mishri",
+     "Mishri"
+    ],
+    "link": "cat-kin",
+    "seasons": [
+     "Closed Water"
+    ]
+   },
+   {
+    "name": [
+     "The Ghostlight Vigil",
+     "La Vigilia de la Luz Fantasma"
+    ],
+    "sign": [
+     "The strongest aurora over the Icy Expanse",
+     "La aurora más fuerte sobre la Extensión Helada"
+    ],
+    "keeper": [
+     "Volvieg",
+     "Volvieg"
+    ],
+    "link": "volvieg",
+    "seasons": [
+     "Closed Water"
+    ]
+   },
+   {
+    "name": [
+     "The Reading of the Wings",
+     "La Lectura de las Alas"
+    ],
+    "sign": [
+     "The sighting of Badron before the storm season",
+     "El avistamiento de Badron antes de la temporada de tormentas"
+    ],
+    "keeper": [
+     "Badron",
+     "Badron"
+    ],
+    "link": "badron-queen-of-feathers",
+    "seasons": [
+     "Fair Water"
+    ]
+   },
+   {
+    "name": [
+     "The Tribute of the Ape",
+     "El Tributo del Simio"
+    ],
+    "sign": [
+     "The seasonal leaving of fruit in Storm Water",
+     "La ofrenda de fruta de la temporada en el Agua de Tormenta"
+    ],
+    "keeper": [
+     "Momumba",
+     "Momumba"
+    ],
+    "link": "momumba-lord-of-apes",
+    "seasons": [
+     "Storm Water"
+    ]
+   },
+   {
+    "name": [
+     "The Watch of the Five",
+     "La Guardia de los Cinco"
+    ],
+    "sign": [
+     "Each season, when the storm-priests chart the layers",
+     "Cada estación, cuando los sacerdotes de la tormenta trazan las capas"
+    ],
+    "keeper": [
+     "Kayuntu",
+     "Kayuntu"
+    ],
+    "link": "kayuntu-the-violent-monarch-of-the-five-skies",
+    "seasons": [
+     "Closed Water",
+     "Open Water",
+     "Fair Water",
+     "Storm Water"
+    ]
+   },
+   {
+    "name": [
+     "The Reading of the Mud",
+     "La Lectura del Barro"
+    ],
+    "sign": [
+     "A stirring in the bog",
+     "Un remolino en la ciénaga"
+    ],
+    "keeper": [
+     "Ssvayuk",
+     "Ssvayuk"
+    ],
+    "link": "ssvayuk-the-mud-that-breathes",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Skull-Paint",
+     "La Pintura de Calavera"
+    ],
+    "sign": [
+     "Before any Frost Elf raid",
+     "Antes de cualquier incursión de los Elfos de la Escarcha"
+    ],
+    "keeper": [
+     "Vukharr",
+     "Vukharr"
+    ],
+    "link": "vukharr-the-white-hunger",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Stopping of the Ears",
+     "El Tapado de los Oídos"
+    ],
+    "sign": [
+     "Any descent into the deep dark",
+     "Cualquier descenso a la oscuridad honda"
+    ],
+    "keeper": [
+     "Ulgrenn",
+     "Ulgrenn"
+    ],
+    "link": "ulgrenn-the-hollow-song",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The King Tide dread",
+     "El Pavor de la Marea Rey"
+    ],
+    "sign": [
+     "Three days, roughly every third year",
+     "Tres días, más o menos cada tres años"
+    ],
+    "keeper": [
+     "Thalgorath",
+     "Thalgorath"
+    ],
+    "link": "thalgorath-the-tide-tyrant",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Stilling",
+     "El Aquietamiento"
+    ],
+    "sign": [
+     "When Tyrak'Zhul is known to be moving",
+     "Cuando se sabe que Tyrak'Zhul se está moviendo"
+    ],
+    "keeper": [
+     "Tyrak'Zhul",
+     "Tyrak'Zhul"
+    ],
+    "link": "tyrakzhul-the-world-eater",
+    "seasons": []
+   },
+   {
+    "name": [
+     "The Late Frost",
+     "La Helada Tardía"
+    ],
+    "sign": [
+     "An unscheduled night each season, at the Courts' borders",
+     "Una noche sin fecha cada estación, en las fronteras de las Cortes"
+    ],
+    "keeper": [
+     "The Unbound",
+     "El Desatado"
+    ],
+    "link": "unbound",
+    "seasons": [
+     "Closed Water",
+     "Open Water",
+     "Fair Water",
+     "Storm Water"
+    ]
+   },
+   {
+    "name": [
+     "The Unspoken",
+     "Lo No Dicho"
+    ],
+    "sign": [
+     "Each crossing of the Bonewilds",
+     "Cada cruce de las Tierras de Huesos"
+    ],
+    "keeper": [
+     "Shakarr",
+     "Shakarr"
+    ],
+    "link": "shakarr-the-shadow-of-death",
+    "seasons": []
+   }
+  ],
+  "king": {
+   "last": 174,
+   "every": 3
+  },
+  "full": 18,
+  "share_out": [
+   5,
+   9
+  ]
+ },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }

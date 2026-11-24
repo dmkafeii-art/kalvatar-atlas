@@ -1,0 +1,823 @@
+{
+ "year": "175 EC",
+ "months": [
+  {
+   "name": "Eo",
+   "epithet": "Hogar y Casa",
+   "keeps": "La familia, la casa, los comienzos (el 1 de Eo es el Día del Desembarco, el Año Nuevo)",
+   "season": "Agua Cerrada"
+  },
+  {
+   "name": "Eliol",
+   "epithet": "Carta y Estrella",
+   "keeps": "Aprender, estudiar, encontrar el camino",
+   "season": "Agua Cerrada"
+  },
+  {
+   "name": "Ezra",
+   "epithet": "Mástil y Vela",
+   "keeps": "Zarpar, los viajes, el valor",
+   "season": "Agua Abierta"
+  },
+  {
+   "name": "Liora",
+   "epithet": "Corazón y Mano",
+   "keeps": "El amor y la amistad",
+   "season": "Agua Abierta"
+  },
+  {
+   "name": "Rhor",
+   "epithet": "Red y Yunque",
+   "keeps": "El trabajo, el oficio, ganarse la vida",
+   "season": "Agua Buena"
+  },
+  {
+   "name": "Idel",
+   "epithet": "Moneda y Carga",
+   "keeps": "El comercio y la fortuna",
+   "season": "Agua Buena"
+  },
+  {
+   "name": "Veriden",
+   "epithet": "Verdad y Justicia",
+   "keeps": "Los juramentos, los tribunales, la honestidad",
+   "season": "Agua Buena"
+  },
+  {
+   "name": "Halvenir",
+   "epithet": "Sal y Cosecha",
+   "keeps": "La abundancia, y conservarla",
+   "season": "Agua de Tormenta"
+  },
+  {
+   "name": "Memnara",
+   "epithet": "Campana y Recuerdo",
+   "keeps": "Los muertos y los ahogados",
+   "season": "Agua de Tormenta"
+  },
+  {
+   "name": "Okram",
+   "epithet": "Puerto y Descanso",
+   "keeps": "Volver a casa, el descanso",
+   "season": "Agua Cerrada"
+  }
+ ],
+ "still_days": {
+  "count": 5,
+  "after": "Okram",
+  "keeps": "Cinco días que no son de ningún dios: las deudas se detienen, los tribunales cierran, y vencen los tratos con las hadas."
+ },
+ "cycle": [
+  {
+   "day": "Albasol",
+   "for": "Los comienzos, la ley, el culto de la Concordia"
+  },
+  {
+   "day": "Vuelvemarea",
+   "for": "Navegar y comerciar, el día de levar anclas"
+  },
+  {
+   "day": "Hogardía",
+   "for": "La casa y la familia"
+  },
+  {
+   "day": "Forjadía",
+   "for": "El oficio, el trabajo, los gremios"
+  },
+  {
+   "day": "Guardadía",
+   "for": "Los tribunales, los juramentos, la justicia"
+  },
+  {
+   "day": "Verdedía",
+   "for": "Los campos y la cosecha"
+  },
+  {
+   "day": "Tumbadía",
+   "for": "Los muertos y los ancestros; nunca se zarpa en Tumbadía"
+  },
+  {
+   "day": "Vientodía",
+   "for": "Los viajes, los caminos, las noticias"
+  },
+  {
+   "day": "Monedía",
+   "for": "Día de mercado; se pagan las deudas; llegan las caravanas pocchin"
+  },
+  {
+   "day": "Reposadía",
+   "for": "El día libre de las islas: el templo, el tidecall y la comida larga"
+  }
+ ],
+ "fixed_feasts": [
+  {
+   "when": "1 de Eo",
+   "feast": "Día del Desembarco, el primer fuego del año. Día de la Carta: el Registro sortea a los Árbitros del año",
+   "keeper": "Eo",
+   "month": "Eo",
+   "day": 1
+  },
+  {
+   "when": "12 de Eo",
+   "feast": "La Mesa Común",
+   "keeper": "Coriell",
+   "month": "Eo",
+   "day": 12
+  },
+  {
+   "when": "19 de Eo",
+   "feast": "El Día de la Coronación",
+   "keeper": "Vorthung",
+   "month": "Eo",
+   "day": 19
+  },
+  {
+   "when": "27 de Eo",
+   "feast": "El Hogar del Clan",
+   "keeper": "Varganthûr",
+   "month": "Eo",
+   "day": 27
+  },
+  {
+   "when": "6 de Eliol",
+   "feast": "El Paseo de la Primera Luz",
+   "keeper": "Aelthuvar",
+   "month": "Eliol",
+   "day": 6
+  },
+  {
+   "when": "10 de Eliol",
+   "feast": "La Noche del Hospital",
+   "keeper": "Maela",
+   "month": "Eliol",
+   "day": 10
+  },
+  {
+   "when": "11 de Eliol",
+   "feast": "El Ayuno de las Preguntas",
+   "keeper": "Oda",
+   "month": "Eliol",
+   "day": 11
+  },
+  {
+   "when": "14 de Eliol",
+   "feast": "El Día de las Cartas",
+   "keeper": "Luzerrante, compartido con Eliol",
+   "month": "Eliol",
+   "day": 14
+  },
+  {
+   "when": "18 de Eliol",
+   "feast": "La Noche de los Dados",
+   "keeper": "Fortura",
+   "month": "Eliol",
+   "day": 18
+  },
+  {
+   "when": "19 de Eliol",
+   "feast": "La Lectura de las Noches Largas",
+   "keeper": "Eliol",
+   "month": "Eliol",
+   "day": 19
+  },
+  {
+   "when": "21 de Eliol",
+   "feast": "La Vigilia Larga",
+   "keeper": "Naxithe",
+   "month": "Eliol",
+   "day": 21
+  },
+  {
+   "when": "25 de Eliol",
+   "feast": "Luz de Lámpara",
+   "keeper": "Lunia",
+   "month": "Eliol",
+   "day": 25
+  },
+  {
+   "when": "30 de Eliol",
+   "feast": "Lluvia de Estrellas",
+   "keeper": "Skaia",
+   "month": "Eliol",
+   "day": 30
+  },
+  {
+   "when": "3 de Ezra",
+   "feast": "El Despertar Verde",
+   "keeper": "Yarrowen, con Ilavash",
+   "month": "Ezra",
+   "day": 3
+  },
+  {
+   "when": "13 de Ezra",
+   "feast": "El Deshielo que Ríe",
+   "keeper": "Aoifel",
+   "month": "Ezra",
+   "day": 13
+  },
+  {
+   "when": "19 de Ezra",
+   "feast": "Las Monedas del Cruce",
+   "keeper": "Kessa",
+   "month": "Ezra",
+   "day": 19
+  },
+  {
+   "when": "22 de Ezra",
+   "feast": "Las Máscaras de los Muelles",
+   "keeper": "Elcifer",
+   "month": "Ezra",
+   "day": 22
+  },
+  {
+   "when": "27 de Ezra",
+   "feast": "La Copa del Capitán",
+   "keeper": "Tholmar",
+   "month": "Ezra",
+   "day": 27
+  },
+  {
+   "when": "30 de Ezra",
+   "feast": "El Motín de las Copas",
+   "keeper": "Cael",
+   "month": "Ezra",
+   "day": 30
+  },
+  {
+   "when": "1 de Liora",
+   "feast": "Nudos de Amistad",
+   "keeper": "Liora",
+   "month": "Liora",
+   "day": 1
+  },
+  {
+   "when": "18 de Liora",
+   "feast": "El Desanudo, bajo la luz llena de Valtaire",
+   "keeper": "Liora, con Valtaire",
+   "month": "Liora",
+   "day": 18
+  },
+  {
+   "when": "4 de Rhor",
+   "feast": "El Temple",
+   "keeper": "Durmakhâim",
+   "month": "Rhor",
+   "day": 4
+  },
+  {
+   "when": "9 de Rhor",
+   "feast": "La Fundación de Ventoro",
+   "keeper": "Rhor",
+   "month": "Rhor",
+   "day": 9
+  },
+  {
+   "when": "14 de Rhor",
+   "feast": "La Cena de Penny",
+   "keeper": "Penny Pasoverde",
+   "month": "Rhor",
+   "day": 14
+  },
+  {
+   "when": "16 de Rhor",
+   "feast": "El Enfriado de la Espada",
+   "keeper": "Brakkundr",
+   "month": "Rhor",
+   "day": 16
+  },
+  {
+   "when": "21 de Rhor",
+   "feast": "La Noche de los Remendones",
+   "keeper": "Tik",
+   "month": "Rhor",
+   "day": 21
+  },
+  {
+   "when": "24 de Rhor",
+   "feast": "La Noche del Espejo",
+   "keeper": "Iliriel",
+   "month": "Rhor",
+   "day": 24
+  },
+  {
+   "when": "27 de Rhor",
+   "feast": "La Bendición del Camino",
+   "keeper": "Hermano Perro",
+   "month": "Rhor",
+   "day": 27
+  },
+  {
+   "when": "30 de Rhor",
+   "feast": "El Colmilleo",
+   "keeper": "Gorrokar",
+   "month": "Rhor",
+   "day": 30
+  },
+  {
+   "when": "8 de Idel",
+   "feast": "La Vuelta de la Arena",
+   "keeper": "Daelhir",
+   "month": "Idel",
+   "day": 8
+  },
+  {
+   "when": "11 de Idel",
+   "feast": "La Noche del Susurro",
+   "keeper": "Sruth",
+   "month": "Idel",
+   "day": 11
+  },
+  {
+   "when": "12 de Idel",
+   "feast": "El Giro del Sol, el sol en lo más alto sobre Ventoro",
+   "keeper": "Law, el Rey Sol",
+   "month": "Idel",
+   "day": 12
+  },
+  {
+   "when": "16 de Idel",
+   "feast": "El Agua que Ríe",
+   "keeper": "Malim",
+   "month": "Idel",
+   "day": 16
+  },
+  {
+   "when": "20 de Idel",
+   "feast": "La Apertura de la Puerta de Coral",
+   "keeper": "Vaythra",
+   "month": "Idel",
+   "day": 20
+  },
+  {
+   "when": "21 de Idel",
+   "feast": "Las Hogueras de Pleno Verano",
+   "keeper": "Pyraxis",
+   "month": "Idel",
+   "day": 21
+  },
+  {
+   "when": "24 de Idel",
+   "feast": "La Arreada",
+   "keeper": "Ulmach",
+   "month": "Idel",
+   "day": 24
+  },
+  {
+   "when": "25 de Idel",
+   "feast": "La Feria Dorada",
+   "keeper": "Venkovolkos",
+   "month": "Idel",
+   "day": 25
+  },
+  {
+   "when": "28 de Idel",
+   "feast": "El Día de la Boca",
+   "keeper": "Skarn",
+   "month": "Idel",
+   "day": 28
+  },
+  {
+   "when": "6 de Veriden",
+   "feast": "El Acuerdo de Bastión del Sol",
+   "keeper": "Veriden",
+   "month": "Veriden",
+   "day": 6
+  },
+  {
+   "when": "13 de Veriden",
+   "feast": "El Juramento de los Clanes",
+   "keeper": "Tharuun",
+   "month": "Veriden",
+   "day": 13
+  },
+  {
+   "when": "14 de Veriden",
+   "feast": "El Equilibrio",
+   "keeper": "Ilis",
+   "month": "Veriden",
+   "day": 14
+  },
+  {
+   "when": "17 de Veriden",
+   "feast": "La Calma",
+   "keeper": "Sathrun",
+   "month": "Veriden",
+   "day": 17
+  },
+  {
+   "when": "19 de Veriden",
+   "feast": "El Desfile del Dominio, en privado",
+   "keeper": "Korthax",
+   "month": "Veriden",
+   "day": 19
+  },
+  {
+   "when": "24 de Veriden",
+   "feast": "El Día de la Cuenta",
+   "keeper": "Khazrûkk",
+   "month": "Veriden",
+   "day": 24
+  },
+  {
+   "when": "27 de Veriden",
+   "feast": "El Día del Libro Mayor, en privado",
+   "keeper": "Vautun",
+   "month": "Veriden",
+   "day": 27
+  },
+  {
+   "when": "30 de Veriden",
+   "feast": "El Levantamiento de los Muros",
+   "keeper": "Magnus",
+   "month": "Veriden",
+   "day": 30
+  },
+  {
+   "when": "3 de Halvenir",
+   "feast": "La Noche de las Velas Rotas",
+   "keeper": "Vael",
+   "month": "Halvenir",
+   "day": 3
+  },
+  {
+   "when": "9 de Halvenir",
+   "feast": "La Cacería Abierta",
+   "keeper": "El Cazador Verde",
+   "month": "Halvenir",
+   "day": 9
+  },
+  {
+   "when": "13 de Halvenir",
+   "feast": "El Banquete Vacío",
+   "keeper": "Orphanos",
+   "month": "Halvenir",
+   "day": 13
+  },
+  {
+   "when": "17 de Halvenir",
+   "feast": "La Noche de la Ruptura",
+   "keeper": "Sevrin",
+   "month": "Halvenir",
+   "day": 17
+  },
+  {
+   "when": "19 de Halvenir",
+   "feast": "El Baño de la Abuela",
+   "keeper": "Sszathra",
+   "month": "Halvenir",
+   "day": 19
+  },
+  {
+   "when": "26 de Halvenir",
+   "feast": "La Carrera Salvaje",
+   "keeper": "La Bestia que Ríe",
+   "month": "Halvenir",
+   "day": 26
+  },
+  {
+   "when": "28 de Halvenir",
+   "feast": "La Danza de las Brasas",
+   "keeper": "Elisse",
+   "month": "Halvenir",
+   "day": 28
+  },
+  {
+   "when": "30 de Halvenir",
+   "feast": "La Noche del Alféizar Abierto",
+   "keeper": "Castellyn",
+   "month": "Halvenir",
+   "day": 30
+  },
+  {
+   "when": "34 de Halvenir",
+   "feast": "La Cosecha Roja y el Último Trato",
+   "keeper": "Vael Espinaluto",
+   "month": "Halvenir",
+   "day": 34
+  },
+  {
+   "when": "22 de Memnara",
+   "feast": "Canciones para los Ahogados",
+   "keeper": "Khadras",
+   "month": "Memnara",
+   "day": 22
+  },
+  {
+   "when": "25 de Memnara",
+   "feast": "La Noche de los Ancestros",
+   "keeper": "Yaxqel, con Memnara y la Puerta Callada",
+   "month": "Memnara",
+   "day": 25
+  },
+  {
+   "when": "2 de Okram",
+   "feast": "El Paseo de las Puertas",
+   "keeper": "Varneth",
+   "month": "Okram",
+   "day": 2
+  },
+  {
+   "when": "4 de Okram",
+   "feast": "La Noche de la Lámpara",
+   "keeper": "Tramica",
+   "month": "Okram",
+   "day": 4
+  },
+  {
+   "when": "9 de Okram",
+   "feast": "La Cuenta Callada",
+   "keeper": "El Hombre Pálido",
+   "month": "Okram",
+   "day": 9
+  },
+  {
+   "when": "14 de Okram",
+   "feast": "El Día del Diezmo",
+   "keeper": "Elros",
+   "month": "Okram",
+   "day": 14
+  },
+  {
+   "when": "17 de Okram",
+   "feast": "La Noche de la Subasta, en secreto",
+   "keeper": "Abysm",
+   "month": "Okram",
+   "day": 17
+  },
+  {
+   "when": "18 de Okram",
+   "feast": "La Noche Larga",
+   "keeper": "Oorah",
+   "month": "Okram",
+   "day": 18
+  },
+  {
+   "when": "22 de Okram",
+   "feast": "El Largo Silencio",
+   "keeper": "Morthryn",
+   "month": "Okram",
+   "day": 22
+  },
+  {
+   "when": "27 de Okram",
+   "feast": "La Semana de las Toses, en secreto",
+   "keeper": "Asmodul",
+   "month": "Okram",
+   "day": 27
+  },
+  {
+   "when": "28 de Okram",
+   "feast": "La Noche del Bajaescama",
+   "keeper": "Vrix",
+   "month": "Okram",
+   "day": 28
+  },
+  {
+   "when": "29 de Okram",
+   "feast": "La Coronación de la Escarcha",
+   "keeper": "Saelthar",
+   "month": "Okram",
+   "day": 29
+  }
+ ],
+ "moveable_feasts": [
+  {
+   "when": "Eo, todo el mes",
+   "feast": "La Vela de Hierro, las hogueras de la guarnición por los muertos",
+   "keeper": "Eo",
+   "section": "Eo of Hearth and Home"
+  },
+  {
+   "when": "Eliol, todo el mes",
+   "feast": "Las convocatorias y los exámenes",
+   "keeper": "Eliol",
+   "section": "Eliol of Chart and Star"
+  },
+  {
+   "when": "Ezra, la primera mañana en calma",
+   "feast": "La Primera Vela, con la moneda para Lilim",
+   "keeper": "Ezra, con Lilim",
+   "section": "Ezra of Mast and Sail"
+  },
+  {
+   "when": "Ezra, todo el mes",
+   "feast": "Los torneos de Bastión",
+   "keeper": "Ezra, con la Espada",
+   "section": "Ezra of Mast and Sail"
+  },
+  {
+   "when": "Del 2 al 17 de Liora",
+   "feast": "Los Juegos del Merrin, doce pruebas",
+   "keeper": "Liora",
+   "section": "Liora of Heart and Hand"
+  },
+  {
+   "when": "Rhor, todo el mes",
+   "feast": "La Feria de los Artesanos",
+   "keeper": "Rhor",
+   "section": "Rhor of Net and Anvil"
+  },
+  {
+   "when": "Idel, todo el mes",
+   "feast": "La Fiesta de los Vientos",
+   "keeper": "Idel",
+   "section": "Idel of Coin and Cargo"
+  },
+  {
+   "when": "30 de Halvenir, en secreto",
+   "feast": "La Antifiesta",
+   "keeper": "Chaos",
+   "section": "Halvenir of Salt and Harvest"
+  },
+  {
+   "when": "Halvenir, todo el mes",
+   "feast": "La Abundancia del Mar, y la Última Gavilla",
+   "keeper": "Halvenir",
+   "section": "Halvenir of Salt and Harvest"
+  },
+  {
+   "when": "Memnara, todo el mes",
+   "feast": "La Guardia de Tormenta, las campanas por cada nombre que se llevó el mar",
+   "keeper": "Memnara",
+   "section": "Memnara of Bell and Remembrance"
+  },
+  {
+   "when": "Okram, todo el mes",
+   "feast": "Las Copas del Regreso, y en la última noche los Faroles de la Unidad",
+   "keeper": "Okram",
+   "section": "Okram of Harbor and Rest"
+  },
+  {
+   "when": "La primera lluvia del Agua Abierta",
+   "feast": "El Derrame",
+   "keeper": "La Madre que Ahoga",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "La fundación de una casa",
+   "feast": "La Noche del Encendido",
+   "keeper": "El Hambre que Calienta",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "El cambio de los vientos alisios en el Agua Buena",
+   "feast": "El Primer Viento",
+   "keeper": "El Aliento que Vaga",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "El primer pastoreo de primavera en el páramo",
+   "feast": "La Primera Hierba",
+   "keeper": "El Gigante Dormido",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Unas tres semanas después de un entierro sporrn",
+   "feast": "La Floración de los Muertos",
+   "keeper": "Hyssen",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "La luna oscura antes de la Marea Rey",
+   "feast": "El Hundimiento",
+   "keeper": "Mhavros",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Cada noche sin luna",
+   "feast": "La Noche Hueca",
+   "keeper": "Ungoreth",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Cada noche sin luna, en silencio",
+   "feast": "La Hora Oscura",
+   "keeper": "El Dios sin Nombre",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Cada treinta y seis días, cuando Valtaire está lleno",
+   "feast": "La Vuelta Llena",
+   "keeper": "Valtaire",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Cuando Ciel vuelve a estar lleno",
+   "feast": "El Regreso de Ciel",
+   "keeper": "Ciel",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "La noche en que Valtaire y Ciel tiran juntos",
+   "feast": "El Vuelo de la Pleamar",
+   "keeper": "Aevyr",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Los dos giros de las mareas cada año",
+   "feast": "La Marea que Cambia",
+   "keeper": "Veshanna",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "La nube de langostas sobre los campos",
+   "feast": "El Día del Enjambre",
+   "keeper": "Khagun",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "La primera tormenta del Agua de Tormenta",
+   "feast": "La Quema de los Muelles",
+   "keeper": "Athuraz",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "La primera tormenta del Agua de Tormenta",
+   "feast": "El Rayo Vivo",
+   "keeper": "Eirhal",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Nueve noches después de la primera helada",
+   "feast": "Las Nueve Noches",
+   "keeper": "Mishri",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "La aurora más fuerte sobre la Extensión Helada",
+   "feast": "La Vigilia de la Luz Fantasma",
+   "keeper": "Volvieg",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "El avistamiento de Badron antes de la temporada de tormentas",
+   "feast": "La Lectura de las Alas",
+   "keeper": "Badron",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "La ofrenda de fruta de la temporada en el Agua de Tormenta",
+   "feast": "El Tributo del Simio",
+   "keeper": "Momumba",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Cada estación, cuando los sacerdotes de la tormenta trazan las capas",
+   "feast": "La Guardia de los Cinco",
+   "keeper": "Kayuntu",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Un remolino en la ciénaga",
+   "feast": "La Lectura del Barro",
+   "keeper": "Ssvayuk",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Antes de cualquier incursión de los Elfos de la Escarcha",
+   "feast": "La Pintura de Calavera",
+   "keeper": "Vukharr",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Cualquier descenso a la oscuridad honda",
+   "feast": "El Tapado de los Oídos",
+   "keeper": "Ulgrenn",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Tres días, más o menos cada tres años",
+   "feast": "El Pavor de la Marea Rey",
+   "keeper": "Thalgorath",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Cuando se sabe que Tyrak'Zhul se está moviendo",
+   "feast": "El Aquietamiento",
+   "keeper": "Tyrak'Zhul",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Una noche sin fecha cada estación, en las fronteras de las Cortes",
+   "feast": "La Helada Tardía",
+   "keeper": "El Desatado",
+   "section": "Fiestas que llegan con una señal"
+  },
+  {
+   "when": "Cada cruce de las Tierras de Huesos",
+   "feast": "Lo No Dicho",
+   "keeper": "Shakarr",
+   "section": "Fiestas que llegan con una señal"
+  }
+ ],
+ "king_tide": {
+  "last": "174 EC",
+  "next": "177 EC",
+  "note": "Los Llamamareas están de acuerdo en el año y discuten en público por la semana."
+ },
+ "site_rule": {
+  "today": "Map the real day of the year onto the Charter year: day 1 is Eo 1st, each month is 36 days in order, and days 361 to 365 are the five Still Days (in a leap year, the last real day repeats the fifth Still Day). The year shown stays 175 EC, the setting's present.",
+  "cycle_epoch": "Site convention: Eo 1st, 175 EC, is a Sunsdawn; the Cycle then runs on without restarting at months or years.",
+  "show": "Today's date (for example: Graveday, Liora 18th, 175 EC), the season, the next three feasts, and a line for the next King Tide."
+ }
+}
