@@ -5719,7 +5719,10 @@
    "travel",
    "pocket-rainfrog",
    "king-tide"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "mercantile-congress",
@@ -6006,6 +6009,9 @@
    "height": 1024,
    "alt": "A master Krystawright demonstrates imbuing to apprentices around a workbench of flawless clear crystals as a patron looks on.",
    "caption": "In the finest workshops, a name can be as valuable as the crystal."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -16777,7 +16783,10 @@
    "vesper-zane",
    "coinsday-reading",
    "brassfield"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "reckoners-hall",
@@ -17434,7 +17443,10 @@
    "house-holst",
    "hunters",
    "hunter-companies"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "iron",
@@ -17484,7 +17496,10 @@
    "ironfort",
    "coins-and-prices",
    "undertow"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "sigil",

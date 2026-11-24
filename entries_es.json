@@ -4102,27 +4102,58 @@
  },
  "chartwrights": {
   "gloss": "The Chartwrights’ Guild",
-  "subtitle": "Una carta verificada vale dinero",
-  "summary": "Agrimensores y guardianes de cartas que convierten pasos inciertos en un saber por el que otro puede navegar.",
+  "subtitle": "Una carta verificada vale moneda",
+  "summary": "Agrimensores y guardianes de cartas convierten pasos inciertos en un saber por el que otro puede navegar.",
   "epigraph": {
    "quote": "Una línea en una carta es una promesa. Nunca dibujes una que no hayas navegado.",
-   "by": "Una maestra Cartógrafo a un aprendiz"
+   "by": "Un maestro Cartógrafo a un aprendiz"
   },
   "facts": [
    [
     "Trabajo",
-    "Levantamientos, cartas y peligros"
+    "Reconocimientos, cartas y peligros"
    ],
    [
     "Pago",
     "Saber nuevo verificado"
    ],
    [
-    "Compañero del correo",
-    "La ranita de lluvia de bolsillo"
+    "Compañera del mensajero",
+    "Ranita de lluvia de bolsillo"
    ]
   ],
-  "title": "El Gremio de Cartógrafos"
+  "title": "El Gremio de Cartógrafos",
+  "sections": [
+   {
+    "title": "Cartografiar las islas",
+    "paragraphs": [
+     "El Gremio da licencia a los reconocimientos y paga por cartas verificadas de islas, rutas y peligros. En un mundo donde las islas pueden alzarse o desaparecer, una carta es un registro que hay que volver a revisar."
+    ]
+   },
+   {
+    "title": "El sello",
+    "paragraphs": [
+     "El sello de un [[Cartógrafo|Chartwright]] en un mapa tiene valor de verdad. Falsificar uno se paga con la horca. Los mensajeros muchas veces llevan [[ranitas de lluvia|rainfrogs]] de bolsillo para que las cartas que les confían lleguen secas."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "El Gremio de Cartógrafos da licencia a cada reconocimiento en aguas del [[Consejo|Council]].",
+     "Paga en moneda dura por cartas verificadas de islas nuevas, pasos y peligros. El sello de un Cartógrafo en tu mapa es dinero; uno falso es la horca.",
+     "Su último censo contó más de 5,800 islas, \"equivocado en las dos direcciones todos los años\".",
+     "Según la ley de rescate, los Cartógrafos registran los reclamos sobre los hallazgos nuevos.",
+     "La [[Sexta Flota|Sixth Fleet]] de la Armada, la [[Vigía Lejana|Far Watch]], escribe con ellos el mapa del mundo.",
+     "Casi todo el mapa está en blanco. Casi todo lo que hay en él está mal. En algún lugar allá afuera hay una isla que nadie ha cartografiado, y los Cartógrafos te van a pagar por ella."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los Cartógrafos mantienen las islas de las tortugas fuera de las cartas públicas. Pregúntale a un agrimensor dónde están y mira cómo lo mira su tortuga.” (una tienda de cartas de navegación de Ventoro)"
+    ]
+   }
+  ]
  },
  "mercantile-congress": {
   "gloss": "The Mercantile Congress",
@@ -10046,20 +10077,53 @@
   ]
  },
  "charterhouse-company": {
-  "subtitle": "Un poder de las islas",
-  "summary": "Una compañía comercial con carta del Consejo que se salta los gremios: monopolios, pueblos de la compañía y ejecutores a los que llaman collares de latón.",
+  "subtitle": "Collares de latón y pueblos de la compañía",
+  "summary": "Una compañía comercial con carta del Consejo que se salta a los gremios: monopolios, pueblos de la compañía y matones llamados collares de latón.",
   "facts": [
    [
     "Gobernadora",
-    "Imelda Roque, la Dama de los Autos"
+    "Imelda Roque, la [[Señora de los Mandatos|Lady of Writs]]"
    ],
    [
-    "Ejecutores",
-    "Los [[collares de latón|brass-collars]]"
+    "Matones",
+    "los [[collares de latón|brass-collars]]"
    ]
   ],
   "title": "La Compañía Casacarta",
-  "gloss": "The Charterhouse Company"
+  "gloss": "The Charterhouse Company",
+  "aliases": [
+   "la Compañía",
+   "el latón de la Compañía",
+   "pueblo de la Compañía",
+   "pueblos de la Compañía",
+   "tienda de la Compañía",
+   "hombres de mandato",
+   "hombre de mandato",
+   "collares de latón"
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Fuera de los gremios está la [[Compañía Casacarta|Charterhouse Company]], una compañía comercial con carta del Consejo, con monopolios, pueblos de la compañía y matones a los que los muelles llaman collares de latón.",
+     "Gobernadora: Imelda Roque, \"la Señora de los Mandatos\".",
+     "Posesiones: el monopolio de la sal del sur (ganado en el 175 EC; dos puertos se amotinaron), la concesión del jade verdayano y los contratos de servidumbre del sur.",
+     "Sus oficinas del sur están en [[Puerto Sur|Southhaven]].",
+     "Todo el mundo sabe que quiere con muchas ganas el decimotercer encaje de bandera del [[Piso de la Aguja|Spire Floor]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El encaje del centro. El Piso de la Aguja tiene un decimotercer encaje de bandera en el centro que nunca ha tenido bandera, y la Compañía Casacarta lo quiere con muchas ganas.” (lo que dice todo el mundo)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIGp1Z2FkYSBkZSBsYSBDb21wYcOxw61hKioiLCAiTGEgW1tDb21wYcOxw61hIENhc2FjYXJ0YXxDaGFydGVyaG91c2UgQ29tcGFueV1dIHRpZW5lIHRyZXMgbW9ub3BvbGlvcyB5IHF1aWVyZSB1biBjdWFydG86IGVsIFtbcHJlY2lvIGRlIHRhYmxlcm98Ym9hcmQtcHJpY2VdXSBtaXNtby4iLCAiKipMYSBzYWw6KiogdGllbmUgZWwgc3VyLiBbW0NvbmbDrW4gZGUgU2FsfFNhbHRyZWFjaF1dIGxlIGRhcsOtYSBlbCBub3J0ZSwgeSBjb24gw6lsIGNhZGEgYmFycmlsIGRlIHBlc2NhZG8gc2FsYWRvIHF1ZSBhbGltZW50YSBhIGxhcyBmbG90YXMuIiwgIioqTG9zIHLDrW9zOioqIGxvcyBwcsOhY3RpY29zIG9ydW1hIGxlIGRhcsOtYW4gZWwgamFkZSwgZWwgY2FjYW8geSBlbCBvcm8gZGUgcsOtbyBxdWUgc2UgdnVlbHZlIGxhcyBbW0FuY2xhc3xBbmNob3JzXV0gZGVsIFtbQ29uc2Vqb3xDb3VuY2lsXV0uIiwgIioqRWwgcGlzbzoqKiBlbCBkZWNpbW90ZXJjZXIgZW5jYWplLCBwb3IgdW4gY2FzYW1pZW50byBjb24gdW4gaGVyZWRlcm8gdml1ZG8gbyBhIHRyYXbDqXMgZGUgbGEgQ2FzYSBaYW5lLCBvIHRvZG8gW1tEb3JhZ3VqYXxHb2xkc3BpcmVdXSBhIHRyYXbDqXMgZGUgc3VzIGRldWRhcy4iLCAiKipFbCBmaW5hbDoqKiBxdWllbiBjYW50YSBlbCBwcmVjaW8gZGUgdGFibGVybyBsZSBkaWNlIGEgY2FkYSBmYWN0b3IgZGUgbGFzIGlzbGFzIGxvIHF1ZSB2YWxlbiBsYXMgY29zYXMuIEVzZSBlcyBlbCB2b3RvIHF1ZSBsYSBDb21wYcOxw61hIHBpZW5zYSBjb21wcmFyICplbiB0b2RvIG1lbm9zIGVuIGVsIG5vbWJyZSogcGFyYSBlbCAxNzggRUMuIl19"
+   }
+  ]
  },
  "reckoners-hall": {
   "gloss": "The Reckoners' Hall",
@@ -10608,33 +10672,70 @@
  },
  "great-hunter-crews": {
   "gloss": "The Great Hunter Crews",
-  "subtitle": "La Orden de los Cazadores",
+  "subtitle": "Los nombres de la Junta",
   "summary": "Las tripulaciones que cualquier isleño sabe nombrar, de la Marea Carmesí al Karnivool, y las tripulaciones rivales de la Junta.",
-  "title": "Las grandes tripulaciones de Cazadores"
+  "title": "Las grandes tripulaciones de Cazadores",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Tripulaciones famosas:",
+     "[[Marea Carmesí|Crimson Tide]]: el capitán Bramgard, que abrió y hundió la *[[Mirada del Abismo|Gaze of Abyss]]* en las [[Fauces del Kraken|Kraken's Maw]], y su primer oficial [[Albion Tempestad|Albion Tempest]].",
+     "[[Trueno Rodante|Rolling Thunder]]: los cocapitanes Uther y Gunther [[Malatormenta|Banestorm]].",
+     "[[Jubiloso|Jubilant]]: el capitán Johann Faust de la Casa Faust.",
+     "La [[Última Palabra|Last Word]]: el capitán Khaz'Aimar Maa'iq, la [[Mano Negra|Blackhand]], con tres cascos bajo una mano negra abierta.",
+     "[[Céfiro|Zephyr]]: Sandros Magnus.",
+     "Karnivool: un barco de [[Cazadores|Hunters]] y un espectáculo ambulante a la vez, bajo el capitán y maestro de pista Avalan Grant.",
+     "Ira de la Retribución: Reinhardt Holst, desheredado por la Casa Holst; el Oro más joven, decimoséptimo en el [[Escalafón|Ranking]].",
+     "[[Cisne de Hierro|Iron Swan]]: Titania, que atravesó la línea pirata una y otra vez en las Fauces.",
+     "Las tripulaciones rivales de las que todo el mundo ha oído hablar:",
+     "La [[Estela Dorada|Gilded Wake]]: los niños mimados patrocinados por una casa de la capitana Odessa Braith, que llegan segundos y se llevan el crédito primero.",
+     "Los [[Nueve Nacidos de la Sal|Saltborn Nine]]: los nueve profesionales fríos, exactamente nueve, de la guardiana Rhona Cravoch, todos de acero tarvan.",
+     "Los [[Segundos Hijos|Second Sons]]: los nobles caídos en desgracia del capitán Lucan Alastor, temerarios, queribles y sin un centavo.",
+     "Los [[Desolladores|Flensers]]: los cazadores furtivos sin insignia de Petra [[Sauce|Sallow]], \"[[Cuchillo Viejo|Old Knife]]\", a los que ninguna [[Logia|Lodge]] decente nombra."
+    ]
+   }
+  ]
  },
  "iron": {
   "gloss": "The Iron",
-  "subtitle": "La Orden de los Cazadores",
-  "summary": "No es un rango: es la moneda de hierro que un candidato necesita para presentarse a las Pruebas de Ascensión. Solo se acuñan 300 al año.",
+  "subtitle": "La moneda que abre las Pruebas",
+  "summary": "No es un rango: es la moneda de hierro que necesita un candidato para presentarse a las Pruebas de Ascensión. Solo se acuñan 300 por año.",
   "facts": [
    [
-    "Acuñados al año",
+    "Se acuñan por año",
     "300"
    ],
    [
     "Precio en el Crisol",
-    "10 [[Orsales|Orsals]], dos al año como máximo"
+    "10 [[Orsales|Orsals]], dos por año como máximo"
    ],
    [
     "Precio en el mercado negro",
-    "De 150 a 300 [[Anclas|Anchors]] antes de las [[Pruebas|Trials]]"
+    "de 150 a 300 [[Anclas|Anchors]] antes de las [[Pruebas|Trials]]"
    ],
    [
-    "Válido",
-    "Solo para las Pruebas de un año"
+    "Vale",
+    "solo para las Pruebas de un año"
    ]
   ],
-  "title": "El Hierro"
+  "title": "El Hierro",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "No hay un rango de Hierro. Para presentarte a las [[Pruebas de Ascensión|Trials of Ascension]] anuales necesitas el aval de un Cazador, que casi siempre es un hierro: una moneda de hierro acuñada con el escudo de los [[Cazadores|Hunters]].",
+     "Solo se acuñan 300 hierros por año.",
+     "Quien presenta un hierro se presenta a las Pruebas. Si pierdes el tuyo y otro lo usa, ese es tu problema.",
+     "A un candidato que lleva uno se le dice un hierro, y \"todavía lleva hierro\" quiere decir un novato que todavía no se ha presentado a las Pruebas.",
+     "Los Cazadores compran hierros en el [[Crisol|Crucible]] de [[Fuerte de Hierro|Ironfort]], hasta dos por año a 10 Orsales cada uno, o se los ganan en contratos importantes. Algunos contratos pagan con un hierro, y un Cazador puede pedir uno como parte de la paga.",
+     "La mayoría de los candidatos trabaja bajo el Cazador que les dio el hierro. Solo es un deber si el hierro se dio con esa condición; un hierro dado sin ataduras no obliga a nada.",
+     "Los hierros de cada año se acuñan con un cuño nuevo, así que el del año pasado no vale nada. Puedes presentarte a las Pruebas cuantas veces quieras, si sobrevives, pero cada intento necesita un hierro nuevo.",
+     "El mercado de hierros es de temporada. El Crisol acuña los hierros del año uno o dos meses después de las Pruebas, así que el mercado cierra durante esa ventana y vuelve a abrir el resto del año, con su punto más alto cuando se acercan las siguientes Pruebas. En la [[Resaca|Undertow]] un hierro vale de 150 a 300 Anclas en esa última temporada."
+    ]
+   }
+  ]
  },
  "sigil": {
   "gloss": "The Sigil",
@@ -17770,26 +17871,64 @@
  "krystawrights": {
   "gloss": "The Krystawrights’ Guild",
   "subtitle": "La mano detrás del cristal",
-  "summary": "Un gremio de artesanos de krysta bajo el Congreso Mercantil. Sus maestros son célebres entre magos y casas nobles por su nombre y por la familia para la que trabajan.",
+  "summary": "Un célebre gremio de artesanos de la Krysta dentro del Congreso Mercantil, cuyos maestros son codiciados por magos y casas nobles.",
   "facts": [
    [
     "Oficio",
-    "Tallado, engaste y trabajo de krysta"
+    "Corte, engaste y conjuros en Krysta"
    ],
    [
-    "Pertenece al",
-    "Congreso Mercantil"
+    "Dentro de",
+    "El [[Congreso Mercantil|Mercantile Congress]]"
    ],
    [
-    "Prestigio",
-    "Maestro y casa patrona"
+    "Fama",
+    "El maestro y la casa patrona"
    ],
    [
     "Formación",
-    "Talleres y aprendices"
+    "Talleres del gremio y aprendices"
    ]
   ],
-  "title": "El Gremio de Artesanos de Krysta"
+  "title": "El Gremio de Artesanos de Krysta",
+  "aliases": [
+   "Gremio de Artesanos de la Krysta",
+   "Gremio de los Artesanos de Krysta"
+  ],
+  "epigraph": {
+   "quote": "El sello te dice de qué casa. El corte te dice de qué mano.",
+   "by": "El aprendiz de un Artesano de Krysta"
+  },
+  "sections": [
+   {
+    "title": "Piedra y conjuro",
+    "paragraphs": [
+     "Los [[Artesanos de Krysta|Krystawrights]] clasifican, cortan, engastan y terminan la Krysta para encargos de todas las islas. El material sin cargar más codiciado es completamente claro, sin color, veta, mota ni burbuja. Cuando se le trabaja un conjuro adentro, el color de ese conjuro se ve dentro del cristal.",
+     "Una piedra más grande guarda un conjuro mayor; una mejor hecha lo conserva más tiempo. La pureza, la capacidad y la hechura son cosas distintas, y los compradores que conocen el oficio preguntan por las tres."
+    ]
+   },
+   {
+    "title": "Manos famosas",
+    "paragraphs": [
+     "Entre los magos y las familias nobles, a un Artesano de Krysta consumado se le conoce por su nombre y por la casa para la que trabaja. Un encargo se puede buscar por la mano de un maestro en particular, no solo por el sello de la familia en la pieza terminada. Los mejores son tratados como estrellas del oficio.",
+     "Los maestros más célebres son enanos."
+    ]
+   },
+   {
+    "title": "Talleres y aprendices",
+    "paragraphs": [
+     "Algunos maestros tienen talleres grandes donde camadas de aprendices aprenden a reconocer defectos, a dar forma al cristal y a manejar un conjuro sin echar a perder la piedra. Las casas patronas cortejan a los aprendices prometedores mucho antes de que lleguen a maestros.",
+     "Unas cuantas familias y talleres tientan activamente a los Artesanos de Krysta excepcionales para quitárselos a sus rivales, con encargos más ricos, mejores bancos de trabajo o más libertad. La práctica es famosa, pero no es universal: muchos le son fieles al taller que los formó."
+    ]
+   },
+   {
+    "title": "En el Congreso",
+    "paragraphs": [
+     "El gremio está bajo el Congreso Mercantil, que representa a los oficios ante el [[Consejo|Council]] a través de Horace [[Doraguja|Goldspire]]. Se ocupa de los artesanos y de su oficio. El [[Registro Arcano|Arcane Registry]] de la [[Universidad|University]] gobierna el [[Mandato|Writ]] que se exige para la magia del [[Tercer Círculo|Third Circle]] en adelante; pertenecer a un gremio no reemplaza ese Mandato.",
+     "La Krysta aparece fuera de Kalvatar en yacimientos pequeños y desparejos, pero las islas siguen siendo el centro del comercio conocido y de sus talleres más buscados."
+    ]
+   }
+  ]
  },
  "imra-and-claire": {
   "title": "Imra y Claire",
