@@ -9300,7 +9300,7 @@
  "knot": {
   "gloss": "The Knot",
   "subtitle": "El mercado bajo los juncos",
-  "summary": "El único mercado de Abajo: una caverna bajo el Pantano del Ocaso donde se cruzan cuatro caminos, cuidada por goblins, sin nombres, sin hojas y sin una luz más fuerte que una vela.",
+  "summary": "El único mercado de Abajo: una caverna bajo el Pantano del Ocaso donde se cruzan cuatro caminos, cuidada por trasgos, sin nombres, sin hojas y sin una luz más fuerte que una vela.",
   "facts": [
    [
     "Región",
@@ -9312,7 +9312,7 @@
    ],
    [
     "Lo cuidan",
-    "los clanes de madriguera goblin"
+    "los clanes de madriguera trasgos"
    ],
    [
     "Las reglas",
@@ -9325,7 +9325,7 @@
   ],
   "title": "El Nudo",
   "epigraph": {
-   "quote": "Una Ola de cada diez para los goblins, y por eso nadie en el salón tiene cara. Barato al precio.",
+   "quote": "Una Ola de cada diez para los trasgos, y por eso nadie en el salón tiene cara. Barato al precio.",
    "by": "Un perista del Pantano del Ocaso"
   },
   "sections": [
@@ -9339,7 +9339,7 @@
    {
     "title": "Las reglas",
     "paragraphs": [
-     "Los clanes de madriguera goblin cuidan el Nudo, se quedan con una Ola de cada diez de cada venta y mantienen la paz con tres reglas."
+     "Los clanes de madriguera trasgos cuidan el Nudo, se quedan con una Ola de cada diez de cada venta y mantienen la paz con tres reglas."
     ],
     "list": [
      "**Sin nombres.** Ni el tuyo, ni el del vendedor, ni el de la mercancía.",
@@ -9363,7 +9363,7 @@
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Una o dos veces al año alguien sube al Nudo a comprar sal, paga en vidrio negro y se va por un camino que los goblins no usan. Cualquier perista de Ventoro pagaría una fortuna por la fecha.” (un perista del Pantano del Ocaso)"
+     "“Una o dos veces al año alguien sube al Nudo a comprar sal, paga en vidrio negro y se va por un camino que los trasgos no usan. Cualquier perista de Ventoro pagaría una fortuna por la fecha.” (un perista del Pantano del Ocaso)"
     ]
    }
   ]
@@ -27110,7 +27110,7 @@
     "title": "Rumores",
     "paragraphs": [
      "“No roban la luz para usarla. Se la llevan abajo y se la dan de comer a algo.” (un comerciante sporrn de Puerto Sur)",
-     "“Una drow se sentó una hora en el Nudo y compró sal como cualquiera. Pagó con una cuentita gris que estaba tibia. Nadie la tocó. Nadie se atrevió.” (un puestero goblin)",
+     "“Una drow se sentó una hora en el Nudo y compró sal como cualquiera. Pagó con una cuentita gris que estaba tibia. Nadie la tocó. Nadie se atrevió.” (un puestero trasgo)",
      "“Los enanos saben qué son los drow. Pregúntale a uno y mira cómo se pone cortés.” (un minero de Darlath)",
      "“Los caballeros del Verano los cazan. Vi a uno con armadura de oro en la boca de una mina, preguntando cuál pozo. No volvió a subir.” (un capataz de mina de Monumak)",
      "“A mi hija la dejaron viva. Pasaron por encima de ella. Le sacaron la lámpara de la mano y la dejaron parada en la oscuridad.” (una farolera de los Caminos de Brasa)"
@@ -27354,5 +27354,206 @@
    }
   ],
   "title": "Los daimones"
+ },
+ "the-warped": {
+  "gloss": "The Warped",
+  "aliases": [
+   "los primos que no salieron",
+   "los torcidos",
+   "Los torcidos",
+   "trasgo torcido",
+   "trasgos torcidos",
+   "la Boca Debida",
+   "Bocatarja",
+   "Bajocampana",
+   "Aguaempeño",
+   "pueblos del libro",
+   "el tazón del primo",
+   "tarjero",
+   "tarjeros"
+  ],
+  "subtitle": "Las huestes trasgas que el Velo dejó encerradas, y lo que se les debe",
+  "summary": "Cuando se levantó el Velo al final de la Guerra Orka, las huestes goblinoides que habían marchado al Feérico quedaron del lado equivocado. Sus descendientes siguen ahí. Diez mil años en ese país los han vuelto otra cosa: prestamistas, cobradores y la única clase de trasgo a la que les temen los otros trasgos.",
+  "epigraph": {
+   "quote": "No les aceptes nada. Ni pan, ni una luz, ni la hora. Ellos no regalan.",
+   "by": "Una madre de madriguera de Puerto Negro"
+  },
+  "facts": [
+   [
+    "Qué son",
+    "trasgos, hobgoblins y osgos, cambiados"
+   ],
+   [
+    "Dónde",
+    "ruinas orka dentro del [[Feérico|Faewild]], y los [[pueblos del libro|ledger-towns]] entre las estaciones"
+   ],
+   [
+    "Desde",
+    "el final de la [[Guerra Orka|Orka War]], hace unos diez mil años"
+   ],
+   [
+    "Le rezan a",
+    "la [[Boca Debida|Owed Mouth]], un rostro más cruel del Skarn"
+   ],
+   [
+    "Cruzan",
+    "rara vez, por grietas, casi siempre en los [[Días Quietos|Still Days]]"
+   ],
+   [
+    "Le temen a",
+    "que les paguen todo"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Dejados atrás",
+    "paragraphs": [
+     "Los orka no entraron solos al Feérico. Empujaron huestes goblinoides por delante a través de las puertas de los daimones, como cargadores, excavadores y primera fila de cada asalto. Cuando la primera Reina de la Primavera levantó el [[Velo|Veil]], las puertas se cerraron, y las huestes estaban adentro.",
+     "Las Cortes las cazaron. Las huestes se escondieron en las propias ruinas de los orka, en las franjas de tierra entre una estación y la siguiente donde la ley de ninguna [[Corte|Court]] llega del todo, y aguantaron más que la cacería. Aguantar más es lo que enseña el Skarn."
+    ]
+   },
+   {
+    "title": "Lo que hizo el país",
+    "paragraphs": [
+     "Cada trasgo torcido vivo nació en el Feérico, y también cuatrocientas generaciones antes que él. El lugar lleva mucho tiempo metido en ellos."
+    ],
+    "list": [
+     "Orejas tan largas como una mano, y ojos que brillan como una brasa cubierta.",
+     "Demasiados dientes, en más de una fila. Al Skarn lo llaman el [[de Muchas Bocas|Many-Mouthed]], y ellos lo tomaron como una instrucción.",
+     "Una sombra que llega un momento después que ellos.",
+     "Los hobgoblins de entre ellos se paran muy derechos y llevan libros de cuentas. Los osgos de entre ellos son los cobradores, y son más callados de lo que debería ser algo de ese tamaño.",
+     "Tienen modales feéricos y ética trasga: nunca rompen la letra de un trato, y la letra la escribieron ellos."
+    ]
+   },
+   {
+    "title": "Los acreedores aguantan más",
+    "paragraphs": [
+     "Un trasgo del mundo despierto vive unos sesenta años. Un trasgo torcido no muere de viejo mientras alguien le deba algo. Ese solo hecho ha dado forma a todo lo que son."
+    ],
+    "list": [
+     "Prestan. Pan, fuego, indicaciones, una noche de refugio, un año de suerte: todo lo que tomas de uno es un préstamo, se haya dicho un precio o no.",
+     "Nunca perdonan una deuda, y preferirían que no se la pagaran. Una deuda que todavía se debe es un año más que siguen vivos.",
+     "Sus ancianos son aquellos a quienes más se les debe. Se dice que los más viejos tienen deudas de la guerra misma.",
+     "Págale a uno todo, ante testigos, y tiene que aceptar el pago e irse. Págale lo último que se le debe y sus años le caen encima todos de una vez.",
+     "Donde los goblinoides de las islas dicen ‘los pequeños y astutos sobreviven a los grandes y orgullosos’, los torcidos dicen ‘los acreedores sobreviven a todos’."
+    ]
+   },
+   {
+    "title": "La Boca Debida",
+    "paragraphs": [
+     "Le rezan al Skarn, con un rostro que las madrigueras de las islas no usan y no les gusta oír nombrar: la Boca Debida. Sus santuarios son un cuenco de piedra con un agujero en el fondo. Lo que se pone adentro se va, y el cuenco nunca se llena. A sus sacerdotes los llaman [[tarjeros|tallymen]], y llevan escrita en la piel su deuda más vieja."
+    ]
+   },
+   {
+    "title": "Los pueblos del libro",
+    "paragraphs": [
+     "Los torcidos tienen tres pueblos en el país entre las estaciones, cada uno en una frontera donde se encuentran dos Cortes y ninguna quiere tomarse la molestia de desalojarlos."
+    ],
+    "table": {
+     "headers": [
+      "Pueblo",
+      "Dónde",
+      "Conocido por"
+     ],
+     "rows": [
+      [
+       "[[Bocatarja|Tallymouth]]",
+       "En el Asentamiento, entre el Verano y el Otoño",
+       "El más grande. Los caballeros del Verano vienen aquí a pedir prestado para guerras que el Otoño no quiere financiar, y les da vergüenza que los vean."
+      ],
+      [
+       "[[Bajocampana|Underbell]]",
+       "En el Cierre, entre el Otoño y el Invierno",
+       "Construido dentro de un campanario orka caído. Callado, frío y exacto. Sus cobradores son los que mandan al otro lado del Velo."
+      ],
+      [
+       "[[Aguaempeño|Pawnwater]]",
+       "En la [[Marcha Clara|Bright March]], entre la Primavera y el Verano",
+       "Un mercado sobre pilotes encima de un río que corre para los dos lados. Puedes volver a comprar cualquier cosa que hayas perdido, al precio que alcanzó."
+      ]
+     ],
+     "caption": "Los tres pueblos del libro"
+    }
+   },
+   {
+    "title": "Con las Cortes",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Corte",
+      "Cómo está"
+     ],
+     "rows": [
+      [
+       "Verano",
+       "Los odia, y les pide prestado. Pyraxis ha ordenado quemar Bocatarja tres veces. Cada vez, alguien de su propia Corte debía demasiado para llevar la antorcha."
+      ],
+      [
+       "Otoño",
+       "Rivales comerciales. El Otoño lleva los libros del Feérico y le molesta que otro lleve un juego propio. También les compra las deudas malas, con descuento."
+      ],
+      [
+       "Invierno",
+       "Los deja en paz, y lo dejan en paz. Nadie en Bajocampana le ha prestado nunca nada al [[Salón Pálido|Pale Hall]]."
+      ],
+      [
+       "Primavera",
+       "Les tiene lástima, cosa que ellos encuentran insoportable, y tampoco se pone zapatos en sus pueblos, cosa que encuentran peor."
+      ]
+     ],
+     "caption": "Cómo trata cada Corte con ellos"
+    }
+   },
+   {
+    "title": "Cruzar",
+    "paragraphs": [
+     "El Velo no deja pasar fácilmente a los torcidos. De vez en cuando uno cruza, por una grieta, o por un [[lugar delgado|thin place]] en los Días Quietos, cuando vence cada trato. Viene a cobrar.",
+     "Los goblinoides de las islas los conocen como los primos que no salieron, y les tienen más miedo que a cualquier otra cosa que camine. En los Días Quietos cada madriguera pone un tazón de comida afuera de la puerta y no mira quién se lo lleva. Se llama el [[tazón del primo|cousin’s bowl]]. Si le preguntas a una madre de madriguera si es un regalo o un pago, cambia de tema."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un granjero cerca de un lugar delgado aceptó un farol encendido de un desconocido pequeño en una mala noche. Eso fue su abuelo. El cobrador vino por los intereses.",
+     "Un caballero del Verano quiere que se pague una deuda en Bocatarja sin ruido, toda, ante testigos que no sean feéricos. No quiere decir qué pidió prestado.",
+     "Un tarjero torcido está en [[Puerto Negro|Black Harbor]], muy viejo y muy cortés, buscando a la única familia de las islas que todavía le debe. Necesita que sigan endeudados.",
+     "Alguien ha estado dejando vacío a propósito el tazón del primo, en cada madriguera de la isla, y los Días Quietos están a un Ciclo."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "No le aceptes nada a uno. Si ya lo hiciste, averigua el precio antes de que crezca.",
+     "No son feéricos. El hierro no les molesta, y una guarda jurada contra los feéricos no les hace nada.",
+     "Los testigos importan. Una deuda pagada en privado es una deuda que puede decir que nunca pagaste.",
+     "Un trasgo torcido cumple cualquier trato al pie de la letra. Que otro te lea la letra."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Los torcidos cuentan en base doce, con los dientes.",
+     "Un goblinoide con la ropa haciendo juego está de duelo o anda tramando algo. Un trasgo torcido siempre lleva la ropa haciendo juego.",
+     "Se dice que el río de Aguaempeño es el mismo río que uno de la [[Errancia|Roam]], y los que duermen a veces se despiertan con una boleta de empeño."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La madriguera bajo el muelle del este de Ventoro paga algo por una grieta en la pared del sótano cada Día Quieto. Lo hace desde antes del muelle. Nadie allá abajo se acuerda de qué se pidió prestado.” (un hojalatero de rescate de Ventoro)",
+     "“¿Sabes cómo salieron los trasgos cuando bajó el Velo? Algunos salieron. Pregunta quién pagó la puerta.” (un sargento hobgoblin, borracho)",
+     "“Hay un tarjero en Bajocampana que le prestó una vela a un hechicero orka. Todavía la está esperando. Es la cosa viva más vieja del Feérico que no es un soberano.” (un feérico del camino, en la Errancia)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBvciBxdcOpIGxlcyBwcmVzdGFuIGEgbG9zIG1vcnRhbGVzLioqIEVsIFtbVmVsb3xWZWlsXV0gZXMgT253ZW4sIHkgY29ub2NlIGEgbG9zIHRvcmNpZG9zIHBvciBsbyBxdWUgZW50cmFyb24gY29uIGxvcyBvcmthLiBObyBsb3MgdmEgYSBkZWphciBzYWxpci4gUGVybyB1bmEgZGV1ZGEgZXMgdW5hIGNvc2EgY29uIGRvcyBwdW50YXMsIHkgZWwgVmVsbyBubyBjb3J0YSBsbyBxdWUgc2UgZGViZS4gVW4gdHJhc2dvIHRvcmNpZG8gc29sbyBwdWVkZSBjcnV6YXIgc2lndWllbmRvIHVuYSBkZXVkYSBxdWUgc2UgbGUgZGViZSBlbiBlbCBtdW5kbyBkZXNwaWVydG8sIGNvbW8gdW5hIHNvZ2EuIENhZGEgZmFyb2wgcXVlIHNlIGxlIGRhIGEgdW4gZ3Jhbmplcm8gcGVyZGlkbyBlcyB1biBjYW1pbm8gYSBjYXNhLiIsICIqKkxhIHByaW1lcmEgZGV1ZGEuKiogQWxndW5hcyBkZSBsYXMgaHVlc3RlcyBzw60gc2FsaWVyb24sIGVuIGxhcyDDumx0aW1hcyBob3JhcywgcG9yIHVuYSBwdWVydGEgcXVlIHN1cyBwYXJpZW50ZXMgbWFudHV2aWVyb24gYWJpZXJ0YSBkZXNkZSBhZGVudHJvLiBFbCBwcmVjaW8gZGUgbGEgcHVlcnRhIGZ1ZSBsYSBwcm9tZXNhIGRlIHZvbHZlciBwb3IgZWxsb3MuIExhcyBtYWRyaWd1ZXJhcyBkZSBsYXMgaXNsYXMgc29uIGxvcyBkZXNjZW5kaWVudGVzIGRlIGVzYSBnZW50ZS4gRWwgW1t0YXrDs24gZGVsIHByaW1vfGNvdXNpbuKAmXMgYm93bF1dIHNvbiBsb3MgaW50ZXJlc2VzLCB5IGVsIGNhcGl0YWwgbnVuY2Egc2UgaGEgcGFnYWRvLiIsICIqKkxvcyBbW3B1ZWJsb3MgZGVsIGxpYnJvfGxlZGdlci10b3duc11dIGVzdMOhbiBzb2JyZSBsbyBxdWUgcXVlZGEgZGUgbGEgW1tRdWludGEgQ29ydGV8RmlmdGggQ291cnRdXS4qKiBFbCBwYcOtcyBlbnRyZSBsYXMgZXN0YWNpb25lcyBmdWUgdW4gcmVpbm8gYWxndW5hIHZlei4gQ3VhbmRvIHN1IHNlw7FvciBsbyBhYmFuZG9uw7MsIGFzdGlsbGFzIGRlIMOpbCBzZSBxdWVkYXJvbiBlbiBjYWRhIGZyb250ZXJhLCBzaW4gbGV5IHBvcnF1ZSBsYSBsZXkgc2UgZnVlIGNvbiDDqWwuIExvcyB0b3JjaWRvcyBzZSBpbnN0YWxhcm9uIGFudGVzIGRlIHF1ZSBwYXNhcmEgZWwgYcOxby4iLCAiKipMYSB2ZWxhLioqIEVsIFtbdGFyamVyb3x0YWxseW1hbl1dIGRlIFtbQmFqb2NhbXBhbmF8VW5kZXJiZWxsXV0gcXVlIGxlIHByZXN0w7MgdW5hIHZlbGEgYSB1biBoZWNoaWNlcm8gb3JrYSBlcyByZWFsLiBTZSBsbGFtYSBlbCBbW1ZpZWpvIFZpZ3xPbGQgVmlnXV0sIHkgZWwgaGVjaGljZXJvIGVzIHVuYSBkZSBsYXMgY29zYXMgcXVlIHNvc3RpZW5lbiBsb3Mgc2VsbG9zIG3DoXMgdmllam9zIGRlIGxhIFtbTGxhbWEgU2FncmFkYXxTYWNyZWQgRmxhbWVdXS4gU2kgZXNlIHNlbGxvIHNlIGFicmUgYWxndW5hIHZleiwgVmlnIHBpZW5zYSBlc3RhciBwYXJhZG8gYWjDrSBjb24gbGEgbWFubyBleHRlbmRpZGEuIl19"
+   }
+  ],
+  "title": "Los Torcidos"
  }
 }
