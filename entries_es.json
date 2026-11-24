@@ -23714,7 +23714,7 @@
     "title": "En la orilla lejana",
     "paragraphs": [
      "Los kalashtar no se ponen de acuerdo en lo que sueñan. Unos sueñan una corte y su banquete sin fin, otros un bosque que sabe su nombre, otros un mar que corre cuesta arriba. Dicen que se encuentran allá, y que se reconocen al despertar, y más de un kalashtar se ha casado con alguien que conoció primero en la orilla lejana.",
-     "La orilla lejana no es el [[Feérico|Faewild]], digan lo que digan los libros viejos. Los soñadores la llaman **la [[Errancia|Roam]]**: un campo abierto detrás del sueño, sin señor y sin cercas, cruzado por caminos que llevan a todos los lugares donde ha estado alguna vez una mente. Tiene las cuatro estaciones de las Cortes, cada una en su propio país, y un soñador se abre en uno de ellos. Los feéricos entran a la Errancia con la misma facilidad con que se baja de un porche, y casi toda la gente que un soñador se encuentra allá son feéricos muy lejos de casa. No rige la ley de ninguna [[Corte|Court]]. Hay casas de camino, agentes de camino, reclamos de tierra, y la ley que pueda hacer cumplir el que esté más cerca.",
+     "La orilla lejana no es el [[Feérico|Faewild]], digan lo que digan los libros viejos. Los soñadores la llaman **la [[Errancia|Roam]]**: un campo abierto detrás del sueño, sin señor y sin cercas, cruzado por caminos que llevan a todos los lugares donde ha estado alguna vez una mente. Tiene las cuatro estaciones de las Cortes, cada una en su propio país, y un soñador se abre en uno de ellos. Los feéricos entran a la Errancia con la misma facilidad con que se baja de un porche, y casi toda la gente que un soñador se encuentra allá son feéricos muy lejos de casa. No rige la ley de ninguna [[Corte|Court]]. Hay [[casas de camino|way-houses]], [[agentes de camino|road-agents]], reclamos de tierra, y la ley que pueda hacer cumplir el que esté más cerca.",
      "Los feéricos se fijan en sus soñadores. Un trato cerrado en un sueño se cumple en el mundo despierto, así que todo kalashtar aprende temprano las reglas de los feéricos: nunca un nombre verdadero, nunca un gracias, cada trato contado tres veces. Tienen más razones que nadie."
     ]
    },
@@ -23930,7 +23930,7 @@
       ],
       [
        "Los feéricos de los caminos",
-       "Feéricos de la [[Errancia|Roam]], muy lejos de cualquier Corte y bajo la ley de ninguna: los que atienden las casas de camino, los agentes de camino y los errantes. Son los feéricos que mejor conoce un kalashtar."
+       "Feéricos de la [[Errancia|Roam]], muy lejos de cualquier Corte y bajo la ley de ninguna: los que atienden las casas de camino, los [[agentes de camino|road-agents]] y los errantes. Son los feéricos que mejor conoce un kalashtar."
       ]
      ],
      "caption": "Los feéricos que un isleño se puede encontrar"
@@ -24691,5 +24691,155 @@
    }
   ],
   "title": "Vellune: Galas y Encantamientos"
+ },
+ "the-roam": {
+  "gloss": "The Roam",
+  "aliases": [
+   "la Errancia",
+   "errante",
+   "errantes",
+   "la otra orilla"
+  ],
+  "subtitle": "El campo abierto detrás del sueño",
+  "summary": "La Errancia es adonde van los kalashtar cuando sueñan: campo abierto sin señor y sin cerca, cruzado por caminos que llevan a todas partes donde ha estado alguna vez una mente. No es el Feérico ni el mundo despierto, y toca a los dos.",
+  "epigraph": {
+   "quote": "Allá afuera puedes cabalgar una semana y despertarte en una hora. Cuidado con lo que prometes en el camino. Vuelve a casa contigo.",
+   "by": "Una kalashtar de Puerto Sur"
+  },
+  "facts": [
+   [
+    "Qué es",
+    "una realidad propia, detrás del sueño"
+   ],
+   [
+    "De quién es",
+    "de nadie"
+   ],
+   [
+    "Sus soñadores",
+    "los kalashtar, que siempre son humanos"
+   ],
+   [
+    "Su pueblo",
+    "[[Duermevela|Halfwake]], bajo la [[Cúpula|Dome]]"
+   ],
+   [
+    "Su peligro",
+    "los [[Arrullos|Lulls]], los comesueños"
+   ],
+   [
+    "Su ley",
+    "la que pueda hacer cumplir la persona más cercana"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Campo abierto",
+    "paragraphs": [
+     "Detrás del sueño hay un país. Tiene cielo, clima, distancia y caminos, y los caminos llevan a todas partes donde ha estado alguna vez una mente. Los libros viejos lo llamaban parte del [[Feérico|Faewild]], y los libros viejos estaban equivocados. Los soñadores lo llaman la [[Errancia|Roam]], y cualquiera que anda por sus caminos es un errante.",
+     "Tiene las cuatro estaciones de las Cortes, cada una en su propio país: uno verde, uno dorado, uno rojo, uno blanco. Un kalashtar se abre en uno de ellos y lleva su color en los ojos de por vida. Ninguna [[Corte|Court]] gobierna nada de eso. Hay [[casas de camino|way-houses]], reclamos de tierra marcados con estacas, [[agentes de camino|road-agents]] y largos tramos vacíos donde la única ley es quien esté parado más cerca.",
+     "Un trato cerrado allá afuera se cumple en el mundo despierto. Una herida recibida allá afuera no se trae a casa, con una excepción, y esa excepción tiene su propia página."
+    ]
+   },
+   {
+    "title": "Quién la recorre",
+    "paragraphs": [
+     "La Errancia es de los kalashtar de una manera en que no es de nadie más, y solo los humanos se vuelven kalashtar. Todos los demás en el camino son invitados, feéricos o tontos."
+    ],
+    "table": {
+     "headers": [
+      "Quién",
+      "Cómo llega"
+     ],
+     "rows": [
+      [
+       "Los kalashtar",
+       "Cada noche, solo con la mente. Solo los humanos se abren. Es de ellos de una manera en que no es de nadie más."
+      ],
+      [
+       "Los feéricos",
+       "En cuerpo, cuando quieren, tan fácil como bajar de un porche."
+      ],
+      [
+       "Un invitado llevado",
+       "Un kalashtar que se duerme tomándote de la mano te puede llevar con él. Un invitado, una noche, y el kalashtar responde por ti."
+      ],
+      [
+       "Alguien que duerme en un [[lugar delgado|thin place]]",
+       "En una noche de [[Marea Rey|King Tide]] o en un Día Quieto, cualquiera que duerma en un lugar delgado puede despertarse en un camino. Es raro, y nadie lo elige."
+      ],
+      [
+       "Quien bebe vino feérico",
+       "Te quita un año y te da una noche allá afuera. El año no se devuelve."
+      ],
+      [
+       "Un caminante que viene del Feérico",
+       "Hay un camino, y cualquiera puede tomarlo en cuerpo. Para un feérico es un paseo. Para cualquier otro es casi una muerte: el camino se lleva algo en cada milla, y la mayoría de los que lo terminan no saben decir quién lo empezó."
+      ]
+     ],
+     "caption": "Maneras de entrar a la Errancia"
+    }
+   },
+   {
+    "title": "Otros pueblos en el sueño",
+    "paragraphs": [
+     "A un elfo, a un enano, a un galven o a cualquier otro se lo puede llevar a la Errancia, o puede caer en ella en un lugar delgado, y se va a acordar de esa noche el resto de su vida. No se abren. Sus ojos no toman ningún color, el sueño no vuelve a la noche siguiente, y no pueden volver a encontrar el camino sin alguien que los lleve.",
+     "Los kalashtar los llaman invitados, y la palabra se dice con cariño. Un invitado está a salvo mientras su kalashtar esté a su lado, y ni un momento más."
+    ]
+   },
+   {
+    "title": "Los caminos",
+    "paragraphs": [],
+    "list": [
+     "La distancia no es fija. Un camino es tan largo como la atención del errante. Los soñadores con experiencia cruzan una estación en una noche.",
+     "Los caminos unen lugares que en el mundo despierto quedan muy lejos uno de otro. Si un cuerpo despierto podría recorrerlos es una pregunta que hace que sigan a un soñador.",
+     "Las casas de camino están a una noche de camino una de otra. Cada una tiene una lámpara, un encargado y un precio.",
+     "Una [[yegua nocturna|night-mare]] de las cuadras de Duermevela conoce el camino corto. Los agentes de camino también.",
+     "Todos los caminos llegan a Duermevela tarde o temprano."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un mensaje en el [[Muro de los Avisos|Posting Wall]] va dirigido a un miembro del grupo, con la letra de su madre muerta, fechado la semana que viene.",
+     "Una kalashtar se ofrece a llevar al grupo adentro, uno por noche, para encontrar a alguien que no se ha despertado.",
+     "Algo se prometió en un camino allá afuera, y el feérico que tiene la promesa acaba de entrar a la posada.",
+     "Alguien marcó con estacas un reclamo sobre un tramo de sueño que resulta ser la casa de infancia de alguien."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Un personaje kalashtar va ahí todas las noches. Decide en qué estación te abriste, cuál es tu palabra de despertar y quién te la enseñó.",
+     "Un invitado no puede volver solo a casa. Sabe quién te llevó, y quédate cerca de esa persona.",
+     "Los feéricos que encuentras en el camino están muy lejos de sus Cortes. Allá afuera son más libres, y tú también."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Más de un kalashtar se ha casado con alguien a quien conoció primero en la Errancia.",
+     "La Krysta es fría y callada para un soñador. Algunos duermen con una piedra en la mano las noches que quieren quedarse en casa.",
+     "Una pizca de [[sal de la Errancia|Roam-salt]] atravesada en un umbral le cierra la puerta a los sueños por una noche."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay un quinto país allá afuera sin ninguna estación. Los caminos que llevan a él no están en ningún mapa de reclamos, y los soñadores que lo encuentran vuelven sin color en los ojos.” (una lectora de sueños de Puerto Gris)",
+     "“Una mujer entró a Duermevela despierta. En cuerpo. Sin ningún feérico con ella. Compró un caballo y se fue por la Puerta Roja.” (un kalashtar de Ventoro)",
+     "“La Línea Corvane ofreció una fortuna por usar el Muro de los Avisos. La Mariscala respondió con una palabra.” (un escribiente de Ventoro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbRXJyYW5jaWF8Um9hbV1dIGVzIHN1eWEuKiogU3UgcmVpbm8gc2Ugc29sdMOzIGRlbCBbW0Zlw6lyaWNvfEZhZXdpbGRdXSBjdWFuZG8gw6lsIGxvIGFiYW5kb27DsywgeSBuYWRpZSB0b23DsyBudW5jYSBwb3Nlc2nDs24gZGUgw6lsLiBFbCB0w610dWxvIHNpZ3VlIHNpZW5kbyB2w6FsaWRvLiBOaW5ndW5hIFtbQ29ydGV8Q291cnRdXSBsbyBzYWJlLCBuaW5nw7puIGthbGFzaHRhciBsbyBzYWJlLCB5IMOpbCBudW5jYSBsbyBoYSBtZW5jaW9uYWRvLiIsICIqKkVsIHRyYXRvLioqIEZ1ZSBhIHZlciBhIE9kYSwgbGEgW1tPcsOhY3VsbyBTZWxsYWRhfFNlYWxlZCBPcmFjbGVdXSwgeSBsZSBoaXpvIGxhIHByZWd1bnRhIG3DoXMgZ3JhbmRlIHF1ZSBuYWRpZSBsZSBoYSBoZWNobzogZWwgbm9tYnJlIHZlcmRhZGVybyBkZSBjYWRhIGNvc2EuIE9kYSBubyB2ZW5kZS4gUHJlZ3VudGFyIGVzIGVsIHByZWNpby4gVW5hIHByZWd1bnRhIGRlIGVzZSB0YW1hw7FvIGxlIGNvc3TDsyB0b2RvIGxvIHF1ZSB0ZW7DrWE6IHN1IHJlaW5vLCBzdSBjb3JvbmEgeSBzdSBwcm9waW8gbm9tYnJlLiBPZGEgbm8gc2UgcXVlZMOzIGNvbiBuYWRhIGRlIGVzby4iLCAiKipMYSBbW0PDunB1bGF8RG9tZV1dIGVzIGVsIFtbU2Fsw7NuIGRlIFZpZHJpb3xHbGFzcyBIYWxsXV0qKiwgc3UgdmllamEgc2FsYSBkZWwgdHJvbm8uIExhIFtbcGF6IGRlIGxhIEPDunB1bGF8RG9tZS1wZWFjZV1dIGVzIGxhIHJlZ2xhIGRlIHN1IGNhc2EsIHkgbGEgcXVpbnRhIHB1ZXJ0YSB0YXBpYWRhIGVzIHN1IHByb3BpYSBwdWVydGEuIExvcyBbW0FycnVsbG9zfEx1bGxzXV0gbm8gcGFzYW4gYmFqbyBlbCB2aWRyaW8gcG9ycXVlIHNpZ3VlIHNpZW5kbywgZW4gdG9kbyBsbyBxdWUgbGUgaW1wb3J0YSBhIHVuIG5vbWJyZSwgc3UgY2FzYS4iLCAiKipQb3IgcXXDqSBzb2xvIHNlIGFicmVuIGxvcyBodW1hbm9zLioqIE9uZHJ5IFZhbmUgZXJhIGh1bWFuYSwgbGEgcHJpbWVyYSBtb3J0YWwgcXVlIHNlIGp1cmFtZW50w7MgYWxndW5hIHZleiBhIHVuIHNhbMOzbiBmZcOpcmljby4gU3UganVyYW1lbnRvIGVzIGxvIHF1ZSBtYW50aWVuZSBhYmllcnRhIGxhIHB1ZXJ0YSBkZSBsYSBFcnJhbmNpYSBwYXJhIGxvcyBkZSBzdSBlc3BlY2llLCB5IHBhcmEgbmluZ3Vub3Mgb3Ryb3MuIiwgIioqTmF4aXRoZSBzZSBpbnN0YWzDsy4qKiBVbiBwYcOtcyBzaW4gc2XDsW9yIHkgc2luIGNlcmNhIGVzIHVuYSBkZXNwZW5zYS4gTG9zIEFycnVsbG9zIHZpbmllcm9uIGRlc3B1w6lzLCBhIHVuYSBjYXNhIHNpbiBndWFyZGlhLiIsICIqKkFkw7NuZGUgc2UgZnVlIGxhIFtbZ2VudGUgZGUgbG9zIFJlbGV2b3N8VHVybmZvbGtdXS4qKiBTZSBmdWVyb24gY29uIGVsIHJlaW5vLiBTb24gbG9zIGZlw6lyaWNvcyBkZWwgY2FtaW5vOiBsb3MgZW5jYXJnYWRvcyBkZSBsYXMgY2FzYXMgZGUgY2FtaW5vIHkgbG9zIFtbYWdlbnRlcyBkZSBjYW1pbm98cm9hZC1hZ2VudHNdXSBkZSBsYSBFcnJhbmNpYSwgZnVlcmEgZGUgbGEgbGV5IGRlIGN1YWxxdWllciBDb3J0ZSBwb3JxdWUgbGEgw7puaWNhIGxleSBxdWUgdHV2aWVyb24gbnVuY2EgZXMgbGEgcGF6IGRlIGxhIEPDunB1bGEuIENhc2kgdG9kb3Mgb2x2aWRhcm9uIHF1ZSBodWJvIHVuYSBDb3J0ZS4gT25kcnkgVmFuZSBuby4iXX0="
+   }
+  ],
+  "title": "La Errancia"
  }
 }
