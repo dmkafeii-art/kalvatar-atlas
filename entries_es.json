@@ -3670,7 +3670,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlw7FvcmVzIHF1ZSBoYW4gY2HDrWRvKioiLCAiTG9zIFNlw7FvcmVzIG5vIHNvbiBpbm1vcnRhbGVzLiBNdWVyZW4gcG9jYXMgdmVjZXMsIHkgc29sbyBhIG1hbm9zIGRlIG90cm9zIFNlw7FvcmVzLiIsICIqKkVsIFtbU2XDsW9yfExvcmRdXSBhbnRlcyBkZSBWdWtoYXJyLioqIExhcyBjYW5jaW9uZXMgbcOhcyB2aWVqYXMgZGUgbG9zIFtbRWxmb3MgZGUgbGEgRXNjYXJjaGF8RnJvc3QgRWx2ZXNdXSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBbW0xhcmdhIE5vY2hlfExvbmcgTmlnaHRdXSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBUcmVpbnRhIGRlIGxhIENhbGRlcmEgKDEzMyBFQykuKiogRWwgw7puaWNvIGludGVudG8gcmVnaXN0cmFkbyBkZSB1bm9zIG1vcnRhbGVzIGNvbnRyYSB1biBTZcOxb3Igdml2by4gVW5hIHRyaXB1bGFjacOzbiBkZSBPcm8gZGUgbGEgW1tMb2dpYXxMb2RnZV1dIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dLCBjb24gdmVpbnRpbnVldmUgW1tDYXphZG9yZXN8SHVudGVyc11dIHkgdW5hIGd1w61hIGRlIGxvcyBbW0d1YXJkaWFuZXMgZGUgQ2VuaXphfEFzaCBXYXJkZW5zXV0sIGJhasOzIGEgbGEgY2FsZGVyYSBkZSBLYWthbkthbCBtaWVudHJhcyBkb3Jtw61hLiBWb2x2acOzIHVuYSBzb2xhLCBsYSBndcOtYSwgeSBudW5jYSB2b2x2acOzIGEgaGFibGFyLiBLYWthbkthbCBubyBkZXNwZXJ0w7MuIExvcyBHdWFyZGlhbmVzIGRlIENlbml6YSB0b2RhdsOtYSBjYW50YW4gbG9zIHRyZWludGEgbm9tYnJlcywgeSBlbCBbW0xpYnJvIGRlIEhhemHDsWFzfExlZGdlciBvZiBEZWVkc11dIHJlZ2lzdHJhIGVsIGNvbnRyYXRvIGNvbW8gKnJldGlyYWRvIHBvciBsYSBbW0p1bnRhfEJvYXJkXV0qLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlw7FvcmVzIHF1ZSBoYW4gY2HDrWRvKioiLCAiTG9zIFNlw7FvcmVzIG5vIHNvbiBpbm1vcnRhbGVzLiBNdWVyZW4gcG9jYXMgdmVjZXMsIHkgc29sbyBhIG1hbm9zIGRlIG90cm9zIFNlw7FvcmVzLiIsICIqKkVsIFtbU2XDsW9yfExvcmRdXSBhbnRlcyBkZSBWdWtoYXJyLioqIExhcyBjYW5jaW9uZXMgbcOhcyB2aWVqYXMgZGUgbG9zIFtbRWxmb3MgZGUgbGEgRXNjYXJjaGF8RnJvc3QgRWx2ZXNdXSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBbW0xhcmdhIE5vY2hlfExvbmcgTmlnaHRdXSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBFbCDDum5pY28gaW50ZW50byByZWdpc3RyYWRvIGRlIHVub3MgbW9ydGFsZXMgY29udHJhIHVuIFNlw7FvciB2aXZvLiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIGNvbiB2ZWludGludWV2ZSBbW0NhemFkb3Jlc3xIdW50ZXJzXV0geSB1bmEgZ3XDrWEgZGUgbG9zIFtbR3VhcmRpYW5lcyBkZSBDZW5pemF8QXNoIFdhcmRlbnNdXSwgYmFqw7MgYSBsYSBjYWxkZXJhIGRlIEtha2FuS2FsIG1pZW50cmFzIGRvcm3DrWEuIFZvbHZpw7MgdW5hIHNvbGEsIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gTG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphIHRvZGF2w61hIGNhbnRhbiBsb3MgdHJlaW50YSBub21icmVzLCB5IGVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyAqcmV0aXJhZG8gcG9yIGxhIFtbSnVudGF8Qm9hcmRdXSouIl19"
    }
   ],
   "title": "Los Señores Salvajes",
@@ -3970,7 +3970,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBUcmVpbnRhIGRlIGxhIENhbGRlcmEgKDEzMyBFQykuKiogVW5hIHRyaXB1bGFjacOzbiBkZSBPcm8gZGUgbGEgW1tMb2dpYXxMb2RnZV1dIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dLCB2ZWludGludWV2ZSBbW0NhemFkb3Jlc3xIdW50ZXJzXV0geSB1bmEgZ3XDrWEgZGUgbG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphLCBiYWrDsyBhIGxhIGNhbGRlcmEgbWllbnRyYXMgS2FrYW5LYWwgZG9ybcOtYS4gU29sbyB2b2x2acOzIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gRWwgW1tMaWJybyBkZSBIYXphw7Fhc3xMZWRnZXIgb2YgRGVlZHNdXSByZWdpc3RyYSBlbCBjb250cmF0byBjb21vIHJldGlyYWRvIHBvciBsYSBKdW50YS4iLCAiKipBbnVrw6FsaSwgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0gZGVsIDE3NCBFQy4qKiBMYSBEYW1hIFZpY3RvcmlhIFdpbmdhdGUsIHF1ZSBzZSBtb3LDrWEgZGUgdW5hIHZpZWphIGhlcmlkYSwgdmlubyBwb3IgZWwgW1tDb3JhesOzbiBkZWwgTWFyfEhlYXJ0IG9mIHRoZSBTZWFdXS4gU3UgaG9tYnJlLCBMZW9yaWMgW1tFc3Bpbm98VGhvcm5lXV0sIGF0YWRvIHBvciBwYWN0byBhIHVuIHBvZGVyIHNlbGxhZG8sIG1hdMOzIGEgbGFzIFtbQWxhcyBEb3JhZGFzfEdvbGRlbiBXaW5nc11dIGVuIGxhIGN1ZXZhIGRlbCBDb3JhesOzbi4gRWwgQ29yYXrDs24geSBzdSBHdWFyZGnDoW4gdm9sY2Fyb24gc3VzIHZpZGFzIGVuIGVsbG9zLiBTZSBsZXZhbnRhcm9uIHBhcmEgdW5hIMO6bHRpbWEgcGVsZWEsIHZvbHZpZXJvbiBhIHNlbGxhciBhbCBwYXRyw7NuIHkgbGUgcXVpdGFyb24gc3UgcG9kZXIgYSBMZW9yaWMuIFZpY3RvcmlhLCBtdXJpw6luZG9zZSwgdG9tw7MgZWwgbHVnYXIgZGVsIENvcmF6w7NuIG1vcmlidW5kby4iLCAiKipRdWnDqW4gbG8gc2FiZS4qKiBMYSBnZW50ZSBjb23Dum4gbm8gc2FiZSBuYWRhIGRlIGVzby4gRWwgW1tDb25zZWpvfENvdW5jaWxdXSByZWNpYmnDsyBlbCBpbmZvcm1lIGNvbXBsZXRvIGRlIGxvcyBDYXphZG9yZXMsIHkgbG8gc2FiZSB0b2RvLiIsICIqKkVsIFtbRHJhZ8OzbiBEb3JhZG98R2lsZGVkIERyYWdvbl1dKiogcXVlIHNlIGxsZXbDsyBhIGxhIHByaW1lcmEgY29tcGHDscOtYSBkZSBBZGVseW4gW1tWYWxlbWFyfFNlYXdvcnRoXV0gZXJhIHVuYSBjb3NhIGhlY2hhOiB1biBkcmFnw7NuIGRlIG1ldGFsIGRvcmFkbywgZGUgbGEgY2xhc2UgZGUgbG9zIGZvcmphZG9zLiIsICIqKlF1acOpbiBjb25vY2UgYSBsb3MgZHJhZ29uZXMuKiogS2FyYSAob3JvKSB5IExhY2hsYW4gKHBsYXRhKSBzb24gZHJhZ29uZXMgY29uIGRpc2ZyYXogbW9ydGFsIHkgY29ub2NlbiBsYSBuYXR1cmFsZXphIGRlbCBvdHJvLCB5IHNhYmVuIGRlIHVubyBkZSBsYXTDs24gZXNjb25kaWRvIGVudHJlIGxvcyBQbGF0aW5vcyAoZWwgbi7CuiAyLCBlbCBbW0V4dHJhbmplcm8gRG9yYWRvfEdpbGRlZCBTdHJhbmdlcl1dKS4gU3lsYXJpZWwgbGEgU2FiaWEgKFBsYXRpbm8gbi7CuiA4LCBsYSBmdW5kYWRvcmEgYWx0YSBlbGZhKSBlcyBsbyBiYXN0YW50ZSB2aWVqYSB5IHBlcnNwaWNheiBwYXJhIHNhYmVyIGxvIHF1ZSBjYW1pbmEgZW50cmUgc3Ugb3JkZW4uIFkgdW4gbW9ydGFsIGFuZGEgcm9uZGFuZG8gZWwgc2VjcmV0bzogVmVsZW1ub3MsIHF1ZSBjYXphIHRvZG9zIGxvcyBzZWNyZXRvcyB5IGVtcGV6w7MgYSBzb3NwZWNoYXIgcXVlIGFsZ3Vub3MgZGUgbG9zIGd1YXJkaWFuZXMgZGVsIG11bmRvIG5vIHNvbiBsbyBxdWUgcGFyZWNlbi4gTG9zIHNlaXMgZHJhZ29uZXMgY3JvbcOhdGljb3Mgc2UgcXVlZGFuIGVuIGxvIHNhbHZhamUgeSBlbiBsYSBvc2N1cmlkYWQ7IHNlIHN1c3VycmEgcXVlIGFsIG1lbm9zIHVubyB0aWVuZSBzdSBndWFyaWRhIGVuIGVsIGV4dHJlbW8gc3VyLCBjZXJjYSBkZSBsb3MgbHVnYXJlcyBhYmlzbWFsZXMgcXVlIGNvZGljaWEgVmVsZW1ub3MsIHkgc2kgZWwgW1tQYXRyw7NuIGRlIE1lZGlhbm9jaGV8TWlkbmlnaHQgUGF0cm9uXV0gcGllbnNhIG5lZ29jaWFyIGNvbiDDqWwsIGF0YXJsbyBvIGRlc2FuZ3JhcmxvIGVzIHVuYSBwcmVndW50YSBxdWUgZGViZXLDrWEgYXN1c3RhciBhIHRvZG8gZWwgbXVuZG8uIiwgIioqTG9zIERpZXogZGUgUGxhdGlubywgY29tcGxldG9zKioiLCAiTG9zIGN1YXRybyBsdWdhcmVzIGFiaWVydG9zLCB5YSBvY3VwYWRvcywgeSB0b2RvcywgYSBsYSBtYW5lcmEgZGUgbGEgb3JkZW4sIGVzY29uZGVuIGxhIGNhcmEgKFZvbHVtZW4gSSwgwqc5KToiLCAiKipOLsK6IDQsIFZhcnJhLCBcImxhIE1hcmNhZGEgcG9yIGVsIFNlw7FvclwiLioqIExhIG1hdGFkb3JhIGRlIGJlc3RpYXMgZGUgbG9zIERpZXosIGxhIMO6bmljYSBQbGF0aW5vIGEgbGEgcXVlIHNlIGxlIHJlY29ub2NlIGhhYmVyIG1hdGFkbyBkZSB2ZXJkYWQgYSBsYSAqKnByb2dlbmllIHByaW5jaXBhbCBkZSB1biBbW1Nlw7FvciBTYWx2YWplfFNhdmFnZSBMb3JkXV0qKiwgeSAoZGljZSBsYSBsZXllbmRhKSBoYWJlciAqaGVyaWRvKiBhIHVuIFNlw7FvciB5IGhhYmVyIHZpdmlkby4gTGxldmEgbGFzIGNpY2F0cmljZXMgcXVlIHBydWViYW4gbG8gc2VndW5kbyB5IHNlIG5pZWdhIGEgaGFibGFyIGRlIGVzby4iLCAiKipOLsK6IDUsIFNlbmthLCBcImVsIEludmlzaWJsZVwiLioqIEVsIFBsYXRpbm8gY3V5YSBjYXJhIGRlIHZlcmRhZCBuYWRpZSBjb25vY2UsIG5pIGVsIHDDumJsaWNvLCBuaSBlbCBDb25zZWpvLCBuaSBsYSBtYXlvcsOtYSBkZSBsb3Mgb3Ryb3MgRGllei4gTGEgbWFubyBuZWdhYmxlIGRlIGxhIG9yZGVuLCBxdWUgaGFjZSBlbCB0cmFiYWpvIHF1ZSBubyBzZSBwdWVkZSByZWNvbm9jZXIgcXVlIHNlIGhpem8uIEFsZ3Vub3MgZHVkYW4gZGUgcXVlIFNlbmthIHNlYSB1bmEgc29sYSBwZXJzb25hLiIsICIqKk4uwrogNiwgRHJvZ2FuLCBcImVsIEJhbHVhcnRlXCIuKiogRWwgbXVybyB2aXZvLCB1biBndWFyZGnDoW4gcXVlIG3DoXMgZGUgdW5hIHZleiBzaW1wbGVtZW50ZSAqc2UgcGFyw7MgZW4gdW5hIHB1ZXJ0YSogZW50cmUgdW5hIGNhdMOhc3Ryb2ZlIHkgdW5hIGNpdWRhZCB5IHNlIG5lZ8OzIGEgbW92ZXJzZSBoYXN0YSBxdWUgbGEgY2F0w6FzdHJvZmUgc2UgcmluZGnDsy4gRG9uZGUgb3Ryb3MgYWNhYmFuIGNvbiBsYXMgYW1lbmF6YXMsIERyb2dhbiBsYXMgYWd1YW50YS4iLCAiKipLYXJhKiosIGxhIGRlIG9ybyBkZSBsb3MgW1tEaWV6IGRlIFBsYXRpbm98UGxhdGludW0gVGVuXV0sIHNhYmUgZXhhY3RhbWVudGUgbG8gcXVlIGhheSBiYWpvIGxhIFtbVHVtYmEgZGVsIFNvbHxTdW4ncyBHcmF2ZV1dLiBOdW5jYSBsbyBoYSBkaWNoby4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSB5IHVuYSBndcOtYSBkZSBsb3MgR3VhcmRpYW5lcyBkZSBDZW5pemEsIGJhasOzIGEgbGEgY2FsZGVyYSBtaWVudHJhcyBLYWthbkthbCBkb3Jtw61hLiBTb2xvIHZvbHZpw7MgbGEgZ3XDrWEsIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gS2FrYW5LYWwgbm8gZGVzcGVydMOzLiBFbCBbW0xpYnJvIGRlIEhhemHDsWFzfExlZGdlciBvZiBEZWVkc11dIHJlZ2lzdHJhIGVsIGNvbnRyYXRvIGNvbW8gcmV0aXJhZG8gcG9yIGxhIEp1bnRhLiIsICIqKkFudWvDoWxpLCBbW01hcmVhIFJleXxLaW5nIFRpZGVdXSBkZWwgMTc0IEVDLioqIExhIERhbWEgVmljdG9yaWEgV2luZ2F0ZSwgcXVlIHNlIG1vcsOtYSBkZSB1bmEgdmllamEgaGVyaWRhLCB2aW5vIHBvciBlbCBbW0NvcmF6w7NuIGRlbCBNYXJ8SGVhcnQgb2YgdGhlIFNlYV1dLiBTdSBob21icmUsIExlb3JpYyBbW0VzcGlub3xUaG9ybmVdXSwgYXRhZG8gcG9yIHBhY3RvIGEgdW4gcG9kZXIgc2VsbGFkbywgbWF0w7MgYSBsYXMgW1tBbGFzIERvcmFkYXN8R29sZGVuIFdpbmdzXV0gZW4gbGEgY3VldmEgZGVsIENvcmF6w7NuLiBFbCBDb3JhesOzbiB5IHN1IEd1YXJkacOhbiB2b2xjYXJvbiBzdXMgdmlkYXMgZW4gZWxsb3MuIFNlIGxldmFudGFyb24gcGFyYSB1bmEgw7psdGltYSBwZWxlYSwgdm9sdmllcm9uIGEgc2VsbGFyIGFsIHBhdHLDs24geSBsZSBxdWl0YXJvbiBzdSBwb2RlciBhIExlb3JpYy4gVmljdG9yaWEsIG11cmnDqW5kb3NlLCB0b23DsyBlbCBsdWdhciBkZWwgQ29yYXrDs24gbW9yaWJ1bmRvLiIsICIqKlF1acOpbiBsbyBzYWJlLioqIExhIGdlbnRlIGNvbcO6biBubyBzYWJlIG5hZGEgZGUgZXNvLiBFbCBbW0NvbnNlam98Q291bmNpbF1dIHJlY2liacOzIGVsIGluZm9ybWUgY29tcGxldG8gZGUgbG9zIENhemFkb3JlcywgeSBsbyBzYWJlIHRvZG8uIiwgIioqRWwgW1tEcmFnw7NuIERvcmFkb3xHaWxkZWQgRHJhZ29uXV0qKiBxdWUgc2UgbGxldsOzIGEgbGEgcHJpbWVyYSBjb21wYcOxw61hIGRlIEFkZWx5biBbW1ZhbGVtYXJ8U2Vhd29ydGhdXSBlcmEgdW5hIGNvc2EgaGVjaGE6IHVuIGRyYWfDs24gZGUgbWV0YWwgZG9yYWRvLCBkZSBsYSBjbGFzZSBkZSBsb3MgZm9yamFkb3MuIiwgIioqUXVpw6luIGNvbm9jZSBhIGxvcyBkcmFnb25lcy4qKiBLYXJhIChvcm8pIHkgTGFjaGxhbiAocGxhdGEpIHNvbiBkcmFnb25lcyBjb24gZGlzZnJheiBtb3J0YWwgeSBjb25vY2VuIGxhIG5hdHVyYWxlemEgZGVsIG90cm8sIHkgc2FiZW4gZGUgdW5vIGRlIGxhdMOzbiBlc2NvbmRpZG8gZW50cmUgbG9zIFBsYXRpbm9zIChlbCBuLsK6IDIsIGVsIFtbRXh0cmFuamVybyBEb3JhZG98R2lsZGVkIFN0cmFuZ2VyXV0pLiBTeWxhcmllbCBsYSBTYWJpYSAoUGxhdGlubyBuLsK6IDgsIGxhIGZ1bmRhZG9yYSBhbHRhIGVsZmEpIGVzIGxvIGJhc3RhbnRlIHZpZWphIHkgcGVyc3BpY2F6IHBhcmEgc2FiZXIgbG8gcXVlIGNhbWluYSBlbnRyZSBzdSBvcmRlbi4gWSB1biBtb3J0YWwgYW5kYSByb25kYW5kbyBlbCBzZWNyZXRvOiBWZWxlbW5vcywgcXVlIGNhemEgdG9kb3MgbG9zIHNlY3JldG9zIHkgZW1wZXrDsyBhIHNvc3BlY2hhciBxdWUgYWxndW5vcyBkZSBsb3MgZ3VhcmRpYW5lcyBkZWwgbXVuZG8gbm8gc29uIGxvIHF1ZSBwYXJlY2VuLiBMb3Mgc2VpcyBkcmFnb25lcyBjcm9tw6F0aWNvcyBzZSBxdWVkYW4gZW4gbG8gc2FsdmFqZSB5IGVuIGxhIG9zY3VyaWRhZDsgc2Ugc3VzdXJyYSBxdWUgYWwgbWVub3MgdW5vIHRpZW5lIHN1IGd1YXJpZGEgZW4gZWwgZXh0cmVtbyBzdXIsIGNlcmNhIGRlIGxvcyBsdWdhcmVzIGFiaXNtYWxlcyBxdWUgY29kaWNpYSBWZWxlbW5vcywgeSBzaSBlbCBbW1BhdHLDs24gZGUgTWVkaWFub2NoZXxNaWRuaWdodCBQYXRyb25dXSBwaWVuc2EgbmVnb2NpYXIgY29uIMOpbCwgYXRhcmxvIG8gZGVzYW5ncmFybG8gZXMgdW5hIHByZWd1bnRhIHF1ZSBkZWJlcsOtYSBhc3VzdGFyIGEgdG9kbyBlbCBtdW5kby4iLCAiKipMb3MgRGlleiBkZSBQbGF0aW5vLCBjb21wbGV0b3MqKiIsICJMb3MgY3VhdHJvIGx1Z2FyZXMgYWJpZXJ0b3MsIHlhIG9jdXBhZG9zLCB5IHRvZG9zLCBhIGxhIG1hbmVyYSBkZSBsYSBvcmRlbiwgZXNjb25kZW4gbGEgY2FyYSAoVm9sdW1lbiBJLCDCpzkpOiIsICIqKk4uwrogNCwgVmFycmEsIFwibGEgTWFyY2FkYSBwb3IgZWwgU2XDsW9yXCIuKiogTGEgbWF0YWRvcmEgZGUgYmVzdGlhcyBkZSBsb3MgRGlleiwgbGEgw7puaWNhIFBsYXRpbm8gYSBsYSBxdWUgc2UgbGUgcmVjb25vY2UgaGFiZXIgbWF0YWRvIGRlIHZlcmRhZCBhIGxhICoqcHJvZ2VuaWUgcHJpbmNpcGFsIGRlIHVuIFtbU2XDsW9yIFNhbHZhamV8U2F2YWdlIExvcmRdXSoqLCB5IChkaWNlIGxhIGxleWVuZGEpIGhhYmVyICpoZXJpZG8qIGEgdW4gU2XDsW9yIHkgaGFiZXIgdml2aWRvLiBMbGV2YSBsYXMgY2ljYXRyaWNlcyBxdWUgcHJ1ZWJhbiBsbyBzZWd1bmRvIHkgc2UgbmllZ2EgYSBoYWJsYXIgZGUgZXNvLiIsICIqKk4uwrogNSwgU2Vua2EsIFwiZWwgSW52aXNpYmxlXCIuKiogRWwgUGxhdGlubyBjdXlhIGNhcmEgZGUgdmVyZGFkIG5hZGllIGNvbm9jZSwgbmkgZWwgcMO6YmxpY28sIG5pIGVsIENvbnNlam8sIG5pIGxhIG1heW9yw61hIGRlIGxvcyBvdHJvcyBEaWV6LiBMYSBtYW5vIG5lZ2FibGUgZGUgbGEgb3JkZW4sIHF1ZSBoYWNlIGVsIHRyYWJham8gcXVlIG5vIHNlIHB1ZWRlIHJlY29ub2NlciBxdWUgc2UgaGl6by4gQWxndW5vcyBkdWRhbiBkZSBxdWUgU2Vua2Egc2VhIHVuYSBzb2xhIHBlcnNvbmEuIiwgIioqTi7CuiA2LCBEcm9nYW4sIFwiZWwgQmFsdWFydGVcIi4qKiBFbCBtdXJvIHZpdm8sIHVuIGd1YXJkacOhbiBxdWUgbcOhcyBkZSB1bmEgdmV6IHNpbXBsZW1lbnRlICpzZSBwYXLDsyBlbiB1bmEgcHVlcnRhKiBlbnRyZSB1bmEgY2F0w6FzdHJvZmUgeSB1bmEgY2l1ZGFkIHkgc2UgbmVnw7MgYSBtb3ZlcnNlIGhhc3RhIHF1ZSBsYSBjYXTDoXN0cm9mZSBzZSByaW5kacOzLiBEb25kZSBvdHJvcyBhY2FiYW4gY29uIGxhcyBhbWVuYXphcywgRHJvZ2FuIGxhcyBhZ3VhbnRhLiIsICIqKkthcmEqKiwgbGEgZGUgb3JvIGRlIGxvcyBbW0RpZXogZGUgUGxhdGlub3xQbGF0aW51bSBUZW5dXSwgc2FiZSBleGFjdGFtZW50ZSBsbyBxdWUgaGF5IGJham8gbGEgW1tUdW1iYSBkZWwgU29sfFN1bidzIEdyYXZlXV0uIE51bmNhIGxvIGhhIGRpY2hvLiJdfQ=="
    }
   ],
   "title": "Los Cazadores",
@@ -25525,5 +25525,331 @@
    }
   ],
   "title": "Los Doce Rayos"
+ },
+ "hunter-companies": {
+  "gloss": "Hunter Companies",
+  "aliases": [
+   "compañía",
+   "compañías",
+   "compañía seca",
+   "compañía de Cazadores"
+  ],
+  "subtitle": "Una línea en el Libro, bajo un nombre",
+  "summary": "Los Cazadores que trabajan juntos son una compañía: un nombre en el Libro de una Logia, unos artículos, colores en la espalda y, para las grandes, un barco.",
+  "epigraph": {
+   "quote": "Solo eres un Cazador. Firma la línea y eres el problema de alguien y la familia de alguien. Casi siempre los mismos alguien.",
+   "by": "Un Cronista de la Logia"
+  },
+  "facts": [
+   [
+    "Se hace en",
+    "cualquier [[Logia|Lodge]], ante el [[Cronista|Chronicler]]"
+   ],
+   [
+    "Necesita",
+    "un nombre, un capitán y unos artículos"
+   ],
+   [
+    "Un patrocinador",
+    "algunas lo tienen; todas lo quieren"
+   ],
+   [
+    "Con barco",
+    "la compañía toma el nombre del barco"
+   ],
+   [
+    "Sin barco",
+    "una [[compañía seca|dry company]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Firmar la línea",
+    "paragraphs": [
+     "Una compañía se hace en una Logia. Sus miembros firman una línea en el [[Libro de Hazañas|Ledger of Deeds]] del Cronista, bajo un nombre, y desde ese día el Libro registra sus hazañas juntas.",
+     "La compañía elige su propio nombre, y el Libro guarda uno solo de cada uno: las [[Alas Doradas|Golden Wings]], la [[Estela Dorada|Gilded Wake]]. Un nombre no se puede tomar mientras viva algún miembro de la vieja compañía."
+    ]
+   },
+   {
+    "title": "Capitán y artículos",
+    "paragraphs": [
+     "Una compañía elige un capitán y escribe sus artículos: quién tiene qué parte, quién habla con los clientes y qué pasa con la parte de un miembro muerto. La Logia guarda una copia y cobra su diezmo de toda la bolsa, no de cada [[Cazador|Hunter]]."
+    ]
+   },
+   {
+    "title": "El barco",
+    "paragraphs": [
+     "Las grandes compañías tienen un barco, y a una compañía con barco se la conoce por el nombre del barco: la *[[Marea Carmesí|Crimson Tide]]*, el *[[Jubiloso|Jubilant]]*, el *[[Trueno Rodante|Rolling Thunder]]*. Entonces la compañía es toda la tripulación, Cazadores y marineros por igual, y \"tripulación\" y \"compañía\" quieren decir lo mismo.",
+     "Una compañía sin casco es una compañía seca. Casi todas empiezan secas. Cuando una compra o gana un barco, casi siempre toma el nombre del barco, y el nombre viejo se pinta chiquito en la tabla de popa."
+    ]
+   },
+   {
+    "title": "Colores y patrocinadores",
+    "paragraphs": [
+     "Cada compañía tiene un parche de su propio diseño, que se lleva en la espalda o en el hombro izquierdo. Un Cazador lleva los colores de una sola compañía a la vez. Una compañía famosa también da una prenda: un corte más pequeño de sus colores, que se le entrega a alguien de afuera que le hizo a la compañía un servicio de verdad.",
+     "El [[Escalafón|Ranking]] público sigue a las compañías tan de cerca como sigue a los Cazadores."
+    ]
+   },
+   {
+    "title": "Patrocinadores",
+    "paragraphs": [
+     "Algunas compañías tienen un patrocinador: una casa, una bandera comercial, un gremio, un templo o un pueblo que las respalda con moneda e influencia. No todas las compañías tienen uno. Las compañías especializadas siempre están buscando, y toda compañía quiere a alguien con plata y nombre parado detrás de ella."
+    ],
+    "list": [
+     "**Lo que da un patrocinador:** un anticipo o una reparación, equipo de hechura superior, presentaciones, un amarradero en un puerto cerrado y un abogado cuando hace falta.",
+     "**Lo que recibe un patrocinador:** su marca cosida debajo de los colores de la compañía, la primera llamada sobre el tiempo de la compañía y lo que digan los artículos del patrocinio.",
+     "**Lo que un patrocinador no puede comprar:** el [[Voto|Vow]]. Ningún patrocinador puede ordenarle a una compañía romper el [[Código|Code]], y una Logia tacha cualquier artículo que lo intente.",
+     "**A palo seco:** una compañía sin patrocinador. Unos lo llaman pobreza y otros libertad, muchas veces la misma compañía en la misma semana.",
+     "**Cortar la marca:** cualquiera de las dos partes puede terminarlo. La compañía corta la marca del patrocinador de sus colores frente al Cronista, y los agujeros de la puntada se quedan."
+    ],
+    "table": {
+     "headers": [
+      "Patrocinador",
+      "Por ejemplo",
+      "Lo que quiere a cambio"
+     ],
+     "rows": [
+      [
+       "Una casa noble",
+       "la Casa Faust, la Casa [[Forjasol|Sunforge]], la Casa Pelagar",
+       "Que se vean sus colores del lado ganador, y la primera llamada cuando la casa tiene problemas"
+      ],
+      [
+       "Una bandera comercial",
+       "Corvane, [[Doraguja|Goldspire]], Vantrey",
+       "Escoltas que llegan, cargas que aparecen y rivales a los que no se ayuda"
+      ],
+      [
+       "Un gremio",
+       "el [[Gremio de Herreros|Smiths’ Guild]], los [[Artesanos de Krysta|Krystawrights]]",
+       "Que su trabajo más nuevo se lleve, se pruebe y se elogie donde la gente pueda oírlo"
+      ],
+      [
+       "La [[Universidad|University]]",
+       "la [[Liga de Exploradores|League of Explorers]]",
+       "La primera lectura de lo que suba una compañía que explora las profundidades, y el derecho a ponerle nombre"
+      ],
+      [
+       "El [[Círculo de los Entintadores|Inkers’ Circle]]",
+       "cualquier tienda del [[Círculo|Circle]]",
+       "La historia, contada primero al Círculo y a nadie más durante una temporada"
+      ],
+      [
+       "Una cuadra o un astillero",
+       "las cuadras Sukuun, los astilleros Vanris",
+       "Capturas vivas, viajes de prueba y el nombre de la compañía en el producto"
+      ],
+      [
+       "Un templo",
+       "la [[Concordia|Concord]]",
+       "Trabajo de socorro, y una compañía que aparece cuando una costa está herida"
+      ],
+      [
+       "Un pueblo",
+       "cualquier puerto con un problema",
+       "Un problema, resuelto, y la promesa de la compañía de volver si vuelve el problema"
+      ]
+     ],
+     "caption": "Quién patrocina a una compañía, y qué quiere a cambio"
+    }
+   },
+   {
+    "title": "El final",
+    "paragraphs": [
+     "Una compañía termina cuando su último miembro tacha la línea en el Libro. Sus colores se cuelgan en la Logia donde firmó, y cada Logia vieja tiene un muro de ellos."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Elige el nombre antes de entrar. El Cronista ya oyó todos los chistes.",
+     "Escribe qué pasa con la parte de un miembro muerto. Todas las compañías que se lo saltaron desearían no haberlo hecho.",
+     "Primero los colores, después el patrocinador. La marca de un patrocinador se cose debajo de los colores por algo.",
+     "Lee dos veces los artículos del patrocinio, y pregunta qué hizo la última compañía para perderlos."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "El último miembro vivo de una compañía quiere ayuda para tachar la línea, y alguien no quiere que ese nombre quede libre.",
+     "Un patrocinador le paga a una compañía seca para que pierda un contrato, sin ruido, frente a un rival que también patrocina.",
+     "Un patrocinador quebró de la noche a la mañana, y sus acreedores dicen que el barco de la compañía era parte de los bienes.",
+     "Dos patrocinadores quieren a la misma compañía de exploradores de profundidades, y cada uno mandó un regalo que no se puede devolver con cortesía.",
+     "El patrocinador de una compañía pidió una cosita que no va del todo en contra del Código.",
+     "La prenda de tu compañía apareció en el abrigo de un desconocido, con una primera puntada que ninguno de ustedes dio."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay una línea en el Libro de Ventoro con un nombre y ninguna firma debajo. El Cronista no la tacha y no dice quién le pidió que la guardara.” (un escribiente de la Logia)",
+     "“Una compañía seca de Puerto Sur ganó un barco a los dados, se cambió el nombre por el del barco y descubrió a la mañana siguiente por qué la compañía anterior quería deshacerse de él.” (un estibador de Puerto Sur)"
+    ]
+   }
+  ],
+  "title": "Las compañías de Cazadores"
+ },
+ "ash-wardens": {
+  "gloss": "The Ash Wardens",
+  "aliases": [
+   "Guardianes de Ceniza",
+   "los Guardianes de Ceniza",
+   "Guardián de Ceniza",
+   "Vigilia de la Brasa",
+   "la Vigilia de la Brasa"
+  ],
+  "subtitle": "La orden que cuenta los alientos de un Señor dormido",
+  "summary": "Los Guardianes de Ceniza vigilan el volcán de Caída Eterna por una sola cosa: el día en que KakanKal, el Emperador de las Llamas, despierte. Han contado sus alientos cada día desde que empezó la orden, y les gustaría muchísimo que se acabara la minería.",
+  "epigraph": {
+   "quote": "No está dormido. Está soñando, y sus sueños se dan vuelta bajo la montaña.",
+   "by": "Un Guardián de Ceniza de Caída Eterna, la noche de la Vigilia de la Brasa"
+  },
+  "facts": [
+   [
+    "Sede",
+    "[[Caída Eterna|Everfall]]"
+   ],
+   [
+    "Quiénes son",
+    "casi todos cindren, y cualquier otro que aguante la guardia"
+   ],
+   [
+    "Vigilan",
+    "a KakanKal, el [[Emperador de las Llamas|Emperor of Flames]]"
+   ],
+   [
+    "Le rezan a",
+    "Sathrun, la [[Llama Firme|Steady Flame]]"
+   ],
+   [
+    "Su noche",
+    "la [[Vigilia de la Brasa|Ember Vigil]], 5 de Okram"
+   ],
+   [
+    "Su enemigo en la superficie",
+    "las minas de Darlath"
+   ],
+   [
+    "Los guía",
+    "la [[Primera Guardiana|First Warden]] Solen [[Valleceniza|Ashvale]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La guardia",
+    "paragraphs": [
+     "Caída Eterna es un volcán con una ciudad encima, y bajo el volcán algo enorme está dormido. Los [[Guardianes de Ceniza|Ash Wardens]] son la gente que nunca lo olvida. Patrullan las laderas, hacen guardia en el borde de la caldera y leen cada señal que da la montaña: el calor de los manantiales, el color del humo, el sonar del [[Bosque de Vidrio|Glass Forest]].",
+     "Casi todos los [[Guardianes|Wardens]] son cindren, la gente de brasa de la isla, porque un pueblo cuyos sentimientos se ven como luz aprende de joven a mantener un brillo parejo, y la guardia es pareja si es algo. Pero la orden acepta a cualquiera que la aguante."
+    ]
+   },
+   {
+    "title": "El Conteo",
+    "paragraphs": [
+     "Sobre Caída Eterna hay una ladera de árboles de obsidiana, los restos congelados de una vieja erupción. Los cindren la llaman el primer aliento del Emperador. Los árboles suenan con cada temblor, y los Guardianes cuentan el sonar como alientos.",
+     "El número de cada día se escribe con tiza en una pizarra en el puesto llamado las Campanadas, y se copia en un libro que se remonta a la fundación. Los herreros de Caída Eterna miran la pizarra camino al trabajo como los marineros miran el cielo."
+    ]
+   },
+   {
+    "title": "Las campanas",
+    "paragraphs": [],
+    "list": [
+     "Una campana: el [[Conteo|Count]] está por encima de la marca de la temporada. Las forjas cubren sus fuegos.",
+     "Dos campanas: el Conteo ha subido tres días seguidos. Se supone que las minas paran. No siempre lo hacen.",
+     "Tres campanas: a los botes. Nunca se han tocado tres campanas.",
+     "Cada Guardián lleva además un carbón frío del borde. Si alguna vez se siente tibio en el bolsillo, el Guardián da aviso antes de hacer cualquier otra cosa."
+    ]
+   },
+   {
+    "title": "Los puestos",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Puesto",
+      "Dónde",
+      "Lo que se guarda ahí"
+     ],
+     "rows": [
+      [
+       "El Labio",
+       "El borde de la gran caldera",
+       "El puesto más viejo. Los Guardianes hacen ahí una noche en pareja, y no hablan."
+      ],
+      [
+       "Las Campanadas",
+       "El Bosque de Vidrio, sobre Caída Eterna",
+       "Donde se toma el Conteo. Los árboles de obsidiana suenan con cada temblor, y los Guardianes cuentan el sonar como alientos."
+      ],
+      [
+       "La [[Escalera Negra|Black Stair]]",
+       "La boca de los [[Caminos de Brasa|Ember Roads]]",
+       "Puesto en el 172 EC, cuando los excavadores de Darlath rompieron el muro. Vigila lo que sube además de lo que se mueve abajo."
+      ],
+      [
+       "El [[Pozo Caliente|Hot Well]]",
+       "Los manantiales de arena negra",
+       "Donde se lee el agua. Un manantial que corre un grado más caliente se anota en el libro."
+      ]
+     ],
+     "caption": "Dónde hacen guardia los Guardianes"
+    }
+   },
+   {
+    "title": "El pleito con las minas",
+    "paragraphs": [
+     "La Krysta más rica de la isla está en la roca honda, justo encima del lecho del Emperador. Las minas de Darlath la cortan para las refinerías del [[Corazón|Heartland]]. Los Guardianes dicen que cada pozo es un golpe en la puerta de un durmiente, y se oponen a la excavación con una furia que las casas mineras no perdonan.",
+     "En el 172 EC los excavadores rompieron un muro hacia los Caminos de Brasa, los tubos de lava que bajan hacia [[Abajo|Below]]. Los Guardianes pusieron un puesto nuevo en la brecha esa misma semana, y nadie les ha dado las gracias."
+    ]
+   },
+   {
+    "title": "La Vigilia de la Brasa",
+    "paragraphs": [
+     "El 5 de Okram toda la orden pasa la noche despierta, en el borde y en cada puesto, mientras la isla de abajo hace una fiesta por un año más en que el Emperador no despertó. Cerca del alba los Guardianes cantan treinta nombres. A los de afuera no se les dice de quiénes son."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "El Conteo lleva un mes mal. Alguien hace sonar el Bosque de Vidrio de noche con un martillo, y los Guardianes quieren saber quién gana si se cierran las minas.",
+     "Sonaron dos campanas, y el capataz de Darlath les prohibió a los Guardianes entrar a la boca del pozo. La Primera Guardiana quiere testigos que no trabajen para ninguno de los dos lados.",
+     "El carbón frío de un Guardián se entibió en una taberna de [[Ventoro|Goldwind]], a tres días de navegación de la montaña.",
+     "A una novicia la mandaron al Labio para su primera noche y bajó al alba sabiéndose de memoria los treinta nombres. Nadie se los había enseñado."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Un personaje cindren puede ser un Guardián enviado lejos a vigilar algo. Decide qué, y quién lee tus informes.",
+     "Los Guardianes conocen los senderos de la montaña mejor que cualquier guía a sueldo, y te suben gratis si bajas una pizarra.",
+     "No hagas chistes sobre las campanas en Caída Eterna."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "La Firmeza, el concurso cindren de mantener el brillo parejo mientras tus amigos te insultan, empezó como un entrenamiento de los Guardianes.",
+     "El libro del Conteo nunca se ha saltado un día. En una página el número está escrito con letra de niño.",
+     "Los lagartos de fuego no cruzan el borde una noche en que el Conteo está alto. Los Guardianes tienen unos cuantos por eso."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay una página del libro del Conteo del 133. El número que tiene es cero. Contuvo el aliento un día entero, y nadie quiere decir qué estaba pasando en la caldera.” (un soplador de vidrio de Caída Eterna)",
+     "“Las casas mineras tienen su propio conteo. Es más bajo. Para eso pagan.” (un capataz de turno de Darlath)",
+     "“El carbón de la Primera Guardiana lleva un año tibio. No ha tocado nada. Está esperando estar segura.” (una novicia, fuera de servicio)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyB0cmVpbnRhIG5vbWJyZXMqKiBxdWUgbG9zIFtbR3VhcmRpYW5lc3xXYXJkZW5zXV0gY2FudGFuIGVuIGxhIFtbVmlnaWxpYXxWaWdpbF1dIHNvbiBsb3MgW1tUcmVpbnRhIGRlIGxhIENhbGRlcmF8VGhpcnR5IG9mIHRoZSBDYWxkZXJhXV06IHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSwgeSBzdSBwcm9waWEgZ3XDrWEsIHF1ZSB2b2x2acOzIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gTGEgcMOhZ2luYSBjb24gZWwgY2VybyBlcyBlc2UgZMOtYS4iLCAiKipMb3MgVHJlaW50YSBkZSBsYSBDYWxkZXJhICgxMzMgRUMpLioqIFVuYSB0cmlwdWxhY2nDs24gZGUgT3JvIGRlIGxhIFtbTG9naWF8TG9kZ2VdXSBkZSBbW1ZlbnRvcm98R29sZHdpbmRdXSwgdmVpbnRpbnVldmUgQ2F6YWRvcmVzIHkgdW5hIGd1w61hIGRlIGxvcyBHdWFyZGlhbmVzIGRlIENlbml6YSwgYmFqw7MgYSBsYSBjYWxkZXJhIG1pZW50cmFzIEtha2FuS2FsIGRvcm3DrWEuIFNvbG8gdm9sdmnDsyBsYSBndcOtYSwgeSBudW5jYSB2b2x2acOzIGEgaGFibGFyLiBLYWthbkthbCBubyBkZXNwZXJ0w7MuIEVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyByZXRpcmFkbyBwb3IgbGEgSnVudGEuIiwgIioqTGFzIG1pbmFzIHRpZW5lbiByYXrDs24gZW4gdW5hIGNvc2EuKiogTGEgcmVzcGlyYWNpw7NuIGRlbCBFbXBlcmFkb3Igbm8gaGEgY2FtYmlhZG8gZW4gY3VhcmVudGEgYcOxb3MuIExvIHF1ZSBoYSBjYW1iaWFkbyBzb24gbG9zIFtbQ2FtaW5vcyBkZSBCcmFzYXxFbWJlciBSb2Fkc11dOiBkZXNkZSBlbCAxNzIgbGFzIGNhbXBhbmFkYXMgdGFtYmnDqW4gc3VlbmFuIHBvciBsbyBxdWUgc2UgbXVldmUgZW4gbG9zIHR1Ym9zLCB5IGxvcyBHdWFyZGlhbmVzIGhhbiBlc3RhZG8gY29udGFuZG8gaW5jdXJzaW9uZXMgZHJvdyBjb21vIGFsaWVudG9zIHNpbiBzYWJlcmxvLiJdfQ=="
+   }
+  ],
+  "title": "Los Guardianes de Ceniza"
  }
 }
