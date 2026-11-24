@@ -28315,5 +28315,312 @@
    }
   ],
   "title": "Los orka"
+ },
+ "long-war": {
+  "gloss": "The Long War",
+  "aliases": [
+   "la guerra con el Imperio",
+   "Guerra Larga",
+   "la Guerra Larga",
+   "Leva del Frente",
+   "la Leva del Frente",
+   "Llamado de la Carta",
+   "el Llamado de la Carta",
+   "Registro del Castellano",
+   "el Registro del Castellano",
+   "nudo de tiza",
+   "Parte del Regreso",
+   "Conteo de Quillas",
+   "quilla oscura"
+  ],
+  "subtitle": "La guerra de la que las islas se fueron navegando, y que todavía pagan",
+  "summary": "Al norte del estrecho, el Imperio Korvan y la Alianza llevan en guerra casi mil años. El Consejo de las Islas Cartografiadas no es parte de ella. Las casas nobles sí, y cada año votan cuántos de los suyos mandan.",
+  "epigraph": {
+   "quote": "Nosotros nos fuimos de la guerra. Nadie se lo dijo a la guerra.",
+   "by": "Una sargento Faust, de vuelta de su segundo turno"
+  },
+  "facts": [
+   [
+    "Entre",
+    "el [[Imperio Korvan|Korvan Imperium]] y la [[Alianza|Alliance]]"
+   ],
+   [
+    "Dónde",
+    "el Frente, de lado a lado del centro de Assios"
+   ],
+   [
+    "Cuánto tiempo",
+    "casi mil años"
+   ],
+   [
+    "La parte del Consejo",
+    "ninguna, oficialmente"
+   ],
+   [
+    "La parte de las casas",
+    "la [[Leva del Frente|Front Levy]], votada en cada [[Asamblea de las Banderas|Moot of Banners]]"
+   ],
+   [
+    "Un turno en el Frente",
+    "dos años"
+   ],
+   [
+    "La Leva del 175 EC",
+    "unos 4,100 soldados y dieciséis barcos de guerra"
+   ],
+   [
+    "Cómo llegar",
+    "quince días subiendo por la [[Ruta de la Corona|Crown Route]] hasta Castia"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Una guerra más vieja que la Carta",
+    "paragraphs": [
+     "Assios es el continente al norte de las islas. Hace mil quinientos años el Imperio Korvan salió de su norte y tomó la mitad. Todos los que no tomó se juntaron para detenerlo, y los dos han peleado desde entonces por la misma franja de tierra.",
+     "Las grandes casas de Kalvatar son las familias que salieron. Cruzaron el estrecho en el [[Éxodo|Exodus]], y casi todas siguen teniendo juramentos con la Alianza más viejos que la Carta. Un isleño puede pasar la vida sin ver la guerra. Un isleño con apellido noble crece sabiendo qué primo está en el Frente este año."
+    ]
+   },
+   {
+    "title": "Los tres bandos",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Bando",
+      "Quiénes son"
+     ],
+     "rows": [
+      [
+       "El [[Imperio|Imperium]]",
+       "Un trono, un credo, un ejército. Gobierna el norte desde Korvantis y ha pasado cada año desde su fundación tratando de tomar el resto."
+      ],
+      [
+       "La Alianza",
+       "Todos los demás: los [[Principados|Principalities]], las [[Baronías de Oslirion|Oslirion Baronies]] y la [[Liga de las Ciudades Libres|League of the Free Cities]]. Detuvieron juntos al Imperio y desde entonces nunca han terminado de confiar unos en otros. Nadie le pone un nombre más grandioso, porque cada miembro querría que su nombre fuera primero."
+      ],
+      [
+       "La tierra neutral",
+       "Berith, la escuela flotante sobre el Frente; los enanos de Abraneth, que les venden acero a los dos bandos; y Velkhaven, la ciudad de los espías. Les venden a todos y todos los necesitan."
+      ]
+     ],
+     "caption": "Quién pelea"
+    }
+   },
+   {
+    "title": "El Frente",
+    "paragraphs": [
+     "El Frente no es una línea. Es una franja de tierra arruinada de cien leguas de fondo, del mar del oeste a los bosques de Amalor: trincheras tapadas por la hierba y vueltas a cavar, fuertes construidos sobre los huesos de fuertes más viejos, y pueblos que han cambiado de manos tantas veces que su gente responde a dos nombres. La guerra se mueve unas pocas millas en una generación. Casi toda la gente que muere en ella nunca ve al enemigo."
+    ],
+    "list": [
+     "Los pueblos fortaleza son los únicos pueblos. Cada uno defiende un camino, un vado o una colina, y cada uno tiene una guarnición, una capilla, un mercado y un cementerio más grande que el pueblo.",
+     "La [[Hueste de Hierro|Iron Host]] ataca en primavera, cuando se seca la tierra. La Alianza contraataca en otoño, antes de las lluvias. El invierno es de las incursiones, y de los lobos.",
+     "El [[Cruce del Acebo|Hollin’s Cross]] es el pueblo fortaleza que la Hueste tomó en el 172 EC y sostuvo durante un invierno, hasta que la caballería de Asteroth lo recuperó en la primavera.",
+     "Gael Dunlur es una ciudad muerta en medio de la franja. Ha cambiado de manos más veces de las que nadie ha contado. Ahora ningún bando la tiene. Los dos mandan patrullas, y las patrullas no siempre vuelven.",
+     "Las compañías libres pelean por quien pague esta temporada. Una espada de la [[Frontera|Frontier]], un artillero galven o una tripulación de Cazadores entre contratos puede ganar ahí más en una temporada que en tres años en casa, si vive."
+    ]
+   },
+   {
+    "title": "Su medida",
+    "paragraphs": [
+     "Los isleños tienden a pensar en el Imperio como una flota del otro lado del estrecho. Estos son los números que la Armada les enseña a sus oficiales."
+    ],
+    "table": {
+     "headers": [
+      "",
+      "El Imperio",
+      "La Alianza",
+      "Las islas"
+     ],
+     "rows": [
+      [
+       "Gente",
+       "unos cien millones",
+       "unos ochenta millones",
+       "unos tres millones setecientos mil"
+      ],
+      [
+       "En armas",
+       "unos tres millones",
+       "casi lo mismo, bajo una docena de estandartes",
+       "la Armada, y unas 24,500 tropas de las casas de los Veinte"
+      ],
+      [
+       "Barcos de guerra",
+       "unos 2,500, doscientos de ellos acorazados",
+       "las armadas de Soleda y de las [[Ciudades Libres|Free Cities]]",
+       "unos 300 en la Armada, 84 de ellos de las casas"
+      ]
+     ],
+     "caption": "Los tres poderes, en números redondos"
+    }
+   },
+   {
+    "title": "Por qué nadie ha ganado",
+    "paragraphs": [
+     "La Alianza es casi del tamaño del Imperio, y tiene dos cosas que el Imperio no puede hacer: magos de guerra, y la Krysta que los alimenta. La Krysta viene de las islas. Va al norte por la [[Puerta|Gate]] de [[Fuerte de Hierro|Ironfort]], y el Imperio trata cada temporada de detenerla.",
+     "Ese es el peso verdadero de las islas en la guerra. Los soldados que mandan las casas son una gota en ese mar. El cristal no."
+    ]
+   },
+   {
+    "title": "Por qué no ha bajado al sur",
+    "paragraphs": [],
+    "list": [
+     "Casi toda la Hueste de Hierro está retenida en el Frente, y casi toda la [[Flota de Hierro|Iron Fleet]] por las armadas de Soleda y de las Ciudades Libres.",
+     "La [[Costa de Tiza|Chalk Coast]], la orilla que mira hacia Fuerte de Hierro, es acantilado blanco sin un solo puerto. Ningún ejército la ha cruzado nunca.",
+     "El único camino de mar es la Ruta de la Corona, que corre contra la [[Corriente de la Corona|Crown Current]] hasta Castia, un puerto de la Alianza.",
+     "La [[Segunda Flota|Second Fleet]] de la Armada, el [[Bloqueo de Hierro|Iron Blockade]], espera al pie de ella. Los acorazados nunca han bajado al sur del estrecho."
+    ]
+   },
+   {
+    "title": "El Consejo no está en guerra",
+    "paragraphs": [
+     "El [[Consejo|Council]] de las [[Islas Cartografiadas|Charted Isles]] nunca le ha declarado la guerra al Imperio. Su Armada guarda el estrecho y detiene a los barcos de guerra imperiales y al contrabando, pero a un barco que viene como diplomático con el salvoconducto del Consejo se lo deja pasar. Cinco barcos del [[Reconocimiento del Sur|Southern Survey]] están fondeados frente a Fuerte de Hierro con esas condiciones desde el 171 EC, y la nobleza lo protesta en cada Asamblea.",
+     "Las casas sí están en guerra, con sus propios hombres, barcos, moneda y Krysta, bajo sus propios estandartes. Son la única parte de Kalvatar que lo está.",
+     "Lo que la nobleza nunca ha hecho es pedirle al Consejo que la declare. Una guerra declarada traería el [[Llamado de la Carta|Charter Call]], y el Llamado pondría cada barco de guerra de las casas bajo las órdenes de un Almirante. Las casas prefieren pelear contra el Imperio por su cuenta antes que entregarle sus flotas al Consejo para que lo haga."
+    ]
+   },
+   {
+    "title": "La Leva del Frente",
+    "paragraphs": [
+     "El último gran asunto de cada Asamblea de las Banderas es la Leva del Frente: cuántos soldados y barcos, y cuánta moneda y Krysta, manda cada casa al norte para el año que viene. Las compañías zarpan en la [[Primera Vela|First-Sail]] de Ezra, por la Ruta de la Corona con barcos de guerra de las casas de escolta, y sirven bajo mando de la Alianza y sus propios estandartes."
+    ],
+    "table": {
+     "headers": [
+      "Casa",
+      "Lo que mandó"
+     ],
+     "rows": [
+      [
+       "Faust",
+       "unos 2,000 soldados, la parte más grande, y cuatro barcos de guerra"
+      ],
+      [
+       "Vanris",
+       "unos 400 infantes de marina y seis barcos de guerra"
+      ],
+      [
+       "Vol Kaern, [[Corascua|Emberheart]], Quillane",
+       "unos 300 cada uno; los de Corascua con una batería de cañones largos"
+      ],
+      [
+       "Varselis",
+       "unos 200"
+      ],
+      [
+       "Caelvaron",
+       "unos 150 arqueros del [[Bosque Antiguo|Elderwood]]"
+      ],
+      [
+       "[[Forjasol|Sunforge]], Holst, Solenne, Kaldmark",
+       "unos 100 cada uno: armeros, soldados, sanadores y huscarles"
+      ],
+      [
+       "[[Tejetormentas|Stormweaver]]",
+       "treinta magos de la tormenta, a los que la Alianza pide por su nombre"
+      ],
+      [
+       "Alastor",
+       "doce [[Caballeros de la Rosa Pálida|Knights of the Pale Rose]], y la bolsa más grande"
+      ],
+      [
+       "El resto",
+       "moneda, cartas, información, Krysta y, de la Casa Veldane, un regalo de bodas para cada compañía que zarpa"
+      ]
+     ],
+     "caption": "La Leva del 175 EC"
+    }
+   },
+   {
+    "title": "Un turno en el Frente",
+    "paragraphs": [
+     "Un soldado de la leva sirve un turno de dos años y vuelve a casa con el convoy de otoño. Las casas han tenido ciento setenta y cinco años para construir costumbres alrededor de eso."
+    ],
+    "list": [
+     "El [[nudo de tiza|chalk knot]]. Un soldado que ha cruzado más allá de la Costa de Tiza y ha vuelto lleva un cordón blanco en el hombro izquierdo, con un nudo por cada turno. Tres nudos es lo más que casi nadie llega a ver.",
+     "La primera copa. En cualquier taberna de la Frontera, el primer trago de la noche es gratis para un nudo de tiza. Nadie lo escribió. Intenta cobrarlo.",
+     "La [[Parte del Regreso|Return Share]]. Si un soldado de la leva no vuelve a casa, la casa le paga a la familia tres años del sueldo del soldado. Una casa que se atrasa con una Parte del Regreso se entera en la siguiente Asamblea, por su nombre, en voz alta.",
+     "La lista. Los muertos de cada compañía se leen en la Primera Vela, en el muelle, antes de que embarque la compañía nueva. La compañía nueva responde ‘a bordo’ por cada nombre.",
+     "Las compañías llevan el nombre del muelle del que zarparon, nunca el de la casa: el [[Malecón de Bastión|Bastion Mole]], las [[Escaleras de Puertoquilla|Keelhaven Stairs]], la [[Luz de Puerto Gris|Greyhaven Light]]."
+    ]
+   },
+   {
+    "title": "El Registro del Castellano",
+    "paragraphs": [
+     "Cada barco de guerra que tiene una casa se anota por su nombre ante el [[Señor Castellano|Lord Castellan]] de la Armada, hoy Edran Holst. El Registro es como los muelles saben cuántos cascos armados tiene cada casa."
+    ],
+    "list": [
+     "Una entrada da el nombre del barco, su muelle de origen, el largo de su quilla, sus cañones y su capitán.",
+     "Una vez al año los escribientes del Señor Castellano recorren cada muelle de las casas y cuentan. Los muelles lo llaman el [[Conteo de Quillas|Count of Keels]].",
+     "Un casco armado que no está en el Registro es una [[quilla oscura|dark keel]]. La Armada puede tomarlo apenas lo ve, y la casa que era dueña no tiene ningún reclamo.",
+     "Un mercante no es un barco de guerra, y no hace falta anotarlo. Muchos mercantes de las casas tienen abiertas más troneras de las que pide un cargamento de lana.",
+     "Los Veinte tienen entre todos 84 barcos de guerra en el Registro. Vanris tiene la mayor cantidad, veinticuatro. Los cuatro cúteres de la propia Casa Holst están anotados de puño y letra de un Holst, y las otras casas lo han notado."
+    ]
+   },
+   {
+    "title": "El Llamado de la Carta",
+    "paragraphs": [
+     "La Carta le da al Consejo un solo poder sobre las flotas de las casas. En una guerra que declare el Consejo, cada barco de guerra del [[Registro del Castellano|Castellan’s Register]] pasa a mando de la Armada, con su tripulación, hasta que termine la guerra.",
+     "Nunca se ha hecho. Las [[Fauces del Kraken|Kraken’s Maw]] las peleó la [[Gran Coalición|Grand Coalition]], que no es una guerra declarada: cada casa eligió qué mandar, y algunas mandaron muy poco. Los capitanes de los dos lados de esa discusión todavía dicen que el Llamado habría terminado la batalla un día antes, o la habría perdido.",
+     "Nadie vivo sabe cómo sería un Llamado. Las órdenes están selladas en el [[Almirantazgo|Admiralty]], y cada casa guarda su propia respuesta sellada."
+    ]
+   },
+   {
+    "title": "Lo que baja al sur",
+    "paragraphs": [],
+    "list": [
+     "Refugiados: unos cientos al año por la Puerta, y más por [[Puerto Negro|Black Harbor]], donde nadie cuenta.",
+     "Veteranos de las compañías libres, con dinero, cicatrices y costumbres.",
+     "Korvan, el oro del Imperio, en las mesas de balanza de Fuerte de Hierro.",
+     "Desertores, algunos de ellos dracónidos con marcas de puntadas donde antes había una insignia.",
+     "Panfletos de la [[Corona Devuelta|Returned Crown]] que nadie admite imprimir.",
+     "Noticias, de quince días de viejas en el mejor de los casos, que se venden por línea en el muelle de Fuerte de Hierro."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un reclutador de una Ciudad Libre en Fuerte de Hierro ofrece paga doble a las tripulaciones que sepan navegar y disparar. El contrato no dice de qué lado del Frente va a estar el barco.",
+     "Una madre de la Frontera quiere que le traigan a su hijo de una compañía libre. Él no quiere volver.",
+     "El Conteo de Quillas encontró una fragata de una casa con dos nombres en dos puertos. El Señor Castellano quiere saber cuál entrada es la mentira antes de que se entere la Asamblea.",
+     "Una Parte del Regreso lleva tres años sin pagarse, porque la casa jura que el soldado está vivo. La familia quiere que alguien vaya al Frente a averiguarlo.",
+     "Un hombre está bebiendo gratis con un nudo de tiza en [[Bastión|Bastion]], y una sargento que sirvió esos dos turnos no lo había visto nunca."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Un personaje con un nudo de tiza tiene un pasado, una compañía y una casa que le debe algo. Decide las tres cosas.",
+     "La manera más rápida de saber qué piensa un noble del Consejo es mencionar el Reconocimiento del Sur.",
+     "El pasaje al norte paga el [[Diezmo de la Puerta|Gate-Tithe]] en Fuerte de Hierro, una [[Marea|Tide]] por cada [[Ancla|Anchor]] del pasaje. Puerto Negro es para la gente que prefiere que no la cuenten.",
+     "Ningún no humano pisa tierra imperial y sale libre. Planea la ruta en consecuencia."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "El Imperio cuenta sus años desde el día en que salió del norte. El 175 EC es su [[Año del Sol|Year of the Sun]] 1,507.",
+     "La Alianza pide por su nombre a los magos de la tormenta de [[Puerto Gris|Greyhaven]], treinta al año, y nunca le han mandado treinta y uno.",
+     "La Casa Veldane no manda soldados. Manda un regalo de bodas para cada compañía que zarpa, con la teoría de que alguien tiene que dar por hecho que van a volver."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay un barco en el Registro que nadie ha visto en cuarenta años. Lo cuentan todos los años. Alguien firma por él.” (un Escribiente Gris de Marcapeaje)",
+     "“Les leen el Llamado de la Carta a los Almirantes una vez al año detrás de una puerta cerrada, para que alguien recuerde las palabras. Un año un Almirante preguntó qué pasa si una casa dice que no. Nadie le contestó.” (un mayordomo de la Armada)",
+     "“Las campanas de Gael Dunlur suenan solas la noche antes de cada gran batalla. Mi compañía las oyó dos veces. Solo estuvimos en una batalla.” (un veterano de tres nudos)",
+     "“La mitad de la Krysta que va al norte nunca llega a la Alianza. Pregunta quién está comprando la otra mitad.” (un escribiente de las mesas de balanza de Fuerte de Hierro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkphbnVzIFJ1bmUgZXMgdW5vIGRlIGxvcyBiYXN0YXJkb3MgZGVsIEVtcGVyYWRvci4qKiBBIFRoYW4gU29sIFZhbCBTZW5yaWsgbG8gY3JpYXJvbiBlbiBlbCBbW1BhbGFjaW8gTWF1ZGFufE1hdWRhbiBQYWxhY2VdXSB5IGxvIGVudHJlbsOzIGxhIElucXVpc2ljacOzbiwgeSBsZSByZXNwb25kZSBhIEtlc3RyaWFuLCBlbCBbW1PDqXB0aW1vIFJheW98U2V2ZW50aCBSYXldXS4gUXVpZXJlIHF1ZSBsbyBsZWdpdGltZW4sIHkgY3JlZSBxdWUgdW5hIEthbHZhdGFyIHJvdGEgZXMgZWwgcmVnYWxvIHF1ZSBzZSBsbyB2YSBhIGdhbmFyLiIsICIqKkVsIEVtcGVyYWRvciBzZSBlc3TDoSBtdXJpZW5kbywqKiB5IHlhIGVsaWdpw7MuIFRoZW9tYXIgVm9sIFN1bmVzc2kgdGllbmUgc2V0ZW50YSB5IHVuIGHDsW9zLiBFbCBub21icmUgZGUgc3UgaGVyZWRlcm8gZXN0w6Egc2VsbGFkbyBlbiBlbCBQYWxhY2lvIE1hdWRhbiwgYmFqbyBsYSBjdXN0b2RpYSBkZWwgR3JhbiBJbnF1aXNpZG9yLCB5IG5vIGVzIHVubyBxdWUgZXNwZXJlIG5pbmd1bm8gZGUgbG9zIGRvY2UgUmF5b3MuIiwgIioqRWwgW1tOb3Zlbm8gUmF5b3xOaW50aCBSYXldXSBubyBtdXJpw7MgZW4gZWwgW1tDcnVjZSBkZWwgQWNlYm98SG9sbGlu4oCZcyBDcm9zc11dLioqIEEgSXZyZW4gbGUgb3JkZW5hcm9uIHF1ZW1hciBlbCBwdWVibG8gY29uIHN1IGdlbnRlIGFkZW50cm8uIFNlIG5lZ8OzLCB5IHNlIGZ1ZSBjYW1pbmFuZG8gZW50cmUgZWwgaHVtby4gQ3J1esOzIGVsIGVzdHJlY2hvIGVuIFtbUHVlcnRvIE5lZ3JvfEJsYWNrIEhhcmJvcl1dIHkgdml2ZSBlbiBsYXMgaXNsYXMgY29tbyBIYWwgUmVzc2ljaywgY29jaW5lcm8gZGUgdW5hIHRyaXB1bGFjacOzbiBkZSBDYXphZG9yZXMgZGUgQnJvbmNlLiBKYW51cyBSdW5lIGxvIGVzdMOhIGJ1c2NhbmRvLiBUYW1iacOpbiwgcG9yIHJhem9uZXMgbXV5IGRpc3RpbnRhcywgc3UgaGVybWFuYSBWZWxhbnRoYSwgZWwgW1tTZXh0byBSYXlvfFNpeHRoIFJheV1dLiIsICIqKkxvIHF1ZSBxdWllcmVuIGxvcyBSYXlvcyBkZSBsYXMgaXNsYXMuKiogS2VzdHJpYW4gcXVpZXJlIGVudHJlZ2FyIEthbHZhdGFyIGFudGVzIGRlbCBub21icmFtaWVudG8sIGNvbW8gcHJ1ZWJhIGRlIHF1ZSBzdSBwb2zDrXRpY2EgZnVuY2lvbmEsIHkgdmEgYSBlbXB1amFyIGEgSmFudXMgUnVuZSBhIGhhY2VyIGFsZ28gcnVpZG9zby4gVmVsYW50aGEgcXVpZXJlIHF1ZSBlbmN1ZW50cmVuIGEgSXZyZW4gdml2bywgeSBzZSB2YSBhIGFsaWFyIGNvbiBjdWFscXVpZXJhIHF1ZSBwdWVkYSBoYWNlcmxvLCBpc2xlw7FvcyBpbmNsdWlkb3MuIElzZW1iZXRoIHF1aWVyZSBlbCBlc3RyZWNobyBjYXJ0b2dyYWZpYWRvIHBhcmEgZWwgZMOtYSBlbiBxdWUgbG9zIGFjb3JhemFkb3MgYmFqZW4gYWwgc3VyLiIsICIqKkN1YW5kbyDDqWwgbXVlcmEqKiBsb3MgUmF5b3Mgc2UgdmFuIGEgaXIgYSBsYSBndWVycmEsIHByaW1lcm8gZW4gbGEgY29ydGUgeSBkZXNwdcOpcyBlbiB0b2RhcyBwYXJ0ZXMuIExhcyBpc2xhcyBsbyB2YW4gYSBzZW50aXIgY29tbyBtw6FzIGtvcnZhbiBlbiBsYSBbW1Jlc2FjYXxVbmRlcnRvd11dLCB1biBKYW51cyBSdW5lIG3DoXMgcnVpZG9zbyB5IHJlZnVnaWFkb3MgZW4gY2FudGlkYWQuIFVuIFtbSW1wZXJpb3xJbXBlcml1bV1dIGVuIGd1ZXJyYSBjb25zaWdvIG1pc21vIG5vIHB1ZWRlIGVzdGlyYXJzZSBoYWNpYSBlbCBzdXIuIEFsZ3Vub3MgZW4gZWwgW1tDb25zZWpvfENvdW5jaWxdXSB2YW4gYSBxdWVyZXIgYXByb3ZlY2hhcmxvLiBBbGd1bm9zIHZhbiBhIHF1ZXJlciBpbnZpdGFyIGEgZW50cmFyIGEgdW5vIGRlIGxvcyBSYXlvcy4iLCAiKipDb3J2YW5lIGxlZSBlbCBjb3JyZW8uKiogTGEgY2FzYSBDb3J2YW5lIGxlZSBsYSBjb3JyZXNwb25kZW5jaWEgZGVsIFtbQ29yYXrDs258SGVhcnRsYW5kXV0gcGFyYSBsYXMgW1tDYXNhY2FzIE5lZ3Jhc3xCbGFjayBDb2F0c11dIHkgbGUgdmVuZGUgZWwgcmVzdG8gYSBsYSBbW01hZGVqYXxTa2Vpbl1dLiBKYW51cyBSdW5lIHRpZW5lIHVuIGhvbWJyZSBhIGJvcmRvIGRlbCAqW1tEZXVkYSBkZSBsYSBHb2xvbmRyaW5hfFN3YWxsb3cncyBEZWJ0XV0qIHF1ZSBpbmZvcm1hIGRlIGNhZGEgY2FydGEgcXVlIHRvY2EgYWwgQ29uZ3Jlc28uIiwgIioqSmFudXMgUnVuZSBmaW5hbmNpYSBhIGxhIFtbTGVnacOzbnxMZWdpb25dXS4qKiBFbCBjb2ZyZSBkZSBndWVycmEgZGUgbGEgW1tMZWdpw7NuIENhcm1lc8OtfENyaW1zb24gTGVnaW9uXV0gZXMgaW1wZXJpYWwuIExhIG1heW9yw61hIGRlIHN1cyBzb2xkYWRvcyBzb24gc2luY2Vyb3MsIHkgbGEgbWF5b3LDrWEgbm8gdGllbmUgaWRlYSBkZSBxdWUgc3UgZGluZXJvIHZpZW5lIGRlbCBhZ2VudGUgZGVsIEltcGVyaW8uIExvcyBqZWZlcyBkZSBsYSBMZWdpw7NuIGxvIHNhYmVuLCB5IGxlcyBoYW4gZGljaG8gcXVlIGVzZSBkaW5lcm8gY29tcHJhcsOhIGFsIGZpbmFsIGxhIGxpYmVydGFkIGRlbCBzdXIuIiwgIioqSmFudXMgUnVuZSBxdWllcmUgdW4gVHJhbnNmb3JtYWRvLioqIEVsIGFnZW50ZSBkZWwgSW1wZXJpbyBsZSBoYSBvZnJlY2lkbyB1bmEgZm9ydHVuYSBhIGN1YWxxdWllciB0cmlwdWxhY2nDs24gZGUgbGEgW1tWaWdpbGlhfFZpZ2lsXV0gcXVlIHB1ZWRhIGVudHJlZ2FyIGVuIEFzc2lvcyBhIHVuIFRyYW5zZm9ybWFkbyB2aXZvLiBFbCBUcmFuc2Zvcm1hZG8gc2UgdXNhcsOtYSBwYXJhIGVzdHVkaWFyIGxhIFtbU2FuZ3LDrWF8QmxlZWRdXSwgeSBwYXJhIGhhY2VyIHVuYSBTYW5ncsOtYSBudWV2YSwgcHJvcGlhIGRlbCBJbXBlcmlvLiBFbCBob21icmUgZGUgSmFudXMgUnVuZSB2YSBhIGJvcmRvIGRlbCBwcm9waW8gY29udm95IGRlIHN1bWluaXN0cm9zIGRlIGxhIFZpZ2lsaWEuIiwgIioqTGEgZ3VlcnJhIGVuIGVsIDE3NSBFQywgeSBsbyBxdWUgdmllbmUqKiIsICIqU29sbyBwYXJhIGVsIERpcmVjdG9yIGRlIEp1ZWdvLiBTZWNyZXRvcyBkZSBwcmluY2lwaW8gYSBmaW4uKiIsICIqKkPDs21vIGVzdMOhbiBsYXMgY29zYXMqKiIsICIqKkVsIGVzdGFuY2FtaWVudG8gc2Ugc29zdGllbmUqKiBzb2JyZSBsYSBLcnlzdGEuIExhIEtyeXN0YSByZWdpc3RyYWRhIGRlIGxhcyBpc2xhcyB2YSBhbCBub3J0ZSBwb3IgbGEgW1tQdWVydGF8R2F0ZV1dIGhhY2lhIEFobGdhbW9yYSwgeSBlbCBJbXBlcmlvIHRyYXRhIGNhZGEgdGVtcG9yYWRhIGRlIGRldGVuZXJsYS4iLCAiKipFbCBGcmVudGUgc2UgbW92acOzKiogZW4gZWwgMTcyIEVDLCBjdWFuZG8gZWwgVW5kw6ljaW1vIFJheW8sIE9uZGVzc2EsIHRvbcOzIGVsIENydWNlIGRlbCBBY2Viby4gQXN0ZXJvdGggbG8gcmVjdXBlcsOzIGVuIGxhIHByaW1hdmVyYSBkZWwgMTczLiIsICIqKkVsIE5vdmVubyBSYXlvIGRlc2FwYXJlY2nDsyoqIGVuIGxhIG1pc21hIGNhbXBhw7FhLiIsICIqKkxvcyByZWZ1Z2lhZG9zKiogc2lndWVuIGJhamFuZG8gYWwgc3VyOiB1bm9zIGNpZW50b3MgYWwgYcOxbyBwb3IgbGEgUHVlcnRhLCBtw6FzIHBvciBQdWVydG8gTmVncm8uIiwgIioqRWwgRW1wZXJhZG9yIHNlIGVzdMOhIG11cmllbmRvLCoqIHkgc3VzIGRvY2UgaGlqb3MgeWEgZXN0w6FuIGVsaWdpZW5kbyBiYW5kb3MuIiwgIioqTGEgc3VjZXNpw7NuLCBjdWFuZG8gbGxlZ3VlKioiLCAiTGEgbXVlcnRlIGRlIFRoZW9tYXIgVm9sIFN1bmVzc2kgZXMgZWwgcmVsb2ogZGUgZXN0ZSB2b2x1bWVuLiBIYXN0YSBxdWUgbm9tYnJlIGEgc3UgaGVyZWRlcm8sIGxvcyBSYXlvcyBzZSByb25kYW47IGN1YW5kbyBsbyBub21icmUsIHNlIHZhbiBhIGlyIGEgbGEgZ3VlcnJhLCBwcmltZXJvIGVuIGxhIGNvcnRlIHkgZGVzcHXDqXMgZW4gdG9kYXMgcGFydGVzLiIsICIqKkFyZHJpYyoqIHRlbmRyw6EgYSBsYSBIdWVzdGUgZGV0csOhcy4iLCAiKipWZXNzYWxpbmUqKiB0ZW5kcsOhIGxhIGJvbHNhIHkgbGFzIGNhcnRhcyBkZSBsb3MgdHJlcyBiYXJvbmVzLiIsICIqKkRyYWVnYW4qKiB0ZW5kcsOhIGxhIElucXVpc2ljacOzbiwgc2kgR2hyYWwgbG8gcGVybWl0ZS4iLCAiKipLZXN0cmlhbioqIHZhIGEgcXVlcmVyIGVudHJlZ2FyIEthbHZhdGFyIGFudGVzIGRlbCBub21icmFtaWVudG8sIGNvbW8gcHJ1ZWJhIGRlIHF1ZSBzdSBwb2zDrXRpY2EgZnVuY2lvbmEsIHkgdmEgYSBlbXB1amFyIGEgSmFudXMgUnVuZSBhIGhhY2VyIGFsZ28gcnVpZG9zby4iLCAiKipWZWxhbnRoYSoqIHZhIGEgcXVlcmVyIHF1ZSBlbmN1ZW50cmVuIGEgSXZyZW4sIHZpdm8sIHkgdmEgYSBoYWNlciB1bmEgYWxpYW56YSBjb24gY3VhbHF1aWVyYSBxdWUgcHVlZGEgaGFjZXJsbywgaXNsZcOxb3MgaW5jbHVpZG9zLiIsICIqKkVsIG5vbWJyZSBzZWxsYWRvKiogZW4gZWwgUGFsYWNpbyBNYXVkYW4gZXMgbG8gw7puaWNvIHBhcmEgbG8gcXVlIG5pbmd1bm8gZGUgZWxsb3MgdGllbmUgdW4gcGxhbi4iLCAiKipMbyBxdWUgdmFuIGEgc2VudGlyIGxhcyBpc2xhcyoqIiwgIioqTcOhcyBrb3J2YW4qKiBlbiBsYSBSZXNhY2EsIG1pZW50cmFzIGxvcyBSYXlvcyBjb21wcmFuIGFtaWdvcyBlbiBlbCBzdXIuIiwgIioqVW4gSmFudXMgUnVuZSBtw6FzIHJ1aWRvc28sKiogYSBtZWRpZGEgcXVlIGEgS2VzdHJpYW4gc2UgbGUgYWNhYmEgZWwgdGllbXBvLiIsICIqKlJlZnVnaWFkb3MgZW4gY2FudGlkYWQsKiogc2kgbGEgc3VjZXNpw7NuIHNlIHZ1ZWx2ZSBndWVycmEgY2l2aWwuIiwgIioqVW5hIG9wb3J0dW5pZGFkLCoqIHNpIGVzbyBwYXNhOiB1biBJbXBlcmlvIGVuIGd1ZXJyYSBjb25zaWdvIG1pc21vIGVzIHVuIEltcGVyaW8gcXVlIG5vIHB1ZWRlIGVzdGlyYXJzZSBoYWNpYSBlbCBzdXIuIEFsZ3Vub3MgZW4gZWwgQ29uc2VqbyB2YW4gYSBxdWVyZXIgYXByb3ZlY2hhcmxhLiBBbGd1bm9zIHZhbiBhIHF1ZXJlciBpbnZpdGFyIGEgZW50cmFyIGEgdW5vIGRlIGxvcyBSYXlvcy4iLCAiNi4gKipMYXMgbWVzYXMgZGUgYmFsYW56YSBkZSBsb3MgT3N0cmVsIGxhdmFuIG9ybyBpbXBlcmlhbC4qKiBBbGRvdXMgT3N0cmVsIGNvbnZpZXJ0ZSBsb3Mga29ydmFuIGRlICoqSmFudXMgUnVuZSoqIGVuIFtbQW5jbGFzfEFuY2hvcnNdXSBsaW1waWFzOiBlbCBkaW5lcm8gcXVlIGxlIHBhZ2EgYSBsYSBMZWdpw7NuIENhcm1lc8OtLCB5IGVsIGRpbmVybyBxdWUgcGFnYSBsYSB0YWphZGEgZGUgbG9zIFZhbnRyZXkuIE1hcmVuIG5vIGxvIHNhYmUuIEVsIGtvcnZhbiBkZWwgY29mcmUgZGUgcGFnYSBkZSBbW0Jhc3Rpw7NufEJhc3Rpb25dXSBwYXPDsyBwb3IgbGFzIG1hbm9zIGRlIHVuIHBhZ2Fkb3IgZGUgbG9zIE9zdHJlbC4gTG9zIHBhbmZsZXRvcyBkZSBsYSBbW0Nvcm9uYSBEZXZ1ZWx0YXxSZXR1cm5lZCBDcm93bl1dIGRlIEhlZHJpYyBzZSBpbXByaW1lbiBlbiBwYXBlbCBPc3RyZWwsIGVuIHVuYSBpbXByZW50YSBxdWUgcGFnYSBBbGRvdXMuIl19"
+   }
+  ],
+  "title": "La Guerra Larga"
  }
 }
