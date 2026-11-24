@@ -4364,6 +4364,99 @@
    "notes": []
   }
  ],
+ "mirehorn": [
+  {
+   "name": "Mirehorn",
+   "meta": "Large Beast, Unaligned",
+   "top": [
+    [
+     "Armor Class",
+     "11"
+    ],
+    [
+     "Initiative",
+     "−1 (9)"
+    ],
+    [
+     "Hit Points",
+     "42 (5d10 + 15)"
+    ],
+    [
+     "Speed",
+     "30 ft., Swim 20 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "8",
+     "−1"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "2",
+     "−4"
+    ],
+    [
+     "WIS",
+     "11",
+     "+0"
+    ],
+    [
+     "CHA",
+     "5",
+     "−3"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Perception +2"
+    ],
+    [
+     "Senses",
+     "Passive Perception 12"
+    ],
+    [
+     "Languages",
+     "None"
+    ],
+    [
+     "Challenge",
+     "1 (XP 200; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Beast of Burden.** The mirehorn counts as one size larger when determining its carrying capacity.",
+      "**Mud-Footed.** Mud, marsh, and shallow water aren't Difficult Terrain for the mirehorn, or for a cart it hauls.",
+      "**Wary of the Deep.** The mirehorn has Advantage on Wisdom (Perception) checks to notice a Large or larger creature moving in water within 300 feet of it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Gore.** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing damage. The mirehorn gores only when its herd, or the child it carries, is threatened."
+     ]
+    }
+   ],
+   "notes": [
+    "In the south it is called the wallow-ox. A wallow-ox is grey, nearly hairless, and has 59 (7d10 + 21) Hit Points."
+   ]
+  }
+ ],
  "oilfleece-sheep": [
   {
    "name": "Oilfleece Lamb",

@@ -348,7 +348,9 @@
    "monumak",
    "blue-folk",
    "chainbreakers",
-   "brassfield"
+   "brassfield",
+   "mirehorn",
+   "sandpearl"
   ]
  },
  {
@@ -10104,7 +10106,8 @@
   "related": [
    "pocchin",
    "roof-goats",
-   "travel"
+   "travel",
+   "mirehorn"
   ],
   "illustration": {
    "src": "assets/creatures/grommoth-v3-960.webp",
@@ -12895,7 +12898,8 @@
   "related": [
    "saurians",
    "jakupur",
-   "southern-wilds"
+   "southern-wilds",
+   "mirehorn"
   ],
   "illustration": {
    "src": "assets/creatures/loamback-v1-960.webp",
@@ -13189,7 +13193,8 @@
   "related": [
    "saurians",
    "jakupur",
-   "southern-wilds"
+   "southern-wilds",
+   "mirehorn"
   ],
   "illustration": {
    "src": "assets/creatures/mirewallow-v1-960.webp",
@@ -14361,6 +14366,13 @@
     ]
    },
    {
+    "title": "The fen country",
+    "paragraphs": [
+     "Around the stilt-town lies the fen country: dykes, reed-beds, peat-cuts, and the flooded fields where sandpearl grows. The mirehorns that plough them are kept by children, who ride them along the dykes with reed pipes, and every beast wears a bell with its own note, because in the Duskmire fog you cannot see a herd, only hear it. *In Duskmire you count the bells.*",
+     "In Halvenir the whole fen turns out for the Treading, when the mirehorns tread the sandpearl harvest and the sand-smoke hangs over the reeds at dusk."
+    ]
+   },
+   {
     "title": "Rumors",
     "paragraphs": [
      "“Goldspire's heir was seen at a pawnbroker's on the Duskmire road, in a borrowed cloak.” (a Duskmire pawnbroker's boy)"
@@ -14381,8 +14393,13 @@
    "knot",
    "goblinoids",
    "below",
-   "ottar-glimm"
-  ]
+   "ottar-glimm",
+   "mirehorn",
+   "sandpearl"
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "easthold-westwatch-and-pearl-groove",
@@ -41118,7 +41135,8 @@
    "frosthold",
    "the-great-flows",
    "swords-and-hunters",
-   "driftborn"
+   "driftborn",
+   "sandpearl"
   ]
  },
  {
@@ -57698,6 +57716,258 @@
    "hunters",
    "ranking-cards",
    "hunter-companies"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "mirehorn",
+  "title": "Mirehorn",
+  "category": "creature",
+  "creatureKind": "working",
+  "region": "All regions",
+  "subtitle": "The water-ox of the fens and the deltas, called the wallow-ox in the south",
+  "summary": "A broad, black, patient water-ox that ploughs the wet fields, hauls reed and peat through the mud, and treads the sandpearl harvest. Duskmire calls it the mirehorn; the southern deltas call it the wallow-ox. It will not be hurried, and it never forgets a face.",
+  "facts": [
+   [
+    "Kind",
+    "Working beast"
+   ],
+   [
+    "Called",
+    "mirehorn in the Heartland; wallow-ox in the south"
+   ],
+   [
+    "Found in",
+    "the Duskmire fens, and the deltas of the Southern Wilds"
+   ],
+   [
+    "Works",
+    "ploughs the wet fields, hauls reed and peat, treads the sandpearl"
+   ],
+   [
+    "Gives",
+    "milk and fen-cheese, hide, horn, and dung for the fire"
+   ],
+   [
+    "Price",
+    "about 20 Anchors; a Loamback costs 100"
+   ]
+  ],
+  "aliases": [
+   "mirehorns",
+   "wallow-ox",
+   "wallow-oxen"
+  ],
+  "sections": [
+   {
+    "title": "The work",
+    "paragraphs": [
+     "A mirehorn is a broad, heavy water-ox with great swept horns, a wide wet nose, and the patience of the mud it lives in. It ploughs the flooded fields where sandpearl grows, drags reed and peat carts where a horse would sink to the belly, and at harvest walks round and round the threshing floor until the grain falls out of the heads. It gives milk for a soft white fen-cheese, and its dung, dried, keeps the fire going in country that has no wood.",
+     "It is the poor farmer's beast. A trained Loamback costs 100 Anchors and needs a Sukuun-trained handler; a mirehorn costs about 20, and needs a child with a stick."
+    ]
+   },
+   {
+    "title": "Two names, one beast",
+    "paragraphs": [],
+    "list": [
+     "**The mirehorn** of Duskmire is black and shaggy-eared, with horns swept back along the neck, and a winter coat for the fen fog.",
+     "**The wallow-ox** of the southern deltas is grey and nearly hairless, bigger, with horns like a great crescent moon, and lives half the day up to its eyes in the water.",
+     "Each country insists its own is the real one. They are the same beast, and both of them would rather be lying in the mud."
+    ]
+   },
+   {
+    "title": "The herd-children",
+    "paragraphs": [
+     "The herds are kept by children. A child of six can ride a mirehorn, and does, sitting cross-legged on its back with a reed pipe, while it grazes the dykes. A mirehorn will walk its child home through a fog so thick the child cannot see its own hands, and it will not let a stranger near the child it is carrying."
+    ]
+   },
+   {
+    "title": "Bells and ropes",
+    "paragraphs": [],
+    "list": [
+     "**The bell.** Every mirehorn wears a bell at the throat, each with its own note, because in the fen you cannot see a herd, only hear it. *In Duskmire you count the bells.*",
+     "**The nose-rope.** A twisted rope through the nose, tied off at the horns, is the only bridle it needs.",
+     "**The red tassel.** A tuft of red thread on the nose-rope, for luck, and so the Hunger That Warms knows it from the wild ones."
+    ]
+   },
+   {
+    "title": "Temper",
+    "paragraphs": [
+     "A mirehorn is slow, patient, and stubborn past reason. It will not be hurried, and it remembers every face that ever struck it. At noon it goes into the water to wallow, and nothing on earth gets it out before it is ready. Never stand between a mirehorn and its wallow."
+    ]
+   },
+   {
+    "title": "The wallow-ox and the Mirewallow",
+    "paragraphs": [
+     "In the southern deltas the wallow-oxen share the mud with the Mirewallow, the great bog-saurian the marsh people call Sszuka. The oxen know it is there long before anyone else does. When a herd of wallow-oxen leaves the water all at once, in the middle of the day, everyone with sense leaves it too."
+    ]
+   },
+   {
+    "title": "Can an adventurer keep one?",
+    "paragraphs": [
+     "Yes, if they are in no hurry. A mirehorn carries three times what a pack-horse carries, will go where carts cannot, and will not be rushed, ridden into a fight, or kept from water for more than a day."
+    ]
+   },
+   {
+    "title": "Sayings",
+    "paragraphs": [],
+    "list": [
+     "“Slow as a mirehorn, and twice as sure.”",
+     "“A mirehorn is a grommoth that forgot how to carry a house.” (the Pocchin, who mean it kindly)",
+     "“The only beast in the south a Loamback steps around.” (the delta villages, about the wallow-ox)"
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A Duskmire herd-child has found something in the reeds that rings like a bell but isn't one.",
+     "A herd of wallow-oxen left the water at noon and will not go back in. The village wants to know what is in the river before it fishes there again.",
+     "A mirehorn bull walked into Goldwind's Commons on its own, and will not leave the doorstep of one particular house."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A mirehorn remembers your face for twenty years. Mine waited eleven to step on my foot.” (a Duskmire reed-cutter)",
+     "“There's a barn on the Duskmire road where a blind old mirehorn walks in a circle all night, and nobody ploughs anything.” (a Goldwind carter)",
+     "“Never water your wallow-ox where the island moves.” (heard in the southern deltas)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBiYXJuIG9uIHRoZSBEdXNrbWlyZSByb2FkLioqIFRoZSBNaW50LWluLXRoZS1NaXJlJ3MgZ3JlYXQgcHJlc3MgaXMgdHVybmVkIGJ5IGEgYmxpbmQgb2xkIG1pcmVob3JuIGNhbGxlZCBPbGQgVGhpc3RsZSwgd2Fsa2luZyBpbiBhIGNpcmNsZSBhbGwgbmlnaHQgaW4gYSBiYXJuIHRoZSB0YXgtbWVuIHBhc3MgZXZlcnkgQ29pbnNkYXkuIE90dGFyIEdsaW1tIHdpbGwgbm90IGhlYXIgb2YgcmVwbGFjaW5nIGhlci4gU2hlIGhhcyB0dXJuZWQgb3V0IG1vcmUgZHJvd25lZCBBbmNob3JzIHRoYW4gYW55IGZvcmdlciBpbiB0aGUgaXNsYW5kcywgYW5kIHNoZSBpcyB0aGUgb25seSBvbmUgb2YgdGhlbSBoZSB0cnVzdHMuIl19"
+   }
+  ],
+  "related": [
+   "sandpearl",
+   "duskmire-haven",
+   "mirewallow",
+   "loamback",
+   "grommoth",
+   "wrack-cow",
+   "moorhorn",
+   "aurocs",
+   "saurians",
+   "southern-wilds",
+   "pocchin"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
+  "id": "sandpearl",
+  "title": "Sandpearl",
+  "category": "culture",
+  "region": "All regions",
+  "subtitle": "The grain of the wet fields: sand when it is dry, a meal when it is wet",
+  "summary": "A tiny, sand-colored grain grown in flooded fields at Duskmire and in the southern deltas. Dry, it is almost gritty and keeps for years; in water it swells to three times its size inside a soft, clinging coat. It is the poor's bread, the sailor's ration, and the reason the mirehorn has a job.",
+  "facts": [
+   [
+    "Grown in",
+    "flooded fields at Duskmire and in the southern deltas"
+   ],
+   [
+    "The grain",
+    "tiny, sand-colored, almost gritty"
+   ],
+   [
+    "In water",
+    "swells to three times its size, inside a soft, clinging coat"
+   ],
+   [
+    "Keeps",
+    "for years, dry"
+   ],
+   [
+    "Sailors call it",
+    "sand"
+   ],
+   [
+    "Price",
+    "a bowl in a cookshop, 1 Bit; a sack, a week's meals for one, 1 Tide"
+   ]
+  ],
+  "aliases": [
+   "sandpearls"
+  ],
+  "sections": [
+   {
+    "title": "What it is",
+    "paragraphs": [
+     "Sandpearl is the seed of a low water-grass with feathery heads, grown standing in water. The grains are tiny, no bigger than coarse sand, tan to silver, and almost gritty between the fingers. Put them in water and they drink it: each swells to three times its size inside a soft, clear, clinging coat, and a handful becomes a bowlful. Steamed, it is fluffy and loose; boiled, it is soft and sticky; ground, it makes flat cakes that keep a week.",
+     "It is cheap, filling, and dull, which is why everyone eats it and nobody writes songs about it."
+    ]
+   },
+   {
+    "title": "The wet fields",
+    "paragraphs": [],
+    "list": [
+     "**The flooding.** In Open Water the fields are walled with earth dykes and flooded, and the mirehorns plough the mud under a hand of water.",
+     "**The growing.** All summer the fields stand in water, green and humming with frogs, and the herd-children walk the dykes with their mirehorns.",
+     "**The draining.** In Storm Water the dykes are cut, the fields drain, and the heads are cut and carried to the threshing floors.",
+     "**The Treading.** In Halvenir, the month of Salt and Harvest, the mirehorns walk round and round the floors until the grain falls out of the heads, with the children riding them and the whole village singing to keep them moving. The chaff blows away at dusk in a pale haze the fens call *sand-smoke*."
+    ]
+   },
+   {
+    "title": "At sea",
+    "paragraphs": [
+     "Sandpearl does not rot, does not grow weevils if it is kept dry, and swells in seawater as well as fresh. Every ship in the islands carries it, and the Armada carries more than anyone. Sailors call it *sand*, and complain about it in every port. A sack of it is *a week in a fist*: a fistful of dry grain makes a sailor's meal."
+    ]
+   },
+   {
+    "title": "A bowl by region",
+    "paragraphs": [],
+    "list": [
+     "**The Heartland** steams it fluffy, with butter and crumbled fen-cheese, and eats it with everything.",
+     "**The south** boils it soft with fish and fire-pepper, and eats it off a leaf with the fingers.",
+     "**The Frontier** cooks it thick with salt-fish and butter, and calls it porridge, defiantly.",
+     "**The ice** cooks it with fat, like everything else.",
+     "**Aboard ship** it is soaked overnight in a bucket and eaten cold in the morning, with whatever the cook will spare."
+    ]
+   },
+   {
+    "title": "Customs",
+    "paragraphs": [],
+    "list": [
+     "**The wedding handful.** At a fen wedding the guests throw dry sandpearl over the couple. It swells in the rain, like a family.",
+     "**The sailor's last handful.** A sailor going on a long voyage leaves a handful of dry sandpearl in a dish by the door. If it is still dry when they come home, the house kept faith.",
+     "**Board-price.** Sandpearl is called with the other grains on the Spire Floor every Coinsday, and a bad harvest at Duskmire is felt in every galley in the islands."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "Someone is buying every sack of sandpearl in Goldwind before the Treading. The price has doubled, and the Armada's victuallers are furious.",
+     "A ship's sandpearl has swelled in its sacks overnight, dry, in a dry hold. The cook will not touch it, and neither will the rats."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A man can live on sand for a year. I did. I wouldn't recommend it.” (an Armada gunner)",
+     "“Duskmire sandpearl is sweeter than the delta kind. The delta says the same about theirs.” (a Goldwind cookshop keeper)",
+     "“If the Treading sand-smoke blows west, it's a hard winter.” (a Duskmire herd-child)"
+    ]
+   }
+  ],
+  "related": [
+   "mirehorn",
+   "duskmire-haven",
+   "southern-wilds",
+   "calendar",
+   "work-at-sea",
+   "armada",
+   "twelve-flags",
+   "kellum",
+   "brightleaf"
   ],
   "source": "Kalvatar Library · 175 EC",
   "translations": {

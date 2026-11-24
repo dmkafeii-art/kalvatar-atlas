@@ -6055,15 +6055,36 @@
  },
  "duskmire-haven": {
   "gloss": "Duskmire Haven",
-  "subtitle": "Un lugar del Corazón Central",
-  "summary": "Refugio del Pantano del Ocaso es un pantano neblinoso cerca de Ventoro, un pueblo de casas sobre pilotes y botes de junco donde el mandato del Registro se adelgaza.",
+  "subtitle": "Pilotes, juncos y moneda falsa muy buena",
+  "summary": "Refugio del Pantano del Ocaso es una ciénaga brumosa cerca de Ventoro, un pueblo de casas sobre pilotes y botes de junco donde el mandato del Registro se adelgaza.",
   "facts": [
    [
     "Región",
-    "[[Corazón Central|Central Heartland]]"
+    "el [[Corazón Central|Central Heartland]]"
    ]
   ],
-  "title": "Refugio del Pantano del Ocaso"
+  "title": "Refugio del Pantano del Ocaso",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "[[Refugio del Pantano del Ocaso|Duskmire Haven]] es el hogar de la [[Ceca del Fango|Mint-in-the-Mire]], los falsificadores cuyas Anclas ahogadas son tan buenas que la ceca del Consejo las ha recomprado dos veces por error. El maestro grabador es Ottar Glimm, un gnomo de un genio terrible y un carácter peor. El [[Nudo|Knot]], el mercado de abajo del [[Pantano del Ocaso|Duskmire]] que llevan los goblins, se abre en los juncales más hondos de la ciénaga, y los goblins no permiten nombres, ni hojas, ni ninguna luz más fuerte que una vela."
+    ]
+   },
+   {
+    "title": "La tierra de la ciénaga",
+    "paragraphs": [
+     "Alrededor del pueblo sobre pilotes está la tierra de la ciénaga: diques, juncales, cortes de turba y los campos inundados donde crece la perlarena. A los cuernociénagas que los aran los cuidan los niños, que los montan por los diques con flautas de junco, y cada animal lleva un cencerro con su propia nota, porque en la niebla del Pantano del Ocaso a un hato no se le ve, solo se le oye. *En el Pantano del Ocaso uno cuenta campanas.*",
+     "En Halvenir toda la ciénaga sale para la Pisada, cuando los cuernociénagas pisan la cosecha de perlarena y el humo de arena cuelga sobre los juncos al anochecer."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron al heredero de los Doraguja en una casa de empeño del camino del Pantano del Ocaso, con una capa prestada.” (el chico de un prestamista del Pantano del Ocaso)"
+    ]
+   }
+  ]
  },
  "easthold-westwatch-and-pearl-groove": {
   "gloss": "Easthold, Westwatch, and Pearl Groove",
@@ -17846,5 +17867,212 @@
    }
   ],
   "gloss": "Bastards and Month-Names"
+ },
+ "mirehorn": {
+  "title": "Cuernociénaga",
+  "subtitle": "El buey de agua de las ciénagas y los deltas, que en el sur llaman buey de charca",
+  "summary": "Un buey de agua ancho, negro y paciente que ara los campos inundados, arrastra junco y turba por el barro y pisa la cosecha de perlarena. El Pantano del Ocaso lo llama cuernociénaga; los deltas del sur lo llaman buey de charca. No se deja apurar, y nunca olvida una cara.",
+  "facts": [
+   [
+    "Tipo",
+    "Bestia de trabajo"
+   ],
+   [
+    "Se llama",
+    "cuernociénaga en el [[Corazón|Heartland]]; buey de charca en el sur"
+   ],
+   [
+    "Dónde vive",
+    "el [[Pantano del Ocaso|Duskmire]], y los deltas de las [[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Trabajo",
+    "ara los campos inundados, arrastra junco y turba, pisa la perlarena"
+   ],
+   [
+    "Da",
+    "leche y queso de ciénaga, cuero, cuerno, y bosta para el fuego"
+   ],
+   [
+    "Precio",
+    "unas 20 Anclas; un [[Lomogreda|Loamback]] cuesta 100"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Un cuernociénaga es un buey de agua ancho y pesado, de grandes cuernos echados hacia atrás, nariz ancha y húmeda, y la paciencia del barro en que vive. Ara los campos inundados donde crece la perlarena, arrastra carretas de junco y de turba donde un caballo se hundiría hasta la panza, y en la cosecha da vueltas y vueltas por la era hasta que el grano se cae de las espigas. Da leche para un queso de ciénaga blanco y blando, y su bosta, seca, mantiene el fuego en una tierra que no tiene leña.",
+     "Es la bestia del campesino pobre. Un Lomogreda entrenado cuesta 100 Anclas y necesita un domador formado por los Sukuun; un cuernociénaga cuesta unas 20, y necesita un niño con una vara."
+    ]
+   },
+   {
+    "title": "Dos nombres, una bestia",
+    "paragraphs": [],
+    "list": [
+     "**El cuernociénaga** del Pantano del Ocaso es negro y de orejas peludas, con los cuernos echados hacia atrás sobre el cuello, y un pelaje de invierno para la niebla de la ciénaga.",
+     "**El buey de charca** de los deltas del sur es gris y casi pelado, más grande, con cuernos como una gran luna creciente, y pasa medio día metido en el agua hasta los ojos.",
+     "Cada tierra jura que el suyo es el verdadero. Son la misma bestia, y las dos preferirían estar echadas en el barro."
+    ]
+   },
+   {
+    "title": "Los niños del hato",
+    "paragraphs": [
+     "Los hatos los cuidan los niños. Un niño de seis años puede montar un cuernociénaga, y lo hace, sentado con las piernas cruzadas en su lomo con una flauta de junco, mientras el animal pasta en los diques. Un cuernociénaga lleva a su niño a casa a través de una niebla tan espesa que el niño no se ve las manos, y no deja que un extraño se acerque al niño que lleva encima."
+    ]
+   },
+   {
+    "title": "Cencerros y cuerdas",
+    "paragraphs": [],
+    "list": [
+     "**El cencerro.** Todo cuernociénaga lleva un cencerro al cuello, cada uno con su propia nota, porque en la ciénaga a un hato no se le ve, solo se le oye. *En el Pantano del Ocaso uno cuenta campanas.*",
+     "**La cuerda de nariz.** Una cuerda trenzada que pasa por la nariz y se ata a los cuernos es la única brida que necesita.",
+     "**La borla roja.** Un mechón de hilo rojo en la cuerda de nariz, para la suerte, y para que el [[Hambre que Calienta|Hunger That Warms]] lo distinga de los salvajes."
+    ]
+   },
+   {
+    "title": "Carácter",
+    "paragraphs": [
+     "Un cuernociénaga es lento, paciente y terco más allá de toda razón. No se deja apurar, y recuerda cada cara que alguna vez le pegó. Al mediodía se mete al agua a revolcarse, y no hay nada en el mundo que lo saque antes de que quiera. Nunca te pongas entre un cuernociénaga y su revolcadero."
+    ]
+   },
+   {
+    "title": "El buey de charca y el Cienorrevolcón",
+    "paragraphs": [
+     "En los deltas del sur, los bueyes de charca comparten el barro con el [[Cienorrevolcón|Mirewallow]], el gran saurio de pantano que la gente de las marismas llama Sszuka. Los bueyes saben que está ahí mucho antes que nadie. Cuando un hato de bueyes de charca sale del agua todo a la vez, en pleno día, todo el que tenga juicio sale también."
+    ]
+   },
+   {
+    "title": "¿Puede un aventurero tener uno?",
+    "paragraphs": [
+     "Sí, si no tiene prisa. Un cuernociénaga carga el triple que un caballo de carga, va por donde no pasan las carretas, y no se deja apurar, ni llevar a una pelea, ni tener lejos del agua más de un día."
+    ]
+   },
+   {
+    "title": "Dichos",
+    "paragraphs": [],
+    "list": [
+     "“Lento como un cuernociénaga, y el doble de seguro.”",
+     "“Un cuernociénaga es un grommoth que se olvidó de cómo cargar una casa.” (los pocchin, que lo dicen con cariño)",
+     "“La única bestia del sur a la que un Lomogreda le da la vuelta.” (las aldeas de los deltas, sobre el buey de charca)"
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un niño del hato del Pantano del Ocaso encontró en los juncos algo que suena como un cencerro pero no lo es.",
+     "Un hato de bueyes de charca salió del agua al mediodía y no quiere volver a entrar. La aldea quiere saber qué hay en el río antes de volver a pescar.",
+     "Un toro cuernociénaga entró solo al [[Común|Commons]] de [[Ventoro|Goldwind]], y no se quiere ir de la puerta de una casa en particular."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un cuernociénaga recuerda tu cara veinte años. El mío esperó once para pisarme el pie.” (un cortador de junco del Pantano del Ocaso)",
+     "“Hay un granero en el camino del Pantano del Ocaso donde un cuernociénaga viejo y ciego camina en círculos toda la noche, y nadie ara nada.” (un carretero de Ventoro)",
+     "“Nunca le des de beber a tu buey de charca donde la isla se mueve.” (se oye en los deltas del sur)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIGdyYW5lcm8gZGVsIGNhbWlubyBkZWwgW1tQYW50YW5vIGRlbCBPY2Fzb3xEdXNrbWlyZV1dLioqIExhIGdyYW4gcHJlbnNhIGRlIGxhIFtbQ2VjYSBkZWwgRmFuZ298TWludC1pbi10aGUtTWlyZV1dIGxhIG11ZXZlIHVuYSBjdWVybm9jacOpbmFnYSB2aWVqYSB5IGNpZWdhIGxsYW1hZGEgW1tWaWVqYSBDYXJkb3xPbGQgVGhpc3RsZV1dLCBxdWUgY2FtaW5hIGVuIGPDrXJjdWxvcyB0b2RhIGxhIG5vY2hlIGVuIHVuIGdyYW5lcm8gZnJlbnRlIGFsIHF1ZSBwYXNhbiBsb3MgcmVjYXVkYWRvcmVzIGNhZGEgW1tNb25lZMOtYXxDb2luc2RheV1dLiBPdHRhciBHbGltbSBubyBxdWllcmUgbmkgb8OtciBoYWJsYXIgZGUgcmVlbXBsYXphcmxhLiBIYSBzYWNhZG8gbcOhcyBBbmNsYXMgYWhvZ2FkYXMgcXVlIGN1YWxxdWllciBmYWxzaWZpY2Fkb3IgZGUgbGFzIGlzbGFzLCB5IGVzIGxhIMO6bmljYSBkZSB0b2RvcyBlbGxvcyBlbiBxdWllbiDDqWwgY29uZsOtYS4iXX0="
+   }
+  ],
+  "gloss": "Mirehorn"
+ },
+ "sandpearl": {
+  "title": "Perlarena",
+  "subtitle": "El grano de los campos inundados: arena cuando está seco, comida cuando está mojado",
+  "summary": "Un grano diminuto, color arena, que se cultiva en campos inundados en el Pantano del Ocaso y en los deltas del sur. Seco es casi arenoso y dura años; en el agua se hincha al triple de su tamaño dentro de una capa suave y pegajosa. Es el pan de los pobres, la ración del marinero y la razón de que el cuernociénaga tenga trabajo.",
+  "facts": [
+   [
+    "Se cultiva en",
+    "campos inundados en el [[Pantano del Ocaso|Duskmire]] y en los deltas del sur"
+   ],
+   [
+    "El grano",
+    "diminuto, color arena, casi arenoso"
+   ],
+   [
+    "En el agua",
+    "se hincha al triple de su tamaño, dentro de una capa suave y pegajosa"
+   ],
+   [
+    "Dura",
+    "años, seco"
+   ],
+   [
+    "Los marineros le dicen",
+    "arena"
+   ],
+   [
+    "Precio",
+    "un plato en una fonda, 1 Ola; un saco, una semana de comidas para uno, 1 Marea"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "La perlarena es la semilla de una hierba de agua baja de espigas plumosas, que crece con los pies en el agua. Los granos son diminutos, no más grandes que la arena gruesa, de color tostado a plateado, y casi arenosos entre los dedos. Échalos al agua y se la beben: cada uno se hincha al triple de su tamaño dentro de una capa suave, clara y pegajosa, y un puñado se vuelve un plato. Al vapor queda esponjosa y suelta; hervida, blanda y pegajosa; molida, da tortas planas que duran una semana.",
+     "Es barata, llena y aburrida, por eso todo el mundo la come y nadie le escribe canciones."
+    ]
+   },
+   {
+    "title": "Los campos inundados",
+    "paragraphs": [],
+    "list": [
+     "**La inundación.** En [[Agua Abierta|Open Water]] los campos se cercan con diques de tierra y se inundan, y los cuernociénagas aran el barro bajo un palmo de agua.",
+     "**El crecimiento.** Todo el verano los campos están en el agua, verdes y llenos del canto de las ranas, y los niños del hato recorren los diques con sus cuernociénagas.",
+     "**El desagüe.** En [[Agua de Tormenta|Storm Water]] se cortan los diques, los campos se secan, y las espigas se cortan y se llevan a las eras.",
+     "**La Pisada.** En Halvenir, el mes de Sal y Cosecha, los cuernociénagas dan vueltas y vueltas por las eras hasta que el grano se cae de las espigas, con los niños montados encima y toda la aldea cantando para que no se paren. La paja se la lleva el viento al anochecer, en una bruma pálida que las ciénagas llaman *humo de arena*."
+    ]
+   },
+   {
+    "title": "En el mar",
+    "paragraphs": [
+     "La perlarena no se pudre, no cría gorgojos si se mantiene seca, y se hincha en agua de mar igual que en agua dulce. Todos los barcos de las islas la llevan, y la Armada más que nadie. Los marineros le dicen *arena*, y se quejan de ella en todos los puertos. Un saco es *una semana en un puño*: un puñado de grano seco hace la comida de un marinero."
+    ]
+   },
+   {
+    "title": "Un plato por región",
+    "paragraphs": [],
+    "list": [
+     "**El [[Corazón|Heartland]]** la hace al vapor, esponjosa, con mantequilla y queso de ciénaga desmenuzado, y la come con todo.",
+     "**El sur** la hierve blanda con pescado y ají de fuego, y la come sobre una hoja con los dedos.",
+     "**La [[Frontera|Frontier]]** la cocina espesa con pescado salado y mantequilla, y la llama gachas, desafiante.",
+     "**El hielo** la cocina con grasa, como todo lo demás.",
+     "**A bordo** se deja en remojo toda la noche en un balde y se come fría en la mañana, con lo que el cocinero quiera soltar."
+    ]
+   },
+   {
+    "title": "Costumbres",
+    "paragraphs": [],
+    "list": [
+     "**El puñado de boda.** En una boda de la ciénaga, los invitados les tiran perlarena seca a los novios. Se hincha con la lluvia, como una familia.",
+     "**El último puñado del marinero.** Un marinero que sale a un viaje largo deja un puñado de perlarena seca en un plato junto a la puerta. Si sigue seca cuando vuelve, la casa le fue fiel.",
+     "**El precio de tablero.** La perlarena se canta con los demás granos en el [[Piso de la Aguja|Spire Floor]] cada [[Monedía|Coinsday]], y una mala cosecha en el Pantano del Ocaso se siente en todas las cocinas de barco de las islas."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Alguien está comprando cada saco de perlarena de [[Ventoro|Goldwind]] antes de la Pisada. El precio se duplicó, y los proveedores de la Armada están furiosos.",
+     "La perlarena de un barco se hinchó en sus sacos en una noche, seca, en una bodega seca. El cocinero no la quiere tocar, y las ratas tampoco."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Uno puede vivir de arena un año. Yo lo hice. No lo recomiendo.” (un artillero de la Armada)",
+     "“La perlarena del Pantano del Ocaso es más dulce que la de los deltas. Los deltas dicen lo mismo de la suya.” (el dueño de una fonda de Ventoro)",
+     "“Si el humo de arena de la Pisada sopla hacia el oeste, viene un invierno duro.” (un niño del hato del Pantano del Ocaso)"
+    ]
+   }
+  ],
+  "gloss": "Sandpearl"
  }
 }
