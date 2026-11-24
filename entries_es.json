@@ -25903,5 +25903,229 @@
    }
   ],
   "title": "Los Guardianes de Ceniza"
+ },
+ "sacred-flame": {
+  "gloss": "The Sacred Flame",
+  "aliases": [
+   "la hoja escondida",
+   "Llama Sagrada",
+   "la Llama Sagrada",
+   "lámpara de sello",
+   "lámparas de sello",
+   "Puerta de la Llama",
+   "la Puerta de la Llama",
+   "Estante de Ceniza",
+   "el Estante de Ceniza",
+   "Libro de las Puertas",
+   "los Chamuscados",
+   "la Llama Callada"
+  ],
+  "subtitle": "La gente que cierra las puertas que no deberían estar abiertas",
+  "summary": "La Llama Sagrada es el brazo escondido de la Orden de la Llama Blanca de Jakupur. Sus cazadores encuentran grietas, las cierran y queman lo que pasó por ellas, y están entre los pocos de las islas que buscan esos lugares a propósito.",
+  "epigraph": {
+   "quote": "Lo que está cerrado sigue cerrado. Lo que está encendido sigue encendido.",
+   "by": "El voto de la Llama Sagrada, entero"
+  },
+  "facts": [
+   [
+    "Sede",
+    "Jakupur, aunque nadie dice cuál puerta"
+   ],
+   [
+    "Parte de",
+    "la Orden de la [[Llama Blanca|White Flame]]"
+   ],
+   [
+    "Cazan",
+    "grietas, y lo que pasa por ellas"
+   ],
+   [
+    "Le rezan a",
+    "[[Varneth, el Guardián del Umbral|Varneth, the Threshold Warden]]"
+   ],
+   [
+    "Los guía",
+    "la [[Llama Callada|Quiet Flame]], a quien ningún forastero ha conocido"
+   ],
+   [
+    "Trabajan de a",
+    "tres, en grupos llamados Piras"
+   ],
+   [
+    "Su marca",
+    "una llamita quemada en un poste de puerta"
+   ],
+   [
+    "Guardan",
+    "la [[Puerta de la Llama|Flame Gate]], bajo la ciudad"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La hoja escondida",
+    "paragraphs": [
+     "La Llama Blanca gobierna Jakupur de día: archivos, expediciones, la paz de la ciudad. La [[Llama Sagrada|Sacred Flame]] es la misma orden después del anochecer. Sus cazadores destruyen o sellan las cosas que los eruditos preferirían estudiar, y la línea entre guardar el saber y quemar lo que no se debe saber es de ellos.",
+     "Todo el mundo en el sur ha oído hablar de la Llama Sagrada, y casi nadie ha conocido a uno a sabiendas. No llevan insignia. Lo que dejan atrás es una lámpara."
+    ]
+   },
+   {
+    "title": "Lo que cazan",
+    "paragraphs": [
+     "Un [[lugar delgado|thin place]] común es una ventana, y la Llama deja en paz a las ventanas. Caza los lugares donde la ventana se rompió."
+    ],
+    "list": [
+     "Las cicatrices de la [[Guerra Orka|Orka War]], donde los daimones se abrieron paso al [[Feérico|Faewild]] y el [[Velo|Veil]] sanó mal.",
+     "Las puertas que los orka cortaron a propósito, al país de los daimones, al Feérico y a cosas peores. Algunas de las ruinas orka más hondas se sellaron contra lo que pasó por ellas.",
+     "Cualquier cosa nueva. Una grieta que no estaba ahí el año pasado la abrió alguien.",
+     "Lo que pasó, si todavía está aquí.",
+     "Los libros, las tablillas y las máscaras que enseñan a abrir. La Llama los quema, y solo anota sus nombres."
+    ]
+   },
+   {
+    "title": "Una Pira",
+    "paragraphs": [
+     "La Llama caza de a tres. A un equipo se le llama Pira, y cada uno de los tres tiene un solo trabajo."
+    ],
+    "table": {
+     "headers": [
+      "Se llama",
+      "El trabajo"
+     ],
+     "rows": [
+      [
+       "El [[Buscador|Seeker]]",
+       "Encuentra la grieta y sus bordes. Lleva las [[mariposas del velo|veil butterflies]], cuyas alas se vuelven transparentes como el agua cerca de un lugar delgado, y lee el suelo como un práctico lee un canal."
+      ],
+      [
+       "La Mano",
+       "Se ocupa de lo que haya pasado. Casi siempre es el que habla con el pueblo después, y el único de los tres que casi todos recuerdan."
+      ],
+      [
+       "El Sellado",
+       "Un mago de guardas juramentado a Varneth. Dice el cierre. Los [[Sellados|Seals]] son los más raros de los tres, y la orden los cuida como a la pólvora."
+      ]
+     ],
+     "caption": "Los tres de una Pira"
+    }
+   },
+   {
+    "title": "Cómo se cierra una grieta",
+    "paragraphs": [],
+    "list": [
+     "Encontrar los bordes. El Buscador pasea las mariposas a su alrededor hasta que las alas se vuelven a nublar, y marca el suelo con sal y ceniza.",
+     "Construir una puerta. Un marco de lo que haya a mano, piedra, madera de deriva, dos lanzas y un cinturón, parado en la grieta. La ley de Varneth rige en un umbral, y un desgarro no tiene ninguno hasta que alguien se lo da.",
+     "Cerrarla. El Sellado dice el cierre en nombre de Varneth, de este lado, solo.",
+     "Encender la lámpara. Se pone en el umbral una lamparita de piedra y se enciende con la llama que lleva la propia Pira.",
+     "Quemar la marca. Se marca a fuego una llamita en el poste de la puerta. Cualquiera en el sur que vea esa marca en un marco parado solo en el bosque sabe que tiene que rodearlo y no atravesarlo."
+    ]
+   },
+   {
+    "title": "Lámparas de sello",
+    "paragraphs": [
+     "Cada sello que ha hecho la Llama tiene una lámpara ardiendo encima. La orden las llama [[lámparas de sello|seal-lamps]]. Son de piedra gris lisa, no más grandes que dos puños, y la llama es blanca."
+    ],
+    "list": [
+     "Se le pide a la casa más cercana que la cuide, y se le pagan dos [[Anclas|Anchors]] al año y el aceite. Se les llama cuidadores, y el deber se hereda como un campo.",
+     "El parche de un cuidador es una llama blanca sobre negro. Los fareros lo honran, y también cada casa de Varneth.",
+     "La primera regla que aprende un niño del sur sobre el fuego: nunca apagues una lámpara que no encendiste.",
+     "La Llama Blanca admite doscientas doce lámparas de sello ardiendo en las islas. La lista completa es el [[Libro de las Puertas|Book of Doors]], y no se muestra."
+    ]
+   },
+   {
+    "title": "La Puerta de la Llama",
+    "paragraphs": [
+     "Bajo Jakupur hay una grieta que la orden selló hace mucho, en una de las viejas puertas que bajan a Nadhûr. Sobre ese sello arde un fuego desde antes de lo que nadie en la ciudad puede recordar. Los cazadores de la orden bajan más allá a propósito, cosa que hace muy poca gente de la superficie, y dicen lo que dice todo el que comercia abajo: lo hondo lleva más o menos una generación haciendo más ruido."
+    ]
+   },
+   {
+    "title": "Lo que queman",
+    "paragraphs": [
+     "El archivo de Jakupur tiene un estante donde no hay nada más que un libro de cuentas. Los eruditos lo llaman el [[Estante de Ceniza|Ash Shelf]]. Cada línea del libro es el nombre de algo que quemó la Llama Sagrada: un libro, una máscara, un mapa hacia una puerta. Los nombres se guardan para que nadie salga a buscar una segunda copia sin saber qué está buscando."
+    ]
+   },
+   {
+    "title": "Amigos y pleitos",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Con",
+      "Cómo está"
+     ],
+     "rows": [
+      [
+       "La [[Universidad|University]] de Kalvatar",
+       "Mal. La Universidad quiere que unas cuantas grietas sigan abiertas para estudiarlas. La respuesta de la Llama no ha cambiado en cien años."
+      ],
+      [
+       "Los [[Guardianes del Velo|Wardens of the Veil]]",
+       "Primos. Los sacerdotes de Varneth mantienen cerradas las puertas de los puertos, y la Llama va adonde no hay puerto. Cada uno cree que el otro es demasiado blando o demasiado rápido."
+      ],
+      [
+       "Los [[Cazadores|Hunters]]",
+       "Buenos clientes. La Llama contrata compañías para la pelea y paga bien. El contrato siempre nombra la presa, como exigen los [[Artículos|Articles]], y nunca el lugar."
+      ],
+      [
+       "La [[Novena Pala|Ninth Shovel]]",
+       "En guerra. Los saqueadores de Zal'Kareth abren lo que la Llama cierra, y venden lo que la Llama quemaría."
+      ],
+      [
+       "Los feéricos",
+       "Corteses. Una cicatriz sellada es una herida menos en el Velo, y la gente pequeña deja en paz las lámparas."
+      ]
+     ],
+     "caption": "Cómo está la Llama con los demás"
+    }
+   },
+   {
+    "title": "Quién entra",
+    "paragraphs": [
+     "Nadie se postula. La orden viene a ti, casi siempre antes de que pase una temporada desde la peor noche de tu vida. Sus cazadores se llaman a sí mismos los [[Chamuscados|Singed]]: gente que estaba cerca de una grieta cuando se abrió y que después seguía en pie. A los eruditos de la Llama Blanca que leen la página equivocada se los recluta de la misma manera."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "La Llama Sagrada quiere sellar una grieta que la Universidad quiere mantener abierta, y las dos quieren al grupo.",
+     "La familia de un cuidador se extinguió, y la lámpara lleva un mes ardiendo sin que nadie le eche aceite.",
+     "Seis lámparas de sello desaparecieron a lo largo de un río. Los sellos de abajo aguantan, por ahora.",
+     "Una Pira perdió a su Sellado y tiene una grieta que cerrar antes del próximo Día Quieto. Necesita a cualquiera que sepa decir una guarda y no perder los nervios.",
+     "Apareció un marco de puerta con la marca de la llama parado en un sótano de [[Ventoro|Goldwind]], y la casa es más vieja que la marca."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Una lámpara de piedra solitaria ardiendo en el monte no es un tesoro. Échale aceite si tienes, y avísale al pueblo más cercano.",
+     "La Llama paga en moneda limpia del [[Consejo|Council]] y pide silencio. Lo comprueba.",
+     "Una mariposa del velo cuyas alas siguen transparentes durante una hora te está diciendo que te vayas.",
+     "Un personaje que es uno de los Chamuscados tiene una noche de la que no habla. La orden la sabe entera."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Los cuidadores heredan la lámpara como se hereda la tierra. Algunas familias de las [[Tierras Salvajes|Wilds]] han guardado la misma llama durante once generaciones.",
+     "Los cazadores de la Llama llevan su fuego en un farol de cuerno encendido en la Puerta de la Llama, y lo vuelven a encender unos de otros si uno se apaga.",
+     "Un marco de puerta construido para un sellado nunca se desarma. Los niños se retan a atravesar uno. Sus abuelas le dan la vuelta."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay una lámpara en el Libro de las Puertas sin ningún lugar escrito al lado. Cada año pagan a un cuidador por ella. Nadie sabe adónde va el dinero.” (un copista de la Llama Blanca)",
+     "“Los viejos Sellados no saben salir de un cuarto. Hay que llevarlos de la manga. Nadie en la orden piensa que eso sea gracioso.” (un vendedor de aceite de lámpara de Jakupur)",
+     "“La lámpara de mi abuela se volvió transparente una vez. No apagada. Transparente, como el agua. A la mañana llegaron tres de ellos y nos dijeron que fuéramos a visitar a mi tía un mes.” (la nieta de una cuidadora)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIHNvYmVyYW5vIGRlIEpha3VwdXIgZXMgbGEgW1tMbGFtYSBTYWdyYWRhfFNhY3JlZCBGbGFtZV1dLioqIEVsIHBhY3RvIGZ1bmRhY2lvbmFsIGRlIGxhIGNpdWRhZCBub21icmEgYSB1biBzb2JlcmFubywgeSBsYSBbW0xsYW1hIEJsYW5jYXxXaGl0ZSBGbGFtZV1dIGdvYmllcm5hIGNvbW8gcmVnZW50ZSBlbiBzdSBub21icmUuIEVsIG5vbWJyZSBlcyBsYSBMbGFtYSBTYWdyYWRhIG1pc21hLiBTZWfDum4gbGEgcHJvcGlhIGxleSBkZSBKYWt1cHVyLCBsYSBob2phIGVzY29uZGlkYSBlcyBsYSB2ZXJkYWRlcmEgZ29iZXJuYW50ZSBkZSBsYSBjaXVkYWQsIHkgZWwgZ29iaWVybm8gZGVsIGTDrWEgZ29iaWVybmEgcG9yIGVsbGEuIEVsIE1hZ28gVGhpc2x1bSBCbGFja2hvZ2VuIGxlIHJlc3BvbmRlLCB5IGxvIG1pc21vIGhpem8gY2FkYSBNYWdvIGFudGVzIHF1ZSDDqWwuIiwgIioqTG8gcXVlIGN1ZXN0YSB1biBzZWxsby4qKiBFbCBjaWVycmUgbGUgcXVpdGEgdW4gdW1icmFsIGFsIFNlbGxhZG8gcXVlIGxvIGRpY2U6IGVsIHJlY3VlcmRvIGRlIHVuYSBwdWVydGEgcG9yIGxhIHF1ZSBoYSBwYXNhZG8uIExvcyBwcmltZXJvcyBzZWxsb3MgY3Vlc3RhbiBlbCBwb3J0w7NuIGRlIHVuIGRlc2Nvbm9jaWRvLCB1bmEgcG9zYWRhIGRvbmRlIGR1cm1pw7MgdW5hIHZlei4gTG9zIHNpZ3VpZW50ZXMgY3Vlc3RhbiBsYSBwdWVydGEgZGUgbGEgY2FzYSBkb25kZSBuYWNpw7MuIFVuIFNlbGxhZG8gcXVlIGhhIGNlcnJhZG8gY3VhcmVudGEgZ3JpZXRhcyB5YSBubyBzYWJlIHNhbGlyIGRlIHVuIGN1YXJ0bywgeSBsYSBvcmRlbiBsbyByZXRpcmEgYSB1bmEgY2FzYSBkZSBKYWt1cHVyIHF1ZSBubyB0aWVuZSBuaW5ndW5hIHB1ZXJ0YS4iLCAiKipMYSBsw6FtcGFyYSBubyBzb3N0aWVuZSBuYWRhLioqIFVuYSBbW2zDoW1wYXJhIGRlIHNlbGxvfHNlYWwtbGFtcF1dIG5vIG1hbnRpZW5lIGNlcnJhZG8gZWwgc2VsbG8uIEVzIGxhIGFsYXJtYS4gU3UgbGxhbWEgc2UgdnVlbHZlIHRyYW5zcGFyZW50ZSBjb21vIGVsIGFndWEgY3VhbmRvIGVsIHNlbGxvIHNlIGFkZWxnYXphLCBjb21vIGVsIGFsYSBkZSB1bmEgbWFyaXBvc2EgZGVsIHZlbG8uIExvcyBjdWlkYWRvcmVzIHNvbiBsYSBndWFyZGlhIGRlIGxhIG9yZGVuLCBkb3NjaWVudGFzIGNhc2FzLCB5IGNhc2kgbmluZ3VuYSBsbyBzYWJlLiIsICIqKkxhcyBsw6FtcGFyYXMgZGVzYXBhcmVjaWRhcyoqIG5vIHNvbiBjb3NhIGRlIGxvcyBmZcOpcmljb3MuIFVuYSBsw6FtcGFyYSBlbmNlbmRpZGEgcXVlIG51bmNhIHNlIGFwYWdhIHZhbGUgZWwgc3VlbGRvIGRlIHVuIGHDsW8gZW4gW1tBYmFqb3xCZWxvd11dLCBkb25kZSBsYSBsdXogZXMgZGluZXJvLCB5IGxvcyBleHBsb3JhZG9yZXMgZHJvdyBlbXBlemFyb24gYSBsbGV2w6Fyc2VsYXMgYSBjYXNhLiBVbiBzZWxsbyBzaW4gbMOhbXBhcmEgZXMgdW4gc2VsbG8gcXVlIG5hZGllIGVzdMOhIHZpZ2lsYW5kby4iLCAiKipMYXMgbMOhbXBhcmFzIG3DoXMgdmllamFzKiogeWEgYXJkw61hbiBhbnRlcyBkZSBxdWUgc2UgZnVuZGFyYSBsYSBvcmRlbi4gRWwgZnVlZ28gZGUgbGEgW1tQdWVydGEgZGUgbGEgTGxhbWF8RmxhbWUgR2F0ZV1dIGVzIHVuYSBkZSBlbGxhcy4gTGEgTGxhbWEgU2FncmFkYSBubyBpbnZlbnTDsyBlbCBzZWxsYWRvLiBFbmNvbnRyw7MgbGFzIGzDoW1wYXJhcyB5YSBlbmNlbmRpZGFzLCB5IGFwcmVuZGnDsyBlbCByZXN0byBjb3BpYW5kby4iXX0="
+   }
+  ],
+  "title": "La Llama Sagrada"
  }
 }
