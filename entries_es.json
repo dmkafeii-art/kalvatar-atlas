@@ -10739,19 +10739,134 @@
  },
  "sigil": {
   "gloss": "The Sigil",
-  "subtitle": "La Orden de los Cazadores",
-  "summary": "La insignia de rango de un Cazador, forjada en la Logia de Ventoro. Está atada a su portador: cualquier otro que la sostenga sufre, y peor cuanto más alto el rango.",
+  "subtitle": "La insignia que conoce a su portador",
+  "summary": "La insignia de rango de un Cazador, forjada en la Logia de Ventoro. Está atada a su portador: cualquier otro que la tenga sufre, y peor mientras más alto sea el rango.",
   "facts": [
    [
     "Forjado en",
-    "La [[Forja de Sellos|Sigil-Forge]], [[Logia|Lodge]] de [[Ventoro|Goldwind]]"
+    "la [[Forja de Sellos|Sigil-Forge]], [[Logia|Lodge]] de [[Ventoro|Goldwind]]"
    ],
    [
     "Ramas",
     "Mago, Explorador, Diplomático, Guerrero"
    ]
   ],
-  "title": "El Sello"
+  "title": "El Sello",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Todos los Sellos de los Cazadores se hacen en un solo lugar: la Forja de Sellos de la Logia de Ventoro, a manos de los [[Forjasellos|Sigilwrights]] bajo el [[Maestro Forjasellos|Master Sigilwright]], uno de los títulos más prestigiosos del gremio.",
+     "La maldición se forja adentro. Un [[Sello|Sigil]] que lleva cualquiera que no sea su portador legítimo obra sobre él, y mientras más tiempo lo tenga, peor se pone. Nada de eso mata.",
+     "Bronce: un dolor de cabeza leve, y un adormecimiento en la mano que se extiende con el tiempo.",
+     "Plata: náuseas y vómitos, desmayos y una pérdida lenta de fuerza.",
+     "Oro: como un veneno mortal que se apodera del cuerpo: fiebre, debilidad y un dolor que crece hora tras hora.",
+     "El rango protege. Un [[Cazador|Hunter]] de Plata es inmune a un Sello de Bronce, y un Cazador de Oro a los de Plata y Bronce.",
+     "Ramas. Cada Cazador pertenece a una rama, y la rama se trabaja en el Sello:",
+     "Mago: motivos arcanos, cristales y glifos.",
+     "Explorador: plumas, flechas y depredadores.",
+     "Diplomático: pergaminos, ramas de olivo y símbolos de unión.",
+     "Guerrero: escudos, armas y líneas audaces.",
+     "Diseño por rango:",
+     "Bronce: una sola pieza simple de bronce, con el hierro del Cazador que respondió por él engastado en el reverso.",
+     "Plata: grabado, muchas veces con incrustaciones de gemas o detalles finos.",
+     "Oro: recargado y hecho de varios materiales, mostrando las hazañas del portador. Un Sello de Oro puede llevar dos ramas.",
+     "Platino: platino encantado de una hechura que nadie más puede igualar.",
+     "Sellos despiertos. Rara vez, un Sello despierta: se vuelve una cosa consciente con una personalidad propia y se une a su portador como un compañero."
+    ]
+   },
+   {
+    "title": "El diseño oficial",
+    "paragraphs": [
+     "Un Sello muestra para qué sirve su portador. Todos se hacen en la Forja de Sellos."
+    ],
+    "list": [
+     "**El Bronce es igual para todos.** Un [[Cazador de Bronce|Bronze Hunter]] todavía no tiene rama. Todos los Sellos de Bronce son el mismo disco sencillo con la marca común de la orden, la [[Estrella y la Ola|Star and Wave]], y el hierro del Cazador que respondió por el portador engastado en el reverso.",
+     "**En Plata, eliges.** Un Plata nuevo declara una rama y diseña su propio Sello con un Forjasellos. El emblema de la rama tiene que estar en el centro. La forma, el campo, el adorno y la piedra son suyos.",
+     "**Dos ramas:** un Cazador puede pertenecer a más de una rama, y dos es el límite. Los emblemas se cruzan, el primero ganado encima, como la hoja y la pluma de [[Albion Tempestad|Albion Tempest]].",
+     "**Ramas honorarias:** un maestro de una rama puede apadrinar a un Cazador y nombrarlo miembro honorario, por un trabajo bien hecho por alguien que no puede dedicarle todo su tiempo. El maestro responde por ese trabajo. No lleva emblema. Se muestra con la piedra de esa rama, puesta pequeña al pie del Sello. Albion Tempestad es Artífice honorario.",
+     "**Oro:** se vuelve a fundir en oro según el diseño del portador, con un clavo por cada gran hazaña del Libro, hasta ocho.",
+     "**Platino:** pálido, y desnudo. Muestra su diseño a su portador y a nadie más.",
+     "**El pie y el reverso:** la marca de la Logia al pie; en el reverso, un nombre y un año."
+    ]
+   },
+   {
+    "title": "Las ramas y sus emblemas",
+    "paragraphs": [
+     "La orden se fundó con cuatro ramas: Guerrero, Mago, Explorador y Diplomático. Los Cazadores de hoy las llaman los Matadores, los Canalizadores, los Rastreadores y los Heraldos. Al lado de ellas han crecido tres ramas más jóvenes: los Guardianes, los Artífices y los Exploradores de profundidades."
+    ],
+    "table": {
+     "headers": [
+      "Rama",
+      "Emblema",
+      "Piedra",
+      "Quién la lleva"
+     ],
+     "rows": [
+      [
+       "Matador",
+       "una hoja",
+       "granate rojo",
+       "Los que matan lo que hay que matar. Combatientes, guardias, duelistas y abordadores. (Fundada como Guerrero.)"
+      ],
+      [
+       "Canalizador",
+       "un cristal",
+       "zafiro azul",
+       "Los que pelean y trabajan con magia, de toda tradición, registrados o no. (Fundada como Mago.)"
+      ],
+      [
+       "Rastreador",
+       "una flecha",
+       "jade verde",
+       "Rastreadores, pilotos y guías: los que encuentran el camino, y encuentran la presa. (Fundada como Explorador.)"
+      ],
+      [
+       "Heraldo",
+       "una pluma",
+       "perla blanca",
+       "La voz de la compañía: negociadores, abogados y los que llevan las cosas. (Fundada como Diplomático.)"
+      ],
+      [
+       "Guardián",
+       "un escudo y una gota",
+       "coral rosa",
+       "Sanadores, cirujanos y los que mantienen a una compañía viva, alimentada y en pie. (Una rama más joven.)"
+      ],
+      [
+       "Artífice",
+       "un martillo y un yunque",
+       "ónice negro",
+       "[[Herreros|Smiths]], hojalateros, carpinteros de ribera y artífices de Krysta: los que hacen lo que los demás cargan. (Una rama más joven.)"
+      ],
+      [
+       "Explorador de profundidades",
+       "una linterna",
+       "amatista violeta",
+       "Los que entran en ruinas, naufragios y [[Abajo|Below]], y vuelven con lo que encontraron. La [[Liga de Exploradores|League of Explorers]] de la [[Universidad|University]] traza lo desconocido; los Exploradores de profundidades se meten adentro. (Una rama más joven.)"
+      ]
+     ],
+     "caption": "Ramas de los Cazadores"
+    }
+   },
+   {
+    "title": "Dibuja el tuyo",
+    "paragraphs": [
+     "La sección de [[Aventureros|Adventurers]] tiene un banco de Sellos: elige un rango y una o dos ramas, y dibuja la insignia."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Cada Sello de las islas se hace en un solo cuarto, la Forja de Sellos de la Logia de Ventoro.",
+     "El reverso de un Sello lleva un nombre y un año, y nada más.",
+     "Nadie más que los Diez sabe lo que hay en un Sello de Platino.",
+     "A un Bronce que dice que ya sabe cuál es su rama le piden, con cariño, que lo vuelva a decir dentro de tres años.",
+     "Un Cazador con tres ramas es un chiste que cuentan los Cazadores sobre la gente que no sabe decir que no."
+    ]
+   }
+  ]
  },
  "trials-of-ascension": {
   "gloss": "The Trials of Ascension",
@@ -17810,84 +17925,128 @@
   "gloss": "Spurback"
  },
  "arbiters": {
-  "title": "The Arbiters",
-  "subtitle": "Un año, un hilo y la autoridad del cargo",
-  "summary": "Elegidos por sorteo anual entre los practicantes registrados de Tercer Círculo o superior, los Árbitros cumplen un año remunerado de servicio sobre la magia poderosa en las tierras del Consejo.",
+  "title": "Los Árbitros",
+  "subtitle": "Un año, un hilo, la autoridad del cargo",
+  "summary": "Elegidos cada año por sorteo entre los lanzadores registrados del Tercer Círculo o más, los Árbitros sirven un año pagado vigilando la magia poderosa en las tierras del Consejo.",
   "sections": [
    {
-    "title": "Quienes escuchan",
+    "title": "Los que escuchan",
     "paragraphs": [
-     "La magia de Tercer Círculo en adelante hace resonar la Krysta del mundo como una campana. Practicarla en las tierras del Consejo exige un [[Mandato|Writ]] del Registro Arcano. Los [[Árbitros|Arbiters]] escuchan esa resonancia y ejercen la autoridad pública vinculada a esa ley. Las [[Pequeñas Artes|Small Ways]] y los conjuros inferiores al Tercer Círculo no requieren Mandato.",
-     "Antes del sorteo, un Árbitro puede ser marinero, erudito, [[Cazador|Hunter]], hechicero de pueblo o sacerdote. Durante el servicio conserva su oficio y su historia, y durante un año lleva también la autoridad del cargo."
+     "Lanzar conjuros del Tercer Círculo en adelante hace sonar la Krysta del mundo como una campana golpeada. En las tierras del [[Consejo|Council]], obrar magia a ese nivel exige un [[Mandato|Writ]] del [[Registro Arcano|Arcane Registry]]. Los Árbitros son los que escuchan y ejercen la autoridad pública atada a esa ley. Su cargo se ocupa de la magia poderosa; las [[Pequeñas Artes|Small Ways]] domésticas y los conjuros por debajo del Tercer Círculo no exigen Mandato.",
+     "Un Árbitro puede haber sido marinero, erudito, [[Cazador|Hunter]], brujo de seto o sacerdote antes del sorteo. Su oficio de siempre sigue siendo parte de quien es durante el servicio. Lo que cambia es la autoridad que carga durante el año."
     ]
    },
    {
     "title": "El sorteo del Día de la Carta",
     "paragraphs": [
-     "Cada Día de la Carta, el Registro sortea los puestos entre todos los practicantes registrados de Tercer Círculo o superior, sin distinción de oficio. Los elegidos sirven un año. El servicio es remunerado y honrado, y se procura asignarlos cerca de casa.",
-     "Los voluntarios que cumplan los requisitos pueden servir hasta diez años durante su vida. Después de diez años de servicio, no pueden volver a ejercer el cargo."
+     "Cada Día de la Carta, el nombre que le da el [[Registro|Registry]] al [[Día del Desembarco|Landing-Day]] (1 de Eo), el Registro sortea entre todos los lanzadores registrados del Tercer Círculo o más, de todos los oficios. Los elegidos sirven un año. El servicio se paga y se honra, y los destinos se asignan cerca de casa cuando se puede.",
+     "Los voluntarios que califican pueden servir hasta diez años en una vida. Después de diez años de servicio, no pueden servir más.",
+     "Una vez asignado, un destino es absoluto. Un Árbitro no puede negociar otro puesto ofreciendo un periodo de servicio más largo."
     ]
    },
    {
-    "title": "El hilo que cada cual teje",
+    "title": "El hilo que teje cada uno",
     "paragraphs": [
-     "Durante la investidura, cada Árbitro recibe hilo de Krysta en bruto y teje su propia indumentaria del cargo: un sombrero, una capa, una banda o las tres cosas. Ninguna es igual a otra y todas resultan inconfundibles a cien pasos.",
-     "La indumentaria hace visible su autoridad en una calle, a bordo de un barco o ante la entrada de una ruina. Quien la lleva puede ser un vecino conocido; el hilo anuncia que ese vecino sirve ahora como Árbitro."
+     "En la investidura, cada Árbitro recibe [[hilo de Krysta|Krysta-thread]] en bruto y teje su propio atavío. Cada pieza hecha con ese hilo queda sintonizada con quien la hizo: cuando un conjuro poderoso hace sonar la Krysta del mundo, el atavío resuena y su Árbitro lo siente. Las prendas son el medio con que escuchan.",
+     "Cada Árbitro lleva algo en la cabeza, y cada atavío lleva un ojo bordado. Fuera de esas marcas compartidas, su ropa es personal. Uno puede preferir un enorme sombrero puntiagudo de colores extravagantes, otro un atuendo enteramente negro. Turbantes, pañuelos y sombreros de ala ancha con plumas son todos parte de las siluetas del año. Las capas, las fajas y otras piezas tejidas con el hilo asignado comparten el mismo lazo.",
+     "No hay dos atavíos iguales. El estilo viene de quien lo lleva; lo que llevan en la cabeza y el ojo bordado identifican el cargo cuando la marca está a la vista. Un Árbitro puede hacer aparecer o desaparecer el ojo bordado a voluntad, ocultando la marca que lo identifica cuando investiga de incógnito y mostrándola cuando decide dar a conocer su cargo. Con el ojo a la vista, el atavío es inconfundible a cien pasos, ya sea que su hacedor prefiera un alboroto de color o la sobriedad de la tela negra."
     ]
    },
    {
-    "title": "Una palabra capaz de detener un barco",
+    "title": "Una palabra que puede detener un barco",
     "paragraphs": [
-     "Un Árbitro puede impedir que un barco zarpe, invalidar un duelo, clausurar una ruina o suspender un Mandato. Sus decisiones pueden interrumpir los planes de un capitán, los arreglos de un noble o la inversión de una expedición. Su autoridad se reconoce dentro de la jurisdicción del Consejo, que abarca aproximadamente una isla de cada seis.",
-     "La autoridad corresponde al cargo durante el periodo de servicio. Fuera del alcance del Consejo rige la ley local, y el reconocimiento de un Árbitro depende de quienes gobiernan ese puerto, camino o costa."
+     "Un Árbitro puede dejar en tierra un barco, anular un duelo, sellar una ruina o suspender un Mandato. Los planes de navegación de un capitán, los arreglos de un noble y la inversión de una expedición pueden quedar interrumpidos por el ejercicio de ese cargo. Su autoridad se reconoce en la jurisdicción del Consejo, cuyo alcance cubre más o menos una isla de cada seis.",
+     "Esa autoridad es del cargo durante el periodo de servicio. Fuera del alcance del Consejo manda la ley local. Que allí se reconozca a un Árbitro depende de la gente y de los poderes que tienen el puerto, el camino o la costa."
+    ]
+   },
+   {
+    "title": "El juicio de cada Árbitro",
+    "paragraphs": [
+     "Cómo responde un Árbitro a una resonancia depende de cada uno. Cada uno decide cómo acercarse al lanzador, investigar las circunstancias y ejercer la autoridad del cargo. No hay una sola secuencia de intervención prescrita que compartan todos los Árbitros.",
+     "Por eso una faja conocida o un sombrero distintivo le dice a un puerto más que quién tiene el cargo. La gente aprende la manera de la persona que lo lleva: cómo hace preguntas, en qué se fija y cómo decide actuar."
     ]
    },
    {
     "title": "El Salón de los Hilos",
     "paragraphs": [
-     "Al terminar el periodo, la indumentaria se retira al Salón de los Hilos, en Ventoro. Un voluntario que regresa puede volver a tomar su propio hilo. El salón conserva las prendas de antiguos servicios, cada una hecha según las manos y el gusto de quien la llevó.",
-     "Una vieja banda puede haber pertenecido a la persona tranquila que ahora vende cartas náuticas o imparte lecciones en su pueblo. El cargo pasa a otras manos; su hilo permanece."
+     "Al terminar un periodo, el atavío se retira al Salón de los Hilos de Ventoro. Un voluntario que vuelve puede retomar su propio hilo. El salón guarda juntas las prendas del servicio pasado, cada una con la forma que le dieron las manos y el gusto de quien la llevó.",
+     "Una faja vieja del salón puede haber sido alguna vez de la persona callada que ahora vende cartas o da clases en su pueblo. El cargo pasa; su hilo se queda."
     ]
    },
    {
-    "title": "Rostros públicos y tensiones privadas",
+    "title": "Caras públicas y roces privados",
     "paragraphs": [
-     "El [[Círculo de los Entintadores|Inkers’ Circle]] imprime cartas coleccionables de los Árbitros. Los niños las intercambian junto a las del Ranking de los [[Cazadores|Hunters]]. La variedad de sombreros, capas y bandas da a cada carta una silueta propia.",
-     "Los sacerdotes registrados que cumplen el requisito de círculo participan en el mismo sorteo que los demás. La negativa de la [[Concordia|Concord]] a registrar a sus practicantes sigue siendo un conflicto institucional sin resolver. Otras tradiciones religiosas pueden estar representadas en el sorteo.",
-     "Los Árbitros ejercen un cargo público reconocido. El Registrador, supuesto cazador de practicantes sin licencia en la niebla de Ventoro, sigue siendo una figura cuya existencia niegan la Universidad y el Registro."
+     "El [[Círculo de los Entintadores|Inkers’ Circle]] imprime cartas coleccionables de Árbitros. Los niños las cambian junto a las cartas del [[Escalafón|Ranking]] de los Cazadores, y así un año de servicio cívico se vuelve parte de la misma cultura de muelle que sigue a las tripulaciones famosas. La variedad llamativa de los atavíos le da a cada carta su propia silueta.",
+     "Los sacerdotes registrados que cumplen el requisito del círculo entran al mismo sorteo que los demás practicantes. La negativa de la [[Concordia|Concord]] a registrar a sus lanzadores sigue siendo una disputa institucional sin resolver. Eso no saca del sorteo a otras tradiciones religiosas.",
+     "Los Árbitros tienen un cargo público reconocido. El [[Registrador|Registrar]], el supuesto cazador de lanzadores sin licencia en la niebla de Ventoro, sigue siendo una figura cuya existencia niegan la [[Universidad|University]] y el Registro."
+    ]
+   },
+   {
+    "title": "Los Árbitros recién elegidos del 175 EC",
+    "paragraphs": [
+     "[[Radan Solmar|Radan Sunmere]], Amarise Vellune y Kettik del [[Noveno Escalón|Ninth Step]] son los tres Árbitros recién elegidos asignados a Ventoro por un año completo, desde el sorteo del Día de la Carta del 175 EC hasta el siguiente Día de la Carta.",
+     "Radan es un hechicero tranquilo, acostumbrado a los trabajos raros y a una suerte extraordinaria. Amarise tiene una tienda de moda que vende ropa y artículos encantados y goza de cierta fama local. Kettik trae el escrutinio paciente de un tasador de almacén. Cada uno ejerce el cargo a su manera.",
+     "Radan y Amarise se conocían antes del sorteo. Ella trató de cambiar su destino, y hasta ofreció dos años más de servicio para que no la asignaran con él. El destino era absoluto; los tres van a servir juntos en Ventoro su periodo original de un año."
     ]
    }
   ],
   "facts": [
    [
-    "Selección",
-    "Sorteo anual en el Día de la Carta"
+    "Elección",
+    "Sorteo anual el [[Día de la Carta|Charter Day]]"
    ],
    [
-    "Requisitos",
-    "Registro y Tercer Círculo o superior"
+    "Pueden entrar",
+    "Lanzadores registrados, del [[Tercer Círculo|Third Circle]] o más"
    ],
    [
     "Periodo",
-    "Un año remunerado; cerca de casa cuando sea posible"
+    "Un año, pagado; cerca de casa cuando se puede"
    ],
    [
     "Servicio voluntario",
-    "Hasta diez años durante la vida"
+    "Hasta diez años en una vida"
    ],
    [
-    "Indumentaria",
-    "Hilo de Krysta tejido por cada [[Árbitro|Arbiter]]"
+    "Atavío",
+    "Hilo de Krysta tejido por cada uno, sintonizado con quien lo hizo"
    ],
    [
-    "Prendas retiradas",
-    "Salón de los Hilos, [[Ventoro|Goldwind]]"
+    "Atavíos retirados",
+    "[[Salón de los Hilos|Hall of Threads]], [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Marcas compartidas",
+    "Algo en la cabeza y un ojo bordado, que se muestra o se oculta a voluntad"
+   ],
+   [
+    "Sentir la magia",
+    "Una resonancia que se siente a través del atavío sintonizado"
+   ],
+   [
+    "Procedimiento",
+    "Lo decide cada [[Árbitro|Arbiter]]"
+   ],
+   [
+    "Destinos",
+    "Absolutos una vez asignados"
    ]
   ],
   "epigraph": {
-   "quote": "Tú no eliges convertirte en uno; el año te elige.",
+   "quote": "Uno no elige volverse uno; el año te elige a ti.",
    "by": "Sobre el sorteo del Día de la Carta"
-  }
+  },
+  "gloss": "The Arbiters",
+  "aliases": [
+   "Árbitro",
+   "Árbitros",
+   "Arbiter",
+   "Arbiters",
+   "Salón de los Hilos",
+   "Hall of Threads",
+   "hilo de Krysta",
+   "Círculo de los Entintadores"
+  ]
  },
  "krystawrights": {
   "gloss": "The Krystawrights’ Guild",

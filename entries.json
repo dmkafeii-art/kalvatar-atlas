@@ -17647,7 +17647,10 @@
    "hunter-companies",
    "ranking-cards",
    "tenants"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "trials-of-ascension",
@@ -39485,7 +39488,7 @@
    "by": "On the Charter Day draw"
   },
   "translations": {
-   "es": "pending"
+   "es": "complete"
   },
   "related": [
    "arcane-registry",
