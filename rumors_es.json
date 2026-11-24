@@ -2587,7 +2587,7 @@
  },
  {
   "id": "rumor-orka-1",
-  "text": "Hay un salón bajo Golgarma donde los señores siguen sentados. Enmascarados. Nadie los enterró, porque nadie estaba seguro de que estuvieran muertos.",
+  "text": "Hay un salón bajo Golgarma donde los señores siguen sentados. [[Enmascarados|Masked]]. Nadie los enterró, porque nadie estaba seguro de que estuvieran muertos.",
   "heardAt": "se lo oyó a un desertor de la [[Legión Carmesí|Crimson Legion]]",
   "region": "Southern Wilds",
   "entries": [

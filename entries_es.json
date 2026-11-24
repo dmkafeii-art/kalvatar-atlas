@@ -1449,14 +1449,14 @@
  },
  "pocchin": {
   "subtitle": "Llegó el mercado",
-  "summary": "Mercaderes de pelaje esponjoso cuyas familias son nómadas, competitivas y maravillosamente imposibles de ignorar.",
+  "summary": "Mercaderes de pelaje esponjoso cuyas familias son móviles, competitivas y maravillosamente difíciles de ignorar.",
   "epigraph": {
    "quote": "El triple del precio, tus botas y el derecho a ponerle nombre a tu primogénito. ¿No? Bueno. Hablemos.",
    "by": "Un comerciante pocchin, abriendo un trato"
   },
   "facts": [
    [
-    "Se distingue por",
+    "Conocidos por",
     "El comercio ambulante y la empresa familiar"
    ],
    [
@@ -1464,16 +1464,90 @@
     "La manada Tobbin"
    ],
    [
-    "Especialidades comerciales",
+    "Especialidades",
     "Cambian con los contactos"
    ]
   ],
   "title": "Los Pocchin",
-  "gloss": "The Pocchin"
+  "gloss": "The Pocchin",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Los pocchin miden entre la rodilla y la cintura, redondos y escandalosamente esponjosos, con orejas larguísimas y caídas, caritas expresivas, dedos gruesos y enormes colas de penacho. Los machos suelen ser más grandes y pesados. Los anillos se lucen en cadenas al cuello en vez de en los dedos."
+    ]
+   },
+   {
+    "title": "La manada y la cola",
+    "paragraphs": [
+     "Una matriarca gobierna la familia viajera; un macho dominante es su ruidoso negociante público. Solo la matriarca y sus hijas directas llevan la cola suelta. Los demás protegen el valioso pelo que crece con trenzas y envolturas de seda, o lo esquilan para venderlo. Un raro macho que conserva la cola entera sin esquilar está haciendo una extravagante declaración de riqueza."
+    ]
+   },
+   {
+    "title": "La Oferta Gorda",
+    "paragraphs": [
+     "El regateo se abre con una oferta espectacularmente desigual. Se espera que el otro se ría, escupa con educación y negocie. Una vez que se dan la mano, el trato aguanta; romperlo puede cerrar las puertas de todas las caravanas."
+    ]
+   },
+   {
+    "title": "Casas sobre lomos vivos",
+    "paragraphs": [
+     "Los grommoth cargan las casas, con cabras de tejado arriba. En el campamento las casas se suben a los árboles o a los acantilados para que las bestias puedan pastar. Ninguna región es dueña de una ruta de caravanas: las familias se distinguen cambiando de especialidad y por contactos comerciales ganados a pulso."
+    ]
+   },
+   {
+    "title": "Arena y perfume",
+    "paragraphs": [
+     "Los pocchin prefieren los baños de arena fina y se someten de mala gana a la ducha mensual de agua. Su apreciada perfumería es un arte serio. Las recetas de familia se guardan, se codician y se roban."
+    ]
+   },
+   {
+    "title": "Ropa y nombres",
+    "paragraphs": [
+     "Fajas de dinero con bolsillos, pañuelos de viaje, brocado, cadenas de anillos, cascabeles y prendas de seda se llevan en capas generosas. A Ukin, Tobbin, Bram, Pobbo, Wuli, Dindle, Mungi, Nib y Tatta les siguen, en el comercio, títulos que se dan a sí mismos y que son de una longitud extraordinaria."
+    ]
+   },
+   {
+    "title": "Una primera moneda, una primera cadena",
+    "paragraphs": [
+     "Los pocchin nacen en camadas de dos a cuatro, en la casa caravana sobre el lomo de un grommoth. Toda la manada deja de comerciar ese día, el único día que lo hace. Cada invitado les lleva a los recién nacidos una primera moneda, y la primera cadena de cada cría empieza con esos regalos.",
+     "Después viene el chiste más viejo de las caravanas: un invitado le hace a la familia una [[Oferta Gorda|Fat Offer]] por un bebé, y el macho dominante la rechaza a todo pulmón: ni por todos los [[Orsales|Orsals]] de [[Ventoro|Goldwind]].",
+     "La matriarca le pone nombre a cada cría en su primer baño de arena. El primer pelo que se le peina a una cría se guarda hasta que tiene edad para tejer su propia pieza del tapiz de la familia."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los pocchin son el pueblo mercader errante del archipiélago, que va rodando de puerto en puerto en casas construidas sobre los lomos de sus grandes grommoth. Son adorables, son repugnantes, son los regateadores más astutos que existen, y pelean como glotones acorralados por lo que es suyo. Todo el mundo los quiere; nadie confía del todo en ellos; toda tripulación sabia tiene uno cerca de todos modos."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: de setenta a noventa años.",
+     "Aspecto: pequeños, redondos, de orejas enormes, ojos grandes y esponjosos más allá de toda razón. Anillos ensartados en cadenas al cuello, porque sus dedos son demasiado gruesos para ellos.",
+     "Son sus caravanas, y cada caravana recorre todas las rutas.",
+     "Fe: un credo alegre de urraca, prestado de una docena de fes y cambiado sin culpa; si un pocchin reza, le reza al dios que parezca más capaz de mejorar el próximo trato.",
+     "Familia: una manada, guiada por una matriarca, con un macho dominante que hace los tratos.",
+     "Los invitados le llevan a cada cría una primera moneda para empezar su cadena, y alguien siempre hace una Oferta Gorda por el bebé, que la familia rechaza a todo pulmón.",
+     "El tapiz de la familia: cada familia guarda un tapiz de sus generaciones, con un trozo del pelo de cada miembro que se agrega temprano en la vida y otro a la muerte.",
+     "Muerte: los pocchin creman a sus muertos, para liberarlos. A un anciano o a un pocchin importante le dan un gran banquete abierto que celebra su vida, y la cola se corta, se adorna con joyas y se subasta entre los invitados: el último trato.",
+     "Temperamento: el [[Tesoro|Hoard]] es sagrado. La Oferta Gorda del principio es teatro; el apretón de manos es ley. Rompe un trato cerrado y todas las caravanas de las islas te van a dar la espalda.",
+     "Costumbres: baños de arena, revolcones en el barro, comidas enormes y escupitajos constantes, como puntuación. Miran el agua con una desconfianza honda.",
+     "Títulos: bramados, autoconcedidos y apilados hasta que ningún oyente cuerdo puede mantener la cara seria."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La manada Tobbin dice que la famosa Rosa Negra de Saffrane fue de ellos primero, y que todavía tienen el recibo de venta.” (un pocchin, a gritos)"
+    ]
+   }
+  ]
  },
  "sporrn": {
   "subtitle": "La gente callada de la oscuridad de abajo",
-  "summary": "Pequeña gente fúngica a quien la vida en colonia, una quietud extraña y su habilidad en la medicina hacen distinta de sus vecinos.",
+  "summary": "Pequeña gente hongo cuya vida de colonia, su quietud extraña y su habilidad en la medicina los hacen distintos de sus vecinos.",
   "epigraph": {
    "quote": "Compartimos nuestros pensamientos, no a nosotros mismos.",
    "by": "Un dicho de las colonias"
@@ -1485,10 +1559,10 @@
    ],
    [
     "Naturaleza",
-    "Gente fúngica unida por el vínculo de colonia"
+    "Gente hongo unida por el lazo de la colonia"
    ],
    [
-    "Se distingue por",
+    "Conocidos por",
     "La medicina"
    ],
    [
@@ -1497,7 +1571,71 @@
    ]
   ],
   "title": "Los Sporrn",
-  "gloss": "The Sporrn"
+  "gloss": "The Sporrn",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Los sporrn son Pequeños. Sombreros vivos, cabezas y hombros crecen en formas de hongo sin costuras, sin orejas externas. Los ojos oscuros y las caras inexpresivas hacen que su quietud sea a la vez un poco tierna e inquietante. Su tejido pálido lleva un tenue brillo interior."
+    ]
+   },
+   {
+    "title": "Un solo yo, nunca del todo solo",
+    "paragraphs": [
+     "Cada sporrn es un individuo, unido a sus vecinos por el lazo de la colonia. El olor y las esporas llevan pensamientos, ánimos, alarmas y un consenso lento; no disuelven el yo. “Compartimos nuestros pensamientos, no a nosotros mismos.”",
+     "La distancia adelgaza esa pertenencia, y por eso los viajes largos son solitarios y poco comunes."
+    ]
+   },
+   {
+    "title": "La floración de los muertos",
+    "paragraphs": [
+     "La colonia deja que sus muertos florezcan en crecimiento nuevo y en sporrn nuevos. La [[Puerta Callada|Quiet Door]] se entiende como podredumbre que se vuelve vida, y no como un final."
+    ]
+   },
+   {
+    "title": "El comercio hondo",
+    "paragraphs": [
+     "Su farmacia de hongos cierra heridas, corta fiebres y alivia la muerte; el mismo oficio cuidadoso hace venenos sutiles. El metal, la sal y las noticias son buenos para intercambiar. Las colonias viejas vigilan en silencio entre los lugares orka ahogados."
+    ]
+   },
+   {
+    "title": "Ropa y nombres",
+    "paragraphs": [
+     "El fieltro de micelio crece en túnicas pálidas sin costuras. Los velos finos de esporas son una cortesía entre otros pueblos. Los nombres son tonos que zumban, atados a un lugar de la colonia: Sel del [[Anillo Callado|Quiet Ring]], Ompo [[Tercero-de-Nueve|Third-of-Nine]], Mirre de la [[Repisa Honda|Deep Shelf]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los sporrn son un pueblo hongo del oscuro [[Abajo|Below]], de carne de seta y brillo tenue, cada uno su propia persona, pero unidos mente a mente con su colonia. Suben a la superficie pocas veces: para comerciar medicinas y venenos, para huir de algo más hondo, o por una curiosidad lenta que llevan las esporas."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: un sporrn vive unos sesenta años; una colonia vive mientras siga floreciendo.",
+     "Aspecto: pálidos, blandos y lentos, de carne de seta y con un brillo tenue.",
+     "Tierra natal: las cuevas hondas y las ciudades orka ahogadas de abajo, el lugar que los orka llamaban Nadhûr, y las colonias que vigilan los [[Huecos|Hollows]].",
+     "Fe: no tienen dioses como los conoce la superficie; el giro sin fin de la podredumbre a la flor, y la Puerta Callada entendida como abono para la próxima vida.",
+     "El lazo de la colonia: no una sola mente, sino muchas, unidas. Un sporrn comparte sentimientos, pensamientos y noticias con su colonia, nunca sus habilidades ni su yo. El lazo se adelgaza con la distancia y se apaga lejos de la colonia, y un sporrn solo siente el silencio con fuerza.",
+     "Quién manda: el que mejor sepa del asunto: el constructor para construir, el sanador en la enfermedad, el que mejor habla con los extraños.",
+     "Distinguirlos: a los otros pueblos les cuesta distinguir a un sporrn de otro; los sporrn nunca se confunden entre sí. Habla con dos sporrn en dos días distintos, y el segundo sabe todo lo que le dijiste al primero.",
+     "La [[Canción Hueca|Hollow Song]]: las colonias cerca de los lugares orka enterrados a veces empiezan a cantarle de vuelta a lo torcido de abajo, y la canción se extiende por el lazo de la colonia como la podredumbre por la fruta. Los sporrn sanos la temen más que a nada.",
+     "Ropa: túnicas de fieltro de micelio y capuchas hondas que crecen a la medida, y velos de esporas de malla fina en compañía, por cortesía."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un sanador sporrn subió a Puerto Sur con medicina que nadie pidió, tres días antes de que llegara la fiebre.” (se oye en Puerto Sur)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIHZpZ2lsaWEuKiogTG9zIHNwb3JybiBlbnRyYXJvbiBlbiBsb3Mgc2Fsb25lcyBhaG9nYWRvcyBkZXNwdcOpcyBkZSBsYSBpbnVuZGFjacOzbiwgZW5jb250cmFyb24gYSBsb3MgW1tFbm1hc2NhcmFkb3N8TWFza2VkXV0geSBhIGxhcyBbW0JvY2FzIEh1ZWNhc3xIb2xsb3ctbW91dGhzXV0sIHkgZGVzZGUgZW50b25jZXMgdmlnaWxhbiBhIGxvcyBkb3MuIExhIFtbTGFyZ2EgRmxvcmFjacOzbnxMb25nIEJsb29tXV0gZnVlIGxhIHByaW1lcmEgY29sb25pYSBxdWUgbG8gaGl6by4gU2FiZW4gbG8gcXVlIHNvbiBsb3MgW1tIdWVjb3N8SG9sbG93c11dIHkgZGUgZMOzbmRlIHZpZW5lbi4iLCAiKipOYWRow7tyLioqIEN1YW5kbyBsYXMgbcOhc2NhcmFzIGFodWVjYXJvbiBlbCBpbXBlcmlvLCBsYSByZWluYSBjaGFtYW5hIER1cnpoYSBbW05vdmlhIGRlbCBNYXJ8U2VhLUJyaWRlXV0gc2VsbMOzIGxhcyBjaXVkYWRlcyBkZSBhYmFqbyBjb24gbG9zIHNlw7FvcmVzIGVubWFzY2FyYWRvcyBhZGVudHJvIHkgZGVqw7MgZW50cmFyIGFsIG1hci4gTWlsZXMgZGUgb3JrYSBjb211bmVzIHNlIGFob2dhcm9uIGNvbiBlbGxvcy4gTG9zIGVubWFzY2FyYWRvcyBubyByZXNwaXJhbi4gU2lndWVuIHNlbnRhZG9zIGVuIHN1cyB0cm9ub3MuIiwgIioqTGEgdmVyZGFkZXJhIGNhcmdhIGRlIGxvcyBbW0NvcnJlZG9yZXMgZGUgbGEgTmllYmxhfEZvZ3J1bm5lcnNdXS4qKiBMb3MgY8OzZGlnb3MgZGUgY2FtcGFuYSBsbGV2YW4gbcOhcyBxdWUgbWVyY2FuY8OtYS4gTGEgW1tTZcOxb3JhIGRlIGxhcyBDYW1wYW5hc3xCZWxsbWlzdHJlc3NdXSBtYW5kYSBtZW5zYWplcyBjb24gbG9zIG1pc21vcyBjw7NkaWdvcyBhbCBbW0FuaWxsbyBWaWdpbGFudGV8V2F0Y2hpbmcgUmluZ11dIGRlIGxvcyBzcG9ycm4sIGVuIFtbQWJham98QmVsb3ddXSwgeSBsb3Mgc3BvcnJuIGxlIHJlc3BvbmRlbiBlbiBlbCBbW0dhem5hdGV8R3VsbGV0XV0gY29uIGxhIGNhcmdhIGRlIGxvcyBtdWVydG9zLiJdfQ=="
+   }
+  ]
  },
  "coral-peoples": {
   "subtitle": "Los del propio mar",
@@ -20581,5 +20719,369 @@
    }
   ],
   "title": "Las bestias comunes"
+ },
+ "cat-kin": {
+  "gloss": "The Cat-kin",
+  "aliases": [
+   "tabaxi",
+   "Tabaxi",
+   "felino",
+   "felinos",
+   "gente gato"
+  ],
+  "subtitle": "Nueve vidas, y en cuenta regresiva",
+  "summary": "Gente gato rápida y curiosa de los puertos del sur y de la selva que hay detrás. Cada felino nace debiéndole nueve vidas a un espíritu de la suerte, y lleva la cuenta como nombre.",
+  "epigraph": {
+   "quote": "Me quedan seis. No preguntes por las otras tres a menos que vayas a comprar.",
+   "by": "un gaviero felino, Puerto Sur"
+  },
+  "facts": [
+   [
+    "También llamados",
+    "tabaxi"
+   ],
+   [
+    "Tamaño",
+    "Pequeño o Mediano"
+   ],
+   [
+    "Dónde",
+    "en cada puerto del sur, y en la selva que hay detrás"
+   ],
+   [
+    "Fe",
+    "Fortura, y Mishri la de Nueve Vidas"
+   ],
+   [
+    "Conocidos por",
+    "el equilibrio, la curiosidad e irse por la ventana"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Los felinos son uno de los pueblos viejos del sur: con pelaje, cola, orejas puntiagudas y muy difíciles de mantener adentro. Vienen en dos complexiones, y las dos aparecen en la misma camada. La pequeña gente de los tejados de los puertos no es más alta que un mediano. Los cazadores de miembros largos de la selva son tan altos como cualquiera."
+    ]
+   },
+   {
+    "title": "La cuenta",
+    "paragraphs": [
+     "Un felino nace debiéndole nueve vidas a **Mishri la de Nueve Vidas**, un espíritu embaucador de la suerte, y le devuelve una cada vez que engaña a la muerte. La cuenta se lleva abiertamente como sobrenombre: Le-Quedan-Ocho, Le-Quedan-Seis, Le-Quedan-Tres. Una cuenta baja es a la vez una presunción y una advertencia. Nadie ha conocido a un felino que admita Le-Queda-Una dos veces."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los barcos contratan felinos para la jarcia y solo se arrepienten el día de paga. En los puertos se quedan en los tejados y en los mercados nocturnos. En la selva viven por tribus como sus vecinos, y un felino de las tribus nombra una tierra natal antes que cualquier otra cosa.",
+     "Le rezan a Fortura como lo hace un apostador: seguido, y con condiciones."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Cortos y ronroneantes: Sashi, Nimsha, Jhirra, Kesh. Después del nombre viene la cuenta, un nombre de suerte como Dos-Veces-de-Pie, o la tribu."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“No tienen nueve vidas. Tienen una, y el descaro de nueve.” (un contramaestre de Puerto Sur)",
+     "“La cuenta la lleva Mishri, no el gato. Pregúntale a uno cuántas le quedan y fíjate cómo mira primero al cielo.” (una cocinera del mercado nocturno)"
+    ]
+   }
+  ],
+  "title": "Los Felinos"
+ },
+ "centaurs": {
+  "gloss": "The Centaurs",
+  "aliases": [
+   "centauro",
+   "Centauro",
+   "centauros"
+  ],
+  "subtitle": "La riqueza es la distancia recorrida",
+  "summary": "Gente de cuatro patas de la hierba abierta. Una manada no es dueña de ninguna tierra, recuerda cada pozo y cuenta su riqueza en la distancia que ha corrido.",
+  "epigraph": {
+   "quote": "Tú le dices andar sin rumbo. Nosotros le decimos ir a ver cómo está todo.",
+   "by": "un corredor de la manada de la Hierba Alta"
+  },
+  "facts": [
+   [
+    "Tamaño",
+    "Mediano"
+   ],
+   [
+    "Dónde",
+    "las sabanas del sur, y unas pocas manadas en [[Confín del Norte|Northreach]]"
+   ],
+   [
+    "Viven por",
+    "la manada, y la carrera"
+   ],
+   [
+    "Conocidos por",
+    "el aguante, el tiro con arco y opiniones firmes sobre las cercas"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Los centauros son gente con cuerpo de caballo de los campos abiertos. Una manada no tiene pueblo ni campo. Tiene una [[carrera|run]]: un gran circuito de hierba, pozos y lugares de reunión que recorre en un año y que conoce como un granjero conoce un surco."
+    ]
+   },
+   {
+    "title": "La carrera",
+    "paragraphs": [
+     "Entre los centauros, la riqueza es la distancia. La primera carrera completa de un potro es su mayoría de edad, y a los viejos se los honra por lo lejos que han llegado. Nadie monta a un centauro. Los pocos que han sido cargados fueron cargados una vez, como pago de una deuda, y no hacen chistes sobre eso."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La mayoría de las manadas corren por las sabanas del sur junto a la gente de la manada y la gente de marfil. Unas pocas cruzaron al norte hace mucho y corren por el tojo y el brezo de Confín del Norte, donde las granjas de cría las contratan como maestras de caballos. Ninguno de los dos lados está muy seguro de quién trabaja para quién."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Nombres que dan zancadas: Hathren, Stravan, Galleth. La manada va después, como en Hathren de la Manada de la Hierba Alta, o la tribu con la que corre la manada."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una manada que deja de correr vio algo en el camino de adelante. Pregúntales qué antes de ir para allá.” (un explorador de caravana)",
+     "“Las manadas de Confín del Norte vinieron al norte en barco, paradas durante toda la travesía. Todavía no le perdonan nada al mar.” (un mozo de cuadra de Bastión)"
+    ]
+   }
+  ],
+  "title": "Los Centauros"
+ },
+ "ivory-kin": {
+  "gloss": "The Ivory-kin",
+  "aliases": [
+   "loxodon",
+   "Loxodon",
+   "gente de marfil",
+   "gente elefante"
+  ],
+  "subtitle": "La larga memoria del sur",
+  "summary": "Gente enorme, gris y con colmillos que recorre largos circuitos entre los pozos del sur. Cada uno lleva un solo recuerdo por toda la manada, y lo guarda como nombre.",
+  "epigraph": {
+   "quote": "Ustedes lo escriben para poder olvidarlo. Nosotros no tenemos ese lujo.",
+   "by": "una madre de camino de la gente de marfil"
+  },
+  "facts": [
+   [
+    "También llamados",
+    "loxodon"
+   ],
+   [
+    "Tamaño",
+    "Mediano, y por poco"
+   ],
+   [
+    "Dónde",
+    "los largos caminos de las sabanas, de las [[Tierras de Huesos|Bonewilds]] al [[Lago Espejo|Mirrormere]]"
+   ],
+   [
+    "Viven por",
+    "la manada, y el circuito que recorre"
+   ],
+   [
+    "Conocidos por",
+    "la paciencia, la memoria y que nunca se los apura"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La gente de marfil es la gente más grande con la que la mayoría de los isleños va a compartir un camino: de piel gris, con colmillos, de nariz larga y lenta para enojarse. Una manada recorre el mismo circuito de pozos y mercados año tras año, y el sur arregla su calendario por su paso."
+    ]
+   },
+   {
+    "title": "El recuerdo",
+    "paragraphs": [
+     "Al llegar a la mayoría de edad, a uno de la gente de marfil se le da una cosa para que la recuerde por la manada: una sequía, una deuda, un camino, un nombre. La lleva toda la vida y la usa como nombre, como en Ombalo que Recuerda el Año Seco. Cuando uno de ellos muere, el recuerdo se entrega antes de que el cuerpo se enfríe. Una manada es una biblioteca que camina."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Las caravanas pagan bien por caminar detrás de una manada, porque nada en la hierba molesta dos veces a una. Los tribunales y las casas de comercio mandan llamar a uno de la gente de marfil cuando dos partes recuerdan un trato de manera distinta. La respuesta es lenta, exacta y final."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Largos y graves: Ombalo, Tumbuu, Lombaru. El recuerdo va después del nombre, o la tribu para los que caminan con una."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Visitan los huesos de titán de las llanuras blancas como uno visitaría una tumba. Nunca oí a ninguno decir de quién.” (un guía de las Tierras de Huesos)",
+     "“En algún lado hay una manada que recuerda el día en que cayeron los orka. Nunca se lo han preguntado con la cortesía suficiente.” (una archivera de Puerto Sur)"
+    ]
+   }
+  ],
+  "title": "La Gente de Marfil"
+ },
+ "pride-kin": {
+  "gloss": "The Pride-kin",
+  "aliases": [
+   "leonin",
+   "Leonin",
+   "gente de la manada",
+   "gente león"
+  ],
+  "subtitle": "La ley ruidosa de la hierba",
+  "summary": "Gente león alta y con melena de las sabanas del sur. Una manada caza, come y juzga junta, y arregla sus peleas antes de la próxima comida.",
+  "epigraph": {
+   "quote": "Discutimos delante de todos. Ahorra tiempo, y ahorra cuchillos.",
+   "by": "una madre de la Manada de la Hierba Larga"
+  },
+  "facts": [
+   [
+    "También llamados",
+    "leonin"
+   ],
+   [
+    "Tamaño",
+    "Mediano"
+   ],
+   [
+    "Dónde",
+    "las sabanas, y la hierba al borde de las [[Tierras de Huesos|Bonewilds]]"
+   ],
+   [
+    "Viven por",
+    "la manada: unas pocas familias bajo un mismo fuego"
+   ],
+   [
+    "Conocidos por",
+    "el valor, el orgullo y el volumen"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La gente de la manada le saca una cabeza a casi todos, con melena o lisos, del dorado al pardo polvo, con una voz hecha para los campos abiertos. Son un pueblo de la hierba y no quieren mucho a las paredes, aunque muchos aceptan una parte de [[Cazador|Hunter]] o la paga de una caravana y van a ver los puertos por sí mismos."
+    ]
+   },
+   {
+    "title": "La manada",
+    "paragraphs": [
+     "Una manada son unas pocas familias que comparten un fuego, una cacería y un juicio. Una pelea dentro de la manada se arregla antes de la próxima comida, en voz alta, delante de todos. Una pelea con un forastero es de toda la manada, y por eso los viajeros tienen cuidado con cómo regatean en la hierba."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Las manadas les comercian cueros, cuerno y trabajo de guardia a las caravanas que cruzan las sabanas. A lo largo del borde de las Tierras de Huesos se quedan en la hierba y les dejan las llanuras blancas a los que tienen algo que hacer ahí."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Abiertos y rodados: Raoru, Harrun, Gaharra. La manada va después del nombre, como en Raoru de la Manada de la Hierba Larga, o la tribu si la manada corre con una."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Uno de la gente de la manada que anda solo en un puerto dejó la manada o la perdió. No preguntes cuál.” (un maestro de caravana)",
+     "“Dicen que el primer rugido en la hierba fue la respuesta a algo allá afuera, en las llanuras blancas, y que las manadas le siguen respondiendo desde entonces.” (un guardacantos)"
+    ]
+   }
+  ],
+  "title": "La Gente de la Manada"
+ },
+ "shifters": {
+  "gloss": "The Shifters",
+  "aliases": [
+   "Cambiante",
+   "cambiantes",
+   "Cambiantes"
+  ],
+  "subtitle": "Nacidos con una bestia en la sangre",
+  "summary": "Un cambiante nace, no lo muerden. En algún lugar atrás en la familia una bestia se metió en la sangre, y se nota: una cola, colmillos, garras, ojos que atrapan la luz de la lámpara. Todo cambiante puede dejar que la bestia suba un rato corto, y después tiene que volver a bajarla.",
+  "epigraph": {
+   "quote": "Mi abuela tenía las orejas. Mi madre no tenía nada. Yo tengo la cola, y mi madre todavía no nos perdona a ninguna de las dos.",
+   "by": "una aparejadora cambiante, Puerto Sur"
+  },
+  "facts": [
+   [
+    "Nacen",
+    "en familias de cambiantes, y a veces en familias que creían que la bestia se había ido"
+   ],
+   [
+    "Las marcas",
+    "una o dos cada uno; no hay dos cambiantes con las mismas"
+   ],
+   [
+    "Cambiar",
+    "la bestia sube un rato corto, y después vuelve a bajar"
+   ],
+   [
+    "Dónde",
+    "en todas partes, y sobre todo en las [[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Conocidos por",
+    "los sentidos agudos, el genio rápido y las largas discusiones de familia"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "No hay dos cambiantes con las mismas marcas, y casi todos tienen una o dos: una cola, colmillos, garras, una cresta de pelaje a lo largo de la espina, orejas que giran solas. Los hijos de un cambiante muchas veces son cambiantes y a veces no, y a veces la bestia se salta una generación y aparece en un nieto que nadie esperaba."
+    ]
+   },
+   {
+    "title": "La subida",
+    "paragraphs": [
+     "Todo cambiante puede dejar subir a la bestia un rato corto. Las islas le dicen **cambiar**. Las marcas crecen y el cuerpo las sigue, con un cuero más duro, dientes más largos, pies más rápidos o los sentidos de un cazador. Después vuelve a bajar, y el cambiante queda cansado, con hambre, y otra vez él mismo. Casi todos lo aprenden de niños. Un cambiante que no puede volver a bajarla es lo que teme toda familia de cambiantes."
+    ]
+   },
+   {
+    "title": "Lo que dio la bestia",
+    "paragraphs": [
+     "Las islas clasifican a los cambiantes por lo que les dio la bestia, no por qué bestia era."
+    ],
+    "list": [
+     "**Diente:** colmillos y mandíbula, de lobo, de tiburón o de gran felino.",
+     "**Zancada:** piernas y cola, de mono, de cabra o de liebre.",
+     "**Cuero:** pelaje y cuero, de oso o de jabalí.",
+     "**Sentido:** ojos, orejas y nariz, de sabueso o de búho."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los puertos están acostumbrados a los cambiantes; los pueblos del interior, menos. Una cola es fácil de esconder bajo un abrigo y difícil de esconder en una casa de baños.",
+     "Las tripulaciones de Cazadores aceptan cambiantes con gusto: una nariz, unos dientes y unos ojos de noche valen una parte. Muchos cambiantes guardan un respeto callado por los [[Señores Salvajes|Savage Lords]], como un marinero respeta una tormenta."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La bestia en la sangre es de un Señor Salvaje. Vive lo bastante en el país de un Señor y se te mete, igual que se les mete a los árboles.” (un guardacantos de las Tierras Salvajes del Sur)",
+     "“Se puede saber qué Señor por las marcas, si conoces los viejos países. Yo no se lo diría a un cambiante en la cara.” (un Explorador de los Cazadores)",
+     "“Un cambiante que nace a mil leguas de cualquier Señor tiene un abuelo que no.” (una partera de Ventoro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyJMYSByZXNwdWVzdGEgbcOhcyB2aWVqYSBkZSBsYXMgaXNsYXMgZXMgbGEgY29ycmVjdGE6IGxhIGJlc3RpYSBlbiBsYSBzYW5ncmUgZXMgZGUgdW4gW1tTZcOxb3IgU2FsdmFqZXxTYXZhZ2UgTG9yZF1dLiBMYSBlc2VuY2lhIGRlIHVuIFNlw7FvciBzZSBmaWx0cmEgZW4gdG9kbyBlbCBwYcOtcyBxdWUgZ29iaWVybmEsIHN1cyBiZXN0aWFzLCBzdXMgcGxhbnRhcywgc3UgY2xpbWEgeSBzdSBnZW50ZSAoVm9sdW1lbiBYLCBFbCBwYcOtcyBkZSB1biBTZcOxb3IpLCB5IHVuYXMgcG9jYXMgZmFtaWxpYXMgbGEgbGxldmFuIHBhcmEgc2llbXByZS4gTGEgYmVzdGlhIGRlIHVuIGNhbWJpYW50ZSBlcyB1biBwb2NvIGRlIHVuIFNlw7FvciwgbXV5IGFiYWpvLCB5IGxvcyBTZcOxb3JlcyBjb25vY2VuIGEgbG9zIHN1eW9zLiBVbiBjYW1iaWFudGUgcXVlIG5hY2UgbGVqb3MgZGUgY3VhbHF1aWVyIFNlw7FvciB0aWVuZSB1biBhYnVlbG8gcXVlIG5vIG5hY2nDsyBsZWpvcy4iXX0="
+   }
+  ],
+  "title": "Los Cambiantes"
  }
 }
