@@ -27123,5 +27123,236 @@
    }
   ],
   "title": "Los drow"
+ },
+ "daemons": {
+  "gloss": "Daemons",
+  "aliases": [
+   "daimón",
+   "daimones",
+   "máscara de daimón",
+   "máscaras de daimón",
+   "los Padres de las Máscaras",
+   "maldición de la máscara",
+   "pacto de daimón",
+   "pactos de daimón"
+  ],
+  "subtitle": "Las cosas detrás de las máscaras, y lo que quieren de ti",
+  "summary": "Los daimones son poderes de fuera del mundo que crecen negociando. Ofrecen exactamente lo que quieres, a un precio que crees que puedes pagar. Los orka lo creyeron, y eran un imperio.",
+  "epigraph": {
+   "quote": "Nunca me mintió. Siempre vuelvo a eso. Me dijo el precio, y yo creí que el que salía ganando era yo.",
+   "by": "Un hombre enmascarado, al inquisidor que había venido a quemar la máscara"
+  },
+  "facts": [
+   [
+    "Qué son",
+    "poderes de más allá del mundo"
+   ],
+   [
+    "Cómo crecen",
+    "pactos, culto y las almas que vienen con ellos"
+   ],
+   [
+    "Cómo actúan aquí",
+    "a través de máscaras, cultos y los dispuestos"
+   ],
+   [
+    "Conocidos por su nombre",
+    "los dieciséis Padres de las Máscaras de los orka"
+   ],
+   [
+    "Casi todos",
+    "duermen desde que cayó el imperio"
+   ],
+   [
+    "Los caza",
+    "la [[Llama Sagrada|Sacred Flame]] de Jakupur"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué son",
+    "paragraphs": [
+     "Un daimón es un poder de fuera del mundo. No puede entrar caminando así nada más. Necesita una puerta, y la puerta siempre es una persona: alguien que quiere algo con tantas ganas que acepta las condiciones.",
+     "Los isleños llaman daimón a todo demonio. Los eruditos son más cuidadosos. Un daimón quiere y toma, y sus tratos son carnada. Un diablo cumple los contratos al pie de la letra, y esa es otra clase de peligro con otras reglas."
+    ]
+   },
+   {
+    "title": "Cómo funciona un pacto",
+    "paragraphs": [],
+    "list": [
+     "El daimón ofrece lo que de verdad quieres. Casi siempre lleva un buen tiempo escuchando.",
+     "El precio se dice, y suena justo. Siempre es más de lo que suena.",
+     "El pacto se sella en algo que se lleva puesto o que se carga. Los orka usaban máscaras.",
+     "El poder corre por el sello hacia quien lo lleva, y algo de quien lo lleva corre de vuelta.",
+     "Nunca se ha registrado que alguien haya salido ganando."
+    ]
+   },
+   {
+    "title": "Las máscaras",
+    "paragraphs": [
+     "Una máscara de daimón orka es de hueso, de metal y de cosas peores, con la forma del daimón al que sirve. Algunas son toscas y están llenas de cuernos. Algunas son finas, y unas pocas son hermosas.",
+     "Una máscara que se lleva el tiempo suficiente ya no se puede quitar. Crece hacia la cara, y a quien la lleva se lo va gastando despacio desde adentro, hasta que lo que queda parado ahí es del daimón y de nadie más. Las máscaras que sobreviven están entre las cosas más peligrosas de las islas, y muchísima gente las está buscando."
+    ]
+   },
+   {
+    "title": "Los dieciséis Padres de las Máscaras",
+    "paragraphs": [
+     "Los orka sirvieron a dieciséis daimones, y sus nombres han llegado por las [[Tribus que Recuerdan|Remembering Tribes]] y por los estantes sellados de la [[Universidad|University]]. Casi todos los dieciséis duermen desde que cayó el imperio. Los eruditos tienen cuidado de agregar que dormir no es lo mismo que haberse ido."
+    ],
+    "table": {
+     "headers": [
+      "Nombre",
+      "Llamado",
+      "Daimón de"
+     ],
+     "rows": [
+      [
+       "Maradanash",
+       "el [[Conquistador|Conqueror]]",
+       "La guerra y el dominio. El primero con el que negociaron los orka."
+      ],
+      [
+       "Damonus",
+       "el Tentador",
+       "La oferta. Hace que la ruina suene a sensatez."
+      ],
+      [
+       "Nordrakarna",
+       "el Devorador de Eras",
+       "Los finales. Solo tiene que esperar más que tú."
+      ],
+      [
+       "Vanirionis",
+       "el Daimón del Deseo",
+       "El anhelo, y el trato que se hace por él."
+      ],
+      [
+       "Maliok",
+       "el Mentiroso",
+       "El juramento falso."
+      ],
+      [
+       "Valiok",
+       "la Ira",
+       "La rabia roja. El gemelo de Maliok."
+      ],
+      [
+       "Kaluk",
+       "la Sombra",
+       "Lo que se hace sin que se vea."
+      ],
+      [
+       "Mundus",
+       "la Cadena",
+       "La tiranía, y los incontables siervos de los orka."
+      ],
+      [
+       "Malagesh",
+       "el Maldiciente",
+       "La malicia, dicha en voz alta."
+      ],
+      [
+       "Zhirak",
+       "el Bebesangre",
+       "El altar rojo."
+      ],
+      [
+       "Kimakash",
+       "el Siempre Hambriento",
+       "El hambre."
+      ],
+      [
+       "Jundagesh",
+       "el Señor de la Podredumbre",
+       "La peste."
+      ],
+      [
+       "Filthuris",
+       "el Ensuciador",
+       "La mugre y lo que se echa a perder."
+      ],
+      [
+       "Gonkor",
+       "el Rompedor",
+       "La destrucción bruta."
+      ],
+      [
+       "Brikko",
+       "el Cuchillo Sonriente",
+       "La traición. El menor de todos, y el que más probablemente esté parado detrás de ti."
+      ],
+      [
+       "Zikanitraz",
+       "el [[Deshacedor|Unmaker]]",
+       "El deshacer. Los eruditos lo ponen aparte de los demás y prefieren no decir por qué."
+      ]
+     ],
+     "caption": "Los daimones de los orka"
+    }
+   },
+   {
+    "title": "Señales de que hay uno cerca",
+    "paragraphs": [],
+    "list": [
+     "Alguien ha tenido una racha de suerte que le queda un poco demasiado bien.",
+     "Un culto nuevo sin escrituras, solo con una cara.",
+     "Una persona que dejó de quitarse algo: una máscara, un anillo, un abrigo.",
+     "Los animales no quieren entrar a la casa.",
+     "Una herida que hace una semana era mortal, y ahora no lo es."
+    ]
+   },
+   {
+    "title": "Quién se les opone",
+    "paragraphs": [],
+    "list": [
+     "La Llama Sagrada de Jakupur caza grietas y las sella, y no da explicaciones.",
+     "Los inquisidores de la [[Concordia|Concord]] queman las máscaras cuando las encuentran, y no siempre están seguros de haber quemado lo que era.",
+     "Los orcos que recuerdan, de la fe de Gorrokar, entierran cada máscara que encuentran, hondo, y no le dicen a nadie dónde.",
+     "La [[Logia|Lodge]] publica los contratos contra daimones en Oro, y lee dos veces al cliente."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Salió a la venta una máscara. Tres compradores contrataron cada uno a alguien para asegurarse de que los otros dos no se la lleven.",
+     "Un pueblo tuvo la mejor cosecha de su historia, y una familia que no quiere salir de su casa.",
+     "A un esclavista del sur no lo han visto sin su máscara de hierro en seis años. Su propia tripulación lo quiere muerto y tiene miedo de intentarlo.",
+     "Un erudito hizo coincidir una cara de una talla orka con una cara vista el mes pasado en [[Ventoro|Goldwind]]."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Si la oferta es exactamente lo que quiere tu personaje, esa es la advertencia.",
+     "No te la pongas. No dejes que nadie más se la ponga. No la lleves en una bolsa con tu comida.",
+     "El trato de un daimón no se discute como un contrato. Eso es con los diablos. Sabe con cuál estás tratando."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Los tiflin llevan cuernos por una vieja mancha en la sangre, y casi todos están hartos de la pregunta.",
+     "La máscara llamada el Cuchillo Sonriente se ha vendido en subasta cuatro veces. A cada comprador lo traicionaron antes de un año.",
+     "El patrono de la Casa Alastor no es uno de los dieciséis, diga lo que diga Ventoro en voz baja."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Se puede saber qué tan fuerte es uno por sus cuernos. No estoy diciendo para qué lado corre.” (un archivero de la Universidad)",
+     "“Ninguno ha conseguido nunca lo que de verdad busca. Si uno lo consigue, todos nos vamos a enterar a la mañana siguiente.” (un inquisidor de la Concordia)",
+     "“Alguien lleva una puesta en Ventoro. Una fina. Nunca lo mirarías dos veces.” (un mozo de la Subasta Callada)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBhcmEgcXXDqSBsYWRvIGNvcnJlLioqIFVuIGRhaW3Ds24gbWVub3IgZXMgdW4gaG9ycm9yIGhpbmNoYWRvIGRlIGNpZW50b3MgZGUgY3Vlcm5vcy4gQSBtZWRpZGEgcXVlIHVuIGRhaW3Ds24gZ2FuYSBwb2RlciBsb3MgdmEgc29sdGFuZG8sIHkgc2UgdnVlbHZlIG3DoXMgbGltcGlvLCBtw6FzIGVsZWdhbnRlIHkgbcOhcyBodW1hbm8uIERvcyBvIHRyZXMgY3Vlcm5vcyBtYXJjYW4gYSB1biBHcmFuIERhaW3Ds24uIFVubyBtYXJjYSBhIHVuIFByw61uY2lwZS4gTWFyYWRhbmFzaCB0aWVuZSB1bm8sIERhbW9udXMgZG9zLCBOb3JkcmFrYXJuYSB0cmVzIHkgVmFuaXJpb25pcyBkb3MuIEFsIGRlc2Nvbm9jaWRvIGhlcm1vc28gZXMgYWwgcXVlIGhheSBxdWUgdGVtZXIuIiwgIioqTG8gcXVlIGJ1c2Nhbi4qKiBTb2x0YXIgZWwgw7psdGltbyBjdWVybm8gZXMgdm9sdmVyc2UgdW4gZGlvcy4gQ2FkYSBwYWN0bywgY2FkYSBhbG1hIHkgY2FkYSBpbXBlcmlvIGNvbnZlbmNpZG8gZGUgaXIgYSBzdSBydWluYSBlcyBjb21idXN0aWJsZSBwYXJhIGVzYSBzdWJpZGEuIE5pbmd1bm8gbGEgaGEgdGVybWluYWRvIHRvZGF2w61hLiIsICIqKlppa2FuaXRyYXoqKiB0aWVuZSBjdWVybm9zIHF1ZSBubyBzZSBwdWVkZW4gY29udGFyLiBFcyBwYXJpZW50ZSBkZWwgVmFjw61vLCB5IHB1ZWRlIHF1ZSBuaSBzaXF1aWVyYSBlc3TDqSBzdWJpZW5kbyBwb3IgbGEgbWlzbWEgZXNjYWxlcmEgcXVlIGxvcyBkZW3DoXMuIiwgIioqTmV0aGlzIGVzIHVuIGRpYWJsbywgbm8gdW4gZGFpbcOzbjoqKiB1biBzZcOxb3IgZGUgbGEgbGV5IHkgZGVsIGNvbnRyYXRvIGN1eW8gbm9tYnJlIHZlcmRhZGVybyBlcyBPc3RyYXZldGgsIGVsIEluZnJhc2NyaXRvLiBFbCBwYWN0byBkZSBsYSBDYXNhIEFsYXN0b3IgZXMgZGUgb3RyYSBjbGFzZSBxdWUgZWwgZGUgbG9zIG9ya2EsIHkgc2UgcHVlZGUgZGlzY3V0aXIuIiwgIioqTGEgW1tNYWRyZSBFc2NhcmxhdGF8U2NhcmxldCBNb3RoZXJdXSoqIGRlIGxhIFtbTGVnacOzbiBDYXJtZXPDrXxDcmltc29uIExlZ2lvbl1dIGVzdMOhIHRvY2FkYSBwb3IgVmFuaXJpb25pcywgcXVlIGxhIGFsY2FuemEgYSB0cmF2w6lzIGRlIHVuIHJlY2lwaWVudGUgbnVldm8geSBzaW4gc2FiZXJsbywgY29tbyBhbGd1bmEgdmV6IGFsY2FuesOzIGEgdHJhdsOpcyBkZSBsb3Mgc2XDsW9yZXMgZGUgbG9zIG9ya2EuIiwgIioqQ2luY28gbcOhc2NhcmFzIHNlIHB1ZWRlbiBlbmNvbnRyYXIuKiogTGEgbcOhc2NhcmEgZGUgZ3VlcnJhIGRlIE1hcmFkYW5hc2ggZXN0w6EgZW4gZWwgc2Fsw7NuIGRlbCB0cm9ubyBtw6FzIGhvbmRvIGJham8gR29sZ2FybWEuIExhIG3DoXNjYXJhIHNvbnJpZW50ZSBkZSBEYW1vbnVzIHRvZGF2w61hIHNlIGxsZXZhIHB1ZXN0YSwgZW4gdW4gdHJvbm8gYWhvZ2FkbyBkZSBOYWRow7tyLiBMYSBtw6FzY2FyYSBkZSBoaWVycm8gZGUgTXVuZHVzIGVzdMOhIGVuIGxhIGNhcmEgZGUgdW4gZXNjbGF2aXN0YSBxdWUgc2UgaGFjZSBsbGFtYXIgZWwgW1tQYWRyZSBkZSBsYXMgQ2FkZW5hc3xDaGFpbmZhdGhlcl1dIHkgbm8gc2UgbGEgcHVlZGUgcXVpdGFyLiBMYSBtw6FzY2FyYSBxdWUgc29ucsOtZSBkZSBCcmlra28gc2UgaGEgdmVuZGlkbyBjdWF0cm8gdmVjZXMgZW4gbGEgW1tTdWJhc3RhIENhbGxhZGF8UXVpZXQgQXVjdGlvbl1dLCB5IGEgY2FkYSBjb21wcmFkb3IgbG8gdHJhaWNpb25hcm9uIGFudGVzIGRlIHVuIGHDsW8uIExhIG3DoXNjYXJhIGRlIFppa2FuaXRyYXogbm8gZXN0w6EgZW4gbmluZ3VuYSBwYXJ0ZSwgeSBzZSBsYSB2ZSBjZXJjYSBkZSBsYXMgW1tCb2NhcyBIdWVjYXN8SG9sbG93LW1vdXRoc11dLiIsICIqKkxhcyBtw6FzY2FyYXM6IGN1w6FsZXMsIHkgZMOzbmRlKioiLCAiTGFzIG3DoXNjYXJhcyBkZSBsb3MgZGllY2lzw6lpcyBQYWRyZXMgZGUgbGFzIE3DoXNjYXJhcyB0b2RhdsOtYSBleGlzdGVuLCBhdW5xdWUgbGEgbWF5b3LDrWEgZXN0w6FuIHBlcmRpZGFzLiBFc3RhcyBjaW5jbyBzb24gbGFzIHF1ZSB1bmEgY2FtcGHDsWEgcHVlZGUgZW5jb250cmFyLiIsICIqKkxhIG3DoXNjYXJhIGRlIGd1ZXJyYSBkZSBNYXJhZGFuYXNoKiogKGVsIFtbQ29ucXVpc3RhZG9yfENvbnF1ZXJvcl1dLCB1biBjdWVybm8pLiBEw7NuZGUgZXN0w6EgZW4gZWwgMTc1IEVDOiBlbiBlbCBzYWzDs24gZGVsIHRyb25vIG3DoXMgaG9uZG8gYmFqbyBHb2xnYXJtYSwgZGV0csOhcyBkZSBsYSBwdWVydGEgcXVlIGFicmnDsyBsYSBbW05vdmVuYSBQYWxhfE5pbnRoIFNob3ZlbF1dIGVsIGHDsW8gcGFzYWRvLiBRdcOpIGxhIGd1YXJkYTogbGEgTGVnacOzbiBDYXJtZXPDrSwgcXVlIHRpZW5lIGxhIFtbR2FyZ2FudGF8VGhyb2F0XV0geSB0b2RhdsOtYSBubyBzYWJlIGxvIHF1ZSBoYXkgZGV0csOhcyBkZSBsYSBwdWVydGEuIiwgIioqTGEgbcOhc2NhcmEgc29ucmllbnRlIGRlIERhbW9udXMqKiAoZWwgVGVudGFkb3IsIGRvcyBjdWVybm9zKS4gRMOzbmRlIGVzdMOhIGVuIGVsIDE3NSBFQzogZW4gdW4gdHJvbm8gYWhvZ2FkbyBkZSBOYWRow7tyLCB0b2RhdsOtYSBwdWVzdGEuIFF1w6kgbGEgZ3VhcmRhOiB1biBzZWxsbyBzcG9ycm4gdml2byBkZSBsYSBbW0xhcmdhIEZsb3JhY2nDs258TG9uZyBCbG9vbV1dOyBsYSBjb2xvbmlhIHNpZW50ZSBjYWRhIGzDoW1wYXJhIHF1ZSBzZSBsZXZhbnRhIGVuIGVzZSBzYWzDs24uIiwgIioqTGEgbcOhc2NhcmEgZGUgaGllcnJvIGRlIE11bmR1cyoqIChsYSBDYWRlbmEpLiBEw7NuZGUgZXN0w6EgZW4gZWwgMTc1IEVDOiBsYSBsbGV2YSBlbCBhbW8gZGVsIFtbQW5pbGxvIGRlIEVzY2xhdmlzdGFzfFNsYXZlciBSaW5nXV0gbcOhcyBncmFuZGUgZGVsIHN1ciwgcXVlIHNlIGhhY2UgbGxhbWFyICoqZWwgUGFkcmUgZGUgbGFzIENhZGVuYXMqKi4gUXXDqSBsYSBndWFyZGE6IHN1IHByb3BpbyBtaWVkbzogbm8gc2UgbGEgcHVlZGUgcXVpdGFyLCB5IGxvIHNhYmUuIiwgIioqTGEgbcOhc2NhcmEgcXVlIHNvbnLDrWUgZGUgQnJpa2tvKiogKGVsIEN1Y2hpbGxvIHF1ZSBTb25yw61lKS4gRMOzbmRlIGVzdMOhIGVuIGVsIDE3NSBFQzogdmVuZGlkYSBjdWF0cm8gdmVjZXMgZW4gbGEgU3ViYXN0YSBDYWxsYWRhIGRlc2RlIGVsIDE2MCBFQy4gUXXDqSBsYSBndWFyZGE6IG5hZGEuIEEgY2FkYSBjb21wcmFkb3IgbG8gdHJhaWNpb27DsyBhbGd1aWVuIGNlcmNhbm8gYW50ZXMgZGUgdW4gYcOxbywgeSBsYSB2b2x2acOzIGEgdmVuZGVyLiIsICIqKkxhIG3DoXNjYXJhIGRlIFppa2FuaXRyYXoqKiAoZWwgW1tEZXNoYWNlZG9yfFVubWFrZXJdXSkuIETDs25kZSBlc3TDoSBlbiBlbCAxNzUgRUM6IGVuIG5pbmd1bmEgcGFydGUuIERlc2hhY2UgYSBxdWllbiBsYSBsbGV2YSBwdWVzdGEsIHkgZGVzcHXDqXMgYSBzw60gbWlzbWEsIHkgZGVzcHXDqXMgZXN0w6EgZW4gb3RybyBsYWRvLiBRdcOpIGxhIGd1YXJkYTogbG9zIHNwb3JybiBkaWNlbiBxdWUgc2UgbGEgaGEgdmlzdG8gY2VyY2EgZGUgbGFzIEJvY2FzIEh1ZWNhcy4gTG9zIHNwb3JybiBubyBicm9tZWFuLiIsICIqKkxvcyByZWNpcGllbnRlcyBkZSBob3kuKiogVmFuaXJpb25pcyBsbGVnYSBhIHRyYXbDqXMgZGUgbGEgTWFkcmUgRXNjYXJsYXRhIChWb2x1bWVuIFhJVikuIFpoaXJhaywgZWwgQmViZXNhbmdyZSwgZXN0w6EgZW4gbG9zIHJpdG9zIHJvam9zIGRlIGxhIExlZ2nDs24gQ2FybWVzw60gYSB0cmF2w6lzIGRlIHN1IHNhY2VyZG90ZSBkZSBndWVycmEsIGVsICoqW1tBYmFkIFJvam98UmVkIEFiYm90XV0qKiwgcXVlIGNyZWUgcXVlIGFkb3JhIGFsIGRpb3MgZGUgbGEgTWFkcmUgRXNjYXJsYXRhIHkgdGllbmUgbWVkaWEgcmF6w7NuLiBNdW5kdXMgdGllbmUgYWwgUGFkcmUgZGUgbGFzIENhZGVuYXMuIExvcyBvdHJvcyB0cmVjZSBkdWVybWVuLiBEb3JtaXIgbm8gZXMgbG8gbWlzbW8gcXVlIGhhYmVyc2UgaWRvLiIsICIqKkxhcyBbW1RyaWJ1cyBxdWUgUmVjdWVyZGFufFJlbWVtYmVyaW5nIFRyaWJlc11dLioqIExhcyB0cmlidXMgb3JjYXMgZGVsIHN1ciBxdWUgcmVjdWVyZGFuIGVsIGltcGVyaW8gb3JrYSB0aWVuZW4gZG9zIGplZmVzIHF1ZSB2YWxlIGxhIHBlbmEgY29ub2NlcjoiLCAiKipIcmFza2EgW1tWb3RvcGllZHJhfFN0b25ldm93XV0qKiwgdW5hIGplZmEgZmllbCBhIEdvcnJva2FyLCBxdWUgZW5zZcOxYSBxdWUgZWwgaW1wZXJpbyBjYXnDsyBwb3JxdWUgbGxldsOzIGxhcyBtw6FzY2FyYXMsIHkgcXVlIGxhIHJlZGVuY2nDs24gZGUgc3UgcHVlYmxvIGVzIGVudGVycmFyIGNhZGEgbcOhc2NhcmEgcXVlIGVuY3VlbnRyZW4uIExhIE5vdmVuYSBQYWxhIGhhIHB1ZXN0byBwcmVjaW8gYSBzdSBjYWJlemEuIiwgIioqVXpnb3IgZGUgbGEgRnJlbnRlIERlc251ZGEqKiwgcXVlIHNlIGFmZWl0w7MgbGEgY2FiZXphIHBhcmEgbW9zdHJhciBkw7NuZGUgbGUgdmFuIGEgY3JlY2VyIGxvcyBjdWVybm9zLCB5IHF1ZSBidXNjYSBsYSBtw6FzY2FyYSBkZSBNYXJhZGFuYXNoLiBBdmVyaWd1w7MgZMOzbmRlIGVzdMOhLiJdfQ=="
+   }
+  ],
+  "title": "Los daimones"
  }
 }
