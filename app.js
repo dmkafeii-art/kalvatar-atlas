@@ -255,6 +255,11 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "giants-table": ["scenes", "Horned moorhorses circle the stone at sunrise.", "Caballos cornudos rodean la losa al amanecer.", "giants-table", {"width": 1536, "height": 768}],
+ "inkers-circle": ["scenes", "A printer lifts a fresh sheet of Hunter Ranking cards.", "Un impresor levanta una hoja recién impresa de cartas de cazadores.", "inkers-circle", {"width": 1536, "height": 864}],
+ "brassfield": ["scenes", "A cane worker counts brass tokens as the clerk reads the ledger.", "Un trabajador cuenta fichas de latón mientras el escribiente lee las deudas.", "brassfield", {"width": 1536, "height": 864}],
+ "red-choir": ["scenes", "Sahuagin priests sing beneath the King Tide.", "Los sacerdotes sahuagin cantan bajo la gran marea.", "red-choir", {"width": 1536, "height": 864}],
+ "silver-ships": ["scenes", "Unlit ships cross a moonlit sea.", "Barcos sin faroles cruzan un mar iluminado por la luna.", "silver-ships", {"width": 1536, "height": 786}],
  'azhani': ['folk', 'Azhani Emberstep dances on glowing embers at the Gullmarket.', 'Azhani Emberstep baila sobre las brasas en el Gullmarket.', 'azhani', {width:1024,height:1536}],
  "the-commons": ["scenes", "Neighbors trade and work along a street in the Commons.", "Los vecinos compran y trabajan en una calle de El Común.", "the-commons-approved-v1", {"width": 1536, "height": 1024}],
  "the-canals": ["scenes", "A boatwoman sings as she passes beneath the Kettle Bridge.", "Una barquera canta al pasar bajo el Puente de la Tetera.", "the-canals-approved-v1", {"width": 1536, "height": 1024}],
