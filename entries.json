@@ -14285,7 +14285,10 @@
    "sea-customs",
    "grey-fathoms",
    "silver-ships"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "aurelion",
