@@ -314,6 +314,10 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
+ "sunhold": [["sunhold-vintage","The price of a harvest","El precio de una cosecha","A grower watches a bank appraiser taste the wine.","Un viticultor observa a la tasadora que prueba su vino.",{"width":1536,"height":864}]],
+ "crystalhaven": [["crystalhaven-false-lights","The false lights","Las falsas luces","Granny Ylva raises her lantern above the frozen harbor.","Granny Ylva alza su farol sobre el puerto helado.",{"width":1536,"height":864}]],
+ "zalkareth": [["zalkareth-upriver","What comes upriver","Lo que sube por el río","An Orka relic arrives under cover of rain.","Una reliquia Orka llega bajo la lluvia.",{"width":1536,"height":864}]],
+ "snowvah": [["snowvah-last-post","The last post","El último poste","A guide waits beside the last marker on the ice.","Un guía espera junto al último poste sobre el hielo.",{"width":1536,"height":768}]],
  "kitehill": [["kitehill-caught-kite","Caught it!","¡La atrapé!","A child catches a cut kite on the Long Stair.","Una niña atrapa una cometa suelta en la Gran Escalera.",{"width":1536,"height":864}]],
  "lower-harbor": [["harbor-salt-offering","A pinch before sailing","Una pizca antes de zarpar","The crew waits while the captain leaves salt on the steps.","La tripulación espera mientras el capitán deja sal en los escalones.",{"width":1536,"height":864}]],
  "gullmarket": [["gullmarket-returned-compass","What the sea returned","Lo que devolvió el mar","A sailor recognizes a dripping compass at a secondhand stall.","Una marinera reconoce una brújula que todavía gotea en un puesto de segunda mano.",{"width":1536,"height":864}],["gullmarket-coinsday","Coinsday on Fish Row","Coinsday en Fish Row","A fishwife raises a mackerel as a buyer holds up a coin.","Una pescadera alza una caballa mientras una compradora le muestra una moneda.",{"width":1536,"height":864}]],
@@ -344,7 +348,7 @@ const galleryScenes = {
  'hunters-citadel': [['hunters-citadel-goldwind-falls', 'Above the Goldwind Falls', 'Sobre las cascadas de Goldwind', 'The Hunters’ Citadel rises above the cliffs and waterfalls of Goldwind.', 'La Ciudadela de los Cazadores se alza sobre los acantilados y las cascadas de Goldwind.']],
  'black-harbor': [['black-harbor-fogbound-wharf', 'The fogbound wharf', 'El muelle entre la niebla', 'Lanterns light the wooden wharf beneath the sea caves of Black Harbor.', 'Los faroles iluminan el muelle de madera bajo las cuevas marinas de Black Harbor.']],
  'stormreach': [['stormreach-shipyard-storm-break', 'The shipyard after the storm', 'El astillero tras la tormenta', 'Sunlight breaks through the clouds over the shipyard of Stormreach.', 'La luz atraviesa las nubes sobre el astillero de Stormreach.']],
- 'kaldmark': [['kaldmark-black-keep', 'The black keep', 'La fortaleza negra', 'Travelers approach the gate of Kaldmark beneath a bear-skull banner.', 'Unos viajeros se acercan al portón de Kaldmark bajo un estandarte con un cráneo de oso.']],
+ 'kaldmark': [["kaldmark-icebrand","Inside the icebrand stillhouse","Al calor del icebrand","Warriors return to the stillhouse beneath the bear-skull banner.","Los guerreros vuelven a la destilería bajo el estandarte del cráneo de oso.",{"width":1536,"height":864}],['kaldmark-black-keep', 'The black keep', 'La fortaleza negra', 'Travelers approach the gate of Kaldmark beneath a bear-skull banner.', 'Unos viajeros se acercan al portón de Kaldmark bajo un estandarte con un cráneo de oso.']],
  'widows-teeth': [['widows-teeth-pilot-boat', 'A pilot boat through the Teeth', 'Una lancha de prácticos entre los Dientes', 'A pilot boat threads the channel between the jagged rocks of the Widow’s Teeth.', 'Una lancha de prácticos cruza el canal entre los farallones de los Dientes de la Viuda.']]
 };
 
