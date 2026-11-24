@@ -4016,7 +4016,7 @@
    {
     "title": "La mesa del Almirantazgo",
     "paragraphs": [
-     "El Gran Almirante Kalivos Durant, [[Señor de las Nueve Flotas|Lord of the Nine Fleets]], manda desde el *[[Conquistador|Conqueror]]* y conserva la Primera Flota, el [[Muro de Hierro|Iron Wall]]. La [[Gran Mariscal|Lady High Marshal]] Serane Marr es la segunda de la Armada y Primera del [[Mando de Marfil|Ivory Command]]. La [[Mariscal de Tormenta|Storm Marshal]] Brigid Thane encabeza la [[Vanguardia Cerúlea|Cerulean Vanguard]]; el [[Señor Castellano|Lord Castellan]] Edran Holst supervisa los puertos, las estaciones y las fortificaciones.",
+     "El Gran Almirante Kalivos Durant, [[Señor de las Nueve Flotas|Lord of the Nine Fleets]], manda desde el *[[Conquistador|Conqueror]]* y conserva la [[Primera Flota|First Fleet]], el [[Muro de Hierro|Iron Wall]]. La [[Gran Mariscal|Lady High Marshal]] Serane Marr es la segunda de la Armada y Primera del [[Mando de Marfil|Ivory Command]]. La [[Mariscal de Tormenta|Storm Marshal]] Brigid Thane encabeza la [[Vanguardia Cerúlea|Cerulean Vanguard]]; el [[Señor Castellano|Lord Castellan]] Edran Holst supervisa los puertos, las estaciones y las fortificaciones.",
      "Oficialmente hay una quinta silla vacía. En los muelles la llaman la silla de la [[Mortaja|Shroud]]."
     ]
    },
@@ -26652,5 +26652,194 @@
    }
   ],
   "title": "Las Calaveras de Junco"
+ },
+ "storm-listeners": {
+  "gloss": "Stormchanters",
+  "aliases": [
+   "Cantatormentas",
+   "Escuchatormentas"
+  ],
+  "subtitle": "Guardianes del santuario de los Cinco Cielos",
+  "summary": "Orcos guardianes de un santuario de los Cinco Cielos en el Corazón Central. Antes conocidos por su vida tranquila en la isla, ahora se preparan para la guerra desde que el Señor Mortimer Vanris reclamó su costa.",
+  "facts": [
+   [
+    "Hogar",
+    "Una isla del [[Corazón Central|Central Heartland]]"
+   ],
+   [
+    "Tradición",
+    "Devoción chamánica a los [[Cinco Cielos|Five Skies]]"
+   ],
+   [
+    "Población",
+    "La mayor concentración de semiorcos de Kalvatar"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El santuario y la prisión",
+    "paragraphs": [
+     "Los isleños dicen que las cinco piedras gastadas de la cresta marcaban un santuario de los Cinco Cielos. En una época posterior la isla se volvió una prisión para orcos. Bajo el santuario, las familias todavía llaman a los viejos cimientos el patio de la prisión, aunque nadie se pone de acuerdo sobre cuándo se fueron los últimos guardias.",
+     "Los primeros prisioneros fueron orcos del sur, y trajeron al norte su rito del cielo. Las piedras todavía miran al sur."
+    ]
+   },
+   {
+    "title": "Escuchar a los cielos",
+    "paragraphs": [
+     "Con las generaciones, los orcos de la isla desarrollaron un lazo hondo con los Cinco Cielos. Sus chamanes velan entre las piedras y les enseñan a los niños a quedarse sentados durante un cambio de viento antes de pedirles una respuesta a los cielos. La tribu prefiere una vida tranquila de pesca, de cuidar el santuario y de arreglar los pleitos alrededor del fuego. Las familias llevan mucho tiempo haciendo lazos con los puertos vecinos, y hoy la isla es el hogar de la mayor concentración de semiorcos de Kalvatar."
+    ]
+   },
+   {
+    "title": "Un odio viejo",
+    "paragraphs": [
+     "Las otras tribus orcas desprecian a los [[Cantatormentas|Stormchanters]]. Sus jefes de guerra dicen que la gente del santuario traicionó lo que significa ser orco. Los Cantatormentas todavía recitan sus linajes por el [[Relato|Telling]], incluidos los nombres de los primeros prisioneros. Al final de cada recitación, nombran a los niños nacidos desde la anterior."
+    ]
+   },
+   {
+    "title": "Hace setenta años",
+    "paragraphs": [
+     "En la Guerra del [[Ascendente|Ascendant]], los orcos de la isla fueron a la guerra junto a las otras tribus en la primera [[Gran Coalición|Grand Coalition]]. Es la única guerra que han peleado, y la pelearon por Kalvatar. Algunos isleños dicen que los últimos guardias de la prisión zarparon hacia [[Ventoro|Goldwind]] ese año y nunca volvieron."
+    ]
+   },
+   {
+    "title": "El puerto que quería Vanris",
+    "paragraphs": [
+     "Los Cantatormentas vivieron en paz hasta que el Señor Mortimer Vanris decidió construir un puerto en su isla. Los isleños de las costas cercanas se opusieron al plan y le pidieron que construyera en una isla vecina o que negociara con los orcos. Mortimer tomó el pedido como un insulto. A instancias suyas, el [[escaño de los Nobles|Nobles' seat]] llevó el asunto ante el [[Consejo|Council]], que declaró a los Cantatormentas “enemigos de Kalvatar”."
+    ]
+   },
+   {
+    "title": "Las tormentas que llamaron",
+    "paragraphs": [
+     "Los barcos de la [[Primera Flota|First Fleet]] hicieron los primeros ataques, junto con [[Cazadores|Hunters]] pagados por Vanris. En respuesta, los Cantatormentas llamaron tormentas lo bastante fuertes para hundir barcos. Sus chamanes y druidas recurrieron a poderes primordiales para destruir cualquier presencia que no fuera orca cerca de la isla. Por primera vez desde la Guerra del Ascendente, los Cantatormentas se preparan para la guerra.",
+     "Hasta los isleños vecinos que hablaron en su defensa se encuentran ahora rechazados. La campaña de Vanris les enseñó a los Cantatormentas a desconfiar de todos los que están fuera de la tribu.",
+     "La isla está atravesada sobre rutas comerciales importantes del Corazón Central. Las tormentas obligan ahora a los capitanes mercantes a esperar el buen tiempo o a tomar pasajes más largos. Mortimer quería un puerto en una ruta concurrida. Ahora tiene que vérselas con una tribu de orcos que conoce esas aguas y que eligió pelear por ellas."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Por primera vez en setenta años, los Cantatormentas hablan de unirse a las otras tribus orcas en una guerra.” (se oye en el Corazón Central)",
+     "“Un huevo de pájaro del trueno descansa en lo más alto del santuario de los Cantatormentas. Dicen que la tribu lo está vigilando.” (se oye en el Corazón Central)"
+    ]
+   }
+  ],
+  "title": "Los Cantatormentas"
+ },
+ "the-southern-survey": {
+  "gloss": "The Southern Survey",
+  "aliases": [
+   "el Reconocimiento",
+   "los barcos de reconocimiento imperiales"
+  ],
+  "subtitle": "Cinco barcos imperiales, con el salvoconducto del Consejo",
+  "summary": "Desde el 171 EC, cinco barcos imperiales oscuros están fondeados en la Rada de los Forasteros frente a Fuerte de Hierro con el salvoconducto del Consejo, enviados, dice el Trono del Sol, a cartografiar los mares del sur para sus eruditos. La nobleza ha protestado cada año. Nadie en las islas los ha visto nunca apurados.",
+  "epigraph": {
+   "quote": "Hacen preguntas muy corteses, y anotan las respuestas antes de que termines de darlas.",
+   "by": "un capitán de puerto de Fuerte de Hierro"
+  },
+  "facts": [
+   [
+    "Desde",
+    "171 EC"
+   ],
+   [
+    "Fondeadero",
+    "la [[Rada de los Forasteros|Strangers' Roads]] frente a [[Fuerte de Hierro|Ironfort]], bajo los cañones de [[Fuerte Estela|Wakefort]]"
+   ],
+   [
+    "Barcos",
+    "cinco: la *[[Vista Clara|Clear Sight]]* (buque insignia), la *Medida*, la *[[Tercera Alba|Third Dawn]]*, la *Obediencia* y la *[[Mano Firme|Steady Hand]]*"
+   ],
+   [
+    "Comandante",
+    "Than Val Corisse Tallaran"
+   ],
+   [
+    "Enviado",
+    "Val Edrian Sarmeth"
+   ],
+   [
+    "Navega con",
+    "los colores de la [[Flota de Hierro|Iron Fleet]], por el salvoconducto del [[Consejo|Council]]"
+   ],
+   [
+    "Protestado por",
+    "cada [[Asamblea de las Banderas|Moot of Banners]] desde el 171 EC"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "El [[Reconocimiento del Sur|Southern Survey]] de la Flota de Hierro es la única presencia permanente del [[Imperio Korvan|Korvan Imperium]] en las islas. El Consejo de las [[Islas Cartografiadas|Charted Isles]], que no está en guerra con el [[Imperio|Imperium]], le dio salvoconducto en el 171 EC como misión diplomática y erudita: cartografiar los mares del sur y el hielo para los eruditos del [[Trono del Sol|Sun-Throne]], y llevar a un enviado que visita al Consejo una vez al año.",
+     "Las casas nobles, que están en guerra con el Imperio, protestaron en la Asamblea del 171 EC y en cada Asamblea desde entonces. El Consejo les ha dado las gracias cada año y no ha cambiado nada."
+    ]
+   },
+   {
+    "title": "Los barcos",
+    "paragraphs": [
+     "Cinco barcos de vela largos, bajos y de casco oscuro, con mástiles altos y muy poca decoración, fondeados en la Rada de los Forasteros frente a Fuerte de Hierro, donde los barcos extranjeros esperan permiso para entrar. Sus nombres están pintados chiquitos, en la escritura Común y en korvano.",
+     "**La *Vista Clara*,** el buque insignia, que lleva al comandante y al enviado.",
+     "**La *Medida*,** la que más veces va al sur, y que una vez estuvo tres noches frente a [[Caída Eterna|Everfall]].",
+     "**La *Tercera Alba*,** que lleva a la mayoría de los eruditos.",
+     "**La *Obediencia*,** cuya tripulación nunca baja a tierra.",
+     "**La *Mano Firme*,** el barco de suministros, que va y viene de los muelles de Fuerte de Hierro con cajones.",
+     "Sus tripulaciones no salen de sus barcos. Sus botes van y vienen a toda hora. Nadie en las islas ha visto nunca a un barco del Reconocimiento correr, disparar un cañón o llegar apurado a ninguna parte."
+    ]
+   },
+   {
+    "title": "Su gente",
+    "paragraphs": [],
+    "list": [
+     "**Than Val Corisse Tallaran,** el comandante, un oficial callado de ojos grises de la Flota de Hierro que habla Común sin acento y nunca, ni una vez, lo han visto en tierra sin guantes.",
+     "**Val Edrian Sarmeth,** el enviado, encantador, curioso y bien vestido, que visita al Consejo una vez al año como observador y cena dondequiera que lo inviten, que son más lugares de los que le gustarían a la nobleza.",
+     "**Los eruditos,** que dibujan costas, compran cartas y libros, miden mareas, juntan conchas y piedras, y hacen preguntas muy corteses."
+    ]
+   },
+   {
+    "title": "Sus condiciones",
+    "paragraphs": [
+     "El salvoconducto del Consejo permite a los barcos del Reconocimiento hacer escala en cualquier puerto del Consejo con aviso, tomar prácticos del Consejo y pagar los derechos de puerto como cualquiera. Les prohíbe llevar armas a tierra, desembarcar en tierra de una casa sin permiso de la casa o entrar a las [[Aguas Selladas|Sealed Waters]]. Nunca han atrapado al Reconocimiento rompiendo una condición."
+    ]
+   },
+   {
+    "title": "Lo que piensan las islas",
+    "paragraphs": [],
+    "list": [
+     "**La nobleza:** que un barco imperial en aguas de Kalvatar es un insulto, y cinco son cinco insultos.",
+     "**Faust:** vigila al Reconocimiento desde la batería de Fuerte Estela, y saca los cañones cada mañana.",
+     "**Vanris:** guía a los barcos del Reconocimiento por el [[Anillo de la Serpiente|Serpent's Coil]], a tarifa completa, y les cuenta los mástiles.",
+     "**Holst:** revisa sus papeles en cada puerto, y los encuentra perfectos cada vez.",
+     "**El Consejo:** que una misión que se puede ver es mejor que agentes que no se ven.",
+     "**Los muelles:** que el Reconocimiento paga en buenos [[Orsales|Orsals]], deja buenas propinas y nunca se emborracha."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los barcos de reconocimiento imperiales toman un práctico Quellin para cruzar el Anillo como todos, y los prácticos dicen que esos barcos responden al timón más rápido que cualquier cosa que hayan gobernado.” (un práctico de la Isla del Práctico)",
+     "“El Reconocimiento compró una carta de los Cunaestrella a través de un comerciante de Ventoro, y la devolvió un mes después con una corrección en el margen. Tenía razón.” (un aprendiz de Aldmere)",
+     "“En las noches quietas se oye algo zumbando bajo las cubiertas de la Vista Clara, como una colmena.” (un lanchero de Fuerte de Hierro)",
+     "“Los botes del Reconocimiento nunca vuelven por donde se fueron.” (un carretero de Corona de Zarzas)",
+     "“El enviado ha cenado en más grandes casas que el Consejo, y algunas nunca lo han admitido.” (un cocinero de Ventoro)"
+    ]
+   },
+   {
+    "title": "En la mesa",
+    "paragraphs": [
+     "Un erudito del Reconocimiento quiere un guía hacia un lugar de la costa que no está en ninguna carta, y paga muy bien.",
+     "Faust quiere saber qué descarga la *Mano Firme* de noche en los muelles de Fuerte de Hierro.",
+     "El enviado invitó a uno de ustedes a cenar a bordo de la *Vista Clara*.",
+     "Un bote del Reconocimiento desembarcó en tierra de una casa sin permiso, y la casa quiere que el Consejo lo vea antes de que el Reconocimiento pueda explicarse.",
+     "Alguien en Fuerte de Hierro está vendiendo dibujos que salieron de un barco imperial, y tres casas los quieren comprar."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlY3JldG86IHF1w6kgZXMuKiogTG9zIGNpbmNvIG1lam9yZXMgYmFyY29zIGRlIGxhIFtbRmxvdGEgZGUgSGllcnJvfElyb24gRmxlZXRdXSwgY29uc3RydWlkb3MgZW4gU2thZHJlbCBzZWfDum4gbG9zIGRpc2XDsW9zIGRlbCBbW1RhbGxlciBkZSBFbmdyYW5hamVzfEdlYXJ3b3Jrc11dOiBjYXNjb3MgZGUgYWNlcm8gYmFqbyB1biBmb3JybyBkZSBtYWRlcmEsIG3DoXF1aW5hcyBkZSB2YXBvciBzZWxsYWRhcyB5IGjDqWxpY2VzIGRlYmFqbyBkZSBzdXMgYXBhcmVqb3MgZGUgdmVsYSwgY2HDsW9uZXMgZXN0cmlhZG9zIGRlIHJldHJvY2FyZ2EgcXVlIGRpc3BhcmFuIGdyYW5hZGFzIGV4cGxvc2l2YXMsIGxlbnRlcyBtZWpvcmVzIHF1ZSBsYXMgZGUgW1tBZ3VqYSBBbHRhfEhpZ2hzcGlyZV1dIHkgbMOhbXBhcmFzIGRlIGNpZnJhIHBhcmEgaGFjZXIgc2XDsWFsZXMgZGUgbm9jaGUuIExhcyBpc2xhcyBudW5jYSBsb3MgaGFuIHZpc3RvIGNvcnJlciwgZGlzcGFyYXIgbmkgaGFjZXIgc2XDsWFsZXMsIHkgbm8gc2FiZW4gbmFkYSBkZSBlc28uIFVuIGJhcmNvIGRlbCBSZWNvbm9jaW1pZW50byBwb2Ryw61hIGRlamFyIGF0csOhcyBhIGN1YWxxdWllciBjb3NhIGRlIGxhIEFybWFkYSB5IHN1cGVyYXIgZW4gZnVlZ28gYSBjdWFscXVpZXIgY29zYSBtw6FzIGNoaWNhIHF1ZSB1biBbW1ZlcmR1Z298RXhlY3V0aW9uZXJdXS4iLCAiKipTZWNyZXRvOiBkZSBxdWnDqW4gZXMuKiogTmF2ZWdhIGNvbW8gZGUgSXNlbWJldGgsIGVsIEN1YXJ0byBSYXlvIHkgW1tHcmFuIEFsbWlyYW50ZXxHcmFuZCBBZG1pcmFsXV0sIHkgY2FydG9ncmFmw61hIGxhIEFybWFkYSwgZWwgZXN0cmVjaG8geSBsb3MgcGFzb3MgZGVsIHN1ciBwYXJhIGVsIGTDrWEgZW4gcXVlIGxvcyBhY29yYXphZG9zIGJhamVuIGFsIHN1ci4gU3UgZW52aWFkbyBlcyBkZSBLZXN0cmlhbiwgZWwgW1tTw6lwdGltbyBSYXlvfFNldmVudGggUmF5XV0geSBsYSBbW01hbm8gZGVsIFN1cnxTb3V0aGVybiBIYW5kXV0sIHkgcG9yIMOpbCBwYXNhbiBsYXMgw7NyZGVuZXMgeSBlbCBkaW5lcm8gZGUgSmFudXMgUnVuZS4gR2VudGUgZGUgZG9zIFJheW9zIG5hdmVnYSBlbiBsb3MgbWlzbW9zIGNpbmNvIGJhcmNvcyB5IHNlIHZpZ2lsYSBlbnRyZSBzw60uIiwgIioqU2VjcmV0bzogbG8gcXVlIHBhc2EgcG9yIMOpbC4qKiBBZ2VudGVzIHkgcGxhbm9zLiBMYSAqTWVkaWRhKiBlc3R1dm8gdHJlcyBub2NoZXMgZnJlbnRlIGEgW1tDYcOtZGEgRXRlcm5hfEV2ZXJmYWxsXV0gY29uIGtvcnZhbiBwYXJhIElnbmF0aXVzIFtbQ29yYXNjdWF8RW1iZXJoZWFydF1dLiBMb3MgZGlidWpvcyBkZWwgYXJtYSBkZSByZXRyb2NhcmdhIGRlIFdpbGhlbG0gRmF1c3QgYmFqYXJvbiBhbCBzdXIgZW4gdW4gY2Fqw7NuIGRlIFJhbmthciBkZXNjYXJnYWRvIGRlIGxhICpbW01hbm8gRmlybWV8U3RlYWR5IEhhbmRdXSouIEVsIGVudmlhZG8gY2Vuw7MgZW4gbGFzIGFsdHVyYXMgZGUgbG9zIFZvbCBLYWVybiBlbiBlbCAxNzQgRUMuIExhcyBwcmVndW50YXMgY29ydGVzZXMgZGUgbG9zIGVydWRpdG9zIHNvbiBzb2JyZSBsYSBbW01hcmVhIFJleXxLaW5nIFRpZGVdXSBkZWwgMTc3IEVDIHkgbGFzIFtbQWd1YXMgU2VsbGFkYXN8U2VhbGVkIFdhdGVyc11dLiBMYSAqT2JlZGllbmNpYSogZXMgdW4gYmFyY28gU29sLCBjb24gbGEgSW5xdWlzaWNpw7NuIGEgYm9yZG8uIl19"
+   }
+  ],
+  "title": "El Reconocimiento del Sur"
  }
 }
