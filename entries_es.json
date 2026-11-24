@@ -441,7 +441,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlY3JldG86KiogSWx5cnJhIHNhYmUgbG8gcXVlIGVzIEthdGguIExvIHNhYmUgZGVzZGUgaGFjZSB0cmVzY2llbnRvcyBhw7Fvcy4gSGEgZGVjaWRpZG8gcXVlIGxhIHN1cGVyZmljaWUgZXMgbcOhcyBmZWxpeiBzaW4gc2FiZXJsbywgeSBwdWVkZSBxdWUgdGVuZ2EgcmF6w7NuLiIsICIqKkxhIGJpZW52ZW5pZGEgZGUgbG9zIFBlbGFnYXIuKiogTGEgY2FzYSBkZWwgQ29tZXJjaW8gSG9uZG8gaGl6byB1biB0cmF0byBjb24gdW5hIGNvcnRlIGh1bmRpZGEgZGUgbG9zIFtbQ29uZmluZXMgZGVsIENyZXDDunNjdWxvfFR3aWxpZ2h0IFJlYWNoZXNdXSwgeSBlbCB0cmF0byBoYSBoZWNobyBxdWUgbG9zIFBlbGFnYXIgc2VhbiBiaWVudmVuaWRvcyBlbiBsbyBob25kby4gRWwgcHJlY2lvIGVzIHVuYSBwZXJsYSBkZSBtZW1vcmlhIGFsIGHDsW8sIHRvbWFkYSBkZSBsb3MgbXVlcnRvcyBkZSB1bmEgZmFtaWxpYSBkZSBsYSBzdXBlcmZpY2llLiBBIGxhIGZhbWlsaWEgbnVuY2Egc2UgbGUgZGljZSwgeSBsYSBwZXJsYSBudW5jYSBzZSBkZXZ1ZWx2ZS4iLCAiKipUaGFsZ29yYXRoIGVzIGVsIG1hZXN0cm8gZGUgY29ybyBkZWwgW1tDb3JvIFJvam98UmVkIENob2lyXV0uKiogRWwgW1tTZcOxb3IgU2FsdmFqZXxTYXZhZ2UgTG9yZF1dIG5vIGVzIHNvbG8gdGVtaWRvIHBvciBlbCBDb3JvIFJvam8uIExvIGRpcmlnZSwgeSBzdXMgaGltbm9zIHNvbiBsYSBmdWVudGUgZGUgbGEgZnVyaWEgZGUgbG9zIHNhaHVhZ2luLiBMYXMgY2FuY2lvbmVzIGRlbCBDb3JvIFJvam8gc3ViaXLDoW4gZW50ZXJhcyBhIGxhIHN1cGVyZmljaWUgY29uIGxhIFtbTWFyZWEgUmV5fEtpbmcgVGlkZV1dIGRlbCAxNzcgRUMuIiwgIioqTGFzIGNvcGlhcyBkZWwgQ29yYXrDs24gc29uIGxhIG1lbW9yaWEgZGVsIG1hci4qKiBDYWRhIGNvcGlhIGRlbCBzdWpldG8gZGVsIENvcmF6w7NuIGVuIGxhcyBjdWJhcyBkZSBbW0Nhw61kYSBFdGVybmF8RXZlcmZhbGxdXSBlcyB1biB6YXJjaWxsbyBkZSBLYXRoIGVtcHVqYWRvIGhhY2lhIGVsIG11bmRvIHNlY28uIExvcyBbW1ZpZWpvcyBDYXBhcmF6b25lc3xPbGQgU2hlbGxzXV0gbG8gc2FiZW4sIHkgaGFuIHJlc3BvbmRpZG8gbGEgcHJlZ3VudGEgc29icmUgZWwgQ29yYXrDs24gdHJlcyB2ZWNlcyBlbiBsYSDDumx0aW1hIGdlbmVyYWNpw7NuLCBjb24gbGEgbWlzbWEgcmVzcHVlc3RhOiAqbm9zIGVzdMOhIHJlY29yZGFuZG8uKiIsICIqKkxhIHBsYXRhIGRlIEVtcmkuKiogRW1yaSBoYSBlc3RhZG8gbGxldmFuZG8gcGxhdGEgZGUgbGEgW1tWaWdpbGlhfFZpZ2lsXV0gcGFyYSBsYXMgY29ydGVzIFtbc29sZWFkYXN8U3VubGl0XV0uIExhcyBjb3J0ZXMgc29sZWFkYXMgcXVpZXJlbiBsYSBwbGF0YSBwYXJhIHByb3RlZ2Vyc2UgZGVsIFtbWnVtYmlkb3xIdW1dXSwgcXVlIGVtcGV6w7MgYSBsbGVnYXIgYWwgbWFyIGFiaWVydG8gcG9yIGxhcyBjb3JyaWVudGVzIGRlbCBbW0FndWEgTXVkYXxNdXRld2F0ZXJdXS4gRW1yaSBubyBzYWJlIHF1acOpbiBsZSBkaW8gbGEgcGxhdGEuIFNvc3BlY2hhIGRlIGxhIFtbTW9ydGFqYXxTaHJvdWRdXS4iLCAiKipMYSBzZWd1bmRhIGVzdHJlbGxhIGRlIFhhdGhuYXRyYXouKiogQmFqbyBsYSBpc2xhIGhheSB1bmEgZXN0cmVsbGEgY2HDrWRhLCB5IGVzIGxhIGZ1ZW50ZSBkZSBsb3MgcmVuYWNpbWllbnRvcyBkZWwgUmV5IFJ1bmUuIExhIGVzdHJlbGxhIGVzIGxhIEx1bWluYXJpYSBxdWUgc2UgaHVuZGnDsyBlbiBlbCBbW0XDs24gZGUgbGEgT3NjdXJpZGFkfEVvbiBvZiBEYXJrbmVzc11dLCB5IGVsIFtbQ29yYXrDs24gZGUgS2F0aHxIZWFydCBvZiBLYXRoXV0gZnVlIGFsZ3VuYSB2ZXogc3UgZ3VhcmRpw6FuLiBFbCBbW0ltcGVyaW98SW1wZXJpdW1dXSBxdWllcmUgbGEgZXN0cmVsbGEgcGFyYSBlbCBDb3JhesOzbi4gVmVsZW1ub3MgbGEgcXVpZXJlIHBhcmEgc8OtLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlY3JldG86KiogSWx5cnJhIHNhYmUgbG8gcXVlIGVzIEthdGguIExvIHNhYmUgZGVzZGUgaGFjZSB0cmVzY2llbnRvcyBhw7Fvcy4gSGEgZGVjaWRpZG8gcXVlIGxhIHN1cGVyZmljaWUgZXMgbcOhcyBmZWxpeiBzaW4gc2FiZXJsbywgeSBwdWVkZSBxdWUgdGVuZ2EgcmF6w7NuLiIsICIqKkxhIGJpZW52ZW5pZGEgZGUgbG9zIFBlbGFnYXIuKiogTGEgY2FzYSBkZWwgQ29tZXJjaW8gSG9uZG8gaGl6byB1biB0cmF0byBjb24gdW5hIGNvcnRlIGh1bmRpZGEgZGUgbG9zIFtbQ29uZmluZXMgZGVsIENyZXDDunNjdWxvfFR3aWxpZ2h0IFJlYWNoZXNdXSwgeSBlbCB0cmF0byBoYSBoZWNobyBxdWUgbG9zIFBlbGFnYXIgc2VhbiBiaWVudmVuaWRvcyBlbiBsbyBob25kby4gRWwgcHJlY2lvIGVzIHVuYSBbW3BlcmxhIGRlIG1lbW9yaWF8bWVtb3J5LXBlYXJsXV0gYWwgYcOxbywgdG9tYWRhIGRlIGxvcyBtdWVydG9zIGRlIHVuYSBmYW1pbGlhIGRlIGxhIHN1cGVyZmljaWUuIEEgbGEgZmFtaWxpYSBudW5jYSBzZSBsZSBkaWNlLCB5IGxhIHBlcmxhIG51bmNhIHNlIGRldnVlbHZlLiIsICIqKlRoYWxnb3JhdGggZXMgZWwgbWFlc3RybyBkZSBjb3JvIGRlbCBbW0Nvcm8gUm9qb3xSZWQgQ2hvaXJdXS4qKiBFbCBbW1Nlw7FvciBTYWx2YWplfFNhdmFnZSBMb3JkXV0gbm8gZXMgc29sbyB0ZW1pZG8gcG9yIGVsIENvcm8gUm9qby4gTG8gZGlyaWdlLCB5IHN1cyBoaW1ub3Mgc29uIGxhIGZ1ZW50ZSBkZSBsYSBmdXJpYSBkZSBsb3Mgc2FodWFnaW4uIExhcyBjYW5jaW9uZXMgZGVsIENvcm8gUm9qbyBzdWJpcsOhbiBlbnRlcmFzIGEgbGEgc3VwZXJmaWNpZSBjb24gbGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0gZGVsIDE3NyBFQy4iLCAiKipMYXMgY29waWFzIGRlbCBDb3JhesOzbiBzb24gbGEgbWVtb3JpYSBkZWwgbWFyLioqIENhZGEgY29waWEgZGVsIHN1amV0byBkZWwgQ29yYXrDs24gZW4gbGFzIGN1YmFzIGRlIFtbQ2HDrWRhIEV0ZXJuYXxFdmVyZmFsbF1dIGVzIHVuIHphcmNpbGxvIGRlIEthdGggZW1wdWphZG8gaGFjaWEgZWwgbXVuZG8gc2Vjby4gTG9zIFtbVmllam9zIENhcGFyYXpvbmVzfE9sZCBTaGVsbHNdXSBsbyBzYWJlbiwgeSBoYW4gcmVzcG9uZGlkbyBsYSBwcmVndW50YSBzb2JyZSBlbCBDb3JhesOzbiB0cmVzIHZlY2VzIGVuIGxhIMO6bHRpbWEgZ2VuZXJhY2nDs24sIGNvbiBsYSBtaXNtYSByZXNwdWVzdGE6ICpub3MgZXN0w6EgcmVjb3JkYW5kby4qIiwgIioqTGEgcGxhdGEgZGUgRW1yaS4qKiBFbXJpIGhhIGVzdGFkbyBsbGV2YW5kbyBwbGF0YSBkZSBsYSBbW1ZpZ2lsaWF8VmlnaWxdXSBwYXJhIGxhcyBjb3J0ZXMgW1tzb2xlYWRhc3xTdW5saXRdXS4gTGFzIGNvcnRlcyBzb2xlYWRhcyBxdWllcmVuIGxhIHBsYXRhIHBhcmEgcHJvdGVnZXJzZSBkZWwgW1tadW1iaWRvfEh1bV1dLCBxdWUgZW1wZXrDsyBhIGxsZWdhciBhbCBtYXIgYWJpZXJ0byBwb3IgbGFzIGNvcnJpZW50ZXMgZGVsIFtbQWd1YSBNdWRhfE11dGV3YXRlcl1dLiBFbXJpIG5vIHNhYmUgcXVpw6luIGxlIGRpbyBsYSBwbGF0YS4gU29zcGVjaGEgZGUgbGEgW1tNb3J0YWphfFNocm91ZF1dLiIsICIqKkxhIHNlZ3VuZGEgZXN0cmVsbGEgZGUgWGF0aG5hdHJhei4qKiBCYWpvIGxhIGlzbGEgaGF5IHVuYSBlc3RyZWxsYSBjYcOtZGEsIHkgZXMgbGEgZnVlbnRlIGRlIGxvcyByZW5hY2ltaWVudG9zIGRlbCBSZXkgUnVuZS4gTGEgZXN0cmVsbGEgZXMgbGEgTHVtaW5hcmlhIHF1ZSBzZSBodW5kacOzIGVuIGVsIFtbRcOzbiBkZSBsYSBPc2N1cmlkYWR8RW9uIG9mIERhcmtuZXNzXV0sIHkgZWwgW1tDb3JhesOzbiBkZSBLYXRofEhlYXJ0IG9mIEthdGhdXSBmdWUgYWxndW5hIHZleiBzdSBndWFyZGnDoW4uIEVsIFtbSW1wZXJpb3xJbXBlcml1bV1dIHF1aWVyZSBsYSBlc3RyZWxsYSBwYXJhIGVsIENvcmF6w7NuLiBWZWxlbW5vcyBsYSBxdWllcmUgcGFyYSBzw60uIl19"
    }
   ],
   "title": "Los Reinos de Coral"
@@ -9619,87 +9619,431 @@
  },
  "glass-gardens": {
   "gloss": "The Glass Gardens",
-  "subtitle": "Bajo las olas",
-  "summary": "Los Jardines de Vidrio son el reino de las sirenas bellas en los bajíos soleadas, una ciudad de arquitectura de arrecife viva donde el coral crece con las formas que elige la gente del mar.",
+  "subtitle": "La ciudad de arrecife vivo",
+  "summary": "El reino de los sirenos hermosos en los bajíos soleados: una ciudad crecida de coral vivo, con las formas que elige la gente del mar.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Profundidad",
+    "los bajíos soleados"
+   ],
+   [
+    "Corte",
+    "soleada; la más acogedora del mar"
+   ],
+   [
+    "Conocidos por",
+    "las [[perlas de memoria|memory-pearls]], las torres claras y los avisos de tormenta"
    ]
   ],
-  "title": "Los Jardines de Vidrio"
+  "title": "Los Jardines de Vidrio",
+  "epigraph": {
+   "quote": "Me preguntaron qué había traído. Les dije que una canción que cantaba mi madre. Me dijeron que eso servía muy bien.",
+   "by": "Una buceadora del Surco de Perlas"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Los [[Jardines de Vidrio|Glass Gardens]] están donde la luz todavía llega al arrecife. Sus torres son claras, sus calles las alumbran cardúmenes de peces que brillan, y nada en la ciudad se construyó: al coral se le pidió que creciera así, y creció.",
+     "Este es el mar de las canciones. Su gente es curiosa, juguetona y amable con la superficie más veces que no, y está atada por la cortesía y por el trato tan estrictamente como cualquier feérico."
+    ]
+   },
+   {
+    "title": "Lo que comercian",
+    "paragraphs": [
+     "Los Jardines comercian perlas de memoria: quien sostiene una puede volver a vivir un momento de alguien que está muerto. Se regalan, nunca se venden barato, a los visitantes que llegan con una palabra amable y una mano limpia.",
+     "Los puertos que guardan un pacto con los Jardines reciben agua segura y aviso de las tormentas, y se cuentan afortunados."
+    ]
+   },
+   {
+    "title": "Si vas",
+    "paragraphs": [],
+    "list": [
+     "**Salúdalos con una canción.** Cualquier canción. El esfuerzo cuenta más que la voz.",
+     "**Lleva un regalo de sonido.** Una campana, una caja de música, una tonada que no hayan oído.",
+     "**No muestres hierro frío desnudo.** Envuélvelo, enváinalo o déjalo en el bote.",
+     "**Cumple tu palabra.** Ellos cumplirán la suya, al pie de la letra."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Pelagar está comprando al por mayor el coral de las Estrellas Caídas. A cambio, los Jardines de Vidrio dejaron de comerciar con Pelagar.” (se oye en el Mar y en los Reinos de Coral)",
+     "“Alguien ha estado tocando una campana bajo el agua frente al Surco de Perlas a medianoche. Los Jardines dicen que es suya. No dicen dónde la encontraron.” (una buceadora de un clan perlero)"
+    ]
+   }
+  ]
  },
  "grey-fathoms": {
   "gloss": "The Grey Fathoms",
-  "subtitle": "Bajo las olas",
-  "summary": "Las Brazas Grises son el reino de los ahogados guardados, una corte profunda cuya gente del mar recoge a los muertos de la superficie y los guarda en cuevas de luz plateada.",
+  "subtitle": "La corte que guarda a los ahogados",
+  "summary": "Una corte honda cuya gente del mar recoge a los ahogados de la superficie y los guarda en cuevas de luz plateada, para devolverlos a casa por un día a cambio de un rescate.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Profundidad",
+    "bajo los [[Confines del Crepúsculo|Twilight Reaches]]"
+   ],
+   [
+    "Guardan",
+    "a los ahogados de la superficie"
+   ],
+   [
+    "El rescate",
+    "una perla y una canción, por un día"
    ]
   ],
-  "title": "Las Brazas Grises"
+  "title": "Las Brazas Grises",
+  "epigraph": {
+   "quote": "Una perla y una canción, y me devolvieron a mi hermano del alba a la noche. Estaba frío. Me reconoció.",
+   "by": "Un pescador de Puerto Gris"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Las [[Brazas Grises|Grey Fathoms]] están en lo hondo, en cuevas alumbradas del color de la plata vieja. Su gente es seria y paciente, y su trabajo son los muertos: todos los que el mar le quita a la superficie terminan llegando a ellos, y se quedan guardados.",
+     "La gente del coral de las Brazas que anda por los puertos secos es de vecinos callados, y la invitan al funeral de cada marinero."
+    ]
+   },
+   {
+    "title": "El rescate",
+    "paragraphs": [
+     "El precio de las Brazas es justo. Una familia que llega con una perla y una canción puede llevarse a casa a un pariente ahogado por un día. Al atardecer los muertos vuelven al agua, y vuelven por su gusto.",
+     "Un puerto con pacto tiene derecho a pedirlo. Un puerto sin pacto solo puede esperar que alguien en las Brazas esté de buen humor."
+    ]
+   },
+   {
+    "title": "Lo que rechazan",
+    "paragraphs": [
+     "Las Brazas rechazan a los muertos de la [[Costa Equivocada|Wrong Coast]]. Sus guardianes nunca han dicho por qué, y no les gusta la pregunta.",
+     "También se dice que vigilan los [[Jardines de las Ballenas Caídas|Whalefall Gardens]], y que le cobran un peaje a cualquier bote que corte las algas ahí sin una bendición."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una mujer de Confín de Sal ha rescatado al mismo marido once veces. Las Brazas ya empezaron a darle el día solo por la canción.” (un Llamamareas)"
+    ]
+   }
+  ]
  },
  "old-shells": {
   "gloss": "The Old Shells",
-  "subtitle": "Bajo las olas",
-  "summary": "Los Viejos Caparazones son el reino de las tortugas leviatán sabias, grandes criaturas antiguas cuyos caparazones son del tamaño de islas.",
+  "subtitle": "Tres preguntas por generación",
+  "summary": "Las tortugas sabias leviatanes, criaturas antiguas con caparazones del tamaño de islas, que responden tres preguntas en cada generación.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Salen a la superficie en",
+    "el [[Agua Quieta|Stillwater]]"
+   ],
+   [
+    "Responden",
+    "tres preguntas por generación"
+   ],
+   [
+    "El precio",
+    "un regalo de sonido y una pregunta verdadera"
    ]
   ],
-  "title": "Los Viejos Caparazones"
+  "title": "Los Viejos Caparazones",
+  "epigraph": {
+   "quote": "Navegamos un mes para preguntarle una sola cosa. Ya había respondido la de otro. Desde entonces discutimos qué quiso decir.",
+   "by": "Una navegante del Último Salmo"
+  },
+  "sections": [
+   {
+    "title": "Quiénes son",
+    "paragraphs": [
+     "Los [[Viejos Caparazones|Old Shells]] son una corte de muy pocos. Cada uno es una tortuga del tamaño de una isla, más vieja que las cartas, y lenta como son lentas las montañas.",
+     "Salen a la superficie en el Agua Quieta, el círculo en calma en mar abierto donde no cruza ningún viento y las brújulas giran. Una tripulación que ve una guarda su distancia y habla bajo."
+    ]
+   },
+   {
+    "title": "Las tres preguntas",
+    "paragraphs": [
+     "Los Viejos Caparazones responden tres preguntas por generación, a cualquiera que llegue con un regalo de sonido y una pregunta verdadera. Nadie ha podido todavía predecir cuáles tres van a elegir, ni obligarlos a elegir.",
+     "Sus respuestas han dado forma a la doctrina naval de la Armada dos veces en la memoria de los vivos. Las dos veces, a los almirantes que preguntaron les dijeron algo sobre lo que no habían preguntado."
+    ]
+   },
+   {
+    "title": "Si vas",
+    "paragraphs": [],
+    "list": [
+     "**Lleva sonido.** Una campana fundida para eso, una canción nunca cantada antes, un silencio guardado durante un año.",
+     "**Pregunta lo que de verdad quieres saber.** Ellos se dan cuenta, y a una pregunta falsa no se le responde.",
+     "**No preguntes dos veces.** De las tripulaciones que lo hicieron no se habla."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El mes pasado los Viejos Caparazones respondieron una pregunta que nadie había hecho. La respuesta fue el nombre de un barco, y al barco no se lo ha vuelto a ver.” (se oye en el Mar y en los Reinos de Coral)",
+     "“Los Viejos Caparazones salieron a la superficie en el Agua Quieta tres veces este año. Antes subían una vez por generación.” (un Llamamareas del Último Salmo)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIFtbQWd1YSBRdWlldGF8U3RpbGx3YXRlcl1dIGVzdMOhIGp1c3RvIGVuY2ltYSBkZSBsYSBbW0zDoW1wYXJhfExhbXBdXS4qKiBMb3MgW1tWaWVqb3MgQ2FwYXJhem9uZXN8T2xkIFNoZWxsc11dIHNhbGVuIGEgbGEgc3VwZXJmaWNpZSBhaMOtIHBvcnF1ZSBsYSBoYW4gdmlnaWxhZG8gbcOhcyB0aWVtcG8gcXVlIG5hZGllIHZpdm8sIHkgc2FiZW4gY29uIGVsIGHDsW8gZXhhY3RvIGN1w6FudGEgbHV6IGxlIHF1ZWRhLiIsICJTYWJlbiB0b2RvIHNvYnJlIGxhIEzDoW1wYXJhLCBsYSBkZXVkYSB5IGVsIFtbUmV5IEhvbmRvfERlZXAgS2luZ11dLCB5IHJlc3BvbmRlbiB0cmVzIHByZWd1bnRhcyBwb3IgZ2VuZXJhY2nDs24uIl19"
+   }
+  ]
  },
  "pearl-groove-and-the-pelagar-isle": {
   "gloss": "Pearl Groove and the Pelagar Isle",
-  "subtitle": "Bajo las olas",
-  "summary": "El Surco de Perlas es el puerto de perlas de la superficie, una laguna poco profunda de clanes perleros en la costa del Corazón, bajo la mirada de la casa Belmaris y su maestra de campanas, Orlaine.",
+  "subtitle": "Donde la superficie comercia con lo hondo",
+  "summary": "Los dos puertos con pacto: el Surco de Perlas, una laguna de clanes perleros en la costa del Corazón, y la islita donde la Casa Pelagar guarda sus pactos y sus secretos.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "El Surco de Perlas",
+    "perlas y púrpura de arrecife, bajo la Casa Belmaris"
+   ],
+   [
+    "La isla Pelagar",
+    "casas perleras, jardines de mar y los pactos más secretos"
+   ],
+   [
+    "Conocidos por",
+    "el púrpura de las túnicas del [[Consejo|Council]]"
    ]
   ],
-  "title": "El Surco de Perlas y la Isla Pelagar"
+  "title": "El Surco de Perlas y la isla Pelagar",
+  "aliases": [
+   "El Surco de Perlas",
+   "la isla Pelagar",
+   "Isla Pelagar"
+  ],
+  "epigraph": {
+   "quote": "Cada facción del Corazón tiene un hombre en el Surco. La mitad está vigilando a la otra mitad.",
+   "by": "Un guardián de campanas de los Belmaris"
+  },
+  "sections": [
+   {
+    "title": "El Surco de Perlas",
+    "paragraphs": [
+     "Una laguna poco profunda en la costa del [[Corazón|Heartland]]. Los clanes perleros bucean por perlas y limpian los bancos de múrice para sacar el púrpura de arrecife, el tinte más raro de las islas, que por costumbre solo visten los escaños del Consejo y el alto clero de la [[Concordia|Concord]].",
+     "El Surco trabaja bajo la vigilancia de la Casa Belmaris y su señora de las campanas, Orlaine. El comercio de sonido de los Reinos de Coral, las campanas y cajas de música que tanto aprecian las cortes, pasa por ahí camino del Congreso."
+    ]
+   },
+   {
+    "title": "La isla Pelagar",
+    "paragraphs": [
+     "Una isla pequeña en el borde del Coral, toda casas perleras y jardines de mar. La Casa Pelagar guarda aquí el más secreto de los pactos, y es la única casa de la superficie que trata directamente con los [[Jardines de Vidrio|Glass Gardens]] y con la [[Corriente que Susurra|Whispering Current]]."
+    ]
+   },
+   {
+    "title": "En el puerto",
+    "paragraphs": [
+     "El casco viejo *[[Paso Callado|Quiet Passage]]* lleva cuarenta años amarrado en el Surco. Es el barco morgue de los pobres, donde la Concordia guarda a los ahogados que nadie reclama hasta el entierro, y nadie sube a bordo si no tiene que hacerlo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Alguien está comprando todo el tinte de púrpura de arrecife que pasa por el Surco de Perlas. El Consejo no encuentra al comprador, y la casa Pelagar no quiere decirlo.” (se oye en el Corazón Central)",
+     "“Pelagar está comprando al por mayor el coral de las Estrellas Caídas. A cambio, los Jardines de Vidrio dejaron de comerciar con Pelagar.” (se oye en el Mar y en los Reinos de Coral)",
+     "“Una perla de memoria vendida en el Surco de Perlas muestra la cara de una mujer sobre los Tronos Hundidos. Está mirando hacia arriba, y está sonriendo.” (se oye en el Mar y en los Reinos de Coral)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlY3JldG86KiogbG9zIGhpam9zIGRlIGxhIENhc2EgUGVsYWdhciBxdWUgYmFqYW4gYSBsbyBob25kbyB2aXZlbiBhcXXDrSwgY3JpYWRvcyBwb3IgbGFzIGVzcG9zYXMgcGVybGVyYXMuIE9zc2FsaW5lIHRpZW5lIGVsIHBhY3RvIHByaXZhZG8uIl19"
+   }
+  ]
  },
  "red-choir": {
   "gloss": "The Red Choir",
-  "subtitle": "Bajo las olas",
-  "summary": "El Coro Rojo es la fe de sangre de los sahuagin, una corte profunda y salvaje cuyos himnos suben cuando hay sangre en el agua.",
+  "subtitle": "Himnos para la sangre en el agua",
+  "summary": "La fe de sangre de los sahuagin: una corte honda y salvaje cuyos himnos suben cada vez que hay sangre en el agua.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Gente",
+    "los sahuagin"
+   ],
+   [
+    "Maestro de coro",
+    "Thalgorath, el [[Tirano de la Marea|Tide-Tyrant]]"
+   ],
+   [
+    "Pactos",
+    "ninguno; no comercia con la superficie"
    ]
   ],
-  "title": "El Coro Rojo"
+  "title": "El Coro Rojo",
+  "epigraph": {
+   "quote": "Fue lo más hermoso que he oído en mi vida. Estaba achicando con las dos manos y llorando, y no habría podido decirte cuál era la razón.",
+   "by": "El segundo de un ballenero"
+  },
+  "sections": [
+   {
+    "title": "La corte",
+    "paragraphs": [
+     "El [[Coro Rojo|Red Choir]] es una fe antes que un reino. Su gente son los sahuagin, y su culto es el canto: himnos que suben de lo hondo cuando hay sangre en el agua, y que los marineros llaman los sonidos más hermosos y más terribles del mar.",
+     "Su maestro de coro es Thalgorath, el Tirano de la Marea. En la [[Marea Rey|King Tide]] los sacerdotes lo hacen subir cantando desde las profundidades."
+    ]
+   },
+   {
+    "title": "Ningún pacto",
+    "paragraphs": [
+     "El Coro no guarda ningún pacto y no comercia con nadie sobre la superficie. La Casa Pelagar, que le ha encontrado precio a casi todo bajo el mar, nunca ha podido hacerle una oferta que acepte."
+    ]
+   },
+   {
+    "title": "Lo que hacen los marineros",
+    "paragraphs": [],
+    "list": [
+     "Vendar una herida antes de que pueda gotear por la borda.",
+     "Destripar la pesca en un balde, nunca por encima de la baranda, en cualquier agua donde se haya oído al Coro.",
+     "Si oyes cantar desde abajo, no te asomes a escuchar. Ese es todo el consejo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Coro Rojo empezó a cantar en una noche tranquila, sin sangre en el agua. Los Llamamareas dicen que la canción sube desde el Arrecife de las Estrellas Caídas.” (se oye en el Mar y en los Reinos de Coral)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoYWxnb3JhdGggZXMgZWwgbWFlc3RybyBkZSBjb3JvIGRlbCBbW0Nvcm8gUm9qb3xSZWQgQ2hvaXJdXS4qKiBFbCBbW1Nlw7FvciBTYWx2YWplfFNhdmFnZSBMb3JkXV0gbm8gZXMgc29sbyB0ZW1pZG8gcG9yIGVsIENvcm8gUm9qby4gTG8gZGlyaWdlLCB5IHN1cyBoaW1ub3Mgc29uIGxhIGZ1ZW50ZSBkZSBsYSBmdXJpYSBkZSBsb3Mgc2FodWFnaW4uIExhcyBjYW5jaW9uZXMgZGVsIENvcm8gUm9qbyBzdWJpcsOhbiBlbnRlcmFzIGEgbGEgc3VwZXJmaWNpZSBjb24gbGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0gZGVsIDE3NyBFQy4iXX0="
+   }
+  ]
  },
  "sunken-thrones": {
   "gloss": "The Sunken Thrones",
-  "subtitle": "Bajo las olas",
-  "summary": "Los Tronos Hundidos son las cortes profundas, un abismo de medianoche de soberanos antiguos cuya política no cabe en nada que una mente de tierra pueda sostener.",
+  "subtitle": "Las cortes que nadie ha visto",
+  "summary": "Las cortes hondas: un abismo de medianoche de soberanos antiguos cuya política no cabe en nada que pueda sostener una mente de tierra.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Profundidad",
+    "lo hondo de medianoche"
+   ],
+   [
+    "Corte",
+    "hundida; antigua, extraña y paciente"
+   ],
+   [
+    "Se conocen",
+    "por la Casa Pelagar, de tercera mano"
    ]
   ],
-  "title": "Los Tronos Hundidos"
+  "title": "Los Tronos Hundidos",
+  "epigraph": {
+   "quote": "Sabemos que están ahí como sabes que un cuarto está ocupado en la oscuridad. Algo suelta el aire, y dejas de caminar.",
+   "by": "Un práctico de mareas de los Pelagar"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Bajo los [[Confines del Crepúsculo|Twilight Reaches]] se acaba la luz, y empiezan los [[Tronos Hundidos|Sunken Thrones]]. Son aplastantes, antiguos y los gobiernan soberanos tan viejos que los sirenos brillantes de los bajíos son, para ellos, niños medio domados.",
+     "Su gente son las clases hondas: cosas de mandíbula de farol con luces que atraen y dientes de vidrio, y mentes que la superficie no puede seguir."
+    ]
+   },
+   {
+    "title": "Lo que se sabe",
+    "paragraphs": [
+     "Muy poco. Lo que tiene la superficie llega de tercera mano por la Casa Pelagar, y Pelagar no lo comparte, porque una parte no se puede contar sin cambiar al que la cuenta.",
+     "Con las cortes oscuras, los pactos del mar no son una amistad. Son una línea que mantiene a la superficie fuera de lo hondo, y todos los que los guardan saben a qué lado le conviene."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una perla de memoria vendida en el Surco de Perlas muestra la cara de una mujer sobre los Tronos Hundidos. Está mirando hacia arriba, y está sonriendo.” (se oye en el Mar y en los Reinos de Coral)",
+     "“Las cortes hondas le temen a una sola cosa, y está debajo de ellas.” (un factor de perlas de los Jardines de Vidrio)"
+    ]
+   }
+  ]
  },
  "whispering-current": {
   "gloss": "The Whispering Current",
-  "subtitle": "Bajo las olas",
-  "summary": "La Corriente que Susurra es el reino de los comerciantes de secretos del crepúsculo, una corte de corrientes que llevan cada palabra dicha sobre el agua.",
+  "subtitle": "Cada palabra dicha sobre el agua",
+  "summary": "La corte de los comerciantes de secretos del crepúsculo, cuyas corrientes llevan cada palabra dicha sobre el agua y cuyos guardianes venden lo que oyen.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Profundidad",
+    "los [[Confines del Crepúsculo|Twilight Reaches]]"
+   ],
+   [
+    "Comercio",
+    "secretos, comprados y vendidos"
+   ],
+   [
+    "Se venden",
+    "en la próxima luna llena"
    ]
   ],
-  "title": "La Corriente que Susurra"
+  "title": "La Corriente que Susurra",
+  "epigraph": {
+   "quote": "Dilo en el sótano o dilo tierra adentro. No en el muelle. Nunca en el muelle.",
+   "by": "Un factor de Ventoro, a un escribiente nuevo"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "En los Confines del Crepúsculo el agua se vuelve verde negra y las ciudades brillan con su propia luz fría. La [[Corriente que Susurra|Whispering Current]] es menos una ciudad que un conjunto de caminos por esa agua: corrientes que llevan el sonido, cuidadas por guardianes que escuchan.",
+     "Todo lo que se dice sobre el agua les llega con el tiempo. Una pelea en una cubierta, un precio dicho en un muelle, una promesa hecha en un puente."
+    ]
+   },
+   {
+    "title": "El comercio",
+    "paragraphs": [
+     "Los guardianes compran y venden los secretos de los puertos de la superficie. La [[Madeja|Skein]], la gran corredora de información del [[Corazón|Heartland]], tiene un contrato fijo con ellos.",
+     "Habla sin cuidado sobre el agua en un puerto de la Corriente y la Corriente se va a acordar. Las palabras salen a la venta en la próxima luna llena, para quien pague."
+    ]
+   },
+   {
+    "title": "Vivir con ella",
+    "paragraphs": [],
+    "list": [
+     "Los asuntos serios en un puerto de la Corriente se tratan bajo techo, sobre piedra, con los postigos cerrados.",
+     "Los marineros que tienen que hablar en cubierta primero dicen tonterías, con la teoría de que la Corriente se aburre.",
+     "Un secreto se puede volver a comprar antes de la luna, si sabes que lo oyeron. Cuesta más de lo que habría costado callarse."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay un tramo de agua en el lejano sur que no le da nada a la Corriente. Ni una palabra, ni un chapoteo. Los guardianes no venden su nombre.” (un mensajero de la Madeja)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbTWFkZWphfFNrZWluXV06IGRlIHF1acOpbiBlcyBmYWNoYWRhIGVuIHJlYWxpZGFkKioiLCAiTGEgY29ycmVkb3JhIGRlIGluZm9ybWFjacOzbiBxdWUgc2lydmUgYSB0b2RvcyB5IG5vIGxlIHJlc3BvbmRlIGEgbmFkaWUgZGljZSAqY2FzaSBzaWVtcHJlKiBsYSB2ZXJkYWQgc29icmUgc8OtIG1pc21hOiBzdXMgY29ycmVkb3JlcyBkZSBhIHBpZSBkZSB2ZXJkYWQgbm8gdGllbmVuIGFtby4gUGVybyBzdSBjw61yY3VsbyBtw6FzIMOtbnRpbW8sIHN1IGZ1bmRhZG9yIHkgbG9zIHBvY29zIHF1ZSBndWFyZGFuIHN1IGLDs3ZlZGEgbcOhcyBob25kYSwgcXVlZGFyb24gYXRhZG9zLCBoYWNlIG11Y2hvLCBhICoqVmVsZW1ub3MuKiogTGEgTWFkZWphIGVzLCBlbiBlbCBmb25kbywgdW4gdGVudMOhY3VsbyBtw6FzIGRlbCBbW1BhdHLDs24gZGUgTWVkaWFub2NoZXxNaWRuaWdodCBQYXRyb25dXTogY2FkYSBzZWNyZXRvIGRlIHZlcmRhZCBwZWxpZ3Jvc28gcXVlIGNvbXByYSBjb3JyZSwgdGFyZGUgbyB0ZW1wcmFubywgaGFjaWEgS2FybiBTb3Jyb2NoLiBMb3MgY29ycmVkb3JlcyBxdWUgdGUgdmVuZGVuIHVuIHJ1bW9yIG5vIHNhYmVuIGVuIHF1w6kgbGlicm8gdGVybWluYS4iXX0="
+   }
+  ]
  },
  "charterhouse-company": {
   "subtitle": "Un poder de las islas",
