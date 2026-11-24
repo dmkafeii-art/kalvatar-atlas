@@ -1898,7 +1898,10 @@
     "label": "The forge street of Everfall",
     "presentation": "gallery"
    }
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "galven",
@@ -1998,6 +2001,9 @@
    "height": 1024,
    "alt": "An adult male and female Galven brace on a sailing ship in a storm, with blue skin, silver hair and glowing branching lightning marks.",
    "caption": "Two storm-blooded sailors at home in the squall."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -2199,6 +2205,9 @@
    "height": 1024,
    "alt": "A masculine blue-flowered Florian and a feminine orange-flowered Florian stand on a dew-covered leaf, with another tiny violet bloom-person behind them.",
    "caption": "A whole life unfolding in the first light."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -2453,6 +2462,9 @@
    "height": 1024,
    "alt": "A russet-furred male Tarvan and a cream-furred female Tarvan stand side by side, with broad bovine faces, long ringed horns, clan tartan and shaggy coats.",
    "caption": "Two Tarvan among the standing-stones of the high moors."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -2780,6 +2792,9 @@
    "height": 1024,
    "alt": "A female and male amphibious Coral envoy with pearlescent sea-green skin, gills, fin-edged ears, webbed feet, kelp-silk, pearl ornaments and wrist bells.",
    "caption": "Shore-walking envoys at the harbor’s water steps."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -10341,6 +10356,9 @@
    "height": 1024,
    "alt": "A dwarf teller closes an account by lamplight while a fellow craftsperson counts his own tally-beads, with a human customer behind them for scale.",
    "caption": "Every promise finds its place in the Tally."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {

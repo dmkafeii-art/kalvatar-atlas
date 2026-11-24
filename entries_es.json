@@ -914,18 +914,18 @@
  },
  "cindren": {
   "subtitle": "Los tocados por la brasa",
-  "summary": "Gente de la forja cuyos sentimientos brillan bajo una piel negra como el carbón.",
+  "summary": "Gente de la forja cuyos sentimientos brillan bajo una piel oscura como el carbón.",
   "epigraph": {
    "quote": "Tú puedes mentir con la boca. Nosotros no podemos mentir con la piel, así que dejamos de molestarnos con la boca.",
    "by": "Un herrero cindren"
   },
   "facts": [
    [
-    "Tierra de origen",
+    "Tierra natal",
     "[[Caída Eterna|Everfall]]"
    ],
    [
-    "Se distingue por",
+    "Conocidos por",
     "El oficio de la forja y las emociones visibles"
    ],
    [
@@ -934,35 +934,137 @@
    ]
   ],
   "title": "Los Cindren",
-  "gloss": "The Cindren"
+  "gloss": "The Cindren",
+  "sections": [
+   {
+    "title": "El corazón hecho visible",
+    "paragraphs": [
+     "Una piel oscura como el carbón, cruzada por líneas de lava enfriada. La ira, el cariño, el miedo y el duelo brillan debajo en colores distintos. Esconder una emoción es difícil; la franqueza directa y la serenidad pesan mucho."
+    ]
+   },
+   {
+    "title": "La forja y la vigilia del fuego",
+    "paragraphs": [
+     "Muchos cindren trabajan en las forjas de la Casa [[Corascua|Emberheart]] o sirven a los [[Guardianes de Ceniza|Ash Wardens]] en las laderas volcánicas de Caída Eterna. Junto a los vorthani, mantienen una vigilia del fuego sobre el [[Emperador de las Llamas|Emperor of Flames]] dormido."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Envolturas grises como la ceniza y cueros de fuego que dejan a la vista la garganta y los antebrazos, para que hable el brillo. La ropa de fiesta usa seda de ceniza y cuentas de vidrio ahumado. Cubrir el brillo por completo es una costumbre funeraria."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Brakk, Solen, Emra, Kessik, Darah e Ilsk; entre los apellidos de hogar están [[Nacehorno|Kilnborn]], [[Valleceniza|Ashvale]], [[Paramoescoria|Slagmoor]] y [[Lagobrasa|Embermere]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los cindren llevan el [[Fuego de Abajo|Fire Beneath]] en algo más que el nombre. Su piel va del gris ceniza al carbón profundo, surcada de líneas que se encienden cuando sienten: la ira, el amor, el miedo y el duelo brillan cada uno en su color, así que el corazón de un cindren siempre es un poco público. Eso los volvió un pueblo directo, honesto y sereno, sin ningún talento para mentir y con un gran desprecio por quienes lo tienen."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: más o menos lo mismo que los humanos, un poco más entre los viejos maestros forjadores.",
+     "Fe: el [[Hambre que Calienta|Hunger That Warms]], venerada con una intimidad cautelosa: el fuego alimenta, y el fuego devora.",
+     "Temperamento: serenos, francos y confiados con cualquiera que no les mienta. Valoran la calma por una razón práctica: un cindren enojado se ve desde el otro lado de un cuarto.",
+     "Ropa: envolturas grises como la ceniza y cueros de fuego abiertos en el antebrazo y la garganta, donde habla el brillo. Cubrir el brillo por completo es lo que hacen los cindren en los funerales."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“De noche sube un zumbido hondo por el piso de las minas de Darlath, y los cindren que trabajan cerca se apagan.” (un vidriero de Caída Eterna)",
+     "“Los cindren de Caída Eterna dicen que el Bosque de Vidrio sonó trece veces el último Tumbadía, y siempre había sonado de doce en doce.” (un Guardián de Ceniza)"
+    ]
+   }
+  ]
  },
  "galven": {
   "subtitle": "Los de sangre de tormenta",
-  "summary": "Gente de la tormenta de piel azul, marcada por el rayo vivo, que se siente en casa cuando la cubierta se balancea bajo sus pies.",
+  "summary": "Gente de piel azul y de tormenta, marcada por relámpagos vivos, que se siente más en casa cuando la cubierta se sacude bajo sus pies.",
   "epigraph": {
    "quote": "El agua en calma es para la gente que nunca ha estado viva.",
-   "by": "Una timonel galven, metiéndose en un vendaval"
+   "by": "Una timonel galven, llevando el barco hacia un temporal"
   },
   "facts": [
    [
-    "Se distingue por",
-    "El rayo vivo y el sentido del tiempo"
+    "Conocidos por",
+    "El relámpago vivo y el sentido del tiempo"
    ],
    [
-    "Patrón",
-    "Eirhal, el Rayo Vivo"
+    "Patrono",
+    "Eirhal, el [[Relámpago Vivo|Living Lightning]]"
    ],
    [
     "Aspecto",
-    "Piel azul y marcas luminosas ramificadas"
+    "Piel azul y marcas luminosas que se ramifican"
    ],
    [
     "Dios bestia",
-    "Badron, el ave del trueno"
+    "Badron, el pájaro del trueno"
    ]
   ],
   "title": "Los Galven",
-  "gloss": "The Galven"
+  "gloss": "The Galven",
+  "sections": [
+   {
+    "title": "Un pueblo de relámpago vivo",
+    "paragraphs": [
+     "La piel galven va del azul cielo pálido, pasando por la pizarra, hasta un gris de tormenta casi negro. Unas marcas de luz que se ramifican se aclaran hasta el blanco cuando sube el sentimiento. El pelo, plateado, blanco o azul pálido, flota con la estática. Sus orejas tienen forma humana; los ojos luminosos y las marcas de relámpago les dan a sus caras un aire nacido de la tormenta. No tienen alas."
+    ]
+   },
+   {
+    "title": "Clanes de barco y brujas del tiempo",
+    "paragraphs": [
+     "Los clanes de barco dispersos y los fortines del cinturón de tormentas se organizan alrededor de los capitanes y de los linajes del tiempo. Las brujas del tiempo guardan los cantos de tormenta y leen el cielo. La primera gran tormenta de la estación reúne a la gente dondequiera que se la espera."
+    ]
+   },
+   {
+    "title": "La piel que no puede mentir",
+    "paragraphs": [
+     "La ira, el miedo y el cortejo pueden anunciarse con un destello de las marcas. Un raro galven de [[agua quieta|still-water]] puede mantener esa luz callada bajo una presión de verdad. Las marcas de los ancianos se ramifican hondo con toda una vida de tormentas."
+    ]
+   },
+   {
+    "title": "El Relámpago Vivo",
+    "paragraphs": [
+     "Su propio dios es Eirhal, el Relámpago Vivo; por encima de Eirhal está el [[Aliento que Vaga|Breath That Wanders]], y a su lado el pájaro del trueno Badron, su dios bestia. Llevar un barco a través de un temporal de verdad es un rito de paso; los juramentos más hondos se juran bajo el relámpago."
+    ]
+   },
+   {
+    "title": "Ropa y nombres",
+    "paragraphs": [
+     "El equipo de mar deja los antebrazos desnudos; cadenas de latón y campanillas de viento le responden al viento. Los nombres juntan un nombre de pila corto con una tormenta de nacimiento: Skai [[Novena Borrasca|Ninth-Squall]], Tuvel [[Tormentalarga|Longstorm]] u Ossa [[Borrascalba|Dawnsquall]]. Los que nacen en calma toman el nombre de la primera tormenta a la que sobreviven."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Sus orejas tienen la forma de las de un humano. Sienten el tiempo en el cuerpo, y son más ruidosos, más rápidos y más vivos cuando el cielo se pone negro y la cubierta se sacude bajo ellos."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: más o menos lo mismo que los humanos; los galven dicen que arden demasiado fuerte para durar más.",
+     "Clanes de barco y fortines del cinturón de tormentas dondequiera que las tormentas corran más fieras, [[Confín de Tormentas|Stormreach]] por encima de todo.",
+     "Fe: Eirhal, el Relámpago Vivo, bajo el Aliento que Vaga, con el pájaro del trueno Badron como su dios bestia. Su fe se practica más de lo que se reza: saludan la primera tormenta de cada estación y navegan hacia el mal tiempo del que otros huyen.",
+     "Temperamento: ruidosos, libres e imprudentes para todos los demás; simplemente libres para sí mismos. Un galven encalmado en un día plano y caluroso es una criatura nerviosa y desdichada.",
+     "Ropa: tela encerada y cuero de cuerda cortados para dejar desnudos los antebrazos, donde se ve el relámpago. Tapar las marcas se considera mentir."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una tripulación galven entró en una tormenta frente a Confín de Tormentas y volvió con todas las marcas de los brazos ardiendo en blanco, riéndose.” (se oye en los astilleros de Confín de Tormentas)"
+    ]
+   }
+  ]
  },
  "liriath": {
   "subtitle": "La larga memoria de lo verde",
@@ -989,16 +1091,16 @@
   "gloss": "The Liriath"
  },
  "florians": {
-  "subtitle": "Toda una vida, del alba al ocaso",
-  "summary": "Pequeños primos de los Liriath, enteramente florales, que viven un solo día.",
+  "subtitle": "Toda una vida, del alba al anochecer",
+  "summary": "Pequeños primos de los liriath, hechos del todo de flor, que viven un solo día.",
   "epigraph": {
    "quote": "¡Buenos días! ¿No es el mejor día que ha habido nunca?",
-   "by": "Un florian, cada mañana de su vida"
+   "by": "Un floriano, cada mañana de su vida"
   },
   "facts": [
    [
     "Naturaleza",
-    "Gente floral diminuta"
+    "Gente diminuta hecha de flor"
    ],
    [
     "Vida habitual",
@@ -1006,11 +1108,61 @@
    ],
    [
     "Parentesco",
-    "Un brote de los Liriath"
+    "Un retoño de los liriath"
    ]
   ],
   "title": "Los Florianos",
-  "gloss": "The Florians"
+  "gloss": "The Florians",
+  "sections": [
+   {
+    "title": "Toda la vida de una flor",
+    "paragraphs": [
+     "Los florianos miden de un palmo a la altura de la rodilla, hechos del todo de flor, con pétalos y sin madera. Una vida típica se abre al alba y termina al anochecer. Algunos raros, bendecidos, duran dos o tres días."
+    ]
+   },
+   {
+    "title": "El presente está completo",
+    "paragraphs": [
+     "Un floriano llega ya siendo él mismo y no tiene idea del tiempo. El amanecer, el mediodía y la tarde guardan una vida entera, sin un ayer perdido ni un mañana temido. Los liriath los quieren como alegrías breves y luminosas de lo verde."
+    ]
+   },
+   {
+    "title": "La flor da forma a la persona",
+    "paragraphs": [
+     "Las flores de trompeta son audaces; las que florecen de noche, más calladas; las clases de pétalos de estrella, aturdidas y feéricas. Un floriano de dos días es un anciano antiquísimo para su propio pueblo."
+    ]
+   },
+   {
+    "title": "Nombres de día",
+    "paragraphs": [
+     "Mañana-de-Lluvia, Tercera-Campana y Último-Oro nombran una sola vida luminosa. Su lugar en las islas es el de vecinos pasajeros y amigos de las arboledas."
+    ]
+   },
+   {
+    "title": "Toda una vida en un día",
+    "paragraphs": [
+     "Un floriano no sabe que su vida es corta, porque no tiene ninguna idea del tiempo. Nace ya siendo él mismo, completo y alegre: una infancia al amanecer, una plenitud al mediodía, una vejez contenta en el oro de la tarde. Los raros florianos que viven dos o tres días son, para su propia gente, ancianos antiquísimos que han visto un amanecer más."
+    ]
+   },
+   {
+    "title": "Cada flor, su propio tono",
+    "paragraphs": [
+     "A un floriano le da forma su flor. Las flores de trompeta brillantes son audaces y risueñas, las que florecen de noche, calladas y tiernas, y las diminutas de pétalos de estrella, aturdidas y feéricas."
+    ]
+   },
+   {
+    "title": "Fe",
+    "paragraphs": [
+     "Los florianos guardan la fiesta del día de Yarrowen, y Aoifel, la Archifeérica de la [[Primera Flor|First Bloom]], es su otra patrona."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una floriana de la Catedral Verde ha visto cuatro amaneceres, y los liriath dejaron de hablar más fuerte que un susurro cerca de ella.” (se oye en las Tierras Salvajes del Sur)"
+    ]
+   }
+  ]
  },
  "vorthani": {
   "title": "Los Vorthani",
@@ -1133,7 +1285,7 @@
   "gloss": "The Vorthani"
  },
  "tarvan": {
-  "subtitle": "Los clanes cornudos de los altos páramos",
+  "subtitle": "Los clanes con cuernos de los páramos altos",
   "summary": "Pastores, artesanos y campeones para quienes el combate es un arte honrado.",
   "epigraph": {
    "quote": "Un tarvan no se apura. Un tarvan llega.",
@@ -1141,8 +1293,8 @@
   },
   "facts": [
    [
-    "Tierra de origen",
-    "Los altos páramos"
+    "Tierra natal",
+    "Los páramos altos"
    ],
    [
     "Clan marinero",
@@ -1154,7 +1306,79 @@
    ]
   ],
   "title": "Los Tarvan",
-  "gloss": "The Tarvan"
+  "gloss": "The Tarvan",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Los tarvan son gente bovina ancha y lanuda, de grandes cuernos pálidos y curvos, orejas anchas, caras bovinas amables y ojos oscuros de pestañas largas. El pelaje va del rojizo al castaño, al pardo, al negro y al crema. Tanto los hombres como las mujeres tienen cuernos; los más grandes campeones y los viejos toros crecen mucho más allá que sus parientes, ya de por sí imponentes."
+    ]
+   },
+   {
+    "title": "Los cuernos y el trabado",
+    "paragraphs": [
+     "Los cuernos crecen toda la vida. Los anillos de latón, plata y oro registran hazañas, hijos, arreos y votos. Romper uno es una herida grave. Para evitar derramar sangre del clan, muchas disputas se deciden con el [[trabado|locking]]: los cuernos juntos hasta que uno cede."
+    ]
+   },
+   {
+    "title": "La madre del rebaño y el hauld",
+    "paragraphs": [
+     "La madre del rebaño guía en la paz, en el juicio y en la abundancia. Un hauld elegido guía el arreo y las raras guerras. En la asamblea de la piedra parada todos pueden hablar, y a los niños se los cría repartidos por el clan. Hacerse mayor quiere decir un primer arreo y un primer anillo en el cuerno."
+    ]
+   },
+   {
+    "title": "El arte del guerrero",
+    "paragraphs": [
+     "Las hachas pesadas, los mazos y los martillos se practican con el cuidado que se le da al telar y a la canción. Las formas de armas pasan de generación en generación. La paciencia y la hospitalidad conviven fácilmente con esta maestría disciplinada."
+    ]
+   },
+   {
+    "title": "La ley del huésped y el rebaño",
+    "paragraphs": [
+     "Un huésped al que se da refugio es sagrado. La riqueza se cuenta en ganado y en parientes; las enemistades se arreglan con incursiones, competencias, compensaciones, casamientos y regalos. La carne de una bestia con nombre o de la línea del rebaño del propio clan está prohibida."
+    ]
+   },
+   {
+    "title": "Tela, piedras y el año",
+    "paragraphs": [
+     "El tartán propio de un clan identifica a su gente. Las canciones guardan a los muertos, que descansan bajo las piedras paradas. La [[Primera Hierba|First Grass]], el [[Gran Arreo|Great Droving]] y la [[Larga Oscuridad|Long Dark]] hacen girar el año; la [[Reunión|Gathering]] junta a los clanes para el mercado, la asamblea, la canción y la prueba."
+    ]
+   },
+   {
+    "title": "Caminalejos y Crines de Sal",
+    "paragraphs": [
+     "La mayoría de los tarvan aman sus páramos y no quieren saber nada del mar. Las Crines de Sal hicieron de la navegación su tradición. Los clanes también bendicen a sus caminalejos, los que se sienten tirados hacia afuera como [[Cazadores|Hunters]], peregrinos y guardianes errantes."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Entre los nombres de pila están Brae, Hamesh, Ferghus, Rauri, Mara, Senga, Rona y Greer. El nombre del clan va primero: Cravoch, Dunmor, Glenfask, Maccrenn, Brackmore y Torroch."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Altísimos, lanudos y con cuernos, los tarvan son los más cálidos de la gente grande: pacientes, generosos, lentos para ofenderse y tercamente hospitalarios. Pero la calidez no es debilidad. Entre los tarvan, el combate es un arte, honrado y perfeccionado como el tejido, la cervecería o la canción, y un clan alzado es una catástrofe."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: bastante más de un siglo humano; los más viejos rondan los dos.",
+     "Fe: el [[Gigante Dormido|Sleeping Giant]] y los antepasados del clan bajo las piedras paradas, con el respeto cauteloso de un pastor por los dioses bestia de las tierras altas. Los muertos pastan en el [[Pasto sin Fin|Endless Pasture]], el Maghren, justo más allá de las piedras.",
+     "Romper o cortar el cuerno de un tarvan es una herida grave y una vergüenza más honda.",
+     "Leyes: la ley del huésped por encima de todo, y el trabado: las peleas se arreglan juntando los cuernos y empujando hasta que uno cede.",
+     "Ropa: el tartán del clan en la cintura o en el hombro, y flores silvestres en la melena."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una tarvan en la Mesa del Gigante oyó al Gigante Dormido darse vuelta en sueños. Se fue a su casa y vendió todos los caballos que tenía.” (se oye en la Frontera del Norte)"
+    ]
+   }
+  ]
  },
  "pocchin": {
   "subtitle": "Llegó el mercado",
@@ -1209,28 +1433,86 @@
   "gloss": "The Sporrn"
  },
  "coral-peoples": {
-  "subtitle": "Los del mar",
-  "summary": "Las sirenas y sus parientes de las cortes profundas suben a tierra como guardianes de pactos, factores de perlas y prácticos de marea.",
+  "subtitle": "Los del propio mar",
+  "summary": "Los tritones y sus parientes de las cortes hondas salen a tierra como guardianes de pactos, factores de perlas y pilotos de mareas.",
   "epigraph": {
    "quote": "La superficie es tan ruidosa. ¿Cómo se oyen pensar unos a otros?",
    "by": "Una cortesana de los Jardines de Vidrio en su primera visita a tierra"
   },
   "facts": [
    [
-    "Saludo cortesano",
-    "El canto"
+    "Saludo cortés",
+    "Una canción"
    ],
    [
     "Regalos apreciados",
     "Campanas y otros sonidos"
    ],
    [
-    "Un insulto grave",
+    "Un insulto serio",
     "El hierro frío desnudo"
    ]
   ],
   "title": "Los Pueblos del Coral",
-  "gloss": "The Coral Peoples"
+  "gloss": "The Coral Peoples",
+  "sections": [
+   {
+    "title": "Las orillas del mar",
+    "paragraphs": [
+     "Los tritones y sus parientes anfibios recorren los puertos como guardianes de pactos, factores de perlas, pilotos de mareas y representantes de las cortes de abajo. Una familia del Coral que vive en un puerto quiere decir que lo hondo está atento a la conducta de ese puerto."
+    ]
+   },
+   {
+    "title": "La cortesía y el pacto",
+    "paragraphs": [
+     "Se saluda cantando. El sonido es un regalo valioso, y el hierro frío desnudo es una ofensa. Los pactos de mar son obligaciones sagradas cuyos términos atan a cada puerto con su corte vecina."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "En tierra son conocidas la seda de alga que se seca rápido, las conchas, las perlas y las medias capas de red. Las campanas en las muñecas anuncian una llegada con cortesía. Bajo el agua el adorno se cultiva: perlas cultivadas, coral adiestrado y vida que da luz."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Nereth, Sirae, Ondine, Selka, Murro y Thessa. La corte reemplaza al apellido: Sirae de los [[Jardines de Vidrio|Glass Gardens]], Murro de la [[Corriente que Susurra|Whispering Current]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los pueblos del coral son los hijos de las cortes hondas que pueden caminar por tierra seca: la gente bella de los Jardines de Vidrio, los comerciantes de secretos del crepúsculo de la Corriente que Susurra y los graves guardianes de las [[Brazas Grises|Grey Fathoms]]. Un puerto con una familia del coral viviendo en él es un puerto que lo hondo vigila."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: de dos a tres siglos.",
+     "Tierra natal: las cortes hondas bajo el mar, y las orillas de los puertos con los que tienen pactos.",
+     "Fe: la [[Madre que Ahoga|Drowning Mother]], y los viejos poderes de su corte.",
+     "Temperamento: corteses, musicales y pacientes como la marea. Nunca olvidan un pacto roto, y nunca olvidan un favor tampoco.",
+     "Sobrenombres: la corte ocupa el lugar del apellido, como en Sirae de los Jardines de Vidrio."
+    ]
+   },
+   {
+    "title": "Jugar con uno de los pueblos del coral",
+    "paragraphs": [
+     "Por qué saliste a tierra: eres un guardián de pactos enviado a vigilar un puerto, un factor de perlas de negocios, un piloto de mareas a sueldo, o un enviado que la corte preferiría no admitir que mandó.",
+     "Clases que encajan: bardo, druida, brujo de un viejo patrono de la corte, clérigo de la Madre que Ahoga.",
+     "Trasfondos que encajan: Buzo de Perlas, Acólito [[Llamamareas|Tidecaller]], Factor.",
+     "Dote de linaje: Enviado de la [[Corte|Court]].",
+     "Ganchos: un pacto de mar que tu puerto está a punto de romper; un amigo ahogado que las Brazas Grises no quieren devolver; el [[Coro Rojo|Red Choir]] cantando en un puerto donde no debería. (El Coro Rojo y los [[Tronos Hundidos|Sunken Thrones]] no son cortes que se puedan jugar.)"
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un enviado de una corte salió a tierra en Bastión del Este con campanas en las dos muñecas y pidió hablar con quien guarde la promesa más vieja del puerto.” (se oye en Bastión del Este)"
+    ]
+   }
+  ]
  },
  "lampet": {
   "subtitle": "La luz más pequeña del puerto",
@@ -2659,7 +2941,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlw7FvcmVzIHF1ZSBoYW4gY2HDrWRvKioiLCAiTG9zIFNlw7FvcmVzIG5vIHNvbiBpbm1vcnRhbGVzLiBNdWVyZW4gcG9jYXMgdmVjZXMsIHkgc29sbyBhIG1hbm9zIGRlIG90cm9zIFNlw7FvcmVzLiIsICIqKkVsIFtbU2XDsW9yfExvcmRdXSBhbnRlcyBkZSBWdWtoYXJyLioqIExhcyBjYW5jaW9uZXMgbcOhcyB2aWVqYXMgZGUgbG9zIFtbRWxmb3MgZGUgbGEgRXNjYXJjaGF8RnJvc3QgRWx2ZXNdXSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBbW0xhcmdhIE5vY2hlfExvbmcgTmlnaHRdXSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBUcmVpbnRhIGRlIGxhIENhbGRlcmEgKDEzMyBFQykuKiogRWwgw7puaWNvIGludGVudG8gcmVnaXN0cmFkbyBkZSB1bm9zIG1vcnRhbGVzIGNvbnRyYSB1biBTZcOxb3Igdml2by4gVW5hIHRyaXB1bGFjacOzbiBkZSBPcm8gZGUgbGEgW1tMb2dpYXxMb2RnZV1dIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dLCBjb24gdmVpbnRpbnVldmUgW1tDYXphZG9yZXN8SHVudGVyc11dIHkgdW5hIGd1w61hIGRlIGxvcyBbW0d1YXJkaWFuZXN8V2FyZGVuc11dIGRlIENlbml6YSwgYmFqw7MgYSBsYSBjYWxkZXJhIGRlIEtha2FuS2FsIG1pZW50cmFzIGRvcm3DrWEuIFZvbHZpw7MgdW5hIHNvbGEsIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gTG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphIHRvZGF2w61hIGNhbnRhbiBsb3MgdHJlaW50YSBub21icmVzLCB5IGVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyAqcmV0aXJhZG8gcG9yIGxhIFtbSnVudGF8Qm9hcmRdXSouIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlw7FvcmVzIHF1ZSBoYW4gY2HDrWRvKioiLCAiTG9zIFNlw7FvcmVzIG5vIHNvbiBpbm1vcnRhbGVzLiBNdWVyZW4gcG9jYXMgdmVjZXMsIHkgc29sbyBhIG1hbm9zIGRlIG90cm9zIFNlw7FvcmVzLiIsICIqKkVsIFtbU2XDsW9yfExvcmRdXSBhbnRlcyBkZSBWdWtoYXJyLioqIExhcyBjYW5jaW9uZXMgbcOhcyB2aWVqYXMgZGUgbG9zIFtbRWxmb3MgZGUgbGEgRXNjYXJjaGF8RnJvc3QgRWx2ZXNdXSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBbW0xhcmdhIE5vY2hlfExvbmcgTmlnaHRdXSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBUcmVpbnRhIGRlIGxhIENhbGRlcmEgKDEzMyBFQykuKiogRWwgw7puaWNvIGludGVudG8gcmVnaXN0cmFkbyBkZSB1bm9zIG1vcnRhbGVzIGNvbnRyYSB1biBTZcOxb3Igdml2by4gVW5hIHRyaXB1bGFjacOzbiBkZSBPcm8gZGUgbGEgW1tMb2dpYXxMb2RnZV1dIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dLCBjb24gdmVpbnRpbnVldmUgW1tDYXphZG9yZXN8SHVudGVyc11dIHkgdW5hIGd1w61hIGRlIGxvcyBbW0d1YXJkaWFuZXMgZGUgQ2VuaXphfEFzaCBXYXJkZW5zXV0sIGJhasOzIGEgbGEgY2FsZGVyYSBkZSBLYWthbkthbCBtaWVudHJhcyBkb3Jtw61hLiBWb2x2acOzIHVuYSBzb2xhLCBsYSBndcOtYSwgeSBudW5jYSB2b2x2acOzIGEgaGFibGFyLiBLYWthbkthbCBubyBkZXNwZXJ0w7MuIExvcyBHdWFyZGlhbmVzIGRlIENlbml6YSB0b2RhdsOtYSBjYW50YW4gbG9zIHRyZWludGEgbm9tYnJlcywgeSBlbCBbW0xpYnJvIGRlIEhhemHDsWFzfExlZGdlciBvZiBEZWVkc11dIHJlZ2lzdHJhIGVsIGNvbnRyYXRvIGNvbW8gKnJldGlyYWRvIHBvciBsYSBbW0p1bnRhfEJvYXJkXV0qLiJdfQ=="
    }
   ],
   "title": "Los Señores Salvajes",
@@ -4699,8 +4981,8 @@
   "gloss": "The Dragonborn"
  },
  "dwarves": {
-  "subtitle": "La gente de la Cuenta",
-  "summary": "Artesanos de bastión y de puerto que anotan cada deuda, favor y rencor en un libro de cuentas que dura para siempre.",
+  "subtitle": "El pueblo de la Cuenta",
+  "summary": "Artesanos de fortín y de puerto que anotan cada deuda, cada favor y cada rencor en un libro que dura para siempre.",
   "epigraph": {
    "quote": "Nunca duermas con una cuenta abierta.",
    "by": "Un dicho enano"
@@ -4708,15 +4990,108 @@
   "facts": [
    [
     "Tradición",
-    "La Cuenta eterna"
+    "La [[Cuenta|Tally]] Eterna"
    ],
    [
-    "Se distingue por",
-    "El oficio de bastión y de puerto"
+    "Conocidos por",
+    "El oficio del fortín y del puerto"
    ]
   ],
   "title": "Los Enanos",
-  "gloss": "The Dwarves"
+  "gloss": "The Dwarves",
+  "sections": [
+   {
+    "title": "La Cuenta",
+    "paragraphs": [
+     "Una promesa se anota y no vence. Un favor a una generación se le puede devolver a otra, con intereses y una nota. El oficio enano se mide contra todo lo que hicieron los antepasados."
+    ]
+   },
+   {
+    "title": "Los primeros en cruzar",
+    "paragraphs": [
+     "Los enanos fueron los primeros pueblos del continente que cruzaron a las islas, edades antes del [[Desembarco|Landing]]. Vinieron de la [[Cadena de Fuego|Fire Chain]] del oeste de Assios, encontraron montañas ya ahuecadas por manos más viejas, y encontraron Krysta en la roca. Construyeron grandes salones en las islas montañosas de la [[Frontera|Frontier]] y del [[Corazón|Heartland]], los salones de [[Hondabrasa|Emberdelf]] en [[Caída Eterna|Everfall]] (Fulkhald, en su propia lengua) y los fortines hondos bajo el hielo de la [[Extensión|Expanse]] (los Khûnhaldar)."
+    ]
+   },
+   {
+    "title": "La Caída de los Salones",
+    "paragraphs": [
+     "Fueron los primeros en pelear contra los orka, y durante vidas enteras perdieron. Cayó un salón tras otro; la Cuenta nombra cuarenta y uno. Solo aguantaron el fuego y el hielo: Hondabrasa, en el calor de Caída Eterna, y los fortines hondos de la Extensión, demasiado lejos y demasiado fríos para un asedio."
+    ]
+   },
+   {
+    "title": "Por qué la Cuenta",
+    "paragraphs": [
+     "A medida que caía cada salón, sus escribas anotaban todo lo que sabía antes del final: su oficio de forja, sus canciones, cada familia hasta el niño más pequeño, cada deuda que debía y que le debían. Los sobrevivientes sacaban esos registros y tomaban como propio el nombre del salón. Los favores de los muertos pasaban a los vivos que llevaban sus nombres, y la deuda de los orka por cada salón nunca se tachó. Esa es la [[Cuenta Eterna|Eternal Tally]], a la que los enanos llaman el Tharnek: un libro de favores y rencores que empezó como una lista de los caídos."
+    ]
+   },
+   {
+    "title": "La Krysta",
+    "paragraphs": [
+     "La Krysta es el oficio que los enanos aprendieron en las islas, y todavía son sus maestros. Los [[Artesanos de Krysta|Krystawrights]] más célebres de Kalvatar son enanos."
+    ]
+   },
+   {
+    "title": "Orcos y kóbolds",
+    "paragraphs": [
+     "Los enanos odian a los orcos con una furia que la Cuenta no suaviza. Un enano comercia con un orco, pero no bebe con él. También son de los pocos pueblos que nunca les dicen alimañas a los kóbolds: los kóbolds llevaron a salvo a las últimas familias de un salón caído, y ningún fortín ha dado nunca por pagada esa deuda. Enanos y kóbolds trabajan juntos en las minas."
+    ]
+   },
+   {
+    "title": "Por qué son tan pocos",
+    "paragraphs": [
+     "Los orka casi acabaron con ellos, y [[Abajo|Below]] se llevó más. La mayoría de los enanos viven hoy en los fortines de puerto de los grandes puertos."
+    ]
+   },
+   {
+    "title": "El Panteón de la Forja",
+    "paragraphs": [
+     "Los fortines honran a Durmakhâim el Temple, a Khazrûkk la Cuenta y a Varganthûr el Hogar Hondo."
+    ]
+   },
+   {
+    "title": "Ropa y cortesía",
+    "paragraphs": [
+     "Pesados delantales de trabajo cubren una cota fina. Las trenzas del pelo y de la barba llevan cuentas de recuento que registran obligaciones; mirar las cuentas de un extraño sin que te inviten es un insulto serio. Los sellos del fortín aparecen en los broches y las hebillas."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Bromm, Durna, Khevik, Marga, Thraim y Osgit; entre los nombres de fortín están [[Hogarhondo|Deephearth]], [[Plumahierro|Ironquill]], [[Marcapiedra|Stonemark]] y Hondabrasa.",
+     "Cada uno es el nombre de un salón. Hogarhondo y Hondabrasa siguen en pie; Plumahierro y Marcapiedra cayeron, y las familias de sus sobrevivientes llevan los nombres."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La palabra de un enano, una vez dada, se anota, y nunca vence. La Cuenta es sagrada porque los negocios son sagrados, y también las viejas cuentas pendientes: un favor que se le hizo a la abuela de un enano se le devolverá al acreedor de su nieto, con intereses y una nota."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: unos tres siglos y medio.",
+     "Aspecto: anchos y fuertes, con barbas y pelo ensartados de cuentas de recuento; cada cuenta es una deuda que deben o que les deben.",
+     "Tierra natal: Hondabrasa en Caída Eterna y los fortines hondos de la Extensión, los únicos fortines viejos que nunca cayeron, donde los enanos son los buscadores y mineros de Krysta sin igual, y los fortines de puerto de cada gran puerto.",
+     "Temperamento: exactos, leales e implacables con una palabra rota. Lo que vale la pena hacer vale la pena hacerlo tan bien que avergüence al último que lo hizo.",
+     "Leer las cuentas de recuento de un extraño sin que te inviten es motivo de duelo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La Puerta de la Cisterna. En el fondo de la cisterna más vieja de Ventoro hay un muro enano, y alguien ha estado trabajando su argamasa desde el otro lado.” (lo que dice todo el mundo)",
+     "“Los canteros de siete fortines enanos dejaron de hablar de lo que encontraron en el estante junto al muro.” (el aprendiz de un cantero enano)",
+     "“Los enanos tienen una palabra vieja para los drow, y no la dicen delante de un banquero.” (un cambista de Ventoro)",
+     "“Toda Cuenta empieza con la misma marca sin tachar. Pregúntale a un enano y te dirá que es por los salones caídos.” (un ensartador de cuentas de Ventoro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIGRldWRhLioqIEN1YW5kbyBsb3MgZW5hbm9zIGVudGVuZGllcm9uIGxvIHF1ZSBoYWLDrWFuIGhlY2hvIHN1cyBwaWNvcywgbG9zIGFuY2lhbm9zIGRlIGxvcyBmb3J0aW5lcyBhbm90YXJvbiB1bmEgZGV1ZGEgY29uIGxvcyBJdGhyZW5uYWk6IHVuYSBjYXJnYSBkZSBjYWRhIGRvY2UgZGUgdG9kbyBsbyBxdWUgc2UgbWluYXJhLCBjYWRhIGHDsW8sIHkgYWwgZmluYWwgdW5hIGx1eiBwb3IgbGEgbHV6LiBEcmF2LCBsYSB2aWVqYSBwYWxhYnJhIGVuYW5hIHF1ZSBsb3MgbWluZXJvcyBnYXN0YXJvbiBoYXN0YSB2b2x2ZXJsYSBkcm93LCBxdWllcmUgZGVjaXIgYWNyZWVkb3IuIiwgIioqRWwgbXVyby4qKiBEZXNwdcOpcyBkZSBxdWUgbG9zIG9ya2EgaW51bmRhcm9uIHN1cyBjaXVkYWRlcyBkZSBhYmFqbywgZWwgY2FtaW5vIGhhY2lhIGFiYWpvIHNlIHZvbHZpw7MgbW9ydGFsLCB5IGFsIGZpbmFsIGxhIG1heW9yw61hIGRlIGxvcyBmb3J0aW5lcyB0YXBpYXJvbiBsYSBkZXVkYS4gRW4gY2FkYSBtdXJvIHRhbGxhcm9uOiBubyBhYnJpciBoYXN0YSBxdWUgZXN0w6kgcGFnYWRhLiBMYSBwcmltZXJhIGzDrW5lYSBkZSB0b2RhIFtbQ3VlbnRhfFRhbGx5XV0gZW5hbmEgZXMgZXNhIGRldWRhLCBzaW4gdGFjaGFyLiIsICIqKkxhcyBbW0Nhc2FzIHF1ZSBQYWdhbnxQYXlpbmcgSG91c2VzXV0uKiogTm8gdG9kb3MgbG9zIGZvcnRpbmVzIHBhcmFyb24uIFVuYXMgcG9jYXMgY2FzYXMgZW5hbmFzIHNhYmVuIGxvIHF1ZSBxdWllcmUgZGVjaXIgbGEgcHJpbWVyYSBsw61uZWEgeSB0b2RhdsOtYSBtYW5kYW4gcGFnb3MgaGFjaWEgW1tBYmFqb3xCZWxvd11dIGNhZGEgcG9jb3MgYcOxb3MsIHBvciBjYW1pbm9zIHF1ZSBubyBjb21wYXJ0ZW4gY29uIG5hZGllOiBwcm92aXNpb25lcywgb3JvLCBsdXosIHkgYSB2ZWNlcyBzb2xkYWRvcyBlbnRyZW5hZG9zIGVuIHNlY3JldG8gcGFyYSBzZXJ2aXIgdW4gdGllbXBvIGp1bnRvIGEgbGEgW1tHdWFyZGlhIGRlIGxhIEzDoW1wYXJhfExhbXBndWFyZF1dLiBFc29zIHNvbGRhZG9zIHNvbiBsb3MgW1tKdXJhbWVudGFkb3N8S2VlcHN3b3JuXV0sIHkgc3VzIGZvcnRpbmVzIGxvcyBhbm90YW4gY29tbyBwZXJkaWRvcyBlbiB1biBkZXJydW1iZS4gTG9zIGVuYW5vcyBubyBsbyBkZWJlbiB0b2RvLiBMb3MgZm9ydGluZXMgcXVlIHBhcmFyb24gZGViZW4gc3VzIGF0cmFzb3MsIHkgdG9kb3Mgc2lndWVuIGRlYmllbmRvIGxhIGx1ei4iLCAiKipMb3MgW1txdWUgU3ViZW58VXB3YXJkXV0uKiogU3UgamVmYSwgT3JpYW5kZWwsIGRlasOzIGF2aXNvIGVuIGxvcyBuaWNob3MgZGVsIGxpYnJvIGRlIGxvcyBmb3J0aW5lcyB0YXBpYWRvcy4gRW4gZWwgMTc2IEVDIHBpZW5zYSBzdWJpciBwb3IgbGEgW1tQdWVydGEgZGUgbGEgQ2lzdGVybmF8Q2lzdGVybiBEb29yXV0geSBwcmVzZW50YXIgZWwgcmVjbGFtbyBhbnRlIGxhIFtbQ2FzYSBkZSBsb3MgVGVzb3Jlcm9zfFJlY2tvbmVycycgSGFsbF1dLCBiYWpvIGxhIGxleSBlbmFuYS4gTm8gcXVpZXJlIGxvcyBmb3J0aW5lcy4gUXVpZXJlIHVuYSBsdXogcG9yIGxhIGx1eiwgeSBsZXMgcGVyZG9uYXLDoSBsb3MgYXRyYXNvcyBhIGxvcyBmb3J0aW5lcyBxdWUgYXl1ZGVuIGEgcGFnYXJsYS4iLCAiKipTaWV0ZSBmb3J0aW5lcyoqIGVuY29udHJhcm9uIHVuIHBhbG8gZGUgcmVjdWVudG8geSB1biByZXRhem8gZGUgW1tzZWRhb3NjdXJhfGRhcmtzaWxrXV0gZW4gZWwgbmljaG8gZGVsIGxpYnJvIGp1bnRvIGEgc3UgbXVyby4gQ2FkYSB1bm8gY3JlZSBxdWUgZXMgZWwgw7puaWNvLCB5IG5vIHNlIGxvIGhhIGRpY2hvIGEgbmFkaWUuIiwgIioqQ8OzbW8gc2UgcHVlZGUgcGFnYXIuKiogTG9zIGVsZm9zIGRlIGxhIHN1cGVyZmljaWUgYmFqYW4geSBkYW4gbHV6LCB5IGVzbyBjb21wcmEgdW5hIGdlbmVyYWNpw7NuLiBPIGxvcyBlbmFub3MgZm9yamFuIHVuYSBjZXJyYWR1cmEgcXVlIG5vIG5lY2VzaXRlIGFsaW1lbnRvLCBkZSBwbGF0YSBkZSBndWFyZGEsIHZpZHJpbyBkZSBsw6FtcGFyYSB5IGVsIG1lam9yIG9maWNpbyBkZSBsYSDDqXBvY2EsIGNvbiB1biBlbmFubyBkYW5kbyBlbCDDumx0aW1vIGdvbHBlLiBPIHNpcnZlIGxhIGNoaXNwYSBkZSB1biBhYXNpbWFyLCBjb3NhIHF1ZSBuYWRpZSBoYSBwcm9iYWRvLiBPIGxvIHF1ZSBhcHJlbmRpZXJvbiBsb3MgZHJvdyBzZSBsbGV2YSBhbCBzdXIgeSBzZSBjaWVycmFuIGxhcyBjdWF0cm8gY2VycmFkdXJhcyBhIGxhIHZlei4iLCAiKipQYXJhIGVsIERpcmVjdG9yIGRlIEp1ZWdvKioiLCAiKipMYSBwcmltZXJhIGzDrW5lYSBlcyBsYSBbW0RldWRhIFZpZWphfE9sZCBEZWJ0XV0qKiAoVm9sdW1lbiBYWElJKTogbGEgZGV1ZGEgcG9yIGVsIGNvcnRlIHF1ZSByb21wacOzIGxhIFtbTMOhbXBhcmF8TGFtcF1dLCBwdWVzdGEgZW5jaW1hIGRlIGxhcyBjdWVudGFzIGRlIGxvcyBzYWxvbmVzIGVuIGNhZGEgbGlicm8gbnVldm8gcG9ycXVlIGVzIGxhIGRldWRhIG3DoXMgZ3JhbmRlLCBubyBsYSBtw6FzIHZpZWphLiIsICIqKkVsIGNhbWlubyBtw6FzIGhvbmRvIGRlbCB0cmF0byoqIGZ1ZSBlbCBxdWUgc2UgY29ydMOzIHBhcmEgZWwgY3VsdG8gZGUgWmlrYW5pdHJheiwgZWwgcXVlIHJvbXBpw7MgbGEgTMOhbXBhcmEuIEVzIHVuYSBjb3NhIG3DoXMgcXVlIGxvcyBlbmFub3MgbGVzIHJlcHJvY2hhbiBhIGxvcyBvcmNvcywgeSBsYSBxdWUgbWVub3MgZGVyZWNobyB0aWVuZW4gYSByZXByb2NoYXIuIiwgIioqW1tDYcOtZGEgRXRlcm5hfEV2ZXJmYWxsXV0uKiogTG9zIGVxdWlwb3MgZGUgRGFybGF0aCBkZSBSYW5rYXIgcm9tcGllcm9uIHVuIG11cm8gZW5hbm8gZW4gbG9zIFtbQ2FtaW5vcyBkZSBCcmFzYXxFbWJlciBSb2Fkc11dIGVuIGVsIDE3MiBFQy4gSG9uZGFicmFzYSBsbyBhbm90w7MgY29udHJhIFJhbmthciB5LCBkZXNkZSBxdWUgbGEgQ2FzYSBbW0NvcmFzY3VhfEVtYmVyaGVhcnRdXSBhY2VwdMOzIGVsIGRpbmVybyBkZWwgW1tJbXBlcmlvfEltcGVyaXVtXV0sIGNvbnRyYSBlbCBJbXBlcmlvLiIsICIqKkFicmFuZXRoLioqIEEgbG9zIFtbVGFuZXMgZGUgbGEgRm9yamF8Rm9yZ2UtVGhhbmVzXV0gbGVzIGRlYmVuIGxvcyBkb3MgYmFuZG9zIGRlIGxhIFtbR3VlcnJhIGRlIGxvcyBNaWwgQcOxb3N8VGhvdXNhbmQtWWVhciBXYXJdXS4gTG9zIGVuYW5vcyBkZSBsYXMgaXNsYXMgeSBBYnJhbmV0aCBzZSB2ZW4gdW5vcyBhIG90cm9zIGNvbW8gcHJpbW9zIHF1ZSBlbGlnaWVyb24gY29sdW1uYXMgZGlzdGludGFzLiJdfQ=="
+   }
+  ]
  },
  "elves": {
   "subtitle": "Muchas ramas de una larga memoria",

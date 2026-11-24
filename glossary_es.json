@@ -182,7 +182,7 @@
  {
   "term": "KakanKal",
   "say": "KAH-kan-kahl",
-  "meaning": "Emperador de las Llamas.",
+  "meaning": "[[Emperador de las Llamas|Emperor of Flames]].",
   "entry": "savage-lords"
  },
  {
@@ -533,14 +533,14 @@
  {
   "term": "Haldvekh",
   "say": "HALD-vekh",
-  "meaning": "La Caída de los Salones.",
+  "meaning": "La [[Caída de los Salones|Falling of the Halls]].",
   "entry": "dwarves",
   "aside": true
  },
  {
   "term": "Fulkhald",
   "say": "FULK-hald",
-  "meaning": "Hondabrasa, los salones enanos de [[Caída Eterna|Everfall]].",
+  "meaning": "[[Hondabrasa|Emberdelf]], los salones enanos de [[Caída Eterna|Everfall]].",
   "entry": "dwarves",
   "aside": true
  },
@@ -554,7 +554,7 @@
  {
   "term": "Ezhvarganthûr",
   "say": "ezh-var-GAN-thoor",
-  "meaning": "El Viejo Hogarhondo.",
+  "meaning": "El Viejo [[Hogarhondo|Deephearth]].",
   "entry": "dwarves",
   "aside": true
  },
