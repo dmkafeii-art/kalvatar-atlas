@@ -976,10 +976,10 @@
  "gilded-shallows": {
   "gloss": "The Gilded Shallows",
   "subtitle": "Oro bajo el agua",
-  "summary": "Una laguna cuyas arenas espolvoreadas de Krysta vuelven dorada el agua al atardecer.",
+  "summary": "Una laguna cuyas arenas, espolvoreadas de Krysta, vuelven dorada el agua al atardecer.",
   "epigraph": {
-   "quote": "Rema mar adentro al atardecer, besa cuando el agua se vuelva de oro y nunca pelearán por dinero. Es mentira, pero una mentira preciosa.",
-   "by": "Un barquero de los Bajíos Dorados"
+   "quote": "Rema al atardecer, besa cuando el agua se vuelva oro y nunca van a pelear por plata. Es mentira, pero una mentira preciosa.",
+   "by": "Un botero de los Bajíos Dorados"
   },
   "facts": [
    [
@@ -991,15 +991,35 @@
     "Maravilla natural"
    ]
   ],
-  "title": "Los Bajíos Dorados"
+  "title": "Los Bajíos Dorados",
+  "sections": [
+   {
+    "title": "Una maravilla de las islas",
+    "paragraphs": [
+     "Los Bajíos son agua de peregrinos y agua de recién casados. Su brillo de la tarde viene de la Krysta de la arena. Nadar durante la [[Marea Rey|King Tide]] está prohibido, y la prohibición se hace cumplir."
+    ]
+   },
+   {
+    "title": "Verlo",
+    "paragraphs": [
+     "Ven al atardecer, cuando el sol bajo prende el polvo de Krysta de la arena y toda la laguna se vuelve oro por lo que dura una oración. Los peregrinos entran hasta la rodilla; los recién casados reman hasta el medio. Nadie nada ahí en las [[Tres Noches|Three Nights]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los Bajíos Dorados ahora brillan de noche, aunque la marea esté baja. La Concordia dice que es una bendición. El Registro dice que es un incendio.” (se oye en el Corazón Central)"
+    ]
+   }
+  ]
  },
  "singing-cliffs": {
   "gloss": "The Singing Cliffs",
   "subtitle": "El mañana, oído en el viento",
-  "summary": "Los riscos de Aguja Alta, horadados por el viento, suenan en acordes antes de un cambio de tiempo.",
+  "summary": "Los peñascos de Aguja Alta, horadados por el viento, suenan en acordes antes de que cambie el tiempo.",
   "epigraph": {
-   "quote": "Grave y lento, buen tiempo. Agudo y fino, los botes al abrigo.",
-   "by": "Una canción infantil de Aguja Alta"
+   "quote": "Grave y lento, buen tiempo y contento. Agudo y fino, los botes al camino.",
+   "by": "Una ronda de los niños de Aguja Alta"
   },
   "facts": [
    [
@@ -1011,14 +1031,40 @@
     "Maravilla natural"
    ]
   ],
-  "title": "Los Acantilados que Cantan"
+  "title": "Los Acantilados que Cantan",
+  "sections": [
+   {
+    "title": "Una maravilla de las islas",
+    "paragraphs": [
+     "Los nidos de los aethyn coronan los [[Acantilados que Cantan|Singing Cliffs]]. Los capitanes de puerto leen el cambio de tiempo en su tono, y así la música del acantilado es parte de la vida práctica del puerto además de su maravilla."
+    ]
+   },
+   {
+    "title": "Verlo",
+    "paragraphs": [
+     "Párate en el muro del puerto de [[Aguja Alta|Highspire]] cuando el viento gira. Los acantilados de arriba dan un acorde, grave y lento para el buen tiempo, que sube y se adelgaza antes de una tormenta. Los niños aprenden los acordes antes que las letras, y un marinero de Aguja Alta te tararea el tiempo de mañana si se lo pides."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Su tono sube antes de una tormenta, y los capitanes de puerto toman el acorde como el pronóstico del día. Los aethyn anidan en las cornisas de los peñascos, y sus nidos son los únicos lugares donde la gente alada habla de los [[Cunaestrella|Starborn]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los Acantilados que Cantan dieron la primavera pasada un acorde que ningún capitán de puerto había oído nunca. El tiempo que vino después fue perfectamente normal, y eso los preocupó más.” (se oye en Aguja Alta)"
+    ]
+   }
+  ]
  },
  "glass-forest": {
   "gloss": "The Glass Forest",
   "subtitle": "El primer aliento del Emperador de las Llamas",
-  "summary": "Un bosque de obsidiana en Caída Eterna, dejado por una erupción antigua.",
+  "summary": "Un bosque de obsidiana en Caída Eterna, que dejó una erupción antigua.",
   "epigraph": {
-   "quote": "Cada tañido es un aliento del Emperador. Los contamos para saber cuándo está soñando.",
+   "quote": "Cada campanada es un aliento del Emperador. Los contamos para saber cuándo está soñando.",
    "by": "Un Guardián de Ceniza de Caída Eterna"
   },
   "facts": [
@@ -1031,12 +1077,38 @@
     "Maravilla natural"
    ]
   ],
-  "title": "El Bosque de Vidrio"
+  "title": "El Bosque de Vidrio",
+  "sections": [
+   {
+    "title": "Una maravilla de las islas",
+    "paragraphs": [
+     "Se dice que los árboles de vidrio negro de la ladera son el primer aliento del [[Emperador de las Llamas|Emperor of Flames]]. Los terremotos los hacen sonar. En [[Caída Eterna|Everfall]], escuchar es muchas veces una forma de vigilar."
+    ]
+   },
+   {
+    "title": "Verlo",
+    "paragraphs": [
+     "Los árboles de obsidiana se alzan negros en la ladera sobre Caída Eterna, con filos capaces de cortar una mano descuidada. Los visitantes van con un [[Guardián de Ceniza|Ash Warden]] o no van. Cuando la tierra tiembla, todo el bosque suena como campanas golpeadas, y los [[Guardianes|Wardens]] se detienen a contar."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "El Bosque suena con los terremotos que los [[Caminos de Brasa|Ember Roads]] suben desde abajo, y los Guardianes de Ceniza leen las campanadas como una cuenta de los alientos del Emperador."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los cindren de Caída Eterna dicen que el Bosque de Vidrio dio trece campanadas el último Tumbadía, y siempre ha sonado de doce en doce.” (un Guardián de Ceniza)"
+    ]
+   }
+  ]
  },
  "cathedral-green": {
   "gloss": "The Cathedral Green",
   "subtitle": "Un bosque construido como un santuario",
-  "summary": "Árboles titánicos se abren en bóvedas de raíces como naves, y los Liriath plantan a sus muertos bajo ellos.",
+  "summary": "Árboles titanes se abren en bóvedas de raíces como naves de templo, y los liriath plantan a sus muertos debajo. Cada tumba hace crecer su propio árbol.",
   "epigraph": {
    "quote": "No enterramos a nuestros muertos. Los plantamos, y la arboleda recuerda lo que nosotros olvidamos.",
    "by": "Un cultivador liriath"
@@ -1049,17 +1121,72 @@
    [
     "Tipo",
     "Maravilla natural"
+   ],
+   [
+    "Guardianes",
+    "los liriath"
+   ],
+   [
+    "Visitantes",
+    "recorren las naves en silencio, nunca en multitud, nunca de noche"
+   ],
+   [
+    "Conocida por",
+    "una luz como de vitral, y gente que vino a un funeral y se quedó"
    ]
   ],
-  "title": "La Catedral Verde"
+  "title": "La Catedral Verde",
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Una arboleda de árboles titanes cuyas raíces se arquean en bóvedas como las naves de un templo. El dosel deja bajar la luz en haces pálidos, teñidos por las hojas que atraviesan, de modo que el suelo de la Catedral parece el interior de una ventana.",
+     "Los liriath plantan aquí a sus muertos, y cada tumba hace crecer su propio árbol. Para ellos es un regreso a la arboleda viva, y el lugar lleva su memoria en raíces y estaciones."
+    ]
+   },
+   {
+    "title": "Quién vive ahí",
+    "paragraphs": [
+     "Los liriath cuidan la Catedral, y los florianos, de vida corta, florecen y se marchitan en sus claros. Alrededor de la arboleda viven tribus del verde hondo que han sido sus vecinas desde que cualquiera de las dos recuerda: cultivadores, caminantes del dosel y faroleros que traen a sus propios muertos hasta el borde y piden permiso.",
+     "La luz de la Catedral es amable. Los visitantes que vienen a un funeral muchas veces se quedan el resto de su vida, y los pueblos de su borde están llenos de gente que pensaba irse a la mañana siguiente."
+    ]
+   },
+   {
+    "title": "Recorrer las naves",
+    "paragraphs": [],
+    "list": [
+     "**En silencio.** Hablar es para el borde de la arboleda.",
+     "**Nunca en multitud.** Unos pocos a la vez, con un liriath o con permiso.",
+     "**Nunca de noche.**",
+     "**No te lleves nada.** Ni una hoja, ni una semilla. Un liriath puede poner la mano en un tronco y decirte quién descansa debajo, y de quién era esa hoja."
+    ]
+   },
+   {
+    "title": "Si vienes de aquí",
+    "paragraphs": [],
+    "list": [
+     "Hablas bajito, y notas lo fuerte que hablan todos los demás.",
+     "Conoces a alguien plantado en la Catedral, y sabes cuál es su árbol.",
+     "Sabes andar un camino del dosel y leer el tiempo en la luz.",
+     "Te fuiste de un lugar donde la gente viaja toda una vida para quedarse, y te preguntan por qué."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“A los árboles de la Catedral Verde les están creciendo tumbas nuevas. Los liriath dicen que son sus propios muertos, pero nadie de su clase ha muerto en la Catedral en cuarenta años.” (se oye en las Tierras Salvajes del Sur)",
+     "“Siéntate bajo el árbol más viejo el tiempo suficiente y te va a decir un nombre. Nunca es uno que conozcas. Todavía.” (un farolero del borde de la arboleda)"
+    ]
+   }
+  ]
  },
  "auroral-vault": {
   "gloss": "The Auroral Vault",
-  "subtitle": "Donde la aurora yace abajo",
-  "summary": "Un cañón de hielo donde la aurora parece encharcarse bajo el borde como luz líquida.",
+  "subtitle": "Donde las luces quedan abajo",
+  "summary": "Un cañón de hielo donde la aurora parece estancarse bajo el borde como luz líquida. Los Elfos de la Escarcha no hacen incursiones bajo ella.",
   "epigraph": {
-   "quote": "Ahí sueña el Hambre Blanca. No se asalta bajo un dios que sueña.",
-   "by": "Un saqueador elfo de la escarcha"
+   "quote": "Ahí es donde sueña el Hambre Blanca. No saqueamos bajo un dios que sueña.",
+   "by": "Un incursor Elfo de la Escarcha"
   },
   "facts": [
    [
@@ -1069,29 +1196,106 @@
    [
     "Tipo",
     "Maravilla natural"
+   ],
+   [
+    "Se ve",
+    "solo en la [[Larga Noche|Long Night]], cuando arde la aurora"
+   ],
+   [
+    "Vigilia",
+    "la [[Vigilia de la Luz Fantasma|Ghostlight Vigil]], la noche de la aurora más fuerte"
+   ],
+   [
+    "La paz",
+    "ningún [[Elfo de la Escarcha|Frost Elf]] hace incursiones bajo las luces"
    ]
   ],
-  "title": "La Bóveda Auroral"
+  "title": "La Bóveda Auroral",
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "El cañón está en lo hondo del hielo y solo se llega a él en la Larga Noche. Desde el borde, las franjas verdes y blancas de la aurora parecen derramarse por las paredes y juntarse en el fondo en un lago callado de color.",
+     "Los [[Elfos de la Escarcha|Frost Elves]] lo llaman el soñar de Vukharr. Hasta en un país gobernado por la dura necesidad, algunos lugares guardan sus propias prohibiciones."
+    ]
+   },
+   {
+    "title": "Quién vive ahí",
+    "paragraphs": [
+     "Nadie vive en el cañón. En sus accesos acampa la gente del hielo hondo: bandas de guerra de Elfos de la Escarcha, cazadores de focas, conductores de trineo y las tribus pequeñas que siguen a las manadas por los témpanos y toman sus nombres del zorro, de la lechuza y de la luz.",
+     "Bajo las luces, todos ellos guardan la paz. Los enemigos comparten un fuego en el borde y vuelven a ser enemigos a un día de viaje."
+    ]
+   },
+   {
+    "title": "La Vigilia de la Luz Fantasma",
+    "paragraphs": [
+     "La noche de la aurora más fuerte, la gente de la costa sale al hielo a mirar cómo las luces se estancan bajo el borde. Los balleneros dicen que quien recorre el fondo del cañón la noche de la Luz Fantasma verá su propio nombre escrito en la luz, y lo oirá decir una vez más antes de morir."
+    ]
+   },
+   {
+    "title": "Si vienes de aquí",
+    "paragraphs": [],
+    "list": [
+     "La oscuridad no te asusta, y el frío tampoco. El desperdicio sí.",
+     "Has compartido un fuego con alguien que te habría matado en cualquier otra parte.",
+     "Conoces a los perros de trineo, el hielo marino y cuánto dura un cuerpo en el agua.",
+     "Te has parado en el borde. Si bajaste o no es asunto tuyo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los Elfos de la Escarcha dejaron de saquear la Bóveda Auroral. Los Elfos de la Escarcha dicen que Vukharr está soñando con algo nuevo.” (se oye en la Extensión Helada)",
+     "“Algunas noches las luces parpadean siguiendo un patrón. Tres largas, dos cortas, una y otra vez, como la lámpara de alguien.” (un cazador de focas de Snowvah)"
+    ]
+   }
+  ]
  },
  "starfall-reef": {
   "gloss": "The Starfall Reef",
   "subtitle": "Estrellas bajo el casco",
-  "summary": "Coral veteado de Krysta que brilla a través del agua, en el territorio de los Jardines de Vidrio.",
+  "summary": "Un coral veteado de Krysta brilla a través del agua en el territorio de los Jardines de Vidrio.",
   "epigraph": {
    "quote": "Llévate un pedazo y se apaga en tu mano. El arrecife solo brilla para el mar.",
-   "by": "Un enviado de los Jardines de Vidrio"
+   "by": "Una enviada de los Jardines de Vidrio"
   },
   "facts": [
    [
     "Región",
-    "El mar"
+    "El Mar"
    ],
    [
     "Tipo",
     "Maravilla natural"
    ]
   ],
-  "title": "El Arrecife de las Estrellas Caídas"
+  "title": "El Arrecife de las Estrellas Caídas",
+  "sections": [
+   {
+    "title": "Una maravilla de las islas",
+    "paragraphs": [
+     "El arrecife pertenece a los [[Jardines de Vidrio|Glass Gardens]]. Su luz es una maravilla para los viajeros, pero cazarlo a escondidas rompe un pacto del mar. La belleza no hace que algo no tenga dueño."
+    ]
+   },
+   {
+    "title": "Verlo",
+    "paragraphs": [
+     "Visto desde un casco de noche, el arrecife brilla hacia arriba a través del agua como un segundo cielo. Los Jardines de Vidrio dejan que los botes floten sobre él: sin anclas, sin redes, sin manos en el agua. El coral que se saca de ahí se apaga antes de secarse."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Su coral es el coral de las [[Estrellas Caídas|Starfall]] que tanto aprecian los vidrieros del [[Corazón|Heartland]], y su luz se apaga cuando lo sacan del mar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Coro Rojo empezó a cantar en una noche tranquila, sin sangre en el agua. Los Llamamareas dicen que la canción sube desde el Arrecife de las Estrellas Caídas.” (se oye en el Mar y en los Reinos de Coral)"
+    ]
+   }
+  ]
  },
  "aethyn": {
   "title": "Los Aethyn",
@@ -6537,7 +6741,7 @@
  "soldiers-rest": {
   "gloss": "The Soldiers’ Rest",
   "subtitle": "Una tregua en el agua",
-  "summary": "Aguas termales minerales en terrazas cerca de Bastión, protegidas por una férrea costumbre de paz.",
+  "summary": "Manantiales termales minerales en terrazas cerca de Bastión, protegidos por una férrea costumbre de paz.",
   "epigraph": {
    "quote": "Me senté en el agua frente al hombre que mató a mi hermano. No dijimos nada. Después los dos nos fuimos a casa.",
    "by": "Un veterano de la Frontera"
@@ -6548,11 +6752,31 @@
     "[[Frontera del Norte|Northern Frontier]]"
    ],
    [
-    "Clase",
+    "Tipo",
     "Maravilla natural"
    ]
   ],
-  "title": "El Descanso de los Soldados"
+  "title": "El Descanso de los Soldados",
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "En los manantiales no se desenvaina el acero. Hasta una venganza de sangre se detiene mientras sus enemigos comparten el agua."
+    ]
+   },
+   {
+    "title": "Verlo",
+    "paragraphs": [
+     "Pozas en terrazas humean en la ladera cerca de [[Bastión|Bastion]], y el agua sabe a hierro y a sal. Cualquiera puede bañarse; nadie puede desenvainar el acero. Se ha visto a viejos enemigos compartir una poza en silencio y salir por caminos distintos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Alguien desenvainó el acero en el Descanso de los Soldados el invierno pasado. Los manantiales corrieron fríos una semana.” (se oye en Bastión)"
+    ]
+   }
+  ]
  },
  "malims-stair": {
   "gloss": "Malim’s Stair",
@@ -8098,63 +8322,121 @@
   ]
  },
  "aurelion": {
-  "subtitle": "Un lugar del Corazón Central",
+  "subtitle": "Un humo que se ve desde Ventoro",
   "summary": "Aurelion es la ciudad-forja de la costa norte y la sede de la casa Forjasol.",
   "facts": [
    [
     "Región",
-    "[[Corazón Central|Central Heartland]]"
+    "El [[Corazón Central|Central Heartland]]"
    ]
   ],
-  "title": "Aurelion"
+  "title": "Aurelion",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El humo de Aurelion se ve desde [[Ventoro|Goldwind]] en un día claro, y su metalurgia, sus armas de fuego y su orfebrería llenan los almacenes del Congreso. La casa [[Forjasol|Sunforge]] es la casa de maestros herreros del [[Corazón|Heartland]], fabulosamente rica y muy atada al Congreso. Sus forjas, las obras de Forjasol, son el único lugar del Corazón donde se puede hacer un arma de fuego con la prueba reglamentaria, y los herreros de Aurelion guardan el secreto de esa prueba con el mismo cuidado con que el [[Consejo|Council]] guarda sus escaños."
+    ]
+   }
+  ]
  },
  "bastion": {
   "gloss": "Bastion",
-  "subtitle": "Un lugar de la Frontera del Norte",
+  "subtitle": "La puerta del norte",
   "summary": "Bastión es la sede de la Casa Faust, la fortaleza-puerta del norte.",
   "facts": [
    [
     "Región",
-    "[[Frontera del Norte|Northern Frontier]]"
+    "La [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Bastión"
+  "title": "Bastión",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "[[Bastión|Bastion]] se alza en una isla fortificada en la boca del camino de mar del este, con una muralla que ha resistido a todas las flotas que la pusieron a prueba. La guarnición Faust es la fuerza permanente más grande del archipiélago fuera de la Armada, y las granjas de remonta de la casa le dan caballos a media [[Frontera|Frontier]]. Los torneos de Bastión, que se hacen cada primavera en Ezra, son el gran espectáculo marcial del norte, y los ganadores se llevan a casa el sello de los Faust como señal de rango. Johann Faust, capitán del *[[Jubiloso|Jubilant]]* y [[Cazador|Hunter]] célebre, es el hijo más famoso de la casa, y su lealtad partida entre la sangre y el juramento es el problema privado de la casa del que más se habla."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Kastan Vol Kaern está comprando las deudas de Bastión a través de la casa Zane. Va a ser dueño de la puerta de la Frontera antes de que el Consejo sepa que empezó.” (se oye en el Corazón Central)"
+    ]
+   }
+  ]
  },
  "black-harbor": {
   "gloss": "Black Harbor",
-  "subtitle": "Un lugar de la Frontera del Norte",
-  "summary": "Puerto Negro es la capital de los contrabandistas de la Frontera, un laberinto de muelles y cuevas marinas en la niebla, al pie de Puerto Gris.",
+  "subtitle": "Donde la niebla no paga derechos",
+  "summary": "Puerto Negro es la capital de los contrabandistas de la Frontera, un laberinto de muelles y cuevas marinas en la niebla bajo Puerto Gris.",
   "facts": [
    [
     "Región",
-    "[[Frontera del Norte|Northern Frontier]]"
+    "La [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Puerto Negro"
+  "title": "Puerto Negro",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "[[Puerto Negro|Black Harbor]] es el hogar de los [[Corredores de la Niebla|Fogrunners]], que llevan carga sin impuestos a través de la [[Bruma|Murk]] con códigos de campanas tan exactos que pueden enhebrar los [[Dientes de la Viuda|Widow's Teeth]] a ciegas. Su jefa, Wenna Hollis, la [[Señora de las Campanas|Bellmistress]], nunca ha sido atrapada, porque ningún oficial del [[Diezmo de la Puerta|Gate-Tithe]] ha podido oír nunca lo que dice. El [[Gaznate|Gullet]], una cueva de marea que baja hacia [[Abajo|Below]], se abre en el extremo norte del puerto, y los Corredores de la Niebla lo usan cuando las patrullas del [[Consejo|Council]] están más espesas en la superficie."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El camino seco. Los caminos de Abajo van de isla en isla, y un contrabandista que los conociera podría llevar una carga a pie de Puerto Negro a Ventoro sin pagar un solo derecho de puerto.” (lo que dice todo el mundo)"
+    ]
+   }
+  ]
  },
  "briarcrown": {
   "gloss": "Briarcrown",
-  "subtitle": "Un lugar del Corazón Central",
-  "summary": "Corona de Zarzas es la sede de la Casa Espinaplata, un pueblo fortificado en una colina sobre la costa este.",
+  "subtitle": "Tranquila, próspera y atenta",
+  "summary": "Corona de Zarzas es la sede de la Casa Espinaplata, un pueblo fortificado en una colina sobre la costa del este.",
   "facts": [
    [
     "Región",
-    "[[Corazón Central|Central Heartland]]"
+    "El [[Corazón Central|Central Heartland]]"
    ]
   ],
-  "title": "Corona de Zarzas"
+  "title": "Corona de Zarzas",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "[[Corona de Zarzas|Briarcrown]] es tranquila, próspera y atenta, con una fama de discreción que casi es un delito en sí misma. Sus casas tienen muros altos y jardines callados, y los espías [[Espinaplata|Silverthorn]] llevan un registro de cada visitante de los [[mercados de sombra|shadow markets]] del [[Corazón|Heartland]]. La rivalidad de la casa con la Casa Alastor es fría y honda. Ninguna confía en la otra, y las dos viven de comerciar secretos."
+    ]
+   }
+  ]
  },
  "crystalhaven": {
   "gloss": "Crystalhaven",
-  "subtitle": "Un lugar de la Extensión Helada",
-  "summary": "Refugio de Cristal es un pueblo de saqueadores de naufragios en la costa de hielo azul.",
+  "subtitle": "Un pueblo hecho con los barcos de otros",
+  "summary": "Refugio de Cristal es un pueblo de naufragadores en la costa del hielo azul.",
   "facts": [
    [
     "Región",
-    "[[Extensión Helada|Icy Expanse]]"
+    "La [[Extensión Helada|Icy Expanse]]"
    ]
   ],
-  "title": "Refugio de Cristal"
+  "title": "Refugio de Cristal",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El puerto de [[Refugio de Cristal|Crystalhaven]] es una media luna de agua helada, y sus calles están bordeadas de cascos de barcos que entraron con una luz en los ojos y nunca volvieron a salir. Las [[Luces Falsas|False Lights]] son los naufragadores del pueblo, que cuelgan faroles falsos en los acantilados para atraer a los barcos hacia el hielo, y después desvalijan el naufragio. La Abuela Ylva Skerrow es la matriarca de los naufragadores, una mujer diminuta con una voz como de sirena de niebla y una memoria para cada barco que ha atraído. Los capitanes del sur dicen \"no toda costa amable es amable\" cuando pasan frente a los acantilados del hielo azul, y hacen la señal de la [[Luz que Responde|Answering Light]] mientras siguen de largo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron a Mira en Refugio de Cristal con el nieto de la Abuela Skerrow. A la heredera de un contrabandista nunca se la ve con el nieto de una naufragadora salvo que uno de los dos piense quedarse con la silla del otro.” (se oye en la Extensión Helada)"
+    ]
+   }
+  ]
  },
  "duskmire-haven": {
   "gloss": "Duskmire Haven",
@@ -8191,38 +8473,68 @@
  },
  "easthold-westwatch-and-pearl-groove": {
   "gloss": "Easthold, Westwatch, and Pearl Groove",
-  "subtitle": "Un lugar del Corazón Central",
-  "summary": "Bastión del Este es el puerto pesquero de la costa este, con sus flotas, sus huertos de hierbas y sus mercados de mariscos.",
+  "subtitle": "Tres pueblos de trabajo del Corazón",
+  "summary": "Bastión del Este es el puerto pesquero de la costa del este, con sus flotas, sus huertos de hierbas y sus mercados de mariscos.",
   "facts": [
    [
     "Región",
-    "[[Corazón Central|Central Heartland]]"
+    "El [[Corazón Central|Central Heartland]]"
    ]
   ],
-  "title": "Bastión del Este, Atalaya del Oeste y el Surco de Perlas"
+  "title": "Bastión del Este, Atalaya del Oeste y el Surco de Perlas",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "[[Atalaya del Oeste|Westwatch]] es el pueblo minero de las alturas del oeste, y sus canteras y minas de carbón le dan al [[Corazón|Heartland]] su piedra y su combustible. [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, donde los buzos trabajan los bancos bajo los ojos atentos de la casa Belmaris y su señora de las campanas. Las perlas y el púrpura de arrecife, teñido con múrice, son las exportaciones más exclusivas de la región, y el comercio de sonido de los [[Reinos de Coral|Coral Kingdoms]] pasa por el Surco camino del Congreso."
+    ]
+   }
+  ]
  },
  "elyria": {
-  "subtitle": "Un lugar del Corazón Central",
+  "subtitle": "Las torres blancas de los que no mueren",
   "summary": "Elyria es el bastión élfico de la Casa Caelvaron, la única gran sede gobernada por los que no mueren.",
   "facts": [
    [
     "Región",
-    "[[Corazón Central|Central Heartland]]"
+    "El [[Corazón Central|Central Heartland]]"
    ]
   ],
-  "title": "Elyria"
+  "title": "Elyria",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las torres de Elyria son blancas y verde pálido, entre árboles antiguos en las colinas del este. Los gobernantes Caelvaron se turnan según el [[Ciclo de los Cien Años|Hundred-Year Cycle]], y la corte de Elyria es la más paciente y menos apurada del [[Corazón|Heartland]]. Los elfos de Elyria recuerdan rencores más viejos que la Carta, y la corte guarda registros que el [[Consejo|Council]] daría mucho por leer."
+    ]
+   }
+  ]
  },
  "frosthold": {
   "gloss": "Frosthold",
-  "subtitle": "Un lugar de la Extensión Helada",
-  "summary": "Bastión de Escarcha es la capital de la costa ballenera y la sede más fuerte de la Hermandad de la Salmuera, los pescadores y balleneros que mantienen vivo la Extensión.",
+  "subtitle": "Piedra de hielo, hueso de ballena y aceite",
+  "summary": "Bastión de Escarcha es la capital de la costa ballenera y la sede más fuerte de la Hermandad de la Salmuera, los pescadores y balleneros que mantienen viva la Extensión.",
   "facts": [
    [
     "Región",
-    "[[Extensión Helada|Icy Expanse]]"
+    "La [[Extensión Helada|Icy Expanse]]"
    ]
   ],
-  "title": "Bastión de Escarcha"
+  "title": "Bastión de Escarcha",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las murallas de la fortaleza están hechas de piedra de hielo y hueso de ballena, y las casas de aceite a lo largo de la bahía funden la grasa de ballena que arde en cada lámpara del [[Corazón|Heartland]]. La casa Brennvar tiene las casas de aceite, y su [[Señora de la Lámpara|Lamp-Mistress]], Astri, gobierna la bahía con una justicia que la [[Hermandad|Brotherhood]] respeta y que al [[Consorcio|Combine]] le molesta. Los [[Llamamareas|Tidecallers]] de la [[Concordia|Concord]] tienen un templo pequeño en el muro del puerto, y su bendición del mar es lo primero que recibe cada flota ballenera antes de salir. [[Bastión de Escarcha|Frosthold]] es el último lugar de la [[Extensión|Expanse]] donde un forastero puede comprar un cuarto caliente por una [[Marea|Tide]] de plata."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las lámparas de Ventoro arden más limpias desde que Bastión de Escarcha cambió su aceite. Los faroleros dicen que el humo huele apenas a monedas.” (un farolero de Ventoro)"
+    ]
+   }
+  ]
  },
  "golgarma": {
   "subtitle": "Un lugar de las Tierras Salvajes del Sur",

@@ -1337,6 +1337,9 @@
    "height": 1024,
    "alt": "Pilgrims wade in the Gilded Shallows at sunset while newlyweds row over Krysta-dusted golden sands.",
    "caption": "At dusk, the shallows turn gold for the length of a prayer."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -1401,6 +1404,9 @@
    "height": 1024,
    "alt": "A winged Aethyn listens to the wind through the Singing Cliffs above Highspire’s harbor.",
    "caption": "Highspire reads the weather in the stone’s song."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -1466,6 +1472,9 @@
    "height": 1024,
    "alt": "An Ash Warden guides travelers among sharp obsidian trees above Everfall.",
    "caption": "The Glass Forest rings when the ground trembles."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -1559,6 +1568,9 @@
    "height": 1024,
    "alt": "An ancient tree-like Liriath stands among immense roots in the sunlit Cathedral Green.",
    "caption": "The living grove remembers its dead."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -1650,6 +1662,9 @@
    "height": 1024,
    "alt": "Travelers watch green auroral light pool in a vast ice canyon during the Long Night.",
    "caption": "From the rim, the aurora seems to pour into the Vault."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -1714,6 +1729,9 @@
    "height": 1024,
    "alt": "A guardian swims beside luminous living coral beneath a drifting boat in Glass Gardens territory.",
    "caption": "No anchor, net, or hand in the water."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -11619,6 +11637,9 @@
    "height": 1024,
    "alt": "Two old adversaries rest in terraced mineral springs near Bastion while their weapons remain sheathed.",
    "caption": "No steel is drawn at the Soldiers’ Rest."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -14319,7 +14340,10 @@
    "heartland",
    "mercantile-congress",
    "bellows-toad"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "bastion",
@@ -14359,7 +14383,10 @@
    "great-hunter-crews",
    "noble-houses",
    "soldiers-rest"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "black-harbor",
@@ -14406,6 +14433,9 @@
    "height": 1024,
    "alt": "Sailors unload a boat on the fog-bound wharves of Black Harbor beneath Greyhaven.",
    "caption": "Fog and bell-codes shelter the Frontier’s untaxed trade."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -14435,7 +14465,10 @@
    "house-silverthorn",
    "house-alastor",
    "noble-houses"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "crystalhaven",
@@ -14472,7 +14505,10 @@
    "icy-expanse",
    "lighthouses",
    "granny-ylva-skerrow"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "duskmire-haven",
@@ -14556,7 +14592,10 @@
    "heartland",
    "concord",
    "plague-of-the-burning-sea"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "elyria",
@@ -14586,7 +14625,10 @@
    "cycle",
    "heartland",
    "council"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "frosthold",
@@ -14626,7 +14668,10 @@
    "house-kaldmark",
    "landfall-petrel",
    "silverport"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "golgarma",
