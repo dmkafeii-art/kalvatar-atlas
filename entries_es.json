@@ -6775,8 +6775,8 @@
  },
  "whalefall-gardens": {
   "gloss": "The Whalefall Gardens",
-  "subtitle": "La vida bajo los leviatanes",
-  "summary": "Una bahía poco profunda donde los leviatanes caídos siembran jardines de vida pálida.",
+  "subtitle": "Vida bajo los leviatanes",
+  "summary": "Una bahía poco profunda donde los leviatanes caídos siembran jardines de vida pálida. Es el suelo sagrado de los balleneros, y nadie caza ahí.",
   "epigraph": {
    "quote": "Cuando cae una ballena, el mar planta un jardín. Venimos aquí a recordar los botes que cayeron con ellas.",
    "by": "La viuda de un ballenero de Bastión de Escarcha"
@@ -6787,51 +6787,153 @@
     "[[Extensión Helada|Icy Expanse]]"
    ],
    [
-    "Clase",
+    "Tipo",
     "Maravilla natural"
+   ],
+   [
+    "Sagrados para",
+    "los balleneros de la costa"
+   ],
+   [
+    "La ley",
+    "no cazar, no pescar y no cortar las algas sin una bendición"
+   ],
+   [
+    "Los vigilan",
+    "las [[Brazas Grises|Grey Fathoms]], dicen los balleneros"
    ]
   ],
-  "title": "Los Jardines de las Ballenas Caídas"
+  "title": "Los Jardines de las Ballenas Caídas",
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Cuando una gran ballena muere en lo hondo y se hunde en la bahía poco profunda, de ella crece un jardín: coral blanco, algas pálidas, camarones transparentes como el vidrio y peces que nadie ha nombrado. Cada caída trae un jardín nuevo, y los más viejos son bosques.",
+     "En un día en calma se ven desde un bote, con costillas y todo, y la vida pálida moviéndose encima."
+    ]
+   },
+   {
+    "title": "Quién vive ahí",
+    "paragraphs": [
+     "Las tribus de la orilla de la bahía son talladores de hueso, recolectores de algas y remendadores de botes, que toman sus nombres de la ballena y de la marea. Cazan en otra parte y no meten nada filoso en la bahía. Las tripulaciones balleneras de la costa vienen aquí entre temporada y temporada a recordar los botes que perdieron."
+    ]
+   },
+   {
+    "title": "La ley de la bahía",
+    "paragraphs": [
+     "Los balleneros no cazan ni pescan en los Jardines. Dicen que las Brazas Grises vigilan la bahía y le cobran un peaje a cualquier bote que corte las algas sin una bendición. Un bote que tiene que cruzar paga con una parte de su última pesca, vertida por la borda."
+    ]
+   },
+   {
+    "title": "Si vienes de aquí",
+    "paragraphs": [],
+    "list": [
+     "Sabes tallar hueso, remendar un casco y leer la marea sin pensarlo.",
+     "Tienes un nombre que decir sobre el agua, y lo dices cada vez que vuelves a casa.",
+     "Has comido ballena y le has dado las gracias, y te cuesta perdonar el desperdicio.",
+     "Has mirado hacia abajo a través del agua clara algo enorme y te has sentido bienvenido."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Algo pálido anda por el fondo de los Jardines de las Ballenas Caídas con la marea baja, cuidándolos.” (se oye en Bastión de Escarcha)",
+     "“El año en que se inundaron los Caminos de Escarcha, los Jardines florecieron con corales que nadie había visto. Algunos siguen ahí. Están tibios.” (una recolectora de algas)"
+    ]
+   }
+  ]
  },
  "stillwater": {
   "gloss": "The Stillwater",
-  "subtitle": "Donde no cruza el viento",
-  "summary": "Un círculo de calma chicha en mar abierto donde las brújulas giran.",
+  "subtitle": "Donde no cruza ningún viento",
+  "summary": "Un círculo en calma en mar abierto donde las brújulas giran.",
   "epigraph": {
-   "quote": "Sin viento, sin corriente y la brújula girando como un trompo. A remar, muchachos, y no miren abajo.",
+   "quote": "Ni viento, ni corriente, y la brújula girando como un trompo. A remar, muchachos, y no miren para abajo.",
    "by": "Un capitán mercante"
   },
   "facts": [
    [
     "Región",
-    "El mar"
+    "El Mar"
    ],
    [
-    "Clase",
+    "Tipo",
     "Maravilla natural"
    ]
   ],
-  "title": "El Agua Quieta"
+  "title": "El Agua Quieta",
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Los [[Viejos Caparazones|Old Shells]] salen a la superficie aquí. Los marineros dicen que los [[Días Quietos|Still Days]] toman su nombre de esta agua; su historia es un cuento de puerto más que una certeza de cartógrafo."
+    ]
+   },
+   {
+    "title": "Verlo",
+    "paragraphs": [
+     "Un círculo de mar como vidrio que no cruza ningún viento, ni siquiera en una tormenta. Un velero que entra a la deriva tiene que salir remando o remolcado. Los Viejos Caparazones, las grandes tortugas sabias, salen a la superficie aquí, y una tripulación que ve una guarda su distancia y habla bajo."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Las brújulas giran en él, y el mar está como vidrio en cualquier tormenta."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Agua Quieta se movió tres leguas al oeste. Las cartas de la Armada dicen que siempre estuvo ahí. Los marineros dicen que siempre se ha estado moviendo.” (se oye en el Mar y en los Reinos de Coral)",
+     "“Los Viejos Caparazones salieron tres veces este año en el Agua Quieta. Antes salían una vez por generación.” (un Llamamareas del Último Salmo)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIFtbQWd1YSBRdWlldGF8U3RpbGx3YXRlcl1dIGVzdMOhIGp1c3RvIGVuY2ltYSBkZSBsYSBbW0zDoW1wYXJhfExhbXBdXS4qKiBMb3MgW1tWaWVqb3MgQ2FwYXJhem9uZXN8T2xkIFNoZWxsc11dIHNhbGVuIGEgbGEgc3VwZXJmaWNpZSBhaMOtIHBvcnF1ZSBsYSBoYW4gdmlnaWxhZG8gbcOhcyB0aWVtcG8gcXVlIG5hZGllIHZpdm8sIHkgc2FiZW4gY29uIGVsIGHDsW8gZXhhY3RvIGN1w6FudGEgbHV6IGxlIHF1ZWRhLiIsICIqKkxhIEzDoW1wYXJhKiogZXMgdW4gc29sIG11ZXJ0byBxdWUgbG9zIGRpb3NlcyBmb3JqYXJvbiBjb21vIGNlcnJhZHVyYSBzb2JyZSBlbCBsdWdhciBkb25kZSBlbCBWYWPDrW8gZXN0w6EgbcOhcyBjZXJjYSBkZWwgbXVuZG8sIGJham8gZWwgbWFyIGludGVyaW9yIGRlIGxvIFNhbHZhamUuIEVsIGN1bHRvIGRlbCBbW0Rlc2hhY2Vkb3J8VW5tYWtlcl1dIGRlIGxvcyBvcmthIHBhZ8OzIGEgZXhjYXZhZG9yZXMgZW5hbm9zIHBhcmEgcXVlIGNvcnRhcmFuIGhhc3RhIGVsbGEsIHkgbGEgcmFqw7MuIEVsIFZhY8OtbyBzdWJpw7MgcG9yIGxvcyBjYW1pbm9zIGRlIGd1ZXJyYSB5IHNlIGNvbWnDsyBhIG9ya2EgeSBhIGZlw6lyaWNvcyBwb3IgaWd1YWwuIl19"
+   }
+  ]
  },
  "drowned-colonnade": {
   "gloss": "The Drowned Colonnade",
-  "subtitle": "Pilares en la bajamar",
-  "summary": "Pilares de la era Orka que salen del mar abierto con la marea baja.",
+  "subtitle": "Pilares con la marea baja",
+  "summary": "Pilares de la época orka que salen del mar abierto con la marea baja.",
   "epigraph": {
-   "quote": "Márcala en la carta, dale una milla y no pesques a su sombra. Mi abuelo lo hizo, una vez.",
+   "quote": "Márcalo en la carta, dale una milla y no pesques a su sombra. Mi abuelo lo hizo, una vez.",
    "by": "Un viejo timonel"
   },
   "facts": [
    [
     "Región",
-    "El mar"
+    "El Mar"
    ],
    [
-    "Clase",
+    "Tipo",
     "Maravilla natural"
    ]
   ],
-  "title": "La Columnata Ahogada"
+  "title": "La Columnata Ahogada",
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Las cartas los marcan, pero los capitanes no se quedan. Se dice que en la [[Marea Rey|King Tide]] la [[Canción Hueca|Hollow Song]] sube haciendo eco por la piedra."
+    ]
+   },
+   {
+    "title": "Verlo",
+    "paragraphs": [
+     "Con la marea baja se alza del mar abierto una fila de pilares tallados, cubiertos de conchas. Todas las cartas la marcan, todos los capitanes la rodean de lejos, y nadie pesca a su sombra."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Han visto a Emri nadando junto a la Columnata Ahogada con un bulto de plata en la espalda. Nadie le ha preguntado qué lleva.” (se oye en el Mar y en los Reinos de Coral)"
+    ]
+   }
+  ]
  },
  "the-keeping": {
   "gloss": "The Keeping",
@@ -7908,22 +8010,48 @@
  "assios-and-the-wider-world": {
   "gloss": "Assios and the Wider World",
   "subtitle": "Una región del mar cartografiado",
-  "summary": "Al norte, cruzando el estrecho, están Assios y el Imperio Korvan. Al oeste, Khard Muur y la maldita Xathnatraz. Casi todo el mundo es solo rumor.",
+  "summary": "Al norte, cruzando el estrecho, está Assios y el Imperio Korvan. Al oeste está Khard Muur, y la maldita Xathnatraz. Casi todo el mundo es solo rumor.",
   "facts": [
    [
     "Gobernante",
-    "El Emperador Theomar Vol Sunessi"
+    "el Emperador Theomar Vol Sunessi"
    ],
    [
     "Guerra",
-    "La Guerra de los Mil Años"
+    "la [[Guerra de los Mil Años|Thousand-Year War]]"
    ],
    [
     "Enemigos",
-    "Las Baronías y las Ciudades Libres"
+    "las Baronías y las [[Ciudades Libres|Free Cities]]"
    ]
   ],
-  "title": "Assios y el mundo más allá"
+  "title": "Assios y el mundo más allá",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Assios está al norte de la [[Frontera|Frontier]], cruzando el estrecho, y en un día claro solo se ve su costa sur desde el muelle de [[Fuerte de Hierro|Ironfort]].",
+     "Es la sede del [[Imperio Korvan|Korvan Imperium]], bajo el Emperador Theomar Vol Sunessi y su Inquisición: el credo militante de la herencia humana, que arranca la herejía, vigila la magia y quema lo que no puede convertir.",
+     "El [[Imperio|Imperium]] es el imperio del que huyó el [[Éxodo|Exodus]]. Todavía pelea la Guerra de los Mil Años contra la [[Alianza de las Baronías|Alliance of Baronies]] y las [[Ciudades Libres|Free Cities]], y presiona a Kalvatar con monedas y con cultos más que con flotas abiertas.",
+     "Refugiados y espías llegan al sur todo el tiempo. Acero, vino y libros entran por la puerta; los contrabandistas llevan al sur armas de fuego de las Ciudades Libres; la Krysta registrada va al norte.",
+     "Los dracónidos del archipiélago vinieron de Assios, como refugiados, exiliados y comerciantes de la larga guerra.",
+     "Khard Muur es un continente salvaje más allá del océano del oeste, de reinos en ruinas y tierras sin asentar. Frente a su costa suroeste está Xathnatraz.",
+     "El mundo más allá tiene otros continentes, que el archipiélago conoce solo por rumores y por algún naufragio de vez en cuando."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Nadie ha pintado nunca al Gran Inquisidor del Imperio. Los espías de la Frontera que dicen haberlo visto no quieren decir cómo era.” (un escribiente de aduanas de Fuerte de Hierro)",
+     "“Los marineros que vuelven de Khard Muur dicen que Valengrad coronó al Rey Rune el año pasado. También lo coronaron el año anterior, y en el medio lo enterraron.” (un marinero que volvió del oeste)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkphbnVzIFJ1bmUgZXMgdW5vIGRlIGxvcyBiYXN0YXJkb3MgZGVsIEVtcGVyYWRvci4qKiBBIFRoYW4gU29sIFZhbCBTZW5yaWsgbG8gY3JpYXJvbiBlbiBlbCBbW1BhbGFjaW8gTWF1ZGFufE1hdWRhbiBQYWxhY2VdXSB5IGxvIGVudHJlbsOzIGxhIElucXVpc2ljacOzbiwgeSBsZSByZXNwb25kZSBhIEtlc3RyaWFuLCBlbCBbW1PDqXB0aW1vIFJheW98U2V2ZW50aCBSYXldXS4gUXVpZXJlIHF1ZSBsbyBsZWdpdGltZW4sIHkgY3JlZSBxdWUgdW5hIEthbHZhdGFyIHJvdGEgZXMgZWwgcmVnYWxvIHF1ZSBzZSBsbyB2YSBhIGdhbmFyLiIsICIqKkVsIEVtcGVyYWRvciBzZSBlc3TDoSBtdXJpZW5kbywqKiB5IHlhIGVsaWdpw7MuIFRoZW9tYXIgVm9sIFN1bmVzc2kgdGllbmUgc2V0ZW50YSB5IHVuIGHDsW9zLiBFbCBub21icmUgZGUgc3UgaGVyZWRlcm8gZXN0w6Egc2VsbGFkbyBlbiBlbCBQYWxhY2lvIE1hdWRhbiwgYmFqbyBsYSBjdXN0b2RpYSBkZWwgR3JhbiBJbnF1aXNpZG9yLCB5IG5vIGVzIHVubyBxdWUgZXNwZXJlIG5pbmd1bm8gZGUgbG9zIGRvY2UgUmF5b3MuIiwgIioqRWwgW1tOb3Zlbm8gUmF5b3xOaW50aCBSYXldXSBubyBtdXJpw7MgZW4gZWwgW1tDcnVjZSBkZWwgQWNlYm98SG9sbGlu4oCZcyBDcm9zc11dLioqIEEgSXZyZW4gbGUgb3JkZW5hcm9uIHF1ZW1hciBlbCBwdWVibG8gY29uIHN1IGdlbnRlIGFkZW50cm8uIFNlIG5lZ8OzLCB5IHNlIGZ1ZSBjYW1pbmFuZG8gZW50cmUgZWwgaHVtby4gQ3J1esOzIGVsIGVzdHJlY2hvIGVuIFtbUHVlcnRvIE5lZ3JvfEJsYWNrIEhhcmJvcl1dIHkgdml2ZSBlbiBsYXMgaXNsYXMgY29tbyBIYWwgUmVzc2ljaywgY29jaW5lcm8gZGUgdW5hIHRyaXB1bGFjacOzbiBkZSBDYXphZG9yZXMgZGUgQnJvbmNlLiBKYW51cyBSdW5lIGxvIGVzdMOhIGJ1c2NhbmRvLiBUYW1iacOpbiwgcG9yIHJhem9uZXMgbXV5IGRpc3RpbnRhcywgc3UgaGVybWFuYSBWZWxhbnRoYSwgZWwgW1tTZXh0byBSYXlvfFNpeHRoIFJheV1dLiIsICIqKlNlY3JldG86KiogdHJlcyBiYXJvbmVzIGRlIGxhIE1lc2EgYWNlcHRhbiBkaW5lcm8gaW1wZXJpYWwsIHkgZWwgW1tTZWd1bmRvIFJheW98U2Vjb25kIFJheV1dLCBWZXNzYWxpbmUsIHRpZW5lIHN1cyBjYXJ0YXMuIExlcyBkaWplcm9uIHF1ZSwgY3VhbmRvIGVsIEVtcGVyYWRvciBub21icmUgYSBzdSBoZXJlZGVybywgYSBsYXMgQmFyb27DrWFzIHNlIGxlcyBvZnJlY2Vyw6Egc3Ugdmllam8gbHVnYXIgZW4gZWwgW1tJbXBlcmlvfEltcGVyaXVtXV0sIGNvbiBzdSBwbGF0YSB5IHN1IHRpZXJyYSwgeSBzaW4gc3VzIHZlY2lub3MgW1tBdGFkb3N8Qm91bmRdXS4iLCAiKipTZWNyZXRvOioqIGxhIFtbVmFsaWVudGUgZGVsIFN1cnxWYWxpYW50IG9mIHRoZSBTb3V0aF1dLCBCZWxpYWwgQW50YXJlcywgbGUgZXNjcmliZSBhIEVscmljIFZvbiBHYWluZXIgZGVzZGUgaGFjZSB2ZWludGUgYcOxb3MuIExhcyBjYXJ0YXMgbm8gc29uIHRyYWljacOzbi4gU29uIGVudHJlIGRvcyBwZXJzb25hcyBxdWUgc2UgcXVpc2llcm9uIGFsZ3VuYSB2ZXosIHkgRmlsZ2FsaWEgbGEgY29sZ2Fyw61hIHBvciBlbGxhcyBkZSB0b2RvcyBtb2Rvcy4iLCAiKipTZWNyZXRvOioqIGxhIGluY3Vyc2nDs24gY29udHJhIGxhIGN1YWRyYSByZWFsIGRlIEFtYWxvciBmdWUgZGVsIEltcGVyaW8sIGNvbiBsb3MgY29sb3JlcyBkZSBsYSBbW0FsaWFuemF8QWxsaWFuY2VdXSwgcGFyYSBwb25lciBhIEFtYWxvciBjb250cmEgQXN0ZXJvdGguIEVsIFNleHRvIFJheW8sIFZlbGFudGhhLCBsbyBzYWJlLCB5IGVzdMOhIGRlY2lkaWVuZG8gcXXDqSBoYWNlci4iLCAiKipTZWNyZXRvOioqIGRlc2RlIGhhY2UgdHJlcyBhw7FvcywgYSBBaGxnYW1vcmEgbGUgbGxlZ2EgdW5hIHBpZWRyYSBkZSBjYWRhIGRvY2UgbWVub3MgZGUgbG8gcXVlIGRlYmVyw61hbiBkYXIgbGFzIG1pbmFzIGRlIERhcmxhdGguIExhIHBpZWRyYSBxdWUgZmFsdGEgZXMgbGEgcXVlIGVsIGxpYnJvIGRlIHJvdHVyYXMgZGUgbG9zIFZhbnRyZXkgYW5vdGEgY29tbyByb3RhIHkgbWFuZGEgYWwgbm9ydGUgYmFqbyBlbCBzZWxsbyBkZSBsb3MgT3N0cmVsIGEgUmFua2FyIChWb2x1bWVuIFhYSSkuIEVsIFtbQ29uc2VqbyBkZSBsYSBMw6FtcGFyYXxMYW1wLUNvdW5jaWxdXSBkZSBBaGxnYW1vcmEgY29ub2NlIGVsIGZhbHRhbnRlIHkgbm8gbGEgY2F1c2EsIHkgc29zcGVjaGEgZGVsIFtbQ29uc2Vqb3xDb3VuY2lsXV0gZGUgbGFzIFtbSXNsYXMgQ2FydG9ncmFmaWFkYXN8Q2hhcnRlZCBJc2xlc11dLiIsICIqKlNlY3JldG86KiogbG9zIHBhbmZsZXRvcyBkZSBsYSBbW0Nvcm9uYSBEZXZ1ZWx0YXxSZXR1cm5lZCBDcm93bl1dIGVuIFtbRnVlcnRlIGRlIEhpZXJyb3xJcm9uZm9ydF1dIGVzdMOhbiBjb21wdWVzdG9zIGNvbiB1bmEgdGlwb2dyYWbDrWEgZGUgQnJhbm5vY2suIExhIHByZW5zYSBxdWUgbG9zIGltcHJpbWUgc2UgY29uc3RydXnDsyBlbiBCcmFubm9jayB5IHNlIG1hbmTDsyBhbCBzdXIgZW4gcGllemFzLCBwYWdhZGEgY29uIGRpbmVybyBkZSBSYW5rYXIgYSB0cmF2w6lzIGRlIGxvcyBwcm92ZWVkb3JlcyBkZSBiYXJjb3MgZGUgRnVlcnRlIGRlIEhpZXJybyAoZWwgW1tOb21lbmNsw6F0b3IgUmVnaW9uYWx8UmVnaW9uYWwgR2F6ZXR0ZWVyXV0pLiIsICIqKlNlY3JldG86KiogQmVyaXRoIGVzIHVuIHBlZGF6byBkZSAqKkFydGhlc2lhKiosIGxhIG3DoXMgZ3JhbmRlIGRlIGxhcyB0cmVzIE1lcmthYmFzIChWb2x1bWVuIFhWSUkpLiBBbnRlcyBkZSBxdWUgY2F5ZXJhIGxhIGdyYW4gY2l1ZGFkLCB1bm8gZGUgc3VzIGRpc3RyaXRvcyBkZSBhZnVlcmEgc2UgZGVzcHJlbmRpw7MgY29uIHN1IHByb3BpbyBjb3JhesOzbiBtZW5vciwgeSBmbG90w7MgYSBsYSBkZXJpdmEgZHVyYW50ZSBlZGFkZXMgaGFzdGEgYXNlbnRhcnNlIHNvYnJlIEFzc2lvcy4gRWwgKipbW0NvcmF6w7NuIGRlbCBDaWVsb3xIZWFydCBvZiB0aGUgU2t5XV0qKiBlcyBlc2UgbsO6Y2xlbyBtZW5vci4gTm8gZXN0w6Egdml2byBjb21vIHVuYSBwZXJzb25hLCBwZXJvIHN1ZcOxYSwgeSBlcyBsYSByYXrDs24gcG9yIGxhIHF1ZSBCZXJpdGggc2UgYWx6w7MgY3VhbmRvIGxsZWfDsyBsYSBIdWVzdGUuIiwgIioqU2VjcmV0bzoqKiBsb3Mgbm9tYnJlcyBwcm9waW9zIGRlIGxvcyBjb2xlZ2lvcywgbGXDrWRvcyBlbiBlbCBvcmRlbiBkZSBsb3Mgc2Fsb25lcyBhbHJlZGVkb3IgZGVsIENvcmF6w7NuLCBzb24gdW5hIHNvbGEgZnJhc2UgZW4gbGEgbGVuZ3VhIGRlbCBBbmdlbHVzOiAqY3XDrWRlbmxvcyBtaWVudHJhcyBhcHJlbmRlbi4qIEVzIGxhIMO6bHRpbWEgb3JkZW4gcXVlIHNlIGxlIGRpbyBhbCBkaXN0cml0bywgeSBlbCBDb3JhesOzbiB0b2RhdsOtYSBsYSBvYmVkZWNlLiBFc28sIHkgbm8gZWwgQWN1ZXJkbywgZXMgcG9yIHF1w6kgQmVyaXRoIHNlIGFsesOzIGN1YW5kbyBsbGVnw7MgbGEgSHVlc3RlLiIsICIqKlNlY3JldG86KiogbGFzIG3DoXNjYXJhcyBkZWwgc2Fsw7NuIHByb2hpYmlkbyBzb24gbGFzIGNhcmFzIGRlIG1pZW1icm9zIGRlbCBBbmdlbHVzIHF1ZSBtdXJpZXJvbiBlbiBsYSBbW0d1ZXJyYSBkZWwgQW5nZWx1c3xXYXIgb2YgdGhlIEFuZ2VsdXNdXSB5IHNlIHZvbHZpZXJvbiBlc3RyZWxsYXMuIFVuYSBtw6FzY2FyYSBzZSBlbnRpYmlhIGxhcyBub2NoZXMgZW4gcXVlIHN1IGVzdHJlbGxhIGVzdMOhIGVuIGxvIGFsdG8uIFVuYSBtw6FzY2FyYSBzaWVtcHJlIGVzdMOhIGZyw61hLiIsICIqKlNlY3JldG86KiogQmVyaXRoIGVzdMOhIGNheWVuZG8uIEJhamEgdW4gcGFsbW8gY2FkYSBhw7FvLCB5IGVsIFJlY3RvciBsbyBoYSBtZWRpZG8gZHVyYW50ZSBjdWFyZW50YSBhw7Fvcy4gQSBlc3RlIHJpdG1vIGxhIGlzbGEgdG9jYXLDoSBlbCBGcmVudGUgZW4gdW5vcyBzZXNlbnRhIGHDsW9zLiBFbCBSZWN0b3Igbm8gc2UgbG8gaGEgZGljaG8gYSBuYWRpZSBtw6FzIHF1ZSBhbCBTZXh0byBSYXlvLCBwb3JxdWUgZWwgU2V4dG8gUmF5byBlcyBsYSDDum5pY2EgbWFlc3RyYSBkZWwgW1tUYWxsZXIgZGUgRW5ncmFuYWplc3xHZWFyd29ya3NdXSBxdWUgcG9kcsOtYSBlbnRlbmRlciBlbCBDb3JhesOzbi4iLCAiKipHaHJhbCwqKiBxdWUgZW5jYWJlemEgbGEgSW5xdWlzaWNpw7NuIGRlbCBJbXBlcmlvIHkgZ3VhcmRhIGVsIG5vbWJyZSBzZWxsYWRvIGRlbCBoZXJlZGVybyBkZWwgRW1wZXJhZG9yLCBlcyB1biBkcmFnw7NuIGRlIG9yby4iXX0="
+   }
+  ]
  },
  "wrong-coast": {
   "gloss": "The Wrong Coast",

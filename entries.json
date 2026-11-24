@@ -11998,6 +11998,9 @@
    "height": 1024,
    "alt": "Pale fronds and small sea creatures grow around a fallen whale on the floor of an icy shallow bay.",
    "caption": "A fallen leviathan feeds a garden of pale life."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -12059,7 +12062,10 @@
    "coral-kingdoms",
    "calendar",
    "travel"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "drowned-colonnade",
@@ -12117,6 +12123,9 @@
    "height": 1024,
    "alt": "Carved Orka columns rise from the sea at low tide while a distant sail keeps clear.",
    "caption": "Captains chart the Colonnade and leave it alone."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -14218,7 +14227,10 @@
    "ghral",
    "janus-rune",
    "elric-von-gainer"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "wrong-coast",
