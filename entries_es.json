@@ -16737,21 +16737,185 @@
  },
  "most-wanted": {
   "gloss": "The Most Wanted",
-  "subtitle": "Forajidos de las islas",
-  "summary": "El cartel de recompensas del Consejo, que cuelga en cada Logia y cada aduana. La Casa de los Tesoreros paga las recompensas contra prueba.",
-  "title": "Los Más Buscados"
+  "subtitle": "El cartel del Consejo",
+  "summary": "El cartel de recompensas del Consejo, que cuelga en cada Logia y en cada aduana. Las recompensas las paga la Casa de los Tesoreros contra prueba.",
+  "title": "Los Más Buscados",
+  "facts": [],
+  "sections": [
+   {
+    "title": "El aviso",
+    "paragraphs": [
+     "Por orden del [[Consejo|Council]] de las [[Islas Cartografiadas|Charted Isles]]. Se busca a los siguientes capitanes por piratería, asesinato y crímenes contra la Carta. Las recompensas las paga la [[Casa de los Tesoreros|Reckoners’ Hall]] contra prueba, vivos o muertos, salvo que se indique otra cosa. Traiga al capitán, el barco o la bandera."
+    ]
+   },
+   {
+    "title": "El cartel",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Capitán",
+      "Barco",
+      "Recompensa"
+     ],
+     "rows": [
+      [
+       "[[Seren Corazón Negro|Seren Blackheart]], “la [[Última Sonrisa|Last Smile]]”",
+       "*[[Soberano del Pavor|Dread Sovereign]]*",
+       "2,500 [[Anclas|Anchors]]"
+      ],
+      [
+       "[[Corvath Trae Tormentas|Corvath Stormbringer]]",
+       "El *[[Vórtice Negro|Black Vortex]]*",
+       "1,200 Anclas"
+      ],
+      [
+       "Capitán [[Tormenta Negra|Blackstorm]]",
+       "La *[[Marea Fantasma|Phantom Tide]]*",
+       "1,000 Anclas"
+      ],
+      [
+       "[[Azura Pico Negro|Azura Blackbeak]], “la Sirena de los Mares”",
+       "La *Llamada de la Plañidera*",
+       "900 Anclas"
+      ],
+      [
+       "Mara, “la Roja”",
+       "La *[[Venganza Roja|Red Vengeance]]*",
+       "900 Anclas"
+      ],
+      [
+       "[[Siroc el Veloz|Siroc the Swift]]",
+       "La *[[Danzarina del Viento|Wind Dancer]]*",
+       "900 Anclas"
+      ],
+      [
+       "Los [[Gemelos Hoja de Hielo|Iceblade Twins]]",
+       "*[[Colmillo de Escarcha|Frostfang]]*",
+       "800 Anclas cada uno"
+      ],
+      [
+       "[[Morga Tambor de Tormenta|Morga Stormdrum]]",
+       "El *[[Desatatempestades|Tempest Wreaker]]*",
+       "800 Anclas"
+      ],
+      [
+       "[[Kaida Fuego de Dragón|Kaida Dragonfire]]",
+       "La *Furia del Dragón*",
+       "800 Anclas"
+      ],
+      [
+       "Capitán Umbrel",
+       "La *[[Serpiente de Sombra|Shadow Serpent]]*",
+       "700 Anclas"
+      ],
+      [
+       "[[Grogar el Implacable|Grogar the Relentless]]",
+       "*[[Traeguerras|Warbringer]]*",
+       "700 Anclas"
+      ],
+      [
+       "[[Arcturus Corazón de Hierro|Arcturus Ironheart]]",
+       "El *[[Blindado|Ironclad]]*",
+       "700 Anclas"
+      ],
+      [
+       "[[Theodora Belladona|Theodora Nightshade]]",
+       "El *[[Ruiseñor|Nightingale]]*",
+       "650 Anclas"
+      ],
+      [
+       "Davin, “[[Aleta de Plata|Silverfin]]”",
+       "La *Gracia del Océano*",
+       "600 Anclas, solo vivo"
+      ],
+      [
+       "[[Capitán Diente de Sable|Captain Sabletooth]]",
+       "La *[[Forjahonda|Deepforge]]*",
+       "600 Anclas"
+      ],
+      [
+       "[[Lirelai la Sirena|Lirelai the Siren]]",
+       "El *[[Encantador|Enchanter]]*",
+       "600 Anclas"
+      ],
+      [
+       "Jorvik, “[[Ojo de Tormenta|Storm-Eye]]”",
+       "El *[[Cortatormentas|Stormcutter]]*",
+       "560 Anclas"
+      ],
+      [
+       "[[Bellamy el Audaz|Bellamy the Bold]]",
+       "La *[[Empresa Audaz|Daring Venture]]*",
+       "560 Anclas"
+      ],
+      [
+       "Cora, “la Pintada”",
+       "La *Paleta del Pintor*",
+       "520 Anclas"
+      ],
+      [
+       "[[Hrothgar Vena de Hielo|Hrothgar Icevein]]",
+       "La *[[Corona Helada|Frozen Crown]]*",
+       "520 Anclas"
+      ]
+     ],
+     "caption": "Los Más Buscados, 175 EC"
+    }
+   },
+   {
+    "title": "El barco que no está en ningún cartel",
+    "paragraphs": [
+     "Todo marinero de las islas ha oído hablar del [[Cisne de Hierro|Iron Swan]]: un barco de metal macizo sin velas, que echa humo negro por sus chimeneas y avanza contra el viento. Le responde a una mujer llamada Titania, y ningún Consejo se ha atrevido nunca a ponerle precio."
+    ]
+   }
+  ]
  },
  "quiet-auction": {
   "gloss": "The Quiet Auction",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Una subasta flotante del mercado negro de reliquias y maravillas ahogadas, solo con invitación, que nunca ha sido allanada. La invitación es una perla negra que cae en tu copa.",
-  "title": "La Subasta Callada"
+  "subtitle": "Una perla negra en tu taza",
+  "summary": "Una subasta flotante del mercado negro de reliquias y maravillas ahogadas, solo con invitación, nunca allanada ni una vez. La invitación es una perla negra que cae en tu taza.",
+  "title": "La Subasta Callada",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La [[Subasta Callada|Quiet Auction]] es una subasta flotante del mercado negro de reliquias y maravillas ahogadas.",
+     "Es solo con invitación, y la invitación es una perla negra que te dejan caer en la taza.",
+     "La lleva el [[Maestro del Silencio|Hushmaster]].",
+     "Las reglas: sin nombres, sin hojas, sin devoluciones.",
+     "Nunca la han allanado ni una vez.",
+     "Se dice que se hace, algunos años, en los cuartos de atrás de [[Puerto Varan|Varan Port]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Maestro del Silencio ha vendido la misma corona ahogada tres veces, a tres compradores, y ninguno se ha quejado.” (un perista de Puerto Varan)"
+    ]
+   }
+  ]
  },
  "returned-crown-and-the-tollmen": {
   "gloss": "The Returned Crown and the Tollmen",
-  "subtitle": "Forajidos de las islas",
+  "subtitle": "Panfletos en Fuerte de Hierro, peajes en el camino del mar",
   "summary": "En el norte: monárquicos que invitarían al Imperio a volver con condiciones, y una extorsión de veteranos en el camino del mar.",
-  "title": "La Corona Devuelta y los Peajeros"
+  "title": "La Corona Devuelta y los Peajeros",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La [[Corona Devuelta|Returned Crown]] son monárquicos de la [[Frontera|Frontier]] que invitarían al [[Imperio|Imperium]] a volver \"con condiciones honorables\". Sus panfletos siguen apareciendo en [[Fuerte de Hierro|Ironfort]], y nadie ha encontrado a los impresores.",
+     "Los [[Peajeros|Tollmen]] son una extorsión de veteranos en el camino del mar bajo Brann Fessick, \"el [[Maestro del Peaje|Tollmaster]]\"."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBsaWJyb3MgZGUgbG9zIE9zdHJlbC4qKiBMb3MgbGlicm9zIGRlIGxhIGNhc2EgZGVsIFtbRGllem1vIGRlIGxhIFB1ZXJ0YXxHYXRlLVRpdGhlXV0gbm8gc29uIHRvZG9zIGRlbCBbW0NvbnNlam98Q291bmNpbF1dLiBMYSBjYXNhIFZhbnRyZXkgbGxldmEgdW4gbGlicm8gZGUgcm90dXJhcywgeSBlc2UgbGlicm8gbWFuZGEgYWwgbm9ydGUgdW5hIHBpZWRyYSBkZSBEYXJsYXRoIGRlIGNhZGEgZG9jZSBiYWpvIGVsIHNlbGxvIGRlIGxvcyBPc3RyZWwsIGEgbGEgW1tDb3Jwb3JhY2nDs24gUmFua2FyfFJhbmthciBDb3Jwb3JhdGlvbl1dLiBFbCBwYWdvIHZ1ZWx2ZSBlbiBrb3J2YW5lcywgcXVlIEFsZG91cyBPc3RyZWwgbGF2YSBqdW50byBjb24gZWwgZGluZXJvIGRlIGxhIFtbTGVnacOzbnxMZWdpb25dXSBkZSBKYW51cyBSdW5lLiBFbCBDb25zZWpvIHRpZW5lIHByb2dyYW1hZGEgdW5hIGF1ZGl0b3LDrWEgcGFyYSBlbCAxNzYgRUMgcXVlIGxhIGZpYW56YSBkZSBsb3MgT3N0cmVsIHBpZW5zYSBwYXNhci4iLCAiKipMYSBbW0Nvcm9uYSBEZXZ1ZWx0YXxSZXR1cm5lZCBDcm93bl1dIGVzIHVuYSBwbGFudGEgaW1wZXJpYWwuKiogTG9zIHBhbmZsZXRvcyBzb24gcmVhbGVzLCB5IGFsZ3Vub3MgZGUgbG9zIGhvbWJyZXMgcXVlIGxvcyBlc2NyaWJpZXJvbiB0aWVuZW4gYnVlbmFzIGludGVuY2lvbmVzLiBFbCBwYXBlbCB5IGxhIGltcHJlbnRhIHNlIGNvbXByYXJvbiBjb24gZGluZXJvIGRlIFJhbmthciBkZXN2aWFkbyBhIHRyYXbDqXMgZGUgbG9zIHByb3ZlZWRvcmVzIGRlIGJhcmNvcyBkZSBbW0Z1ZXJ0ZSBkZSBIaWVycm98SXJvbmZvcnRdXSwgeSBhbCBhZ2VudGUgZGVsIFtbSW1wZXJpb3xJbXBlcml1bV1dLCBKYW51cyBSdW5lLCBsbyBoYW4gdmlzdG8gZW4gZWwgbXVlbGxlIGRlIEZ1ZXJ0ZSBkZSBIaWVycm8gY29uIG90cm8gbm9tYnJlLiIsICIqKlNlY3JldG86KiogZGVzZGUgaGFjZSB0cmVzIGHDsW9zLCBhIEFobGdhbW9yYSBsZSBsbGVnYSB1bmEgcGllZHJhIGRlIGNhZGEgZG9jZSBtZW5vcyBkZSBsbyBxdWUgZGViZXLDrWFuIGRhciBsYXMgbWluYXMgZGUgRGFybGF0aC4gTGEgcGllZHJhIHF1ZSBmYWx0YSBlcyBsYSBxdWUgZWwgbGlicm8gZGUgcm90dXJhcyBkZSBsb3MgVmFudHJleSBhbm90YSBjb21vIHJvdGEgeSBtYW5kYSBhbCBub3J0ZSBiYWpvIGVsIHNlbGxvIGRlIGxvcyBPc3RyZWwgYSBSYW5rYXIgKFZvbHVtZW4gWFhJKS4gRWwgW1tDb25zZWpvIGRlIGxhIEzDoW1wYXJhfExhbXAtQ291bmNpbF1dIGRlIEFobGdhbW9yYSBjb25vY2UgZWwgZmFsdGFudGUgeSBubyBsYSBjYXVzYSwgeSBzb3NwZWNoYSBkZWwgQ29uc2VqbyBkZSBsYXMgW1tJc2xhcyBDYXJ0b2dyYWZpYWRhc3xDaGFydGVkIElzbGVzXV0uIiwgIioqU2VjcmV0bzoqKiBsb3MgcGFuZmxldG9zIGRlIGxhIENvcm9uYSBEZXZ1ZWx0YSBlbiBGdWVydGUgZGUgSGllcnJvIGVzdMOhbiBjb21wdWVzdG9zIGNvbiB1bmEgdGlwb2dyYWbDrWEgZGUgQnJhbm5vY2suIExhIHByZW5zYSBxdWUgbG9zIGltcHJpbWUgc2UgY29uc3RydXnDsyBlbiBCcmFubm9jayB5IHNlIG1hbmTDsyBhbCBzdXIgZW4gcGllemFzLCBwYWdhZGEgY29uIGRpbmVybyBkZSBSYW5rYXIgYSB0cmF2w6lzIGRlIGxvcyBwcm92ZWVkb3JlcyBkZSBiYXJjb3MgZGUgRnVlcnRlIGRlIEhpZXJybyAoZWwgW1tOb21lbmNsw6F0b3IgUmVnaW9uYWx8UmVnaW9uYWwgR2F6ZXR0ZWVyXV0pLiJdfQ=="
+   }
+  ]
  },
  "seren-blackheart-the-last-smile": {
   "gloss": "Seren Blackheart, \"the Last Smile\"",
@@ -16771,41 +16935,128 @@
  },
  "siroc-the-swift": {
   "gloss": "Siroc the Swift",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de la Danzarina del Viento. Recompensa: 900 Anclas.",
+  "subtitle": "El casco más rápido de las islas",
+  "summary": "Capitán de la *Danzarina del Viento*. Recompensa: 900 Anclas.",
   "facts": [
    [
     "Barco",
-    "La [[Danzarina del Viento|Wind Dancer]]"
+    "La *[[Danzarina del Viento|Wind Dancer]]*"
    ],
    [
     "Recompensa",
     "900 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "una tripulación chica y rápida a la que le gusta más la velocidad que el botín"
+   ],
+   [
+    "Navega para",
+    "él mismo"
    ]
   ],
-  "title": "Siroc el Veloz"
+  "title": "Siroc el Veloz",
+  "epigraph": {
+   "quote": "Teníamos el barlovento, el doble de vela y el casco limpio. Él nos saludó con la mano.",
+   "by": "Un teniente de la Armada"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "Nada que flote ha alcanzado a la *Danzarina del Viento*. El precio de [[Siroc el Veloz|Siroc the Swift]] es de 900 Anclas, casi todo por la vergüenza: llena sus velas en plena calma chicha y desaparece.",
+     "Se lleva poco y hace daño a pocos. La Armada lo quiere igual."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Puede correr más que el viento y desaparecer en el aire.",
+     "Lleva un antiguo artefacto élfico que manda a los vientos.",
+     "Se le ha escapado a la Armada más de una docena de veces."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbGEgc3V5YSBwcm9waWEuIiwgIioqVHJpcHVsYWNpw7NuOioqIHVuYSB0cmlwdWxhY2nDs24gY2hpY2EgeSByw6FwaWRhIGRlIG1hcmluZXJvcyBhIGxvcyBxdWUgbGVzIGd1c3RhIG3DoXMgbGEgdmVsb2NpZGFkIHF1ZSBlbCBib3TDrW4uIiwgIioqTGEgdmVyZGFkOioqIGVsIGFydGVmYWN0byBlcyB1bmEgdmllamEgYm90ZWxsYSDDqWxmaWNhLCB5IGFkZW50cm8gaGF5IHVuICoqc2lsZm8gZGVsIFtbQWxpZW50byBxdWUgVmFnYXxCcmVhdGggVGhhdCBXYW5kZXJzXV0qKiwgYXRhZG8gcG9yIHRyZXNjaWVudG9zIGHDsW9zLiBMZSBsbGVuYSBsYXMgdmVsYXMgaGFnYSBlbCB0aWVtcG8gcXVlIGhhZ2EuIFNpcm9jIGhhIGxsZWdhZG8gYSBxdWVyZXIgYSBsYSBjcmlhdHVyYSB5IHF1aWVyZSBsaWJlcmFybGEsIHBlcm8gc2luIGVsbGEgbm8gcHVlZGUgY29ycmVyIG3DoXMgcXVlIGxhIEFybWFkYSwgeSBsbyBzYWJlLiJdfQ=="
+   }
+  ]
  },
  "southern-movements": {
   "gloss": "The Southern Movements",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Los Rebeldes del Sur, los Reclamadores y los Rompecadenas: luchadores por la libertad o criminales, según a quién le preguntes.",
-  "title": "Los movimientos del sur"
+  "subtitle": "Luchadores por la libertad o criminales",
+  "summary": "Los Rebeldes del Sur, los Recuperadores y los Rompecadenas: luchadores por la libertad o criminales, según a quién le preguntes.",
+  "title": "Los movimientos del sur",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Los [[Rebeldes del Sur|Southern Rebels]]: el gran levantamiento del sur, herederos de la [[Gran Rebelión de los Esclavos|Great Slave Rebellion]].",
+     "Los [[Recuperadores|Reclaimers]]: quieren recuperar el sur, e invocan a Yaxqel, el [[Primer Caminante|First Walker]].",
+     "Los [[Rompecadenas|Chainbreakers]]: liberan a los esclavizados, y no son villanos para todo el mundo.",
+     "El [[Pacto Verde|Verdant Pact]]: los militantes verdes que defienden con su vida la tierra más vieja de las [[Tierras Salvajes|Wilds]].",
+     "Según a quién le preguntes, son luchadores por la libertad o criminales."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyI5LiAqKkxvcyBPcnVtYSB5IGxhIFtbSGVybWFuYSBIdW1vfFNpc3RlciBTbW9rZV1dLioqICoqTHVtYWkgT2tvbmphLCBcImxhIEhlcm1hbmEgSHVtb1wiLCoqIGRlIGxvcyBDb3JyZWRvcmVzIGRlIGxhIEhvamEgTmVncmEsIGVzIHNvYnJpbmEgZGUgVmV5YW5pIE9ydW1hLiBMYXMgY2Fub2FzIG9ydW1hIGxsZXZhbiByw61vIGFycmliYSBhIGxvcyB0cmFiYWphZG9yZXMgZW4gc2VydmlkdW1icmUgcXVlIGxvcyBDb3JyZWRvcmVzIGxpYmVyYW4gZGUgbG9zIHB1ZWJsb3MgZGUgbGEgQ29tcGHDscOtYSwgaGFzdGEgYWxkZWFzIGRlIGxhIENvbmZlZGVyYWNpw7NuIHF1ZSBsb3MgZXNjb25kZW4uIFNpIGxhIENvbXBhw7HDrWEgbG8gcHJ1ZWJhLCB0aWVuZSBzdSBwcmV0ZXh0byBwYXJhIHRvbWFyIGxhcyBbW051ZXZlIEJvY2FzfE5pbmUgTW91dGhzXV0sIHkgZWwgb3JvIGRlIHLDrW8gY29uIGVsbGFzLiJdfQ=="
+   }
+  ]
  },
  "theodora-nightshade": {
   "gloss": "Theodora Nightshade",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Al mando de el Ruiseñor. Recompensa: 650 Anclas.",
+  "subtitle": "Ninguna cerradura la ha retenido",
+  "summary": "Capitana del *Ruiseñor*. Recompensa: 650 Anclas.",
   "facts": [
    [
     "Barco",
-    "El [[Ruiseñor|Nightingale]]"
+    "El *[[Ruiseñor|Nightingale]]*"
    ],
    [
     "Recompensa",
     "650 [[Anclas|Anchors]]"
+   ],
+   [
+    "Tripulación",
+    "medianos y humanos"
+   ],
+   [
+    "Navega para",
+    "la [[Resaca|Undertow]], suponen los muelles"
    ]
   ],
-  "title": "Theodora Belladona"
+  "title": "Theodora Belladona",
+  "epigraph": {
+   "quote": "Estaba en la bóveda, estaba fuera de la bóveda, y los gansos nunca hicieron un ruido.",
+   "by": "Un guardia de la Casa de los Tesoreros"
+  },
+  "sections": [
+   {
+    "title": "En el cartel",
+    "paragraphs": [
+     "El *Ruiseñor* de [[Theodora Belladona|Theodora Nightshade]] es esbelto, rápido y rara vez la razón por la que la buscan. Es ladrona y envenenadora primero y capitana de barco después, y el [[Consejo|Council]] pagará 650 Anclas por ella."
+    ]
+   },
+   {
+    "title": "Lo que dicen los muelles",
+    "paragraphs": [],
+    "list": [
+     "Tiene una colección de cada veneno de las islas.",
+     "Ha entrado y salido de la [[Casa de los Tesoreros|Reckoners' Hall]].",
+     "Ninguna cerradura la ha retenido nunca."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbGEgW1tSZXNhY2F8VW5kZXJ0b3ddXS4iLCAiKipUcmlwdWxhY2nDs246KiogbWVkaWFub3MgeSBodW1hbm9zLiIsICIqKkxhIHZlcmRhZDoqKiBzdXMgdmVuZW5vcyB2aWVuZW4gZGUgbG9zIHNwb3JybiwgY29tcHJhZG9zIHBvciBlbCBbW051ZG98S25vdF1dLiBUcmFiYWphIHBhcmEgKipsYSBbW1TDrWEgU2FsbXVlcmF8QXVudCBCcmluZV1dKiogeSBsbGV2YSB1biBsaWJybyBkZSBjYWRhIG9maWNpYWwgZGUgYWR1YW5hcyBxdWUgaGEgY29tcHJhZG8sIHF1ZSBlbCBbW0NvbnNlam98Q291bmNpbF1dIGNhbWJpYXLDrWEgcG9yIG11Y2jDrXNpbW8gY29uIHRhbCBkZSBsZWVybG8uIl19"
+   }
+  ]
  },
  "undertow": {
   "gloss": "The Undertow",
@@ -29225,5 +29476,69 @@
    }
   ],
   "title": "La Guerra Larga"
+ },
+ "ledger-wolves": {
+  "gloss": "The Ledger Wolves",
+  "aliases": [
+   "Dagny Acedera"
+  ],
+  "subtitle": "Préstamos a cuchillo",
+  "summary": "Usureros para los que la Casa de los Tesoreros no les presta, en los anillos bajos de Ventoro y en cada puerto del Corazón, que cobran a cuchillo.",
+  "facts": [
+   [
+    "Cabeza",
+    "[[Dagny Acedera|Dagny Sorrel]], “el Interés”"
+   ],
+   [
+    "Dónde",
+    "los anillos bajos de [[Ventoro|Goldwind]] y cada puerto del [[Corazón|Heartland]]"
+   ],
+   [
+    "Tasa",
+    "1 de cada 10, cada Ciclo"
+   ],
+   [
+    "Señal",
+    "una esquina rota de libro de cuentas clavada en una puerta"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Quiénes son",
+    "paragraphs": [
+     "[[Los Lobos del Libro Mayor|The Ledger Wolves]] les prestan a los que la [[Casa de los Tesoreros|Reckoners' Hall]] rechaza, a tasas que harían sonrojar a los Tesoreros, y cobran a cuchillo. Su cabeza es Dagny Acedera, a la que llaman *el Interés*.",
+     "Se rumorea que los Lobos son la propia mano negable de la Casa. La [[Primera Tesorera|First Reckoner]] Maera [[Hebranegra|Blackstrand]] lo niega en un tono que no zanja nada."
+    ]
+   },
+   {
+    "title": "Cómo trabajan",
+    "paragraphs": [],
+    "list": [
+     "**La tasa.** Uno de cada diez, cada Ciclo. La Casa le cobra a un artesano uno de cada cinco al año.",
+     "**La señal.** Una esquina rota de libro de cuentas clavada en una puerta. La primera es un recordatorio. Nadie espera la segunda.",
+     "**El cobro.** A cuchillo, en los anillos bajos, donde la guardia anda de a dos."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Si la Casa no te presta, pídele un vale a un [[Intendente|Quartermaster]] de la [[Logia|Lodge]] antes de pedirles a los Lobos.",
+     "Si encuentras una esquina rota de libro de cuentas en tu puerta, paga antes del [[Monedía|Coinsday]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Cada Monedía un Lobo sube los escalones de la Casa con una bolsa, y baja sin ella.” (un mesero de la Taza Negra)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKltbTG9zIExvYm9zIGRlbCBMaWJybyBNYXlvcnxUaGUgTGVkZ2VyIFdvbHZlc11dLioqIE5vIHNvbiBsYSBtYW5vIGRlIGxhIENhc2EuIFNvbiBzdXMgcHJvdmVlZG9yZXMuIENhZGEgW1tNb25lZMOtYXxDb2luc2RheV1dLCB1biBmYWN0b3IgZGUgbG9zIFRocmFuZSBsZXMgY29tcHJhIGNvbiBkZXNjdWVudG8gYSBsb3MgTG9ib3Mgc3UgcGFwZWwgbcOhcyBtYWR1cm8sIHkgbGEgQ2FzYSBsbyBjb2JyYSBhIHZhbG9yIGNvbXBsZXRvLCBlbiBbW3RpbnRhIGRlIGxpYnJvIG1heW9yfGxlZGdlciBpbmtdXSwgc2luIHVuIGN1Y2hpbGxvIGEgbGEgdmlzdGEuIExhIG5lZ2FjacOzbiBkZSBNYWVyYSBlcyBjaWVydGEsIHkgbm8gemFuamEgbmFkYSBwb3JxdWUgbm8gZGViZSB6YW5qYXJsby4iXX0="
+   }
+  ],
+  "title": "Los Lobos del Libro Mayor"
  }
 }
