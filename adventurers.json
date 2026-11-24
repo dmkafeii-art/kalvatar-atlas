@@ -15058,7 +15058,7 @@
      "faith": [
       [
        "the Concord, at the great temple on Restday",
-       "la Concordia, en el gran templo los Días de Descanso",
+       "la Concordia, en el gran templo los Reposadías",
        "concord"
       ],
       [
@@ -15394,7 +15394,7 @@
      ],
      [
       "one good thing kept for Restday",
-      "una cosa buena guardada para el Día de Descanso"
+      "una cosa buena guardada para el Reposadía"
      ]
     ],
     "comfortable": [
@@ -19034,7 +19034,7 @@
     ],
     [
      "on the temple steps on Restday",
-     "en las escaleras del templo los Días de Descanso"
+     "en las escaleras del templo los Reposadías"
     ],
     [
      "in the back of a tavern, the same table",
@@ -27648,6 +27648,3702 @@
     10
    ]
   }
+ },
+ "law": {
+  "agencies": {
+   "watch": [
+    [
+     "the watch",
+     "la guardia"
+    ],
+    null,
+    [
+     0.75,
+     10,
+     10
+    ],
+    null
+   ],
+   "huscarls": [
+    [
+     "the house's soldiers",
+     "los soldados de la casa"
+    ],
+    null,
+    [
+     0.2,
+     100,
+     500
+    ],
+    null
+   ],
+   "customs": [
+    [
+     "the Grey Clerks, House Holst's customs-clerks",
+     "los Escribanos Grises, los aduaneros de la Casa Holst"
+    ],
+    "house-holst",
+    null,
+    [
+     "The Grey Clerks are the one harbor nobody buys. Offering is a second charge.",
+     "A los Escribanos Grises no los compra nadie. Ofrecerles es un segundo cargo."
+    ]
+   ],
+   "registry": [
+    [
+     "the Registry's wardens",
+     "los guardianes del Registro"
+    ],
+    "arcane-registry",
+    [
+     0.5,
+     1000,
+     1000
+    ],
+    [
+     "The Registrar has never been bought, as far as anyone knows.",
+     "Al Registrador nunca lo han comprado, que se sepa."
+    ]
+   ],
+   "writ-men": [
+    [
+     "the Company's writ-men",
+     "los hombres de escritos de la Compañía"
+    ],
+    "charterhouse-company",
+    null,
+    [
+     "A writ-man takes the coin, thanks you, and puts it on your paper.",
+     "Un hombre de escritos acepta la moneda, te da las gracias, y la anota en tu papel."
+    ]
+   ],
+   "armada": [
+    [
+     "an Armada cutter, and its marines",
+     "un cúter de la Armada, y sus infantes de marina"
+    ],
+    "armada",
+    [
+     0.1,
+     500,
+     2000
+    ],
+    null
+   ],
+   "lodges": [
+    [
+     "the Lodges, by every contract board",
+     "las Logias, por todos sus tablones de contratos"
+    ],
+    "hunters",
+    null,
+    [
+     "The Lodges do not sell their own Sigils' honor.",
+     "Las Logias no venden el honor de sus propios Sellos."
+    ]
+   ],
+   "black-coats": [
+    [
+     "the Black Coats",
+     "las Casacas Negras"
+    ],
+    null,
+    null,
+    [
+     "Nobody has ever bought a Black Coat and kept the receipt.",
+     "Nadie ha comprado nunca a una Casaca Negra y se ha quedado con el recibo."
+    ]
+   ],
+   "pursuers": [
+    [
+     "the Pursuers of the Concord",
+     "los Perseguidores de la Concordia"
+    ],
+    "concord",
+    null,
+    [
+     "A Pursuer on your trail does not take coin.",
+     "Un Perseguidor tras tu rastro no acepta monedas."
+    ]
+   ],
+   "chainbreakers": [
+    [
+     "the Chainbreakers, who hunt slavers with no law at all",
+     "los Rompecadenas, que cazan esclavistas sin ley ninguna"
+    ],
+    "chainbreakers",
+    null,
+    [
+     "The Chainbreakers do not take prisoners among slavers, and they do not take coin.",
+     "Los Rompecadenas no toman prisioneros entre los esclavistas, ni aceptan monedas."
+    ]
+   ],
+   "whalers": [
+    [
+     "the whalers themselves",
+     "los propios balleneros"
+    ],
+    "whale-wolves",
+    null,
+    [
+     "The whalers do not sell the pact.",
+     "Los balleneros no venden el pacto."
+    ]
+   ],
+   "kin": [
+    [
+     "the family you wronged",
+     "la familia que agraviaste"
+    ],
+    null,
+    null,
+    null
+   ],
+   "combine": [
+    [
+     "Mother Kess's people",
+     "la gente de Madre Kess"
+    ],
+    "mother-kess",
+    [
+     1,
+     100,
+     1000
+    ],
+    null
+   ],
+   "hall": [
+    [
+     "the Hall's clerks",
+     "los escribientes de la Casa"
+    ],
+    "reckoners-hall",
+    null,
+    [
+     "The fine is entered. Lords have paid it.",
+     "La multa se anota. Hasta los señores la han pagado."
+    ]
+   ],
+   "chant": [
+    [
+     "the chant-keepers, who send for you",
+     "los guardianes de los cantos, que te mandan llamar"
+    ],
+    null,
+    null,
+    [
+     "The chant-keepers take no coin.",
+     "Los guardianes de los cantos no aceptan monedas."
+    ]
+   ]
+  },
+  "places": [
+   {
+    "id": "frontier",
+    "region": "northern-frontier",
+    "name": [
+     "A town of the Frontier: the house-court",
+     "Un pueblo de la Frontera: el tribunal de la casa"
+    ],
+    "link": "house-faust",
+    "council": true,
+    "court": [
+     "the house-court, under Faust's iron law",
+     "el tribunal de la casa, bajo la ley de hierro de los Faust"
+    ],
+    "arrest": "huscarls",
+    "style": "martial",
+    "mult": 1,
+    "wait": [
+     0,
+     2
+    ],
+    "wait_note": [
+     "The house-court sits the morning after.",
+     "El tribunal de la casa sesiona a la mañana siguiente."
+    ],
+    "bribe": [
+     0.15,
+     1000,
+     5000
+    ],
+    "refused": [
+     "The court takes it as an insult: ten lashes more.",
+     "El tribunal lo toma como un insulto: diez azotes más."
+    ],
+    "refused_add": [
+     "lash",
+     10,
+     10
+    ],
+    "exile": [
+     "exile from the house's lands; the sea does not forgive a man with nowhere to land",
+     "destierro de las tierras de la casa; el mar no perdona a quien no tiene dónde desembarcar"
+    ],
+    "goes": [
+     "To the house that holds the court; customs fines to House Holst, which keeps a tenth.",
+     "A la casa que preside el tribunal; las multas de aduana, a la Casa Holst, que se queda con una décima parte."
+    ],
+    "says": [
+     "Harsh, swift, and martial. On the Frontier, mercy is a luxury and everyone knows the budget.",
+     "Dura, rápida y marcial. En la Frontera, la clemencia es un lujo y todos saben lo que cuesta."
+    ]
+   },
+   {
+    "id": "goldwind",
+    "region": "central-heartland",
+    "name": [
+     "Goldwind: the watch and the magistrates",
+     "Ventoro: la guardia y los magistrados"
+    ],
+    "link": "goldwind",
+    "council": true,
+    "court": [
+     "a magistrate of the city",
+     "un magistrado de la ciudad"
+    ],
+    "arrest": "watch",
+    "style": "political",
+    "mult": 1.5,
+    "wait": [
+     7,
+     36
+    ],
+    "wait_note": [
+     "The magistrates sit on Sunsdawn, the day of law, when the docket reaches you.",
+     "Los magistrados sesionan en Albasol, el día de la ley, cuando les llega tu turno."
+    ],
+    "bribe": [
+     0.4,
+     1000,
+     3000
+    ],
+    "refused": [
+     "The magistrate enters the offer in the record, and the sentence rises by half.",
+     "El magistrado anota la oferta en el expediente, y la pena sube a la mitad más."
+    ],
+    "refused_add": [
+     "scale",
+     1.5
+    ],
+    "exile": [
+     "exile from the city, with your name at every gate",
+     "destierro de la ciudad, con tu nombre en cada puerta"
+    ],
+    "goes": [
+     "To the city's purse; customs fines to House Holst, which keeps a tenth.",
+     "A la bolsa de la ciudad; las multas de aduana, a la Casa Holst, que se queda con una décima parte."
+    ],
+    "says": [
+     "Even-handed in principle and quietly weighted toward standing in practice. The Registry is enforced strictly within the walls.",
+     "Imparcial en principio y, en la práctica, inclinada en silencio hacia quien tiene posición. El Registro se aplica con rigor dentro de las murallas."
+    ]
+   },
+   {
+    "id": "heartland-lord",
+    "region": "central-heartland",
+    "name": [
+     "A lord's lands in the Heartland: the house-court",
+     "Las tierras de un señor en el Corazón: el tribunal de la casa"
+    ],
+    "link": "heartland",
+    "council": true,
+    "court": [
+     "the lord's court, or the lord's steward",
+     "el tribunal del señor, o su mayordomo"
+    ],
+    "arrest": "huscarls",
+    "style": "political",
+    "mult": 1,
+    "wait": [
+     10,
+     60
+    ],
+    "wait_note": [
+     "At the lord's next sitting.",
+     "En la próxima audiencia del señor."
+    ],
+    "bribe": [
+     0.5,
+     1000,
+     3000
+    ],
+    "refused": [
+     "The steward remembers your face, and so does the lord.",
+     "El mayordomo recuerda tu cara, y el señor también."
+    ],
+    "exile": [
+     "exile from the lord's lands",
+     "destierro de las tierras del señor"
+    ],
+    "goes": [
+     "To the lord, who sends a share up to the Council.",
+     "Al señor, que manda una parte al Consejo."
+    ],
+    "says": [
+     "The Council's law, the Concord's moral weight, and the houses' own courts overlap. Wealth and standing bend outcomes, and everyone pretends otherwise.",
+     "La ley del Consejo, el peso moral de la Concordia y los tribunales de las casas se superponen. La riqueza y la posición tuercen los fallos, y todos fingen que no."
+    ]
+   },
+   {
+    "id": "company",
+    "region": "central-heartland",
+    "name": [
+     "A Company town: the factor and the writ-men",
+     "Un pueblo de la Compañía: el factor y los hombres de escritos"
+    ],
+    "link": "charterhouse-company",
+    "council": true,
+    "court": [
+     "the Company's factor, at a desk",
+     "el factor de la Compañía, detrás de un escritorio"
+    ],
+    "arrest": "writ-men",
+    "style": "company",
+    "mult": 1,
+    "wait": [
+     0,
+     1
+    ],
+    "wait_note": [
+     "The factor's office, the same day.",
+     "La oficina del factor, el mismo día."
+    ],
+    "bribe": [
+     0.5,
+     500,
+     2000
+    ],
+    "refused": [
+     "The factor takes it anyway, and it goes on the paper.",
+     "El factor la acepta igual, y va al papel."
+    ],
+    "exile": [
+     "turned out of the town, with the debt still on the paper",
+     "echado del pueblo, con la deuda todavía en el papel"
+    ],
+    "goes": [
+     "To the Company, on your paper.",
+     "A la Compañía, en tu papel."
+    ],
+    "says": [
+     "A late bell, a broken tool, a word to an overseer: each is a fine, and each goes on the paper.",
+     "Una campana tarde, una herramienta rota, una palabra a un capataz: cada cosa es una multa, y cada multa va al papel."
+    ]
+   },
+   {
+    "id": "colonial",
+    "region": "southern-wilds",
+    "name": [
+     "A colonial port of the south: the Council's magistrate",
+     "Un puerto colonial del sur: el magistrado del Consejo"
+    ],
+    "link": "southern-wilds",
+    "council": true,
+    "court": [
+     "a colonial magistrate",
+     "un magistrado colonial"
+    ],
+    "arrest": "watch",
+    "style": "colonial",
+    "mult": 1,
+    "wait": [
+     3,
+     36
+    ],
+    "wait_note": [
+     "When the magistrate is sober, or paid.",
+     "Cuando el magistrado está sobrio, o le pagaron."
+    ],
+    "bribe": [
+     0.85,
+     1000,
+     5000
+    ],
+    "refused": [
+     "He keeps the money and the verdict both.",
+     "Se queda con el dinero y con el veredicto."
+    ],
+    "exile": [
+     "exile from the colony",
+     "destierro de la colonia"
+    ],
+    "goes": [
+     "To the colonial purse, after the magistrate's share.",
+     "A la bolsa colonial, después de la parte del magistrado."
+    ],
+    "says": [
+     "Colonial and Council law, too often corrupt. Which law reaches you depends entirely on who you are.",
+     "Ley colonial y del Consejo, demasiadas veces corrupta. Qué ley te alcanza depende por completo de quién eres."
+    ]
+   },
+   {
+    "id": "tribal",
+    "region": "southern-wilds",
+    "name": [
+     "Tribal lands of the south: the chant-keepers",
+     "Tierras de las tribus del sur: los guardianes de los cantos"
+    ],
+    "link": "southern-wilds",
+    "council": false,
+    "court": [
+     "the chant-keepers, at the council fire",
+     "los guardianes de los cantos, junto al fuego del consejo"
+    ],
+    "arrest": "chant",
+    "style": "tribal",
+    "mult": 1,
+    "wait": [
+     1,
+     10
+    ],
+    "wait_note": [
+     "At the next council fire.",
+     "En el próximo fuego del consejo."
+    ],
+    "bribe": null,
+    "refused": null,
+    "exile": [
+     "sent from the tribe, and from the protection of its heart-fire",
+     "apartado de la tribu, y de la protección de su fuego del hogar"
+    ],
+    "goes": [
+     "To the one you wronged. The tribe keeps nothing.",
+     "A quien agraviaste. La tribu no se queda con nada."
+    ],
+    "says": [
+     "Restorative judgment, which seeks to mend the tribe, and the war-codes for what cannot be mended.",
+     "Un juicio que repara, que busca sanar a la tribu, y los códigos de guerra para lo que no tiene arreglo."
+    ]
+   },
+   {
+    "id": "tyrant",
+    "region": "southern-wilds",
+    "name": [
+     "A tyrant-house's lands in the south",
+     "Las tierras de una casa tirana del sur"
+    ],
+    "link": "southern-wilds",
+    "council": true,
+    "court": [
+     "the house's overseer, or its slaver-court",
+     "el capataz de la casa, o su tribunal esclavista"
+    ],
+    "arrest": "huscarls",
+    "style": "tyrant",
+    "mult": 1,
+    "wait": [
+     0,
+     3
+    ],
+    "wait_note": [
+     "Whenever the overseer has the time.",
+     "Cuando el capataz tenga tiempo."
+    ],
+    "bribe": [
+     0.7,
+     1000,
+     5000
+    ],
+    "refused": [
+     "The overseer has you flogged for the presumption.",
+     "El capataz te hace azotar por el atrevimiento."
+    ],
+    "refused_add": [
+     "lash",
+     10,
+     10
+    ],
+    "exile": [
+     "driven out into the green",
+     "expulsado a la selva"
+    ],
+    "goes": [
+     "To the house.",
+     "A la casa."
+    ],
+    "says": [
+     "The tyrant-houses' brutal order and the slaver-courts' legal fictions.",
+     "El orden brutal de las casas tiranas y las ficciones legales de los tribunales esclavistas."
+    ]
+   },
+   {
+    "id": "hold",
+    "region": "icy-expanse",
+    "name": [
+     "A hold of the ice: the hold-lord's law",
+     "Una fortaleza del hielo: la ley del señor de la fortaleza"
+    ],
+    "link": "kaldmark",
+    "council": true,
+    "court": [
+     "the hold-lord, in his hall",
+     "el señor de la fortaleza, en su salón"
+    ],
+    "arrest": "huscarls",
+    "style": "hold",
+    "mult": 1,
+    "wait": [
+     1,
+     10
+    ],
+    "wait_note": [
+     "At the hold-lord's next sitting.",
+     "En la próxima audiencia del señor de la fortaleza."
+    ],
+    "bribe": [
+     0.1,
+     1000,
+     5000
+    ],
+    "refused": [
+     "The hold-lord keeps your coin for the hold, and adds the offer to the charge.",
+     "El señor de la fortaleza se queda tu moneda para la fortaleza, y suma la oferta al cargo."
+    ],
+    "refused_add": [
+     "scale",
+     1.5
+    ],
+    "exile": [
+     "exile onto the ice, which in that cold is simply a slower sentence of death",
+     "destierro al hielo, que con ese frío es solo una sentencia de muerte más lenta"
+    ],
+    "goes": [
+     "To the hold.",
+     "A la fortaleza."
+    ],
+    "says": [
+     "Sparse and hard. The ice forgives nothing.",
+     "Escasa y dura. El hielo no perdona nada."
+    ]
+   },
+   {
+    "id": "fairweather",
+    "region": "icy-expanse",
+    "name": [
+     "Varan Port, Fairweather: coin and knife",
+     "Puerto Varan, Buentiempo: moneda y cuchillo"
+    ],
+    "link": "varan-port",
+    "council": false,
+    "court": [
+     "nobody; Mother Kess's people settle it",
+     "nadie; la gente de Madre Kess lo arregla"
+    ],
+    "arrest": "combine",
+    "style": "fairweather",
+    "mult": 1,
+    "wait": [
+     0,
+     0
+    ],
+    "wait_note": [
+     "Tonight.",
+     "Esta noche."
+    ],
+    "bribe": [
+     1,
+     500,
+     2000
+    ],
+    "refused": null,
+    "price_word": [
+     "Kess's people forget it",
+     "la gente de Kess se olvida del asunto"
+    ],
+    "exile": [
+     "put on the next ship out, whatever it is",
+     "subido al próximo barco que salga, sea cual sea"
+    ],
+    "goes": [
+     "To the one you wronged, and Kess's tenth on top.",
+     "A quien agraviaste, y encima el diezmo de Kess."
+    ],
+    "says": [
+     "Coin, knife, and the corrupt Lodge. Kess's tenth is the only tax in Varan Port, and the only one never evaded.",
+     "Moneda, cuchillo y la Logia corrupta. El diezmo de Kess es el único impuesto de Puerto Varan, y el único que nadie evade."
+    ]
+   },
+   {
+    "id": "ice-free",
+    "region": "icy-expanse",
+    "name": [
+     "The independent folk of the ice: blood-feud and exile",
+     "La gente libre del hielo: venganza de sangre y destierro"
+    ],
+    "link": "icy-expanse",
+    "council": false,
+    "court": [
+     "no court; the wronged family decides",
+     "ningún tribunal; decide la familia agraviada"
+    ],
+    "arrest": "kin",
+    "style": "feud",
+    "mult": 1,
+    "wait": [
+     0,
+     0
+    ],
+    "wait_note": [
+     "Whenever they find you.",
+     "Cuando te encuentren."
+    ],
+    "bribe": [
+     0.5,
+     500,
+     5000
+    ],
+    "refused": [
+     "The family takes the price as an insult to the dead.",
+     "La familia toma el precio como un insulto al muerto."
+    ],
+    "price_word": [
+     "the family takes a blood-price instead",
+     "la familia acepta un precio de sangre a cambio"
+    ],
+    "exile": [
+     "exile from the hall, which on the ice is a slower death",
+     "destierro del salón, que en el hielo es una muerte más lenta"
+    ],
+    "goes": [
+     "To the family you wronged.",
+     "A la familia que agraviaste."
+    ],
+    "says": [
+     "Among the independent folk, blood-feud and exile.",
+     "Entre la gente libre, venganza de sangre y destierro."
+    ]
+   },
+   {
+    "id": "sea",
+    "region": "",
+    "name": [
+     "At sea: an Armada court",
+     "En altamar: un tribunal de la Armada"
+    ],
+    "link": "armada",
+    "council": true,
+    "court": [
+     "a court of Armada officers, in the next port with a flag",
+     "un tribunal de oficiales de la Armada, en el próximo puerto con insignia"
+    ],
+    "arrest": "armada",
+    "style": "armada",
+    "mult": 1,
+    "wait": [
+     3,
+     30
+    ],
+    "wait_note": [
+     "In the next port with a flag-officer; an Oathwarden keeps you until then.",
+     "En el próximo puerto con un oficial de insignia; hasta entonces te guarda un Guardajuramentos."
+    ],
+    "bribe": [
+     0.05,
+     2000,
+     10000
+    ],
+    "refused": [
+     "Offering an officer coin is a second charge: six lashes more.",
+     "Ofrecerle dinero a un oficial es un segundo cargo: seis azotes más."
+    ],
+    "refused_add": [
+     "lash",
+     6,
+     6
+    ],
+    "exile": [
+     "put ashore on the nearest rock",
+     "desembarcado en la roca más cercana"
+    ],
+    "goes": [
+     "To the Armada's purse.",
+     "A la bolsa de la Armada."
+    ],
+    "says": [
+     "The Oathwarden keeps the crew to Charter and oath. The Armada hangs pirates.",
+     "El Guardajuramentos mantiene a la tripulación fiel a la Carta y al juramento. La Armada ahorca piratas."
+    ]
+   },
+   {
+    "id": "below",
+    "region": "",
+    "name": [
+     "Below",
+     "Abajo"
+    ],
+    "link": "below",
+    "council": false,
+    "court": [
+     "nobody; at law, Below is simply nowhere",
+     "nadie; ante la ley, Abajo no es ningún lugar"
+    ],
+    "arrest": "kin",
+    "style": "below",
+    "mult": 1,
+    "wait": null,
+    "wait_note": [
+     "No court sits Below.",
+     "Abajo no sesiona ningún tribunal."
+    ],
+    "bribe": null,
+    "refused": null,
+    "exile": [
+     "",
+     ""
+    ],
+    "goes": [
+     "",
+     ""
+    ],
+    "says": [
+     "The Charter stops at the rock. It is not illegal to go there. At law, it is simply nowhere.",
+     "La Carta se detiene en la roca. Ir allá no es ilegal. Ante la ley, simplemente no es ningún lugar."
+    ]
+   }
+  ],
+  "crimes": [
+   {
+    "id": "brawl",
+    "name": [
+     "A tavern brawl, fists only",
+     "Una pelea de taberna, solo a puñetazos"
+    ],
+    "base_tier": 0,
+    "tier_map": null,
+    "fine": [
+     5,
+     30
+    ],
+    "by": null
+   },
+   {
+    "id": "drunk",
+    "name": [
+     "Drunk and loud in the street at night",
+     "Borracho y escandaloso en la calle de noche"
+    ],
+    "base_tier": 0,
+    "tier_map": null,
+    "fine": [
+     2,
+     10
+    ],
+    "by": null
+   },
+   {
+    "id": "quiet-room",
+    "name": [
+     "A raised voice in the Quiet Room of the Reckoners' Hall",
+     "Alzar la voz en la Sala Silenciosa de la Casa de los Tesoreros"
+    ],
+    "base_tier": 0,
+    "tier_map": null,
+    "fine": [
+     10,
+     10
+    ],
+    "by": "hall",
+    "only": [
+     "goldwind"
+    ],
+    "fixed": true,
+    "note": [
+     "One Tide, entered against your name. A Gold Hunter once paid it, and asked for a receipt.",
+     "Una Marea, anotada contra tu nombre. Una vez la pagó una Cazadora de Oro, y pidió recibo."
+    ]
+   },
+   {
+    "id": "lampet",
+    "name": [
+     "Harming a lampet",
+     "Hacerle daño a un lapalumbre"
+    ],
+    "base_tier": 0,
+    "tier_map": null,
+    "fine": [
+     5,
+     20
+    ],
+    "by": null,
+    "note": [
+     "The tavern beats you senseless first, and the magistrate hears the case with visible reluctance.",
+     "Primero la taberna te muele a golpes, y el magistrado oye el caso de muy mala gana."
+    ]
+   },
+   {
+    "id": "dues",
+    "name": [
+     "Slipping out of harbor without paying the dues",
+     "Salir del puerto sin pagar los derechos"
+    ],
+    "base_tier": 0,
+    "tier_map": null,
+    "fine": [
+     20,
+     100
+    ],
+    "by": "customs",
+    "council": true
+   },
+   {
+    "id": "turned-out",
+    "name": [
+     "Turning a stranger out into the cold",
+     "Echar a un forastero al frío"
+    ],
+    "base_tier": 0,
+    "tier_map": {
+     "northern-frontier": 3,
+     "icy-expanse": 3
+    },
+    "fine": [
+     0,
+     0
+    ],
+    "by": null,
+    "none": [
+     "No court here will hear it, and nobody who saw it will forget.",
+     "Ningún tribunal de aquí lo va a oír, y nadie que lo vio lo va a olvidar."
+    ],
+    "note_by": {
+     "northern-frontier": [
+      "The one unforgivable thing on the Frontier. The old fog-towns have hanged men for it.",
+      "Lo único imperdonable en la Frontera. Los viejos pueblos de niebla han ahorcado hombres por eso."
+     ],
+     "icy-expanse": [
+      "On the ice, refusing food and fire to a traveler is murder, and is punished as murder.",
+      "En el hielo, negarle comida y fuego a un viajero es asesinato, y se castiga como asesinato."
+     ]
+    }
+   },
+   {
+    "id": "theft",
+    "name": [
+     "Petty theft: a purse, a coat, a loaf",
+     "Un robo menor: una bolsa, un abrigo, un pan"
+    ],
+    "base_tier": 1,
+    "tier_map": null,
+    "fine": [
+     10,
+     50
+    ],
+    "by": null,
+    "restore": true
+   },
+   {
+    "id": "chart",
+    "name": [
+     "Selling an unstamped chart as a true one",
+     "Vender una carta sin sello como si fuera buena"
+    ],
+    "base_tier": 1,
+    "tier_map": null,
+    "fine": [
+     100,
+     500
+    ],
+    "by": null,
+    "council": true,
+    "note": [
+     "A chart is legal only with a Chartwrights' stamp.",
+     "Una carta solo es legal con el sello de los Cartógrafos."
+    ]
+   },
+   {
+    "id": "smuggling",
+    "name": [
+     "Smuggling: goods landed without duty",
+     "Contrabando: mercancía desembarcada sin pagar derechos"
+    ],
+    "base_tier": 1,
+    "tier_map": null,
+    "fine": [
+     100,
+     500
+    ],
+    "by": "customs",
+    "council": true,
+    "forfeit": [
+     "and the cargo is forfeit",
+     "y la carga se decomisa"
+    ],
+    "note": [
+     "The Grey Clerks have hanged more smugglers by ledger than the Armada ever has by cannon.",
+     "Los Escribanos Grises han ahorcado más contrabandistas con el libro de cuentas que la Armada con el cañón."
+    ]
+   },
+   {
+    "id": "dark-glass",
+    "name": [
+     "Carrying dark glass (unregistered Krysta)",
+     "Llevar vidrio oscuro (Krysta sin registrar)"
+    ],
+    "base_tier": 1,
+    "tier_map": null,
+    "fine": [
+     100,
+     1000
+    ],
+    "by": "registry",
+    "council": true,
+    "forfeit": [
+     "and the glass is forfeit",
+     "y el vidrio se decomisa"
+    ]
+   },
+   {
+    "id": "ringless",
+    "name": [
+     "Casting without the copper rings",
+     "Lanzar conjuros sin los anillos de cobre"
+    ],
+    "base_tier": 1,
+    "tier_map": {
+     "goldwind": 2
+    },
+    "fine": [
+     200,
+     1000
+    ],
+    "by": "registry",
+    "council": true,
+    "note": [
+     "After the sentence you are enrolled, examined, and ringed. It is what makes the Ringless outlaws.",
+     "Después de la pena te inscriben, te examinan y te ponen los anillos. Es lo que hace de los Sin Anillo unos proscritos."
+    ]
+   },
+   {
+    "id": "drugs",
+    "name": [
+     "Selling a banned drug",
+     "Vender una droga prohibida"
+    ],
+    "base_tier": 1,
+    "tier_map": null,
+    "fine": [
+     100,
+     1000
+    ],
+    "by": null,
+    "council": true,
+    "forfeit": [
+     "and the stock is forfeit",
+     "y la mercancía se decomisa"
+    ]
+   },
+   {
+    "id": "assault",
+    "name": [
+     "Assault with a blade, and nobody died",
+     "Una agresión con arma blanca, y nadie murió"
+    ],
+    "base_tier": 2,
+    "tier_map": null,
+    "fine": [
+     200,
+     1000
+    ],
+    "by": null
+   },
+   {
+    "id": "grand-theft",
+    "name": [
+     "Stealing a horse, a saurian, or a cargo",
+     "Robar un caballo, un saurio o una carga"
+    ],
+    "base_tier": 2,
+    "tier_map": null,
+    "fine": [
+     500,
+     3000
+    ],
+    "by": null,
+    "restore": true
+   },
+   {
+    "id": "coin",
+    "name": [
+     "Passing drowned Anchors (false gold)",
+     "Pasar Anclas ahogadas (oro falso)"
+    ],
+    "base_tier": 2,
+    "tier_map": null,
+    "fine": [
+     500,
+     2000
+    ],
+    "by": null,
+    "council": true
+   },
+   {
+    "id": "seal",
+    "name": [
+     "A false customs seal, or a false manifest",
+     "Un sello de aduana falso, o un manifiesto falso"
+    ],
+    "base_tier": 2,
+    "tier_map": null,
+    "fine": [
+     1000,
+     5000
+    ],
+    "by": "customs",
+    "council": true
+   },
+   {
+    "id": "no-writ",
+    "name": [
+     "Casting at the Third Circle or above without a Writ",
+     "Lanzar un conjuro del Tercer Círculo o más sin un Mandato"
+    ],
+    "base_tier": 2,
+    "tier_map": null,
+    "fine": [
+     1000,
+     5000
+    ],
+    "by": "registry",
+    "council": true,
+    "note": [
+     "The ring certifies; the Writ authorizes. The bell of it rings through every Krysta in the world.",
+     "El anillo certifica; el Mandato autoriza. Su campanada resuena en toda la Krysta del mundo."
+    ]
+   },
+   {
+    "id": "temple",
+    "name": [
+     "Defiling a temple, or breaking a great oath",
+     "Profanar un templo, o romper un gran juramento"
+    ],
+    "base_tier": 2,
+    "tier_map": null,
+    "fine": [
+     500,
+     2000
+    ],
+    "by": "pursuers"
+   },
+   {
+    "id": "brass-sigil",
+    "name": [
+     "Wearing a brass Sigil (a false Hunter badge)",
+     "Llevar un Sello de latón (una insignia falsa de Cazador)"
+    ],
+    "base_tier": 2,
+    "tier_map": null,
+    "fine": [
+     500,
+     2000
+    ],
+    "by": "lodges",
+    "strip": true,
+    "note": [
+     "The Lodges hang the forger and badge-strip the buyer.",
+     "Las Logias ahorcan al falsificador y le quitan la insignia al comprador."
+    ]
+   },
+   {
+    "id": "desertion",
+    "name": [
+     "Deserting an Armada ship",
+     "Desertar de un barco de la Armada"
+    ],
+    "base_tier": 2,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": "armada",
+    "court": "sea"
+   },
+   {
+    "id": "debt",
+    "name": [
+     "Debt: three Coinsdays unpaid",
+     "Deuda: tres Monedías sin pagar"
+    ],
+    "base_tier": -1,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": null
+   },
+   {
+    "id": "murder",
+    "name": [
+     "Murder",
+     "Asesinato"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": null,
+    "strip_note": true
+   },
+   {
+    "id": "poison",
+    "name": [
+     "Selling Sporrn poison",
+     "Vender veneno sporrn"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": null,
+    "council": true,
+    "note": [
+     "Not sold on the surface, and hanged for.",
+     "En la superficie no se vende, y se ahorca por ella."
+    ]
+   },
+   {
+    "id": "stamp",
+    "name": [
+     "Forging a Chartwrights' stamp",
+     "Falsificar un sello de los Cartógrafos"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": null,
+    "council": true
+   },
+   {
+    "id": "false-light",
+    "name": [
+     "Hanging a false light",
+     "Colgar una luz falsa"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": null,
+    "council": true,
+    "note": [
+     "A hanging crime in every Council port.",
+     "Un crimen de horca en todos los puertos del Consejo."
+    ]
+   },
+   {
+    "id": "marque",
+    "name": [
+     "Forging a letter of marque",
+     "Falsificar una patente de corso"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": null,
+    "council": true
+   },
+   {
+    "id": "piracy",
+    "name": [
+     "Piracy",
+     "Piratería"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": "armada",
+    "court": "sea",
+    "note": [
+     "A letter of marque makes it privateering, until the Navy decides it's awkward.",
+     "Una patente de corso lo vuelve corso, hasta que a la Armada le resulta incómodo."
+    ]
+   },
+   {
+    "id": "slaving",
+    "name": [
+     "Carrying ghost-cargo: captive people",
+     "Llevar carga fantasma: personas cautivas"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": "chainbreakers",
+    "note": [
+     "Outlawed since the Great Slave Rebellion.",
+     "Prohibido desde la Gran Rebelión de los Esclavos."
+    ],
+    "none_at": {
+     "tyrant": [
+      "Here the slaver-courts call it indenture, and hear no case. The Chainbreakers hear it instead.",
+      "Aquí los tribunales esclavistas lo llaman servidumbre, y no oyen el caso. Lo oyen los Rompecadenas."
+     ]
+    }
+   },
+   {
+    "id": "spying",
+    "name": [
+     "Spying for the Imperium",
+     "Espiar para el Imperio"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": "black-coats"
+   },
+   {
+    "id": "sigil-forge",
+    "name": [
+     "Forging Hunter Sigils",
+     "Falsificar Sellos de Cazador"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": "lodges",
+    "note": [
+     "The Lodges hang the forger.",
+     "Las Logias ahorcan al falsificador."
+    ]
+   },
+   {
+    "id": "whale-wolf",
+    "name": [
+     "Harming a whale-wolf, or taking the tongue",
+     "Herir a un lobo ballenero, o quitarle la lengua"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": "whalers",
+    "only": [
+     "hold",
+     "fairweather",
+     "ice-free"
+    ],
+    "whalers": true
+   },
+   {
+    "id": "kess",
+    "name": [
+     "Evading Kess's tenth",
+     "Evadir el diezmo de Kess"
+    ],
+    "base_tier": 3,
+    "tier_map": null,
+    "fine": [
+     0,
+     0
+    ],
+    "by": "combine",
+    "only": [
+     "fairweather"
+    ]
+   }
+  ],
+  "tiers": [
+   [
+    "Petty",
+    "Menor"
+   ],
+   [
+    "Middling",
+    "Mediano"
+   ],
+   [
+    "Serious",
+    "Grave"
+   ],
+   [
+    "Grave: the rope",
+    "Gravísimo: la soga"
+   ]
+  ],
+  "tier_fine": [
+   [
+    5,
+    30
+   ],
+   [
+    100,
+    500
+   ],
+   [
+    1000,
+    5000
+   ],
+   [
+    5000,
+    20000
+   ]
+  ],
+  "stations": [
+   [
+    "stranger",
+    [
+     "A stranger nobody speaks for",
+     "Un forastero por quien nadie habla"
+    ],
+    false,
+    {
+     "martial": 10,
+     "political": 10,
+     "colonial": 10,
+     "hold": 5
+    },
+    1,
+    {},
+    {},
+    {}
+   ],
+   [
+    "commoner",
+    [
+     "A commoner of the place",
+     "Alguien común del lugar"
+    ],
+    false,
+    {},
+    1,
+    {},
+    {},
+    {}
+   ],
+   [
+    "merchant",
+    [
+     "A guild master or a merchant of standing",
+     "Un maestro de gremio o un mercader con posición"
+    ],
+    false,
+    {
+     "political": -10,
+     "colonial": -15
+    },
+    1.5,
+    {
+     "political": 0.3,
+     "colonial": 0.4,
+     "martial": 0.2
+    },
+    {},
+    {}
+   ],
+   [
+    "hunter",
+    [
+     "A Hunter with a Sigil",
+     "Un Cazador con Sello"
+    ],
+    false,
+    {},
+    1,
+    {
+     "political": 0.15
+    },
+    {},
+    {
+     "*": [
+      "The Lodge's Quartermaster can pay a fine in chits, against your next contract.",
+      "El Intendente de la Logia puede pagar una multa con vales, a cuenta de tu próximo contrato."
+     ],
+     "fairweather": [
+      "The Varan Lodge looks after its own, for a price.",
+      "La Logia de Varan cuida a los suyos, por un precio."
+     ]
+    }
+   ],
+   [
+    "noble",
+    [
+     "Of a noble house",
+     "De una casa noble"
+    ],
+    false,
+    {
+     "political": -25,
+     "colonial": -30,
+     "martial": -10,
+     "tyrant": -40
+    },
+    3,
+    {
+     "political": 0.6,
+     "colonial": 0.7,
+     "martial": 0.5,
+     "hold": 0.3,
+     "tyrant": 0.9
+    },
+    {},
+    {
+     "fairweather": [
+      "Mother Kess does not punish a noble. She ransoms one: a thousand Orsals to your house, and she takes a tenth for the courtesy.",
+      "Madre Kess no castiga a un noble. Lo rescata: mil Orsales a tu casa, y se queda con una décima parte por la cortesía."
+     ],
+     "tribal": [
+      "The chant-keepers have no word for it.",
+      "Los guardianes de los cantos no tienen palabra para eso."
+     ]
+    }
+   ],
+   [
+    "tribal",
+    [
+     "Of the tribes",
+     "De las tribus"
+    ],
+    true,
+    {
+     "colonial": 20,
+     "tyrant": 20
+    },
+    1,
+    {},
+    {
+     "colonial": 1,
+     "tyrant": 1
+    },
+    {
+     "colonial": [
+      "Which law reaches you depends entirely on who you are.",
+      "Qué ley te alcanza depende por completo de quién eres."
+     ]
+    }
+   ]
+  ],
+  "evidence": [
+   [
+    "red",
+    "Caught red-handed",
+    "Atrapado con las manos en la masa",
+    95
+   ],
+   [
+    "witness",
+    "On a witness's word",
+    "Por la palabra de un testigo",
+    70
+   ],
+   [
+    "rumor",
+    "On rumor and a grudge",
+    "Por rumores y un rencor",
+    35
+   ]
+  ],
+  "ladders": {
+   "martial": [
+    [
+     [
+      3,
+      [
+       [
+        "fine",
+        1
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "cells",
+        1,
+        1
+       ],
+       [
+        "fine",
+        1
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "fine",
+        1
+       ],
+       [
+        "lash",
+        5,
+        10
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "labor",
+        7,
+        28
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "fine",
+        2
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "lash",
+        20,
+        40
+       ],
+       [
+        "labor",
+        30,
+        180
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "labor",
+        365,
+        730
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      5,
+      [
+       [
+        "rope"
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ]
+    ]
+   ],
+   "political": [
+    [
+     [
+      4,
+      [
+       [
+        "fine",
+        1
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "cells",
+        1,
+        3
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "fine",
+        1.5
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "prison",
+        14,
+        72
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "fine",
+        2
+       ],
+       [
+        "prison",
+        72,
+        365
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "prison",
+        180,
+        730
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "labor",
+        180,
+        365
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      4,
+      [
+       [
+        "rope"
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "prison",
+        1825,
+        3650
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ]
+    ]
+   ],
+   "company": [
+    [
+     [
+      1,
+      [
+       [
+        "bond",
+        1
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "bond",
+        1.5
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "lash",
+        5,
+        15
+       ],
+       [
+        "bond",
+        1
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "bond",
+        3
+       ],
+       [
+        "lash",
+        10,
+        30
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "bond",
+        5
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "rope"
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "bond",
+        20
+       ]
+      ]
+     ]
+    ]
+   ],
+   "colonial": [
+    [
+     [
+      3,
+      [
+       [
+        "fine",
+        1
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "cells",
+        1,
+        3
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "fine",
+        1.5
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "lash",
+        5,
+        15
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "labor",
+        30,
+        90
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "mines",
+        180,
+        730
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "lash",
+        20,
+        40
+       ],
+       [
+        "fine",
+        2
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "prison",
+        180,
+        365
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      5,
+      [
+       [
+        "rope"
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "mines",
+        3650,
+        3650
+       ]
+      ]
+     ]
+    ]
+   ],
+   "tribal": [
+    [
+     [
+      1,
+      [
+       [
+        "words"
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "mend",
+        2
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "work",
+        7,
+        30
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "mend",
+        3
+       ],
+       [
+        "work",
+        30,
+        180
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "feud"
+       ]
+      ]
+     ]
+    ]
+   ],
+   "tyrant": [
+    [
+     [
+      2,
+      [
+       [
+        "lash",
+        5,
+        10
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "fine",
+        2
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "lash",
+        10,
+        30
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "labor",
+        30,
+        180
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "mines",
+        365,
+        1825
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "sold"
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "rope"
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "sold"
+       ]
+      ]
+     ]
+    ]
+   ],
+   "hold": [
+    [
+     [
+      3,
+      [
+       [
+        "fine",
+        1
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "labor",
+        3,
+        10
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "fine",
+        2
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "labor",
+        7,
+        36
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "labor",
+        180,
+        365
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "rope"
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ]
+    ]
+   ],
+   "fairweather": [
+    [
+     [
+      3,
+      [
+       [
+        "nothing"
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "kess",
+        1
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "kess",
+        2
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "mark"
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "mark"
+       ],
+       [
+        "kess",
+        3
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "harbor"
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      1,
+      [
+       [
+        "harbor"
+       ]
+      ]
+     ]
+    ]
+   ],
+   "feud": [
+    [
+     [
+      1,
+      [
+       [
+        "beating"
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "mend",
+        2
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "beating"
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "feud"
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "feud"
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "exile"
+       ]
+      ]
+     ]
+    ]
+   ],
+   "armada": [
+    [
+     [
+      3,
+      [
+       [
+        "fine",
+        1
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "cells",
+        3,
+        10
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      3,
+      [
+       [
+        "lash",
+        6,
+        12
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "fine",
+        2
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      2,
+      [
+       [
+        "lash",
+        24,
+        48
+       ]
+      ]
+     ],
+     [
+      2,
+      [
+       [
+        "service",
+        365,
+        365
+       ]
+      ]
+     ],
+     [
+      1,
+      [
+       [
+        "prison",
+        180,
+        365
+       ]
+      ]
+     ]
+    ],
+    [
+     [
+      1,
+      [
+       [
+        "rope"
+       ]
+      ]
+     ]
+    ]
+   ]
+  },
+  "parts": {
+   "fine": [
+    "a fine of {coin}",
+    "una multa de {coin}"
+   ],
+   "cells": [
+    "{time} in the cells",
+    "{time} en el calabozo"
+   ],
+   "lash": [
+    "{n} lashes",
+    "{n} azotes"
+   ],
+   "labor": [
+    "hard labor for {time}",
+    "trabajos forzados por {time}"
+   ],
+   "prison": [
+    "a long tide: {time} in prison",
+    "una marea larga: {time} de cárcel"
+   ],
+   "mines": [
+    "{time} of labor in a Krysta mine",
+    "{time} de trabajo en una mina de Krysta"
+   ],
+   "exile": [
+    "{exile}",
+    "{exile}"
+   ],
+   "rope": [
+    "the rope",
+    "la soga"
+   ],
+   "bond": [
+    "the fine goes on your paper: {coin}, worked off as a debt-bond",
+    "la multa va a tu papel: {coin}, que se paga trabajando como deuda"
+   ],
+   "mend": [
+    "restitution to the one you wronged: {coin}, or its worth",
+    "reparación a quien agraviaste: {coin}, o lo que valga"
+   ],
+   "work": [
+    "{time} of work for the household you wronged",
+    "{time} de trabajo para la casa que agraviaste"
+   ],
+   "service": [
+    "a year before the mast in an Armada hull, unpaid",
+    "un año al pie del mástil en un casco de la Armada, sin paga"
+   ],
+   "feud": [
+    "blood-feud: the wronged family may take it out of your hide, or your life",
+    "venganza de sangre: la familia agraviada puede cobrárselo con tu piel, o con tu vida"
+   ],
+   "mark": [
+    "Kess's people mark you, so the port remembers",
+    "la gente de Kess te marca, para que el puerto se acuerde"
+   ],
+   "harbor": [
+    "the harbor: you are not seen again",
+    "el puerto: no se te vuelve a ver"
+   ],
+   "kess": [
+    "pay the one you wronged {coin}, and Kess a tenth of it",
+    "pagarle {coin} a quien agraviaste, y a Kess una décima parte"
+   ],
+   "sold": [
+    "sold into indenture, which the slaver-court calls a debt",
+    "vendido como siervo, a lo que el tribunal esclavista llama deuda"
+   ],
+   "beating": [
+    "a beating, and then it is over",
+    "una paliza, y se acabó"
+   ],
+   "words": [
+    "words at the council fire, and a gift to the one you wronged",
+    "palabras junto al fuego del consejo, y un regalo para quien agraviaste"
+   ],
+   "nothing": [
+    "nothing: nobody in Varan Port cares",
+    "nada: a nadie en Puerto Varan le importa"
+   ]
+  },
+  "corporal": [
+   "cells",
+   "lash",
+   "labor",
+   "prison",
+   "mines",
+   "work",
+   "service"
+  ],
+  "not_here": {
+   "tribal": [
+    "The chant-keepers do not keep the Council's ledgers. Here it is no wrong.",
+    "Los guardianes de los cantos no llevan los libros del Consejo. Aquí no es ningún agravio."
+   ],
+   "fairweather": [
+    "In Varan Port the only tax is Kess's tenth, and the only crime is not paying it.",
+    "En Puerto Varan el único impuesto es el diezmo de Kess, y el único crimen es no pagarlo."
+   ],
+   "ice-free": [
+    "Nobody out on the ice keeps the Council's law.",
+    "Allá afuera, en el hielo, nadie guarda la ley del Consejo."
+   ],
+   "below": [
+    "The Charter stops at the rock.",
+    "La Carta se detiene en la roca."
+   ]
+  },
+  "below": [
+   [
+    "No court sits Below. At law, it is simply nowhere.",
+    "Abajo no sesiona ningún tribunal. Ante la ley, simplemente no es ningún lugar."
+   ],
+   [
+    "The Knot keeps the peace by its own rules: no names, no blades, no light brighter than a candle.",
+    "El Nudo mantiene la paz con sus propias reglas: nada de nombres, nada de hojas, ninguna luz más fuerte que una vela."
+   ],
+   [
+    "Whoever you wronged settles it, if they can.",
+    "Quien sea que agraviaste lo arregla, si puede."
+   ]
+  ],
+  "whalers": [
+   "The one crime the whalers punish themselves. No hold-lord asks how.",
+   "El único crimen que los balleneros castigan ellos mismos. Ningún señor de fortaleza pregunta cómo."
+  ],
+  "kess": [
+   "It has never been done. You would be the first, and the last.",
+   "Nunca se ha hecho. Serías el primero, y el último."
+  ],
+  "bounty": [
+   null,
+   [
+    500,
+    1000
+   ],
+   [
+    2000,
+    6000
+   ],
+   [
+    10000,
+    40000
+   ]
+  ],
+  "escapes": [
+   [
+    5,
+    [
+     "goldwind",
+     "frontier",
+     "heartland-lord",
+     "colonial",
+     "sea"
+    ]
+   ],
+   [
+    6,
+    [
+     "goldwind"
+    ]
+   ],
+   [
+    7,
+    [
+     "company"
+    ]
+   ],
+   [
+    8,
+    [
+     "*"
+    ]
+   ]
+  ],
+  "debt": {
+   "ledger": [
+    "Three Coinsdays unpaid, and the debt goes to the Ledger. A name in the Ledger can borrow nowhere, sign no bottomry bond, and hold no master's chain in any guild.",
+    "Tres Monedías sin pagar, y la deuda pasa al Libro Mayor. Un nombre en el Libro Mayor no puede pedir prestado en ninguna parte, ni firmar un préstamo a la gruesa, ni llevar la cadena de maestro en ningún gremio."
+   ],
+   "bond": [
+    "Debt-bond: you work it off, under a contract a magistrate seals. At a hand's wage, about {months}.",
+    "Deuda de trabajo: la pagas trabajando, con un contrato que sella un magistrado. Con sueldo de marinero, unos {months}."
+   ],
+   "hold": [
+    "The debtors' hold: a long tide for those who cannot pay and will not bond. The debt keeps growing while they sit.",
+    "La cárcel de deudores: una marea larga para quien no puede pagar y no quiere firmar. La deuda sigue creciendo mientras esperan."
+   ],
+   "company": [
+    "In a Company town it is indenture, and the debt somehow never shrinks.",
+    "En un pueblo de la Compañía es servidumbre, y la deuda, no se sabe cómo, nunca se achica."
+   ],
+   "still": [
+    "The Still Days freeze every debt in the islands: no interest runs, no debt is called, and no debtor may be taken.",
+    "Los Días Quietos congelan toda deuda de las islas: no corre interés, no se cobra ninguna deuda, y a ningún deudor se lo pueden llevar."
+   ],
+   "wolves": [
+    "Varan Port has no Ledger. It has the Ledger Wolves: one in ten every Cycle, collected by knife.",
+    "Puerto Varan no tiene Libro Mayor. Tiene a los Lobos del Libro Mayor: uno de cada diez cada Ciclo, cobrado a cuchillo."
+   ],
+   "none": [
+    "No ledger reaches here. What you owe, you owe to a face.",
+    "Ningún libro de cuentas llega hasta aquí. Lo que debes, se lo debes a una cara."
+   ],
+   "hand": 100
+  },
+  "still": [
+   "The courts close for the Still Days. The trial waits until the year turns.",
+   "Los tribunales cierran en los Días Quietos. El juicio espera a que cambie el año."
+  ]
+ },
+ "games": {
+  "nine": {
+   "cargos": [
+    [
+     "salt",
+     [
+      "salt",
+      "sal"
+     ],
+     "#e8e2d4"
+    ],
+    [
+     "kellum",
+     [
+      "kellum",
+      "kellum"
+     ],
+     "#c98b3c"
+    ],
+    [
+     "brightleaf",
+     [
+      "brightleaf",
+      "brightleaf"
+     ],
+     "#6e9b5a"
+    ],
+    [
+     "iron",
+     [
+      "iron",
+      "hierro"
+     ],
+     "#7d8590"
+    ],
+    [
+     "furs",
+     [
+      "furs",
+      "pieles"
+     ],
+     "#8a5d3b"
+    ],
+    [
+     "cacao",
+     [
+      "cacao",
+      "cacao"
+     ],
+     "#5b3a2e"
+    ]
+   ],
+   "rock": [
+    "a rock",
+    "una piedra"
+   ],
+   "per": 6,
+   "rocks": 4,
+   "hand": 5,
+   "most": 3,
+   "start": 5,
+   "board": [
+    "ironfort",
+    "bastion",
+    "greyhaven",
+    "stormreach",
+    "goldwind",
+    "southhaven",
+    "jakupur",
+    "frosthold",
+    "varan-port"
+   ],
+   "sets": {
+    "northern-frontier": [
+     "oak",
+     "roble"
+    ],
+    "central-heartland": [
+     "lacquer",
+     "laca"
+    ],
+    "southern-wilds": [
+     "jade",
+     "jade"
+    ],
+    "icy-expanse": [
+     "bone",
+     "hueso"
+    ]
+   },
+   "rules": [
+    [
+     "Nine ports lie in a ring on the board. At each one a tile is turned: the cargo that port is buying, and how many marks it pays a tile.",
+     "Nueve puertos forman un anillo en el tablero. En cada uno se voltea una ficha: la carga que ese puerto compra, y cuántas marcas paga por ficha."
+    ],
+    [
+     "Every captain holds five tiles, face down: six cargoes, and a few rocks that sell for nothing.",
+     "Cada capitán tiene cinco fichas boca abajo: seis cargas, y unas cuantas piedras que no valen nada."
+    ],
+    [
+     "In turn, each captain may land one to three tiles and swear they are what the port is buying. It may be true.",
+     "Por turno, cada capitán puede desembarcar de una a tres fichas y jurar que son lo que el puerto compra. Puede ser verdad."
+    ],
+    [
+     "Anyone may call “Open the hold!” If the tiles are true, the port pays for them, and the caller pays the captain a mark a tile besides. If one is false, the captain pays the caller a mark a tile and sells nothing.",
+     "Cualquiera puede gritar “¡Abre la bodega!”. Si las fichas son verdad, el puerto las paga, y además quien gritó le paga al capitán una marca por ficha. Si alguna es falsa, el capitán le paga a quien gritó una marca por ficha y no vende nada."
+    ],
+    [
+     "With a Gaming Set (Nine Ports tiles), a captain's tells mean something three times in four.",
+     "Con un juego de Nueve Puertos, los gestos de un capitán significan algo tres veces de cada cuatro."
+    ],
+    [
+     "If nobody calls, the port pays for every tile, true or not. Then everyone draws back up to five.",
+     "Si nadie grita, el puerto paga cada ficha, sea verdad o no. Después todos vuelven a robar hasta tener cinco."
+    ],
+    [
+     "After the ninth port, the richest captain takes the pot.",
+     "Después del noveno puerto, el capitán más rico se lleva el bote."
+    ]
+   ],
+   "styles": [
+    [
+     "careful",
+     [
+      "careful",
+      "prudente",
+      "prudente"
+     ],
+     0.1,
+     0.7,
+     [
+      "counts every tile twice",
+      "cuenta cada ficha dos veces"
+     ]
+    ],
+    [
+     "steady",
+     [
+      "steady",
+      "firme",
+      "firme"
+     ],
+     0.25,
+     0.55,
+     [
+      "plays the odds and nothing else",
+      "juega a las probabilidades y a nada más"
+     ]
+    ],
+    [
+     "bold",
+     [
+      "bold",
+      "osado",
+      "osada"
+     ],
+     0.45,
+     0.42,
+     [
+      "lies for the pleasure of it",
+      "miente por el gusto de mentir"
+     ]
+    ],
+    [
+     "pocchin",
+     [
+      "Pocchin, cheating as a courtesy",
+      "pocchin, hace trampa por cortesía",
+      "pocchin, hace trampa por cortesía"
+     ],
+     0.5,
+     0.5,
+     [
+      "cheats as a matter of courtesy, and says so",
+      "hace trampa por cortesía, y lo dice"
+     ]
+    ]
+   ],
+   "tells": {
+    "lie": [
+     [
+      "touches the rim of a cup that is not there",
+      "toca el borde de una taza que no está"
+     ],
+     [
+      "lands the tiles a little too gently",
+      "baja las fichas con demasiada delicadeza"
+     ],
+     [
+      "names the cargo before the port is read",
+      "nombra la carga antes de que se lea el puerto"
+     ],
+     [
+      "looks at your hands, not the tiles",
+      "te mira las manos, no las fichas"
+     ],
+     [
+      "laughs half a breath early",
+      "se ríe medio suspiro antes de tiempo"
+     ]
+    ],
+    "true": [
+     [
+      "lands the tiles and forgets them",
+      "desembarca las fichas y se olvida de ellas"
+     ],
+     [
+      "is already counting the marks",
+      "ya está contando las marcas"
+     ],
+     [
+      "yawns",
+      "bosteza"
+     ],
+     [
+      "drums the table, bored",
+      "tamborilea en la mesa, aburrido"
+     ],
+     [
+      "pushes the tiles at you, daring you",
+      "te empuja las fichas, desafiándote"
+     ]
+    ]
+   },
+   "pocchin": [
+    [
+     "draws a sixth tile, as a courtesy, and tells the whole table.",
+     "roba una sexta ficha, por cortesía, y se lo dice a toda la mesa."
+    ],
+    [
+     "swaps a tile with the bag, as a courtesy, and apologizes beautifully.",
+     "cambia una ficha con la bolsa, por cortesía, y se disculpa con mucha elegancia."
+    ]
+   ]
+  },
+  "games": [
+   {
+    "id": "gatehold",
+    "name": [
+     "Gatehold",
+     "Fortín de la Puerta"
+    ],
+    "link": "games-and-pastimes",
+    "where": [
+     "the Frontier",
+     "la Frontera"
+    ],
+    "what": [
+     "A board game where one player holds a gate with few pieces against many. Faust officers train on it, and children play it on chalked doorsteps.",
+     "Un juego de tablero en el que un jugador defiende una puerta con pocas piezas contra muchas. Los oficiales de los Faust entrenan con él, y los niños lo juegan en escalones pintados con tiza."
+    ],
+    "mode": "contest",
+    "check": [
+     "Intelligence, with a Gatehold set",
+     "Inteligencia, con un juego de Fortín de la Puerta"
+    ],
+    "beats": [
+     [
+      "The gate holds a round longer than it should.",
+      "La puerta aguanta una ronda más de lo que debería."
+     ],
+     [
+      "A feint on the left, and the real push comes through the middle.",
+      "Un amago por la izquierda, y el empuje de verdad llega por el centro."
+     ],
+     [
+      "Three pieces lost to take one tower.",
+      "Tres piezas perdidas para tomar una torre."
+     ],
+     [
+      "The defender gives up the yard to keep the keep.",
+      "El defensor cede el patio para conservar la torre del homenaje."
+     ]
+    ]
+   },
+   {
+    "id": "council",
+    "name": [
+     "Council",
+     "Consejo"
+    ],
+    "link": "games-and-pastimes",
+    "where": [
+     "the Heartland",
+     "el Corazón"
+    ],
+    "what": [
+     "A card game of five seats and shifting alliances, banned twice by the real Council for being “uncomfortably accurate.”",
+     "Un juego de cartas de cinco asientos y alianzas cambiantes, prohibido dos veces por el Consejo de verdad por ser “incómodamente preciso”."
+    ],
+    "mode": "contest",
+    "check": [
+     "Charisma (Deception) or Wisdom (Insight)",
+     "Carisma (Engaño) o Sabiduría (Perspicacia)"
+    ],
+    "beats": [
+     [
+      "An alliance is sworn, and broken before the next hand.",
+      "Se jura una alianza, y se rompe antes de la siguiente mano."
+     ],
+     [
+      "The Admiralty's seat votes with the Hunters, and nobody saw it coming.",
+      "El asiento del Almirantazgo vota con los Cazadores, y nadie lo vio venir."
+     ],
+     [
+      "A bribe card changes hands under the table.",
+      "Una carta de soborno cambia de manos por debajo de la mesa."
+     ],
+     [
+      "Somebody laughs: it is exactly what happened last session.",
+      "Alguien se ríe: es exactamente lo que pasó en la última sesión."
+     ]
+    ]
+   },
+   {
+    "id": "sowing",
+    "name": [
+     "The sowing board",
+     "El tablero de siembra"
+    ],
+    "link": "southern-wilds",
+    "where": [
+     "the south",
+     "el sur"
+    ],
+    "what": [
+     "Seeds sown round a carved board of pits. Every village square has one, and the old men are unbeatable.",
+     "Semillas sembradas alrededor de un tablero tallado con hoyos. Cada plaza de pueblo tiene uno, y los viejos son imbatibles."
+    ],
+    "mode": "contest",
+    "check": [
+     "Intelligence",
+     "Inteligencia"
+    ],
+    "beats": [
+     [
+      "A long sowing lands the last seed in an empty pit, and takes the row.",
+      "Una siembra larga deja la última semilla en un hoyo vacío, y se lleva la fila."
+     ],
+     [
+      "The old man does not look at the board. He looks at you.",
+      "El viejo no mira el tablero. Te mira a ti."
+     ],
+     [
+      "Four pits empty in a single sowing.",
+      "Cuatro hoyos se vacían en una sola siembra."
+     ],
+     [
+      "A child watching whispers the right move, too late.",
+      "Un niño que mira susurra la jugada buena, demasiado tarde."
+     ]
+    ]
+   },
+   {
+    "id": "bone-dice",
+    "name": [
+     "Bone-dice",
+     "Dados de hueso"
+    ],
+    "link": "icy-expanse",
+    "where": [
+     "the ice",
+     "el hielo"
+    ],
+    "what": [
+     "The ice's dice, carved from whalebone, thrown on a sealskin by the lamp.",
+     "Los dados del hielo, tallados en hueso de ballena, que se tiran sobre una piel de foca junto a la lámpara."
+    ],
+    "mode": "chance",
+    "check": [
+     "no check: three dice each, the highest wins",
+     "ninguna prueba: tres dados cada uno, gana el más alto"
+    ],
+    "beats": [
+     [
+      "The dice turn over once more on the sealskin, and stop.",
+      "Los dados dan una vuelta más sobre la piel de foca, y se detienen."
+     ],
+     [
+      "Somebody blows on the bones for luck. It does not help.",
+      "Alguien sopla los huesos para tener suerte. No sirve."
+     ],
+     [
+      "A die rolls off into the dark and has to be found.",
+      "Un dado rueda hacia la oscuridad y hay que buscarlo."
+     ],
+     [
+      "The lamp gutters, and every hand covers its dice.",
+      "La lámpara titubea, y cada mano tapa sus dados."
+     ]
+    ]
+   },
+   {
+    "id": "long-tell",
+    "name": [
+     "The Long Tell",
+     "El Cuento Largo"
+    ],
+    "link": "icy-expanse",
+    "where": [
+     "the ice, in the Long Night",
+     "el hielo, en la Larga Noche"
+    ],
+    "what": [
+     "A winter contest to tell one story the longest without repeating a single tale. It keeps a hall sane through the Long Night.",
+     "Un concurso de invierno: contar una sola historia el mayor tiempo posible sin repetir ningún relato. Mantiene cuerdo un salón durante la Larga Noche."
+    ],
+    "mode": "endurance",
+    "check": [
+     "Charisma (Performance) or Intelligence (History)",
+     "Carisma (Interpretación) o Inteligencia (Historia)"
+    ],
+    "beats": [
+     [
+      "The story goes down a whale-road and comes back with a new captain.",
+      "La historia baja por un camino de ballenas y vuelve con un capitán nuevo."
+     ],
+     [
+      "The hall laughs at the right place, and the lamp is trimmed.",
+      "El salón se ríe en el lugar justo, y se despabila la lámpara."
+     ],
+     [
+      "An old woman says “I've heard that one,” and is shushed.",
+      "Una anciana dice “esa ya la oí”, y la hacen callar."
+     ],
+     [
+      "The tale borrows a ghost from the Grey Fathoms, and gives it back.",
+      "El relato le pide prestado un fantasma a las Brazas Grises, y se lo devuelve."
+     ]
+    ]
+   },
+   {
+    "id": "the-haul",
+    "name": [
+     "The Haul",
+     "El Arrastre"
+    ],
+    "link": "northern-frontier",
+    "where": [
+     "the Frontier's docks",
+     "los muelles de la Frontera"
+    ],
+    "what": [
+     "Crew against crew, rope-hauling on the docks, pulled to a shanty's beat. It settles disputes between crews.",
+     "Tripulación contra tripulación, tirando de una cuerda en los muelles al compás de una saloma. Arregla las disputas entre tripulaciones."
+    ],
+    "mode": "team",
+    "check": [
+     "Strength (Athletics), the crew together",
+     "Fuerza (Atletismo), toda la tripulación"
+    ],
+    "beats": [
+     [
+      "The shanty drops a beat, and the rope goes three feet the wrong way.",
+      "La saloma pierde un compás, y la cuerda se va un metro para el otro lado."
+     ],
+     [
+      "Somebody's boots find a wet plank.",
+      "Las botas de alguien encuentran una tabla mojada."
+     ],
+     [
+      "The anchor of the line sits down and will not move.",
+      "El último de la cuerda se sienta y no hay quien lo mueva."
+     ],
+     [
+      "The whole quay sings the last verse.",
+      "Todo el muelle canta la última estrofa."
+     ]
+    ]
+   },
+   {
+    "id": "tidecall",
+    "name": [
+     "Tidecall",
+     "Llamada de la Marea"
+    ],
+    "link": "games-and-pastimes",
+    "where": [
+     "every beach",
+     "todas las playas"
+    ],
+    "what": [
+     "Seven against seven at low water, a floating cork ball called the buoy, two posts called the marks, and no clock: it ends when the tide reaches the callstone.",
+     "Siete contra siete con la marea baja, una pelota de corcho que flota llamada la boya, dos postes llamados las marcas, y ningún reloj: termina cuando la marea llega a la piedra de la llamada."
+    ],
+    "mode": "team",
+    "check": [
+     "Dexterity (Athletics or Acrobatics), the side together",
+     "Destreza (Atletismo o Acrobacias), todo el equipo"
+    ],
+    "beats": [
+     [
+      "The buoy skims off a wave and through the marks.",
+      "La boya rebota en una ola y pasa entre las marcas."
+     ],
+     [
+      "Knee-deep now: last water.",
+      "Ya hasta las rodillas: última agua."
+     ],
+     [
+      "A sailor goes under and comes up with the buoy.",
+      "Un marinero se hunde y sale con la boya."
+     ],
+     [
+      "The tide calls it.",
+      "La marea decide."
+     ]
+    ]
+   },
+   {
+    "id": "long-throw",
+    "name": [
+     "The Long Throw",
+     "El Lanzamiento Largo"
+    ],
+    "link": "icy-expanse",
+    "where": [
+     "the ice",
+     "el hielo"
+    ],
+    "what": [
+     "Harpoon-throwing for distance and aim at a floating mark.",
+     "Lanzamiento de arpón, de distancia y puntería, a una marca que flota."
+    ],
+    "mode": "contest",
+    "check": [
+     "Dexterity or Strength, a harpoon (an attack roll)",
+     "Destreza o Fuerza, un arpón (una tirada de ataque)"
+    ],
+    "beats": [
+     [
+      "The harpoon hums out over the water and stands in the mark.",
+      "El arpón zumba sobre el agua y se clava en la marca."
+     ],
+     [
+      "The wind takes it a hand's breadth wide.",
+      "El viento lo desvía un palmo."
+     ],
+     [
+      "The whalers stamp on the ice for a good throw.",
+      "Los balleneros zapatean en el hielo por un buen lanzamiento."
+     ],
+     [
+      "The mark is hit so hard it sinks.",
+      "Le pegan a la marca tan fuerte que se hunde."
+     ]
+    ]
+   },
+   {
+    "id": "the-hold",
+    "name": [
+     "The Hold",
+     "El Agarre"
+    ],
+    "link": "icy-expanse",
+    "where": [
+     "the ice",
+     "el hielo"
+    ],
+    "what": [
+     "Wrestling on ice: the first to touch down loses.",
+     "Lucha sobre el hielo: el primero que toca el suelo pierde."
+    ],
+    "mode": "contest",
+    "check": [
+     "Strength (Athletics)",
+     "Fuerza (Atletismo)"
+    ],
+    "beats": [
+     [
+      "Both slide a yard, locked, and neither falls.",
+      "Los dos resbalan un metro, trabados, y ninguno cae."
+     ],
+     [
+      "A knee almost touches. Almost.",
+      "Una rodilla casi toca. Casi."
+     ],
+     [
+      "The crowd counts the breaths.",
+      "La gente cuenta las respiraciones."
+     ],
+     [
+      "One foot finds the rough ice, and that is the end of it.",
+      "Un pie encuentra el hielo áspero, y ahí se acaba."
+     ]
+    ]
+   },
+   {
+    "id": "ringstone",
+    "name": [
+     "Ringstone (ukkora)",
+     "Anillo de piedra (ukkora)"
+    ],
+    "link": "southern-wilds",
+    "where": [
+     "the south",
+     "el sur"
+    ],
+    "what": [
+     "A heavy sap-rubber ball struck only with hip, thigh, and forearm through a stone ring set high on a court wall, played at festivals and to settle quarrels between villages under a chant-keeper's eye.",
+     "Una pesada pelota de caucho que solo se golpea con la cadera, el muslo y el antebrazo, a través de un anillo de piedra puesto en lo alto de la pared de una cancha; se juega en las fiestas y para arreglar pleitos entre pueblos, bajo la mirada de un guardián de los cantos."
+    ],
+    "mode": "team",
+    "check": [
+     "Dexterity (Acrobatics), the side together",
+     "Destreza (Acrobacias), todo el equipo"
+    ],
+    "beats": [
+     [
+      "The ball kisses the ring and falls back.",
+      "La pelota besa el anillo y cae de vuelta."
+     ],
+     [
+      "A hip-strike from the floor, and the whole court gasps.",
+      "Un golpe de cadera desde el suelo, y toda la cancha contiene el aliento."
+     ],
+     [
+      "The chant-keeper raises a hand: a forearm too many.",
+      "El guardián de los cantos levanta la mano: un antebrazo de más."
+     ],
+     [
+      "Through the ring.",
+      "A través del anillo."
+     ]
+    ]
+   },
+   {
+    "id": "the-pick",
+    "name": [
+     "The Pick",
+     "La Rebusca"
+    ],
+    "link": "goblinoids",
+    "where": [
+     "the warrens",
+     "las madrigueras"
+    ],
+    "what": [
+     "A goblin contest to find the most valuable thing in a junk-heap in the time it takes a candle-notch to burn.",
+     "Un concurso goblin: encontrar lo más valioso de un montón de chatarra en lo que tarda en quemarse una marca de la vela."
+    ],
+    "mode": "contest",
+    "check": [
+     "Intelligence (Investigation)",
+     "Inteligencia (Investigación)"
+    ],
+    "beats": [
+     [
+      "A spoon, a buckle, a key to nothing.",
+      "Una cuchara, una hebilla, una llave de nada."
+     ],
+     [
+      "Something under the heap is ticking.",
+      "Algo debajo del montón hace tic tac."
+     ],
+     [
+      "A real Tide, green with age.",
+      "Una Marea de verdad, verde de vieja."
+     ],
+     [
+      "The candle reaches the notch.",
+      "La vela llega a la marca."
+     ]
+    ]
+   },
+   {
+    "id": "stillness",
+    "name": [
+     "A stillness-contest",
+     "Un concurso de quietud"
+    ],
+    "link": "lizardfolk",
+    "where": [
+     "the lizardfolk's fish-pools",
+     "los estanques de peces de los hombres lagarto"
+    ],
+    "what": [
+     "Who can stand motionless longest beside the fish-pool.",
+     "Quién se queda inmóvil más tiempo junto al estanque."
+    ],
+    "mode": "endurance",
+    "check": [
+     "Constitution",
+     "Constitución"
+    ],
+    "beats": [
+     [
+      "A fly lands on an eyelid.",
+      "Una mosca se posa en un párpado."
+     ],
+     [
+      "The sun moves a finger's width.",
+      "El sol se mueve un dedo."
+     ],
+     [
+      "A fish rises. Nobody looks.",
+      "Sube un pez. Nadie mira."
+     ],
+     [
+      "Somebody's tail twitches, and everyone pretends not to see it.",
+      "A alguien se le mueve la cola, y todos fingen no verlo."
+     ]
+    ]
+   },
+   {
+    "id": "bellowing",
+    "name": [
+     "Title-bellowing",
+     "Bramar títulos"
+    ],
+    "link": "pocchin",
+    "where": [
+     "wherever Pocchin caravans meet",
+     "donde se juntan las caravanas pocchin"
+    ],
+    "what": [
+     "A Pocchin contest of roaring out one's titles, longest and loudest.",
+     "Un concurso pocchin: rugir los propios títulos, lo más largo y lo más fuerte posible."
+    ],
+    "mode": "contest",
+    "check": [
+     "Charisma (Performance or Intimidation)",
+     "Carisma (Interpretación o Intimidación)"
+    ],
+    "beats": [
+     [
+      "A title is invented on the spot, and the crowd allows it.",
+      "Se inventa un título en el momento, y la gente lo acepta."
+     ],
+     [
+      "The grommoths bellow back.",
+      "Los grommoths braman en respuesta."
+     ],
+     [
+      "Somebody runs out of breath on “and Keeper of the Third Sand-Tub.”",
+      "A alguien se le acaba el aire en “y Guardián de la Tercera Tina de Arena”."
+     ],
+     [
+      "The caravan-mother nods once.",
+      "La madre de la caravana asiente una vez."
+     ]
+    ]
+   },
+   {
+    "id": "kite-duel",
+    "name": [
+     "A kite-duel",
+     "Un duelo de cometas"
+    ],
+    "link": "goldwind-kites",
+    "where": [
+     "Goldwind's Kitehill",
+     "la Colina de las Cometas de Ventoro"
+    ],
+    "what": [
+     "Fighting kites on lines glassed to cut. Two kites cross lines, and the first line cut loses.",
+     "Cometas de pelea con hilos cubiertos de vidrio para cortar. Dos cometas cruzan los hilos, y pierde el primer hilo cortado."
+    ],
+    "mode": "contest",
+    "check": [
+     "Dexterity (Sleight of Hand), with the line",
+     "Destreza (Juego de Manos), con el hilo"
+    ],
+    "beats": [
+     [
+      "The lines cross and saw, and the harbor wall roars.",
+      "Los hilos se cruzan y se sierran, y el muro del puerto ruge."
+     ],
+     [
+      "A dive under the other kite, and up.",
+      "Una picada por debajo de la otra cometa, y arriba."
+     ],
+     [
+      "The wind drops for a breath. Both kites fall a yard.",
+      "El viento cae por un instante. Las dos cometas bajan un metro."
+     ],
+     [
+      "A cut kite, and every runner on the hill is already running.",
+      "Una cometa cortada, y todos los corredores de la colina ya van corriendo."
+     ]
+    ]
+   }
+  ],
+  "opponents": [
+   [
+    "green",
+    [
+     "A green hand",
+     "Un novato"
+    ],
+    1
+   ],
+   [
+    "fair",
+    [
+     "A fair player",
+     "Un jugador decente"
+    ],
+    3
+   ],
+   [
+    "sharp",
+    [
+     "A sharp",
+     "Un tahúr"
+    ],
+    5
+   ],
+   [
+    "master",
+    [
+     "A master",
+     "Un maestro"
+    ],
+    7
+   ],
+   [
+    "old",
+    [
+     "An old man of the village square (the sowing board)",
+     "Un viejo de la plaza del pueblo (el tablero de siembra)"
+    ],
+    9
+   ]
+  ],
+  "races": [
+   {
+    "id": "swiftcrest",
+    "name": [
+     "Swiftcrest racing at the Sunspine Run",
+     "Carreras de crestaveloz en la Carrera del Espinazo del Sol"
+    ],
+    "link": "swiftcrest",
+    "where": [
+     "Jakupur",
+     "Jakupur"
+    ],
+    "what": [
+     "Champion bloodlines, daredevil jockeys, and fortunes in wagers. The reigning champion, the silver-crested Sissix-the-Comet, has not lost a heat in two seasons.",
+     "Linajes campeones, jinetes temerarios y fortunas en apuestas. El campeón reinante, Sissix-el-Cometa, de cresta plateada, no ha perdido una manga en dos temporadas."
+    ],
+    "field": [
+     5,
+     8
+    ]
+   },
+   {
+    "id": "long-pull",
+    "name": [
+     "A gig race: the Long Pull",
+     "Una regata de botes: el Tirón Largo"
+    ],
+    "link": "games-and-pastimes",
+    "where": [
+     "every harbor; the crown at Goldwind's Festival of Winds",
+     "todos los puertos; la corona en la Fiesta de los Vientos de Ventoro"
+    ],
+    "what": [
+     "Six- and eight-oared boats rowed flat-out across a harbor course. Crew loyalty is lifelong and the crew songs get ruder each year.",
+     "Botes de seis y ocho remos a toda fuerza por un recorrido de puerto. La lealtad a la tripulación dura toda la vida y las canciones de cada tripulación son más groseras cada año."
+    ],
+    "field": [
+     4,
+     6
+    ]
+   },
+   {
+    "id": "peg-leg",
+    "name": [
+     "The Peg Leg Race",
+     "La Carrera de la Pata de Palo"
+    ],
+    "link": "games-and-pastimes",
+    "where": [
+     "at sea, once a day on a long voyage",
+     "en altamar, una vez al día en un viaje largo"
+    ],
+    "what": [
+     "Every hand who wants to runs a lap of the deck with one leg tied up, and the cook keeps the book.",
+     "Cada marinero que quiere da una vuelta a la cubierta con una pierna atada, y el cocinero lleva las apuestas."
+    ],
+    "field": [
+     4,
+     8
+    ]
+   },
+   {
+    "id": "kites",
+    "name": [
+     "A fight on Kitehill",
+     "Una pelea en la Colina de las Cometas"
+    ],
+    "link": "kitehill",
+    "where": [
+     "Goldwind",
+     "Ventoro"
+    ],
+    "what": [
+     "Every fight has odds, and the kite-gamblers chalk them on the Chalk Wall, and wipe them off when the watch comes up the hill.",
+     "Cada pelea tiene probabilidades, y los apostadores de cometas las anotan con tiza en el Muro de Tiza, y las borran cuando la guardia sube la colina."
+    ],
+    "field": [
+     2,
+     2
+    ]
+   }
+  ],
+  "swiftcrests": [
+   [
+    "Redclaw",
+    "Garra Roja"
+   ],
+   [
+    "Dusk Runner",
+    "Corredor del Ocaso"
+   ],
+   [
+    "Jadeheel",
+    "Talón de Jade"
+   ],
+   [
+    "Old Thunder",
+    "Viejo Trueno"
+   ],
+   [
+    "Sunspike",
+    "Púa de Sol"
+   ],
+   [
+    "Little Fever",
+    "Fiebrecita"
+   ],
+   [
+    "Brass Tooth",
+    "Diente de Latón"
+   ],
+   [
+    "Sweetwater",
+    "Agua Dulce"
+   ],
+   [
+    "Mudlark",
+    "Pillo del Lodo"
+   ],
+   [
+    "the Widow's Second",
+    "el Segundo de la Viuda"
+   ],
+   [
+    "Greenfire",
+    "Fuego Verde"
+   ],
+   [
+    "Hollow Drum",
+    "Tambor Hueco"
+   ],
+   [
+    "Quickmoon",
+    "Luna Rápida"
+   ],
+   [
+    "Ten Debts",
+    "Diez Deudas"
+   ],
+   [
+    "Rainbelly",
+    "Panza de Lluvia"
+   ],
+   [
+    "Spitfire",
+    "Escupefuego"
+   ]
+  ],
+  "champion": [
+   "Sissix-the-Comet",
+   "Sissix-el-Cometa"
+  ],
+  "crews": {
+   "first": [
+    [
+     "Greyhaven",
+     "Puerto Gris"
+    ],
+    [
+     "Stormreach",
+     "Confín de Tormentas"
+    ],
+    [
+     "Goldwind",
+     "Ventoro"
+    ],
+    [
+     "Sunhold",
+     "Bastión del Sol"
+    ],
+    [
+     "Silverport",
+     "Puerto Plata"
+    ],
+    [
+     "Southhaven",
+     "Puerto Sur"
+    ],
+    [
+     "Saltreach",
+     "Confín de Sal"
+    ],
+    [
+     "Bastion",
+     "Bastión"
+    ]
+   ],
+   "second": [
+    [
+     "Herons",
+     "Garzas",
+     "f"
+    ],
+    [
+     "Eight",
+     "Ocho",
+     "m"
+    ],
+    [
+     "Saltknots",
+     "Nudos de Sal",
+     "m"
+    ],
+    [
+     "Gulls",
+     "Gaviotas",
+     "f"
+    ],
+    [
+     "Oarbreakers",
+     "Quiebraremos",
+     "m"
+    ],
+    [
+     "Widows",
+     "Viudas",
+     "f"
+    ],
+    [
+     "Lanterns",
+     "Faroles",
+     "m"
+    ],
+    [
+     "Bells",
+     "Campanas",
+     "f"
+    ]
+   ]
+  },
+  "lofts": [
+   [
+    "the Red Spool",
+    "el Carrete Rojo"
+   ],
+   [
+    "the Blue Gull",
+    "la Gaviota Azul"
+   ],
+   [
+    "the Ninth Ring",
+    "el Noveno Anillo"
+   ],
+   [
+    "the Glass Hand",
+    "la Mano de Vidrio"
+   ],
+   [
+    "the Tangle Loft",
+    "el Desván de la Maraña"
+   ],
+   [
+    "the Long Stair",
+    "la Escalera Larga"
+   ]
+  ],
+  "unbeaten": [
+   "Sable Wren, the Unbeaten, of the Red Spool",
+   "Sable Wren, la Invicta, del Carrete Rojo"
+  ],
+  "house": 0.85,
+  "fixed": 10,
+  "fix": [
+   "Buy the fix from the Crest Syndicate: a fifth of the winnings, and a favor owed to the Odds-Mother",
+   "Comprar el arreglo al Sindicato de la Cresta: una quinta parte de la ganancia, y un favor que se le debe a la Madre de las Apuestas"
+  ]
  },
  "credit": "Traits for dragonborn, dwarves, elves, gnomes, goliaths, halflings, humans, orcs, and tieflings follow the System Reference Document 5.2 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License. The other peoples are original to Kalvatar."
 }

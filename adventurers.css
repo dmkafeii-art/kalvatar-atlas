@@ -274,3 +274,22 @@ html.sb-open{overflow:hidden}
 .adv-trip dt{font:11px/1.9 var(--mono);letter-spacing:.4px;color:var(--muted);text-transform:uppercase}
 .adventurers .adv-trip dd{margin:0;font:16px/1.55 var(--serif)}
 @media(max-width:720px){.adv-trip{grid-template-columns:1fr;gap:2px}}
+
+/* Tavern games and Law and fines (23 November) */
+.adv-subtabs{margin:0 0 18px}
+.adv-rules{margin:14px 0 4px;font:14px/1.7 var(--serif);color:var(--muted)}
+.adv-rules summary{cursor:pointer;font:12px/1.4 var(--mono);letter-spacing:.4px;color:var(--ink)}
+.np-ring{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 14px}
+.np-port{font:11px/1.4 var(--mono);padding:4px 8px;border:1px solid var(--line);border-radius:999px;color:var(--muted)}
+.np-port.now{background:var(--ink);color:var(--white);border-color:var(--ink)}
+.np-port.past{opacity:.55;text-decoration:line-through}
+.np-board{list-style:none;padding:0;margin:0 0 14px;display:grid;gap:4px}
+.np-hold{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 12px}
+.np-tile{min-width:88px;padding:14px 10px;border:2px solid var(--line);border-radius:6px;background:var(--white);font:13px/1.2 var(--serif);color:var(--ink);box-shadow:inset 0 -6px 0 var(--tile);cursor:pointer}
+.np-tile.on{border-color:var(--ink);transform:translateY(-3px)}
+.np-tile:disabled{cursor:default;opacity:.85}
+.np-log{margin:12px 0 0;padding-left:20px;font:14px/1.6 var(--serif);color:var(--muted)}
+.np-log li:first-child{color:var(--ink)}
+.np-result{font:16px/1.6 var(--serif)}
+.np-board li{font:14px/1.5 var(--serif);color:var(--muted)}
+.np-board strong{font:600 16px/1.4 var(--serif);color:var(--ink)}
