@@ -449,10 +449,10 @@
  "ironfort": {
   "gloss": "Ironfort",
   "subtitle": "Donde empezó la Carta",
-  "summary": "Lugar del Desembarco, primera sede del Consejo y hogar de la casa fundadora de los Cazadores.",
+  "summary": "Lugar del Desembarco, primera sede del Consejo y casa fundadora de los Cazadores.",
   "epigraph": {
-   "quote": "Todo lo que baja al sur paga la Puerta. Todo lo que sube al norte la paga dos veces.",
-   "by": "Un escribano del diezmo de la Casa Ostrel"
+   "quote": "Todo lo que va al sur le paga a la Puerta. Todo lo que va al norte le paga dos veces.",
+   "by": "Un escribiente del diezmo de la Casa Ostrel"
   },
   "facts": [
    [
@@ -460,7 +460,7 @@
     "[[Frontera del Norte|Northern Frontier]]"
    ],
    [
-    "Se distingue por",
+    "Conocida por",
     "La Carta y el [[Crisol|Crucible]]"
    ],
    [
@@ -468,7 +468,52 @@
     "1 EC"
    ]
   ],
-  "title": "Fuerte de Hierro"
+  "title": "Fuerte de Hierro",
+  "sections": [
+   {
+    "title": "El principio de la cuenta",
+    "paragraphs": [
+     "En el 1 EC, las casas refugiadas firmaron la Carta en [[Fuerte de Hierro|Ironfort]]. La ciudad se volvió la primera sede del [[Consejo|Council]], y su lugar en la historia del archipiélago todavía se siente en la puerta del norte."
+    ]
+   },
+   {
+    "title": "El Crisol",
+    "paragraphs": [
+     "La casa fundadora de los [[Cazadores|Hunters]], el Crisol, está en Fuerte de Hierro. Su ceca acuña las monedas de aval de hierro que usan los candidatos que buscan un lugar en las [[Pruebas de Ascensión|Trials of Ascension]] anuales. Las mercancías que pasan por la [[Frontera|Frontier]] se topan también con el [[Diezmo de la Puerta|Gate-Tithe]]: una [[Marea|Tide]] por cada [[Ancla|Anchor]]."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Los barcos bajan por la [[Ruta de la Corona|Crown Route]] saliendo de la niebla y encuentran una gran cadena de hierro cruzada en la boca del puerto, que sube y baja la guarnición de la [[Puerta|Gate]], y detrás un puerto de piedra de calles empinadas y pescado secándose en las rejillas. Todo lo que navega entre las islas y Assios para aquí primero, y paga."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Ostrel cobra el Diezmo de la Puerta para el Consejo: una décima parte de todo lo que pasa hacia Assios o desde Assios, que recoge la [[Señora del Diezmo|Tithe-Mistress]] con el cuidado de un escribiente y una guarnición detrás. Los Ostrel también manejan las mesas de balanzas, donde un korvan imperial se cambia por diez Mareas en vez de las once que pesa, y se quedan con la diferencia."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Fuerte de Hierro fue la primera sede del Consejo, y la Carta se firmó aquí en el 1 EC. Todavía es la casa fundadora de los Cazadores: el Crisol acuña los 300 hierros del año con un troquel nuevo, y cada primavera la fila de candidatos esperanzados se estira por el [[Paseo del Cazador|Hunter's Walk]]. El resto del año la ciudad sala pescado, hace cerveza negra y vigila el norte."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Fuerte de Hierro es la capital de la Frontera en todo menos en el nombre, y fue la primera sede del Consejo de las [[Islas Cartografiadas|Charted Isles]] antes de que el Consejo se mudara a [[Ventoro|Goldwind]]. La Señora del Diezmo de la fianza Ostrel cobra el impuesto de la puerta con el cuidado de un escribiente y el peso de una guarnición detrás. Las calles de Fuerte de Hierro llevan la cerveza negra, el glasto y los códigos de campana de un puerto que nunca ha olvidado de dónde vino."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Diezmo de la Puerta nos está robando en las dos direcciones. Se queda con el oro en Fuerte de Hierro y le manda el papel a Ventoro.” (se oye en la Frontera del Norte)",
+     "“Los hurones de chispa de la aduana de Fuerte de Hierro no se acercan al equipaje de cierto noble. No echan chispas. Se esconden.” (un escribiente de aduanas de Fuerte de Hierro)"
+    ]
+   }
+  ]
  },
  "goldwind": {
   "gloss": "Goldwind",
@@ -633,9 +678,9 @@
  "highspire": {
   "gloss": "Highspire",
   "subtitle": "El cielo tiene sus propios archivos",
-  "summary": "Observatorios, la Casa Cunaestrella y los nidos de los Aethyn en los acantilados.",
+  "summary": "Observatorios, la Casa Cunaestrella y los nidos de los aethyn en los acantilados.",
   "epigraph": {
-   "quote": "Abajo, en el puerto, hay niebla. Aquí arriba ya es mañana.",
+   "quote": "Abajo en el puerto hay niebla. Aquí arriba, es mañana.",
    "by": "Un pulidor de lentes de los Cunaestrella"
   },
   "facts": [
@@ -648,18 +693,57 @@
     "[[Cunaestrella|Starborn]]"
    ],
    [
-    "Se distingue por",
-    "Observatorios y nidos aethyn"
+    "Conocida por",
+    "Los observatorios y los nidos de los aethyn"
    ]
   ],
-  "title": "Aguja Alta"
+  "title": "Aguja Alta",
+  "sections": [
+   {
+    "title": "Por encima del puerto",
+    "paragraphs": [
+     "Las alturas de [[Aguja Alta|Highspire]] les pertenecen a los astrónomos, a las listas de estrellas y a los aethyn alados. La Casa Cunaestrella comparte su atención paciente a los cielos."
+    ]
+   },
+   {
+    "title": "Los Acantilados que Cantan",
+    "paragraphs": [
+     "Unos riscos horadados por el viento cerca de Aguja Alta suenan en acordes cuando cambia el tiempo. Los capitanes de puerto escuchan su tono cambiante para saber cómo estará mañana, mientras los nidos se alzan por encima."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "A Aguja Alta se llega con una larga subida. El puerto está abajo, y la ciudad de torres se alza en su acantilado por encima de la línea de las nubes, de modo que muchas mañanas el pueblo está al sol mientras el puerto de abajo se pierde en la niebla. Los aethyn planean entre las torres y los [[Acantilados que Cantan|Singing Cliffs]]."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Cartas de estrellas y lentes. Los observatorios de los Cunaestrella son los mejores de las islas, y los navegantes pagan caro por sus cartas. Los capitanes de puerto leen el tiempo de mañana por el acorde que suenan los acantilados cuando gira el viento."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "El pueblo alado de los aethyn anida en los Acantilados que Cantan, por encima del pueblo, y los astrónomos aethyn comparten su guardia con los Cunaestrella en una sociedad incómoda que cada lado describe a su manera."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las canciones de los marineros cuentan nueve grandes dragones en el mundo. Una lectora de estrellas de Aguja Alta contó una vez diez, y la Universidad le quitó sus cartas.” (un pulidor de lentes de Aguja Alta)",
+     "“Los astrónomos de Aguja Alta tienen en sus cartas una estrella que cruza el cielo en la dirección equivocada.” (un paje de los Cunaestrella)"
+    ]
+   }
+  ]
  },
  "everfall": {
   "gloss": "Everfall",
   "subtitle": "Arena negra, fuego cubierto",
-  "summary": "Una isla volcánica de forjas y noches a la luz de las brasas, vigilada por la gente que guarda la vigilia del fuego.",
+  "summary": "Una isla volcánica de forjas y noches iluminadas por brasas, cuidada por la gente que mantiene la vigilia del fuego.",
   "epigraph": {
-   "quote": "Cuenta los tañidos. Si el Bosque de Vidrio suena más de lo que los Guardianes pueden contar, corre.",
+   "quote": "Cuenten las campanadas. Si el Bosque de Vidrio suena más veces de las que pueden contar los Guardianes, corran.",
    "by": "Una madre de Caída Eterna a sus hijos"
   },
   "facts": [
@@ -676,14 +760,60 @@
     "Volcán y arena negra"
    ]
   ],
-  "title": "Caída Eterna"
+  "title": "Caída Eterna",
+  "sections": [
+   {
+    "title": "El fuego de abajo",
+    "paragraphs": [
+     "[[Caída Eterna|Everfall]] se asocia con la Casa Corascua, con los cindren y con las minas de Darlath. Se dice que KakanKal, el [[Emperador de las Llamas|Emperor of Flames]], duerme en el magma bajo la isla."
+    ]
+   },
+   {
+    "title": "Vidrio y vigilancia",
+    "paragraphs": [
+     "El [[Bosque de Vidrio|Glass Forest]] es una ladera de árboles de obsidiana que dejó una erupción antigua. Los isleños lo llaman el primer aliento del Emperador y escuchan cuando suena durante los terremotos. Los cindren y los vorthani mantienen una vigilia del fuego sobre las profundidades dormidas."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Corascua tiene la isla. Los cindren trabajan sus forjas y sus campos de vidrio, y los [[Guardianes de Ceniza|Ash Wardens]] vigilan los cráteres por si hay alguna señal de que KakanKal, el Emperador de las Llamas, está despertando.",
+     "Dentro del flanco del volcán están los salones de Hondabrasa (Fulkhald), uno de los dos fortines enanos viejos que nunca cayeron ante los orka."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Krysta y fuego. Las minas de Darlath cortan una roca rica en Krysta que alimenta las refinerías del [[Corazón|Heartland]], y las casas mineras y los Guardianes de Ceniza nunca se han perdonado entre sí. Desde que los excavadores rompieron hacia los [[Caminos de Brasa|Ember Roads]] en el 172 EC, los tubos de lava bajo la isla llevan hacia [[Abajo|Below]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Caída Eterna es una isla volcánica del este del Corazón, sobre el [[Señor Salvaje|Savage Lord]] dormido KakanKal, el Emperador de las Llamas. Los Guardianes de Ceniza, una orden severa de cindren y otros, vigilan los cráteres por si el Emperador despierta, y se oponen a la minería de Rankar en la roca honda con una furia que las casas mineras no perdonan."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“De noche sube un zumbido hondo por el piso de las minas de Darlath, y los cindren que trabajan cerca se apagan.” (un vidriero de Caída Eterna)",
+     "“Una caja de piedra de Darlath de cada doce sale de Caída Eterna marcada como 'rota' y nunca se ve en la refinería.” (un carretero de Caída Eterna)",
+     "“Los cindren de Caída Eterna dicen que el Bosque de Vidrio sonó trece veces el último Tumbadía, y siempre había sonado de doce en doce.” (un Guardián de Ceniza)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIHZlcmRhZGVybyBEaW8gW1tDb3Jhc2N1YXxFbWJlcmhlYXJ0XV0qKiBlc3TDoSBndWFyZGFkbyBlbiB1bmEgY8OhbWFyYSBkZSBlc3Rhc2lzIGVzY29uZGlkYSB5IHNvc3RlbmlkYSBwb3IgS3J5c3RhLCBlbiBsbyBob25kbyBkZSBbW0Nhw61kYSBFdGVybmF8RXZlcmZhbGxdXSwgZW4gY29tYSwgYXBhZ8OhbmRvc2UsIGFwZW5hcyBhdGFkbyBhIGxhIHZpZGEgcG9yIGxhIHRhdW1hdHVyZ2lhIGRlIFJhbmthci4gRWwgXCJEaW9cIiBkZSBsYSBzb2NpZWRhZCBlcyBsYSAqKnRlcmNlcmEgKHF1aXrDoSBjdWFydGEpIGNvcGlhKiogc2FjYWRhIGRlbCBbW0NvcmF6w7NuIGRlIEthdGh8SGVhcnQgb2YgS2F0aF1dOyBjYWRhIGNvcGlhIGVzIHVuIHBvY28gbcOhcyBpbmVzdGFibGUgcXVlIGxhIGFudGVyaW9yIChsYSByZXBlbnRpbmEgXCJlbmZlcm1lZGFkXCIgcMO6YmxpY2EgZGUgRGlvIHkgc3UgXCJyZWN1cGVyYWNpw7NuXCIgZGUgdW4gZMOtYSBwYXJhIG90cm8gbWFyY2FuIHVuYSBjb3BpYSBxdWUgc2UgZGVncmFkYSB5IHF1ZSBzZSBjYW1iaWEgc2luIHJ1aWRvKS4gTGEgY29waWEgYWN0dWFsLCBzaW5jZXJhbWVudGUsICoqbm8gc2FiZSBsbyBxdWUgZXMqKiwgdW4gaG9tYnJlIGhvbmVzdG8geSBkZWNlbnRlLCBcImxhIGNsYXNlIG3DoXMgcGVsaWdyb3NhOiB1biB0b250byBob25lc3RvXCIsIGxvIHF1ZSBsbyB2dWVsdmUgdW5hIGNhcnRhIHRyw6FnaWNhIGUgaW1wcmVkZWNpYmxlLiBFbCBkw61hIHF1ZSBtdWVyYSBlbCB2ZXJkYWRlcm8gRGlvLCBuYWRpZSBzYWJlIHNpIGxhcyBjb3BpYXMgc2ltcGxlbWVudGUgc2UgZGV0ZW5kcsOhbi4uLiBvIHNlIHZvbHZlcsOhbiBvdHJhIGNvc2EuIiwgIioqTGFzIGNvcGlhcyBkZWwgQ29yYXrDs24gc29uIGxhIG1lbW9yaWEgZGVsIG1hci4qKiBDYWRhIGNvcGlhIGRlbCBzdWpldG8gZGVsIENvcmF6w7NuIGVuIGxhcyBjdWJhcyBkZSBDYcOtZGEgRXRlcm5hIGVzIHVuIHphcmNpbGxvIGRlIEthdGggZW1wdWphZG8gaGFjaWEgZWwgbXVuZG8gc2Vjby4gTG9zIFtbVmllam9zIENhcGFyYXpvbmVzfE9sZCBTaGVsbHNdXSBsbyBzYWJlbiwgeSBoYW4gcmVzcG9uZGlkbyBsYSBwcmVndW50YSBzb2JyZSBlbCBDb3JhesOzbiB0cmVzIHZlY2VzIGVuIGxhIMO6bHRpbWEgZ2VuZXJhY2nDs24sIGNvbiBsYSBtaXNtYSByZXNwdWVzdGE6ICpub3MgZXN0w6EgcmVjb3JkYW5kby4qIiwgIioqRWwgQ29yYXrDs24gZGUgS2F0aDoqKiBiYWpvIGxhcyBtaW5hcyBkZSBEYXJsYXRoIGRlIENhw61kYSBFdGVybmEsIHVuYXMgY3ViYXMgZGUgZmFsc2EgaW5tb3J0YWxpZGFkIGZ1bmNpb25hbiBjb24gdW4gw7NyZ2FubyB2aXZvIGNvcnRhZG8gcXVlIGNvcGlhIG1lbnRlcywgeSBzb24gcHJvcGllZGFkLCBhIHRyYXbDqXMgZGUgdGVzdGFmZXJyb3MsIGRlIGxhICoqW1tDb3Jwb3JhY2nDs24gUmFua2FyfFJhbmthciBDb3Jwb3JhdGlvbl1dKiogKGltcGVyaWFsKS4iXX0="
+   }
+  ]
  },
  "jakupur": {
   "subtitle": "La ciudad de la Llama Blanca",
-  "summary": "Una ciudad-estado sauriana cuyos jinetes y tradiciones sagradas pertenecen al sur nativo.",
+  "summary": "Una ciudad estado sauriana cuyos jinetes y tradiciones sagradas pertenecen al sur nativo.",
   "epigraph": {
-   "quote": "¿Un norteño sobre un dientespada? Bendito sea. Trae el balde.",
-   "by": "Un mozo de cuadra de los corrales Sukuun"
+   "quote": "¿Un norteño en un dientespada? Dios lo bendiga. Traigan el balde.",
+   "by": "Un mozo de cuadra de los establos Sukuun"
   },
   "facts": [
    [
@@ -691,23 +821,94 @@
     "[[Tierras Salvajes del Sur|Southern Wilds]]"
    ],
    [
-    "Se distingue por",
-    "La Llama Blanca"
+    "Conocida por",
+    "La [[Llama Blanca|White Flame]]"
    ],
    [
     "Familia mercante",
     "Sukuun"
    ]
   ],
-  "title": "Jakupur"
+  "title": "Jakupur",
+  "sections": [
+   {
+    "title": "Una ciudad con su propio lugar",
+    "paragraphs": [
+     "Jakupur es conocida por la Orden de la Llama Blanca. Pertenece a un mundo del sur de ciudades, Confederaciones y pueblos distintos, cuyas historias van más allá del asentamiento del [[Consejo|Council]] en las islas."
+    ]
+   },
+   {
+    "title": "Las monturas del sur",
+    "paragraphs": [
+     "Los saurios son parte de la vida y del transporte del sur. Sukuun de Jakupur, una de las [[Doce Banderas|Twelve Flags]], comercia con ellos. Un [[uro|auroc]] importado es aquí una novedad cara, con un prestigio muy distinto del de una montura sauriana nativa."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Jakupur se alza en terrazas de piedra desde una curva del mar interior, ruidosa de saurios: dientespadas en los patios de los establos, lomogredas subiendo piedra por las rampas, altisaurios que cargan plataformas enteras de pasajeros por encima de la multitud. Los barcos atracan en [[Puerto Mumit|Mumit Port]]."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Orden de la Llama Blanca gobierna como regente bajo el Mago Thislum Blackhogen. Jakupur es el único poder independiente de lo Salvaje que el Consejo no reclama, y usa la moneda del Consejo por elección, no por ley, y se reserva el derecho de dejar de hacerlo."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Saurios. Casi todos los saurios domesticados del archipiélago se criaron aquí, y una bestia vendida con la marca de Tana Sukuun cuesta el doble. La [[Carrera del Espinazo del Sol|Sunspine Run]] es la catedral de la velocidad de la ciudad, y las apuestas sobre ella nunca duermen."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "El dominio de la ciudad sobre las artes saurianas tiene generaciones de hondura, y Jakupur es la fuente de casi todos los saurios domesticados del archipiélago. Los establos Sukuun, que dirige la domadora más grande que existe, Tana Sukuun, venden sus bestias al doble del precio de cualquier otro linaje, y un saurio vendido con la marca Sukuun es una posición por la que se pelean las casas más ricas del [[Corazón|Heartland]].",
+     "Puerto Mumit y la gente de Jakupur.",
+     "Gobierna en nombre de un soberano que el pacto fundacional de la ciudad nombra y los magos no.",
+     "El puerto de la ciudad es ruidoso, abarrotado y nunca cierra, y barcos de todos los rincones de las islas descargan en sus muelles de piedra. Los marineros y los mercaderes cierran sus tratos en Kansha Marul y en Omaktu Kinga, las dos grandes casas de la costanera.",
+     "La posada que todo viajero encuentra primero, y la que la mayoría nunca cambia por otra. Su posadero, el Viejo Daun, es el hombre más amable del sur, y oye cada historia dos veces.",
+     "La guardia de la Llama Blanca, bajo el Capitán Armus Kalassos, con la Teniente Yelessa Sokhar y el Cabo Fenlit a su lado. Su podredumbre es el Capitán Dariok Mulsen, y toda la ciudad susurra para quién trabaja de verdad.",
+     "Su patrono es Meldius Daltrossos: rico, bien relacionado, cortejado por media ciudad, y nunca visto sin sus dos guardaespaldas, Jodrik y Zhak.",
+     "Mercenarios a las órdenes del carismático Zulkarun, contratados para toda clase de trabajo en la ciudad y conocidos por terminarlo.",
+     "El mercader Damyel Dor'Valiath de Karazun comercia mercancías raras desde su barco bajo y rápido, que llega a puerto antes de lo que permite cualquier viento. El cazador Therrek [[Martillopeña|Kraghammer]] lleva un año tratando de enrolarse en él.",
+     "Un elfo oscuro que tiene unos cuartos tranquilos sobre el puerto. Casi nadie en Jakupur había visto un drow antes que él, y la ciudad habla de él mucho más de lo que él habla de sí mismo."
+    ]
+   },
+   {
+    "title": "Joyas bajo techo",
+    "paragraphs": [
+     "Las casas ricas de Jakupur tienen aletajoyas en estanques privados bajo techo, un pez por estanque. Los coleccionistas que tienen varios les construyen estanques separados. Los animales son magníficos y extremadamente agresivos; las peleas clandestinas de aletajoyas mueven un lucrativo negocio de apuestas bajo cuerda."
+    ]
+   },
+   {
+    "title": "La hoja escondida",
+    "paragraphs": [
+     "La Llama Blanca tiene un segundo brazo, la [[Llama Sagrada|Sacred Flame]], cuyos cazadores encuentran las grietas y las cierran. La ciudad no dice dónde tiene su casa. Bajo Jakupur la orden cuida la [[Puerta de la Llama|Flame Gate]], una puerta sellada hacia lo hondo con un fuego encima que nunca se ha dejado apagar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Tana Sukuun le vendió una mandíbula terrible al Corazón. El comprador es un agente de los Vol Kaern, y el saurio lleva el nombre de la torre de los Vol Kaern.” (se oye en las Tierras Salvajes del Sur)",
+     "“El elfo oscuro de la Hoja Oxidada pagó sus cuartos con una moneda que nadie supo nombrar. El Viejo Daun la clavó sobre la barra.” (se oye en las Tierras Salvajes del Sur)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkR1bnNsaSwqKiBxdWUgdGllbmUgdW5vcyBjdWFydG9zIHRyYW5xdWlsb3Mgc29icmUgW1tQdWVydG8gTXVtaXR8TXVtaXQgUG9ydF1dLCBlcyB1biBleHBsb3JhZG9yIGRyb3cgZGUgW1tsb3MgcXVlIFN1YmVufHRoZSBVcHdhcmRdXS4gVml2ZSBhcXXDrSBwb3JxdWUgbGEgW1tQdWVydGEgZGUgbGEgTGxhbWF8RmxhbWUgR2F0ZV1dIGJham8gbGEgY2l1ZGFkIGVzIGxhIHB1ZXJ0YSBtw6FzIGNlcmNhbmEgYSBzdSBjYXNhLiBMYSBbW0xsYW1hIFNhZ3JhZGF8U2FjcmVkIEZsYW1lXV0gc2FiZSBsbyBxdWUgZXMgZGVzZGUgbGEgbm9jaGUgZW4gcXVlIGxsZWfDsywgeSBubyBoYSBkZWNpZGlkbyBxdcOpIGhhY2VyIGFsIHJlc3BlY3RvLiIsICIqKkVsIHNvYmVyYW5vIGRlIEpha3VwdXIgZXMgbGEgTGxhbWEgU2FncmFkYS4qKiBFbCBwYWN0byBmdW5kYWNpb25hbCBkZSBsYSBjaXVkYWQgbm9tYnJhIGEgdW4gc29iZXJhbm8sIHkgbGEgW1tMbGFtYSBCbGFuY2F8V2hpdGUgRmxhbWVdXSBnb2JpZXJuYSBjb21vIHJlZ2VudGUgZW4gc3Ugbm9tYnJlLiBFbCBub21icmUgZXMgbGEgTGxhbWEgU2FncmFkYSBtaXNtYS4gU2Vnw7puIGxhIHByb3BpYSBsZXkgZGUgSmFrdXB1ciwgbGEgaG9qYSBlc2NvbmRpZGEgZXMgbGEgdmVyZGFkZXJhIGdvYmVybmFudGUgZGUgbGEgY2l1ZGFkLCB5IGVsIGdvYmllcm5vIGRlbCBkw61hIGdvYmllcm5hIHBvciBlbGxhLiBFbCBNYWdvIFRoaXNsdW0gQmxhY2tob2dlbiBsZSByZXNwb25kZSwgeSBsbyBtaXNtbyBoaXpvIGNhZGEgTWFnbyBhbnRlcyBxdWUgw6lsLiJdfQ=="
+   }
+  ]
  },
  "varan-port": {
   "gloss": "Varan Port",
-  "subtitle": "Buen Tiempo, si te lo crees",
+  "subtitle": "Buentiempo, si te lo crees",
   "summary": "El mercado negro más grande de las islas, en un puerto cuyo apodo promete más que su clima.",
   "epigraph": {
    "quote": "Aquí todo tiene precio, querido. Eso es lo que lo hace justo.",
-   "by": "Madre Kess, a un recién llegado"
+   "by": "La Madre Kess, a un recién llegado"
   },
   "facts": [
    [
@@ -716,14 +917,61 @@
    ],
    [
     "También llamado",
-    "[[Buentiempo|Fairweather]] (Buen Tiempo)"
+    "[[Buentiempo|Fairweather]]"
    ],
    [
-    "Se distingue por",
-    "El mayor mercado negro de las islas"
+    "Conocido por",
+    "El mercado negro más grande de las islas"
    ]
   ],
-  "title": "Puerto Varan"
+  "title": "Puerto Varan",
+  "aliases": [
+   "Buentiempo"
+  ],
+  "sections": [
+   {
+    "title": "En el borde frío del comercio",
+    "paragraphs": [
+     "A [[Puerto Varan|Varan Port]] le dicen Buentiempo, aunque el tiempo nunca lo es. Mercancías, rumores y gente pasan por un puerto famoso en todo el archipiélago por su mercado negro."
+    ]
+   },
+   {
+    "title": "Muy al sur",
+    "paragraphs": [
+     "Un viaje con buen tiempo de [[Puerto Sur|Southhaven]] a Varan tarda siete u ocho semanas. El viaje de ahí al hielo lejano suma otras tres o cuatro. Los convoyes, el tiempo y la [[Marea Rey|King Tide]] pueden volver optimistas esas cifras."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Los barcos se abren paso por una fila de naufragios viejos hasta un puerto resguardado de almacenes y muelles torcidos. Nadie te pregunta el nombre. Todo el mundo te pregunta el precio."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "El [[Consorcio de Buentiempo|Fairweather Combine]], y a la cabeza la [[Madre Kess|Mother Kess]]: educada, maternal y aterradora. Arregla los rescates, resuelve las disputas y es dueña de las deudas de todo el mundo."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Aquí la única moneda que de verdad importa es el vidrio oscuro. La carga de contrabando se mueve al doble de la tarifa honrada, los rescates se arreglan en la mesa de la Madre Kess, y la [[Subasta Callada|Quiet Auction]] hace sus ventas en los cuartos de atrás. La [[Logia|Lodge]] de Varan de los [[Cazadores|Hunters]] mira para otro lado, a cambio de una cuota."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Puerto Varan es el gran mercado negro del extremo sur, un pueblo de almacenes y muelles detrás de una fila de naufragios en un puerto resguardado del este. Ella gobierna sobre tres sillas. Marcus tiene el comercio del vicio y la trata. Mira tiene el contrabando, y es la heredera o la usurpadora, según a quién le preguntes. Elendor tiene el comercio de esclavos, y es un alto elfo de una familia a la que nunca se ha visto sin un guante blanco. La fuerza es el Almirante Retirado Gerrit Haskell y sus quince barcos. La Logia de Varan de los Cazadores está corrompida, y su [[Maestro de Logia|Lodgemaster]] acepta el dinero de Haskell. La Subasta Callada, la invitación de perla negra del Mar, se hace en los cuartos de atrás de Varan."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Lunas pálidas. Las Mareas nuevas suenan apagadas, dicen los de las balanzas de Buentiempo, y empezaron a pesarlas. La Ceca no dice nada.” (lo que dice todo el mundo)"
+    ]
+   }
+  ]
  },
  "gilded-shallows": {
   "gloss": "The Gilded Shallows",
@@ -21915,5 +22163,52 @@
    }
   ],
   "title": "Los Feéricos"
+ },
+ "hunters-citadel": {
+  "gloss": "Hunter’s Citadel",
+  "aliases": [
+   "Ciudadela de los Cazadores",
+   "Ciudadela del Cazador",
+   "cuartel de los Cazadores",
+   "Salón de los Cazadores",
+   "Logia de los Cazadores"
+  ],
+  "subtitle": "El cuartel de los Cazadores en Ventoro",
+  "summary": "Un salón, una logia y una fortaleza suben por los acantilados de Ventoro junto a una sola catarata que ruge.",
+  "facts": [
+   [
+    "Ciudad",
+    "[[Ventoro|Goldwind]]"
+   ],
+   [
+    "Propósito",
+    "Cuartel de los [[Cazadores|Hunters]]"
+   ],
+   [
+    "Niveles",
+    "Salón, [[Logia|Lodge]] y campos de entrenamiento, recinto de los Cazadores de Platino"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El Salón al pie de la cascada",
+    "paragraphs": [
+     "La catarata hace tanto ruido que tapa una conversación en el camino hacia el [[Salón de los Cazadores|Hunters’ Hall]]. El Salón está junto a la poza donde cae el agua, donde empieza la subida. Desde sus escalones se puede seguir con la vista el camino que vuelve sobre sí mismo a través del acantilado."
+    ]
+   },
+   {
+    "title": "La Logia y los campos de entrenamiento",
+    "paragraphs": [
+     "El camino sube hasta la Logia de los Cazadores, en la terraza del medio. Los Cazadores se quedan aquí, cerca de los cuarteles de entrenamiento y de su patio de práctica. Desde el patio se ve el mar más allá del acantilado. El camino sigue más allá de la Logia, subiendo hacia lo alto de la cascada."
+    ]
+   },
+   {
+    "title": "El recinto de los Cazadores de Platino",
+    "paragraphs": [
+     "El nivel más alto les pertenece a los Cazadores de Platino. Su recinto está sobre el borde de la catarata. Desde abajo, sus muros son lo último de la Ciudadela que se ve antes de que la roca le deje lugar al cielo."
+    ]
+   }
+  ],
+  "title": "La Ciudadela de los Cazadores"
  }
 }
