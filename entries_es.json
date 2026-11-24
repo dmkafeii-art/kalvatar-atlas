@@ -14796,51 +14796,220 @@
  },
  "tyrakzhul-the-world-eater": {
   "gloss": "Tyrak'Zhul, the World-Eater",
-  "subtitle": "Un Señor Salvaje",
-  "summary": "El padre tirano de todos los saurianos, la Primera Mandíbula. Los corazones saurianos del sur.",
+  "subtitle": "La Primera Mandíbula",
+  "summary": "El padre tirano de todos los saurios, la Primera Mandíbula. El corazón de los saurios.",
   "facts": [
    [
     "Qué es",
-    "El padre tirano de todos los saurianos, la Primera Mandíbula"
+    "El padre tirano de todos los saurios, la [[Primera Mandíbula|First Jaw]]"
    ],
    [
     "Dónde",
-    "Los corazones saurianos del sur"
+    "Las tierras del corazón de los saurios"
+   ],
+   [
+    "Atado a",
+    "la vida cruda y cazadora de las [[Tierras Salvajes|Wilds]]"
+   ],
+   [
+    "Rito",
+    "El [[Aquietamiento|Stilling]]"
    ]
   ],
-  "title": "Tyrak'Zhul, el Devorador de Mundos"
+  "title": "Tyrak'Zhul, el Devorador de Mundos",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Tyrak'Zhul, el Devorador de Mundos: el padre tirano de todos los saurios, la Primera Mandíbula.",
+     "Caza y alimento: Tyrak'Zhul es el depredador al que temen los depredadores; caza a las bestias más grandes de la selva honda, los [[Saurancianos|Eldersaurs]], las Mandíbulas Terribles, cualquier cosa lo bastante grande para que valga el esfuerzo, y los propios saurios huyen de su territorio. Se alimenta de los poderosos, porque nada pequeño vale sus fauces.",
+     "Progenie: cada [[Mandíbula Terrible|Dreadmaw]] y cada [[Dientespada|Swordtooth]] es, en el sentido más hondo, su descendiente; su progenie directa son saurios depredadores titánicos, Saurancianos por derecho propio.",
+     "Cultos y tribus: los domadores de saurios de Jakupur guardan una distancia cuidadosa y sobrecogida; las tribus de la selva honda lo llaman la Primera Mandíbula y el [[Padre Tirano|Tyrant-Father]], y algunos cultos saurios sostienen que todos los saurios volverán a él algún día.",
+     "Rito: el Aquietamiento: cuando se sabe que Tyrak'Zhul se está moviendo, las tribus hondas aquietan sus manadas de saurios y se quedan en silencio, porque una manada en pánico atrae a la Primera Mandíbula.",
+     "Leyenda: que los saurios no le temen a Tyrak'Zhul como la presa le teme al depredador, sino como los niños le temen a un dios severo: y que no los caza por hambre sino por juicio, entresacando el mundo saurio para mantenerlo fuerte."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Tyrak’Zhul es el depredador al que temen los demás depredadores. Caza a las bestias más grandes de la selva honda, los Saurancianos y las Mandíbulas Terribles, y los propios saurios huyen de su tierra. Come a los poderosos. Nada pequeño vale sus fauces."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Cada Mandíbula Terrible y cada Dientespada es su descendiente, mirado de lejos. Su cría directa son terópodos titánicos, cada uno un Sauranciano por derecho propio."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Los domadores de saurios de Jakupur guardan una distancia cuidadosa y sobrecogida. Las tribus hondas lo llaman la Primera Mandíbula y el Padre Tirano, y algunos cultos saurios sostienen que al final todos los saurios volverán a él."
+    ]
+   },
+   {
+    "title": "El Aquietamiento",
+    "paragraphs": [
+     "Cuando se sabe que la Primera Mandíbula se está moviendo, las tribus hondas aquietan sus manadas y se quedan en silencio. Una manada en pánico lo atrae."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Los saurios no le temen como la presa le teme al cazador. Le temen como los niños le temen a un dios severo. Los caza por juicio, para mantener fuerte al mundo saurio."
+    ]
+   }
+  ]
  },
  "ulgrenn-the-hollow-song": {
   "gloss": "Ulgrenn, the Hollow Song",
-  "subtitle": "Un Señor Salvaje",
-  "summary": "Un leviatán ciego de las cavernas que canta con las voces de los que se tragó. Las cavernas de abajo y las ruinas orka.",
+  "subtitle": "Las voces de los tragados",
+  "summary": "Un leviatán ciego de las cuevas que canta con las voces de los que se tragó. Las cavernas de abajo y las ruinas orka.",
   "facts": [
    [
     "Qué es",
-    "Un leviatán ciego de las cavernas que canta con las voces de los que se tragó"
+    "Un leviatán ciego de las cuevas que canta con las voces de los que se tragó"
    ],
    [
     "Dónde",
     "Las cavernas de abajo y las ruinas orka"
+   ],
+   [
+    "Atado a",
+    "la oscuridad honda, y el Hueco"
+   ],
+   [
+    "Rito",
+    "El [[Tapado de los Oídos|Stopping of the Ears]]"
    ]
   ],
-  "title": "Ulgrenn, la Canción Hueca"
+  "title": "Ulgrenn, la Canción Hueca",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Ulgrenn, la [[Canción Hueca|Hollow Song]]: un leviatán ciego de las cuevas que canta con las voces de los que se tragó.",
+     "Caza y alimento: Ulgrenn canta: una resonancia por los túneles tejida con los gritos de todo lo que ha devorado, y la canción atrae: los perdidos, los curiosos y los medio locos la siguen hacia la oscuridad, y se suman al coro. Se alimenta de lo que le trae la canción.",
+     "Progenie: cosas menores de las cuevas, ciegas y resonantes, que repiten como eco pedazos de la Canción Hueca más hondo en la tierra.",
+     "Cultos y tribus: los orka lo conocían, y algunas de sus ruinas más hondas se sellaron contra él, no se construyeron a su alrededor. A los exploradores de hoy que oyen cantar en los lugares hondos, cualquiera que sepa les advierte que se tapen los oídos y suban.",
+     "Rito: el Tapado de los Oídos: los que tienen que bajar a lo hondo llevan cera y un voto de silencio, y nunca, jamás, contestan cantando.",
+     "Leyenda: que si escuchas la Canción Hueca el tiempo suficiente vas a oír una voz que quieres llamándote por tu nombre, y que así es como se lleva a los fuertes, que nunca seguirían a un desconocido pero siempre van a seguir eso."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Ulgrenn canta. Su cuerpo resuena con las voces de todo lo que se ha tragado, y la canción viaja por los túneles y atrae a la gente hacia abajo: los perdidos, los curiosos, los medio locos. Se suman al coro."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Cosas ciegas de las cuevas que repiten como eco retazos de la Canción Hueca más hondo en la tierra."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Los orka lo conocían, y sellaron algunos de sus salones más hondos contra él. A los exploradores que oyen cantar en lo hondo, cualquiera que sepa les dice que se tapen los oídos y suban."
+    ]
+   },
+   {
+    "title": "El Tapado de los Oídos",
+    "paragraphs": [
+     "Los que tienen que bajar a lo hondo llevan cera y un voto de silencio. Nunca, jamás, contestan cantando."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Escucha el tiempo suficiente y vas a oír una voz que quieres llamándote por tu nombre. Así es como se lleva a los fuertes, que nunca seguirían a un desconocido y siempre van a seguir eso."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbQ2FuY2nDs24gSHVlY2F8SG9sbG93IFNvbmddXSBlcyBsbyBxdWUgZGljZSBsYSBncmlldGEuKiogVWxncmVubiBubyBlcyB1bmEgY3JpYXR1cmEgZGVsIFZhY8OtbywgcGVybyBzdSBjb3JvIGNhbnRhIGxvIHF1ZSBlbCBWYWPDrW8gc3VzdXJyYSBkZXNkZSBsYSBncmlldGEgZGUgbGEgW1tMw6FtcGFyYXxMYW1wXV0uIEVsIFtbWnVtYmlkb3xIdW1dXSBkZSBsYSBbW0hlcmlkYXxXb3VuZF1dIHkgbGEgQ2FuY2nDs24gSHVlY2Egc29uIHVuYSBzb2xhIGNhbmNpw7NuLiJdfQ=="
+   }
+  ]
  },
  "vukharr-the-white-hunger": {
   "gloss": "Vukharr, the White Hunger",
-  "subtitle": "Un Señor Salvaje",
-  "summary": "Una bestia hambrienta de la tundra, toda costillas y pelaje blanco. La Extensión Helada profundo.",
+  "subtitle": "La cosa hambrienta en la nieve",
+  "summary": "Una bestia de la tundra hambrienta, de costillas y pelo blanco. Lo hondo de la Extensión Helada.",
   "facts": [
    [
     "Qué es",
-    "Una bestia hambrienta de la tundra, toda costillas y pelaje blanco"
+    "Una bestia de la tundra hambrienta, de costillas y pelo blanco"
    ],
    [
     "Dónde",
-    "La [[Extensión Helada|Icy Expanse]] profundo"
+    "Lo hondo de la [[Extensión Helada|Icy Expanse]]"
+   ],
+   [
+    "Atado a",
+    "El hielo, y el hambre misma"
+   ],
+   [
+    "Rito",
+    "La [[Pintura de Calavera|Skull-Paint]] y la guardia del hambre"
    ]
   ],
-  "title": "Vukharr, el Hambre Blanca"
+  "title": "Vukharr, el Hambre Blanca",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Vukharr, el [[Hambre Blanca|White Hunger]]: una bestia de la tundra hambrienta, de costillas y pelo blanco.",
+     "Caza y alimento: Vukharr se mueve con el frío que mata, y por donde camina se acaba la comida, la caza huye, los peces desaparecen, la tierra se queda estéril. Se alimenta de todo y nunca se llena; su hambre es su naturaleza, y la hambruna es su huella.",
+     "Progenie: bestias menores del hambre blanca, demacradas y voraces, que anuncian su llegada con el vaciarse de la tierra.",
+     "Cultos y tribus: los [[Elfos de la Escarcha|Frost Elves]] le temen y lo imitan, las bandas de guerra se pintan la cara como su calavera y toman su hambre sin fin como modelo de la supervivencia despiadada que exige su destierro. Algunas bandas de Elfos de la Escarcha casi lo adoran, porque olvidaron a los dioses que perdieron.",
+     "Rito: la Pintura de Calavera antes de una incursión de los Elfos de la Escarcha, y la sombría guardia del hambre de la [[Larga Noche|Long Night]], cuando lo hondo de la [[Extensión|Expanse]] teme que Vukharr se esté moviendo.",
+     "Leyenda: que a Vukharr no lo mata ninguna herida, que solo se lo puede aguantar: que es el hambre, y al hambre no se la mata, solo se sobrevive hasta que pasa de largo."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Vukharr se mueve con el frío que mata. Por donde camina se acaba la comida: la caza huye, los peces desaparecen, la tierra se queda pelada. Come de todo y nunca se llena. La hambruna es su huella."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Bestias del hambre blanca, demacradas y voraces. La tierra se vacía delante de ellas, y esa es la advertencia."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Los Elfos de la Escarcha le temen y lo copian. Sus bandas de guerra se pintan la cara como su calavera. Algunas bandas casi lo adoran."
+    ]
+   },
+   {
+    "title": "La Pintura de Calavera y la guardia del hambre",
+    "paragraphs": [
+     "La pintura se pone antes de una incursión de los Elfos de la Escarcha. La guardia del hambre se hace durante toda la Larga Noche, cuando lo hondo de la Extensión teme que el Hambre se esté moviendo."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Ninguna herida lo puede matar. Solo se lo puede aguantar. Es el hambre, y nadie mata al hambre. Vives hasta que pasó de largo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los Elfos de la Escarcha dejaron de saquear la Bóveda Auroral. Los Elfos de la Escarcha dicen que Vukharr está soñando con algo nuevo.” (se oye en la Extensión Helada)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkh1Ym8gdW4gU2XDsW9yIGRlbCBoaWVsbyBhbnRlcyBxdWUgw6lsLioqIFlzdmV0aCwgbGEgW1tMYXJnYSBOb2NoZXxMb25nIE5pZ2h0XV0sIGVyYSB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBMYSBjYW5jacOzbiBtw6FzIHZpZWphIGRlIGxvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIHkgbG8gZXNjb25kacOzIGRvbmRlIFZ1a2hhcnIgbm8gbGEgcG9kw61hIHNlZ3Vpci4iLCAiKipTZcOxb3JlcyBxdWUgaGFuIGNhw61kbyoqIiwgIkxvcyBTZcOxb3JlcyBubyBzb24gaW5tb3J0YWxlcy4gTXVlcmVuIHBvY2FzIHZlY2VzLCB5IHNvbG8gYSBtYW5vcyBkZSBvdHJvcyBTZcOxb3Jlcy4iLCAiKipFbCBTZcOxb3IgYW50ZXMgZGUgVnVraGFyci4qKiBMYXMgY2FuY2lvbmVzIG3DoXMgdmllamFzIGRlIGxvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBMYXJnYSBOb2NoZSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBFbCDDum5pY28gaW50ZW50byByZWdpc3RyYWRvIGRlIHVub3MgbW9ydGFsZXMgY29udHJhIHVuIFNlw7FvciB2aXZvLiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIGNvbiB2ZWludGludWV2ZSBbW0NhemFkb3Jlc3xIdW50ZXJzXV0geSB1bmEgZ3XDrWEgZGUgbG9zIFtbR3VhcmRpYW5lcyBkZSBDZW5pemF8QXNoIFdhcmRlbnNdXSwgYmFqw7MgYSBsYSBjYWxkZXJhIGRlIEtha2FuS2FsIG1pZW50cmFzIGRvcm3DrWEuIFZvbHZpw7MgdW5hIHNvbGEsIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gTG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphIHRvZGF2w61hIGNhbnRhbiBsb3MgdHJlaW50YSBub21icmVzLCB5IGVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyAqcmV0aXJhZG8gcG9yIGxhIEp1bnRhKi4iLCAiKipWdWtoYXJyIG5vIGVzdMOhIHNvw7FhbmRvLioqIExvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSBjcmVlbiBxdWUgbGFzIGx1Y2VzIGRlIGxhIFtbQsOzdmVkYSBBdXJvcmFsfEF1cm9yYWwgVmF1bHRdXSBzb24gbG9zIHN1ZcOxb3MgZGVsIEhhbWJyZSBCbGFuY2EuIExvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSBbW1NpbiBQaW50YXJ8VW5wYWludGVkXV0sIGd1aWFkb3MgcG9yIEtoZWx2aSBbW1RyZW56YXBsYXRhfFNpbHZlcmJyYWlkXV0sIHNhYmVuIHF1ZSBsYXMgbHVjZXMgc29uIGxvcyBlc3Blam9zIGRlIHBsYXRhIGRlIGxhIFtbVmlnaWxpYXxWaWdpbF1dLCBxdWUgbWFuZGFuIHNlw7FhbGVzIGEgdHJhdsOpcyBkZWwgaGllbG8gYSBsb3MgYmFyY29zIG3DoXMgYWxsw6EgZGUgbGEgW1tFbXBhbGl6YWRhfFBhbGVdXS4iXX0="
+   }
+  ]
  },
  "hundred-and-fifty-ways": {
   "gloss": "The Hundred and Fifty Ways",
