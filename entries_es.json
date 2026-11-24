@@ -24837,9 +24837,177 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbRXJyYW5jaWF8Um9hbV1dIGVzIHN1eWEuKiogU3UgcmVpbm8gc2Ugc29sdMOzIGRlbCBbW0Zlw6lyaWNvfEZhZXdpbGRdXSBjdWFuZG8gw6lsIGxvIGFiYW5kb27DsywgeSBuYWRpZSB0b23DsyBudW5jYSBwb3Nlc2nDs24gZGUgw6lsLiBFbCB0w610dWxvIHNpZ3VlIHNpZW5kbyB2w6FsaWRvLiBOaW5ndW5hIFtbQ29ydGV8Q291cnRdXSBsbyBzYWJlLCBuaW5nw7puIGthbGFzaHRhciBsbyBzYWJlLCB5IMOpbCBudW5jYSBsbyBoYSBtZW5jaW9uYWRvLiIsICIqKkVsIHRyYXRvLioqIEZ1ZSBhIHZlciBhIE9kYSwgbGEgW1tPcsOhY3VsbyBTZWxsYWRhfFNlYWxlZCBPcmFjbGVdXSwgeSBsZSBoaXpvIGxhIHByZWd1bnRhIG3DoXMgZ3JhbmRlIHF1ZSBuYWRpZSBsZSBoYSBoZWNobzogZWwgbm9tYnJlIHZlcmRhZGVybyBkZSBjYWRhIGNvc2EuIE9kYSBubyB2ZW5kZS4gUHJlZ3VudGFyIGVzIGVsIHByZWNpby4gVW5hIHByZWd1bnRhIGRlIGVzZSB0YW1hw7FvIGxlIGNvc3TDsyB0b2RvIGxvIHF1ZSB0ZW7DrWE6IHN1IHJlaW5vLCBzdSBjb3JvbmEgeSBzdSBwcm9waW8gbm9tYnJlLiBPZGEgbm8gc2UgcXVlZMOzIGNvbiBuYWRhIGRlIGVzby4iLCAiKipMYSBbW0PDunB1bGF8RG9tZV1dIGVzIGVsIFtbU2Fsw7NuIGRlIFZpZHJpb3xHbGFzcyBIYWxsXV0qKiwgc3UgdmllamEgc2FsYSBkZWwgdHJvbm8uIExhIFtbcGF6IGRlIGxhIEPDunB1bGF8RG9tZS1wZWFjZV1dIGVzIGxhIHJlZ2xhIGRlIHN1IGNhc2EsIHkgbGEgcXVpbnRhIHB1ZXJ0YSB0YXBpYWRhIGVzIHN1IHByb3BpYSBwdWVydGEuIExvcyBbW0FycnVsbG9zfEx1bGxzXV0gbm8gcGFzYW4gYmFqbyBlbCB2aWRyaW8gcG9ycXVlIHNpZ3VlIHNpZW5kbywgZW4gdG9kbyBsbyBxdWUgbGUgaW1wb3J0YSBhIHVuIG5vbWJyZSwgc3UgY2FzYS4iLCAiKipQb3IgcXXDqSBzb2xvIHNlIGFicmVuIGxvcyBodW1hbm9zLioqIE9uZHJ5IFZhbmUgZXJhIGh1bWFuYSwgbGEgcHJpbWVyYSBtb3J0YWwgcXVlIHNlIGp1cmFtZW50w7MgYWxndW5hIHZleiBhIHVuIHNhbMOzbiBmZcOpcmljby4gU3UganVyYW1lbnRvIGVzIGxvIHF1ZSBtYW50aWVuZSBhYmllcnRhIGxhIHB1ZXJ0YSBkZSBsYSBFcnJhbmNpYSBwYXJhIGxvcyBkZSBzdSBlc3BlY2llLCB5IHBhcmEgbmluZ3Vub3Mgb3Ryb3MuIiwgIioqTmF4aXRoZSBzZSBpbnN0YWzDsy4qKiBVbiBwYcOtcyBzaW4gc2XDsW9yIHkgc2luIGNlcmNhIGVzIHVuYSBkZXNwZW5zYS4gTG9zIEFycnVsbG9zIHZpbmllcm9uIGRlc3B1w6lzLCBhIHVuYSBjYXNhIHNpbiBndWFyZGlhLiIsICIqKkFkw7NuZGUgc2UgZnVlIGxhIFtbZ2VudGUgZGUgbG9zIFJlbGV2b3N8VHVybmZvbGtdXS4qKiBTZSBmdWVyb24gY29uIGVsIHJlaW5vLiBTb24gbG9zIGZlw6lyaWNvcyBkZWwgY2FtaW5vOiBsb3MgZW5jYXJnYWRvcyBkZSBsYXMgY2FzYXMgZGUgY2FtaW5vIHkgbG9zIFtbYWdlbnRlcyBkZSBjYW1pbm98cm9hZC1hZ2VudHNdXSBkZSBsYSBFcnJhbmNpYSwgZnVlcmEgZGUgbGEgbGV5IGRlIGN1YWxxdWllciBDb3J0ZSBwb3JxdWUgbGEgw7puaWNhIGxleSBxdWUgdHV2aWVyb24gbnVuY2EgZXMgbGEgcGF6IGRlIGxhIEPDunB1bGEuIENhc2kgdG9kb3Mgb2x2aWRhcm9uIHF1ZSBodWJvIHVuYSBDb3J0ZS4gT25kcnkgVmFuZSBuby4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbRXJyYW5jaWF8Um9hbV1dIGVzIHN1eWEuKiogU3UgcmVpbm8gc2Ugc29sdMOzIGRlbCBbW0Zlw6lyaWNvfEZhZXdpbGRdXSBjdWFuZG8gw6lsIGxvIGFiYW5kb27DsywgeSBuYWRpZSB0b23DsyBudW5jYSBwb3Nlc2nDs24gZGUgw6lsLiBFbCB0w610dWxvIHNpZ3VlIHNpZW5kbyB2w6FsaWRvLiBOaW5ndW5hIFtbQ29ydGV8Q291cnRdXSBsbyBzYWJlLCBuaW5nw7puIGthbGFzaHRhciBsbyBzYWJlLCB5IMOpbCBudW5jYSBsbyBoYSBtZW5jaW9uYWRvLiIsICIqKkVsIHRyYXRvLioqIEZ1ZSBhIHZlciBhIE9kYSwgbGEgW1tPcsOhY3VsbyBTZWxsYWRhfFNlYWxlZCBPcmFjbGVdXSwgeSBsZSBoaXpvIGxhIHByZWd1bnRhIG3DoXMgZ3JhbmRlIHF1ZSBuYWRpZSBsZSBoYSBoZWNobzogZWwgbm9tYnJlIHZlcmRhZGVybyBkZSBjYWRhIGNvc2EuIE9kYSBubyB2ZW5kZS4gUHJlZ3VudGFyIGVzIGVsIHByZWNpby4gVW5hIHByZWd1bnRhIGRlIGVzZSB0YW1hw7FvIGxlIGNvc3TDsyB0b2RvIGxvIHF1ZSB0ZW7DrWE6IHN1IHJlaW5vLCBzdSBjb3JvbmEgeSBzdSBwcm9waW8gbm9tYnJlLiBPZGEgbm8gc2UgcXVlZMOzIGNvbiBuYWRhIGRlIGVzby4iLCAiKipMYSBbW0PDunB1bGF8RG9tZV1dIGVzIGVsIFtbU2Fsw7NuIGRlIFZpZHJpb3xHbGFzcyBIYWxsXV0qKiwgc3UgdmllamEgc2FsYSBkZWwgdHJvbm8uIExhIFtbcGF6IGRlIGxhIEPDunB1bGF8RG9tZS1wZWFjZV1dIGVzIGxhIHJlZ2xhIGRlIHN1IGNhc2EsIHkgbGEgcXVpbnRhIHB1ZXJ0YSB0YXBpYWRhIGVzIHN1IHByb3BpYSBwdWVydGEuIExvcyBbW0FycnVsbG9zfEx1bGxzXV0gbm8gcGFzYW4gYmFqbyBlbCB2aWRyaW8gcG9ycXVlIHNpZ3VlIHNpZW5kbywgZW4gdG9kbyBsbyBxdWUgbGUgaW1wb3J0YSBhIHVuIG5vbWJyZSwgc3UgY2FzYS4iLCAiKipQb3IgcXXDqSBzb2xvIHNlIGFicmVuIGxvcyBodW1hbm9zLioqIE9uZHJ5IFZhbmUgZXJhIGh1bWFuYSwgbGEgcHJpbWVyYSBtb3J0YWwgcXVlIHNlIGp1cmFtZW50w7MgYWxndW5hIHZleiBhIHVuIHNhbMOzbiBmZcOpcmljby4gU3UganVyYW1lbnRvIGVzIGxvIHF1ZSBtYW50aWVuZSBhYmllcnRhIGxhIHB1ZXJ0YSBkZSBsYSBFcnJhbmNpYSBwYXJhIGxvcyBkZSBzdSBlc3BlY2llLCB5IHBhcmEgbmluZ3Vub3Mgb3Ryb3MuIiwgIioqTmF4aXRoZSBzZSBpbnN0YWzDsy4qKiBVbiBwYcOtcyBzaW4gc2XDsW9yIHkgc2luIGNlcmNhIGVzIHVuYSBkZXNwZW5zYS4gTG9zIEFycnVsbG9zIHZpbmllcm9uIGRlc3B1w6lzLCBhIHVuYSBjYXNhIHNpbiBndWFyZGlhLiIsICIqKkFkw7NuZGUgc2UgZnVlIGxhIFtbZ2VudGUgZGUgbG9zIFJlbGV2b3N8VHVybmZvbGtdXS4qKiBTZSBmdWVyb24gY29uIGVsIHJlaW5vLiBTb24gbG9zIFtbZmXDqXJpY29zIGRlbCBjYW1pbm98cm9hZC1mYWVdXTogbG9zIGVuY2FyZ2Fkb3MgZGUgbGFzIGNhc2FzIGRlIGNhbWlubyB5IGxvcyBbW2FnZW50ZXMgZGUgY2FtaW5vfHJvYWQtYWdlbnRzXV0gZGUgbGEgRXJyYW5jaWEsIGZ1ZXJhIGRlIGxhIGxleSBkZSBjdWFscXVpZXIgQ29ydGUgcG9ycXVlIGxhIMO6bmljYSBsZXkgcXVlIHR1dmllcm9uIG51bmNhIGVzIGxhIHBheiBkZSBsYSBDw7pwdWxhLiBDYXNpIHRvZG9zIG9sdmlkYXJvbiBxdWUgaHVibyB1bmEgQ29ydGUuIE9uZHJ5IFZhbmUgbm8uIl19"
    }
   ],
   "title": "La Errancia"
+ },
+ "halfwake": {
+  "gloss": "Halfwake",
+  "aliases": [
+   "Duermevela",
+   "la Cúpula",
+   "Cúpula de los Sueños",
+   "la Cúpula de los Sueños",
+   "paz de la Cúpula",
+   "la Mesa Larga",
+   "el Muro de los Avisos",
+   "Muro de los Avisos",
+   "Cuadras de la Noche",
+   "yegua nocturna",
+   "yeguas nocturnas",
+   "Mariscala Ondry Vane",
+   "Ondry Vane"
+  ],
+  "subtitle": "El pueblo bajo la Cúpula, donde terminan todos los caminos de la Errancia",
+  "summary": "Duermevela es el único pueblo de la Errancia: un cruce de pasarelas de tablas y casas de camino bajo una bóveda de vidrio que nadie construyó. Soñadores, feéricos y cosas más raras se encuentran ahí bajo una paz que hasta las Cortes respetan.",
+  "epigraph": {
+   "quote": "Nada de sangre bajo el vidrio. Todo lo demás, lo podemos hablar.",
+   "by": "La Mariscala Ondry Vane"
+  },
+  "facts": [
+   [
+    "Dónde",
+    "donde se encuentran los cuatro países de las estaciones"
+   ],
+   [
+    "Bajo",
+    "la [[Cúpula|Dome]]"
+   ],
+   [
+    "Ley",
+    "la [[paz de la Cúpula|Dome-peace]]"
+   ],
+   [
+    "La guarda",
+    "la [[Mariscala|Marshal]] Ondry Vane"
+   ],
+   [
+    "Moneda",
+    "las confidencias"
+   ],
+   [
+    "Conocido en las islas como",
+    "la [[Cúpula de los Sueños|Dreamdome]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El pueblo",
+    "paragraphs": [
+     "Donde se encuentran los cuatro países de las estaciones de la [[Errancia|Roam]] hay una bóveda de vidrio claro de una milla de ancho. Nadie la construyó, y es más vieja que cualquier camino que lleva a ella. Los comesueños no pasan bajo ella. Así que ahí creció un pueblo, una casa de camino a la vez, y se llama [[Duermevela|Halfwake]].",
+     "Es un lugar polvoriento, alumbrado con lámparas y alegre, de pasarelas de tablas, barandas para atar caballos y letreros en seis escrituras. Cualquier noche hay unos cuantos cientos de kalashtar, otros tantos [[feéricos del camino|road-fae]], uno o dos enviados de cada [[Corte|Court]] y un puñado de invitados mirando el techo. Los isleños que solo han oído hablar de él lo llaman la Cúpula de los Sueños."
+    ]
+   },
+   {
+    "title": "Lugares de Duermevela",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Lugar",
+      "Qué es"
+     ],
+     "rows": [
+      [
+       "La Cúpula",
+       "Una bóveda de vidrio claro, más vieja que el pueblo y construida por nadie. Los [[Arrullos|Lulls]] no pasan bajo ella. Es el único techo seguro de la Errancia."
+      ],
+      [
+       "La [[Mesa Larga|Long Table]]",
+       "La casa de camino, con una sola mesa que corre todo el largo del salón. Siempre hay un asiento libre. Se paga con una confidencia."
+      ],
+      [
+       "El [[Muro de los Avisos|Posting Wall]]",
+       "Notas clavadas por miles, para cualquiera, de cualquiera. Un soñador de [[Puerto Sur|Southhaven]] puede dejarle esta noche un recado a un soñador de [[Bastión de Escarcha|Frosthold]]. Es el correo más rápido de las islas, y solo lleva lo que alguien dormido pueda recordar."
+      ],
+      [
+       "La [[Oficina de Reclamos|Claims Office]]",
+       "Donde se marca con estacas un pedazo de la Errancia, se atestigua y se discute. Los escribientes son feéricos del camino, y son minuciosos."
+      ],
+      [
+       "Las [[Cuadras de la Noche|Night Stables]]",
+       "Yeguas nocturnas de alquiler: caballos oscuros y flacos que conocen cada camino y toman el corto. Se devuelven despertándose."
+      ],
+      [
+       "Las [[Cuatro Puertas|Four Gates]]",
+       "Verde, Dorada, Roja y Blanca: un camino de salida hacia el país de cada estación. Cada Corte tiene una casa junto a su puerta, y ninguna gobierna el pueblo."
+      ],
+      [
+       "El porche de la Mariscala",
+       "Donde se sienta la Mariscala Ondry Vane. Ella guarda la paz de la Cúpula, y lleva sentada ahí más tiempo del que ha vivido cualquier soñador."
+      ]
+     ],
+     "caption": "Lo que busca un errante"
+    }
+   },
+   {
+    "title": "La paz de la Cúpula",
+    "paragraphs": [
+     "Hay cinco reglas, y la Mariscala nunca ha necesitado una sexta."
+    ],
+    "list": [
+     "Nada de sangre bajo el vidrio.",
+     "Ningún trato obliga bajo el vidrio sin un testigo que no sea de ninguna de las dos partes.",
+     "Bajo el vidrio no se pregunta ningún nombre verdadero.",
+     "El kalashtar de un invitado responde por el invitado.",
+     "A quien rompe la paz lo llevan caminando hasta una puerta al atardecer y la puerta se cierra."
+    ]
+   },
+   {
+    "title": "Las confidencias",
+    "paragraphs": [
+     "Duermevela no acepta monedas. Una comida, una cama, un caballo o un asiento en la Mesa Larga cuesta una confidencia: una cosa verdadera sobre ti, contada una vez a quien vende. Después de eso es de la casa, y te das cuenta de que no la puedes volver a contar. Todavía la recuerdas. Solo que no la puedes sacar.",
+     "Las cosas pequeñas compran cosas pequeñas. Una noche de cuadra puede costar el nombre de tu primer bote. Los soñadores viejos son cuidadosos, y un poco difíciles de conocer."
+    ]
+   },
+   {
+    "title": "La Mariscala",
+    "paragraphs": [
+     "La Mariscala Ondry Vane guarda la paz desde una silla en su porche. Es humana, habla claro y es Mariscala desde antes de lo que puede recordar el kalashtar vivo más viejo. Nadie la ha visto nunca despertarse, ni irse, ni dormir. Los enviados de las cuatro Cortes la llaman “Mariscala” y hacen lo que ella dice bajo el vidrio."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "La paz se rompió por primera vez en la memoria de todos: hay sangre bajo el vidrio, y nadie vio de quién.",
+     "Alguien está comprando confidencias, por cientos, a soñadores que necesitan el precio de un caballo. El grupo conoce a uno de los que venden.",
+     "El enviado de una Corte quiere que alguien lleve un mensaje del Muro de los Avisos a una persona despierta que no debe saber de dónde vino.",
+     "Un invitado perdió a su kalashtar entre la multitud, y ya casi amanece."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Decide de antemano qué cosas verdaderas de tu personaje venderías, y cuáles nunca.",
+     "La Cúpula es el único lugar de la Errancia donde puedes dejar de mirar por encima del hombro. Habla ahí.",
+     "Un testigo bajo la paz de la Cúpula no debe ser de ninguna de las dos partes. Un desconocido en la Mesa Larga sirve, por una confidencia."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "El Muro de los Avisos es el correo más rápido de las islas. No puede llevar nada que alguien dormido no pudiera recordar.",
+     "Las yeguas nocturnas se devuelven despertándose. Las cuadras nunca han perdido una.",
+     "Cada Corte tiene una casa junto a su puerta. La del Verano es la más ruidosa, y a la del Invierno nunca le han abierto la puerta desde afuera."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El cuerpo de la Mariscala está en una cama en Puerto Gris. Sesenta años dormida, y la gente de Skaia la da vuelta cada mañana.” (el aprendiz de una lectora de sueños)",
+     "“Hay una quinta puerta, tapiada, sin ningún color. Algunas noches los ladrillos están en el suelo.” (un escribiente feérico del camino)",
+     "“Una vez alguien le vendió a la Mesa Larga su propio nombre. Todavía sigue ahí. Lava las tazas.” (un kalashtar de Jakupur)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbQ8O6cHVsYXxEb21lXV0gZXMgZWwgW1tTYWzDs24gZGUgVmlkcmlvfEdsYXNzIEhhbGxdXSoqLCBzdSB2aWVqYSBzYWxhIGRlbCB0cm9uby4gTGEgW1twYXogZGUgbGEgQ8O6cHVsYXxEb21lLXBlYWNlXV0gZXMgbGEgcmVnbGEgZGUgc3UgY2FzYSwgeSBsYSBxdWludGEgcHVlcnRhIHRhcGlhZGEgZXMgc3UgcHJvcGlhIHB1ZXJ0YS4gTG9zIFtbQXJydWxsb3N8THVsbHNdXSBubyBwYXNhbiBiYWpvIGVsIHZpZHJpbyBwb3JxdWUgc2lndWUgc2llbmRvLCBlbiB0b2RvIGxvIHF1ZSBsZSBpbXBvcnRhIGEgdW4gbm9tYnJlLCBzdSBjYXNhLiIsICIqKk9uZHJ5IFZhbmUgbG8gc2FiZS4qKiBFcmEgbGEgbWFyaXNjYWxhIGRlbCBzZcOxb3IsIHkganVyw7M6IGd1YXJkYXLDqSBlbCBzYWzDs24sIHkgbGEgcGF6IGRlbCBzYWzDs24sIHkgbGEgcHVlcnRhIGRlbCBzYWzDs24sIGhhc3RhIHF1ZSBtaSBzZcOxb3IgdnVlbHZhIGEgY2FzYSB5IGRpZ2EgbWkgbm9tYnJlLiBUb2RhdsOtYSBlc3TDoSBlc3BlcmFuZG8uIE5vIHJlY29ub2NlIGFsIFtbRGVzYXRhZG98VW5ib3VuZF1dOiBzdSBqdXJhbWVudG8gZnVlIGEgdW4gbm9tYnJlLCB5IMOpbCB5YSBubyB0aWVuZSB1bm8uIMOJbCBzZSBoYSBzZW50YWRvIGVuIGxhIFtbTWVzYSBMYXJnYXxMb25nIFRhYmxlXV0gdW5hIGRvY2VuYSBkZSB2ZWNlcyBhIGxhIHZpc3RhIGRlIHN1IHBvcmNoZSwgeSBudW5jYSBzZSBsbyBoYSBkaWNoby4gVGFtYmnDqW4gZXMgZWwgw7puaWNvIHZpdm8gcXVlIHBvZHLDrWEgZGVjaXIgc3Ugbm9tYnJlIGNvbW8gbG8gcXVpZXJlIGRlY2lyIGVsIGp1cmFtZW50by4iLCAiKipMYSBNZXNhIExhcmdhIG51bmNhIGxlIGNvYnJhLioqIE5vIGxlIHF1ZWRhIG5hZGEgdmVyZGFkZXJvIHNvYnJlIHPDrSBtaXNtbyBxdWUgY29udGFyLiIsICIqKlBvciBxdcOpIHNvbG8gc2UgYWJyZW4gbG9zIGh1bWFub3MuKiogT25kcnkgVmFuZSBlcmEgaHVtYW5hLCBsYSBwcmltZXJhIG1vcnRhbCBxdWUgc2UganVyYW1lbnTDsyBhbGd1bmEgdmV6IGEgdW4gc2Fsw7NuIGZlw6lyaWNvLiBTdSBqdXJhbWVudG8gZXMgbG8gcXVlIG1hbnRpZW5lIGFiaWVydGEgbGEgcHVlcnRhIGRlIGxhIFtbRXJyYW5jaWF8Um9hbV1dIHBhcmEgbG9zIGRlIHN1IGVzcGVjaWUsIHkgcGFyYSBuaW5ndW5vcyBvdHJvcy4iXX0="
+   }
+  ],
+  "title": "Duermevela"
  }
 }
