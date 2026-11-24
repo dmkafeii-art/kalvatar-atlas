@@ -1458,7 +1458,7 @@
    ],
    [
     "Dios bestia",
-    "Badron, el pájaro del trueno"
+    "Badron, el [[pájaro del trueno|thunderbird]]"
    ]
   ],
   "title": "Los Galven",
@@ -14220,19 +14220,75 @@
  },
  "badron-queen-of-feathers": {
   "gloss": "Badron, Queen of Feathers",
-  "subtitle": "Un Señor Salvaje",
-  "summary": "El ave del trueno, madre de las tormentas. Los vientos altos.",
+  "subtitle": "Madre de las tormentas",
+  "summary": "El pájaro del trueno, madre de las tormentas. Los vientos altos.",
   "facts": [
    [
     "Qué es",
-    "El ave del trueno, madre de las tormentas"
+    "El [[pájaro del trueno|thunderbird]], madre de las tormentas"
    ],
    [
     "Dónde",
     "Los vientos altos"
+   ],
+   [
+    "Atada a",
+    "el [[Aliento que Vaga|Breath That Wanders]], y la furia del cielo"
+   ],
+   [
+    "Rito",
+    "La [[Lectura de las Alas|Reading of the Wings]]"
    ]
   ],
-  "title": "Badron, Reina de las Plumas"
+  "title": "Badron, Reina de las Plumas",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Badron, Reina de las Plumas: el pájaro del trueno, madre de las tormentas.",
+     "Caza y alimento: Badron caza como caza el tiempo: llega. Donde bate las alas, nacen tormentas; saca ballenas de la superficie y barcos del oleaje, y se alimenta de las grandes bestias del mar abierto. Los marineros que ven su sombra sobre el agua dan la vuelta, si pueden.",
+     "Progenie: pájaros del trueno menores, dispersos por los aires altos; el raro linaje aarakocra dice descender de bestias que alguna vez la sirvieron.",
+     "Cultos y tribus: los aethyn la miran con una reverencia recelosa, como pariente del aire alto; la gente de la costa y de las islas lee sus apariciones como presagios de tormenta.",
+     "Rito: la Lectura de las Alas: antes de la temporada de tormentas, los que miran el cielo y los aethyn la buscan, y un avistamiento le cambia la forma a la navegación de la temporada.",
+     "Leyenda: que cada tormenta de verdad capaz de acabar con el mundo en la historia del archipiélago la ha tenido en el ojo, y que no es malvada, solo inmensa, y que las tormentas son solo lo que se ve cuando se estira."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Badron caza como caza el tiempo. Llega. Donde bate las alas, nacen tormentas. Saca ballenas de la superficie y barcos del oleaje. Los marineros que ven su sombra sobre el agua dan la vuelta, si pueden."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Pájaros del trueno menores, dispersos por los aires altos. El mayor es el [[Regente del Trueno|Thunder-Regent]], lo bastante viejo para tener tormentas propias. Gobierna el tiempo bajo mientras Badron duerme, y las tripulaciones galven bajan sus colores cuando pasa."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Los aethyn la miran con una reverencia recelosa, como pariente del aire alto. La gente de la costa la lee como presagio de tormenta y planea el año según eso."
+    ]
+   },
+   {
+    "title": "La Lectura de las Alas",
+    "paragraphs": [
+     "Antes de la temporada de tormentas, los que miran el cielo y los aethyn la buscan. Un solo avistamiento le cambia la navegación de esa temporada a cada puerto que se entera."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Cada tormenta de la historia de las islas que casi acaba con algo la ha tenido en el ojo."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIGh1ZXZvLioqIEVsIGh1ZXZvIGVzIHJlYWwsIHkgZXMgZGUgQmFkcm9uOiB1biBbW3DDoWphcm8gZGVsIHRydWVub3x0aHVuZGVyYmlyZF1dIGRlIGxhIFJlaW5hIGRlIGxhcyBQbHVtYXMsIHB1ZXN0byBlbiB1biBzYW50dWFyaW8gZGUgbG9zIGNpZWxvcyBxdWUgc3Ugcml2YWwgS2F5dW50dSBsbGFtYSBzdXlvcy4gUG9yIGVzbyBzdXMgdG9ybWVudGFzIHJlc3BvbmRlbiBjb24gdGFudGEgZnVlcnphLCB5IHBvciBlc28gYWxnbyBkZWwgc3VyIHB1ZWRlIHZlbmlyIGEgYnVzY2FybG8uIEVuIFtbVmVudG9yb3xHb2xkd2luZF1dLCBsb3MgZXN0aWJhZG9yZXMgb3Jjb3MgZGUgW1tDb3N0YWxhcmdhfExvbmdzaG9yZV1dIChNb3JnaGEgW1tTb3N0ZW5tdXJvc3xXYWxsLUhvbGRlcl1dKSBlc3TDoW4gbWlyYW5kbyBsbyBxdWUgZWwgW1tDb25zZWpvfENvdW5jaWxdXSBsZXMgaGFjZSBhIGxvcyBvcmNvcyBxdWUgcGVsZWFyb24gcG9yIMOpbC4iXX0="
+   }
+  ]
  },
  "hunted": {
   "gloss": "The Hunted",
@@ -14252,7 +14308,7 @@
  },
  "kakankal-emperor-of-flames": {
   "gloss": "KakanKal, Emperor of Flames",
-  "subtitle": "Un Señor Salvaje",
+  "subtitle": "El fuego dormido bajo Caída Eterna",
   "summary": "Una salamandra de fuego dormida en el magma. Bajo Caída Eterna.",
   "facts": [
    [
@@ -14262,13 +14318,69 @@
    [
     "Dónde",
     "Bajo [[Caída Eterna|Everfall]]"
+   ],
+   [
+    "Atada a",
+    "el [[Hambre que Calienta|Hunger That Warms]]"
+   ],
+   [
+    "Rito",
+    "La [[Vigilia de la Brasa|Ember Vigil]]"
    ]
   ],
-  "title": "KakanKal, Emperador de las Llamas"
+  "title": "KakanKal, Emperador de las Llamas",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "KakanKal, [[Emperador de las Llamas|Emperor of Flames]]: una salamandra de fuego dormida en el magma.",
+     "Caza y alimento: cuando despierta, KakanKal se alimenta de la isla misma, piedra, bosque y cualquier cosa viva, y del fuego crudo de lo hondo. Casi siempre duerme, y Caída Eterna vive en la pausa entre sus alientos.",
+     "Progenie: [[lagartos de fuego|fire-lizards]] menores, apreciados por los herreros (sus escamas mudadas y su sangre de brasa son tesoros de la forja); los cindren los tienen por casi sagrados.",
+     "Cultos y tribus: el antiguo culto del fuego de la Casa [[Corascua|Emberheart]] tiene lazos con él; los [[Guardianes de Ceniza|Ash Wardens]] (casi todos cindren) mantienen una vigilia sin fin por su despertar; la minería de Krysta de Rankar en las profundidades volcánicas puede despertarlo, y los [[Guardianes|Wardens]] de Ceniza juran que eso acabará con Caída Eterna.",
+     "Rito: la Vigilia de la Brasa: la guardia de los Guardianes de Ceniza, y las fiestas de las islas volcánicas que marcan cada año en que el Emperador no despierta.",
+     "Leyenda: que KakanKal no duerme sino que sueña, y que los temblores del volcán son el Emperador dándose vuelta, y que un día despertará con hambre, y Caída Eterna, con minas, casas y todo, será lo primero que coma."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "KakanKal duerme en el magma bajo Caída Eterna durante años, a veces décadas. Cuando despierta se come la isla: piedra, bosque y cualquier cosa viva. Caída Eterna vive en la pausa entre sus alientos."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Lagartos de fuego. Los herreros aprecian sus escamas mudadas y su sangre de brasa, y los cindren los tienen por casi sagrados."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "El viejo culto del fuego de la Casa Corascua tiene lazos con él. Los Guardianes de Ceniza mantienen una guardia sin fin por su despertar. Las casas mineras cavan buscando Krysta en la roca sobre su lecho, y los Guardianes juran que así es como termina Caída Eterna."
+    ]
+   },
+   {
+    "title": "La Vigilia de la Brasa",
+    "paragraphs": [
+     "El 5 de Okram los Guardianes de Ceniza hacen su guardia toda la noche, y las islas volcánicas hacen una fiesta por un año más en que el Emperador no despertó."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "No duerme. Sueña, y los temblores son el Emperador dándose vuelta. Un día despertará con hambre, y Caída Eterna será lo primero que coma."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSB5IHVuYSBndcOtYSBkZSBsb3MgR3VhcmRpYW5lcyBkZSBDZW5pemEsIGJhasOzIGEgbGEgY2FsZGVyYSBtaWVudHJhcyBLYWthbkthbCBkb3Jtw61hLiBTb2xvIHZvbHZpw7MgbGEgZ3XDrWEsIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gS2FrYW5LYWwgbm8gZGVzcGVydMOzLiBFbCBbW0xpYnJvIGRlIEhhemHDsWFzfExlZGdlciBvZiBEZWVkc11dIHJlZ2lzdHJhIGVsIGNvbnRyYXRvIGNvbW8gcmV0aXJhZG8gcG9yIGxhIEp1bnRhLiJdfQ=="
+   }
+  ]
  },
  "kayuntu-the-violent-monarch-of-the-five-skies": {
   "gloss": "Kayuntu, the Violent Monarch of the Five Skies",
-  "subtitle": "Un Señor Salvaje",
+  "subtitle": "El guiverno en guerra con la tormenta",
   "summary": "Un guiverno colosal que gobierna las capas del cielo; en guerra con Badron. Los cielos sobre las Tierras Salvajes.",
   "facts": [
    [
@@ -14278,13 +14390,64 @@
    [
     "Dónde",
     "Los cielos sobre las [[Tierras Salvajes|Wilds]]"
+   ],
+   [
+    "Atado a",
+    "el [[Aliento que Vaga|Breath That Wanders]]"
+   ],
+   [
+    "Rito",
+    "La [[Guardia de los Cinco|Watch of the Five]]"
    ]
   ],
-  "title": "Kayuntu, el Monarca Violento de los Cinco Cielos"
+  "title": "Kayuntu, el Monarca Violento de los Cinco Cielos",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Kayuntu, el Monarca Violento de los [[Cinco Cielos|Five Skies]]: un guiverno colosal que gobierna las capas del cielo; en guerra con Badron.",
+     "Caza y alimento: Kayuntu caza en vuelo por las cinco capas, persiguiendo a sus rivales (a Badron sobre todo) y a sus presas desde la brisa hasta el borde del [[Velo|Veil]]; se alimenta de todo lo que vuela y de todo lo que puede arrancar de abajo.",
+     "Progenie: guivernos menores de los aires altos, cada uno reclamando una franja angosta de cielo.",
+     "Cultos y tribus: los que miran el cielo y algunos aethyn siguen sus guerras por las capas; un choque de Kayuntu y Badron por los cielos es un presagio que nadie se pone de acuerdo en cómo leer.",
+     "Rito: la Guardia de los Cinco: los aethyn y los sacerdotes de la tormenta trazan qué capa gobierna Kayuntu en cada temporada, porque volar ahí es la muerte.",
+     "Leyenda: que Kayuntu, dos veces en la memoria registrada, voló tan alto que cruzó el velo delgado hacia el [[Feérico|Faewild]], y volvió cambiado, y más furioso."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Kayuntu gobierna por la altura. El cielo sobre las Tierras Salvajes tiene cinco capas: la brisa baja, la franja de las tormentas, la nube alta, la oscuridad fría de las estrellas y el borde delgado que toca el Feérico. Caza en vuelo por las cinco, se lleva todo lo que vuela y echa de sus cielos a cualquier rival. A Badron la odia más que a nada."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Guivernos menores de los aires altos, cada uno con una franja angosta de cielo y peleando con sus vecinos por ella."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Los que miran el cielo y los aethyn trazan sus guerras. Cuando Kayuntu y Badron se encuentran en lo alto, todos están de acuerdo en que es un presagio y nadie está de acuerdo en de qué."
+    ]
+   },
+   {
+    "title": "La Guardia de los Cinco",
+    "paragraphs": [
+     "Cada temporada los aethyn y los sacerdotes de la tormenta averiguan qué capa tiene Kayuntu. Volar ahí es la muerte, y las cartas galven se marcan en consecuencia."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Dos veces en la memoria ha volado tan alto que cruzó al Feérico. Las dos veces volvió cambiado, y más furioso."
+    ]
+   }
+  ]
  },
  "malim-the-laughing-flood": {
   "gloss": "Malim, the Laughing Flood",
-  "subtitle": "Un Señor Salvaje",
+  "subtitle": "El río que juega, y ahoga",
   "summary": "Una nutria gigante, juguetona y letal. Ríos, deltas, costas.",
   "facts": [
    [
@@ -14294,9 +14457,59 @@
    [
     "Dónde",
     "Ríos, deltas, costas"
+   ],
+   [
+    "Atada a",
+    "la [[Madre que Ahoga|Drowning Mother]]"
+   ],
+   [
+    "Rito",
+    "El [[Agua que Ríe|Laughing Water]]"
    ]
   ],
-  "title": "Malim, la Crecida que Ríe"
+  "title": "Malim, la Inundación que Ríe",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Malim, la [[Inundación que Ríe|Laughing Flood]]: una nutria gigante, juguetona y letal.",
+     "Caza y alimento: Malim juega. Juega con los botes como una nutria juega con una concha, a manotazos, arrastrándolos al fondo, saliendo a mirar, y flotas pesqueras enteras han desaparecido en sus juegos. Se alimenta de bestias de río y de peces en abundancia, así que lo letal que es con la gente no es hambre sino diversión, cosa que a la gente del río le da muchísimo más miedo.",
+     "Progenie: nutrias gigantes menores, traviesas y peligrosas, que infestan los ríos más grandes.",
+     "Cultos y tribus: las tribus del río la adoran y le temen por igual; mantienen limpios sus ríos para ella y les dicen a sus niños que Malim está mirando, así que sean amables con el agua.",
+     "Leyenda: que Malim una vez jugó con una niña que se ahogaba y, por un capricho que nadie sabe explicar, la llevó con cuidado a la orilla, y que por eso las tribus del río creen que la amabilidad con el agua se devuelve."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Malim juega. Trata un bote como una nutria trata una concha: le da manotazos, lo arrastra al fondo, sale a mirar. Flotas pesqueras enteras han desaparecido en sus juegos. Tiene todos los peces que quiere, así que no mata gente por hambre. Lo hace por diversión, y a la gente del río eso le parece muchísimo peor."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Nutrias gigantes, menores y aun así peligrosas, que infestan los ríos más grandes y salen a su progenitora."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Las tribus del río la adoran y le temen por igual. Mantienen limpios sus ríos para ella, y les dicen a sus niños que Malim está mirando, así que sean amables con el agua."
+    ]
+   },
+   {
+    "title": "El Agua que Ríe",
+    "paragraphs": [
+     "Una fiesta del río de música, carreras y ofrendas de pescado, que también se llama el [[Juego de Malim|Malim’s Play]]. Las tribus celebran lo mismo que podría ahogarlas. Saltarse la ofrenda, o ensuciar el río, es invitar a un juego."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Malim una vez jugó con una niña que se ahogaba, y después, sin ninguna razón que nadie sepa dar, la llevó con cuidado a la orilla. Las tribus del río dicen que por eso la amabilidad con el agua se devuelve."
+    ]
+   }
+  ]
  },
  "momumba-lord-of-apes": {
   "gloss": "Momumba, Lord of Apes",
