@@ -11526,6 +11526,118 @@
    ]
   }
  ],
+ "azhani": [
+  {
+   "name": "Azhani Emberstep",
+   "meta": "Medium Humanoid (Human), Chaotic Good",
+   "top": [
+    [
+     "Armor Class",
+     "15"
+    ],
+    [
+     "Initiative",
+     "+4 (14)"
+    ],
+    [
+     "Hit Points",
+     "78 (12d8 + 24)"
+    ],
+    [
+     "Speed",
+     "40 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "10",
+     "+0"
+    ],
+    [
+     "DEX",
+     "18",
+     "+4"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "12",
+     "+1"
+    ],
+    [
+     "WIS",
+     "14",
+     "+2"
+    ],
+    [
+     "CHA",
+     "18",
+     "+4"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Dex +6, Wis +4, Cha +6"
+    ],
+    [
+     "Skills",
+     "Acrobatics +6, Deception +6, Insight +4, Performance +8, Persuasion +6, Sleight of Hand +6, Stealth +6"
+    ],
+    [
+     "Senses",
+     "Passive Perception 12"
+    ],
+    [
+     "Languages",
+     "Common, Confederacy speech (Well-chant)"
+    ],
+    [
+     "Challenge",
+     "4 (XP 1,100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Emberstep.** Azhani's bare feet take no harm from anything they stand on. She ignores damage and Difficult Terrain that come only from what is underfoot: embers, ice, broken glass, caltrops, hot sand. It guards her feet, and nothing else.",
+      "**Kneels to No One.** Azhani has Advantage on saving throws against the Charmed and Frightened conditions, and on any check or saving throw to avoid or end the Prone condition.",
+      "**Dancer's Footing.** Azhani can't be knocked Prone by the motion of a ship, and she can move along a rail, a rope, or a ledge no wider than her foot at her full Speed without a check."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** Azhani makes two attacks, using Coin Sash or Dagger in any combination.",
+      "**Coin Sash.** *Melee Attack Roll:* +6, reach 10 ft. *Hit:* 7 (1d6 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, Azhani can pull it up to 5 feet straight toward her.",
+      "**Dagger.** *Melee or Ranged Attack Roll:* +6, reach 5 ft. or range 20/60 ft. *Hit:* 6 (1d4 + 4) Piercing damage.",
+      "**The Ember Dance (Recharge 5–6).** *Wisdom Saving Throw:* DC 14, each creature of Azhani's choice within 30 feet of her that can see her. *Failure:* The target has the Incapacitated condition until the end of Azhani's next turn, and can do nothing but watch her. The condition ends early on a target that takes damage. *Success:* The target has Disadvantage on the next attack roll it makes before the end of its next turn."
+     ]
+    },
+    {
+     "title": "Bonus Actions",
+     "items": [
+      "**The Turn.** Azhani moves up to half her Speed, and her movement doesn't provoke Opportunity Attacks."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "items": [
+      "**Spin Away.** Azhani halves the damage of one attack that hits her. To do so, she must see the attacker."
+     ]
+    }
+   ],
+   "notes": [
+    "She will bow to an audience from the waist, and to nobody lower."
+   ]
+  }
+ ],
  "travel": [
   {
    "kind": "ship",
