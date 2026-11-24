@@ -253,7 +253,10 @@
    "brightleaf",
    "chartback-tortoise",
    "giant-betta"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "southern-wilds",
@@ -5347,6 +5350,9 @@
    "height": 1024,
    "alt": "Three Hunters bring an injured adult traveler safely to a northern Lodge, each wearing their own rank-and-branch Sigil: an orc Warrior, a human Scout and a halfling Mage.",
    "caption": "As far as the road goes."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -5482,7 +5488,10 @@
     "label": "The High Command",
     "presentation": "gallery"
    }
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "concord",

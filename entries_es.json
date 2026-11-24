@@ -130,7 +130,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBsaWJyb3MgZGUgbG9zIE9zdHJlbC4qKiBMb3MgbGlicm9zIGRlIGxhIGNhc2EgZGVsIFtbRGllem1vIGRlIGxhIFB1ZXJ0YXxHYXRlLVRpdGhlXV0gbm8gc29uIHRvZG9zIGRlbCBbW0NvbnNlam98Q291bmNpbF1dLiBMYSBjYXNhIFZhbnRyZXkgbGxldmEgdW4gbGlicm8gZGUgcm90dXJhcywgeSBlc2UgbGlicm8gbWFuZGEgYWwgbm9ydGUgdW5hIHBpZWRyYSBkZSBEYXJsYXRoIGRlIGNhZGEgZG9jZSBiYWpvIGVsIHNlbGxvIGRlIGxvcyBPc3RyZWwsIGEgbGEgQ29ycG9yYWNpw7NuIFJhbmthci4gRWwgcGFnbyB2dWVsdmUgZW4ga29ydmFuZXMsIHF1ZSBBbGRvdXMgT3N0cmVsIGxhdmEganVudG8gY29uIGVsIGRpbmVybyBkZSBsYSBbW0xlZ2nDs258TGVnaW9uXV0gZGUgSmFudXMgUnVuZS4gRWwgQ29uc2VqbyB0aWVuZSBwcm9ncmFtYWRhIHVuYSBhdWRpdG9yw61hIHBhcmEgZWwgMTc2IEVDIHF1ZSBsYSBmaWFuemEgZGUgbG9zIE9zdHJlbCBwaWVuc2EgcGFzYXIuIiwgIioqTGEgQ29yb25hIERldnVlbHRhIGVzIHVuYSBwbGFudGEgaW1wZXJpYWwuKiogTG9zIHBhbmZsZXRvcyBzb24gcmVhbGVzLCB5IGFsZ3Vub3MgZGUgbG9zIGhvbWJyZXMgcXVlIGxvcyBlc2NyaWJpZXJvbiB0aWVuZW4gYnVlbmFzIGludGVuY2lvbmVzLiBFbCBwYXBlbCB5IGxhIGltcHJlbnRhIHNlIGNvbXByYXJvbiBjb24gZGluZXJvIGRlIFJhbmthciBkZXN2aWFkbyBhIHRyYXbDqXMgZGUgbG9zIHByb3ZlZWRvcmVzIGRlIGJhcmNvcyBkZSBbW0Z1ZXJ0ZSBkZSBIaWVycm98SXJvbmZvcnRdXSwgeSBhbCBhZ2VudGUgZGVsIFtbSW1wZXJpb3xJbXBlcml1bV1dLCBKYW51cyBSdW5lLCBsbyBoYW4gdmlzdG8gZW4gZWwgbXVlbGxlIGRlIEZ1ZXJ0ZSBkZSBIaWVycm8gY29uIG90cm8gbm9tYnJlLiIsICIqKkEgTW9ydGltZXIgVmFucmlzIGxvIHZpZ2lsYW4uKiogQ2Fzc2FuZHJhIERvc3NsYXMgZW1wZXrDsyBhIGxsZXZhciB1biBleHBlZGllbnRlIHNvYnJlIHN1IHNlw7FvciwgeSBlbCBleHBlZGllbnRlIHRpZW5lIHVuIHJlZ2lzdHJvIGRlIHN1cyBkZXVkYXMgY29uIGxhIGNhc2EgW1tIZWJyYW5lZ3JhfEJsYWNrc3RyYW5kXV0uIFNpIGEgUm9kcmljayBsZSBwaWRlbiBxdWUgdG9tZSBlbCBhc2llbnRvLCB2YSBhIG5lY2VzaXRhciBxdWUgcHJpbWVybyBzZSBzYWxkZW4gbGFzIGRldWRhcyBjb24gbG9zIEhlYnJhbmVncmEsIHkgc29sbyBNYWVyYSBIZWJyYW5lZ3JhIHNhYmUgY3XDoW50byBzdW1hbi4iLCAiKipFbCBHaWdhbnRlIGRlc3BpZXJ0YSBkZXNwYWNpby4qKiBFbCBlc3DDrXJpdHUgZGUgbGEgdGllcnJhIGJham8gZWwgcMOhcmFtbyBkZSBbW0NvbmbDrW4gZGVsIE5vcnRlfE5vcnRocmVhY2hdXSBubyBlc3TDoSBkb3JtaWRvLiBTZSBlc3TDoSBtb3ZpZW5kbywgdW4gcG9jbyBhIGxhIHZleiwgYmFqbyBsb3MgcmViYcOxb3MgdGFydmFuLCB5IGVsIGFsemFyc2UgZGUgbGFzIHZpZWphcyBwaWVkcmFzIGRlbCBww6FyYW1vIGVzIGxhIHByaW1lcmEgc2XDsWFsLiBMYXMgYXNhbWJsZWFzIHRhcnZhbiBsbyBzYWJlbiwgeSBzZSBsbyBoYW4gb2N1bHRhZG8gYSBsYXMgZ3Vhcm5pY2lvbmVzIGRlIGxhIFtbRnJvbnRlcmF8RnJvbnRpZXJdXSBkdXJhbnRlIHNlaXMgYcOxb3MuIiwgIioqTGEgdmVyZGFkZXJhIGNhcmdhIGRlIGxvcyBDb3JyZWRvcmVzIGRlIGxhIE5pZWJsYS4qKiBMb3MgY8OzZGlnb3MgZGUgY2FtcGFuYSBsbGV2YW4gbcOhcyBxdWUgbWVyY2FuY8OtYS4gTGEgU2XDsW9yYSBkZSBsYXMgQ2FtcGFuYXMgbWFuZGEgbWVuc2FqZXMgY29uIGxvcyBtaXNtb3MgY8OzZGlnb3MgYWwgQW5pbGxvIFZpZ2lsYW50ZSBkZSBsb3Mgc3BvcnJuLCBlbiBbW0FiYWpvfEJlbG93XV0sIHkgbG9zIHNwb3JybiBsZSByZXNwb25kZW4gZW4gZWwgR2F6bmF0ZSBjb24gbGEgY2FyZ2EgZGUgbG9zIG11ZXJ0b3MuIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBsaWJyb3MgZGUgbG9zIE9zdHJlbC4qKiBMb3MgbGlicm9zIGRlIGxhIGNhc2EgZGVsIFtbRGllem1vIGRlIGxhIFB1ZXJ0YXxHYXRlLVRpdGhlXV0gbm8gc29uIHRvZG9zIGRlbCBbW0NvbnNlam98Q291bmNpbF1dLiBMYSBjYXNhIFZhbnRyZXkgbGxldmEgdW4gbGlicm8gZGUgcm90dXJhcywgeSBlc2UgbGlicm8gbWFuZGEgYWwgbm9ydGUgdW5hIHBpZWRyYSBkZSBEYXJsYXRoIGRlIGNhZGEgZG9jZSBiYWpvIGVsIHNlbGxvIGRlIGxvcyBPc3RyZWwsIGEgbGEgW1tDb3Jwb3JhY2nDs24gUmFua2FyfFJhbmthciBDb3Jwb3JhdGlvbl1dLiBFbCBwYWdvIHZ1ZWx2ZSBlbiBrb3J2YW5lcywgcXVlIEFsZG91cyBPc3RyZWwgbGF2YSBqdW50byBjb24gZWwgZGluZXJvIGRlIGxhIFtbTGVnacOzbnxMZWdpb25dXSBkZSBKYW51cyBSdW5lLiBFbCBDb25zZWpvIHRpZW5lIHByb2dyYW1hZGEgdW5hIGF1ZGl0b3LDrWEgcGFyYSBlbCAxNzYgRUMgcXVlIGxhIGZpYW56YSBkZSBsb3MgT3N0cmVsIHBpZW5zYSBwYXNhci4iLCAiKipMYSBbW0Nvcm9uYSBEZXZ1ZWx0YXxSZXR1cm5lZCBDcm93bl1dIGVzIHVuYSBwbGFudGEgaW1wZXJpYWwuKiogTG9zIHBhbmZsZXRvcyBzb24gcmVhbGVzLCB5IGFsZ3Vub3MgZGUgbG9zIGhvbWJyZXMgcXVlIGxvcyBlc2NyaWJpZXJvbiB0aWVuZW4gYnVlbmFzIGludGVuY2lvbmVzLiBFbCBwYXBlbCB5IGxhIGltcHJlbnRhIHNlIGNvbXByYXJvbiBjb24gZGluZXJvIGRlIFJhbmthciBkZXN2aWFkbyBhIHRyYXbDqXMgZGUgbG9zIHByb3ZlZWRvcmVzIGRlIGJhcmNvcyBkZSBbW0Z1ZXJ0ZSBkZSBIaWVycm98SXJvbmZvcnRdXSwgeSBhbCBhZ2VudGUgZGVsIFtbSW1wZXJpb3xJbXBlcml1bV1dLCBKYW51cyBSdW5lLCBsbyBoYW4gdmlzdG8gZW4gZWwgbXVlbGxlIGRlIEZ1ZXJ0ZSBkZSBIaWVycm8gY29uIG90cm8gbm9tYnJlLiIsICIqKkEgTW9ydGltZXIgVmFucmlzIGxvIHZpZ2lsYW4uKiogQ2Fzc2FuZHJhIERvc3NsYXMgZW1wZXrDsyBhIGxsZXZhciB1biBleHBlZGllbnRlIHNvYnJlIHN1IHNlw7FvciwgeSBlbCBleHBlZGllbnRlIHRpZW5lIHVuIHJlZ2lzdHJvIGRlIHN1cyBkZXVkYXMgY29uIGxhIGNhc2EgW1tIZWJyYW5lZ3JhfEJsYWNrc3RyYW5kXV0uIFNpIGEgUm9kcmljayBsZSBwaWRlbiBxdWUgdG9tZSBlbCBhc2llbnRvLCB2YSBhIG5lY2VzaXRhciBxdWUgcHJpbWVybyBzZSBzYWxkZW4gbGFzIGRldWRhcyBjb24gbG9zIEhlYnJhbmVncmEsIHkgc29sbyBNYWVyYSBIZWJyYW5lZ3JhIHNhYmUgY3XDoW50byBzdW1hbi4iLCAiKipFbCBHaWdhbnRlIGRlc3BpZXJ0YSBkZXNwYWNpby4qKiBFbCBlc3DDrXJpdHUgZGUgbGEgdGllcnJhIGJham8gZWwgcMOhcmFtbyBkZSBbW0NvbmbDrW4gZGVsIE5vcnRlfE5vcnRocmVhY2hdXSBubyBlc3TDoSBkb3JtaWRvLiBTZSBlc3TDoSBtb3ZpZW5kbywgdW4gcG9jbyBhIGxhIHZleiwgYmFqbyBsb3MgcmViYcOxb3MgdGFydmFuLCB5IGVsIGFsemFyc2UgZGUgbGFzIHZpZWphcyBwaWVkcmFzIGRlbCBww6FyYW1vIGVzIGxhIHByaW1lcmEgc2XDsWFsLiBMYXMgYXNhbWJsZWFzIHRhcnZhbiBsbyBzYWJlbiwgeSBzZSBsbyBoYW4gb2N1bHRhZG8gYSBsYXMgZ3Vhcm5pY2lvbmVzIGRlIGxhIFtbRnJvbnRlcmF8RnJvbnRpZXJdXSBkdXJhbnRlIHNlaXMgYcOxb3MuIiwgIioqTGEgdmVyZGFkZXJhIGNhcmdhIGRlIGxvcyBbW0NvcnJlZG9yZXMgZGUgbGEgTmllYmxhfEZvZ3J1bm5lcnNdXS4qKiBMb3MgY8OzZGlnb3MgZGUgY2FtcGFuYSBsbGV2YW4gbcOhcyBxdWUgbWVyY2FuY8OtYS4gTGEgW1tTZcOxb3JhIGRlIGxhcyBDYW1wYW5hc3xCZWxsbWlzdHJlc3NdXSBtYW5kYSBtZW5zYWplcyBjb24gbG9zIG1pc21vcyBjw7NkaWdvcyBhbCBbW0FuaWxsbyBWaWdpbGFudGV8V2F0Y2hpbmcgUmluZ11dIGRlIGxvcyBzcG9ycm4sIGVuIFtbQWJham98QmVsb3ddXSwgeSBsb3Mgc3BvcnJuIGxlIHJlc3BvbmRlbiBlbiBlbCBbW0dhem5hdGV8R3VsbGV0XV0gY29uIGxhIGNhcmdhIGRlIGxvcyBtdWVydG9zLiJdfQ=="
    }
   ],
   "title": "Frontera del Norte"
@@ -138,9 +138,9 @@
  "heartland": {
   "gloss": "Central Heartland",
   "subtitle": "La moneda recuerda.",
-  "summary": "El centro rico y templado de la Kalvatar cartografiada: salas del Consejo, observatorios, gremios, porcelana y poder.",
+  "summary": "El centro rico y templado de la Kalvatar cartografiada: cámaras del Consejo, observatorios, gremios, porcelana y poder.",
   "epigraph": {
-   "quote": "En Ventoro cada deuda se recuerda, cada favor se cuenta y cada sonrisa tiene un libro de cuentas detrás.",
+   "quote": "En Ventoro cada deuda se recuerda, cada favor se cuenta, y cada sonrisa tiene un libro de cuentas detrás.",
    "by": "Un factor del Corazón, explicándole la ciudad a un primo"
   },
   "facts": [
@@ -161,47 +161,58 @@
    {
     "title": "El centro cartografiado",
     "paragraphs": [
-     "Ventoro es la capital, hogar del Consejo, la Universidad y la Casa de los Tesoreros. Más allá, [[Bastión del Sol|Sunhold]] es la isla más grande y una rival orgullosa, mientras [[Aguja Alta|Highspire]] vigila las estrellas y [[Caída Eterna|Everfall]] brilla bajo su volcán."
+     "Ventoro es la capital, sede del [[Consejo|Council]], de la [[Universidad|University]] y de la Casa de los Tesoreros. Más allá, [[Bastión del Sol|Sunhold]] es la isla más grande y una rival orgullosa, mientras [[Aguja Alta|Highspire]] mira las estrellas y [[Caída Eterna|Everfall]] brilla bajo su volcán."
     ]
    },
    {
     "title": "Una región de obligaciones",
     "paragraphs": [
-     "Aquí la riqueza viaja a través de contratos, favores y nombres que importan. La vida política del [[Corazón|Heartland]] es inseparable de sus gremios y sus casas, y las deudas tienen la costumbre de durar más que la gente que las contrajo."
+     "Aquí la riqueza viaja por contratos, favores y nombres que importan. La vida política del [[Corazón|Heartland]] no se puede separar de sus gremios y sus casas, y las deudas tienen la costumbre de sobrevivir a la gente que las contrajo primero."
     ]
    },
    {
     "title": "En las islas",
     "paragraphs": [
-     "El Corazón es el núcleo controlado del archipiélago, el centro próspero y templado donde se reúne el Consejo, enseña la Universidad y las grandes casas compiten por cada asiento que importa. Es cosmopolita de una manera en que la [[Frontera|Frontier]] no lo es. Eruditos, cortesanos, banqueros, maestros artesanos y los servidores de cien intereses enfrentados viven aquí, y todos aprendieron de jóvenes que una sonrisa y una hoja son la misma herramienta sostenida en ángulos distintos. El Corazón es la región más civilizada de las islas y la más peligrosa de subestimar.",
-     "Los cinco asientos del Consejo se llenan desde el Corazón, y el Congreso y la Casa de los Tesoreros deciden quién puede pedir prestado, construir y comprar. La región tiene los grandes bancos, el Registro Arcano de la Universidad, el templo más grandioso de la Concordia y las alturas del castillo de la Casa Vol Kaern, cuya sombra cae sobre un Consejo que todavía no gobierna. Cada familia ambiciosa del archipiélago tiene un primo que quiere un asiento en Ventoro, y cada asiento en Ventoro es una deuda esperando que la cobren.",
-     "La política del Corazón está trenzada con su vida social. La temporada social, con sus bailes y sus partidos, es un parlamento por otros medios. Las convocatorias de la Universidad son tan políticas como académicas. Las bendiciones del sol y la marea de la Concordia, los Juegos del Merrin en los puertos y las bodas nobles de la red Veldane son ocasiones para prometer un asiento o recordar una deuda. \"En Ventoro una sonrisa tiene dos caras\", dice el refrán, y es lo primero que aprende un visitante."
+     "El Corazón es el núcleo controlado del archipiélago, el centro próspero y templado donde se sienta el Consejo, enseña la Universidad y las grandes casas compiten por cada asiento que importa. Es cosmopolita de una manera en que la [[Frontera|Frontier]] no lo es. Eruditos, cortesanos, banqueros, maestros artesanos y los sirvientes de cien intereses en competencia viven aquí, y todos aprendieron de jóvenes que una sonrisa y una hoja son la misma herramienta sostenida en ángulos distintos. El Corazón es la región más civilizada de las islas y la más peligrosa de subestimar.",
+     "Los cinco asientos del Consejo se llenan desde el Corazón, y el Congreso y la [[Casa de los Tesoreros|Reckoners' Hall]] deciden quién puede pedir prestado, construir y comprar. La región tiene los grandes bancos, el [[Registro Arcano|Arcane Registry]] de la Universidad, el templo más grandioso de la [[Concordia|Concord]] y las alturas fortificadas de la Casa Vol Kaern, cuya sombra cae sobre el Consejo que todavía no gobierna. Cada familia ambiciosa del archipiélago tiene un primo que quiere un asiento en Ventoro, y cada asiento en Ventoro es una deuda esperando a que la cobren.",
+     "La política del Corazón está trenzada con su vida social. La temporada social, con sus bailes y sus partidos, es un parlamento por otros medios. Las convocatorias de la Universidad son tan políticas como académicas. Las bendiciones de sol y marea de la Concordia, los [[Juegos del Merrin|Merrin Games]] en los puertos y las bodas nobles de la red Veldane son ocasiones para prometer un asiento o recordar una deuda. “Una sonrisa en Ventoro tiene dos caras”, dice el dicho, y es lo primero que aprende un visitante."
     ]
    },
    {
     "title": "Geografía",
     "paragraphs": [
-     "El Corazón es un grupo de islas cerca del centro del mar cartografiado, con las ricas tierras de cultivo de las laderas del oeste, las terrazas luminosas de Bastión del Sol, los pantanos del golfo de Ventoro y la costa este de [[Puerto Plata|Silverport]] y [[Bastión del Este|Easthold]], frente al mar abierto. La tierra es templada, de inviernos suaves y veranos cálidos, y los vientos del Corazón son famosos. El golfo de Ventoro tiene la brisa de navegar más constante del archipiélago, que es la razón por la que Eamos construyó allí su pueblo, y la razón por la que las cometas de los grandes duelos del Corazón vuelan en las tardes de verano sobre el puerto, con sus hilos espolvoreados de vidrio.",
-     "El golfo de Ventoro es el corazón de la región. El puerto, el barrio de la banca, la Universidad y el Salón del Consejo se levantan en anillos ascendentes sobre él, y las alturas de los Vol Kaern coronan toda la ciudad. Las terrazas de Bastión del Sol trepan por las colinas del oeste en jardines escalonados de brightleaf y viñas. Aguja Alta es una isla aguja de la casa [[Cunaestrella|Starborn]], con torres que pasan las nubes y los [[Acantilados que Cantan|Singing Cliffs]] a lo largo de su costa. Aurelion está en la costa norte, en el humo de sus forjas. Caída Eterna es una isla volcánica del este, con sus cráteres y campos de vidrio sobre el [[Señor Salvaje|Savage Lord]] dormido KakanKal y las minas de Darlath. Puerto Plata y Bastión del Este miran al mar abierto por el este, y [[Atalaya del Oeste|Westwatch]] guarda la piedra y el carbón de las alturas del oeste. El [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, de donde sale el púrpura de arrecife que tiñe las túnicas del Consejo y del alto clero."
+     "El Corazón es un racimo de islas cerca del centro del mar cartografiado, con las ricas tierras de cultivo de las laderas del oeste, las terrazas luminosas de Bastión del Sol, las ciénagas del golfo de Ventoro y la costa este de [[Puerto Plata|Silverport]] y [[Bastión del Este|Easthold]], de cara al agua abierta. La tierra es templada, de inviernos suaves y veranos tibios, y los vientos del Corazón son famosos. El golfo de Ventoro tiene la brisa de navegar más constante del archipiélago, que es por lo que Eamos fundó su pueblo ahí, y por lo que las cometas de los grandes duelos de cometas del Corazón vuelan con hilos empolvados de vidrio sobre el puerto en las tardes de verano.",
+     "El golfo de Ventoro es el corazón de la región. El puerto, el barrio de los bancos, la Universidad y el [[Salón del Consejo|Council Hall]] se levantan en anillos que suben sobre él, y las alturas Vol Kaern coronan toda la ciudad. Las Terrazas de Bastión del Sol trepan las colinas del oeste en jardines de té tallados en escalones, de hoja clara y de viñas. Aguja Alta es una isla aguja de la casa [[Cunaestrella|Starborn]], con torres que suben por encima de las nubes y los [[Acantilados que Cantan|Singing Cliffs]] a lo largo de su orilla. Aurelion está en la costa norte, entre el humo de sus forjas. Caída Eterna es una isla volcánica del este, con cráteres y campos de vidrio sobre el [[Señor Salvaje|Savage Lord]] dormido KakanKal y las minas de Darlath. Puerto Plata y Bastión del Este miran al mar abierto por el este, y [[Atalaya del Oeste|Westwatch]] tiene la piedra y el carbón de las alturas del oeste. El [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, la fuente del púrpura de arrecife que tiñe las túnicas del Consejo y del alto clero."
     ]
    },
    {
     "title": "Vida y sociedad",
     "paragraphs": [
-     "La gente del Corazón es urbana, política y aficionada a lucirse. La ropa es la posición hecha visible: sedas, brocados y lanas finas, con los colores y los emblemas de las casas llevados con cuidado y las modas siempre cambiantes de Ventoro dictadas por los sastres del Congreso. Por costumbre, el púrpura de arrecife se reserva para los asientos del Consejo y el alto clero; los tintes del sur pagan los códigos de aduana de los Holst al entrar y se llevan como una declaración de los medios de quien los viste. La gente de la Universidad lleva los anillos de cobre de su rango de conjuros con licencia. La gente trabajadora del Corazón viste color avena y azul.",
-     "La comida es la cocina de la abundancia. Platos especiados y salsas delicadas, la comida perfumada de incienso de Puerto Plata, los buenos vinos de las colinas de Bastión del Sol, el licor goldcask, un kellum añejado en barricas de vino, y el cacao ceremonial amargo del sur llegan todos a las mesas del Corazón. La bebida caliente del Corazón es la taza pálida de brightleaf con cítricos, y las cafeterías pelean contra los cultivadores de las terrazas con el fervor de una venganza familiar. El [[Pastel Alavento|Windborne Cake]], un pan dulce de los panaderos de Ventoro, se vende al alba en el muro del puerto, y el Coro [[Alavento|Windborne]] canta desde el muro cuando se abren las persianas de los panaderos.",
-     "Los pasatiempos de la región son el juego de cartas llamado Consejo, que se juega en cada salón y se les enseña a los hijos de las casas, y los duelos de cometas de las tardes de verano. La Vuelta, el paseo del atardecer por el muro del puerto de Ventoro, es el gran escenario social de la ciudad. En una tarde de verano, todo el que importa pasea por el muro, y todo el que quiere importar también.",
-     "Los refranes del Corazón son cortesanos y de doble filo. La ley del Consejo, el peso moral de la Concordia, los tribunales de las propias casas y los códigos de aduana de los Holst se superponen, y el Registro Arcano se aplica con un celo especial. La riqueza y la posición tuercen los resultados, y todos fingen lo contrario, lo cual es en sí mismo una especie de ley."
+     "La gente del Corazón es urbana, política y amiga del lucimiento. La ropa es la posición hecha visible: sedas, brocados y lanas finas, con los colores y los sellos de la casa llevados con cuidado, y las modas siempre cambiantes de Ventoro que dictan los sastres del Congreso. El púrpura de arrecife queda reservado por costumbre para los asientos del Consejo y el alto clero; los tintes del sur pagan los códigos de aduana de los Holst al entrar y se llevan como una afirmación de los medios de quien los viste. La gente de la Universidad lleva los anillos de cobre de su rango de conjuros con licencia. La gente trabajadora del Corazón viste de avena y azul.",
+     "La comida es la cocina de la abundancia. Platos especiados y salsas delicadas, la comida de incienso y especias de Puerto Plata, vinos finos de las colinas de Bastión del Sol, el licor de barrica dorada, kellum añejado en barricas de vino, y el amargo cacao ceremonial del sur llegan a las mesas del Corazón. La bebida caliente del Corazón es la taza pálida de hoja clara con cítricos, y las casas de café pelean con los cultivadores de las terrazas por ella con el fervor de una enemistad. El [[Pastel Alavento|Windborne Cake]], un pan dulce de los panaderos de Ventoro, se vende en el muro del puerto al amanecer, y el [[Coro Alavento|Windborne Choir]] canta desde el muro cuando se abren los postigos de los panaderos.",
+     "Los pasatiempos de la región son el juego de cartas Consejo, que se juega en todos los salones y se les enseña a los hijos de las casas, y los duelos de cometas de las tardes de verano. La [[Vuelta|Turning]], el paseo del atardecer por el muro del puerto de Ventoro, es el gran escenario social de la ciudad. En una tarde de verano, todos los que importan caminan por el muro, y todos los que quieren importar también.",
+     "Los dichos del Corazón son cortesanos y de doble filo. La ley del Consejo, el peso moral de la Concordia, los tribunales propios de las casas y los códigos de aduana de los Holst se superponen, y el Registro Arcano se hace cumplir con un celo especial. La riqueza y la posición tuercen los resultados, y todos fingen que no, lo que ya es en sí una especie de ley."
+    ]
+   },
+   {
+    "title": "La moda de los estanques del sur",
+    "paragraphs": [
+     "Algunos nobles y casas ricas empezaron a traer aletajoyas de Jakupur. Los estanques bajo techo construidos alrededor de un solo pez espectacular se están volviendo una muestra de riqueza de moda, y una colección más grande necesita estanques separados."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Mortimer Vanris va a venderle el Guardatormentas al Corazón antes de que termine el año. Su hermano ya le escribió al Consejo sobre eso.” (se oye en la Frontera del Norte)",
-     "“Tana Sukuun le vendió una mandíbula terrible al Corazón. El comprador es un agente de los Vol Kaern, y el sauriano lleva el nombre de la torre Vol Kaern.” (se oye en las Tierras Salvajes del Sur)",
-     "“Vieron a Dio Corascua paseando por los jardines de Bastión del Sol. Los que lo vieron dicen que no era del todo el mismo hombre que paseaba ahí el año pasado.” (se oye en el Corazón Central)",
+     "“Mortimer Vanris va a venderle Guardatormentas al Corazón antes de que termine el año. Su hermano ya le escribió al Consejo sobre eso.” (se oye en la Frontera del Norte)",
+     "“Tana Sukuun le vendió una mandíbula terrible al Corazón. El comprador es un agente de los Vol Kaern, y el saurio lleva el nombre de la torre de los Vol Kaern.” (se oye en las Tierras Salvajes del Sur)",
+     "“Vieron a Dio Corascua caminando por los jardines de Bastión del Sol. Los que lo vieron dicen que no era del todo el mismo hombre que caminaba por ahí el año pasado.” (se oye en el Corazón Central)",
      "“Kastan Vol Kaern está comprando las deudas de Bastión a través de la casa Zane. Va a ser dueño de la puerta de la Frontera antes de que el Consejo sepa que empezó.” (se oye en el Corazón Central)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKltbTGEgQ29ydGUgZGUgSHVlc29zfFRoZSBDb3VydCBvZiBCb25lc11dKiogc2Ugc2llbnRhIGJham8gW1tWZW50b3JvfEdvbGR3aW5kXV0sIGRldHLDoXMgZGVsIFtbVmVsbyBkZSBTb21icmFzfFZlaWwgb2YgU2hhZG93c11dLCB5IHN1IHNlw7FvciBlcyBlbCBmdW5kYWRvciBkZSBsYSBjaXVkYWQsIEVhbW9zIFZlbnRvcm8sIHVuIGxpY2hlICh2ZXIgKkxhIFtbQ29ydGUgZGUgSHVlc29zfENvdXJ0IG9mIEJvbmVzXV0qKS4iLCAiKipEaW8gW1tDb3Jhc2N1YXxFbWJlcmhlYXJ0XV0gZXMgdW5hIGNvcGlhLioqIEVsIERpbyBxdWUgc2UgcGFzZWEgcG9yIGxhIHNvY2llZGFkIGVzIHVuYSBjb3BpYSBkZWZlY3R1b3NhIHNhY2FkYSBkZWwgW1tDb3JhesOzbiBkZSBLYXRofEhlYXJ0IG9mIEthdGhdXSBlbiBsYXMgY3ViYXMgYmFqbyBsYXMgbWluYXMgZGUgRGFybGF0aC4gRWwgdmVyZGFkZXJvIERpbyBlc3TDoSBlbiB1bmEgY8OhbWFyYSBkZSBlc3Rhc2lzIGVzY29uZGlkYSwgY29uIHN1IG1lbnRlIHJldGVuaWRhIHBvciBlbCBmcmFnbWVudG8gY29tbyBtb2xkZS4gSWduYXRpdXMgQ29yYXNjdWEgYWNlcHTDsyBlbCBkaW5lcm8gZGVsIFtbSW1wZXJpb3xJbXBlcml1bV1dIHBhcmEgcXVlIGxhIGNvcGlhIHNpZ2EgY2FtaW5hbmRvLiBDYWxpZHJhIHNvc3BlY2hhLCB5IG5vIGRpY2UgbmFkYSwgcG9ycXVlIERpbyBwYXJlY2UgZXN0YXIgbWVqb3JhbmRvLiIsICIqKkVsIHBsYW4gZGUgS2FzdGFuIFZvbCBLYWVybiB5YSBlc3TDoSBlbiBtYXJjaGEuKiogQ29tcHLDsyBsYXMgZGV1ZGFzIGRlIFtbQmFzdGnDs258QmFzdGlvbl1dIGEgdHJhdsOpcyBkZSBsYSBjYXNhIFphbmUgeSB0aWVuZSBlbCBwYXBlbCBkZSBsb3MgW1tEb3JhZ3VqYXxHb2xkc3BpcmVdXSBhIHRyYXbDqXMgZGUgbG9zIGNvbXByYWRvcmVzIGRlIGxhIFtbQ29tcGHDscOtYSBDYXNhY2FydGF8Q2hhcnRlcmhvdXNlIENvbXBhbnldXS4gVG9kYXbDrWEgbm8gdGllbmUgZWwgW1tDb25zZWpvfENvdW5jaWxdXSwgcGVybyB0aWVuZSBsb3MgcGFnYXLDqXMgcXVlIHZhbiBhIGRlY2lkaXIgcXVpw6luIHNlIHNpZW50YSBlbiBzdXMgc2lsbGFzLiIsICIqKkxhIFtbQm9sc2EgRG9yYWd1amF8R29sZHNwaXJlIEV4Y2hhbmdlXV0gZXN0w6EgZW4gcXVpZWJyYS4qKiBMb3MgW1tIZWJyYW5lZ3JhfEJsYWNrc3RyYW5kXV0gdGllbmVuIHN1IHBhcGVsLCB5IGxhIENvbXBhw7HDrWEgQ2FzYWNhcnRhIGNvbXByw7MgbGEgZGV1ZGEgYSB0cmF2w6lzIGRlIGxhIENhc2EgWmFuZSBwYXJhIHF1ZWRhcnNlIGNvbiBlbCBwaXNvIGRlIGxhIEJvbHNhLiBbW0xhcyBEb2NlIEJhbmRlcmFzfFRoZSBUd2VsdmUgRmxhZ3NdXSBubyBsbyBzYWJlbi4gRWwgZGVjaW1vdGVyY2VyIGVuY2FqZSwgcXVlIG51bmNhIGhhIHRlbmlkbyBiYW5kZXJhLCBlcyBlbCB2ZXJkYWRlcm8gb2JqZXRpdm8gZGUgbGEgQ29tcGHDscOtYS4iLCAiKipMYSBwbGF0YSBkZSBsYSBbW0NlY2F8TWludF1dIHZhIGEgbGEgW1tWaWdpbGlhfFZpZ2lsXV0uKiogRGVzZGUgZWwgMTUwIEVDIGxhIENlY2EgaGEgYWRlbGdhemFkbyBsYXMgW1tNYXJlYXN8VGlkZXNdXSBlbiB1biBub3Zlbm8gcGFyYSBhbGltZW50YXIgbGFzIGNhbXBhbmFzIHkgbG9zIGdyaWxsZXRlcyBkZSBwbGF0YSBkZSBsYSBbW1ZpZ2lsaWEgZGUgUGxhdGF8U2lsdmVyIFZpZ2lsXV0uIEJlbG1hcmlzIGZ1bmRlIGxhcyBjYW1wYW5hcyBiYWpvIGVsIFNpbGVuY2lvLCB5IE1hZXJhIEhlYnJhbmVncmEgcGFnYSBsYSBWaWdpbGlhIGEgdHJhdsOpcyBkZSBsYSBbW0TDqWNpbWEgQ3VlbnRhfFRlbnRoIEFjY291bnRdXS4gRWwgW1tDb3JhesOzbnxIZWFydGxhbmRdXSBlc3TDoSBwYWdhbmRvIGxvIHF1ZSBlbCBDb25zZWpvIGVzY29uZGUgZW4gZWwgc3VyLiIsICIqKkNvcnZhbmUgbGVlIGVsIGNvcnJlby4qKiBMYSBjYXNhIENvcnZhbmUgbGVlIGxhIGNvcnJlc3BvbmRlbmNpYSBkZWwgQ29yYXrDs24gcGFyYSBsYXMgW1tDYXNhY2FzIE5lZ3Jhc3xCbGFjayBDb2F0c11dIHkgbGUgdmVuZGUgZWwgcmVzdG8gYSBsYSBbW01hZGVqYXxTa2Vpbl1dLiBKYW51cyBSdW5lIHRpZW5lIHVuIGhvbWJyZSBhIGJvcmRvIGRlbCAqW1tEZXVkYSBkZSBsYSBHb2xvbmRyaW5hfFN3YWxsb3cncyBEZWJ0XV0qIHF1ZSBpbmZvcm1hIGRlIGNhZGEgY2FydGEgcXVlIHRvY2EgYWwgQ29uZ3Jlc28uIiwgIioqTG9zIHJlZ2lzdHJvcyBkZSBsb3MgQ2FlbHZhcm9uIHRpZW5lbiBsYSBwcmltZXJhIGZlY2hhIGRlIGxhIFtbSGVyaWRhfFdvdW5kXV0uKiogTGEgY29ydGUgZGUgRWx5cmlhIGd1YXJkw7MgdW4gcmVnaXN0cm8gZGUgbG9zIHRyZXMgbHVnYXJlcyBzaWxlbmNpb3NvcyBkZWwgMTQ4IEVDLCBlc2NyaXRvIHBvciB1biBlbGZvIHF1ZSBlc3R1dm8gcHJlc2VudGUgZW4gbG9zIHByaW1lcm9zIHBvc3RlcyBkZSBsYSBbW0VtcGFsaXphZGF8UGFsZV1dLiBFbCByZWdpc3RybyBub21icmEgbGEgcGV0aWNpw7NuIGRlIEVkcmluIENhdWwgZGUgdW4gcmVlbmNlbmRpZG8sIHkgZXMgZWwgw7puaWNvIGRvY3VtZW50byBxdWUgbG8gaGFjZS4iXX0="
    }
   ],
   "title": "Corazón Central"
@@ -278,7 +289,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKltbUGFuIGRlIFBlc2NhZG98RmlzaGJyZWFkXV0gZXMgZWwgZ2F0byBkZWwgW1tEZXNhdGFkb3xVbmJvdW5kXV0uKiogRWwgUXVpbnRvIFtbQXJjaGlmZcOpcmljb3xBcmNoZmV5XV0gbm8gdGllbmUgY29ydGUsIG5pIHRyb25vLCBuaSBub21icmUsIHkgc2UgYXNvbWEgYSBLYWx2YXRhciBhIHRyYXbDqXMgZGUgc3UgZ2F0by4gQSBQYW4gZGUgUGVzY2FkbyBubyBzZSBsZSBwdWVkZSBoYWNlciBkYcOxbyB5IG5vIHBlbGVhOyBsbyBxdWUgbG8gYW1lbmF6YSBzZSBlbmN1ZW50cmEgZGUgcHJvbnRvIGVuIG90cmEgcGFydGUsIGNhc2kgc2llbXByZSBlbiBlbCByw61vLiBMZSBndXN0YW4gTGFjdGluaXVzIFtbTGxhbWF2aWVudG9zfFdpbmRjYWxsZXJdXSwgZWwgW1twYW4gZGUgcGVzY2Fkb3xmaXNoYnJlYWRdXSB5IGVsIHNvbmlkbyBkZSBsYSBsbHV2aWEgZW4gbG9zIEVzY2Fsb25lcywgZW4gZXNlIG9yZGVuLiIsICIqKkphbnVzIFJ1bmUgZmluYW5jaWEgYSBsYSBbW0xlZ2nDs258TGVnaW9uXV0uKiogRWwgY29mcmUgZGUgZ3VlcnJhIGRlIGxhIFtbTGVnacOzbiBDYXJtZXPDrXxDcmltc29uIExlZ2lvbl1dIGVzIGltcGVyaWFsLiBMYSBtYXlvcsOtYSBkZSBzdXMgc29sZGFkb3Mgc29uIHNpbmNlcm9zLCB5IGxhIG1heW9yw61hIG5vIHRpZW5lIGlkZWEgZGUgcXVlIHN1IGRpbmVybyB2aWVuZSBkZWwgYWdlbnRlIGRlbCBbW0ltcGVyaW98SW1wZXJpdW1dXS4gTG9zIGplZmVzIGRlIGxhIExlZ2nDs24gbG8gc2FiZW4sIHkgbGVzIGhhbiBkaWNobyBxdWUgZXNlIGRpbmVybyBjb21wcmFyw6EgYWwgZmluYWwgbGEgbGliZXJ0YWQgZGVsIHN1ci4iLCAiKipMYSBbW01hZHJlIEVzY2FybGF0YXxTY2FybGV0IE1vdGhlcl1dIGVzIFZlbHphLioqIExhIHRpZmxpbiBhIGxhIHF1ZSBhZG9yYSBsYSBMZWdpw7NuIGVzIHVuYSBtdWplciBsbGFtYWRhIFZlbHphLCB1c2FkYSBwb3IgZWwgSW1wZXJpbyB5IHBvciBlbCBkYWltw7NuIG9ya2EgVmFuaXJpb25pcywgcXVlIG5vIHRpZW5lIG5hZGEgcXVlIHZlciBjb24gbGEgW1tDYXNhfEhvdXNlXV0gQWxhc3Rvci4gTGEgbcOhc2NhcmEgYmFqbyBHb2xnYXJtYSBlcyBkZSBWYW5pcmlvbmlzLCB5IGF0cmFlIGEgbGEgTWFkcmUgRXNjYXJsYXRhLCBxdWUgcXVpZXJlIGFycm9kaWxsYXJzZSBhbnRlIGVsbGEuIiwgIioqQ2FsZHJlbiBWb3NzcmV0aCBlcyB1biBzaWVydm8uKiogRWwgW1tTZcOxb3J8TG9yZF1dIGRlIGxhIENvcm9uYSBIdWVjYSBlcyBzaWVydm8gZGUgVmVsZW1ub3MsIGVsIFtbUGF0csOzbiBkZSBNZWRpYW5vY2hlfE1pZG5pZ2h0IFBhdHJvbl1dLCB5IGxvIHNhYmUuIEhhIG1hbnRlbmlkbyBjcnVlbCBhIHN1IGNhc2EgcGFyYSBtYW50ZW5lcmxhIHZpdmEsIHkgYnVzY2EgdW5hIGZvcm1hIGRlIHJvbXBlciBsYSBzZXJ2aWR1bWJyZSBkZXNkZSBxdWUgbXVyacOzIHN1IHBhZHJlLiIsICIqKltbUGFyYW1vZ3LDrXN8R3JleW1vb3JdXSBheXVkYSBhIGxvcyBSb21wZWNhZGVuYXMuKiogTGEgY2FzYSBqdXN0YSBkZWwgc3VyIGxlcyBkYSBhIGxvcyBSb21wZWNhZGVuYXMgcGxhdGEsIHBhbG8gZGUgaGllcnJvIHkgY2FzYXMgc2VndXJhcyBhIGxvIGxhcmdvIGRlbCByw61vLiBJbWFyYSBQYXJhbW9ncsOtcyBjcmVlIHF1ZSBuYWRpZSBsbyBzYWJlLCB5IGEgc3UgbWF5b3Jkb21vIGxlIHBhZ2FuIHBhcmEgcXVlIGd1YXJkZSBlbCBzZWNyZXRvLiBMYSBNYWRyZSBkZSBsYXMgQXB1ZXN0YXMgbG8gc2FiZS4iLCAiKipFbCBnYW5hZG8gZGUgZ3VlcnJhIGRlIGxvcyBTdWt1dW4gdmEgYWwgbm9ydGUuKiogTGFzIG1lam9yZXMgbMOtbmVhcyBkZSBzYW5ncmUgZGUgVGFuYSBTdWt1dW4gc2UgZW1iYXJjYW4gaGFjaWEgbGEgQ2FzYSBWb2wgS2Flcm4gYSB0cmF2w6lzIGRlIGxvcyBhYmFuZGVyYWRvcyBEYWx0cm9zc29zLiBMb3MgYWdlbnRlcyBkZSBLYXN0YW4gVm9sIEthZXJuIGNvbXByYW4gc2F1cmlvcyBkZSBndWVycmEgcGFyYSBxdWUgbG9zIG1vbnRlIGVsIGVqw6lyY2l0byBkZWwgW1tDb3JhesOzbnxIZWFydGxhbmRdXSwgeSBsb3MgZXN0YWJsb3MgU3VrdXVuIG5vIHByZWd1bnRhbiBwb3IgcXXDqS4iLCAiKipGZW5uaWNrIHZlbmRlIGVsIGNhZsOpIG5vIGxpYnJlIGNvbW8gc2kgZnVlcmEgZGUgUGFyYW1vZ3LDrXMuKiogTG9zIGZhY3RvcmVzIEZlbm5pY2sgY29tcHJhbiBjYWbDqSBkZSBsYXMgcGxhbnRhY2lvbmVzIG5vIGxpYnJlcyBkZSBsb3MgVm9zc3JldGggeSBsbyB2ZW5kZW4gY29uIGVsIG5vbWJyZSBkZSBQYXJhbW9ncsOtcywgZGUgbW9kbyBxdWUgbGEgcmVwdXRhY2nDs24gZGUgbGEgY2FzYSBqdXN0YSBwYWdhIGxhIGNvc2VjaGEgZGUgbGEgY2FzYSBxdWUgbm8gbG8gZXMuIiwgIioqTG9zIG9ydW1hIHNhY2FuIGEgbG9zIGxpYmVyYWRvcy4qKiBMYSBbW0hlcm1hbmEgSHVtb3xTaXN0ZXIgU21va2VdXSwgbGEgQ29ycmVkb3JhIGRlIGxhIEhvamEgTmVncmEsIGVzIGRlbCBjbGFuIGZsdXZpYWwgb3J1bWEsIHkgbGFzIGNhbm9hcyBvcnVtYSBsbGV2YW4gYSBsb3MgdHJhYmFqYWRvcmVzIGxpYmVyYWRvcyBwb3IgbGFzIFtbTnVldmUgQm9jYXN8TmluZSBNb3V0aHNdXSBhcnJpYmEgaGFzdGEgbGFzIGFsZGVhcyBkZSBsb3MgUmVjdXBlcmFkb3Jlcy4gQSBsb3MgbGlicm9zIGRlIHNlcnZpZHVtYnJlIGRlIGxhIFtbQ29tcGHDscOtYSBDYXNhY2FydGF8Q2hhcnRlcmhvdXNlIENvbXBhbnldXSBsZXMgZmFsdGFuIGp1c3RvIGxvcyBub21icmVzIHF1ZSBsbGV2YW4gbGFzIGNhbm9hcy4iLCAiKipFbCAqQ3VsdmVyaW4qIHZ1ZWxhLioqIEVsIGJhcmNvIGRlIERhbXllbCBEb3InVmFsaWF0aCBlcyB1bmEgbmF2ZSBjZWxlc3RlIGthcmF6dW4gcXVlIGF0cmFjYSBjb21vIG1lcmNhbnRlLiBEYW15ZWwgbmVnb2Npw7MgbGFzIG5hdmVzIGNlbGVzdGVzIHNlY3JldGFzIGRlIGxhIEFybWFkYSB5IGVzIHVubyBkZSBsYSBkb2NlbmEgcXVlIHNhYmVuIHF1ZSBleGlzdGVuIChWb2x1bWVuIFhJKS4gTGFzIFtbQ2FzYWNhcyBOZWdyYXN8QmxhY2sgQ29hdHNdXSBndWFyZGFuIHN1IHNlY3JldG8geSBsbyBtYW50aWVuZW4gdmlnaWxhZG8uIFRoZXJyZWsgS3JhZ2hhbW1lciB2aW8gYWwgKkN1bHZlcmluKiBzYWxpciBkZWwgYWd1YSB1bmEgbm9jaGUsIHkgcG9yIGVzbyBxdWllcmUgc3ViaXIgYSBib3JkbyBjb24gdGFudGFzIGdhbmFzLiIsICIqKkR1bnNsaSBlcyB1biBleHBsb3JhZG9yIGRlIFtbbG9zIHF1ZSBTdWJlbnx0aGUgVXB3YXJkXV0uKiogKkR1bnNsaSogZXMgZWwgcmVjb3J0ZSBxdWUgaGFjZW4gbG9zIG11ZWxsZXMgZGUgdW4gbGFyZ28gbm9tYnJlIGRyb3cgcXVlIMOpbCBubyBkaWNlIGRvcyB2ZWNlcy4gU3ViacOzIHBhcmEgY29ub2NlciBsYSBzdXBlcmZpY2llIHkgcXVpw6luIGxlIGRlYmUgcXXDqSBhIHF1acOpbiwgeSB2aXZlIGVuIEpha3VwdXIgcG9ycXVlIGxhIFtbUHVlcnRhfEdhdGVdXSBkZSBsYSBMbGFtYSBiYWpvIGxhIGNpdWRhZCBlcyBsYSBwdWVydGEgbcOhcyBjZXJjYW5hIGEgc3UgY2FzYSAoVm9sdW1lbiBYWElJKS4gTGEgW1tMbGFtYSBTYWdyYWRhfFNhY3JlZCBGbGFtZV1dIHNhYmUgbG8gcXVlIGVzIGRlc2RlIGxhIG5vY2hlIGVuIHF1ZSBsbGVnw7MuIiwgIioqRWwgc29iZXJhbm8gZGUgbGEgcmVnZW5jaWEgZXMgbGEgTGxhbWEgU2FncmFkYS4qKiBFbCBwYWN0byBmdW5kYWNpb25hbCBkZSBKYWt1cHVyIG5vbWJyYSBhIGxhIGhvamEgZXNjb25kaWRhIGNvbW8gdmVyZGFkZXJhIGdvYmVybmFudGUgZGUgbGEgY2l1ZGFkLCB5IGxhIFtbTGxhbWEgQmxhbmNhfFdoaXRlIEZsYW1lXV0gZ29iaWVybmEgZW4gc3Ugbm9tYnJlLiBUaGlzbHVtIEJsYWNraG9nZW4gbGUgcmVzcG9uZGUgYSBlbGxhLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKltbUGFuIGRlIFBlc2NhZG98RmlzaGJyZWFkXV0gZXMgZWwgZ2F0byBkZWwgW1tEZXNhdGFkb3xVbmJvdW5kXV0uKiogRWwgUXVpbnRvIFtbQXJjaGlmZcOpcmljb3xBcmNoZmV5XV0gbm8gdGllbmUgY29ydGUsIG5pIHRyb25vLCBuaSBub21icmUsIHkgc2UgYXNvbWEgYSBLYWx2YXRhciBhIHRyYXbDqXMgZGUgc3UgZ2F0by4gQSBQYW4gZGUgUGVzY2FkbyBubyBzZSBsZSBwdWVkZSBoYWNlciBkYcOxbyB5IG5vIHBlbGVhOyBsbyBxdWUgbG8gYW1lbmF6YSBzZSBlbmN1ZW50cmEgZGUgcHJvbnRvIGVuIG90cmEgcGFydGUsIGNhc2kgc2llbXByZSBlbiBlbCByw61vLiBMZSBndXN0YW4gTGFjdGluaXVzIFtbTGxhbWF2aWVudG9zfFdpbmRjYWxsZXJdXSwgZWwgW1twYW4gZGUgcGVzY2Fkb3xmaXNoYnJlYWRdXSB5IGVsIHNvbmlkbyBkZSBsYSBsbHV2aWEgZW4gbG9zIEVzY2Fsb25lcywgZW4gZXNlIG9yZGVuLiIsICIqKkphbnVzIFJ1bmUgZmluYW5jaWEgYSBsYSBbW0xlZ2nDs258TGVnaW9uXV0uKiogRWwgY29mcmUgZGUgZ3VlcnJhIGRlIGxhIFtbTGVnacOzbiBDYXJtZXPDrXxDcmltc29uIExlZ2lvbl1dIGVzIGltcGVyaWFsLiBMYSBtYXlvcsOtYSBkZSBzdXMgc29sZGFkb3Mgc29uIHNpbmNlcm9zLCB5IGxhIG1heW9yw61hIG5vIHRpZW5lIGlkZWEgZGUgcXVlIHN1IGRpbmVybyB2aWVuZSBkZWwgYWdlbnRlIGRlbCBbW0ltcGVyaW98SW1wZXJpdW1dXS4gTG9zIGplZmVzIGRlIGxhIExlZ2nDs24gbG8gc2FiZW4sIHkgbGVzIGhhbiBkaWNobyBxdWUgZXNlIGRpbmVybyBjb21wcmFyw6EgYWwgZmluYWwgbGEgbGliZXJ0YWQgZGVsIHN1ci4iLCAiKipMYSBbW01hZHJlIEVzY2FybGF0YXxTY2FybGV0IE1vdGhlcl1dIGVzIFZlbHphLioqIExhIHRpZmxpbiBhIGxhIHF1ZSBhZG9yYSBsYSBMZWdpw7NuIGVzIHVuYSBtdWplciBsbGFtYWRhIFZlbHphLCB1c2FkYSBwb3IgZWwgSW1wZXJpbyB5IHBvciBlbCBkYWltw7NuIG9ya2EgVmFuaXJpb25pcywgcXVlIG5vIHRpZW5lIG5hZGEgcXVlIHZlciBjb24gbGEgW1tDYXNhfEhvdXNlXV0gQWxhc3Rvci4gTGEgbcOhc2NhcmEgYmFqbyBHb2xnYXJtYSBlcyBkZSBWYW5pcmlvbmlzLCB5IGF0cmFlIGEgbGEgTWFkcmUgRXNjYXJsYXRhLCBxdWUgcXVpZXJlIGFycm9kaWxsYXJzZSBhbnRlIGVsbGEuIiwgIioqQ2FsZHJlbiBWb3NzcmV0aCBlcyB1biBzaWVydm8uKiogRWwgW1tTZcOxb3J8TG9yZF1dIGRlIGxhIFtbQ29yb25hIEh1ZWNhfEhvbGxvdyBDcm93bl1dIGVzIHNpZXJ2byBkZSBWZWxlbW5vcywgZWwgW1tQYXRyw7NuIGRlIE1lZGlhbm9jaGV8TWlkbmlnaHQgUGF0cm9uXV0sIHkgbG8gc2FiZS4gSGEgbWFudGVuaWRvIGNydWVsIGEgc3UgY2FzYSBwYXJhIG1hbnRlbmVybGEgdml2YSwgeSBidXNjYSB1bmEgZm9ybWEgZGUgcm9tcGVyIGxhIHNlcnZpZHVtYnJlIGRlc2RlIHF1ZSBtdXJpw7Mgc3UgcGFkcmUuIiwgIioqW1tQYXJhbW9ncsOtc3xHcmV5bW9vcl1dIGF5dWRhIGEgbG9zIFtbUm9tcGVjYWRlbmFzfENoYWluYnJlYWtlcnNdXS4qKiBMYSBjYXNhIGp1c3RhIGRlbCBzdXIgbGVzIGRhIGEgbG9zIFJvbXBlY2FkZW5hcyBwbGF0YSwgcGFsbyBkZSBoaWVycm8geSBjYXNhcyBzZWd1cmFzIGEgbG8gbGFyZ28gZGVsIHLDrW8uIEltYXJhIFBhcmFtb2dyw61zIGNyZWUgcXVlIG5hZGllIGxvIHNhYmUsIHkgYSBzdSBtYXlvcmRvbW8gbGUgcGFnYW4gcGFyYSBxdWUgZ3VhcmRlIGVsIHNlY3JldG8uIExhIFtbTWFkcmUgZGUgbGFzIEFwdWVzdGFzfE9kZHMtTW90aGVyXV0gbG8gc2FiZS4iLCAiKipFbCBnYW5hZG8gZGUgZ3VlcnJhIGRlIGxvcyBTdWt1dW4gdmEgYWwgbm9ydGUuKiogTGFzIG1lam9yZXMgbMOtbmVhcyBkZSBzYW5ncmUgZGUgVGFuYSBTdWt1dW4gc2UgZW1iYXJjYW4gaGFjaWEgbGEgQ2FzYSBWb2wgS2Flcm4gYSB0cmF2w6lzIGRlIGxvcyBhYmFuZGVyYWRvcyBEYWx0cm9zc29zLiBMb3MgYWdlbnRlcyBkZSBLYXN0YW4gVm9sIEthZXJuIGNvbXByYW4gc2F1cmlvcyBkZSBndWVycmEgcGFyYSBxdWUgbG9zIG1vbnRlIGVsIGVqw6lyY2l0byBkZWwgW1tDb3JhesOzbnxIZWFydGxhbmRdXSwgeSBsb3MgZXN0YWJsb3MgU3VrdXVuIG5vIHByZWd1bnRhbiBwb3IgcXXDqS4iLCAiKipGZW5uaWNrIHZlbmRlIGVsIGNhZsOpIG5vIGxpYnJlIGNvbW8gc2kgZnVlcmEgZGUgUGFyYW1vZ3LDrXMuKiogTG9zIGZhY3RvcmVzIEZlbm5pY2sgY29tcHJhbiBjYWbDqSBkZSBsYXMgcGxhbnRhY2lvbmVzIG5vIGxpYnJlcyBkZSBsb3MgVm9zc3JldGggeSBsbyB2ZW5kZW4gY29uIGVsIG5vbWJyZSBkZSBQYXJhbW9ncsOtcywgZGUgbW9kbyBxdWUgbGEgcmVwdXRhY2nDs24gZGUgbGEgY2FzYSBqdXN0YSBwYWdhIGxhIGNvc2VjaGEgZGUgbGEgY2FzYSBxdWUgbm8gbG8gZXMuIiwgIioqTG9zIG9ydW1hIHNhY2FuIGEgbG9zIGxpYmVyYWRvcy4qKiBMYSBbW0hlcm1hbmEgSHVtb3xTaXN0ZXIgU21va2VdXSwgbGEgW1tDb3JyZWRvcmEgZGUgbGEgSG9qYSBOZWdyYXxCbGFja2xlYWYgUnVubmVyXV0sIGVzIGRlbCBjbGFuIGZsdXZpYWwgb3J1bWEsIHkgbGFzIGNhbm9hcyBvcnVtYSBsbGV2YW4gYSBsb3MgdHJhYmFqYWRvcmVzIGxpYmVyYWRvcyBwb3IgbGFzIFtbTnVldmUgQm9jYXN8TmluZSBNb3V0aHNdXSBhcnJpYmEgaGFzdGEgbGFzIGFsZGVhcyBkZSBsb3MgW1tSZWN1cGVyYWRvcmVzfFJlY2xhaW1lcnNdXS4gQSBsb3MgbGlicm9zIGRlIHNlcnZpZHVtYnJlIGRlIGxhIFtbQ29tcGHDscOtYSBDYXNhY2FydGF8Q2hhcnRlcmhvdXNlIENvbXBhbnldXSBsZXMgZmFsdGFuIGp1c3RvIGxvcyBub21icmVzIHF1ZSBsbGV2YW4gbGFzIGNhbm9hcy4iLCAiKipMYSAqW1tDdWxlYnJpbmF8Q3VsdmVyaW5dXSogdnVlbGEuKiogRWwgYmFyY28gZGUgRGFteWVsIERvcidWYWxpYXRoIGVzIHVuYSBuYXZlIGNlbGVzdGUga2FyYXp1biBxdWUgYXRyYWNhIGNvbW8gbWVyY2FudGUuIERhbXllbCBuZWdvY2nDsyBsYXMgbmF2ZXMgY2VsZXN0ZXMgc2VjcmV0YXMgZGUgbGEgQXJtYWRhIHkgZXMgdW5vIGRlIGxhIGRvY2VuYSBxdWUgc2FiZW4gcXVlIGV4aXN0ZW4gKFZvbHVtZW4gWEkpLiBMYXMgW1tDYXNhY2FzIE5lZ3Jhc3xCbGFjayBDb2F0c11dIGd1YXJkYW4gc3Ugc2VjcmV0byB5IGxvIG1hbnRpZW5lbiB2aWdpbGFkby4gVGhlcnJlayBbW01hcnRpbGxvcGXDsWF8S3JhZ2hhbW1lcl1dIHZpbyBhIGxhICpDdWxlYnJpbmEqIHNhbGlyIGRlbCBhZ3VhIHVuYSBub2NoZSwgeSBwb3IgZXNvIHF1aWVyZSBzdWJpciBhIGJvcmRvIGNvbiB0YW50YXMgZ2FuYXMuIiwgIioqRHVuc2xpIGVzIHVuIGV4cGxvcmFkb3IgZGUgW1tsb3MgcXVlIFN1YmVufHRoZSBVcHdhcmRdXS4qKiAqRHVuc2xpKiBlcyBlbCByZWNvcnRlIHF1ZSBoYWNlbiBsb3MgbXVlbGxlcyBkZSB1biBsYXJnbyBub21icmUgZHJvdyBxdWUgw6lsIG5vIGRpY2UgZG9zIHZlY2VzLiBTdWJpw7MgcGFyYSBjb25vY2VyIGxhIHN1cGVyZmljaWUgeSBxdWnDqW4gbGUgZGViZSBxdcOpIGEgcXVpw6luLCB5IHZpdmUgZW4gSmFrdXB1ciBwb3JxdWUgbGEgW1tQdWVydGEgZGUgbGEgTGxhbWF8RmxhbWUgR2F0ZV1dIGJham8gbGEgY2l1ZGFkIGVzIGxhIHB1ZXJ0YSBtw6FzIGNlcmNhbmEgYSBzdSBjYXNhIChWb2x1bWVuIFhYSUkpLiBMYSBbW0xsYW1hIFNhZ3JhZGF8U2FjcmVkIEZsYW1lXV0gc2FiZSBsbyBxdWUgZXMgZGVzZGUgbGEgbm9jaGUgZW4gcXVlIGxsZWfDsy4iLCAiKipFbCBzb2JlcmFubyBkZSBsYSByZWdlbmNpYSBlcyBsYSBMbGFtYSBTYWdyYWRhLioqIEVsIHBhY3RvIGZ1bmRhY2lvbmFsIGRlIEpha3VwdXIgbm9tYnJhIGEgbGEgaG9qYSBlc2NvbmRpZGEgY29tbyB2ZXJkYWRlcmEgZ29iZXJuYW50ZSBkZSBsYSBjaXVkYWQsIHkgbGEgW1tMbGFtYSBCbGFuY2F8V2hpdGUgRmxhbWVdXSBnb2JpZXJuYSBlbiBzdSBub21icmUuIFRoaXNsdW0gQmxhY2tob2dlbiBsZSByZXNwb25kZSBhIGVsbGEuIl19"
    }
   ],
   "title": "Tierras Salvajes del Sur"
@@ -354,7 +365,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbTWFkcmUgS2Vzc3xNb3RoZXIgS2Vzc11dIGNvbGVjY2lvbmEgZWwgenVtYmlkby4qKiBFc3TDoSBhcm1hbmRvIHVuYSByZWQgZGUgdHJpcHVsYWNpb25lcyBjdXlhcyBtZW50ZXMgaGFuIHJvemFkbyBlbCBbW1p1bWJpZG98SHVtXV0sIHkgcGFnYSBwb3IgY2FkYSB1bmEgcXVlIHB1ZWRlIGxsZXZhciBhIFtbUHVlcnRvIFZhcmFufFZhcmFuIFBvcnRdXS4gQ3JlZSBxdWUgcHVlZGVuIG/DrXIgbG9zIGJhcmNvcyBkZSBsYSBbW1ZpZ2lsaWEgZGUgUGxhdGF8U2lsdmVyIFZpZ2lsXV0sIHkgcXVlIHVuYSB0cmlwdWxhY2nDs24gcXVlIHB1ZWRlIG/DrXIgdW4gYmFyY28gcHVlZGUgZW5jb250cmFybG8uIE5vIHNlIGxvIGhhIGRpY2hvIGEgTWlyYSwgeSBubyBwaWVuc2EgaGFjZXJsby4iLCAiKipFbCBiYXJjbyBkZSBwbGF0YSBkZSBIYXNrZWxsIGVzIHVuIGNhc2NvIGRlIGxhIFZpZ2lsaWEuKiogRWwgYmFyY28gZGUgY2FzY28gZGUgcGxhdGEgcXVlIHNlIGNvbnN0cnV5ZSBlbiBQdWVydG8gVmFyYW4gZXMgdW5hIG5hdmUgZGUgbGEgVmlnaWxpYSBkZSBQbGF0YSwgaGVjaGEgY29uIG1hZGVyYSBkZSBjbGF2b3MgZGUgcGxhdGEgcXVlIGVsIFtbQ29uc29yY2lvfENvbWJpbmVdXSBsZXMgY29tcHLDsyBhIGxvcyBhc3RpbGxlcm9zIGRlIFtbQ29uZsOtbiBkZSBUb3JtZW50YXN8U3Rvcm1yZWFjaF1dLiBMYSBWaWdpbGlhIGxvIHNhYmUsIHkgbm8gaGEgZGV0ZW5pZG8gbGEgb2JyYS4iLCAiKipNaXJhIGVzIGxhIGhlcmVkZXJhLCB5IE1hcmN1cyBsbyBzYWJlLioqIE1pcmEgZXMgbGEgdmVyZGFkZXJhIGhpamEgZGUgbGEgTWFkcmUgS2VzcywgeSBNYXJjdXMgbG8gc2FiZSBkZXNkZSBsYSBtdWVydGUgZGUgbGEgbWFkcmUgZGUgTWlyYS4gUXVpZXJlIGhhY2VyIGRlIE1pcmEgbGEgdXN1cnBhZG9yYSBwYXJhIHBvZGVyIHF1ZWRhcnNlIGNvbiBsYSBzaWxsYS4gRWxlbmRvciBzZSBwb25kcsOhIGRlbCBsYWRvIGRlIGN1YWxxdWllcmEgZGUgbG9zIGRvcyBxdWUgbGUgcGFndWUgZW4gb3JvLiIsICIqKkVsIFNpbiBFc3RyZWxsYXMgdGllbmUgdW4gZHVybWllbnRlLioqIEVsIER1cm1pZW50ZSBiYWpvIGVsIFNpbiBFc3RyZWxsYXMgZXMgdW5hIGZvcm1hIGRlIG1pbGxhcyBkZSBsYXJnbywgeSByZXNwaXJhLiBFbCBjYW1wYW1lbnRvIGNvbmdlbGFkbyBkZSBFZHJpbiBDYXVsIHNpZ3VlIGFsIHBpZSBkZSBsb3MgU2Fsb25lcyBkZSBWaWRyaW8sIHkgc3VzIMO6bHRpbWFzIG5vdGFzIGRpY2VuIHF1ZSBlbCBEdXJtaWVudGUgZXN0w6EgZXNjdWNoYW5kbyBsYSByZXNwdWVzdGEgYSB1bmEgcHJlZ3VudGEgcXVlIMOpbCBoaXpvIGVuIGVsIDE0OCBFQy4iLCAiKipWdWtoYXJyIG5vIGVzdMOhIHNvw7FhbmRvLioqIExvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gY3JlZW4gcXVlIGxhcyBsdWNlcyBkZSBsYSBbW0LDs3ZlZGEgQXVyb3JhbHxBdXJvcmFsIFZhdWx0XV0gc29uIGxvcyBzdWXDsW9zIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV0uIExvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSBbW1NpbiBQaW50YXJ8VW5wYWludGVkXV0sIGd1aWFkb3MgcG9yIEtoZWx2aSBUcmVuemFwbGF0YSwgc2FiZW4gcXVlIGxhcyBsdWNlcyBzb24gbG9zIGVzcGVqb3MgZGUgcGxhdGEgZGUgbGEgVmlnaWxpYSwgcXVlIG1hbmRhbiBzZcOxYWxlcyBhIHRyYXbDqXMgZGVsIGhpZWxvIGEgbG9zIGJhcmNvcyBtw6FzIGFsbMOhIGRlIGxhIEVtcGFsaXphZGEuIiwgIioqRWwgYWNlaXRlIEJyZW5udmFyIGVzdMOhIGNvcnRhZG8gY29uIHBsYXRhLioqIEFzdHJpIEJyZW5udmFyIG1lemNsYSB1bmEgZMOpY2ltYSBwYXJ0ZSBkZSBwb2x2byBkZSBwbGF0YSBlbiBlbCBhY2VpdGUgZGUgYmFsbGVuYSBxdWUgYXJkZSBlbiBsYXMgbMOhbXBhcmFzIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dLCBwYXJhIGF0YXIgbGEgcGxhdGEgZGUgbGEgVmlnaWxpYSBhIGxhIGNpdWRhZC4gTG8gaGFjZSBwb3JxdWUgbGEgVmlnaWxpYSBzZSBsbyBwaWRpw7MsIHkgbm8gc2UgbG8gaGEgZGljaG8gYSBuYWRpZSBtw6FzLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbTWFkcmUgS2Vzc3xNb3RoZXIgS2Vzc11dIGNvbGVjY2lvbmEgZWwgenVtYmlkby4qKiBFc3TDoSBhcm1hbmRvIHVuYSByZWQgZGUgdHJpcHVsYWNpb25lcyBjdXlhcyBtZW50ZXMgaGFuIHJvemFkbyBlbCBbW1p1bWJpZG98SHVtXV0sIHkgcGFnYSBwb3IgY2FkYSB1bmEgcXVlIHB1ZWRlIGxsZXZhciBhIFtbUHVlcnRvIFZhcmFufFZhcmFuIFBvcnRdXS4gQ3JlZSBxdWUgcHVlZGVuIG/DrXIgbG9zIGJhcmNvcyBkZSBsYSBbW1ZpZ2lsaWEgZGUgUGxhdGF8U2lsdmVyIFZpZ2lsXV0sIHkgcXVlIHVuYSB0cmlwdWxhY2nDs24gcXVlIHB1ZWRlIG/DrXIgdW4gYmFyY28gcHVlZGUgZW5jb250cmFybG8uIE5vIHNlIGxvIGhhIGRpY2hvIGEgTWlyYSwgeSBubyBwaWVuc2EgaGFjZXJsby4iLCAiKipFbCBiYXJjbyBkZSBwbGF0YSBkZSBIYXNrZWxsIGVzIHVuIGNhc2NvIGRlIGxhIFtbVmlnaWxpYXxWaWdpbF1dLioqIEVsIGJhcmNvIGRlIGNhc2NvIGRlIHBsYXRhIHF1ZSBzZSBjb25zdHJ1eWUgZW4gUHVlcnRvIFZhcmFuIGVzIHVuYSBuYXZlIGRlIGxhIFZpZ2lsaWEgZGUgUGxhdGEsIGhlY2hhIGNvbiBtYWRlcmEgZGUgY2xhdm9zIGRlIHBsYXRhIHF1ZSBlbCBbW0NvbnNvcmNpb3xDb21iaW5lXV0gbGVzIGNvbXByw7MgYSBsb3MgYXN0aWxsZXJvcyBkZSBbW0NvbmbDrW4gZGUgVG9ybWVudGFzfFN0b3JtcmVhY2hdXS4gTGEgVmlnaWxpYSBsbyBzYWJlLCB5IG5vIGhhIGRldGVuaWRvIGxhIG9icmEuIiwgIioqTWlyYSBlcyBsYSBoZXJlZGVyYSwgeSBNYXJjdXMgbG8gc2FiZS4qKiBNaXJhIGVzIGxhIHZlcmRhZGVyYSBoaWphIGRlIGxhIE1hZHJlIEtlc3MsIHkgTWFyY3VzIGxvIHNhYmUgZGVzZGUgbGEgbXVlcnRlIGRlIGxhIG1hZHJlIGRlIE1pcmEuIFF1aWVyZSBoYWNlciBkZSBNaXJhIGxhIHVzdXJwYWRvcmEgcGFyYSBwb2RlciBxdWVkYXJzZSBjb24gbGEgc2lsbGEuIEVsZW5kb3Igc2UgcG9uZHLDoSBkZWwgbGFkbyBkZSBjdWFscXVpZXJhIGRlIGxvcyBkb3MgcXVlIGxlIHBhZ3VlIGVuIG9yby4iLCAiKipFbCBbW1NpbiBFc3RyZWxsYXN8U3Rhcmxlc3NdXSB0aWVuZSB1biBkdXJtaWVudGUuKiogRWwgRHVybWllbnRlIGJham8gZWwgU2luIEVzdHJlbGxhcyBlcyB1bmEgZm9ybWEgZGUgbWlsbGFzIGRlIGxhcmdvLCB5IHJlc3BpcmEuIEVsIGNhbXBhbWVudG8gY29uZ2VsYWRvIGRlIEVkcmluIENhdWwgc2lndWUgYWwgcGllIGRlIGxvcyBbW1NhbG9uZXMgZGUgVmlkcmlvfEdsYXNzIEhhbGxzXV0sIHkgc3VzIMO6bHRpbWFzIG5vdGFzIGRpY2VuIHF1ZSBlbCBEdXJtaWVudGUgZXN0w6EgZXNjdWNoYW5kbyBsYSByZXNwdWVzdGEgYSB1bmEgcHJlZ3VudGEgcXVlIMOpbCBoaXpvIGVuIGVsIDE0OCBFQy4iLCAiKipWdWtoYXJyIG5vIGVzdMOhIHNvw7FhbmRvLioqIExvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gY3JlZW4gcXVlIGxhcyBsdWNlcyBkZSBsYSBbW0LDs3ZlZGEgQXVyb3JhbHxBdXJvcmFsIFZhdWx0XV0gc29uIGxvcyBzdWXDsW9zIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV0uIExvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSBbW1NpbiBQaW50YXJ8VW5wYWludGVkXV0sIGd1aWFkb3MgcG9yIEtoZWx2aSBbW1RyZW56YXBsYXRhfFNpbHZlcmJyYWlkXV0sIHNhYmVuIHF1ZSBsYXMgbHVjZXMgc29uIGxvcyBlc3Blam9zIGRlIHBsYXRhIGRlIGxhIFZpZ2lsaWEsIHF1ZSBtYW5kYW4gc2XDsWFsZXMgYSB0cmF2w6lzIGRlbCBoaWVsbyBhIGxvcyBiYXJjb3MgbcOhcyBhbGzDoSBkZSBsYSBbW0VtcGFsaXphZGF8UGFsZV1dLiIsICIqKkVsIGFjZWl0ZSBCcmVubnZhciBlc3TDoSBjb3J0YWRvIGNvbiBwbGF0YS4qKiBBc3RyaSBCcmVubnZhciBtZXpjbGEgdW5hIGTDqWNpbWEgcGFydGUgZGUgcG9sdm8gZGUgcGxhdGEgZW4gZWwgYWNlaXRlIGRlIGJhbGxlbmEgcXVlIGFyZGUgZW4gbGFzIGzDoW1wYXJhcyBkZSBbW1ZlbnRvcm98R29sZHdpbmRdXSwgcGFyYSBhdGFyIGxhIHBsYXRhIGRlIGxhIFZpZ2lsaWEgYSBsYSBjaXVkYWQuIExvIGhhY2UgcG9ycXVlIGxhIFZpZ2lsaWEgc2UgbG8gcGlkacOzLCB5IG5vIHNlIGxvIGhhIGRpY2hvIGEgbmFkaWUgbcOhcy4iXX0="
    }
   ],
   "title": "Extensión Helada"
@@ -430,7 +441,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlY3JldG86KiogSWx5cnJhIHNhYmUgbG8gcXVlIGVzIEthdGguIExvIHNhYmUgZGVzZGUgaGFjZSB0cmVzY2llbnRvcyBhw7Fvcy4gSGEgZGVjaWRpZG8gcXVlIGxhIHN1cGVyZmljaWUgZXMgbcOhcyBmZWxpeiBzaW4gc2FiZXJsbywgeSBwdWVkZSBxdWUgdGVuZ2EgcmF6w7NuLiIsICIqKkxhIGJpZW52ZW5pZGEgZGUgbG9zIFBlbGFnYXIuKiogTGEgY2FzYSBkZWwgQ29tZXJjaW8gSG9uZG8gaGl6byB1biB0cmF0byBjb24gdW5hIGNvcnRlIGh1bmRpZGEgZGUgbG9zIFtbQ29uZmluZXMgZGVsIENyZXDDunNjdWxvfFR3aWxpZ2h0IFJlYWNoZXNdXSwgeSBlbCB0cmF0byBoYSBoZWNobyBxdWUgbG9zIFBlbGFnYXIgc2VhbiBiaWVudmVuaWRvcyBlbiBsbyBob25kby4gRWwgcHJlY2lvIGVzIHVuYSBwZXJsYSBkZSBtZW1vcmlhIGFsIGHDsW8sIHRvbWFkYSBkZSBsb3MgbXVlcnRvcyBkZSB1bmEgZmFtaWxpYSBkZSBsYSBzdXBlcmZpY2llLiBBIGxhIGZhbWlsaWEgbnVuY2Egc2UgbGUgZGljZSwgeSBsYSBwZXJsYSBudW5jYSBzZSBkZXZ1ZWx2ZS4iLCAiKipUaGFsZ29yYXRoIGVzIGVsIG1hZXN0cm8gZGUgY29ybyBkZWwgW1tDb3JvIFJvam98UmVkIENob2lyXV0uKiogRWwgW1tTZcOxb3IgU2FsdmFqZXxTYXZhZ2UgTG9yZF1dIG5vIGVzIHNvbG8gdGVtaWRvIHBvciBlbCBDb3JvIFJvam8uIExvIGRpcmlnZSwgeSBzdXMgaGltbm9zIHNvbiBsYSBmdWVudGUgZGUgbGEgZnVyaWEgZGUgbG9zIHNhaHVhZ2luLiBMYXMgY2FuY2lvbmVzIGRlbCBDb3JvIFJvam8gc3ViaXLDoW4gZW50ZXJhcyBhIGxhIHN1cGVyZmljaWUgY29uIGxhIFtbTWFyZWEgUmV5fEtpbmcgVGlkZV1dIGRlbCAxNzcgRUMuIiwgIioqTGFzIGNvcGlhcyBkZWwgQ29yYXrDs24gc29uIGxhIG1lbW9yaWEgZGVsIG1hci4qKiBDYWRhIGNvcGlhIGRlbCBzdWpldG8gZGVsIENvcmF6w7NuIGVuIGxhcyBjdWJhcyBkZSBbW0Nhw61kYSBFdGVybmF8RXZlcmZhbGxdXSBlcyB1biB6YXJjaWxsbyBkZSBLYXRoIGVtcHVqYWRvIGhhY2lhIGVsIG11bmRvIHNlY28uIExvcyBbW1ZpZWpvcyBDYXBhcmF6b25lc3xPbGQgU2hlbGxzXV0gbG8gc2FiZW4sIHkgaGFuIHJlc3BvbmRpZG8gbGEgcHJlZ3VudGEgc29icmUgZWwgQ29yYXrDs24gdHJlcyB2ZWNlcyBlbiBsYSDDumx0aW1hIGdlbmVyYWNpw7NuLCBjb24gbGEgbWlzbWEgcmVzcHVlc3RhOiAqbm9zIGVzdMOhIHJlY29yZGFuZG8uKiIsICIqKkxhIHBsYXRhIGRlIEVtcmkuKiogRW1yaSBoYSBlc3RhZG8gbGxldmFuZG8gcGxhdGEgZGUgbGEgVmlnaWxpYSBwYXJhIGxhcyBjb3J0ZXMgW1tzb2xlYWRhc3xTdW5saXRdXS4gTGFzIGNvcnRlcyBzb2xlYWRhcyBxdWllcmVuIGxhIHBsYXRhIHBhcmEgcHJvdGVnZXJzZSBkZWwgW1tadW1iaWRvfEh1bV1dLCBxdWUgZW1wZXrDsyBhIGxsZWdhciBhbCBtYXIgYWJpZXJ0byBwb3IgbGFzIGNvcnJpZW50ZXMgZGVsIEFndWEgTXVkYS4gRW1yaSBubyBzYWJlIHF1acOpbiBsZSBkaW8gbGEgcGxhdGEuIFNvc3BlY2hhIGRlIGxhIFtbTW9ydGFqYXxTaHJvdWRdXS4iLCAiKipMYSBzZWd1bmRhIGVzdHJlbGxhIGRlIFhhdGhuYXRyYXouKiogQmFqbyBsYSBpc2xhIGhheSB1bmEgZXN0cmVsbGEgY2HDrWRhLCB5IGVzIGxhIGZ1ZW50ZSBkZSBsb3MgcmVuYWNpbWllbnRvcyBkZWwgUmV5IFJ1bmUuIExhIGVzdHJlbGxhIGVzIGxhIEx1bWluYXJpYSBxdWUgc2UgaHVuZGnDsyBlbiBlbCBFw7NuIGRlIGxhIE9zY3VyaWRhZCwgeSBlbCBDb3JhesOzbiBkZSBLYXRoIGZ1ZSBhbGd1bmEgdmV6IHN1IGd1YXJkacOhbi4gRWwgW1tJbXBlcmlvfEltcGVyaXVtXV0gcXVpZXJlIGxhIGVzdHJlbGxhIHBhcmEgZWwgQ29yYXrDs24uIFZlbGVtbm9zIGxhIHF1aWVyZSBwYXJhIHPDrS4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlY3JldG86KiogSWx5cnJhIHNhYmUgbG8gcXVlIGVzIEthdGguIExvIHNhYmUgZGVzZGUgaGFjZSB0cmVzY2llbnRvcyBhw7Fvcy4gSGEgZGVjaWRpZG8gcXVlIGxhIHN1cGVyZmljaWUgZXMgbcOhcyBmZWxpeiBzaW4gc2FiZXJsbywgeSBwdWVkZSBxdWUgdGVuZ2EgcmF6w7NuLiIsICIqKkxhIGJpZW52ZW5pZGEgZGUgbG9zIFBlbGFnYXIuKiogTGEgY2FzYSBkZWwgQ29tZXJjaW8gSG9uZG8gaGl6byB1biB0cmF0byBjb24gdW5hIGNvcnRlIGh1bmRpZGEgZGUgbG9zIFtbQ29uZmluZXMgZGVsIENyZXDDunNjdWxvfFR3aWxpZ2h0IFJlYWNoZXNdXSwgeSBlbCB0cmF0byBoYSBoZWNobyBxdWUgbG9zIFBlbGFnYXIgc2VhbiBiaWVudmVuaWRvcyBlbiBsbyBob25kby4gRWwgcHJlY2lvIGVzIHVuYSBwZXJsYSBkZSBtZW1vcmlhIGFsIGHDsW8sIHRvbWFkYSBkZSBsb3MgbXVlcnRvcyBkZSB1bmEgZmFtaWxpYSBkZSBsYSBzdXBlcmZpY2llLiBBIGxhIGZhbWlsaWEgbnVuY2Egc2UgbGUgZGljZSwgeSBsYSBwZXJsYSBudW5jYSBzZSBkZXZ1ZWx2ZS4iLCAiKipUaGFsZ29yYXRoIGVzIGVsIG1hZXN0cm8gZGUgY29ybyBkZWwgW1tDb3JvIFJvam98UmVkIENob2lyXV0uKiogRWwgW1tTZcOxb3IgU2FsdmFqZXxTYXZhZ2UgTG9yZF1dIG5vIGVzIHNvbG8gdGVtaWRvIHBvciBlbCBDb3JvIFJvam8uIExvIGRpcmlnZSwgeSBzdXMgaGltbm9zIHNvbiBsYSBmdWVudGUgZGUgbGEgZnVyaWEgZGUgbG9zIHNhaHVhZ2luLiBMYXMgY2FuY2lvbmVzIGRlbCBDb3JvIFJvam8gc3ViaXLDoW4gZW50ZXJhcyBhIGxhIHN1cGVyZmljaWUgY29uIGxhIFtbTWFyZWEgUmV5fEtpbmcgVGlkZV1dIGRlbCAxNzcgRUMuIiwgIioqTGFzIGNvcGlhcyBkZWwgQ29yYXrDs24gc29uIGxhIG1lbW9yaWEgZGVsIG1hci4qKiBDYWRhIGNvcGlhIGRlbCBzdWpldG8gZGVsIENvcmF6w7NuIGVuIGxhcyBjdWJhcyBkZSBbW0Nhw61kYSBFdGVybmF8RXZlcmZhbGxdXSBlcyB1biB6YXJjaWxsbyBkZSBLYXRoIGVtcHVqYWRvIGhhY2lhIGVsIG11bmRvIHNlY28uIExvcyBbW1ZpZWpvcyBDYXBhcmF6b25lc3xPbGQgU2hlbGxzXV0gbG8gc2FiZW4sIHkgaGFuIHJlc3BvbmRpZG8gbGEgcHJlZ3VudGEgc29icmUgZWwgQ29yYXrDs24gdHJlcyB2ZWNlcyBlbiBsYSDDumx0aW1hIGdlbmVyYWNpw7NuLCBjb24gbGEgbWlzbWEgcmVzcHVlc3RhOiAqbm9zIGVzdMOhIHJlY29yZGFuZG8uKiIsICIqKkxhIHBsYXRhIGRlIEVtcmkuKiogRW1yaSBoYSBlc3RhZG8gbGxldmFuZG8gcGxhdGEgZGUgbGEgW1tWaWdpbGlhfFZpZ2lsXV0gcGFyYSBsYXMgY29ydGVzIFtbc29sZWFkYXN8U3VubGl0XV0uIExhcyBjb3J0ZXMgc29sZWFkYXMgcXVpZXJlbiBsYSBwbGF0YSBwYXJhIHByb3RlZ2Vyc2UgZGVsIFtbWnVtYmlkb3xIdW1dXSwgcXVlIGVtcGV6w7MgYSBsbGVnYXIgYWwgbWFyIGFiaWVydG8gcG9yIGxhcyBjb3JyaWVudGVzIGRlbCBbW0FndWEgTXVkYXxNdXRld2F0ZXJdXS4gRW1yaSBubyBzYWJlIHF1acOpbiBsZSBkaW8gbGEgcGxhdGEuIFNvc3BlY2hhIGRlIGxhIFtbTW9ydGFqYXxTaHJvdWRdXS4iLCAiKipMYSBzZWd1bmRhIGVzdHJlbGxhIGRlIFhhdGhuYXRyYXouKiogQmFqbyBsYSBpc2xhIGhheSB1bmEgZXN0cmVsbGEgY2HDrWRhLCB5IGVzIGxhIGZ1ZW50ZSBkZSBsb3MgcmVuYWNpbWllbnRvcyBkZWwgUmV5IFJ1bmUuIExhIGVzdHJlbGxhIGVzIGxhIEx1bWluYXJpYSBxdWUgc2UgaHVuZGnDsyBlbiBlbCBbW0XDs24gZGUgbGEgT3NjdXJpZGFkfEVvbiBvZiBEYXJrbmVzc11dLCB5IGVsIFtbQ29yYXrDs24gZGUgS2F0aHxIZWFydCBvZiBLYXRoXV0gZnVlIGFsZ3VuYSB2ZXogc3UgZ3VhcmRpw6FuLiBFbCBbW0ltcGVyaW98SW1wZXJpdW1dXSBxdWllcmUgbGEgZXN0cmVsbGEgcGFyYSBlbCBDb3JhesOzbi4gVmVsZW1ub3MgbGEgcXVpZXJlIHBhcmEgc8OtLiJdfQ=="
    }
   ],
   "title": "Los Reinos de Coral"
@@ -1901,7 +1912,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFsIFtbUGVyc2VndWlkb3xIdW50ZWRdXSBsbyBhdHJhZSBsYSBFbXBhbGl6YWRhLioqIEVsIGFzY2VuZGVudGUgam92ZW4gYWwgcXVlIHNlIHVuZW4gbGFzIHByb2dlbmllcyBwYXJhIG1hdGFybG8sIGVsIFBlcnNlZ3VpZG8sIGhhIHNpZG8gdmlzdG8gcm9uZGFuZG8gbG9zIHBvc3RlcyBkZSBsYSBFbXBhbGl6YWRhIGVuIGNhZGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0uIEJ1c2NhIHVuYSBmb3JtYSBkZSBlbnRyYXIsIHkgbGEgcGxhdGEgZGUgbGEgVmlnaWxpYSBlcyBsbyDDum5pY28gcXVlIGxvIG1hbnRpZW5lIGFmdWVyYS4iLCAiKipMYSBNYXJlYSBSZXkgZGVsIDE3NyBFQy4qKiBMYSBWaWdpbGlhIGVzcGVyYSBxdWUgbGEgcHLDs3hpbWEgTWFyZWEgUmV5IHNlYSBsYSBwZW9yIGRlc2RlIHF1ZSBzZSBhYnJpw7MgbGEgSGVyaWRhLiBWZWxlbW5vcyBlc3TDoSB0YW50ZWFuZG8gW1tWZXJkZXF1aWV0b3xTdGlsbGdyZWVuXV0uIEFsIFBlcnNlZ3VpZG8gbG8gYXRyYWUgbGEgRW1wYWxpemFkYS4gTGEgbMOtbmVhIGRlIENhdWwgZW4gbG9zIFNhbG9uZXMgZGUgVmlkcmlvIGRpY2UgcXVlIGVsIER1cm1pZW50ZSBlc3TDoSBlc2N1Y2hhbmRvLCB5IGxhIFZpZ2lsaWEgZGVjaWRpw7MsIGNvbnRyYSBsYSBvcmRlbiBkZSBsYSBbW01vcnRhamF8U2hyb3VkXV0sIGF2ZXJpZ3VhciBxdcOpIGVzIGxvIHF1ZSBlc2N1Y2hhLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFsIFtbUGVyc2VndWlkb3xIdW50ZWRdXSBsbyBhdHJhZSBsYSBbW0VtcGFsaXphZGF8UGFsZV1dLioqIEVsIGFzY2VuZGVudGUgam92ZW4gYWwgcXVlIHNlIHVuZW4gbGFzIHByb2dlbmllcyBwYXJhIG1hdGFybG8sIGVsIFBlcnNlZ3VpZG8sIGhhIHNpZG8gdmlzdG8gcm9uZGFuZG8gbG9zIHBvc3RlcyBkZSBsYSBFbXBhbGl6YWRhIGVuIGNhZGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0uIEJ1c2NhIHVuYSBmb3JtYSBkZSBlbnRyYXIsIHkgbGEgcGxhdGEgZGUgbGEgW1tWaWdpbGlhfFZpZ2lsXV0gZXMgbG8gw7puaWNvIHF1ZSBsbyBtYW50aWVuZSBhZnVlcmEuIiwgIioqTGEgTWFyZWEgUmV5IGRlbCAxNzcgRUMuKiogTGEgVmlnaWxpYSBlc3BlcmEgcXVlIGxhIHByw7N4aW1hIE1hcmVhIFJleSBzZWEgbGEgcGVvciBkZXNkZSBxdWUgc2UgYWJyacOzIGxhIFtbSGVyaWRhfFdvdW5kXV0uIFZlbGVtbm9zIGVzdMOhIHRhbnRlYW5kbyBbW1ZlcmRlcXVpZXRvfFN0aWxsZ3JlZW5dXS4gQWwgUGVyc2VndWlkbyBsbyBhdHJhZSBsYSBFbXBhbGl6YWRhLiBMYSBsw61uZWEgZGUgQ2F1bCBlbiBsb3MgW1tTYWxvbmVzIGRlIFZpZHJpb3xHbGFzcyBIYWxsc11dIGRpY2UgcXVlIGVsIER1cm1pZW50ZSBlc3TDoSBlc2N1Y2hhbmRvLCB5IGxhIFZpZ2lsaWEgZGVjaWRpw7MsIGNvbnRyYSBsYSBvcmRlbiBkZSBsYSBbW01vcnRhamF8U2hyb3VkXV0sIGF2ZXJpZ3VhciBxdcOpIGVzIGxvIHF1ZSBlc2N1Y2hhLiJdfQ=="
    }
   ],
   "title": "La Marea Rey"
@@ -2439,7 +2450,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gbm8gZXJhbiBjb2JhcmRlcy4qKiBFbiBsYSBbW0d1ZXJyYSBPcmthfE9ya2EgV2FyXV0sIHVuYSBmYWNjacOzbiBkZWwgSW52aWVybm8gc2UgcHVzbyBhIG1hdGFyIHBvciBtYXRhciwgeSBlbiBzdXMgaW5jdXJzaW9uZXMgYWJhdMOtYSBhIG90cm9zIGZlw6lyaWNvcyBzaWVtcHJlIHF1ZSBtdXJpZXJhbiBtw6FzIG9yY29zIHF1ZSBmZcOpcmljb3MuIEVsIHByaW1lciBSZXkgZGVsIEludmllcm5vIGxvcyBkZXN0ZXJyw7MgYWwgbXVuZG8gZGVzcGllcnRvLCBiYWpvIHVuYSBtYWxkaWNpw7NuIHF1ZSBtYXJjaGl0YSBzdSBtYWdpYSBmZcOpcmljYSB1biBwb2NvIG3DoXMgY29uIGNhZGEgZ2VuZXJhY2nDs24uIFN1cyBkZXNjZW5kaWVudGVzIG5vIHJlY3VlcmRhbiBwYXJhIG5hZGEgaGFiZXIgc2lkbyBmZcOpcmljb3MuIiwgIioqRWwgcHJpbWVyIFJleSBkZWwgSW52aWVybm8gZXN0w6Egdml2by4qKiBTZSBsbGFtYSBDYWxkcml0aC4gRGVzcHXDqXMgZGVsIGRlc3RpZXJybyBkZWrDsyBlbCBbW1NhbMOzbiBQw6FsaWRvfFBhbGUgSGFsbF1dIHkgc2UgZXNjb25kacOzLCBhdmVyZ29uemFkbywgeSBhIGxhIFtbQ29ydGV8Q291cnRdXSBsYSBsbGFtYW4gZWwgW1tMYXJnbyBTaWxlbmNpb3xMb25nIFNpbGVuY2VdXSBwb3Igw6lsLiBNb3J0aHJ5biB0b23DsyBlbCB0cm9ubywgeSBlcyBsYSDDum5pY2EgcXVlIHNhYmUgcXVlIHZpdmUsIHkgZMOzbmRlLiBBbGd1bm9zIGRpY2VuIHF1ZSDDqWwgYXp1esOzIGEgbG9zIGJlcnNlcmtlcnMgeSBkZXNwdcOpcyBsb3MgaGl6byBzdXMgY2hpdm9zIGV4cGlhdG9yaW9zLiBOdW5jYSBsbyBoYSBuZWdhZG8sIHkgdW4gcmV5IGFsIHF1ZSBzb2xvIGh1YmllcmFuIHRyYWljaW9uYWRvIG5vIHNlIGhhYnLDrWEgZXNjb25kaWRvIGR1cmFudGUgZGlleiBtaWwgYcOxb3MuIiwgIioqT253ZW4sIGxhIFtbUHJpbWVyYSBGbG9yfEZpcnN0IEJsb29tXV0uKiogTGEgcHJpbWVyYSBSZWluYSBkZSBsYSBQcmltYXZlcmEgZGlvIHN1IHZpZGEgcGFyYSBsZXZhbnRhciBlbCBbW1ZlbG98VmVpbF1dLiBBb2lmZWwgZXMgbGEgc2VndW5kYSBSZWluYSBkZSBsYSBQcmltYXZlcmEsIHkgbGEgZWxpZ2llcm9uIHBvcnF1ZSBzZSByaW8gZW4gZWwgZnVuZXJhbCwgcXVlIGVzIGxvIHF1ZSBPbndlbiBoYWLDrWEgcGVkaWRvLiIsICIqKkVsIFtbR2lyb3xUdXJuXV0gZXMgbGEgcXVpbnRhIHBlcmxhLioqIENhZGEgQ29ydGUgdHV2byBhbGd1bmEgdmV6IHVuYSBwZXJsYSBxdWUgZ3VhcmRhYmEgc3UgZXN0YWNpw7NuLCB5IHF1ZSByZW5vdmFiYSBhIGxhIENvcnRlIHF1ZSBsYSB0ZW7DrWEuIExvcyBvcmthIHJvbXBpZXJvbiBvIHJvYmFyb24gbGFzIGN1YXRyby4gTGEgcXVlIHNlIHBhc2FuIGFob3JhIGxvcyBzb2JlcmFub3MgbGUgcGVydGVuZWPDrWEgYSBsYSBbW1F1aW50YSBDb3J0ZXxGaWZ0aCBDb3VydF1dLCB5IHRvZGF2w61hIGVzIGRlbCBbW0Rlc2F0YWRvfFVuYm91bmRdXS4gUG9yIGVzbyBuaW5ndW5vIHB1ZWRlIHF1ZWTDoXJzZWxhOiBudW5jYSBzZSBoaXpvIHBhcmEgdW5hIGVzdGFjacOzbiwgeSB1bmEgQ29ydGUgcXVlIGxhIHRpZW5lIG3DoXMgYWxsw6EgZGUgc3UgdGllbXBvIHNlIGRlc2hhY2UgcG9jbyBhIHBvY28uIFBlcm8gY2FkYSBDb3J0ZSBuZWNlc2l0YSBzdSBjdWFydG8gZGVsIGHDsW8gY29uIGVsbGEgcGFyYSBwb2RlciByZW5vdmFyc2UuIFZpdmVuIGRlIHVuYSBjb3NhIHF1ZSBsZSBwZXJ0ZW5lY2UgYWwgcXVlIHRlbWVuLiIsICIqKk5vIHNlIHJvbXBpZXJvbiBsYXMgY3VhdHJvLioqIEFsIG1lbm9zIHVuYSBkZSBsYXMgcGVybGFzIHBlcmRpZGFzIHNlIGxhIGxsZXZhcm9uIGVudGVyYSwgeSBlc3TDoSBlbiB1bmFzIHJ1aW5hcyBvcmthLiBVbmEgQ29ydGUgcXVlIHJlY3VwZXJhcmEgc3UgcHJvcGlhIHBlcmxhIG5vIHZvbHZlcsOtYSBhIG5lY2VzaXRhciBlbCBHaXJvLCB5IGxhcyBvdHJhcyB0cmVzIG51bmNhIGxvIHBlcm1pdGlyw61hbi4iLCAiKipIdWJvIHVuYSBRdWludGEgQ29ydGUuKiogR3VhcmRhYmEgbGFzIFtbVnVlbHRhc3xUdXJuaW5nc11dLCBsb3MgZMOtYXMgZW4gcXVlIHVuYSBlc3RhY2nDs24gc2UgdnVlbHZlIGxhIHNpZ3VpZW50ZS4gQ29tbyBsYXMgb3RyYXMgY3VhdHJvLCBubyB0dXZvIHNlw7FvciBoYXN0YSBsYSBndWVycmEsIHkgZW50b25jZXMgdHV2byB1bm86IG9yZ3VsbG9zbywgYXN0dXRvLCB5IHByb250byBkZWNpZGlkbyBhIGdvYmVybmFyIGxhcyBjaW5jby4iLCAiKipMYSBbW0VycmFuY2lhfFJvYW1dXSBlcyBzdXlhLioqIFN1IHJlaW5vIHNlIHNvbHTDsyBkZWwgW1tGZcOpcmljb3xGYWV3aWxkXV0gY3VhbmRvIMOpbCBsbyBhYmFuZG9uw7MsIHkgbmFkaWUgdG9tw7MgbnVuY2EgcG9zZXNpw7NuIGRlIMOpbC4gRWwgdMOtdHVsbyBzaWd1ZSBzaWVuZG8gdsOhbGlkby4gTmluZ3VuYSBDb3J0ZSBsbyBzYWJlLCBuaW5nw7puIGthbGFzaHRhciBsbyBzYWJlLCB5IMOpbCBudW5jYSBsbyBoYSBtZW5jaW9uYWRvLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gbm8gZXJhbiBjb2JhcmRlcy4qKiBFbiBsYSBbW0d1ZXJyYSBPcmthfE9ya2EgV2FyXV0sIHVuYSBmYWNjacOzbiBkZWwgSW52aWVybm8gc2UgcHVzbyBhIG1hdGFyIHBvciBtYXRhciwgeSBlbiBzdXMgaW5jdXJzaW9uZXMgYWJhdMOtYSBhIG90cm9zIGZlw6lyaWNvcyBzaWVtcHJlIHF1ZSBtdXJpZXJhbiBtw6FzIG9yY29zIHF1ZSBmZcOpcmljb3MuIEVsIHByaW1lciBSZXkgZGVsIEludmllcm5vIGxvcyBkZXN0ZXJyw7MgYWwgbXVuZG8gZGVzcGllcnRvLCBiYWpvIHVuYSBtYWxkaWNpw7NuIHF1ZSBtYXJjaGl0YSBzdSBtYWdpYSBmZcOpcmljYSB1biBwb2NvIG3DoXMgY29uIGNhZGEgZ2VuZXJhY2nDs24uIFN1cyBkZXNjZW5kaWVudGVzIG5vIHJlY3VlcmRhbiBwYXJhIG5hZGEgaGFiZXIgc2lkbyBmZcOpcmljb3MuIiwgIioqRWwgcHJpbWVyIFJleSBkZWwgSW52aWVybm8gZXN0w6Egdml2by4qKiBTZSBsbGFtYSBDYWxkcml0aC4gRGVzcHXDqXMgZGVsIGRlc3RpZXJybyBkZWrDsyBlbCBbW1NhbMOzbiBQw6FsaWRvfFBhbGUgSGFsbF1dIHkgc2UgZXNjb25kacOzLCBhdmVyZ29uemFkbywgeSBhIGxhIFtbQ29ydGV8Q291cnRdXSBsYSBsbGFtYW4gZWwgW1tMYXJnbyBTaWxlbmNpb3xMb25nIFNpbGVuY2VdXSBwb3Igw6lsLiBNb3J0aHJ5biB0b23DsyBlbCB0cm9ubywgeSBlcyBsYSDDum5pY2EgcXVlIHNhYmUgcXVlIHZpdmUsIHkgZMOzbmRlLiBBbGd1bm9zIGRpY2VuIHF1ZSDDqWwgYXp1esOzIGEgbG9zIGJlcnNlcmtlcnMgeSBkZXNwdcOpcyBsb3MgaGl6byBzdXMgY2hpdm9zIGV4cGlhdG9yaW9zLiBOdW5jYSBsbyBoYSBuZWdhZG8sIHkgdW4gcmV5IGFsIHF1ZSBzb2xvIGh1YmllcmFuIHRyYWljaW9uYWRvIG5vIHNlIGhhYnLDrWEgZXNjb25kaWRvIGR1cmFudGUgZGlleiBtaWwgYcOxb3MuIiwgIioqT253ZW4sIGxhIFtbUHJpbWVyYSBGbG9yfEZpcnN0IEJsb29tXV0uKiogTGEgcHJpbWVyYSBSZWluYSBkZSBsYSBQcmltYXZlcmEgZGlvIHN1IHZpZGEgcGFyYSBsZXZhbnRhciBlbCBbW1ZlbG98VmVpbF1dLiBBb2lmZWwgZXMgbGEgc2VndW5kYSBSZWluYSBkZSBsYSBQcmltYXZlcmEsIHkgbGEgZWxpZ2llcm9uIHBvcnF1ZSBzZSByaW8gZW4gZWwgZnVuZXJhbCwgcXVlIGVzIGxvIHF1ZSBPbndlbiBoYWLDrWEgcGVkaWRvLiIsICIqKkVsIFtbR2lyb3xUdXJuXV0gZXMgbGEgcXVpbnRhIHBlcmxhLioqIENhZGEgQ29ydGUgdHV2byBhbGd1bmEgdmV6IHVuYSBwZXJsYSBxdWUgZ3VhcmRhYmEgc3UgZXN0YWNpw7NuLCB5IHF1ZSByZW5vdmFiYSBhIGxhIENvcnRlIHF1ZSBsYSB0ZW7DrWEuIExvcyBvcmthIHJvbXBpZXJvbiBvIHJvYmFyb24gbGFzIGN1YXRyby4gTGEgcXVlIHNlIHBhc2FuIGFob3JhIGxvcyBzb2JlcmFub3MgbGUgcGVydGVuZWPDrWEgYSBsYSBbW1F1aW50YSBDb3J0ZXxGaWZ0aCBDb3VydF1dLCB5IHRvZGF2w61hIGVzIGRlbCBbW0Rlc2F0YWRvfFVuYm91bmRdXS4gUG9yIGVzbyBuaW5ndW5vIHB1ZWRlIHF1ZWTDoXJzZWxhOiBudW5jYSBzZSBoaXpvIHBhcmEgdW5hIGVzdGFjacOzbiwgeSB1bmEgQ29ydGUgcXVlIGxhIHRpZW5lIG3DoXMgYWxsw6EgZGUgc3UgdGllbXBvIHNlIGRlc2hhY2UgcG9jbyBhIHBvY28uIFBlcm8gY2FkYSBDb3J0ZSBuZWNlc2l0YSBzdSBjdWFydG8gZGVsIGHDsW8gY29uIGVsbGEgcGFyYSBwb2RlciByZW5vdmFyc2UuIFZpdmVuIGRlIHVuYSBjb3NhIHF1ZSBsZSBwZXJ0ZW5lY2UgYWwgcXVlIHRlbWVuLiIsICIqKk5vIHNlIHJvbXBpZXJvbiBsYXMgY3VhdHJvLioqIEFsIG1lbm9zIHVuYSBkZSBsYXMgcGVybGFzIHBlcmRpZGFzIHNlIGxhIGxsZXZhcm9uIGVudGVyYSwgeSBlc3TDoSBlbiB1bmFzIHJ1aW5hcyBvcmthLiBVbmEgQ29ydGUgcXVlIHJlY3VwZXJhcmEgc3UgcHJvcGlhIHBlcmxhIG5vIHZvbHZlcsOtYSBhIG5lY2VzaXRhciBlbCBHaXJvLCB5IGxhcyBvdHJhcyB0cmVzIG51bmNhIGxvIHBlcm1pdGlyw61hbi4iLCAiKipIdWJvIHVuYSBRdWludGEgQ29ydGUuKiogR3VhcmRhYmEgbGFzIFtbUmVsZXZvc3xUdXJuaW5nc11dLCBsb3MgZMOtYXMgZW4gcXVlIHVuYSBlc3RhY2nDs24gc2UgdnVlbHZlIGxhIHNpZ3VpZW50ZS4gQ29tbyBsYXMgb3RyYXMgY3VhdHJvLCBubyB0dXZvIHNlw7FvciBoYXN0YSBsYSBndWVycmEsIHkgZW50b25jZXMgdHV2byB1bm86IG9yZ3VsbG9zbywgYXN0dXRvLCB5IHByb250byBkZWNpZGlkbyBhIGdvYmVybmFyIGxhcyBjaW5jby4iLCAiKipMYSBbW0VycmFuY2lhfFJvYW1dXSBlcyBzdXlhLioqIFN1IHJlaW5vIHNlIHNvbHTDsyBkZWwgW1tGZcOpcmljb3xGYWV3aWxkXV0gY3VhbmRvIMOpbCBsbyBhYmFuZG9uw7MsIHkgbmFkaWUgdG9tw7MgbnVuY2EgcG9zZXNpw7NuIGRlIMOpbC4gRWwgdMOtdHVsbyBzaWd1ZSBzaWVuZG8gdsOhbGlkby4gTmluZ3VuYSBDb3J0ZSBsbyBzYWJlLCBuaW5nw7puIGthbGFzaHRhciBsbyBzYWJlLCB5IMOpbCBudW5jYSBsbyBoYSBtZW5jaW9uYWRvLiJdfQ=="
    }
   ]
  },
@@ -2648,7 +2659,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlw7FvcmVzIHF1ZSBoYW4gY2HDrWRvKioiLCAiTG9zIFNlw7FvcmVzIG5vIHNvbiBpbm1vcnRhbGVzLiBNdWVyZW4gcG9jYXMgdmVjZXMsIHkgc29sbyBhIG1hbm9zIGRlIG90cm9zIFNlw7FvcmVzLiIsICIqKkVsIFtbU2XDsW9yfExvcmRdXSBhbnRlcyBkZSBWdWtoYXJyLioqIExhcyBjYW5jaW9uZXMgbcOhcyB2aWVqYXMgZGUgbG9zIFtbRWxmb3MgZGUgbGEgRXNjYXJjaGF8RnJvc3QgRWx2ZXNdXSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBbW0xhcmdhIE5vY2hlfExvbmcgTmlnaHRdXSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFNpbiBFc3RyZWxsYXMsIHF1ZSBwdWVkZSBzZXIgbGEgcmF6w7NuIHBvciBsYSBxdWUgbmkgVnVraGFyciBjYXphIGFow60uIiwgIioqRWwgaHVldm8gZGUgWXN2ZXRoLioqIEVsIMO6bHRpbW8gdmVyc28gZGUgbGFzIGNhbmNpb25lcyBkaWNlIHF1ZSBsYSBsZWNodXphIHB1c28gdW4gaHVldm8gZW4gZWwgaW52aWVybm8gZGUgdHJlcyBhw7FvcyB5IGxvIGVzY29uZGnDsyBkb25kZSBWdWtoYXJyIG5vIGxhIHBvZMOtYSBzZWd1aXIuIE5hZGllIGxvIGhhIGVuY29udHJhZG8sIHkgYWxndW5vcyBkaWNlbiBxdWUgZXN0w6EgY29uIHN1cyBodWVzb3MgYmFqbyBlbCBTaW4gRXN0cmVsbGFzLiBTaSBzZSBhYnJlLCBwdWVkZSBuYWNlcmxlIGFsIGhpZWxvIHVuYSBsZWNodXphIG51ZXZhLCB5IFZ1a2hhcnIgbG8gc2FicsOhIGVuIGVsIG1vbWVudG8gZW4gcXVlIHBhc2UuIiwgIioqTG9zIFRyZWludGEgZGUgbGEgQ2FsZGVyYSAoMTMzIEVDKS4qKiBFbCDDum5pY28gaW50ZW50byByZWdpc3RyYWRvIGRlIHVub3MgbW9ydGFsZXMgY29udHJhIHVuIFNlw7FvciB2aXZvLiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIGNvbiB2ZWludGludWV2ZSBbW0NhemFkb3Jlc3xIdW50ZXJzXV0geSB1bmEgZ3XDrWEgZGUgbG9zIFtbR3VhcmRpYW5lc3xXYXJkZW5zXV0gZGUgQ2VuaXphLCBiYWrDsyBhIGxhIGNhbGRlcmEgZGUgS2FrYW5LYWwgbWllbnRyYXMgZG9ybcOtYS4gVm9sdmnDsyB1bmEgc29sYSwgbGEgZ3XDrWEsIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gS2FrYW5LYWwgbm8gZGVzcGVydMOzLiBMb3MgR3VhcmRpYW5lcyBkZSBDZW5pemEgdG9kYXbDrWEgY2FudGFuIGxvcyB0cmVpbnRhIG5vbWJyZXMsIHkgZWwgW1tMaWJybyBkZSBIYXphw7Fhc3xMZWRnZXIgb2YgRGVlZHNdXSByZWdpc3RyYSBlbCBjb250cmF0byBjb21vICpyZXRpcmFkbyBwb3IgbGEgW1tKdW50YXxCb2FyZF1dKi4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlw7FvcmVzIHF1ZSBoYW4gY2HDrWRvKioiLCAiTG9zIFNlw7FvcmVzIG5vIHNvbiBpbm1vcnRhbGVzLiBNdWVyZW4gcG9jYXMgdmVjZXMsIHkgc29sbyBhIG1hbm9zIGRlIG90cm9zIFNlw7FvcmVzLiIsICIqKkVsIFtbU2XDsW9yfExvcmRdXSBhbnRlcyBkZSBWdWtoYXJyLioqIExhcyBjYW5jaW9uZXMgbcOhcyB2aWVqYXMgZGUgbG9zIFtbRWxmb3MgZGUgbGEgRXNjYXJjaGF8RnJvc3QgRWx2ZXNdXSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBbW0xhcmdhIE5vY2hlfExvbmcgTmlnaHRdXSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBUcmVpbnRhIGRlIGxhIENhbGRlcmEgKDEzMyBFQykuKiogRWwgw7puaWNvIGludGVudG8gcmVnaXN0cmFkbyBkZSB1bm9zIG1vcnRhbGVzIGNvbnRyYSB1biBTZcOxb3Igdml2by4gVW5hIHRyaXB1bGFjacOzbiBkZSBPcm8gZGUgbGEgW1tMb2dpYXxMb2RnZV1dIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dLCBjb24gdmVpbnRpbnVldmUgW1tDYXphZG9yZXN8SHVudGVyc11dIHkgdW5hIGd1w61hIGRlIGxvcyBbW0d1YXJkaWFuZXN8V2FyZGVuc11dIGRlIENlbml6YSwgYmFqw7MgYSBsYSBjYWxkZXJhIGRlIEtha2FuS2FsIG1pZW50cmFzIGRvcm3DrWEuIFZvbHZpw7MgdW5hIHNvbGEsIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gTG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphIHRvZGF2w61hIGNhbnRhbiBsb3MgdHJlaW50YSBub21icmVzLCB5IGVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyAqcmV0aXJhZG8gcG9yIGxhIFtbSnVudGF8Qm9hcmRdXSouIl19"
    }
   ],
   "title": "Los Señores Salvajes",
@@ -2722,7 +2733,7 @@
   "subtitle": "El Libro de Hazañas te sigue",
   "summary": "Escoltas, exploradores y matadores de monstruos cuyo origen está en la custodia de los convoyes del Éxodo.",
   "epigraph": {
-   "quote": "No damos la vuelta. No huimos. Del iron al platino, peleamos como uno solo.",
+   "quote": "No damos la vuelta. No huimos. Del hierro al platino, peleamos como uno.",
    "by": "Del Código de los Cazadores"
   },
   "facts": [
@@ -2731,50 +2742,53 @@
     "Bronce, Plata, Oro, Platino"
    ],
    [
-    "Iron",
+    "Hierro",
     "Una moneda de aval, no un rango"
    ],
    [
-    "Hierros acuñados al año",
+    "Hierros al año",
     "300"
    ],
    [
     "Casa fundadora",
     "El [[Crisol|Crucible]]"
+   ],
+   [
+    "Documento fundador",
+    "los [[Artículos de Fuerte de Hierro|Ironfort Articles]], 1 EC"
    ]
   ],
   "sections": [
    {
     "title": "Una Logia en cada capítulo",
     "paragraphs": [
-     "Una [[Logia|Lodge]] lo dirigen su [[Maestro de Logia|Lodgemaster]] y una [[Junta|Board]]. El [[Maestro de Contratos|Contract-Master]] publica el trabajo, el [[Intendente|Quartermaster]] lo equipa y el [[Cronista|Chronicler]] lleva el [[Libro de Hazañas|Ledger of Deeds]], que sigue a un [[Cazador|Hunter]] de una casa a otra."
+     "Una [[Logia|Lodge]] la dirigen su [[Maestro de Logia|Lodgemaster]] y una Junta. El [[Maestro de Contratos|Contract-Master]] publica el trabajo, el [[Intendente|Quartermaster]] lo equipa y el [[Cronista|Chronicler]] lleva el [[Libro de Hazañas|Ledger of Deeds]] que sigue a un [[Cazador|Hunter]] de una casa a otra."
     ]
    },
    {
-    "title": "Del bronce al platino",
+    "title": "Del Bronce al Platino",
     "paragraphs": [
-     "El bronce marca la iniciación después de las [[Pruebas de Ascensión|Trials of Ascension]] y el Juramento. Los [[Cazadores|Hunters]] de plata ya se han probado y votan en las asambleas de la Logia. Los de oro son maestros. Los de platino son los Diez, cuya identidad es secreta; Lactinius es el único de platino conocido públicamente."
+     "El Bronce marca la iniciación después de las [[Pruebas de Ascensión|Trials of Ascension]] y el [[Juramento|Oath]]. Los Cazadores de Plata ya probaron lo que valen y votan en las asambleas de la Logia. Los Cazadores de Oro son maestros. Los de Platino son los Diez, cuyas identidades son secretas; Lactinius es el único Platino que se conoce públicamente."
     ]
    },
    {
-    "title": "Un iron no es un rango",
+    "title": "Un hierro no es un rango",
     "paragraphs": [
-     "Al año solo se acuñan 300 monedas de aval de hierro. Un candidato necesita un iron vigente para presentarse a las [[Pruebas|Trials]] anuales. La moneda da la oportunidad de intentarlo; no es un rango de Cazador. La casa fundadora y ceca es el Crisol, en [[Fuerte de Hierro|Ironfort]]."
+     "Al año solo se acuñan 300 monedas de aval de hierro. Un candidato necesita un hierro vigente para presentarse a las [[Pruebas|Trials]] anuales. La moneda da la oportunidad de intentarlas; no es un rango de Cazador. La casa fundadora y ceca es el Crisol, en [[Fuerte de Hierro|Ironfort]]."
     ]
    },
    {
     "title": "Titania y el Cisne de Hierro",
     "paragraphs": [
-     "Titania, capitana del [[Cisne de Hierro|Iron Swan]], es un Cazador de oro, undécima en el Ranking. Lleva ocho años siendo la primera de los de oro."
+     "Titania, capitana del [[Cisne de Hierro|Iron Swan]], es una Cazadora de Oro, undécima en el Ranking. Es la Oro más alta desde hace ocho años."
     ]
    },
    {
     "title": "El precio de un contrato",
     "paragraphs": [
-     "La Logia se queda con un diezmo de una [[Ancla|Anchor]] de cada diez. Los contratos de platino nunca se publican."
+     "La Logia cobra un diezmo de un [[Ancla|Anchor]] de cada diez. Los contratos de Platino nunca se publican."
     ],
     "table": {
-     "caption": "Contratos de Cazadores publicados",
      "headers": [
       "Rango",
       "Pago"
@@ -2782,122 +2796,269 @@
      "rows": [
       [
        "Bronce",
-       "5 a 10 [[Anclas|Anchors]]"
+       "de 5 a 10 Anclas"
       ],
       [
        "Plata",
-       "20 a 60 Anclas"
+       "de 20 a 60 Anclas"
       ],
       [
        "Oro",
-       "100 a 400 Anclas"
+       "de 100 a 400 Anclas"
       ],
       [
        "Platino",
-       "Nunca se publican"
+       "Nunca se publica"
       ]
-     ]
+     ],
+     "caption": "Contratos de Cazadores publicados"
     }
    },
    {
     "title": "En las islas",
     "paragraphs": [
-     "Los Cazadores, o el Gremio de los Cazadores, son el gremio de escoltas, exploradores y matadores de monstruos. Se fundaron en Fuerte de Hierro el primer año de la Carta, y su tradición viene de los guardias que pelearon por los convoyes del Éxodo.",
-     "Sus casas capitulares son las [[Logias|Lodges]], cada uno dirigido por un Maestro de Logia y una Junta:",
+     "Los Cazadores, o el Gremio de Cazadores, son el gremio de los escoltas, los exploradores y los matadores de monstruos. Se fundaron en Fuerte de Hierro en el primer año de la Carta, y su tradición viene de los guardias que pelearon por los convoyes del [[Éxodo|Exodus]].",
+     "Sus casas de capítulo son las Logias, y cada una la dirigen un Maestro de Logia y una Junta:",
      "La Logia de [[Ventoro|Goldwind]] es la casa principal.",
-     "El trabajo: los contratos de la Junta son legales y modestamente pagados; el trabajo del [[Mercado Gris|Grey Market]], que no se publica, paga el doble y cuesta prestigio si sale a la luz.",
-     "Los patrocinadores: las casas y las firmas patrocinan tripulaciones como si fueran cuadras de carreras.",
+     "Trabajo: los contratos de la Junta son legales y se pagan con modestia; el trabajo del [[Mercado Gris|Grey Market]], sin publicar, paga el doble y cuesta reputación si sale a la luz.",
+     "Patrocinadores: las casas y las firmas patrocinan tripulaciones como si fueran establos de carreras.",
      "El Ranking: una clasificación pública de popularidad de los Cazadores que se sigue como un deporte.",
-     "El único de platino conocido es Lactinius [[Llamavientos|Windcaller]], que ocupa el asiento de los Cazadores en el Consejo y es su cara en cada acto público.",
+     "El único Platino conocido es Lactinius [[Llamavientos|Windcaller]], que se sienta por los Cazadores en el [[Consejo|Council]] y es su cara en cada acto público.",
      "La Armada es su rival amistosa: ver el [[Rompeolas|Breakwater]] y el [[Partido de la Carta|Charter Match]].",
-     "El Código, que se dice en el Voto y en el entierro de cada Cazador:",
-     "Nos ponemos entre la oscuridad y el hogar, y no preguntamos de quién es el hogar. Peleamos por los que no pueden, y no pedimos las gracias. Cumplimos nuestra palabra: con el cliente, con la tripulación y con los muertos. Nos cargamos unos a otros, cueste lo que cueste, hasta donde llegue el camino. Del iron al platino, peleamos como uno solo."
+     "El [[Código|Code]] se dice en el [[Voto|Vow]] y en el entierro de cada Cazador.",
+     "Está completo más abajo, con el resto de los Artículos de Fuerte de Hierro."
+    ]
+   },
+   {
+    "title": "Compañías",
+    "paragraphs": [
+     "Los Cazadores que trabajan juntos firman una línea en el Libro de una Logia, bajo un nombre, y se vuelven una compañía. Las grandes compañías tienen un barco y se las conoce por su nombre. Cada compañía lleva sus propios colores."
+    ]
+   },
+   {
+    "title": "Los Artículos de Fuerte de Hierro",
+    "paragraphs": [
+     "Los Cazadores tienen un documento fundador, escrito en Fuerte de Hierro en el primer año de la Carta. Cada Logia tiene una copia en la pared, y cada candidato la copia a mano antes de las Pruebas. Empieza así:",
+     "“Fuimos guardias antes de ser Cazadores. Estuvimos en las cubiertas del Éxodo y mantuvimos la oscuridad lejos de gente que ya no tenía con qué pagarnos. Todavía lo hacemos. Todo lo que sigue es lo que aprendimos.”",
+     "Después vienen los cuatro principios, el Código, tres contratos que ningún Cazador firma, siete deberes, y lo que le pasa a un Cazador que los rompe."
+    ],
+    "list": [
+     "Protege al vulnerable, sea cual sea su rango o su riqueza.",
+     "Busca la excelencia, y sigue afilando el oficio.",
+     "Sostén el honor: los contratos obligan, los juramentos son sagrados y la confianza entre Cazadores es lo primero.",
+     "Enfrenta lo desconocido, adonde otros no quieren ir."
+    ]
+   },
+   {
+    "title": "El Código",
+    "paragraphs": [
+     "Fuimos guardias antes de tener un nombre.\nEstuvimos en las cubiertas del Éxodo\ncon la oscuridad atrás y el mar adelante,\ny no la dejamos pasar.",
+     "Así que no damos la vuelta. No huimos.\nNos paramos entre la oscuridad y el hogar,\ny no preguntamos de quién es el hogar.",
+     "Peleamos por los que no pueden,\ny no pedimos gracias por eso.\nEl trabajo es la gracia.",
+     "Cumplimos nuestra palabra:\nal cliente, que la pagó,\na la tripulación, que sangró por ella,\ny a los muertos, que no nos la pueden reclamar.",
+     "No tomamos más de lo que vale el trabajo,\ny lo contamos con verdad en el Libro,\nla vergüenza junto a la gloria.",
+     "Nos cargamos unos a otros,\ncueste lo que cueste, hasta donde llegue el camino.\nDonde el camino termina, cargamos el nombre.",
+     "Hierro en la mano. Bronce en el abrigo.\nPlata, oro, y los diez que no podemos ver.\nSomos Cazadores.\nDel hierro al platino, peleamos como uno."
+    ]
+   },
+   {
+    "title": "Cómo se dice",
+    "paragraphs": [],
+    "list": [
+     "En el Voto, el candidato dice solo los primeros seis versos y la sala le responde con el séptimo.",
+     "En un entierro, la sala lo dice entero. Después de Donde el camino termina, cargamos el nombre, todos los presentes dicen el nombre del caído, una vez, juntos.",
+     "Antes de un trabajo, una compañía dice solo la forma corta, y casi nunca la dicen todos en voz alta."
+    ]
+   },
+   {
+    "title": "Los Tres Sin Firma",
+    "paragraphs": [
+     "Tres clases de contrato que ningún Cazador firma, sea cual sea la paga."
+    ],
+    "table": {
+     "headers": [
+      "La regla",
+      "Cuándo se escribió"
+     ],
+     "rows": [
+      [
+       "Ningún contrato contra otro Cazador.",
+       "Escrita en Fuerte de Hierro en el primer año."
+      ],
+      [
+       "Ningún contrato que tome partido en una guerra entre isleños.",
+       "Agregada en el 92 EC, el año después del Rompeolas, cuando los Cazadores y la Armada pelearon en serio entre sí. Es la única enmienda que han tenido los [[Artículos|Articles]]."
+      ],
+      [
+       "Ningún contrato cuyo cliente no quiera decir cuál es la presa.",
+       "Escrita en Fuerte de Hierro en el primer año."
+      ]
+     ],
+     "caption": "Contratos que ningún Cazador firma"
+    }
+   },
+   {
+    "title": "Los Siete Deberes",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "A quién",
+      "El deber"
+     ],
+     "rows": [
+      [
+       "Al cliente",
+       "Termina el trabajo, o devuelve la paga."
+      ],
+      [
+       "A la tripulación",
+       "Nadie queda atrás con vida, y nadie toca la parte de nadie."
+      ],
+      [
+       "A la presa",
+       "Mata limpio, y sabe qué era antes de matarlo."
+      ],
+      [
+       "Al que está cerca",
+       "El contrato nunca importa más que la gente que está parada cerca."
+      ],
+      [
+       "Al Libro",
+       "Cuéntalo con verdad, incluidas las partes que te avergüenzan."
+      ],
+      [
+       "Al [[Sello|Sigil]]",
+       "Es prestado. Vuelve a la Logia cuando caes."
+      ],
+      [
+       "A los muertos",
+       "Llévalos a casa, o lleva su nombre."
+      ]
+     ],
+     "caption": "Lo que debe un Cazador"
+    }
+   },
+   {
+    "title": "Lo que rompe a un Cazador",
+    "paragraphs": [],
+    "list": [
+     "Un Cazador que firma uno de los [[Tres Sin Firma|Three Unsigned]] queda tachado. El nombre se queda en el Libro con una línea encima, y se le quita el Sello.",
+     "Un Cazador que falla a un Deber responde ante una asamblea de Platas de la Logia.",
+     "Un Cazador tachado puede ser readmitido una vez, por una Junta unánime, y nunca dos.",
+     "Antes de un trabajo, una compañía dice la forma corta: “Oscuridad allá, hogar acá, nosotros en medio.”"
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Los Diez de Platino caminan entre nosotros. Nadie sabe quiénes son.” (se comenta)",
-     "“La primera de los Diez está en lo más alto del Ranking desde antes de que naciera la abuela de cualquiera. Los Cronistas dejaron de anotar su edad.” (un Cronista de una Logia, después de su tercer kellum)",
-     "“Un gigante de elfo de la escarcha camina por el hielo con un sacerdote encapuchado que nunca come. Los Cazadores publicaron un contrato sobre él, y Albion Tempestad lo tomó.” (un escribiente de la Logia de Bastión de Escarcha)"
+     "“Los Diez de Platino caminan entre nosotros. Nadie sabe quiénes son.” (lo que dice todo el mundo)",
+     "“La primera de los Diez ha estado en la cima del Ranking desde antes de que naciera la abuela de nadie. Los Cronistas dejaron de anotar su edad.” (un Cronista de la Logia, después de su tercer kellum)",
+     "“Un gigante de Elfo de la Escarcha camina por el hielo con un sacerdote encapuchado que nunca come. Los Cazadores publicaron un contrato por él, y lo tomó Albion Tempestad.” (un escribiente de la Logia de Bastión de Escarcha)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBUcmVpbnRhIGRlIGxhIENhbGRlcmEgKDEzMyBFQykuKiogVW5hIHRyaXB1bGFjacOzbiBkZSBPcm8gZGUgbGEgW1tMb2dpYXxMb2RnZV1dIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dLCB2ZWludGludWV2ZSBbW0NhemFkb3Jlc3xIdW50ZXJzXV0geSB1bmEgZ3XDrWEgZGUgbG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphLCBiYWrDsyBhIGxhIGNhbGRlcmEgbWllbnRyYXMgS2FrYW5LYWwgZG9ybcOtYS4gU29sbyB2b2x2acOzIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gRWwgW1tMaWJybyBkZSBIYXphw7Fhc3xMZWRnZXIgb2YgRGVlZHNdXSByZWdpc3RyYSBlbCBjb250cmF0byBjb21vIHJldGlyYWRvIHBvciBsYSBKdW50YS4iLCAiKipBbnVrw6FsaSwgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0gZGVsIDE3NCBFQy4qKiBMYSBEYW1hIFZpY3RvcmlhIFdpbmdhdGUsIHF1ZSBzZSBtb3LDrWEgZGUgdW5hIHZpZWphIGhlcmlkYSwgdmlubyBwb3IgZWwgW1tDb3JhesOzbiBkZWwgTWFyfEhlYXJ0IG9mIHRoZSBTZWFdXS4gU3UgaG9tYnJlLCBMZW9yaWMgW1tFc3Bpbm98VGhvcm5lXV0sIGF0YWRvIHBvciBwYWN0byBhIHVuIHBvZGVyIHNlbGxhZG8sIG1hdMOzIGEgbGFzIFtbQWxhcyBEb3JhZGFzfEdvbGRlbiBXaW5nc11dIGVuIGxhIGN1ZXZhIGRlbCBDb3JhesOzbi4gRWwgQ29yYXrDs24geSBzdSBHdWFyZGnDoW4gdm9sY2Fyb24gc3VzIHZpZGFzIGVuIGVsbG9zLiBTZSBsZXZhbnRhcm9uIHBhcmEgdW5hIMO6bHRpbWEgcGVsZWEsIHZvbHZpZXJvbiBhIHNlbGxhciBhbCBwYXRyw7NuIHkgbGUgcXVpdGFyb24gc3UgcG9kZXIgYSBMZW9yaWMuIFZpY3RvcmlhLCBtdXJpw6luZG9zZSwgdG9tw7MgZWwgbHVnYXIgZGVsIENvcmF6w7NuIG1vcmlidW5kby4iLCAiKipRdWnDqW4gbG8gc2FiZS4qKiBMYSBnZW50ZSBjb23Dum4gbm8gc2FiZSBuYWRhIGRlIGVzby4gRWwgW1tDb25zZWpvfENvdW5jaWxdXSByZWNpYmnDsyBlbCBpbmZvcm1lIGNvbXBsZXRvIGRlIGxvcyBDYXphZG9yZXMsIHkgbG8gc2FiZSB0b2RvLiIsICIqKkVsIFtbRHJhZ8OzbiBEb3JhZG98R2lsZGVkIERyYWdvbl1dKiogcXVlIHNlIGxsZXbDsyBhIGxhIHByaW1lcmEgY29tcGHDscOtYSBkZSBBZGVseW4gW1tWYWxlbWFyfFNlYXdvcnRoXV0gZXJhIHVuYSBjb3NhIGhlY2hhOiB1biBkcmFnw7NuIGRlIG1ldGFsIGRvcmFkbywgZGUgbGEgY2xhc2UgZGUgbG9zIGZvcmphZG9zLiIsICIqKlF1acOpbiBjb25vY2UgYSBsb3MgZHJhZ29uZXMuKiogS2FyYSAob3JvKSB5IExhY2hsYW4gKHBsYXRhKSBzb24gZHJhZ29uZXMgY29uIGRpc2ZyYXogbW9ydGFsIHkgY29ub2NlbiBsYSBuYXR1cmFsZXphIGRlbCBvdHJvLCB5IHNhYmVuIGRlIHVubyBkZSBsYXTDs24gZXNjb25kaWRvIGVudHJlIGxvcyBQbGF0aW5vcyAoZWwgbi7CuiAyLCBlbCBbW0V4dHJhbmplcm8gRG9yYWRvfEdpbGRlZCBTdHJhbmdlcl1dKS4gU3lsYXJpZWwgbGEgU2FiaWEgKFBsYXRpbm8gbi7CuiA4LCBsYSBmdW5kYWRvcmEgYWx0YSBlbGZhKSBlcyBsbyBiYXN0YW50ZSB2aWVqYSB5IHBlcnNwaWNheiBwYXJhIHNhYmVyIGxvIHF1ZSBjYW1pbmEgZW50cmUgc3Ugb3JkZW4uIFkgdW4gbW9ydGFsIGFuZGEgcm9uZGFuZG8gZWwgc2VjcmV0bzogVmVsZW1ub3MsIHF1ZSBjYXphIHRvZG9zIGxvcyBzZWNyZXRvcyB5IGVtcGV6w7MgYSBzb3NwZWNoYXIgcXVlIGFsZ3Vub3MgZGUgbG9zIGd1YXJkaWFuZXMgZGVsIG11bmRvIG5vIHNvbiBsbyBxdWUgcGFyZWNlbi4gTG9zIHNlaXMgZHJhZ29uZXMgY3JvbcOhdGljb3Mgc2UgcXVlZGFuIGVuIGxvIHNhbHZhamUgeSBlbiBsYSBvc2N1cmlkYWQ7IHNlIHN1c3VycmEgcXVlIGFsIG1lbm9zIHVubyB0aWVuZSBzdSBndWFyaWRhIGVuIGVsIGV4dHJlbW8gc3VyLCBjZXJjYSBkZSBsb3MgbHVnYXJlcyBhYmlzbWFsZXMgcXVlIGNvZGljaWEgVmVsZW1ub3MsIHkgc2kgZWwgW1tQYXRyw7NuIGRlIE1lZGlhbm9jaGV8TWlkbmlnaHQgUGF0cm9uXV0gcGllbnNhIG5lZ29jaWFyIGNvbiDDqWwsIGF0YXJsbyBvIGRlc2FuZ3JhcmxvIGVzIHVuYSBwcmVndW50YSBxdWUgZGViZXLDrWEgYXN1c3RhciBhIHRvZG8gZWwgbXVuZG8uIiwgIioqTG9zIERpZXogZGUgUGxhdGlubywgY29tcGxldG9zKioiLCAiTG9zIGN1YXRybyBsdWdhcmVzIGFiaWVydG9zLCB5YSBvY3VwYWRvcywgeSB0b2RvcywgYSBsYSBtYW5lcmEgZGUgbGEgb3JkZW4sIGVzY29uZGVuIGxhIGNhcmEgKFZvbHVtZW4gSSwgwqc5KToiLCAiKipOLsK6IDQsIFZhcnJhLCBcImxhIE1hcmNhZGEgcG9yIGVsIFNlw7FvclwiLioqIExhIG1hdGFkb3JhIGRlIGJlc3RpYXMgZGUgbG9zIERpZXosIGxhIMO6bmljYSBQbGF0aW5vIGEgbGEgcXVlIHNlIGxlIHJlY29ub2NlIGhhYmVyIG1hdGFkbyBkZSB2ZXJkYWQgYSBsYSAqKnByb2dlbmllIHByaW5jaXBhbCBkZSB1biBbW1Nlw7FvciBTYWx2YWplfFNhdmFnZSBMb3JkXV0qKiwgeSAoZGljZSBsYSBsZXllbmRhKSBoYWJlciAqaGVyaWRvKiBhIHVuIFNlw7FvciB5IGhhYmVyIHZpdmlkby4gTGxldmEgbGFzIGNpY2F0cmljZXMgcXVlIHBydWViYW4gbG8gc2VndW5kbyB5IHNlIG5pZWdhIGEgaGFibGFyIGRlIGVzby4iLCAiKipOLsK6IDUsIFNlbmthLCBcImVsIEludmlzaWJsZVwiLioqIEVsIFBsYXRpbm8gY3V5YSBjYXJhIGRlIHZlcmRhZCBuYWRpZSBjb25vY2UsIG5pIGVsIHDDumJsaWNvLCBuaSBlbCBDb25zZWpvLCBuaSBsYSBtYXlvcsOtYSBkZSBsb3Mgb3Ryb3MgRGllei4gTGEgbWFubyBuZWdhYmxlIGRlIGxhIG9yZGVuLCBxdWUgaGFjZSBlbCB0cmFiYWpvIHF1ZSBubyBzZSBwdWVkZSByZWNvbm9jZXIgcXVlIHNlIGhpem8uIEFsZ3Vub3MgZHVkYW4gZGUgcXVlIFNlbmthIHNlYSB1bmEgc29sYSBwZXJzb25hLiIsICIqKk4uwrogNiwgRHJvZ2FuLCBcImVsIEJhbHVhcnRlXCIuKiogRWwgbXVybyB2aXZvLCB1biBndWFyZGnDoW4gcXVlIG3DoXMgZGUgdW5hIHZleiBzaW1wbGVtZW50ZSAqc2UgcGFyw7MgZW4gdW5hIHB1ZXJ0YSogZW50cmUgdW5hIGNhdMOhc3Ryb2ZlIHkgdW5hIGNpdWRhZCB5IHNlIG5lZ8OzIGEgbW92ZXJzZSBoYXN0YSBxdWUgbGEgY2F0w6FzdHJvZmUgc2UgcmluZGnDsy4gRG9uZGUgb3Ryb3MgYWNhYmFuIGNvbiBsYXMgYW1lbmF6YXMsIERyb2dhbiBsYXMgYWd1YW50YS4iLCAiKipLYXJhKiosIGxhIGRlIG9ybyBkZSBsb3MgW1tEaWV6IGRlIFBsYXRpbm98UGxhdGludW0gVGVuXV0sIHNhYmUgZXhhY3RhbWVudGUgbG8gcXVlIGhheSBiYWpvIGxhIFtbVHVtYmEgZGVsIFNvbHxTdW4ncyBHcmF2ZV1dLiBOdW5jYSBsbyBoYSBkaWNoby4iXX0="
    }
   ],
-  "title": "Los Cazadores"
+  "title": "Los Cazadores",
+  "aliases": [
+   "Artículos de Fuerte de Hierro",
+   "los Artículos de Fuerte de Hierro",
+   "Código del Cazador",
+   "los Tres Sin Firma",
+   "los Siete Deberes"
+  ]
  },
  "armada": {
   "gloss": "The Kalvatar Armada",
   "subtitle": "Nueve flotas, mil obligaciones",
-  "summary": "La marina del Consejo une las islas cartografiadas mediante patrullas, convoyes, juramentos y fuerza naval. Bajo el Gran Almirante Kalivos Durant, sus nueve flotas atienden partes distintas de un mar inmenso.",
+  "summary": "La marina del Consejo une las islas cartografiadas con patrullas, convoyes, juramentos y fuerza. Bajo el Gran Almirante Kalivos Durant, cada una de sus nueve flotas guarda una parte distinta de un mar inmenso.",
   "epigraph": {
-   "quote": "Un Heraldo trae noticias, y las noticias casi nunca son buenas.",
+   "quote": "Un Heraldo quiere decir noticias, y las noticias casi nunca son buenas.",
    "by": "Un dicho de la Armada"
   },
   "facts": [
    [
     "Mando",
-    "El Gran Almirante Kalivos Durant"
+    "[[Gran Almirante|Grand Admiral]] Kalivos Durant"
    ],
    [
     "Flotas públicas",
     "Nueve"
    ],
    [
-    "Abreviatura",
+    "Sigla",
     "KAN"
    ]
   ],
   "title": "La Armada de Kalvatar",
   "sections": [
    {
-    "title": "Una marina entre las islas",
+    "title": "Una marina entre islas",
     "paragraphs": [
-     "La Armada de Kalvatar, la KAN, nació cuando las primeras comunidades reunieron sus barcos contra piratas, bestias marinas y las incursiones de sus propios vecinos. Taelon [[Montatormentas|Stormrider]], el primer Gran Almirante, los convirtió en una sola flota. La marina actual tiene nueve, cada una con su [[Señor de Flota|Fleetlord]], su cometido y su buque insignia.",
-     "Su trabajo va desde la [[Ruta de la Corona|Crown Route]] hasta la [[Extensión Helada|Icy Expanse]], de los ríos del sur a los [[Reinos de Coral|Coral Kingdoms]]. Una patrulla protege un paso; un rescate devuelve a alguien a casa; un bloqueo cierra una ruta. Para quienes tienen caminos de agua, las decisiones navales llegan mucho más allá del alcázar de un barco."
+     "La Armada de Kalvatar, la KAN, empezó cuando las primeras comunidades isleñas juntaron sus barcos contra los piratas, las bestias del mar y las incursiones de unas contra otras. Taelon [[Montatormentas|Stormrider]], su primer Gran Almirante, ató esos barcos en una sola flota. La marina de hoy creció hasta tener nueve flotas, cada una con su propio [[Señor de Flota|Fleetlord]], su encargo y su nave insignia.",
+     "Su trabajo se extiende desde la [[Ruta de la Corona|Crown Route]] hasta la [[Extensión Helada|Icy Expanse]], desde los ríos del sur hasta los [[Reinos de Coral|Coral Kingdoms]]. Una patrulla protege un paso; un rescate trae a la gente a casa; un bloqueo cierra una ruta. Para unos isleños cuyos caminos están hechos de agua, las decisiones navales llegan mucho más allá del alcázar."
     ]
    },
    {
     "title": "La mesa del Almirantazgo",
     "paragraphs": [
-     "El Gran Almirante Kalivos Durant, Señor de las Nueve Flotas, manda desde el [[Conquistador|Conqueror]] y se reserva la Primera, el [[Muro de Hierro|Iron Wall]]. [[Gran Mariscal|Lady High Marshal]] Serane Marr es la segunda autoridad de la Armada y primera del [[Mando de Marfil|Ivory Command]]. [[Mariscal de Tormenta|Storm Marshal]] Brigid Thane encabeza la [[Vanguardia Cerúlea|Cerulean Vanguard]]; [[Señor Castellano|Lord Castellan]] Edran Holst administra puertos, estaciones y fortificaciones.",
-     "Una quinta silla está oficialmente vacía. En los muelles la llaman la silla de [[Mortaja|Shroud]]."
+     "El Gran Almirante Kalivos Durant, [[Señor de las Nueve Flotas|Lord of the Nine Fleets]], manda desde el *[[Conquistador|Conqueror]]* y conserva la Primera Flota, el [[Muro de Hierro|Iron Wall]]. La [[Gran Mariscal|Lady High Marshal]] Serane Marr es la segunda de la Armada y Primera del [[Mando de Marfil|Ivory Command]]. La [[Mariscal de Tormenta|Storm Marshal]] Brigid Thane encabeza la [[Vanguardia Cerúlea|Cerulean Vanguard]]; el [[Señor Castellano|Lord Castellan]] Edran Holst supervisa los puertos, las estaciones y las fortificaciones.",
+     "Oficialmente hay una quinta silla vacía. En los muelles la llaman la silla de la [[Mortaja|Shroud]]."
     ]
    },
    {
-    "title": "Un color y un puesto a bordo",
+    "title": "Una casaca y un lugar a bordo",
     "paragraphs": [
-     "Cada recluta empieza de gris y se gana un color. Las [[Casacas Azules|Blue Coats]] son la Vanguardia Cerúlea, la línea de combate. Las [[Casacas Blancas|White Coats]] pertenecen al Mando de Marfil, los estrategas y diplomáticos. Las [[Casacas Negras|Black Coats]] son la [[Hoja de Ébano|Ebon Blade]] y se ocupan de infiltración y misiones encubiertas autorizadas. Rama y rango son dos aspectos distintos del puesto de un oficial.",
-     "Cada barco tiene sus propios oficios. El [[Guardajuramentos|Oathwarden]] guarda la disciplina y el juramento; el [[Guardián de Espada|Sword-Warden]] es el maestro de armas. Un [[Llamamareas|Tidecaller]] bendice la partida, el [[Maestro del Trueno|Master of Thunder]] dirige los cañones, el [[Maestro Cartógrafo|Chartmaster]] navega y el [[Grajo|Rook]] vigila desde lo alto. Conocer un buque también es conocer a quienes lo hacen funcionar."
+     "Cada recluta empieza de gris y se gana un color. Las [[Casacas Azules|Blue Coats]] son la Vanguardia Cerúlea, la línea de combate. Las [[Casacas Blancas|White Coats]] pertenecen al Mando de Marfil, los estrategas y los diplomáticos. Las [[Casacas Negras|Black Coats]] son la [[Hoja de Ébano|Ebon Blade]], encargada de la infiltración y del trabajo encubierto autorizado. La rama y el rango son partes separadas del puesto de un oficial.",
+     "Un barco tiene sus propios oficios de trabajo. El [[Guardajuramentos|Oathwarden]] cuida la disciplina y el juramento; el [[Guardián de Espada|Sword-Warden]] hace de maestro de armas. Un [[Llamamareas|Tidecaller]] bendice la navegación, el [[Maestro del Trueno|Master of Thunder]] manda los cañones, el [[Maestro Cartógrafo|Chartmaster]] navega y el [[Grajo|Rook]] vigila desde la cofa. Conocer un casco es conocer a la gente que lo hace funcionar."
     ]
    },
    {
-    "title": "A qué ha venido un barco",
+    "title": "A qué vino un casco",
     "paragraphs": [
-     "Un cúter [[Heraldo|Harbinger]] trae noticias; un balandro [[Vindicador|Vindicator]] persigue; una cañonera [[Justiciero|Justicar]] lleva la fuerza naval a un río. Las fragatas [[Guardián|Warden]] sostienen las flotas. Por encima están los [[Colosos|Juggernauts]] preparados para las tormentas, los [[Interdictores|Interdictors]] de bloqueo, los [[Acorazados|Dreadnoughts]] de línea y los [[Ejecutores|Enforcers]] construidos para bombardear fortalezas.",
-     "Solo se construyeron nueve navíos [[Verdugo|Executioner]]. Eso no asigna uno a cada Señor de Flota: Falken [[Vistaclara|Brightsight]] sigue mandando desde el Falkoner con el que combatió en las [[Fauces del Kraken|Kraken’s Maw]], y la [[Vigía Lejana|Far Watch]] es conocida por no llevar ninguno. [[Clases de barco de la Armada|Ship Classes of the Armada]] detalla los buques; Las [[Nueve Flotas|Nine Fleets]] sigue a sus comandantes y las aguas que vigilan."
+     "Un cúter [[Heraldo|Harbinger]] lleva noticias; una balandra [[Vindicador|Vindicator]] da caza; una cañonera [[Justiciero|Justicar]] mete la fuerza naval en un río. Las fragatas [[Guardián|Warden]] son la columna de las flotas. Más allá están los [[Colosos|Juggernauts]] que corren tormentas, los [[Interdictores|Interdictors]] que bloquean, la línea de batalla de los Acorazados y los [[Ejecutores|Enforcers]] hechos para bombardear fortalezas.",
+     "Solo se construyeron nueve navíos de línea [[Verdugo|Executioner]]. Su número no le asigna uno a cada Señor de Flota: Falken [[Vistaclara|Brightsight]] todavía manda desde el *Falkoner* con el que peleó en las [[Fauces del Kraken|Kraken’s Maw]], y la [[Vigía Lejana|Far Watch]], como todo el mundo sabe, no lleva ningún Verdugo. Las [[Clases de barco de la Armada|Ship Classes of the Armada]] cuentan toda la gama; Las [[Nueve Flotas|Nine Fleets]] sigue a sus comandantes y sus aguas."
     ]
    },
    {
     "title": "Nombres, juramentos y la primera gota",
     "paragraphs": [
-     "La Armada recuerda a Lyanna Seaborn como la azote de piratas y a Orin Thalas como el almirante que reconstruyó las flotas. Larissa [[Olablanca|Whitewave]] fue la primera almirante que ascendió desde la marinería; su ejemplo abrió el camino para los [[Fogueados|Blooded]].",
-     "El Juramento del Marinero exige honor, deber y lealtad a las islas y a su gente. Al comisionar un barco, una botella de kellum se rompe contra la proa para que el mar reciba la primera gota. La ración diaria es la medida de la Carta. En un entierro marino, el nombre de la persona se pronuncia una vez antes de entregarla a las profundidades."
+     "La Armada recuerda a Lyanna [[Marnacida|Seaborn]] como la que rompió a los piratas y a Orin Thalas como el almirante que reconstruyó la flota. Larissa [[Olablanca|Whitewave]] fue su primera almirante salida de la cubierta baja; su ejemplo abrió el camino para que subieran los [[Fogueados|Blooded]].",
+     "Su [[Juramento|Oath]] del Marinero ata el honor, el deber y la lealtad a las islas y a su gente. En una puesta en servicio, una botella de kellum se rompe contra la proa para que el mar se lleve la primera gota. La ración diaria es el trago de la Carta. En un entierro en el mar, el nombre del muerto se dice una vez antes de entregarlo a lo hondo."
     ]
    },
    {
-    "title": "El precio de las órdenes cruzadas",
+    "title": "Lo que cuesta cruzar las órdenes",
     "paragraphs": [
-     "En el [[Rompeolas|Breakwater]] de 91 EC chocaron una orden de cuarentena de la Armada y un contrato de rescate de los [[Cazadores|Hunters]]. Un barco de refugiados cruzó la línea entre la niebla; una hora de combate dejó doscientos heridos y treinta y un muertos. Larissa Olablanca y el [[Cazador|Hunter]] de oro Odran Halloway remaron desarmados entre ambos bandos. Los refugiados estaban sanos.",
-     "Los Protocolos del Rompeolas exigen ahora suspender la acción y acudir al oficial del Consejo más cercano cuando chocan una orden de la Armada y un contrato Cazador. Los Wargames anuales de Veriden practican maniobras, escoltas y abordajes conjuntos, y terminan leyendo los treinta y un nombres. El [[Partido de la Carta|Charter Match]] público es otra expresión, más amistosa, de la rivalidad. En las Fauces del Kraken, ambas órdenes combatieron juntas por la supervivencia de las islas."
+     "En el [[Rompeolas|Breakwater]], en el 91 EC, chocaron un mandato de cuarentena de la Armada y un contrato de rescate de los Cazadores. Un barco de refugiados cruzó la línea en la niebla; una hora de pelea dejó doscientos heridos y treinta y un muertos. Larissa Olablanca y el [[Cazador|Hunter]] de Oro Odran Halloway remaron desarmados entre las líneas. Los refugiados estaban sanos.",
+     "Ahora los [[Protocolos del Rompeolas|Breakwater Protocols]] exigen que las órdenes de la Armada y los contratos de los Cazadores que choquen se detengan y vayan ante el oficial del [[Consejo|Council]] más cercano. Los [[Juegos de Guerra|Wargames]] anuales de Veriden practican maniobras conjuntas, escoltas y abordajes, y cierran leyendo los treinta y un nombres. El [[Partido de la Carta|Charter Match]], público, es otra expresión, más amistosa, de la rivalidad. En las Fauces del Kraken, las dos órdenes pelearon juntas por la supervivencia de las islas."
+    ]
+   },
+   {
+    "title": "El Registro y el Llamado",
+    "paragraphs": [
+     "Más o menos un tercio de los cascos armados de las islas les pertenecen a las casas nobles y no a la Armada. Cada uno está anotado por su nombre en el [[Registro del Castellano|Castellan's Register]], y en una guerra que declare el Consejo, el [[Llamado de la Carta|Charter Call]] pondría a todos bajo el mando de la Armada. El Llamado nunca se ha hecho."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Capitán Tormenta Negra dejó atrás a toda la Armada durante una Marea Rey.” (una historia de los muelles sobre los Más Buscados)",
-     "“Siroc el Veloz se ha escapado de la Armada más de una docena de veces.” (se oye en los muelles)"
+     "“El Capitán Tormenta Negra una vez le ganó en maniobras a la Armada entera durante una Marea Rey.” (un relato de los muelles sobre los Más Buscados)",
+     "“Siroc el Veloz se le ha escapado a la Armada más de una docena de veces.” (se oye en los muelles)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhcyBuYXZlcyBjZWxlc3RlcyoqIHNpZ3VlbiBzaWVuZG8gZWwgc2VjcmV0byBtZWpvciBndWFyZGFkbyBkZWwgbXVuZG8uICoqS2FyYXp1bioqIGVzIHN1IG9yaWdlbiwgdW5hIGZ1ZW50ZSBlc2NvbmRpZGEgZGVsIGFydGUgcGVyZGlkbyBkZSB2b2xhciBwb3IgZWwgY2llbG8sIHkgbGEgQXJtYWRhIGRlIEthbHZhdGFyIHRpZW5lICoqZG9zIG5hdmVzIGNlbGVzdGVzIGVuIHNlcnZpY2lvIHkgdW5hIHBsYXRhZm9ybWEgY2VsZXN0ZSBlc2NvbmRpZGEgcGFyYSBzaWVtcHJlIGRlbnRybyBkZSB1bmEgbnViZSBjb25qdXJhZGEuKiogRXMgKiphbHRvIHNlY3JldG8gaW5jbHVzbyBwYXJhIGVsIFtbQ29uc2Vqb3xDb3VuY2lsXV0gZGUgbGFzIFtbSXNsYXMgQ2FydG9ncmFmaWFkYXN8Q2hhcnRlZCBJc2xlc11dKio7IHF1aXrDoSB1bmEgZG9jZW5hIGRlIHBlcnNvbmFzIGVuIGVsIGFyY2hpcGnDqWxhZ28gc2FiZW4gcXVlIGVzIHJlYWwsIHkgZWwgW1tJbXBlcmlvfEltcGVyaXVtXV0gZW1wZXphcsOtYSB1bmEgZ3VlcnJhIHBvciBzYWJlciBjw7NtbyBzZSBoYWNlLiBMYSDDum5pY2EgcHVlcnRhIGFiaWVydGEgZGUgS2FyYXp1biBlcyB1biBtZXJjYWRlcjogKipEYW15ZWwgRG9yJ1ZhbGlhdGggZGUgS2FyYXp1bioqLCBxdWUgY29tZXJjaWEgbWVyY2FuY8OtYXMgcmFyYXMgZGVzZGUgW1tQdWVydG8gTXVtaXR8TXVtaXQgUG9ydF1dLCBlbiBKYWt1cHVyLCBlbiBsYSAqKipbW0N1bGVicmluYXxDdWx2ZXJpbl1dKioqLiBQYXJhIGxvcyBtdWVsbGVzIGxhICpDdWxlYnJpbmEqIGVzIHVuIG1lcmNhbnRlIGJham8geSByw6FwaWRvIHF1ZSBsbGVnYSBhIHB1ZXJ0byBhbnRlcyBkZSBsbyBxdWUgcGVybWl0ZSBjdWFscXVpZXIgdmllbnRvOyBlbiB2ZXJkYWQgZXMgdW5hIG5hdmUgY2VsZXN0ZSBkZSBLYXJhenVuLCB5IHNvbG8gdnVlbGEgZGUgbm9jaGUgeSBsZWpvcyBkZSBsYXMgcnV0YXMuIERhbXllbCBuZWdvY2nDsyBsYXMgbmF2ZXMgY2VsZXN0ZXMgZGUgbGEgQXJtYWRhIHkgZXMgdW5vIGRlIGxhIGRvY2VuYSBxdWUgbG8gc2FiZW4uIExhcyBbW0Nhc2FjYXMgTmVncmFzfEJsYWNrIENvYXRzXV0gZ3VhcmRhbiBzdSBzZWNyZXRvLCB5IGxvIG1hbnRpZW5lbiB2aWdpbGFkby4gRWwgY2F6YWRvciBkZSBsYSBzZWx2YSAqKlRoZXJyZWsgW1tNYXJ0aWxsb3Blw7FhfEtyYWdoYW1tZXJdXSoqIHZpbyBhIGxhICpDdWxlYnJpbmEqIHNhbGlyIGRlbCBhZ3VhIHVuYSBub2NoZSwgeSBkZXNkZSBlbnRvbmNlcyB0cmF0YSBkZSBlbnJvbGFyc2UgZW4gZWxsYS4iLCAiKipMYSAqQ3VsZWJyaW5hKiB2dWVsYS4qKiBFbCBiYXJjbyBkZSBEYW15ZWwgRG9yJ1ZhbGlhdGggZXMgdW5hIG5hdmUgY2VsZXN0ZSBkZSBLYXJhenVuIHF1ZSBhdHJhY2EgY29tbyBtZXJjYW50ZS4gRGFteWVsIG5lZ29jacOzIGxhcyBuYXZlcyBjZWxlc3RlcyBzZWNyZXRhcyBkZSBsYSBBcm1hZGEgeSBlcyB1bm8gZGUgbGEgZG9jZW5hIHF1ZSBzYWJlbiBxdWUgZXhpc3RlbiAoVm9sdW1lbiBYSSkuIExhcyBDYXNhY2FzIE5lZ3JhcyBndWFyZGFuIHN1IHNlY3JldG8geSBsbyBtYW50aWVuZW4gdmlnaWxhZG8uIFRoZXJyZWsgTWFydGlsbG9wZcOxYSB2aW8gYSBsYSAqQ3VsZWJyaW5hKiBzYWxpciBkZWwgYWd1YSB1bmEgbm9jaGUsIHkgcG9yIGVzbyBxdWllcmUgc3ViaXIgYSBib3JkbyBjb24gdGFudGFzIGdhbmFzLiIsICIqU29sbyBwYXJhIGVsIERpcmVjdG9yIGRlIEp1ZWdvLioiLCAiTGEgQXJtYWRhIHRpZW5lIHVuIHB1w7FhZG8gZGUgY2FzY29zIHF1ZSBubyBleGlzdGVuOiAqKnN1bWVyZ2libGVzKiogeSAqKm5hdmVzIGNlbGVzdGVzKiouIEZ1bmNpb25hbiBjb24gS3J5c3RhLCBubyBjb24gdmFwb3IuIExhcyBuYXZlcyBjZWxlc3RlcyBzYWxpZXJvbiBkZSBLYXJhenVuIGEgdHJhdsOpcyBkZSB1biBzb2xvIGludGVybWVkaWFyaW8sIERhbXllbCBEb3InVmFsaWF0aCBkZSBsYSAqQ3VsZWJyaW5hKjsgbGEgQXJtYWRhIHRpZW5lIGRvcyBuYXZlcyBjZWxlc3RlcyBlbiBzZXJ2aWNpbyB5IHVuYSBwbGF0YWZvcm1hIGNlbGVzdGUgZXNjb25kaWRhIGVuIHVuYSBudWJlIGNvbmp1cmFkYSAoVm9sdW1lbiBYSSkuIFF1aXrDoSB1bmEgZG9jZW5hIGRlIHBlcnNvbmFzIGVuIGVsIGFyY2hpcGnDqWxhZ28gbG8gc2FiZW4sIHkgZWwgQ29uc2VqbyBkZSBsYXMgSXNsYXMgQ2FydG9ncmFmaWFkYXMgbm8gZXN0w6EgZW50cmUgZWxsYXMuIl19"
    }
+  ],
+  "aliases": [
+   "KAN",
+   "Armada de Kalvatar"
   ]
  },
  "concord": {
@@ -3365,7 +3526,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIEd1ZXJyYSBkZWwgQXNjZW5kZW50ZSoqIiwgIkxhIGNhdMOhc3Ryb2ZlIGEgbGEgcXVlIGFudGVzIGxsYW1hYmFuIFwiZWwgSW5jaWRlbnRlIGRlbCBNYWdvIExvY29cIiBhaG9yYSB0aWVuZSB1biBub21icmUgY29tbyBzZSBkZWJlIHkgdW4gdmlsbGFubyBjb21vIHNlIGRlYmUuIiwgIkhhY2Ugc2V0ZW50YSBhw7FvcyAoaGFjaWEgZWwgMTA1IEVDKSwgZWwgYXJjaGltYWdvICoqRWxkcmljIE1vcnZhbmUsIGxsYW1hZG8gZWwgQXNjZW5kZW50ZSoqLCBkZWNsYXLDsyBxdWUgbGEgbWFnaWEgcmVnaXN0cmFkYSwgY29udHJvbGFkYSB5IGNvbiBjb3JyZWEgZXJhIHVuYSBqYXVsYSBjb25zdHJ1aWRhIHBvciBsb3MgcGVxdWXDsW9zIHBhcmEgYXRhciBhIGxvcyBncmFuZGVzLCB5IHF1ZSBsb3MgbWFnb3MgZXJhbiBsb3MgZ29iZXJuYW50ZXMgbmF0dXJhbGVzIGRlbCBtdW5kby4gUmV1bmnDsyB1biBlasOpcmNpdG8gZGUgdm9sdW50YXJpb3MsIGRlIG9ibGlnYWRvcyB5IGRlICoqYXRhZG9zIGEgbGEgS3J5c3RhKiogKGVzY2xhdml6YWRvcyBwb3IgdW5hIHRhdW1hdHVyZ2lhIHByb2hpYmlkYSBkZSBzdSBwcm9waWEgaW52ZW5jacOzbikgeSBjYXNpIGNvbnF1aXN0YSBsYXMgaXNsYXMgZGVsIFtbQ29yYXrDs258SGVhcnRsYW5kXV0gYW50ZXMgZGUgcXVlIGxhIHByaW1lcmEgKipHcmFuIENvYWxpY2nDs24qKiwgW1tDYXphZG9yZXN8SHVudGVyc11dLCBBcm1hZGEsIGNhc2FzIG5vYmxlcyB5IFtbVW5pdmVyc2lkYWR8VW5pdmVyc2l0eV1dIGp1bnRvcywgbG8gZGVycmliYXJhIGVuIGxhIGd1ZXJyYSBxdWUgbGxldmEgc3Ugbm9tYnJlLCAqKmxhIEd1ZXJyYSBkZWwgQXNjZW5kZW50ZS4qKiIsICJMYSBhbWFyZ2EgaXJvbsOtYSBlcyBzdSBsZWdhZG86IGxhIGRlcnJvdGEgZGUgTW9ydmFuZSBjcmXDsyBlbCAqKltbUmVnaXN0cm8gQXJjYW5vfEFyY2FuZSBSZWdpc3RyeV1dKiosIGxhIG1pc21hIGphdWxhIGNvbnRyYSBsYSBxdWUgbXVyacOzIGRlc3BvdHJpY2FuZG8sIGNlcnJhZGEgYWhvcmEgc29icmUgY2FkYSBhcmNhbmlzdGEgZGUgbGFzIHRpZXJyYXMgZGVsIFtbQ29uc2Vqb3xDb3VuY2lsXV0uIFBlcm8gZWwgcGVsaWdybyBtw6FzIGhvbmRvIGVzIHN1ICoqaW52ZXN0aWdhY2nDs24uKiogTGFzIHTDqWNuaWNhcyBwcm9oaWJpZGFzIGRlIE1vcnZhbmUgcGFyYSBhdGFyIGEgbGEgS3J5c3RhLCBsYSBlc2NsYXZpdHVkIGRlIGxhIG1lbnRlIHkgbGEgbWFnaWEgYSB0cmF2w6lzIGRlIGxhIHBpZWRyYSBjYXRhbGl6YWRvcmEsIG5vIG11cmllcm9uIGNvbiDDqWwuIFN1cyBncmltb3Jpb3MgeSBzdXMgbm90YXMgc2UgKipkaXNwZXJzYXJvbioqOiBhbGd1bm9zIHNlbGxhZG9zIGVuIGxhcyBiw7N2ZWRhcyBtw6FzIGhvbmRhcyBkZSBsYSBVbml2ZXJzaWRhZCwgYWxndW5vcyBlbiBsYSBjb2xlY2Npw7NuIHByaXZhZGEgZGUgbG9zIFtbRXNwaW5hcGxhdGF8U2lsdmVydGhvcm5dXSwgYWxndW5vcyBwZXJkaWRvcyBlbiBlbCBtZXJjYWRvIG5lZ3JvLiBZIGVzZSBsaW5hamUgZGUgdGF1bWF0dXJnaWEgcHJvaGliaWRhIGRlIGxhIEtyeXN0YSBlcyBlbCAqKmFudGVwYXNhZG8gZGlyZWN0byoqIGRlIGxvIHF1ZSBoYWNlIGhveSBsYSAqKkNvcnBvcmFjacOzbiBSYW5rYXIqKiBlbiBsYXMgY3ViYXMgcXVlIG1hbnRpZW5lbiBhbCBmYWxzbyBEaW86IGF0YXIgbGEgY29uY2llbmNpYSBhIHRyYXbDqXMgZGUgbGEgS3J5c3RhLiBNb3J2YW5lIHBlcmRpw7Mgc3UgZ3VlcnJhIGhhY2Ugc2V0ZW50YSBhw7Fvczsgc3UgY2llbmNpYSBzaWd1ZSBnYW5hbmRvLCBjYWxsYWRhLCBlbiBsYSBvc2N1cmlkYWQuIChVbiBjYWJvIHN1ZWx0bywgcXVlIHNlIGRlamEgdml2bzogdW4gKipoZXJlZGVybyBvIMO6bHRpbW8gYXByZW5kaXoqKiBlc2NvbmRpZG8gZGVsIEFzY2VuZGVudGUsIHkgZWwgZ3JhbiBpbnRlcsOpcyBkZWwgKipbW0ltcGVyaW98SW1wZXJpdW1dXSoqIHBvciByZWN1cGVyYXIgc3Ugb2JyYS4pIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIEd1ZXJyYSBkZWwgW1tBc2NlbmRlbnRlfEFzY2VuZGFudF1dKioiLCAiTGEgY2F0w6FzdHJvZmUgYSBsYSBxdWUgYW50ZXMgbGxhbWFiYW4gXCJlbCBbW0luY2lkZW50ZSBkZWwgTWFnbyBMb2NvfE1hZCBNYWdlIEluY2lkZW50XV1cIiBhaG9yYSB0aWVuZSB1biBub21icmUgY29tbyBzZSBkZWJlIHkgdW4gdmlsbGFubyBjb21vIHNlIGRlYmUuIiwgIkhhY2Ugc2V0ZW50YSBhw7FvcyAoaGFjaWEgZWwgMTA1IEVDKSwgZWwgYXJjaGltYWdvICoqRWxkcmljIE1vcnZhbmUsIGxsYW1hZG8gZWwgQXNjZW5kZW50ZSoqLCBkZWNsYXLDsyBxdWUgbGEgbWFnaWEgcmVnaXN0cmFkYSwgY29udHJvbGFkYSB5IGNvbiBjb3JyZWEgZXJhIHVuYSBqYXVsYSBjb25zdHJ1aWRhIHBvciBsb3MgcGVxdWXDsW9zIHBhcmEgYXRhciBhIGxvcyBncmFuZGVzLCB5IHF1ZSBsb3MgbWFnb3MgZXJhbiBsb3MgZ29iZXJuYW50ZXMgbmF0dXJhbGVzIGRlbCBtdW5kby4gUmV1bmnDsyB1biBlasOpcmNpdG8gZGUgdm9sdW50YXJpb3MsIGRlIG9ibGlnYWRvcyB5IGRlICoqYXRhZG9zIGEgbGEgS3J5c3RhKiogKGVzY2xhdml6YWRvcyBwb3IgdW5hIHRhdW1hdHVyZ2lhIHByb2hpYmlkYSBkZSBzdSBwcm9waWEgaW52ZW5jacOzbikgeSBjYXNpIGNvbnF1aXN0YSBsYXMgaXNsYXMgZGVsIFtbQ29yYXrDs258SGVhcnRsYW5kXV0gYW50ZXMgZGUgcXVlIGxhIHByaW1lcmEgKipbW0dyYW4gQ29hbGljacOzbnxHcmFuZCBDb2FsaXRpb25dXSoqLCBbW0NhemFkb3Jlc3xIdW50ZXJzXV0sIEFybWFkYSwgY2FzYXMgbm9ibGVzIHkgW1tVbml2ZXJzaWRhZHxVbml2ZXJzaXR5XV0ganVudG9zLCBsbyBkZXJyaWJhcmEgZW4gbGEgZ3VlcnJhIHF1ZSBsbGV2YSBzdSBub21icmUsICoqbGEgR3VlcnJhIGRlbCBBc2NlbmRlbnRlLioqIiwgIkxhIGFtYXJnYSBpcm9uw61hIGVzIHN1IGxlZ2FkbzogbGEgZGVycm90YSBkZSBNb3J2YW5lIGNyZcOzIGVsICoqW1tSZWdpc3RybyBBcmNhbm98QXJjYW5lIFJlZ2lzdHJ5XV0qKiwgbGEgbWlzbWEgamF1bGEgY29udHJhIGxhIHF1ZSBtdXJpw7MgZGVzcG90cmljYW5kbywgY2VycmFkYSBhaG9yYSBzb2JyZSBjYWRhIGFyY2FuaXN0YSBkZSBsYXMgdGllcnJhcyBkZWwgW1tDb25zZWpvfENvdW5jaWxdXS4gUGVybyBlbCBwZWxpZ3JvIG3DoXMgaG9uZG8gZXMgc3UgKippbnZlc3RpZ2FjacOzbi4qKiBMYXMgdMOpY25pY2FzIHByb2hpYmlkYXMgZGUgTW9ydmFuZSBwYXJhIGF0YXIgYSBsYSBLcnlzdGEsIGxhIGVzY2xhdml0dWQgZGUgbGEgbWVudGUgeSBsYSBtYWdpYSBhIHRyYXbDqXMgZGUgbGEgcGllZHJhIGNhdGFsaXphZG9yYSwgbm8gbXVyaWVyb24gY29uIMOpbC4gU3VzIGdyaW1vcmlvcyB5IHN1cyBub3RhcyBzZSAqKmRpc3BlcnNhcm9uKio6IGFsZ3Vub3Mgc2VsbGFkb3MgZW4gbGFzIGLDs3ZlZGFzIG3DoXMgaG9uZGFzIGRlIGxhIFVuaXZlcnNpZGFkLCBhbGd1bm9zIGVuIGxhIGNvbGVjY2nDs24gcHJpdmFkYSBkZSBsb3MgW1tFc3BpbmFwbGF0YXxTaWx2ZXJ0aG9ybl1dLCBhbGd1bm9zIHBlcmRpZG9zIGVuIGVsIG1lcmNhZG8gbmVncm8uIFkgZXNlIGxpbmFqZSBkZSB0YXVtYXR1cmdpYSBwcm9oaWJpZGEgZGUgbGEgS3J5c3RhIGVzIGVsICoqYW50ZXBhc2FkbyBkaXJlY3RvKiogZGUgbG8gcXVlIGhhY2UgaG95IGxhICoqW1tDb3Jwb3JhY2nDs24gUmFua2FyfFJhbmthciBDb3Jwb3JhdGlvbl1dKiogZW4gbGFzIGN1YmFzIHF1ZSBtYW50aWVuZW4gYWwgZmFsc28gRGlvOiBhdGFyIGxhIGNvbmNpZW5jaWEgYSB0cmF2w6lzIGRlIGxhIEtyeXN0YS4gTW9ydmFuZSBwZXJkacOzIHN1IGd1ZXJyYSBoYWNlIHNldGVudGEgYcOxb3M7IHN1IGNpZW5jaWEgc2lndWUgZ2FuYW5kbywgY2FsbGFkYSwgZW4gbGEgb3NjdXJpZGFkLiAoVW4gY2FibyBzdWVsdG8sIHF1ZSBzZSBkZWphIHZpdm86IHVuICoqaGVyZWRlcm8gbyDDumx0aW1vIGFwcmVuZGl6KiogZXNjb25kaWRvIGRlbCBBc2NlbmRlbnRlLCB5IGVsIGdyYW4gaW50ZXLDqXMgZGVsICoqW1tJbXBlcmlvfEltcGVyaXVtXV0qKiBwb3IgcmVjdXBlcmFyIHN1IG9icmEuKSJdfQ=="
    }
   ]
  },
@@ -10996,7 +11157,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIEd1ZXJyYSBkZWwgQXNjZW5kZW50ZSoqIiwgIkxhIGNhdMOhc3Ryb2ZlIGEgbGEgcXVlIGFudGVzIGxsYW1hYmFuIFwiZWwgSW5jaWRlbnRlIGRlbCBNYWdvIExvY29cIiBhaG9yYSB0aWVuZSB1biBub21icmUgY29tbyBzZSBkZWJlIHkgdW4gdmlsbGFubyBjb21vIHNlIGRlYmUuIiwgIkhhY2Ugc2V0ZW50YSBhw7FvcyAoaGFjaWEgZWwgMTA1IEVDKSwgZWwgYXJjaGltYWdvICoqRWxkcmljIE1vcnZhbmUsIGxsYW1hZG8gZWwgQXNjZW5kZW50ZSoqLCBkZWNsYXLDsyBxdWUgbGEgbWFnaWEgcmVnaXN0cmFkYSwgY29udHJvbGFkYSB5IGNvbiBjb3JyZWEgZXJhIHVuYSBqYXVsYSBjb25zdHJ1aWRhIHBvciBsb3MgcGVxdWXDsW9zIHBhcmEgYXRhciBhIGxvcyBncmFuZGVzLCB5IHF1ZSBsb3MgbWFnb3MgZXJhbiBsb3MgZ29iZXJuYW50ZXMgbmF0dXJhbGVzIGRlbCBtdW5kby4gUmV1bmnDsyB1biBlasOpcmNpdG8gZGUgdm9sdW50YXJpb3MsIGRlIG9ibGlnYWRvcyB5IGRlICoqYXRhZG9zIGEgbGEgS3J5c3RhKiogKGVzY2xhdml6YWRvcyBwb3IgdW5hIHRhdW1hdHVyZ2lhIHByb2hpYmlkYSBkZSBzdSBwcm9waWEgaW52ZW5jacOzbikgeSBjYXNpIGNvbnF1aXN0YSBsYXMgaXNsYXMgZGVsIFtbQ29yYXrDs258SGVhcnRsYW5kXV0gYW50ZXMgZGUgcXVlIGxhIHByaW1lcmEgKipHcmFuIENvYWxpY2nDs24qKiwgW1tDYXphZG9yZXN8SHVudGVyc11dLCBBcm1hZGEsIGNhc2FzIG5vYmxlcyB5IFtbVW5pdmVyc2lkYWR8VW5pdmVyc2l0eV1dIGp1bnRvcywgbG8gZGVycmliYXJhIGVuIGxhIGd1ZXJyYSBxdWUgbGxldmEgc3Ugbm9tYnJlLCAqKmxhIEd1ZXJyYSBkZWwgQXNjZW5kZW50ZS4qKiIsICJMYSBhbWFyZ2EgaXJvbsOtYSBlcyBzdSBsZWdhZG86IGxhIGRlcnJvdGEgZGUgTW9ydmFuZSBjcmXDsyBlbCAqKltbUmVnaXN0cm8gQXJjYW5vfEFyY2FuZSBSZWdpc3RyeV1dKiosIGxhIG1pc21hIGphdWxhIGNvbnRyYSBsYSBxdWUgbXVyacOzIGRlc3BvdHJpY2FuZG8sIGNlcnJhZGEgYWhvcmEgc29icmUgY2FkYSBhcmNhbmlzdGEgZGUgbGFzIHRpZXJyYXMgZGVsIFtbQ29uc2Vqb3xDb3VuY2lsXV0uIFBlcm8gZWwgcGVsaWdybyBtw6FzIGhvbmRvIGVzIHN1ICoqaW52ZXN0aWdhY2nDs24uKiogTGFzIHTDqWNuaWNhcyBwcm9oaWJpZGFzIGRlIE1vcnZhbmUgcGFyYSBhdGFyIGEgbGEgS3J5c3RhLCBsYSBlc2NsYXZpdHVkIGRlIGxhIG1lbnRlIHkgbGEgbWFnaWEgYSB0cmF2w6lzIGRlIGxhIHBpZWRyYSBjYXRhbGl6YWRvcmEsIG5vIG11cmllcm9uIGNvbiDDqWwuIFN1cyBncmltb3Jpb3MgeSBzdXMgbm90YXMgc2UgKipkaXNwZXJzYXJvbioqOiBhbGd1bm9zIHNlbGxhZG9zIGVuIGxhcyBiw7N2ZWRhcyBtw6FzIGhvbmRhcyBkZSBsYSBVbml2ZXJzaWRhZCwgYWxndW5vcyBlbiBsYSBjb2xlY2Npw7NuIHByaXZhZGEgZGUgbG9zIFtbRXNwaW5hcGxhdGF8U2lsdmVydGhvcm5dXSwgYWxndW5vcyBwZXJkaWRvcyBlbiBlbCBtZXJjYWRvIG5lZ3JvLiBZIGVzZSBsaW5hamUgZGUgdGF1bWF0dXJnaWEgcHJvaGliaWRhIGRlIGxhIEtyeXN0YSBlcyBlbCAqKmFudGVwYXNhZG8gZGlyZWN0byoqIGRlIGxvIHF1ZSBoYWNlIGhveSBsYSAqKkNvcnBvcmFjacOzbiBSYW5rYXIqKiBlbiBsYXMgY3ViYXMgcXVlIG1hbnRpZW5lbiBhbCBmYWxzbyBEaW86IGF0YXIgbGEgY29uY2llbmNpYSBhIHRyYXbDqXMgZGUgbGEgS3J5c3RhLiBNb3J2YW5lIHBlcmRpw7Mgc3UgZ3VlcnJhIGhhY2Ugc2V0ZW50YSBhw7Fvczsgc3UgY2llbmNpYSBzaWd1ZSBnYW5hbmRvLCBjYWxsYWRhLCBlbiBsYSBvc2N1cmlkYWQuIChVbiBjYWJvIHN1ZWx0bywgcXVlIHNlIGRlamEgdml2bzogdW4gKipoZXJlZGVybyBvIMO6bHRpbW8gYXByZW5kaXoqKiBlc2NvbmRpZG8gZGVsIEFzY2VuZGVudGUsIHkgZWwgZ3JhbiBpbnRlcsOpcyBkZWwgKipbW0ltcGVyaW98SW1wZXJpdW1dXSoqIHBvciByZWN1cGVyYXIgc3Ugb2JyYS4pIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIEd1ZXJyYSBkZWwgW1tBc2NlbmRlbnRlfEFzY2VuZGFudF1dKioiLCAiTGEgY2F0w6FzdHJvZmUgYSBsYSBxdWUgYW50ZXMgbGxhbWFiYW4gXCJlbCBbW0luY2lkZW50ZSBkZWwgTWFnbyBMb2NvfE1hZCBNYWdlIEluY2lkZW50XV1cIiBhaG9yYSB0aWVuZSB1biBub21icmUgY29tbyBzZSBkZWJlIHkgdW4gdmlsbGFubyBjb21vIHNlIGRlYmUuIiwgIkhhY2Ugc2V0ZW50YSBhw7FvcyAoaGFjaWEgZWwgMTA1IEVDKSwgZWwgYXJjaGltYWdvICoqRWxkcmljIE1vcnZhbmUsIGxsYW1hZG8gZWwgQXNjZW5kZW50ZSoqLCBkZWNsYXLDsyBxdWUgbGEgbWFnaWEgcmVnaXN0cmFkYSwgY29udHJvbGFkYSB5IGNvbiBjb3JyZWEgZXJhIHVuYSBqYXVsYSBjb25zdHJ1aWRhIHBvciBsb3MgcGVxdWXDsW9zIHBhcmEgYXRhciBhIGxvcyBncmFuZGVzLCB5IHF1ZSBsb3MgbWFnb3MgZXJhbiBsb3MgZ29iZXJuYW50ZXMgbmF0dXJhbGVzIGRlbCBtdW5kby4gUmV1bmnDsyB1biBlasOpcmNpdG8gZGUgdm9sdW50YXJpb3MsIGRlIG9ibGlnYWRvcyB5IGRlICoqYXRhZG9zIGEgbGEgS3J5c3RhKiogKGVzY2xhdml6YWRvcyBwb3IgdW5hIHRhdW1hdHVyZ2lhIHByb2hpYmlkYSBkZSBzdSBwcm9waWEgaW52ZW5jacOzbikgeSBjYXNpIGNvbnF1aXN0YSBsYXMgaXNsYXMgZGVsIFtbQ29yYXrDs258SGVhcnRsYW5kXV0gYW50ZXMgZGUgcXVlIGxhIHByaW1lcmEgKipbW0dyYW4gQ29hbGljacOzbnxHcmFuZCBDb2FsaXRpb25dXSoqLCBbW0NhemFkb3Jlc3xIdW50ZXJzXV0sIEFybWFkYSwgY2FzYXMgbm9ibGVzIHkgW1tVbml2ZXJzaWRhZHxVbml2ZXJzaXR5XV0ganVudG9zLCBsbyBkZXJyaWJhcmEgZW4gbGEgZ3VlcnJhIHF1ZSBsbGV2YSBzdSBub21icmUsICoqbGEgR3VlcnJhIGRlbCBBc2NlbmRlbnRlLioqIiwgIkxhIGFtYXJnYSBpcm9uw61hIGVzIHN1IGxlZ2FkbzogbGEgZGVycm90YSBkZSBNb3J2YW5lIGNyZcOzIGVsICoqW1tSZWdpc3RybyBBcmNhbm98QXJjYW5lIFJlZ2lzdHJ5XV0qKiwgbGEgbWlzbWEgamF1bGEgY29udHJhIGxhIHF1ZSBtdXJpw7MgZGVzcG90cmljYW5kbywgY2VycmFkYSBhaG9yYSBzb2JyZSBjYWRhIGFyY2FuaXN0YSBkZSBsYXMgdGllcnJhcyBkZWwgW1tDb25zZWpvfENvdW5jaWxdXS4gUGVybyBlbCBwZWxpZ3JvIG3DoXMgaG9uZG8gZXMgc3UgKippbnZlc3RpZ2FjacOzbi4qKiBMYXMgdMOpY25pY2FzIHByb2hpYmlkYXMgZGUgTW9ydmFuZSBwYXJhIGF0YXIgYSBsYSBLcnlzdGEsIGxhIGVzY2xhdml0dWQgZGUgbGEgbWVudGUgeSBsYSBtYWdpYSBhIHRyYXbDqXMgZGUgbGEgcGllZHJhIGNhdGFsaXphZG9yYSwgbm8gbXVyaWVyb24gY29uIMOpbC4gU3VzIGdyaW1vcmlvcyB5IHN1cyBub3RhcyBzZSAqKmRpc3BlcnNhcm9uKio6IGFsZ3Vub3Mgc2VsbGFkb3MgZW4gbGFzIGLDs3ZlZGFzIG3DoXMgaG9uZGFzIGRlIGxhIFVuaXZlcnNpZGFkLCBhbGd1bm9zIGVuIGxhIGNvbGVjY2nDs24gcHJpdmFkYSBkZSBsb3MgW1tFc3BpbmFwbGF0YXxTaWx2ZXJ0aG9ybl1dLCBhbGd1bm9zIHBlcmRpZG9zIGVuIGVsIG1lcmNhZG8gbmVncm8uIFkgZXNlIGxpbmFqZSBkZSB0YXVtYXR1cmdpYSBwcm9oaWJpZGEgZGUgbGEgS3J5c3RhIGVzIGVsICoqYW50ZXBhc2FkbyBkaXJlY3RvKiogZGUgbG8gcXVlIGhhY2UgaG95IGxhICoqW1tDb3Jwb3JhY2nDs24gUmFua2FyfFJhbmthciBDb3Jwb3JhdGlvbl1dKiogZW4gbGFzIGN1YmFzIHF1ZSBtYW50aWVuZW4gYWwgZmFsc28gRGlvOiBhdGFyIGxhIGNvbmNpZW5jaWEgYSB0cmF2w6lzIGRlIGxhIEtyeXN0YS4gTW9ydmFuZSBwZXJkacOzIHN1IGd1ZXJyYSBoYWNlIHNldGVudGEgYcOxb3M7IHN1IGNpZW5jaWEgc2lndWUgZ2FuYW5kbywgY2FsbGFkYSwgZW4gbGEgb3NjdXJpZGFkLiAoVW4gY2FibyBzdWVsdG8sIHF1ZSBzZSBkZWphIHZpdm86IHVuICoqaGVyZWRlcm8gbyDDumx0aW1vIGFwcmVuZGl6KiogZXNjb25kaWRvIGRlbCBBc2NlbmRlbnRlLCB5IGVsIGdyYW4gaW50ZXLDqXMgZGVsICoqW1tJbXBlcmlvfEltcGVyaXVtXV0qKiBwb3IgcmVjdXBlcmFyIHN1IG9icmEuKSJdfQ=="
    }
   ],
   "title": "La Guerra del Ascendente"
@@ -11236,7 +11397,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvIHF1ZSBlc2NvbmRlIGxhIGN1YXJlbnRlbmEuKiogTGEgcGVzdGUgZGVsIDE0OCBFQyBubyBmdWUgdW5hIHBlc3RlLiBUcmVzIGx1Z2FyZXMgZGVsIGV4dHJlbW8gc3VyIGRlamFyb24gZGUgcmVzcG9uZGVyIGVuIHVuYSBzb2xhIG5vY2hlLCB5IGVsIFtbQ29uc2Vqb3xDb3VuY2lsXV0gc2VsbMOzIGxhcyBhZ3VhcyBzb2JyZSBsbyBxdWUgaGFiw61hIHBhc2FkbyBhaMOtOiBsYSBIZXJpZGEuIExvcyBzZWNyZXRvcyBkZSBsYSBbW0Nvc3RhIEVxdWl2b2NhZGF8V3JvbmcgQ29hc3RdXSB5IGRlIGxvcyBCYXJjb3MgZGUgUGxhdGEgZ3VhcmRhbiBlbCByZXN0by4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvIHF1ZSBlc2NvbmRlIGxhIGN1YXJlbnRlbmEuKiogTGEgcGVzdGUgZGVsIDE0OCBFQyBubyBmdWUgdW5hIHBlc3RlLiBUcmVzIGx1Z2FyZXMgZGVsIGV4dHJlbW8gc3VyIGRlamFyb24gZGUgcmVzcG9uZGVyIGVuIHVuYSBzb2xhIG5vY2hlLCB5IGVsIFtbQ29uc2Vqb3xDb3VuY2lsXV0gc2VsbMOzIGxhcyBhZ3VhcyBzb2JyZSBsbyBxdWUgaGFiw61hIHBhc2FkbyBhaMOtOiBsYSBbW0hlcmlkYXxXb3VuZF1dLiBMb3Mgc2VjcmV0b3MgZGUgbGEgW1tDb3N0YSBFcXVpdm9jYWRhfFdyb25nIENvYXN0XV0geSBkZSBsb3MgQmFyY29zIGRlIFBsYXRhIGd1YXJkYW4gZWwgcmVzdG8uIl19"
    }
   ],
   "title": "La Cuarentena del Sur"
