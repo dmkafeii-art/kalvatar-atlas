@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=29').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=30').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -17,14 +17,26 @@ window.Adventurers = (() => {
  const LAND = ['northern-frontier', 'central-heartland', 'southern-wilds', 'icy-expanse'];
  const person = id => data.peoples.find(p => p.id === id);
 
+ /* Names in Spanish (24 November): every name piece that means something is looked up as "~name:" in "es"; the generators'
+    pieces under "~noun:" and "~mod:" are joined as Noun-Quality, the quality agreeing with the noun. */
+ const nm = x => isEs() && data.es ? (data.es['~name:' + x] ?? x) : x;
+ const nmG = (x, form) => {const v = nm(x); if(!v.includes('|')) return v; const [m, f] = v.split('|'); return form === 'fem' ? f : m;};
+ function esJoin(noun, mod) {
+  const n = (data.es['~noun:' + noun] || noun + '|m').split('|'), q = data.es['~mod:' + mod] || mod;
+  const g = n[1] || 'm', plural = g.endsWith('p');
+  let a = q.includes('|') ? q.split('|')[g.startsWith('f') ? 1 : 0] : q;
+  if(plural && !a.startsWith('de') && !a.startsWith('que')) a = /[aeiouáéíóú]$/.test(a) ? a + 's' : a + 'es';
+  return n[0] + '-' + a;
+ }
+ const regionLabel = id => isEs() && data.es ? esLine(data.regions[id].name) : data.regions[id].name;
  function regional(regionId, form) {
   const r = data.regions[regionId];
   const f = form || pick(['masc', 'fem']);
-  return {given: pick(pool(r[f])), family: pick(pool(r.family))};
+  return {given: pick(pool(r[f])), family: nm(pick(pool(r.family)))};
  }
  function byname(b) {
-  if(b.list) return pick(b.list);
-  return b.pattern.replace(/\{(\w+)\}/g, (_, k) => pick(b[k === 'ordinal' ? 'ordinals' : k]));
+  if(b.list) return nm(pick(b.list));
+  return nm(b.pattern).replace(/\{(\w+)\}/g, (_, k) => nm(pick(b[k === 'ordinal' ? 'ordinals' : k])));
  }
  function elfKind(p, regionId) {
   const names = Object.keys(p.kinds);
@@ -34,11 +46,11 @@ window.Adventurers = (() => {
  /* A tribe of one homeland: a name printed in the books, or a color or quality and a beast or thing of that country. */
  function tribe(homeId) {
   const hl = data.homelands[homeId];
-  if(hl.canon.length && (state.canonOnly || chance(.2))) return pick(hl.canon);
+  if(hl.canon.length && (state.canonOnly || chance(.2))) return nm(pick(hl.canon));
   if(state.canonOnly) return '';
   let a = pick(hl.first), b = pick(hl.second);
   for(let i = 0; i < 6 && a.split('-').includes(b); i++) b = pick(hl.second);
-  return a + '-' + b;
+  return isEs() && data.es ? esJoin(b, a) : a + '-' + b;
  }
  const homesOf = regionId => {
   const all = Object.keys(data.homelands), near = all.filter(id => data.homelands[id].region === regionId);
@@ -56,7 +68,8 @@ window.Adventurers = (() => {
  function tribal(p, homeId, form) {
   const hl = data.homelands[homeId], tr = tribe(homeId);
   if(!tr) return null;
-  return {name: givenOnly(p, hl.region, form) + ' of the ' + tr, detail: hl.name + ' · ' + (tr.endsWith('s') ? t('the ', 'los ') + tr : t('the ' + tr + ' people', 'el pueblo ' + tr))};
+  const many = isEs() ? /s$/.test(tr.split(' ')[0]) : tr.endsWith('s');
+  return {name: givenOnly(p, hl.region, form) + t(' of the ', many ? ' de los ' : ' del pueblo ') + tr, detail: (isEs() ? esLine(hl.name) : hl.name) + ' · ' + (many ? t('the ', 'los ') + tr : t('the ' + tr + ' people', 'el pueblo ' + tr))};
  }
 
  /* One name for one people. Returns {name, people, detail}. */
@@ -65,22 +78,22 @@ window.Adventurers = (() => {
   switch(p.kind) {
    case 'regional': {
     const n = regional(land, form);
-    return {name: n.given + ' ' + n.family, detail: data.regions[land].name};
+    return {name: n.given + ' ' + n.family, detail: regionLabel(land)};
    }
    case 'coral': {
     const n = regional('coral-kingdoms', form);
-    return {name: n.given + ' ' + n.family, detail: data.regions['coral-kingdoms'].name};
+    return {name: n.given + ' ' + n.family, detail: regionLabel('coral-kingdoms')};
    }
    case 'elves': {
     const kind = elfKind(p, regionId), k = p.kinds[kind];
-    return {name: pick(pool(k.given)) + (chance(.6) ? ' ' + pick(k.byname) : ''), detail: kind + ' ' + t('elf', 'elfo')};
+    return {name: pick(pool(k.given)) + (chance(.6) ? ' ' + nm(pick(k.byname)) : ''), detail: isEs() ? (data.folk.npc.elf[kind]?.es || kind + ' elfo') : kind + ' elf'};
    }
    case 'half-elf': {
     const elves = person('elves'), kind = elfKind(elves, regionId), k = elves.kinds[kind], n = regional(land, form);
     const given = chance(.5) ? pick(pool(k.given)) : n.given;
-    return {name: given + ' ' + n.family, detail: data.regions[land].name};
+    return {name: given + ' ' + n.family, detail: regionLabel(land)};
    }
-   case 'given-family': return {name: pick(pool(p.given)) + ' ' + pick(pool(p.family))};
+   case 'given-family': return {name: pick(pool(p.given)) + ' ' + nm(pick(pool(p.family)))};
    case 'given-byname': {
     const earned = ['goblinoids', 'goliaths', 'orcs'].includes(p.id);
     return {name: pick(pool(p.given)) + (!earned || chance(.75) ? ' ' + byname(p.byname) : '')};
@@ -88,16 +101,18 @@ window.Adventurers = (() => {
    case 'single': return {name: pick(pool(p.given))};
    case 'galven': {
     const s = p.storm, given = pick(pool(p.given));
-    if(state.canonOnly || chance(.15)) return {name: given + ' ' + pick(s.canon)};
+    if(state.canonOnly || chance(.15)) return {name: given + ' ' + nm(pick(s.canon))};
     const a = pick(s.first), b = pick(s.second);
+    if(isEs() && data.es) return {name: given + ' ' + esJoin(b, a)};
     return {name: given + ' ' + (s.hyphen.includes(a) ? a + '-' + b[0].toUpperCase() + b.slice(1) : a + b)};
    }
    case 'florian': {
-    if(state.canonOnly || chance(.2)) return {name: pick(p.canon)};
-    return {name: pick(p.first) + '-' + pick(p.second)};
+    if(state.canonOnly || chance(.2)) return {name: nm(pick(p.canon))};
+    const a = pick(p.first), b = pick(p.second);
+    return {name: isEs() && data.es ? esJoin(b, a) : a + '-' + b};
    }
    case 'marked': {
-    const family = pick(pool(p.family)), chosen = pick(pool(p.chosen)), roll = Math.random();
+    const family = pick(pool(p.family)), chosen = nm(pick(pool(p.chosen))), roll = Math.random();
     if(roll < .5) return {name: chosen + ' ' + family};
     if(roll < .7) return {name: chosen};
     return {name: regional(land, form).given + ' ' + family};
@@ -106,10 +121,10 @@ window.Adventurers = (() => {
     const given = pick(pool(p.given));
     const some = (list, n) => {const a = list.filter(x => !recent.includes(x)), out = []; if(a.length < n) a.push(...list); while(out.length < n && a.length) out.push(a.splice(Math.floor(Math.random() * a.length), 1)[0]); return out;};
     const n = chance(.12) ? 3 : chance(.4) ? 2 : 1, ts = some(p.title, n), os = some(p.of, n);
-    const title = ts.map((x, k) => x + ' ' + os[k]).join(', ');
+    const title = ts.map((x, k) => nmG(x, form) + ' ' + nm(os[k])).join(', ');
     recent.push(...ts, ...os); recent.splice(0, Math.max(0, recent.length - 40));
     const ep = some(p.epithet, 1)[0]; recent.push(ep);
-    return {name: given + ' ' + ep + ', ' + title};
+    return {name: given + ' ' + nmG(ep, form) + ', ' + title};
    }
    case 'tarvan': return {name: pick(pool(p.clan)) + ' ' + pick(pool(p.given))};
   }
@@ -172,14 +187,14 @@ window.Adventurers = (() => {
  function homeOptions() {
   const groups = Object.entries(data.regions).map(([rid, r]) => {
    const list = Object.entries(data.homelands).filter(([, x]) => x.region === rid);
-   return list.length ? `<optgroup label="${h(r.name)}">${list.map(([id, x]) => `<option value="${h(id)}"${id === state.home ? ' selected' : ''}>${h(x.name)}</option>`).join('')}</optgroup>` : '';
+   return list.length ? `<optgroup label="${h(isEs() ? esLine(r.name) : r.name)}">${list.map(([id, x]) => `<option value="${h(id)}"${id === state.home ? ' selected' : ''}>${h(isEs() ? esLine(x.name) : x.name)}</option>`).join('')}</optgroup>` : '';
   }).join('');
   return `<option value="">${t('No tribe', 'Sin tribu')}</option><option value="any"${state.home === 'any' ? ' selected' : ''}>${t('Any tribe', 'Cualquier tribu')}</option>${groups}`;
  }
 
  function renderNames() {
-  const peoples = data.peoples.map(p => [p.id, p.name]).sort((a, b) => a[1].replace(/^The /, '').localeCompare(b[1].replace(/^The /, '')));
-  const regions = Object.entries(data.regions).map(([id, r]) => [id, r.name]);
+  const peoples = data.peoples.map(p => [p.id, p.name]).sort((a, b) => a[1].replace(/^(The|Los|Las) /, '').localeCompare(b[1].replace(/^(The|Los|Las) /, '')));
+  const regions = Object.entries(data.regions).map(([id, r]) => [id, isEs() ? esLine(r.name) : r.name]);
   frame('names', `<section class="adv-panel"><div class="adv-controls"><label class="pack-label">${t('People', 'Pueblo')}<select id="adv-people">${options(peoples, state.people, t('Any people', 'Cualquier pueblo'))}</select></label><label class="pack-label">${t('Region', 'Región')}<select id="adv-region">${options(regions, state.region, t('Any region', 'Cualquier región'))}</select></label><label class="pack-label">${t('Tribe homeland', 'Tierra de la tribu')}<select id="adv-home">${homeOptions()}</select></label><label class="pack-label">${t('Form', 'Forma')}<select id="adv-form">${options([['masc', t('Masculine', 'Masculina')], ['fem', t('Feminine', 'Femenina')]], state.form, t('Any', 'Cualquiera'))}</select></label></div><label class="adv-check"><input type="checkbox" id="adv-canon"${state.canonOnly ? ' checked' : ''}> ${t('Only names printed in the books', 'Solo nombres que salen en los libros')}</label><div class="pack-actions"><button type="button" class="button" id="adv-go">${t('Generate names', 'Generar nombres')} <span aria-hidden="true">→</span></button><button type="button" class="button cream" id="adv-random">${t('Random everything', 'Random todo')} <span aria-hidden="true">✦</span></button></div><div id="adv-hint">${hintHtml()}</div></section><section aria-live="polite" id="adv-out">${resultsHtml()}</section>`);
   const draw = () => {$('#adv-out').innerHTML = resultsHtml(); $('#adv-hint').innerHTML = hintHtml();};
   const read = () => {state.everything = false; state.people = $('#adv-people').value; state.region = $('#adv-region').value; state.home = $('#adv-home').value; state.form = $('#adv-form').value; state.canonOnly = $('#adv-canon').checked;};
@@ -223,12 +238,12 @@ window.Adventurers = (() => {
  }
 
  function renderTraits(id) {
-  const sorted = data.peoples.slice().sort((a, b) => a.name.replace(/^The /, '').localeCompare(b.name.replace(/^The /, '')));
+  const sorted = data.peoples.slice().sort((a, b) => a.name.replace(/^(The|Los|Las) /, '').localeCompare(b.name.replace(/^(The|Los|Las) /, '')));
   const p = person(id);
   const chips = `<div class="adv-chips">${sorted.map(x => `<a class="adv-chip${p && x.id === p.id ? ' active' : ''}" href="#adventurers/traits/${h(x.id)}">${h(x.name)}</a>`).join('')}</div>`;
   if(!p) {frame('traits', `<p class="adv-lead">${t('Choose a people to read what its members can do.', 'Elige un pueblo para leer lo que saben hacer los suyos.')}</p>${chips}`); return;}
   const parts = p.traits.length ? p.traits.map(x => `<section class="adv-part"><h3>${h(x.title)}</h3>${blocksHtml(x.blocks)}</section>`).join('') : `<p class="adv-hint">${h(p.no_traits)}</p>`;
-  const spanish = window.Pack2?.language === 'es' ? `<p class="adv-hint">Los rasgos están en inglés por ahora.</p>` : '';
+  const spanish = '';
   frame('traits', `${chips}<article class="adv-people"><header><h2>${h(p.name)}</h2><p class="adv-tagline">${h(p.tagline)}</p><div class="pack-actions"><a class="button" href="#entry/${h(p.id)}">${t('Read about them', 'Leer sobre ellos')} <span aria-hidden="true">→</span></a><button type="button" class="button cream" id="adv-names-for">${t('Names for this people', 'Nombres de este pueblo')} <span aria-hidden="true">✦</span></button></div></header>${spanish}${parts}<section class="adv-part"><h3>${t('Names', 'Nombres')}</h3><p>${h(p.hint)}</p></section></article><p class="adv-credit">${h(data.credit)}</p>`);
   $('#adv-names-for').addEventListener('click', () => {state.people = p.id; state.region = ''; state.home = ''; state.form = ''; state.everything = false; generate(); location.hash = 'adventurers';});
  }
@@ -1094,7 +1109,7 @@ window.Adventurers = (() => {
  }
  function npcHome(n) {
   if(n.home.pair) return h(L(n.home.pair));
-  if(n.home.tribe) {const hl = data.homelands[n.home.tribe]; return hl?.entry ? linkTo(hl.entry) : h(hl?.name || '');}
+  if(n.home.tribe) {const hl = data.homelands[n.home.tribe]; return hl?.entry ? linkTo(hl.entry) : h(isEs() ? esLine(hl?.name || '') : hl?.name || '');}
   return linkTo(n.home.town[0], L(n.home.town.slice(1)));
  }
  function npcBorn(n) {
@@ -2179,8 +2194,8 @@ window.Adventurers = (() => {
 
  /* The older tools in Spanish (24 November): their data is swapped for its Spanish, line by line, when the atlas is read in
     Spanish ("es" in adventurers.json). Ids, kinds and regions keep their English, since the tools reckon with them. */
- const ES_DATA = ['sigils', 'hall', 'travel', 'downtime', 'workshop', 'loot', 'sidequests', 'wanted', 'sea'];
- const ES_KEEP = new Set(['id', 'kind', 't', 'per', 'region', 'link', 'entries', 'entry', 'waters']);
+ const ES_DATA = ['sigils', 'hall', 'travel', 'downtime', 'workshop', 'loot', 'sidequests', 'wanted', 'sea', 'peoples'];
+ const ES_KEEP = new Set(['id', 'kind', 't', 'per', 'region', 'link', 'entries', 'entry', 'waters', 'given', 'family', 'chosen', 'byname', 'epithet', 'of', 'storm', 'canon', 'first', 'second', 'clan', 'tribal']);
  let enData = null, esData = null;
  const esLine = x => (data.es && data.es[x]) || x;
  function advLang() {
@@ -2188,7 +2203,8 @@ window.Adventurers = (() => {
   if(!enData) {enData = {}; ES_DATA.forEach(k => {enData[k] = data[k];});}
   if(isEs()) {
    if(!esData) {
-    const tr = x => typeof x === 'string' ? esLine(x) : Array.isArray(x) ? x.map(tr) : x && typeof x === 'object' ? Object.fromEntries(Object.entries(x).map(([k, v]) => [ES_KEEP.has(k) ? k : esLine(k), ES_KEEP.has(k) ? v : tr(v)])) : x;
+    const keep = (k, v) => ES_KEEP.has(k) || (k === 'title' && Array.isArray(v));
+    const tr = x => typeof x === 'string' ? esLine(x) : Array.isArray(x) ? x.map(tr) : x && typeof x === 'object' ? Object.fromEntries(Object.entries(x).map(([k, v]) => [keep(k, v) ? k : esLine(k), keep(k, v) ? v : tr(v)])) : x;
     esData = {}; ES_DATA.forEach(k => {esData[k] = tr(enData[k]);});
    }
    ES_DATA.forEach(k => {data[k] = esData[k];});
