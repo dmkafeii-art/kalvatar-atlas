@@ -16407,9 +16407,34 @@
  },
  "crimson-legion": {
   "gloss": "The Crimson Legion",
-  "subtitle": "Forajidos de las islas",
-  "summary": "Ex soldados fanáticos atrincherados en las ruinas orka de Golgarma, juramentados para purgar las islas, que adoran a la Madre Escarlata, cornuda y velada.",
-  "title": "La Legión Carmesí"
+  "subtitle": "Los estandartes sobre Golgarma",
+  "summary": "Exsoldados fanáticos atrincherados en las ruinas orka de Golgarma, juramentados a purgar las islas, que adoran a la Madre Escarlata, con cuernos y velo.",
+  "title": "La Legión Carmesí",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La [[Legión Carmesí|Crimson Legion]] son exsoldados fanáticos atrincherados en Golgarma, juramentados a \"purgar\" las islas.",
+     "Adoran a una diosa con cuernos y velo a la que llaman la [[Madre Escarlata|Scarlet Mother]].",
+     "Desde el 175 EC tienen la Garganta de Golgarma, la gran escalera orka hacia la oscuridad.",
+     "Sus incursiones empujan al norte de Golgarma cada temporada. La [[Ira Esmeralda|Emerald Wrath]] pidió otra escuadra; el [[Consejo|Council]] lo está \"revisando\".",
+     "Son la pesadilla de siempre de la Ira Esmeralda, y la Ira es la de ellos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los reclutadores de la Legión Carmesí pagan con monedas limadas, para que no se vea de quién era la cara.” (un desertor en Puerto Sur)",
+     "“Un desertor de la Legión jura que la Madre Escarlata sangra como cualquiera, y que cojea en las mañanas frías.” (el mismo desertor, más tarde)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbTWFkcmUgRXNjYXJsYXRhfFNjYXJsZXQgTW90aGVyXV0qKiBsbGV2YSB0cmVzIGHDsW9zIHNvw7FhbmRvIGNvbiB1biB0cm9ubyBhaG9nYWRvIGJham8gR29sZ2FybWEgeSB1bmEgaGVybW9zYSBjYXJhIGRlIGRvcyBjdWVybm9zLiBFcyB1bmEgbcOhc2NhcmEgZGUgVmFuaXJpb25pcywgdG9kYXbDrWEgcHVlc3RhLiBFcyBsbyBxdWUgbGEgW1tOb3ZlbmEgUGFsYXxOaW50aCBTaG92ZWxdXSBhYnJpw7MsIHkgZXMgcG9yIGxvIHF1ZSBsYSBbW0xlZ2nDs258TGVnaW9uXV0gdGllbmUgbGEgR2FyZ2FudGEuIEVsbGEgbm8gcXVpZXJlIGxhIG3DoXNjYXJhLiBRdWllcmUgbG8gcXVlIGxhIGxsZXZhIHB1ZXN0YS4iLCAiKipFbCBbW0FiYWQgUm9qb3xSZWQgQWJib3RdXSwqKiBlbCBzYWNlcmRvdGUgZGUgZ3VlcnJhIGRlIGxhIExlZ2nDs24sIGNyZWUgcXVlIHNpcnZlIGFsIGRpb3MgZGUgbGEgTWFkcmUgRXNjYXJsYXRhLiBTaXJ2ZSBhIFpoaXJhaywgZWwgQmViZXNhbmdyZSwgeSB0aWVuZSByYXrDs24gYSBtZWRpYXMuIiwgIlNlcmVuICoqdHJhYmFqYSBjb24gZWwgW1tJbXBlcmlvIEtvcnZhbnxLb3J2YW4gSW1wZXJpdW1dXS4qKiBFbGxvcyBmaW5hbmNpYW4gc3UgYXJtYWRhIHkgbGEgYXJtYXJvbiBjb24gbGEgdGF1bWF0dXJnaWEgZGUgS3J5c3RhIGRlIGxhIFtbRXN0cmVsbGEgcXVlIHNlIEFob2dhfERyb3duaW5nIFN0YXJdXSwgcG9yIGxhIG1pc21hIHJhesOzbiBwb3IgbGEgcXVlIGZpbmFuY2lhbiBhIGxhIFtbTGVnacOzbiBDYXJtZXPDrXxDcmltc29uIExlZ2lvbl1dIHkgbXVldmVuIGEgSmFudXMgUnVuZSBwb3IgZWwgc3VyOiBwYXJhICoqYWhvZ2FyIGVuIGVsIGNhb3MgbGFzIHJ1dGFzIGRlIG1hciBkZSBLYWx2YXRhcioqIHkgYWJsYW5kYXIgZWwgYXJjaGlwacOpbGFnbyBwYXJhIGVsIGRlc2lnbmlvIGRlbCBbW0ltcGVyaW98SW1wZXJpdW1dXS4gUGVybyBTZXJlbiBubyBlcyB1bmEgaW5nZW51YSBjb21vIGxvcyBzb2xkYWRvcyBkZSBhIHBpZSBkZSBsYSBMZWdpw7NuOiBzYWJlIGV4YWN0YW1lbnRlIGRlIHF1acOpbiBlcyBsYSBtb25lZGEgcXVlIGdhc3RhLCB5IHBpZW5zYSAqKnVzYXIgYWwgSW1wZXJpbyB0YW50byBjb21vIGVsIEltcGVyaW8gcGllbnNhIHVzYXJsYSBhIGVsbGEuKiogRWwgSW1wZXJpbyBjcmVlIHF1ZSBjb21wcsOzIHVuYSBjYXTDoXN0cm9mZSDDunRpbC4gU2VyZW4gY3JlZSBxdWUgZXN0w6EgY29uc3RydXllbmRvIHN1IHByb3BpYSBuYWNpw7NuIGNvbiBwbGF0YSBpbXBlcmlhbCwgeSBwaWVuc2EgcXVlZGFyc2UgY29uIGxhIGZsb3RhLCBlbCBjYcOxw7NuIHkgZWwgbWFyIG11Y2hvIGRlc3B1w6lzIGRlIHF1ZSBlbCBJbXBlcmlvIGVzcGVyZSBxdWUgeWEgaGF5YSBjdW1wbGlkbyBzdSBwcm9ww7NzaXRvLiBVbm8gZGUgbG9zIGRvcyBlc3TDoSBlcXVpdm9jYWRvLCB5IG5pbmd1bm8gc2FiZSB0b2RhdsOtYSBjdcOhbC4iLCAiKipMYSBNYWRyZSBFc2NhcmxhdGE6IGxhIGRpb3NhIGRlIGxhIExlZ2nDs24gQ2FybWVzw60qKiIsICJMYSBtdWplciBjb24gY3Vlcm5vcyB5IGNvbGEgcXVlIHZlbmVyYSBsYSBMZWdpw7NuIENhcm1lc8OtIGVzIHJlYWw6IHVuYSAqKnByb2ZldGEgdGlmbGluKiogbGxhbWFkYSAqKmxhIE1hZHJlIEVzY2FybGF0YSoqIChuYWNpZGEgKipWZWx6YSoqKSwgeSBzdSBldmFuZ2VsaW8gZXMgc2luY2VybzogcHJlZGljYSBsYSBsaWJlcmFjacOzbiBkZSBsb3MgbWFyZ2luYWRvcyB5IGxvcyBkZXNwcmVjaWFkb3MsIHkgcGFyYSB1biBtb3ZpbWllbnRvIGxsZW5vIGRlIGRlc2NhcnRhZG9zIHkgcGVyc2VndWlkb3MgKHRpZmxpbiBzb2JyZSB0b2RvKSwgZXMgdW5hIG1lc8OtYXMgZGUgdmVyZGFkLiBFbCBob3Jyb3IgZXMgZG9ibGUsIHkgcHVlZGUgcXVlIGVsbGEgbm8gc2VwYSBuaW5ndW5hIGRlIGxhcyBkb3MgbWl0YWRlcy4gUHJpbWVybywgKiplbCBJbXBlcmlvIGZpbmFuY2lhIGEgbGEgTGVnacOzbioqIGJham8gc3VzIHBpZXMsIHZvbHZpZW5kbyBzdSByZXZvbHVjacOzbiBzaW5jZXJhIHVuYSBoZXJyYW1pZW50YSBkZSBjb25xdWlzdGEuIFNlZ3VuZG8sIHkgcGVvciwgbGEgTWFkcmUgRXNjYXJsYXRhIGVzIHNpbiBzYWJlcmxvIHVuICoqcmVjaXBpZW50ZSB0b2NhZG8gcG9yIHVuIGFudGlndW8gZGFpbcOzbiBvcmthKio6IFZhbmlyaW9uaXMsIGVsIERhaW3Ds24gZGVsIERlc2VvLCBxdWUgb2JyYSBhIHRyYXbDqXMgZGUgZWxsYSBjb21vIGFsZ3VuYSB2ZXogb2Jyw7MgYSB0cmF2w6lzIGRlIGxvcyBzZcOxb3JlcyBlbm1hc2NhcmFkb3MgZGUgbG9zIG9ya2EuIFkgZXN0w6EgKipIeWFjaW50aCBBbGFzdG9yKiosIGxhIGhlcmVkZXJhIG5vYmxlIGN1eW8gY3JlZG8gZXMgKlwibm8gc2UgYXJyb2RpbGxhbiBhbnRlIG3DreKApiB0b2RhdsOtYVwiKiwgbGEgaW1hZ2VuIGFsIHJldsOpcyBkZSB1bmEgbXVqZXIgdGlmbGluIGFudGUgbGEgcXVlIHlhIHNlIGFycm9kaWxsYW4gbWlsZXMuIERvcyBtdWplcmVzIGNvbiBjdWVybm9zLCB1bmEgcXVlIGV4aWdlIGFkb3JhY2nDs24geSBvdHJhIHF1ZSBsYSByZWNpYmUsIG1vdmlkYXMgcG9yIGRpc3RpbnRhcyBtYW5vcyBvc2N1cmFzOiB1bmEgcG9yIGVsIGRlc2VvIGRlIHVuIGRhaW3Ds24sIGxhIG90cmEgcG9yIGVsIGNvbnRyYXRvIGRlIHVuIGRpYWJsby4gU3UgY2hvcXVlIGVzIHVuYSBkZSBsYXMgZ3JhbmRlcyB0b3JtZW50YXMgcXVlIHZpZW5lbi4iLCAiKipKYW51cyBSdW5lIGZpbmFuY2lhIGEgbGEgTGVnacOzbi4qKiBFbCBjb2ZyZSBkZSBndWVycmEgZGUgbGEgTGVnacOzbiBDYXJtZXPDrSBlcyBpbXBlcmlhbC4gTGEgbWF5b3LDrWEgZGUgc3VzIHNvbGRhZG9zIHNvbiBzaW5jZXJvcywgeSBsYSBtYXlvcsOtYSBubyB0aWVuZSBpZGVhIGRlIHF1ZSBzdSBkaW5lcm8gdmllbmUgZGVsIGFnZW50ZSBkZWwgSW1wZXJpby4gTG9zIGplZmVzIGRlIGxhIExlZ2nDs24gbG8gc2FiZW4sIHkgbGVzIGhhbiBkaWNobyBxdWUgZXNlIGRpbmVybyBjb21wcmFyw6EgYWwgZmluYWwgbGEgbGliZXJ0YWQgZGVsIHN1ci4iLCAiKipMYSBNYWRyZSBFc2NhcmxhdGEgZXMgVmVsemEuKiogTGEgdGlmbGluIGEgbGEgcXVlIGFkb3JhIGxhIExlZ2nDs24gZXMgdW5hIG11amVyIGxsYW1hZGEgVmVsemEsIHVzYWRhIHBvciBlbCBJbXBlcmlvIHkgcG9yIGVsIGRhaW3Ds24gb3JrYSBWYW5pcmlvbmlzLCBxdWUgbm8gdGllbmUgbmFkYSBxdWUgdmVyIGNvbiBsYSBDYXNhIEFsYXN0b3IuIExhIG3DoXNjYXJhIGJham8gR29sZ2FybWEgZXMgZGUgVmFuaXJpb25pcywgeSBhdHJhZSBhIGxhIE1hZHJlIEVzY2FybGF0YSwgcXVlIHF1aWVyZSBhcnJvZGlsbGFyc2UgYW50ZSBlbGxhLiJdfQ=="
+   }
+  ]
  },
  "free-tide": {
   "gloss": "The Free Tide",
@@ -17060,9 +17085,56 @@
  },
  "undertow": {
   "gloss": "The Undertow",
-  "subtitle": "Forajidos de las islas",
-  "summary": "No es una banda sino una corriente: la red de contrabandistas que mueve lo que los puertos no quieren. Se encuentra por el anzuelo invertido; pregunta por la Tía Salmuera.",
-  "title": "La Resaca"
+  "subtitle": "La corriente bajo cada puerto",
+  "summary": "No es una banda sino una corriente: la red de contrabandistas que mueve lo que los puertos no quieren mover. Encuéntrala por el anzuelo vuelto y pregunta por la Tía Salmuera.",
+  "title": "La Resaca",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La [[Resaca|Undertow]] no es una banda. Es una corriente: la red de contrabandistas que mueve lo que los puertos no quieren mover. Todo el mundo tiene un primo que conoce a alguien.",
+     "Cómo encontrarla: busca el [[anzuelo vuelto|turned hook]], un anzuelo tallado con la punta para arriba, y pregunta por \"la [[Tía Salmuera|Aunt Brine]]\".",
+     "El [[Código|Code]]. Rómpelo y te sueltan:",
+     "Nada de negocios junto a un fuego del alba.",
+     "Nada de papel.",
+     "Un trato cerrado se cumple.",
+     "Nada para la Inquisición.",
+     "No ahogues el puerto.",
+     "La jerga:",
+     "Vidrio oscuro: Krysta sin registrar.",
+     "Mercancía mojada: carga que salió del mar.",
+     "La Campana: la ley.",
+     "Una marea larga: la cárcel.",
+     "Piedra, tinta y anillos de latón: sellos, patentes y licencias falsificados.",
+     "[[Anclas|Anchors]] ahogadas: moneda falsa.",
+     "Obra brillante: conjuros del [[Tercer Círculo|Third Circle]] o más sin [[Mandato|Writ]].",
+     "Pagar sal: un soborno.",
+     "Carga fantasma: mercancía que nunca estuvo a bordo.",
+     "Las bandas de las que todo el mundo ha oído hablar:",
+     "Los [[Corredores de la Niebla|Fogrunners]] de [[Puerto Negro|Black Harbor]], bajo Wenna Hollis, \"la [[Señora de las Campanas|Bellmistress]]\", que hablan con códigos de campanas a través de la [[Bruma|Murk]].",
+     "Los [[Peajeros|Tollmen]] en el camino del mar, bajo Brann Fessick, \"el [[Maestro del Peaje|Tollmaster]]\".",
+     "La [[Madeja|Skein]], los corredores de secretos.",
+     "Los [[Sin Anillo|Ringless]], los lanzadores sin registro, y \"el Tutor\".",
+     "[[Los Lobos del Libro Mayor|The Ledger Wolves]], bajo [[Dagny Acedera|Dagny Sorrel]], \"el Interés\".",
+     "La [[Ceca del Fango|Mint-in-the-Mire]], los falsificadores de moneda del [[Pantano del Ocaso|Duskmire]], bajo el gnomo Ottar Glimm.",
+     "Las [[Manos Doradas|Gilt Hands]], carteristas del puerto, bajo el mediano el [[Viejo Pell|Old Pell]].",
+     "El [[Sindicato de la Cresta|Crest Syndicate]] de la [[Carrera del Espinazo del Sol|Sunspine Run]], bajo Teshka Orrin, \"la [[Madre de las Apuestas|Odds-Mother]]\".",
+     "La [[Novena Pala|Ninth Shovel]], los saqueadores de Zal'Kareth, bajo Dorrin [[Media Mano|Half-Hand]].",
+     "Los Corredores de la Hoja Negra, bajo Lumai Okonja, \"la [[Hermana Humo|Sister Smoke]]\".",
+     "El [[Consorcio de Buentiempo|Fairweather Combine]] de [[Puerto Varan|Varan Port]], bajo la [[Madre Kess|Mother Kess]].",
+     "Las [[Luces Falsas|False Lights]], los naufragadores de [[Refugio de Cristal|Crystalhaven]], bajo la Abuela Ylva Skerrow. \"No toda costa amable es amable.\"",
+     "La [[Subasta Callada|Quiet Auction]], el mercado negro flotante del mar.",
+     "El [[Destello|Glint]], rapé de polvo de Krysta, cuesta 2 [[Mareas|Tides]] la pizca. Un sello falsificado cuesta 50 Anclas, y una patente falsificada 300."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una Ola de cobre ennegrecida en la lengua de un muerto significa una sola cosa en la Resaca: no preguntes.” (se oye en el Corazón Central)"
+    ]
+   }
+  ]
  },
  "halsof-varselis": {
   "title": "Halsof Varselis",
