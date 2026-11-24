@@ -253,3 +253,20 @@ html.sb-open{overflow:hidden}
 .adv-rates{margin:12px 0 4px;padding-left:20px;font:15px/1.55 var(--serif)}
 .adv-rates li{margin:0 0 6px}
 
+/* Folk, taverns and encounters: one sheet per result */
+.adv-sheet-actions{display:flex;flex-wrap:wrap;gap:8px;justify-content:flex-end;margin:18px 0 -6px}
+.adv-sheet{border:1px solid var(--line);border-top:3px solid var(--gold);border-radius:3px;padding:16px 20px 10px;margin:16px 0;background:var(--white)}
+.adv-sheet header{border-bottom:1px solid var(--line);padding-bottom:10px;margin-bottom:8px}
+.adventurers .adv-sheet-kicker{font:11px/1.6 var(--mono);letter-spacing:.6px;color:var(--muted);margin:0 0 4px;text-transform:uppercase}
+.adventurers .adv-sheet-kicker a{color:inherit}
+.adventurers .adv-sheet-name{font:normal 30px/1.2 var(--serif);margin:0 0 4px;overflow-wrap:anywhere}
+.adventurers .adv-sheet-sub{font:italic 16px/1.5 var(--serif);margin:0;color:var(--muted)}
+.adv-sheet dl{display:grid;grid-template-columns:minmax(130px,200px) 1fr;gap:8px 18px;margin:10px 0}
+.adv-sheet dt{font:11px/1.9 var(--mono);letter-spacing:.4px;color:var(--muted);text-transform:uppercase}
+.adventurers .adv-sheet dd{margin:0;font:16px/1.55 var(--serif);overflow-wrap:anywhere}
+.adv-sheet dd .adv-copy{margin-left:6px;vertical-align:middle}
+.adv-gm{border-top:1px dashed var(--line);margin-top:8px;padding-top:8px}
+.adv-gm summary{cursor:pointer;font:11px/2.2 var(--mono);letter-spacing:.8px;text-transform:uppercase;color:var(--gold);min-height:32px}
+.adv-crowd li>div{min-width:0}
+.adventurers .adv-crowd .adv-meta{display:block;margin-top:2px}
+@media(max-width:720px){.adv-sheet{padding:14px 14px 8px}.adv-sheet dl{grid-template-columns:1fr;gap:2px}.adv-sheet dt{margin-top:8px}.adventurers .adv-sheet-name{font-size:26px}}

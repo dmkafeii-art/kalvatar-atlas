@@ -1,4 +1,4 @@
-/* Adventurers: tools for players. A name generator, the peoples' traits, the workshop, downtime, side quests, treasure, the Sigil, passages, the sea, the Reckoners' Hall, the Coinsday Reading, the black market, and the Most Wanted. Data: adventurers.json. */
+/* Adventurers: tools for players. A name generator, the peoples' traits, the workshop, downtime, side quests, treasure, the Sigil, passages, the sea, the Reckoners' Hall, the Coinsday Reading, the black market, the Most Wanted, and the folk, tavern and encounter generators. Data: adventurers.json. */
 'use strict';
 window.Adventurers = (() => {
  const h = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=23').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=24').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -148,7 +148,7 @@ window.Adventurers = (() => {
   document.title = t('Adventurers', 'Aventureros') + ' | Kalvatar';
   $('#breadcrumb').innerHTML = `<a href="#">${t('The world', 'El mundo')}</a><span>/</span><a href="#adventurers">${t('Adventurers', 'Aventureros')}</a>`;
   const link = (id, href, label) => `<a class="adv-tab${tab === id ? ' active' : ''}" href="${href}"${tab === id ? ' aria-current="page"' : ''}>${label}</a>`;
-  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('coinsday', '#adventurers/coinsday', t('Coinsday Reading', 'Lectura de Monedía'))}${link('black', '#adventurers/black-market', t('Black market', 'Mercado negro'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
+  $('#content').innerHTML = `<div class="content-wrap pack-page adventurers"><div class="page-intro"><p class="eyebrow">KALVATAR / 175 EC</p><h1>${t('Adventurers', 'Aventureros')}</h1><p>${t('Tools for players: a name that sounds like the islands, what your people can do, what it costs to make things, and what to do between voyages.', 'Herramientas para jugadores: un nombre que suene a las islas, lo que tu pueblo sabe hacer, lo que cuesta fabricar cosas, y qué hacer entre viajes.')}</p></div><nav class="adv-tabs" aria-label="${t('Adventurers tools', 'Herramientas de aventureros')}">${link('names', '#adventurers', t('Name generator', 'Generador de nombres'))}${link('folk', '#adventurers/folk', t('Folk generator', 'Generador de PNJ'))}${link('traits', '#adventurers/traits', t('Peoples and traits', 'Pueblos y rasgos'))}${link('workshop', '#adventurers/workshop', t('Workshop', 'Taller'))}${link('downtime', '#adventurers/downtime', t('Downtime', 'Tiempo libre'))}${link('side', '#adventurers/side-quests', t('Side quests', 'Misiones secundarias'))}${link('treasure', '#adventurers/treasure', t('Treasure', 'Tesoro'))}${link('sigil', '#adventurers/sigil', t('Sigil', 'Sigil'))}${link('travel', '#adventurers/travel', t('Passages', 'Travesías'))}${link('sea', '#adventurers/sea', t('At sea', 'En altamar'))}${link('tavern', '#adventurers/tavern', t('Taverns', 'Tabernas'))}${link('encounters', '#adventurers/encounters', t('Encounters', 'Encuentros'))}${link('hall', '#adventurers/hall', t('The Reckoners’ Hall', 'El Reckoners’ Hall'))}${link('coinsday', '#adventurers/coinsday', t('Coinsday Reading', 'Lectura de Monedía'))}${link('black', '#adventurers/black-market', t('Black market', 'Mercado negro'))}${link('wanted', '#adventurers/wanted', t('Most Wanted', 'Los más buscados'))}</nav>${body}</div>`;
  }
 
  function options(list, value, any) {
@@ -953,12 +953,406 @@ window.Adventurers = (() => {
   tiles('black');
  }
 
+ /* Folk, taverns, and encounters (the DM's word, 23 November): a person by people and region, a tavern by region and place, and an
+    encounter by region, terrain, season and party. Data: adventurers.json, "folk". Results keep their pairs, and speak the page's language. */
+ const isEs = () => window.Pack2?.language === 'es';
+ const L = x => x ? (isEs() ? x[1] : x[0]) : '';
+ const LO = o => o ? (isEs() ? o.es : o.en) : '';
+ const atlasById = () => typeof byId !== 'undefined' ? byId : {};
+ const canSee = id => !!(id && atlasById()[id] && (!window.Pack2?.canRead || Pack2.canRead(id)));
+ const titleOf = id => atlasById()[id]?.title || id;
+ const linkTo = (id, text) => canSee(id) ? `<a href="#entry/${h(id)}">${h(text ?? titleOf(id))}</a>` : h(text ?? titleOf(id));
+ const weighted = list => {
+  const live = list.filter(x => x[1] > 0), total = live.reduce((s, x) => s + x[1], 0);
+  let r = Math.random() * total;
+  for(const [item, w] of live) {r -= w; if(r <= 0) return item;}
+  return live[live.length - 1][0];
+ };
+ const someOf = (list, n) => {const a = list.slice(), out = []; while(out.length < n && a.length) out.push(a.splice(Math.floor(Math.random() * a.length), 1)[0]); return out;};
+ const FOLK_LAND = ['northern-frontier', 'central-heartland', 'southern-wilds', 'icy-expanse'];
+ const CODE = {'northern-frontier': 'N', 'central-heartland': 'H', 'southern-wilds': 'S', 'icy-expanse': 'I', 'coral-kingdoms': 'C', below: 'B'};
+ const ATLAS_REGION = {'northern-frontier': 'Northern Frontier', 'central-heartland': 'Central Heartland', 'southern-wilds': 'Southern Wilds', 'icy-expanse': 'Icy Expanse', 'coral-kingdoms': 'The Sea', below: 'Below', raft: 'The Sea'};
+ const COUNCIL_LANDS = ['northern-frontier', 'central-heartland', 'southern-wilds'];
+ const TRIBES = ['goliaths', 'orcs', 'lizardfolk', 'cat-kin', 'pride-kin', 'ivory-kin', 'centaurs', 'goblinoids', 'kobolds'];
+ const dd = (k, v) => v ? `<dt>${k}</dt><dd>${v}</dd>` : '';
+ const copyButton = id => `<button type="button" class="adv-copy" data-copy-sheet="${id}">${t('Copy as text', 'Copiar como texto')}</button>`;
+ function bindCopy(root) {
+  root?.addEventListener('click', e => {
+   const b = e.target.closest('[data-copy-sheet]');
+   if(!b) return;
+   const el = document.getElementById(b.dataset.copySheet);
+   const done = () => {b.textContent = t('Copied', 'Copiado'); setTimeout(() => {b.textContent = t('Copy as text', 'Copiar como texto');}, 1400);};
+   if(el && navigator.clipboard?.writeText) navigator.clipboard.writeText(el.innerText.replace(/\n{3,}/g, '\n\n')).then(done).catch(() => {});
+  });
+ }
+
+ /* One person. o: {region, people, gender ('masc', 'fem'), age, tier, job (its English name)} */
+ function makeNpc(o = {}) {
+  const N = data.folk.npc;
+  const region = N.weights[o.region] ? o.region : o.region === 'below' ? pick(FOLK_LAND) : pick(N.regions.map(r => r[0]));
+  let pid = o.people && N.peoples[o.people] ? o.people : weighted(Object.entries(N.weights[region]));
+  if(pid === 'florians' && o.job && !o.people) pid = 'humans';  // a Florian has one day, and does not spend it keeping an inn
+  const p = person(pid), info = N.peoples[pid], form = o.gender || pick(['masc', 'fem']);
+  const band = N.ages.find(a => a[0] === o.age) || weighted(N.ages.map(a => [a, {young: 22, adult: 34, middle: 24, old: 15, venerable: 5}[a[0]]]));
+  const bandIx = N.ages.indexOf(band), f = band[3] + Math.random() * (band[4] - band[3]);
+  const [adult, life] = info.life;
+  const age = pid === 'florians' ? {hours: 1 + Math.floor(f * 22)} : pid === 'warforged' ? {woke: 1 + Math.floor(f * 60)} : {years: Math.round(adult + (life - adult) * f)};
+  const land = FOLK_LAND.includes(region) ? region : pick(FOLK_LAND);
+  const day = Math.floor(Math.random() * 365), still = day >= 360, month = still ? null : N.months[Math.floor(day / 36)];
+  // the name
+  let name = '', detail = '', kind = null, tribe = null, outside = null;
+  if(p.kind === 'elves') {
+   kind = elfKind(p, region);
+   const k = p.kinds[kind];
+   name = pick(pool(k.given)) + (chance(.6) ? ' ' + pick(k.byname) : '');
+  } else if(p.tribal && region !== 'coral-kingdoms' && (region === 'southern-wilds' && chance(p.id === 'humans' ? .35 : .6) || TRIBES.includes(p.id) && chance(.4))) {
+   const hid = pick(homesOf(region)), tn = tribal(p, hid, form);
+   if(tn) {name = tn.name; tribe = hid;}
+  }
+  if(!name) {const n = make(p, region, form); name = n.name; detail = n.detail || '';}
+  const familyNames = ['regional', 'half-elf', 'given-family', 'marked'].includes(p.kind) && !tribe;
+  if(familyNames && COUNCIL_LANDS.includes(region) && (o.outside ?? chance(1 / 12))) {
+   outside = {given: p.kind === 'marked' ? (chance(.5) ? pick(pool(p.chosen)) : regional(land, form).given) : givenOnly(p, land, form), month: still ? (chance(.7) ? N.months[0] : null) : month, still};
+  }
+  // station and work
+  let job = o.job ? N.jobs.find(j => j.en === o.job) : null;
+  const tier = o.tier && (!job || job.tiers.includes(o.tier)) ? o.tier : job ? pick(job.tiers) : weighted(N.tiers.map(x => [x[0], x[3]]));
+  if(!job) {
+   const here = N.jobs.filter(j => j.tiers.includes(tier) && (!j.regions.length || j.regions.includes(region)));
+   job = pick(here.length ? here : N.jobs.filter(j => j.tiers.includes(tier)));
+  }
+  if(pid === 'florians') job = {en: 'living their one day', es: 'viviendo su único día', es_f: 'viviendo su único día', link: 'florians', aff: null, fight: 'commoner', god: 'green-fire', tiers: [tier]};
+  const houseHere = () => pick(N.houses[region] || N.houses['central-heartland']);
+  let aff = null;
+  if(job.aff === 'house') aff = {role: ['sworn to', 'jurado a', 'jurada a'], house: houseHere()};
+  else if(job.aff) aff = {key: job.aff};
+  else if(pid !== 'florians') {
+   const k = weighted(N.free_aff.map(([w, key]) => [key || '-', w]));
+   if(k === 'house') aff = {role: pick(N.aff_role.house), house: houseHere()};
+   else if(k !== '-') aff = {role: pick(N.aff_role[k]), key: k};
+  }
+  const shady = ['undertow'].includes(job.aff) || /smuggler|fence|card-sharp|collector/.test(job.en);
+  const hiddenHere = N.hidden.filter(x => !x.regions.length || x.regions.includes(region));
+  const hidden = chance(shady ? .5 : .25) ? pick(hiddenHere) : null;
+  // faith
+  const regionalWays = !info.faith.length || ['regional', 'half-elf'].includes(p.kind);
+  const peopleFaith = (kind === 'Frost' ? [['the White Hunger, emulated', 'el Hambre Blanca, imitada', 'vukharr-the-white-hunger']] : []).concat(regionalWays ? (N.regional[region]?.faith || []) : info.faith);
+  const fr = Math.random(), g = N.gods[job.god];
+  const faith = fr < .45 && g ? {pair: [g[0], g[1]], link: g[2]} : fr < .82 && peopleFaith.length ? (x => ({pair: [x[0], x[1]], link: x[2]}))(pick(peopleFaith))
+   : month ? (x => ({pair: [x[0], x[1]], link: x[2]}))(N.gods[month[5]] ? [N.gods[month[5]][0], N.gods[month[5]][1], N.gods[month[5]][2]] : [month[0], month[0], month[5]]) : {pair: ['no god in particular', 'ningún dios en particular'], link: null};
+  // look and ways
+  const E = kind ? N.elf[kind] : null, R = N.regional[region] || N.regional['central-heartland'];
+  const looks = (E ? E.look : []).concat(info.look);
+  const dressPool = E ? E.dress : info.dress.length ? info.dress : R.dress;
+  const drink = E ? E.drink : info.drink || R.drink;
+  const pastimes = (E ? E.pastime : []).concat(info.pastime.length ? info.pastime : R.pastime);
+  const coinBits = (N.coin[tier] || [[1, 6, 1]]).reduce((s, [n, sides, unit]) => {let x = 0; for(let i = 0; i < n; i++) x += 1 + Math.floor(Math.random() * sides); return s + x * unit;}, 0);
+  const home = pid === 'pocchin' ? {pair: ['their caravan, which runs every route', 'su caravana, que recorre todas las rutas']} : tribe ? {tribe}
+   : (x => ({town: x}))(pick(N.towns[region] || N.towns['central-heartland']));
+  const fams = N.family.filter(x => x[2] <= bandIx);
+  const comps = N.companions[region] || N.companions['central-heartland'];
+  return {
+   region, pid, form, band: band[0], age, kind, tribe, name, detail, outside, month, still, tier, job, aff, hidden, faith, home,
+   build: pick(N.build[info.size] || N.build.medium), looks: someOf(looks, looks.length > 1 && chance(.5) ? 2 : 1), feature: chance(.65) ? pick(N.features) : null,
+   dress: pick(dressPool), tierLook: pick(N.tier_look[tier]), drink, pastime: pastimes.length ? pick(pastimes) : null,
+   traits: someOf(N.traits, 2), ideal: pick(N.ideals), bond: pick(N.bonds), flaw: pick(N.flaws), want: pick(N.wants), fear: pick(N.fears),
+   manner: pick(N.manners), voice: pick(N.voices), secret: pick(N.secrets), hook: pick(N.hooks), attitude: Math.floor(Math.random() * 6),
+   family: fams.length ? pick(fams) : null, pockets: someOf(N.pockets, chance(.5) ? 2 : 1), haunt: pick(N.haunts),
+   companion: chance(.7) && comps.length ? pick(comps) : null, coin: coinBits,
+  };
+ }
+ const npcName = n => n.outside ? `${n.outside.given} ${t('of', 'de')} ${n.outside.month ? n.outside.month[0] : t('no month', 'ningún mes')}` : n.name;
+ const npcPeople = n => {
+  const one = data.folk.npc.one[n.pid], label = isEs() ? (n.form === 'fem' ? one[2] : one[1]) : one[0];
+  const kind = n.kind ? (isEs() ? data.folk.npc.elf[n.kind].es : n.kind + ' elf') : '';
+  return `<a href="#adventurers/traits/${h(n.pid)}">${h(kind || label)}</a>`;
+ };
+ const npcAge = n => n.age.hours ? t(`${n.age.hours} hours old: born at dawn, and gone by tomorrow`, `${n.age.hours} horas: nació al amanecer, y mañana ya no estará`)
+  : n.age.woke ? t(`woke ${n.age.woke} years ago; made long before`, `despertó hace ${n.age.woke} años; lo hicieron mucho antes`)
+  : `${n.age.years} ${t('years', 'años')}` + (n.pid === 'liriath' ? t(` (${n.age.years * 4} seasons weathered)`, ` (${n.age.years * 4} estaciones capeadas)`) : '') + `, ${(a => isEs() ? (n.form === 'fem' ? a[5] : a[2]) : a[1])(data.folk.npc.ages.find(a => a[0] === n.band))}`;
+ const Lg = (x, n) => isEs() && n?.form === 'fem' && x[2] ? x[2] : L(x);  // a pair with its Spanish for a woman third
+ const npcTier = n => {const x = data.folk.npc.tiers.find(y => y[0] === n.tier); return isEs() ? (n.form === 'fem' ? x[4] : x[2]) : x[1];};
+ const npcGender = n => n.form === 'fem' ? t('woman', 'mujer') : t('man', 'hombre');
+ const npcJob = n => linkTo(n.job.link, isEs() ? (n.form === 'fem' ? n.job.es_f || n.job.es : n.job.es) : n.job.en);
+ function npcAff(n) {
+  const N = data.folk.npc;
+  if(!n.aff) return t('none: they answer to their family, and to no one else', 'ninguna: responde a su familia, y a nadie más');
+  let role = n.aff.role ? Lg(n.aff.role, n) : '';
+  if(n.aff.house) return (role ? role + ' ' : '') + (isEs() ? 'la ' : '') + linkTo(n.aff.house);
+  const a = N.aff[n.aff.key];
+  let label = L(a);
+  if(isEs() && /^el /.test(label) && / (de|a)$/.test(role)) {role = role.replace(/ de$/, ' del').replace(/ a$/, ' al'); label = label.slice(3);}  // de el, del; a el, al
+  return (role ? role + ' ' : '') + linkTo(a[2], label);
+ }
+ function npcFrom(n) {  // from Goldwind, de Ventoro, del Común
+  if(n.home.town && isEs() && /^(el|los) /.test(n.home.town[2])) {const [, art, rest] = n.home.town[2].match(/^(el|los) (.*)$/); return (art === 'el' ? 'del ' : 'de los ') + linkTo(n.home.town[0], rest);}
+  return t('from', 'de') + ' ' + npcHome(n);
+ }
+ function npcHome(n) {
+  if(n.home.pair) return h(L(n.home.pair));
+  if(n.home.tribe) {const hl = data.homelands[n.home.tribe]; return hl?.entry ? linkTo(hl.entry) : h(hl?.name || '');}
+  return linkTo(n.home.town[0], L(n.home.town.slice(1)));
+ }
+ function npcBorn(n) {
+  const m = n.month;
+  if(n.still) return t('in the Still Days, which belong to no god', 'en los Días Quietos, que no son de ningún dios') + (n.outside && n.outside.month ? t('; their mother named them for Eo the next morning', '; su madre le puso el nombre de Eo a la mañana siguiente') : '');
+  return `${linkTo('month-names', m[0])}, ${t('of', 'de')} ${h(L(m.slice(1, 3)))}. <em>${h(L(m.slice(3, 5)))}</em>`;
+ }
+ function npcSheet(n, id) {
+  const N = data.folk.npc, at = N.attitudes[n.attitude], fight = N.fights[n.job.fight];
+  const head = [npcPeople(n), h(npcGender(n)), h(npcAge(n)), h(npcTier(n))].join(' · ');
+  const look = [n.build, ...n.looks, n.feature].filter(Boolean).map(x => Lg(x, n)).join('; ');
+  const outsideNote = n.outside ? t(' Born outside a house, they carry the month instead of a family name.', ' Nació fuera de una casa, así que lleva el mes en lugar de un apellido.') : '';
+  return `<article class="adv-sheet" id="${id}"><header><p class="adv-sheet-kicker">${head}</p><h3 class="adv-sheet-name">${h(npcName(n))}</h3>
+  <p class="adv-sheet-sub">${npcJob(n)}, ${npcFrom(n)} · ${h(regionName(n.region))}</p></header>
+  <dl>${dd(t('Born', 'Nació'), npcBorn(n) + h(outsideNote))}${dd(t('Look', 'Aspecto'), h(cap1(look)))}${dd(t('Dress', 'Ropa'), h(cap1(L(n.dress))) + '; ' + h(L(n.tierLook)))}
+  ${dd(t('Voice and habit', 'Voz y manía'), h(cap1(L(n.voice))) + '; ' + h(L(n.manner)))}${dd(t('Personality', 'Personalidad'), h(cap1(n.traits.map(x => Lg(x, n)).join(t(' and ', ' y ')))))}
+  ${dd(t('Ideal', 'Ideal'), h(L(n.ideal)))}${dd(t('Bond', 'Vínculo'), h(cap1(L(n.bond))))}${dd(t('Flaw', 'Defecto'), h(cap1(L(n.flaw))))}
+  ${dd(t('Wants', 'Quiere'), h(cap1(L(n.want))))}${dd(t('Fears', 'Teme'), h(cap1(L(n.fear))))}${dd(t('Affiliation', 'Afiliación'), cap1(npcAff(n)))}
+  ${dd(t('Faith', 'Fe'), n.faith.link ? linkTo(n.faith.link, cap1(L(n.faith.pair))) : h(cap1(L(n.faith.pair))))}${dd(t('Family', 'Familia'), n.family ? h(cap1(isEs() && n.form === 'fem' ? n.family[3] : L(n.family))) : '')}
+  ${dd(t('Their cup', 'Su trago'), n.drink ? h(cap1(L(n.drink))) : '')}${dd(t('Pastime', 'Pasatiempo'), n.pastime ? h(cap1(L(n.pastime))) : '')}
+  ${dd(t('Companion', 'Compañero'), n.companion ? linkTo(n.companion) : t('none, for now', 'ninguno, por ahora'))}${dd(t('Where to find them', 'Dónde encontrarlo'), h(cap1(L(n.haunt))))}
+  ${dd(t('In their pockets', 'En los bolsillos'), h(coin(n.coin / 100)) + '; ' + h(n.pockets.map(L).join('; ')))}
+  ${dd(t('Toward the party', 'Con el grupo'), `<strong>${h(cap1(isEs() ? (n.form === 'fem' ? at[4] : at[1]) : at[0]))}</strong>: ${h(isEs() ? at[3] : at[2])}`)}${dd(t('Hook', 'Gancho'), h(cap1(L(n.hook))))}
+  ${dd(t('If it comes to a fight', 'Si hay pelea'), `${h(fight[0])} (${t('CR', 'VD')} ${h(fight[1])}), ${t('the nearest stat block in the 2024 rules', 'el stat block más cercano de las reglas de 2024')}`)}</dl>
+  <details class="adv-gm"><summary>${t('For the Game Master', 'Para el Máster')}</summary><dl>${dd(t('Secret', 'Secreto'), h(cap1(L(n.secret))))}
+  ${dd(t('A tie they do not mention', 'Un lazo del que no habla'), n.hidden ? linkTo(n.hidden.link, cap1(LO(n.hidden))) : t('none', 'ninguno'))}</dl></details></article>`;
+ }
+ const npcLine = n => `<strong>${h(npcName(n))}</strong> <span class="adv-meta">${npcPeople(n)} · ${npcJob(n)} · ${h(L(n.manner))}</span>`;
+
+ const fg = {people: '', region: '', gender: '', age: '', tier: '', out: null, crowd: []};
+ function renderFolk() {
+  const N = data.folk.npc;
+  const peoples = Object.keys(N.peoples).map(id => [id, isEs() ? N.peoples[id].es : person(id).name]).sort((a, b) => a[1].localeCompare(b[1]));
+  frame('folk', `<p class="adv-lead">${t('A whole person, in one roll: people, name, age, work, affiliation, faith, personality, what they want and fear, and what they will do when the party walks in. Choose what you need, and leave the rest to the islands.', 'Una persona entera, en una tirada: pueblo, nombre, edad, oficio, afiliación, fe, personalidad, lo que quiere y lo que teme, y lo que hará cuando entre el grupo. Elige lo que necesites, y deja el resto a las islas.')}</p>
+  <section class="adv-panel"><div class="adv-controls">
+  <label class="pack-label">${t('People', 'Pueblo')}<select id="fg-people">${options(peoples, fg.people, t('Any people', 'Cualquier pueblo'))}</select></label>
+  <label class="pack-label">${t('Region', 'Región')}<select id="fg-region">${options(N.regions.map(r => [r[0], L(r.slice(1, 3))]), fg.region, t('Any region', 'Cualquier región'))}</select></label>
+  <label class="pack-label">${t('Gender', 'Género')}<select id="fg-gender">${options([['masc', t('Man', 'Hombre')], ['fem', t('Woman', 'Mujer')]], fg.gender, t('Any', 'Cualquiera'))}</select></label>
+  <label class="pack-label">${t('Age', 'Edad')}<select id="fg-age">${options(N.ages.map(a => [a[0], cap1(L(a.slice(1, 3)))]), fg.age, t('Any age', 'Cualquier edad'))}</select></label>
+  <label class="pack-label">${t('Station', 'Posición')}<select id="fg-tier">${options(N.tiers.map(x => [x[0], cap1(L(x.slice(1, 3)))]), fg.tier, t('Any station', 'Cualquier posición'))}</select></label></div>
+  <div class="pack-actions"><button type="button" class="button" id="fg-go">${t('Make a person', 'Crear una persona')} <span aria-hidden="true">✦</span></button><button type="button" class="button cream" id="fg-crowd">${t('A crowd of six', 'Un grupo de seis')}</button></div>
+  <div id="fg-out" aria-live="polite">${folkOut()}</div>
+  <p class="adv-note">${t('Names come from the name generator. In Council lands, one in twelve is born outside a house and carries the month: Korin of Ezra.', 'Los nombres salen del generador de nombres. En las tierras del Consejo, uno de cada doce nace fuera de una casa y lleva el mes: Korin de Ezra.')} <a href="#entry/month-names">${t('Month-names', 'Los nombres de mes')}</a> · <a href="#adventurers">${t('Name generator', 'Generador de nombres')}</a></p></section>`);
+  const read = () => {['people', 'region', 'gender', 'age', 'tier'].forEach(k => {fg[k] = $('#fg-' + k).value;});};
+  const opts = () => ({people: fg.people, region: fg.region, gender: fg.gender, age: fg.age, tier: fg.tier});
+  $('#fg-go').addEventListener('click', () => {read(); fg.out = makeNpc(opts()); fg.crowd = []; $('#fg-out').innerHTML = folkOut();});
+  $('#fg-crowd').addEventListener('click', () => {read(); fg.crowd = Array.from({length: 6}, () => makeNpc(opts())); fg.out = null; $('#fg-out').innerHTML = folkOut();});
+  $('#fg-out').addEventListener('click', e => {const b = e.target.closest('[data-crowd]'); if(!b) return; fg.out = fg.crowd[+b.dataset.crowd]; $('#fg-out').innerHTML = folkOut(); $('#fg-out').scrollIntoView({block: 'nearest', behavior: 'smooth'});});
+  bindCopy($('#fg-out'));
+ }
+ function folkOut() {
+  if(fg.out) return `<div class="adv-sheet-actions">${copyButton('fg-sheet')}${fg.crowd.length ? `<button type="button" class="adv-copy" data-back-crowd>${t('Back to the crowd', 'Volver al grupo')}</button>` : ''}</div>${npcSheet(fg.out, 'fg-sheet')}`;
+  if(fg.crowd.length) return `<ol class="adv-results adv-crowd">${fg.crowd.map((n, i) => `<li><div>${npcLine(n)}</div><button type="button" class="adv-copy" data-crowd="${i}">${t('The whole sheet', 'La ficha completa')}</button></li>`).join('')}</ol>`;
+  return `<p class="adv-empty">${t('Choose, or leave everything open, and make a person.', 'Elige, o deja todo abierto, y crea una persona.')}</p>`;
+ }
+ document.addEventListener('click', e => {if(e.target.closest('[data-back-crowd]')) {fg.out = null; const o = $('#fg-out'); if(o) o.innerHTML = folkOut();}});
+
+ /* A tavern */
+ const tv = {region: 'central-heartland', place: 'town', quality: '', out: null};
+ function tavernName(region, keeper) {
+  const T = data.folk.tavern, code = CODE[region] || '';
+  const nouns = T.nouns.filter(n => !n[5] || n[5].includes(code));
+  const art = (n, pl) => n[4] === 'm' ? (pl ? 'Los' : 'El') : n[4] === 'fa' ? (pl ? 'Las' : 'El') : (pl ? 'Las' : 'La');
+  const adj = (a, n) => n[4] === 'm' ? a[1] : a[2];
+  const r = Math.random();
+  if(r < .38) {const n = pick(nouns), a = pick(T.adjs); return [`The ${a[0]} ${n[0]}`, `${art(n)} ${n[2]} ${adj(a, n)}`];}
+  if(r < .56) {const [n, m] = someOf(nouns, 2); return [`The ${n[0]} and ${m[0]}`, `${art(n)} ${n[2]} y ${art(m).toLowerCase()} ${m[2]}`];}
+  if(r < .68) {const n = pick(nouns), k = pick(T.numbers); return [`The ${k[0]} ${n[1]}`, `${art(n, true)} ${k[1]} ${n[3]}`];}
+  if(r < .84) {const n = pick(nouns), w = pick(T.who); return [`The ${w[0]} ${n[0]}`, `${art(n)} ${n[2]} ${w[1]}`];}
+  const given = (keeper.outside ? keeper.outside.given : keeper.name).split(/[\s,]/)[0], o = pick(T.own);
+  return [`${given}'s ${o[0]}`, `${o[2] === 'm' ? 'El' : 'La'} ${o[1]} de ${given}`];
+ }
+ function regionRumor(region) {
+  const want = ATLAS_REGION[region], here = [], wide = [];
+  Object.values(atlasById()).forEach(e => {
+   if(!canSee(e.id) || !(e.region === want || e.region === 'All regions')) return;
+   (e.sections || []).forEach(s => {if(s.title === 'Rumors' || s.title === 'Rumores') (s.paragraphs || []).forEach(p => (e.region === want ? here : wide).push([e.id, p]));});
+  });
+  const from = here.length && (chance(.75) || !wide.length) ? here : wide;
+  return from.length ? pick(from) : null;
+ }
+ function rollTavern() {
+  const T = data.folk.tavern, N = data.folk.npc, raft = tv.place === 'raft', black = tv.place === 'black';
+  const region = tv.region, key = raft ? 'raft' : region;
+  const qs = T.quality.filter(q => q[4].split(' ').includes(tv.place));
+  const quality = qs.find(q => q[0] === tv.quality) ? tv.quality : weighted(qs.map(q => [q[0], q[3]]));
+  let kinds = (T.kinds[region] || []).filter(k => k.places.includes(tv.place));
+  if(black) kinds = kinds.concat(T.kinds.black, T.kinds.black);
+  if(raft) kinds = T.kinds.raft;
+  if(!kinds.length) kinds = (T.kinds[region] || T.kinds['central-heartland']).filter(k => k.places.includes('town'));
+  const fits = kinds.filter(k => !(k.price === 'cheap' && ['fine', 'grand'].includes(quality)) && !(k.price === 'posh' && quality === 'squalid'));
+  if(fits.length) kinds = fits;
+  const kind = pick(kinds);
+  const tierOf = {squalid: 'humble', common: 'working', decent: pick(['working', 'comfortable']), fine: 'comfortable', grand: 'comfortable'}[quality];
+  const keeper = makeNpc({region, people: kind.people || (chance(.18) ? 'halflings' : ''), job: kind.job, tier: tierOf});
+  const staff = someOf(T.staff, 1 + Math.floor(Math.random() * 2)).map(job => makeNpc({region, job}));
+  const regular = makeNpc({region});
+  const drinks = (T.drinks[key] || T.drinks['central-heartland']);
+  const cups = [pick(drinks)];
+  if(chance(.35) && !raft) cups.push(T.house_kellum);
+  const kp = N.peoples[keeper.pid];
+  if(kp.drink && chance(.3)) cups.push(kp.drink);
+  const dishes = someOf((T.dishes[key] || []).concat(T.dishes['']), 2);
+  const rooms = {village: [1, 4], town: [3, 8], city: [6, 16], black: [2, 8], raft: [0, 2]}[tv.place];
+  return {region, place: tv.place, quality, kind, keeper, staff, regular, name: tavernName(raft ? '' : region, keeper),
+   cups, dishes, rooms: rooms[0] + Math.floor(Math.random() * (rooms[1] - rooms[0] + 1)),
+   tonight: pick((T.tonight[key] || []).concat(T.tonight[''])), crowd: someOf((T.crowd[key] || []).concat(T.crowd['']), 2),
+   rule: pick(T.rules.concat(T.rules_region[key] || [], T.rules_region[key] || [])),
+   senses: (T.senses[key] || T.senses['central-heartland']).map(x => pick(x)), stabling: T.stabling[key] || null,
+   trouble: pick(T.trouble.concat(T.trouble_region[key] || [], T.trouble_region[key] || [])), secret: pick(T.secrets),
+   rumor: regionRumor(raft ? 'raft' : region), dear: region === 'central-heartland' && tv.place === 'city'};
+ }
+ function tavernSheet(o) {
+  const T = data.folk.tavern, q = T.quality.find(x => x[0] === o.quality), place = T.places.find(x => x[0] === o.place);
+  const price = b => coin(Math.round(b * (o.dear ? 4 / 3 : 1)) / 100);
+  const prices = Object.values(T.prices[o.quality]).map(v => `${h(cap1(L(v)))}: ${h(price(v[2]))}`).join('<br>');
+  const [smell, sound, light] = o.senses;
+  const rumor = o.rumor ? `${md(o.rumor[1])} <span class="adv-meta">${t('About', 'Sobre')}: ${linkTo(o.rumor[0])}</span>` : '';
+  return `<article class="adv-sheet" id="tv-sheet"><header><p class="adv-sheet-kicker">${h(L(place.slice(1, 3)))} · ${h(regionName(o.region === 'raft' ? '' : o.region) || '')} · ${h(L(q.slice(1, 3)))}</p>
+  <h3 class="adv-sheet-name">${h(L(o.name))}</h3><p class="adv-sheet-sub">${h(cap1(LO(o.kind)))}</p></header>
+  <dl>${dd(t('The keeper', 'El dueño'), npcLine(o.keeper) + ` <button type="button" class="adv-copy" data-keeper>${t('The whole sheet', 'La ficha completa')}</button>`)}
+  ${dd(t('Behind the bar and in the kitchen', 'Detrás de la barra y en la cocina'), o.staff.map(npcLine).join('<br>'))}
+  ${dd(t('The cup', 'El trago'), o.cups.map(c => h(cap1(L(c)))).join('<br>'))}${dd(t('From the kitchen', 'De la cocina'), o.dishes.map(c => h(cap1(L(c)))).join('<br>'))}
+  ${dd(t('Prices', 'Precios'), prices + (o.dear ? `<br><em>${t('A Heartland city runs a third higher, as Goldwind does.', 'Una ciudad del Corazón cobra un tercio más, como Ventoro.')}</em>` : ''))}
+  ${dd(t('Beds', 'Camas'), o.rooms ? `${o.rooms} ${o.place === 'raft' ? t('hammocks', 'hamacas') : t('rooms', 'cuartos')}` : t('none: sleep on deck', 'ninguna: se duerme en cubierta'))}${dd(t('For beasts and boats', 'Para bestias y botes'), o.stabling ? h(cap1(L(o.stabling))) : '')}
+  ${dd(t('It smells of', 'Huele a'), h(L(smell)))}${dd(t('You hear', 'Se oye'), h(L(sound)))}${dd(t('The light', 'La luz'), h(cap1(L(light))))}
+  ${dd(t('Tonight', 'Esta noche'), h(cap1(L(o.tonight))))}${dd(t('The crowd', 'La gente'), h(cap1(o.crowd.map(L).join(t(', and ', ', y ')))))}
+  ${dd(t('A regular', 'Un habitual'), npcLine(o.regular))}${dd(t('Over the bar', 'Sobre la barra'), `<em>${h(L(o.rule))}</em>`)}
+  ${dd(t('Trouble', 'Problema'), h(L(o.trouble)))}${dd(t('Heard at the bar', 'Se oye en la barra'), rumor)}</dl>
+  <details class="adv-gm"><summary>${t('For the Game Master', 'Para el Máster')}</summary><dl>${dd(t("The house's secret", 'El secreto de la casa'), h(L(o.secret)))}
+  ${dd(t("The keeper's secret", 'El secreto del dueño'), h(cap1(L(o.keeper.secret))))}</dl></details></article>`;
+ }
+ function renderTavern() {
+  const T = data.folk.tavern;
+  frame('tavern', `<p class="adv-lead">${t('Somewhere to drink, eat, sleep, and hear things: a name, a keeper, the cup and the dish of the region, the prices, tonight, the trouble, and a rumor from the atlas.', 'Un lugar para beber, comer, dormir y enterarse de cosas: un nombre, un dueño, el trago y el plato de la región, los precios, esta noche, el problema, y un rumor del atlas.')}</p>
+  <section class="adv-panel"><div class="adv-controls">
+  <label class="pack-label">${t('Region', 'Región')}${sel('tv-region', FOLK_LAND.map(r => [r, regionName(r)]), tv.region)}</label>
+  <label class="pack-label">${t('Where', 'Dónde')}${sel('tv-place', T.places.map(x => [x[0], L(x.slice(1, 3))]), tv.place)}</label>
+  <label class="pack-label">${t('Quality', 'Calidad')}<select id="tv-quality">${options(T.quality.map(x => [x[0], L(x.slice(1, 3))]), tv.quality, t('Any', 'Cualquiera'))}</select></label></div>
+  <div class="pack-actions"><button type="button" class="button" id="tv-go">${t('Open the door', 'Abrir la puerta')} <span aria-hidden="true">✦</span></button></div>
+  <div id="tv-out" aria-live="polite">${tavernOut()}</div>
+  <p class="adv-note">${t('The prices are the islands’ own, for a common port. A raft-up of the Driftborn lasts one night, and casts off at dawn.', 'Los precios son los de las islas, para un puerto común. Una balsada de los Driftborn dura una noche, y se suelta al amanecer.')} <a href="#entry/kellum">${t('Kellum', 'El kellum')}</a> · <a href="#entry/driftborn">${t('The Driftborn', 'Los Driftborn')}</a> · <a href="#entry/jobs-and-wages">${t('Jobs and wages', 'Oficios y salarios')}</a></p></section>`);
+  $('#tv-region').addEventListener('input', e => {tv.region = e.target.value;});
+  $('#tv-place').addEventListener('input', e => {tv.place = e.target.value;});
+  $('#tv-quality').addEventListener('input', e => {tv.quality = e.target.value;});
+  $('#tv-go').addEventListener('click', () => {tv.out = rollTavern(); tv.keeper = false; $('#tv-out').innerHTML = tavernOut();});
+  $('#tv-out').addEventListener('click', e => {if(e.target.closest('[data-keeper]')) {tv.keeper = !tv.keeper; $('#tv-out').innerHTML = tavernOut();}});
+  bindCopy($('#tv-out'));
+ }
+ function tavernOut() {
+  if(!tv.out) return `<p class="adv-empty">${t('Choose the region and the place, and open the door.', 'Elige la región y el lugar, y abre la puerta.')}</p>`;
+  return `<div class="adv-sheet-actions">${copyButton('tv-sheet')}</div>${tavernSheet(tv.out)}${tv.keeper ? `<h3>${t('The keeper', 'El dueño')}</h3>${npcSheet(tv.out.keeper, 'tv-keeper')}` : ''}`;
+ }
+
+ /* An encounter, on land or Below */
+ const en = {region: 'northern-frontier', terrain: '', season: 'fair', time: 'day', level: 3, size: 4, diff: 1, kind: '', out: null};
+ const DIFF = [['low', 'Low', 'Baja'], ['moderate', 'Moderate', 'Moderada'], ['high', 'High', 'Alta']];
+ function rollEncounter() {
+  const X = data.folk.encounter, region = en.region;
+  const terrains = X.terrain[region], terrain = terrains.find(x => x[0] === en.terrain) ? en.terrain : pick(terrains)[0];
+  const inR = x => !x.regions.length || x.regions.includes(region), inT = x => !x.terrains.length || x.terrains.includes(terrain);
+  const level = Math.max(1, Math.min(20, +en.level || 1)), size = Math.max(1, Math.min(8, +en.size || 1));
+  const night = en.time === 'night', budget = X.budget[level][en.diff] * size, budgets = X.budget[level].map(b => b * size);
+  const beasts = X.beasts.filter(b => inR(b) && inT(b)), foes = X.foes.filter(f => inR(f) && inT(f)), prog = X.progeny.filter(p => inR(p) && inT(p) && level >= p.level);
+  const travelers = X.travelers.filter(x => inR(x) && inT(x)), signs = X.signs.filter(x => inR(x) && inT(x)), finds = X.finds.filter(x => inR(x) && inT(x));
+  const weather = X.weather.filter(w => inR(w) && (!w.seasons.length || w.seasons.includes(en.season)));
+  let kinds = [['beast', beasts.length ? (night ? 34 : 30) : 0], ['foe', foes.length ? (night ? 24 : 18) : 0], ['travelers', travelers.length ? (night ? 10 : 24) : 0],
+   ['sign', signs.length ? 14 : 0], ['find', finds.length ? 9 : 0], ['weather', weather.length ? (night ? 9 : 6) : 0], ['progeny', prog.length ? 3 : 0]];
+  const FIGHT = ['beast', 'foe', 'progeny'];
+  if(en.kind === 'fight') kinds = kinds.filter(k => FIGHT.includes(k[0])); else if(en.kind === 'calm') kinds = kinds.filter(k => !FIGHT.includes(k[0]));
+  if(!kinds.some(k => k[1] > 0)) kinds = [['sign', 1]];
+  const kind = weighted(kinds);
+  const out = {region, terrain, night, level, size, budget, budgets, kind, start: pick(X.start), twist: pick(X.twist)};
+  const fit = list => {
+   const pool = en.kind === 'fight' ? list.filter(c => c.hostile !== 0) : list, use = pool.length ? pool : list;
+   let ok = use.filter(c => c.xp <= budget && c.xp * 25 >= budget);
+   if(!ok.length) ok = use.filter(c => c.xp <= budget);
+   if(!ok.length) return {c: use.reduce((a, b) => a.xp <= b.xp ? a : b), n: 1, over: true};
+   const c = pick(ok);
+   return {c, n: Math.max(1, Math.min(c.most || 1, Math.floor(budget / c.xp)))};
+  };
+  if(kind === 'beast') {const r = fit(beasts); Object.assign(out, r, {why: pick(X.why), total: r.n * r.c.xp});}
+  else if(kind === 'foe') {
+   const r = fit(foes), c = r.c;
+   if(c.leader && c.leader.xp <= budget * .7 && chance(.5)) {r.leader = c.leader; r.n = Math.max(0, Math.min(c.most, Math.floor((budget - c.leader.xp) / c.xp)));}
+   Object.assign(out, r, {total: r.n * c.xp + (r.leader ? r.leader.xp : 0)});
+  } else if(kind === 'progeny') {const c = pick(prog); Object.assign(out, {c, n: 1, total: c.xp, over: c.xp > budgets[2]});}
+  else if(kind === 'travelers') {
+   const c = pick(travelers), n = c.size[0] + Math.floor(Math.random() * (c.size[1] - c.size[0] + 1));
+   Object.assign(out, {c, n, lead: makeNpc({region, people: c.people, job: c.job || undefined}), want: pick(X.want)});
+  } else if(kind === 'sign') out.c = pick(signs); else if(kind === 'find') out.c = pick(finds); else out.c = pick(weather);
+  if(out.total) out.level3 = out.total <= budgets[0] ? 0 : out.total <= budgets[1] ? 1 : out.total <= budgets[2] ? 2 : 3;
+  return out;
+ }
+ function encounterSheet(o) {
+  const X = data.folk.encounter, terr = X.terrain[o.region].find(x => x[0] === o.terrain), when = o.night ? t('at night', 'de noche') : t('by day', 'de día');
+  const sb = (c, name) => c.link ? `${linkTo(c.link, name)} <span class="adv-meta">${t('stat block on its page', 'stat block en su página')}</span>` : `${h(name)} <span class="adv-meta">${t('2024 rules', 'reglas de 2024')}</span>`;
+  const diffName = i => i === 3 ? t('above High: dangerous', 'por encima de Alta: peligroso') : L(DIFF[i].slice(1, 3));
+  const xp = o.total ? `${o.total.toLocaleString('en-US')} XP; ${t('the party’s budget', 'el presupuesto del grupo')}: ${DIFF.map((d, i) => `${L(d.slice(1, 3))} ${o.budgets[i].toLocaleString('en-US')}`).join(', ')}. ${t('This one is', 'Este es')} <strong>${h(diffName(o.level3))}</strong>.` : '';
+  let title = '', body = '';
+  const kindName = {beast: t('Beasts', 'Bestias'), foe: t('Foes', 'Enemigos'), progeny: t('A Savage Lord’s progeny', 'La progenie de un Señor Salvaje'), travelers: t('Travelers', 'Viajeros'),
+   sign: t('A sign', 'Una señal'), find: t('A find', 'Un hallazgo'), weather: t('The weather', 'El clima')}[o.kind];
+  if(o.kind === 'beast') {
+   const c = o.c;
+   title = `${o.n > 1 ? o.n + ' × ' : ''}${LO(c)}`;
+   const mood = c.hostile === 0 ? t('They mean no harm, unless someone makes them.', 'No buscan hacer daño, a menos que alguien los obligue.') : c.hostile === 1 ? t('Dangerous only if pressed.', 'Peligrosos solo si se les presiona.') : t('Hostile.', 'Hostiles.');
+   body = dd(t('Stat block', 'Stat block'), `${sb(c, c.sb)} · ${t('CR', 'VD')} ${h(c.cr)}, ${c.xp.toLocaleString('en-US')} XP ${t('each', 'cada uno')}`) + dd(t('Why they are here', 'Por qué están aquí'), h(cap1(L(o.why))) + '. ' + h(mood)) + dd(t('The fight', 'La pelea'), xp + (o.over ? ' ' + t('Even one is more than the party should fight: let them see it, and choose.', 'Incluso uno es más de lo que el grupo debería pelear: que lo vean, y que elijan.') : ''));
+  } else if(o.kind === 'foe') {
+   const c = o.c;
+   title = `${o.leader ? '1 × ' + o.leader.sb + (o.n ? t(' and ', ' y ') : '') : ''}${o.n ? (o.n > 1 ? o.n + ' × ' : '') + LO(c) : ''}`;
+   body = dd(t('Stat block', 'Stat block'), `${sb(c, c.sb)} · ${t('CR', 'VD')} ${h(c.cr)}, ${c.xp.toLocaleString('en-US')} XP` + (o.leader ? `<br>${sb(c, o.leader.sb)} · ${t('CR', 'VD')} ${h(o.leader.cr)}, ${o.leader.xp.toLocaleString('en-US')} XP` : '')) + dd(t('Who they are', 'Quiénes son'), linkTo(c.link || '', c.link ? titleOf(c.link) : LO(c))) + dd(t('The fight', 'La pelea'), xp);
+  } else if(o.kind === 'progeny') {
+   const c = o.c;
+   title = LO(c);
+   body = dd(t('Stat block', 'Stat block'), `${sb(c, c.sb)} · ${t('CR', 'VD')} ${h(c.cr)}, ${c.xp.toLocaleString('en-US')} XP`) + dd(t('The Lord', 'El Señor'), linkTo(c.link) + '. ' + t('Fight the progeny, never the Lord.', 'Se pelea contra la progenie, nunca contra el Señor.')) + dd(t('The fight', 'La pelea'), xp);
+  } else if(o.kind === 'travelers') {
+   title = `${LO(o.c)}${o.n > 1 ? ` (${o.n})` : ''}`;
+   body = dd(t('Who speaks for them', 'Quién habla por ellos'), npcLine(o.lead) + ` <button type="button" class="adv-copy" data-lead>${t('The whole sheet', 'La ficha completa')}</button>`) + dd(t('They', 'Ellos'), h(cap1(L(o.want))) + '.') + dd(t('Toward the party', 'Con el grupo'), `<strong>${h(cap1((at => isEs() ? (o.lead.form === 'fem' ? at[4] : at[1]) : at[0])(data.folk.npc.attitudes[o.lead.attitude])))}</strong>`);
+  } else {
+   title = cap1(LO(o.c));
+   if(o.c.link) body = dd(t('Read more', 'Para saber más'), linkTo(o.c.link));
+  }
+  return `<article class="adv-sheet" id="en-sheet"><header><p class="adv-sheet-kicker">${h(kindName)} · ${h(regionName(o.region))} · ${h(L(terr.slice(1, 3)))} · ${h(when)}</p><h3 class="adv-sheet-name">${h(title)}</h3></header>
+  <dl>${body}${dd(t('How it starts', 'Cómo empieza'), h(L(o.start)))}${dd(t('The twist', 'El giro'), h(L(o.twist)))}</dl></article>`;
+ }
+ function renderEncounters() {
+  const X = data.folk.encounter;
+  frame('encounters', `<p class="adv-lead">${t('What the road has in store: beasts, foes, travelers, a sign or a find, the weather, and now and then a Savage Lord’s progeny. A fight is sized to your party by the 2024 rules’ XP budget.', 'Lo que el camino tiene guardado: bestias, enemigos, viajeros, una señal o un hallazgo, el clima, y de vez en cuando la progenie de un Señor Salvaje. Una pelea se ajusta a tu grupo con el presupuesto de XP de las reglas de 2024.')}</p>
+  <section class="adv-panel"><div class="adv-controls">
+  <label class="pack-label">${t('Region', 'Región')}${sel('en-region', X.regions.map(r => [r[0], L(r.slice(1, 3))]), en.region)}</label>
+  <label class="pack-label">${t('Terrain', 'Terreno')}<select id="en-terrain">${options(X.terrain[en.region].map(x => [x[0], cap1(L(x.slice(1, 3)))]), en.terrain, t('Any', 'Cualquiera'))}</select></label>
+  <label class="pack-label">${t('Season', 'Estación')}${sel('en-season', X.seasons.map(s => [s[0], L(s.slice(1, 3))]), en.season)}</label>
+  <label class="pack-label">${t('Time', 'Hora')}${sel('en-time', [['day', t('Day', 'Día')], ['night', t('Night', 'Noche')]], en.time)}</label>
+  <label class="pack-label">${t('Party level', 'Nivel del grupo')}${num('en-level', en.level, 1, 20)}</label>
+  <label class="pack-label">${t('Characters', 'Personajes')}${num('en-size', en.size, 1, 8)}</label>
+  <label class="pack-label">${t('Difficulty', 'Dificultad')}${sel('en-diff', DIFF.map((d, i) => [i, L(d.slice(1, 3))]), en.diff)}</label>
+  <label class="pack-label">${t('What kind', 'Qué tipo')}<select id="en-kind">${options([['fight', t('A fight', 'Una pelea')], ['calm', t('Not a fight', 'Sin pelea')]], en.kind, t('Anything', 'Cualquier cosa'))}</select></label></div>
+  <div class="pack-actions"><button type="button" class="button" id="en-go">${t('Take the road', 'Tomar el camino')} <span aria-hidden="true">✦</span></button></div>
+  <div id="en-out" aria-live="polite">${encounterOut()}</div>
+  <p class="adv-note">${t('Beasts with a page in the atlas keep their stat block there; common beasts use the 2024 rules’ stat block of that name. The Bestiary’s Game Master parts are never rolled here.', 'Las bestias con página en el atlas tienen su stat block ahí; las bestias comunes usan el stat block de ese nombre de las reglas de 2024. Las partes del Bestiario para el Máster nunca salen aquí.')} <a href="#category/creature">${t('Beasts and companions', 'Bestias y compañeros')}</a> · <a href="#entry/savage-lords">${t('The Savage Lords', 'Los Señores Salvajes')}</a></p></section>`);
+  const bind = (id, k, num) => $('#' + id).addEventListener('input', e => {en[k] = num ? +e.target.value : e.target.value;});
+  $('#en-region').addEventListener('input', e => {en.region = e.target.value; en.terrain = ''; $('#en-terrain').innerHTML = options(X.terrain[en.region].map(x => [x[0], cap1(L(x.slice(1, 3)))]), '', t('Any', 'Cualquiera'));});
+  bind('en-terrain', 'terrain'); bind('en-season', 'season'); bind('en-time', 'time'); bind('en-level', 'level', true); bind('en-size', 'size', true); bind('en-diff', 'diff', true); bind('en-kind', 'kind');
+  $('#en-go').addEventListener('click', () => {en.out = rollEncounter(); en.lead = false; $('#en-out').innerHTML = encounterOut();});
+  $('#en-out').addEventListener('click', e => {if(e.target.closest('[data-lead]')) {en.lead = !en.lead; $('#en-out').innerHTML = encounterOut();}});
+  bindCopy($('#en-out'));
+ }
+ function encounterOut() {
+  if(!en.out) return `<p class="adv-empty">${t('Set the road and the party, and take it.', 'Elige el camino y el grupo, y tómalo.')}</p>`;
+  return `<div class="adv-sheet-actions">${copyButton('en-sheet')}</div>${encounterSheet(en.out)}${en.lead && en.out.lead ? npcSheet(en.out.lead, 'en-lead') : ''}`;
+ }
+ const regionName = id => {
+  const r = data.folk.npc.regions.find(x => x[0] === id) || data.folk.encounter.regions.find(x => x[0] === id);
+  return r ? L(r.slice(1, 3)) : t('At sea', 'En el mar');
+ };
+
  function route(view, parts) {
   if(view !== 'adventurers') return false;
   const draw = () => {
    if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
    if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
-   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else if(parts[1] === 'coinsday') renderCoinsday(); else if(parts[1] === 'black-market') renderBlack(); else renderNames();
+   if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else if(parts[1] === 'coinsday') renderCoinsday(); else if(parts[1] === 'black-market') renderBlack(); else if(parts[1] === 'folk') renderFolk(); else if(parts[1] === 'tavern') renderTavern(); else if(parts[1] === 'encounters') renderEncounters(); else renderNames();
   };
   if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;
