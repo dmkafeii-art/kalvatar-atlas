@@ -350,7 +350,7 @@
    "chainbreakers",
    "brassfield",
    "mirehorn",
-   "sandpearl"
+   "drinkseed"
   ]
  },
  {
@@ -14368,8 +14368,8 @@
    {
     "title": "The fen country",
     "paragraphs": [
-     "Around the stilt-town lies the fen country: dykes, reed-beds, peat-cuts, and the flooded fields where sandpearl grows. The mirehorns that plough them are kept by children, who ride them along the dykes with reed pipes, and every beast wears a bell with its own note, because in the Duskmire fog you cannot see a herd, only hear it. *In Duskmire you count the bells.*",
-     "In Halvenir the whole fen turns out for the Treading, when the mirehorns tread the sandpearl harvest and the sand-smoke hangs over the reeds at dusk."
+     "Around the stilt-town lies the fen country: dykes, reed-beds, peat-cuts, and the flooded fields where drinkseed grows. The mirehorns that plough them are kept by children, who ride them along the dykes with reed pipes, and every beast wears a bell with its own note, because in the Duskmire fog you cannot see a herd, only hear it. *In Duskmire you count the bells.*",
+     "In Halvenir the whole fen turns out for the Treading, when the mirehorns tread the drinkseed harvest and the sand-smoke hangs over the reeds at dusk."
     ]
    },
    {
@@ -14395,7 +14395,7 @@
    "below",
    "ottar-glimm",
    "mirehorn",
-   "sandpearl"
+   "drinkseed"
   ],
   "translations": {
    "es": "complete"
@@ -41136,7 +41136,7 @@
    "the-great-flows",
    "swords-and-hunters",
    "driftborn",
-   "sandpearl"
+   "drinkseed"
   ]
  },
  {
@@ -57729,7 +57729,7 @@
   "creatureKind": "working",
   "region": "All regions",
   "subtitle": "The water-ox of the fens and the deltas, called the wallow-ox in the south",
-  "summary": "A broad, black, patient water-ox that ploughs the wet fields, hauls reed and peat through the mud, and treads the sandpearl harvest. Duskmire calls it the mirehorn; the southern deltas call it the wallow-ox. It will not be hurried, and it never forgets a face.",
+  "summary": "A broad, black, patient water-ox that ploughs the wet fields, hauls reed and peat through the mud, and treads the drinkseed harvest. Duskmire calls it the mirehorn; the southern deltas call it the wallow-ox. It will not be hurried, and it never forgets a face.",
   "facts": [
    [
     "Kind",
@@ -57745,7 +57745,7 @@
    ],
    [
     "Works",
-    "ploughs the wet fields, hauls reed and peat, treads the sandpearl"
+    "ploughs the wet fields, hauls reed and peat, treads the drinkseed"
    ],
    [
     "Gives",
@@ -57765,7 +57765,7 @@
    {
     "title": "The work",
     "paragraphs": [
-     "A mirehorn is a broad, heavy water-ox with great swept horns, a wide wet nose, and the patience of the mud it lives in. It ploughs the flooded fields where sandpearl grows, drags reed and peat carts where a horse would sink to the belly, and at harvest walks round and round the threshing floor until the grain falls out of the heads. It gives milk for a soft white fen-cheese, and its dung, dried, keeps the fire going in country that has no wood.",
+     "A mirehorn is a broad, heavy water-ox with great swept horns, a wide wet nose, and the patience of the mud it lives in. It ploughs the flooded fields where drinkseed grows, drags reed and peat carts where a horse would sink to the belly, and at harvest walks round and round the threshing floor until the grain falls out of the heads. It gives milk for a soft white fen-cheese, and its dung, dried, keeps the fire going in country that has no wood.",
      "It is the poor farmer's beast. A trained Loamback costs 100 Anchors and needs a Sukuun-trained handler; a mirehorn costs about 20, and needs a child with a stick."
     ]
    },
@@ -57844,7 +57844,7 @@
    }
   ],
   "related": [
-   "sandpearl",
+   "drinkseed",
    "duskmire-haven",
    "mirewallow",
    "loamback",
@@ -57862,8 +57862,8 @@
   }
  },
  {
-  "id": "sandpearl",
-  "title": "Sandpearl",
+  "id": "drinkseed",
+  "title": "Drinkseed",
   "category": "culture",
   "region": "All regions",
   "subtitle": "The grain of the wet fields: sand when it is dry, a meal when it is wet",
@@ -57895,13 +57895,13 @@
    ]
   ],
   "aliases": [
-   "sandpearls"
+   "drink-seed"
   ],
   "sections": [
    {
     "title": "What it is",
     "paragraphs": [
-     "Sandpearl is the seed of a low water-grass with feathery heads, grown standing in water. The grains are tiny, no bigger than coarse sand, tan to silver, and almost gritty between the fingers. Put them in water and they drink it: each swells to three times its size inside a soft, clear, clinging coat, and a handful becomes a bowlful. Steamed, it is fluffy and loose; boiled, it is soft and sticky; ground, it makes flat cakes that keep a week.",
+     "Drinkseed is the seed of a low water-grass with feathery heads, grown standing in water. The grains are tiny, no bigger than coarse sand, tan to silver, and almost gritty between the fingers. Put them in water and they drink it, which is how it got its name: each swells to three times its size inside a soft, clear, clinging coat, and a handful becomes a bowlful. Steamed, it is fluffy and loose; boiled, it is soft and sticky; ground, it makes flat cakes that keep a week.",
      "It is cheap, filling, and dull, which is why everyone eats it and nobody writes songs about it."
     ]
    },
@@ -57918,7 +57918,7 @@
    {
     "title": "At sea",
     "paragraphs": [
-     "Sandpearl does not rot, does not grow weevils if it is kept dry, and swells in seawater as well as fresh. Every ship in the islands carries it, and the Armada carries more than anyone. Sailors call it *sand*, and complain about it in every port. A sack of it is *a week in a fist*: a fistful of dry grain makes a sailor's meal."
+     "Drinkseed does not rot, does not grow weevils if it is kept dry, and swells in seawater as well as fresh. Every ship in the islands carries it, and the Armada carries more than anyone. Sailors call it *sand*, and complain about it in every port. A sack of it is *a week in a fist*: a fistful of dry grain makes a sailor's meal."
     ]
    },
    {
@@ -57936,24 +57936,24 @@
     "title": "Customs",
     "paragraphs": [],
     "list": [
-     "**The wedding handful.** At a fen wedding the guests throw dry sandpearl over the couple. It swells in the rain, like a family.",
-     "**The sailor's last handful.** A sailor going on a long voyage leaves a handful of dry sandpearl in a dish by the door. If it is still dry when they come home, the house kept faith.",
-     "**Board-price.** Sandpearl is called with the other grains on the Spire Floor every Coinsday, and a bad harvest at Duskmire is felt in every galley in the islands."
+     "**The wedding handful.** At a fen wedding the guests throw dry drinkseed over the couple. It swells in the rain, like a family.",
+     "**The sailor's last handful.** A sailor going on a long voyage leaves a handful of dry drinkseed in a dish by the door. If it is still dry when they come home, the house kept faith.",
+     "**Board-price.** Drinkseed is called with the other grains on the Spire Floor every Coinsday, and a bad harvest at Duskmire is felt in every galley in the islands."
     ]
    },
    {
     "title": "Adventure hooks",
     "paragraphs": [],
     "list": [
-     "Someone is buying every sack of sandpearl in Goldwind before the Treading. The price has doubled, and the Armada's victuallers are furious.",
-     "A ship's sandpearl has swelled in its sacks overnight, dry, in a dry hold. The cook will not touch it, and neither will the rats."
+     "Someone is buying every sack of drinkseed in Goldwind before the Treading. The price has doubled, and the Armada's victuallers are furious.",
+     "A ship's drinkseed has swelled in its sacks overnight, dry, in a dry hold. The cook will not touch it, and neither will the rats."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
      "“A man can live on sand for a year. I did. I wouldn't recommend it.” (an Armada gunner)",
-     "“Duskmire sandpearl is sweeter than the delta kind. The delta says the same about theirs.” (a Goldwind cookshop keeper)",
+     "“Duskmire drinkseed is sweeter than the delta kind. The delta says the same about theirs.” (a Goldwind cookshop keeper)",
      "“If the Treading sand-smoke blows west, it's a hard winter.” (a Duskmire herd-child)"
     ]
    }

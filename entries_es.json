@@ -6074,8 +6074,8 @@
    {
     "title": "La tierra de la ciénaga",
     "paragraphs": [
-     "Alrededor del pueblo sobre pilotes está la tierra de la ciénaga: diques, juncales, cortes de turba y los campos inundados donde crece la perlarena. A los cuernociénagas que los aran los cuidan los niños, que los montan por los diques con flautas de junco, y cada animal lleva un cencerro con su propia nota, porque en la niebla del Pantano del Ocaso a un hato no se le ve, solo se le oye. *En el Pantano del Ocaso uno cuenta campanas.*",
-     "En Halvenir toda la ciénaga sale para la Pisada, cuando los cuernociénagas pisan la cosecha de perlarena y el humo de arena cuelga sobre los juncos al anochecer."
+     "Alrededor del pueblo sobre pilotes está la tierra de la ciénaga: diques, juncales, cortes de turba y los campos inundados donde crece el bebegrano. A los cuernociénagas que los aran los cuidan los niños, que los montan por los diques con flautas de junco, y cada animal lleva un cencerro con su propia nota, porque en la niebla del Pantano del Ocaso a un hato no se le ve, solo se le oye. *En el Pantano del Ocaso uno cuenta campanas.*",
+     "En Halvenir toda la ciénaga sale para la Pisada, cuando los cuernociénagas pisan la cosecha de bebegrano y el humo de arena cuelga sobre los juncos al anochecer."
     ]
    },
    {
@@ -17871,7 +17871,7 @@
  "mirehorn": {
   "title": "Cuernociénaga",
   "subtitle": "El buey de agua de las ciénagas y los deltas, que en el sur llaman buey de charca",
-  "summary": "Un buey de agua ancho, negro y paciente que ara los campos inundados, arrastra junco y turba por el barro y pisa la cosecha de perlarena. El Pantano del Ocaso lo llama cuernociénaga; los deltas del sur lo llaman buey de charca. No se deja apurar, y nunca olvida una cara.",
+  "summary": "Un buey de agua ancho, negro y paciente que ara los campos inundados, arrastra junco y turba por el barro y pisa la cosecha de bebegrano. El Pantano del Ocaso lo llama cuernociénaga; los deltas del sur lo llaman buey de charca. No se deja apurar, y nunca olvida una cara.",
   "facts": [
    [
     "Tipo",
@@ -17887,7 +17887,7 @@
    ],
    [
     "Trabajo",
-    "ara los campos inundados, arrastra junco y turba, pisa la perlarena"
+    "ara los campos inundados, arrastra junco y turba, pisa el bebegrano"
    ],
    [
     "Da",
@@ -17902,7 +17902,7 @@
    {
     "title": "El trabajo",
     "paragraphs": [
-     "Un cuernociénaga es un buey de agua ancho y pesado, de grandes cuernos echados hacia atrás, nariz ancha y húmeda, y la paciencia del barro en que vive. Ara los campos inundados donde crece la perlarena, arrastra carretas de junco y de turba donde un caballo se hundiría hasta la panza, y en la cosecha da vueltas y vueltas por la era hasta que el grano se cae de las espigas. Da leche para un queso de ciénaga blanco y blando, y su bosta, seca, mantiene el fuego en una tierra que no tiene leña.",
+     "Un cuernociénaga es un buey de agua ancho y pesado, de grandes cuernos echados hacia atrás, nariz ancha y húmeda, y la paciencia del barro en que vive. Ara los campos inundados donde crece el bebegrano, arrastra carretas de junco y de turba donde un caballo se hundiría hasta la panza, y en la cosecha da vueltas y vueltas por la era hasta que el grano se cae de las espigas. Da leche para un queso de ciénaga blanco y blando, y su bosta, seca, mantiene el fuego en una tierra que no tiene leña.",
      "Es la bestia del campesino pobre. Un Lomogreda entrenado cuesta 100 Anclas y necesita un domador formado por los Sukuun; un cuernociénaga cuesta unas 20, y necesita un niño con una vara."
     ]
    },
@@ -17982,8 +17982,8 @@
   ],
   "gloss": "Mirehorn"
  },
- "sandpearl": {
-  "title": "Perlarena",
+ "drinkseed": {
+  "title": "Bebegrano",
   "subtitle": "El grano de los campos inundados: arena cuando está seco, comida cuando está mojado",
   "summary": "Un grano diminuto, color arena, que se cultiva en campos inundados en el Pantano del Ocaso y en los deltas del sur. Seco es casi arenoso y dura años; en el agua se hincha al triple de su tamaño dentro de una capa suave y pegajosa. Es el pan de los pobres, la ración del marinero y la razón de que el cuernociénaga tenga trabajo.",
   "facts": [
@@ -18016,8 +18016,8 @@
    {
     "title": "Qué es",
     "paragraphs": [
-     "La perlarena es la semilla de una hierba de agua baja de espigas plumosas, que crece con los pies en el agua. Los granos son diminutos, no más grandes que la arena gruesa, de color tostado a plateado, y casi arenosos entre los dedos. Échalos al agua y se la beben: cada uno se hincha al triple de su tamaño dentro de una capa suave, clara y pegajosa, y un puñado se vuelve un plato. Al vapor queda esponjosa y suelta; hervida, blanda y pegajosa; molida, da tortas planas que duran una semana.",
-     "Es barata, llena y aburrida, por eso todo el mundo la come y nadie le escribe canciones."
+     "El bebegrano es la semilla de una hierba de agua baja de espigas plumosas, que crece con los pies en el agua. Los granos son diminutos, no más grandes que la arena gruesa, de color tostado a plateado, y casi arenosos entre los dedos. Échalos al agua y se la beben, y de ahí le viene el nombre: cada uno se hincha al triple de su tamaño dentro de una capa suave, clara y pegajosa, y un puñado se vuelve un plato. Al vapor queda esponjoso y suelto; hervido, blando y pegajoso; molido, da tortas planas que duran una semana.",
+     "Es barato, llenador y aburrido, por eso todo el mundo lo come y nadie le escribe canciones."
     ]
    },
    {
@@ -18033,46 +18033,46 @@
    {
     "title": "En el mar",
     "paragraphs": [
-     "La perlarena no se pudre, no cría gorgojos si se mantiene seca, y se hincha en agua de mar igual que en agua dulce. Todos los barcos de las islas la llevan, y la Armada más que nadie. Los marineros le dicen *arena*, y se quejan de ella en todos los puertos. Un saco es *una semana en un puño*: un puñado de grano seco hace la comida de un marinero."
+     "El bebegrano no se pudre, no cría gorgojos si se mantiene seco, y se hincha en agua de mar igual que en agua dulce. Todos los barcos de las islas lo llevan, y la Armada más que nadie. Los marineros le dicen *arena*, y se quejan de él en todos los puertos. Un saco es *una semana en un puño*: un puñado de grano seco hace la comida de un marinero."
     ]
    },
    {
     "title": "Un plato por región",
     "paragraphs": [],
     "list": [
-     "**El [[Corazón|Heartland]]** la hace al vapor, esponjosa, con mantequilla y queso de ciénaga desmenuzado, y la come con todo.",
-     "**El sur** la hierve blanda con pescado y ají de fuego, y la come sobre una hoja con los dedos.",
-     "**La [[Frontera|Frontier]]** la cocina espesa con pescado salado y mantequilla, y la llama gachas, desafiante.",
-     "**El hielo** la cocina con grasa, como todo lo demás.",
-     "**A bordo** se deja en remojo toda la noche en un balde y se come fría en la mañana, con lo que el cocinero quiera soltar."
+     "**El [[Corazón|Heartland]]** lo hace al vapor, esponjoso, con mantequilla y queso de ciénaga desmenuzado, y lo come con todo.",
+     "**El sur** lo hierve blando con pescado y ají de fuego, y lo come sobre una hoja con los dedos.",
+     "**La [[Frontera|Frontier]]** lo cocina espeso con pescado salado y mantequilla, y lo llama gachas, desafiante.",
+     "**El hielo** lo cocina con grasa, como todo lo demás.",
+     "**A bordo** se deja en remojo toda la noche en un balde y se come frío en la mañana, con lo que el cocinero quiera soltar."
     ]
    },
    {
     "title": "Costumbres",
     "paragraphs": [],
     "list": [
-     "**El puñado de boda.** En una boda de la ciénaga, los invitados les tiran perlarena seca a los novios. Se hincha con la lluvia, como una familia.",
-     "**El último puñado del marinero.** Un marinero que sale a un viaje largo deja un puñado de perlarena seca en un plato junto a la puerta. Si sigue seca cuando vuelve, la casa le fue fiel.",
-     "**El precio de tablero.** La perlarena se canta con los demás granos en el [[Piso de la Aguja|Spire Floor]] cada [[Monedía|Coinsday]], y una mala cosecha en el Pantano del Ocaso se siente en todas las cocinas de barco de las islas."
+     "**El puñado de boda.** En una boda de la ciénaga, los invitados les tiran bebegrano seco a los novios. Se hincha con la lluvia, como una familia.",
+     "**El último puñado del marinero.** Un marinero que sale a un viaje largo deja un puñado de bebegrano seco en un plato junto a la puerta. Si sigue seco cuando vuelve, la casa le fue fiel.",
+     "**El precio de tablero.** El bebegrano se canta con los demás granos en el [[Piso de la Aguja|Spire Floor]] cada [[Monedía|Coinsday]], y una mala cosecha en el Pantano del Ocaso se siente en todas las cocinas de barco de las islas."
     ]
    },
    {
     "title": "Ganchos de aventura",
     "paragraphs": [],
     "list": [
-     "Alguien está comprando cada saco de perlarena de [[Ventoro|Goldwind]] antes de la Pisada. El precio se duplicó, y los proveedores de la Armada están furiosos.",
-     "La perlarena de un barco se hinchó en sus sacos en una noche, seca, en una bodega seca. El cocinero no la quiere tocar, y las ratas tampoco."
+     "Alguien está comprando cada saco de bebegrano de [[Ventoro|Goldwind]] antes de la Pisada. El precio se duplicó, y los proveedores de la Armada están furiosos.",
+     "El bebegrano de un barco se hinchó en sus sacos en una noche, seco, en una bodega seca. El cocinero no lo quiere tocar, y las ratas tampoco."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
      "“Uno puede vivir de arena un año. Yo lo hice. No lo recomiendo.” (un artillero de la Armada)",
-     "“La perlarena del Pantano del Ocaso es más dulce que la de los deltas. Los deltas dicen lo mismo de la suya.” (el dueño de una fonda de Ventoro)",
+     "“El bebegrano del Pantano del Ocaso es más dulce que el de los deltas. Los deltas dicen lo mismo del suyo.” (el dueño de una fonda de Ventoro)",
      "“Si el humo de arena de la Pisada sopla hacia el oeste, viene un invierno duro.” (un niño del hato del Pantano del Ocaso)"
     ]
    }
   ],
-  "gloss": "Sandpearl"
+  "gloss": "Drinkseed"
  }
 }
