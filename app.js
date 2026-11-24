@@ -255,6 +255,11 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "goldwind-kites": ["scenes", "A patchwork fish kite rises above Goldwind.", "Una cometa de retazos en forma de pez se eleva sobre Goldwind.", "goldwind-kites", {"width": 1536, "height": 864}],
+ "chainbreakers": ["scenes", "Freed miners burn a debt ledger at dawn.", "Los mineros liberados queman un libro de deudas al amanecer.", "chainbreakers", {"width": 1536, "height": 864}],
+ "savannas": ["scenes", "Centaurs follow the well road ahead of a storm.", "Los centauros siguen la ruta de los pozos antes de la tormenta.", "savannas", {"width": 1536, "height": 786}],
+ "naxtumen": ["scenes", "A chant-keeper sees a ship in the smoke.", "Una guardiana de los cantos ve un barco en el humo.", "naxtumen", {"width": 1536, "height": 864}],
+ "coinsday-reading": ["scenes", "A runner waits as the prices are read at noon.", "Una mensajera espera durante la lectura de precios al mediodía.", "coinsday-reading", {"width": 1536, "height": 864}],
  "drinkseed": ["scenes", "Drinkseed soaks in a fen kitchen.", "El drinkseed se remoja en una cocina del pantano.", "drinkseed", {"width": 1536, "height": 1024}],
  "the-grandfather": ["scenes", "A living shoot catches the light on the Grandfather.", "Un brote del árbol ancestral recibe la luz.", "the-grandfather", {"width": 1536, "height": 864}],
  "blue-folk": ["scenes", "Travelers draw water at a well in the dry isles.", "Unos viajeros sacan agua de un pozo en las islas secas.", "blue-folk", {"width": 1536, "height": 864}],
