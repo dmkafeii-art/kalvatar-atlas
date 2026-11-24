@@ -4964,7 +4964,7 @@
   "subtitle": "El clan antes que uno mismo",
   "summary": "Gente de escamas del continente que cruza el estrecho como refugiados, exiliados y comerciantes de la larga guerra.",
   "epigraph": {
-   "quote": "Le arrancamos la insignia del Emperador a nuestras casacas. Dejamos las puntadas, para acordarnos de por qué.",
+   "quote": "Nos arrancamos la insignia del Emperador de los abrigos. Nos quedamos con las puntadas, para recordar por qué.",
    "by": "Un veterano dracónido en una taberna de la Frontera"
   },
   "facts": [
@@ -4978,7 +4978,50 @@
    ]
   ],
   "title": "Los Dracónidos",
-  "gloss": "The Dragonborn"
+  "gloss": "The Dragonborn",
+  "sections": [
+   {
+    "title": "Una herencia del continente",
+    "paragraphs": [
+     "Los dracónidos traen consigo la formalidad de Assios, ya sea que la conserven o que la rechacen a propósito. El clan y el deber importan mucho; un juramento se toma despacio y se sostiene firme. Los kóbolds suelen saludarlos como parientes lejanos de los dragones, un parentesco que nadie pidió y que la mayoría soporta con una gracia cansada."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Abrigos del continente de cuello alto, ajustados alrededor de las escamas y la cresta, con los colores del clan en la faja. Algunos se quitan las insignias imperiales y llevan a la vista las marcas de las puntadas como una declaración."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Korrath, Sazkhan, Merrash, Ilzara y Ozreth. El clan va antes que uno mismo en importancia: Korrath del Clan Ossarim."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los dracónidos cruzaron el estrecho desde Assios en la larga guerra, y llevan el continente en el porte: la formalidad imperial guardada por costumbre, o desafiada con la misma precisión. Son de clan, cumplidores y lentos para jurar, y una vez que juran no rompen el juramento."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: unos ochenta años.",
+     "Aspecto: con escamas, cresta y altos, con el color del linaje del clan en las escamas.",
+     "Tierra natal: el continente de Assios, hace tres generaciones o una; en las islas, casas de clan en los puertos de la [[Frontera|Frontier]] y en [[Ventoro|Goldwind]].",
+     "Fe: los antepasados del clan, y lo que sea que el clan haya jurado en el continente.",
+     "Temperamento: cumplidores y precisos. El alegre caos de las islas les parece a ratos liberador y a ratos espantoso.",
+     "Muchos se quitan las viejas insignias imperiales y llevan con orgullo las marcas desnudas de las puntadas, cosa que en cualquier taberna de la Frontera vale una bebida pagada."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un veterano dracónido de Bastión todavía lleva su insignia imperial, y la guarnición decidió dejarlo.” (se oye en Bastión)"
+    ]
+   }
+  ]
  },
  "dwarves": {
   "subtitle": "El pueblo de la Cuenta",
@@ -5182,15 +5225,15 @@
  },
  "gnomes": {
   "subtitle": "La gente de la chispa",
-  "summary": "Hojalateros, pulidores de lentes y relojeros que toman un mecanismo cerrado como una invitación.",
+  "summary": "Hojalateros, pulidores de lentes y relojeros para quienes un mecanismo cerrado es una invitación.",
   "epigraph": {
-   "quote": "El hollín es la prueba del trabajo honrado. Un gnomo limpio o es nuevo o esconde algo.",
-   "by": "Un pulidor de lentes gnomo"
+   "quote": "El hollín es la prueba del trabajo honrado. Un gnomo limpio o es nuevo o está escondiendo algo.",
+   "by": "Un gnomo pulidor de lentes"
   },
   "facts": [
    [
-    "Patrón",
-    "Tik, la Chispa que Remienda"
+    "Patrono",
+    "Tik, la [[Chispa que Trastea|Tinkering Spark]]"
    ],
    [
     "Oficios",
@@ -5198,39 +5241,129 @@
    ]
   ],
   "title": "Los Gnomos",
-  "gloss": "The Gnomes"
+  "gloss": "The Gnomes",
+  "sections": [
+   {
+    "title": "La Chispa que Trastea",
+    "paragraphs": [
+     "Los gnomos honran a Tik, cuyos seguidores creen que casi todo se puede mejorar. Los pueblos del [[Consejo|Council]] dependen de sus aparatos y conocen sus talleres tanto por los incendios pequeños como por los inventos ingeniosos."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Chalecos de muchos bolsillos, bandoleras de herramientas, gorras de colores y lupas que dejan las manos libres para trabajar. El hollín es una señal respetable de esfuerzo."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Fizzet, Nimna, Wexle, Pemmi y Quillo; entre los nombres de taller están Altomuelle, Plumacobre y Valleengranaje."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Toda la teología de los gnomos es que todo se puede mejorar y que casi todo hay que abrirlo primero. Son infinitamente curiosos, incapaces de nacimiento de dejar cerrado un mecanismo, y responsables, según su propia cuenta alegre, de un cuarto de los aparatos ingeniosos de las islas y de la mitad de sus incendios pequeños."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: unos cuatro siglos.",
+     "Aspecto: pequeños, rápidos y de ojos brillantes, casi siempre con un monóculo de aumento subido a la gorra.",
+     "Tierra natal: los talleres de los pueblos del Consejo, las tiendas de lentes de [[Aguja Alta|Highspire]] y (para los gnomos del borde verde) los márgenes más salvajes del [[Corazón|Heartland]] y del sur.",
+     "Temperamento: curiosos, inventivos y constitucionalmente incapaces de dejar las cosas en paz.",
+     "El hollín se considera prueba de trabajo honrado."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un taller gnomo de Ventoro construyó un reloj que anda hacia atrás durante los Días Quietos.” (se oye en Ventoro)"
+    ]
+   }
+  ]
  },
  "goblinoids": {
   "subtitle": "Los hijos del Skarn",
-  "summary": "Gente de madrigueras, chatarreros inventivos y comerciantes avispados cuyo credo pone la supervivencia por encima de la gloria.",
+  "summary": "Gente de madriguera, chatarreros y comerciantes astutos cuyo credo valora sobrevivir más que la gloria.",
   "epigraph": {
-   "quote": "Cada cosa que llevo puesta me la gané. Pregúntame por el sombrero. No, de verdad, pregúntame por el sombrero.",
-   "by": "Un comerciante goblin en el Nudo"
+   "quote": "Cada cosa que llevo puesta, me la gané. Pregúntame por el sombrero. No, pregúntame por el sombrero.",
+   "by": "Un comerciante trasgo en el Nudo"
   },
   "facts": [
    [
-    "Patrón",
+    "Patrono",
     "El Skarn"
    ],
    [
-    "Se distingue por",
+    "Conocidos por",
     "La chatarra y la supervivencia"
    ]
   ],
   "title": "Los Goblinoides",
-  "gloss": "The Goblinoids"
+  "gloss": "The Goblinoids",
+  "sections": [
+   {
+    "title": "El credo del sobreviviente",
+    "paragraphs": [
+     "Los trasgos, los hobgoblins y sus parientes honran al Skarn: los pequeños y astutos sobreviven a los grandes y orgullosos. Viven en los bordes de los asentamientos y en los puertos bravos, casi siempre subestimados por la misma gente que depende de su trabajo."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Galas que no combinan y chatarra lucida con orgullo registran victorias personales. Cada pieza tiene una historia; un conjunto que combina perfecto es lo bastante raro para despertar preguntas."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Skitt, Nakka, Grib, Motch y Rezzi. Los epítetos se ganan: Grib Dos-Veces-Vendido, Nakka Bajo-los-Pies."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los goblinoides son la gente de madriguera de los bordes de los asentamientos y de los puertos bravos: chatarreros, comerciantes astutos y sobrevivientes más astutos todavía. No tienen tronos ni acumulan gloria, y sobreviven a todos los que sí. Despreciados seguido, subestimados siempre, indispensables al final."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: los trasgos, unos sesenta años; los hobgoblins y los osgos, unos ochenta.",
+     "Aspecto: los trasgos, pequeños y de orejas puntiagudas; los hobgoblins, erguidos y soldadescos; los osgos, altos, peludos y mucho más callados de lo que parecen.",
+     "Tierra natal: las madrigueras al borde de cada asentamiento, los depósitos de chatarra y los puertos bravos.",
+     "Temperamento: prácticos, oportunistas, ferozmente leales a la madriguera y alérgicos a cualquiera que los mire desde arriba.",
+     "Ropa: chatarra lucida con orgullo, en capas y sin combinar, cada pieza un trofeo con una historia. Un goblinoide con ropa que combina o está de luto o está tramando algo."
+    ]
+   },
+   {
+    "title": "El cuenco del primo",
+    "paragraphs": [
+     "En cada uno de los [[Días Quietos|Still Days]] una madriguera deja un cuenco de comida afuera de su puerta y no mira quién se lo lleva. Es para los primos que no salieron: las huestes de trasgos encerradas en el [[Feérico|Faewild]] cuando se levantó el [[Velo|Veil]], y lo que se han vuelto. De una madriguera que se olvida del cuenco se habla."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un trasgo del Nudo lleva puesto un sombrero de almirante del Consejo y tiene una historia muy buena sobre eso.” (se oye en el Nudo)"
+    ]
+   }
+  ]
  },
  "goliaths": {
   "subtitle": "Una vida medida en hazañas",
-  "summary": "Gente de clan de las altas cordilleras, de piel de piedra, que cuenta cada escalada, cada carga y cada logro.",
+  "summary": "Gente de clan de piel de piedra de las cordilleras altas que cuenta cada escalada, cada peso cargado y cada logro.",
   "epigraph": {
    "quote": "Cada cuenta es una montaña. Cuéntalas, y después dime que estoy presumiendo.",
-   "by": "Un escalador goliath"
+   "by": "Un escalador goliat"
   },
   "facts": [
    [
     "Hogar",
-    "Las altas cordilleras"
+    "Las cordilleras altas"
    ],
    [
     "Fe",
@@ -5238,34 +5371,113 @@
    ]
   ],
   "title": "Los Goliats",
-  "gloss": "The Goliaths"
+  "gloss": "The Goliaths",
+  "sections": [
+   {
+    "title": "Primos en la fe",
+    "paragraphs": [
+     "Los goliats comparten con los vorthani las cumbres altas, los funerales y la ley del huésped. Guardan los ritos de Vorthung junto a los de Khaurun, respetan la disciplina de los monjes y siguen con sus propias competencias de toda la vida."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Pieles y fajas de cuentas de piedra que dejan al descubierto los brazos y los hombros fuertes. Las cuentas registran hazañas y son una medida visible de lo logrado."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Torug, Menhira, Karrak, Osska y Dhurra. Después vienen los nombres de hazaña: Karrak Siete-Picos, Menhira Aguafría."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Donde los vorthani lo guardan todo, los goliats lo cuentan todo: cada escalada, cada peso cargado, cada hazaña se puntúa, se supera y se recuerda. La vida de un goliat es una larga competencia amistosa con todos los que ha conocido, incluidos los muertos."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: unos noventa años.",
+     "Aspecto: piel gris con dibujos de piedra, casi siempre calvos, con los brazos y los hombros desnudos al frío como disciplina y como marcador.",
+     "Linaje en las islas: el [[Trueno de la tormenta|Storm's Thunder]] y el [[Salto de las nubes|Cloud's Jaunt]] son comunes en los acantilados altos del mar; el [[Escalofrío de la escarcha|Frost's Chill]], en el extremo sur; la [[Resistencia de la piedra|Stone's Endurance]] y el [[Derribo de las colinas|Hill's Tumble]], en la [[Sierra del Yunque|Anvil Reach]]; la [[Quemadura del fuego|Fire's Burn]], en las islas volcánicas.",
+     "Temperamento: competitivos, alegres y justos. Hacer trampa en una competencia es la única vergüenza de verdad.",
+     "Ropa: pieles y fajas de cuentas de piedra; las cuentas son el recuento de las hazañas."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un goliat bajó de las cordilleras altas con una cuenta que nadie tiene derecho a llevar: la de haber escalado el Yunque del Cielo.” (se oye en la Sierra del Yunque)"
+    ]
+   }
+  ]
  },
  "half-elves": {
   "subtitle": "La gente puente",
-  "summary": "Corredores, traductores, capitanes y mediadores que se sienten en casa entre las muchas culturas superpuestas de las islas.",
+  "summary": "Intermediarios, traductores, capitanes y mediadores que se sienten en casa entre las muchas culturas superpuestas de las islas.",
   "epigraph": {
    "quote": "Hablo por los dos lados del muelle. Por eso me pagan los dos lados.",
-   "by": "Un intérprete semielfo de Puerto Plata"
+   "by": "Una intérprete semielfa de Puerto Plata"
   },
   "facts": [
    [
-    "Se encuentran en",
+    "Dónde se encuentran",
     "Puertos y comunidades mezcladas"
    ],
    [
-    "Se distinguen por",
+    "Conocidos por",
     "Los idiomas y la mediación"
    ]
   ],
   "title": "Los Semielfos",
-  "gloss": "The Half-Elves"
+  "gloss": "The Half-Elves",
+  "sections": [
+   {
+    "title": "En dos mesas",
+    "paragraphs": [
+     "Los semielfos son comunes dondequiera que se encuentran los pueblos. Muchos convierten una herencia mezclada en un don para la negociación, y aprenden las costumbres y los silencios de más de una comunidad."
+    ]
+   },
+   {
+    "title": "Ropa y nombres",
+    "paragraphs": [
+     "Mezclas elegidas que expresan qué mundos reclama una persona: una línea élfica en un corte isleño, o los colores de una casa llevados al estilo del sur. Los nombres pueden seguir la costumbre de cualquiera de los dos padres: Lorel Castillogrís, Caelia Veyani o Bryn [[Doraguja|Goldspire]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los puertos están llenos de factores semielfos que pueden cerrar un trato en cuatro idiomas y con una ceja levantada, y muchos hacen una fuerza de la costura sobre la que nacieron."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: más o menos un siglo y tres cuartos.",
+     "Aspecto: un poco de cada padre, y en Kalvatar muchas veces además un poco de tres o cuatro pueblos más.",
+     "Tierra natal: todos los puertos, y sobre todo los barrios de los factores de [[Puerto Sur|Southhaven]], [[Puerto Plata|Silverport]] y [[Ventoro|Goldwind]].",
+     "Fe: la que guardaban sus padres, o la que pague.",
+     "Temperamento: adaptables y atentos, les cobran las dos mesas y dominan los silencios de cada una.",
+     "Ropa: mezclas hechas a propósito, una línea élfica en un corte isleño, elegidas como una declaración de qué mundos reclaman."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“A una intérprete semielfa de Puerto Plata le ofrecieron una fortuna por traducir mal una sola palabra en la mesa de un tratado.” (se oye en Puerto Plata)"
+    ]
+   }
+  ]
  },
  "halflings": {
   "subtitle": "La buena vida tranquila",
-  "summary": "Cocineros, posaderos, gente del camino y prácticos de río que hacen que la Kalvatar asentada se sienta como un hogar.",
+  "summary": "Cocineros, posaderos, gente del camino y pilotos de río que hacen que la Kalvatar asentada se sienta como un hogar.",
   "epigraph": {
-   "quote": "Pasa, sal de la lluvia. Primero la cena, después los problemas.",
-   "by": "Un posadero halfling"
+   "quote": "Entra, que llueve. Primero la cena, después los problemas.",
+   "by": "Un posadero mediano"
   },
   "facts": [
    [
@@ -5273,56 +5485,197 @@
     "Penny [[Pasoverde|Greenstep]]"
    ],
    [
-    "Se distinguen por",
-    "El hogar, la posada, el río, el camino"
+    "Conocidos por",
+    "Hogar, posada, río, camino"
    ]
   ],
   "title": "Los Medianos",
-  "gloss": "The Halflings"
+  "gloss": "The Halflings",
+  "sections": [
+   {
+    "title": "La mesa bien puesta",
+    "paragraphs": [
+     "Los medianos honran a Penny Pasoverde, santa popular de la suerte y la hospitalidad. El salón común es un lugar excelente para oír aventuras; cuando de verdad llegan los problemas, su serenidad práctica se aprecia tanto como su cocina."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Chalecos cómodos, capas de camino y botas de confianza llevan pequeños amuletos de la suerte: una [[Ola|Bit]] doblada, una piedra de río o el botón de un amigo."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Berrin, Posy, Tamlin, Wick, Marlow y Etta. Teterilla, Pelusacardo, Seto y Pasoverde son nombres conocidos de hogar y de seto."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los medianos sostienen que la aventura es algo que les pasa a otros, idealmente donde se pueda oír desde su salón común. Y sin embargo ningún pueblo es más sereno cuando de verdad se cae el techo, ni más rápido para volver al guiso una vez que se arregló."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: más o menos un siglo y medio.",
+     "Tierra natal: las posadas, las casas de té y los puertos de río de los pueblos del [[Consejo|Council]]; buena parte de la hoja del sur de [[Puerto Sur|Southhaven]] la cultivan medianos.",
+     "Temperamento: amables, imperturbables y muy desconfiados de cualquier cosa que interrumpa la cena."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una posada mediana de los caminos del río del Corazón nunca se ha quedado sin camas, por muchos huéspedes que lleguen.” (se oye en los caminos del río)"
+    ]
+   }
+  ]
  },
  "humans": {
   "subtitle": "Los muchos ríos",
-  "summary": "El pueblo más numeroso de las islas, moldeado por la ascendencia del norte, los antepasados del sur y la vida en el borde del frío.",
+  "summary": "El pueblo más numeroso de las islas, formado por la ascendencia del norte, los antepasados del sur y la vida en el borde frío.",
   "epigraph": {
-   "quote": "El norte nos dio el hierro, el sur nos dio el oro, el hielo nos dio la paciencia. El mar nos dio a los unos y a los otros.",
+   "quote": "El norte nos dio hierro, el sur nos dio oro, el hielo nos dio paciencia. El mar nos dio unos a otros.",
    "by": "Un maestro de escuela de Ventoro"
   },
   "facts": [
    [
     "Raíces del norte",
-    "El Éxodo"
+    "El [[Éxodo|Exodus]]"
    ],
    [
     "Raíces del sur",
-    "Las tribus ancestrales y las Confederaciones"
+    "Tribus ancestrales y Confederaciones"
    ],
    [
-    "Límite del frío",
-    "Balleneros y gente de bastión"
+    "El borde frío",
+    "Balleneros y gente de fortín"
    ]
   ],
   "title": "Los Humanos",
-  "gloss": "The Humans"
+  "gloss": "The Humans",
+  "sections": [
+   {
+    "title": "Tres grandes corrientes",
+    "paragraphs": [
+     "El norte de ascendencia imperial guarda la historia en piedra y en carta, con casas formales, saludos medidos y la memoria del Éxodo.",
+     "Las comunidades ancestrales del sur guardan linajes hablados, tatuajes de historia y la ley del fuego del corazón. Sus historias son anteriores al [[Desembarco|Landing]].",
+     "Los balleneros, los cazadores y la gente de fortín del extremo sur guardan la memoria en tallas de hueso y la ley en el salón del señor del fortín.",
+     "Algunos humanos, unos pocos en cada puerto, empiezan una noche a soñar la orilla lejana, y conservan su toque toda la vida. Las islas los llaman kalashtar, y siguen siendo humanos."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "La lana, el hierro y los colores de la casa son del norte; la moda de la capital prefiere la seda, los sellos y los anillos de cobre. La ropa del sur es suelta, cargada de oro y con tatuajes de historia. El borde frío prefiere la piel y el hueso tallado."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Entre los nombres del norte están Aldric, Maren, Halvis y Selen, con Castillogrís o [[Doraguja|Goldspire]]. Entre los del sur, Jaseh, Lumai, Tiagu y Ayanu, con Veyani u Okonja. El borde frío usa Halvar, Astri, Bjarn y Senna, con Marcaescarcha o Kaldsen."
+    ]
+   },
+   {
+    "title": "Las tres corrientes",
+    "paragraphs": [
+     "Cada corriente sugiere una habilidad para [[Hábil|Skillful]] y una dote de Origen para [[Versátil|Versatile]], aunque cualquier elección está abierta.",
+     "El norte de ascendencia imperial (la [[Frontera|Frontier]] y el [[Corazón|Heartland]]): gente ordenada, formal, de nombre y de casa, que guarda su historia en piedra y en carta. Prueba Historia o Persuasión, y [[Alerta|Alert]] o [[Jurado a la Bandera|Flag-Sworn]].",
+     "Prueba Supervivencia, Medicina o Interpretación, y [[La Línea Hablada|The Spoken Line]] o [[Iniciado en la magia|Magic Initiate]].",
+     "Prueba Atletismo o Supervivencia, y [[Duro|Tough]] o [[Guardián del Fuego|Keeper of the Fire]]."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: unos ochenta años.",
+     "Fe: la [[Concordia|Concord]] en las tierras del [[Consejo|Council]]; Yaxqel y los caminos de los guardacantos en el sur nativo; los Aspectos, crudos y viejos, en el hielo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron a un comerciante de Jakupur y a un señor de la Frontera bebiendo juntos en Ventoro, riéndose. Los dos lo niegan.” (se oye en Ventoro)"
+    ]
+   }
+  ]
  },
  "kobolds": {
   "subtitle": "Los del Bajaescama",
-  "summary": "Pequeña gente de escamas, comunitaria, que se gana la vida en madrigueras, minas y los rincones estrechos bajo los muelles.",
+  "summary": "Pequeña gente de escamas, comunitaria, que se gana la vida en madrigueras, minas y en los espacios estrechos bajo los muelles.",
   "epigraph": {
-   "quote": "Manos pequeñas, túneles pequeños, ideas grandes.",
-   "by": "Un ingeniero de madriguera kobold"
+   "quote": "Manos chicas, túneles chicos, ideas grandes.",
+   "by": "Una ingeniera de madriguera kóbold"
   },
   "facts": [
    [
-    "Patrón",
-    "Vrix, el [[Bajaescama|Underscale]]"
+    "Patrono",
+    "Vrix el [[Bajaescama|Underscale]]"
    ],
    [
-    "Se distinguen por",
-    "Las madrigueras y la ingeniería de espacios estrechos"
+    "Conocidos por",
+    "Las madrigueras y la ingeniería de espacios pequeños"
+   ],
+   [
+    "Estatura",
+    "Unos 3 pies / 90 cm; Pequeño"
    ]
   ],
   "title": "Los Kóbolds",
-  "gloss": "The Kobolds"
+  "gloss": "The Kobolds",
+  "sections": [
+   {
+    "title": "La madriguera lo guarda",
+    "paragraphs": [
+     "Los kóbolds honran a Vrix el Bajaescama y reclaman un parentesco lejano con los verdaderos dragones. Cada uno tiene poco; la madriguera tiene mucho, y el material útil nunca se tira. Sus ingenieros y tramperos sobresalen donde no caben los trabajadores más grandes."
+    ]
+   },
+   {
+    "title": "Ropa",
+    "paragraphs": [
+     "Arneses de herramientas y escamas recuperadas hacen doble trabajo como equipo y como adorno. La riqueza cuelga donde toda la madriguera pueda admirarla."
+    ]
+   },
+   {
+    "title": "Nombres",
+    "paragraphs": [
+     "Tikka, Skex, Mizzit, Krik y Zazz. La madriguera compartida hace de apellido: Zazz del [[Tercer Bajo|Third Under]]."
+    ]
+   },
+   {
+    "title": "Los enanos",
+    "paragraphs": [
+     "Los enanos son de los pocos pueblos de Kalvatar que nunca tratan a un kóbold como una alimaña. Cada fortín le paga al trabajo kóbold la tarifa completa y llama a un kóbold por su nombre de madriguera. A los kóbolds les parece que así son los enanos, y ya."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los kóbolds son los sobrevivientes de la madriguera, la mina y el bajo muelle. Son trabajadores y ferozmente comunitarios: un kóbold tiene poco, la madriguera tiene mucho, y nunca se tira nada. Son los mejores ingenieros de espacios pequeños que se pueden contratar, siempre que el que paga sea educado."
+    ]
+   },
+   {
+    "title": "Vida y saber",
+    "paragraphs": [
+     "Vida: más o menos un siglo, si la madriguera tiene suerte.",
+     "Aspecto: de unos tres pies de alto, Pequeños en el extremo más bajo de esa talla, con escamas y rápidos, con una cresta o una gorguera del color de la madriguera.",
+     "Tierra natal: las madrigueras bajo las minas y los muelles, y las galerías altas de [[Abajo|Below]] que los enanos tapiaron y que los kóbolds usan calladitos.",
+     "Temperamento: ocupados, comunitarios, prácticos y muy difíciles de ofender, salvo con el desperdicio."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una madriguera kóbold bajo el Pantano del Ocaso empezó a vender mapas de los túneles de abajo. Cada mapa es un poco distinto.” (se oye en el Nudo)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIGNhcmdhIGRlIGxhIHN1ZXJ0ZS4qKiBEdXJhbnRlIHRyZXNjaWVudG9zIGHDsW9zIGxvcyBrw7Nib2xkcyBoYW4gYmFqYWRvIGxhIGNhcmdhIGRlIGxhIHN1ZXJ0ZSBkZSBsb3Mgdmllam9zIGZvcnRpbmVzIGhhc3RhIGxvcyBbW1NhbG9uZXMgZGUgUGFnb3xQYXlpbmcgSGFsbHNdXSwgY29uIHN1cyBwcm9waW9zIGJvdG9uZXMgeSBzdSBwcm9waW8gY29yZGVsLiBMb3MgZHJvdywgcXVlIGNyZWVuIHF1ZSBsb3MgZW5hbm9zIHZvbHZpZXJvbiBhIHBhZ2FyIGVuIHVuYSBtb25lZGEgbXV5IGV4dHJhw7FhLCBoYW4gYW5vdGFkbyBjYWRhIGJvdMOzbi4iXX0="
+   }
+  ]
  },
  "lizardfolk": {
   "subtitle": "Los pragmáticos de sangre fría",
