@@ -24540,5 +24540,156 @@
    }
   ],
   "title": "Lugares delgados"
+ },
+ "vellune-finery-enchantments": {
+  "gloss": "Vellune: Finery & Enchantments",
+  "aliases": [
+   "Vellune",
+   "la tienda de Vellune",
+   "la tienda de Amarise",
+   "Vellune Galas y Encantamientos",
+   "Tienda de Amarise"
+  ],
+  "subtitle": "Buen gusto, con cita previa",
+  "summary": "La boutique sombreada de Amarise Vellune en Ventoro vende ropa fina, encantamientos discretos y el gusto de que su dueña te reconozca. Durante su año de Árbitro, el personal mantiene la tienda funcionando.",
+  "epigraph": {
+   "quote": "Bien. Ahora dime dónde piensas usarlo.",
+   "by": "Amarise Vellune, al empezar una prueba"
+  },
+  "facts": [
+   [
+    "Ubicación",
+    "Sobre el paseo del puerto, [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Dueña",
+    "Amarise Vellune"
+   ],
+   [
+    "Al frente",
+    "[[Tessa Pliegacampana|Tessa Bellfold]], encargada mediana"
+   ],
+   [
+    "Taller",
+    "[[Oren Juncia|Oren Sedge]], cortador y aprendiz de encantador"
+   ],
+   [
+    "Oficio",
+    "Ropa fina, arreglos y artículos encantados por encargo"
+   ],
+   [
+    "Durante el 175 EC",
+    "El personal lleva el negocio diario durante el periodo de Amarise como [[Árbitro|Arbiter]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Encontrar la puerta",
+    "paragraphs": [
+     "Vellune ocupa una tienda de fachada angosta en las calles que suben sobre el paseo del puerto de Ventoro, a un paseo fácil de la [[Vuelta|Turning]]. Su toldo crema da sombra a una puerta pintada de azul y a una vitrina con un solo atuendo elegido con cuidado. El nombre Vellune está escrito en letritas de latón. La gente que copia su vitrina casi nunca es la gente que puede pagar lo que hay en ella.",
+     "Adentro, la madera pálida, las cortinas de lino y el latón cepillado mantienen fresco el salón. Al fondo hay un nicho para las pruebas y un espejo de cuerpo entero común y corriente. El libro de conjuros cerrado de la dueña, de marfil y oro, tiene su lugar junto al libro de cuentas. Se ofrece té mientras se toman las medidas, y un cliente casi siempre puede oír la calle sin que la calle lo oiga a él."
+    ]
+   },
+   {
+    "title": "Lo que vende Amarise",
+    "paragraphs": [
+     "El negocio descansa en el buen corte, en la tela bien elegida y en el ojo de Amarise para lo que le queda a una persona. Los clientes vienen por pruebas, arreglos, sombreros, accesorios y atuendos a medida. Algunos llegan con una invitación y piden que los dejen listos para ella. Otros quieren una sola pieza que todavía valga la pena usar cuando cambie la temporada.",
+     "Los artículos encantados son trabajo caro y escaso. Puede que haya unas pocas piezas terminadas o muestras de demostración en el mostrador de vidrio; buena parte del negocio de verdad es por encargo, por reparación o por conseguírselo a un cliente en particular. Un boceto que coincide no es promesa de que el encantamiento se pueda terminar para mañana.",
+     "Cada pieza encantada se describe con claridad: qué cambia, cómo la controla quien la usa y qué cuidados necesita. La tienda de Amarise guarda los recibos y le rinde cuentas al [[Registro|Registry]] de su décima parte sobre las ventas mágicas legales. Las pequeñas artes domésticas que se usan al coser y al limpiar son parte de la vida diaria del taller."
+    ]
+   },
+   {
+    "title": "Del libro de pruebas",
+    "paragraphs": [
+     "Estos son ejemplos del trabajo de la tienda y de encargos recientes. Los precios son cotizaciones de partida en moneda del [[Consejo|Council]]; la tela, el ajuste y el encantamiento en particular deciden la cuenta final. Las piezas mágicas terminadas no se tienen en existencia sin límite."
+    ],
+    "table": {
+     "headers": [
+      "Pieza",
+      "Qué hace",
+      "Cotización de partida"
+     ],
+     "rows": [
+      [
+       "Bufanda de seda del puerto",
+       "Una bufanda de seda sin encantar, terminada y teñida según el estándar de Amarise.",
+       "3 [[Mareas|Tides]]"
+      ],
+      [
+       "Sombrero de ala de toldo",
+       "Un sombrero ancho para el sol, bien hecho, ajustado a quien lo usa; sin encantar.",
+       "8 Mareas"
+      ],
+      [
+       "Un abrigo para la Vuelta",
+       "Un abrigo a medida sin encantar, con pruebas y arreglos comunes.",
+       "3 [[Anclas|Anchors]]"
+      ],
+      [
+       "La [[Bufanda de Luz Tardía|Afterlight Scarf]]",
+       "Quien la usa cambia la seda entre tres colores elegidos alisando su borde. La tela y el corte siguen iguales.",
+       "60 Anclas"
+      ],
+      [
+       "El [[Portacartas Seco|Dry Letter Case]]",
+       "Mantiene secos los papeles que guarda con lluvia o con un derrame accidental. Su broche tiene que estar cerrado; no está hecho para estar sumergido mucho tiempo.",
+       "80 Anclas"
+      ],
+      [
+       "El [[Abanico de la Última Palabra|Last Word Fan]]",
+       "Repite una frase corta que su dueño grabe a propósito, con la voz de ese dueño, cuando se abre del todo. Guarda solo una frase a la vez.",
+       "100 Anclas"
+      ]
+     ],
+     "caption": "Ejemplos del libro de pruebas de Vellune"
+    }
+   },
+   {
+    "title": "Tessa Pliegacampana, al frente",
+    "paragraphs": [
+     "Tessa es una mediana de mediana edad con pelo castaño, un chaleco ciruela práctico y una memoria para medidas, citas y saldos sin pagar. Lleva el mostrador y el libro de pruebas. Durante el servicio público de Amarise, Tessa es la primera persona que conoce la mayoría de los visitantes.",
+     "Es acogedora con quien admite que necesita ayuda y exquisitamente cortés con quien trata de impresionarla. Nunca confunde un atuendo caro con una cuenta pagada. Su respuesta favorita a un plazo imposible es: “Claro. ¿A cuál de los otros clientes quiere que le quede mal por usted?”"
+    ]
+   },
+   {
+    "title": "Oren Juncia, aguja y dobladillo",
+    "paragraphs": [
+     "Oren es un cortador humano joven y aprendiz de encantador, que casi siempre está en el taller del fondo con un alfiletero en la muñeca. Es excelente con los arreglos pequeños y demasiado dado a seguir mejorando una pieza después de terminado el trabajo acordado. Conoce artes domésticas para desenredar hilo, levantar manchas de tinta fresca y mantener en su lugar un dobladillo hilvanado.",
+     "Quiere que Amarise le confíe un encargo encantado completo. Tessa quiere que termine las tres prendas comunes que ya prometieron para recoger. Es la persona más probable para pedirle a una tripulación de visita que vaya a buscar un paquete perdido antes de que cualquiera de las dos mujeres note que se extravió."
+    ]
+   },
+   {
+    "title": "La gente que siempre vuelve",
+    "paragraphs": [
+     "Odelia Ferren, una anfitriona de salón próspera, encarga piezas sobrias y se interesa mucho por lo que encargaron todos los demás. Puede convertir una prueba en un sondeo de la próxima reunión social. Tessa solo habla de la ropa de Odelia, cosa que Odelia toma como un reto.",
+     "Pell Orris, un cantante de teatro, trae bocetos hermosos, dinero incierto y estrenos muy definidos. Sus pedidos son un trabajo excelente para la vitrina cuando de verdad se terminan. A veces paga un adelanto con lo que dejó la función que hizo posible el encargo.",
+     "La tienda también recibe a gente con una sola suma ahorrada con cuidado y una ocasión que les importa. La atención de Amarise a una prueba así puede ser tan exigente como su trato con una clienta rica de siempre. Esa mezcla de clientes ayuda a explicar por qué su nombre viaja más allá de la gente que compra su trabajo encantado."
+    ]
+   },
+   {
+    "title": "El año de servicio público de una tendera",
+    "paragraphs": [
+     "Amarise sigue siendo la dueña mientras sirve como uno de los tres Árbitros recién elegidos de Ventoro para el 175 EC. Tessa lleva el negocio diario y las citas; Oren mantiene andando el taller. Amarise vuelve para las pruebas importantes y para los conjuros de encargo cuando sus deberes se lo permiten.",
+     "A los clientes que buscan una decisión oficial se les indica que pidan una reunión oficial. Amarise no va a tratar una compra como pago por un fallo favorable. La posición de la tienda hace visible esa diferencia, y a sus enemigos les encantaría verla borrarla.",
+     "Radan conocía a la dueña desde antes de que los sortearan a los dos. Su llegada puede interrumpir una mañana ordenada con la confianza de alguien que cree que todavía queda mucho tiempo. Amarise reconoce esa expresión al instante. Kettik pasa de vez en cuando a ver a cualquiera de sus dos colegas; Tessa le pone el té al alcance y espera a que termine su pregunta."
+    ]
+   },
+   {
+    "title": "Encargos que necesitan ayuda de afuera",
+    "paragraphs": [
+     "La etiqueta copiada. Una visitante trae una bufanda comprada en otra parte con el nombre de Vellune. Su cambio de color anunciado le deja tinte a quien la usa. Amarise quiere saber dónde la vendieron y quién está usando su etiqueta. El recibo del vendedor, la tela y el relato de la clienta le dan a una tripulación tres lugares por donde empezar.",
+     "El baúl de pruebas perdido. Un mozo con el talón de retiro correcto recogió un atuendo terminado, pero el cliente dice que no mandó a nadie. Tessa tiene la hora exacta del retiro; Oren se acuerda del abrigo del mozo; el cliente quiere recuperar la prenda antes de una aparición de noche. Alguien tiene que averiguar cómo cambió de manos un talón válido.",
+     "El abanico con la última palabra equivocada. Un dueño devuelve un Abanico de la Última Palabra que ahora repite un comentario personal mal recibido. El abanico solo guarda una frase grabada a propósito por su dueño actual. Amarise pide un relato discreto de quién lo tuvo, quién lo pidió prestado y quién lo devolvió. El encargo puede ser un arreglo, un desacuerdo sobre de quién es o una historia que el cliente todavía no termina de contar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Ahora tiene el sueldo de un año y todavía entra solo para preguntarle qué opina de su sombrero.” (una clienta de Vellune, sobre Radan Solmar)",
+     "“Si tu prueba se alarga, no digas nada. Puede que salgas con un abrigo mejor y con el nombre de todos los que van a ir a la gala.” (se oye cerca de la Vuelta)"
+    ]
+   }
+  ],
+  "title": "Vellune: Galas y Encantamientos"
  }
 }
