@@ -14806,7 +14806,10 @@
    "black-harbor",
    "merrin-games",
    "lighthouses"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "hollowkey",
@@ -14850,6 +14853,9 @@
    "height": 1024,
    "alt": "A hidden southern pirate lagoon is filled with lashed-together hulls, wooden walkways, boats and market stalls.",
    "caption": "Trade and repairs carry on in Hollowkey’s floating market."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -14881,7 +14887,10 @@
    "kellum",
    "varan-port",
    "noble-houses"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "karn-sorroch",
@@ -14995,6 +15004,9 @@
   "epigraph": {
    "quote": "You dive on the Maw with your mouth shut. Half of what’s down there still has its colors up.",
    "by": "A Maw salvager"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -15123,7 +15135,10 @@
    "charterhouse-company",
    "southhaven",
    "northern-frontier"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "silverport",
@@ -15163,7 +15178,10 @@
    "fortune-gecko",
    "half-elves",
    "silverport-silkmoth"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "snowvah",
@@ -15232,6 +15250,9 @@
   "epigraph": {
    "quote": "We’ll feed you and sell you a sled. We won’t take you past the posts, and we won’t tell you why.",
    "by": "A Snowvah innkeeper"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -15275,7 +15296,10 @@
    "coins-and-prices",
    "games-and-pastimes",
    "brassfield"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "stormreach",
@@ -15314,7 +15338,10 @@
    "noble-houses",
    "northern-frontier",
    "serpents-coil"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "sunhold",
@@ -15355,7 +15382,10 @@
    "concord",
    "food-of-the-islands",
    "terrace-ducks"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "xathnatraz",
@@ -15441,7 +15471,10 @@
    "southern-movements",
    "jakupur",
    "sacred-flame"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "cistern-door",
@@ -38680,7 +38713,10 @@
    "viktor-goldvein",
    "rhal",
    "aurocs"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "monumak",
@@ -38704,7 +38740,10 @@
    "southern-wilds",
    "ironport",
    "hadros-morvain"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "ironport",
@@ -38728,7 +38767,10 @@
    "monumak",
    "hadros-morvain",
    "veyren-quill"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "lyle-lynch",

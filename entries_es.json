@@ -182,7 +182,7 @@
     "title": "Geografía",
     "paragraphs": [
      "El Corazón es un racimo de islas cerca del centro del mar cartografiado, con las ricas tierras de cultivo de las laderas del oeste, las terrazas luminosas de Bastión del Sol, las ciénagas del golfo de Ventoro y la costa este de [[Puerto Plata|Silverport]] y [[Bastión del Este|Easthold]], de cara al agua abierta. La tierra es templada, de inviernos suaves y veranos tibios, y los vientos del Corazón son famosos. El golfo de Ventoro tiene la brisa de navegar más constante del archipiélago, que es por lo que Eamos fundó su pueblo ahí, y por lo que las cometas de los grandes duelos de cometas del Corazón vuelan con hilos empolvados de vidrio sobre el puerto en las tardes de verano.",
-     "El golfo de Ventoro es el corazón de la región. El puerto, el barrio de los bancos, la Universidad y el [[Salón del Consejo|Council Hall]] se levantan en anillos que suben sobre él, y las alturas Vol Kaern coronan toda la ciudad. Las Terrazas de Bastión del Sol trepan las colinas del oeste en jardines de té tallados en escalones, de hoja clara y de viñas. Aguja Alta es una isla aguja de la casa [[Cunaestrella|Starborn]], con torres que suben por encima de las nubes y los [[Acantilados que Cantan|Singing Cliffs]] a lo largo de su orilla. Aurelion está en la costa norte, entre el humo de sus forjas. Caída Eterna es una isla volcánica del este, con cráteres y campos de vidrio sobre el [[Señor Salvaje|Savage Lord]] dormido KakanKal y las minas de Darlath. Puerto Plata y Bastión del Este miran al mar abierto por el este, y [[Atalaya del Oeste|Westwatch]] tiene la piedra y el carbón de las alturas del oeste. El [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, la fuente del púrpura de arrecife que tiñe las túnicas del Consejo y del alto clero."
+     "El golfo de Ventoro es el corazón de la región. El puerto, el barrio de los bancos, la Universidad y el [[Salón del Consejo|Council Hall]] se levantan en anillos que suben sobre él, y las alturas Vol Kaern coronan toda la ciudad. Las Terrazas de Bastión del Sol trepan las colinas del oeste en jardines de té tallados en escalones, de [[hoja clara|brightleaf]] y de viñas. Aguja Alta es una isla aguja de la casa [[Cunaestrella|Starborn]], con torres que suben por encima de las nubes y los [[Acantilados que Cantan|Singing Cliffs]] a lo largo de su orilla. Aurelion está en la costa norte, entre el humo de sus forjas. Caída Eterna es una isla volcánica del este, con cráteres y campos de vidrio sobre el [[Señor Salvaje|Savage Lord]] dormido KakanKal y las minas de Darlath. Puerto Plata y Bastión del Este miran al mar abierto por el este, y [[Atalaya del Oeste|Westwatch]] tiene la piedra y el carbón de las alturas del oeste. El [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, la fuente del púrpura de arrecife que tiñe las túnicas del Consejo y del alto clero."
     ]
    },
    {
@@ -956,7 +956,7 @@
    {
     "title": "Lo que pasa aquí",
     "paragraphs": [
-     "Aquí la única moneda que de verdad importa es el vidrio oscuro. La carga de contrabando se mueve al doble de la tarifa honrada, los rescates se arreglan en la mesa de la Madre Kess, y la [[Subasta Callada|Quiet Auction]] hace sus ventas en los cuartos de atrás. La [[Logia|Lodge]] de Varan de los [[Cazadores|Hunters]] mira para otro lado, a cambio de una cuota."
+     "Aquí la única moneda que de verdad importa es el vidrio oscuro. La carga de contrabando se mueve al doble de la tarifa honrada, los rescates se arreglan en la mesa de la Madre Kess, y la [[Subasta Callada|Quiet Auction]] hace sus ventas en los cuartos de atrás. La [[Logia de Varan|Varan Lodge]] de los [[Cazadores|Hunters]] mira para otro lado, a cambio de una cuota."
     ]
    },
    {
@@ -6249,7 +6249,7 @@
     "title": "Vida y saber",
     "paragraphs": [
      "Vida: más o menos un siglo y medio.",
-     "Tierra natal: las posadas, las casas de té y los puertos de río de los pueblos del [[Consejo|Council]]; buena parte de la hoja del sur de [[Puerto Sur|Southhaven]] la cultivan medianos.",
+     "Tierra natal: las posadas, las casas de té y los puertos de río de los pueblos del [[Consejo|Council]]; buena parte de la [[hoja del sur|southleaf]] de [[Puerto Sur|Southhaven]] la cultivan medianos.",
      "Temperamento: amables, imperturbables y muy desconfiados de cualquier cosa que interrumpa la cena."
     ]
    },
@@ -8549,38 +8549,74 @@
  },
  "greyhaven": {
   "gloss": "Greyhaven",
-  "subtitle": "Un lugar de la Frontera del Norte",
+  "subtitle": "Pescado salado y campanas",
   "summary": "Puerto Gris es un puerto gris y duro que vive dentro de la niebla.",
   "facts": [
    [
     "Región",
-    "[[Frontera del Norte|Northern Frontier]]"
+    "La [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Puerto Gris"
+  "title": "Puerto Gris",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El puerto de [[Puerto Gris|Greyhaven]] es el puerto de pescado salado más rico de la [[Frontera|Frontier]], y sus campanas no paran nunca durante la [[Bruma|Murk]]. La casa [[Tejetormentas|Stormweaver]], un linaje de Señores de la Marca de hechiceros de la tormenta, mantiene encendidas las luces de Puerto Gris a través de la niebla, y las flotas pesqueras de la [[Hermandad de la Salmuera|Brine Brotherhood]] les pagan a los magos de la casa para que mantengan a los botes lejos de las rocas. Los [[Dientes de la Viuda|Widow's Teeth]] están justo frente a la boca del puerto, y cada niño de Puerto Gris aprende los códigos de campanas antes que las letras, porque un bote que no sabe leer las campanas no encuentra el puerto. El barrio viejo tiene una capilla en el acantilado donde las viudas de los perdidos encienden lámparas por los botes que no han vuelto."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron a Johann Faust en una taberna de Puerto Gris con un hombre que lleva la insignia del Último Salmo. Nadie sabe de qué lado piensa ponerse.” (se oye en la Frontera del Norte)"
+    ]
+   }
+  ]
  },
  "hollowkey": {
   "gloss": "Hollowkey",
-  "subtitle": "Un lugar de las Tierras Salvajes del Sur",
-  "summary": "Cayo Hueco es una laguna escondida en el sur sin cartografiar, la mayor de las Fortalezas Piratas: un mercado flotante de cascos amarrados entre sí donde los Restos de Corazón Negro, las tripulaciones de la Marea Libre y cada capitán forajido del sur…",
+  "subtitle": "La laguna que ninguna carta admite",
+  "summary": "Cayo Hueco es una laguna escondida en el sur sin cartografiar, el más grande de los Feudos Libres Piratas: un mercado flotante de cascos amarrados unos con otros donde los Restos de Corazón Negro, las tripulaciones de la Marea Libre y todos los capitanes fuera de la ley del sur…",
   "facts": [
    [
     "Región",
-    "[[Tierras Salvajes del Sur|Southern Wilds]]"
+    "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
    ]
   ],
-  "title": "Cayo Hueco"
+  "title": "Cayo Hueco",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "[[Cayo Hueco|Hollowkey]] es una laguna escondida en el sur sin cartografiar, el más grande de los [[Feudos Libres Piratas|Pirate Freeholds]]: un mercado flotante de cascos amarrados unos con otros donde los [[Restos de Corazón Negro|Remnants of Blackheart]], las tripulaciones de la [[Marea Libre|Free Tide]] y todos los capitanes fuera de la ley del sur comercian, reparan y beben. Sus reglas son las reglas de la [[Marea|Tide]] Libre. Ahí no ondea ninguna bandera del [[Consejo|Council]], no se acepta ninguna moneda del Consejo, y cada trato lo sella el mar. El capitán de puerto de Cayo Hueco es un [[Alférez de Espada|Blade-Ensign]] retirado de la Armada que perdió un brazo por la [[Estrella que se Ahoga|Drowning Star]], y que le cuenta a cualquiera que le invite un trago exactamente cómo se disparó la Estrella."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Reinhardt Holst le invita un trago a cada pirata viejo de Cayo Hueco y a cada uno le hace la misma pregunta: ¿qué colores hundieron al Serafín del Mar?” (un tabernero de Cayo Hueco)"
+    ]
+   }
+  ]
  },
  "kaldmark": {
-  "subtitle": "Un lugar de la Extensión Helada",
-  "summary": "Kaldmark es el bastión de la Casa Kaldmark, la única verdadera casa noble de la Extensión.",
+  "subtitle": "El torreón negro del hielo",
+  "summary": "Kaldmark es el bastión de la Casa Kaldmark, la única casa noble de verdad de la Extensión.",
   "facts": [
    [
     "Región",
-    "[[Extensión Helada|Icy Expanse]]"
+    "La [[Extensión Helada|Icy Expanse]]"
    ]
   ],
-  "title": "Kaldmark"
+  "title": "Kaldmark",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Kaldmark es una fortaleza en las colinas, con un torreón de piedra negra y una puerta de hueso de ballena, y sus estandartes llevan la calavera de oso blanca sobre campo negro ribeteado de azul hielo. La Casa sostiene una marca de pueblos balleneros y de hielo frente a una frontera que mata a los descuidados. Su [[Señor de la Marca|Marchlord]], Sten Kaldmark, gobierna con la ley severa del bastión, y ha aprendido exactamente lo que quiere decir el lema de su casa. Las destilerías de [[ardehielo|icebrand]] de Kaldmark abastecen a los guerreros de la casa, y la venganza de sangre de la casa con la [[Logia de Varan|Varan Lodge]] es más vieja que cualquier Kaldmark vivo."
+    ]
+   }
+  ]
  },
  "karn-sorroch": {
   "subtitle": "Un lugar de las Tierras Salvajes del Sur",
@@ -8595,15 +8631,54 @@
  },
  "krakens-maw": {
   "gloss": "The Kraken's Maw",
-  "subtitle": "Un lugar del mar abierto",
-  "summary": "Un paso entre dos arrecifes donde se libró la gran batalla de 165 EC.",
+  "subtitle": "Dos arrecifes y un cementerio de flotas",
+  "summary": "Un paso entre dos arrecifes en el mar del sur, donde se peleó la gran batalla del 165 EC y donde todavía están sus restos.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Qué es",
+    "un paso entre dos arrecifes"
+   ],
+   [
+    "Se recuerda por",
+    "la batalla del 165 EC"
+   ],
+   [
+    "Lo trabajan",
+    "los recuperadores"
    ]
   ],
-  "title": "Las Fauces del Kraken"
+  "title": "Las Fauces del Kraken",
+  "epigraph": {
+   "quote": "En las Fauces se bucea con la boca cerrada. La mitad de lo que hay allá abajo todavía tiene los colores izados.",
+   "by": "Un recuperador de las Fauces"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Las [[Fauces del Kraken|Kraken’s Maw]] son un paso estrecho entre dos arrecifes en aguas traicioneras del sur. En el 165 EC más de ciento sesenta barcos pelearon ahí durante dieciséis horas, y muchísimos nunca salieron.",
+     "Los restos de la Armada y de la flota de [[Corazón Negro|Blackheart]] están juntos en el fondo. Los buzos dicen que todavía zumban al atardecer."
+    ]
+   },
+   {
+    "title": "Los recuperadores",
+    "paragraphs": [
+     "Diez años después, las Fauces las trabajan tripulaciones de rescate, que suben cañones, herrajes y de vez en cuando un cofre. Trabajan de día y están en sus botes antes del atardecer.",
+     "Por costumbre no se saca nada de un naufragio que todavía tenga muertos a bordo, y los nombres de las dos flotas se dicen sobre el agua la noche de la batalla."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Cada año, la noche de las Fauces, alguien deja un cuchillo de hoja roja en el arrecife donde cayó Corazón Negro.” (un recuperador de las Fauces)",
+     "“El amarradero del Soberano del Pavor en el fondo está vacío. Hace rato. Pregúntale a la Marea Libre adónde se fue.” (un mercader del mercado flotante de Cayo Hueco)"
+    ]
+   }
+  ]
  },
  "northreach": {
   "gloss": "Northreach",
@@ -8619,74 +8694,196 @@
  },
  "saltreach": {
   "gloss": "Saltreach",
-  "subtitle": "Un lugar de la Frontera del Norte",
-  "summary": "Confín de Sal es una costa llana de salinas, esclusas y galpones de sal, en manos de la casa comercial Hallorn, cuya Señora tiene el monopolio de la sal de la Frontera.",
+  "subtitle": "La sal de todo el norte",
+  "summary": "Confín de Sal es una costa llana de salinas, compuertas y galpones de sal, en manos de la casa comercial Hallorn, cuya Señora tiene el monopolio de la sal de la Frontera.",
   "facts": [
    [
     "Región",
-    "[[Frontera del Norte|Northern Frontier]]"
+    "La [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Confín de Sal"
+  "title": "Confín de Sal",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Los salineros son los trabajadores más organizados del norte, y han ido a la huelga cuatro veces en la memoria de los vivos. Las salinas son la fuente de la sal que la [[Compañía Casacarta|Charterhouse Company]] compra para sostener su monopolio del sur, y el comercio entre los galpones Hallorn y los agentes de la Compañía en [[Puerto Sur|Southhaven]] es uno de los secretos más rentables y menos comentados de la [[Frontera|Frontier]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una lechuza del silencio se calló en una boda en Confín de Sal la última Agua de Tormenta, y al novio no se lo ha vuelto a ver.” (una taberna de la Frontera)"
+    ]
+   }
+  ]
  },
  "silverport": {
   "gloss": "Silverport",
-  "subtitle": "Un lugar del Corazón Central",
+  "subtitle": "Seda, incienso y piedra pálida",
   "summary": "Puerto Plata es el puerto de la seda del este, una ciudad de piedra pálida y jardines perfumados.",
   "facts": [
    [
     "Región",
-    "[[Corazón Central|Central Heartland]]"
+    "El [[Corazón Central|Central Heartland]]"
    ]
   ],
-  "title": "Puerto Plata"
+  "title": "Puerto Plata",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las granjas de seda y las casas de incienso de [[Puerto Plata|Silverport]] le dan al [[Corazón|Heartland]] su seda, su perfume y sus aceites finos. Los [[Perfumistas|Perfumers]] de Puerto Plata están en guerra abierta con las familias pocchin, que se niegan a entrar al gremio, venden más barato que todos y roban recetas por deporte. La casa Saffrane tiene el comercio de la seda. Los mercados de la ciudad venden los mejores perfumes de las islas, y los más raros llevan ámbar gris de [[Bastión de Escarcha|Frosthold]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La manada Tobbin dice que la famosa Rosa Negra de Saffrane fue suya primero, y que todavía tiene el recibo de venta.” (un pocchin, a gritos)"
+    ]
+   }
+  ]
  },
  "snowvah": {
-  "subtitle": "Un lugar de la Extensión Helada",
-  "summary": "Snowvah es el pueblo habitado más al norte de la Extensión, un grupo de casas de piedra en un promontorio de roca negra sobre el hielo.",
+  "subtitle": "La última comida caliente antes del silencio",
+  "summary": "El último pueblo habitado de la Extensión: un puñado de casas de piedra en un promontorio de roca negra sobre el hielo.",
   "facts": [
    [
     "Región",
-    "[[Extensión Helada|Icy Expanse]]"
+    "La [[Extensión Helada|Icy Expanse]]"
+   ],
+   [
+    "Qué es",
+    "el último pueblo del hielo habitado"
+   ],
+   [
+    "Gente",
+    "dura, callada y orgullosa"
+   ],
+   [
+    "Más allá",
+    "el país callado"
    ]
   ],
-  "title": "Snowvah"
+  "title": "Snowvah",
+  "epigraph": {
+   "quote": "Te damos de comer y te vendemos un trineo. No te llevamos más allá de los postes, y no te decimos por qué.",
+   "by": "Un posadero de Snowvah"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Snowvah es un puñado de casas de piedra en un promontorio negro, con el hielo abajo y nada más allá. Es el último lugar donde un forastero puede comprar una comida caliente antes de que empiece el país callado.",
+     "Una fila de postes se alza en el hielo más allá del pueblo. La gente de Snowvah guía a un viajero hasta el último de ellos."
+    ]
+   },
+   {
+    "title": "La gente",
+    "paragraphs": [
+     "Cazadores de focas, conductores de trineo y guías. Son duros, callados y orgullosos, y un forastero que no sea ni ruidoso ni apurado los encontrará generosos.",
+     "Cada casa vigila el cielo más allá de los últimos postes. No hablan de lo que ven ahí, y es de mala educación preguntar."
+    ]
+   },
+   {
+    "title": "Si vas",
+    "paragraphs": [],
+    "list": [
+     "Paga tu comida antes de comerla. Es la costumbre, y no es un insulto.",
+     "Compra las pieles que te digan que compres.",
+     "Cuando tu guía se detiene, tú te detienes."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Todas las lechuzas del silencio de un cementerio de Snowvah se esponjaron a la vez en la última Marea Rey.” (se oye en la Extensión Helada)",
+     "“Hace mucho tiempo una partida de la Universidad salió más allá de los postes. Snowvah todavía les pone un lugar en la mesa a mitad del invierno. Nadie se acuerda de quién empezó.” (un conductor de trineo de Snowvah)"
+    ]
+   }
+  ]
  },
  "southhaven": {
   "gloss": "Southhaven",
-  "subtitle": "Un lugar de las Tierras Salvajes del Sur",
+  "subtitle": "La casa de cuentas de las Tierras Salvajes",
   "summary": "Puerto Sur es el puerto colonial de la costa sur y el corazón comercial de las Tierras Salvajes.",
   "facts": [
    [
     "Región",
-    "[[Tierras Salvajes del Sur|Southern Wilds]]"
+    "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
    ]
   ],
-  "title": "Puerto Sur"
+  "title": "Puerto Sur",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "El puerto de [[Puerto Sur|Southhaven]] está bordeado por los almacenes de las grandes casas de plantación, y sus colinas dan el café, la [[hoja del sur|southleaf]], el azúcar de caña y el algodón que consume cada salón del [[Corazón|Heartland]]. La [[Compañía Casacarta|Charterhouse Company]] tiene aquí sus oficinas del sur, y sus hombres de mandato, los [[collares de latón|brass-collars]], patrullan las calles de los almacenes. Las plantaciones se reparten entre las fincas justas de la Casa [[Paramogrís|Greymoor]] y las fincas no libres de la Casa Vossreth, y el boicot del sur es simple: \"café de Paramogrís o nada\". Los Corredores de la Hoja Negra meten la hoja del sur de contrabando y sacan a los trabajadores en servidumbre por los puertos de río. Los mercados de Puerto Sur son el mejor lugar del sur para enterarse de cualquier cosa sobre cualquiera, y el peor lugar para que te vean enterándote."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron a un sacerdote de la Madre Escarlata en Puerto Sur comprando al por mayor el café de los factores Fennick. Nadie dice qué quiere con tanto.” (se oye en las Tierras Salvajes del Sur)",
+     "“El barco de Damyel hizo de Puerto Sur a Mumit en cinco días, contra el viento. El Justiciero más rápido de la Ira Esmeralda necesita dos semanas.” (se oye en las Tierras Salvajes del Sur)",
+     "“Todas las anémonas de marea de Puerto Sur se cerraron al mediodía el mismo día del año pasado, a destiempo, exactamente lo que se tarda en decir una oración.” (una viuda del puerto de Puerto Sur)"
+    ]
+   }
+  ]
  },
  "stormreach": {
   "gloss": "Stormreach",
-  "subtitle": "Un lugar de la Frontera del Norte",
-  "summary": "Confín de Tormentas es la sede de la Casa Vanris y el mayor astillero del norte.",
+  "subtitle": "Donde el norte construye sus barcos",
+  "summary": "Confín de Tormentas es la sede de la Casa Vanris y el astillero más grande del norte.",
   "facts": [
    [
     "Región",
-    "[[Frontera del Norte|Northern Frontier]]"
+    "La [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Confín de Tormentas"
+  "title": "Confín de Tormentas",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La [[Fortaleza Guardatormentas|Stormguard Hold]] se alza sobre una roca encima del estrecho, y los astilleros de la casa construyen los mejores cascos de tormenta de las islas y los cobran caros. La [[Novena Flota|Ninth Fleet]], la [[Tormenta en Pie|Standing Storm]], tiene aquí su base, y las tripulaciones galven de los grandes corredores de tormenta Colosos duermen en los barrios de abajo. El pueblo lleva el nombre del tiempo y vive de él. El agua de su manantial burbujea sola desde la roca, y los galven la llaman agua de tormenta, la sacuden dentro de su kellum y juran que el rayo sabe igual. Mortimer Vanris tiene la sede, y su hermano Rodrick y la jefa de espías Cassandra Dosslas mantienen unida a la casa a su alrededor."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El agua de tormenta del manantial de Confín de Tormentas sabe a mar donde antes sabía a roca.” (se oye en la Frontera del Norte)",
+     "“Unos pescadores frente a Confín de Tormentas sacaron con la red una escotilla de latón del tamaño de una puerta, con un volante.” (una pescadera de Confín de Tormentas)"
+    ]
+   }
+  ]
  },
  "sunhold": {
   "gloss": "Sunhold",
-  "subtitle": "Un lugar del Corazón Central",
-  "summary": "Bastión del Sol es la ciudad más luminosa del Corazón, un pueblo de terrazas y muros blancos sobre la costa oeste.",
+  "subtitle": "Terrazas, muros blancos y hoja clara",
+  "summary": "Bastión del Sol es la ciudad más luminosa del Corazón, un pueblo de terrazas y muros blancos sobre la costa del oeste.",
   "facts": [
    [
     "Región",
-    "[[Corazón Central|Central Heartland]]"
+    "El [[Corazón Central|Central Heartland]]"
    ]
   ],
-  "title": "Bastión del Sol"
+  "title": "Bastión del Sol",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las colinas de [[Bastión del Sol|Sunhold]] dan la [[hoja clara|brightleaf]] que el [[Gremio de las Terrazas|Terrace Guild]] prensa en ladrillos de hoja, y sus viñas dan los vinos de Bastión del Sol que los bancos de [[Ventoro|Goldwind]] juzgan por el sabor. El [[Acuerdo de Bastión del Sol|Sunhold Accord]], firmado el 6 de Veriden, es un tratado de la [[Concordia|Concord]] y el [[Consejo|Council]] que el pueblo acoge cada año. El Gremio de las Terrazas pelea con las casas de café de Ventoro como cuestión de identidad, y la pelea es tema de cien canciones."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron a Dio Corascua caminando por los jardines de Bastión del Sol. Los que lo vieron dicen que no era del todo el mismo hombre que caminaba ahí el año pasado.” (se oye en el Corazón Central)",
+     "“Las terrazas de Bastión del Sol cultivan una hoja clara de la que el Registro compra hasta la última hoja, y a nadie lo han dejado probarla nunca.” (una recolectora del Gremio de las Terrazas)"
+    ]
+   }
+  ]
  },
  "xathnatraz": {
   "subtitle": "Un lugar del mar abierto",
@@ -8708,15 +8905,23 @@
   "title": "Xathnatraz"
  },
  "zalkareth": {
-  "subtitle": "Un lugar de las Tierras Salvajes del Sur",
-  "summary": "Zal'Kareth es el último pueblo del Consejo en el borde suroeste de las Tierras Salvajes, un puerto fluvial fortificado más allá del cual los mapas del Consejo quedan en blanco.",
+  "subtitle": "El último pueblo del Consejo",
+  "summary": "Zal'Kareth es el último pueblo del Consejo en el borde suroeste de las Tierras Salvajes, un puerto de río fortificado más allá del cual los mapas del Consejo quedan en blanco.",
   "facts": [
    [
     "Región",
-    "[[Tierras Salvajes del Sur|Southern Wilds]]"
+    "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
    ]
   ],
-  "title": "Zal'Kareth"
+  "title": "Zal'Kareth",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Zal'Kareth es el hogar de la [[Novena Pala|Ninth Shovel]], los saqueadores de tumbas y de ruinas que alimentan la [[Subasta Callada|Quiet Auction]] con reliquias orka y cosas sagradas de los pueblos nativos. La Novena Pala está en guerra con los [[Recuperadores|Reclaimers]], con la [[Llama Sagrada|Sacred Flame]] y con cualquier otro que se ponga en el camino del próximo tesoro. Los muros del pueblo son altos, y a su guardia le pagan bien para que mire para otro lado cuando algo sube por el río de noche."
+    ]
+   }
+  ]
  },
  "cistern-door": {
   "gloss": "The Cistern Door",
@@ -20833,7 +21038,7 @@
       [
        "[[Pluma del Silencio|Hush-Feather]]",
        "Obra menor",
-       "Una pluma blanca que soltó una lechuza del silencio en un templo de Memnara."
+       "Una pluma blanca que soltó una [[lechuza del silencio|hush owl]] en un templo de Memnara."
       ],
       [
        "[[Concha del Regreso a Casa|Homeward Shell]]",
@@ -22980,5 +23185,48 @@
    }
   ],
   "title": "La Ciudadela de los Cazadores"
+ },
+ "kaskan": {
+  "subtitle": "Una isla de comercio independiente",
+  "summary": "Los barcos mercantes comparten la bahía de Kaskan con naves de patrulla, mientras los uros llevan jinetes y cargas en tierra.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "El puerto del regente",
+    "paragraphs": [
+     "Las minas de oro de Kaskan y su comercio de mercancías de toda la región han pagado un ejército privado y una flota de unas nueve naves. Por lo menos tres guardan la bahía. El regente Hugo [[Vetaoro|Goldvein]] gobierna la isla como un puerto neutral, y los [[uros|aurocs]] de monta y de trabajo son parte de la vida diaria."
+    ]
+   }
+  ],
+  "title": "Kaskan"
+ },
+ "monumak": {
+  "subtitle": "Isla de Bocapizarra y Piedranegra",
+  "summary": "Una isla del sur donde la riqueza bajo la roca ha dado forma a la política de encima.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Las minas y la corona",
+    "paragraphs": [
+     "Las Minas de [[Piedranegra|Blackstone]] son una fuente importante de Krysta. En [[Bocapizarra|Slatemouth]], los mercaderes y marineros sienten el alcance del Señor Hadros Kelloran, cuyo reclamo de una corona puso a la isla en el centro de una disputa sobre quién tiene derecho a gobernarla."
+    ]
+   }
+  ],
+  "title": "Monumak"
+ },
+ "ironport": {
+  "gloss": "Slatemouth",
+  "subtitle": "Un puerto de Monumak",
+  "summary": "En Monumak, Bocapizarra junta en las mismas calles a mercaderes, marineros y contrabandistas.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Alrededor del puerto",
+    "paragraphs": [
+     "El [[Descanso de la Gaviota|Gull’s Rest]] y el [[Balde Oxidado|Rusty Bucket]] son puntos de referencia del paso del grupo por el pueblo. La ciudad también fue el escenario de buena parte de los disturbios alrededor del intento de Hadros Kelloran de fundar su reino."
+    ]
+   }
+  ],
+  "title": "Bocapizarra"
  }
 }
