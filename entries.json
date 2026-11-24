@@ -2933,7 +2933,10 @@
     "kind": "plate",
     "label": "Lampet: field guide"
    }
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "lantern-mouse",
@@ -3008,6 +3011,9 @@
    "label": "Lantern Mouse",
    "alt": "A brown field-mouse with oversized ears and a tail that ends in a soft, warm glow, like a coal seen through a paper screen.",
    "caption": "Lantern Mouse"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -3082,6 +3088,9 @@
    "label": "Pocket Rainfrog",
    "alt": "A plump brown frog the size of an egg, freckled like a river stone, with a mouth turned permanently down in disapproval of the weather.",
    "caption": "Pocket Rainfrog"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -3156,6 +3165,9 @@
    "label": "Button Badger",
    "alt": "A small, striped, short-legged badger, never bigger than a loaf of bread, with clever black paws and a settled belief that buttons are the most valuable things in the world.",
    "caption": "Button Badger"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -3229,6 +3241,9 @@
    "height": 1024,
    "alt": "A plush cream moth folds its rust-and-blue patterned wings over a teacup on a harbor-side table.",
    "caption": "A Teacup Moth at work: cream, rust, and faded blue wings folded over a cup like a blanket."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -6388,6 +6403,9 @@
    "label": "Hearth Newt",
    "alt": "A finger-long salamander, black with ember-orange spots, that lives in the fireplace and sleeps on the coals.",
    "caption": "Hearth Newt"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -6461,6 +6479,9 @@
    "label": "Lullaby Cricket",
    "alt": "A small brown cricket kept in a cage no bigger than a fist, with a song like a spoon stirring a cup.",
    "caption": "Lullaby Cricket"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -6536,6 +6557,9 @@
    "label": "Promise Doves",
    "alt": "A pair of grey-and-rose doves raised in the same nest and given to two people who have made a Salt Promise.",
    "caption": "Promise Doves"
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {

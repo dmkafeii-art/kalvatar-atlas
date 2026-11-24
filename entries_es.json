@@ -2173,103 +2173,280 @@
  },
  "lampet": {
   "subtitle": "La luz más pequeña del puerto",
-  "summary": "Un compañero de puerto del tamaño de un gato y redondo como una boya, de pelaje aterciopelado, largos bigotes blancos y una estrella de Krysta que brilla en la frente.",
+  "summary": "Un compañero de puerto del tamaño de un gato y redondo como una boya, con pelaje de terciopelo, bigotes largos y blancos y una estrella de Krysta que brilla en la frente.",
   "epigraph": {
-   "quote": "Un lampet recuerda una cara durante treinta años.",
-   "by": "Lo que se dice en los puertos"
+   "quote": "Los lapalumbres se acuerdan de una cara durante treinta años.",
+   "by": "Un dicho del puerto"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Todos los puertos de las islas"
    ]
   ],
   "title": "Lapalumbre",
-  "gloss": "Lampet"
+  "gloss": "Lampet",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Del tamaño de un gato bien comido y redondo como una boya: el cuerpo de un cachorro de foca con la astucia de una nutria, un pelaje de terciopelo denso que escurre el agua como aceite, moteado del azul pizarra al pardo alga sobre una panza crema, ojos enormes y oscuros, y largos bigotes blancos que se curvan hacia adelante cuando está contento. Golpea el agua dos veces con su cola plana de remo antes de cada zambullida: el toque del lapalumbre. En la frente tiene una astilla natural de Krysta, la estrella de la frente, que brilla en un cian suave al atardecer y se enciende cuando el lapalumbre se emociona. La luz de cada lapalumbre es un poco suya, y los niños del puerto reconocen al suyo solo por el brillo."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Se zambulle por cualquier cosa que se caiga por la borda y la trae de vuelta. Los marineros juran por sus madres que se queda con una moneda de cada diez: el diezmo del lapalumbre."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "No se gana. Un lapalumbre adopta un barco o un muelle por su cuenta y anida en la cuerda enrollada. Darle de comer ayuda. Discutir con él, no."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Flota de espaldas sosteniendo una piedrita favorita.",
+     "Bocinea, fuerte como una sirena de niebla, ante un mal tiempo que el barómetro todavía no ha agarrado, y los marineros le creen más a la bocina que al barómetro.",
+     "Al atardecer los lapalumbres del puerto se alinean en los pilotes y brillan: el encendido de las lámparas.",
+     "Un barco con un lapalumbre a bordo tiene suerte. Hacerle daño a uno es la manera más rápida de que te dejen inconsciente a golpes en cualquier taberna de Kalvatar, y el magistrado oirá el caso con un desgano visible.",
+     "Los lapalumbres vienen en clases regionales:",
+     "Lanudos y gris tormenta en la [[Frontera del Norte|Northern Frontier]].",
+     "Espolvoreados de oro en los [[Bajíos Dorados|Gilded Shallows]].",
+     "Redondos y blancos como la nieve en el hielo.",
+     "Lisos y casi negros entre los pueblos del Coral, con las estrellas más brillantes de todas.",
+     "Los guardianes del canto llaman a los lapalumbres las luces más pequeñas de la Madre, es decir, de la [[Madre que Ahoga|Drowning Mother]], y les dan de comer en consecuencia. Todos los demás también, por si acaso."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un lapalumbre de Puerto Gris sacó un anillo de oro que nadie a bordo había perdido, y la esposa del capitán de puerto anda muy callada desde entonces.” (se oye en los muelles de Puerto Gris)"
+    ]
+   }
+  ]
  },
  "lantern-mouse": {
   "gloss": "Lantern Mouse",
-  "subtitle": "La luz de su cola, que enciende o apaga cuando quiere.",
-  "summary": "Un ratón de campo pardo de orejas enormes y una cola que termina en un brillo suave y tibio, como una brasa vista a través de un biombo de papel.",
+  "subtitle": "Una luz que se deja en la ventana",
+  "summary": "Un ratón de campo pardo con orejas demasiado grandes y una cola que termina en un brillo suave y tibio, como una brasa vista a través de un biombo de papel.",
   "epigraph": {
-   "quote": "Deja una luz para el ratón. (Es decir: deja la casa abierta para alguien que llega tarde.)",
-   "by": "Lo que se dice en los puertos"
+   "quote": "Déjale una luz al ratón.",
+   "by": "Un dicho del puerto: mantener la casa abierta para alguien que llega tarde"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Graneros, molinos y desvanes de faros; más común en el [[Corazón Central|Central Heartland]]"
    ]
   ],
-  "title": "Ratón Farol"
+  "title": "Ratón Farol",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Los ratones farol viven en graneros, molinos y en los desvanes de los faros, y desde que hay ventanas en las islas, han estado sentados en ellas."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "La luz de su cola, que enciende o apaga cuando quiere. Un ratón farol en el bolsillo de un abrigo es la lámpara más barata de Kalvatar."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "El Alféizar. Deja un poco de comida en el alféizar junto a una lámpara tapada tres noches seguidas. A la cuarta, hay un ratón en la ventana, y es tuyo."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Las familias de pescadores ponen un ratón farol en la ventana mientras alguien está en el mar, para que la [[Luz que Responde|Answering Light]] nunca quede a oscuras del todo.",
+     "A los niños que le tienen miedo a la oscuridad les dan un ratón antes que una vela.",
+     "A los exploradores de profundidades les gustan porque el brillo es chico y parejo, y no atrae lo que atrae una llama desnuda en [[Abajo|Below]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La guardiana del faro de Confín de Sal jura que su ratón apagó la cola la noche en que pasó un barco sin ninguna luz.” (se oye en una taberna de la Frontera)"
+    ]
+   }
+  ]
  },
  "pocket-rainfrog": {
   "gloss": "Pocket Rainfrog",
-  "subtitle": "Mantiene las cosas secas.",
-  "summary": "Una rana parda y regordeta del tamaño de un huevo, pecosa como una piedra de río, con la boca siempre torcida hacia abajo en desaprobación del tiempo.",
+  "subtitle": "El bolsillo seco del mensajero",
+  "summary": "Una rana parda y regordeta del tamaño de un huevo, pecosa como una piedra de río, con la boca siempre caída en desaprobación del tiempo.",
   "epigraph": {
-   "quote": "Pregúntale a la rana. (Se dice antes de planear cualquier cosa al aire libre.)",
-   "by": "Lo que se dice en los puertos"
+   "quote": "Pregúntale a la rana.",
+   "by": "Un dicho del puerto: se dice antes de planear cualquier cosa al aire libre"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "En todas las rutas comerciales; salió primero de las [[Tierras Salvajes del Sur|Southern Wilds]]"
+    "Dónde se encuentra",
+    "En todas partes a lo largo de las rutas comerciales; salieron primero de las [[Tierras Salvajes del Sur|Southern Wilds]]"
    ]
   ],
-  "title": "Ranita de Lluvia de Bolsillo"
+  "title": "Ranita de Lluvia de Bolsillo",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Las ranitas de lluvia salieron de las Tierras Salvajes del Sur en las bodegas de los barcos mercantes y se extendieron por todas las rutas, porque hacen una cosa que nadie más puede hacer."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Mantiene las cosas secas. Lo que tenga debajo se queda seco con lluvia, rocío y una zambullida rápida, y también lo que hay adentro."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "En [[Agua de Tormenta|Storm Water]], constrúyele un refugio con una hoja ancha. Si le gusta el trabajo, se te sube al hombro. Siempre elige a la persona más mojada que haya."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los mensajeros del Gremio de [[Cartógrafos|Chartwrights]] llevan una en cada morral de cartas, para que las cartas lleguen secas. En cualquier puerto, llevar rana quiere decir mensajero.",
+     "Le croa al cielo más o menos una hora antes de la lluvia. Las lavanderas tienden la ropa según ella.",
+     "Una [[ranita de lluvia|rainfrog]] en el morral de libros de un erudito quiere decir un erudito que ya perdió un libro por la lluvia."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La ranita de lluvia de un mensajero se quedó sentada sobre un despacho del Consejo durante todo un naufragio. El despacho estaba seco. El mensajero no tuvo tanta suerte.” (se oye entre las tripulaciones de los Heraldos)"
+    ]
+   }
+  ]
  },
  "button-badger": {
   "gloss": "Button Badger",
-  "subtitle": "Encuentra lo perdido.",
-  "summary": "Un tejón pequeño, rayado y paticorto, nunca más grande que una hogaza de pan, de hábiles patas negras y la firme convicción de que los botones son lo más valioso del mundo.",
+  "subtitle": "El que encuentra lo perdido",
+  "summary": "Un tejón chico, rayado y de patas cortas, nunca más grande que una hogaza de pan, con patas negras hábiles y la convicción firme de que los botones son las cosas más valiosas del mundo.",
   "epigraph": {
-   "quote": "Cambia para arriba, como un tejón. (Es decir: mejora, de a poquito.)",
-   "by": "Lo que se dice en los puertos"
+   "quote": "Mejora el trueque, como un tejón.",
+   "by": "Un dicho del puerto: hacerlo mejor, de a poquito"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Setos, huertos y puertas traseras de sastrerías en todas partes"
+    "Dónde se encuentra",
+    "Setos, huertos y puertas traseras de sastres en todas partes"
    ]
   ],
-  "title": "Tejón de los Botones"
+  "title": "Tejón de los Botones",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Cada tejón de los botones lleva un botón, casi siempre doblado, y lo cambia por uno mejor."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Encuentra lo perdido. Siempre sabe dónde está el botón suelto más cercano, y puede encontrar una cosa chica que se le cayó a su persona ese día."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Ofrécele un botón brillante a cambio del doblado que lleva. Si acepta el cambio, te sigue a casa, y te trae un botón distinto cada vez que vuelves al campamento."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "El amuleto de la suerte de los medianos, un botón prestado por un amigo, empezó como un trueque de tejón. Un mediano que lleva el botón de un tejón tiene doble suerte.",
+     "A los kóbolds les encantan los tejones de los botones y a los tejones de los botones les encantan los kóbolds, y nadie sabe de qué hablan. Los sastres tienen un plato de botones sueltos junto a la puerta de atrás para los tejones, que sale más barato que dejarlos entrar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“En algún lugar bajo el coral hay un arrecife hecho todo de botones, y cada tejón de los botones de las islas conoce el camino.” (la puerta trasera de un sastre)",
+     "“Un tejón de los botones de Puerto Plata sigue trayendo a casa botones de plata con un escudo de casa que nadie logra ubicar.” (se oye en una sastrería de Puerto Plata)"
+    ]
+   }
+  ]
  },
  "teacup-moth": {
   "gloss": "Teacup Moth",
-  "subtitle": "Calienta una bebida.",
-  "summary": "Una polilla gorda y suave, de alas estampadas como un buen juego de té, crema, óxido y azul desteñido, y un cuerpo tan peludo como la oreja de un gatito.",
+  "subtitle": "La que guarda la taza tibia",
+  "summary": "Una polilla blanda y gorda con alas estampadas como un buen juego de té, crema, óxido y azul desteñido, y un cuerpo tan peludo como la oreja de un gatito.",
   "epigraph": {
-   "quote": "Ponle una polilla encima. (Es decir: guárdale algo caliente a quien viene tarde.)",
-   "by": "Lo que se dice en los puertos"
+   "quote": "Ponle una polilla.",
+   "by": "Un dicho del puerto: mantener algo tibio para alguien que llega tarde"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Casas de té, casetas de guardia y alféizares en todas partes"
+    "Dónde se encuentra",
+    "Casas de té, garitas de guardia y alféizares en todas partes"
    ]
   ],
-  "title": "Polilla de Taza de Té"
+  "title": "Polilla de Taza de Té",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "A las polillas de taza de té les encanta el calor pero nunca vuelan hacia una llama, y lo que más les gusta es una taza llena."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Calienta una bebida. Una polilla de taza de té pliega las alas sobre una taza o una tetera como una manta, y en un minuto la bebida queda justo tibia, y así se mantiene."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Deja al atardecer un platito de [[hoja clara|brightleaf]] dulce en el alféizar. Una polilla que vuelve tres tardes seguidas se queda en tu tazón para siempre."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Cada casa de té de los medianos tiene unas cuantas, y la hoja clara calentada por una polilla es la señal de una buena casa.",
+     "Los serenos, los guardianes de faro y la guardia de medianoche de la Armada juran por ellas.",
+     "Los exploradores de profundidades dicen que la polilla de taza de té es la prima de la superficie de las [[bebeluces|lightdrinkers]] de [[Abajo|Below]]. Estas dan calor. Aquellas quitan luz."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Dicen que una polilla de taza de té no calienta una taza envenenada. Nadie ha sido lo bastante valiente para probarlo dos veces.” (se oye en una casa de té de Ventoro)"
+    ]
+   }
+  ]
  },
  "aurocs": {
   "title": "Uros",
@@ -4626,7 +4803,7 @@
  },
  "hearth-newt": {
   "gloss": "Hearth Newt",
-  "subtitle": "Una vida pequeña junto a la tuya",
+  "subtitle": "La brasa que guarda la casa",
   "summary": "Una salamandra del largo de un dedo, negra con manchas naranja brasa, que vive en la chimenea y duerme sobre las brasas.",
   "epigraph": {
    "quote": "El tritón guarda la brasa. La brasa guarda la casa. La casa nos guarda a nosotros.",
@@ -4634,55 +4811,158 @@
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Todos los hogares de las islas"
+    "Dónde se encuentra",
+    "Cada hogar de las islas"
    ]
   ],
-  "title": "Tritón del Hogar"
+  "title": "Tritón del Hogar",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Es el compañero de la Guarda, el rito más humilde del [[Hambre que Calienta|Hunger That Warms]]."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "La brasa sobre la que duerme sigue viva hasta el alba, con lluvia, con viento y con una casa que se olvidó de cubrir el fuego."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Sé el que guarda. Quien se levanta solo en la oscuridad a encender el fuego, y le deja la primera brasa al tritón, tiene un tritón."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "La gente vieja dice que cada tritón del hogar es una escama de KakanKal, el [[Emperador de las Llamas|Emperor of Flames]], que duerme en el magma bajo [[Caída Eterna|Everfall]].",
+     "Una casa de la que se fue su tritón es una casa que dejó de guardar. Los vecinos lo notan.",
+     "Cuando un guardián le entrega a alguien los hierros del fuego, el tritón casi siempre se va con ellos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un tritón del hogar de Kaldmark durmió sobre la misma brasa todo un invierno, y el bastión que lo guardaba no perdió a nadie por el frío.” (se oye en la Extensión Helada)"
+    ]
+   }
+  ]
  },
  "lullaby-cricket": {
   "gloss": "Lullaby Cricket",
-  "subtitle": "Una vida pequeña junto a la tuya",
-  "summary": "Un grillo pardo y pequeño que vive en una jaula no más grande que un puño, con un canto como una cuchara revolviendo una taza.",
+  "subtitle": "Dormir con cualquier tormenta",
+  "summary": "Un grillo pardo y chico que se tiene en una jaula no más grande que un puño, con un canto como una cuchara revolviendo una taza.",
   "epigraph": {
-   "quote": "Tormenta, cañonazos o una pelea de taberna en el piso de abajo: el grillo canta, y yo duermo.",
+   "quote": "Tormenta, cañonazo o pelea de taberna abajo: el grillo canta, y yo duermo.",
    "by": "El grumete de un Heraldo"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Barcos, posadas y casas de té en todas partes"
    ]
   ],
-  "title": "Grillo de Cuna"
+  "title": "Grillo de Cuna",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Los grillos de cuna solo cantan de noche, y solo cuando alguien cerca de ellos está tratando de dormir."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Su canto deja que su persona, y unos pocos más, duerman con cualquier cosa: una tormenta, una cubierta que cabecea, una taberna bajo las tablas del piso."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "En cada mercado venden grillos en jaulas, pero un grillo de cuna solo le canta a alguien a quien ha oído roncar. Duerme cerca de él una semana."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "En [[Agua de Tormenta|Storm Water]], cada barco cuelga una jaula junto a las hamacas.",
+     "A los pasajeros en su primer viaje la tripulación les da uno, con la puertita de la jaula ya abierta.",
+     "Un grillo que dejó de cantar para siempre se entierra en una taza de té."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un grillo hizo dormir a toda una tripulación la noche en que abordaron su barco. Los ladrones se llevaron la carga y dejaron el grillo.” (se oye en las rutas del sur)"
+    ]
+   }
+  ]
  },
  "promise-doves": {
   "gloss": "Promise Doves",
-  "subtitle": "Cada paloma sabe siempre dónde está su pareja, por lejos que se vayan sus dos cuidadores.",
-  "summary": "Un par de palomas grises y rosadas criadas en el mismo nido y regaladas a dos personas que han hecho una Promesa de Sal.",
+  "subtitle": "Dos aves, una promesa",
+  "summary": "Una pareja de palomas grises y rosadas criadas en el mismo nido y regaladas a dos personas que han hecho una Promesa de Sal.",
   "epigraph": {
-   "quote": "Todavía tenemos palomas. (Es decir: todavía confiamos el uno en el otro.)",
-   "by": "Lo que se dice en los puertos"
+   "quote": "Todavía tenemos palomas.",
+   "by": "Un dicho del puerto: todavía confiamos el uno en el otro"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "En todas partes; se regalan en bodas, sociedades y largas despedidas"
+    "Dónde se encuentra",
+    "En todas partes; se regalan en bodas, sociedades y separaciones largas"
    ]
   ],
-  "title": "Palomas de la Promesa"
+  "title": "Palomas de la Promesa",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Cada uno guarda una paloma, y las palomas guardan la promesa."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Cada paloma sabe siempre dónde está su pareja, por lejos que se vayan sus dos cuidadores."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Se regalan, nunca se toman: en una boda, una sociedad, una adopción o una separación larga."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Una paloma que se suelta en una encrucijada vuela hacia su pareja, y más de un cónyuge perdido se ha encontrado siguiendo a una.",
+     "Si uno de los cuidadores rompe la promesa, su paloma se va y vuela hacia el otro. No hay manera de esconderlo.",
+     "Son las aves de Liora y de Veriden, y los dos templos las crían."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron a una pareja de palomas de la promesa volando mar adentro, las dos, juntas. Nadie quiere pensar en lo que eso significa.” (un pueblo de pescadores)",
+     "“Una paloma de la promesa voló en círculos sobre Ventoro tres días. La cuidadora de su pareja había navegado hacia la niebla frente a la Frontera, y la paloma no podía decidir dónde estaba.” (se oye en Ventoro)"
+    ]
+   }
+  ]
  },
  "mirror-plover": {
   "gloss": "Mirror Plover",
