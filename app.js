@@ -255,6 +255,11 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "cistern-door": ["scenes", "A kobold sweeps beside the dwarven wall.", "Un kobold barre junto al muro enano.", "cistern-door", {"width": 1536, "height": 864}],
+ "merrin-games": ["scenes", "Harbor grandmothers judge a fish chowder.", "Las abuelas del puerto prueban un guiso de pescado.", "merrin-games", {"width": 1536, "height": 864}],
+ "answering-light": ["scenes", "A child raises a lantern to answer a passing ship.", "Un niño alza un farol en respuesta a un barco que pasa.", "answering-light", {"width": 1536, "height": 864}],
+ "naming-spoon": ["scenes", "A returning sailor rests her hand beside her spoon.", "Una marinera que ha vuelto a casa apoya la mano junto a su cuchara.", "naming-spoon", {"width": 1536, "height": 864}],
+ "chalk-tide": ["scenes", "Children chalk the high-water mark on the quay.", "Dos niños marcan con tiza la pleamar en el muelle.", "chalk-tide", {"width": 1536, "height": 864}],
  "goldwind-kites": ["scenes", "A patchwork fish kite rises above Goldwind.", "Una cometa de retazos en forma de pez se eleva sobre Goldwind.", "goldwind-kites", {"width": 1536, "height": 864}],
  "chainbreakers": ["scenes", "Freed miners burn a debt ledger at dawn.", "Los mineros liberados queman un libro de deudas al amanecer.", "chainbreakers", {"width": 1536, "height": 864}],
  "savannas": ["scenes", "Centaurs follow the well road ahead of a storm.", "Los centauros siguen la ruta de los pozos antes de la tormenta.", "savannas", {"width": 1536, "height": 786}],
