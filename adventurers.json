@@ -20784,7 +20784,7 @@
      },
      {
       "en": "a racers' tavern by the swiftcrest track, all wagers and dust",
-      "es": "una taberna de corredores junto a la pista de swiftcrest, toda apuestas y polvo",
+      "es": "una taberna de corredores junto a la pista de crestaveloces, toda apuestas y polvo",
       "places": [
        "city"
       ],
@@ -21066,7 +21066,7 @@
      ],
      [
       "cluckmaw skewers with pepper paste",
-      "brochetas de cluckmaw con pasta de ají"
+      "brochetas de faucecloca con pasta de ají"
      ],
      [
       "coal-eggs, saurian eggs roasted whole in the ash",
@@ -21204,7 +21204,7 @@
      ],
      [
       "wagers on the next swiftcrest race",
-      "apuestas en la próxima carrera de swiftcrest"
+      "apuestas en la próxima carrera de crestaveloces"
      ]
     ],
     "icy-expanse": [
@@ -21641,11 +21641,11 @@
     ],
     "southern-wilds": [
      "saurian pens out back, Bellowbacks and swiftcrests",
-     "corrales de saurios atrás, Bellowbacks y swiftcrests"
+     "corrales de saurios atrás, lomobramos y crestaveloces"
     ],
     "icy-expanse": [
      "kennels for rimehounds and a sledge-shed",
-     "perreras para rimehounds y un cobertizo de trineos"
+     "perreras para perros de la escarcha y un cobertizo de trineos"
     ],
     "raft": [
      "a line to tie your boat to, if you ask nicely",
@@ -22144,7 +22144,8 @@
       "road"
      ],
      "most": 8,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Dire Wolf",
@@ -22161,7 +22162,8 @@
       "moor"
      ],
      "most": 4,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Brown Bear",
@@ -22178,7 +22180,8 @@
       "hills"
      ],
      "most": 2,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Black Bear",
@@ -22196,7 +22199,8 @@
       "road"
      ],
      "most": 2,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Boar",
@@ -22217,7 +22221,8 @@
       "jungle"
      ],
      "most": 6,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Boar",
@@ -22235,7 +22240,8 @@
       "jungle"
      ],
      "most": 1,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Elk",
@@ -22252,7 +22258,8 @@
       "forest"
      ],
      "most": 10,
-     "hostile": 0
+     "hostile": 0,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Eagle",
@@ -22273,7 +22280,8 @@
       "coast"
      ],
      "most": 2,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Spider",
@@ -22296,7 +22304,8 @@
       "fungal"
      ],
      "most": 4,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Swarm of Bats",
@@ -22320,7 +22329,8 @@
       "tunnels"
      ],
      "most": 3,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Swarm of Insects",
@@ -22339,7 +22349,8 @@
       "jungle"
      ],
      "most": 3,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Frog",
@@ -22357,7 +22368,8 @@
       "swamp"
      ],
      "most": 6,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Toad",
@@ -22375,7 +22387,8 @@
       "swamp"
      ],
      "most": 2,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Venomous Snake",
@@ -22395,7 +22408,8 @@
       "road"
      ],
      "most": 3,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Constrictor Snake",
@@ -22413,7 +22427,8 @@
       "river"
      ],
      "most": 2,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Constrictor Snake",
@@ -22430,7 +22445,8 @@
       "swamp"
      ],
      "most": 1,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Crocodile",
@@ -22447,7 +22463,8 @@
       "river"
      ],
      "most": 4,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Crocodile",
@@ -22464,7 +22481,8 @@
       "river"
      ],
      "most": 1,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Lion",
@@ -22480,7 +22498,8 @@
       "savanna"
      ],
      "most": 4,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Hyena",
@@ -22497,7 +22516,8 @@
       "bonewilds"
      ],
      "most": 8,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Hyena",
@@ -22514,7 +22534,8 @@
       "savanna"
      ],
      "most": 4,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Jackal",
@@ -22530,7 +22551,8 @@
       "bonewilds"
      ],
      "most": 8,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Giant Vulture",
@@ -22547,7 +22569,8 @@
       "savanna"
      ],
      "most": 3,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Ape",
@@ -22563,7 +22586,8 @@
       "jungle"
      ],
      "most": 6,
-     "hostile": 1
+     "hostile": 1,
+     "about": "common-beasts"
     },
     {
      "sb": "Panther",
@@ -22579,7 +22603,8 @@
       "jungle"
      ],
      "most": 1,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Tiger",
@@ -22595,7 +22620,8 @@
       "jungle"
      ],
      "most": 1,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Polar Bear",
@@ -22612,7 +22638,8 @@
       "coast"
      ],
      "most": 1,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Winter Wolf",
@@ -22629,13 +22656,14 @@
       "seaice"
      ],
      "most": 3,
-     "hostile": 2
+     "hostile": 2,
+     "about": "common-beasts"
     },
     {
      "sb": "Moorhorn",
      "link": "moorhorn",
      "en": "a moorhorn bull, guarding the herd",
-     "es": "un toro moorhorn, cuidando la manada",
+     "es": "un toro cuerno del páramo, cuidando la manada",
      "cr": "1",
      "xp": 200,
      "regions": [
@@ -22686,7 +22714,7 @@
      "sb": "Whale-Wolf",
      "link": "whale-wolves",
      "en": "whale-wolves on the shore",
-     "es": "lobos ballena en la orilla",
+     "es": "lobos balleneros en la orilla",
      "cr": "3",
      "xp": 700,
      "regions": [
@@ -22703,7 +22731,7 @@
      "sb": "Rimehound",
      "link": "rimehound",
      "en": "a wild rimehound pack",
-     "es": "una manada salvaje de rimehounds",
+     "es": "una manada salvaje de perros de la escarcha",
      "cr": "1/4",
      "xp": 50,
      "regions": [
@@ -22719,7 +22747,7 @@
      "sb": "Swordtooth (Azarox)",
      "link": "swordtooth",
      "en": "a swordtooth hunting",
-     "es": "un swordtooth de caza",
+     "es": "un dientespada de caza",
      "cr": "2",
      "xp": 450,
      "regions": [
@@ -22736,7 +22764,7 @@
      "sb": "Dreadmaw (Tzharrok)",
      "link": "dreadmaw",
      "en": "a dreadmaw",
-     "es": "un dreadmaw",
+     "es": "una mandíbula terrible",
      "cr": "8",
      "xp": 3900,
      "regions": [
@@ -22753,7 +22781,7 @@
      "sb": "Thornback (Korzak)",
      "link": "thornback",
      "en": "a thornback, annoyed",
-     "es": "un thornback, molesto",
+     "es": "un lomoespina, molesto",
      "cr": "4",
      "xp": 1100,
      "regions": [
@@ -22769,7 +22797,7 @@
      "sb": "Lashtail (Tzulak)",
      "link": "lashtail",
      "en": "lashtails",
-     "es": "lashtails",
+     "es": "colaslátigo",
      "cr": "3",
      "xp": 700,
      "regions": [
@@ -22785,7 +22813,7 @@
      "sb": "Swiftcrest (Sissix)",
      "link": "swiftcrest",
      "en": "a flock of wild swiftcrests",
-     "es": "una bandada de swiftcrests salvajes",
+     "es": "una bandada de crestaveloces salvajes",
      "cr": "1/4",
      "xp": 50,
      "regions": [
@@ -22802,7 +22830,7 @@
      "sb": "Glidetalon (Vollun)",
      "link": "glidetalon",
      "en": "glidetalons in the canopy",
-     "es": "glidetalons en el dosel",
+     "es": "garraplanas en el dosel",
      "cr": "1/4",
      "xp": 50,
      "regions": [
@@ -22819,7 +22847,7 @@
      "sb": "Skyfin (Aetzox)",
      "link": "skyfin",
      "en": "skyfins overhead",
-     "es": "skyfins en lo alto",
+     "es": "cieloaletas en lo alto",
      "cr": "2",
      "xp": 450,
      "regions": [
@@ -22836,7 +22864,7 @@
      "sb": "Loamback (Mokun)",
      "link": "loamback",
      "en": "a herd of wild loambacks",
-     "es": "una manada de loambacks salvajes",
+     "es": "una manada de lomogredas salvajes",
      "cr": "3",
      "xp": 700,
      "regions": [
@@ -22852,7 +22880,7 @@
      "sb": "Altisaur (Yaltox)",
      "link": "altisaur",
      "en": "an altisaur, browsing the treetops",
-     "es": "un altisaur, comiendo de las copas",
+     "es": "un altisaurio, comiendo de las copas",
      "cr": "6",
      "xp": 2300,
      "regions": [
@@ -22869,7 +22897,7 @@
      "sb": "Craghorn (Gormak)",
      "link": "craghorn",
      "en": "a craghorn on the rocks",
-     "es": "un craghorn en las rocas",
+     "es": "un cuernopeña en las rocas",
      "cr": "3",
      "xp": 700,
      "regions": [
@@ -22885,7 +22913,7 @@
      "sb": "Murkstrider (Marrox)",
      "link": "murkstrider",
      "en": "murkstriders in the shallows",
-     "es": "murkstriders en los bajíos",
+     "es": "zancafangos en los bajíos",
      "cr": "1/2",
      "xp": 100,
      "regions": [
@@ -22902,7 +22930,7 @@
      "sb": "Mirewallow (Sszuka)",
      "link": "mirewallow",
      "en": "a mirewallow",
-     "es": "un mirewallow",
+     "es": "un cienorrevolcón",
      "cr": "5",
      "xp": 1800,
      "regions": [
@@ -22918,7 +22946,7 @@
      "sb": "Razorfin (Razku)",
      "link": "razorfin",
      "en": "razorfins in the water",
-     "es": "razorfins en el agua",
+     "es": "aletanavajas en el agua",
      "cr": "3",
      "xp": 700,
      "regions": [
@@ -22935,7 +22963,7 @@
      "sb": "Bellowback (Bumako)",
      "link": "bellowback",
      "en": "a herd of bellowbacks",
-     "es": "una manada de bellowbacks",
+     "es": "una manada de lomobramos",
      "cr": "1",
      "xp": 200,
      "regions": [
@@ -22952,7 +22980,7 @@
      "sb": "Gloamhide (Xolca)",
      "link": "gloamhide",
      "en": "a gloamhide, at dusk",
-     "es": "un gloamhide, al anochecer",
+     "es": "un pielsombra, al anochecer",
      "cr": "5",
      "xp": 1800,
      "regions": [
@@ -22968,7 +22996,7 @@
      "sb": "Twincrest (Keshix)",
      "link": "twincrest",
      "en": "twincrests",
-     "es": "twincrests",
+     "es": "crestadobles",
      "cr": "1/2",
      "xp": 100,
      "regions": [
@@ -22984,7 +23012,7 @@
      "sb": "Songcrest (Saalix)",
      "link": "songcrest",
      "en": "songcrests, calling",
-     "es": "songcrests, llamándose",
+     "es": "cantocrestas, llamándose",
      "cr": "1/2",
      "xp": 100,
      "regions": [
@@ -23000,7 +23028,7 @@
      "sb": "Packthumb (Tammok)",
      "link": "packthumb",
      "en": "a packthumb troop",
-     "es": "una tropa de packthumbs",
+     "es": "una tropa de lomoespolones",
      "cr": "1",
      "xp": 200,
      "regions": [
@@ -23017,7 +23045,7 @@
      "sb": "Jewelfin",
      "link": "giant-betta",
      "en": "a jewelfin in the shallows",
-     "es": "un jewelfin en los bajíos",
+     "es": "un aletajoya en los bajíos",
      "cr": "1/2",
      "xp": 100,
      "regions": [
@@ -23601,7 +23629,7 @@
     },
     {
      "en": "Tarvan drovers with moorhorns, singing",
-     "es": "arrieros tarvan con moorhorns, cantando",
+     "es": "arrieros tarvan con cuernos del páramo, cantando",
      "people": "tarvan",
      "job": "drover",
      "size": [
@@ -23769,7 +23797,7 @@
     },
     {
      "en": "a sledge team with rimehounds, in from the far ice",
-     "es": "un equipo de trineo con rimehounds, recién llegado del hielo lejano",
+     "es": "un equipo de trineo con perros de la escarcha, recién llegado del hielo lejano",
      "people": "",
      "job": "guide",
      "size": [

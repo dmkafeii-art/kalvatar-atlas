@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=31').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=32').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -1306,7 +1306,7 @@ window.Adventurers = (() => {
  }
  function encounterSheet(o) {
   const X = data.folk.encounter, terr = X.terrain[o.region].find(x => x[0] === o.terrain), when = o.night ? t('at night', 'de noche') : t('by day', 'de día');
-  const sb = (c, name) => c.link ? `${linkTo(c.link, name)} <span class="adv-meta">${t('stat block on its page', 'stat block en su página')}</span>` : `${h(name)} <span class="adv-meta">${t('2024 rules', 'reglas de 2024')}</span>`;
+  const sb = (c, name) => c.link ? `${linkTo(c.link, name)} <span class="adv-meta">${t('stat block on its page', 'stat block en su página')}</span>` : `${h(name)} <span class="adv-meta">${t('2024 rules', 'reglas de 2024')}${c.about ? ' · ' + linkTo(c.about, t('the common beasts', 'las bestias comunes')) : ''}</span>`;
   const diffName = i => i === 3 ? t('above High: dangerous', 'por encima de Alta: peligroso') : L(DIFF[i].slice(1, 3));
   const xp = o.total ? `${o.total.toLocaleString('en-US')} XP; ${t('the party’s budget', 'el presupuesto del grupo')}: ${DIFF.map((d, i) => `${L(d.slice(1, 3))} ${o.budgets[i].toLocaleString('en-US')}`).join(', ')}. ${t('This one is', 'Este es')} <strong>${h(diffName(o.level3))}</strong>.` : '';
   let title = '', body = '';
@@ -1314,7 +1314,8 @@ window.Adventurers = (() => {
    sign: t('A sign', 'Una señal'), find: t('A find', 'Un hallazgo'), weather: t('The weather', 'El clima')}[o.kind];
   if(o.kind === 'beast') {
    const c = o.c;
-   title = `${o.n > 1 ? o.n + ' × ' : ''}${LO(c)}`;
+   const one = LO(c), art = /^(a|an|un|una) /i.test(one);  // "a pack of wolves (8)", "2 × brown bear", "3 × giant eagles"
+   title = o.n > 1 ? (art && / (of|de) /.test(one) ? `${one} (${o.n})` : `${o.n} × ${one.replace(/^(a|an|un|una) /i, '')}`) : one;
    const mood = c.hostile === 0 ? t('They mean no harm, unless someone makes them.', 'No buscan hacer daño, a menos que alguien los obligue.') : c.hostile === 1 ? t('Dangerous only if pressed.', 'Peligrosos solo si se les presiona.') : t('Hostile.', 'Hostiles.');
    body = dd(t('Stat block', 'Stat block'), `${sb(c, c.sb)} · ${t('CR', 'VD')} ${h(c.cr)}, ${c.xp.toLocaleString('en-US')} XP ${t('each', 'cada uno')}`) + dd(t('Why they are here', 'Por qué están aquí'), h(cap1(L(o.why))) + '. ' + h(mood)) + dd(t('The fight', 'La pelea'), xp + (o.over ? ' ' + t('Even one is more than the party should fight: let them see it, and choose.', 'Incluso uno es más de lo que el grupo debería pelear: que lo vean, y que elijan.') : ''));
   } else if(o.kind === 'foe') {

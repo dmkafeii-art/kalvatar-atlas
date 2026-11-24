@@ -57993,6 +57993,323 @@
   }
  },
  {
+  "id": "common-beasts",
+  "title": "The Common Beasts",
+  "category": "creature",
+  "region": "All regions",
+  "subtitle": "The animals the islands share with every shore",
+  "summary": "The wolves, bears, boars, crocodiles, lions and the rest: the ordinary beasts of the islands, wild and unworked. Where each one lives, what each region calls it, and why a beast in a Savage Lord's country is not ordinary at all.",
+  "epigraph": {
+   "quote": "A wolf is a wolf. It's the country it's standing in that you have to ask about.",
+   "by": "A Frontier drover"
+  },
+  "facts": [
+   [
+    "What they are",
+    "the ordinary beasts of the islands, wild and unworked"
+   ],
+   [
+    "For the table",
+    "the 2024 rules' stat blocks, by name"
+   ],
+   [
+    "North",
+    "wolves, bears, boars, elk"
+   ],
+   [
+    "South",
+    "crocodiles, great cats, hyenas, apes, snakes"
+   ],
+   [
+    "The ice",
+    "the polar bear and the winter wolf"
+   ],
+   [
+    "The rule",
+    "in a Savage Lord's country, every beast is the Lord's"
+   ]
+  ],
+  "aliases": [
+   "common beasts",
+   "wolves",
+   "wolf",
+   "bears",
+   "bear",
+   "boars",
+   "crocodiles",
+   "crocodile",
+   "lions",
+   "lion",
+   "hyenas",
+   "apes",
+   "tigers",
+   "panthers",
+   "polar bear",
+   "winter wolves",
+   "giant eagles",
+   "giant spiders"
+  ],
+  "related": [
+   "savage-lords",
+   "companions",
+   "saurians",
+   "northern-frontier",
+   "southern-wilds",
+   "icy-expanse",
+   "heartland"
+  ],
+  "sections": [
+   {
+    "title": "Ordinary teeth",
+    "paragraphs": [
+     "The islands have their own beasts: the saurians of the south, the working beasts, the companions, and the Savage Lords above all of them, and each has a page. They also have the beasts every shore has: wolves and bears in the northern pines, boars in the oak woods and the terraces, crocodiles in the southern rivers, lions on the savanna. A traveler meets these more often than anything with a Kalvatari name.",
+     "At the table they are the 2024 rules' beasts, by name: a Wolf is a Wolf, a Brown Bear a Brown Bear. What changes from region to region is where they live, what people call them, and whose country they are standing in."
+    ]
+   },
+   {
+    "title": "The Frontier and the north",
+    "paragraphs": [
+     "The Frontier is wolf country. The packs follow the herds on the moors and the carts on the roads, and every glen has a story about the winter the wolves came down to the village. Bears keep to the forests and the mining hills, and are blamed for every hive that is robbed and every bin that is knocked over."
+    ],
+    "table": {
+     "caption": "The beasts of the north",
+     "headers": [
+      "Beast",
+      "Where it lives",
+      "What they call it"
+     ],
+     "rows": [
+      [
+       "Wolf",
+       "the Frontier's forests and moors, the roads, and the snowfields of the Expanse",
+       "greycoat, in Gate-speech"
+      ],
+      [
+       "Dire Wolf",
+       "the deep pine forests and the high moors of the Frontier",
+       "longshadow; the Tarvan say it only when it has gone"
+      ],
+      [
+       "Brown Bear",
+       "the Frontier's forests and the mining hills",
+       "honey-thief"
+      ],
+      [
+       "Black Bear",
+       "the forests and the roads of the Frontier and the Heartland",
+       "pine-bear, and in the Heartland, the bin-bear"
+      ],
+      [
+       "Boar",
+       "forests and roads from the Frontier to the jungle, and the Heartland's terraces",
+       "tusker; on the terraces, vine-pig"
+      ],
+      [
+       "Giant Boar",
+       "the Frontier's deep forests and the jungle",
+       "the old tusker"
+      ],
+      [
+       "Elk",
+       "the moors and the forests of the Frontier",
+       "moor-elk"
+      ],
+      [
+       "Giant Eagle",
+       "the hills, the cliffs, the high ranges and the coasts, north and south",
+       "crag-king; in the south, Badron's daughters"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The fens, the terraces, and the dark places",
+    "paragraphs": [
+     "The Heartland has fewer beasts than it once did, and the ones it has are small and determined: frogs and toads in the Duskmire fens, adders in the vineyards, biting swarms in the reeds. Bats and spiders live wherever it is dark, from a ruin on a Heartland hill to the tunnels Below."
+    ],
+    "table": {
+     "caption": "The beasts of the fens and the dark",
+     "headers": [
+      "Beast",
+      "Where it lives",
+      "What they call it"
+     ],
+     "rows": [
+      [
+       "Giant Frog",
+       "the Heartland's fens and the southern swamps",
+       "bell-frog, for the noise"
+      ],
+      [
+       "Giant Toad",
+       "the fens and the swamps",
+       "fen-mouth"
+      ],
+      [
+       "Venomous Snake",
+       "the Heartland's terraces, the jungle, the savanna and the roads",
+       "vine-adder"
+      ],
+      [
+       "Swarm of Insects",
+       "the fens, the swamps and the jungle",
+       "the whine"
+      ],
+      [
+       "Swarm of Bats",
+       "ruins, hills, cliffs and ice caves, and the tunnels Below",
+       "cliff-smoke"
+      ],
+      [
+       "Giant Spider",
+       "forests, ruins and the jungle, and the tunnels and the fungal caverns Below",
+       "web-mother"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The Southern Wilds",
+    "paragraphs": [
+     "The south has everything the north has, and the jungle and the savanna on top. Crocodiles lie in every great river, lions and hyenas hunt the savanna and the Bonewilds, and the great cats keep to the jungle. The Confederacies have names of their own for the four they respect most."
+    ],
+    "table": {
+     "caption": "The beasts of the south",
+     "headers": [
+      "Beast",
+      "Where it lives",
+      "What they call it"
+     ],
+     "rows": [
+      [
+       "Crocodile",
+       "the southern swamps and the great rivers",
+       "log-mother, in Coast-patter; Okkun, in Confederacy speech"
+      ],
+      [
+       "Giant Crocodile",
+       "the swamps and the great rivers",
+       "the old log"
+      ],
+      [
+       "Constrictor Snake",
+       "the jungle, the swamps and the rivers",
+       "tree-rope"
+      ],
+      [
+       "Giant Constrictor Snake",
+       "the jungle and the swamps",
+       "river-rope"
+      ],
+      [
+       "Lion",
+       "the savanna",
+       "sun-mane; Ruhxa, in Confederacy speech"
+      ],
+      [
+       "Hyena",
+       "the savanna and the Bonewilds",
+       "bone-laugher; Hakkaru, in Confederacy speech"
+      ],
+      [
+       "Giant Hyena",
+       "the Bonewilds and the savanna",
+       "the big laugher"
+      ],
+      [
+       "Jackal",
+       "the white flats of the Bonewilds",
+       "salt-dog"
+      ],
+      [
+       "Giant Vulture",
+       "the Bonewilds and the savanna",
+       "Shakarr's crows"
+      ],
+      [
+       "Ape",
+       "the jungle",
+       "Momumba's cousins"
+      ],
+      [
+       "Panther",
+       "the jungle",
+       "night-cat"
+      ],
+      [
+       "Tiger",
+       "the jungle",
+       "the striped one; Tzimar, in Confederacy speech"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "The ice",
+    "paragraphs": [
+     "Two beasts of the Expanse are worth a whaler's attention. The polar bear walks the sea-ice and the whaling beaches, and will take a seal or a sledge-dog or a man with the same patience. The winter wolf is bigger than a pony, white, and its breath freezes what it touches. The Frost Elves call them Vukharr's dogs, and never hunt them."
+    ],
+    "table": {
+     "caption": "The beasts of the ice",
+     "headers": [
+      "Beast",
+      "Where it lives",
+      "What they call it"
+     ],
+     "rows": [
+      [
+       "Polar Bear",
+       "the sea-ice and the coasts of the Expanse",
+       "ice-walker"
+      ],
+      [
+       "Winter Wolf",
+       "the snowfields and the sea-ice of the deep Expanse",
+       "frost-breath, to the whalers; Vukharr's dogs, to the Frost Elves"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "In a Savage Lord's country",
+    "paragraphs": [
+     "Inside a Savage Lord's country, every beast is the Lord's. The islanders are not sure whether the Lords command them, or only watch through them, and nobody wants to find out. A troop of apes in Momumba's jungle is Momumba's, and a village that kills one leaves tribute for a season. The Bonewilds' vultures eat what Shakarr leaves, and a vulture that will not come down to a kill is a warning. In the deep Expanse even a bear is Vukharr's, and goes hungry with him.",
+     "This is why a hunter in the wild asks where the beast is before asking what it is."
+    ]
+   },
+   {
+    "title": "Adventure hooks",
+    "paragraphs": [],
+    "list": [
+     "A Frontier glen has lost three flocks in a month to a single dire wolf that leaves no tracks after the first snow. The Tarvan will not say its name.",
+     "A troop of apes has started following a plantation road, at a distance, and stopping when the carts stop. The overseer wants them shot. The plantation's cook wants to know what tribute was missed.",
+     "A giant crocodile has taken the ferry-rope on a great river as its own, and the river villages are paying it in goats.",
+     "A whaling beach has a polar bear that comes every year on the same day, and the oldest whaler leaves it the first seal."
+    ]
+   },
+   {
+    "title": "Did you know?",
+    "paragraphs": [],
+    "list": [
+     "There are no lions, hyenas, or tigers outside the Southern Wilds, and the only bear south of the Heartland is the polar bear, on the ice.",
+     "The Heartland's terrace-keepers count boars as a crop pest and a crop at once: the vine-pig fattened on fallen grapes is a Sunhold delicacy.",
+     "A Frontier child who sees a wolf first and says nothing has a year of good luck. One who shouts has a story."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“The wolves on the Ironfort road have learned the Gate's bells. They come down when the evening bell rings, because that's when the carts stop.” (a Frontier carter)",
+     "“There's a lion on the savanna with a white mane that no Hunter has been able to find twice. The chant-keepers call it Ruhxa's grandmother, and won't say more.” (a southern guide)"
+    ]
+   }
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
+ },
+ {
   "id": "savannas",
   "title": "The Savannas",
   "category": "place",

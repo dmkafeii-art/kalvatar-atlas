@@ -19125,5 +19125,307 @@
    }
   ],
   "title": "El Velo"
+ },
+ "common-beasts": {
+  "gloss": "The Common Beasts",
+  "aliases": [
+   "bestias comunes",
+   "lobos",
+   "lobo",
+   "osos",
+   "oso",
+   "jabalíes",
+   "cocodrilos",
+   "cocodrilo",
+   "leones",
+   "león",
+   "hienas",
+   "simios",
+   "tigres",
+   "panteras",
+   "oso polar",
+   "lobos invernales",
+   "águilas gigantes",
+   "arañas gigantes"
+  ],
+  "subtitle": "Los animales que las islas comparten con todas las costas",
+  "summary": "Los lobos, los osos, los jabalíes, los cocodrilos, los leones y los demás: las bestias comunes de las islas, salvajes y sin trabajo. Dónde vive cada una, cómo la llama cada región, y por qué una bestia en el país de un Señor Salvaje no tiene nada de común.",
+  "epigraph": {
+   "quote": "Un lobo es un lobo. Lo que hay que preguntar es en qué país está parado.",
+   "by": "Un arriero de la Frontera"
+  },
+  "facts": [
+   [
+    "Qué son",
+    "las bestias comunes de las islas, salvajes y sin trabajo"
+   ],
+   [
+    "En la mesa",
+    "los stat blocks de las reglas de 2024, por su nombre"
+   ],
+   [
+    "Norte",
+    "lobos, osos, jabalíes, alces"
+   ],
+   [
+    "Sur",
+    "cocodrilos, grandes felinos, hienas, simios, serpientes"
+   ],
+   [
+    "El hielo",
+    "el oso polar y el lobo invernal"
+   ],
+   [
+    "La regla",
+    "en el país de un [[Señor Salvaje|Savage Lord]], cada bestia es del Señor"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Dientes comunes",
+    "paragraphs": [
+     "Las islas tienen sus propias bestias: los saurios del sur, las bestias de trabajo, los compañeros, y por encima de todos ellos los Señores Salvajes, y cada uno tiene su página. También tienen las bestias que tienen todas las costas: lobos y osos en los pinares del norte, jabalíes en los robledales y en las terrazas, cocodrilos en los ríos del sur, leones en la sabana. Un viajero se las encuentra más seguido que a cualquier cosa con nombre kalvatari.",
+     "En la mesa son las bestias de las reglas de 2024, por su nombre: un Lobo es un Wolf, un Oso Pardo es un Brown Bear. Lo que cambia de una región a otra es dónde viven, cómo las llama la gente y en el país de quién están paradas."
+    ]
+   },
+   {
+    "title": "La Frontera y el norte",
+    "paragraphs": [
+     "La [[Frontera|Frontier]] es tierra de lobos. Las manadas siguen a los rebaños en los páramos y a las carretas en los caminos, y cada cañada tiene una historia sobre el invierno en que los lobos bajaron al pueblo. Los osos se quedan en los bosques y en las colinas de las minas, y les echan la culpa de cada colmena robada y de cada cubo de basura tirado."
+    ],
+    "table": {
+     "headers": [
+      "Bestia",
+      "Dónde vive",
+      "Cómo la llaman"
+     ],
+     "rows": [
+      [
+       "[[Lobo|Wolf]]",
+       "los bosques y los páramos de la Frontera, los caminos y los campos de nieve de la [[Extensión|Expanse]]",
+       "capagrís, en el habla de la Puerta"
+      ],
+      [
+       "[[Lobo Terrible|Dire Wolf]]",
+       "los pinares hondos y los páramos altos de la Frontera",
+       "sombralarga; los tarvan solo lo dicen cuando ya se fue"
+      ],
+      [
+       "[[Oso Pardo|Brown Bear]]",
+       "los bosques de la Frontera y las colinas de las minas",
+       "robamiel"
+      ],
+      [
+       "[[Oso Negro|Black Bear]]",
+       "los bosques y los caminos de la Frontera y del [[Corazón|Heartland]]",
+       "oso de los pinos, y en el Corazón, el oso de los cubos"
+      ],
+      [
+       "[[Jabalí|Boar]]",
+       "bosques y caminos desde la Frontera hasta la selva, y las terrazas del Corazón",
+       "colmilludo; en las terrazas, cerdo de viña"
+      ],
+      [
+       "[[Jabalí Gigante|Giant Boar]]",
+       "los bosques hondos de la Frontera y la selva",
+       "el viejo colmilludo"
+      ],
+      [
+       "[[Alce|Elk]]",
+       "los páramos y los bosques de la Frontera",
+       "alce del páramo"
+      ],
+      [
+       "[[Águila Gigante|Giant Eagle]]",
+       "las colinas, los acantilados, las cordilleras altas y las costas, en el norte y en el sur",
+       "rey de los riscos; en el sur, las hijas de Badron"
+      ]
+     ],
+     "caption": "Las bestias del norte"
+    }
+   },
+   {
+    "title": "Las ciénagas, las terrazas y los lugares oscuros",
+    "paragraphs": [
+     "El Corazón tiene menos bestias de las que tuvo, y las que tiene son pequeñas y tercas: ranas y sapos en las ciénagas del [[Pantano del Ocaso|Duskmire]], víboras en los viñedos, enjambres que pican en los juncales. Los murciélagos y las arañas viven dondequiera que esté oscuro, desde una ruina en una colina del Corazón hasta los túneles de [[Abajo|Below]]."
+    ],
+    "table": {
+     "headers": [
+      "Bestia",
+      "Dónde vive",
+      "Cómo la llaman"
+     ],
+     "rows": [
+      [
+       "[[Rana Gigante|Giant Frog]]",
+       "las ciénagas del Corazón y los pantanos del sur",
+       "rana campana, por el ruido"
+      ],
+      [
+       "[[Sapo Gigante|Giant Toad]]",
+       "las ciénagas y los pantanos",
+       "bocaciénaga"
+      ],
+      [
+       "[[Serpiente Venenosa|Venomous Snake]]",
+       "las terrazas del Corazón, la selva, la sabana y los caminos",
+       "víbora de viña"
+      ],
+      [
+       "[[Enjambre de Insectos|Swarm of Insects]]",
+       "las ciénagas, los pantanos y la selva",
+       "el zumbido"
+      ],
+      [
+       "[[Enjambre de Murciélagos|Swarm of Bats]]",
+       "ruinas, colinas, acantilados y cuevas de hielo, y los túneles de Abajo",
+       "humo del acantilado"
+      ],
+      [
+       "[[Araña Gigante|Giant Spider]]",
+       "bosques, ruinas y la selva, y los túneles y las cavernas de hongos de Abajo",
+       "madre telaraña"
+      ]
+     ],
+     "caption": "Las bestias de las ciénagas y de la oscuridad"
+    }
+   },
+   {
+    "title": "Las Tierras Salvajes del Sur",
+    "paragraphs": [
+     "El sur tiene todo lo que tiene el norte, y además la selva y la sabana. Hay cocodrilos en cada gran río, leones e hienas cazan en la sabana y en las [[Tierras de Huesos|Bonewilds]], y los grandes felinos se quedan en la selva. Las Confederaciones tienen nombres propios para las cuatro que más respetan."
+    ],
+    "table": {
+     "headers": [
+      "Bestia",
+      "Dónde vive",
+      "Cómo la llaman"
+     ],
+     "rows": [
+      [
+       "[[Cocodrilo|Crocodile]]",
+       "los pantanos del sur y los grandes ríos",
+       "madre tronco, en el habla de la Costa; Okkun, en el habla de la Confederación"
+      ],
+      [
+       "[[Cocodrilo Gigante|Giant Crocodile]]",
+       "los pantanos y los grandes ríos",
+       "el tronco viejo"
+      ],
+      [
+       "[[Serpiente Constrictora|Constrictor Snake]]",
+       "la selva, los pantanos y los ríos",
+       "soga de árbol"
+      ],
+      [
+       "[[Serpiente Constrictora Gigante|Giant Constrictor Snake]]",
+       "la selva y los pantanos",
+       "soga de río"
+      ],
+      [
+       "[[León|Lion]]",
+       "la sabana",
+       "melena de sol; Ruhxa, en el habla de la Confederación"
+      ],
+      [
+       "[[Hiena|Hyena]]",
+       "la sabana y las Tierras de Huesos",
+       "riehuesos; Hakkaru, en el habla de la Confederación"
+      ],
+      [
+       "[[Hiena Gigante|Giant Hyena]]",
+       "las Tierras de Huesos y la sabana",
+       "la gran riehuesos"
+      ],
+      [
+       "[[Chacal|Jackal]]",
+       "las llanuras blancas de las Tierras de Huesos",
+       "perro de sal"
+      ],
+      [
+       "[[Buitre Gigante|Giant Vulture]]",
+       "las Tierras de Huesos y la sabana",
+       "los cuervos de Shakarr"
+      ],
+      [
+       "[[Simio|Ape]]",
+       "la selva",
+       "los primos de Momumba"
+      ],
+      [
+       "[[Pantera|Panther]]",
+       "la selva",
+       "gato de noche"
+      ],
+      [
+       "[[Tigre|Tiger]]",
+       "la selva",
+       "el rayado; Tzimar, en el habla de la Confederación"
+      ]
+     ],
+     "caption": "Las bestias del sur"
+    }
+   },
+   {
+    "title": "El hielo",
+    "paragraphs": [
+     "Dos bestias de la Extensión merecen la atención de un ballenero. El oso polar recorre el hielo marino y las playas balleneras, y se lleva una foca, un perro de trineo o un hombre con la misma paciencia. El lobo invernal es más grande que un poni, blanco, y su aliento congela lo que toca. Los [[Elfos de la Escarcha|Frost Elves]] los llaman los perros de Vukharr, y nunca los cazan."
+    ],
+    "table": {
+     "headers": [
+      "Bestia",
+      "Dónde vive",
+      "Cómo la llaman"
+     ],
+     "rows": [
+      [
+       "[[Oso Polar|Polar Bear]]",
+       "el hielo marino y las costas de la Extensión",
+       "caminahielo"
+      ],
+      [
+       "[[Lobo Invernal|Winter Wolf]]",
+       "los campos de nieve y el hielo marino de la Extensión honda",
+       "aliento de escarcha, para los balleneros; los perros de Vukharr, para los Elfos de la Escarcha"
+      ]
+     ],
+     "caption": "Las bestias del hielo"
+    }
+   },
+   {
+    "title": "En el país de un Señor Salvaje",
+    "paragraphs": [
+     "Dentro del país de un Señor Salvaje, cada bestia es del Señor. Los isleños no están seguros de si los Señores las mandan o solo miran a través de ellas, y nadie quiere averiguarlo. Una tropa de simios en la selva de Momumba es de Momumba, y un pueblo que mata a uno deja tributo durante una estación. Los buitres de las Tierras de Huesos se comen lo que deja Shakarr, y un buitre que no quiere bajar a una presa es una advertencia. En la Extensión honda hasta un oso es de Vukharr, y pasa hambre con él.",
+     "Por eso un cazador, en lo salvaje, pregunta dónde está la bestia antes de preguntar qué es."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Una cañada de la Frontera perdió tres rebaños en un mes por culpa de un solo lobo terrible que no deja huellas después de la primera nevada. Los tarvan no quieren decir su nombre.",
+     "Una tropa de simios empezó a seguir un camino de plantación, a distancia, y a detenerse cuando se detienen las carretas. El capataz quiere que les disparen. La cocinera de la plantación quiere saber qué tributo se dejó de pagar.",
+     "Un cocodrilo gigante se adueñó de la soga del transbordador de un gran río, y los pueblos del río le pagan en cabras.",
+     "Una playa ballenera tiene un oso polar que viene todos los años el mismo día, y el ballenero más viejo le deja la primera foca."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "No hay leones, hienas ni tigres fuera de las [[Tierras Salvajes del Sur|Southern Wilds]], y el único oso al sur del Corazón es el oso polar, en el hielo.",
+     "Los que cuidan las terrazas del Corazón cuentan a los jabalíes como plaga y como cosecha a la vez: el cerdo de viña engordado con uvas caídas es un manjar de [[Bastión del Sol|Sunhold]].",
+     "Un niño de la Frontera que ve un lobo primero y no dice nada tiene un año de buena suerte. Uno que grita tiene una historia."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los lobos del camino de Fuerte de Hierro aprendieron las campanas de la Puerta. Bajan cuando suena la campana de la tarde, porque es cuando paran las carretas.” (un carretero de la Frontera)",
+     "“Hay un león en la sabana con una melena blanca que ningún Cazador ha podido encontrar dos veces. Los guardacantos lo llaman la abuela de Ruhxa, y no dicen más.” (un guía del sur)"
+    ]
+   }
+  ],
+  "title": "Las bestias comunes"
  }
 }
