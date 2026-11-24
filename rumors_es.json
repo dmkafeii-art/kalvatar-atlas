@@ -2400,7 +2400,7 @@
  {
   "id": "rumor-pattern-book-first-page",
   "text": "La entrada más vieja del [[Libro de Patrones|Pattern-Book]] de los [[Entintadores|Inkers]] tiene el número dos. Alguien registró un parche antes de que existiera el libro.",
-  "heardAt": "se oye en un taller del Círculo",
+  "heardAt": "se oye en un taller del [[Círculo|Circle]]",
   "region": "All regions",
   "entries": [
    "inkers-circle",
@@ -2428,7 +2428,7 @@
  },
  {
   "id": "rumor-still-days-press",
-  "text": "Una prensa del taller de [[Ventoro|Goldwind]] del Círculo de los [[Entintadores|Inkers]] funciona sola en los [[Días Quietos|Still Days]]. Cierran el cuarto con llave.",
+  "text": "Una prensa del taller de [[Ventoro|Goldwind]] del [[Círculo|Circle]] de los [[Entintadores|Inkers]] funciona sola en los [[Días Quietos|Still Days]]. Cierran el cuarto con llave.",
   "heardAt": "se lo oyó a un repartidor de papeles",
   "region": "Central Heartland",
   "entries": [
@@ -2642,7 +2642,7 @@
  {
   "id": "rumor-veil-1",
   "text": "Se está adelgazando. Los [[Guardianes|Wardens]] renuevan los sellos cada Día Quieto, y cada año les lleva más tiempo.",
-  "heardAt": "se lo oyó a un farolero de una casa de guarda",
+  "heardAt": "se lo oyó a un farolero de una [[casa de guarda|ward-house]]",
   "region": "All regions",
   "entries": [
    "veil"
@@ -2686,8 +2686,8 @@
  },
  {
   "id": "rumor-thin-places-3",
-  "text": "Alguien ha estado sellando lugares delgados que no le hacían daño a nadie. No son los [[Guardianes|Wardens]]. Ellos quieren saber quién.",
-  "heardAt": "se lo oyó a un escribiente de una casa de guarda",
+  "text": "Alguien ha estado sellando [[lugares delgados|thin places]] que no le hacían daño a nadie. No son los [[Guardianes|Wardens]]. Ellos quieren saber quién.",
+  "heardAt": "se lo oyó a un escribiente de una [[casa de guarda|ward-house]]",
   "region": "All regions",
   "entries": [
    "thin-places"

@@ -2280,7 +2280,7 @@
   "title": "Krysta"
  },
  "faewild": {
-  "subtitle": "Cuenta cada trato tres veces",
+  "subtitle": "El otro lado del Velo, donde cada palabra es un trato",
   "summary": "Más allá del Velo, los nombres, las deudas y las promesas pesan de una forma que ningún visitante debería subestimar.",
   "epigraph": {
    "quote": "Cuenta cada trato tres veces, y después una más.",
@@ -2289,7 +2289,7 @@
   "facts": [
    [
     "Umbral",
-    "El Velo"
+    "El [[Velo|Veil]]"
    ],
    [
     "Tiempo delgado",
@@ -2298,10 +2298,125 @@
    [
     "Vencen las deudas",
     "Los [[Días Quietos|Still Days]]"
+   ],
+   [
+    "La vieja herida",
+    "la [[Guerra Orka|Orka War]]"
+   ],
+   [
+    "En el centro",
+    "el [[Abuelo|Grandfather]]"
+   ],
+   [
+    "Alrededor",
+    "el Velo, el limbo del [[Desatado|Unbound]]"
    ]
   ],
   "title": "El Feérico",
-  "gloss": "The Faewild"
+  "gloss": "The Faewild",
+  "aliases": [
+   "Guerra Orka",
+   "la Guerra Orka",
+   "Guerra de las Cortes"
+  ],
+  "sections": [
+   {
+    "title": "Reglas que oye todo niño",
+    "paragraphs": [
+     "Nunca des tu nombre verdadero. Nunca digas gracias, porque reconoce una deuda. Nunca aceptes un regalo que no puedas devolver. Cuenta un trato tres veces antes de aceptarlo."
+    ]
+   },
+   {
+    "title": "Mareas y deudas",
+    "paragraphs": [
+     "El Velo se adelgaza en la Marea Rey. Los tratos feéricos se vencen durante los Días Quietos, y la Krysta no hace nada del otro lado del umbral. Prepararse sirve; la certeza descuidada, no."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Todo el mundo sabe las reglas:",
+     "Verano, la [[Corona Ardiente|Burning Crown]], bajo [[Pyraxis, la Llama que no se Inclina|Pyraxis, the Unbowed Flame]].",
+     "Otoño, la [[Cosecha Roja|Red Harvest]], bajo [[Vael Espinaluto|Vael Mournthorn]], el [[Rey Segador Carmesí|Crimson Reaper-King]].",
+     "Invierno, el [[Largo Silencio|Long Silence]], bajo Morthryn, la [[Pálida Emperatriz del Aire y del Final|Pale Empress of Air and Ending]], cuya [[Corte|Court]] desterró a los [[Elfos de la Escarcha|Frost Elves]].",
+     "Primavera, la [[Primera Flor|First Bloom]], bajo Aoifel, la [[Risa Verde|Green Laugh]].",
+     "El Desatado, que no pertenece a ninguna corte, y al que temen las cuatro cortes."
+    ]
+   },
+   {
+    "title": "La forma del Feérico",
+    "paragraphs": [
+     "El [[Feérico|Faewild]] es redondo, y las cuatro Cortes lo comparten como un pastel partido en cuatro: el país de la Primavera, el del Verano, el del Otoño y el del Invierno, cada uno un cuarto, cada uno vestido de su estación.",
+     "Los cuatro cortes son las fronteras, y cada una lleva el nombre de la entrega que se hace a través de ella: la [[Marcha Clara|Bright March]], el [[Asentamiento|Settling]], el [[Cierre|Closing]] y el [[Deshielo|Thaw]]. Las cuatro entran desde el borde y se juntan en el centro.",
+     "En el centro está el Abuelo, un árbol tan grande que es un país en sí mismo, y los feéricos creen que todos ellos vinieron de él. El [[Giro|Turn]] cambia de manos bajo sus ramas. Está apenas vivo desde la guerra, y sin las perlas, mantenerlo vivo es lo único en lo que las cuatro Cortes están de verdad de acuerdo.",
+     "Alrededor de los cuatro países corre un anillo, y el anillo es el Velo: visto desde adentro, un limbo entre el Feérico y el mundo despierto. Ninguna Corte lo gobierna. Es el país del Desatado.",
+     "Desde el limbo hay un camino a cada plano y a cada realidad que existe. Hay que saber el camino, y muy pocos lo saben. Es el camino más peligroso que hay."
+    ]
+   },
+   {
+    "title": "La gente de allá",
+    "paragraphs": [
+     "La gente del Feérico son los feéricos: los señores de las cuatro Cortes, la gente menuda, los cambiados y los que no le responden a nadie. Tienen una página propia."
+    ]
+   },
+   {
+    "title": "La Guerra Orka",
+    "paragraphs": [
+     "Los cuentos viejos dicen que los feéricos fueron mansos alguna vez. Vivían en el Feérico como ahora, en cuatro estaciones, pero no había tronos, ni caballeros, ni libros de deudas. Nadie mandaba, porque nada necesitaba que lo mandaran. Sus tratos no tenían sangre.",
+     "En el mundo despierto, el sur de las islas les pertenecía a los orka, un imperio de orcos más grande que cualquier cosa que haya existido desde entonces. Los orka querían más de lo que la fuerza podía ganar, y se lo compraron a los daimones, una máscara a la vez. A medida que los daimones se hacían más fuertes, abrieron caminos al Feérico, y los orka los cruzaron en busca de esclavos y de sacrificios.",
+     "Un feérico es la ofrenda más rica que se le puede dar a un daimón. Hay más en uno de ellos para quemar, y la magia feérica hace mucho más fácil que un daimón tome forma en el mundo. Las incursiones no pararon. Para un pueblo que nunca había peleado una guerra, fue una matanza.",
+     "Dos de ellos fueron los primeros en levantarse y decir: síganme. Pyraxis reunió a los feéricos del Verano y les enseñó a pelear. Vael Espinaluto reunió a los feéricos del Otoño y contó lo que iba a costar. Así llegó el Feérico a tener soberanos.",
+     "También les mandaron aviso a sus primos del mundo despierto: los elfos. Antes había pocos elfos en las islas. Vinieron en gran número, y llevaron la guerra a los orka en su propio terreno. Las historias de los mortales recuerdan solo esa mitad, y la llaman la [[Guerra de las Cortes|War of the Courts]]. Los feéricos llaman al todo la Guerra Orka.",
+     "Duró edades, y no se ganó. Se terminó. La primera Reina de la Primavera, la Corte que todos creían la más débil, dio su vida para levantar el Velo, para que ningún daimón volviera a entrar al Feérico tan fácil como por una puerta. Los elfos, que no podían vencer a un enemigo dispuesto a pagar el precio de los daimones, se retiraron. A los orka no les quedó nada que saquear ni nadie a quien conquistar, y las máscaras terminaron de comérselos.",
+     "Pregúntale a un feérico quién ganó la Guerra Orka y vas a recibir cuatro respuestas, y ninguna es “nosotros”."
+    ],
+    "table": {
+     "headers": [
+      "Corte",
+      "En la guerra"
+     ],
+     "rows": [
+      [
+       "Verano",
+       "Pyraxis fue la primera en levantar un estandarte. El Verano peleó más duro y sangró más. Entró a la guerra como una Corte de poetas y desfiles y salió como una Corte de caballeros, y cada cicatriz del [[Alcázar del Mediodía|Noonhold]] se cuenta desde entonces."
+      ],
+      [
+       "Otoño",
+       "Vael Espinaluto guió a su pueblo desde la primera incursión, y llevó la cuenta de lo que costó la guerra. El libro de los [[Salones del Último Trato|Halls of the Last Bargain]] tiene una página por cada feérico que cayó, y él las ha leído todas."
+      ],
+      [
+       "Invierno",
+       "La única Corte que alguna vez igualó a los orka en ferocidad. Una parte de ella fue demasiado lejos, y mató feéricos además de orcos, y la echaron del Feérico para siempre: los antepasados de los Elfos de la Escarcha. El primer Rey del Invierno dejó el [[Salón Pálido|Pale Hall]] poco después y no se le ha vuelto a ver. Las otras Cortes le guardan rencor al Invierno por todo eso, y saben lo que le deben."
+      ],
+      [
+       "Primavera",
+       "Tomada por la Corte más débil, porque no quiso cambiar. Escondió a los niños y mantuvo vivos los juegos viejos en la oscuridad. Después su primera Reina, Onwen, dio su vida para levantar el Velo. A la Corte la llaman la Primera Flor por ella."
+      ]
+     ],
+     "caption": "Lo que hizo cada Corte en la guerra"
+    }
+   },
+   {
+    "title": "Lo que dejó la guerra",
+    "paragraphs": [],
+    "list": [
+     "El Velo. No es un muro con el que nació el mundo. Onwen de la Primavera lo hizo con su vida, y por eso un daimón ya no puede entrar al Feérico como por una puerta.",
+     "Los tronos. Antes de la guerra ningún feérico gobernaba a otro. Pyraxis y Vael Espinaluto siguen sentados donde se levantaron por primera vez. La Primavera y el Invierno han tenido que encontrar [[Reinas|Queens]] nuevas.",
+     "Las perlas. Cada Corte tuvo alguna vez una perla que guardaba su estación. Los orka rompieron o se llevaron las cuatro.",
+     "Los [[lugares delgados|thin places]]. Muchos son cicatrices, donde los daimones se abrieron paso a la fuerza y el Velo sanó mal. La [[Llama Sagrada|Sacred Flame]] de Jakupur todavía caza a los peores.",
+     "La división. [[Luminosos|Seelie]] y [[Sombríos|Unseelie]] son dos respuestas a esta misma guerra: “No necesitamos volvernos los orka para derrotarlos”, y “La misericordia casi acaba con nosotros. Nunca más.”",
+     "Las reglas. Nunca des tu nombre, cuenta cada trato: los modales de los feéricos se endurecieron hasta volverse ley cuando una palabra descuidada podía costarle una Corte.",
+     "Los [[Torcidos|warped]]. Las huestes goblinoides que entraron al Feérico con los orka quedaron atrapadas ahí cuando se levantó el Velo, y siguen ahí.",
+     "Los elfos de las islas. Vinieron como aliados y primos. La mayoría se retiró cuando terminó la guerra, y la [[Casa Caelvaron|House Caelvaron]] desciende de los que se quedaron.",
+     "Golgarma, y las otras ciudades ahogadas y embrujadas por daimones del sur, que es lo que dejaron los orka."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gbm8gZXJhbiBjb2JhcmRlcy4qKiBFbiBsYSBbW0d1ZXJyYSBPcmthfE9ya2EgV2FyXV0sIHVuYSBmYWNjacOzbiBkZWwgSW52aWVybm8gc2UgcHVzbyBhIG1hdGFyIHBvciBtYXRhciwgeSBlbiBzdXMgaW5jdXJzaW9uZXMgYWJhdMOtYSBhIG90cm9zIGZlw6lyaWNvcyBzaWVtcHJlIHF1ZSBtdXJpZXJhbiBtw6FzIG9yY29zIHF1ZSBmZcOpcmljb3MuIEVsIHByaW1lciBSZXkgZGVsIEludmllcm5vIGxvcyBkZXN0ZXJyw7MgYWwgbXVuZG8gZGVzcGllcnRvLCBiYWpvIHVuYSBtYWxkaWNpw7NuIHF1ZSBtYXJjaGl0YSBzdSBtYWdpYSBmZcOpcmljYSB1biBwb2NvIG3DoXMgY29uIGNhZGEgZ2VuZXJhY2nDs24uIFN1cyBkZXNjZW5kaWVudGVzIG5vIHJlY3VlcmRhbiBwYXJhIG5hZGEgaGFiZXIgc2lkbyBmZcOpcmljb3MuIiwgIioqRWwgcHJpbWVyIFJleSBkZWwgSW52aWVybm8gZXN0w6Egdml2by4qKiBTZSBsbGFtYSBDYWxkcml0aC4gRGVzcHXDqXMgZGVsIGRlc3RpZXJybyBkZWrDsyBlbCBbW1NhbMOzbiBQw6FsaWRvfFBhbGUgSGFsbF1dIHkgc2UgZXNjb25kacOzLCBhdmVyZ29uemFkbywgeSBhIGxhIFtbQ29ydGV8Q291cnRdXSBsYSBsbGFtYW4gZWwgW1tMYXJnbyBTaWxlbmNpb3xMb25nIFNpbGVuY2VdXSBwb3Igw6lsLiBNb3J0aHJ5biB0b23DsyBlbCB0cm9ubywgeSBlcyBsYSDDum5pY2EgcXVlIHNhYmUgcXVlIHZpdmUsIHkgZMOzbmRlLiBBbGd1bm9zIGRpY2VuIHF1ZSDDqWwgYXp1esOzIGEgbG9zIGJlcnNlcmtlcnMgeSBkZXNwdcOpcyBsb3MgaGl6byBzdXMgY2hpdm9zIGV4cGlhdG9yaW9zLiBOdW5jYSBsbyBoYSBuZWdhZG8sIHkgdW4gcmV5IGFsIHF1ZSBzb2xvIGh1YmllcmFuIHRyYWljaW9uYWRvIG5vIHNlIGhhYnLDrWEgZXNjb25kaWRvIGR1cmFudGUgZGlleiBtaWwgYcOxb3MuIiwgIioqT253ZW4sIGxhIFtbUHJpbWVyYSBGbG9yfEZpcnN0IEJsb29tXV0uKiogTGEgcHJpbWVyYSBSZWluYSBkZSBsYSBQcmltYXZlcmEgZGlvIHN1IHZpZGEgcGFyYSBsZXZhbnRhciBlbCBbW1ZlbG98VmVpbF1dLiBBb2lmZWwgZXMgbGEgc2VndW5kYSBSZWluYSBkZSBsYSBQcmltYXZlcmEsIHkgbGEgZWxpZ2llcm9uIHBvcnF1ZSBzZSByaW8gZW4gZWwgZnVuZXJhbCwgcXVlIGVzIGxvIHF1ZSBPbndlbiBoYWLDrWEgcGVkaWRvLiIsICIqKkVsIFtbR2lyb3xUdXJuXV0gZXMgbGEgcXVpbnRhIHBlcmxhLioqIENhZGEgQ29ydGUgdHV2byBhbGd1bmEgdmV6IHVuYSBwZXJsYSBxdWUgZ3VhcmRhYmEgc3UgZXN0YWNpw7NuLCB5IHF1ZSByZW5vdmFiYSBhIGxhIENvcnRlIHF1ZSBsYSB0ZW7DrWEuIExvcyBvcmthIHJvbXBpZXJvbiBvIHJvYmFyb24gbGFzIGN1YXRyby4gTGEgcXVlIHNlIHBhc2FuIGFob3JhIGxvcyBzb2JlcmFub3MgbGUgcGVydGVuZWPDrWEgYSBsYSBbW1F1aW50YSBDb3J0ZXxGaWZ0aCBDb3VydF1dLCB5IHRvZGF2w61hIGVzIGRlbCBbW0Rlc2F0YWRvfFVuYm91bmRdXS4gUG9yIGVzbyBuaW5ndW5vIHB1ZWRlIHF1ZWTDoXJzZWxhOiBudW5jYSBzZSBoaXpvIHBhcmEgdW5hIGVzdGFjacOzbiwgeSB1bmEgQ29ydGUgcXVlIGxhIHRpZW5lIG3DoXMgYWxsw6EgZGUgc3UgdGllbXBvIHNlIGRlc2hhY2UgcG9jbyBhIHBvY28uIFBlcm8gY2FkYSBDb3J0ZSBuZWNlc2l0YSBzdSBjdWFydG8gZGVsIGHDsW8gY29uIGVsbGEgcGFyYSBwb2RlciByZW5vdmFyc2UuIFZpdmVuIGRlIHVuYSBjb3NhIHF1ZSBsZSBwZXJ0ZW5lY2UgYWwgcXVlIHRlbWVuLiIsICIqKk5vIHNlIHJvbXBpZXJvbiBsYXMgY3VhdHJvLioqIEFsIG1lbm9zIHVuYSBkZSBsYXMgcGVybGFzIHBlcmRpZGFzIHNlIGxhIGxsZXZhcm9uIGVudGVyYSwgeSBlc3TDoSBlbiB1bmFzIHJ1aW5hcyBvcmthLiBVbmEgQ29ydGUgcXVlIHJlY3VwZXJhcmEgc3UgcHJvcGlhIHBlcmxhIG5vIHZvbHZlcsOtYSBhIG5lY2VzaXRhciBlbCBHaXJvLCB5IGxhcyBvdHJhcyB0cmVzIG51bmNhIGxvIHBlcm1pdGlyw61hbi4iLCAiKipIdWJvIHVuYSBRdWludGEgQ29ydGUuKiogR3VhcmRhYmEgbGFzIFtbVnVlbHRhc3xUdXJuaW5nc11dLCBsb3MgZMOtYXMgZW4gcXVlIHVuYSBlc3RhY2nDs24gc2UgdnVlbHZlIGxhIHNpZ3VpZW50ZS4gQ29tbyBsYXMgb3RyYXMgY3VhdHJvLCBubyB0dXZvIHNlw7FvciBoYXN0YSBsYSBndWVycmEsIHkgZW50b25jZXMgdHV2byB1bm86IG9yZ3VsbG9zbywgYXN0dXRvLCB5IHByb250byBkZWNpZGlkbyBhIGdvYmVybmFyIGxhcyBjaW5jby4iLCAiKipMYSBbW0VycmFuY2lhfFJvYW1dXSBlcyBzdXlhLioqIFN1IHJlaW5vIHNlIHNvbHTDsyBkZWwgW1tGZcOpcmljb3xGYWV3aWxkXV0gY3VhbmRvIMOpbCBsbyBhYmFuZG9uw7MsIHkgbmFkaWUgdG9tw7MgbnVuY2EgcG9zZXNpw7NuIGRlIMOpbC4gRWwgdMOtdHVsbyBzaWd1ZSBzaWVuZG8gdsOhbGlkby4gTmluZ3VuYSBDb3J0ZSBsbyBzYWJlLCBuaW5nw7puIGthbGFzaHRhciBsbyBzYWJlLCB5IMOpbCBudW5jYSBsbyBoYSBtZW5jaW9uYWRvLiJdfQ=="
+   }
+  ]
  },
  "sea-pacts": {
   "gloss": "The Sea-Pacts",
@@ -11323,28 +11438,29 @@
   ]
  },
  "titania-and-the-iron-swan": {
-  "subtitle": "El oro que todo capitán quiere superar",
-  "summary": "En el puesto once del Ranking desde hace ocho años, Titania manda el Cisne de Hierro: un barco metálico sin velas, tripulado por llamas vivas, de cuyo paso habla todo puerto.",
+  "gloss": "Titania and the Iron Swan",
+  "subtitle": "La Oro que todo capitán en ascenso tiene que superar",
+  "summary": "Undécima en el Ranking desde hace ocho años, Titania comanda el Cisne de Hierro: un barco de metal sin velas, tripulado por llamas vivas, cuyo paso comentan todos los puertos.",
   "sections": [
    {
     "title": "Un barco como ningún otro",
     "paragraphs": [
-     "Todo marinero ha oído hablar del Cisne de Hierro. Su casco es de metal, sus chimeneas expulsan humo negro y avanza contra el viento sin una sola vela. Lo tripulan llamas vivas. Es el único barco de vapor del mundo.",
-     "Titania es hermosa de una manera casi sobrenatural, y su presencia resulta inquietante. Siempre va descalza: cualquier zapato que se ponga se quema. Sus ropas están hechas de metal y pieles de animales resistentes al fuego.",
-     "El barco responde a Titania, Cazador de oro. Su aspecto singular pertenece a las conversaciones de las islas: lo bastante inconfundible para que un puerto lo reconozca y lo bastante extraordinario para mantener vivas las historias de los muelles."
+     "Todo marinero ha oído hablar del Cisne de Hierro. Su casco es de metal macizo, sus chimeneas echan humo negro y avanza contra el viento sin una vela. Lo tripulan llamas vivas. Es el único barco de vapor del mundo.",
+     "Titania es hermosa de una manera que parece casi sobrenatural, y su presencia puede inquietar. Siempre anda descalza: cualquier zapato que se pone se quema. Su ropa está hecha de metal y de cueros de animales que resisten el fuego.",
+     "El barco le responde a Titania, una Cazadora de Oro. Su aspecto singular es parte de la conversación de todos los días en las islas: algo tan inconfundible que un puerto lo reconoce, y tan extraordinario que mantiene vivos los cuentos de los muelles."
     ]
    },
    {
-    "title": "En la cima del oro",
+    "title": "En la cima de los Oros",
     "paragraphs": [
-     "Titania ocupa el puesto once del Ranking, el más alto entre los [[Cazadores|Hunters]] de oro, desde hace ocho años. Para quien asciende en ese rango, su nombre marca la cima. Los Diez ocupan el rango separado de platino por encima.",
-     "En las [[Fauces del Kraken|Kraken’s Maw]], en 165 EC, el Cisne de Hierro atravesó la línea pirata una y otra vez. El lugar de Titania en el Ranking actual acompaña otro lugar en la memoria compartida de la supervivencia de las islas."
+     "Titania está undécima en el Ranking, la más alta de los Oros, un lugar que ocupa desde hace ocho años. Para un [[Cazador|Hunter]] de Oro en ascenso, su nombre marca la cumbre de ese nivel. Los Diez ocupan aparte el rango de Platino, por encima.",
+     "En las [[Fauces del Kraken|Kraken’s Maw]], en el 165 EC, el Cisne de Hierro atravesó una y otra vez la línea pirata. El lugar de Titania en el Ranking de hoy está junto a un lugar en la memoria compartida de las islas, la de haber sobrevivido."
     ]
    },
    {
-    "title": "Un nombre ausente de los carteles",
+    "title": "Un nombre que no está en los carteles",
     "paragraphs": [
-     "El Cisne de Hierro no figura en ningún cartel de búsqueda. Ningún Consejo se ha atrevido a ponerle precio a Titania. Ese hecho público la sigue tan de cerca como el humo a su barco y deja a los marineros mucho espacio para discutir lo que han visto."
+     "El Cisne de Hierro no aparece en ningún cartel de se busca. Ningún [[Consejo|Council]] se ha atrevido a ponerle precio a Titania. Ese hecho público la sigue tan de cerca como el humo sigue al barco, y deja mucho lugar para que los marineros discutan lo que han visto."
     ]
    },
    {
@@ -11352,26 +11468,35 @@
     "paragraphs": [
      "“Nadie ha visto nunca al Cisne de Hierro cargar carbón.” (todos los muelles de las islas)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRpdGFuaWEqKiBlcywgZW4gcMO6YmxpY28sIHVuYSAqKkNhemFkb3JhIGRlIE9ybywgdW5kw6ljaW1hIGVuIGVsIFJhbmtpbmcqKiwgbGEgT3JvIG3DoXMgYWx0YSBkZXNkZSBoYWNlIG9jaG8gYcOxb3MgeSBlbCBmaWx0cm8gcXVlIHRvZG8gT3JvIGVuIGFzY2Vuc28gdGllbmUgcXVlIHN1cGVyYXI7IGVuIHZlcmRhZCBlcyB1biBBc3BlY3RvIGRlbCBmdWVnbyBxdWUgdG9tw7MgdW5hIGZvcm1hIHkgdW5hIG1lbnRlIGh1bWFuYXMsIHVuYSBjaGlzcGEgZGVsIFtbSGFtYnJlIHF1ZSBDYWxpZW50YXxIdW5nZXIgVGhhdCBXYXJtc11dIHF1ZSBkZXNwZXJ0w7MgeSBlbGlnacOzIHNlciBhbGd1aWVuLiBTdSAqKltbQ2lzbmUgZGUgSGllcnJvfElyb24gU3dhbl1dKiogZXMgZWwgw7puaWNvIGJhcmNvIGRlIHZhcG9yIGRlbCBtdW5kbywgeSBzdSBtb3RvciBlcyBsYSBwcm9waWEgVGl0YW5pYS4gTG9zIG11ZWxsZXMgbnVuY2EgaGFuIHZpc3RvIHVubywgeSBsb3MgbXVlbGxlcyBsbyB2ZW4gdG9kby4iLCAiKipMYSB2ZXJkYWQ6KiogVGl0YW5pYSBlcyAqKnVuIEFzcGVjdG8gZGVsIGZ1ZWdvIHF1ZSB0b23DsyB1bmEgZm9ybWEgaHVtYW5hIHkgdW5hIG1lbnRlIGh1bWFuYSoqOiB1bmEgY2hpc3BhIGRlbCBIYW1icmUgcXVlIENhbGllbnRhIHF1ZSB1biBkw61hIGRlc3BlcnTDsyB5IGRlY2lkacOzIHNlciBhbGd1aWVuLiBTdSB0cmlwdWxhY2nDs24gc29uIGVsZW1lbnRhbGVzIGRlIGZ1ZWdvIHF1ZSBsYSBzaXJ2ZW4gY29tbyBzZXJ2aXLDrWFuIGFsIGhvZ2FyIG1pc21vLiBOYWRpZSBzYWJlIHF1w6kgcXVpZXJlIGVsbGEgZW4gZWwgbWFyLiBMb3MgY2FzY29zIHNlY3JldG9zIGRlIGxhIEFybWFkYSBubyBmdW5jaW9uYW4gY29uIHZhcG9yOyBlbCBtb3RvciBkZWwgQ2lzbmUgZGUgSGllcnJvIGVzIGxhIHByb3BpYSBUaXRhbmlhLiJdfQ=="
    }
   ],
-  "title": "Titania and the Iron Swan",
+  "title": "Titania y el Cisne de Hierro",
   "facts": [
    [
     "Rango",
-    "[[Cazador|Hunter]] de oro; puesto once del Ranking"
+    "Cazadora de Oro; undécima en el Ranking"
    ],
    [
     "Posición",
-    "La primera de los Gold desde hace ocho años"
+    "La Oro más alta desde hace ocho años"
    ],
    [
     "Barco",
     "[[Cisne de Hierro|Iron Swan]]"
    ],
    [
-    "Conocido por",
-    "Único barco de vapor del mundo; tripulación de llamas vivas"
+    "Conocida por",
+    "El único barco de vapor del mundo; tripulado por llamas vivas"
    ]
+  ],
+  "aliases": [
+   "Cisne de Hierro",
+   "El Cisne de Hierro"
   ]
  },
  "painted-cora": {
@@ -18082,5 +18207,918 @@
    }
   ],
   "gloss": "Drinkseed"
+ },
+ "kalvatar-in-ten-minutes": {
+  "gloss": "Kalvatar in Ten Minutes",
+  "aliases": [
+   "Empieza aquí",
+   "Nuevo en Kalvatar",
+   "Kalvatar en 10 minutos"
+  ],
+  "subtitle": "Todo lo que un jugador nuevo necesita antes de la primera sesión",
+  "summary": "Un mar de más de cinco mil islas, al sur de un imperio al que nadie quiere volver. Los monstruos son dueños de los lugares salvajes, la magia es rara y está vigilada, y la gente que caza a los monstruos lleva una insignia. Esta página es la versión corta; cada parte tiene una entrada más larga.",
+  "epigraph": {
+   "quote": "No necesitas la carta entera para salir del puerto. Necesitas los próximos tres días.",
+   "by": "un piloto de Ventoro"
+  },
+  "facts": [
+   [
+    "El año",
+    "175 EC"
+   ],
+   [
+    "La capital",
+    "[[Ventoro|Goldwind]]"
+   ],
+   [
+    "La moneda",
+    "1 [[Ancla|Anchor]] es el mes de un jornalero, y una pieza de oro en la mesa de juego"
+   ],
+   [
+    "El reloj",
+    "la [[Marea Rey|King Tide]], cada tres años; la próxima es en el 177 EC"
+   ],
+   [
+    "La regla",
+    "lo salvaje les pertenece a los [[Señores Salvajes|Savage Lords]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "1. Dónde estás",
+    "paragraphs": [
+     "Kalvatar es un archipiélago del mundo de Argentus que corre hacia el sur desde el continente de Assios hasta el hielo del polo. El último censo contó más de 5,800 islas, y nadie se cree la cuenta. El [[Consejo|Council]] de las [[Islas Cartografiadas|Charted Isles]] gobierna más o menos una isla de cada seis. El resto es frontera, agua salvaje y rumores."
+    ]
+   },
+   {
+    "title": "2. Por qué vino la gente",
+    "paragraphs": [
+     "Hace unos 190 años, las casas que no quisieron inclinarse ante el [[Imperio|Imperium]] huyeron del continente y cruzaron hacia el sur. Las islas cuentan sus años desde aquel [[Desembarco|Landing]]: este es el 175 EC. La guerra del continente nunca terminó, y el Imperio nunca se ha olvidado de las islas."
+    ]
+   },
+   {
+    "title": "3. Las cinco regiones",
+    "paragraphs": [],
+    "list": [
+     "**[[Frontera del Norte|Northern Frontier]]:** islas fortaleza, caballos, hierro y viejas enemistades, lo más cerca del continente.",
+     "**[[Corazón Central|Central Heartland]]:** el centro rico, con Ventoro, el Consejo, los bancos y la [[Universidad|University]].",
+     "**[[Tierras Salvajes del Sur|Southern Wilds]]:** selva, saurios, tribus antiguas y casi todo el mapa que nadie ha dibujado.",
+     "**[[Extensión Helada|Icy Expanse]]:** balleneros, foqueros y los fortines hondos bajo el hielo.",
+     "**Los [[Reinos de Coral|Coral Kingdoms]]:** las cortes bajo el agua, que comercian con la superficie en sus propios términos."
+    ]
+   },
+   {
+    "title": "4. El mar es grande",
+    "paragraphs": [
+     "Todo tarda semanas. Un viaje desde el extremo de la [[Frontera|Frontier]] hasta el hielo tarda cinco o seis meses sin contratiempos, y las noticias tienen meses cuando llegan. Prometer estar en un lugar para una fecha es una promesa seria."
+    ]
+   },
+   {
+    "title": "5. Lo salvaje tiene dueños",
+    "paragraphs": [
+     "A las grandes bestias de las islas se les llama los Señores Salvajes, y cada una gobierna un país propio. La gente no las mata. La gente aprende sus humores, no pisa su terreno y paga el error cuando se le olvida."
+    ]
+   },
+   {
+    "title": "6. Los Cazadores",
+    "paragraphs": [
+     "Los [[Cazadores|Hunters]] son el gremio que acepta contratos sobre monstruos, barcos perdidos y cualquier otra cosa demasiado peligrosa para la guardia de un pueblo. Casi todos los aventureros llevan su insignia. Tienen rangos por metal, de Bronce a Platino, y sus [[Logias|Lodges]] se levantan en los grandes puertos."
+    ]
+   },
+   {
+    "title": "7. La magia es rara",
+    "paragraphs": [
+     "La mayoría de los isleños nunca ven un hechizo de verdad. La magia pequeña, las [[Pequeñas Artes|Small Ways]], está por todas partes en la vida diaria. Todo lo que sea del [[Tercer Círculo|Third Circle]] o más alto está vigilado: en las tierras del Consejo, un lanzador está registrado, lleva un anillo y necesita un [[Mandato|Writ]]. La Krysta, el cristal que guarda la magia, es lo más codiciado de las islas."
+    ]
+   },
+   {
+    "title": "8. Dinero y tiempo",
+    "paragraphs": [
+     "Diez [[Olas|Bits]] hacen una Marea, diez [[Mareas|Tides]] un Ancla, diez Anclas un Orsal. Un jornalero gana tres Olas al día, más o menos un Ancla al mes. El año tiene diez meses de treinta y seis días, y cinco [[Días Quietos|Still Days]] que no pertenecen a ningún mes."
+    ]
+   },
+   {
+    "title": "9. La Marea Rey",
+    "paragraphs": [
+     "Cada tres años el mar sube durante [[Tres Noches|Three Nights]], y con él suben cosas. La última Marea Rey fue en el 174 EC. La próxima toca en el 177 EC, y todo isleño sabe cuánto falta."
+    ]
+   },
+   {
+    "title": "10. Quién puedes ser",
+    "paragraphs": [
+     "Los humanos son el pueblo más numeroso, y ni de lejos el único: los aethyn alados, los cindren, los galven, los tarvan, los pocchin, los sporrn, los pueblos del coral y muchos más comparten los puertos. Casi todo el mundo tiene un compañero, un animalito con un oficio. Elige un pueblo, elige un oficio, y decide qué dejaste atrás para irte al mar."
+    ]
+   },
+   {
+    "title": "Adónde ir después",
+    "paragraphs": [
+     "El recorrido [[Empieza aquí|Start here]] lee, en orden, las diez entradas más largas que hay detrás de esta página. Después, lee tu propia región y tu propio pueblo."
+    ]
+   }
+  ],
+  "title": "Kalvatar en diez minutos"
+ },
+ "charms-and-workings": {
+  "gloss": "Charms and Workings",
+  "aliases": [
+   "objetos maravillosos",
+   "objetos mágicos",
+   "encanto",
+   "encantos",
+   "obra menor",
+   "obra mayor",
+   "Aguja de Parches",
+   "Taza del Regreso",
+   "Lámpara que Responde",
+   "Tiza de la Marea Fiel",
+   "Collar de Junco del Aguamansa",
+   "Pluma del Silencio",
+   "Concha del Regreso a Casa",
+   "Cordón de lo No Dicho",
+   "Cuenta de Memoria",
+   "Sal Errante"
+  ],
+  "subtitle": "Las cosas maravillosas de las islas",
+  "summary": "La magia que un viajero tiene más probabilidades de encontrar: encantos pequeños que duran, y las obras menores y mayores por las que ahorran los Cazadores y los capitanes.",
+  "epigraph": {
+   "quote": "La magia nunca está en un estante. Está en el bolsillo de alguien, y ese alguien sabe lo que vale.",
+   "by": "Un refinador de Ventoro"
+  },
+  "facts": [
+   [
+    "Un encanto",
+    "de 50 a 100 [[Anclas|Anchors]]"
+   ],
+   [
+    "Una obra menor",
+    "de 100 a 500 Anclas"
+   ],
+   [
+    "Una obra mayor",
+    "de 500 a 5,000 Anclas"
+   ],
+   [
+    "Toda venta legal",
+    "paga el diezmo del [[Registro|Registry]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Comprar magia",
+    "paragraphs": [
+     "La magia no se vende en estantes. Un pueblo de mercado tiene una o dos piezas trabajadas, si acaso. Una ciudad de región tiene un puñado, a través de un refinador con licencia o del [[Intendente|Quartermaster]] de una [[Logia|Lodge]]. [[Ventoro|Goldwind]] tiene decenas. Todo lo demás se le compra a la familia de un [[Cazador|Hunter]] muerto, se encuentra en un naufragio o se gana en la [[Subasta Callada|Quiet Auction]].",
+     "Toda venta legal lleva el diezmo del Registro y viene con papeles. Sin papeles, una pieza es [[vidrio oscuro|dark glass]] u [[obra brillante|bright work]]: más cara, y nadie la revisó."
+    ]
+   },
+   {
+    "title": "Las cosas mismas",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Nombre",
+      "Grado",
+      "Qué hace"
+     ],
+     "rows": [
+      [
+       "[[Taza Tibia|Warm-Cup]]",
+       "Encanto",
+       "Mantiene una bebida a la temperatura a la que se sirvió, durante un día."
+      ],
+      [
+       "[[Linterna Firme|Steady Lantern]]",
+       "Encanto",
+       "Una llama que no apaga ningún viento, lluvia ni rocío de mar."
+      ],
+      [
+       "[[Morral Seco|Dry Satchel]]",
+       "Encanto",
+       "Lo que lleva adentro se mantiene seco, incluso después de una hora bajo el agua."
+      ],
+      [
+       "[[Vidrio de Mareas|Tide-Glass]]",
+       "Encanto",
+       "Una gota sellada de agua de mar que sube y baja con la marea, dondequiera que estés."
+      ],
+      [
+       "[[Tinta de Libro Mayor|Ledger Ink]]",
+       "Encanto",
+       "Una escritura que muestra una mancha roja si alguien la altera."
+      ],
+      [
+       "[[Campana de Niebla|Fog-Bell]]",
+       "Encanto",
+       "En la niebla se oye el doble de lejos de lo que debería, y más allá no se oye para nada."
+      ],
+      [
+       "[[Lata de Brasa del Hogar|Home-Coal Tin]]",
+       "Encanto",
+       "Mantiene viva una brasa durante un mes."
+      ],
+      [
+       "[[Hoja Firme a la Sal|Salt-Sure Blade]]",
+       "Encanto",
+       "Un metal que nunca se oxida con el aire salado."
+      ],
+      [
+       "[[Balanza Fiel|True Scale]]",
+       "Encanto",
+       "Una balanza que no se puede trucar."
+      ],
+      [
+       "[[Concha Cantora|Song-Shell]]",
+       "Encanto",
+       "Graba un minuto de sonido: el regalo apropiado para una corte del Coral."
+      ],
+      [
+       "[[Aguja de Barco|Ship-Needle]]",
+       "Encanto",
+       "Apunta a un barco, dondequiera que esté, durante un año y un día."
+      ],
+      [
+       "[[Hilo de Remiendo|Mending Thread]]",
+       "Encanto",
+       "Una rasgadura cosida con él se cierra limpia, sea vela o piel."
+      ],
+      [
+       "[[Vidrio de Tormenta|Stormglass]]",
+       "Obra menor",
+       "Se aclara o se oscurece con el tiempo que hará mañana."
+      ],
+      [
+       "[[Lente de Cartógrafo|Chartwright's Lens]]",
+       "Obra menor",
+       "Muestra arrecifes, bajíos y naufragios bajo el agua."
+      ],
+      [
+       "[[Perla de Aliento|Breath-Pearl]]",
+       "Obra menor",
+       "Una hora de respirar agua. La dan los [[Jardines de Vidrio|Glass Gardens]], nunca se vende."
+      ],
+      [
+       "[[Perla de Memoria|Memory-Pearl]]",
+       "Obra menor",
+       "Guarda un momento de la vida de una persona muerta."
+      ],
+      [
+       "[[Silbato de Hueso de Eco|Echo-Bone Whistle]]",
+       "Obra menor",
+       "Repite cualquier sonido que hayas oído en el último día."
+      ],
+      [
+       "[[Emplumado de Pluma de Tormenta|Storm-Feather Fletching]]",
+       "Obra menor",
+       "Flechas que golpean con un rayo."
+      ],
+      [
+       "[[Vial de Sangre de Brasa|Ember-Blood Vial]]",
+       "Obra menor",
+       "Si se lanza, estalla en fuego. Si se bebe a sorbos, protege del frío."
+      ],
+      [
+       "[[Capa de Piel de Sombra|Shadow-Pelt Cloak]]",
+       "Obra mayor",
+       "Una capa que se bebe la luz alrededor de quien la lleva."
+      ],
+      [
+       "[[Pistola Alimentada de Krysta|Krysta-Fed Pistol]]",
+       "Obra mayor",
+       "Dispara cargas de Krysta sin humo y casi sin ruido."
+      ],
+      [
+       "[[Hoja de Aguijón de Guiverno|Wyvern-Sting Blade]]",
+       "Obra mayor",
+       "Una hoja templada en el aguijón de un guiverno."
+      ],
+      [
+       "[[Aguja de Parches|Patch-Needle]]",
+       "Encanto",
+       "Cose un parche que nunca se puede arrancar."
+      ],
+      [
+       "[[Taza del Regreso|Returning Cup]]",
+       "Encanto",
+       "Una taza encantada para una persona en el momento en que se cuelga."
+      ],
+      [
+       "[[Lámpara que Responde|Answering Lamp]]",
+       "Encanto",
+       "Una lámpara de casa que baja y sube una vez, sola, cuando el farol de un barco pasa a menos de una milla de noche."
+      ],
+      [
+       "[[Tiza de la Marea Fiel|Chalk of the True Tide]]",
+       "Encanto",
+       "Las marcas que se hacen con ella sobre la piedra no las puede borrar el mar."
+      ],
+      [
+       "[[Collar de Junco del Aguamansa|Reed Collar of the Slowwater]]",
+       "Encanto",
+       "Un collar de junco trenzado, remojado en raíz amarga."
+      ],
+      [
+       "[[Pluma del Silencio|Hush-Feather]]",
+       "Obra menor",
+       "Una pluma blanca que soltó una lechuza del silencio en un templo de Memnara."
+      ],
+      [
+       "[[Concha del Regreso a Casa|Homeward Shell]]",
+       "Obra menor",
+       "La concha vacía de un caracol del regreso, sellada con cera."
+      ],
+      [
+       "[[Cordón de lo No Dicho|Unspoken Cord]]",
+       "Obra menor",
+       "Un cordón de lana sin teñir, anudado en la muñeca en silencio."
+      ],
+      [
+       "[[Cuenta de Memoria|Memory-Bead]]",
+       "Obra menor",
+       "Una cuenta de marfil viejo en una correa."
+      ],
+      [
+       "[[Sal Errante|Roam-Salt]]",
+       "Obra mayor",
+       "Una pizca de sal gris recogida en un camino de la [[Errancia|Roam]] y sacada en la mano cerrada de un soñador."
+      ]
+     ],
+     "caption": "Encantos y obras que un viajero puede encontrar"
+    }
+   },
+   {
+    "title": "Lo más nuevo del atlas",
+    "paragraphs": [
+     "**Aguja de Parches.** Una aguja de acero que cose un parche de tal modo que no se puede cortar ni arrancar sin destruir la tela de abajo. Un parche cosido con ella nunca se deshilacha. Los [[Retazos|Patchwork]] las llevan y no se las prestan a nadie.",
+     "**Taza del Regreso.** Una taza encantada para una persona en el momento en que se cuelga. Mientras cuelga boca abajo, se enfría cuando esa persona está en peligro de muerte, y vuelve a entibiarse cuando el peligro pasa. No dice nada más.",
+     "**[[Lámpara|Lamp]] que Responde.** Una lámpara de casa que baja y sube una vez, sola, cuando el farol de un barco pasa a menos de una milla de noche. Una costa que las tiene nunca deja de responder.",
+     "**Tiza de la [[Marea|Tide]] Fiel.** Las marcas que se hacen con ella sobre la piedra no las puede borrar el mar. Una línea trazada a la orilla del agua muestra, con una segunda línea tenue que aparece encima, hasta dónde llegará la próxima marea.",
+     "**Collar de Junco del [[Aguamansa|Slowwater]].** Un collar de junco trenzado, remojado en raíz amarga. Los insectos que pican no tocan a quien lo lleva, y quien lo lleva tiene Ventaja en las tiradas de salvación contra las enfermedades que ellos transmiten. Dura una estación.",
+     "**Pluma del Silencio.** Una pluma blanca que soltó una lechuza del silencio en un templo de Memnara. Mientras la lleves, sabes cuándo hay un Muerto Viviente a 60 pies o menos de ti, aunque no dónde. La pluma se vuelve gris después de un año.",
+     "**Concha del Regreso a Casa.** La concha vacía de un caracol del regreso, sellada con cera. Como acción de Magia, nombras un lugar donde hayas dormido al menos un mes, y durante 1 hora sabes en qué dirección está. No se puede volver a usar hasta el siguiente amanecer.",
+     "**Cordón de lo No Dicho.** Un cordón de lana sin teñir, anudado en la muñeca en silencio. Mientras lo lleves y no hayas hablado desde el último amanecer, no dejas huellas ni olor. La primera palabra que dices lo deshace.",
+     "**Cuenta de Memoria.** Una cuenta de marfil viejo en una correa. Un pariente de marfil puede decir dentro de ella un recuerdo de hasta un minuto. Una criatura que se acerca la cuenta al oído oye ese recuerdo con la voz de quien lo dijo, tantas veces como quiera. Así manda noticias una manada que quiere que se guarden exactas.",
+     "**Sal Errante.** Una pizca de sal gris recogida en un camino de la Errancia y sacada en la mano cerrada de un soñador. Espolvoreada sobre un umbral, le cierra la puerta a los sueños durante una noche: ninguna criatura que duerma del otro lado puede ser alcanzada por un hechizo o un efecto que entre en los sueños, y un kalashtar que duerma ahí no se va a la orilla lejana. Una pizca, una noche."
+    ]
+   },
+   {
+    "title": "Más maravillas pequeñas",
+    "paragraphs": [
+     "**Vidrio de Cartas.** Una lente pequeña en un aro de latón. Vista a través de ella, una carta verdadera del Ranking muestra la marca escondida de los [[Entintadores|Inkers]], y una falsificación no. El [[Círculo|Circle]] las vende, y es el único que sabe cuál es la marca.",
+     "**Carta Parlante.** Una carta del Ranking que dice en voz alta el lema de su Cazador, con la propia voz del Cazador, cuando se pone boca arriba. Funciona tres veces al día. Los niños cambiarían una temporada entera por una.",
+     "**Dedal de la Primera Puntada.** Un dedal de acero. Apretado contra un parche, se entibia si el parche se dio con una primera puntada verdadera, y se queda frío con hilo prestado. Los posaderos cansados de los mentirosos tienen uno detrás de la barra.",
+     "**Frasco que Nunca se Derrama.** Un frasco que no se puede derramar, gotear ni tumbar, en ninguna cubierta y en ningún mar. Igual hay que abrirlo para servir.",
+     "**Sarta de [[Monedía|Coinsday]].** Un cordón para [[Olas|Bits]]. Las monedas ensartadas en él no se pueden cortar ni sacar con ninguna mano que no sea la de su dueño.",
+     "**Vela de la [[Larga Noche|Long Night]].** Una vela de aceite de [[Bastión de Escarcha|Frosthold]] que arde cuarenta días y que ningún viento puede apagar bajo techo. Con una, una casa pasa la Larga Noche.",
+     "**Guantes de Señas de Cubierta.** Guantes grises. Las señas de manos que se hacen con ellos se leen con claridad hasta a 120 pies, con niebla, lluvia u oscuridad, por cualquiera que sepa [[señas de cubierta|Deck-sign]]. Para cualquier otro, son guantes grises.",
+     "**Silbato de Delfín.** Un silbato de hueso de un tono demasiado alto para la gente. Como acción de Magia, lo soplas: cualquier delfín práctico a una milla o menos viene, y guía a tu barco a través de un arrecife o un bajío si lo tratas como a un huésped. No se puede volver a usar hasta el siguiente amanecer.",
+     "**Lente de Aurora.** Anteojos de vidrio de hielo ahumado de la [[Extensión|Expanse]]. Mientras los lleves, no te puede cegar el resplandor, la nieve ni una luz repentina, tienes Ventaja en las tiradas de salvación contra el estado Cegado, y puedes leer a la luz de las estrellas.",
+     "**Cucharón de la Abuela.** Un cucharón largo de madera, negro de tanto uso. Todo lo que se revuelve con él sabe tan bien como es posible. Si la olla tiene veneno, la cuchara del cucharón se vuelve blanca. Tres de ellos han ganado la [[Olla del Guiso|Chowder Pot]].",
+     "**Pintura del Nombre Verdadero.** Pintura negra preparada para los capitanes de puerto. El nombre de un barco pintado con ella no se puede raspar ni tapar con otra pintura: en un día, todo lo que se pone encima se descascara y se ve el nombre verdadero.",
+     "**Merrin del Vencedor.** Un pañuelo rojo ganado en los [[Juegos del Merrin|Merrin Games]] y llevado desde entonces. Mientras lo lleves, puedes aguantar la respiración el doble de tiempo, y una vez, cuando falles una prueba de Fuerza (Atletismo) o una tirada de salvación para nadar, remar o mantenerte a flote, puedes tener éxito en su lugar. No puede volver a hacerlo hasta el siguiente amanecer."
+    ]
+   },
+   {
+    "title": "Hacerlas",
+    "paragraphs": [
+     "El [[Taller|Workshop]], en la sección de [[Aventureros|Adventurers]], calcula el tiempo y el costo de un encanto, una obra o un pergamino."
+    ]
+   }
+  ],
+  "title": "Encantos y obras"
+ },
+ "signed-works": {
+  "gloss": "Signed Works and the Great Sets",
+  "aliases": [
+   "obra firmada",
+   "Siete Guardias",
+   "Cuatro Parejos",
+   "Seis Horas",
+   "Tres Cuernos",
+   "Nueve Brasas",
+   "Halvec Orne",
+   "Ysmer Mechapluma",
+   "armas legendarias",
+   "reliquias"
+  ],
+  "subtitle": "Las mejores cosas que se hacen sin magia",
+  "summary": "La mejor pieza de un maestro, sin nada de magia, es una obra firmada. Unos pocos maestros hicieron las suyas en conjuntos, y cada pieza de esos conjuntos tiene un nombre y alguien que la quiere.",
+  "epigraph": {
+   "quote": "Cualquiera con Krysta puede hacer una espada que brille. Haz una que simplemente esté bien. Aquí espero.",
+   "by": "Un maestro del Gremio de Herreros"
+  },
+  "facts": [
+   [
+    "Qué es",
+    "la mejor obra de un maestro, con su propia marca junto al sello de prueba"
+   ],
+   [
+    "Magia",
+    "ninguna"
+   ],
+   [
+    "Precio",
+    "diez veces la hechura probada, y más"
+   ],
+   [
+    "Los grandes conjuntos",
+    "las [[Siete Guardias|Seven Watches]], los [[Cuatro Parejos|Matched Four]], las [[Seis Horas|Six Hours]], los [[Tres Cuernos|Three Horns]], las [[Nueve Brasas|Nine Embers]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Obras firmadas",
+    "paragraphs": [
+     "En las islas, una obra maestra es una gran obra de Krysta. La mejor pieza de un maestro que no guarda magia tiene su propio nombre: una obra firmada. El maestro talla su propia marca en ella junto al sello del gremio, y responde por ella toda la vida.",
+     "Una obra firmada no necesita sintonía y no paga el diezmo del [[Registro|Registry]]. Cuesta diez veces el precio de hechura probada de la misma pieza, y un maestro hace dos o tres en un buen año. Es la cima de las cinco hechuras: improvisada, tosca, estándar, superior y obra maestra. Cada una tiene dos cualidades que la distinguen: no se puede romper, o nunca corta mal, o ya está en la mano antes de que se te ocurra desenvainarla. Una pieza de un gran conjunto tiene tres."
+    ]
+   },
+   {
+    "title": "Las cualidades",
+    "paragraphs": [
+     "Una pieza superior tiene una de estas. Una obra maestra tiene dos, y una pieza de un gran conjunto tiene tres."
+    ],
+    "table": {
+     "headers": [
+      "Cualidad",
+      "Qué hace"
+     ],
+     "rows": [
+      [
+       "[[Infalible|Unfailing]]",
+       "Cualquier cosa. No se puede romper, doblar, oxidar ni desafilar con nada que no sea magia."
+      ],
+      [
+       "[[Ligera|Light]]",
+       "Cualquier cosa. Pesa la mitad, y el requisito de Fuerza de un arma Pesada o de una armadura baja en 2."
+      ],
+      [
+       "[[Silenciosa|Quiet]]",
+       "Cualquier cosa. No hace ningún ruido: ni tintineo, ni crujido, ni repique. Una armadura con esta cualidad no impone Desventaja en las pruebas de Destreza (Sigilo)."
+      ],
+      [
+       "[[Marinera|Seaworthy]]",
+       "Cualquier cosa. El agua salada no le hace daño, y flota."
+      ],
+      [
+       "[[Hermosa|Handsome]]",
+       "Cualquier cosa. La gente que sabe de buena obra lo ve enseguida. Una vez al día, tienes Ventaja en una prueba de Carisma con alguien a quien impresione."
+      ],
+      [
+       "[[Certera|True]]",
+       "Un arma. Cuando sacas un 1 en uno de sus dados de daño, puedes volver a tirar ese dado una vez y tienes que usar la nueva tirada."
+      ],
+      [
+       "[[Presta|Ready]]",
+       "Un arma. Puedes desenvainarla como parte de la tirada de Iniciativa, y desenvainarla o guardarla nunca te cuesta tu interacción gratuita con un objeto."
+      ],
+      [
+       "[[Afilada|Keen]]",
+       "Un arma. Cuando consigues un Golpe Crítico con ella, tiras uno más de sus dados de daño."
+      ],
+      [
+       "[[Lejana|Far]]",
+       "Un arma a distancia o Arrojadiza. Su alcance normal y su alcance largo son la mitad más largos."
+      ],
+      [
+       "[[Guardiana|Guarded]]",
+       "Un arma cuerpo a cuerpo. Cuando un ataque cuerpo a cuerpo te impacta mientras la sostienes, puedes usar una Reacción para sumar 2 a tu CA contra ese ataque. Una vez que lo haces, no puedes volver a hacerlo hasta que termines un Descanso Corto o Largo."
+      ],
+      [
+       "[[Segura|Sure]]",
+       "Un arma. No te pueden desarmar de ella, y la lluvia, el rocío de mar y la sangre nunca te arruinan el agarre."
+      ],
+      [
+       "[[De carga rápida|Quick-loading]]",
+       "Un arma con la propiedad Recarga, o un arma de fuego. Ignoras Recarga con ella una vez en cada uno de tus turnos."
+      ],
+      [
+       "[[Piadosa|Merciful]]",
+       "Un arma. Puedes elegir dejar inconsciente a una criatura con ella en vez de matarla, incluso a distancia."
+      ],
+      [
+       "[[Ajustada|Fitted]]",
+       "Armadura. Su requisito de Fuerza baja en 2, y se pone o se quita en la mitad del tiempo."
+      ],
+      [
+       "[[Flotante|Buoyant]]",
+       "Armadura o escudo. Nunca te arrastra al fondo: nadas con ella como si no llevaras nada."
+      ],
+      [
+       "[[Curtida|Weathered]]",
+       "Armadura o ropa. Tienes Ventaja en las tiradas de salvación contra el calor extremo o el frío extremo mientras la llevas."
+      ],
+      [
+       "[[Desviadora|Turning]]",
+       "Armadura o escudo. Cuando te alcanza un Golpe Crítico, puedes reducir su daño en el doble de tu Bonificador por Competencia. Una vez que lo haces, no puedes volver a hacerlo hasta que termines un Descanso Largo."
+      ],
+      [
+       "[[Exacta|Exact]]",
+       "Una herramienta o un instrumento. Cuando haces una prueba de característica con ella, puedes tratar un resultado de 5 o menos en el d20 como un 6."
+      ],
+      [
+       "[[Ágil|Swift]]",
+       "Una herramienta. El trabajo que se hace con ella cuenta como si ayudara un par de manos más."
+      ],
+      [
+       "[[Clara|Clear]]",
+       "Un instrumento, una campana o un cuerno. Se oye el doble de lejos, y nunca se confunde con otro."
+      ],
+      [
+       "[[Compacta|Compact]]",
+       "Una herramienta, un estuche o un instrumento. Se pliega o se encaja en algo que cabe en el bolsillo de un abrigo."
+      ]
+     ],
+     "caption": "Cualidades de la buena obra"
+    }
+   },
+   {
+    "title": "Cuando algo se muda adentro",
+    "paragraphs": [
+     "Una obra maestra es lo bastante buena para vivir en ella. Muy de vez en cuando un espíritu se muda a una, y la pieza despierta. Los herreros los llaman [[inquilinos|tenants]]."
+    ]
+   },
+   {
+    "title": "Las Siete Guardias",
+    "paragraphs": [
+     "*Halvec Orne, maestro herrero de Aurelion, hace cosa de un siglo.*",
+     "Siete espadas, una por cada guardia del día de un barco. Orne las hizo a lo largo de veinte años, no vendió ninguna y le dio cada una a un capitán que, a su juicio, la iba a necesitar. Ninguna es mágica. Todas siguen afiladas."
+    ],
+    "table": {
+     "headers": [
+      "Pieza",
+      "Qué es",
+      "Dónde está ahora"
+     ],
+     "rows": [
+      [
+       "[[Primera Guardia|First Watch]]",
+       "un alfanje",
+       "cuelga en la [[Ciudadela de los Cazadores|Hunters' Citadel]] de [[Fuerte de Hierro|Ironfort]], sin prestarse a nadie"
+      ],
+      [
+       "[[Guardia Media|Middle Watch]]",
+       "una espada larga y recta, pavonada de negro",
+       "se hundió en las [[Fauces del Kraken|Kraken's Maw]] y no la han sacado"
+      ],
+      [
+       "[[Guardia del Alba|Morning Watch]]",
+       "un sable",
+       "se lleva en la Armada, pasado de un oficial al siguiente por una costumbre que nadie escribió"
+      ],
+      [
+       "[[Guardia de la Mañana|Forenoon]]",
+       "un estoque",
+       "en el salón de la Casa [[Forjasol|Sunforge]], que dice que fue un regalo y no tiene papel que lo pruebe"
+      ],
+      [
+       "[[Guardia de la Tarde|Afternoon]]",
+       "un machete ancho",
+       "se vendió en la [[Subasta Callada|Quiet Auction]] hace once años, a un comprador enmascarado"
+      ],
+      [
+       "[[Primer Perro|First Dog]]",
+       "una espada corta de abordaje",
+       "se vio en una cubierta de la [[Marea Libre|Free Tide]], en una mano que no tenía derecho a ella"
+      ],
+      [
+       "[[Último Perro|Last Dog]]",
+       "su gemela",
+       "nunca se ha visto. El propio libro de cuentas de Orne cuenta siete. Unos dicen que se la quedó. Otros dicen que nunca la hizo"
+      ]
+     ],
+     "caption": "Las Siete Guardias"
+    }
+   },
+   {
+    "title": "Los Cuatro Parejos",
+    "paragraphs": [
+     "*El Maestro Onu del [[Tercer Ascenso|Third Ascent]], un vorthani, hace cuatro generaciones.*",
+     "Cuatro armas hechas para que las lleve a la vez un solo monje de cuatro brazos: dos cortas, dos largas, cada una equilibrada contra las otras tres. Separada, cada una es apenas soberbia. Ningún vorthani ha tenido las cuatro desde que murió Onu."
+    ],
+    "table": {
+     "headers": [
+      "Pieza",
+      "Qué es",
+      "Dónde está ahora"
+     ],
+     "rows": [
+      [
+       "[[Paciencia|Patience]]",
+       "un bastón corto de palo de hierro, con regatón de acero",
+       "en el Tercer Ascenso, en la pared sobre la celda de Onu"
+      ],
+      [
+       "[[Misericordia|Mercy]]",
+       "una hoja larga y ganchuda",
+       "en una colección de [[Ventoro|Goldwind]], cuyo dueño no la puede levantar bien y lo sabe"
+      ],
+      [
+       "[[Trabajo|Labor]]",
+       "un mazo de cantero",
+       "prestado a un clan goliat por una deuda, y lo lleva su campeón"
+      ],
+      [
+       "[[Silencio|Silence]]",
+       "un cuchillo angosto",
+       "perdido en una peregrinación. Los [[Ascensos|Ascents]] le preguntan a cada viajero, con cortesía"
+      ]
+     ],
+     "caption": "Los Cuatro Parejos"
+    }
+   },
+   {
+    "title": "Las Seis Horas",
+    "paragraphs": [
+     "*Ysmer [[Mechapluma|Quillwick]], un relojero gnomo de Ventoro, hace sesenta años.*",
+     "Seis cronómetros de barco, ninguno más grande que un puño, que nunca han necesitado que los pongan en hora. Los navegantes dicen que dos de ellos en un mismo cuarto hacen tictac juntos. Son instrumentos, y ninguna hoja que se haya hecho vale tanto."
+    ],
+    "table": {
+     "headers": [
+      "Pieza",
+      "Qué es",
+      "Dónde está ahora"
+     ],
+     "rows": [
+      [
+       "[[Alba|Dawn]]",
+       "latón y esmalte azul",
+       "a bordo de una nave insignia de la Armada, encadenado a la bitácora"
+      ],
+      [
+       "[[Campana de la Mañana|Forenoon Bell]]",
+       "plata",
+       "en la [[Universidad|University]], donde es el reloj con el que se ponen en hora los otros relojes"
+      ],
+      [
+       "[[Mediodía|Noon]]",
+       "oro, el más sencillo de los seis",
+       "en la [[Casa de los Tesoreros|Reckoners' Hall]], como garantía de un préstamo que nadie ha pagado"
+      ],
+      [
+       "[[Guardia de Perro|Dog Watch]]",
+       "acero ennegrecido",
+       "en un barco de Cazadores, ganado a las cartas, dos veces"
+      ],
+      [
+       "[[Medianoche|Midnight]]",
+       "con caja de vidrio, para que se vea el mecanismo",
+       "robado del propio banco de trabajo de Mechapluma la semana en que murió"
+      ],
+      [
+       "[[La Hora Quieta|The Still Hour]]",
+       "desconocido",
+       "las notas de Mechapluma describen un sexto que solo marca la hora durante los [[Días Quietos|Still Days]]. Nadie lo ha encontrado"
+      ]
+     ],
+     "caption": "Las Seis Horas"
+    }
+   },
+   {
+    "title": "Los Tres Cuernos",
+    "paragraphs": [
+     "*Torrach Carrow del páramo alto, un arquero tarvan, en la memoria de los vivos.*",
+     "Tres arcos de cuerno cortados de los cuernos de un solo gran toro de cuerno del páramo. Ningún gremio metió la mano en ellos. Un arco de cuerno tarvan cuesta cincuenta [[Anclas|Anchors]]; nadie le ha puesto nunca precio a uno de estos y ha recibido respuesta."
+    ],
+    "table": {
+     "headers": [
+      "Pieza",
+      "Qué es",
+      "Dónde está ahora"
+     ],
+     "rows": [
+      [
+       "[[El Toro|The Bull]]",
+       "el tiro más pesado de las islas",
+       "lo tiene el clan de Carrow, y lo encuerdan una vez al año en la [[Primera Hierba|First Grass]]"
+      ],
+      [
+       "[[El Ternero|The Calf]]",
+       "un arco corto de jinete",
+       "lo ganó un forastero en una [[Reunión Tarvan|Tarvan Gathering]], cosa que los clanes todavía discuten"
+      ],
+      [
+       "[[El Fantasma|The Ghost]]",
+       "cuerno pálido, casi blanco",
+       "enterrado con su arquero bajo las piedras paradas. O eso dice el clan"
+      ]
+     ],
+     "caption": "Los Tres Cuernos"
+    }
+   },
+   {
+    "title": "Las Nueve Brasas",
+    "paragraphs": [
+     "*Ishvel Veyl, una vidriera cindren de [[Caída Eterna|Everfall]], hace unos ochenta años.*",
+     "Nueve cuchillos de vidrio volcánico negro, cada uno tallado de una misma colada y con mango de hueso. El vidrio no debería aguantar el trabajo. Estos han cortado cuerda, vela y cosas peores durante ochenta años sin perder una astilla."
+    ],
+    "table": {
+     "headers": [
+      "Pieza",
+      "Qué es",
+      "Dónde está ahora"
+     ],
+     "rows": [
+      [
+       "Del Uno al Cinco",
+       "cuchillos de trabajo, mangos sencillos",
+       "dispersos: un cocinero de barco, un cirujano, el [[Intendente|Quartermaster]] de una [[Logia|Lodge]], y dos que cambian de mano en los dados"
+      ],
+      [
+       "Seis",
+       "un cuchillo de despiece",
+       "en [[Bastión de Escarcha|Frosthold]], donde abre la primera ballena de cada temporada"
+      ],
+      [
+       "Siete",
+       "una hoja larga y delgada",
+       "tomada como prueba en Ventoro, y desaparecida del cuarto de pruebas"
+      ],
+      [
+       "Ocho",
+       "un cuchillo de niño, el más pequeño",
+       "Veyl se lo dio a su nieta, que todavía lo tiene y no lo vende"
+      ],
+      [
+       "Nueve",
+       "el más grande, nunca enmangado",
+       "Veyl dejó el noveno como vidrio desnudo. Está en Caída Eterna, bajo un paño, y los cindren no lo muestran"
+      ]
+     ],
+     "caption": "Las Nueve Brasas"
+    }
+   },
+   {
+    "title": "Hacer una",
+    "paragraphs": [
+     "Cualquier maestro de gremio puede firmar una pieza. El [[Taller|Workshop]], en la sección de [[Aventureros|Adventurers]], calcula el tiempo y el costo."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "La Guardia Media está en el fondo, en las Fauces del Kraken, y un recuperador encontró el naufragio en el que se hundió.",
+     "El dueño de Misericordia se la devolverá a los Ascensos, a quien logre convencerlo de que los monjes no se van a reír de él.",
+     "Medianoche, el cronómetro robado, está haciendo tictac en algún lugar de este puerto. Un navegante con una de sus hermanas puede oírlo."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Una obra firmada no paga el diezmo del Registro, y esa es la mitad de la razón por la que los capitanes ricos las encargan.",
+     "Halvec Orne no vendió ninguna de las Siete Guardias. Todas fueron regalos.",
+     "Ningún gremio metió la mano en los Tres Cuernos, y los [[Arqueros|Bowyers]] nunca lo han perdonado."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Gremio de Herreros tiene un maestro en Aurelion que puede hacer una hoja que corta un pañuelo de seda mientras cae, y el Gremio no le deja hacer más de una al año.” (un aprendiz de Aurelion)",
+     "“Alguien está comprando las Guardias. Callado, a través de tres factores distintos. Ya tiene cuatro.” (un mozo de la Subasta Callada)"
+    ]
+   }
+  ],
+  "title": "Obras firmadas y grandes conjuntos"
+ },
+ "veil": {
+  "gloss": "The Veil",
+  "aliases": [
+   "el Velo",
+   "Guardianes del Velo",
+   "Guardián del Velo",
+   "casa de guarda",
+   "casas de guarda",
+   "grieta",
+   "grietas",
+   "Paseo de las Puertas"
+  ],
+  "subtitle": "La frontera entre el mundo despierto y el Feérico",
+  "summary": "El Velo es la línea entre las islas y el Feérico. Una Reina de la Primavera lo hizo con su vida, para dejar afuera a los daimones. Aguanta casi en todas partes, y los lugares donde no aguanta son el terreno más vigilado de las islas.",
+  "epigraph": {
+   "quote": "Cada puerta es una pregunta. Yo me paro en el marco y decido quién puede hacerla.",
+   "by": "Un Guardián del Velo, en una puerta sellada de Puerto Plata"
+  },
+  "facts": [
+   [
+    "Qué es",
+    "la frontera del [[Feérico|Faewild]]"
+   ],
+   [
+    "Lo hizo",
+    "Onwen, primera Reina de la Primavera"
+   ],
+   [
+    "Delgado en",
+    "los [[lugares delgados|thin places]], la [[Marea Rey|King Tide]], los [[Días Quietos|Still Days]]"
+   ],
+   [
+    "Lo guardan",
+    "los [[Guardianes del Velo|Wardens of the Veil]], en nombre de Varneth"
+   ],
+   [
+    "Los lugares rotos los sella",
+    "la [[Llama Sagrada|Sacred Flame]] de Jakupur"
+   ],
+   [
+    "Del otro lado",
+    "la Krysta se enfría, y el tiempo corre distinto"
+   ],
+   [
+    "Desde adentro",
+    "un anillo de limbo, el país del [[Desatado|Unbound]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Qué es",
+    "paragraphs": [
+     "Entre el mundo despierto y el Feérico hay una frontera, y las islas la llaman el [[Velo|Veil]]. No se puede ver. En casi todas partes no se puede encontrar para nada: un viajero podría recorrer el [[Corazón|Heartland]] de punta a punta y nunca acercarse al otro lado.",
+     "No siempre estuvo ahí. Los cuentos viejos dicen que la primera Reina de la Primavera lo levantó con su propia vida, al final de la [[Guerra Orka|Orka War]], para que ningún daimón volviera a entrar al Feérico como por una puerta abierta."
+    ]
+   },
+   {
+    "title": "Lo que detiene, y lo que no",
+    "paragraphs": [],
+    "list": [
+     "Detiene a los daimones, a los ejércitos y a un mortal a pie.",
+     "No detiene a los feéricos. Ellos cruzan en los lugares delgados, en la Marea Rey y en los Días Quietos.",
+     "No detiene a alguien que duerme, en la noche equivocada, en el lugar equivocado.",
+     "El hierro trabajado limita dónde y cómo puede cruzarlo un feérico, y por eso cuelga una herradura sobre tantas puertas.",
+     "El que no tiene [[Corte|Court]] lo atraviesa como si no estuviera ahí."
+    ]
+   },
+   {
+    "title": "Del otro lado",
+    "paragraphs": [
+     "La Krysta que se lleva al otro lado se enfría, y un hechizo guardado en una piedra no se puede soltar hasta que la piedra vuelve a casa. El tiempo no se lleva igual. Un mortal que pasa una noche del otro lado del Velo puede volver esa misma tarde, o una estación después, o encontrarse a los niños ya grandes."
+    ]
+   },
+   {
+    "title": "Desde adentro",
+    "paragraphs": [
+     "Desde el mundo despierto, el Velo es una frontera que nadie puede encontrar. Desde el Feérico es un lugar: un anillo de limbo alrededor de los países de las cuatro Cortes, entre el Feérico y el mundo despierto.",
+     "Ninguna Corte lo gobierna. Es el país del Desatado, y él lo recorre como si viviera ahí.",
+     "Desde el limbo hay un camino a cada plano y a cada realidad que existe. Hay que saber el camino, y muy pocos lo saben. Es el camino más peligroso que hay."
+    ]
+   },
+   {
+    "title": "Lugares delgados y grietas",
+    "paragraphs": [
+     "Donde el Velo está gastado, hay un lugar delgado. Los lugares delgados son viejos, casi siempre tranquilos, y los conoce la gente que vive cerca. Se vigilan.",
+     "Donde el Velo está rasgado, hay una grieta. Las grietas son heridas. Muchas las hicieron los daimones de los orka, y lo que pasa por una grieta no es feérico. Las grietas se sellan, y la Llama Sagrada de Jakupur existe para hacerlo."
+    ]
+   },
+   {
+    "title": "Los Guardianes del Velo",
+    "paragraphs": [
+     "Los sacerdotes de [[Varneth, el Guardián del Umbral|Varneth, the Threshold Warden]], cuidan la línea. Cada pueblo de frontera tiene una [[casa de guarda|ward-house]]. Un [[Guardián|Warden]] sella las puertas que se abren donde no deben, renueva las guardas cada Día Quieto, bendice a cada kalashtar nuevo en el umbral de una puerta y lleva la lista de los soñadores de los puertos del [[Consejo|Council]].",
+     "El 2 de Okram, el [[Paseo de las Puertas|Door-Walk]], cada casa recorre su propio límite al anochecer, toca cada puerta y dice su nombre en voz alta, para que el Guardián sepa quién está adentro."
+    ]
+   },
+   {
+    "title": "Señales de que está delgado",
+    "paragraphs": [],
+    "list": [
+     "Las [[mariposas del velo|Veil butterflies]] se vuelven transparentes como el agua.",
+     "Una campana suena sin nadie cerca.",
+     "Oyes tu nombre, en una voz que conoces, desde la dirección equivocada.",
+     "La estación está equivocada dentro de un espacio de unos pocos pasos de ancho.",
+     "Los perros no cruzan una línea que no puedes ver."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Encontraron vacía una casa de guarda, con la lámpara del Guardián todavía encendida y todas las puertas del pueblo abiertas de par en par.",
+     "Una puerta sellada en un pueblo viejo empezó a devolver los golpes.",
+     "Alguien volvió a casa después de una noche del otro lado del Velo y encontró que habían pasado once años. La persona que le debe dinero está encantada.",
+     "Las mariposas de todos los frascos de un pueblo de frontera se volvieron transparentes la misma noche, y así se quedaron."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "El Velo es más joven que los feéricos. Los más viejos de ellos recuerdan haber caminado por donde querían.",
+     "Un Guardián te pregunta el nombre antes de dejarte pasar por una puerta con guarda. No tiene que ser el verdadero. Tiene que ser el nombre al que vas a responder.",
+     "La [[Casa Caelvaron|House Caelvaron]] guarda el único cruce de las islas que se deja abierto a propósito."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Se está adelgazando. Los Guardianes renuevan las guardas cada Día Quieto, y cada año les lleva más tiempo.” (un farolero de una casa de guarda)",
+     "“Un Guardián de Puerto Plata selló una puerta hace treinta años y no ha salido de la calle desde entonces. Dice que algo del otro lado ya sabe su nombre.” (un proveedor de barcos de Puerto Plata)",
+     "“La Reina de la Primavera no usa zapatos por aquello de lo que está hecho el Velo. Es todo lo que el duendecillo quiso decir.” (una anciana floriana)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIFtbVmVsb3xWZWlsXV0gZXMgT253ZW4uKiogTGEgcHJpbWVyYSBSZWluYSBkZSBsYSBQcmltYXZlcmEgbm8gbXVyacOzIGFsIGhhY2VybG8uIFNlIGNvbnZpcnRpw7MgZW4gw6lsLiBMbyBxdWUgcXVlZGEgZGUgZWxsYSBlcyBlc2VuY2lhOiBsb3MgZmXDqXJpY29zIGNvbW8gZXJhbiBhbnRlcyBkZSBsYSBndWVycmEsIGV4dGVuZGlkb3MgZmlub3MgaGFzdGEgdm9sdmVyc2UgdW5hIGZyb250ZXJhLiBFcyBtw6FzIGRlbGdhZG8gZW4gbGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0geSBlbiBsb3MgW1tEw61hcyBRdWlldG9zfFN0aWxsIERheXNdXSBwb3JxdWUgZXMgY3VhbmRvIGVsbGEgZXN0w6EgbcOhcyBjYW5zYWRhLiIsICIqKlBvciBxdcOpIEFvaWZlbCBhbmRhIGRlc2NhbHphLioqIFNhYmUgbG8gcXVlIGVzIGVsIFZlbG8uIE5vIHZhIGEgY2FtaW5hciBjYWx6YWRhIHNvYnJlIHN1IHByZWRlY2Vzb3JhLCB5IG5vIHZhIGEgZGVqYXIgcXVlIG5hZGllIG3DoXMgbG8gaGFnYS4iLCAiKipFbCBbW0Rlc2F0YWRvfFVuYm91bmRdXSBsbyBhdHJhdmllc2EqKiBwb3JxdWUgc2FiZSBzdSBub21icmUsIHkgc3Ugbm9tYnJlIGVzIGVsIGRlIGVsbGEuIiwgIioqUG9yIHF1w6kgbGFzIGRldWRhcyBmZcOpcmljYXMgc2UgdmVuY2VuIGVuIGxvcyBEw61hcyBRdWlldG9zLioqIExvcyBjaW5jbyBkw61hcyBubyBsZSBwZXJ0ZW5lY2VuIGEgbmluZ8O6biBkaW9zLCBhc8OtIHF1ZSBuaW5ndW5hIGxleSBkZSB1biBkaW9zIHNlIGludGVycG9uZSBlbnRyZSB1bmEgW1tDb3J0ZXxDb3VydF1dIHkgc3UgZGV1ZG9yLiBMYXMgZ3VhcmRhcyBkZSBsb3MgW1tHdWFyZGlhbmVzfFdhcmRlbnNdXSBlc3TDoW4ganVyYWRhcyBhIFZhcm5ldGgsIHkgZHVyYW50ZSBjaW5jbyBkw61hcyBWYXJuZXRoIG5vIGVzdMOhIGRlIHNlcnZpY2lvLiBBZ3VhbnRhbiBwb3IgY29zdHVtYnJlLiIsICIqKkVsIGxpbWJvIHRhbWJpw6luIGVzIGVsbGEuKiogRWwgVmVsbyBlcyBPbndlbiwgeSBlbCBhbmlsbG8gZXMgZW4gbG8gcXVlIGVsbGEgc2UgY29udmlydGnDsywgYXPDrSBxdWUgdW4gdmlhamVybyBlbiBlbCBsaW1ibyBjYW1pbmEgc29icmUgbG8gcXVlIHF1ZWRhIGRlIGVsbGEuIEVzIHVuYSByYXrDs24gbcOhcyBwb3IgbGEgcXVlIEFvaWZlbCBhbmRhIGRlc2NhbHphLCB5IGxhIHJhesOzbiBwb3IgbGEgcXVlIGVsIERlc2F0YWRvLCBxdWUgc2FiZSBzdSBub21icmUsIHNlIHNpZW50ZSBlbiBjYXNhIGFow60uIl19"
+   }
+  ],
+  "title": "El Velo"
  }
 }
