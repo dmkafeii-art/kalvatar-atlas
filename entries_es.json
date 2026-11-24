@@ -9452,39 +9452,170 @@
  },
  "suns-grave": {
   "gloss": "The Sun's Grave",
-  "subtitle": "Una maravilla del mar abierto",
-  "summary": "Un trecho de mar abierto al sur del golfo de Ventoro que las cartas más antiguas nombran y que ninguna carta explica.",
+  "subtitle": "Nombrada en todas las cartas viejas, explicada en ninguna",
+  "summary": "Un trecho de mar abierto al sur del golfo de Ventoro que las cartas más viejas nombran y que ninguna carta explica.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Dónde",
+    "al sur del golfo de [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Marcada",
+    "solo en las cartas más viejas"
+   ],
+   [
+    "Pescada",
+    "una vez"
    ]
   ],
-  "title": "La Tumba del Sol"
+  "title": "La Tumba del Sol",
+  "epigraph": {
+   "quote": "Agua tibia en pleno invierno y oro en la red. Corté la red y no he vuelto.",
+   "by": "Un pescador de Ventoro"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "No hay nada que ver. La [[Tumba del Sol|Sun’s Grave]] es mar abierto, a un día al sur del golfo, sin arrecife, sin roca y sin razón para tener nombre. Las cartas más viejas de las islas la marcan de todos modos, con la misma mano que marcó los bajíos.",
+     "Los pescadores dicen que el agua ahí está tibia en invierno, y que las redes suben con pan de oro enredado. Nadie la pesca dos veces."
+    ]
+   },
+   {
+    "title": "Lo que hacen los prácticos",
+    "paragraphs": [
+     "Los prácticos que salen de Ventoro la rodean de lejos sin poder decir por qué. Cuesta medio día. Ningún armador se ha quejado nunca del medio día."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay una carta en la Universidad con el nombre escrito en una letra que nadie lee, y al lado un dibujito de una corona bajo las olas.” (el aprendiz de un cartógrafo)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIFtbUmV5IEhvbmRvfERlZXAgS2luZ11dIGVzIHVuYSBwZXJzb25hLioqIE9ydmFudGhpcyBlcmEgdW4gZHJhZ8OzbiBkZSBvcm8gZGUgbGEgw6lwb2NhIGRlIGxvcyBvcmthIHF1ZSBhdMOzIHN1IHZpZGEgYSB1biBjb3JhesOzbiBkZSBLcnlzdGEgeSBzZSBsZXZhbnTDsyBjb21vIGRyYWNvbGljaGUsIGVsIG3DoXMgZ3JhbmRlIG5pZ3JvbWFudGUgcXVlIGhhIGNvbm9jaWRvIGVsIG11bmRvLiBMb3MgZHJhZ29uZXMgZGUgZXNhIMOpcG9jYSBsbyBzZWxsYXJvbiBtdXkgcG9yIGRlYmFqbyBkZSBsYSBbW1R1bWJhIGRlbCBTb2x8U3VuJ3MgR3JhdmVdXS4gVW5hIHZleiBwb3IgZ2VuZXJhY2nDs24gc2UgZGEgdnVlbHRhIGVuIHN1IHN1ZcOxbywgeSBlbCBsZWNobyBkZWwgbWFyIHNlIGRhIHZ1ZWx0YSBjb24gw6lsLiIsICIqKkVhbW9zIFtbVmVudG9yb3xHb2xkd2luZF1dKiogZnVuZMOzIGxhIGNpdWRhZCBlbiBlc2UgZ29sZm8gcG9ycXVlIGVsIGNhbWlubyBoYWNpYSBhYmFqbyBlbXBpZXphIGRlYmFqbyBkZSDDqWwuIEVsIFJleSBIb25kbyBsZSBlbnNlw7HDsyBlbCByaXRvIGRlbCBsaWNoZSBlbiBzdWXDsW9zLiBBbGd1bm9zIGRlIGxvcyBjdWVycG9zIHF1ZSBzZSBsZSBwYWdhbiBhIGxhIFtbQ29ydGUgZGUgSHVlc29zfENvdXJ0IG9mIEJvbmVzXV0gYmFqYW4gcG9yIGxhIGVzY2FsZXJhIG3DoXMgYmFqYSBwYXJhIG1hbnRlbmVyIGFsIHJleSBhbGltZW50YWRvIHkgc2/DsWFuZG8uIEVhbW9zIGVzIHN1IGFsdW1ubywgc3UgZGV1ZG9yIHkgc3UgY2FyY2VsZXJvLiIsICJMb3MgSXRocmVubmFpIHRlbWVuIHF1ZSB1bmEgW1tMw6FtcGFyYXxMYW1wXV0gYXBhZ2FkYSBlbiBzdSBub2NoZSBzZWEgdW5hIGRlIGxhcyBtYW5lcmFzIGRlIGRlc3BlcnRhcmxvLCB5IHF1ZSBlbCAxODAgRUMgc2VhIGVzYSBub2NoZS4iLCAiKipFbCByZXkgYmFqbyBsYSBUdW1iYSBkZWwgU29sKioiLCAiKkxhIHN1cGVyZmljaWUgY3JlZSBxdWUgZWwgUmV5IEhvbmRvIGVzIHVuYSBhbGluZWFjacOzbi4gTGxldmEgZWwgbm9tYnJlIGRlIGFsZ3VpZW4uKiIsICIqKk9ydmFudGhpcyoqIGVyYSB1biBkcmFnw7NuIGRlIG9ybyBkZSBsYSDDqXBvY2EgZGUgbG9zIG9ya2EsIHlhIHZpZWpvIGVudG9uY2VzLCB5IG9ic2VzaW9uYWRvIGNvbiBsYSBsw61uZWEgZW50cmUgbGEgdmlkYSB5IGxhIG11ZXJ0ZTogcG9yIGTDs25kZSBjb3JyZSwgcXVpw6luIGxhIGNydXphLCB5IHNpIHNlIHBvZMOtYSB2b2x2ZXIgYSBjcnV6YXIuIEVzdHVkacOzIGVsIHBvZGVyIGRlIGxhIEtyeXN0YSBwYXJhIHJldGVuZXIgbG8gcXVlIHNlIHZpZXJ0ZSBlbiBlbGxhLCB5IGFsIGZpbmFsIHNlIHZlcnRpw7MgYSBzw60gbWlzbW8uIEF0w7Mgc3UgdmlkYSBhIHVuIGNvcmF6w7NuIGRlIEtyeXN0YSB5IHNlIGxldmFudMOzIGRlIHN1IHByb3BpYSBtdWVydGUgY29tbyB1biAqKmRyYWNvbGljaGUqKiwgZWwgbcOhcyBncmFuZGUgbmlncm9tYW50ZSBxdWUgaGEgY29ub2NpZG8gZWwgbXVuZG8uIExvIHF1ZSBoaXpvIGNvbiBlc2UgcG9kZXIsIGxvcyBkcm93IG5vIGxvIHF1aWVyZW4gZGVjaXIsIHkgbG9zIGVuYW5vcyBudW5jYSBsbyBlc2NyaWJpZXJvbi4iLCAiTG9zIGRyYWdvbmVzIGRlIGVzYSDDqXBvY2EgbG8gc2VsbGFyb24gZW4gbG8gaG9uZG8uIFN1IHByaXNpw7NuIGVzdMOhIG11eSBwb3IgZGViYWpvIGRlbCBsZWNobyBkZWwgbWFyLCBiYWpvIGVsIHRyb3pvIGRlIG1hciBhYmllcnRvIGFsIHN1ciBkZWwgZ29sZm8gZGUgVmVudG9ybyBxdWUgbGFzIGNhcnRhcyBtw6FzIHZpZWphcyBsbGFtYW4gKipsYSBUdW1iYSBkZWwgU29sKiouIExvcyBwZXNjYWRvcmVzIGRpY2VuIHF1ZSBhaMOtIGVsIGFndWEgZXN0w6EgdGliaWEgZW4gaW52aWVybm8geSBxdWUgbGFzIHJlZGVzIHN1YmVuIGNvbiBwYW4gZGUgb3JvIGVuZ2FuY2hhZG8sIHkgbmFkaWUgbGEgcGVzY2EgZG9zIHZlY2VzLiIsICJEdWVybWUsIGNhc2kgc2llbXByZS4gVW5hIHZleiBwb3IgZ2VuZXJhY2nDs24sIGN1YW5kbyBsYSBncmFuIGFsaW5lYWNpw7NuIHRpcmEgZGVsIG11bmRvLCBzZSBkYSB2dWVsdGEgZW4gc3Vlw7FvcywgeSBlbCBsZWNobyBkZWwgbWFyIGdpcmEgY29uIMOpbDogbGFzIGNvc3RhcyBzZSB2dWVsdmVuIGEgZGlidWphciBhcnJpYmEsIGxvcyBjYW1pbm9zIHNlIHZ1ZWx2ZW4gYSBkaWJ1amFyIFtbQWJham98QmVsb3ddXSwgeSBsYSBMw6FtcGFyYSB0aWVuZSBxdWUgYXJkZXIgbcOhcyBmdWVydGUgcGFyYSBhZ3VhbnRhciBlbCB0ZW1ibG9yLiBQb3IgZXNvIGxhIFtbR3JhbiBFbnRyZWdhfEdyZWF0IEdpdmluZ11dIGNhZSBlbiBzdXMgbm9jaGVzLCB5IHBvciBlc28gbG9zIEl0aHJlbm5haSBsZXMgcHVzaWVyb24gc3Ugbm9tYnJlIGEgc3VzIHBlb3JlcyBub2NoZXMgbXVjaG8gYW50ZXMgZGUgcXVlIGxvIGhpY2llcmFuIGxvcyBbW0xsYW1hbWFyZWFzfFRpZGVjYWxsZXJzXV0uIiwgIioqU3Vlw7FhIGhhY2lhIGFmdWVyYS4qKiBMb3Mgbmlncm9tYW50ZXMgcXVlIGR1ZXJtZW4gY2VyY2EgZGVsIGFndWEgaG9uZGEgYSB2ZWNlcyBzdWXDsWFuIGNvbiB1bmEgdm96IGRvcmFkYSBxdWUgZW5zZcOxYS4gQ2FzaSB0b2RvcyBkZXNwaWVydGFuIHNpbiBuYWRhLiBVbm8gbm8uIiwgIioqRWFtb3MgVmVudG9ybyoqICgqW1tMYSBDb3J0ZSBkZSBIdWVzb3N8VGhlIENvdXJ0IG9mIEJvbmVzXV0qKSBsbyBlbmNvbnRyw7MuIEVhbW9zIGZ1bmTDsyBWZW50b3JvIGVuIGVzZSBnb2xmbyBwb3JxdWUgZWwgY2FtaW5vIGhhY2lhIGFiYWpvIGVtcGllemEgZGViYWpvIGRlIMOpbCwgeSBlbCBSZXkgSG9uZG8gbGUgZW5zZcOxw7MgZWwgcml0byBkZWwgbGljaGUgZW4gc3Vlw7Fvcy4gTGEgZGV1ZGEgdG9kYXbDrWEgc2UgcGFnYTogYWxndW5vcyBkZSBsb3MgY3VlcnBvcyBxdWUgc2UgbGUgcGFnYW4gYSBsYSBDb3J0ZSBkZSBIdWVzb3MgYmFqYW4gcG9yIGxhIGVzY2FsZXJhIG3DoXMgaG9uZGEgZGVsIG9zYXJpbyBwYXJhIG1hbnRlbmVyIGFsIHJleSBhbGltZW50YWRvIHkgc2/DsWFuZG8uIEVhbW9zIGVzIHN1IGFsdW1ubywgc3UgZGV1ZG9yIHkgc3UgY2FyY2VsZXJvLCB5IHRlbWUgZWwgZMOtYSBlbiBxdWUgZGVzcGllcnRlIGVsIHJleSBtw6FzIHF1ZSBhIGN1YWxxdWllciBjb3NhIHNhbHZvIGFsIFNhbmdyYWRvLiIsICIqKkthcmEqKiwgbGEgZGUgb3JvIGRlIGxvcyBbW0RpZXogZGUgUGxhdGlub3xQbGF0aW51bSBUZW5dXSwgc2FiZSBleGFjdGFtZW50ZSBsbyBxdWUgaGF5IGJham8gbGEgVHVtYmEgZGVsIFNvbC4gTnVuY2EgbG8gaGEgZGljaG8uIiwgIioqUXXDqSBsbyBkZXNwZXJ0YXLDrWEqKiBubyBzZSBzYWJlLiBMb3MgSXRocmVubmFpIHRlbWVuIHF1ZSB1bmEgTMOhbXBhcmEgYXBhZ2FkYSBlbiBzdSBub2NoZSBzZWEgdW5hIGRlIGxhcyBtYW5lcmFzLCB5IHF1ZSBlbCAxODAgRUMgc2VhIGVzYSBub2NoZS4iLCAiKipFbCBSZXkgSG9uZG8gZGVsIDE4MCBFQyoqIiwgIkVsIHB1bHNvIGRlIGxhIEzDoW1wYXJhIHNlIGFjZWxlcmEgYW50ZXMgZGUgY2FkYSBhbGluZWFjacOzbiwgeSBsb3MgSXRocmVubmFpLCBxdWUgbG8gY3VlbnRhbiwgc2FiZW4gZWwgcHLDs3hpbW8gUmV5IEhvbmRvIGNvbiBsYSBub2NoZSBleGFjdGE6ICoqZWwgMTgwIEVDKiouIExhIHByb3BpYSBjdWVudGEgZGUgbGEgR3VhcmRpYW5hIGRlIGxhIEzDoW1wYXJhIGVzIHF1ZSBsb3MgSXRocmVubmFpIG5vIHB1ZWRlbiBwYXNhciBvdHJhIEdyYW4gRW50cmVnYSBjb24gc3UgcHJvcGlhIGx1ei4gU2kgbmFkYSBjYW1iaWEsIGVuIGxhIHByaW1lcmEgZGUgbGFzIG5vY2hlcyBkZWwgUmV5IEhvbmRvIGxhIEzDoW1wYXJhIHRpdGlsYSwgeSBzZSBhcGFnYS4iLCAiTG8gcXVlIHBhc2EgZW50b25jZXM6IiwgIioqTGEgZ3JpZXRhIHNlIGFicmUuKiogRWwgVmFjw61vIHN1YmUgYmFqbyBlbCBtYXIgaW50ZXJpb3IgZGUgbG8gU2FsdmFqZSBjb21vIHN1YmnDsyBlbiBlbCBleHRyZW1vIHN1ciBlbiBlbCAxNDgsIHkgZGUgYWjDrSBhIGNhZGEgY2FtaW5vIGJham8gY2FkYSBpc2xhLiIsICIqKlRvZGFzIGxhcyBCb2NhcyBIdWVjYXMgc2UgZW5zYW5jaGFuIGEgbGEgdmV6LioqIExvcyBbW0h1ZWNvc3xIb2xsb3dzXV0gcXVlIGxhIFtbR3VhcmRpYSBkZSBsYSBMw6FtcGFyYXxMYW1wZ3VhcmRdXSBoYSBjb250ZW5pZG8gZW4gbG8gaG9uZG8gZHVyYW50ZSBlZGFkZXMgc3ViZW4gcG9yIGNhZGEgY2FtaW5vLCB5IGNhZGEgY2FtaW5vIHN1YmUgYmFqbyB1bmEgaXNsYS4iLCAiKipMb3MgW1tFbm1hc2NhcmFkb3N8TWFza2VkXV0gc2UgbXVldmVuLioqIExhIENhbmNpw7NuIHNlIHZ1ZWx2ZSBlbnNvcmRlY2Vkb3JhIGVuIGNhZGEgcG96by4iLCAiKipFbCBbW0FndWEgUXVpZXRhfFN0aWxsd2F0ZXJdXSBkZWphIGRlIGVzdGFyIHF1aWV0YS4qKiIsICJMYSBbW1ZpZ2lsaWEgZGUgUGxhdGF8U2lsdmVyIFZpZ2lsXV0gYXBlbmFzIHB1ZWRlIHNvc3RlbmVyIHRyZXMgbHVnYXJlcyBlbiBlbCBleHRyZW1vIHN1ci4gTm8gcHVlZGUgc29zdGVuZXIgZXN0by4gTmFkaWUgcHVlZGUuIE5vIGRlYmUgcGFzYXIuIl19"
+   }
+  ]
  },
  "veil-of-shadows": {
   "gloss": "The Veil of Shadows",
-  "subtitle": "El telón vuelve a subir.",
-  "summary": "Un teatro de sombras en el barrio viejo de Ventoro, a media altura de los anillos de la ciudad, donde una sola obra se ha representado cada noche durante unos ciento cuarenta años sin una sola noche a oscuras.",
+  "subtitle": "Una obra, ciento cuarenta años",
+  "summary": "Un teatro de sombras en el barrio viejo de Ventoro donde una sola obra se ha representado cada noche durante unos ciento cuarenta años sin una sola noche a oscuras.",
   "facts": [
    [
     "Región",
-    "[[Corazón Central|Central Heartland]]"
+    "El [[Corazón Central|Central Heartland]]"
+   ],
+   [
+    "Dónde",
+    "el barrio viejo de [[Ventoro|Goldwind]], a media altura de los anillos"
+   ],
+   [
+    "En cartel",
+    "unos ciento cuarenta años"
+   ],
+   [
+    "Los actores",
+    "nunca vistos"
+   ],
+   [
+    "El palco del Fundador",
+    "siempre vacío"
    ]
   ],
-  "title": "El Velo de Sombras"
+  "title": "El Velo de Sombras",
+  "epigraph": {
+   "quote": "Mi abuela vio el primer acto. Me dicen que ya casi llegamos al segundo.",
+   "by": "Un abonado de temporada de Ventoro"
+  },
+  "sections": [
+   {
+    "title": "El teatro",
+    "paragraphs": [
+     "El [[Velo de Sombras|Veil of Shadows]] está a media altura de los anillos de la ciudad, entre el puerto y el barrio de los bancos. Está de moda, es hermoso y es muy viejo. Los actores actúan detrás de un gran velo de seda blanca, y nadie les ha visto nunca la cara.",
+     "La sala nunca se ha quedado a oscuras. Con peste, con sitio y con [[Marea Rey|King Tide]], las lámparas detrás de la seda se han encendido todas las noches."
+    ]
+   },
+   {
+    "title": "La obra",
+    "paragraphs": [
+     "Hay una sola obra, y no tiene fin. Sus personajes son máscaras de los poderes de las islas: una casa, una flota, una fe, una deuda. La nobleza de Ventoro no se pierde una temporada, en parte por el arte y en parte para ver a quién están representando este año y cómo.",
+     "Un palco siempre se deja vacío. Es el [[palco del Fundador|Founder’s box]], y ha estado vacío desde que la obra está en cartel."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Fui en un Tumbadía. Una de las sombras de la seda era yo. Hizo algo que yo todavía no he hecho.” (un escribiente de Ventoro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIFtbVmVsbyBkZSBTb21icmFzfFZlaWwgb2YgU2hhZG93c11dKiogZXMgdW4gdGVhdHJvIGRlIHNvbWJyYXMgZW4gZWwgYmFycmlvIHZpZWpvIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dLCBhIG1lZGlhIGFsdHVyYSBkZSBsb3MgYW5pbGxvcyBkZSBsYSBjaXVkYWQsIGVudHJlIGVsIHB1ZXJ0byB5IGVsIGJhcnJpbyBkZSBsb3MgYmFuY29zLiBFc3TDoSBkZSBtb2RhLCBlcyBoZXJtb3NvIHkgZXMgbXV5IHZpZWpvLiIsICIqKkVsIFZlbG8gZGUgU29tYnJhcyoqIiwgIioqRWwgZXNjZW5hcmlvOioqIGxvcyBhY3RvcmVzIGFjdMO6YW4gZGV0csOhcyBkZSB1biBncmFuIHZlbG8gZGUgc2VkYSBibGFuY2EsIHkgZWwgcMO6YmxpY28gc29sbyB2ZSBzdXMgc29tYnJhcy4gTmFkaWUgbGUgaGEgdmlzdG8gbnVuY2EgbGEgY2FyYSBhIHVuIGFjdG9yLiIsICIqKkxhIG9icmE6KiogdW5hIHNvbGEgb2JyYSwgc2luIGZpbiwgaW1wcm92aXNhZGEgbm9jaGUgdHJhcyBub2NoZSBkdXJhbnRlIHVub3MgY2llbnRvIGN1YXJlbnRhIGHDsW9zIHNpbiB1bmEgc29sYSBub2NoZSBhIG9zY3VyYXMuIFN1cyBwZXJzb25hamVzIHNvbiBtw6FzY2FyYXMgZGUgbG9zIHBvZGVyZXMgZGUgbGFzIGlzbGFzOiBlbCBNZXJjYWRlciwgZWwgQWxtaXJhbnRlLCBlbCBbW0NhemFkb3J8SHVudGVyXV0sIGVsIEVydWRpdG8sIGxhIENhc2EsIGVsIFNhY2VyZG90ZSwgZWwgRm9yYXN0ZXJvIGRlbCBOb3J0ZS4iLCAiKipFbCBww7pibGljbzoqKiBsYSBub2JsZXphIHZpZW5lIHBvciBlbCBhcnRlLiBMb3MgcXVlIHNhYmVuIGxlZXIgbGEgb2JyYSB2aWVuZW4gcG9yIGxhcyBub3RpY2lhcywgbGFzIGFkdmVydGVuY2lhcyB5IGxhcyBzZW50ZW5jaWFzLiIsICIqKkPDs21vIGZ1bmNpb25hIGVsIFtbVmVsb3xWZWlsXV0qKiIsICJDdWFuZG8gbGEgW1tDb3J0ZXxDb3VydF1dIGFjZXB0YSB1biBjb250cmF0bywgKip1bmEgc29tYnJhIG51ZXZhKiogZW50cmEgYSBsYSBvYnJhLiIsICJDdWFuZG8gdW5hIHNvbWJyYSAqKnNlIGFwYWdhKiogZW4gZWwgdmVsbywgYWxndWllbiBlbiBsYSBjaXVkYWQgbXVlcmUgYW50ZXMgZGUgcXVlIHRlcm1pbmUgZWwgQ2ljbG8uIiwgIkxvcyB0cmF0b3Mgc2UgY2llcnJhbiBlbiBsb3MgcGFsY29zIGR1cmFudGUgbGEgZnVuY2nDs24uIFVuIGNvbnRyYXRvIHF1ZWRhIGFjZXB0YWRvIGN1YW5kbyB1biBhY3RvciBkaWNlIGNpZXJ0YSBsw61uZWEsIHkgbnVuY2Egc2UgcmV0aXJhLiIsICJDdWFuZG8gdW4gcGVyc29uYWplIGRlIGxhIG9icmEgc2UgdnVlbHZlIGRlbWFzaWFkbyBmdWVydGUsIGxvcyBkZW3DoXMgc2UgbGUgZWNoYW4gZW5jaW1hLCB5IGxhIGdlbnRlIHF1ZSBpbXBvcnRhIHNlIHZhIGEgY2FzYSBwZW5zYW5kbyBtdXkgZW4gc2VyaW8gZW4gcXVpw6luIGVzIGVzZSBwZXJzb25hamUuIiwgIioqTG8gcXVlIHRpZW5lIGRlIGV4dHJhw7FvKioiLCAiKipTb21icmFzIHNpbiBhY3Rvci4qKiBBbGd1bmFzIGRlIGxhcyBzb21icmFzIGRlbCB2ZWxvIG5vIHNvbiBkZSBuYWRpZSBxdWUgZXN0w6kgZGV0csOhcy4gTG9zIG11ZXJ0b3MgZGUgbGEgQ29ydGUgYWN0w7phbiBqdW50byBhIHN1cyB2aXZvcy4iLCAiKipFbCBwYWxjbyBkZWwgRnVuZGFkb3IqKiBzaWVtcHJlIGVzdMOhIHZhY8Otby4gQWxndW5hcyBub2NoZXMgc2FsZSBkZSDDqWwgdW4gZnLDrW8gcXVlIGhhY2UgdGVtYmxhciBsYXMgdmVsYXMsIHkgZXNhcyBub2NoZXMgbGEgb2JyYSBlcyBtdXkgYnVlbmEuIiwgIioqRWwgY2FtaW5vIGhhY2lhIGFiYWpvLioqIEJham8gZWwgZXNjZW5hcmlvLCB1bmEgZXNjYWxlcmEgYmFqYSBhbCBvc2FyaW8sIHkgZGVsIG9zYXJpbyBhIGxhIGNpdWRhZCBkZSBhYmFqby4iXX0="
+   }
+  ]
  },
  "abyssara-the-black-below": {
   "gloss": "Abyssara, the Black Below",
-  "subtitle": "Bajo las olas",
-  "summary": "Abyssara es la fosa bajo las fosas, donde la oscuridad nunca se ha roto.",
+  "subtitle": "La corte más honda",
+  "summary": "La fosa bajo las fosas, donde la oscuridad nunca se ha roto ni una vez. Ni las cortes hondas van ahí.",
   "facts": [
    [
     "Región",
-    "El mar y los Reinos de Coral"
+    "El Mar y los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "Profundidad",
+    "el fondo del fondo"
+   ],
+   [
+    "Guarida de",
+    "Thalgorath, el [[Tirano de la Marea|Tide-Tyrant]]"
+   ],
+   [
+    "Gobernada por",
+    "ninguna corte"
    ]
   ],
-  "title": "Abyssara, la Negrura de Abajo"
+  "title": "Abyssara, la Negrura de Abajo",
+  "epigraph": {
+   "quote": "La superficie nos tiene miedo. Nosotros le tenemos miedo a eso. A todos les hace bien tenerle miedo a algo.",
+   "by": "Un guardián de las Brazas Grises"
+  },
+  "sections": [
+   {
+    "title": "El lugar",
+    "paragraphs": [
+     "Abyssara es la fosa del suroeste, bajo los [[Tronos Hundidos|Sunken Thrones]], donde la presión aplastaría un barco hasta dejarlo como una lámina. Nunca ha llegado ahí la luz y ninguna corte la reclama.",
+     "Es la guarida de Thalgorath, y de algo vasto y antiguo al que la gente del mar llama con un nombre que no dice cerca del agua."
+    ]
+   },
+   {
+    "title": "Lo que dice la gente del mar",
+    "paragraphs": [
+     "Los pueblos del mar no gobiernan Abyssara. Le tienen miedo, como la superficie les tiene miedo a ellos. Pregúntale por ella a un comerciante de coral en una taberna seca, bien tierra adentro, y puede que te conteste. Pregunta en el muelle y la conversación se acabó."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Abyssara: lo que cae en la fosa del suroeste no vuelve; lo que vuelve, vuelve cambiado.” (lo que dice todo el mundo)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkthdGggZXMgbGEgbWl0YWQgZGVsIG1hciBxdWUgZ3VhcmRhLioqIEVsIFtbQXNwZWN0byBkZWwgQWd1YXxXYXRlciBBc3BlY3RdXSBzZSBwYXJ0acOzIGVuIGRvcyBjdWFuZG8gc2UgZW5qYXVsw7MgYWwgQ2Fvcy4gVW5hIG1pdGFkIGVzIGxhIFtbTWFkcmUgcXVlIEFob2dhfERyb3duaW5nIE1vdGhlcl1dLCBxdWUgdG9tYSB5IGRldnVlbHZlLiBMYSBvdHJhIHNlIGh1bmRpw7MgeSBndWFyZGEgdG9kbyBsbyBxdWUgc2UgaHVuZGU6IGJhcmNvcywgY3VlcnBvcywgcGFsYWJyYXMsIG1lbnRlcy4iLCAiKipUaGFsZ29yYXRoIGVzIGVsIFNlw7FvciBkZSBLYXRoLioqIEN1YW5kbyBzZSBhbHphIHkgdW4gcHVlYmxvIGRlIGxhIGNvc3RhIGFtYW5lY2UgZGVzYXBhcmVjaWRvLCBhbCBwdWVibG8gbm8gc2UgbG8gY29taWVyb24uIExvIGd1YXJkYXJvbi4iLCAiKipMb3MgQ29yYXpvbmVzIHNvbiBnZW1lbG9zLioqIEVsIFtbQ29yYXrDs24gZGVsIE1hcnxIZWFydCBvZiB0aGUgU2VhXV0gZW4gQW51a8OhbGkgZXMgZWwgZGUgbGEgTWFkcmUgcXVlIEFob2dhLiBFbCBbW0NvcmF6w7NuIGRlIEthdGh8SGVhcnQgb2YgS2F0aF1dIGVzIGVsIGRlIGxhIG90cmEgbWl0YWQuIENhZGEgdW5vIGVzIGxvIMO6bmljbyBlbiBlbCBtdW5kbyBxdWUgcHVlZGUgZGVzcGVydGFyIGFsIG90cm8sIHkgbmFkaWUgcXVlIGd1YXJkZSBhIGN1YWxxdWllcmEgZGUgbG9zIGRvcyBsbyBzYWJlLiIsICIqKkthdGggeSBUaGFsZ29yYXRoKioiLCAiRWwgQ29yYXrDs24gZGUgS2F0aCBlcyB1biBwZWRhem8gZGUgYWxnbyB2aXZvIGVuIEFieXNzYXJhIChWb2x1bWVuIFhJSSkuIEVzdG8gZXMgbG8gcXVlIGVzIGVzZSBhbGdvLiIsICIqKkthdGggZXMgbGEgbWl0YWQgZGVsIG1hciBxdWUgZ3VhcmRhLioqIEN1YW5kbyBsb3MgW1tQcmltb3JkaWFsZXN8UHJpbW9yZGlhbHNdXSBlbmphdWxhcm9uIGFsIENhb3MsIGVsIEFzcGVjdG8gZGVsIEFndWEgZnVlIGVsIMO6bHRpbW8gZW4gY2VycmFyIGxvcyBiYXJyb3RlcywgeSBzZSBkZXNnYXJyw7MgYWwgaGFjZXJsby4gVW5hIG1pdGFkIGVzIGxhICoqTWFkcmUgcXVlIEFob2dhKiogcXVlIGNvbm9jZW4gbG9zIHB1ZXJ0b3M6IGVsIG1hciBxdWUgdG9tYSB5IGRldnVlbHZlLCBxdWUgcmVncmVzYSBhIGxvcyBhaG9nYWRvcyBiYWpvIHVuIHBhY3RvIGRlbCBtYXIuIExhIG90cmEgbWl0YWQgc2UgaHVuZGnDsyBoYXN0YSBlbCBmb25kbyBkZWwgbXVuZG8geSBudW5jYSB2b2x2acOzIGEgc3ViaXIuIEVzYSBtaXRhZCBndWFyZGEgdG9kbyBsbyBxdWUgc2UgaHVuZGU6IGNhZGEgYmFyY28sIGNhZGEgY3VlcnBvLCBjYWRhIHBhbGFicmEgZGljaGEgc29icmUgZWwgYWd1YSwgY2FkYSBtZW50ZSBxdWUgdG9jYS4gRWwgbm9tYnJlIHF1ZSBsZSBkYW4gbG9zIHB1ZWJsb3MgZGVsIG1hciBlcyB1bm8gcXVlIHVuYSBnYXJnYW50YSBkZSB0aWVycmEgc29sbyBwdWVkZSBkZWNpciBjb21vICpLYXRoKi4iLCAiKipQb3IgZXNvIGxvcyBDb3Jhem9uZXMgc29uIGdlbWVsb3MuKiogRWwgQ29yYXrDs24gZGVsIE1hciBlbiBBbnVrw6FsaSAoKkVsIENvcmF6w7NuIGRlbCBNYXIqLCBBdmVudHVyYXMpIGVzIGVsIGNvcmF6w7NuIGRlIGxhIE1hZHJlIHF1ZSBBaG9nYTogbGEgZ2VtYSBkZWwgw6FyYm9sLCB5IGVsIGVzcMOtcml0dSBzYW5hZG9yIHF1ZSB2aXbDrWEgZW4gZWxsYS4gRGVzZGUgbGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0gZGVsIDE3NCBFQyBlc2UgZXNww61yaXR1IGVzICoqVmljdG9yaWEgV2luZ2F0ZSoqLCBxdWUgdG9tw7MgZWwgbHVnYXIgZGVsIENvcmF6w7NuIG1vcmlidW5kbyB5IGVzdMOhIGF0YWRhIGEgbGEgaXNsYSBoYXN0YSBlbCAyNzQgRUMuIEVsIENvcmF6w7NuIGRlIEthdGggZXMgZWwgZGUgbGEgb3RyYSBtaXRhZC4gQ2FkYSB1bm8gZXMgbG8gw7puaWNvIGVuIGVsIG11bmRvIHF1ZSBwdWVkZSBkZXNwZXJ0YXIgYWwgb3Ryby4gTmFkaWUgcXVlIGd1YXJkZSBhIGN1YWxxdWllcmEgZGUgbG9zIGRvcyBsbyBzYWJlLCBWaWN0b3JpYSBpbmNsdWlkYS4iLCAiKipUaGFsZ29yYXRoIGVzIGVsIFNlw7FvciBkZSBLYXRoLioqIENhZGEgW1tTZcOxb3IgU2FsdmFqZXxTYXZhZ2UgTG9yZF1dIGVzIHVuIHBlZGF6byBkZSB1biBBc3BlY3RvIGFsIHF1ZSBsZSBkaWVyb24gZGllbnRlcyAoVm9sdW1lbiBYKS4gVGhhbGdvcmF0aCBlcyBlbCBwZWRhem8gZGUgS2F0aCBxdWUgc3ViacOzOiBtw6FzIGpvdmVuIHF1ZSBLYXRoLCBtw6FzIHZpZWpvIHF1ZSBsb3Mgb3JrYSwgeSBuaSBzdSBzaXJ2aWVudGUgbmkgc3UgYW1vLiBLYXRoIGd1YXJkYTsgVGhhbGdvcmF0aCByZWN1ZXJkYS4gQ3VhbmRvIFRoYWxnb3JhdGggc2UgYWx6YSB5IHVuIHB1ZWJsbyBkZSBsYSBjb3N0YSBhbWFuZWNlIGRlc2FwYXJlY2lkbywgYWwgcHVlYmxvIG5vIHNlIGxvIGNvbWllcm9uLiBMbyBndWFyZGFyb24uIiwgIioqUG9yIHF1w6kgZmFsbGFuIGxhcyBjb3BpYXMuKiogS2F0aCBndWFyZGEgdW5hIG1lbnRlIGNvbW8gbG8gaG9uZG8gZ3VhcmRhIHVuIG5hdWZyYWdpbzogZW50ZXJhLCB5IGZyw61hLCB5IHF1aWV0YS4gTm8gcHVlZGUgZ3VhcmRhciB1bmEgbWVudGUgcXVlIHRvZGF2w61hIHNlIG11ZXZlLiBQb3IgZXNvIHVuYSBjb3BpYSBubyBwdWVkZSBleGlzdGlyIG1pZW50cmFzIHN1IG9yaWdpbmFsIGVzdMOhIGRlc3BpZXJ0bywgeSBwb3IgZXNvIGVsIHZlcmRhZGVybyBEaW8gW1tDb3Jhc2N1YXxFbWJlcmhlYXJ0XV0gZHVlcm1lLiIsICIqKkxhIGN1ZW50YSBmaW5hbC4qKiBTaSBhbGd1bmEgdmV6IHNlIGxsZXZhIGVsIENvcmF6w7NuIGRlIEthdGggZGUgdnVlbHRhIGEgQWJ5c3NhcmEsIGNhZGEgY29waWEgcXVlIGhheWEgaGVjaG8gc2UgdmEgY29uIMOpbCwgeSB0YW1iacOpbiBjdWFscXVpZXJhIHF1ZSBLYXRoIHRvZGF2w61hIGVzdMOpIGd1YXJkYW5kby4gU2kgYWxndW5hIHZleiBzZSBsbGV2YSBlbCBDb3JhesOzbiBkZWwgTWFyIGhhc3RhIGFiYWpvIGp1bnRvIGEgw6lsLCBlbCBtYXIgc2UgY2llcnJhLiBRdcOpIHF1aWVyZSBkZWNpciBlc28sIG5hZGllIHZpdm8gbG8gcHVlZGUgZGVjaXIuIEVzIGxhIMO6bHRpbWEgcHVlcnRhIGRlbCBtdW5kbzsgZMOpamFsYSBjZXJyYWRhIHNhbHZvIHF1ZSB1bmEgY2FtcGHDsWEgc2UgY29uc3RydXlhIHBhcmEgYWJyaXJsYS4gRGVzZGUgZWwgMTc0IEVDLCBsbGV2YXIgYWJham8gZWwgQ29yYXrDs24gZGVsIE1hciBxdWllcmUgZGVjaXIgbGxldmFyIGEgc3UgZ3VhcmRpYW5hIGNvbiDDqWwsIHkgc3UgZ3VhcmRpYW5hIGVzIHVuYSBtdWplciBxdWUgcHJvbWV0acOzIG5vIGlyc2UuIiwgIioqS2F0aC4qKiBBbGdvIHZhc3RvIHkgdml2byBlbiBBYnlzc2FyYSwgZGVsIHF1ZSBlbCBDb3JhesOzbiBkZSBLYXRoIGVzIHVuIHBlZGF6byBjb3J0YWRvLiBMb3MgcHVlYmxvcyBkZWwgbWFyIHRpZW5lbiB1biBub21icmUgcGFyYSBlbCB0b2RvIHkgbm8gbG8gcXVpZXJlbiBkZWNpciAoVm9sdW1lbiBYSUkpLiJdfQ=="
+   }
+  ]
  },
  "glass-gardens": {
   "gloss": "The Glass Gardens",
