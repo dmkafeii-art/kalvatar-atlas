@@ -14513,23 +14513,84 @@
  },
  "momumba-lord-of-apes": {
   "gloss": "Momumba, Lord of Apes",
-  "subtitle": "Un Señor Salvaje",
-  "summary": "Un girallon colosal y astuto. La selva de las Tierras Salvajes del Sur.",
+  "subtitle": "La astucia en el dosel",
+  "summary": "Un girallón colosal y astuto. La selva de las Tierras Salvajes del Sur.",
   "facts": [
    [
     "Qué es",
-    "Un girallon colosal y astuto"
+    "Un girallón colosal y astuto"
    ],
    [
     "Dónde",
     "La selva de las [[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Brazos",
+    "Cuatro"
+   ],
+   [
+    "Atado a",
+    "el [[Fuego Verde|Green Fire]] de la selva viva"
+   ],
+   [
+    "Rito",
+    "El [[Tributo del Simio|Tribute of the Ape]]"
    ]
   ],
-  "title": "Momumba, Señor de los Simios"
+  "title": "Momumba, Señor de los Simios",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Momumba, Señor de los Simios: un girallón colosal y astuto.",
+     "Caza y alimento: Momumba no arrasa; planea. Manda una cohorte de girallones menores como un general manda una hueste, tiende emboscadas, toma territorio y come lo que ofrece la selva, fruta, bestias y, de vez en cuando, algún ejército lo bastante tonto como para marchar bajo sus árboles. Prefiere el dominio a la matanza.",
+     "Progenie: su cohorte de girallones, menores, pero coordinados y listos, la más táctica de la cría de cualquier Señor.",
+     "Cultos y tribus: las tribus del dosel que comparten sus valles le pagan tributo en fruta y en enemigos (cautivos atados que dejan en la orilla de los árboles), y a cambio él deja en pie sus aldeas. Algunas tribus tratan su humor como ley.",
+     "Rito: el Tributo del Simio: el dejar de cada temporada de fruta y enemigos atados en el borde de su territorio.",
+     "Leyenda: se cuenta que Momumba una vez tuvo toda una conversación con una Cazadora que había venido a matarlo, y la dejó vivir, porque \"hizo la pregunta correcta\". Nadie se pone de acuerdo sobre cuál era la pregunta, y la Cazadora nunca la dijo."
+    ]
+   },
+   {
+    "title": "Sus parientes",
+    "paragraphs": [
+     "Los gorobaki de las islas del sur son sus parientes: simios de verdad, enormes, y colgados de oro. No son sus súbditos, y no vienen cuando los llama. Sí se acuerdan de él."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Momumba no arrasa. Planea. Manda una cohorte de girallones menores como un general manda una hueste: tiende emboscadas, toma terreno y lo sostiene. Come lo que ofrece la selva, que es fruta, bestias y, de vez en cuando, un ejército lo bastante tonto como para marchar bajo sus árboles. Prefiere que lo obedezcan a que le teman."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Su cohorte de girallones. Son más chicos que él, y son la cría más disciplinada de cualquier Señor. Pelean en filas."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Las tribus del dosel que comparten sus valles le pagan tributo en fruta y en enemigos, y a cambio él deja en pie sus aldeas. Algunas tratan su humor como ley."
+    ]
+   },
+   {
+    "title": "El Tributo del Simio",
+    "paragraphs": [
+     "Cada temporada las tribus dejan fruta, y cautivos atados, en el borde de su territorio. Nadie mira cómo lo recogen."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Una vez tuvo toda una conversación con una Cazadora que había venido a matarlo, y la dejó vivir porque hizo la pregunta correcta. Nadie se pone de acuerdo sobre cuál era la pregunta, y ella nunca la dijo."
+    ]
+   }
+  ]
  },
  "shakarr-the-shadow-of-death": {
   "gloss": "Shakarr, the Shadow of Death",
-  "subtitle": "Un Señor Salvaje",
+  "subtitle": "Lo que camina por las llanuras blancas al atardecer",
   "summary": "Un dientes de sable de sombra viva. Las Tierras de Huesos.",
   "facts": [
    [
@@ -14539,14 +14600,65 @@
    [
     "Dónde",
     "Las [[Tierras de Huesos|Bonewilds]]"
+   ],
+   [
+    "Atado a",
+    "la [[Puerta Callada|Quiet Door]]"
+   ],
+   [
+    "Rito",
+    "El [[No Dicho|Unspoken]]"
    ]
   ],
-  "title": "Shakarr, la Sombra de la Muerte"
+  "title": "Shakarr, la Sombra de la Muerte",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Shakarr, la [[Sombra de la Muerte|Shadow of Death]]: un dientes de sable de sombra viva.",
+     "Caza y alimento: a Shakarr nunca se lo ve, solo su obra: muertes perfectas, sin lucha, sin sonido, la presa simplemente terminada y dejada, o llevada. Se alimenta de los moribundos y de los muertos de las Tierras de Huesos, y quizá de algo más sutil, el paso mismo.",
+     "Progenie: cosas de sombra, depredadores umbríos menores que se filtran de la oscuridad de las Tierras de Huesos; dejan la misma firma, callada, limpia, segura.",
+     "Cultos y tribus: los nativos no dicen su nombre en voz alta. Decir su nombre en las Tierras de Huesos es invitar su atención. No hay culto, sino un silencio vasto, compartido y cuidadoso.",
+     "Rito: el No Dicho: cuando hay que cruzar las Tierras de Huesos, se va en silencio, se deja una parte de lo que se caza y no se mira atrás.",
+     "Leyenda: que Shakarr no es una bestia sino la propia muerte de las Tierras de Huesos hecha forma, y que todo lo que muere en el sur, en algún sentido, pasa por sus fauces."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Nadie ve a Shakarr. Ven su obra: una muerte sin lucha y sin sonido, la presa simplemente terminada, y dejada donde cayó o llevada. Se alimenta de los moribundos y de los muertos de las Tierras de Huesos, y quizá del paso mismo."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Cosas de sombra: depredadores menores que se filtran de la oscuridad de las Tierras de Huesos y matan de la misma manera, callados y limpios."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "La gente del sur no dice su nombre en voz alta. No hay culto. Hay un silencio muy grande y muy cuidadoso."
+    ]
+   },
+   {
+    "title": "El No Dicho",
+    "paragraphs": [
+     "Quien tiene que cruzar las Tierras de Huesos va sin hablar, deja una parte de cada presa y no mira atrás."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Shakarr no es una bestia. Es la propia muerte de las Tierras de Huesos, con una forma, y todo lo que muere en el sur pasa por sus fauces."
+    ]
+   }
+  ]
  },
  "ssvayuk-the-mud-that-breathes": {
   "gloss": "Ssvayuk, the Mud That Breathes",
-  "subtitle": "Un Señor Salvaje",
-  "summary": "Una serpiente de pantano cubierta de islas falsas. Las grandes ciénagas.",
+  "subtitle": "La serpiente bajo las islas falsas",
+  "summary": "Una serpiente de pantano cubierta de islas falsas. Los grandes cenagales.",
   "facts": [
    [
     "Qué es",
@@ -14554,26 +14666,133 @@
    ],
    [
     "Dónde",
-    "Las grandes ciénagas"
+    "Los grandes cenagales"
+   ],
+   [
+    "Atada a",
+    "el Pantano, que es agua y tierra a la vez"
+   ],
+   [
+    "Rito",
+    "La [[Lectura del Lodo|Reading of the Mud]]"
    ]
   ],
-  "title": "Ssvayuk, el Lodo que Respira"
+  "title": "Ssvayuk, el Lodo que Respira",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Ssvayuk, el [[Lodo que Respira|Mud That Breathes]]: una serpiente de pantano cubierta de islas falsas.",
+     "Caza y alimento: Ssvayuk casi no se mueve: espera, casi siempre sumergida, y se lleva lo que se meta en la tierra falsa de su lomo o en el agua negra de sus hondonadas. Hay viajeros que han armado campamentos sobre lo que creían tierra firme. Se alimenta despacio y rara vez, a escala de estaciones.",
+     "Progenie: se dice que los saurios cienorrevolcones son parientes lejanos o cría menor suya; serpientes de cenagal menores rondan sus bordes.",
+     "Cultos y tribus: los hombres lagarto de los cenagales la veneran como una diosa abuela (y adoran a Sszathra a través de ella, Volumen V), y leen presagios en los raros movimientos de su cuerpo lento.",
+     "Rito: la Lectura del Lodo: los ancianos hombres lagarto interpretan los movimientos de Ssvayuk como profecía; un solo gran movimiento del Lodo que Respira puede mandar a migrar a toda una tribu.",
+     "Leyenda: que Ssvayuk es tan vieja que recuerda a los gigantes, y que si de verdad se alzara alguna vez, si se desenroscara en todo su largo del cenagal que ha llevado como una manta durante diez mil años, el sur aprendería que lo que llamaba pantano era un titán dormido."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Ssvayuk casi no se mueve. Pasa siglos medio enterrada, con árboles e islas falsas crecidas sobre el lomo, y se lleva lo que se meta en esa tierra o en el agua negra de sus hondonadas. Ha habido viajeros que acamparon sobre ella. Se alimenta despacio, por estaciones."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Se dice que los saurios cienorrevolcones son parientes lejanos suyos. Serpientes de cenagal menores viven por sus bordes."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Los hombres lagarto de los cenagales la veneran como una diosa abuela, y leen presagios en los raros movimientos de su cuerpo."
+    ]
+   },
+   {
+    "title": "La Lectura del Lodo",
+    "paragraphs": [
+     "Los ancianos hombres lagarto leen sus movimientos como profecía. Un solo gran movimiento del Lodo que Respira puede poner a caminar a toda una tribu."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "Es tan vieja que recuerda a los gigantes. Si alguna vez se desenroscara en todo su largo del cenagal que ha llevado como una manta durante diez mil años, el sur aprendería que su pantano era un titán dormido."
+    ]
+   }
+  ]
  },
  "thalgorath-the-tide-tyrant": {
   "gloss": "Thalgorath, the Tide-Tyrant",
-  "subtitle": "Un Señor Salvaje",
-  "summary": "Un horror abisal; el maestro del coro del Coro Rojo. Los Tronos Hundidos, el borde de Abyssara.",
+  "subtitle": "Maestro de coro de lo hondo",
+  "summary": "Un horror abisal; el maestro de coro del Coro Rojo. Los Tronos Hundidos, el borde de Abyssara.",
   "facts": [
    [
     "Qué es",
-    "Un horror abisal; el maestro del coro del [[Coro Rojo|Red Choir]]"
+    "Un horror abisal; el maestro de coro del [[Coro Rojo|Red Choir]]"
    ],
    [
     "Dónde",
     "Los [[Tronos Hundidos|Sunken Thrones]], el borde de Abyssara"
+   ],
+   [
+    "Atado a",
+    "Mhavros, y lo hondo que devora"
+   ],
+   [
+    "Rito",
+    "El pavor de la [[Marea Rey|King Tide]]"
    ]
   ],
-  "title": "Thalgorath, el Tirano de la Marea"
+  "title": "Thalgorath, el Tirano de la Marea",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Thalgorath, el [[Tirano de la Marea|Tide-Tyrant]]: un horror abisal; el maestro de coro del Coro Rojo.",
+     "Caza y alimento: Thalgorath sube de los Tronos Hundidos muy rara vez, y cuando lo hace, los pueblos de la costa simplemente no están a la mañana siguiente, sin restos y sin cuerpos, solo cimientos vacíos y una línea de marea alta. Qué hace con lo que se lleva, nadie que lo haya visto ha vivido para decirlo.",
+     "Progenie: los horrores hondos de las fosas abisales; cosas abisales menores de las que huyen los propios pueblos del mar.",
+     "Cultos y tribus: los pueblos del mar hondo de los [[Reinos de Coral|Coral Kingdoms]] tienen su propio nombre para él, que no les enseñan a los de la superficie; algunos de los cultos hondos más oscuros quizá lo adoren como la mano misma de Mhavros.",
+     "Rito: el pavor de la Marea Rey: cuando las dos lunas y el sol se alinean y lo hondo sube más alto, la gente de la costa que conoce los viejos miedos se queda lejos del agua, porque es cuando más probable es que se alce el Tirano de la Marea.",
+     "Leyenda: que Thalgorath no se alza para alimentarse sino para recordar: que sale a la superficie solo cuando algo cambia en lo hondo, y que un pueblo que desaparece es solo el precio de que el Tirano de la Marea vuelva un momento su atención hacia el mundo de la superficie."
+    ]
+   },
+   {
+    "title": "Cómo caza",
+    "paragraphs": [
+     "Thalgorath sube de los Tronos Hundidos muy rara vez. Cuando lo hace, un pueblo de la costa no está a la mañana siguiente. No hay restos y no hay cuerpos, solo cimientos vacíos y una línea de marea alta."
+    ]
+   },
+   {
+    "title": "Su cría",
+    "paragraphs": [
+     "Los horrores de las fosas abisales: cosas de las que huyen los propios pueblos del mar."
+    ]
+   },
+   {
+    "title": "Quién vive a su lado",
+    "paragraphs": [
+     "Los pueblos del mar hondo tienen su propio nombre para él y no se lo enseñan a nadie de la superficie. Algunos de los cultos hondos más oscuros quizá lo adoren como la mano de Mhavros."
+    ]
+   },
+   {
+    "title": "El pavor de la Marea Rey",
+    "paragraphs": [
+     "Cuando las dos lunas y el sol se alinean y lo hondo sube más alto, la gente de la costa que conoce los viejos miedos se queda lejos del agua."
+    ]
+   },
+   {
+    "title": "La leyenda",
+    "paragraphs": [
+     "No se alza para alimentarse. Se alza para recordar, cuando algo ha cambiado en lo hondo, y un pueblo es solo el precio de su atención."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoYWxnb3JhdGggZXMgZWwgU2XDsW9yIGRlIEthdGguKiogQ3VhbmRvIHNlIGFsemEgeSB1biBwdWVibG8gZGUgbGEgY29zdGEgYW1hbmVjZSBkZXNhcGFyZWNpZG8sIGFsIHB1ZWJsbyBubyBzZSBsbyBjb21pZXJvbi4gTG8gZ3VhcmRhcm9uLiIsICIqKkthdGggZXMgbGEgbWl0YWQgZGVsIG1hciBxdWUgZ3VhcmRhLioqIEVsIFtbQXNwZWN0byBkZWwgQWd1YXxXYXRlciBBc3BlY3RdXSBzZSBwYXJ0acOzIGVuIGRvcyBjdWFuZG8gc2UgZW5qYXVsw7MgYWwgQ2Fvcy4gVW5hIG1pdGFkIGVzIGxhIFtbTWFkcmUgcXVlIEFob2dhfERyb3duaW5nIE1vdGhlcl1dLCBxdWUgdG9tYSB5IGRldnVlbHZlLiBMYSBvdHJhIHNlIGh1bmRpw7MgeSBndWFyZGEgdG9kbyBsbyBxdWUgc2UgaHVuZGU6IGJhcmNvcywgY3VlcnBvcywgcGFsYWJyYXMsIG1lbnRlcy4iLCAiKipMb3MgQ29yYXpvbmVzIHNvbiBnZW1lbG9zLioqIEVsIFtbQ29yYXrDs24gZGVsIE1hcnxIZWFydCBvZiB0aGUgU2VhXV0gZW4gQW51a8OhbGkgZXMgZWwgZGUgbGEgTWFkcmUgcXVlIEFob2dhLiBFbCBbW0NvcmF6w7NuIGRlIEthdGh8SGVhcnQgb2YgS2F0aF1dIGVzIGVsIGRlIGxhIG90cmEgbWl0YWQuIENhZGEgdW5vIGVzIGxvIMO6bmljbyBlbiBlbCBtdW5kbyBxdWUgcHVlZGUgZGVzcGVydGFyIGFsIG90cm8sIHkgbmFkaWUgcXVlIGd1YXJkZSBhIGN1YWxxdWllcmEgZGUgbG9zIGRvcyBsbyBzYWJlLiIsICIqKkthdGggeSBUaGFsZ29yYXRoKioiLCAiRWwgQ29yYXrDs24gZGUgS2F0aCBlcyB1biBwZWRhem8gZGUgYWxnbyB2aXZvIGVuIEFieXNzYXJhIChWb2x1bWVuIFhJSSkuIEVzdG8gZXMgbG8gcXVlIGVzIGVzZSBhbGdvLiIsICIqKkthdGggZXMgbGEgbWl0YWQgZGVsIG1hciBxdWUgZ3VhcmRhLioqIEN1YW5kbyBsb3MgW1tQcmltb3JkaWFsZXN8UHJpbW9yZGlhbHNdXSBlbmphdWxhcm9uIGFsIENhb3MsIGVsIEFzcGVjdG8gZGVsIEFndWEgZnVlIGVsIMO6bHRpbW8gZW4gY2VycmFyIGxvcyBiYXJyb3RlcywgeSBzZSBkZXNnYXJyw7MgYWwgaGFjZXJsby4gVW5hIG1pdGFkIGVzIGxhICoqTWFkcmUgcXVlIEFob2dhKiogcXVlIGNvbm9jZW4gbG9zIHB1ZXJ0b3M6IGVsIG1hciBxdWUgdG9tYSB5IGRldnVlbHZlLCBxdWUgcmVncmVzYSBhIGxvcyBhaG9nYWRvcyBiYWpvIHVuIHBhY3RvIGRlbCBtYXIuIExhIG90cmEgbWl0YWQgc2UgaHVuZGnDsyBoYXN0YSBlbCBmb25kbyBkZWwgbXVuZG8geSBudW5jYSB2b2x2acOzIGEgc3ViaXIuIEVzYSBtaXRhZCBndWFyZGEgdG9kbyBsbyBxdWUgc2UgaHVuZGU6IGNhZGEgYmFyY28sIGNhZGEgY3VlcnBvLCBjYWRhIHBhbGFicmEgZGljaGEgc29icmUgZWwgYWd1YSwgY2FkYSBtZW50ZSBxdWUgdG9jYS4gRWwgbm9tYnJlIHF1ZSBsZSBkYW4gbG9zIHB1ZWJsb3MgZGVsIG1hciBlcyB1bm8gcXVlIHVuYSBnYXJnYW50YSBkZSB0aWVycmEgc29sbyBwdWVkZSBkZWNpciBjb21vICpLYXRoKi4iLCAiKipQb3IgZXNvIGxvcyBDb3Jhem9uZXMgc29uIGdlbWVsb3MuKiogRWwgQ29yYXrDs24gZGVsIE1hciBlbiBBbnVrw6FsaSAoKkVsIENvcmF6w7NuIGRlbCBNYXIqLCBBdmVudHVyYXMpIGVzIGVsIGNvcmF6w7NuIGRlIGxhIE1hZHJlIHF1ZSBBaG9nYTogbGEgZ2VtYSBkZWwgw6FyYm9sLCB5IGVsIGVzcMOtcml0dSBzYW5hZG9yIHF1ZSB2aXbDrWEgZW4gZWxsYS4gRGVzZGUgbGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0gZGVsIDE3NCBFQyBlc2UgZXNww61yaXR1IGVzICoqVmljdG9yaWEgV2luZ2F0ZSoqLCBxdWUgdG9tw7MgZWwgbHVnYXIgZGVsIENvcmF6w7NuIG1vcmlidW5kbyB5IGVzdMOhIGF0YWRhIGEgbGEgaXNsYSBoYXN0YSBlbCAyNzQgRUMuIEVsIENvcmF6w7NuIGRlIEthdGggZXMgZWwgZGUgbGEgb3RyYSBtaXRhZC4gQ2FkYSB1bm8gZXMgbG8gw7puaWNvIGVuIGVsIG11bmRvIHF1ZSBwdWVkZSBkZXNwZXJ0YXIgYWwgb3Ryby4gTmFkaWUgcXVlIGd1YXJkZSBhIGN1YWxxdWllcmEgZGUgbG9zIGRvcyBsbyBzYWJlLCBWaWN0b3JpYSBpbmNsdWlkYS4iLCAiKipUaGFsZ29yYXRoIGVzIGVsIFNlw7FvciBkZSBLYXRoLioqIENhZGEgW1tTZcOxb3IgU2FsdmFqZXxTYXZhZ2UgTG9yZF1dIGVzIHVuIHBlZGF6byBkZSB1biBBc3BlY3RvIGFsIHF1ZSBsZSBkaWVyb24gZGllbnRlcyAoVm9sdW1lbiBYKS4gVGhhbGdvcmF0aCBlcyBlbCBwZWRhem8gZGUgS2F0aCBxdWUgc3ViacOzOiBtw6FzIGpvdmVuIHF1ZSBLYXRoLCBtw6FzIHZpZWpvIHF1ZSBsb3Mgb3JrYSwgeSBuaSBzdSBzaXJ2aWVudGUgbmkgc3UgYW1vLiBLYXRoIGd1YXJkYTsgVGhhbGdvcmF0aCByZWN1ZXJkYS4gQ3VhbmRvIFRoYWxnb3JhdGggc2UgYWx6YSB5IHVuIHB1ZWJsbyBkZSBsYSBjb3N0YSBhbWFuZWNlIGRlc2FwYXJlY2lkbywgYWwgcHVlYmxvIG5vIHNlIGxvIGNvbWllcm9uLiBMbyBndWFyZGFyb24uIiwgIioqUG9yIHF1w6kgZmFsbGFuIGxhcyBjb3BpYXMuKiogS2F0aCBndWFyZGEgdW5hIG1lbnRlIGNvbW8gbG8gaG9uZG8gZ3VhcmRhIHVuIG5hdWZyYWdpbzogZW50ZXJhLCB5IGZyw61hLCB5IHF1aWV0YS4gTm8gcHVlZGUgZ3VhcmRhciB1bmEgbWVudGUgcXVlIHRvZGF2w61hIHNlIG11ZXZlLiBQb3IgZXNvIHVuYSBjb3BpYSBubyBwdWVkZSBleGlzdGlyIG1pZW50cmFzIHN1IG9yaWdpbmFsIGVzdMOhIGRlc3BpZXJ0bywgeSBwb3IgZXNvIGVsIHZlcmRhZGVybyBEaW8gW1tDb3Jhc2N1YXxFbWJlcmhlYXJ0XV0gZHVlcm1lLiIsICIqKkxhIGN1ZW50YSBmaW5hbC4qKiBTaSBhbGd1bmEgdmV6IHNlIGxsZXZhIGVsIENvcmF6w7NuIGRlIEthdGggZGUgdnVlbHRhIGEgQWJ5c3NhcmEsIGNhZGEgY29waWEgcXVlIGhheWEgaGVjaG8gc2UgdmEgY29uIMOpbCwgeSB0YW1iacOpbiBjdWFscXVpZXJhIHF1ZSBLYXRoIHRvZGF2w61hIGVzdMOpIGd1YXJkYW5kby4gU2kgYWxndW5hIHZleiBzZSBsbGV2YSBlbCBDb3JhesOzbiBkZWwgTWFyIGhhc3RhIGFiYWpvIGp1bnRvIGEgw6lsLCBlbCBtYXIgc2UgY2llcnJhLiBRdcOpIHF1aWVyZSBkZWNpciBlc28sIG5hZGllIHZpdm8gbG8gcHVlZGUgZGVjaXIuIEVzIGxhIMO6bHRpbWEgcHVlcnRhIGRlbCBtdW5kbzsgZMOpamFsYSBjZXJyYWRhIHNhbHZvIHF1ZSB1bmEgY2FtcGHDsWEgc2UgY29uc3RydXlhIHBhcmEgYWJyaXJsYS4gRGVzZGUgZWwgMTc0IEVDLCBsbGV2YXIgYWJham8gZWwgQ29yYXrDs24gZGVsIE1hciBxdWllcmUgZGVjaXIgbGxldmFyIGEgc3UgZ3VhcmRpYW5hIGNvbiDDqWwsIHkgc3UgZ3VhcmRpYW5hIGVzIHVuYSBtdWplciBxdWUgcHJvbWV0acOzIG5vIGlyc2UuIiwgIioqVGhhbGdvcmF0aCBlcyBlbCBtYWVzdHJvIGRlIGNvcm8gZGVsIFtbQ29ybyBSb2pvfFJlZCBDaG9pcl1dLioqIEVsIFNlw7FvciBTYWx2YWplIG5vIGVzIHNvbG8gdGVtaWRvIHBvciBlbCBDb3JvIFJvam8uIExvIGRpcmlnZSwgeSBzdXMgaGltbm9zIHNvbiBsYSBmdWVudGUgZGUgbGEgZnVyaWEgZGUgbG9zIHNhaHVhZ2luLiBMYXMgY2FuY2lvbmVzIGRlbCBDb3JvIFJvam8gc3ViaXLDoW4gZW50ZXJhcyBhIGxhIHN1cGVyZmljaWUgY29uIGxhIE1hcmVhIFJleSBkZWwgMTc3IEVDLiJdfQ=="
+   }
+  ]
  },
  "tyrakzhul-the-world-eater": {
   "gloss": "Tyrak'Zhul, the World-Eater",
