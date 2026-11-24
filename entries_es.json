@@ -16847,6 +16847,14 @@
        "los años de arenque, y la Compañía"
       ],
       [
+       "Bebegrano del Pantano del Ocaso",
+       "la cosecha de una temporada de los campos inundados, comprada antes de la Pisada",
+       "3 Anclas",
+       "movida, 15 Olas",
+       "8 de cada 100",
+       "el tiempo en la ciénaga, y las cocinas de la Armada"
+      ],
+      [
        "Sedas Saffrane",
        "la seda y el perfume de Puerto Plata",
        "8 Anclas",
@@ -16962,7 +16970,7 @@
       ],
       [
        "2",
-       "La temporada de tormentas llega antes. Paquebotes Corvane −1; Astilleros de Confín de Tormentas +2 y la Cordelería +1 por las reparaciones."
+       "La temporada de tormentas llega antes, antes de que se corten los diques. Paquebotes Corvane −1, Bebegrano del Pantano del Ocaso −2; Astilleros de Confín de Tormentas +2 y la Cordelería +1 por las reparaciones."
       ],
       [
        "3",
@@ -17026,7 +17034,7 @@
       ],
       [
        "18",
-       "Un contrato de la Armada. Astilleros de Confín de Tormentas +3, la Cordelería +2, Sal Hallorn +1."
+       "Un contrato de la Armada. Astilleros de Confín de Tormentas +3, la Cordelería +2, Sal Hallorn +1, Bebegrano del Pantano del Ocaso +1."
       ],
       [
        "19",
@@ -18053,7 +18061,7 @@
     "list": [
      "**El puñado de boda.** En una boda de la ciénaga, los invitados les tiran bebegrano seco a los novios. Se hincha con la lluvia, como una familia.",
      "**El último puñado del marinero.** Un marinero que sale a un viaje largo deja un puñado de bebegrano seco en un plato junto a la puerta. Si sigue seco cuando vuelve, la casa le fue fiel.",
-     "**El precio de tablero.** El bebegrano se canta con los demás granos en el [[Piso de la Aguja|Spire Floor]] cada [[Monedía|Coinsday]], y una mala cosecha en el Pantano del Ocaso se siente en todas las cocinas de barco de las islas."
+     "**El precio de tablero.** El bebegrano se canta con los demás granos en el [[Piso de la Aguja|Spire Floor]] cada [[Monedía|Coinsday]], y una mala cosecha en el Pantano del Ocaso se siente en todas las cocinas de barco de las islas. En la [[Lectura de Monedía|Coinsday Reading]] de la [[Casa de los Tesoreros|Reckoners' Hall]], la cosecha de la ciénaga se lee como un negocio propio: Bebegrano del Pantano del Ocaso."
     ]
    },
    {

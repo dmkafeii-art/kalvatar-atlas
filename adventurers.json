@@ -11898,6 +11898,21 @@
     "voyage": false
    },
    {
+    "id": "drinkseed",
+    "en": "Duskmire Drinkseed",
+    "es": "Bebegrano del Pantano del Ocaso",
+    "what_en": "a season's wet-field harvest, bought before the Treading",
+    "what_es": "la cosecha de una temporada de los campos inundados, comprada antes de la Pisada",
+    "price": 300,
+    "step": 15,
+    "swing_en": "lively",
+    "swing_es": "movida",
+    "share": 8,
+    "moves_en": "the weather in the fens, and the Armada's galleys",
+    "moves_es": "el tiempo en la ciénaga, y las cocinas de la Armada",
+    "voyage": false
+   },
+   {
     "id": "saffrane-silks",
     "en": "Saffrane Silks",
     "es": "Sedas Saffrane",
@@ -11984,10 +11999,11 @@
     }
    },
    {
-    "en": "Storm season comes early. Corvane Packets −1; Stormreach Yards +2 and the Ropewalk +1 for the repairs.",
-    "es": "La temporada de tormentas llega antes. Paquebotes Corvane −1; Astilleros de Confín de Tormentas +2 y la Cordelería +1 por las reparaciones.",
+    "en": "Storm season comes early, before the dykes are cut. Corvane Packets −1, Duskmire Drinkseed −2; Stormreach Yards +2 and the Ropewalk +1 for the repairs.",
+    "es": "La temporada de tormentas llega antes, antes de que se corten los diques. Paquebotes Corvane −1, Bebegrano del Pantano del Ocaso −2; Astilleros de Confín de Tormentas +2 y la Cordelería +1 por las reparaciones.",
     "fx": {
      "corvane-packets": -1,
+     "drinkseed": -2,
      "stormreach-yards": 2,
      "ropewalk": 1
     }
@@ -12104,12 +12120,13 @@
     }
    },
    {
-    "en": "An Armada contract. Stormreach Yards +3, the Ropewalk +2, Hallorn Salt +1.",
-    "es": "Un contrato de la Armada. Astilleros de Confín de Tormentas +3, la Cordelería +2, Sal Hallorn +1.",
+    "en": "An Armada contract. Stormreach Yards +3, the Ropewalk +2, Hallorn Salt +1, Duskmire Drinkseed +1.",
+    "es": "Un contrato de la Armada. Astilleros de Confín de Tormentas +3, la Cordelería +2, Sal Hallorn +1, Bebegrano del Pantano del Ocaso +1.",
     "fx": {
      "stormreach-yards": 3,
      "ropewalk": 2,
-     "hallorn-salt": 1
+     "hallorn-salt": 1,
+     "drinkseed": 1
     }
    },
    {

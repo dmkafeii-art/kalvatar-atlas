@@ -7,7 +7,7 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=22').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=23').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];
@@ -783,7 +783,7 @@ window.Adventurers = (() => {
   if(board.prices) return;
   try {
    const s = JSON.parse(localStorage.getItem(CK) || 'null');
-   if(s && s.prices && data.coinsday.concerns.every(c => c.id in s.prices)) Object.assign(board, s, {sure: false});
+   if(s && s.prices) {Object.assign(board, s, {sure: false}); data.coinsday.concerns.forEach(c => {if(!(c.id in board.prices)) board.prices[c.id] = c.price;});}  // a concern new to the Board joins at its listing price
   } catch {}
   if(!board.prices) boardReset();
  }

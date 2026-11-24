@@ -56454,7 +56454,8 @@
    "goldwind",
    "reckoners-ledger",
    "the-commons",
-   "azhani"
+   "azhani",
+   "drinkseed"
   ],
   "sections": [
    {
@@ -56548,6 +56549,14 @@
        "lively, 2 Tides",
        "9 in 100",
        "the herring years, and the Company"
+      ],
+      [
+       "Duskmire Drinkseed",
+       "a season's wet-field harvest, bought before the Treading",
+       "3 Anchors",
+       "lively, 15 Bits",
+       "8 in 100",
+       "the weather in the fens, and the Armada's galleys"
       ],
       [
        "Saffrane Silks",
@@ -56665,7 +56674,7 @@
       ],
       [
        "2",
-       "Storm season comes early. Corvane Packets −1; Stormreach Yards +2 and the Ropewalk +1 for the repairs."
+       "Storm season comes early, before the dykes are cut. Corvane Packets −1, Duskmire Drinkseed −2; Stormreach Yards +2 and the Ropewalk +1 for the repairs."
       ],
       [
        "3",
@@ -56729,7 +56738,7 @@
       ],
       [
        "18",
-       "An Armada contract. Stormreach Yards +3, the Ropewalk +2, Hallorn Salt +1."
+       "An Armada contract. Stormreach Yards +3, the Ropewalk +2, Hallorn Salt +1, Duskmire Drinkseed +1."
       ],
       [
        "19",
@@ -57938,7 +57947,7 @@
     "list": [
      "**The wedding handful.** At a fen wedding the guests throw dry drinkseed over the couple. It swells in the rain, like a family.",
      "**The sailor's last handful.** A sailor going on a long voyage leaves a handful of dry drinkseed in a dish by the door. If it is still dry when they come home, the house kept faith.",
-     "**Board-price.** Drinkseed is called with the other grains on the Spire Floor every Coinsday, and a bad harvest at Duskmire is felt in every galley in the islands."
+     "**Board-price.** Drinkseed is called with the other grains on the Spire Floor every Coinsday, and a bad harvest at Duskmire is felt in every galley in the islands. At the Coinsday Reading in the Reckoners' Hall, the fen harvest is read as a concern of its own, Duskmire Drinkseed."
     ]
    },
    {
@@ -57961,6 +57970,7 @@
   "related": [
    "mirehorn",
    "duskmire-haven",
+   "coinsday-reading",
    "southern-wilds",
    "calendar",
    "work-at-sea",
