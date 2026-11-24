@@ -21083,5 +21083,554 @@
    }
   ],
   "title": "Los Cambiantes"
+ },
+ "warforged": {
+  "gloss": "The Warforged",
+  "aliases": [
+   "Forjados",
+   "forjados",
+   "forjado",
+   "la gente hecha"
+  ],
+  "subtitle": "Hechos, no nacidos, y nadie vivo sabe cómo",
+  "summary": "Un forjado es una persona hecha: un cuerpo de metal, piedra y madera, más viejo que cualquier pueblo de las islas. Nadie puede construir uno ahora. Cada forjado de Kalvatar fue encontrado dormido y despertado, despertó solo, o lleva despierto más tiempo del que nadie puede comprobar.",
+  "epigraph": {
+   "quote": "Le pregunté cuántos años tenía. Me preguntó cuántos años tenía el puerto. Después esperó.",
+   "by": "un buzo recuperador de Bocapizarra"
+  },
+  "facts": [
+   [
+    "Nacen",
+    "nunca; cada uno fue hecho"
+   ],
+   [
+    "Cuántos",
+    "muy pocos; la mayoría de los isleños nunca ha visto uno"
+   ],
+   [
+    "Nuevos",
+    "ninguno; el arte de hacerlos se perdió"
+   ],
+   [
+    "Sueño",
+    "algunos se quedan quietos durante edades y despiertan sin aviso"
+   ],
+   [
+    "Conocidos por",
+    "la paciencia, la memoria larga y cumplir su palabra"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Un forjado está hecho como una armadura con alguien adentro: placas de metal y piedra sobre un armazón de madera oscura, con una cara que se mueve menos que la de una persona y ojos que dan un poco de luz. No comen nada, se cansan despacio y no envejecen de ninguna manera que pueda medir un médico. Las islas los llaman forjados porque los primeros que se encontraron estaban claramente hechos para la guerra."
+    ]
+   },
+   {
+    "title": "Cómo despierta uno",
+    "paragraphs": [],
+    "list": [
+     "**Encontrado y despertado.** Desenterrado de una ruina, subido en una red, o encontrado de pie en un salón sellado bajo la selva, y despertado por alguien que no sabía lo que hacía.",
+     "**Despertó solo.** Un día, por razones que no puede dar, abrió los ojos.",
+     "**Nunca durmió.** Unos pocos dicen que han estado despiertos todo el tiempo. Son muy viejos, y recuerdan más de lo que cuentan."
+    ]
+   },
+   {
+    "title": "Lo que cargan",
+    "paragraphs": [
+     "La mayoría de los forjados no recuerdan nada de cómo los hicieron. Algunos conservan pedazos: una voz que les dio su trabajo, un cielo que se veía distinto, una guerra peleada en lo alto.",
+     "Un puñado de personas en el mundo puede abrir a un forjado y cambiar lo que le dijeron que fuera. Las islas le dicen **reescribir**. Es raro, caro y peligroso, y para un forjado es lo único peor que estar roto."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La mayoría de los isleños nunca ha visto un forjado, y un puerto que tiene uno suele recordar su nombre.",
+     "Las tripulaciones de Cazadores los valoran: un forjado hace una guardia de noche sin quejarse y se mete en un agua que ahogaría a un buzo. Los sacerdotes están menos seguros de qué hacer con ellos. Algunos forjados rezan, y dicen que nada les responde."
+    ]
+   },
+   {
+    "title": "Conocidos en el 175 EC",
+    "paragraphs": [
+     "**Crys** sirve como paladín del juramento de los antiguos, y en el sur tiene cierto nombre como [[Cazador|Hunter]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los que los hicieron ya no están, y la Universidad no quiere decir quiénes eran. Yo creo que la Universidad lo sabe.” (un encuadernador de Ventoro)",
+     "“Hay más de ellos dormidos bajo lo Salvaje que despiertos arriba. Salones enteros, parados en filas.” (un guía de Jakupur)",
+     "“No todos se hicieron con forma de persona. Una tripulación que venía del sur jura que vio un dragón de metal dorado que estaba quieto como una estatua hasta que se movió.” (una Cazadora de la Junta del sur)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyJMb3MgZm9yamFkb3MgZnVlcm9uIGxhcyBtYW5vcyBkZSBsb3MgTWVya2FiYXMgZW4gbGEgZ3JhbiBvYnJhIGRlIGxhIFtbSWx1bWluYWNpw7NufEVubGlnaHRlbmluZ11dLCB5IHN1cyBzb2xkYWRvcyBlbiBsYSBndWVycmEgcXVlIGxhIHRlcm1pbsOzLiBDdWFuZG8gY2F5w7MgQXJ0aGVzaWEsIGVsIGFydGUgZGUgaGFjZXJsb3MgY2F5w7MgY29uIGVsbGEuIFVuIGZvcmphZG8gcXVlIHJlY3VlcmRhIGEgc3UgTWVya2FiYSByZWN1ZXJkYSBkZSBxdcOpIGxhZG8gcGVsZcOzIGVuIGxhIFtbR3VlcnJhIGRlbCBBbmdlbHVzfFdhciBvZiB0aGUgQW5nZWx1c11dLCB5IGNvbnRyYSBjdcOhbCBkZSBsb3MgZGlvc2VzIGRlIGhveSBwZWxlw7MuIE5vIHRvZGFzIGxhcyBjb3NhcyBoZWNoYXMgdG9tYXJvbiBsYSBmb3JtYSBkZSB1bmEgcGVyc29uYTogZWwgKipbW0RyYWfDs24gRG9yYWRvfEdpbGRlZCBEcmFnb25dXSoqLCBlbCBkcmFnw7NuIGRlIG1ldGFsIGRvcmFkbyBxdWUgZXN0YWJhIHF1aWV0byBjb21vIHVuYSBlc3RhdHVhIGhhc3RhIHF1ZSBzZSBtb3Zpw7MgeSBkZXN0cnV5w7MgYSBsYSBjb21wYcOxw61hIGRlIFBCSiB5IFRvYmlhcyAoKkVsIFtbQ29yYXrDs24gZGVsIE1hcnxIZWFydCBvZiB0aGUgU2VhXV0qLCBBdmVudHVyYXMpLCBlcyBkZSBsYSBjbGFzZSBkZSBsb3MgZm9yamFkb3MuIl19"
+   }
+  ],
+  "title": "Los Forjados"
+ },
+ "changelings": {
+  "gloss": "Changelings",
+  "aliases": [
+   "una cara prestada",
+   "cambiado",
+   "cambiados",
+   "Cambiado",
+   "contrato de cambiado",
+   "contratos de cambiado",
+   "cara prestada"
+  ],
+  "subtitle": "Feéricos que llevan una cara que alguien les prestó",
+  "summary": "Un cambiado es un feérico que lleva la cara de un mortal. No puede inventarse una: la cara tiene que prestarla alguien vivo, por su propia voluntad. Casi todos los cambiados de las islas andan en un encargo de una Corte.",
+  "epigraph": {
+   "quote": "Fue mi primo de Nácar durante nueve años. Yo nunca he tenido un primo en Nácar. Todavía lo extraño.",
+   "by": "Un proveedor de barcos de Puertoquilla"
+  },
+  "facts": [
+   [
+    "Qué son",
+    "feéricos de las Cortes"
+   ],
+   [
+    "Qué hacen",
+    "llevan una cara prestada"
+   ],
+   [
+    "La ley",
+    "el contrato está prohibido; el cambiado no"
+   ],
+   [
+    "Los manda",
+    "cualquiera de las cuatro Cortes"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Feéricos que llevan caras",
+    "paragraphs": [
+     "Los isleños clasifican a los feéricos por lo que se han encontrado, y el cambiado es el que se encontraron sin saberlo. Un cambiado puede vivir años en un puerto como el primo de alguien de otra isla, atender un puesto, pagar los derechos del puerto y que lo extrañen cuando se va.",
+     "Casi todos andan en un encargo de una [[Corte|Court]]: encontrar algo, vigilar a alguien, o esperar."
+    ]
+   },
+   {
+    "title": "La cara prestada",
+    "paragraphs": [
+     "Un cambiado no puede inventar una cara, y no puede robarla. Una cara va con un nombre, y los dos tienen que darse."
+    ],
+    "list": [
+     "El que presta tiene que estar vivo, y tiene que aceptar en voz alta, diciendo su propio nombre.",
+     "El precio nunca es dinero.",
+     "Mientras la cara está prestada, nadie reconoce al que la prestó. Los amigos pasan de largo en la calle. Su propia madre pregunta quién está en la puerta. Los perros lo siguen reconociendo.",
+     "Cuando el cambiado devuelve la cara, vuelve a casa, y la gente se acuerda otra vez del que la prestó, de golpe y un poco avergonzada.",
+     "Si el que prestó y el cambiado se miran alguna vez a los ojos, la cara vuelve a casa en el acto."
+    ]
+   },
+   {
+    "title": "El contrato de cambiado",
+    "paragraphs": [
+     "Prestar una cara está contra la ley de la [[Concordia|Concord]], y los contratos se venden igual, en los [[Días Quietos|Still Days]] y en la [[Marea Rey|King Tide]]."
+    ],
+    "list": [
+     "Los deudores prestan la cara para saldar lo que deben.",
+     "La gente a la que están cazando la presta por la otra mitad del trato: mientras la cara está afuera, nadie puede reconocerlos.",
+     "Los que están de duelo la venden para que dejen de mirarlos.",
+     "Un [[Árbitro|Arbiter]] no oye un caso sobre uno."
+    ]
+   },
+   {
+    "title": "Cómo reconocer uno",
+    "paragraphs": [
+     "Una cara prestada es una cara de un día determinado, y no pasa de ese día."
+    ],
+    "list": [
+     "No toma sol ni cicatrices nuevas. Un corte en ella sana hasta quedar exactamente como se prestó.",
+     "El pelo no crece. Un cambiado que va al barbero está siendo cuidadoso.",
+     "Nunca dice ‘soy’ con el nombre del que la prestó. Dice ‘me llaman’.",
+     "Las alas de una mariposa del velo se vuelven transparentes junto a uno, como con cualquier feérico.",
+     "El hierro trabajado le cae tan mal como a cualquiera de sus parientes.",
+     "Pregúntale por la infancia del que prestó la cara y va a saber cada dato y ninguno de los olores."
+    ]
+   },
+   {
+    "title": "El encargo de quién",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Corte",
+      "El encargo"
+     ],
+     "rows": [
+      [
+       "Primavera",
+       "Encontrar algo perdido, o a alguien gracioso. Los cambiados de la Primavera se enamoran de sus vecinos y escriben a casa contándolo."
+      ],
+      [
+       "Verano",
+       "Tomarle la medida a un campeón, a una flota o a un rival, y que lo vean ganando algo."
+      ],
+      [
+       "Otoño",
+       "Ser testigo. Una deuda está por vencer, y el Otoño quiere a alguien en el cuarto que estuvo ahí cuando se contrajo."
+      ],
+      [
+       "Invierno",
+       "Vigilar una sola cosa durante muchísimo tiempo y no decir nada. Los cambiados del Invierno son los que se quedan nueve años."
+      ]
+     ],
+     "caption": "Para qué manda cada Corte a un cambiado"
+    }
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Una mujer volvió a casa en Varhall después de un año fuera, y su familia no la deja entrar, porque su hija nunca se fue.",
+     "Un hombre al que el grupo está cazando prestó su cara. Hasta que vuelva a casa, nadie lo va a reconocer, el grupo incluido.",
+     "Un cambiado del Otoño lleva seis años de escribiente en el salón de los [[Hebranegra|Blackstrand]], y mañana es el día que vino a presenciar."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Si prestas tu cara, elige al comprador. No vas a poder quejarte con nadie que se acuerde de ti.",
+     "Un cambiado con una cara prestada sigue siendo un feérico. Cuenta el trato, y no le des también tu nombre.",
+     "La prueba más rápida es la paciencia. Vuelve en cinco años y fíjate quién no envejeció."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "De la forajida a la que llaman Cora, “la Pintada”, se dice que lleva la cara que quiere. Los muelles te dirán que es maquillaje.",
+     "A uno que prestó la cara todavía lo pueden reconocer los animales, los niños muy chiquitos y cualquiera que nunca supo su nombre.",
+     "Nadie ha dibujado la cara propia de un cambiado. La gente que ha visto una dice que es como tu reflejo en una ventana de noche, con la lámpara detrás."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“No puedes prestar la cara de un muerto. Pero si te mueres con la tuya prestada, se la quedan. Piensa a quién tienta eso.” (un árbitro de seto en los Días Quietos)",
+     "“Los primeros cambiados no eran espías. Pregúntale a un duendecillo de la Primavera para qué eran y deja de reírse.” (un guardián de puertas de los Caelvaron)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkNvcmEsIOKAnGxhIFBpbnRhZGHigJ0qKiBlcyB1bmEgY2FtYmlhZGEgZGUgbGEgW1tDb3J0ZXxDb3VydF1dIGRlIEFvaWZlbCwgeSBhc8OtIGVzIGNvbW8gbGxldmEgY3VhbHF1aWVyIGNhcmEuIEVsIFtbUGluY2VsIGRlIGxhIENyZWFjacOzbnxCcnVzaCBvZiBDcmVhdGlvbl1dIGVzIHVuYSByZWxpcXVpYSBmZcOpcmljYSBwZXJkaWRhIGVuIGxhcyBpc2xhcywgeSBsYSBQcmltYXZlcmEgbGEgbWFuZMOzIGEgZW5jb250cmFybG8uIiwgIioqTG9zIHByaW1lcm9zIGNhbWJpYWRvcyBmdWVyb24gZGUgbGEgUHJpbWF2ZXJhLCoqIHkgbG9zIGhpY2llcm9uIHBhcmEgbGEgZ3VlcnJhLiBUb21hcm9uIHByZXN0YWRhcyBsYXMgY2FyYXMgZGUgZmXDqXJpY29zIHF1ZSBzZSBoYWLDrWFuIGxsZXZhZG8gbG9zIG9ya2EsIGVudHJhcm9uIGVuIGxvcyBjb3JyYWxlcyBkZSBlc2NsYXZvcyBlbiBsdWdhciBkZSBsb3MgbXVlcnRvcyB5IHNhY2Fyb24gYSBsb3Mgdml2b3MuIFBvciBlc28gdW5hIGNhcmEgdGllbmUgcXVlIGRhcnNlOiBsYXMgcHJpbWVyYXMgbGFzIGRpZXJvbiBwZXJzb25hcyBxdWUgc2Fiw61hbiBxdWUgbm8gbGFzIGliYW4gYSBuZWNlc2l0YXIgb3RyYSB2ZXouIiwgIioqTW9yaXIgY29uIGxhIGNhcmEgcHJlc3RhZGEuKiogU2kgZWwgcXVlIHByZXN0w7MgbXVlcmUgbWllbnRyYXMgbGEgY2FyYSBlc3TDoSBhZnVlcmEsIGVsIGNhbWJpYWRvIHNlIGxhIHF1ZWRhIHBhcmEgc2llbXByZSwgeSBubyBwdWVkZSB0b21hciBvdHJhLiBFbCBJbnZpZXJubyBsbyBoYSB1c2FkbyBleGFjdGFtZW50ZSB1bmEgdmV6LiJdfQ=="
+   }
+  ],
+  "title": "Los Cambiados"
+ },
+ "frost-elves": {
+  "gloss": "The Frost Elves",
+  "aliases": [
+   "Elfos de la Escarcha",
+   "los Elfos de la Escarcha",
+   "Elfo de la Escarcha",
+   "Hambre Pintada",
+   "el Hambre Pintada",
+   "Pintura de Calavera",
+   "los Sin Pintar",
+   "Aelthen de Escarcha"
+  ],
+  "subtitle": "Los cazadores pintados del hielo, que copian lo que temen",
+  "summary": "Los Elfos de la Escarcha son los elfos del hielo del extremo sur: cazadores, pastores y saqueadores que se pintan la cara como la calavera del Hambre Blanca antes de una incursión. Guardan la ley del huésped más dura de las islas y no recuerdan nada de dónde vinieron.",
+  "epigraph": {
+   "quote": "Nos pintamos el Hambre en la cara para que nos mire y se vea a sí misma, y se vaya a comer a otro.",
+   "by": "Drasna, una jefa de guerra del interior"
+  },
+  "facts": [
+   [
+    "Hogar",
+    "el interior de la [[Extensión Helada|Icy Expanse]]"
+   ],
+   [
+    "Cuántos son",
+    "más o menos uno de cada seis habitantes de la [[Extensión|Expanse]]"
+   ],
+   [
+    "Lengua",
+    "el [[Aelthen de Escarcha|Rime Aelthen]]: duro, frío y cortado"
+   ],
+   [
+    "Temen y copian",
+    "a Vukharr, el [[Hambre Blanca|White Hunger]]"
+   ],
+   [
+    "Ley",
+    "la venganza de sangre y el destierro"
+   ],
+   [
+    "Ley del huésped",
+    "grasa y fuego para cualquiera que llegue a la lámpara"
+   ],
+   [
+    "Nombres",
+    "Ysgra, Khelvi, Drasna, Hresk"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Quiénes son",
+    "paragraphs": [
+     "Los [[Elfos de la Escarcha|Frost Elves]] viven donde nadie más puede: en el hielo del interior de la Extensión, detrás de la costa ballenera, en salones de hueso, cuero y nieve apisonada. Cazan, pastorean y pescan durante la [[Larga Noche|Long Night]], y en un año flaco bajan a la costa pintados.",
+     "Son altos, de trenzas negras y tatuados con nudos severos. Visten pieles blancas y hueso tallado, llevan un hacha grande y una calavera de animal en la cadera. A otros elfos les cuesta mirarlos, y solo lo dicen cuando no hay ninguno presente."
+    ]
+   },
+   {
+    "title": "El Hambre",
+    "paragraphs": [
+     "Todo lo que vive en el hielo vive junto a Vukharr, el Hambre Blanca, el [[Señor Salvaje|Savage Lord]] que come y nunca se llena. Los Elfos de la Escarcha le temen más que nadie, y convirtieron ese miedo en una manera de vivir. Lo copian. Un pueblo al que dejaron en el hielo sin nada, dicen, aprende de lo único que hay ahí que nunca pasa hambre.",
+     "Algunas bandas fueron más lejos y casi lo adoran. La costa las llama el [[Hambre Pintada|Painted Hunger]]."
+    ]
+   },
+   {
+    "title": "Bandas y salones",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Quiénes",
+      "Qué son"
+     ],
+     "rows": [
+      [
+       "Las bandas de guerra",
+       "Casi todos los Elfos de la Escarcha. [[Cazadores|Hunters]] y pastores del interior que saquean la costa en los años flacos y comercian con ella en los gordos. Cada una sigue a un jefe de guerra y tiene su propio salón."
+      ],
+      [
+       "El Hambre Pintada",
+       "Las bandas de guerra que llegaron más lejos hacia Vukharr. No comercian, saquean también en los años gordos y casi adoran al Hambre Blanca. Todos los pueblos de la costa conocen su pintura."
+      ],
+      [
+       "Los [[Sin Pintar|Unpainted]]",
+       "Unas pocas bandas que rechazaron del todo la [[Pintura de Calavera|Skull-Paint]], guiadas por Khelvi [[Trenzaplata|Silverbraid]]. Se fueron al hielo del extremo sur, más allá de los últimos postes, y no explican qué hacen allá."
+      ],
+      [
+       "Los sin salón",
+       "Desterrados y errantes, echados por una venganza de sangre o por elección. Algunos se contratan como guías y balleneros. Unos pocos se hacen Cazadores."
+      ]
+     ],
+     "caption": "Los Elfos de la Escarcha, como los clasifica la costa"
+    }
+   },
+   {
+    "title": "Costumbres del hielo",
+    "paragraphs": [],
+    "list": [
+     "La Pintura de Calavera. Antes de una incursión, una banda de guerra se pinta la cara como la calavera del Hambre Blanca. Es a la vez una advertencia, una oración y ropa de batalla.",
+     "La pintura solo sale en el mar. Un saqueador que todavía está pintado todavía está saqueando, y no puede entrar a un salón, comer en una mesa ni tocar a un niño.",
+     "La lámpara encendida. La lámpara nunca se apaga en un salón de la Escarcha. A un extraño que llega a ella se le dan grasa y fuego sin preguntas, aunque sea un enemigo, aunque haya una venganza de por medio. Echar a alguien al frío es un asesinato.",
+     "La parte del extraño. El primer corte de una presa se aparta para el que no tiene nada. Nadie pregunta quién se lo lleva.",
+     "La [[Bóveda Auroral|Auroral Vault]]. A sus luces las llaman el sueño de Vukharr, y ninguna banda saquea debajo de ellas.",
+     "El trofeo. Cada cazador lleva en la cadera la calavera de su primera presa. Quitársela a un elfo vivo es empezar una venganza que dura más que los dos.",
+     "El destierro. Su justicia es la venganza de sangre y el destierro, y en el hielo el destierro es una muerte más lenta."
+    ]
+   },
+   {
+    "title": "De dónde vinieron",
+    "paragraphs": [
+     "Los Elfos de la Escarcha no tienen ninguna historia de su propio comienzo. Sus relatos empiezan en el hielo, ya con frío, ya con hambre. No guardan ningún dios de los elfos y no parece que lo extrañen.",
+     "Los feéricos lo cuentan distinto. Dicen que los Elfos de la Escarcha fueron alguna vez del Invierno, y que el Invierno echó a sus antepasados del [[Feérico|Faewild]] después de la [[Guerra Orka|Orka War]]. Ningún feérico dice más que eso, y un [[Elfo de la Escarcha|Frost Elf]] al que se lo cuentan se encoge de hombros. Fue hace mucho, y no hizo más tibio el hielo.",
+     "Su canción más vieja habla de una gran lechuza blanca que puso un solo huevo y lo escondió. Ningún Elfo de la Escarcha sabe decir qué quiere decir. Todas las bandas la cantan igual."
+    ]
+   },
+   {
+    "title": "Los Elfos de la Escarcha en las islas",
+    "paragraphs": [],
+    "list": [
+     "Los balleneros de [[Bastión de Escarcha|Frosthold]] comercian y pelean con ellos desde antes de la Carta, muchas veces en la misma temporada.",
+     "La Casa Kaldmark guarda la marca contra las bandas de guerra, y se ha casado con dos de ellas.",
+     "[[Albion Tempestad|Albion Tempest]], el Cazador de Oro y Primer Oficial de la *[[Marea Carmesí|Crimson Tide]]*, es un Elfo de la Escarcha de la Extensión. Sirve, dice, para cambiar cómo ven las islas a su pueblo.",
+     "Un guía Elfo de la Escarcha es el mejor que se puede contratar en el hielo, y te deja en el momento en que rompes la ley del huésped."
+    ]
+   },
+   {
+    "title": "Jugar con un Elfo de la Escarcha",
+    "paragraphs": [],
+    "list": [
+     "Decide de qué banda vienes, y si la dejaste pintado, sin pintar o desterrado.",
+     "Nunca has tenido tanto calor como para dejar de notarlo. El resto de las islas se siente como un aliento contenido.",
+     "Le debes grasa y fuego a cualquiera que llegue a tu lámpara. Eso incluye a la gente que juraste matar.",
+     "En el nivel 4 un Elfo de la Escarcha puede tomar la dote de linaje [[Cazador de la Escarcha|Rime-Hunter]]."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Una banda de guerra bajó a un pueblo ballenero sin pintar y pidió refugio, con educación. No quieren decir de qué.",
+     "Un desterrado quiere volver a casa. El precio de terminar una venganza es una calavera que su familia perdió hace cuarenta años, y está colgada en una taberna de [[Puerto Varan|Varan Port]].",
+     "Un saqueador llegó a la lámpara de un salón antes que la gente que lo cazaba. El salón tiene que darle de comer, y los cazadores acampan afuera.",
+     "Tres bandas que nunca se han visto están cantando una estrofa nueva de la canción de la lechuza."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "Ninguna banda de guerra de los Elfos de la Escarcha ha saqueado nunca bajo las luces de la Bóveda Auroral.",
+     "El Aelthen de Escarcha tiene once palabras para el hambre y una para estar lleno, y la de estar lleno es un insulto.",
+     "La pintura es ceniza, grasa y hueso molido. Ponérsela lleva una hora, y quitársela, una caminata hasta el mar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Hambre Pintada atacó la marca de Kaldmark llevando el sello de una casa de aceite de Bastión de Escarcha. La Hermandad dice que es falso. Los Kaldmark dicen que no.” (un jinete de la marca)",
+     "“Hay un cazador viejo en uno de los salones hondos que nunca se ha pintado. Ya era viejo cuando sus abuelas eran niñas. A él le dan de comer primero.” (un guía Elfo de la Escarcha, después de la tercera copa)",
+     "“Dejaron de saquear cerca de la Bóveda del todo. Dicen que el Hambre está soñando con algo nuevo.” (un ballenero de Bastión de Escarcha)",
+     "“Los caballeros del Verano no quieren pelear con ellos. Con cualquier otro saqueador, encantados. Pregúntale a uno por qué y te cambia el tema a su espada.” (un kalashtar de Bastión del Sol)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gbm8gZXJhbiBjb2JhcmRlcy4qKiBFbiBsYSBbW0d1ZXJyYSBPcmthfE9ya2EgV2FyXV0sIHVuYSBmYWNjacOzbiBkZWwgSW52aWVybm8gc2UgcHVzbyBhIG1hdGFyIHBvciBtYXRhciwgeSBlbiBzdXMgaW5jdXJzaW9uZXMgYWJhdMOtYSBhIG90cm9zIGZlw6lyaWNvcyBzaWVtcHJlIHF1ZSBtdXJpZXJhbiBtw6FzIG9yY29zIHF1ZSBmZcOpcmljb3MuIEVsIHByaW1lciBSZXkgZGVsIEludmllcm5vIGxvcyBkZXN0ZXJyw7MgYWwgbXVuZG8gZGVzcGllcnRvLCBiYWpvIHVuYSBtYWxkaWNpw7NuIHF1ZSBtYXJjaGl0YSBzdSBtYWdpYSBmZcOpcmljYSB1biBwb2NvIG3DoXMgY29uIGNhZGEgZ2VuZXJhY2nDs24uIFN1cyBkZXNjZW5kaWVudGVzIG5vIHJlY3VlcmRhbiBwYXJhIG5hZGEgaGFiZXIgc2lkbyBmZcOpcmljb3MuIiwgIioqTGEgbWFsZGljacOzbi4qKiBTdSBtYWdpYSBmZcOpcmljYSBzZSBtYXJjaGl0YSB1biBwb2NvIG3DoXMgY29uIGNhZGEgZ2VuZXJhY2nDs24uIFBvciBlc28gbm8gdGllbmVuIG5pbmd1bmEgaGlzdG9yaWEgZGVsIFtbRmXDqXJpY298RmFld2lsZF1dOiBlbCByZWN1ZXJkbyBzZSBmdWUgY29uIGVsbGEuIiwgIioqRWwgcHJpbWVyIFJleSBkZWwgSW52aWVybm8gZXN0w6Egdml2by4qKiBTZSBsbGFtYSBDYWxkcml0aC4gRGVzcHXDqXMgZGVsIGRlc3RpZXJybyBkZWrDsyBlbCBbW1NhbMOzbiBQw6FsaWRvfFBhbGUgSGFsbF1dIHkgc2UgZXNjb25kacOzLCBhdmVyZ29uemFkbywgeSBhIGxhIFtbQ29ydGV8Q291cnRdXSBsYSBsbGFtYW4gZWwgW1tMYXJnbyBTaWxlbmNpb3xMb25nIFNpbGVuY2VdXSBwb3Igw6lsLiBNb3J0aHJ5biB0b23DsyBlbCB0cm9ubywgeSBlcyBsYSDDum5pY2EgcXVlIHNhYmUgcXVlIHZpdmUsIHkgZMOzbmRlLiBBbGd1bm9zIGRpY2VuIHF1ZSDDqWwgYXp1esOzIGEgbG9zIGJlcnNlcmtlcnMgeSBkZXNwdcOpcyBsb3MgaGl6byBzdXMgY2hpdm9zIGV4cGlhdG9yaW9zLiBOdW5jYSBsbyBoYSBuZWdhZG8sIHkgdW4gcmV5IGFsIHF1ZSBzb2xvIGh1YmllcmFuIHRyYWljaW9uYWRvIG5vIHNlIGhhYnLDrWEgZXNjb25kaWRvIGR1cmFudGUgZGlleiBtaWwgYcOxb3MuIiwgIioqQ2FsZHJpdGggZXN0w6EgZW50cmUgZWxsb3MuKiogRWwgcHJpbWVyIFJleSBkZWwgSW52aWVybm8gc2UgZXNjb25kZSBjb24gZWwgcHVlYmxvIHF1ZSBkZXN0ZXJyw7M6IHVuIHZpZWpvIGNhemFkb3Igc2luIHBpbnRhciBlbiB1biBzYWzDs24gZGVsIGludGVyaW9yIGhvbmRvLCBxdWUgaGEgbWFudGVuaWRvIGVuY2VuZGlkYSBzdSBsw6FtcGFyYSBkdXJhbnRlIG3DoXMgdGllbXBvIGRlbCBxdWUgbGEgYmFuZGEgaGEgdGVuaWRvIG5vbWJyZS4gTm8gc2FiZW4gcXVpw6luIGVzLiBNb3J0aHJ5biBzYWJlIGVuIHF1w6kgc2Fsw7NuLiIsICIqKkxvIHF1ZSBsZXMgZGViZW4gbGFzIENvcnRlcy4qKiBUb2RhcyBsYXMgQ29ydGVzIGxlIGd1YXJkYW4gcmVuY29yIGFsIEludmllcm5vIHBvciBsb3MgYmVyc2Vya2VycywgeSB0b2RhcyBzYWJlbiBxdWUgZnVlcm9uIGxvcyDDum5pY29zIGZlw6lyaWNvcyBxdWUgYWxndW5hIHZleiBpZ3VhbGFyb24gYSBsb3Mgb3JrYSBnb2xwZSBwb3IgZ29scGUuIExvcyBjYWJhbGxlcm9zIGRlbCBWZXJhbm8gbm8gcGVsZWFuIGNvbnRyYSB1bmEgYmFuZGEgZGUgZ3VlcnJhIGRlIGxvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSwgeSBubyBkaWNlbiBxdWUgZXN0YSBlcyBsYSByYXrDs24uIiwgIioqTGEgY2FuY2nDs24gZGUgbGEgbGVjaHV6YSBlcyB2ZXJkYWQuKiogQW50ZXMgZGUgVnVraGFyciBlbCBoaWVsbyB0dXZvIG90cm8gU2XDsW9yOiBZc3ZldGgsIGxhIFtbTGFyZ2EgTm9jaGV8TG9uZyBOaWdodF1dLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYS4gVnVraGFyciBzZSBsYSBjb21pw7MuIEVsIGh1ZXZvIGVzIHJlYWwsIHkgZXN0w6EgZXNjb25kaWRvIGRvbmRlIGVsIEhhbWJyZSBubyBwdWVkZSBzZWd1aXJsby4iXX0="
+   }
+  ],
+  "title": "Los Elfos de la Escarcha"
+ },
+ "kalashtar": {
+  "gloss": "The Kalashtar",
+  "aliases": [
+   "soñadores",
+   "los tocados por el sueño"
+  ],
+  "subtitle": "Los soñadores: humanos que duermen con la puerta abierta",
+  "summary": "Nadie nace kalashtar. Todo kalashtar nació humano, y una noche empezó a soñar un lugar que no era suyo: la orilla lejana, un país detrás del sueño que no es el Feérico, aunque los feéricos lo recorren a gusto. Los sueños vuelven cada noche desde entonces, y dejan un toque que no se quita.",
+  "epigraph": {
+   "quote": "Mi madre le preguntó al sacerdote cuándo se me iba a pasar. Él dijo: como se pasa la marea.",
+   "by": "una remendadora de redes kalashtar, Puerto Gris"
+  },
+  "facts": [
+   [
+    "Nacen",
+    "humanos, siempre"
+   ],
+   [
+    "La Apertura",
+    "el primer sueño verdadero, casi siempre entre la infancia y los primeros años de adulto"
+   ],
+   [
+    "Los ojos",
+    "una luz tenue en la oscuridad, y el color de la estación que sueñan"
+   ],
+   [
+    "El sueño",
+    "duermen menos que los demás, y sueñan cada hora"
+   ],
+   [
+    "Fe",
+    "Skaia, el [[Cielo que Sueña|Dreaming Sky]], junto a la fe en la que se criaron; temen a Naxithe, el [[Comesueños|Dream-Eater]], más que a nada"
+   ],
+   [
+    "Cuántos",
+    "pocos; casi todos los isleños han conocido a uno, y menos lo saben"
+   ],
+   [
+    "Sus hijos",
+    "nacen humanos, y algunos empiezan a soñar"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La Apertura",
+    "paragraphs": [
+     "El primer sueño verdadero se llama **la [[Apertura|Opening]]**, y todo kalashtar recuerda la noche en que pasó. Llega casi siempre entre la infancia y los primeros años de adulto, a veces más tarde, rara vez antes de los siete o después de los treinta. Les llega sobre todo a los que nacieron o se criaron cerca de un **[[lugar delgado|thin place]]**, donde el [[Velo|Veil]] se gasta, y en un año de [[Marea Rey|King Tide]] más que en cualquier otro. Un niño que despierta de ella llorando, o riéndose, o hablando un lisseth que nunca aprendió, se abrió, y la familia lo sabe para la mañana.",
+     "Corre en algunas familias más de lo que permite el azar. Los hijos de un kalashtar nacen humanos, como todos, y algunos empiezan a soñar."
+    ]
+   },
+   {
+    "title": "El toque",
+    "paragraphs": [
+     "Lo que deja la orilla lejana."
+    ],
+    "list": [
+     "**Los ojos.** Los ojos de un kalashtar guardan una luz tenue en la oscuridad, y durante el primer año toman el color de la estación que sueña: verde para la [[Primera Flor|First Bloom]], dorado para la [[Corona Ardiente|Burning Crown]], rojo para la [[Cosecha Roja|Red Harvest]], blanco para el [[Largo Silencio|Long Silence]]. Casi todos sueñan una sola estación toda la vida, y el color se queda.",
+     "**El sueño.** Duermen menos que los demás, y sueñan cada hora. Un kalashtar al que no se lo deja soñar, por una fiebre, por un somnífero o por un carcelero que sabe lo que hace, se vuelve gris, después raro, después peligroso.",
+     "**La voz sin oídos.** Casi todos pueden poner un pensamiento en una mente cercana, claro como un susurro y sin que nadie más lo oiga. A las islas eso no les cae cómodo, y a un kalashtar que lo hace sin que lo inviten en la mesa de un señor no lo vuelven a invitar.",
+     "**El Velo.** Sienten un lugar delgado como un marinero siente una corriente de aire bajo cubierta. En la Marea Rey y en los [[Días Quietos|Still Days]] sus sueños se vuelven ruidosos.",
+     "**La piedra fría.** La Krysta no hace nada del otro lado del Velo, y a un kalashtar le parece callada y fría. Las noches en que quieren descansar, algunos duermen con una piedra en la mano, porque apaga los sueños."
+    ]
+   },
+   {
+    "title": "En la orilla lejana",
+    "paragraphs": [
+     "Los kalashtar no se ponen de acuerdo en lo que sueñan. Unos sueñan una corte y su banquete sin fin, otros un bosque que sabe su nombre, otros un mar que corre cuesta arriba. Dicen que se encuentran allá, y que se reconocen al despertar, y más de un kalashtar se ha casado con alguien que conoció primero en la orilla lejana.",
+     "La orilla lejana no es el [[Feérico|Faewild]], digan lo que digan los libros viejos. Los soñadores la llaman **la [[Errancia|Roam]]**: un campo abierto detrás del sueño, sin señor y sin cercas, cruzado por caminos que llevan a todos los lugares donde ha estado alguna vez una mente. Tiene las cuatro estaciones de las Cortes, cada una en su propio país, y un soñador se abre en uno de ellos. Los feéricos entran a la Errancia con la misma facilidad con que se baja de un porche, y casi toda la gente que un soñador se encuentra allá son feéricos muy lejos de casa. No rige la ley de ninguna [[Corte|Court]]. Hay casas de camino, agentes de camino, reclamos de tierra, y la ley que pueda hacer cumplir el que esté más cerca.",
+     "Los feéricos se fijan en sus soñadores. Un trato cerrado en un sueño se cumple en el mundo despierto, así que todo kalashtar aprende temprano las reglas de los feéricos: nunca un nombre verdadero, nunca un gracias, cada trato contado tres veces. Tienen más razones que nadie."
+    ]
+   },
+   {
+    "title": "La fe y las islas",
+    "paragraphs": [],
+    "list": [
+     "**Fe.** Casi todos conservan la fe en la que se criaron, y le suman a **Skaia, el Cielo que Sueña**, cuyas lectoras de sueños de [[Puerto Gris|Greyhaven]] aconsejan a los soñadores desde que hay soñadores. Por encima de cualquier otro poder temen a **Naxithe, el Comesueños**, que pudre los sueños que guarda Skaia.",
+     "**La [[Concordia|Concord]].** A un kalashtar nuevo se lo bendice en una puerta en nombre de **Varneth**, el [[Guardián|Warden]] del Umbral que vigila la línea, y sus sacerdotes llevan la lista de los soñadores en cada puerto del [[Consejo|Council]], por costumbre y no por ley.",
+     "**El [[Registro|Registry]].** El [[Registro Arcano|Arcane Registry]] lleva cuarenta años discutiendo si un sueño es una obra. No registra a ningún kalashtar por soñar, y registra a cada kalashtar que lanza conjuros.",
+     "**Los marineros** están divididos. Unos dicen que un kalashtar a bordo sueña el naufragio antes de que pase, y así el barco nunca lo encuentra. Otros no navegan con uno por nada.",
+     "**El sur** es el que mejor los conoce, porque el sur tiene más lugares delgados. Los guardacantos dicen que un kalashtar *duerme con la puerta abierta*."
+    ]
+   },
+   {
+    "title": "Nombres, ropa y familia",
+    "paragraphs": [
+     "Los kalashtar conservan sus nombres humanos, sus familias humanas y sus vidas humanas; un Faust que empieza a soñar sigue siendo un Faust. A muchos también les dan un nombre en la orilla lejana. Solo se lo dan a otros kalashtar, porque un nombre que se da en la orilla lejana es un nombre verdadero.",
+     "Muchos llevan algo de su estación: un hilo verde, un anillo dorado, un pañuelo rojo, una piedra blanca. Los lentes ahumados de noche esconden la luz de sus ojos, y son la señal más segura de que alguien tiene algo que esconder."
+    ]
+   },
+   {
+    "title": "Jugar con un kalashtar",
+    "paragraphs": [
+     "Un kalashtar es un humano con algo más. Pregúntate:",
+     "¿Qué estación hay en tus ojos, y alguien de las Cortes se ha fijado?",
+     "¿Hiciste una promesa en un sueño que alguien del mundo despierto te está cobrando ahora?",
+     "¿Tu familia esperaba que se te pasaran los sueños?",
+     "¿Hay un soñador al que solo has conocido en la orilla lejana?",
+     "¿Qué ves cuando duermes junto a un lugar delgado?"
+    ]
+   },
+   {
+    "title": "Solo humanos",
+    "paragraphs": [
+     "Solo los humanos se vuelven kalashtar. A otros pueblos se los puede llevar a la Errancia como invitados, o pueden caer en ella en un lugar delgado, pero no se abren, y el sueño no vuelve por ellos."
+    ]
+   },
+   {
+    "title": "Duermevela y los Arrullos",
+    "paragraphs": [
+     "Todos los caminos de la Errancia llegan a [[Duermevela|Halfwake]], el pueblo bajo la [[Cúpula|Dome]], donde se encuentran los soñadores. Fuera de la Cúpula están los [[Arrullos|Lulls]], los comesueños. Todo kalashtar lleva una [[palabra de despertar|waking-word]] contra ellos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay una soñadora en Ventoro cuyos ojos no tienen ningún color, y los otros kalashtar se cruzan de calle cuando ella pasa.” (un sacerdote de Varneth)",
+     "“Un kalashtar de Puerto Sur soñó el nombre de un barco tres noches seguidas. El barco llegó al cuarto día, y nadie a bordo había oído hablar de él.” (un práctico del puerto de Puerto Sur)",
+     "“El Registro lleva una segunda lista de los soñadores, y no es la lista de los sacerdotes.” (un escribiente de Ventoro)",
+     "“Nunca dejes que un kalashtar duerma en tu casa en los Días Quietos. Lo que sea que venga por el sueño entra por la puerta.” (una abuela de Puerto Gris)"
+    ]
+   },
+   {
+    "title": "En la mesa",
+    "paragraphs": [
+     "Un niño se abrió, y la familia quiere una lectora de sueños de Puerto Gris antes de que se den cuenta los vecinos.",
+     "Un kalashtar cerró un trato en un sueño, y vino un extraño a cobrarlo.",
+     "Alguien está drogando a kalashtar para que no sueñen, y dos ya se volvieron raros.",
+     "Un capitán pagará para que un kalashtar duerma a bordo a través de los [[Dientes de la Viuda|Widow's Teeth]].",
+     "Dos kalashtar que solo se conocieron en la orilla lejana quieren encontrarse en el mundo despierto."
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBvciBxdcOpIHNvbG8gc2UgYWJyZW4gbG9zIGh1bWFub3MuKiogT25kcnkgVmFuZSBlcmEgaHVtYW5hLCBsYSBwcmltZXJhIG1vcnRhbCBxdWUgc2UganVyYW1lbnTDsyBhbGd1bmEgdmV6IGEgdW4gc2Fsw7NuIGZlw6lyaWNvLiBTdSBqdXJhbWVudG8gZXMgbG8gcXVlIG1hbnRpZW5lIGFiaWVydGEgbGEgcHVlcnRhIGRlIGxhIFtbRXJyYW5jaWF8Um9hbV1dIHBhcmEgbG9zIGRlIHN1IGVzcGVjaWUsIHkgcGFyYSBuaW5ndW5vcyBvdHJvcy4iLCAiKipMYSBFcnJhbmNpYSBlcyBzdXlhLioqIFN1IHJlaW5vIHNlIHNvbHTDsyBkZWwgW1tGZcOpcmljb3xGYWV3aWxkXV0gY3VhbmRvIMOpbCBsbyBhYmFuZG9uw7MsIHkgbmFkaWUgdG9tw7MgbnVuY2EgcG9zZXNpw7NuIGRlIMOpbC4gRWwgdMOtdHVsbyBzaWd1ZSBzaWVuZG8gdsOhbGlkby4gTmluZ3VuYSBbW0NvcnRlfENvdXJ0XV0gbG8gc2FiZSwgbmluZ8O6biBrYWxhc2h0YXIgbG8gc2FiZSwgeSDDqWwgbnVuY2EgbG8gaGEgbWVuY2lvbmFkby4iLCAiTG9zIFtbQXJydWxsb3N8THVsbHNdXSBzb24gZGUgTmF4aXRoZSwgeSBlbnRyYXJvbiBhIGxhIEVycmFuY2lhIGRlc3B1w6lzIGRlIHF1ZSBzdSBzZcOxb3IgbGEgZGVqw7MuIiwgIk5hZGllIGVsaWdlIGEgbG9zIGthbGFzaHRhciwgbmkgc2lxdWllcmEgbGFzIENvcnRlczogdW4gW1tsdWdhciBkZWxnYWRvfHRoaW4gcGxhY2VdXSwgdW5hIFtbTWFyZWEgUmV5fEtpbmcgVGlkZV1dLCBhbGd1aWVuIHF1ZSBkdWVybWUgY29uIGxhIHB1ZXJ0YSBhYmllcnRhLiBMYSBFcnJhbmNpYSBlcyBzdSBwcm9waWEgcmVhbGlkYWQsIG5pIGVsIEZlw6lyaWNvIG5pIGVsIG11bmRvIGRlc3BpZXJ0bywgeSB0b2NhIGEgbG9zIGRvcy4gTG9zIGZlw6lyaWNvcyBsYSBjcnV6YW4gY29uIGVsIGN1ZXJwbzsgdW4ga2FsYXNodGFyIGxhIGNydXphIHNvbG8gY29uIGxhIG1lbnRlLiBTdXMgY2FtaW5vcyBqdW50YW4gbHVnYXJlcyBxdWUgZW4gZWwgbXVuZG8gZGVzcGllcnRvIGVzdMOhbiBtdXkgbGVqb3MsIHkgc2kgdW4gY3VlcnBvIGRlc3BpZXJ0byBwdWVkZSByZWNvcnJlcmxvcyBlcyBsYSBjbGFzZSBkZSBwcmVndW50YSBwb3IgbGEgcXVlIHNpZ3VlbiBhIHVuIHNvw7FhZG9yLiBQZXJvIGxhcyBDb3J0ZXMgYXByZW5kaWVyb24gYSB1c2FybG9zLiBDYWRhIENvcnRlIGNvbm9jZSBhIHN1cyBzb8OxYWRvcmVzLCB5IGNhZGEgcG9jYXMgZ2VuZXJhY2lvbmVzIHVuYSBsZSBwaWRlIGEgdW4gc2/DsWFkb3IgYWxnbyBlbiBsYSBvcmlsbGEgbGVqYW5hLCB5IGVsIHNvw7FhZG9yIGxvIGhhY2UgZW4gZXN0YS4gRWwgW1tEZXNhdGFkb3xVbmJvdW5kXV0gbm8gbmVjZXNpdGEgZWwgcGVybWlzbyBkZSBuaW5ndW5hIENvcnRlLiBVbiBzb8OxYWRvciBjdXlvcyBvam9zIG5vIHRvbWFuIG5pbmfDum4gY29sb3IgZXN0w6Egc2/DsWFuZG8gbG9zIHN1ZcOxb3MgZGUgw6lsLCB5IG5vIGxvIHNhYmUuIl19"
+   }
+  ],
+  "title": "Los Kalashtar"
  }
 }
