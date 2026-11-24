@@ -16047,7 +16047,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYS4iLCAiKipUcmlwdWxhY2nDs246KiogZ2FsdmVuIHkgbWFyaW5lcm9zIGRlIFtbQ29uZsOtbiBkZSBUb3JtZW50YXN8U3Rvcm1yZWFjaF1dLiIsICIqKkxhIHZlcmRhZDoqKiBKb3J2aWsgZXMgdW4gKipnYWx2ZW4qKiBxdWUgcGVyZGnDsyBlbCBvam8gcG9yIHVuIHJheW8sIHkgbGEgY2ljYXRyaXogZXMgcG9yIGRvbmRlIGxlIGhhYmxhICoqRWlyaGFsKiosIGVsIFJheW8gVml2by4gQXPDrSBzYWJlIGRlIGxhcyB0b3JtZW50YXMgY29uIHNlbWFuYXMgZGUgYW50aWNpcGFjacOzbi4gTm8gdmUgbGEgdmVyZGFkIGVuIGVsIGNvcmF6w7NuIGRlIGxvcyBob21icmVzOyBsZXMgbGVlIGxhIGNhcmEsIHkgZXMgbXV5IGJ1ZW5vIHBhcmEgZXNvLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYS4iLCAiKipUcmlwdWxhY2nDs246KiogZ2FsdmVuIHkgbWFyaW5lcm9zIGRlIFtbQ29uZsOtbiBkZSBUb3JtZW50YXN8U3Rvcm1yZWFjaF1dLiIsICIqKkxhIHZlcmRhZDoqKiBKb3J2aWsgZXMgdW4gKipnYWx2ZW4qKiBxdWUgcGVyZGnDsyBlbCBvam8gcG9yIHVuIHJheW8sIHkgbGEgY2ljYXRyaXogZXMgcG9yIGRvbmRlIGxlIGhhYmxhICoqRWlyaGFsKiosIGVsIFtbUmVsw6FtcGFnbyBWaXZvfExpdmluZyBMaWdodG5pbmddXS4gQXPDrSBzYWJlIGRlIGxhcyB0b3JtZW50YXMgY29uIHNlbWFuYXMgZGUgYW50aWNpcGFjacOzbi4gTm8gdmUgbGEgdmVyZGFkIGVuIGVsIGNvcmF6w7NuIGRlIGxvcyBob21icmVzOyBsZXMgbGVlIGxhIGNhcmEsIHkgZXMgbXV5IGJ1ZW5vIHBhcmEgZXNvLiJdfQ=="
    }
   ]
  },
@@ -16234,7 +16234,7 @@
     "title": "En el cartel",
     "paragraphs": [
      "El capitán [[Tormenta Negra|Blackstorm]] manda la *Marea Fantasma* y tiene la lealtad de las tripulaciones que salieron vivas de las [[Fauces del Kraken|Kraken’s Maw]]. Le vale 1,000 Anclas al [[Consejo|Council]].",
-     "Quiere reconstruir la vieja flota bajo su propia bandera, y eso lo enfrenta con la Última Sonrisa. El pleito entre ellos va empeorando."
+     "Quiere reconstruir la vieja flota bajo su propia bandera, y eso lo enfrenta con la [[Última Sonrisa|Last Smile]]. El pleito entre ellos va empeorando."
     ]
    },
    {
@@ -16242,14 +16242,14 @@
     "paragraphs": [],
     "list": [
      "Manda a los muertos con palabras susurradas.",
-     "Lleva el perdido Anillo de las Profundidades, que le da poder sobre las criaturas del mar.",
+     "Lleva el perdido [[Anillo de las Profundidades|Ring of Depths]], que le da poder sobre las criaturas del mar.",
      "Una vez dejó atrás a toda la Armada durante una [[Marea Rey|King Tide]]."
     ]
    },
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbG9zIFtbUmVzdG9zIGRlIENvcmF6w7NuIE5lZ3JvfFJlbW5hbnRzIG9mIEJsYWNraGVhcnRdXS4iLCAiKipUcmlwdWxhY2nDs246Kiogc29icmV2aXZpZW50ZXMgZGUgbGEgZmxvdGEgcm90YSBkZSBbW0NvcmF6w7NuIE5lZ3JvfEJsYWNraGVhcnRdXS4iLCAiKipMYSB2ZXJkYWQ6KiogZXJhIG9maWNpYWwgZGUgY3ViaWVydGEgZW4gdW5vIGRlIGxvcyBiYXJjb3MgZGUgQ29yYXrDs24gTmVncm8gZW4gbGFzIFtbRmF1Y2VzIGRlbCBLcmFrZW58S3Jha2VuJ3MgTWF3XV0sIHkgcXVpZXJlIHJlY29uc3RydWlyIGxhIGZsb3RhIGRlbCB2aWVqbyBhbG1pcmFudGUgYmFqbyBzdSBwcm9waWEgYmFuZGVyYS4gRWwgQW5pbGxvIGRlIGxhcyBQcm9mdW5kaWRhZGVzIGVzIHJlYWwgcGVybyBtw6FzIGNoaWNvIHF1ZSBsYXMgY2FuY2lvbmVzOiBtYW5kYSBhIHRpYnVyb25lcywgYW5ndWlsYXMgeSBjYWxhbWFyZXMsIG51bmNhIGEgdW4ga3Jha2VuLiBMZSBnYW7DsyBhIGxhIEFybWFkYSBlbiB1bmEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0gcG9ycXVlIHVuIHByw6FjdGljbyBkZSBsb3MgQ29ycmVkb3JlcyBkZSBsYSBOaWVibGEgbG8gbGxldsOzIHBvciBsb3MgW1tEaWVudGVzIGRlIGxhIFZpdWRhfFdpZG93J3MgVGVldGhdXSwgeSBudW5jYSBzZSBsbyBoYSBjb250YWRvIGEgc3UgdHJpcHVsYWNpw7NuLiBWZSBhIFNlcmVuIGNvbW8gdW5hIHVzdXJwYWRvcmEgZGVsIGxlZ2FkbyBkZSBzdSBwYWRyZSwgeSBlbCBwbGVpdG8gZW50cmUgZWxsb3MgdmEgZW1wZW9yYW5kby4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbG9zIFtbUmVzdG9zIGRlIENvcmF6w7NuIE5lZ3JvfFJlbW5hbnRzIG9mIEJsYWNraGVhcnRdXS4iLCAiKipUcmlwdWxhY2nDs246Kiogc29icmV2aXZpZW50ZXMgZGUgbGEgZmxvdGEgcm90YSBkZSBbW0NvcmF6w7NuIE5lZ3JvfEJsYWNraGVhcnRdXS4iLCAiKipMYSB2ZXJkYWQ6KiogZXJhIG9maWNpYWwgZGUgY3ViaWVydGEgZW4gdW5vIGRlIGxvcyBiYXJjb3MgZGUgQ29yYXrDs24gTmVncm8gZW4gbGFzIFtbRmF1Y2VzIGRlbCBLcmFrZW58S3Jha2VuJ3MgTWF3XV0sIHkgcXVpZXJlIHJlY29uc3RydWlyIGxhIGZsb3RhIGRlbCB2aWVqbyBhbG1pcmFudGUgYmFqbyBzdSBwcm9waWEgYmFuZGVyYS4gRWwgW1tBbmlsbG8gZGUgbGFzIFByb2Z1bmRpZGFkZXN8UmluZyBvZiBEZXB0aHNdXSBlcyByZWFsIHBlcm8gbcOhcyBjaGljbyBxdWUgbGFzIGNhbmNpb25lczogbWFuZGEgYSB0aWJ1cm9uZXMsIGFuZ3VpbGFzIHkgY2FsYW1hcmVzLCBudW5jYSBhIHVuIGtyYWtlbi4gTGUgZ2Fuw7MgYSBsYSBBcm1hZGEgZW4gdW5hIFtbTWFyZWEgUmV5fEtpbmcgVGlkZV1dIHBvcnF1ZSB1biBwcsOhY3RpY28gZGUgbG9zIENvcnJlZG9yZXMgZGUgbGEgTmllYmxhIGxvIGxsZXbDsyBwb3IgbG9zIFtbRGllbnRlcyBkZSBsYSBWaXVkYXxXaWRvdydzIFRlZXRoXV0sIHkgbnVuY2Egc2UgbG8gaGEgY29udGFkbyBhIHN1IHRyaXB1bGFjacOzbi4gVmUgYSBTZXJlbiBjb21vIHVuYSB1c3VycGFkb3JhIGRlbCBsZWdhZG8gZGUgc3UgcGFkcmUsIHkgZWwgcGxlaXRvIGVudHJlIGVsbG9zIHZhIGVtcGVvcmFuZG8uIl19"
    }
   ]
  },
