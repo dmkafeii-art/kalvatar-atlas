@@ -33723,5 +33723,234 @@
    }
   ],
   "title": "Erulisse"
+ },
+ "silver-stingray": {
+  "gloss": "Silver Stingray",
+  "aliases": [
+   "Raya de Plata",
+   "Plata"
+  ],
+  "subtitle": "Saber cuándo hablar, actuar y huir",
+  "summary": "Ex pirata, charlatán y falsificador, y Cazador de Rango Oro en tiempo récord.",
+  "epigraph": {
+   "quote": "Uno tiene que saber cuándo hablar, cuándo actuar... y cuándo huir.",
+   "by": "Raya de Plata"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "Alto elfo"
+   ],
+   [
+    "Profesión",
+    "Ex pirata, charlatán, conseguidor de documentos, cocinero, navegante, [[Cazador|Hunter]] de Rango Oro"
+   ],
+   [
+    "Facción",
+    "Los Cazadores (Rango Oro; su admisión fue un caso especial)"
+   ],
+   [
+    "Vino de",
+    "de más allá del archipiélago, a través del estrecho y de la [[Frontera|Frontier]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un alto elfo de pelo largo y plateado, de aspecto demacrado y a la vez regio. Tiene cicatrices a lo largo del cuello, los brazos y el cuerpo. Sus brazos y piernas largos son ágiles y diestros, aunque es más bajo de lo que debería ser un elfo de su clase. Varios aretes y perforaciones le recorren las largas orejas. Sus ojos son de un violeta hondo y penetrante que se vuelve ámbar cuando canaliza magia. Lleva un tricornio, una levita, y una capa y unas botas de corte élfico, con un estoque bañado en plata a la cadera."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Venido de más allá del Archipiélago de Kalvatar, Plata cruzó el estrecho y se abrió camino por la Frontera, uniéndose a mercaderes ambulantes y yendo de puerto en puerto. Ahí aprendió su primera lección: la moneda más valiosa es que la gente te deba favores. Pero eso es un arma de doble filo, porque ponerse del lado equivocado de alguien puede ser un desastre, y así aprendió su segunda lección: los rencores pueden durar más de lo que te imaginas.",
+     "Le tendieron una trampa y lo mandaron a prisión, y solo por suerte escapó, con la ayuda de una tripulación pirata. Durante su tiempo entre ellos se ganó el sustento como cocinero y navegante, oficios que nunca perdió. Estando prófugo, le ofrecieron una salida que los Cazadores casi nunca conceden: unirse a sus filas y enmendar sus faltas, o colgar si fallaba la admisión. Después de pruebas que demostraron lo que valía, subió a Rango Oro en tiempo récord. Su verdadero nombre sigue siendo solo suyo; para el archipiélago, es simplemente Plata."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Aguijón mortal: un esgrimista impecable, casi sin igual, que maneja el estoque como si fuera una extensión de su cuerpo, girando y bailando como en un vals con la muerte.",
+     "Desenfado mágico: mezcla sus tradiciones mágicas élficas con su esgrima, y crea distracciones y engaños dentro y fuera del campo de batalla.",
+     "Gimnasia mental: lee intenciones y motivos a través de señales verbales y físicas (leer los labios, los tics de los ojos y cosas así) y las usa para que los demás suelten sus secretos. También se escabulle de los problemas aprovechando tecnicismos y resquicios.",
+     "Mente aguda: su intelecto afilado nota los detalles, recuerda información a lo largo de periodos enormes de tiempo, y nunca pierde el norte.",
+     "Obtención y creación de documentos: puede reunir información y producir documentos legales en regla para cualquier oficio o línea de trabajo, siempre que los haya visto o trabajado con ellos antes, y presentarlos de manera convincente en las instituciones indicadas.",
+     "Bravura atlética: rápido en tierra y en cubierta, trepa cabos y se descuelga de las velas por encima de barriles y redes como una piedra que rebota en el agua."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Estoque hecho a medida, bañado en plata y con detalles de oro en la empuñadura",
+     "Tricornio, levita, y una capa y unas botas de corte élfico",
+     "Broche de Cazador de Oro",
+     "Un par de cuchillos, espadas cortas y pistolas",
+     "Herramientas de cerrajería",
+     "Una colección de tintes, pelucas y uniformes",
+     "Instrumentos de navegación, entre ellos un sextante y un astrolabio",
+     "Pergaminos, sellos oficiales y documentos con firmas y timbres importantes",
+     "Abrojos, alambres, bolsas de balines, y frascos de grasa y aceite"
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Plata siempre está hablando para meterse y salirse de los problemas, para conseguir lo que quiere y cumplir la ambición de su vida; en sus manos, las palabras cortan más hondo que las espadas. Es de lo más egoísta y narcisista que hay, y si las cosas se ponen feas no lo va a pensar dos veces antes de saltar del barco y dejarte a tu suerte. Pero si le caes bien, va a intentar arreglar las cosas... algún día."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Encontrar riquezas y tesoros.",
+     "Dejar su nombre en la historia."
+    ]
+   },
+   {
+    "title": "En sus propias palabras",
+    "paragraphs": [
+     "“Dicen que hablar es de plata y callar es de oro... pero las palabras pueden ser mortales cuando se usan bien. Ahora, quédate callado, ¿quieres?”",
+     "“Uno tiene que saber cuándo hablar, cuándo actuar... y cuándo huir.”"
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "La admisión de Plata en los Cazadores fue un caso excepcional. Se ganó el paso en sus pruebas y llegó a Oro en tiempo récord.",
+     "Cocinero, navegante y conseguidor de documentos además de esgrimista, trae a una misma cubierta las costumbres de varias vidas. Su verdadero nombre no es parte de su presentación pública."
+    ]
+   }
+  ],
+  "title": "Raya de Plata"
+ },
+ "hyacinth-alastor": {
+  "aliases": [
+   "Hyacinth Alastor",
+   "la Dama Rosa",
+   "Dama Rosa"
+  ],
+  "subtitle": "No se arrodillan ante ella, todavía",
+  "summary": "Heredera de la Casa de la Rosa, espadachina ocultista, y una joven que sabe que el mundo todavía no se arrodilla ante ella.",
+  "epigraph": {
+   "quote": "No se arrodillan ante mí... todavía.",
+   "by": "Hyacinth Alastor"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "[[Tiflin|Tiefling]]"
+   ],
+   [
+    "Profesión",
+    "Ocultista, espadachina"
+   ],
+   [
+    "Facción",
+    "La Casa Alastor, la [[Casa de la Rosa|Rose House]]"
+   ],
+   [
+    "Título",
+    "heredera de la Casa Alastor"
+   ],
+   [
+    "Tutores",
+    "Valthor y Nemeia Alastor"
+   ],
+   [
+    "Amiga más cercana",
+    "Agari, una sirvienta y emisaria tiflin de la casa"
+   ],
+   [
+    "Montura preferida",
+    "Vesna, una cantocresta rosa y blanca; de cariño, “Wunwun”"
+   ],
+   [
+    "Su favorita",
+    "Dalia, una gran lomogreda rosa de la colección de animales de la Casa de la Rosa"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Una tiflin excepcionalmente hermosa, alta y delgada, de complexión atlética y piel suave color rosa bebé. Tiene las orejas puntiagudas. Unos cuernitos color lavanda le salen de la frente, y su largo pelo rosa va peinado en una cola de caballo elaborada, con broches y trenzas. Sus ojos hacen juego con sus cuernos, enmarcados por puntitos rojos y pestañas claras y espesas. Su mirada suele ser severa o un poco fastidiada, y solo se suaviza cuando algo la cautiva de verdad. Viste túnicas ajustadas en el rosa y el carmesí hondo de su casa, bordadas con símbolos arcanos, bajo su posesión más preciada: una capa tejida de encantamiento cubierta de cien mariposas que aletean a cada paso. Su espada delgada arrastra un velo fino de sombra."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Hyacinth se crió como la heredera adorada de la Casa Alastor, atendida por una docena de sirvientes y educada por Valthor y Nemeia Alastor. Después de su nacimiento, su madre plantó miles de flores rosas cuidadas con esmero alrededor de la finca. Los jardines de la Casa de la Rosa se volvieron un punto de referencia de la región.",
+     "Su educación juntó el saber, lo oculto y la esgrima. Su padre, un guerrero renombrado de los [[Caballeros de la Rosa Pálida|Knights of the Pale Rose]], estaba encantado con su interés por la espada. Su orgullo se volvió inquietud cuando las sombras empezaron a juntarse alrededor de la espada de ella.",
+     "Ha recibido deferencia toda la vida, y sabe cuánta de ella se le debe a su nacimiento y no a sus logros. Fuera de la finca quiere hacer suyo ese respeto heredado. Agari, la sirvienta y emisaria tiflin de la casa y su amiga más cercana, es la persona ante la que no tiene que actuar."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Saber arcano: una comprensión excepcional de las artes arcanas, y conjuros poderosos sacados de su magia innata.",
+     "Manipulación de sombras: dobla las sombras a su favor, para el sigilo, el ataque o la defensa.",
+     "Esgrima: una duelista formidable de estilo único, que pelea con una espada hecha a imagen de la de su padre.",
+     "Invocación: llama criaturas y espíritus de otros planos para que peleen por ella o hagan tareas.",
+     "Telepatía: habla con los demás de mente a mente, cosa útil para reunir información o coordinar tácticas."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Espada: hecha a imagen del arma de su padre, engañosamente sencilla y liviana.",
+     "Túnicas: hechas a su medida exacta, en los colores de su casa, bordadas con símbolos arcanos que potencian su magia.",
+     "Bolsa: una bolsa mágica en la que cabe una cantidad sorprendente, útil para componentes de conjuros y otras necesidades.",
+     "Capa tejida de encantamiento: su posesión más preciada, adornada con cien mariposas que se mueven y aletean a cada paso."
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Hyacinth creció atendida por una docena de sirvientes y tiene poca práctica en ceder. Sabe exactamente cuánto de su influencia viene de su apellido, incluso cuando lo usa para salirse con la suya. En compañía, puede coquetear mientras le toma la medida a alguien, y va a desafiar a su familia si sus planes se cruzan con los de ella. Con Agari, que sirve a la casa, puede dejar de actuar.",
+     "La buena comida, la música y un jardín sin público pueden llamarle la atención tanto como la intriga de la corte. En la gala de pleno verano escucha con atención a las mujeres que los otros invitados descartan como chismosas, le molesta que la acorralen pretendientes que no quiere, y encuentra lugar para las bromas y la curiosidad cuando puede elegir su propia compañía. Su impaciencia con la ceremonia no le impide saber exactamente cómo usarla."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Consolidar su poder y su influencia.",
+     "Ganarse el respeto y la admiración que siempre le dieron por derecho de nacimiento.",
+     "Imponerse a medida que se adentra en el mundo, y romper los límites que le impone su linaje noble."
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "La Casa de la Rosa es una de los [[Cinco|the Five]]. Sus colores, el rosa y el carmesí hondo, y su emblema de la rosa negra hacen que la lealtad de Hyacinth se lea de inmediato.",
+     "El lema de la familia es “[[Todo poder tiene un precio|All Power Has a Price]]”. Su ambición propia es ganarse el respeto que siempre recibió por nacimiento. Su tensión con Reinhardt Holst ya es parte de lo que las islas cuentan de las casas."
+    ]
+   },
+   {
+    "title": "Una Gala de Pleno Verano",
+    "paragraphs": [
+     "En la gala de pleno verano, Hyacinth llega con una máscara de mariposa entre pétalos rosas que flotan. Más tarde se escabulle descalza al jardín y se pone a conversar con Reinhardt Holst. Los anfitriones aprecian mucho que aparezca la [[Dama Rosa|Pink Lady]], porque lo hace muy pocas veces. El jardín es donde se ve qué es lo que de verdad le llama la atención."
+    ]
+   },
+   {
+    "title": "Vesna, su cantocresta preferida",
+    "paragraphs": [
+     "Vesna, la apreciada cantocresta rosa y blanca de Hyacinth, fue un regalo de cumpleaños. Hyacinth le dice con cariño “Wunwun”, el nombre de niña que usaba para las cantocrestas imitando sus llamados. El nombre se le quedó, una pequeña huella de la niña que hay debajo de la heredera de la Casa de la Rosa. Montar a Vesna le saca un placer más callado, y la expresión se le suaviza cuando la montura se asienta en su paso de carrera.",
+     "Dalia, la gran lomogreda rosa de su colección de animales, sigue siendo la que más adora. Vesna es la montura con la que sale a cabalgar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“A Hyacinth Alastor y a Reinhardt Holst los vieron juntos en la Gala de Pleno Verano del señor Vanris. Una conversación casual, dicen. Por supuesto. Los salones ya se preguntan si hay algo más entre la heredera de la Casa de la Rosa y el Holst desheredado.” (susurrado detrás de un abanico de seda)"
+    ]
+   }
+  ],
+  "title": "Hyacinth Alastor"
  }
 }
