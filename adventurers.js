@@ -212,18 +212,19 @@ window.Adventurers = (() => {
   }
  }
  function renderToolHub(){
-  const quick=(id,icon,en,es)=>{
-   const tool=allTools.find(item=>item[0]===id);
+  const quickIds=[...new Set([...recentTools,'names','purse'])].slice(0,2);
+  const quick=id=>{
+   const [icon,en,es,tools]=toolGroups.find(group=>group[3].some(tool=>tool[0]===id));
+   const tool=tools.find(tool=>tool[0]===id);
    return `<a href="${tool[1]}"><span aria-hidden="true">${icon}</span><strong>${h(toolLabel(tool))}</strong><small>${t(en,es)}</small></a>`;
   };
   frame('hub',`<p class="adv-lead">${t('Tools for characters, voyages and life between adventures.','Herramientas para personajes, viajes y la vida entre aventuras.')}</p>
    <label class="adv-tool-search"><span aria-hidden="true">⌕</span><input id="adv-tool-search" type="search" aria-label="${t('Find a tool','Busca una herramienta')}" placeholder="${t('Find a tool…','Busca una herramienta…')}"></label>
    <div id="adv-tool-browse">
    ${toolShelf(favorites,t('Favorites','Favoritos'),'favorites')}
-   ${toolShelf(recentTools.filter(id=>!favorites.includes(id)),t('Recently used','Usadas recientemente'),'recents')}
+   ${toolShelf(recentTools.filter(id=>!favorites.includes(id)&&!quickIds.includes(id)),t('Recently used','Usadas recientemente'),'recents')}
    <h2>${t('Quick access','Acceso rápido')}</h2><div class="adv-quick">
-    ${quick('names','✒','Roll a name from the Isles.','Genera un nombre de las Islas.')}
-    ${quick('purse','⚓','Budget a voyage or split a prize.','Presupuesta un viaje o reparte una presa.')}
+    ${quickIds.map(quick).join('')}
    </div><div class="atlas-ornament" aria-hidden="true"><span>✦</span><span>✦</span><span>✦</span></div>
    <h2>${t('Browse by task','Explora por tarea')}</h2><div class="adv-tool-groups">${toolGroups.map(([icon,en,es,tools])=>`<details><summary><span aria-hidden="true">${icon}</span>${t(en,es)}<small>${tools.length}</small></summary><nav aria-label="${t(en,es)}">${tools.map(toolLink).join('')}</nav></details>`).join('')}</div></div>
    <div id="adv-tool-matches" class="adv-tool-matches" aria-live="polite" hidden></div>`);
