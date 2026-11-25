@@ -12585,7 +12585,7 @@
      "La [[Última Palabra|Last Word]]: el capitán Khaz'Aimar Maa'iq, la [[Mano Negra|Blackhand]], con tres cascos bajo una mano negra abierta.",
      "[[Céfiro|Zephyr]]: Sandros Magnus.",
      "Karnivool: un barco de [[Cazadores|Hunters]] y un espectáculo ambulante a la vez, bajo el capitán y maestro de pista Avalan Grant.",
-     "Ira de la Retribución: Reinhardt Holst, desheredado por la Casa Holst; el Oro más joven, decimoséptimo en el [[Escalafón|Ranking]].",
+     "[[Ira de la Retribución|Retribution's Wrath]]: Reinhardt Holst, desheredado por la Casa Holst; el Oro más joven, decimoséptimo en el [[Escalafón|Ranking]].",
      "[[Cisne de Hierro|Iron Swan]]: Titania, que atravesó la línea pirata una y otra vez en las Fauces.",
      "Las tripulaciones rivales de las que todo el mundo ha oído hablar:",
      "La [[Estela Dorada|Gilded Wake]]: los niños mimados patrocinados por una casa de la capitana Odessa Braith, que llegan segundos y se llevan el crédito primero.",
@@ -17617,34 +17617,79 @@
  },
  "reinhardt-holst": {
   "subtitle": "Las armas de Corina, su propio rumbo",
-  "summary": "Desheredado por la Casa Holst, capitán de la Ira de la Retribución y el Cazador más joven en alcanzar el oro, Reinhardt lleva las armas de su hermana en una vida marcada por la última batalla de ella.",
+  "summary": "El Cazador de Rango Oro más joven de la historia, que juró ahogar a todos los piratas del archipiélago.",
   "sections": [
    {
-    "title": "Antes del Wrath",
+    "title": "Aspecto",
     "paragraphs": [
-     "Reinhardt entró en la Armada a los diez años. Humano de la Casa Holst, demostró un talento prodigioso para la guerra naval y la organización, y estudió las artes arcanas con un mago reconocido. La marina y su familia le ofrecían el dibujo de un futuro del que acabaría separándose.",
-     "Su hermana Corina Holst capitaneaba el Sea Seraph. Años antes de las [[Fauces del Kraken|Kraken’s Maw]], se enfrentó a una gran flota pirata que perseguía barcos de refugiados. Los refugiados escaparon; Corina murió. Su resistencia se convirtió en leyenda en las islas y en una pérdida que su hermano no pudo dejar atrás."
+     "Un joven de una belleza llamativa, alto e imponente, con el pelo negro desordenado hasta los hombros enmarcando unos rasgos afilados y cincelados, y la piel pálida. Sus ojos azul eléctrico tienen una mirada fría y despiadada. Casi nunca se lo ve sin su chaqueta reforzada de oficial naval: antes del azul profundo de la Armada, ahora teñida de negro en luto por su hermana, llevada con el cuello alto levantado. La espada de su hermana le cuelga de la cadera y la pistola de ella va en su cinturón."
     ]
    },
    {
-    "title": "El barco que le negaron",
+    "title": "Antecedentes",
     "paragraphs": [
-     "A los catorce años, Reinhardt exigió un barco para perseguir a los asesinos de Corina. La Armada se negó y su familia llamó a la venganza una causa perdida. Él reunió a sus compañeros más leales y partió de todos modos. La Casa Holst lo desheredó.",
-     "Encontró un lugar entre los [[Cazadores|Hunters]] a quienes antes había despreciado. Se convirtió en el Cazador más joven en alcanzar el oro y en 175 EC ocupa el puesto diecisiete del Ranking, al mando de la Ira de la Retribución. Ganó ese rango dentro de la orden que lo acogió después de la ruptura."
+     "Reinhardt nació en la antigua y prestigiosa Casa Holst, y creció cargando sobre los hombros el peso de su larga tradición militar en la Armada. Los Holst mantienen lazos cercanos con su rama del continente de Assios, y comparten noticias y recursos a través del estrecho. Niño prodigio, Reinhardt entró a la Armada a los diez años, el año después de las [[Fauces del Kraken|Kraken's Maw]], y mostró una aptitud asombrosa para el combate marítimo y la organización. También estudió las artes arcanas con un mago de renombre, y esa mezcla de destreza marcial y mágica lo volvió una fuerza formidable.",
+     "Su hermana, Corina Holst, era una capitana respetada de la Armada y mandaba el *[[Serafín del Mar|Sea Seraph]]*. Se la conocía por su entrega a su tripulación y por su brillantez táctica, que muchas veces llevaba a su barco a la victoria contra probabilidades imposibles, y era la inspiración de Reinhardt. En el 170 EC, Corina y su tripulación enfrentaron a una enorme flota pirata que perseguía un convoy de cruceros de refugiados. Superados en número por mucho, sostuvieron la línea el tiempo suficiente para que los refugiados escaparan, a costa de sus propias vidas. La leyenda de su última resistencia se ha extendido desde entonces por todo el archipiélago.",
+     "A los catorce años, el mundo de Reinhardt se hizo pedazos. Decidido a vengar a su hermana, exigió un rango y un barco para cazar a los piratas responsables, pero sus superiores se negaron, alegando su edad y su falta de confianza en él. Entonces recurrió a su familia, pero esta consideró la venganza una causa perdida y se negó a apoyarlo. Movido por la frustración, Reinhardt juntó a sus camaradas más leales y persiguió a los piratas por su cuenta. Ese acto de desafío llevó a que la Casa Holst lo desheredara por insubordinación.",
+     "Sintiéndose abandonado y traicionado, Reinhardt encontró refugio entre los Cazadores, una organización que antes había desaprobado. Subió de rango con una velocidad que asusta, y a los diecinueve es el Cazador de Rango Oro más joven de la historia de la organización, ahora el 17.º en popularidad. Hoy es una figura temida, con un empeño implacable por erradicar a todos los piratas del Archipiélago de Kalvatar."
     ]
    },
    {
-    "title": "Lo que lleva consigo",
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Maestro de las artes arcanas: muy hábil en magia ofensiva, defensiva y utilitaria.",
+     "Estratega y táctico excepcional: un líder nato con una comprensión aguda del combate marítimo.",
+     "Determinación inquebrantable: una voluntad de hierro que lo empuja a través de los desafíos más duros e inspira a sus camaradas.",
+     "Espadachín hábil: precisión mortal con la hoja."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "La pistola de Corina: un arma de fuego de hermosa factura que fue de su hermana, y un recordatorio constante de su búsqueda.",
+     "La espada de Corina: un arma de buena factura, imbuida de la determinación de su difunta hermana.",
+     "Insignia de Cazador: la marca de su Rango Oro.",
+     "Grimorio arcano: los conjuros y encantamientos que juntó durante sus estudios.",
+     "Chaqueta reforzada de oficial naval: un símbolo de su pasado y del sacrificio de su hermana, y protección extra en batalla.",
+     "La *Ira de la Retribución*: el barco que capitanea."
+    ]
+   },
+   {
+    "title": "Personalidad",
     "paragraphs": [
-     "Reinhardt es frío, calculador e implacable con los piratas, y profundamente leal a los suyos. Lleva la espada y la pistola de Corina, un grimorio arcano y una chaqueta reforzada de oficial naval. El cabello negro hasta los hombros y los ojos azules penetrantes enmarcan al oficial que eligió su propio mando.",
-     "El lema de la Casa Holst es “El orden antes que la piedad”. Su historia coloca el peso de esa herencia junto a una promesa a los muertos y un deber hacia una tripulación viva. Las consecuencias siguen presentes en su apellido, sus armas y el barco que capitanea."
+     "Reinhardt es frío y calculador, con poca empatía por sus enemigos. Es implacable y despiadado contra piratas y saqueadores, movido por su deseo de venganza, y no tiene paciencia con la debilidad ni con la traición. Debajo de su exterior endurecido es leal y protector con sus camaradas, y espera de ellos la misma entrega. Su resentimiento hacia su familia alimenta su persecución, y lo vuelve a la vez temido y respetado entre los Cazadores.",
+     "El relato de *Una [[Gala de Pleno Verano|Midsummer Gala]]* muestra el ingenio que hay debajo de esa fama fría. Reinhardt le contesta la condescendencia a un anfitrión con una reverencia que dura demasiado, hace chistes macabros con Hyacinth, y se da cuenta cuando la multitud se le ha vuelto demasiado a ella. Puede ser paciente y cuidadoso con alguien angustiado sin dejar de estar muy atento a la sala a su alrededor."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Tomar una venganza brutal contra todos los piratas y saqueadores del archipiélago.",
+     "Probar lo que vale, y probar que su familia cometió un error grave al despreciar su causa."
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Reinhardt es el Cazador de Oro más joven; [[Raya de Plata|Silver Stingray]] es la ex pirata que subió a Oro en tiempo récord. Son méritos distintos, y un par de reputaciones difícil de llevar dentro de una sola orden.",
+     "Corina murió en el 170 EC, cinco años después de las Fauces del Kraken. Reinhardt tenía nueve años en la batalla, entró a la Armada a los diez, en el 166 EC, y tenía catorce cuando la perdió."
+    ]
+   },
+   {
+    "title": "Una Gala de Pleno Verano",
+    "paragraphs": [
+     "En la mascarada de pleno verano del señor Mortimer Vanris, Reinhardt trabaja como seguridad pagada a bordo del [[Pabellón Flotante|Floating Pavilion]], frente a [[Ventoro|Goldwind]]. El relato lo sigue a través de un desaire público, una presentación improvisada a Hyacinth Alastor y una conversación más tranquila en el jardín. Las armas de su hermana y su chaqueta de la Armada teñida de negro siguen con él incluso en el salón de baile."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Reinhardt Holst le paga un trago a cada pirata viejo de Cayo Hueco y a todos les hace la misma pregunta: ¿qué colores hundieron el Sea Seraph?” (un cantinero de Cayo Hueco)",
-     "“Vieron juntos a Hyacinth Alastor y a Reinhardt Holst en la gala de verano de lord Vanris. Una conversación casual, dicen. Por supuesto. En los salones ya se preguntan si habrá algo más entre la heredera de la Casa de la Rosa y el desheredado de los Holst.” (susurrado tras un abanico de seda)"
+     "“Reinhardt Holst les paga un trago a todos los viejos piratas de Cayo Hueco y a cada uno le hace la misma pregunta: ¿qué colores hundieron el *Serafín del Mar*?” (un cantinero de Cayo Hueco)",
+     "Algunos murmuran que solo está usando a los Cazadores para su venganza personal.",
+     "“A Hyacinth Alastor y a Reinhardt Holst los vieron juntos en la Gala de Pleno Verano del señor Vanris. Una conversación casual, dicen. Por supuesto. Los salones ya se preguntan si hay algo más entre la heredera de la Casa de la Rosa y el Holst desheredado.” (susurrado detrás de un abanico de seda)"
     ]
    }
   ],
@@ -17655,22 +17700,34 @@
     "Humano"
    ],
    [
-    "Rango",
-    "[[Cazador|Hunter]] de oro; puesto diecisiete del Ranking"
+    "Edad",
+    "19 (nació en el 156 EC)"
    ],
    [
-    "Barco",
-    "[[Ira de la Retribución|Retribution’s Wrath]]"
+    "Profesión",
+    "[[Cazador|Hunter]], ex oficial de la Armada, mago y espadachín, noble desheredado"
+   ],
+   [
+    "Facción",
+    "Los Cazadores (Rango Oro, 17.º en popularidad)"
    ],
    [
     "Casa",
-    "Holst; desheredado"
+    "Holst (desheredado)"
    ],
    [
-    "Familia recordada",
-    "Corina Holst, capitana del Sea Seraph"
+    "Barco",
+    "capitán de la *[[Ira de la Retribución|Retribution's Wrath]]*"
    ]
-  ]
+  ],
+  "aliases": [
+   "Ira de la Retribución",
+   "Reinhardt Holst"
+  ],
+  "epigraph": {
+   "quote": "No puedes escapar de la marea de la retribución. Te va a encontrar y te va a arrastrar a lo hondo.",
+   "by": "Reinhardt Holst"
+  }
  },
  "titania-and-the-iron-swan": {
   "gloss": "Titania and the Iron Swan",
