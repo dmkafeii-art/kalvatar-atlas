@@ -7438,15 +7438,15 @@
  },
  "chartback-tortoise": {
   "gloss": "Chartback Tortoise",
-  "subtitle": "Las buenas cartas se dibujan a paso de tortuga.",
-  "summary": "Una tortuga del tamaño de una carretilla que carga los instrumentos, los registros o los remedios de tres oficios ambulantes.",
+  "subtitle": "Tres oficios sobre un lomo lento",
+  "summary": "Una tortuga del tamaño de una carretilla de mano que carga los instrumentos, los registros o los remedios de tres oficios ambulantes.",
   "epigraph": {
    "quote": "Las buenas cartas se dibujan a paso de tortuga.",
    "by": "Un proverbio de los Cartógrafos"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
@@ -7458,18 +7458,111 @@
     "Agrimensores, notarios, sanadores"
    ]
   ],
-  "title": "Tortuga Lomo de Carta"
+  "title": "Tortuga Lomo de Carta",
+  "sections": [
+   {
+    "title": "Más vieja que el maestro",
+    "paragraphs": [
+     "Las tortugas lomo de carta viven bastante más de ciento cincuenta años. Las placas de su caparazón parecen islas; dicen que cada una es la carta de una costa sin descubrir. A los aprendices los asignan a una tortuga, y no al revés."
+    ]
+   },
+   {
+    "title": "Los tres oficios",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Oficio",
+      "Carga",
+      "Cómo reconocerla"
+     ],
+     "rows": [
+      [
+       "Agrimensor",
+       "Instrumentos y estuches de cartas",
+       "Un sombrero de ala ancha para el sol"
+      ],
+      [
+       "Notario",
+       "Testamentos sellados, escrituras y contratos",
+       "Un gorrito de erudito"
+      ],
+      [
+       "Sanador",
+       "Hierbas, ungüentos y especias",
+       "Una cruz verde de juncos atados"
+      ]
+     ],
+     "caption": "Los tres oficios de la tortuga lomo de carta"
+    }
+   },
+   {
+    "title": "Torres de caparazón",
+    "paragraphs": [
+     "Una carga sencilla va en alforjas. Las grandiosas van en torrecitas de madera sobre el caparazón: torres con techo, con casilleros para rollos o cajones para hierbas, que se heredan con la tortuga. Un agrimensor mide la tierra con los pasos asombrosamente constantes del animal; la tortuga de un notario puede recorrer su ruta sin que la guíen."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Una tortuga [[lomo de carta|chartback]] pasa al aprendiz de quien la cuida o a la sala de su oficio, y nunca se vende fuera de los tres oficios. Un aventurero podría heredar una, o recoger un animal retirado. En los pueblos lo más probable es que supongan que el recién llegado vino a medirles la tierra."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Una tortuga gigante del tamaño de una carretilla de mano, lenta, paciente y casi siempre más vieja que quien la cuida."
+    ]
+   },
+   {
+    "title": "Más sobre la tortuga lomo de carta",
+    "paragraphs": [
+     "Una tortuga lomo de carta trabaja para uno de tres oficios, y si ves a alguien caminando al lado de una, sabes al instante a qué se dedica.",
+     "Los agrimensores del Gremio de [[Cartógrafos|Chartwrights]] recorren las islas para medirlas, y una tortuga lomo de carta lleva sus instrumentos y sus estuches de cartas. Su paso no cambia en cien años, así que el Gremio mide la tierra en pasos de tortuga.",
+     "Cuando la tortuga de un agrimensor sube por el camino, cada granjero sale a revisar sus cercas.",
+     "Los notarios que recorren una ruta de pueblos, bajo el juramento de Veriden, llevan sobre el caparazón testamentos sellados, escrituras y contratos.",
+     "La tortuga lleva un gorrito de erudito.",
+     "Cuando la tortuga de un notario sube por el camino, alguien está por firmar algo, o alguien murió y otro está por heredar.",
+     "Los sanadores ambulantes de [[Maela la Remendadora|Maela the Mender]] llevan sus hierbas, ungüentos y especias sobre el caparazón, así que la tortuga de un sanador huele a mercado de especias desde veinte pasos.",
+     "Al frente de su carga cuelga una cruz verde de juncos atados.",
+     "La tortuga de un sanador va adonde está la fiebre, y los pueblos abren la reja antes de que toque."
+    ]
+   },
+   {
+    "title": "Lo que cargan",
+    "paragraphs": [
+     "Cada oficio viste a su tortuga de otra manera, y las cargas son la mitad del gusto de ver una.",
+     "Las cargas sencillas son sacos de cuero amarrados como los de un caballo.",
+     "Las cargas grandiosas son torrecitas de madera, de dos o tres pisos, cada piso con su propio techito de aleros que se curvan hacia arriba en las esquinas, como el torreón de un señor del tamaño de un ropero.",
+     "Los notarios y los agrimensores paran sus rollos derechos en los casilleros de la torre, para que nada se arrugue.",
+     "Los sanadores llenan sus cajoncitos de hierbas y especias.",
+     "Una buena torre de caparazón la hace un ebanista que no hace otra cosa, y se hereda con la tortuga."
+    ]
+   },
+   {
+    "title": "La tortuga y su oficio",
+    "paragraphs": [
+     "En los tres oficios, al aprendiz lo asignan a una tortuga, y no al revés. La tortuga ha visto más islas que el maestro.",
+     "La tortuga de un notario conoce su ruta y la recorre sin que la guíen."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una tortuga lomo de carta vieja de Ventoro tiene un caparazón cuyas placas coinciden con una isla que ninguna carta muestra. Tres agrimensores han pedido comprarle las cartas. No está en venta.” (se oye entre los Cartógrafos)"
+    ]
+   }
+  ]
  },
  "grommoth": {
   "subtitle": "Una casa sobre un lomo vivo",
-  "summary": "Las bestias enormes, lanudas y con cuernos que cargan las casas-caravana andantes de los Pocchin.",
+  "summary": "Las bestias enormes, lanudas y con cuernos que cargan las casas-caravana que caminan de los pocchin.",
   "epigraph": {
    "quote": "Un pocchin te vende cualquier cosa menos esto.",
    "by": "Todo pocchin, sobre su grommoth"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
@@ -7477,7 +7570,7 @@
     "Del tamaño de un elefante; lo bastante ancho para llenar una calle"
    ],
    [
-    "Guardianes",
+    "Quién los cría",
     "Las caravanas pocchin"
    ],
    [
@@ -7485,7 +7578,45 @@
     "Nunca se vende"
    ]
   ],
-  "title": "Grommoth"
+  "title": "Grommoth",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un grommoth adulto es del tamaño de un elefante y lo bastante ancho para llenar una calle: una montaña mansa de pelo largo y lanudo y de cuerno, algo entre un búfalo y un rinoceronte, con la fuerza de una barcaza. La madera, el cuero y lo rescatado de los naufragios se vuelven una casita abarrotada sobre su lomo."
+    ]
+   },
+   {
+    "title": "La caravana en reposo",
+    "paragraphs": [
+     "Cuando la caravana acampa, unas poleas suben las casas a los árboles o a las paredes de los acantilados, y las bestias quedan libres para pastar. Las cabras de tejado viajan arriba; un grommoth carga las grandes tinas de arena de los baños pocchin. Cada animal lleva su propia bandera y su propio título."
+    ]
+   },
+   {
+    "title": "Lo que le debe la caravana",
+    "paragraphs": [
+     "La lana se vuelve fieltro y mantas; la leche, un queso amarillo y fuerte. Cuando muere una bestia vieja, un banquete la llora y la celebra a la vez. Un pocchin vende lo que da un grommoth, pero nunca al grommoth."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Un grommoth le pertenece a su caravana. Un aventurero pocchin solo puede llevarse un ternero con la bendición de la caravana, y se espera que lo devuelva gordo y feliz."
+    ]
+   },
+   {
+    "title": "Grommoth y caravana",
+    "paragraphs": [
+     "En cada techo viaja una cabra, o tres. Los pocchin quieren a las cabras casi tanto como a su grommoth (ver las cabras de tejado)."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una familia pocchin rechazó una isla entera a cambio de su grommoth más viejo. Dos veces.” (se oye en un campamento de caravana)"
+    ]
+   }
+  ]
  },
  "dragonborn": {
   "subtitle": "El clan antes que uno mismo",
@@ -31416,5 +31547,90 @@
    }
   ],
   "title": "La Corte de Huesos"
+ },
+ "giant-betta": {
+  "gloss": "Jewelfin",
+  "aliases": [
+   "Aletajoyas",
+   "pez joya",
+   "peces joya",
+   "betta gigante"
+  ],
+  "subtitle": "La joya que pelea",
+  "summary": "Peces gigantes, hermosos y ferozmente agresivos, que las casas ricas de Jakupur tienen en estanques privados bajo techo, y que se están poniendo de moda entre los nobles del Corazón.",
+  "epigraph": {
+   "quote": "Una joya, un estanque. Si quieres otra joya, construye otro estanque.",
+   "by": "Un cuidador de Jakupur"
+  },
+  "facts": [
+   [
+    "Tipo",
+    "Pez de adorno gigante"
+   ],
+   [
+    "Temperamento",
+    "Extremadamente agresivo y territorial"
+   ],
+   [
+    "Cómo se tiene",
+    "Un animal por estanque bajo techo"
+   ],
+   [
+    "Moda establecida",
+    "Las casas ricas de Jakupur"
+   ],
+   [
+    "Mercado en crecimiento",
+    "Los nobles y las casas ricas del [[Corazón Central|Central Heartland]]"
+   ],
+   [
+    "Comercio clandestino",
+    "Peleas clandestinas y apuestas muy lucrativas"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Belleza con mal genio",
+    "paragraphs": [
+     "Un aletajoya se mueve por el agua bajo un despliegue extravagante de aletas que ondean. Sus escamas y las membranas de sus aletas atrapan la luz en colores ricos y cambiantes, y vuelven un estanque tranquilo el centro de una sala. La belleza viene con una agresividad extrema: un pez que se exhibe puede pasar de un giro lento y medido a una embestida repentina contra un rival.",
+     "Las aletas anchas y las agallas desplegadas que admiran los coleccionistas también son parte de su despliegue de amenaza. Un ejemplar que abre sus colores sobre el agua puede estar contestando un desafío."
+    ]
+   },
+   {
+    "title": "Los estanques privados de Jakupur",
+    "paragraphs": [
+     "En Jakupur, las casas ricas construyen estanques bajo techo alrededor de un solo aletajoya. El estanque puede ocupar el corazón de una sala de recibo, con los invitados sentados alrededor de su borde de azulejos mientras el pez pasa por debajo. El agua, el espacio y el cuidado son tan declaración de riqueza como el animal mismo.",
+     "Los coleccionistas que quieren varios mantienen varios estanques separados. Una hilera de salas, cada una con un pez distinto, puede volverse una galería privada. La separación es necesaria: estos animales agresivos no se tienen juntos como un cardumen de adorno."
+    ]
+   },
+   {
+    "title": "Cuidar una joya viva",
+    "paragraphs": [
+     "Cada pez necesita un estanque lo bastante grande para moverse con libertad, y alguien que entienda su conducta. Los dueños admiran el color, la forma y el estado de las aletas, y el espectáculo de un despliegue completo. Los cuidadores con experiencia le prestan atención al animal que hay debajo del adorno.",
+     "Un estanque de casa es para el pez. La gente mira desde el borde seco, y los cuidadores tratan la comida y el mantenimiento como trabajo alrededor de una bestia agresiva. Un ejemplar caro sigue siendo un animal peligroso, por muy tranquilo que dé vueltas delante de los invitados a cenar."
+    ]
+   },
+   {
+    "title": "Las peleas clandestinas",
+    "paragraphs": [
+     "Las peleas clandestinas de aletajoyas de Jakupur son eventos lucrativos. Dueños, cuidadores, organizadores y apostadores se juntan alrededor de combates donde peces valiosos y apuestas cuantiosas cambian el ambiente de una casa que en lo demás es privada. La misma belleza que hace deseable a un animal para exhibirlo puede hacer reconocible a un ejemplar de pelea.",
+     "El comercio junta a dos clases de comprador: los que quieren un adorno magnífico para su estanque y los que buscan un contendiente agresivo. Detrás de la presentación respetable de un coleccionista, un corredor puede estar negociando para cualquiera de los dos mercados."
+    ]
+   },
+   {
+    "title": "Una moda que viaja al norte",
+    "paragraphs": [
+     "Los nobles y otra gente rica del Corazón Central empezaron a importar aletajoyas para sus propias casas. La moda lleva los estanques privados de Jakupur a las salas de recibo del norte, con el gasto de traer un pez grande y vivo a través del mar y de prepararle su nuevo hogar.",
+     "Las visitas comparan colores y formas de aletas, los anfitriones planean salas alrededor de sus adquisiciones, y un segundo estanque anuncia una colección. Los cuidadores y comerciantes del sur encuentran clientes nuevos entre gente que vio la belleza antes de conocer el temperamento."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Su señoría dice que el segundo estanque es para otro color. El hombre que entregó el pez preguntó dónde iban a hacer sus apuestas los invitados.” (un sirviente de una casa del Corazón)"
+    ]
+   }
+  ],
+  "title": "Aletajoya"
  }
 }

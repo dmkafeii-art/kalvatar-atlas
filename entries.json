@@ -10286,6 +10286,9 @@
    "height": 1024,
    "alt": "A handcart-sized Chartback Tortoise in a sun hat carries a wooden scroll-keep beside a barefoot surveyor in loose cream trousers.",
    "caption": "A surveyor’s Chartback, carrying chart-cases and instruments in a small wooden shell-keep."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -10372,6 +10375,9 @@
    "height": 1024,
    "alt": "An elephant-sized, four-legged Grommoth with a very shaggy russet coat carries a caravan-house, beside two small lop-eared Pocchin and a barefoot adult human for scale.",
    "caption": "An elephant-sized Grommoth with its Pocchin keepers and a human islander for scale. The caravan-house rides on a padded harness; a roof goat travels above."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -40301,7 +40307,7 @@
    "peces joya"
   ],
   "translations": {
-   "es": "pending"
+   "es": "complete"
   },
   "epigraph": {
    "quote": "One jewel, one pool. If you want another jewel, build another pool.",
