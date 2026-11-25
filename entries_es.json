@@ -3572,8 +3572,8 @@
  },
  "sea-pacts": {
   "gloss": "The Sea-Pacts",
-  "subtitle": "Un puerto es un acuerdo",
-  "summary": "Los puertos negocian con las cortes profundas aguas seguras, avisos y el regreso de sus ahogados.",
+  "subtitle": "Lo que un puerto le debe a lo hondo",
+  "summary": "Los puertos negocian con las cortes de lo hondo por agua segura, avisos y la devolución de sus ahogados.",
   "epigraph": {
    "quote": "Un puerto es un acuerdo. Rómpelo, y la suerte del puerto se ahoga.",
    "by": "Un Llamamareas del Último Salmo"
@@ -3581,42 +3581,116 @@
   "facts": [
    [
     "Partes",
-    "Un puerto y una corte profunda"
+    "Un puerto y una corte de lo hondo"
    ],
    [
-    "Ofrenda en la orilla",
+    "Ofrenda de la costa",
     "La primera pesca y los nombres de los barcos"
    ],
    [
-    "Promesa honda",
-    "Aguas seguras y aviso de tormenta"
+    "Promesa de lo hondo",
+    "Agua segura y aviso de tormenta"
    ]
   ],
-  "title": "Los Pactos de Mar"
+  "title": "Los pactos del mar",
+  "aliases": [
+   "pactos del mar"
+  ],
+  "sections": [
+   {
+    "title": "Lo que da la costa",
+    "paragraphs": [
+     "Un puerto ofrece la primera pesca de cada temporada, los nombres verdaderos de sus barcos y los derechos de sepultura sobre los que se pierden en el mar. Esas obligaciones atan al puerto con la corte cuyas aguas usa."
+    ]
+   },
+   {
+    "title": "Lo que da lo hondo",
+    "paragraphs": [
+     "A cambio llegan el agua segura, el aviso de tormenta y la devolución de los ahogados. Romper un pacto puede ahogar la suerte de un puerto. El viaje tranquilo de un viajero puede depender de un acuerdo hecho mucho antes de que llegara su barco."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los [[Reinos de Coral|Coral Kingdoms]] son las cortes bajo el mar: sirénidos, sahuagin y parientes más raros, más viejos que los [[Primogénitos|Firstborn]]. Igual que los feéricos, los pueblos del mar son de dos naturalezas: las [[Cortes Soleadas|Sunlit Courts]], el mar claro, hermoso, cálido y casi siempre amable; y las [[Cortes Hundidas|Sunken Courts]], el mar oscuro, antiguo, ajeno y paciente.",
+     "Los [[Jardines de Vidrio|Glass Gardens]]: sirénidos hermosos; arquitectura de arrecife vivo; [[perlas de memoria|memory-pearls]].",
+     "La [[Corriente que Susurra|Whispering Current]]: comerciantes de secretos del crepúsculo; las corrientes llevan cada palabra que se dice sobre el agua.",
+     "Las [[Brazas Grises|Grey Fathoms]]: los ahogados que se guardan; el rescate de los muertos.",
+     "El [[Coro Rojo|Red Choir]]: la fe de sangre de los sahuagin; cantan cuando hay sangre en el agua.",
+     "Los [[Tronos Hundidos|Sunken Thrones]]: el abismo de medianoche.",
+     "Los [[Viejos Caparazones|Old Shells]]: tortugas sabias leviatanes; tres preguntas por generación.",
+     "Los puertos mantienen pactos con las cortes:",
+     "Rompe un pacto y la suerte del puerto se ahoga.",
+     "Etiqueta: saluda a la gente del mar cantando, cualquier canción; lo que cuenta es el esfuerzo. Hazles regalos de sonido: campanas y cajas de música. Nunca les muestres hierro frío desnudo.",
+     "La [[Soberana del Coral|Coral Sovereign]], Vaythra, reina sobre las cortes soleadas. Más o menos uno de cada cuarenta kalvatarianos depende de un pacto del mar."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una perla de memoria que se vendió en Surco de Perlas muestra la cara de una mujer en los Tronos Hundidos. Está mirando hacia arriba, y sonríe.” (se oye en el Mar y los Reinos de Coral)"
+    ]
+   }
+  ]
  },
  "hospitality": {
   "gloss": "Guest-Law",
-  "subtitle": "Un plato antes que una pregunta",
-  "summary": "En toda Kalvatar, la hospitalidad es una obligación seria que cada región expresa a su manera.",
+  "subtitle": "Cómo se le da de comer a un desconocido",
+  "summary": "En todo Kalvatar, la hospitalidad es una obligación seria que se expresa distinto en cada región.",
   "epigraph": {
-   "quote": "Un plato antes que una pregunta. Siempre.",
+   "quote": "Un tazón antes que una pregunta. Siempre.",
    "by": "Un proverbio de la Frontera"
   },
   "facts": [
    [
     "Costumbre de la Frontera",
-    "La comida antes que las preguntas"
+    "Comida antes que preguntas"
    ],
    [
     "Protección del sur",
-    "El fuego del corazón"
+    "El [[fuego del corazón|heart-fire]]"
    ],
    [
     "Ley del hielo",
     "El refugio es una obligación"
    ]
   ],
-  "title": "La Ley del Huésped"
+  "title": "La ley del huésped",
+  "sections": [
+   {
+    "title": "La Frontera y el sur",
+    "paragraphs": [
+     "En la [[Frontera|Frontier]], al desconocido se le da de comer antes de interrogarlo. En el sur, un huésped sentado junto al fuego del corazón está bajo protección."
+    ]
+   },
+   {
+    "title": "El hielo y la montaña",
+    "paragraphs": [
+     "Negarle comida y fuego a un viajero en el hielo es asesinato. En un Ascenso vorthani, al viajero que llega se le deben caldo, calor y una cama, sin preguntas hasta la mañana. El huésped paga cargando una piedra antes de irse."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La esclavitud es ilegal en las tierras del [[Consejo|Council]], y lo es desde la [[Gran Rebelión de los Esclavos|Great Slave Rebellion]]. Sobrevive, ilegalmente, en el sur.",
+     "El [[Diezmo de la Puerta|Gate-Tithe]]: una [[Marea|Tide]] por cada [[Ancla|Anchor]] en las mercancías que entran o salen por la Frontera.",
+     "La ley del rescate: los bienes ahogados no son bienes libres. Los Tesoreros registran los reclamos sobre naufragios con nombre, los [[Cartógrafos|Chartwrights]] sobre los hallazgos nuevos, y las cortes del Coral sobre cualquier cosa en agua de pacto. Cada buceo es también un golpe legal.",
+     "Las patentes de corso hacen legal el corso, hasta que a la Armada le resulta incómodo.",
+     "El [[Registro|Registry]]: anillos de cobre, o problemas.",
+     "Las cartas: una carta solo es legal con el sello de los Cartógrafos. Un sello falsificado se paga con la horca.",
+     "La justicia cambia según la región:",
+     "Marcial y rápida en la Frontera.",
+     "En el sur, los [[guardianes del canto|chant-keepers]] nativos y los tribunales coloniales no se ponen de acuerdo en nada.",
+     "En el hielo, la ley de la fortaleza, la venganza de sangre y el destierro."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El Diezmo de la Puerta nos estafa en las dos direcciones. Se queda el oro en Fuerte de Hierro y manda el papel a Ventoro.” (se oye en la Frontera del Norte)"
+    ]
+   }
+  ]
  },
  "below": {
   "gloss": "Below",
@@ -8218,7 +8292,7 @@
     "title": "Tres grandes corrientes",
     "paragraphs": [
      "El norte de ascendencia imperial guarda la historia en piedra y en carta, con casas formales, saludos medidos y la memoria del Éxodo.",
-     "Las comunidades ancestrales del sur guardan linajes hablados, tatuajes de historia y la ley del fuego del corazón. Sus historias son anteriores al [[Desembarco|Landing]].",
+     "Las comunidades ancestrales del sur guardan linajes hablados, tatuajes de historia y la ley del [[fuego del corazón|heart-fire]]. Sus historias son anteriores al [[Desembarco|Landing]].",
      "Los balleneros, los cazadores y la gente de fortín del extremo sur guardan la memoria en tallas de hueso y la ley en el salón del señor del fortín.",
      "Algunos humanos, unos pocos en cada puerto, empiezan una noche a soñar la orilla lejana, y conservan su toque toda la vida. Las islas los llaman kalashtar, y siguen siendo humanos."
     ]
@@ -9200,7 +9274,7 @@
   ]
  },
  "kellum": {
-  "subtitle": "¡Sal y parientes!",
+  "subtitle": "El licor de alga de cada puerto",
   "summary": "El licor de algamiel que se destila en cada puerto y sabe a su propio mar.",
   "epigraph": {
    "quote": "¡Sal y parientes!",
@@ -9216,7 +9290,75 @@
     "Los [[Hacedores de Calma|Stillwrights]]"
    ]
   ],
-  "title": "Kellum"
+  "title": "Kellum",
+  "sections": [
+   {
+    "title": "La primera gota",
+    "paragraphs": [
+     "La primera gota va por la borda. La ración diaria de la Armada es el trago de la Carta. “¡Sal y parientes!” se contesta con “¡Buena marea a casa!”."
+    ]
+   },
+   {
+    "title": "Cuatro costas, cuatro tazas",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Región",
+      "Estilo",
+      "Carácter"
+     ],
+     "rows": [
+      [
+       "[[Frontera del Norte|Northern Frontier]]",
+       "[[Aguagris|Greywater]]",
+       "Claro y picante"
+      ],
+      [
+       "[[Corazón Central|Central Heartland]]",
+       "[[Barrica de Oro|Goldcask]]",
+       "Ámbar, terminado en barricas de vino"
+      ],
+      [
+       "[[Tierras Salvajes del Sur|Southern Wilds]]",
+       "Quemaboca",
+       "Cacao y ají de fuego"
+      ],
+      [
+       "[[Extensión Helada|Icy Expanse]]",
+       "Ardehielo",
+       "Destilado por congelación y ahumado"
+      ]
+     ],
+     "caption": "Los estilos de kellum de cada región"
+    }
+   },
+   {
+    "title": "El agua detrás de la taza",
+    "paragraphs": [
+     "Los rebaños de [[vacas del alga|wrack cows]] de los Hacedores de Calma pastan los lechos de [[algamiel|honeywrack]] y remolcan las barcazas del puerto. Un puerto con vacas del alga es un puerto que destila kellum."
+    ]
+   },
+   {
+    "title": "Los cuatro grandes estilos",
+    "paragraphs": [
+     "Aguagris (Frontera del Norte): claro, frío y picante, que se toma de un vaso de lata de un solo trago. *Al que sorbe el aguagris se le nota que es del Corazón.*",
+     "Quemaboca (Tierras Salvajes del Sur): kellum oscuro macerado con cáscara de cacao, ají de fuego y azúcar de caña hasta que muerde de vuelta. Los del sur lo toman con fruta; los del norte lo toman una sola vez.",
+     "Ardehielo (Extensión Helada): se deja afuera en el frío que mata, se le quita el hielo una y otra vez, y después se ahúma sobre fuegos de aceite de ballena. Dicen que es lo único que puede hacer sonreír a un [[Elfo de la Escarcha|Frost Elf]]."
+    ]
+   },
+   {
+    "title": "Las costumbres del kellum",
+    "paragraphs": [
+     "Como la algamiel crece en todas las aguas, cada puerto tiene su destilería y cada destilería sus rivales, y cada kellum sabe a su propio mar. A bordo, la primera gota de cualquier botella va por la borda, y la Armada sirve un cuarto de taza con la campana del mediodía: el [[trago de la Carta|Charter's tot]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una destilería de Ventoro tiene un barril de ardehielo tan viejo que pudo haber bajado de los primeros balleneros. No está en venta, y por eso todos lo quieren.” (se oye en Ventoro)"
+    ]
+   }
+  ]
  },
  "brightleaf": {
   "gloss": "Brightleaf",
@@ -17237,9 +17379,116 @@
  },
  "languages-of-the-archipelago": {
   "gloss": "Languages of the Archipelago",
-  "subtitle": "La vida diaria",
-  "summary": "Todo el mundo habla la lengua de las islas para comerciar; casi todos hablan también la lengua de su propio pueblo o región.",
-  "title": "Las lenguas del archipiélago"
+  "subtitle": "Quién habla qué",
+  "summary": "Todo el mundo habla la lengua de las islas para comerciar; casi todos hablan además la lengua de su propio pueblo o región.",
+  "title": "Los idiomas del archipiélago",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Cada personaje sabe Común y otros dos idiomas. En Kalvatar, elige los dos entre los idiomas estándar de abajo. Un idioma raro necesita una razón en tu historia."
+    ]
+   },
+   {
+    "title": "De un vistazo",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Nombre en Kalvatar",
+      "Para las reglas",
+      "Quién lo habla"
+     ],
+     "rows": [
+      [
+       "La [[lengua de las islas|Island tongue]]",
+       "Común",
+       "Todo el mundo en las tierras del [[Consejo|Council]], y casi todos los demás"
+      ],
+      [
+       "Imperial",
+       "Estándar (Kalvatar)",
+       "El continente de Assios, las casas viejas, los clanes dracónidos"
+      ],
+      [
+       "La habla de la Confederación",
+       "Estándar (Kalvatar)",
+       "Los pueblos nativos y los [[guardianes del canto|chant-keepers]] del sur"
+      ],
+      [
+       "Pocchin",
+       "Estándar (Kalvatar)",
+       "Cada caravana; rápido, lleno de jerga y de palabras para el valor"
+      ],
+      [
+       "Dracónico",
+       "Estándar",
+       "Los clanes dracónidos y los cubiles kóbold"
+      ],
+      [
+       "Enano",
+       "Estándar",
+       "Las fortalezas, y la [[Cuenta|Tally]]"
+      ],
+      [
+       "Élfico",
+       "Estándar",
+       "Las cinco clases de elfo, con cinco acentos y un largo rencor sobre la pronunciación"
+      ],
+      [
+       "Gigante",
+       "Estándar",
+       "Los vorthani, los goliats y la lengua vieja de los tarvan"
+      ],
+      [
+       "Gnomo",
+       "Estándar",
+       "Los talleres"
+      ],
+      [
+       "Trasgo",
+       "Estándar",
+       "Las madrigueras de los hijos del Skarn"
+      ],
+      [
+       "[[Mediano|Halfling]]",
+       "Estándar",
+       "Las posadas y los prácticos de río"
+      ],
+      [
+       "Orco",
+       "Estándar",
+       "El [[Relato|Telling]], y los muelles"
+      ],
+      [
+       "Primordial",
+       "Raro",
+       "Los cantos de tormenta galven y los rollos de estrellas aethyn (aurano), el canto del Coral (acuano), la jerga de forja cindren (ígneo)"
+      ],
+      [
+       "Silvano",
+       "Raro",
+       "Los liriath, y las Cortes del [[Feérico|Faewild]]"
+      ],
+      [
+       "Infracomún",
+       "Raro",
+       "Los sporrn y los drow, y lo que sea que viva [[Abajo|Below]]"
+      ],
+      [
+       "Abisal e Infernal",
+       "Raro",
+       "Los glifos orka, y las palabras viejas que guardan algunos [[Marcados|Marked]]"
+      ],
+      [
+       "Jerga de ladrones",
+       "Raro",
+       "La jerga de la [[Resaca|Undertow]]"
+      ]
+     ]
+    }
+   }
+  ]
  },
  "manners-among-the-peoples": {
   "gloss": "Manners Among the Peoples",
@@ -17478,12 +17727,12 @@
  },
  "merrin-games": {
   "gloss": "The Merrin Games",
-  "subtitle": "Costumbres y fiestas",
-  "summary": "Durante todo Liora, los puertos celebran doce pruebas en el agua. En el Desate, bajo la luna llena del 18 de Liora, una muchacha desata el merrin del marinero que elige.",
+  "subtitle": "Doce pruebas y un pañuelo rojo",
+  "summary": "Durante todo Liora los puertos celebran doce pruebas en el agua. En el Desate, bajo la luna llena del 18 de Liora, una muchacha le desata el merrin al marinero que elige.",
   "facts": [
    [
     "Cuándo",
-    "Todo el mes de Liora"
+    "durante todo Liora"
    ],
    [
     "El Desate",
@@ -17491,10 +17740,26 @@
    ],
    [
     "Premio",
-    "Un merrin, un pañuelo rojo"
+    "un merrin, un pañuelo rojo"
    ]
   ],
-  "title": "Los Juegos del Merrin"
+  "title": "Los Juegos del Merrin",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Durante todo Liora, los puertos del [[Corazón|Heartland]] celebran doce pruebas en el agua y en el muelle, y cada ganador se lleva un merrin: un pañuelo rojo bordado con la marca del puerto, que se llama así por Merrin Dawe, la hija del remendador de redes que ató el primero en los primeros años del puerto de [[Ventoro|Goldwind]].",
+     "1 de Liora: los amigos se intercambian nudos de amistad.",
+     "Entre las pruebas están el [[Tirón Largo|Long Pull]] y la Olla del Guiso, un guiso de pescado cocinado en el brasero de un bote y juzgado por las abuelas del puerto, que dicen que es la prueba más difícil del Corazón.",
+     "Un merrin por bote; los que sobran van para los amigos.",
+     "El [[Desate|Untying]], el 18 de Liora, bajo Valtaire llena: los ganadores esperan callados en botes engalanados como pavos reales, y una joven que quiere una velada en el agua con uno de ellos le desata el merrin y se lo ata en la muñeca.",
+     "El paseo en bote se queda a la vista de las luces del puerto, o viene el bote de las tías.",
+     "No es un compromiso, pero desata el rojo y pronto te casas, dicen las esposas del puerto, y aseguran que se cumple ocho veces de cada diez. En la boda, el merrin ata las manos de la pareja.",
+     "Cuando nadie elige: un merrin que sigue en el poste de proa cuando se pone Valtaire queda al cuidado del mar. Al alba los amigos del marinero salen remando con pan, [[nudos de sal|saltknots]] y kellum para el [[Desayuno de los Amigos|Friends' Breakfast]]. En Liora nadie vuelve solo a casa.",
+     "Dónde: en cada puerto del Corazón, y en ninguno tan ruidoso como en el [[Puerto Bajo|Lower Harbor]] de Ventoro; [[Puerto Gris|Greyhaven]] y [[Puerto Sur|Southhaven]] lo adoptaron, y los oruma hacen el suyo en las [[Nueve Bocas|Nine Mouths]] en canoas de río. En [[Puerto Plata|Silverport]], las mujeres también navegan por merrines."
+    ]
+   }
+  ]
  },
  "naming-spoon": {
   "gloss": "The Naming Spoon",

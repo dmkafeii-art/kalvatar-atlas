@@ -4722,6 +4722,9 @@
    "height": 1024,
    "alt": "A harbor elder offers the first catch and a sealed list of ship names to merfolk emissaries at the waterline.",
    "caption": "A port renews its bargain with the sea."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -4800,6 +4803,9 @@
    "height": 1024,
    "alt": "A Frontier household offers hot food to a rain-soaked traveler by the hearth.",
    "caption": "On the Frontier, a stranger is fed before being questioned."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -12567,7 +12573,10 @@
    "wrack-cow",
    "armada",
    "mercantile-congress"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "brightleaf",
@@ -30537,7 +30546,10 @@
    "goliaths",
    "galven",
    "aethyn"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "manners-among-the-peoples",
@@ -30957,7 +30969,10 @@
    "greyhaven",
    "southhaven",
    "twelve-flags"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "naming-spoon",
