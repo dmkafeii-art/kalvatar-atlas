@@ -633,7 +633,7 @@
  },
  {
   "id": "rumor-64",
-  "text": "Las terrazas de [[Bastión del Sol|Sunhold]] cultivan una [[hoja clara|brightleaf]] de la que el [[Registro|Registry]] compra hasta la última hoja, y a nadie lo han dejado probarlo nunca.",
+  "text": "Las terrazas de [[Bastión del Sol|Sunhold]] cultivan una [[hoja clara|brightleaf]] de la que el [[Registro|Registry]] compra hasta la última hoja, y nunca han dejado que nadie la pruebe.",
   "heardAt": "una recolectora del [[Gremio de las Terrazas|Terrace Guild]]",
   "region": "Central Heartland",
   "entries": [
@@ -987,7 +987,7 @@
  },
  {
   "id": "rumor-103",
-  "text": "Las [[vacas del alga|wrack cows]] de los [[Hacedores de Calma|Stillwrights]] se negaron a pastar en un lecho de algamiel todo el verano, y el kellum de ese lecho sabía raro.",
+  "text": "Las [[vacas del alga|wrack cows]] de los [[Hacedores de Calma|Stillwrights]] se negaron a pastar en un lecho de [[algamiel|honeywrack]] todo el verano, y el kellum de ese lecho sabía raro.",
   "heardAt": "se oye entre los [[Hacedores de Calma|Stillwrights]]",
   "region": "Central Heartland",
   "entries": [
@@ -1368,7 +1368,7 @@
  },
  {
   "id": "rumor-145",
-  "text": "Una destilería de [[Ventoro|Goldwind]] tiene un barril de icebrand tan viejo que pudo haber bajado de los primeros balleneros. No está en venta, y por eso todos lo quieren.",
+  "text": "Una destilería de [[Ventoro|Goldwind]] tiene un barril de ardehielo tan viejo que pudo haber bajado de los primeros balleneros. No está en venta, y por eso todos lo quieren.",
   "heardAt": "se oye en [[Ventoro|Goldwind]]",
   "region": "All regions",
   "entries": [
