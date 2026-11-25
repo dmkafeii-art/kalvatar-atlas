@@ -39172,7 +39172,10 @@
   ],
   "related": [
    "kaskan"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "mithras-steelheart",
@@ -39194,7 +39197,10 @@
   "aliases": [],
   "related": [
    "kaskan"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "agari",
@@ -39242,7 +39248,10 @@
   "aliases": [],
   "related": [
    "kaskan"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "hugo-goldvein",
@@ -39265,7 +39274,10 @@
   "related": [
    "kaskan",
    "viktor-goldvein"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "viktor-goldvein",
@@ -39288,7 +39300,10 @@
   "related": [
    "kaskan",
    "hugo-goldvein"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "rhal",
@@ -39310,7 +39325,10 @@
   "aliases": [],
   "related": [
    "kaskan"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "hadros-morvain",
@@ -39381,7 +39399,10 @@
   "aliases": [],
   "related": [
    "kaskan"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "beck",
@@ -52503,7 +52524,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -52562,7 +52583,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -52621,7 +52642,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -52684,7 +52705,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -52742,7 +52763,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -52798,7 +52819,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -52848,7 +52869,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -52903,7 +52924,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -52961,7 +52982,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -53022,7 +53043,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -53069,7 +53090,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {
@@ -53122,7 +53143,7 @@
   },
   "source": "Kalvatar Library · 175 EC",
   "translations": {
-   "es": "pending"
+   "es": "complete"
   }
  },
  {

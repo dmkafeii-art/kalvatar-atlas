@@ -18999,7 +18999,7 @@
      "Los [[Sin Anillo|Ringless]], los lanzadores sin registro, y \"el Tutor\".",
      "[[Los Lobos del Libro Mayor|The Ledger Wolves]], bajo [[Dagny Acedera|Dagny Sorrel]], \"el Interés\".",
      "La [[Ceca del Fango|Mint-in-the-Mire]], los falsificadores de moneda del [[Pantano del Ocaso|Duskmire]], bajo el gnomo Ottar Glimm.",
-     "Las [[Manos Doradas|Gilt Hands]], carteristas del puerto, bajo el mediano el [[Viejo Pell|Old Pell]].",
+     "Las [[Manos Doradas|Gilt Hands]], carteristas del puerto, bajo la mediana la [[Vieja Pell|Old Pell]].",
      "El [[Sindicato de la Cresta|Crest Syndicate]] de la [[Carrera del Espinazo del Sol|Sunspine Run]], bajo Teshka Orrin, \"la [[Madre de las Apuestas|Odds-Mother]]\".",
      "La [[Novena Pala|Ninth Shovel]], los saqueadores de Zal'Kareth, bajo Dorrin [[Media Mano|Half-Hand]].",
      "Los Corredores de la Hoja Negra, bajo Lumai Okonja, \"la [[Hermana Humo|Sister Smoke]]\".",
@@ -31632,5 +31632,591 @@
    }
   ],
   "title": "Aletajoya"
+ },
+ "lyle-lynch": {
+  "aliases": [
+   "Lince Laguna"
+  ],
+  "subtitle": "Humano • Clérigo del Engaño",
+  "summary": "Si un plan se viene abajo, Lyle casi siempre logra que suene como si tuviera que salir así.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "En las islas del sur",
+    "paragraphs": [
+     "Conocido como [[Lince Laguna|Lacuna Lynx]], Lyle es un estafador con un talento improbable para salir de los problemas. Trabaja con disfraces, explicaciones rápidas y la magia de un clérigo del Engaño."
+    ]
+   }
+  ],
+  "title": "Lyle Lynch"
+ },
+ "mithras-steelheart": {
+  "gloss": "Mithras Steelheart",
+  "subtitle": "Humano • Pícaro / Monje",
+  "summary": "Mithras tiene buen ojo y la costumbre de fijarse en lo que los demás pasan de largo.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "En las islas del sur",
+    "paragraphs": [
+     "Explora por delante, vigila las entradas y se hace una idea de la sala antes de moverse. Sus compañeros pueden contar con él para acercarse en silencio o para pelear cuerpo a cuerpo."
+    ]
+   }
+  ],
+  "title": "Mithras Corazacero"
+ },
+ "cassian-virel": {
+  "subtitle": "Aasimar • Paladín de la Conquista",
+  "summary": "Un paladín aasimar que conoce el procedimiento imperial por dentro.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "En las islas del sur",
+    "paragraphs": [
+     "Cassian sigue el [[Juramento|Oath]] de Conquista y viaja con la compañía por las islas del sur. Consiguió pasaje a bordo de la [[Última Palabra|Last Word]], un barco con mercenarios y [[Cazadores|Hunters]] en la tripulación."
+    ]
+   }
+  ],
+  "title": "Cassian Virel"
+ },
+ "hugo-goldvein": {
+  "gloss": "Hugo Goldvein",
+  "subtitle": "Regente de Kaskan",
+  "summary": "El regente de Kaskan escucha con atención cuando un visitante le propone un trato. Tiene que pesar la independencia de una isla contra el precio.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "En las islas del sur",
+    "paragraphs": [
+     "Hugo gobierna una isla mercante rica, con minas de oro, un ejército privado y barcos propios. Valora la estabilidad y los acuerdos que dejan ganancia. Quien le pida que elija un bando va a tener que explicarle qué gana Kaskan con eso."
+    ]
+   }
+  ],
+  "title": "Hugo Vetaoro"
+ },
+ "viktor-goldvein": {
+  "gloss": "Viktor Goldvein",
+  "subtitle": "Hijo del Regente",
+  "summary": "Viktor hace que una respuesta rápida parezca fácil, incluso en compañía donde se pesa cada palabra.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "En las islas del sur",
+    "paragraphs": [
+     "El hijo de Hugo [[Vetaoro|Goldvein]] es listo, relajado y muy consciente de sus propios talentos. Tiene la réplica rápida y se defiende bien entre los mercaderes de Kaskan y los dignatarios de visita."
+    ]
+   }
+  ],
+  "title": "Viktor Vetaoro"
+ },
+ "rhal": {
+  "subtitle": "Tabernero en Kaskan",
+  "summary": "Rhal lleva en Kaskan el tiempo suficiente para saber qué presentaciones vale la pena pedir.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "En las islas del sur",
+    "paragraphs": [
+     "Nacido en el Imperio y asentado hace mucho en la isla, Rhal tiene una taberna y conoce gente en toda la comunidad mercante de Kaskan. Para los recién llegados que necesitan orientarse, su local es una buena primera parada."
+    ]
+   }
+  ],
+  "title": "Rhal"
+ },
+ "otto-van-galen": {
+  "subtitle": "Oficial imperial",
+  "summary": "Un oficial imperial cuyos tratos llegan más allá del alcázar.",
+  "facts": [],
+  "sections": [
+   {
+    "title": "En las islas del sur",
+    "paragraphs": [
+     "Otto vol Drakmar entiende el peso que tiene un acuerdo comercial en las islas del sur. En Kaskan, un oficial de visita tiene que vérselas con un regente que tiene sus propios barcos, soldados e intereses."
+    ]
+   }
+  ],
+  "title": "Otto vol Drakmar"
+ },
+ "ottar-glimm": {
+  "subtitle": "El grabador de las Anclas ahogadas",
+  "summary": "El maestro grabador de la Ceca del Fango, los falsificadores del Pantano del Ocaso cuyas Anclas ahogadas son tan buenas que la Ceca de la Carta las ha recomprado dos veces por error. Un gnomo de genio terrible y peor carácter.",
+  "facts": [
+   [
+    "Trabaja para",
+    "la [[Ceca del Fango|Mint-in-the-Mire]]"
+   ],
+   [
+    "Dónde",
+    "el [[Refugio del Pantano del Ocaso|Duskmire Haven]], la ciénaga brumosa cerca de [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Hace",
+    "[[Anclas|Anchors]] ahogadas"
+   ],
+   [
+    "Carácter",
+    "peor de lo bueno que es su genio"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La Ceca del Fango",
+    "paragraphs": [
+     "Un Ancla ahogada se vende por tres [[Mareas|Tides]] de verdad, y las de Ottar Glimm son las mejores que se han acuñado nunca. Los coleccionistas juran que la única manera de distinguirlas de las de la [[Ceca|Mint]] es la vuelta de cabo en la caña del ancla, que las falsas atan para el otro lado, apenas."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las Anclas ahogadas más nuevas llevan una cara que nadie reconoce. No es un error del grabador. Glimm no comete errores.” (un perista del Pantano del Ocaso)",
+     "“Una vez Glimm le tiró una prensa de cuños a un hombre por llamar falsificación a su obra. Él prefiere decirle ‘segunda edición’.” (un perista de las Manos Doradas)"
+    ]
+   }
+  ],
+  "title": "Ottar Glimm"
+ },
+ "old-pell": {
+  "gloss": "Old Pell",
+  "subtitle": "Las manos más rápidas de Ventoro",
+  "summary": "Una abuela mediana que enseña a las Manos Doradas, los carteristas y peristas del puerto de Ventoro, y que tiene las manos más rápidas de la ciudad.",
+  "facts": [
+   [
+    "Enseña a",
+    "las [[Manos Doradas|Gilt Hands]]"
+   ],
+   [
+    "Dónde",
+    "el [[Puerto Soberano|Sovereign Harbor]] y el [[Común|the Commons]] de [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Tipo",
+    "una abuela mediana"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Las Manos Doradas",
+    "paragraphs": [
+     "Carteristas y peristas, casi todos niños y gente muy vieja, a los que enseña la [[Vieja Pell|Old Pell]]. Venden la mitad de lo que se roba en el puerto. Hasta las Manos Doradas respetan la Guarda, y ninguna le saca la bolsa a nadie en el templo en [[Reposadía|Restday]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Si se te fue la bolsa y no sentiste nada, ve a preguntarle a la Vieja Pell con buenos modos. Lleva pastel.” (un guardia de Ventoro)",
+     "“Te saca el anillo del dedo mientras te da la mano, y te lo devuelve antes de que la sueltes.” (un balsero del Puerto Soberano)"
+    ]
+   }
+  ],
+  "title": "Vieja Pell"
+ },
+ "granny-ylva-skerrow": {
+  "gloss": "Granny Ylva Skerrow",
+  "aliases": [
+   "las Luces Falsas",
+   "los Skerrow"
+  ],
+  "subtitle": "Las Luces Falsas",
+  "summary": "La cabeza del clan Skerrow, las Luces Falsas del Refugio de Cristal: raqueros que cuelgan faroles falsos para atraer a los barcos contra el hielo. Teje precioso, y ha ahogado a más marineros que la Larga Noche.",
+  "facts": [
+   [
+    "Encabeza",
+    "las [[Luces Falsas|False Lights]], el clan Skerrow"
+   ],
+   [
+    "Dónde",
+    "el [[Refugio de Cristal|Crystalhaven]] y las costas de hielo azul"
+   ],
+   [
+    "Conocida por",
+    "su tejido, y sus faroles"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Las Luces Falsas",
+    "paragraphs": [
+     "Las Luces Falsas son el espejo oscuro de la [[Luz que Responde|Answering Light]], y la razón por la que los capitanes del sur dicen *no toda costa amable es amable.* Cuelgan faroles donde no hay puerto, esperan a que el hielo haga su trabajo y desvalijan los naufragios."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una costa le contestó a nuestro farol con tres luces seguidas, a la antigua. El capitán se mantuvo lejos hasta el alba. Tenía razón.” (un cazador de focas de la Extensión)",
+     "“Cada niño Skerrow recibe una bufanda de la Abuela. A un Skerrow lo reconoces por el patrón.” (una viuda de Bastión de Escarcha)"
+    ]
+   }
+  ],
+  "title": "Abuela Ylva Skerrow"
+ },
+ "faelen-wolf": {
+  "gloss": "Faelen Wolf",
+  "aliases": [
+   "el Lobo de las Serpientes"
+  ],
+  "subtitle": "El Lobo de las Serpientes",
+  "summary": "Comandante de las Serpientes de Mar, los comandos navales de la Armada, que sirven a las órdenes de los Casacas Negras.",
+  "facts": [
+   [
+    "Comanda",
+    "las [[Serpientes de Mar|Sea Serpents]]"
+   ],
+   [
+    "Sirve a las órdenes de",
+    "los [[Casacas Negras|Black Coats]]"
+   ],
+   [
+    "Le dicen",
+    "el [[Lobo de las Serpientes|Wolf of the Serpents]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Las Serpientes de Mar",
+    "paragraphs": [
+     "Los comandos navales de la Armada: operaciones encubiertas, reconocimiento y guerra irregular, con un entrenamiento más duro que el de cualquier tripulación de línea. Sirven a las órdenes de los Casacas Negras, y los comanda el Lobo de las Serpientes. Pocos marineros podrían reconocer a [[Faelen Lobo|Faelen Wolf]] en una multitud, y de eso se trata."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Si alguna vez te cruzas con una Serpiente de Mar, no te vas a dar cuenta. Si te das cuenta, es porque él quiso.” (un artillero de la Armada)",
+     "“El Lobo nada a lo largo de la cadena del puerto de Ventoro cada alba, en todas las estaciones.” (un guardia de los Muelles del Centinela)"
+    ]
+   }
+  ],
+  "title": "Faelen Lobo"
+ },
+ "elowen-silverthorn": {
+  "gloss": "Elowen Silverthorn",
+  "subtitle": "La nigromante de Corona de Zarzas",
+  "summary": "Una hija de la Casa Espinaplata, el Cuchillo Callado de Corona de Zarzas, y una nigromante de la que los salones dicen que manda a los muertos.",
+  "facts": [
+   [
+    "Casa",
+    "[[Espinaplata|Silverthorn]], el [[Cuchillo Callado|Quiet Knife]]"
+   ],
+   [
+    "Sede",
+    "[[Corona de Zarzas|Briarcrown]]"
+   ],
+   [
+    "Conocida como",
+    "nigromante; se rumora que manda a los muertos"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Del Cuchillo Callado",
+    "paragraphs": [
+     "La Casa Espinaplata es una casa discreta de espías arcanos y operadores silenciosos, y uno de los mayores compradores no registrados del mercado negro de objetos mágicos. Su lema es *Habla Quedo, Corta Hondo.*",
+     "Cada uno de sus hijos tiene su fama: un asesino, un artífice, un bardo, y Elowen, la nigromante. De los cuatro, ella es por quien los salones bajan la voz."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Elowen Espinaplata puede hacerle una pregunta a un muerto y recibir respuesta. La pregunta es cuánto cuesta, y quién paga.” (un médico de Corona de Zarzas)",
+     "“Lleva un libro de cuentas en el que nadie la ha visto escribir nunca.” (un lacayo de los Espinaplata)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVzIGVsIE9qbyBkZSBsYSBbW0NvcnRlIGRlIEh1ZXNvc3xDb3VydCBvZiBCb25lc11dLioqIEVsb3dlbiBndWFyZGEgZWwgW1tMaWJybyBkZSBIdWVzb3N8Qm9uZSBMZWRnZXJdXSwgbG9zIHNlY3JldG9zIHF1ZSBsb3MgbXVlcnRvcyBzZSBsbGV2YXJvbiBhIGxhIHR1bWJhIHkgcXVlIGxhIFtbQ29ydGV8Q291cnRdXSB2b2x2acOzIGEgc2FjYXIuIEVzdMOhIGp1cmFtZW50YWRhIGNvbiBsYSBDb3J0ZSB5IG5vIGVzIGRlIHN1IHNhbmdyZS4iXX0="
+   }
+  ],
+  "title": "Elowen Espinaplata"
+ },
+ "celestine-goldspire": {
+  "gloss": "Celestine Goldspire",
+  "subtitle": "La heredera que lleva el piso",
+  "summary": "La hija y heredera de Horace Doraguja, que lleva el Piso de la Aguja mientras su padre habla de más, y que es mejor con los números que cualquiera en Ventoro salvo la Primera Tesorera.",
+  "facts": [
+   [
+    "Familia",
+    "[[Doraguja|Goldspire]], los que cantan el precio, de las [[Doce Banderas|Twelve Flags]]"
+   ],
+   [
+    "Padre",
+    "Horace Doraguja"
+   ],
+   [
+    "Dirige",
+    "el [[Piso de la Aguja|Spire Floor]] de la [[Bolsa Doraguja|Goldspire Exchange]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La heredera de los que cantan el precio",
+    "paragraphs": [
+     "La Bolsa Doraguja está en el anillo medio de [[Ventoro|Goldwind]], y cada [[Monedía|Coinsday]] la [[Mesa de las Banderas|Flag Table]] de su Piso de la Aguja canta el [[precio de tablero|board-price]] que cada factor de las islas cita durante meses. Horace Doraguja lo anuncia. Celestine lo calcula.",
+     "Es seca, está cansada, y es mejor con los números que cualquiera en Ventoro salvo la [[Primera Tesorera|First Reckoner]] Maera [[Hebranegra|Blackstrand]]. El piso sabe quién canta de verdad el precio."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Celestine revisa dos veces el precio de tablero. Su padre lo anuncia una vez, a gritos.” (un mandadero del Piso de la Aguja)",
+     "“Empezó a preguntar quién ha estado comprando los pagarés de su padre.” (un factor del Congreso)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKltbRG9yYWd1amF8R29sZHNwaXJlXV0gZXN0w6EgZW4gcXVpZWJyYS4qKiBMYSBmaWFuemEgZGVsIHBvc3RlIGRlIGxhIHByb3BpYSBCb2xzYSBlcywgZW4gdmVyZGFkLCBkaW5lcm8gZGUgbG9zIFtbSGVicmFuZWdyYXxCbGFja3N0cmFuZF1dLCB5IE1hZXJhIHRpZW5lIHN1ZmljaWVudGVzIHBhZ2Fyw6lzIGRlIERvcmFndWphIHBhcmEgY2VycmFyIGVsIHBpc28gZWwgW1tNb25lZMOtYXxDb2luc2RheV1dIHF1ZSBxdWllcmEuIiwgIioqRWwgY29tcHJhZG9yIGRlIGxvdGVzIGNoaWNvcyoqIHF1ZSBqdW50YSBkZXVkYSBkZSBEb3JhZ3VqYSBlbiBzZWlzIHB1ZXJ0b3MgZXMgbGEgW1tDb21wYcOxw61hIENhc2FjYXJ0YXxDaGFydGVyaG91c2UgQ29tcGFueV1dLCBhIHRyYXbDqXMgZGUgbGEgQ2FzYSBaYW5lLCBlbCBwcm9waW8gYWJhbmRlcmFkbyBkZSBEb3JhZ3VqYS4iXX0="
+   }
+  ],
+  "title": "Celestine Doraguja"
+ },
+ "vesper-zane": {
+  "aliases": [
+   "Casa Zane"
+  ],
+  "subtitle": "Un abanderado que quiere un poste",
+  "summary": "La cabeza de la Casa Zane, un abanderado del Corazón de fortuna mediana atado a Doraguja por deudas, que quiere un poste propio en el Piso de la Aguja y no lo disimula bien.",
+  "facts": [
+   [
+    "Casa",
+    "Zane, abanderados del [[Corazón|Heartland]]"
+   ],
+   [
+    "Atada a",
+    "la Casa [[Doraguja|Goldspire]], por deudas"
+   ],
+   [
+    "Quiere",
+    "un poste propio en el [[Piso de la Aguja|Spire Floor]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Ambición mal disimulada",
+    "paragraphs": [
+     "La Casa Zane sirve a Doraguja porque le debe a Doraguja. A Vesper Zane le gustaría que fuera al revés. Se viste mejor de lo que gana, invita rondas que no puede pagar en los cafés, y les pregunta a las Banderas por los postes vacantes como si solo tuviera curiosidad."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“A Zane lo han visto en seis puertos este año, y no es hombre al que le guste el mar.” (un escribiente del puerto de Puerto Plata)",
+     "“Pagó la cena en la Taza Negra con una libranza girada contra una casa que no lo quiere.” (un mesero de la Taza Negra)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKsOJbCBlcyBlbCBjb21wcmFkb3IgZGUgbGEgQ29tcGHDscOtYS4qKiBMYSBbW0NvbXBhw7HDrWEgQ2FzYWNhcnRhfENoYXJ0ZXJob3VzZSBDb21wYW55XV0gY29tcHJhIGRldWRhIGRlIFtbRG9yYWd1amF8R29sZHNwaXJlXV0gZW4gbG90ZXMgY2hpY29zIGVuIHNlaXMgcHVlcnRvcyBhIHRyYXbDqXMgZGUgbGEgQ2FzYSBaYW5lLCBlIEltZWxkYSBSb3F1ZSBsZSBoYSBwcm9tZXRpZG8gYSBWZXNwZXIgdW4gcG9zdGUgcHJvcGlvLiBTaSBsYSBDb21wYcOxw61hIGp1bnRhIHN1ZmljaWVudGVzIHBhZ2Fyw6lzIGRlIERvcmFndWphLCB2YSBhIHNlciBkdWXDsWEgZGVsIHBpc28gcXVlIHNlIG5pZWdhIGEgZGFybGUgYXNpZW50by4iXX0="
+   }
+  ],
+  "title": "Vesper Zane"
+ },
+ "tidecaller-corisande-lark": {
+  "gloss": "Tidecaller Corisande Lark",
+  "aliases": [
+   "Corisande Alondra"
+  ],
+  "subtitle": "La Llamamareas de la Puerta del Mar",
+  "summary": "La Llamamareas de la Concordia en la capilla de la Puerta del Mar, en el barrio del puerto de Ventoro: antes ayudante de cirujano de la Armada, práctica, buena y terca más allá de toda razón.",
+  "facts": [
+   [
+    "Capilla",
+    "la [[Puerta del Mar|Sea-Gate]], barrio del puerto de [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Fe",
+    "la [[Concordia|Concord]]"
+   ],
+   [
+    "Edad",
+    "cuarenta y uno"
+   ],
+   [
+    "Antes",
+    "ayudante de cirujano de la Armada"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "En la Puerta del Mar",
+    "paragraphs": [
+     "La capilla de la Puerta del Mar sirve al barrio del puerto: marineros, estibadores y ahogados. Su [[Llamamareas|Tidecaller]] aprendió el oficio en el sollado de una fragata de la Armada antes de aprender sus oraciones, y todavía acomoda un hueso más rápido de lo que lo bendice.",
+     "Es práctica y buena, y terca más allá de toda razón. El barrio del puerto le trae a sus enfermos y sus moribundos, y ella se sienta con ellos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La Llamamareas de la Puerta del Mar se quedó toda la noche con un marinero moribundo y salió blanca como la sal. No ha dicho qué le contó.” (una lavandera del barrio del puerto)",
+     "“Ha estado escribiéndole al alto consejo. Las cartas nunca llegan.” (un empleado del cofre de correo de Ventoro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk95w7MgZWwgW1tadW1iaWRvfEh1bV1dKiogZW4gZWwgcGVjaG8gZGUgdW4gbWFyaW5lcm8gbW9yaWJ1bmRvLiBMZSBoYSBlc2NyaXRvIGRvcyB2ZWNlcyBhbCBhbHRvIGNvbnNlam8gZGUgbGEgW1tDb25jb3JkaWF8Q29uY29yZF1dOyBsb3MgW1tDYXNhY2FzIE5lZ3Jhc3xCbGFjayBDb2F0c11dIGFicmllcm9uIGxhcyBkb3MgY2FydGFzLiBMYSB0ZXJjZXJhIGxhIGxsZXZhIGVsbGEgbWlzbWEuIl19"
+   }
+  ],
+  "title": "Llamamareas Corisande Alondra"
+ },
+ "hera-seaworth": {
+  "gloss": "Hera Seaworth",
+  "aliases": [
+   "Sabin Hebranegra"
+  ],
+  "subtitle": "La Hebranegra que navega con otro nombre",
+  "summary": "Una figura propia del comercio marítimo de las islas, y Sabin Hebranegra de nacimiento: la sobrina de la Primera Tesorera Maera Hebranegra. La familia no explica por qué usa otro nombre en el mar.",
+  "facts": [
+   [
+    "Nació",
+    "Sabin [[Hebranegra|Blackstrand]]"
+   ],
+   [
+    "Parentesco",
+    "sobrina de la [[Primera Tesorera|First Reckoner]] Maera Hebranegra"
+   ],
+   [
+    "Oficio",
+    "cargas y barcos"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Dos nombres",
+    "paragraphs": [
+     "En los muelles es Hera [[Valemar|Seaworth]], capitana y comerciante con fama propia. En el libro de la Casa Hebranegra es Sabin, la sobrina de Maera. La familia no explica el segundo nombre, y Hera no contesta preguntas sobre el primero."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hera Valemar le lleva cualquier cosa a cualquiera, salvo una libranza girada contra la Casa de los Tesoreros.” (un factor de Confín de Tormentas)",
+     "“Pregúntale por su tía y se acabó la conversación.” (un abastecedor de barcos de Puerto Plata)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIMO6bmljbyBib3Jyw7NuLioqIExhIG1hbmNoYSByb2phIGRlbCBbW0xpYnJvIE1heW9yfExlZGdlcl1dIGVzIGVsIG5vbWJyZSBkZSBTYWJpbiBbW0hlYnJhbmVncmF8QmxhY2tzdHJhbmRdXS4gQSBsb3MgZGllY2ludWV2ZSBhw7FvcyBsZSBwaWRpw7MgcHJlc3RhZG8gYSBsYSBDYXNhIGRlIHN1IHByb3BpYSBmYW1pbGlhLCBwZXJkacOzIGxhIGNhcmdhIHkgZW50csOzIGVuIGVsIExpYnJvIE1heW9yIGVsIHRlcmNlciBbW01vbmVkw61hfENvaW5zZGF5XV0sIGNvbW8gY3VhbHF1aWVyIG90cm8uIE1hZXJhIGludGVudMOzIGJvcnJhciBsYSBsw61uZWEsIGxhIMO6bmljYSB2ZXogcXVlIHVuYSBbW1ByaW1lcmEgVGVzb3JlcmF8Rmlyc3QgUmVja29uZXJdXSBsbyBoYSBpbnRlbnRhZG8sIHkgbGEgdGludGEgZGVsIGxpYnJvIGxvIGRlasOzIHZlci4gRGVzZGUgZW50b25jZXMgU2FiaW4gbmF2ZWdhIGNvbW8gSGVyYSBbW1ZhbGVtYXJ8U2Vhd29ydGhdXSwgeSBudW5jYSBsZSBoYSBwZXJkb25hZG8gYSBzdSB0w61hIGVsIGZhdm9yLiJdfQ=="
+   }
+  ],
+  "title": "Hera Valemar"
+ },
+ "taelon-stormrider": {
+  "gloss": "Grand Admiral Taelon Stormrider",
+  "aliases": [
+   "Taelon Montatormentas"
+  ],
+  "subtitle": "El primer Gran Almirante",
+  "summary": "El primer Gran Almirante de la Armada del Archipiélago de Kalvatar, que juntó las armadas dispersas de las islas en una sola flota bajo una sola bandera.",
+  "facts": [
+   [
+    "Rango",
+    "[[Gran Almirante|Grand Admiral]], el primero"
+   ],
+   [
+    "Fundó",
+    "la Armada, en los primeros años del asentamiento"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Una flota bajo una bandera",
+    "paragraphs": [
+     "La Armada nació en los primeros años del asentamiento, cuando las comunidades de las islas juntaron sus barcos contra los piratas, las bestias del mar y los saqueos de unas contra otras. Taelon [[Montatormentas|Stormrider]] unió esas armadas dispersas en una sola flota bajo una sola bandera."
+    ]
+   },
+   {
+    "title": "Los nombres por los que brinda la Armada",
+    "paragraphs": [],
+    "list": [
+     "**El Gran Almirante Taelon Montatormentas,** el primero.",
+     "**La Señora de Barco Lyanna [[Marnacida|Seaborn]],** cuyas victorias contra las flotas piratas se enseñan en cada cámara de oficiales.",
+     "**El [[Comodoro|Commodore]] Orin Thalas,** que reconstruyó los barcos y el equipo de la Armada y le dio los cascos mejor entrenados y mejor armados de las islas.",
+     "**La Señora de Flota Larissa [[Olablanca|Whitewave]],** la primera almirante que subió desde la cubierta baja."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El primer brindis en cualquier cámara de oficiales es por Montatormentas. El segundo, por quien esté invitando.” (un guardiamarina de la Armada)"
+    ]
+   }
+  ],
+  "title": "Gran Almirante Taelon Montatormentas"
+ },
+ "larissa-whitewave": {
+  "gloss": "Fleetlord Larissa Whitewave",
+  "aliases": [
+   "Larissa Olablanca"
+  ],
+  "subtitle": "La primera almirante salida de la cubierta baja",
+  "summary": "La primera almirante que subió desde la cubierta baja, y una de los dos que remaron entre las líneas en el Rompeolas, en el 91 EC.",
+  "facts": [
+   [
+    "Rango",
+    "Señora de Flota"
+   ],
+   [
+    "Empezó como",
+    "Mano en la cubierta baja"
+   ],
+   [
+    "Se la recuerda por",
+    "el [[Rompeolas|Breakwater]], 91 EC"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Desde la cubierta baja",
+    "paragraphs": [
+     "Se enroló como Mano, se ganó su casaca y terminó la vida al mando de una flota. Desde su tiempo, ninguna puerta de la Armada está cerrada para los [[Fogueados|Blooded]]."
+    ]
+   },
+   {
+    "title": "El Rompeolas",
+    "paragraphs": [
+     "En el 91 EC, en el segundo año de la Plaga del [[Mar Ardiente|Burning Sea]], una escuadra de la Armada que mantenía cerrado el puerto de [[Bastión del Este|Easthold]] por mandato del [[Consejo|Council]] y una tripulación de Cazadores que traía once barcos de sobrevivientes en cuarentena se encontraron en la niebla. Un barco de refugiados derivó y cruzó la línea, una dotación de cañón asustada disparó, y la boca del puerto ardió.",
+     "Se detuvo cuando Larissa [[Olablanca|Whitewave]] y Odran Halloway remaron juntos en un solo bote entre las líneas, sin armas y sin colores, y les ordenaron a los dos bandos que se retiraran. Murieron treinta y uno. Cada año, los [[Juegos de Guerra|Wargames]] terminan con la lectura de sus nombres."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Cada Mano nueva toca el nombre de ella en el tablero de la cámara de oficiales antes de su primera guardia. Los oficiales hacen como que no ven.” (un contramaestre de la Armada)"
+    ]
+   }
+  ],
+  "title": "Señora de Flota Larissa Olablanca"
+ },
+ "odran-halloway": {
+  "subtitle": "El Cazador del bote",
+  "summary": "El Cazador de Oro que encabezaba el Escalafón en el 91 EC, y que remó junto a la Señora de Flota Larissa Olablanca para detener el Rompeolas.",
+  "facts": [
+   [
+    "Rango",
+    "Oro, primero del [[Escalafón|Ranking]] en el 91 EC"
+   ],
+   [
+    "Se lo recuerda por",
+    "el [[Rompeolas|Breakwater]], 91 EC"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El bote",
+    "paragraphs": [
+     "En el Rompeolas, los dos bandos tenían órdenes selladas y legales: la Armada, mantener todo casco del sur fuera del puerto de [[Bastión del Este|Easthold]]; los [[Cazadores|Hunters]], hacer entrar once barcos de sobrevivientes en cuarentena. Ese año Odran Halloway tenía entre los Cazadores la autoridad de un almirante. Cuando la boca del puerto ardía, él y la Señora de Flota remaron juntos, desarmados y sin colores, y los dos bandos se retiraron.",
+     "A los sobrevivientes los hicieron entrar y los encontraron sanos. De esa noche salieron los [[Protocolos del Rompeolas|Breakwater Protocols]] y los [[Juegos de Guerra|Wargames]], para que la Armada y los Cazadores nunca volvieran a encontrarse como desconocidos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Halloway nunca contó la historia. Olablanca la contaba por él, cada año, en los Juegos de Guerra.” (un viejo Cronista de Logia)"
+    ]
+   }
+  ],
+  "title": "Odran Halloway"
  }
 }
