@@ -20941,66 +20941,241 @@
   "gloss": "\"Old Knife\" Petra Sallow"
  },
  "ninthalarion": {
-  "title": "Ninthalarion Halueth of Clan Balrora",
-  "subtitle": "Un nombre en boca de todos",
-  "summary": "Un elfo de la escarcha de tamaño enorme que recorre el hielo del sur y, en las ciudades, lleva una casaca roja y negra.",
+  "title": "Ninthalarion",
+  "subtitle": "El mismo trabajo. Peor ropa.",
+  "summary": "Un purificador halueth de la era de los gigantes, levantado de su tumba en un mundo que, está seguro, es absolutamente terrible.",
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Aspecto",
     "paragraphs": [
-     "Ninthalarion es un elfo de la escarcha de tamaño enorme, más alto que cualquier elfo de la escarcha vivo, que recorre el hielo del extremo sur.",
-     "Los [[Cazadores|Hunters]] publicaron un contrato sobre él, y el [[Cazador|Hunter]] de oro Albion [[Tempestad|Tempest]] lo tomó. El contrato está cerrado. El [[Libro de Hazañas|Ledger of Deeds]] de la [[Logia|Lodge]] no dice cómo.",
-     "En las ciudades lleva una casaca roja y negra que le queda mal, como si la hubieran hecho para alguien más pequeño."
+     "Un Elfo de la Escarcha alto, de complexión atlética y delgada, de unos 2.10 metros, con proporciones élficas gráciles y extremidades largas. Tiene ojos azul hielo y pelo blanco que le llega a los tobillos, recogido en trenzas intrincadas. Se lo podría llamar apuesto, pero su cara tiene pocos amigos, y su expresión de fastidio podría cortar la leche. Unas runas turquesa le cubren casi todo el lado izquierdo del cuerpo y refractan la luz como ópalos cuando canaliza. En lo salvaje viste pieles y lleva un hacha de mano y un odre. En las ciudades lleva un abrigo largo rojo y negro de la [[Marea Carmesí|Crimson Tide]], demasiado chico para él: le llega a las rodillas, y las mangas le terminan a la mitad de los antebrazos."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Ninthalarion nació en el Clan Balrora de la Extensión Helada, nieto de los Titanes de Hielo, en los días en que los [[Elfos de la Escarcha|Frost Elves]] todavía no eran saqueadores. Su clan estaba lleno de guerreros poderosos, y él tenía muchas ganas de seguir sus pasos. Después de que una guerra catastrófica envenenó la tierra y la llenó de mal, su clan lo eligió como Halueth: uno de los purificadores que limpiaban la tierra, con el cuerpo tatuado con runas hechas del polvo de árboles antiguos portadores de magia. En esos días los Halueth servían a Volvieg, cuando Volvieg todavía era el frío limpio de la aurora y no el [[Invierno que Mata|Winter That Kills]].",
+     "Pasó muchos años peleando contra abominaciones y devolviendo la Extensión Helada a su forma original. Después se encontró con un mal antiguo que aterrorizaba la tierra con horrores nigrománticos. Tras días y noches de batalla continua, lo selló bajo el hielo, cerca de lo que ahora son los [[Caminos de Escarcha|Rime Ways]], y murió en el campo.",
+     "Acaba de volver, traído por una extraña chica no muerta, a un mundo que no entiende. Cada día está más seguro de que ahora todo es absolutamente terrible. La gente es débil, estúpida, simplona y cobarde; su pueblo se pinta calaveras en la cara; y su dios se volvió una cosa cruel. La misión de su vida técnicamente está cumplida, y técnicamente se murió, así que esta es una segunda oportunidad para hacer... algo."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "[[Tatuaje de Destello Estelar|Starglitter Tattoo]]: runas turquesa sobre casi todo el lado izquierdo de su cuerpo. Beben la energía que lo rodea y alimentan casi toda su magia, y brillan como ópalos cuando canaliza.",
+     "Crioquinesis e inmunidad al frío: dondequiera que haya agua en el aire, hace hielo: muros, hojas, púas y tormentas. El frío no lo puede tocar.",
+     "Magia sagrada: suficiente para exorcismos, destierros y sellos.",
+     "Visión verdadera: concedida a través de las runas.",
+     "Saber antiguo: saber oculto y la historia de un mundo que ya no existe, además de sentidos agudos y la destreza de un superviviente.",
+     "Puños: casi siempre pelea a mano limpia, agregando magia de maneras creativas y casi siempre excesivas."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Un hacha de mano",
+     "Un odre",
+     "Pieles",
+     "Un abrigo largo rojo y negro, regalo de [[Albion Tempestad|Albion Tempest]]",
+     "Un cepillo de pelo; se cepilla el pelo todas las noches"
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Ninthalarion dice lo que piensa y rara vez se tarda en decirlo. Si una puerta se le pone en el camino, está dispuesto a romperla. Que acepte ayuda cuesta más trabajo, y una vez que la acepta, se apura a devolver el favor. La mugre le molesta tanto que se va a quejar de ella mucho después de que pase el peligro."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Seguir vivo.",
+     "Evitar a la gente estúpida.",
+     "Aprender este mundo nuevo.",
+     "Purgar un poco de mal de los de antes, antes de que la vejez por fin se lo lleve."
+    ]
+   },
+   {
+    "title": "En sus propias palabras",
+    "paragraphs": [
+     "“El trabajo de un Halueth es de a dos.”",
+     "“El mismo trabajo. Peor ropa.”",
+     "“Es muy rojo.”"
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Ninthalarion pertenece a una era anterior de los Elfos de la Escarcha. El trabajo de los Halueth era la purificación: pelear contra abominaciones, poner sellos y limpiar la tierra herida.",
+     "Viaja con Noel, que lo devolvió a la vida. Su abrigo rojo y negro de la Marea Carmesí le queda demasiado chico; lo prestado de su corte llama tanto la atención en la ciudad como su estatura."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Un gigante de elfo de la escarcha camina por el hielo con un sacerdote encapuchado que nunca come.” (un escribiente de la Logia de Bastión de Escarcha)",
+     "“Un Elfo de la Escarcha gigante camina por el hielo con un sacerdote encapuchado que nunca come.” (un escribiente de la Logia de Bastión de Escarcha)",
      "“Compró todas las velas de una cerería de Bastión de Escarcha y pagó con plata más vieja que la Carta.” (un cerero de Bastión de Escarcha)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIHByaW1lcmEgcmVzdXJyZWNjacOzbiBkZSBOb2VsKioiLCAiQSBOb2VsIGxhIGxldmFudMOzIGxhIHByaW1lcmEgdmV6IGVsIG5pZ3JvbWFudGUgcXVlIE5pbnRoYWxhcmlvbiBzZWxsw7MgZGVzcHXDqXMgYmFqbyBlbCBoaWVsby4iLCAiKipRdWnDqW4gZXJhLioqIFVuYSBjaGljYSBkZSBsYSB2aWVqYSBbW0V4dGVuc2nDs258RXhwYW5zZV1dIHF1ZSBtdXJpw7MgZGVsIHN1ZcOxbyBmcsOtbywgZW4gbG9zIGHDsW9zIGVuIHF1ZSBlbCBjdWx0byBkZSBWb2x2aWVnIHNlIGVzdGFiYSB2b2x2aWVuZG8gY3J1ZWwuIFN1IHBhZHJlLCB1biBsZcOxYWRvciBkZSBsYXMgYXJib2xlZGFzIGRlIFtbbWFkZXJhIHLDum5pY2F8cnVuZXdvb2RdXSwgbm8gcHVkbyBkZWphcmxhIGlyLiBMbGV2w7Mgc3UgY3VlcnBvIGEgbGEgw7puaWNhIGNvc2EgZGVsIGhpZWxvIHF1ZSBwcm9tZXTDrWEgZGV2b2x2w6lyc2VsYS4iLCAiKipMbyBxdWUgcXVlcsOtYS4qKiBMb3MgSGFsdWV0aCBsbyBsbGFtYWJhbiAqKmxhIFtbQm9jYSBGcsOtYXxDb2xkIE1vdXRoXV0qKiB5IGNvcnRhcm9uIHN1IG5vbWJyZSBkZSBjYWRhIHJ1bmEuIFF1ZXLDrWEgdW4gY3VlcnBvIGFsIHF1ZSBsYSBbW1B1ZXJ0YSBDYWxsYWRhfFF1aWV0IERvb3JdXSBkZWphcmEgcGFzYXIsIHBhcmEgcG9kZXIgY3J1emFyIGxhIFB1ZXJ0YSB5IHNhbGlyIGRlbCBvdHJvIGxhZG8uIE5vZWwgaWJhIGEgc2VyIHN1IGxsYXZlLiIsICIqKkxvIHF1ZSBzYWxpw7MgbWFsLioqIExhIFB1ZXJ0YSBDYWxsYWRhIHNlIGxhIGxsZXbDsyBhIG1lZGlhcywgY29tbyBzdSBwcm9waWEgY2zDqXJpZ2EsIHkgbGEgQm9jYSBGcsOtYSBubyBwdWRvIHRlcm1pbmFyIGxhIHJlc3VycmVjY2nDs24uIEF0cmFwYWRhIGVuIG1lZGlvLCBubyBlc3RhYmEgbmkgbXVlcnRhIG5pIHZpdmEuIFN1IHBhZHJlLCBhbCB2ZXIgbG8gcXVlIGhhYsOtYSBoZWNobywgbGEgc2VsbMOzIGVuIGVsIGNvcmF6w7NuIGRlIHVuIMOhcmJvbCBkZSBtYWRlcmEgcsO6bmljYSBwYXJhIGVzY29uZGVybGEgZGUgbGEgQm9jYSBGcsOtYSwgeSBtdXJpw7MgYWwgcGllIGRlbCDDoXJib2wuIiwgIioqTG8gcXVlIHNpZ25pZmljYSBhaG9yYS4qKiBMYXMgdm9jZXMgZW4gbGEgb3NjdXJpZGFkIHF1ZSBsYSBsbGV2YXJvbiBhIGxhIHR1bWJhIGRlIE5pbnRoYWxhcmlvbiBzb24gZGUgbGEgUHVlcnRhIENhbGxhZGEuIE5vIHRvZGFzIGxhcyB2b2NlcyBxdWUgb3llIGxvIHNvbi4gQSBtZWRpZGEgcXVlIGVsIHNlbGxvIHNlIGRlYmlsaXRhLCBsYSBCb2NhIEZyw61hIGVzdMOhIGxsYW1hbmRvIGEgc3UgcHJpbWVyYSBvYnJhLiBOb2VsIGNyZWUgcXVlIGxhIHNlZ3VuZGEgdm96IGVzIHN1IHBhZHJlLiJdfQ=="
    }
   ],
   "facts": [
    [
     "Pueblo",
-    "Elfo de la escarcha"
+    "[[Elfo de la Escarcha|Frost Elf]], nieto de los [[Titanes de Hielo|Ice Titans]]"
    ],
    [
-    "Visto",
-    "El hielo del sur; a veces en las ciudades"
+    "Edad",
+    "nacido en la era de los gigantes; lleva muerto más tiempo del que existe la Carta"
+   ],
+   [
+    "Estatura",
+    "Unos 2.10 m"
+   ],
+   [
+    "Profesión",
+    "Halueth, purgador del mal para su clan en tiempos antiguos. Actualmente... desempleado."
+   ],
+   [
+    "Facción",
+    "ninguna; trabaja por su cuenta con cualquiera que tenga sentido común y la cabeza bien puesta"
+   ],
+   [
+    "Hogar",
+    "la [[Extensión Helada|Icy Expanse]], como era antes"
+   ],
+   [
+    "Compañía",
+    "Noel, que lo levantó"
    ]
-  ]
+  ],
+  "gloss": "Ninthalarion Halueth of Clan Balrora",
+  "aliases": [
+   "el gigante del abrigo rojo",
+   "Ninthalarion",
+   "Halueth",
+   "Ninthalarion Halueth del Clan Balrora"
+  ],
+  "epigraph": {
+   "quote": "El trabajo de un Halueth es de a dos.",
+   "by": "Ninthalarion Halueth del Clan Balrora"
+  }
  },
  "noel": {
   "title": "Noel",
-  "subtitle": "Un nombre en boca de todos",
-  "summary": "La pequeña sacerdotisa encapuchada que recorre el hielo con Ninthalarion, y a quien nadie ha visto comer.",
+  "subtitle": "Si se acuerda de ti, hay una razón",
+  "summary": "Una chica Renacida de la Extensión, clériga de la tumba de la Puerta Callada. Si se acuerda de ti, hay una razón.",
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Aspecto",
     "paragraphs": [
-     "Noel es una pequeña sacerdotisa encapuchada que recorre el hielo del sur con Ninthalarion.",
-     "Celebra los ritos de los muertos dondequiera que se detiene, y los celebra bien. Nadie la ha visto comer, ni dormir, ni quitarse la capucha a la luz del día."
+     "Una chica pálida y enfermiza envuelta en vendas, perdida dentro de una ropa grande y dispareja, bajo un sombrero de bruja ancho y maltratado. Le falta el ojo izquierdo, que lleva tapado. Tiene el pelo casi todo blanco, con mechones negros que delatan su primer color. Se apoya en un bastón de la madera petrificada que una vez la contuvo, y muchas veces lleva un cuervo en la mano. De cada bolsillo le asoman diarios chiquitos y maltratados."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Noel es una chica de la [[Extensión|Expanse]] a la que resucitaron con magia hace mucho, y algo salió mal. Estuvo petrificada durante generaciones dentro de un árbol congelado, uno de esos mismos árboles antiguos portadores de magia con cuyo polvo se hacían las runas de los Halueth. Cuando alguien taló el árbol para leña, se despertó casi sin recordar quién era.",
+     "Es una clériga de la tumba de la Puerta Callada, el [[Aspecto de la Muerte|Aspect of Death]]. La Puerta la lleva justo adonde alguien está por morir, para que pueda evitar que se muera antes de tiempo. Eso la vuelve una bendición para los moribundos y un presagio andante para todos los demás. Las voces en la oscuridad la llevaron a la tumba de Ninthalarion, y lo levantó. Ninguno de los dos sabe todavía por qué."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Renacida: no necesita dormir, respirar, comer ni beber. Su cuerpo se deforma con los golpes, pero la violencia común no puede acabar con él.",
+     "Nigromancia: trae a la gente de vuelta del borde, cura enfermedades y escucha a los muertos. Con suficiente magia y suficiente cuerpo, puede resucitar.",
+     "Exorcista: expulsa espíritus y pelea con fuego espiritual.",
+     "Médium: ayuda a los muertos inquietos a terminar sus asuntos."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Su bastón, tallado en la [[madera rúnica|runewood]] petrificada que la contuvo",
+     "Diarios chiquitos, que deja por todas partes",
+     "Un sombrero de bruja ancho y maltratado"
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Noel habla bajito y a veces se queda callada tanto rato que te hace preguntarte si se acuerda de lo que estaba diciendo. Lleva diarios chiquitos llenos de frases y garabatos, y tiene la costumbre de dejarlos olvidados. Sonríe con facilidad. A veces una preocupación se le pasa simplemente porque se le olvidó. Si se acuerda de ti, hay una razón."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Evitar que la gente muera antes de su hora, siguiendo el llamado de la Puerta Callada."
+    ]
+   },
+   {
+    "title": "En sus propias palabras",
+    "paragraphs": [
+     "“Necesita a alguien que sostenga la línea.”",
+     "“No me acuerdo de su voz.”"
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Noel viaja con Ninthalarion, al que ella levantó. Sus ritos y su sanación vienen de la Puerta Callada, el Aspecto de la Muerte."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“La sacerdotisa del gigante le preguntó a mi mamá el camino a una tumba que nadie ha cavado todavía.” (una niña de Puerto Varan)"
+     "“El sacerdote que anda con el gigante le preguntó a mi mamá el camino a una tumba que nadie ha cavado todavía.” (un niño de Puerto Varan)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIHByaW1lcmEgcmVzdXJyZWNjacOzbiBkZSBOb2VsLioqIEVyYSB1bmEgY2hpY2EgZGUgbGEgdmllamEgW1tFeHRlbnNpw7NufEV4cGFuc2VdXSBxdWUgbXVyacOzIGRlbCBzdWXDsW8gZnLDrW8uIFN1IHBhZHJlIGxsZXbDsyBzdSBjdWVycG8gYSBsYSBbW0JvY2EgRnLDrWF8Q29sZCBNb3V0aF1dLCB1biBuaWdyb21hbnRlIHF1ZSBxdWVyw61hIHVuIGN1ZXJwbyBhbCBxdWUgbGEgW1tQdWVydGEgQ2FsbGFkYXxRdWlldCBEb29yXV0gZGVqYXJhIHBhc2FyLiBMYSBQdWVydGEgc2UgbGEgbGxldsOzIGEgbWVkaWFzLCBjb21vIHN1IHByb3BpYSBjbMOpcmlnYSwgeSBzdSBwYWRyZSBsYSBzZWxsw7MgZW4gdW4gw6FyYm9sIGRlIFtbbWFkZXJhIHLDum5pY2F8cnVuZXdvb2RdXSB5IG11cmnDsyBhIHN1IHBpZS4gTm8gdG9kYXMgbGFzIHZvY2VzIHF1ZSBveWUgc29uIGRlIGxhIFB1ZXJ0YS4gTGEgc2VndW5kYSB2b3ogbm8gZXMgc3UgcGFkcmUuIiwgIioqTGEgcHJpbWVyYSByZXN1cnJlY2Npw7NuIGRlIE5vZWwqKiIsICJBIE5vZWwgbGEgbGV2YW50w7MgbGEgcHJpbWVyYSB2ZXogZWwgbmlncm9tYW50ZSBxdWUgTmludGhhbGFyaW9uIHNlbGzDsyBkZXNwdcOpcyBiYWpvIGVsIGhpZWxvLiIsICIqKlF1acOpbiBlcmEuKiogVW5hIGNoaWNhIGRlIGxhIHZpZWphIEV4dGVuc2nDs24gcXVlIG11cmnDsyBkZWwgc3Vlw7FvIGZyw61vLCBlbiBsb3MgYcOxb3MgZW4gcXVlIGVsIGN1bHRvIGRlIFZvbHZpZWcgc2UgZXN0YWJhIHZvbHZpZW5kbyBjcnVlbC4gU3UgcGFkcmUsIHVuIGxlw7FhZG9yIGRlIGxhcyBhcmJvbGVkYXMgZGUgbWFkZXJhIHLDum5pY2EsIG5vIHB1ZG8gZGVqYXJsYSBpci4gTGxldsOzIHN1IGN1ZXJwbyBhIGxhIMO6bmljYSBjb3NhIGRlbCBoaWVsbyBxdWUgcHJvbWV0w61hIGRldm9sdsOpcnNlbGEuIiwgIioqTG8gcXVlIHF1ZXLDrWEuKiogTG9zIEhhbHVldGggbG8gbGxhbWFiYW4gKipsYSBCb2NhIEZyw61hKiogeSBjb3J0YXJvbiBzdSBub21icmUgZGUgY2FkYSBydW5hLiBRdWVyw61hIHVuIGN1ZXJwbyBhbCBxdWUgbGEgUHVlcnRhIENhbGxhZGEgZGVqYXJhIHBhc2FyLCBwYXJhIHBvZGVyIGNydXphciBsYSBQdWVydGEgeSBzYWxpciBkZWwgb3RybyBsYWRvLiBOb2VsIGliYSBhIHNlciBzdSBsbGF2ZS4iLCAiKipMbyBxdWUgc2FsacOzIG1hbC4qKiBMYSBQdWVydGEgQ2FsbGFkYSBzZSBsYSBsbGV2w7MgYSBtZWRpYXMsIGNvbW8gc3UgcHJvcGlhIGNsw6lyaWdhLCB5IGxhIEJvY2EgRnLDrWEgbm8gcHVkbyB0ZXJtaW5hciBsYSByZXN1cnJlY2Npw7NuLiBBdHJhcGFkYSBlbiBtZWRpbywgbm8gZXN0YWJhIG5pIG11ZXJ0YSBuaSB2aXZhLiBTdSBwYWRyZSwgYWwgdmVyIGxvIHF1ZSBoYWLDrWEgaGVjaG8sIGxhIHNlbGzDsyBlbiBlbCBjb3JhesOzbiBkZSB1biDDoXJib2wgZGUgbWFkZXJhIHLDum5pY2EgcGFyYSBlc2NvbmRlcmxhIGRlIGxhIEJvY2EgRnLDrWEsIHkgbXVyacOzIGFsIHBpZSBkZWwgw6FyYm9sLiIsICIqKkxvIHF1ZSBzaWduaWZpY2EgYWhvcmEuKiogTGFzIHZvY2VzIGVuIGxhIG9zY3VyaWRhZCBxdWUgbGEgbGxldmFyb24gYSBsYSB0dW1iYSBkZSBOaW50aGFsYXJpb24gc29uIGRlIGxhIFB1ZXJ0YSBDYWxsYWRhLiBObyB0b2RhcyBsYXMgdm9jZXMgcXVlIG95ZSBsbyBzb24uIEEgbWVkaWRhIHF1ZSBlbCBzZWxsbyBzZSBkZWJpbGl0YSwgbGEgQm9jYSBGcsOtYSBlc3TDoSBsbGFtYW5kbyBhIHN1IHByaW1lcmEgb2JyYS4gTm9lbCBjcmVlIHF1ZSBsYSBzZWd1bmRhIHZveiBlcyBzdSBwYWRyZS4iXX0="
    }
   ],
   "facts": [
    [
-    "Viaja con",
-    "Ninthalarion"
+    "Pueblo",
+    "Renacida (no muerta)"
    ],
    [
-    "Vista",
-    "El hielo del sur"
+    "Edad",
+    "parece una niña; estaba viva hace generaciones"
+   ],
+   [
+    "Profesión",
+    "Clériga de la tumba de la [[Puerta Callada|Quiet Door]]; sanadora ambulante, exorcista, ermitaña y médium"
+   ],
+   [
+    "Facción",
+    "ninguna"
+   ],
+   [
+    "Hogar",
+    "antes la [[Extensión Helada|Icy Expanse]]; ahora el camino"
+   ],
+   [
+    "Compañía",
+    "un cuervo; Ninthalarion, al que ella levantó"
    ]
-  ]
+  ],
+  "aliases": [
+   "Noel"
+  ],
+  "epigraph": {
+   "quote": "Necesita a alguien que sostenga la línea.",
+   "by": "Noel"
+  }
  },
  "fishbread": {
   "title": "Fishbread",
