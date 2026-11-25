@@ -34318,5 +34318,219 @@
    }
   ],
   "title": "Dalan Sylenas"
+ },
+ "kiel-keyron": {
+  "aliases": [
+   "Kiel Keyron"
+  ],
+  "subtitle": "Un cazador de monstruos al que le queda una cacería",
+  "summary": "Un cazador de monstruos independiente, que persigue a la cosa que destruyó su aldea.",
+  "epigraph": {
+   "quote": "¿Adónde crees que vas...? Todavía estamos lejos de terminar aquí.",
+   "by": "Kiel Keyron"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "Humano"
+   ],
+   [
+    "Profesión",
+    "Cazador de monstruos"
+   ],
+   [
+    "Facción",
+    "Independiente"
+   ],
+   [
+    "Familia",
+    "su padre, el jefe de la aldea; su madre; seis hermanos. Todos perdidos la misma noche."
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un joven alto, de complexión delgada y musculosa, con el pelo castaño oscuro cayéndole en ondas revueltas hasta la nuca, y una cara juvenil que desmiente lo que ha soportado. Sus ojos color miel son lo más llamativo de él: intensos y decididos, con un destello de vulnerabilidad por debajo. Lleva armadura de cuero reforzada y ropa práctica en tonos oscuros y terrosos, con una bufanda gastada color óxido, y dibujos protectores intrincados grabados en la armadura y las armas. Una espada larga de filo de plata le cruza la espalda, dos pistolas le van a las caderas, y su equipo cuelga de correas y de una mochila resistente."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Kiel creció en una aldea de la selva de las [[Tierras Salvajes del Sur|Southern Wilds]], hijo de su jefe y uno de siete hermanos. Era muy unido a sus seis hermanos. Su curiosidad y su mal genio lo volvían inquieto, pero lo salvaje le enseñó ingenio, paciencia y supervivencia.",
+     "Una catástrofe sobrenatural destruyó la aldea en una sola noche. Perdió a sus padres y a sus seis hermanos. Unos cazadores de monstruos recogieron al sobreviviente y lo entrenaron en lo oculto, en las armas y en la contención de peligros sobrenaturales.",
+     "A medida que crecía su destreza, se resistió a las exigencias de obediencia que venían con su entrenamiento. Se fue a trabajar por su cuenta. Ahora caza a las criaturas que le arruinaron la vida, buscando respuestas sobre las ruinas antiguas y sobre la cosa que pasó a través de su sello."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Maestría con la hoja: una esgrima excepcional, ataques precisos y evasión.",
+     "Experto en combate sin armas: hábil en el cuerpo a cuerpo, en desarmar y en agarrar.",
+     "Erudito de lo oculto: un saber enorme de lo sobrenatural y de las estrategias para vencer a los seres oscuros.",
+     "Estratega astuto: se adapta rápido, inventa tácticas inesperadas y supera en ingenio a sus rivales.",
+     "Voluntad indomable: resiste el miedo, el dolor y la manipulación psicológica, y nunca vacila en batalla.",
+     "Entrenamiento implacable: una condición física y mental al máximo gracias a un compromiso disciplinado."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Armadura de cuero reforzada: liviana pero resistente, con protección y flexibilidad.",
+     "Espada larga de filo de plata: forjada para enemigos sobrenaturales; el filo de plata muerde a las criaturas vulnerables a la plata.",
+     "Pistolas gemelas: hechas a medida para disparar rápido y con precisión, cargadas con balas de plata bendecidas en ritos sagrados.",
+     "Ballesta: para los virotes con punta de plata de su equipo.",
+     "Equipo de cazador de monstruos: estacas, virotes de ballesta con punta de plata, agua bendita y sal.",
+     "Garfio y cuerda: para el terreno difícil, para trepar y para escapar rápido.",
+     "Trampas y lazos: cepos para osos, trampas de red y cuerdas trampa.",
+     "Talismán de protección: un amuleto encantado que lo protege de las fuerzas oscuras y de los conjuros dañinos.",
+     "Pergaminos de sellado: para atar y contener criaturas sobrenaturales y energías oscuras.",
+     "Equipo de pociones: pociones de curación, antídotos y elíxires que potencian el cuerpo o contrarrestan la magia.",
+     "Herramientas de mantenimiento: una piedra de afilar, un equipo para limpiar las armas de fuego y avíos de costura para su armadura.",
+     "Mochila resistente: duradera y espaciosa, para provisiones y materiales de investigación."
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Kiel tiene mal genio y poca paciencia para que le digan qué hacer. Dale un monstruo que rastrear y va a pasar el tiempo que haga falta estudiándolo y poniéndole trampas. Puede ser cruel una vez que lo tiene acorralado. Deja que muy poca gente se le acerque, y cuando lo hace, la protege con ferocidad."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Cazar y eliminar a las criaturas oscuras que acechan el mundo, sobre todo a la cosa que destruyó su aldea.",
+     "Descubrir los secretos de las ruinas antiguas y de las fuerzas que viven en ellas.",
+     "Dominar su oficio y conservar su independencia.",
+     "Proteger a los inocentes, para que nadie más sufra lo que sufrió su familia."
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Kiel trabaja por su cuenta en las Tierras Salvajes del Sur. Su caza de monstruos junta armas prácticas, estudio de lo oculto, trampas y trabajo de sellado."
+    ]
+   }
+  ],
+  "title": "Kiel Keyron"
+ },
+ "elizabeth-ravenwolf": {
+  "gloss": "Elizabeth Ravenwolf",
+  "aliases": [
+   "Beth",
+   "Elizabeth Lobocuervo"
+  ],
+  "subtitle": "Una vida que espera más allá de los estantes",
+  "summary": "Bibliotecaria y erudita elfa que quiere ser Cazadora.",
+  "epigraph": {
+   "quote": "¿Sabías que...?",
+   "by": "Elizabeth Lobocuervo"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "Elfa"
+   ],
+   [
+    "Edad",
+    "100, recién llegada a la mayoría de edad para los elfos"
+   ],
+   [
+    "Estatura",
+    "1.74 m"
+   ],
+   [
+    "Profesión",
+    "Bibliotecaria, erudita, cuentacuentos"
+   ],
+   [
+    "Facción",
+    "[[Universidad|University]] de Kalvatar, en [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Familia",
+    "su padre, Milo, un pintor que dejó de pintar para mantenerlas; su madre, Beatrice, antigua noble y maestra, asesinada por piratas"
+   ],
+   [
+    "Apodo",
+    "Beth, pero solo su padre le dice así"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Una elfa más bien alta, de pelo largo y castaño, cálidos ojos cafés y rasgos delicados, que mira a través de unos anteojos redondos. Tiene la piel pálida de pasar largos días en la biblioteca. Muchas veces usa ropa que fue de su madre, arreglada a su medida: una chaqueta oscura ajustada con ribetes dorados sobre una blusa blanca con volantes. Siempre lleva al hombro una bolsa gastada, pesada de libros, y siempre tiene una novela en la mano."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Beatrice, la madre de Elizabeth, dejó la nobleza para casarse con Milo, un pintor elfo, contra los deseos de su familia. Beatrice había pasado años estudiando en casa y usó esa educación para enseñar en el pueblo. Milo vivía de lo que pudiera vender. Algunos días los cuadros se vendían bien. Otros volvía a casa sin nada. Eran felices juntos.",
+     "Sus padres soñaban con viajar y explorar el archipiélago, pero el dinero los tuvo esperando muchísimo tiempo.",
+     "Cuando Elizabeth tenía 88 años, todavía joven para los elfos, a su madre le ofrecieron un puesto de maestra en otra isla. La familia estaba feliz: el puesto les permitiría viajar y dejar de preocuparse por el dinero. Pero en el camino, unos piratas atacaron el barco de Beatrice, y ella perdió la vida. En medio del duelo, padre e hija tuvieron que tomar decisiones difíciles. El sueño de viajar se había ido, y Milo dejó de pintar para tomar un trabajo más estable. La pérdida sacó a Elizabeth de sus fantasías y le mostró el mal que hay en el mundo.",
+     "Pero todavía tenía lo que su madre le dejó: sus libros, su ropa y su amor por la historia y la literatura. Elizabeth decidió que ella sería la que cumpliera el sueño de sus padres. Se volcó en sus estudios y pasó largas horas en las bibliotecas preparándose para la Universidad, con la esperanza de que algún día le permitiera viajar y mantener a su padre.",
+     "Un día, Milo y Elizabeth volvían del mercado a casa cuando cinco hombres los detuvieron. Ella no los conocía, pero su padre estaba tan asustado que supuso que él sí. Amenazaron a Milo y le pidieron cosas que ella no entendía, y después se puso violento. Ella gritaba mientras golpeaban a su padre. Unos segundos después, segundos que le parecieron horas, llegaron dos hombres rubios y fuertes, con una insignia de metal prendida a la ropa. Hablaron con los cinco hombres, los hicieron irse, y acompañaron a Milo y a Elizabeth sanos y salvos hasta su casa. Ella estaba tan agradecida que no paraba de ofrecerles comida, bebida y cualquier otra cosa que pudiera hacer, pero ellos solo querían hacer lo correcto. Ese fue el día en que se enamoró de la idea de los [[Cazadores|Hunters]].",
+     "Había visto Cazadores antes, pero nunca tan de cerca. Después de ver a esos dos unas cuantas veces más y de hablar con ellos, la admiración se volvió una decisión: ella también quería ser Cazadora.",
+     "A los 94 la aceptaron en la Universidad de Kalvatar, donde estudia historia, literatura y magia arcana. No tiene dotes físicas, pero su mente es impresionante, y siempre da lo mejor de sí. Elizabeth acaba de cumplir 100, y se ha vuelto una mujer llena de saber. Trabaja como bibliotecaria, y cuando no está estudiando ni trabajando, probablemente es porque sus queridos amigos Cazadores están en la ciudad."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Magia arcana: unos cuantos trucos para la vida diaria: efectos e ilusiones sencillos, limpiar, y alcanzar libros en estantes demasiado altos para ella.",
+     "Rayo elemental: un estallido de energía desde las manos, cuyo elemento puede cambiar según la situación.",
+     "Lectora dotada: dos veces al día, por un tiempo limitado, puede leer e identificar cualquier idioma. También sabe unos cuantos idiomas sin magia.",
+     "Ratón de biblioteca: un saber enorme de historia, literatura y magia que muchas veces le dice cómo manejar una situación.",
+     "Libro de conjuros: le permite lanzar conjuros como rituales, disipar efectos mágicos pequeños y sencillos, y detectar el tipo de magia de un objeto o un conjuro."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Su querido libro de conjuros",
+     "Tinta, papel y una pluma",
+     "Una daga",
+     "10 [[Anclas|Anchors]]",
+     "Una muda de ropa fina",
+     "Un libro, siempre uno distinto y casi siempre de ficción"
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Elizabeth puede pasarse horas en una novela y después quedarse sin saber qué decir en una conversación común. Recomiéndale un libro y va a tener algo que preguntarte. Rara vez pierde los estribos, aunque un final triste puede hacerla llorar. Su manera favorita de entrar a una conversación es un dato suelto de algo que leyó, aunque todos los demás ya hayan cambiado de tema."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Volverse Cazadora y unirse a la tripulación de sus amigos.",
+     "Ganar lo suficiente para mantener a su padre.",
+     "Recorrer el archipiélago, aprendiendo su historia y sus culturas."
+    ]
+   },
+   {
+    "title": "En sus propias palabras",
+    "paragraphs": [
+     "“¿Sabías que...?”",
+     "“Una vez leí un libro sobre...”"
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "La Universidad de Kalvatar tiene su sede en Ventoro. Elizabeth estudia ahí y trabaja entre sus libros mientras se prepara para una vida más allá de la biblioteca.",
+     "Para presentarse a las [[Pruebas de Ascensión|Trials of Ascension]] anuales necesita un hierro: la moneda de aval de un Cazador, de la que se acuñan solo trescientas cada año. La admiración sola no le puede poner un [[Sello|Sigil]] en el abrigo."
+    ]
+   }
+  ],
+  "title": "Elizabeth Lobocuervo"
  }
 }
