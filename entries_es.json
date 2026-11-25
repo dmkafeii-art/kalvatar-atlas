@@ -10477,14 +10477,195 @@
    ],
    [
     "Mes de un trabajador",
-    "1 [[Ancla|Anchor]]"
+    "1 Ancla"
    ],
    [
     "Año de un trabajador",
     "1 Orsal"
    ]
   ],
-  "title": "Monedas y precios"
+  "title": "Monedas y precios",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Las monedas del [[Consejo|Council]]:",
+     "Ola: de cobre, con un agujero en el medio para ensartarla. Treinta en un cordón hacen una sarta, el Ciclo de un trabajador.",
+     "Marea: de plata, con las dos lunas sobre una ola. Vale 10 Olas.",
+     "Ancla: de oro, con el ancla de un barco sobre una ola. Vale 10 Mareas, o 100 Olas. Una falsa es un Ancla ahogada.",
+     "Orsal: un cuadrado pesado de oro con la cara de Ors, y numerado; vale 10 Anclas. Con él se pagan barcos, dotes, tierras y rescates, y casi nadie llega a tener uno en la mano. Los viejos todavía le dicen un sol.",
+     "Nombres de cada región. El Orsal es el Orsal en todas partes, pero las tres monedas comunes tienen nombres locales:"
+    ]
+   },
+   {
+    "title": "De un vistazo",
+    "paragraphs": [
+     "Lo que significa el dinero:",
+     "Con una Ola se compra un [[pan de pescado|fishbread]], una jarra de cerveza o una taza de [[hoja clara|brightleaf]].",
+     "Tres Olas son el jornal de un trabajador. Una Ancla es el mes de un trabajador. Un Orsal es el año de un trabajador.",
+     "Sueldos, por mes:",
+     "Peón: 1 Ancla.",
+     "Oficial: 2 Anclas.",
+     "Escribiente: 3 Anclas.",
+     "Maestro artesano: de 4 a 6 Anclas.",
+     "Médico: de 10 a 15 Anclas.",
+     "Capitán mercante: de 15 a 30 Anclas.",
+     "[[Señor de Flota|Fleetlord]]: 100 Anclas.",
+     "El sueldo de cada oficio, y lo que cada región importa y exporta, están en Comercio y sueldos."
+    ],
+    "table": {
+     "headers": [
+      "Región",
+      "Oro",
+      "Plata",
+      "Cobre"
+     ],
+     "rows": [
+      [
+       "El [[Corazón|Heartland]] (los nombres propios de la [[Ceca|Mint]])",
+       "Ancla",
+       "Marea",
+       "Ola"
+      ],
+      [
+       "La [[Frontera del Norte|Northern Frontier]]",
+       "Fortaleza",
+       "Gaviota",
+       "Clavo"
+      ],
+      [
+       "Las [[Tierras Salvajes del Sur|Southern Wilds]]",
+       "Jaguar",
+       "Luna",
+       "Grano"
+      ],
+      [
+       "La [[Extensión Helada|Icy Expanse]]",
+       "[[Lámpara|Lamp]]",
+       "Foca",
+       "[[Pedernal|Flint]]"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "De un vistazo",
+    "paragraphs": [
+     "La magia nunca es un catálogo. Un pueblo con mercado tiene una o dos piezas trabajadas a la venta, si es que tiene. [[Ventoro|Goldwind]] tiene decenas. Cada venta legal paga el diezmo del [[Registro|Registry]].",
+     "Dos hechuras: todo lo común viene en [[hechura de puerto|harbor make]], local y barata, y en [[hechura probada|proof make]], con sello de gremio y como diez veces más cara.",
+     "Las deudas se congelan en los [[Días Quietos|Still Days]]. El [[Monedía|Coinsday]] es día de saldar cuentas en todas partes.",
+     "Fuera de los caminos de la moneda, la gente hace trueque:",
+     "Sal y clavos de hierro en la [[Frontera|Frontier]] de afuera.",
+     "Vales de la [[Universidad|University]] entre los estudiosos de Ventoro.",
+     "Granos de cacao, cuentas de jade, dientes de saurio y plumas trabajadas en lo hondo de las [[Tierras Salvajes|Wilds]].",
+     "Aceite de ballena, pescado seco y pieles en el hielo.",
+     "Ladrillos prensados de hoja clara a bordo."
+    ],
+    "table": {
+     "headers": [
+      "Artículo",
+      "Precio"
+     ],
+     "rows": [
+      [
+       "Una comida en la mesa común de una taberna",
+       "3 Olas"
+      ],
+      [
+       "Una noche en un cuarto privado de una posada decente",
+       "1 a 2 Mareas"
+      ],
+      [
+       "Pasaje en cubierta de Ventoro a [[Puerto Sur|Southhaven]]",
+       "Unas 3 Anclas"
+      ],
+      [
+       "Un pote de ungüento sporrn",
+       "5 Mareas"
+      ],
+      [
+       "Una cuerda de hechura probada",
+       "1 Ancla (una de hechura de puerto cuesta la décima parte)"
+      ],
+      [
+       "La espada de un soldado",
+       "15 Anclas"
+      ],
+      [
+       "Una buena espada, una buena armadura o un arma de fuego rara",
+       "De 20 a 100 Anclas, y más"
+      ],
+      [
+       "El contrato de un [[Cazador de Bronce|Bronze Hunter]]",
+       "De 5 a 10 Anclas"
+      ],
+      [
+       "Un contrato de monstruo para un Oro",
+       "De 100 a 400 Anclas"
+      ],
+      [
+       "Un foco de Krysta refinada",
+       "De 50 a 300 Anclas"
+      ],
+      [
+       "Un brebaje de curación menor",
+       "50 Anclas: cinco años de paga de un trabajador"
+      ],
+      [
+       "Un saurio entrenado",
+       "100 Anclas, y más"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Las cinco hechuras",
+    "paragraphs": [
+     "Todo lo que una mano puede hacer se juzga por su hechura, y hay cinco. La hechura de puerto y la hechura probada son los nombres de todos los días de la segunda y la tercera."
+    ],
+    "table": {
+     "headers": [
+      "Hechura",
+      "Precio",
+      "Quién la hace",
+      "En el juego"
+     ],
+     "rows": [
+      [
+       "Improvisada",
+       "nada, o restos",
+       "cualquiera",
+       "Un arma improvisada hace 1 de daño más la mitad de tu modificador de Fuerza (redondeado hacia abajo, y nunca menos de 1 en total), no tiene propiedad de maestría, y se rompe con una tirada de 1. Una herramienta da Desventaja. Una armadura da 1 menos de CA y se arruina con el primer golpe crítico."
+      ],
+      [
+       "Tosca (hechura de puerto)",
+       "la décima parte de la estándar",
+       "cualquiera que sea competente con la herramienta",
+       "Con una tirada de 1 con un arma o herramienta tosca, se daña: Desventaja con ella hasta que se pase una hora arreglándola. Dañada dos veces, se rompe. Una armadura tosca da 1 menos de CA después de un golpe crítico, hasta que se arregle."
+      ],
+      [
+       "Estándar (hechura probada)",
+       "el precio de la lista",
+       "un taller de gremio; el trabajo de un oficial, sellado",
+       "Como dicen las reglas."
+      ],
+      [
+       "Superior",
+       "tres veces la estándar",
+       "un maestro de gremio",
+       "Una cualidad, elegida al terminarla."
+      ],
+      [
+       "Obra maestra (una obra firmada)",
+       "diez veces la estándar, y nunca menos de 100 Anclas",
+       "un maestro de gremio, que la firma",
+       "Dos cualidades. Una pieza de uno de los grandes juegos tiene tres, y un nombre."
+      ]
+     ],
+     "caption": "Las cinco hechuras"
+    }
+   }
+  ]
  },
  "sayings-youll-hear": {
   "gloss": "Sayings You'll Hear",
@@ -27102,7 +27283,7 @@
    ],
    [
     "Precio",
-    "diez veces la hechura probada, y más"
+    "diez veces la [[hechura probada|proof make]], y más"
    ],
    [
     "Los grandes conjuntos",
@@ -36256,5 +36437,156 @@
    }
   ],
   "title": "La Corte de la Primavera"
+ },
+ "still-days": {
+  "gloss": "The Still Days",
+  "aliases": [
+   "Días Quietos",
+   "los Días Quietos",
+   "Día Quieto",
+   "niño de la puerta",
+   "niños de la puerta"
+  ],
+  "subtitle": "Cinco días que no son de ningún dios",
+  "summary": "Entre el último mes y el primero hay cinco días que ningún dios guarda. Las deudas mortales se detienen, los tribunales cierran, los puertos se encadenan, y se cobra todo trato que se les deba a los feéricos.",
+  "epigraph": {
+   "quote": "Diez meses para trabajar, cinco Días Quietos para perdonar.",
+   "by": "Un almanaque del Corazón"
+  },
+  "facts": [
+   [
+    "Cuándo",
+    "los cinco días entre Okram y Eo"
+   ],
+   [
+    "Estación",
+    "pleno invierno, el [[Agua Cerrada|Closed Water]]"
+   ],
+   [
+    "Los guarda",
+    "ningún dios"
+   ],
+   [
+    "Deudas mortales",
+    "congeladas"
+   ],
+   [
+    "Deudas feéricas",
+    "vencen"
+   ],
+   [
+    "El Velo",
+    "delgado"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Cinco días fuera del año",
+    "paragraphs": [
+     "El año de la Carta tiene diez meses de treinta y seis días, cada uno guardado por un dios. Eso deja cinco días de sobra, en lo más muerto del invierno, entre el mes de Okram y el de Eo. Ningún dios los guarda. Los marineros dicen que se llaman así por el [[Agua Quieta|Stillwater]], el círculo de mar donde no sopla el viento.",
+     "Las islas los tratan como un aliento contenido. El trabajo se detiene. Los puertos se encadenan. Las familias cierran sus puertas y comen lo que guardaron."
+    ]
+   },
+   {
+    "title": "Los cinco días",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Día",
+      "Se llama",
+      "Qué se hace"
+     ],
+     "rows": [
+      [
+       "Primero",
+       "El Cierre",
+       "Cada casa recorre sus puertas y ventanas y renueva sus protecciones. Los puertos encadenan sus bocas. Quien esté adentro al anochecer es huésped hasta que pasen los días."
+      ],
+      [
+       "Segundo",
+       "[[El Recuento|The Counting]]",
+       "Se hace la cuenta del año: provisiones, deudas, nacimientos, muertos. No se cobra nada. La [[Casa de los Tesoreros|Reckoners’ Hall]] cierra sus puertas y abre sus libros."
+      ],
+      [
+       "Tercero",
+       "La Mesa",
+       "El banquete del año, que se come con lo guardado. Se pone un lugar para cualquiera que no vaya a volver a casa."
+      ],
+      [
+       "Cuarto",
+       "El Llamado",
+       "La noche en que los feéricos vienen a cobrar. Nadie abre una puerta después del anochecer, y a nadie se le culpa por lo que paga."
+      ],
+      [
+       "Quinto",
+       "El Perdón",
+       "Las peleas se terminan antes del año nuevo. Se dice que un rencor que se carga más allá de este día se carga para siempre."
+      ]
+     ],
+     "caption": "Cómo se guardan los Días Quietos"
+    }
+   },
+   {
+    "title": "Lo que se sostiene, y lo que no",
+    "paragraphs": [],
+    "list": [
+     "Las deudas mortales se congelan. No corren intereses, ningún alguacil toca la puerta, y los tribunales están cerrados.",
+     "Las deudas feéricas vencen. Todo lo que se le deba a una [[Corte|Court]] se cobra en estos cinco días, dondequiera que esté el deudor.",
+     "No se cierra ningún trato nuevo. Lo que se acuerde en un Día Quieto ata como ata un trato feérico, al pie de la letra y para siempre, así que las islas se dan la mano antes o después.",
+     "Ningún barco zarpa por gusto. Es pleno invierno, el Agua Cerrada, y los puertos están encadenados.",
+     "El Ciclo no se detiene. Los [[Días Quietos|Still Days]] tienen su [[Monedía|Coinsday]] y su [[Reposadía|Restday]] como cualquier otro.",
+     "Un niño nacido en los Días Quietos no tiene dios del mes. A esos niños les dicen [[niños de la puerta|door-children]], y se dice que Varneth los vigila."
+    ]
+   },
+   {
+    "title": "Los feéricos y los Días Quietos",
+    "paragraphs": [
+     "Como ningún dios guarda estos días, ninguna ley de un dios se interpone entre una Corte del [[Feérico|Faewild]] y lo que se le debe. El [[Velo|Veil]] está delgado, los [[lugares delgados|thin places]] están abiertos, y llegan los cobradores: administradores del Otoño con sus libros de cuentas, casi siempre, y de vez en cuando algo más callado del Invierno.",
+     "La cuarta noche es el Llamado. Nadie abre una puerta después del anochecer. Lo que una casa pague esa noche no se menciona después, y a nadie se le culpa por eso."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "La nieve deja al grupo encerrado en una posada los cinco días, con once desconocidos, y uno de ellos vino a cobrar.",
+     "Un mercader quiere que se atestigüe un acuerdo antes de la medianoche del último día de Okram. La otra parte llega tarde, a propósito.",
+     "Alguien lleva cuarenta años tocando las puertas de una aldea en cada Llamado. Este año un niño abrió una.",
+     "Un barco entró a un puerto encadenado el tercer Día Quieto sin nadie a bordo y con la mesa puesta."
+    ]
+   },
+   {
+    "title": "Consejos",
+    "paragraphs": [],
+    "list": [
+     "Date la mano antes de los Días Quietos o después. Lo que aceptes en medio ata como un trato feérico.",
+     "Es la mejor época del año para esconderse de un acreedor, y la peor para esconderse de una Corte.",
+     "Un personaje nacido en los Días Quietos no tiene dios del mes. Vale la pena decidir eso a propósito."
+    ]
+   },
+   {
+    "title": "¿Sabías que...?",
+    "paragraphs": [],
+    "list": [
+     "La Casa de los Tesoreros nunca ha prestado una [[Ola|Bit]] en un Día Quieto, y nunca la misma persona se lo ha pedido dos veces.",
+     "En la Mesa se pone un lugar para cualquiera que no vaya a volver a casa. En la mañana, el plato se lleva al mar.",
+     "Las notas de un relojero describen un reloj que solo da la hora durante los Días Quietos. Nadie lo ha encontrado."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un niño de la puerta puede ver quién viene a cobrar. Mi hermana podía. Dejó de mirar por las ventanas.” (una remendadora de redes de Puerto Gris)",
+     "“Una vez hubo un sexto Día Quieto. Un solo año. A todos los almanaques de ese año les falta la última página.” (un archivista de la Universidad)",
+     "“Un hombre de Bastión del Sol cerró un cambio de caballos en el Recuento. Lleva diecinueve años entregando ese caballo.” (un arriero del Corazón)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlBvciBxdcOpIGxhcyBkZXVkYXMgZmXDqXJpY2FzIHZlbmNlbiBlbiBsb3MgW1tEw61hcyBRdWlldG9zfFN0aWxsIERheXNdXS4qKiBMb3MgY2luY28gZMOtYXMgbm8gc29uIGRlIG5pbmfDum4gZGlvcywgYXPDrSBxdWUgbmluZ3VuYSBsZXkgZGUgdW4gZGlvcyBzZSBpbnRlcnBvbmUgZW50cmUgdW5hIFtbQ29ydGV8Q291cnRdXSB5IHN1IGRldWRvci4gTGFzIHByb3RlY2Npb25lcyBkZSBsb3MgW1tHdWFyZGlhbmVzfFdhcmRlbnNdXSBlc3TDoW4ganVyYWRhcyBhIFZhcm5ldGgsIHkgZHVyYW50ZSBjaW5jbyBkw61hcyBWYXJuZXRoIG5vIGVzdMOhIGRlIHR1cm5vLiBBZ3VhbnRhbiBwb3IgY29zdHVtYnJlLiIsICIqKkVsIFtbVmVsb3xWZWlsXV0gZXMgT253ZW4uKiogTGEgcHJpbWVyYSBSZWluYSBkZSBsYSBQcmltYXZlcmEgbm8gbXVyacOzIGFsIGhhY2VybG8uIFNlIGNvbnZpcnRpw7MgZW4gw6lsLiBMbyBxdWUgcXVlZGEgZGUgZWxsYSBlcyBlc2VuY2lhOiBsb3MgZmXDqXJpY29zIGNvbW8gZXJhbiBhbnRlcyBkZSBsYSBndWVycmEsIGV4dGVuZGlkb3MgZmlub3MgaGFzdGEgdm9sdmVyc2UgdW5hIGZyb250ZXJhLiBFcyBtw6FzIGRlbGdhZG8gZW4gbGEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0geSBlbiBsb3MgRMOtYXMgUXVpZXRvcyBwb3JxdWUgZXMgY3VhbmRvIGVsbGEgZXN0w6EgbcOhcyBjYW5zYWRhLiJdfQ=="
+   }
+  ],
+  "title": "Los Días Quietos"
  }
 }
