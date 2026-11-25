@@ -7,7 +7,11 @@ window.Adventurers = (() => {
  const $ = s => document.querySelector(s);
  let data = null, failed = false;
  const state = {people: '', region: '', home: '', form: '', canonOnly: false, results: []};
- const ready = fetch('adventurers.json?v=33').then(r => {if(!r.ok) throw Error(); return r.json();})
+ const ready = fetch('adventurers.json?v=33').then(async r => {
+  if(!r.ok) throw Error();
+  return JSON.parse(await r.text(), (_, value) =>
+   typeof value === 'string' ? value.replace(/\bpan de pescado\b/g, 'panpescado') : value);
+ })
   .then(v => {data = v;}).catch(() => {failed = true;});
 
  const pick = list => list[Math.floor(Math.random() * list.length)];

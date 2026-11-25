@@ -174,8 +174,20 @@ function drawDirectory(savedOnly=false){
 let aliases=[];
 function buildAliases(){const map=new Map();for(const e of entries){map.set(e.title,e.id);for(const name of e.aliases||[])map.set(name,e.id);if(e.title.startsWith('The '))map.set(e.title.slice(4),e.id)}for(const [name,id]of Object.entries({'Council':'council','Concord':'concord','Hunters':'hunters','Armada':'armada','University':'university','Aethyn':'aethyn','Cindren':'cindren','Galven':'galven','Liriath':'liriath','Florians':'florians','Vorthani':'vorthani','Tarvan':'tarvan','Pocchin':'pocchin','Sporrn':'sporrn','Chartwrights':'chartwrights','King Tide':'king-tide','Still Days':'calendar','sea-pacts':'sea-pacts','saurians':'saurians','aurocs':'aurocs'}))map.set(name,id);aliases=[...map].sort((a,b)=>b[0].length-a[0].length)}
 function linkify(text,current){
- const valid=aliases.filter(([,id])=>id!==current&&Pack2.canRead(id));const re=new RegExp('\\b('+valid.map(([name])=>name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|')+')\\b','gi');let result='',last=0;
- for(const m of text.matchAll(re)){const found=valid.find(([name])=>fold(name)===fold(m[0]));if(!found)continue;result+=esc(text.slice(last,m.index))+`<a class="wiki-link" href="#entry/${found[1]}">${esc(m[0])}</a>`;last=m.index+m[0].length}
+ const valid=aliases.filter(([,id])=>id!==current&&Pack2.canRead(id));
+ const names=valid.map(([name])=>name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|');
+ const fishbread=/\[\[(panpescado)\|fishbread\]\]|\b(fishbread\b(?: \(food\))?|panpescado\b(?: \(comida\))?)/;
+ const re=new RegExp(fishbread.source+(names?'|\\b(?:'+names+')\\b':''),'gi');let result='',last=0;
+ for(const m of text.matchAll(re)){
+  const word=m[1]||m[2];
+  // The food overview also uses the capitalized spelling at the start of its description.
+  const id=word
+   ? (word.includes('(')||word===word.toLowerCase()||current==='food-of-the-islands'?'fishbread-food':'fishbread')
+   : valid.find(([name])=>fold(name)===fold(m[0]))?.[1];
+  if(!id||id===current||!Pack2.canRead(id))continue;
+  result+=esc(text.slice(last,m.index))+'<a class="wiki-link" href="#entry/'+id+'">'+esc(m[0])+'</a>';
+  last=m.index+m[0].length;
+ }
  return emphasis(result+esc(text.slice(last)));
 }
 function emphasis(html){return html.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g,'$1<em>$2</em>')}
@@ -431,6 +443,8 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "fishbread": ["folk", "Fishbread sleeps on the highest of the Warm Steps of Ixtalu beside an offering of fishbread.", "Panpescado duerme en el escalón más alto de los Escalones Tibios de Ixtalu, junto a un panpescado que le dejaron de ofrenda.", "fishbread-cat-approved-v1"],
+ "fishbread-food": ["scenes", "A Jakupur fishbread with grilled river fish, red pepper and herbs, served in a leaf.", "Panpescado de Jakupur con pescado de río a la brasa, ají rojo y hierbas, servido en una hoja.", "fishbread-jakupur-approved-v1"],
  "coinage": ["scenes", "The four coins of Kalvatar: a holed copper Bit, a silver Tide, a gold Anchor, and a square Orsal stamped with the sun face of Ors.", "Las cuatro monedas de Kalvatar: una Ola de cobre perforada, una Marea de plata, un Ancla de oro y un Orsal cuadrado con el rostro solar de Ors.", "coinage-approved-v1"],
  "serpents-coil": ["scenes", "A schooner threads the reefs at low tide.", "Una goleta cruza los arrecifes en bajamar.", "serpents-coil", {"width": 1536, "height": 864}],
  "halfwake": ["scenes", "Lanterns reflect in the glass vault above Halfwake.", "Los faroles se reflejan en la bóveda de vidrio de Halfwake.", "halfwake", {"width": 1536, "height": 864}],
@@ -516,6 +530,10 @@ const entryIllustrations = {
  'sunhold': ['scenes', 'Two workers lift a block of pressed brightleaf on Sunhold’s terraces.', 'Dos trabajadores levantan un bloque de brightleaf prensado en las terrazas de Sunhold.']
 };
 const galleryScenes = {
+ "fishbread-food": [
+  ["fishbread-goldwind-approved-v1", "Goldwind", "Ventoro", "Grilled sea fish with spiced oil in toasted flatbread on the Goldwind quay.", "Pescado de mar a la brasa con aceite especiado en pan plano tostado, en el muelle de Ventoro."],
+  ["fishbread-frontier-approved-v1", "Northern Frontier", "Frontera Norte", "Grilled salt fish in dark rye flatbread on a cold northern quay.", "Pescado salado a la parrilla en pan plano de centeno oscuro, en un muelle de la Frontera Norte."]
+ ],
  "sunhold": [["sunhold-vintage","The price of a harvest","El precio de una cosecha","A grower watches a bank appraiser taste the wine.","Un viticultor observa a la tasadora que prueba su vino.",{"width":1536,"height":864}]],
  "crystalhaven": [["crystalhaven-false-lights","The false lights","Las falsas luces","Granny Ylva raises her lantern above the frozen harbor.","Granny Ylva alza su farol sobre el puerto helado.",{"width":1536,"height":864}]],
  "zalkareth": [["zalkareth-upriver","What comes upriver","Lo que sube por el río","An Orka relic arrives under cover of rain.","Una reliquia Orka llega bajo la lluvia.",{"width":1536,"height":864}]],
@@ -596,6 +614,58 @@ const gallerySectionTitles = {
 };
 const artSectionsByEntry = new Map();
 let availableGoldwindArt = new Set();
+function addFishbreadEntry(input, spanish) {
+ const food = {
+  id: 'fishbread-food',
+  title: 'Fishbread (food)',
+  category: 'culture',
+  region: 'All regions',
+  subtitle: 'A bite from the quay',
+  summary: 'Hot grilled fish folded into flatbread. A Bit buys one.',
+  sections: [{title:'At the quay', paragraphs:['A quick street meal across the islands. The cook splits the hot grilled fish straight into a flatbread and folds it to eat on the go.']}],
+  facts: [['Price','One Bit']],
+  source: 'Kalvatar Library · 175 EC',
+  related: ['food-of-the-islands','coinage','fishbread']
+ };
+ input.push(food);
+ spanish[food.id] = {
+  title: 'Panpescado (comida)',
+  subtitle: 'Un bocado del muelle',
+  summary: 'Pescado caliente a la parrilla envuelto en pan plano. Una Ola compra uno.',
+  sections: [{title:'En el muelle', paragraphs:['Una comida callejera rápida en todas las islas. El cocinero abre el pescado recién salido de la parrilla, lo mete en un pan plano y dobla el pan para comerlo al paso.']}],
+  facts: [['Precio','Una Ola']]
+ };
+
+ // These corrections live alongside the illustrations so the generated lore files can be rebuilt as usual.
+ const spellPanpescado = text => text.replace(/\bpan de pescado\b/gi, match => match.startsWith('P') ? 'Panpescado' : 'panpescado');
+ for (const id of ['coinage','coins-and-prices','food-of-the-islands','fishbread']) {
+  const copy = spanish[id];
+  if (!copy) continue;
+  if (copy.summary) copy.summary = spellPanpescado(copy.summary);
+  for (const section of copy.sections || []) {
+   if (section.paragraphs) section.paragraphs = section.paragraphs.map(spellPanpescado);
+   if (section.list) section.list = section.list.map(spellPanpescado);
+  }
+  if (copy.facts) copy.facts = copy.facts.map(([label,value]) => [label,spellPanpescado(value)]);
+ }
+ const cat = input.find(entry => entry.id === 'fishbread');
+ if (!cat) return;
+ cat.related = [...new Set([food.id, ...(cat.related || [])])];
+ cat.sections[0].paragraphs = cat.sections[0].paragraphs.map(line =>
+  line.replace('because that is what they leave him.', 'because they leave him fishbread.'));
+ const catEs = spanish[cat.id];
+ if (!catEs) return;
+ catEs.title = 'Panpescado';
+ for (const section of catEs.sections || []) {
+  section.paragraphs = section.paragraphs.map(line =>
+   line.replace('porque eso es lo que le dejan.', 'porque le dejan panpescado de ofrenda.'));
+ }
+ // Keep any untranslated GM sections reachable through the same secret controls.
+ if (cat.translations?.es === 'pending') {
+  catEs.sections.push(...cat.sections.filter(section => section.secret));
+  cat.translations.es = 'complete';
+ }
+}
 function applyEntryIllustrations(entries) {
  for (const entry of entries) {
   const placements = new Map();
@@ -637,6 +707,8 @@ function applyEntryIllustrations(entries) {
  availableGoldwindArt = new Set((await Promise.all(galleryScenes.goldwind.map(async ([filename])=>{
   try{const r=await fetch('assets/scenes/'+filename+'-480.webp',{method:'HEAD'});return r.ok?filename:null}catch{return null}
  }))).filter(Boolean));
+ await Pack2.ready;
+ addFishbreadEntry(input, Pack2.data.entries_es);
  applyEntryIllustrations(input);entries=await Pack2.prepare(input);await window.AtlasLibrary?.ready;byId=Object.fromEntries(entries.map(e=>[e.id,e]));
  const optional=async name=>{try{const r=await fetch(name+'?v=93');const data=r.ok?await r.json():[];return Array.isArray(data)?data:[]}catch{return []}};
  [rumors,timeline]=await Promise.all([optional('rumors.json'),optional('timeline.json')]);
