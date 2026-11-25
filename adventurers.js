@@ -1117,23 +1117,29 @@ window.Adventurers = (() => {
   if(n.still) return t('in the Still Days, which belong to no god', 'en los Días Quietos, que no son de ningún dios') + (n.outside && n.outside.month ? t('; their mother named them for Eo the next morning', '; su madre le puso el nombre de Eo a la mañana siguiente') : '');
   return `${linkTo('month-names', m[0])}, ${t('of', 'de')} ${h(L(m.slice(1, 3)))}. <em>${h(L(m.slice(3, 5)))}</em>`;
  }
+ /* One person on one sheet, in five parts instead of one long list: the first impression (what the table sees and hears), who they are,
+    what drives them, their world, and what to do with them in the scene. The Game Master's secrets stay folded away. */
  function npcSheet(n, id) {
   const N = data.folk.npc, at = N.attitudes[n.attitude], fight = N.fights[n.job.fight];
   const head = [npcPeople(n), h(npcGender(n)), h(npcAge(n)), h(npcTier(n))].join(' · ');
   const look = [n.build, ...n.looks, n.feature].filter(Boolean).map(x => Lg(x, n)).join('; ');
   const outsideNote = n.outside ? t(' Born outside a house, they carry the month instead of a family name.', ' Nació fuera de una casa, así que lleva el mes en lugar de un apellido.') : '';
-  return `<article class="adv-sheet" id="${id}"><header><p class="adv-sheet-kicker">${head}</p><h3 class="adv-sheet-name">${h(npcName(n))}</h3>
+  const attName = cap1(isEs() ? (n.form === 'fem' ? at[4] : at[1]) : at[0]);
+  const card = (cls, title, rows) => `<section class="npc-card ${cls}"><h4>${title}</h4><dl>${rows.join('')}</dl></section>`;
+  return `<article class="adv-sheet npc-sheet" id="${id}"><header><p class="adv-sheet-kicker">${head}</p><h3 class="adv-sheet-name">${h(npcName(n))}</h3>
   <p class="adv-sheet-sub">${npcJob(n)}, ${npcFrom(n)} · ${h(regionName(n.region))}</p></header>
-  <dl>${dd(t('Born', 'Nació'), npcBorn(n) + h(outsideNote))}${dd(t('Look', 'Aspecto'), h(cap1(look)))}${dd(t('Dress', 'Ropa'), h(cap1(L(n.dress))) + '; ' + h(L(n.tierLook)))}
-  ${dd(t('Voice and habit', 'Voz y manía'), h(cap1(L(n.voice))) + '; ' + h(L(n.manner)))}${dd(t('Personality', 'Personalidad'), h(cap1(n.traits.map(x => Lg(x, n)).join(t(' and ', ' y ')))))}
-  ${dd(t('Ideal', 'Ideal'), h(L(n.ideal)))}${dd(t('Bond', 'Vínculo'), h(cap1(L(n.bond))))}${dd(t('Flaw', 'Defecto'), h(cap1(L(n.flaw))))}
-  ${dd(t('Wants', 'Quiere'), h(cap1(L(n.want))))}${dd(t('Fears', 'Teme'), h(cap1(L(n.fear))))}${dd(t('Affiliation', 'Afiliación'), cap1(npcAff(n)))}
-  ${dd(t('Faith', 'Fe'), n.faith.link ? linkTo(n.faith.link, cap1(L(n.faith.pair))) : h(cap1(L(n.faith.pair))))}${dd(t('Family', 'Familia'), n.family ? h(cap1(isEs() && n.form === 'fem' ? n.family[3] : L(n.family))) : '')}
-  ${dd(t('Their cup', 'Su trago'), n.drink ? h(cap1(L(n.drink))) : '')}${dd(t('Pastime', 'Pasatiempo'), n.pastime ? h(cap1(L(n.pastime))) : '')}
-  ${dd(t('Companion', 'Compañero'), n.companion ? linkTo(n.companion) : t('none, for now', 'ninguno, por ahora'))}${dd(t('Where to find them', 'Dónde encontrarlo'), h(cap1(L(n.haunt))))}
-  ${dd(t('In their pockets', 'En los bolsillos'), h(coin(n.coin / 100)) + '; ' + h(n.pockets.map(L).join('; ')))}
-  ${dd(t('Toward the party', 'Con el grupo'), `<strong>${h(cap1(isEs() ? (n.form === 'fem' ? at[4] : at[1]) : at[0]))}</strong>: ${h(isEs() ? at[3] : at[2])}`)}${dd(t('Hook', 'Gancho'), h(cap1(L(n.hook))))}
-  ${dd(t('If it comes to a fight', 'Si hay pelea'), `${h(fight[0])} (${t('CR', 'VD')} ${h(fight[1])}), ${t('the nearest stat block in the 2024 rules', 'el stat block más cercano de las reglas de 2024')}`)}</dl>
+  <section class="npc-glance"><h4>${t('First impression', 'Primera impresión')}</h4><dl>${dd(t('Look', 'Aspecto'), h(cap1(look)))}${dd(t('Dress', 'Ropa'), h(cap1(L(n.dress))) + '; ' + h(L(n.tierLook)))}${dd(t('Voice and habit', 'Voz y manía'), h(cap1(L(n.voice))) + '; ' + h(L(n.manner)))}</dl></section>
+  <div class="npc-grid"><div class="npc-col">
+  ${card('npc-who', t('Who they are', 'Quién es'), [dd(t('Personality', 'Personalidad'), h(cap1(n.traits.map(x => Lg(x, n)).join(t(' and ', ' y '))))), dd(t('Ideal', 'Ideal'), h(cap1(L(n.ideal)))), dd(t('Bond', 'Vínculo'), h(cap1(L(n.bond)))), dd(t('Flaw', 'Defecto'), h(cap1(L(n.flaw)))), dd(t('Family', 'Familia'), n.family ? h(cap1(isEs() && n.form === 'fem' ? n.family[3] : L(n.family))) : '')])}
+  ${card('npc-drive', t('What drives them', 'Qué lo mueve'), [dd(t('Wants', 'Quiere'), h(cap1(L(n.want)))), dd(t('Fears', 'Teme'), h(cap1(L(n.fear)))), dd(t('Hook', 'Gancho'), h(cap1(L(n.hook))))])}
+  </div><div class="npc-col">
+  ${card('npc-world', t('Their world', 'Su mundo'), [dd(t('Born', 'Nació'), npcBorn(n) + h(outsideNote)), dd(t('Affiliation', 'Afiliación'), cap1(npcAff(n))), dd(t('Faith', 'Fe'), n.faith.link ? linkTo(n.faith.link, cap1(L(n.faith.pair))) : h(cap1(L(n.faith.pair)))),
+   dd(t('Companion', 'Compañero'), n.companion ? linkTo(n.companion) : t('none, for now', 'ninguno, por ahora')),
+   dd(t('Their cup', 'Su trago'), n.drink ? h(cap1(L(n.drink))) : ''), dd(t('Pastime', 'Pasatiempo'), n.pastime ? h(cap1(L(n.pastime))) : '')])}
+  ${card('npc-scene', t('In the scene', 'En escena'), [dd(t('Toward the party', 'Con el grupo'), `<span class="npc-att npc-att-${n.attitude}">${h(attName)}</span> ${h(isEs() ? at[3] : at[2])}`), dd(t('Where to find them', 'Dónde encontrarlo'), h(cap1(L(n.haunt)))),
+   dd(t('In their pockets', 'En los bolsillos'), h(coin(n.coin / 100)) + '; ' + h(n.pockets.map(L).join('; '))),
+   dd(t('If it comes to a fight', 'Si hay pelea'), `${h(fight[0])} (${t('CR', 'VD')} ${h(fight[1])}), ${t('the nearest stat block in the 2024 rules', 'el stat block más cercano de las reglas de 2024')}`)])}
+  </div></div>
   <details class="adv-gm"><summary>${t('For the Game Master', 'Para el Máster')}</summary><dl>${dd(t('Secret', 'Secreto'), h(cap1(L(n.secret))))}
   ${dd(t('A tie they do not mention', 'Un lazo del que no habla'), n.hidden ? linkTo(n.hidden.link, cap1(LO(n.hidden))) : t('none', 'ninguno'))}</dl></details></article>`;
  }
@@ -1465,9 +1471,43 @@ window.Adventurers = (() => {
   return html;
  }
 
+ /* The weight of a cargo and the ship it needs. A ton is 2,000 pounds. The hulls are the Ship's purse's: a gig carries half a ton,
+    a smack five, a coaster forty, an ocean merchantman two hundred; more than that is a fleet. */
+ const TR_MAX = 10, TR_LB = 2000, TR_SHIPS = ['gig', 'smack', 'coaster', 'merchantman'];
+ const trGood = id => data.trade.goods.find(g => g.id === id);
+ const trNum = n => String(n).replace('.', isEs() ? ',' : '.');
+ const trN = n => trNum(n >= 100 ? Math.round(n) : Math.round(n * 10) / 10);
+ const trTons = l => Math.max(1, Math.round(+l.qty || 1)) / trGood(l.good).per_ton;
+ function trWeight(tons) {  // 10 tons, 1 ton, 250 lb
+  if(tons >= 0.1) {const n = tons >= 100 ? Math.round(tons) : Math.round(tons * 10) / 10; return `${trNum(n)} ${n === 1 ? t('ton', 'tonelada') : t('tons', 'toneladas')}`;}
+  const lb = Math.round(tons * TR_LB);
+  return lb < 1 ? t('under a pound', 'menos de una libra') : `${lb} ${t('lb', 'lb')}`;
+ }
+ const trUnit = g => g.per_ton >= 1 ? `${trN(g.per_ton)} ${t('to the ton', 'por tonelada')}` : `${trN(1 / g.per_ton)} ${t('tons each', 'toneladas cada uno')}`;
+ function trFleet(tons) {
+  tons = Math.round(tons * 10000) / 10000;
+  const P = data.trade.purse, hulls = TR_SHIPS.map(id => P.hulls.find(x => x[0] === id)).sort((a, b) => a[5] - b[5]);
+  const big = hulls[hulls.length - 1], count = new Map(), add = (hl, n) => count.set(hl, (count.get(hl) || 0) + n);
+  let left = tons;
+  if(left > big[5]) {const n = Math.floor(left / big[5]); add(big, n); left -= n * big[5];}
+  if(left > 1e-9) add(hulls.find(x => x[5] >= left) || big, 1);
+  return [...count].map(([hull, n]) => ({hull, n}));
+ }
+ function trHoldHtml(tons) {  // the weight, and the ship that carries it
+  if(!(tons > 0)) return '';
+  const fleet = trFleet(tons), hold = fleet.reduce((a, f) => a + f.n * f.hull[5], 0), crew = fleet.reduce((a, f) => a + f.n * f.hull[4][2], 0);
+  const pct = Math.max(1, Math.min(100, Math.round(tons / hold * 100)));
+  const ships = fleet.map(f => (f.n > 1 ? f.n + ' × ' : '') + h(L(f.hull.slice(1, 3)))).join(' + ');
+  const many = fleet.length > 1 || fleet[0].n > 1;
+  return `<div class="tr-hold"><div class="tr-stat"><span class="tr-k">${t('Weight', 'Peso')}</span><strong class="tr-big">${h(trWeight(tons))} ${t('of cargo', 'de carga')}</strong></div>
+  <div class="tr-stat"><span class="tr-k">${many ? t('Ships you need', 'Barcos que necesitas') : t('Ship you need', 'Barco que necesitas')}</span><strong>${ships}</strong><span class="adv-meta">${h(trWeight(hold))} ${t('of hold', 'de bodega')}, ${pct}% ${t('full', 'llena')} · ${t('a crew of about', 'una tripulación de unos')} ${crew}</span></div>
+  <div class="tr-bar" role="img" aria-label="${pct}% ${t('of the hold', 'de la bodega')}"><span style="width:${pct}%"></span></div></div>`;
+ }
+
  /* Cargo and trade (the DM's word, 23 November): buy in one port, sell in another. Prices, freight, insurance and dues from Volume
-    XXI; the days at sea from the Passages. "Price it" gives the plain arithmetic; "Sail" rolls the markets and the sea. Data: "trade". */
- const tr = {from: 'southhaven', to: 'goldwind', good: 'coffee', qty: 20, way: 'convoy', insure: true, escort: 'none', king: false, out: null};
+    XXI; the days at sea from the Passages. A manifest of up to ten cargoes sails in one hold. "Price it" gives the plain arithmetic;
+    "Sail" rolls the markets and the sea. Data: "trade". */
+ const tr = {from: 'southhaven', to: 'goldwind', lines: [{good: 'coffee', qty: 20}], way: 'convoy', insure: true, escort: 'none', king: false, out: null};
  const trPort = id => data.travel.ports.find(p => p.id === id);
  const trPortName = id => canSee(id) ? titleOf(id) : (trPort(id)?.name || id);
  const trRegion = id => data.trade.regions.indexOf(trPort(id)?.region);
@@ -1499,61 +1539,84 @@ window.Adventurers = (() => {
  const roll2 = () => 2 + Math.floor(Math.random() * 6) + Math.floor(Math.random() * 6);
  const trMarket = n => data.trade.market.find(m => n <= m[0]);
  function trRun(roll) {
-  const T = data.trade, g = T.goods.find(x => x.id === tr.good), way = T.ways.find(w => w[0] === tr.way), esc = T.escorts.find(e => e[0] === tr.escort);
-  const ra = trRegion(tr.from), rb = trRegion(tr.to), qty = Math.max(1, Math.round(+tr.qty || 1));
-  const o = {g, way, esc, qty, roll, notes: []};
+  const T = data.trade, way = T.ways.find(w => w[0] === tr.way), esc = T.escorts.find(e => e[0] === tr.escort);
   if(tr.from === tr.to) return {same: true};
-  o.buyUnit = g.prices[ra]; o.sellUnit = g.prices[rb];
-  if(o.buyUnit === null) return {nobuy: true, g};
-  if(o.sellUnit === null) return {nosell: true, g};
-  const baseDays = trDays(tr.from, tr.to);
+  const ra = trRegion(tr.from), rb = trRegion(tr.to), baseDays = trDays(tr.from, tr.to);
   if(baseDays === null) return {noroute: true};
+  const want = new Map();  // the same cargo on two lines is one cargo
+  tr.lines.forEach(l => want.set(l.good, (want.get(l.good) || 0) + Math.max(1, Math.round(+l.qty || 1))));
+  const rows = [], skipped = [];
+  want.forEach((qty, id) => {
+   const g = trGood(id), buyUnit = g.prices[ra], sellUnit = g.prices[rb];
+   if(buyUnit === null) {skipped.push({g, why: 'nobuy'}); return;}
+   if(sellUnit === null) {skipped.push({g, why: 'nosell'}); return;}
+   const r = {g, qty, buyUnit, sellUnit, tons: qty / g.per_ton};
+   if(roll) {r.buyM = trMarket(roll2()); r.sellM = trMarket(roll2());}
+   r.cost = Math.round(buyUnit * qty * (roll ? r.buyM[1] : 1));
+   rows.push(r);
+  });
+  if(!rows.length) return {empty: true, skipped};
+  const o = {rows, skipped, way, esc, roll, notes: []};
+  o.tons = rows.reduce((a, r) => a + r.tons, 0);
+  o.cost = rows.reduce((a, r) => a + r.cost, 0);
   o.days = Math.max(1, Math.round(baseDays * way[4]));
   o.voyage = trVoyage(tr.from, tr.to);
-  if(roll) {o.buyRoll = roll2(); o.sellRoll = roll2(); o.buyM = trMarket(o.buyRoll); o.sellM = trMarket(o.sellRoll);}
-  o.cost = Math.round(o.buyUnit * qty * (roll ? o.buyM[1] : 1));
-  o.tons = qty / g.per_ton;
   o.freight = Math.round(trFreight(tr.from, tr.to, baseDays) * way[3] * o.tons);
   o.convoy = tr.way === 'convoy' ? Math.round(T.convoy_money * o.tons) : 0;
   o.premium = tr.insure ? Math.round(o.cost / o.voyage[3] * (tr.king ? 3 : 1)) : 0;
   o.escortCost = esc[3];
   const hidden = trPort(tr.to)?.kind === 'hidden';
-  let sellUnit = o.sellUnit * (roll ? o.sellM[1] : 1) * T.wholesale * (hidden ? T.black : 1);  // a factor at the quay pays three fifths of the market price
+  o.hidden = hidden;
   o.chance = Math.min(90, Math.round(o.voyage[4] * way[5] * (tr.king ? 3 : 1)));
-  let left = 1, extra = 0, lost = false, payout = 0;
-  if(roll && Math.random() * 100 < o.chance) {
+  rows.forEach(r => {r.left = 1;});
+  let extra = 0, lost = false, payout = 0;
+  if(roll && Math.random() * 100 < o.chance) {  // one sea, one piece of trouble, for the whole hold
    const k = Math.floor(Math.random() * 6), ev = T.trouble[k];
    o.trouble = ev;
-   if(ev[0] === 'storm') {const share = (k === 0 ? (1 + Math.floor(Math.random() * 4)) : (2 + Math.floor(Math.random() * 4) + Math.floor(Math.random() * 4))) / 10 * (g.fragile ? 2 : 1); left = Math.max(0, 1 - share); extra = 1 + Math.floor(Math.random() * 6);}
-   else if(ev[0] === 'raiders') {o.raiders = T.raiders[data.trade.regions[Math.random() < .5 ? ra : rb]]; if(Math.random() < esc[4]) {o.taken = chance(.5) ? 'all' : 'fifth'; left = o.taken === 'all' ? 0 : .8;} else o.beaten = true;}
+   if(ev[0] === 'storm') {
+    const share = (k === 0 ? (1 + Math.floor(Math.random() * 4)) : (2 + Math.floor(Math.random() * 4) + Math.floor(Math.random() * 4))) / 10;
+    rows.forEach(r => {r.left = Math.max(0, 1 - share * (r.g.fragile ? 2 : 1));});
+    extra = 1 + Math.floor(Math.random() * 6);
+   }
+   else if(ev[0] === 'raiders') {
+    o.raiders = T.raiders[T.regions[Math.random() < .5 ? ra : rb]];
+    if(Math.random() < esc[4]) {o.taken = chance(.5) ? 'all' : 'fifth'; rows.forEach(r => {r.left = o.taken === 'all' ? 0 : .8;});} else o.beaten = true;
+   }
    else if(ev[0] === 'calm') extra = 2 + Math.floor(Math.random() * 6) + Math.floor(Math.random() * 6);
-   else if(ev[0] === 'inspection') {if(g.company === data.trade.regions[rb] && !hidden) {left = 0; o.seized = true;} else extra = 1;}
-   else if(ev[0] === 'lost') {left = 0; lost = true; if(tr.insure) payout = o.cost;}
+   else if(ev[0] === 'inspection') {
+    const hit = rows.filter(r => r.g.company === T.regions[rb] && !hidden);
+    if(hit.length) {hit.forEach(r => {r.left = 0;}); o.seized = hit.map(r => r.g);} else extra = 1;
+   }
+   else if(ev[0] === 'lost') {rows.forEach(r => {r.left = 0;}); lost = true; if(tr.insure) payout = o.cost;}
   }
   o.days += extra; o.extra = extra; o.lost = lost; o.payout = payout;
-  if(g.spoils && o.days > g.spoils) {const s = Math.min(.9, (o.days - g.spoils) * .02); left *= 1 - s; o.spoiled = s;}
-  if(g.melts) {const s = Math.min(.95, o.days * .015); left *= 1 - s; o.spoiled = s;}
-  o.left = left;
-  o.sale = lost ? 0 : Math.round(sellUnit * qty * left);
+  const wholesale = T.wholesale * (hidden ? T.black : 1);  // a factor at the quay pays three fifths of the market price
+  rows.forEach(r => {
+   const g = r.g;
+   if(g.spoils && o.days > g.spoils) {r.spoiled = Math.min(.9, (o.days - g.spoils) * .02); r.left *= 1 - r.spoiled;}
+   if(g.melts) {r.spoiled = Math.min(.95, o.days * .015); r.left *= 1 - r.spoiled;}
+   r.sale = lost ? 0 : Math.round(r.sellUnit * (roll ? r.sellM[1] : 1) * wholesale * r.qty * r.left);
+  });
+  o.sale = rows.reduce((a, r) => a + r.sale, 0);
   o.kess = tr.to === 'varan-port' ? Math.round(o.sale / T.kess) : 0;
   o.outlay = o.cost + o.freight + o.convoy + o.premium + o.escortCost;
   o.net = o.sale + o.payout - o.outlay - o.kess;
-  o.hidden = hidden;
-  if(g.company && data.trade.regions[rb] === g.company && !hidden) o.notes.push(t('The Charterhouse Company holds the southern salt this year. Selling it outside the Company is smuggling, and the Armada knows it.', 'La Compañía Casacarta tiene la sal del sur este año. Venderla fuera de la Compañía es contrabando, y la Armada lo sabe.'));
-  if(g.armada) o.notes.push(t('A strategic good: the Armada buys first, at a fair price, and everyone else buys what is left.', 'Un bien estratégico: la Armada compra primero, a precio justo, y los demás compran lo que queda.'));
-  if(g.open) o.notes.push(t('Some of these prices are not in Volume XXI: they follow its rule of thumb, a third more for every region crossed, and the ice doubling it.', 'Algunos de estos precios no están en el Volumen XXI: siguen su regla general, un tercio más por cada región que se cruza, y el hielo lo duplica.'));
+  const goods = rows.map(r => r.g);
+  if(goods.some(g => g.company && T.regions[rb] === g.company) && !hidden) o.notes.push(t('The Charterhouse Company holds the southern salt this year. Selling it outside the Company is smuggling, and the Armada knows it.', 'La Compañía Casacarta tiene la sal del sur este año. Venderla fuera de la Compañía es contrabando, y la Armada lo sabe.'));
+  if(goods.some(g => g.armada)) o.notes.push(t('A strategic good: the Armada buys first, at a fair price, and everyone else buys what is left.', 'Un bien estratégico: la Armada compra primero, a precio justo, y los demás compran lo que queda.'));
+  if(goods.some(g => g.open)) o.notes.push(t('Some of these prices are not in Volume XXI: they follow its rule of thumb, a third more for every region crossed, and the ice doubling it.', 'Algunos de estos precios no están en el Volumen XXI: siguen su regla general, un tercio más por cada región que se cruza, y el hielo lo duplica.'));
   o.notes.unshift(t('Sold wholesale to a factor at the quay, at three fifths of the market price: the rest is the factor’s, the warehouse’s and the shopkeeper’s.', 'Vendido al por mayor a un factor en el muelle, a tres quintos del precio de mercado: el resto es del factor, del almacén y del tendero.'));
   if(hidden) o.notes.push(t('A hidden port: no dues and no questions, and the buyers pay three quarters of the price for it.', 'Un puerto oculto: sin impuestos y sin preguntas, y los compradores pagan tres cuartos del precio por eso.'));
   if(tr.way === 'own') o.notes.push(t('Your own ship carries it free; the crew, the rations and the harbor dues are your own affair (the Ship’s purse).', 'Tu propio barco lo lleva gratis; la tripulación, las raciones y los derechos de puerto corren por tu cuenta (la bolsa del barco).'));
+  skipped.forEach(s => o.notes.push(s.why === 'nobuy' ? t(`Left out: nobody sells ${s.g.name[0]} in that region.`, `Se dejó fuera: nadie vende ${s.g.name[1]} en esa región.`) : t(`Left out: nobody buys ${s.g.name[0]} in the port you sell in.`, `Se dejó fuera: nadie compra ${s.g.name[1]} en la región donde vendes.`)));
   return o;
  }
  function trSheet(o) {
   if(o.same) return `<p class="adv-note">${t('Buy and sell in the same port, and the only profit is the walk.', 'Comprar y vender en el mismo puerto, y la única ganancia es la caminata.')}</p>`;
-  if(o.nobuy) return `<p class="adv-note">${t(`Nobody sells ${o.g.name[0]} in that region: there is nothing to buy.`, `Nadie vende ${o.g.name[1]} en esa región: no hay nada que comprar.`)}</p>`;
-  if(o.nosell) return `<p class="adv-note">${t(`Nobody buys ${o.g.name[0]} in that region.`, `Nadie compra ${o.g.name[1]} en esa región.`)}</p>`;
   if(o.noroute) return `<p class="adv-note">${t('No known route between those ports.', 'No hay ruta conocida entre esos puertos.')}</p>`;
+  if(o.empty) return o.skipped.map(s => `<p class="adv-note">${s.why === 'nobuy' ? t(`Nobody sells ${s.g.name[0]} in that region: there is nothing to buy.`, `Nadie vende ${s.g.name[1]} en esa región: no hay nada que comprar.`) : t(`Nobody buys ${s.g.name[0]} in that region.`, `Nadie compra ${s.g.name[1]} en esa región.`)}</p>`).join('');
   const c = b => h(coin(Math.round(b) / 100)), line = (k, v) => dd(k, v);
-  const unit = L(o.g.name), mk = m => m ? ` <span class="adv-meta">${t('market', 'mercado')}: ${h(isEs() ? m[3] : m[2])}</span>` : '';
+  const mk = m => m ? ` · ${t('market', 'mercado')}: ${h(isEs() ? m[3] : m[2])}` : '';
   let what = '';
   if(o.trouble) {
    what = h(L(o.trouble.slice(1, 3)));
@@ -1562,39 +1625,74 @@ window.Adventurers = (() => {
    if(o.lost) what += ' ' + (o.payout ? t('The Reckoners’ Hall pays the cargo’s cost.', 'La Casa de los Tesoreros paga el costo de la carga.') : t('Nothing was insured.', 'No había nada asegurado.'));
    if(o.extra) what += ' ' + t(`${o.extra} more days at sea.`, `${o.extra} días más en el mar.`);
   }
-  const spoil = o.spoiled ? t(`${Math.round(o.spoiled * 100)} in a hundred spoiled or melted on the way.`, `${Math.round(o.spoiled * 100)} de cada cien se echó a perder o se derritió en el camino.`) : '';
+  const n = o.rows.length, cargoes = `${n} ${n === 1 ? t('cargo', 'carga') : t('cargoes', 'cargas')}`;
+  const body = o.rows.map(r => {
+   const spoil = r.spoiled ? ` · ${t(`${Math.round(r.spoiled * 100)} in a hundred spoiled or melted`, `${Math.round(r.spoiled * 100)} de cada cien se echó a perder o se derritió`)}` : '';
+   const sold = o.lost || r.left === 0 ? t('nothing to sell', 'nada que vender') : `${c(r.sale)}<span class="adv-meta">${c(r.sale / Math.max(1, r.qty * r.left))} ${t('each', 'cada uno')}${mk(r.sellM)}${spoil}</span>`;
+   return `<tr><th scope="row" data-label="${t('Cargo', 'Carga')}">${h(cap1(L(r.g.name)))}</th><td data-label="${t('How many', 'Cuántos')}">${r.qty}</td><td data-label="${t('Weight', 'Peso')}">${h(trWeight(r.tons))}</td>
+   <td data-label="${t('Bought', 'Comprado')}">${c(r.cost)}<span class="adv-meta">${c(r.cost / r.qty)} ${t('each', 'cada uno')}${mk(r.buyM)}</span></td><td data-label="${t('Sold', 'Vendido')}">${sold}</td></tr>`;
+  }).join('');
+  const foot = n > 1 ? `<tfoot><tr><th scope="row" data-label="">${t('Total', 'Total')}</th><td data-label=""></td><td data-label="${t('Weight', 'Peso')}">${h(trWeight(o.tons))}</td><td data-label="${t('Bought', 'Comprado')}">${c(o.cost)}</td><td data-label="${t('Sold', 'Vendido')}">${o.lost ? t('nothing to sell', 'nada que vender') : c(o.sale)}</td></tr></tfoot>` : '';
   return `<article class="adv-sheet" id="tr-sheet"><header><p class="adv-sheet-kicker">${h(L(o.voyage.slice(1, 3)))} · ${h(L(o.way.slice(1, 3)))}${tr.king ? ' · ' + t('a King Tide year', 'año de Marea Rey') : ''}</p>
-  <h3 class="adv-sheet-name">${h(trPortName(tr.from))} → ${h(trPortName(tr.to))}</h3><p class="adv-sheet-sub">${o.qty} × ${h(unit)} · ${(n => `${n} ${n === 1 ? t('ton', 'tonelada') : t('tons', 'toneladas')}`)(o.tons >= 1 ? Math.round(o.tons * 10) / 10 : Math.round(o.tons * 100) / 100)} · ${o.days} ${t('days at sea', 'días en el mar')}</p></header><dl>
-  ${line(t('Bought at', 'Comprado a'), `${c(o.cost / o.qty)} ${t('each', 'cada uno')}, ${c(o.cost)}${mk(o.buyM)}`)}
+  <h3 class="adv-sheet-name">${h(trPortName(tr.from))} → ${h(trPortName(tr.to))}</h3><p class="adv-sheet-sub">${cargoes} · ${h(trWeight(o.tons))} ${t('of cargo', 'de carga')} · ${o.days} ${t('days at sea', 'días en el mar')}</p></header>
+  ${trHoldHtml(o.tons)}
+  <div class="tr-table-wrap"><table class="tr-table"><thead><tr><th>${t('Cargo', 'Carga')}</th><th>${t('How many', 'Cuántos')}</th><th>${t('Weight', 'Peso')}</th><th>${t('Bought', 'Comprado')}</th><th>${t('Sold', 'Vendido')}</th></tr></thead><tbody>${body}</tbody>${foot}</table></div>
+  <dl>
   ${line(t('Freight', 'Flete'), o.freight ? c(o.freight) : t('none: it is your own hold', 'ninguno: es tu propia bodega'))}${o.convoy ? line(t('Convoy money', 'Derecho de convoy'), c(o.convoy) + ` <span class="adv-meta">${t('a Tide a ton, to the Council', 'una Marea por tonelada, para el Consejo')}</span>`) : ''}
   ${line(t('Insurance', 'Seguro'), o.premium ? `${c(o.premium)} <span class="adv-meta">${t('one in', 'uno de cada')} ${o.voyage[3]}${tr.king ? t(', tripled', ', triplicado') : ''}</span>` : t('none', 'ninguno'))}
   ${o.escortCost ? line(t('Escort', 'Escolta'), `${c(o.escortCost)} <span class="adv-meta">${h(L(o.esc.slice(1, 3)))}</span>`) : ''}
   ${line(t('Laid out', 'Desembolso'), `<strong>${c(o.outlay)}</strong>`)}
-  ${line(t('The sea', 'El mar'), (o.roll ? (o.trouble ? what : t('A clean passage.', 'Una travesía limpia.')) : t(`One voyage in a hundred like this one meets trouble about ${o.chance} times.`, `De cada cien viajes como este, unos ${o.chance} tienen problemas.`)) + (spoil ? ' ' + spoil : ''))}
-  ${line(t('Sold at', 'Vendido a'), o.lost || o.left === 0 ? t('nothing to sell', 'nada que vender') : `${c(o.sale / Math.max(1, o.qty * o.left))} ${t('each', 'cada uno')}, ${c(o.sale)}${mk(o.sellM)}`)}
+  ${line(t('The sea', 'El mar'), o.roll ? (o.trouble ? what : t('A clean passage.', 'Una travesía limpia.')) : t(`One voyage in a hundred like this one meets trouble about ${o.chance} times.`, `De cada cien viajes como este, unos ${o.chance} tienen problemas.`))}
   ${o.kess ? line(t('Kess’s tenth', 'El diezmo de Kess'), c(o.kess) + ` <span class="adv-meta">${t('the only tax in Varan Port, and never evaded', 'el único impuesto de Puerto Varan, y nunca se evade')}</span>`) : ''}
   ${o.payout ? line(t('The Hall pays', 'La Casa paga'), c(o.payout)) : ''}
   ${line(o.net >= 0 ? t('Profit', 'Ganancia') : t('Loss', 'Pérdida'), `<strong>${c(Math.abs(o.net))}</strong>${o.net > 0 ? ` <span class="adv-meta">${c(o.net / o.days)} ${t('a day at sea', 'por día en el mar')}</span>` : ''}`)}
   ${o.notes.length ? line(t('Notes', 'Notas'), o.notes.map(h).join('<br>')) : ''}</dl></article>`;
  }
+ const trLinesHtml = () => {
+  const goods = data.trade.goods.map(g => [g.id, `${cap1(L(g.name))} (${trUnit(g)})`]);
+  return `<div class="tr-linehead" aria-hidden="true"><span>${t('Cargo', 'Carga')}</span><span>${t('How many', 'Cuántos')}</span><span>${t('Weight', 'Peso')}</span><span></span></div>` + tr.lines.map((l, i) =>
+   `<div class="tr-line"><select class="tr-good" aria-label="${t('Cargo', 'Carga')} ${i + 1}">${goods.map(([v, label]) => `<option value="${h(v)}"${v === l.good ? ' selected' : ''}>${h(label)}</option>`).join('')}</select>
+   <input class="tr-qty" type="number" min="1" max="100000" value="${l.qty}" inputmode="numeric" aria-label="${t('How many', 'Cuántos')} ${i + 1}"><span class="tr-wt">${h(trWeight(trTons(l)))}</span>
+   <button type="button" class="tr-del" data-del="${i}" aria-label="${t('Remove this cargo', 'Quitar esta carga')}"${tr.lines.length > 1 ? '' : ' disabled'}>×</button></div>`).join('');
+ };
  function renderTrade() {
   const T = data.trade, ports = data.travel.ports;
   const portOpts = ports.map(p => [p.id, `${trPortName(p.id)} · ${regionName({'Northern Frontier': 'northern-frontier', 'Central Heartland': 'central-heartland', 'Southern Wilds': 'southern-wilds', 'Icy Expanse': 'icy-expanse'}[p.region])}`]);
+  const total = () => tr.lines.reduce((a, l) => a + trTons(l), 0);
   frame('trade', `<p class="adv-lead">${t('Buy where it is cheap, sail, and sell where it is needed: the islands’ prices, freight by the ton, convoy money, the Reckoners’ premium, and the sea in between.', 'Compra donde es barato, navega, y vende donde hace falta: los precios de las islas, el flete por tonelada, el derecho de convoy, la prima de los Tesoreros, y el mar de por medio.')}</p>
   <section class="adv-panel"><div class="adv-controls">
   <label class="pack-label">${t('Buy in', 'Comprar en')}${sel('tr-from', portOpts, tr.from)}</label>
   <label class="pack-label">${t('Sell in', 'Vender en')}${sel('tr-to', portOpts, tr.to)}</label>
-  <label class="pack-label">${t('Cargo', 'Carga')}${sel('tr-good', T.goods.map(g => [g.id, cap1(L(g.name))]), tr.good)}</label>
-  <label class="pack-label">${t('How many', 'Cuántos')}${num('tr-qty', tr.qty, 1, 100000)}</label>
   <label class="pack-label">${t('How it sails', 'Cómo navega')}${sel('tr-way', T.ways.map(w => [w[0], L(w.slice(1, 3))]), tr.way)}</label>
   <label class="pack-label">${t('Escort', 'Escolta')}${sel('tr-escort', T.escorts.map(e => [e[0], L(e.slice(1, 3))]), tr.escort)}</label>
   <label class="adv-check"><input type="checkbox" id="tr-insure" ${tr.insure ? 'checked' : ''}> ${t('Insure it with the Reckoners’ Hall', 'Asegurarla con la Casa de los Tesoreros')}</label>
   <label class="adv-check"><input type="checkbox" id="tr-king" ${tr.king ? 'checked' : ''}> ${t('A King Tide year', 'Un año de Marea Rey')}</label></div>
+  <h4 class="tr-sub">${t('The hold', 'La bodega')}</h4>
+  <div class="tr-lines" id="tr-lines">${trLinesHtml()}</div>
+  <div class="pack-actions tr-add"><button type="button" class="button cream" id="tr-add"${tr.lines.length >= TR_MAX ? ' disabled' : ''}>+ ${t('Add another cargo', 'Agregar otra carga')}</button></div>
+  <div id="tr-live" aria-live="polite">${trHoldHtml(total())}</div>
   <div class="pack-actions"><button type="button" class="button" id="tr-price">${t('Price it', 'Calcular')}</button><button type="button" class="button cream" id="tr-sail">${t('Sail', 'Zarpar')} <span aria-hidden="true">✦</span></button></div>
-  <div id="tr-out" aria-live="polite">${tr.out ? `<div class="adv-sheet-actions">${copyButton('tr-sheet')}</div>` + trSheet(tr.out) : `<p class="adv-empty">${t('Choose a cargo and two ports. “Price it” does the sums; “Sail” rolls the markets and the sea.', 'Elige una carga y dos puertos. “Calcular” hace las cuentas; “Zarpar” tira los mercados y el mar.')}</p>`}</div>
-  <p class="adv-note">${t('Prices are Volume XXI’s, at home and in Goldwind; freight and duties add about a third for every region crossed, and the ice doubles it. A convoy is a third slower and safer; a fast hull a third quicker, at double the freight.', 'Los precios son los del Volumen XXI, en origen y en Ventoro; el flete y los impuestos suman cerca de un tercio por cada región que se cruza, y el hielo lo duplica. Un convoy es un tercio más lento y más seguro; un casco rápido, un tercio más veloz, al doble del flete.')} <a href="#entry/twelve-flags">${t('The Twelve Flags', 'Las Doce Banderas')}</a> · <a href="#adventurers/hall">${t('The Reckoners’ Hall', 'La Casa de los Tesoreros')}</a> · <a href="#adventurers/travel">${t('Passages', 'Travesías')}</a></p></section>`);
-  const read = () => {tr.from = $('#tr-from').value; tr.to = $('#tr-to').value; tr.good = $('#tr-good').value; tr.qty = Math.max(1, Math.round(+$('#tr-qty').value || 1)); tr.way = $('#tr-way').value; tr.escort = $('#tr-escort').value; tr.insure = $('#tr-insure').checked; tr.king = $('#tr-king').checked;};
-  const show = roll => {read(); tr.out = trRun(roll); $('#tr-out').innerHTML = (tr.out.g && !tr.out.nobuy && !tr.out.nosell ? `<div class="adv-sheet-actions">${copyButton('tr-sheet')}</div>` : '') + trSheet(tr.out);};
+  <div id="tr-out" aria-live="polite">${tr.out ? (tr.out.rows ? `<div class="adv-sheet-actions">${copyButton('tr-sheet')}</div>` : '') + trSheet(tr.out) : `<p class="adv-empty">${t('Fill the hold with up to ten cargoes and choose two ports. “Price it” does the sums; “Sail” rolls the markets and the sea.', 'Llena la bodega con hasta diez cargas y elige dos puertos. “Calcular” hace las cuentas; “Zarpar” tira los mercados y el mar.')}</p>`}</div>
+  <p class="adv-note">${t('Prices are Volume XXI’s, at home and in Goldwind; freight and duties add about a third for every region crossed, and the ice doubles it. A convoy is a third slower and safer; a fast hull a third quicker, at double the freight. A ton is 2,000 pounds. A rowing gig carries half a ton, a fishing smack five, a coaster forty and an ocean merchantman two hundred: more than that is a fleet.', 'Los precios son los del Volumen XXI, en origen y en Ventoro; el flete y los impuestos suman cerca de un tercio por cada región que se cruza, y el hielo lo duplica. Un convoy es un tercio más lento y más seguro; un casco rápido, un tercio más veloz, al doble del flete. Una tonelada son 2.000 libras. Un bote de remos lleva media tonelada, una barca de pesca cinco, un costero cuarenta y un mercante de altura doscientas: más que eso es una flota.')} <a href="#entry/twelve-flags">${t('The Twelve Flags', 'Las Doce Banderas')}</a> · <a href="#adventurers/hall">${t('The Reckoners’ Hall', 'La Casa de los Tesoreros')}</a> · <a href="#adventurers/travel">${t('Passages', 'Travesías')}</a></p></section>`);
+  const rowsEl = () => document.querySelectorAll('#tr-lines .tr-line');
+  const readLines = () => [...rowsEl()].map(r => ({good: r.querySelector('.tr-good').value, qty: Math.max(1, Math.round(+r.querySelector('.tr-qty').value || 1))}));
+  const live = () => {  // the weight of each line, the whole hold, and the ship that carries it
+   const ls = readLines();
+   rowsEl().forEach((r, i) => {r.querySelector('.tr-wt').textContent = trWeight(trTons(ls[i]));});
+   $('#tr-live').innerHTML = trHoldHtml(ls.reduce((a, l) => a + trTons(l), 0));
+  };
+  const redraw = () => {$('#tr-lines').innerHTML = trLinesHtml(); $('#tr-add').disabled = tr.lines.length >= TR_MAX; live();};
+  const read = () => {tr.from = $('#tr-from').value; tr.to = $('#tr-to').value; tr.lines = readLines(); tr.way = $('#tr-way').value; tr.escort = $('#tr-escort').value; tr.insure = $('#tr-insure').checked; tr.king = $('#tr-king').checked;};
+  const show = roll => {read(); tr.out = trRun(roll); $('#tr-out').innerHTML = (tr.out.rows ? `<div class="adv-sheet-actions">${copyButton('tr-sheet')}</div>` : '') + trSheet(tr.out);};
+  $('#tr-lines').addEventListener('input', live);
+  $('#tr-lines').addEventListener('click', e => {const b = e.target.closest('[data-del]'); if(!b || tr.lines.length < 2) return; tr.lines = readLines(); tr.lines.splice(+b.dataset.del, 1); redraw();});
+  $('#tr-add').addEventListener('click', () => {
+   tr.lines = readLines();
+   if(tr.lines.length >= TR_MAX) return;
+   tr.lines.push({good: (T.goods.find(g => !tr.lines.some(l => l.good === g.id)) || T.goods[0]).id, qty: 1});
+   redraw();
+   const last = rowsEl()[tr.lines.length - 1]; if(last) last.querySelector('.tr-good').focus();
+  });
   $('#tr-price').addEventListener('click', () => show(false));
   $('#tr-sail').addEventListener('click', () => show(true));
   bindCopy($('#tr-out'));
