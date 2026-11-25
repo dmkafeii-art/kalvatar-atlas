@@ -13610,7 +13610,7 @@
      ],
      "drink": [
       "starwater, brightleaf steeped overnight under the moons",
-      "agua de estrellas, brightleaf reposado toda la noche bajo las lunas"
+      "agua de estrellas, hoja clara reposada toda la noche bajo las lunas"
      ],
      "pastime": [
       [
@@ -13766,7 +13766,7 @@
      ],
      "drink": [
       "smoke-tea, brightleaf smoked over pine",
-      "té ahumado, brightleaf ahumado sobre pino"
+      "té ahumado, hoja clara ahumada sobre pino"
      ],
      "pastime": [
       [
@@ -14062,7 +14062,7 @@
      ],
      "drink": [
       "cider, small beer, and brightleaf",
-      "sidra, cerveza floja y brightleaf"
+      "sidra, cerveza floja y hoja clara"
      ],
      "pastime": [
       [
@@ -14966,7 +14966,7 @@
      ],
      "drink": [
       "icebrand, the only thing said to make them smile",
-      "icebrand, lo único que dicen que los hace sonreír"
+      "ardehielo, lo único que dicen que los hace sonreír"
      ],
      "pastime": [
       [
@@ -15198,7 +15198,7 @@
      ],
      "drink": [
       "icebrand, or fat-tea",
-      "icebrand, o té de grasa"
+      "ardehielo, o té de grasa"
      ],
      "pastime": [
       [
@@ -18722,7 +18722,7 @@
     ],
     [
      "husky, from too much southleaf",
-     "carrasposa, de tanto southleaf"
+     "carrasposa, de tanta hoja del sur"
     ],
     [
      "warm, with a laugh in it",
@@ -18948,7 +18948,7 @@
     ],
     [
      "a leaf-brick of brightleaf",
-     "un ladrillo de brightleaf"
+     "un ladrillo de hoja clara"
     ],
     [
      "a twist of wrackcandy",
@@ -19012,7 +19012,7 @@
     ],
     [
      "a pipe and a pinch of southleaf",
-     "una pipa y una pizca de southleaf"
+     "una pipa y una pizca de hoja del sur"
     ],
     [
      "a list of names, half crossed out",
@@ -20942,7 +20942,7 @@
      ],
      [
       "the pale cup of brightleaf, with a curl of citrus",
-      "la taza pálida de brightleaf, con una cáscara de cítrico"
+      "la taza pálida de hoja clara, con una cáscara de cítrico"
      ],
      [
       "Southhaven coffee, at two Bits the cup",
@@ -20964,13 +20964,13 @@
      ],
      [
       "pepperleaf: brightleaf with cacao nib and a split pepper",
-      "hoja picante: brightleaf con cacao y un ají partido"
+      "hoja picante: hoja clara con cacao y un ají partido"
      ]
     ],
     "icy-expanse": [
      [
       "icebrand, smoked over whale-oil fires",
-      "icebrand, ahumado sobre fuegos de aceite de ballena"
+      "ardehielo, ahumado sobre fuegos de aceite de ballena"
      ],
      [
       "fat-tea, churned with seal fat and salt",
@@ -21505,7 +21505,7 @@
       ],
       [
        "brightleaf and citrus peel",
-       "brightleaf y cáscara de cítrico"
+       "hoja clara y cáscara de cítrico"
       ],
       [
        "wet stone and the canal",
@@ -27054,7 +27054,7 @@
     "id": "brightleaf",
     "name": [
      "brightleaf, a crate of twenty bricks",
-     "brightleaf, una caja de veinte ladrillos"
+     "hoja clara, una caja de veinte ladrillos"
     ],
     "kind": "staple",
     "prices": [
@@ -27087,7 +27087,7 @@
     "id": "icebrand",
     "name": [
      "icebrand, a case of twelve",
-     "icebrand, una caja de doce"
+     "ardehielo, una caja de doce"
     ],
     "kind": "luxury",
     "prices": [
@@ -27153,7 +27153,7 @@
     "id": "southleaf",
     "name": [
      "southleaf pipeweed, a bale of a hundred twists",
-     "southleaf, un fardo de cien rollos"
+     "hoja del sur, un fardo de cien rollos"
     ],
     "kind": "staple",
     "prices": [
@@ -30304,7 +30304,7 @@
      "brightleaf",
      [
       "brightleaf",
-      "brightleaf"
+      "hoja clara"
      ],
      "#6e9b5a"
     ],

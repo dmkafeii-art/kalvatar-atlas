@@ -709,7 +709,7 @@ window.Adventurers = (() => {
  const talk = {cap: '', out: []};
  const shipName = c => c.ship.replace(/^(The|El|La|Los|Las) /, '');
  const theShip = c => `${isEs() ? (c.ship.match(/^(El|La|Los|Las) /)?.[1].toLowerCase() || 'el') : 'the'} *${shipName(c)}*`;
- const nf = n => n.toLocaleString(isEs() ? 'es-ES' : 'en-US');
+ const nf = n => n.toLocaleString('en-US');  // the DM's rule, both languages: 25,000
  const nameAt = (c, start) => {const n = c.name.replace(/, "[^"]*"$/, ''); return start ? n : n.replace(/^The /, 'the ').replace(/^(Los|Las|El|La|Capitán) /, x => x.toLowerCase());};
  const poss = (c, start) => {const n = nameAt(c, start); return /s$/.test(n) ? n + '’' : /"$/.test(n) ? n + '’s' : n + '’s';};
  const cap1 = s => s.charAt(0).toUpperCase() + s.slice(1);
@@ -1475,7 +1475,7 @@ window.Adventurers = (() => {
     a smack five, a coaster forty, an ocean merchantman two hundred; more than that is a fleet. */
  const TR_MAX = 10, TR_LB = 2000, TR_SHIPS = ['gig', 'smack', 'coaster', 'merchantman'];
  const trGood = id => data.trade.goods.find(g => g.id === id);
- const trNum = n => String(n).replace('.', isEs() ? ',' : '.');
+ const trNum = n => n.toLocaleString('en-US');  // the DM's rule, both languages: 2,500 and 0.5
  const trN = n => trNum(n >= 100 ? Math.round(n) : Math.round(n * 10) / 10);
  const trTons = l => Math.max(1, Math.round(+l.qty || 1)) / trGood(l.good).per_ton;
  function trWeight(tons) {  // 10 tons, 1 ton, 250 lb
@@ -1673,7 +1673,7 @@ window.Adventurers = (() => {
   <div id="tr-live" aria-live="polite">${trHoldHtml(total())}</div>
   <div class="pack-actions"><button type="button" class="button" id="tr-price">${t('Price it', 'Calcular')}</button><button type="button" class="button cream" id="tr-sail">${t('Sail', 'Zarpar')} <span aria-hidden="true">✦</span></button></div>
   <div id="tr-out" aria-live="polite">${tr.out ? (tr.out.rows ? `<div class="adv-sheet-actions">${copyButton('tr-sheet')}</div>` : '') + trSheet(tr.out) : `<p class="adv-empty">${t('Fill the hold with up to ten cargoes and choose two ports. “Price it” does the sums; “Sail” rolls the markets and the sea.', 'Llena la bodega con hasta diez cargas y elige dos puertos. “Calcular” hace las cuentas; “Zarpar” tira los mercados y el mar.')}</p>`}</div>
-  <p class="adv-note">${t('Prices are Volume XXI’s, at home and in Goldwind; freight and duties add about a third for every region crossed, and the ice doubles it. A convoy is a third slower and safer; a fast hull a third quicker, at double the freight. A ton is 2,000 pounds. A rowing gig carries half a ton, a fishing smack five, a coaster forty and an ocean merchantman two hundred: more than that is a fleet.', 'Los precios son los del Volumen XXI, en origen y en Ventoro; el flete y los impuestos suman cerca de un tercio por cada región que se cruza, y el hielo lo duplica. Un convoy es un tercio más lento y más seguro; un casco rápido, un tercio más veloz, al doble del flete. Una tonelada son 2.000 libras. Un bote de remos lleva media tonelada, una barca de pesca cinco, un costero cuarenta y un mercante de altura doscientas: más que eso es una flota.')} <a href="#entry/twelve-flags">${t('The Twelve Flags', 'Las Doce Banderas')}</a> · <a href="#adventurers/hall">${t('The Reckoners’ Hall', 'La Casa de los Tesoreros')}</a> · <a href="#adventurers/travel">${t('Passages', 'Travesías')}</a></p></section>`);
+  <p class="adv-note">${t('Prices are Volume XXI’s, at home and in Goldwind; freight and duties add about a third for every region crossed, and the ice doubles it. A convoy is a third slower and safer; a fast hull a third quicker, at double the freight. A ton is 2,000 pounds. A rowing gig carries half a ton, a fishing smack five, a coaster forty and an ocean merchantman two hundred: more than that is a fleet.', 'Los precios son los del Volumen XXI, en origen y en Ventoro; el flete y los impuestos suman cerca de un tercio por cada región que se cruza, y el hielo lo duplica. Un convoy es un tercio más lento y más seguro; un casco rápido, un tercio más veloz, al doble del flete. Una tonelada son 2,000 libras. Un bote de remos lleva media tonelada, una barca de pesca cinco, un costero cuarenta y un mercante de altura doscientas: más que eso es una flota.')} <a href="#entry/twelve-flags">${t('The Twelve Flags', 'Las Doce Banderas')}</a> · <a href="#adventurers/hall">${t('The Reckoners’ Hall', 'La Casa de los Tesoreros')}</a> · <a href="#adventurers/travel">${t('Passages', 'Travesías')}</a></p></section>`);
   const rowsEl = () => document.querySelectorAll('#tr-lines .tr-line');
   const readLines = () => [...rowsEl()].map(r => ({good: r.querySelector('.tr-good').value, qty: Math.max(1, Math.round(+r.querySelector('.tr-qty').value || 1))}));
   const live = () => {  // the weight of each line, the whole hold, and the ship that carries it
