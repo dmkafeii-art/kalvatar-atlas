@@ -4966,47 +4966,127 @@
  },
  "mirror-plover": {
   "gloss": "Mirror Plover",
-  "subtitle": "Una vida pequeña junto a la tuya",
-  "summary": "Un ave de orilla pequeña, color arena, con un collar oscuro, de las que corren por la línea de la marea justo delante de las olas.",
+  "subtitle": "El ave que se vuelve tú",
+  "summary": "Un ave chica de playa, color arena, con un collar oscuro, de las que corren por la línea de la marea justo delante de las olas.",
   "epigraph": {
    "quote": "Un chorlito es un recuerdo, no un testigo.",
-   "by": "Lo que se dice en los puertos"
+   "by": "Un dicho del puerto"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "En todas partes, y es raro"
+    "Dónde se encuentra",
+    "En todas partes, y raro"
    ]
   ],
-  "title": "Chorlito Espejo"
+  "title": "Chorlito Espejo",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un chorlito espejo, en cambio, corre al lado de una sola persona, pegado a su talón, toda su vida."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Después de un año completo con su persona, habla como ella: su voz, sus chistes, sus costumbres, sus opiniones. Te puedes sentar a hablar con él como si hablaras con esa persona."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "El chorlito espejo elige. Sigue a alguien fuera de una playa y se niega a irse. Después tiene que pasar un año completo del calendario de la Carta con esa persona, los diez meses y los [[Días Quietos|Still Days]], antes de hablar."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Aprende cómo eres, no lo que sabes. Solo sabe lo que se dijo o se hizo delante de él.",
+     "Con los años se acerca más. Después de diez, la familia ya no distingue al chorlito de la persona a través de una pared.",
+     "Toma la manera de ser de una sola persona en su vida. Si esa persona muere, el chorlito sigue siendo ella. Las familias guardan el chorlito de un abuelo y le preguntan qué habría hecho él.",
+     "Los nobles no tienen chorlitos. A los espías les encantan.",
+     "Los tribunales de Veriden no aceptan la palabra de un chorlito.",
+     "Algunas [[Logias|Lodges]] de Cazadores guardan en el salón los chorlitos de sus muertos, y los Bronces nuevos van a pedirles consejo.",
+     "Es el ave de Memnara, el Hilo que no se Rompe."
+    ]
+   },
+   {
+    "title": "Lo que dice la gente",
+    "paragraphs": [
+     "\"Un chorlito que no ha visto tus Días Quietos todavía no te conoce.\"",
+     "\"Nunca cuentes un secreto delante de un chorlito.\""
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay un chorlito espejo en Ventoro que habla como un hombre que nadie en la ciudad recuerda.” (los muelles de Ventoro)",
+     "“Un chorlito espejo de Bastión del Este todavía habla como un capitán que se ahogó hace once años. Su viuda le lleva pan cada mañana.” (se oye en Bastión del Este)"
+    ]
+   }
+  ]
  },
  "knot-crab": {
   "gloss": "Knot Crab",
-  "subtitle": "El nudo que ata aguanta hasta que él o su persona decidan otra cosa.",
-  "summary": "Un cangrejo ermitaño del tamaño de una mano, con una concha naranja brillante que siempre está a punto de cambiar y dos pinzas tan hábiles como los dedos de un contramaestre.",
+  "subtitle": "El secreto del contramaestre",
+  "summary": "Un cangrejo ermitaño del tamaño de una mano, con una concha naranja brillante que siempre está a punto de cambiar, y dos pinzas tan hábiles como los dedos de un contramaestre.",
   "epigraph": {
-   "quote": "Mi cangrejo lo ata, mi cangrejo lo desata, y nadie más toca mi aparejo.",
+   "quote": "Mi cangrejo lo ata, mi cangrejo lo desata, y nadie más toca mi jarcia.",
    "by": "Un contramaestre de las rutas del sur"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Barcos, muelles y cordelerías"
    ]
   ],
-  "title": "Cangrejo de los Nudos"
+  "title": "Cangrejo de los Nudos",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Los cangrejos de los nudos viven en la bolsa de nudos de un barco y suben de noche por la jarcia a revisar el trabajo."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Un nudo que ata aguanta hasta que él o su persona decidan otra cosa. También puede deshacer cualquier nudo común, cosa que lo vuelve popular entre los presos."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Dale una concha mejor que la que tiene. Se muda, y se muda contigo."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los contramaestres de la Armada no admiten tener cangrejos de los nudos. Casi todos tienen uno.",
+     "Un cangrejo que suelta su trabajo de nudos y se escabulle bajo cubierta es una advertencia de que algo en la jarcia está mal.",
+     "Los aprendices de las cordelerías los hacen correr carreras en el piso largo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un pirata con grilletes en Fuerte de Hierro salió libre porque su cangrejo de los nudos deshizo la soga de la horca.” (se oye en Puerto Negro)"
+    ]
+   }
+  ]
  },
  "leak-rat": {
   "gloss": "Leak Rat",
-  "subtitle": "Una vida pequeña junto a la tuya",
+  "subtitle": "La primera en encontrar el agua",
   "summary": "Una rata de barco parda y lustrosa con una mancha blanca en el pecho, un poco más limpia que las otras ratas y muchísimo más valiente.",
   "epigraph": {
    "quote": "Cuando la rata chilla, corres. Cuando la rata corre, nadas.",
@@ -5014,99 +5094,256 @@
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las sentinas de los barcos de todas partes"
    ]
   ],
-  "title": "Rata de las Vías de Agua"
+  "title": "Rata de las Vías de Agua",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Todas las demás ratas abandonan un barco que se hunde. La rata de las vías de agua se queda."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Sabe cuándo está entrando agua, y corre hasta la vía de agua y chilla ahí hasta que alguien viene."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Dale de comer en la sentina durante un mes, y deja de llamarla rata."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Matar a una rata de las vías de agua a bordo trae tan mala suerte como silbar para llamar al viento.",
+     "Un carpintero de barco con una rata de las vías de agua en el hombro es un carpintero que encontró una vía de agua en la oscuridad. Los carpinteros de ribera de los astilleros Vanris ponen una rata de las vías de agua en cada casco nuevo para su primer viaje."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Ninguna rata de las vías de agua quiere subir al Vindicador nuevo de Confín de Tormentas. El astillero dice que es el olor de la brea fresca. La tripulación dice que no.” (se oye en los astilleros de Confín de Tormentas)"
+    ]
+   }
+  ]
  },
  "gutter-parrot": {
   "gloss": "Gutter Parrot",
-  "subtitle": "Una vida pequeña junto a la tuya",
-  "summary": "Un loro verde y escarlata, muy ruidoso, que aprende cada insulto que oye, en cada idioma, y nada más, porque nunca le ha visto el sentido a nada más.",
+  "subtitle": "Cada insulto en cada lengua",
+  "summary": "Un loro ruidoso, verde y escarlata, que aprende cada insulto que oye, en cada idioma, y nada más, porque nunca le ha visto el sentido a otra cosa.",
   "epigraph": {
-   "quote": "Una vez al día insulta a toda la calle, y una vez al día toda la calle se olvida de cuidar el monedero.",
-   "by": "Un carterista de Cayo Hueco, con cariño"
+   "quote": "Una vez al día insulta a toda la calle, y una vez al día toda la calle se olvida de cuidar la bolsa.",
+   "by": "Un ladrón de bolsas de Cayo Hueco, con cariño"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Los refugios piratas y los puertos más bravos"
+    "Dónde se encuentra",
+    "Refugios piratas y los puertos más bravos"
    ]
   ],
-  "title": "Loro de Alcantarilla"
+  "title": "Loro de Alcantarilla",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Una vez al día suelta una andanada de insultos tan ingeniosa que todos los que están cerca se detienen a escuchar, y es cuando las manos de su persona se ponen a trabajar."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Di groserías delante de él. El loro decide si vales la pena."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Las tripulaciones de la [[Marea Libre|Free Tide]] hacen concursos, y el loro ganador es capitán honorario por una semana.",
+     "Las tabernas del barrio del puerto de [[Ventoro|Goldwind]] cobran una [[Ola|Bit]] extra por un loro en la mesa.",
+     "Los sacerdotes de la [[Concordia|Concord]] los llaman no consagrados. Los loros también tienen una palabra para los sacerdotes."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un loro de alcantarilla de Cayo Hueco sabe cómo le dice en privado a su esposa un almirante del Consejo, y lo dice cada tarde a la sexta campanada.” (se oye en Cayo Hueco)"
+    ]
+   }
+  ]
  },
  "net-cormorant": {
   "gloss": "Net Cormorant",
-  "subtitle": "Pesca para su persona.",
-  "summary": "Un ave buceadora negra de cuello largo, ojos verdes y paciencia de pescador, adiestrada en las aldeas pesqueras desde antes de que existiera la Carta.",
+  "subtitle": "La cena, traída al bote",
+  "summary": "Un ave buceadora negra de cuello largo, con ojos verdes y la paciencia de un pescador, entrenada en los pueblos de pescadores desde antes de que existiera la Carta.",
   "epigraph": {
    "quote": "Una hora en buena agua, y la cena vuelve en su pico.",
    "by": "Un pescador de la Frontera"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Las costas pesqueras, de la [[Frontera del Norte|Northern Frontier]] al hielo"
+    "Dónde se encuentra",
+    "Costas pesqueras de la [[Frontera del Norte|Northern Frontier]] al hielo"
    ]
   ],
-  "title": "Cormorán de Red"
+  "title": "Cormorán de Red",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Pesca para su persona. Una hora en buena agua, y hay cena."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Lo cría desde el huevo una familia de pescadores, y se hereda. Un cormorán que pierde a su familia a veces elige una nueva en el muelle."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Es el ave de Okram. El primer pez que trae cada día nunca se vende.",
+     "Un anillo flojo en la garganta le deja tragarse los peces chicos y traer los grandes al bote. Quitarle el anillo al final del día es el sueldo del cormorán.",
+     "En el hielo, las plumas de cormorán forran la cuna de un recién nacido."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un cormorán de Puerto Gris volvió de la niebla con un pez que nadie en el norte había visto nunca.” (se oye en la costa de la Frontera)"
+    ]
+   }
+  ]
  },
  "taster-bat": {
   "gloss": "Taster Bat",
-  "subtitle": "Olfatea un plato o una copa antes que tú, y lo rechaza si está envenenado o echado a perder.",
-  "summary": "Un murciélago frutero rojizo con cara de zorro, que duerme colgado en la capucha de su persona y despierta para la cena.",
+  "subtitle": "El primer sorbo es del murciélago",
+  "summary": "Un murciélago frutero rojizo con cara de zorro, que duerme de cabeza en la capucha de su persona y se despierta para la cena.",
   "epigraph": {
    "quote": "Si el murciélago no lo bebe, yo tampoco. Si el murciélago no mira al cocinero, yo tampoco.",
    "by": "Un noble del Corazón"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Las mesas nobles del [[Corazón|Heartland]]; nace en las [[Tierras Salvajes del Sur|Southern Wilds]]"
+    "Dónde se encuentra",
+    "Las mesas nobles del [[Corazón|Heartland]]; nacidos en las [[Tierras Salvajes del Sur|Southern Wilds]]"
    ]
   ],
-  "title": "Murciélago Catador"
+  "title": "Murciélago Catador",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Los murciélagos catadores subieron al norte en los barcos de fruta y se quedaron por los banquetes."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Olfatea un plato o una taza antes que tú, y lo rechaza si está envenenado o echado a perder."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "En el sur, deja fruta madura en la misma rama tres noches. En el Corazón, cómprale uno a un frutero y ten esperanza."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Ninguna mesa noble de [[Ventoro|Goldwind]] está completa sin uno.",
+     "Llevar tu propio murciélago catador a cenar a otra casa es un insulto muy cortés.",
+     "Un murciélago que rechaza el vino de la boda ha terminado más de un compromiso."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El murciélago catador de un noble rechazó una copa en una boda del Corazón, y la familia del novio se fue antes del postre.” (se oye en los salones de Ventoro)"
+    ]
+   }
+  ]
  },
  "counting-jackdaw": {
   "gloss": "Counting Jackdaw",
-  "subtitle": "Sabe de un vistazo cuántas monedas hay en un montón, y te avisa si falta una.",
-  "summary": "Una grajilla de nuca gris, ojos pálidos que no parpadean y un pico con el que golpetea la mesa para contar.",
+  "subtitle": "El ojo honrado del mercader",
+  "summary": "Una grajilla de nuca gris con ojos pálidos que no parpadean y un pico que golpea la mesa para contar.",
   "epigraph": {
    "quote": "Cuenta más rápido que mi escribiente y roba menos.",
    "by": "Un mercader de Ventoro"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Los mercados del [[Corazón|Heartland]]"
    ]
   ],
-  "title": "Grajilla Contadora"
+  "title": "Grajilla Contadora",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "A las grajillas contadoras las crían los pocchin, que se quedan con las mejores y venden el resto a un precio que pone a prueba las cuentas del comprador."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Sabe de un vistazo cuántas monedas hay en una pila, y te avisa si falta una."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Esta se compra, y cara. Los pocchin nunca venden las mejores."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Las casas de juego de [[Puerto Plata|Silverport]] las prohíben en las mesas.",
+     "Los escribientes de los Tesoreros las piden prestadas al final de un Ciclo. Las grajillas esperan que les paguen.",
+     "Una grajilla que contó dos veces una dote ha empezado más de un pleito de familia."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una grajilla contadora de la Casa de los Tesoreros no se quiere posar en el escritorio de un escribiente. El escribiente pidió que lo cambiaran.” (se oye en el Piso de la Aguja)"
+    ]
+   }
+  ]
  },
  "ink-octopus": {
   "gloss": "Ink Octopus",
-  "subtitle": "Una vez al día copia en papel, con su propia tinta, una línea corta o un dibujito de algo que haya visto.",
+  "subtitle": "El copista de ocho brazos del escribiente",
   "summary": "Un pulpo del tamaño de una palma, morado oscuro, que vive en un gran tintero de agua de mar sobre el escritorio de un escribiente y mira la pluma con los ocho brazos cruzados.",
   "epigraph": {
    "quote": "Una línea al día, con su propia tinta, y nunca la línea que querías.",
@@ -5114,55 +5351,139 @@
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Casas de cuentas y escritorios de escribientes en todos los puertos"
+    "Dónde se encuentra",
+    "[[Casas de cuentas|Counting-houses]] y escritorios de escribientes en todos los puertos"
    ]
   ],
-  "title": "Pulpo de Tinta"
+  "title": "Pulpo de Tinta",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Una vez al día copia en papel, con su propia tinta, una línea corta o un dibujito que haya visto."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Se hereda con el escritorio. Los pulpos de tinta duran más que los escribientes."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "La [[Casa de los Tesoreros|Reckoners' Hall]] los prohíbe en las bóvedas de los sellos, por razones obvias.",
+     "La tinta de pulpo se ve apenas violeta a la luz del sol. Todo falsificador lo sabe, y todo juez también.",
+     "Los fieles de Memnara, enemiga de toda falsificación, los miran de reojo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un pulpo de tinta copió la cara de un desconocido en una página de un libro de cuentas. El desconocido ha estado buscando esa página desde entonces.” (se oye en una casa de cuentas de Ventoro)"
+    ]
+   }
+  ]
  },
  "darning-spider": {
   "gloss": "Darning Spider",
-  "subtitle": "Una vida pequeña junto a la tuya",
-  "summary": "Una araña gris y pequeña con una cruz blanca en el lomo, que vive en el costurero y zurce de noche mientras la casa duerme.",
+  "subtitle": "La remendona del costurero",
+  "summary": "Una araña gris y chica con una cruz blanca en el lomo, que vive en el costurero y zurce de noche mientras la casa duerme.",
   "epigraph": {
    "quote": "Dale una vela rota al atardecer y zarparás al alba.",
    "by": "Un velero de Ventoro"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Talleres de velas y sastrerías, en el [[Corazón|Heartland]] y más allá"
    ]
   ],
-  "title": "Araña Zurcidora"
+  "title": "Araña Zurcidora",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Remienda un desgarro del tamaño de una mano en tela, vela o red, y el remiendo aguanta tanto como el tejido."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Deja afuera toda la noche una manga rota. Si a la mañana está remendada, no mates a la araña."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Es la compañera del Remiendo. La calle empieza por el peor techo, y la araña empieza por la peor manga.",
+     "Los talleres de velas tienen decenas, y cada velero sabe qué araña cosió qué costura.",
+     "Una vela remendada así está cosida por araña, y eso es un elogio."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un taller de velas de Ventoro tiene una araña zurcidora que solo remienda velas de barcos que vuelven a casa.” (se oye en los talleres de velas de Ventoro)"
+    ]
+   }
+  ]
  },
  "glider-squirrel": {
   "gloss": "Glider Squirrel",
-  "subtitle": "Una vida pequeña junto a la tuya",
-  "summary": "Una ardilla voladora color cervato, de enormes ojos oscuros y un pliegue de piel de la muñeca al tobillo, que planea de techo en techo y aterriza sobre quien se le antoja.",
+  "subtitle": "El correo de los tejados",
+  "summary": "Una ardilla voladora color cervato con ojos oscuros enormes y un pliegue de piel de la muñeca al tobillo, que planea de techo en techo y aterriza sobre quien le da la gana.",
   "epigraph": {
-   "quote": "La mitad de las cartas de amor de Ventoro viajan en ardilla. La otra mitad debería.",
+   "quote": "La mitad de las cartas de amor de Ventoro viajan por ardilla. La otra mitad debería.",
    "by": "Una chismosa de los tejados de Ventoro"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Los balcones y los tejados de [[Ventoro|Goldwind]]"
+    "Dónde se encuentra",
+    "Los balcones y techos de [[Ventoro|Goldwind]]"
    ]
   ],
-  "title": "Ardilla Planeadora"
+  "title": "Ardilla Planeadora",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Una vez al día lleva una nota doblada o una prenda chica a alguien que conoce, a un buen tiro de piedra, y vuelve."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Dale de comer de la mano en un balcón. Las ardillas son volubles, y una ardilla que vuelve durante toda una temporada ya decidió."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "La mitad de los amores de la ciudad viajan por ardilla, sobre todo en Liora.",
+     "Las casas nobles tienen halconeros para detenerlas, y las ardillas han durado más que tres generaciones de halconeros.",
+     "Una nota que llega por ardilla no se puede rechazar. Todo el mundo está de acuerdo en eso, y nadie sabe por qué."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las ardillas planeadoras llevan notas de amor por los techos de Ventoro entre la hija de un noble y un escribiente del muelle. Media ciudad lo sabe; su padre no.” (se oye en los tejados de Ventoro)"
+    ]
+   }
+  ]
  },
  "fortune-gecko": {
   "gloss": "Fortune Gecko",
