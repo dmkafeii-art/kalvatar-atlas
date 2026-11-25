@@ -5487,143 +5487,351 @@
  },
  "fortune-gecko": {
   "gloss": "Fortune Gecko",
-  "subtitle": "Una vez al día, en un juego de azar, su persona puede volver a tirar un dado.",
-  "summary": "Un geco dorado y moteado, de dedos pegajosos y sonrisa perezosa, con la costumbre de lamerse el ojo antes de cada tirada de dados.",
+  "subtitle": "La segunda oportunidad del jugador",
+  "summary": "Un geco dorado y moteado, con dedos pegajosos, una sonrisa perezosa y la costumbre de lamerse el ojo antes de cada tirada de dados.",
   "epigraph": {
    "quote": "Una tirada más. Siempre es una tirada más.",
    "by": "Un jugador de Puerto Plata"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "[[Puerto Plata|Silverport]], y todas las casas de juego del [[Corazón|Heartland]]"
    ]
   ],
-  "title": "Geco de la Fortuna"
+  "title": "Geco de la Fortuna",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Una vez al día, en un juego de azar, su persona puede volver a tirar un dado."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Gana una apuesta con un geco mirando. Los fieles de Fortura dicen que el geco elige a los afortunados, y no al revés."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Las casas de juego de Puerto Plata prohíben los gecos de la fortuna en las mesas, igual que las [[grajillas contadoras|counting jackdaws]], y tienen uno detrás de la barra.",
+     "Los sacerdotes de Fortura les dan de comer. La gente gato de Mishri los persigue.",
+     "Perder una partida con un geco en el hombro es una humillación muy especial."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las casas de juego de Puerto Plata empezaron a revisarles los bolsillos a los clientes en la puerta, por si traen gecos.” (se oye en Puerto Plata)"
+    ]
+   }
+  ]
  },
  "bookmark-silverfish": {
   "gloss": "Bookmark Silverfish",
-  "subtitle": "Dile una palabra, y corre por el libro y se detiene en la primera página donde está escrita.",
-  "summary": "Un insecto plateado y veloz, del largo de una uña, que a diferencia de todos sus primos no come papel.",
+  "subtitle": "El dedo rápido del erudito",
+  "summary": "Un insecto plateado y veloz, del largo de una uña, que, a diferencia de todos sus primos, no come papel.",
   "epigraph": {
-   "quote": "Di la palabra y encuentra la página. Di la palabra equivocada y encuentra la página que esperabas evitar.",
-   "by": "Una estudiante de la Universidad"
+   "quote": "Di la palabra, y encuentra la página. Di la palabra equivocada, y encuentra la página que esperabas evitar.",
+   "by": "Un estudiante de la Universidad"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "La Universidad de Kalvatar, y todas las bibliotecas de las islas"
+    "Dónde se encuentra",
+    "La [[Universidad|University]] de Kalvatar, y todas las bibliotecas de las islas"
    ]
   ],
-  "title": "Pececillo de Plata Marcapáginas"
+  "title": "Pececillo Marcapáginas",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Come polvo y marca páginas."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Di una palabra, y recorre un libro y se detiene en la primera página donde está escrita."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "La biblioteca de la Universidad los cría. Los estudiantes de primer año pagan uno con meses de té."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los eruditos les ponen a los suyos nombres de archivistas muertos.",
+     "Un pececillo que recorre un libro de punta a punta y no se detiene casi siempre encontró una palabra que alguien raspó.",
+     "Los [[Cartógrafos|Chartwrights]] los usan en las bitácoras viejas."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un pececillo marcapáginas de la biblioteca de la Universidad se detuvo en una página que no está en el libro.” (se oye entre los estudiantes de la Universidad)"
+    ]
+   }
+  ]
  },
  "homeward-snail": {
   "gloss": "Homeward Snail",
-  "subtitle": "Siempre sabe hacia dónde queda su casa.",
-  "summary": "Un caracol del tamaño de un pulgar, de concha apretada y con bandas, cuya espiral siempre gira hacia su hogar: el último lugar donde su persona durmió tres noches seguidas.",
+  "subtitle": "La concha que apunta a casa",
+  "summary": "Un caracol del tamaño de un pulgar, con una concha apretada y a rayas cuya espiral siempre gira hacia casa: el último lugar donde su persona durmió tres noches seguidas.",
   "epigraph": {
    "quote": "Llevo caracol.",
-   "by": "Una forma del norte de decir: voy a volver"
+   "by": "Una manera del norte de decir: voy a volver"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "La [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Caracol del Regreso"
+  "title": "Caracol de Regreso",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Siempre sabe para dónde queda la casa."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Se regala en una despedida, y lo da quien se queda esperando."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los marineros dicen que un caracol nunca miente. Solo apunta al lugar donde has estado durmiendo, que no siempre es el lugar al que llamas casa.",
+     "Devolverle a alguien su caracol termina un noviazgo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El caracol de un marinero lleva un mes apuntando mar adentro, hacia ninguna isla de ninguna carta.” (se oye en Confín de Sal)"
+    ]
+   }
+  ]
  },
  "drum-hare": {
   "gloss": "Drum Hare",
-  "subtitle": "Si alguien se acerca al campamento mientras su persona duerme, tamborilea en el suelo y la despierta.",
-  "summary": "Una liebre gris de orejas largas con puntas negras y enormes patas traseras, que duerme contra el saco de dormir de su persona y escucha toda la noche.",
+  "subtitle": "El centinela del campamento",
+  "summary": "Una liebre gris de orejas largas con las puntas negras y unas patas traseras enormes, que duerme contra el petate de su persona y escucha toda la noche.",
   "epigraph": {
    "quote": "Duerme tranquilo. La liebre va a tamborilear.",
    "by": "Un arriero de Confín del Norte"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "La [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Liebre del Tambor"
+  "title": "Liebre Tamborilera",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Si alguien se acerca al campamento mientras su persona duerme, tamborilea en el suelo y la despierta."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Los pastores de la [[Frontera|Frontier]] le regalan una a quien ha hecho su primera guardia de invierno."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "En el norte, \"la liebre no tamborileó\" quiere decir \"dormí tranquilo\".",
+     "Las guarniciones de la Frontera tienen liebres en cada puerta.",
+     "Una liebre conoce a los amigos de su persona y no tamborilea por ellos, cosa que ha resuelto más de una duda sobre quién era amigo de verdad."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Todas las liebres tamborileras de los páramos de Confín del Norte tamborilearon a la vez una noche del invierno pasado, y nadie encontró nada.” (se oye entre los arrieros de Confín del Norte)"
+    ]
+   }
+  ]
  },
  "echo-finch": {
   "gloss": "Echo Finch",
-  "subtitle": "Una vida pequeña junto a la tuya",
-  "summary": "Un pinzón pardo y pequeño de pecho rosado y un canto dulce y corriente, hasta que decide cantar otra cosa.",
+  "subtitle": "Una voz que queda después de quien canta",
+  "summary": "Un pinzón chico y pardo, de pecho rosado y canto dulce y común, hasta que decide cantar otra cosa.",
   "epigraph": {
    "quote": "Todavía me da las buenas noches con la voz de mi madre.",
-   "by": "La cuidadora de un pinzón del eco"
+   "by": "Quien cuida un pinzón del eco"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "La [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Pinzón del Eco"
+  "title": "Pinzón del Eco",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Aprende una frase corta con la voz de quien la dijo, y la repite cuando se lo piden, por el resto de su vida."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Los pinzones del eco se venden en los mercados de primavera. La frase la eliges tú."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Las viudas de los pescadores guardan el pinzón que aprendió la voz del que no volvió.",
+     "Durante la [[Vigilia de la Tormenta|Storm-Watch]], en Memnara, ponen los pinzones en las ventanas.",
+     "Los enamorados les enseñan a los pinzones del otro, y las madres le enseñan una canción de cuna a un pinzón."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un pinzón del eco de Bastión repite una frase con una voz que nadie en la casa reconoce.” (se oye en Bastión)"
+    ]
+   }
+  ]
  },
  "dreamcurl-hedgehog": {
   "gloss": "Dreamcurl Hedgehog",
-  "subtitle": "Mientras duerme sobre ti, no tienes pesadillas, ni siquiera de las que alguien te manda.",
-  "summary": "Un erizo pardo y redondo de hocico pálido, que se enrosca de noche sobre el pecho de su persona y ronca muy bajito.",
+  "subtitle": "Guardián contra las pesadillas",
+  "summary": "Un erizo redondo y pardo, de hocico claro, que de noche se enrosca en el pecho de su persona y ronca muy bajito.",
   "epigraph": {
-   "quote": "Ninguna pesadilla pasa por encima del erizo. Ni siquiera las que alguien manda.",
+   "quote": "Ninguna pesadilla pasa al erizo. Ni siquiera las que manda alguien.",
    "by": "Una madre de la Frontera"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Los setos de la [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Erizo Enroscasueños"
+  "title": "Erizo Enroscasueños",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Mientras duerme encima de ti, no tienes pesadillas, ni siquiera de las que manda alguien."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "A los niños que le tienen miedo a la noche les regalan uno. Los adultos tienen que encontrar uno en los setos y convencerlo."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los sacerdotes de Naxithe, el [[Comesueños|Dream-Eater]], los odian.",
+     "Un erizo que no quiere dormir encima de alguien quiere decir que esa persona carga un mal sueño que no le ha contado a nadie.",
+     "La [[Universidad|University]] los ha estudiado durante cuarenta años y quiere que todo el mundo sepa que los resultados no son concluyentes."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un erizo enroscasueños dejó el pecho de quien dormía en plena noche y no quiso volver. Esa persona no ha sido la misma.” (se oye en una aldea de setos de la Frontera)"
+    ]
+   }
+  ]
  },
  "spark-ferret": {
   "gloss": "Spark Ferret",
-  "subtitle": "Encuentra Krysta en bruto.",
-  "summary": "Un hurón largo y arenoso, con un antifaz oscuro y bigotes que chisporrotean.",
+  "subtitle": "El olfato para la Krysta en bruto",
+  "summary": "Un hurón largo, color arena, con antifaz oscuro y bigotes que chisporrotean.",
   "epigraph": {
    "quote": "Sigue al hurón, y en la Puerta ten las manos en los bolsillos.",
    "by": "Un buscador de la Frontera"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las minas y aduanas de la [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Hurón de la Chispa"
+  "title": "Hurón Chispa",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Cuando hay Krysta en bruto cerca, sus bigotes sueltan chispitas inofensivas, y se emociona muchísimo."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Encuentra Krysta en bruto."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Los mineros los crían, y el hurón de un minero es de la familia. Las aduanas crían los suyos."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los aduaneros de [[Fuerte de Hierro|Ironfort]] los usan contra el contrabando de Krysta, y los contrabandistas los odian por su nombre.",
+     "Un minero cuyo hurón se queda callado en una veta rica abandona la veta. Hay otra cosa allá abajo.",
+     "En la [[Resaca|Undertow]], que llegue el hurón quiere decir que llega la aduana."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los hurones chispa de la aduana de Fuerte de Hierro no se acercan al equipaje de cierto noble. No chispean. Se esconden.” (un escribiente de la aduana de Fuerte de Hierro)",
+     "“Un hurón chispa de la aduana de Fuerte de Hierro se volvió loco con un cajón de 'cerámica' que iba para el norte.” (se oye en la Puerta de Fuerte de Hierro)"
+    ]
+   }
+  ]
  },
  "thumb-raptor": {
   "subtitle": "Caza todos los insectos que pican alrededor del campamento.",
@@ -5684,63 +5892,146 @@
  },
  "veil-butterfly": {
   "gloss": "Veil Butterfly",
-  "subtitle": "Sus alas se vuelven transparentes como el agua cuando hay cerca una criatura feérica, o un lugar delgado hacia el Feérico.",
-  "summary": "Una gran mariposa ámbar de alas veteadas como un vitral, de vuelo lento y aficionada a posarse en los hombros.",
+  "subtitle": "Alas que avisan de los feéricos",
+  "summary": "Una mariposa grande, color ámbar, con alas de venas como vitrales, de vuelo lento y aficionada a posarse en los hombros.",
   "epigraph": {
-   "quote": "Cuando sus alas se aclaren, no digas nada, no prometas nada y vete.",
+   "quote": "Cuando sus alas se vuelvan transparentes, no digas nada, no prometas nada, y vete.",
    "by": "Una abuela del sur"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las [[Tierras Salvajes del Sur|Southern Wilds]], dondequiera que el [[Feérico|Faewild]] esté cerca"
    ]
   ],
-  "title": "Mariposa del Velo"
+  "title": "Mariposa del Velo",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Sus alas se vuelven transparentes como el agua cuando hay cerca una criatura feérica, o un [[lugar delgado|thin place]] hacia el Feérico."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Se cría desde el capullo en un frasco, y se suelta. La mariposa que vuelve es tuya."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "La [[Llama Sagrada|Sacred Flame]] las cría para encontrar grietas.",
+     "Los fieles de [[Varneth, el Guardián del Umbral|Varneth, the Threshold Warden]], cuelgan un frasco de ellas junto a la puerta.",
+     "Una boda donde las mariposas se vuelven transparentes es una boda donde alguien debería hacerle una pregunta a la abuela de la novia."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una mariposa del velo se volvió transparente como el vidrio en pleno baile de Ventoro, y siguió así toda la noche.” (se oye en los salones de Ventoro)"
+    ]
+   }
+  ]
  },
  "moss-sloth": {
   "gloss": "Moss Sloth",
-  "subtitle": "El musgo de su pelaje, apretado contra una herida, mantiene con vida a un moribundo hasta que llega ayuda.",
-  "summary": "Un perezoso de tres dedos, pequeño y sonriente, con musgo verde creciéndole en el pelaje: lo más lento y paciente de Kalvatar.",
+  "subtitle": "El sanador más lento de Kalvatar",
+  "summary": "Un perezoso chico y sonriente, de tres dedos, con musgo verde creciéndole en el pelaje: la cosa más lenta y paciente de Kalvatar.",
   "epigraph": {
    "quote": "Aprieta el musgo contra la herida y espera. El perezoso es paciente. Sé paciente tú también.",
-   "by": "Una sanadora de Jakupur"
+   "by": "Un sanador de Jakupur"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
    ]
   ],
-  "title": "Perezoso de Musgo"
+  "title": "Perezoso de Musgo",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "El musgo de su pelaje, apretado contra una herida, mantiene vivo a un moribundo hasta que llega ayuda."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Siéntate bajo su árbol. Vas a estar ahí un buen rato."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los hospicios de [[Maela la Remendadora|Maela the Mender]] tienen uno en cada sala. El perezoso baja de su percha una vez por Ciclo, y ese es el día en que el hospicio cambia las sábanas.",
+     "Los sanadores del sur dicen que el musgo es un regalo del [[Fuego Verde|Green Fire]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El musgo de un perezoso de musgo mantuvo vivo a un Cazador tres días en lo hondo del verde, y el perezoso no se fue hasta que llegaron los sanadores.” (se oye en la Logia de Jakupur)"
+    ]
+   }
+  ]
  },
  "trail-mongoose": {
   "gloss": "Trail Mongoose",
-  "subtitle": "Déjala oler algo y seguirá ese rastro durante un día.",
-  "summary": "Una mangosta rápida y atigrada, de cola como un cepillo de botellas, que corre delante con la nariz en el suelo y vuelve para asegurarse de que la sigues.",
+  "subtitle": "Un día sobre cualquier rastro",
+  "summary": "Una mangosta rápida y atigrada, con cola de cepillo, que corre adelante con la nariz en el suelo y vuelve para asegurarse de que la sigues.",
   "epigraph": {
-   "quote": "Déjala oler el guante y antes del anochecer encontrarás la mano.",
+   "quote": "Déjala oler el guante, y al caer la noche encontrarás la mano.",
    "by": "Un rastreador del sur"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
    ]
   ],
-  "title": "Mangosta del Rastro"
+  "title": "Mangosta Rastreadora",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Déjala oler algo, y seguirá ese rastro durante un día."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Atrápale una culebra. Eso lo respeta."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los Exploradores de los [[Cazadores|Hunters]] las adoran.",
+     "Mata culebras, y en las [[Tierras Salvajes|Wilds]] eso es medio sueldo.",
+     "Una mangosta y un raptorpulgar en el mismo campamento discuten toda la noche sobre quién manda."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una mangosta rastreadora siguió una silla de montar robada por media Tierra Salvaje y llevó a su persona derechito al establo de un magistrado de Puerto Sur.” (se oye en Puerto Sur)"
+    ]
+   }
+  ]
  },
  "scarf-stoat": {
   "gloss": "Scarf Stoat",

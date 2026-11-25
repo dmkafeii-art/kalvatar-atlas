@@ -541,7 +541,7 @@
  {
   "id": "rumor-54",
   "text": "Vieron a progenie de tres Señores distintos cazando codo con codo en las [[Tierras Salvajes del Sur|Southern Wilds]], todos tras el mismo animal pálido.",
-  "heardAt": "se oye en la [[Logia|Lodge]] de Jakupur",
+  "heardAt": "se oye en la [[Logia de Jakupur|Jakupur Lodge]]",
   "region": "All regions",
   "entries": [
    "savage-lords"
@@ -834,7 +834,7 @@
  {
   "id": "rumor-86",
   "text": "Un hurón chispa de la aduana de [[Fuerte de Hierro|Ironfort]] se volvió loco con una caja de \"cerámica\" que iba al norte.",
-  "heardAt": "se oye en la [[Puerta|Gate]] de [[Fuerte de Hierro|Ironfort]]",
+  "heardAt": "se oye en la [[Puerta de Fuerte de Hierro|Ironfort Gate]]",
   "region": "Northern Frontier",
   "entries": [
    "spark-ferret"
@@ -861,7 +861,7 @@
  {
   "id": "rumor-89",
   "text": "El musgo de un perezoso de musgo mantuvo vivo a un [[Cazador|Hunter]] durante tres días en la selva profunda, y el perezoso no se fue hasta que llegaron los sanadores.",
-  "heardAt": "se oye en la [[Logia|Lodge]] de Jakupur",
+  "heardAt": "se oye en la [[Logia de Jakupur|Jakupur Lodge]]",
   "region": "Southern Wilds",
   "entries": [
    "moss-sloth"
@@ -933,8 +933,8 @@
  },
  {
   "id": "rumor-97",
-  "text": "Un sabueso de la [[Logia|Lodge]] de Jakupur empezó a rastrear algo por lo que la Junta no ha publicado ningún contrato.",
-  "heardAt": "se oye en la [[Logia|Lodge]] de Jakupur",
+  "text": "Un sabueso de la [[Logia de Jakupur|Jakupur Lodge]] empezó a rastrear algo por lo que la Junta no ha publicado ningún contrato.",
+  "heardAt": "se oye en la [[Logia de Jakupur|Jakupur Lodge]]",
   "region": "All regions",
   "entries": [
    "lodge-hound"
