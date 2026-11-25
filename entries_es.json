@@ -9152,14 +9152,52 @@
   "facts": [
    [
     "Costumbres",
-    "El hogar, el vecindario, el puerto"
+    "El hogar, el barrio, el puerto"
    ],
    [
     "Promesa",
     "Sal compartida al reencontrarse"
    ]
   ],
-  "title": "Costumbres del hogar y del puerto"
+  "title": "Costumbres del hogar y del puerto",
+  "sections": [
+   {
+    "title": "Un lugar que se mantiene listo",
+    "paragraphs": [
+     "La [[Taza del Regreso|Returning Cup]] cuelga boca abajo por un marinero ausente; se pone derecha en la ventana cuando le toca volver. Los vecinos dejan comida. Las casas de la costa bajan una vez la [[Luz que Responde|Answering Light]] por un barco que pasa."
+    ]
+   },
+   {
+    "title": "La calle cuida de los suyos",
+    "paragraphs": [
+     "Después de una tormenta, el Remiendo empieza por el peor techo. El Primer Pan es la comida de un recién llegado que paga en secreto un desconocido. Lo que sobra en el alféizar es gratis para quien lo tome: el Alféizar provee."
+    ]
+   },
+   {
+    "title": "Crecer y volver a casa",
+    "paragraphs": [
+     "La Cuchara del Nombre de un niño cuelga en la pared de la cocina. Descolgarla quiere decir irse de casa; volver a colgarla quiere decir volver. El nombre del primer compañero se talla en el reverso."
+    ]
+   },
+   {
+    "title": "Promesas que duran",
+    "paragraphs": [
+     "Los parientes de invierno compartieron un invierno y se les debe un plato y una cama de por vida. Una [[Promesa de Sal|Salt Promise]] reparte dos pizcas de un mismo salero, para cocinarlas juntas cuando los amigos se vuelvan a encontrar. Las palomas de la promesa se regalan para que ese lazo se vea."
+    ]
+   },
+   {
+    "title": "Los pequeños registros del puerto",
+    "paragraphs": [
+     "Los niños marcan con tiza la pleamar en las escaleras del puerto. Los visitantes del primer año dejan una [[Ola|Bit]] en el dintel de una casa; una fila completa de monedas de la puerta declara que la casa está bien pagada."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una Taza del Regreso de Bastión del Este se dio vuelta sola en la ventana, y el marinero al que esperaba entró a la mañana siguiente.” (se oye en Bastión del Este)"
+    ]
+   }
+  ]
  },
  "kellum": {
   "subtitle": "¡Sal y parientes!",
@@ -9183,9 +9221,9 @@
  "brightleaf": {
   "gloss": "Brightleaf",
   "subtitle": "La taza caliente",
-  "summary": "El té de las terrazas de Bastión del Sol, que viaja por todas las islas en ladrillos prensados.",
+  "summary": "El té de las terrazas de Bastión del Sol, que se lleva por todas las islas en ladrillos prensados.",
   "epigraph": {
-   "quote": "El té de bastión debe ser lo bastante espeso como para calafatear un casco. Lo que sea más ralo es un rumor de té.",
+   "quote": "El té de fortaleza tiene que ser lo bastante espeso para calafatear un casco. Lo que sea más ralo es un rumor de té.",
    "by": "Un cocinero de la Frontera"
   },
   "facts": [
@@ -9195,10 +9233,50 @@
    ],
    [
     "En el mar",
-    "Los ladrillos prensados sirven para el trueque"
+    "Los ladrillos prensados pueden servir de trueque"
    ]
   ],
-  "title": "Hoja Clara"
+  "title": "Hoja Clara",
+  "sections": [
+   {
+    "title": "Una taza por región",
+    "paragraphs": [
+     "La [[Frontera|Frontier]] toma el [[té de fortaleza|hold-tea]] con mantequilla y sal. Las tazas del [[Corazón|Heartland]] son pálidas, con cítricos. La hoja picante del sur compite con el café de [[Puerto Sur|Southhaven]]. En el hielo, el [[té de grasa|fat-tea]] calienta la larga oscuridad."
+    ]
+   },
+   {
+    "title": "Las terrazas",
+    "paragraphs": [
+     "Los cultivadores de Bastión del Sol mandan a los patos de las terrazas entre las plantas para que se coman los escarabajos de la hoja. El desfile de los patos al alba es casi tan famoso como el té. Los ladrillos de hoja prensada pueden pasar por dinero en el mar."
+    ]
+   },
+   {
+    "title": "La polilla cortés",
+    "paragraphs": [
+     "Las casas de té aprecian una polilla de taza de té para mantener caliente una taza llena. Hoja clara dulce dejada en un alféizar puede ganarse su compañía."
+    ]
+   },
+   {
+    "title": "Todo el mundo la toma; no hay dos regiones que se pongan de acuerdo en cómo",
+    "paragraphs": [
+     "Té de fortaleza ([[Frontera del Norte|Northern Frontier]]): preparado negro y amargo, batido con mantequilla y una pizca de sal. Lo bastante espeso, dicen, para calafatear un casco.",
+     "Té de grasa ([[Extensión Helada|Icy Expanse]]): batido con grasa de foca derretida y sal. A los visitantes les parece horrible, y para el tercer día se arrepienten de haberse burlado."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Los cafés de [[Ventoro|Goldwind]] se pelean por ella con los cultivadores de las terrazas con el fervor de una enemistad de sangre."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Vieron en Puerto Sur a un sacerdote de la Madre Escarlata comprando al por mayor el café de los factores Fennick. Nadie dice qué quiere con tanto.” (se oye en las Tierras Salvajes del Sur)",
+     "“Las terrazas de Bastión del Sol cultivan una hoja clara de la que el Registro compra hasta la última hoja, y nunca han dejado que nadie la pruebe.” (un recolector del Gremio de las Terrazas)"
+    ]
+   }
+  ]
  },
  "swordtooth": {
   "subtitle": "Azarox · Tradición de guerra",
@@ -10182,7 +10260,7 @@
       ],
       [
        "Reposadía",
-       "El día libre de las islas: templo, llamado de la marea y la comida larga"
+       "El día libre de las islas: templo, la Llamada de la Marea y la comida larga"
       ]
      ]
     }
@@ -17083,21 +17161,79 @@
  },
  "dress-and-the-five-glance-read": {
   "gloss": "Dress and the Five-Glance Read",
-  "subtitle": "La vida diaria",
+  "subtitle": "Leer a un desconocido de un vistazo",
   "summary": "Todo isleño lee sin pensarlo la faja, el metal, la tela, las botas y la tinta de un desconocido. En el Corazón, el lujo es el color.",
-  "title": "La ropa y la lectura de las cinco miradas"
+  "title": "La ropa y la lectura de cinco miradas",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La lectura de cinco miradas. Todo isleño lee sin pensarlo la faja, el metal, la tela, las botas y la tinta de un desconocido. Tú también deberías.",
+     "La [[Frontera|Frontier]]: lana gruesa, cuero, tela aceitada y hierro, en grises, pardos y el azul glasto de [[Fuerte de Hierro|Ironfort]], porque el tinte es barato y no se notan las manchas de sal ni el hollín. Cada familia teje su propio patrón en los suéteres del [[tejido de la familia|kin-knit]], y así se reconoce a los ahogados.",
+     "El [[Corazón|Heartland]]: sedas, brocados y lanas finas. El lujo es el color: por costumbre, el [[púrpura de arrecife|reefpurple]] está reservado para los asientos del [[Consejo|Council]] y el alto clero, y la gente trabajadora viste avena y azul. La gente de la [[Universidad|University]] lleva sus anillos de cobre.",
+     "El Sur: rojos, naranjas, dorados y colores de tierra contra el negro; ropa ligera y suelta; oro en abundancia, que se lleva como “un voto de desconfianza en [[Ventoro|Goldwind]]”; y arte en el cuerpo que registra el linaje y las hazañas.",
+     "El Hielo: pieles y cueros en muchas capas, amuletos de hueso y marfil tallados; la costura entre dos piezas de hielo es la medida de la posición de una familia.",
+     "El luto:",
+     "Tela sin teñir en la Frontera.",
+     "Gris en el Corazón.",
+     "Pintura blanca en la cara en el sur.",
+     "Hollín en la frente en el hielo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Alguien está comprando todo el tinte de púrpura de arrecife que pasa por Surco de Perlas. El Consejo no encuentra al comprador, y la casa Pelagar no quiere decirlo.” (se oye en el Corazón Central)"
+    ]
+   }
+  ]
  },
  "food-of-the-islands": {
   "gloss": "Food of the Islands",
-  "subtitle": "La vida diaria",
-  "summary": "Nudos de sal, dulce de alga, pan de pescado, arenquillos, hogazas de sopa, Pibcha y caldo de sangre: lo que se come en las islas, puerto por puerto.",
-  "title": "La comida de las islas"
+  "subtitle": "Lo que comen las islas, puerto por puerto",
+  "summary": "Nudos de sal, dulce de alga, pan de pescado, arenquillos, hogazas de sopa, pibcha y caldo de sangre: lo que comen las islas, puerto por puerto.",
+  "title": "La comida de las islas",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "En todas partes:",
+     "[[Nudos de sal|Saltknots]]: pan hervido en agua de mar y retorcido en verdaderos nudos marineros. Los niños aprenden los nudos comiéndoselos: de centeno en el norte, de miel en el [[Corazón|Heartland]], nudos rojos en el sur, nudos de grasa en el hielo.",
+     "Dulce de alga: [[algamiel|honeywrack]] confitada. El primer corte de cada temporada se le debe al pacto del mar.",
+     "Pan de pescado: la comida rápida de la calle; con una [[Ola|Bit]] se compra uno.",
+     "Por región:",
+     "La [[Frontera|Frontier]]: pescado salado y pan negro, guiso de raíces y cebada, carnes ahumadas, queso duro, la cerveza negra de [[Fuerte de Hierro|Ironfort]], la [[olla de la Frontera|Frontier Pot]], y los [[arenquillos|pickets]], palitos de arenque ahumado de las carretillas del muelle.",
+     "El Corazón: platos especiados y salsas delicadas, los vinos de [[Bastión del Sol|Sunhold]], las [[hogazas de sopa|chowder-loaves]], los cafés, y el [[Pastel Alavento|Windborne Cake]], que se vende en la muralla del puerto de [[Ventoro|Goldwind]] al alba.",
+     "El Sur: la carne de sauriano en el centro de la mesa, de los asados de lomobramo a los huevos de faucecloca; fruta de la selva, pescado de río, ajíes, pibcha, huevos de brasa, y tsoka, la calabaza compartida de cerveza de raíz que es un insulto rechazar. Los lácteos de mamífero son un lujo, porque los saurianos no dan leche.",
+     "El Hielo: ballena, foca, pescado de hielo y grasa, conservados contra la [[Larga Noche|Long Night]]; [[caldo de sangre|Bloodbroth]] y chicharrón de grasa de ballena. Al huésped se le da grasa y fuego sin preguntar."
+    ]
+   }
+  ]
  },
  "games-and-pastimes": {
   "gloss": "Games and Pastimes",
-  "subtitle": "La vida diaria",
-  "summary": "Llamada de la Marea en cada playa, las regatas del Tirón Largo, Nueve Puertos en las tabernas, duelos de cometas en Ventoro y ringstone en el sur.",
-  "title": "Juegos y pasatiempos"
+  "subtitle": "Cómo juegan las islas",
+  "summary": "La Llamada de la Marea en cada playa, las regatas del Tirón Largo, Nueve Puertos en las tabernas, los duelos de cometas en Ventoro, la piedra del aro en el sur.",
+  "title": "Juegos y pasatiempos",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La [[Llamada de la Marea|Tidecall]]: el juego de cada playa. Siete contra siete con la marea baja, una pelota de corcho que flota llamada la boya, dos postes llamados las marcas, y ningún reloj: termina cuando la marea llega a la piedra de la llamada. “La marea lo dice.” El final con el agua a la rodilla es la última agua. El gran partido del año es el [[Partido de la Carta|Charter Match]] en [[Ventoro|Goldwind]]: la Armada contra los [[Cazadores|Hunters]].",
+     "El [[Tirón Largo|Long Pull]]: regatas de botes de remo.",
+     "La [[Carrera de la Pata de Palo|Peg Leg Race]]: los marineros corren por la cubierta con una pierna atada; cada viaje largo tiene una.",
+     "[[Nueve Puertos|Nine Ports]]: el juego de taberna de fichas de carga y faroleo. Los pocchin hacen trampa.",
+     "La [[Frontera|Frontier]]: el Halado, el concurso de tirar de la cuerda de los estibadores que arregla las disputas entre tripulaciones, y el [[Fortín de la Puerta|Gatehold]], un juego de tablero de murallas y asedios.",
+     "El [[Corazón|Heartland]]: el juego de cartas [[Consejo|Council]], que se les enseña a los hijos de las casas; los duelos de cometas con cuerdas espolvoreadas de vidrio; y la [[Vuelta|Turning]], el paseo del atardecer por la muralla del puerto de Ventoro.",
+     "El Sur: la piedra del aro, un juego de pelota con la cadera a través de un aro alto de piedra que arregla las peleas de las aldeas, y las carreras de crestaveloces en la [[Carrera del Espinazo del Sol|Sunspine Run]].",
+     "El Hielo: el [[Lanzamiento Largo|Long Throw]] de arpones y dardos de hueso de foca, la Fortaleza, un juego de tablero de murallas y piezas capturadas, y el [[Cuento Largo|Long Tell]], un concurso de relatos donde los que escuchan deciden qué es verdad.",
+     "Humo y canción: la hoja del sur para pipa de [[Puerto Sur|Southhaven]], y “[[Tráela a Casa|Bring Her Home]]”, la saloma que todo el mundo sabe."
+    ]
+   }
+  ]
  },
  "languages-of-the-archipelago": {
   "gloss": "Languages of the Archipelago",
@@ -17206,7 +17342,7 @@
     "paragraphs": [
      "Los [[Días Quietos|Still Days]]: cinco días entre Okram y Eo que no son de ningún dios. Las deudas se detienen, los tribunales cierran, y todo trato feérico se cobra.",
      "La [[Marea Rey|King Tide]]: quédate en casa, protege la puerta.",
-     "[[Reposadía|Restday]]: templo, llamado de la marea y la comida larga, cada Ciclo."
+     "[[Reposadía|Restday]]: templo, la Llamada de la Marea y la comida larga, cada Ciclo."
     ]
    }
   ]

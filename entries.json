@@ -12467,7 +12467,10 @@
    "promise-doves",
    "hospitality",
    "month-names"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "kellum",
@@ -12633,7 +12636,10 @@
    "terrace-ducks",
    "teacup-moth",
    "coinage"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "swordtooth",
@@ -30320,7 +30326,10 @@
    "heartland",
    "easthold-westwatch-and-pearl-groove",
    "oilfleece-sheep"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "food-of-the-islands",
@@ -30357,7 +30366,10 @@
    "sunhold",
    "goldwind",
    "festivals-of-the-ice"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "games-and-pastimes",
@@ -30394,7 +30406,10 @@
    "southhaven",
    "patrons-of-the-peoples",
    "sayings-youll-hear"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "languages-of-the-archipelago",
