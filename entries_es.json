@@ -36091,5 +36091,170 @@
    }
   ],
   "title": "La Corte del Invierno"
+ },
+ "spring-court": {
+  "gloss": "The Spring Court",
+  "aliases": [
+   "La Corte de la Primavera",
+   "la Corte de la Primavera",
+   "la Primera Flor",
+   "La Primera Flor",
+   "Dama Zarza",
+   "Marqués de las Efímeras",
+   "Correo de Pétalos",
+   "El Jardín que Ríe"
+  ],
+  "subtitle": "La Primera Flor: juegos, risas y apuestas que nadie mencionó",
+  "summary": "La Primavera es la más amable de las Cortes, lo que en el Feérico no es muy amable. Juega los juegos viejos con el gusto viejo, y paga sus deudas con favores, flores y cosas que no sabías que podías perder.",
+  "epigraph": {
+   "quote": "¡Ay, ganaste! Qué lindo. Ahora tú eliges el próximo juego, y nosotros elegimos para qué es.",
+   "by": "Una cortesana de la Primera Flor"
+  },
+  "facts": [
+   [
+    "Corte",
+    "la [[Primera Flor|First Bloom]]"
+   ],
+   [
+    "Soberana",
+    "Aoifel, la [[Risa Verde|Green Laugh]]"
+   ],
+   [
+    "Sede",
+    "El [[Jardín que Ríe|Laughing Garden]]"
+   ],
+   [
+    "Aprecian",
+    "Una risa de verdad, un juego nuevo, un buen perdedor, una sorpresa, los pies descalzos en el pasto"
+   ],
+   [
+    "No soportan",
+    "El aburrimiento, una lista de precios, un aguafiestas, los zapatos, y el Otoño"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La Corte",
+    "paragraphs": [
+     "El Jardín que Ríe, que nunca está dos veces en el mismo lugar. Ahí siempre es la primera mañana tibia. Los senderos se reacomodan cuando nadie mira, y los setos están en el juego.",
+     "Jóvenes, descalzos por ley de la propia Reina, y recargados de flores. Nadie en la Primavera aparenta más de veinte años, y varios son más viejos que las islas. Los ojos de sus soñadores son verdes."
+    ]
+   },
+   {
+    "title": "El camino viejo y el nuevo",
+    "paragraphs": [
+     "Casi todos [[Luminosos|Seelie]]. Los [[Sombríos|Unseelie]] de la Primavera no pelean. Juegan en serio."
+    ]
+   },
+   {
+    "title": "Costumbres y deudas",
+    "paragraphs": [
+     "Lo que la [[Corte|Court]] se exige a sí misma, y te exige a ti. Sus propios feéricos lo guardan como ley."
+    ],
+    "table": {
+     "headers": [
+      "Si",
+      "Entonces"
+     ],
+     "rows": [
+      [
+       "Haces reír de verdad a un feérico de la Primavera",
+       "Te debe una [[deuda de risa|laugh-debt]]: un favor pequeño, dado con gusto, sin llevar la cuenta. Es la única deuda segura del [[Feérico|Faewild]]."
+      ],
+      [
+       "Ganas un juego",
+       "Tú nombras el próximo juego. Ellos nombran lo que se apuesta."
+      ],
+      [
+       "Pierdes un juego",
+       "Se llevan algo que no sabías que tenías: tu silbido, tu sentido del norte, tus [[Monedías|Coinsdays]]."
+      ],
+      [
+       "Aceptas jugar",
+       "Pregunta cómo termina antes de que empiece. Un juego sin final sigue jugándose."
+      ],
+      [
+       "Te ofrecen una flor",
+       "Nunca la rechaces, y nunca la guardes después de que se marchite."
+      ],
+      [
+       "Usas zapatos en el Jardín",
+       "Quítatelos en la reja. La Reina exige que cada invitado ande descalzo y sienta el pasto con sus propios pies. Los enviados, los caballeros y los otros soberanos no quedan eximidos."
+      ],
+      [
+       "Pisas sus flores con zapatos",
+       "Le declaraste la guerra a la Primavera. No es una manera de decir, y ya pasó."
+      ],
+      [
+       "Aburres a uno de ellos",
+       "Van a volver interesante la tarde. No la vas a disfrutar."
+      ],
+      [
+       "Recuperas a un niño de la Primavera",
+       "El niño vuelve a casa con un regalo. No preguntes qué se quedaron."
+      ]
+     ],
+     "caption": "Si haces esto en la Corte de la Primavera"
+    }
+   },
+   {
+    "title": "La casa",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Quién",
+      "Qué son"
+     ],
+     "rows": [
+      [
+       "La [[Dama Zarza|Dame Bramble]]",
+       "Señora de los Juegos. Arbitra todo y nunca, ni una vez, ha sido imparcial. Luminosa."
+      ],
+      [
+       "El [[Marqués de las Efímeras|Marquis of Mayflies]]",
+       "El favorito de la Reina. El título es real, y el que lo tiene cambia más o menos una vez por semana."
+      ],
+      [
+       "El [[Correo de Pétalos|Petal Post]]",
+       "La gente menuda de la Primavera: duendecillos por cientos, que entregan invitaciones que nadie recuerda haber aceptado."
+      ]
+     ],
+     "caption": "Feéricos de la Corte"
+    }
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "A la Corte la llaman la Primera Flor por Onwen, su primera Reina, que dio la vida para levantar el [[Velo|Veil]]. El 13 de Ezra, el [[Deshielo que Ríe|Laughing Thaw]], a las heladas tardías se las espanta a burlas con juegos, y las primeras flores se llevan adentro de las casas. Los liriath y los florianos honran a su Corte. Es la Corte de la que más probablemente vuelva un niño perdido, y la que más probablemente se lo haya llevado."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Alguien del grupo perdió sus Monedías en un juego, y algo importante está por pasar en un Monedía.",
+     "Un niño de una aldea volvió de la Primavera con un regalo que es demasiado para una aldea.",
+     "El Marqués de las Efímeras quiere quedarse con el título una segunda semana, y les va a pagar a unos mortales para que lo ayuden."
+    ]
+   },
+   {
+    "title": "La pelea con el Invierno",
+    "paragraphs": [
+     "La casa de la Primavera detesta a la [[Corte del Invierno|Winter Court]]. Cada año, dice, el Invierno se aferra al Cambio un poco más de lo que le toca, y se roba una semana de flores. La Dama Zarza lleva la cuenta. La Reina nunca, ni una vez, ha dejado que nadie lo arregle, y cambia de tema cuando le preguntan."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay un juego en el Jardín que Ríe que empezó antes de la Guerra Orka. Dos de los jugadores son mortales, y creen que sigue siendo la misma tarde.” (un anciano floriano)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKk9ud2VuLCBsYSBbW1ByaW1lcmEgRmxvcnxGaXJzdCBCbG9vbV1dLioqIExhIHByaW1lcmEgUmVpbmEgZGUgbGEgUHJpbWF2ZXJhIGRpbyBzdSB2aWRhIHBhcmEgbGV2YW50YXIgZWwgW1tWZWxvfFZlaWxdXS4gQW9pZmVsIGVzIGxhIHNlZ3VuZGEgUmVpbmEgZGUgbGEgUHJpbWF2ZXJhLCB5IGxhIGVsaWdpZXJvbiBwb3JxdWUgc2UgcmlvIGVuIGVsIGZ1bmVyYWwsIHF1ZSBlcyBsbyBxdWUgT253ZW4gaGFiw61hIHBlZGlkby4iLCAiKipMYXMgQ29ydGVzIGxvIGVudGllbmRlbiBhbCByZXbDqXMuKiogQ2FkYSBjYXNhIGNyZWUgcXVlIGxhIG90cmEgZXN0w6EgY29uc3BpcmFuZG8gcGFyYSBlc3RpcmFyIHN1IGVzdGFjacOzbi4gTmluZ3VuYSBkZSBsYXMgZG9zIFJlaW5hcyBwdWVkZSBjb3JyZWdpcmxhcyBzaW4gZGFyIGV4cGxpY2FjaW9uZXMuIEVsIFtbU2XDsW9yIEd1YXJkYWVzY2FyY2hhfExvcmQgUmltZXdhcmRdXSB5IGxhIFtbRGFtYSBaYXJ6YXxEYW1lIEJyYW1ibGVdXSBsbyBzYWJlbiwgeSBzZSBlc2NyaWJlbiBjYXJ0YXMgbXV5IGN1aWRhZG9zYXMuIiwgIioqQW9pZmVsLioqIFNlIGVuYW1vcmEgZGUgY3VhbHF1aWVyYSBxdWUgbGEgaGFnYSByZcOtciwgeSBzaWVtcHJlIHNlIGxlIHBhc2EuIEVzdGEgdmV6IG5vLiBFcyBlbCDDum5pY28gYW1vciBxdWUgdGllbmUgcXVlIHNlIHF1ZWRhLCB5IGxvIGRldGVzdGEsIHBvcnF1ZSBubyBwdWVkZSBxdWVkYXJzZSBjb24gTW9ydGhyeW4sIHkgcG9ycXVlIGxlIHJlY3VlcmRhIHF1ZSBlcyB1bmEgUmVpbmEgY29uIHVuYSBlc3RhY2nDs24gcXVlIGNhcmdhci4iLCAiKipQb3IgcXXDqSBBb2lmZWwgYW5kYSBkZXNjYWx6YS4qKiBTYWJlIGxvIHF1ZSBlcyBlbCBWZWxvLiBObyB2YSBhIGNhbWluYXIgY2FsemFkYSBzb2JyZSBzdSBwcmVkZWNlc29yYSwgeSBubyB2YSBhIGRlamFyIHF1ZSBuYWRpZSBtw6FzIGxvIGhhZ2EuIiwgIioqRWwgVmVsbyBlcyBPbndlbi4qKiBMYSBwcmltZXJhIFJlaW5hIGRlIGxhIFByaW1hdmVyYSBubyBtdXJpw7MgYWwgaGFjZXJsby4gU2UgY29udmlydGnDsyBlbiDDqWwuIExvIHF1ZSBxdWVkYSBkZSBlbGxhIGVzIGVzZW5jaWE6IGxvcyBmZcOpcmljb3MgY29tbyBlcmFuIGFudGVzIGRlIGxhIGd1ZXJyYSwgZXh0ZW5kaWRvcyBmaW5vcyBoYXN0YSB2b2x2ZXJzZSB1bmEgZnJvbnRlcmEuIEVzIG3DoXMgZGVsZ2FkbyBlbiBsYSBbW01hcmVhIFJleXxLaW5nIFRpZGVdXSB5IGVuIGxvcyBbW0TDrWFzIFF1aWV0b3N8U3RpbGwgRGF5c11dIHBvcnF1ZSBlcyBjdWFuZG8gZWxsYSBlc3TDoSBtw6FzIGNhbnNhZGEuIl19"
+   }
+  ],
+  "title": "La Corte de la Primavera"
  }
 }
