@@ -35788,5 +35788,151 @@
    }
   ],
   "title": "La Corte del Verano"
+ },
+ "autumn-court": {
+  "gloss": "The Autumn Court",
+  "aliases": [
+   "La Corte del Otoño",
+   "la Corte del Otoño",
+   "la Cosecha Roja",
+   "La Cosecha Roja",
+   "Preboste Acedera",
+   "Dama Rue Mantoceniza",
+   "Viejo Membrillo",
+   "Los Salones del Último Trato"
+  ],
+  "subtitle": "La Cosecha Roja: tratos, deudas y el precio de todas las cosas",
+  "summary": "El Otoño es la Corte del libro de cuentas. Ahí todo tiene precio, el precio siempre es justo, y nunca es amable. Es la Corte con la que más tratan los mortales, y a la que menos le ganan.",
+  "epigraph": {
+   "quote": "No hacemos trampa. Nunca nos hizo falta. Tú viniste a nosotros.",
+   "by": "Un administrador de la Cosecha Roja"
+  },
+  "facts": [
+   [
+    "Corte",
+    "la [[Cosecha Roja|Red Harvest]]"
+   ],
+   [
+    "Soberano",
+    "[[Vael Espinaluto|Vael Mournthorn]], el [[Rey Segador Carmesí|Crimson Reaper-King]]"
+   ],
+   [
+    "Sede",
+    "Los [[Salones del Último Trato|Halls of the Last Bargain]]"
+   ],
+   [
+    "Aprecian",
+    "Una cuenta exacta, una deuda pagada antes de tiempo, una primera fruta, algo a lo que nadie más le ha puesto precio todavía"
+   ],
+   [
+    "No soportan",
+    "El desperdicio, una promesa vaga, la caridad, y la Primavera"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La Corte",
+    "paragraphs": [
+     "Los Salones del Último Trato, en los [[Huertos Rojos|Red Orchards]], donde siempre es la última semana tibia del año. Los salones son salas de cuentas, y los huertos nunca terminan de soltar fruta.",
+     "Serios, bien vestidos y cansados. Rojizo, vino y pardo. Cada uno lleva algún tipo de cuenta: un cordón con nudos, un palo con muescas, un libro. Los ojos de sus soñadores son rojos."
+    ]
+   },
+   {
+    "title": "El camino viejo y el nuevo",
+    "paragraphs": [
+     "La más dividida de las cuatro. Los administradores [[Luminosos|Seelie]] sostienen que un precio justo es sagrado. Los segadores [[Sombríos|Unseelie]] sostienen que un deudor es una cosecha. Su pelea fija los precios a los dos lados del [[Velo|Veil]]."
+    ]
+   },
+   {
+    "title": "Costumbres y deudas",
+    "paragraphs": [
+     "Lo que la [[Corte|Court]] se exige a sí misma, y te exige a ti. Sus propios feéricos lo guardan como ley."
+    ],
+    "table": {
+     "headers": [
+      "Si",
+      "Entonces"
+     ],
+     "rows": [
+      [
+       "Aceptas algo antes de que se nombre su precio",
+       "No tiene límite. Es la trampa más vieja del [[Feérico|Faewild]], y todavía funciona."
+      ],
+      [
+       "Pagas una deuda antes de tiempo",
+       "El Otoño te debe el cambio: una cosa pequeña y verdadera que no sabías."
+      ],
+      [
+       "Traes la primera fruta de una cosecha",
+       "El Otoño no se lleva nada más de ese campo este año."
+      ],
+      [
+       "Pides ver tu página",
+       "Cualquier deudor puede leer su propia página en el libro de cuentas, una vez. Casi todos desearían no haberlo hecho."
+      ],
+      [
+       "Pillas a un administrador en un error de cuenta",
+       "El trato queda anulado, y el administrador te sirve durante una temporada. Ha pasado dos veces."
+      ],
+      [
+       "Heredas una deuda",
+       "Es tuya, con los intereses. También lo es cualquier cosa que haya comprado esa deuda."
+      ],
+      [
+       "Ofreces un regalo",
+       "Le van a poner precio, y te lo van a pagar, hasta la última [[Ola|Bit]]. No te ofendas. Es la única manera que conocen de dar las gracias."
+      ]
+     ],
+     "caption": "Si haces esto en la Corte del Otoño"
+    }
+   },
+   {
+    "title": "La casa",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Quién",
+      "Qué son"
+     ],
+     "rows": [
+      [
+       "El [[Preboste Acedera|Reeve Sorrel]]",
+       "Guardián del Libro de Cuentas. Nunca se ha equivocado en una suma y nunca ha sonreído por una. Luminoso."
+      ],
+      [
+       "La Dama [[Rue Mantoceniza|Rue Ashmantle]]",
+       "La primera de los segadores. Cobra en persona, y es cortés al hacerlo. Sombría."
+      ],
+      [
+       "El [[Viejo Membrillo|Old Quince]]",
+       "Guardián de los Huertos Rojos. Te vende cualquier fruta de cualquier árbol, y te dice con honradez cuánto cuesta cada una."
+      ]
+     ],
+     "caption": "Feéricos de la Corte"
+    }
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "El 34 de Halvenir, la Cosecha Roja, el Otoño convoca su [[Último Trato|Last Bargain]], y a cada granjero del borde del Feérico se le ofrece un solo precio. Los pagarés del Otoño vencen en los [[Días Quietos|Still Days]]. Se dice que la mitad de las familias viejas del [[Corazón|Heartland]] le deben algo de los años del [[Desembarco|Landing]]."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "La página de una familia en el libro de cuentas tiene una línea que nadie vivo aceptó. Alguien tiene que ir a leerla.",
+     "Un administrador contó mal, lo sabe, y pagaría muchísimo para que nadie se dé cuenta.",
+     "El Otoño compró una deuda que el grupo le debe a otra persona. Las condiciones nuevas llegan por duendecillo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Rue Mantoceniza nunca le ha cobrado a un niño. El Otoño hace como que no se ha dado cuenta.” (un granjero de la frontera)"
+    ]
+   }
+  ],
+  "title": "La Corte del Otoño"
  }
 }
