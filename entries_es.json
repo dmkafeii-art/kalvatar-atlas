@@ -17495,30 +17495,61 @@
  },
  "lactinius-windcaller": {
   "subtitle": "La interrupción favorita de la ciudad",
-  "summary": "Voz de los Cazadores en el Consejo, Lactinius Llamavientos es un elfo hermoso de cabello rubio platinado, querido por la ciudad y el único Cazador de platino de los Diez cuya identidad es pública.",
+  "summary": "La voz de los Cazadores en el Consejo, Lactinius Llamavientos es un elfo hermoso de cabello rubio platino, una figura pública muy querida y el único Cazador de Platino de los Diez al que se conoce abiertamente.",
   "sections": [
    {
-    "title": "El asiento de los Cazadores",
+    "title": "Aspecto",
     "paragraphs": [
-     "Lactinius ocupa el asiento de los Cazadores en el Consejo de las Islas Cartografiadas. Junto a los representantes de los nobles, el Congreso Mercantil, la Marina y la Universidad, lleva a la cámara el conocimiento que la orden tiene de los peligros del archipiélago.",
-     "Es carismático, impredecible y querido en Ventoro. Sus colegas toleran el desorden porque su conocimiento es difícil de reemplazar. Su figura pública tiene tanta calidez y espontaneidad como procedimientos tienen los asuntos del Consejo."
+     "Un elfo de una belleza llamativa, de cabello rubio platino y orejas puntiagudas. Su presencia pública es carismática y fácil de reconocer, tan familiar en [[Ventoro|Goldwind]] como el escaño del [[Consejo|Council]] que ocupa."
     ]
    },
    {
-    "title": "Un platino a la vista de todos",
+    "title": "El escaño de los Cazadores",
     "paragraphs": [
-     "Solo pueden existir diez insignias de platino. Sus portadores están en otro plano respecto a la escala de bronce, plata y oro, y la mayoría mantiene su identidad fuera de la vista pública. Lactinius es aquel al que las islas pueden nombrar abiertamente.",
-     "Un asiento en el Consejo y un [[Cazador del Sello|Sigil Hunter]] representan autoridades distintas. En Lactinius se encuentran: el platino conocido por todos es también quien debe darles voz a los Cazadores entre los poderes que gobiernan las islas cartografiadas."
+     "Lactinius tiene el escaño de los Cazadores en el Consejo de las [[Islas Cartografiadas|Charted Isles]]. Junto a los representantes de los nobles, el [[Congreso Mercantil|Mercantile Congress]], la Armada y la [[Universidad|University]], trae a la sala lo que la orden sabe de los peligros del archipiélago.",
+     "Es carismático, impredecible y querido en Ventoro. Sus colegas toleran el desorden porque su saber es difícil de reemplazar. La figura pública tiene tanto de calidez y desorden como los asuntos del Consejo tienen de procedimiento."
+    ]
+   },
+   {
+    "title": "Un Platino conocido públicamente",
+    "paragraphs": [
+     "Solo pueden existir diez insignias de Platino. Sus portadores están en otro plano que la escalera de Bronce, Plata y Oro, y casi todos mantienen su identidad lejos de la vista pública. Lactinius es el que las islas pueden nombrar abiertamente.",
+     "Un escaño del Consejo y un [[Sello|Sigil]] de Cazador describen clases distintas de autoridad. En Lactinius se encuentran: el Platino conocido públicamente es también la persona que tiene que darles voz a los Cazadores entre los poderes que gobiernan las islas cartografiadas."
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Lactinius trae calidez y desorden a una sala construida alrededor del procedimiento. Es impredecible, y sus colegas aprendieron a hacerle lugar a eso: poca gente puede igualar lo que él sabe de los peligros que hay más allá del puerto.",
+     "Su popularidad es tanto de la ciudad como de los Cazadores. Ventoro conoce su cara, y la orden conoce el peso de la insignia que hay detrás. Esas dos clases de reconocimiento lo vuelven un lazo especialmente visible entre la gente de la calle y los poderes de la mesa."
+    ]
+   },
+   {
+    "title": "La Logia y el Consejo",
+    "paragraphs": [
+     "La [[Logia de Ventoro|Goldwind Lodge]] es la casa principal de los Cazadores. Su [[Maestro de Contratos|Contract-Master]], su [[Intendente|Quartermaster]] y su [[Cronista|Chronicler]] se ocupan del trabajo, el equipo y las hazañas registradas de una orden repartida por las islas. Lactinius representa a esa orden más amplia cuando se reúnen los cinco escaños.",
+     "El trabajo de los Cazadores puede llevar a una tripulación a las mismas aguas que una patrulla de la Armada. Los [[Protocolos del Rompeolas|Breakwater Protocols]] obligan a que las órdenes navales y los contratos de Cazadores en conflicto se retiren ante el oficial del Consejo más cercano. Su escaño pertenece a esa relación incómoda y necesaria entre las tripulaciones independientes y la armada."
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Para entender su lugar en las islas, sigue el camino que va de la sala del Consejo al tablero de contratos de una [[Logia|Lodge]]: decisiones públicas en un extremo, una tripulación que acepta el riesgo en el otro. El [[Código|Code]] ata a los Cazadores al cliente, a la tripulación y a los muertos. Lactinius es la cara más conocida de la gente que pronuncia ese juramento."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Los niños de Ventoro dicen que la veleta de cobre del Salón del Consejo gira para mirar a Lactinius Llamavientos dondequiera que camine.” (un patio de escuela de Ventoro)"
+     "“Los niños de Ventoro dicen que la veleta de cobre del Salón del Consejo gira hacia Lactinius Llamavientos dondequiera que camine.” (un patio de escuela de Ventoro)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNvc3BlY2hhIG11Y2jDrXNpbW8qKiBzb2JyZSBsbyBxdWUgaGF5IFtbQWJham98QmVsb3ddXSwgeSBubyBsZSBoYSBkaWNobyBuYWRhIGRlIGVzbyBhbCBbW0NvbnNlam98Q291bmNpbF1dLiIsICIqKkVsIFtbRGVzYXRhZG98VW5ib3VuZF1dKiogdG9tYSBjYWbDqSBjb24gw6lsIGNhc2kgdG9kYXMgbGFzIGVzdGFjaW9uZXMsIHkgw6lsIG5vIGxlIHRpZW5lIG5pIGVsIG3DoXMgbcOtbmltbyBtaWVkby4gRXNhIGFtaXN0YWQgdGllbmUgbcOhcyBkZSBsbyBxdWUgdW4gQ29uc2VqZXJvIGRlIFtbVmVudG9yb3xHb2xkd2luZF1dIGRlYmVyw61hIHBvZGVyIGV4cGxpY2FyLiIsICIqKlF1acOpbiBzYWJlLCBhcnJpYmE6KiogZWwgW1tHcmFuIEFsbWlyYW50ZXxHcmFuZCBBZG1pcmFsXV0gKipLYWxpdm9zIER1cmFudCoqOyAqKmxhIFtbTW9ydGFqYXxTaHJvdWRdXSoqOyAqKltbVWhhIGxhIFNvbnJpZW50ZXxTbWlsaW5nIFVoYV1dKio7IGVsIGVzY2HDsW8gZGUgbGEgW1tVbml2ZXJzaWRhZHxVbml2ZXJzaXR5XV0sICoqVGhlc3NhbHkgS2FuZSoqOyB5IGVsIGVzY2HDsW8gZGUgbG9zIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSwgKipMYWN0aW5pdXMgW1tMbGFtYXZpZW50b3N8V2luZGNhbGxlcl1dKiosIHF1ZSBzYWJlIG3DoXMgcXVlIG5hZGllIHkgZGljZSBtZW5vcy4iXX0="
    }
   ],
-  "title": "Lactinius Windcaller",
+  "title": "Lactinius Llamavientos",
   "facts": [
    [
     "Pueblo",
@@ -17526,13 +17557,22 @@
    ],
    [
     "Consejo",
-    "Asiento de los [[Cazadores|Hunters]]"
+    "El escaño de los [[Cazadores|Hunters]]"
    ],
    [
     "Rango",
-    "Platino; miembro público de los Diez"
+    "Platino; miembro de los Diez conocido públicamente"
+   ],
+   [
+    "Aspecto",
+    "Elfo hermoso de cabello rubio platino"
+   ],
+   [
+    "Papel público",
+    "La cara más conocida de los Cazadores"
    ]
-  ]
+  ],
+  "gloss": "Lactinius Windcaller"
  },
  "midnight-patron": {
   "subtitle": "Un nombre en boca de todos",
@@ -19040,7 +19080,7 @@
    {
     "title": "Familia y aliados",
     "paragraphs": [
-     "La dama Octavia Varselis trabaja para que las familias nobles no se tiren al cuello unas de otras. Julius, un mago entregado al saber, tiende el puente con la Universidad. Calista es una negociadora de talento; Aelius manda la guardia de la casa y defiende sus intereses cuando se acaban las palabras.",
+     "La Dama Octavia Varselis trabaja para que las familias nobles no se tiren al cuello unas de otras. Julius, un mago entregado al saber, tiende el puente con la Universidad. Calista es una negociadora de talento; Aelius manda la guardia de la casa y defiende sus intereses cuando se acaban las palabras.",
      "El escaño de Halsof en el Consejo descansa, así, sobre una familia que trabaja, con la diplomacia, el estudio y la protección armada sosteniendo la posición de la casa. El representante de los Nobles habla por una nobleza cuyos miembros no comparten un solo interés."
     ]
    },
@@ -19092,35 +19132,89 @@
   ]
  },
  "horace-goldspire": {
-  "title": "Horace Goldspire",
-  "subtitle": "Un nombre en boca de todos",
-  "summary": "El asiento del Congreso Mercantil en el Consejo: pomposo, ostentoso e indispensable.",
+  "title": "Horace Doraguja",
+  "subtitle": "Una bandera en el Piso de la Aguja",
+  "summary": "El escaño del Congreso Mercantil en el Consejo: pomposo, ostentoso e indispensable.",
   "sections": [
    {
-    "title": "Panorama",
+    "title": "La voz del Congreso",
     "paragraphs": [
-     "Horace Doraguja representa al Congreso Mercantil en el Consejo de las Islas Cartografiadas.",
-     "Es pomposo y ostentoso, y los demás asientos lo encuentran indispensable, que es lo que más les molesta de él.",
-     "Su familia, los Doraguja, es dueña de la Bolsa Doraguja y tiene una de las Doce Banderas en el [[Piso de la Aguja|Spire Floor]], donde cada [[Monedía|Coinsday]] se canta el precio de tablero."
+     "En [[Monedía|Coinsday]], las grandes familias mercantes de [[Ventoro|Goldwind]] anuncian cuánto va a valer un saco de grano o un barril de aceite. Cuando esas familias necesitan que las oigan en el Consejo, el Congreso Mercantil manda a Horace Doraguja.",
+     "Es pomposo y ostentoso, y los otros escaños lo encuentran indispensable, cosa que les molesta más que todo lo demás de él.",
+     "Su familia, los Doraguja, es dueña de la Bolsa Doraguja y tiene una de las Doce Banderas del [[Piso de la Aguja|Spire Floor]], donde se cantan los precios de tablero cada Monedía."
+    ]
+   },
+   {
+    "title": "La Bolsa y las Doce Banderas",
+    "paragraphs": [
+     "Los Doraguja son dueños de la Bolsa, cuyo Piso de la Aguja les da a las grandes familias mercantes su escenario público. Cada Monedía, las Doce Banderas cantan los precios de tablero de mercancías como el café, la sal, el aceite y el grano. Un poste de bandera exige una fianza de 1,000 [[Orsales|Orsals]] y veinte años en el piso, y solo pasa dentro de una familia.",
+     "La bandera de los Doraguja es una aguja de oro en campo de cobalto, rodeada de doce estrellitas de oro. “El Precio Es la Verdad” es el lema de la familia. El vino y los lujos importados son parte de su comercio, y los viñateros Tallis de [[Bastión del Sol|Sunhold]] llevan su vino al mercado bajo el sello de los Doraguja."
+    ]
+   },
+   {
+    "title": "Familia y sucesión",
+    "paragraphs": [
+     "Su hija y heredera, Celestine Doraguja, lleva el piso. Seca, cansada y excepcionalmente buena con los números, carga con el trabajo diario de la Bolsa mientras su padre lleva la voz de la familia a los asuntos públicos.",
+     "La difunta esposa de Horace era de la Casa Veldane. El alcance de su familia incluye también lazos jurados y endeudados: los pregoneros de precios Pellow y la Casa Zane. El nombre Doraguja es una red además de una bandera."
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "A Horace le gusta que se vea su riqueza, y puede ser generoso con ella. Sus colegas del Consejo pueden encontrarlo agotador. Igual necesitan al hombre que puede decirles con qué van a poder vivir los mercaderes del Piso de la Aguja."
+    ]
+   },
+   {
+    "title": "Peso político",
+    "paragraphs": [
+     "El Congreso es un colectivo de gremios, cada uno con su propio trabajo e intereses. Su gremio de banca, la [[Casa de los Tesoreros|Reckoners’ Hall]], guarda depósitos, hace préstamos y asegura cargas bajo la [[Primera Tesorera|First Reckoner]] Maera [[Hebranegra|Blackstrand]]. El escaño público de Horace es una parte de esa estructura comercial más grande."
+    ]
+   },
+   {
+    "title": "De la carga al Consejo",
+    "paragraphs": [
+     "Una carga de grano de Bastión del Sol puede llegar de la bodega de un barco a un canto de precio en el Piso de la Aguja. Una disputa por esa carga puede llegar al Consejo. Celestine lleva el piso donde se canta el precio. Horace es el hombre de la sala que se entera."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Horace Doraguja nunca ha llevado el mismo abrigo dos veces al Consejo, y ni una sola vez ha llegado tarde a una votación.” (un sastre de Ventoro)"
+     "“Horace Doraguja nunca ha llevado dos veces la misma casaca al Consejo, y nunca, ni una vez, ha llegado tarde a un voto.” (un sastre de Ventoro)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIHBsYW4gZGUgS2FzdGFuIFZvbCBLYWVybiB5YSBlc3TDoSBlbiBtYXJjaGEuKiogQ29tcHLDsyBsYXMgZGV1ZGFzIGRlIFtbQmFzdGnDs258QmFzdGlvbl1dIGEgdHJhdsOpcyBkZSBsYSBjYXNhIFphbmUgeSB0aWVuZSBlbCBwYXBlbCBkZSBsb3MgW1tEb3JhZ3VqYXxHb2xkc3BpcmVdXSBhIHRyYXbDqXMgZGUgbG9zIGNvbXByYWRvcmVzIGRlIGxhIFtbQ29tcGHDscOtYSBDYXNhY2FydGF8Q2hhcnRlcmhvdXNlIENvbXBhbnldXS4gVG9kYXbDrWEgbm8gdGllbmUgZWwgW1tDb25zZWpvfENvdW5jaWxdXSwgcGVybyB0aWVuZSBsb3MgcGFnYXLDqXMgcXVlIHZhbiBhIGRlY2lkaXIgcXVpw6luIHNlIHNpZW50YSBlbiBzdXMgc2lsbGFzLiIsICIqKkxhIFtbQm9sc2EgRG9yYWd1amF8R29sZHNwaXJlIEV4Y2hhbmdlXV0gZXN0w6EgZW4gcXVpZWJyYS4qKiBMb3MgW1tIZWJyYW5lZ3JhfEJsYWNrc3RyYW5kXV0gdGllbmVuIHN1IHBhcGVsLCB5IGxhIENvbXBhw7HDrWEgQ2FzYWNhcnRhIGNvbXByw7MgbGEgZGV1ZGEgYSB0cmF2w6lzIGRlIGxhIENhc2EgWmFuZSBwYXJhIHF1ZWRhcnNlIGNvbiBlbCBwaXNvIGRlIGxhIEJvbHNhLiBbW0xhcyBEb2NlIEJhbmRlcmFzfFRoZSBUd2VsdmUgRmxhZ3NdXSBubyBsbyBzYWJlbi4gRWwgZGVjaW1vdGVyY2VyIGVuY2FqZSwgcXVlIG51bmNhIGhhIHRlbmlkbyBiYW5kZXJhLCBlcyBlbCB2ZXJkYWRlcm8gb2JqZXRpdm8gZGUgbGEgQ29tcGHDscOtYS4iLCAiMS4gKipEb3JhZ3VqYSBlc3TDoSBlbiBxdWllYnJhLioqIExhIGZpYW56YSBkZWwgcG9zdGUgZGUgbGEgcHJvcGlhIEJvbHNhIGVzLCBlbiB2ZXJkYWQsIGRpbmVybyBkZSBsb3MgSGVicmFuZWdyYSwgeSBNYWVyYSB0aWVuZSBzdWZpY2llbnRlcyBwYWdhcsOpcyBkZSBEb3JhZ3VqYSBwYXJhIGNlcnJhciBlbCBwaXNvIGVsIFtbTW9uZWTDrWF8Q29pbnNkYXldXSBxdWUgcXVpZXJhLiBFbCBjb21wcmFkb3IgcXVlIGp1bnRhIGRldWRhIGRlIERvcmFndWphIGVuIGxvdGVzIGNoaWNvcyBlbiBzZWlzIHB1ZXJ0b3MgZXMgKipsYSBDb21wYcOxw61hIENhc2FjYXJ0YSoqLCBhIHRyYXbDqXMgZGUgKipsYSBDYXNhIFphbmUqKiwgZWwgcHJvcGlvIGFiYW5kZXJhZG8gZGUgRG9yYWd1amEuIEltZWxkYSBSb3F1ZSBsZSBoYSBwcm9tZXRpZG8gYSBWZXNwZXIgWmFuZSB1biBwb3N0ZSBwcm9waW8uIFNpIGxhIENvbXBhw7HDrWEganVudGEgc3VmaWNpZW50ZXMgcGFnYXLDqXMgZGUgRG9yYWd1amEsIHZhIGEgc2VyIGR1ZcOxYSBkZWwgcGlzbyBxdWUgc2UgbmllZ2EgYSBkYXJsZSBhc2llbnRvLiJdfQ=="
    }
   ],
   "facts": [
    [
-    "Asiento",
-    "El Congreso Mercantil, en el Consejo"
+    "Escaño",
+    "El [[Congreso Mercantil|Mercantile Congress]], en el [[Consejo|Council]]"
    ],
    [
     "Familia",
-    "[[Doraguja|Goldspire]], de las Doce Banderas"
+    "[[Doraguja|Goldspire]], de las [[Doce Banderas|Twelve Flags]]"
+   ],
+   [
+    "Título",
+    "[[Señor Mercader|Merchant Lord]]"
+   ],
+   [
+    "Heredera",
+    "Celestine Doraguja"
+   ],
+   [
+    "Negocio de familia",
+    "La [[Bolsa Doraguja|Goldspire Exchange]]"
+   ],
+   [
+    "Lema de familia",
+    "[[El Precio Es la Verdad|The Price Is the Truth]]"
    ]
-  ]
+  ],
+  "gloss": "Horace Goldspire"
  },
  "arios-and-alina-fafner": {
   "title": "Arios y Alina Fafner",
