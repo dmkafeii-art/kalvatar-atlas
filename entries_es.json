@@ -19329,7 +19329,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYTsgdmVuZGVuIGxvIHF1ZSBzZSBsbGV2YW4gZW4gW1tQdWVydG8gVmFyYW58VmFyYW4gUG9ydF1dLiIsICIqKlRyaXB1bGFjacOzbjoqKiBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0geSBmb3F1ZXJvcyBkZSBsYSBbW0V4dGVuc2nDs258RXhwYW5zZV1dLiIsICIqKkxhIHZlcmRhZDoqKiBsb3MgZ2VtZWxvcyBzb24gRWxmb3MgZGUgbGEgRXNjYXJjaGEsIHVuIGhlcm1hbm8geSB1bmEgaGVybWFuYSwgeSBsYSAqKltbQ29yb25hIGRlbCBJbnZpZXJub3xDcm93biBvZiBXaW50ZXJdXSoqIGVzIHJlYWwuIFNlIGxhIHJvYmFyb24gYSBsYSBbW0NvcnRlfENvdXJ0XV0gZGVsIEludmllcm5vIGRlICoqTW9ydGhyeW4qKiBkdXJhbnRlIGxhIMO6bHRpbWEgW1tNYXJlYSBSZXl8S2luZyBUaWRlXV0sIGN1YW5kbyBlbCBbW1ZlbG98VmVpbF1dIGVzdGFiYSBkZWxnYWRvLiBFbCBjYW1pbm8gZGUgaGllbG8gYmFqbyBzdSBxdWlsbGEgZXMgb2JyYSBkZSBsYSBDb3JvbmEsIHkgdGFtYmnDqW4gZWwgZnLDrW8gZGUgc3VzIG9qb3MuIExhIENvcnRlIGRlbCBJbnZpZXJubyBsYSBxdWllcmUgZGUgdnVlbHRhLCB5IGVsIFtbTGFyZ28gU2lsZW5jaW98TG9uZyBTaWxlbmNlXV0gZXMgcGFjaWVudGUuIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxlYWx0YWQ6KiogbmluZ3VuYTsgdmVuZGVuIGxvIHF1ZSBzZSBsbGV2YW4gZW4gW1tQdWVydG8gVmFyYW58VmFyYW4gUG9ydF1dLiIsICIqKlRyaXB1bGFjacOzbjoqKiBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0geSBmb3F1ZXJvcyBkZSBsYSBbW0V4dGVuc2nDs258RXhwYW5zZV1dLiIsICIqKkxhIHZlcmRhZDoqKiBsb3MgZ2VtZWxvcyBzb24gRWxmb3MgZGUgbGEgRXNjYXJjaGEsIHVuIGhlcm1hbm8geSB1bmEgaGVybWFuYSwgeSBsYSAqKltbQ29yb25hIGRlbCBJbnZpZXJub3xDcm93biBvZiBXaW50ZXJdXSoqIGVzIHJlYWwuIFNlIGxhIHJvYmFyb24gYSBsYSBbW0NvcnRlIGRlbCBJbnZpZXJub3xXaW50ZXIgQ291cnRdXSBkZSAqKk1vcnRocnluKiogZHVyYW50ZSBsYSDDumx0aW1hIFtbTWFyZWEgUmV5fEtpbmcgVGlkZV1dLCBjdWFuZG8gZWwgW1tWZWxvfFZlaWxdXSBlc3RhYmEgZGVsZ2Fkby4gRWwgY2FtaW5vIGRlIGhpZWxvIGJham8gc3UgcXVpbGxhIGVzIG9icmEgZGUgbGEgQ29yb25hLCB5IHRhbWJpw6luIGVsIGZyw61vIGRlIHN1cyBvam9zLiBMYSBbW0NvcnRlfENvdXJ0XV0gZGVsIEludmllcm5vIGxhIHF1aWVyZSBkZSB2dWVsdGEsIHkgZWwgW1tMYXJnbyBTaWxlbmNpb3xMb25nIFNpbGVuY2VdXSBlcyBwYWNpZW50ZS4iXX0="
    }
   ]
  },
@@ -35934,5 +35934,162 @@
    }
   ],
   "title": "La Corte del Otoño"
+ },
+ "winter-court": {
+  "gloss": "The Winter Court",
+  "aliases": [
+   "La Corte del Invierno",
+   "la Corte del Invierno",
+   "el Largo Silencio",
+   "El Largo Silencio",
+   "Señor Guardaescarcha",
+   "Dama Isolwen la Sin Deshielo",
+   "Escribientes de la Escarcha",
+   "El Salón Pálido"
+  ],
+  "subtitle": "El Largo Silencio: frío, paciencia y una palabra que nunca se rompe",
+  "summary": "El Invierno es la más dura de las Cortes y la menos amiga de las islas. Es cruel, es paciente, y cumple su palabra con más exactitud que nadie con vida. Una promesa del Invierno es la moneda más dura del Feérico.",
+  "epigraph": {
+   "quote": "No nos pidas piedad. Pídenos condiciones. Tenemos condiciones.",
+   "by": "Un chambelán del Largo Silencio"
+  },
+  "facts": [
+   [
+    "Corte",
+    "el [[Largo Silencio|Long Silence]]"
+   ],
+   [
+    "Soberana",
+    "Morthryn, la [[Pálida Emperatriz del Aire y del Final|Pale Empress of Air and Ending]]"
+   ],
+   [
+    "Sede",
+    "El [[Salón Pálido|Pale Hall]]"
+   ],
+   [
+    "Aprecian",
+    "El silencio, la resistencia, una palabra exacta, una deuda cargada sin quejarse"
+   ],
+   [
+    "No soportan",
+    "Las súplicas, el ruido, la lástima, el calor ofrecido sin que se pida, y el Verano"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La Corte",
+    "paragraphs": [
+     "El Salón Pálido, tallado en una sola pieza de hielo azul bajo un cielo que siempre es la hora antes del alba. Nadie levanta la voz ahí. Adentro cae nieve, despacio, y no se posa sobre la Emperatriz.",
+     "Blancos, plateados y con las manos desnudas. Los feéricos del Invierno van sin guantes para mostrar que no sienten el frío. Hablan poco y nunca primero. Los ojos de sus soñadores son blancos."
+    ]
+   },
+   {
+    "title": "El camino viejo y el nuevo",
+    "paragraphs": [
+     "Casi todos [[Sombríos|Unseelie]], con un código de hierro. Los pocos [[Luminosos|Seelie]] del Invierno son sus abogados, y son peores."
+    ]
+   },
+   {
+    "title": "Costumbres y deudas",
+    "paragraphs": [
+     "Lo que la [[Corte|Court]] se exige a sí misma, y te exige a ti. Sus propios feéricos lo guardan como ley."
+    ],
+    "table": {
+     "headers": [
+      "Si",
+      "Entonces"
+     ],
+     "rows": [
+      [
+       "Hablas primero",
+       "Pediste algo, y debes por haberlo pedido. Espera a que te hablen."
+      ],
+      [
+       "Pides piedad",
+       "Es un insulto, y se recuerda. Pide condiciones."
+      ],
+      [
+       "Aguantas una noche en el país del Invierno sin ayuda",
+       "La Corte tiene que dejarte ir, con todo lo que trajiste y con una cosa que no trajiste."
+      ],
+      [
+       "Le das calor a un feérico del Invierno",
+       "Un fuego, un abrigo, una taza caliente. Los avergüenza, y tienen que devolverlo tres veces antes del deshielo."
+      ],
+      [
+       "Tomas la palabra del Invierno",
+       "Se va a cumplir al pie de la letra, por cada feérico de la Corte, mientras vivas. Lee la letra."
+      ],
+      [
+       "Lloras",
+       "Las lágrimas se recogen. A nadie le han dicho para qué."
+      ],
+      [
+       "Le haces un cumplido a la Emperatriz",
+       "No lo hagas. Mira su propia página."
+      ]
+     ],
+     "caption": "Si haces esto en la Corte del Invierno"
+    }
+   },
+   {
+    "title": "La casa",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Quién",
+      "Qué son"
+     ],
+     "rows": [
+      [
+       "El [[Señor Guardaescarcha|Lord Rimeward]]",
+       "Chambelán del Salón Pálido. Todo su deber es asegurarse de que nadie le diga cierta cosa a la Emperatriz. Sombrío."
+      ],
+      [
+       "La Dama [[Isolwen la Sin Deshielo|Isolwen the Unthawed]]",
+       "Su general, que no ha hablado en voz alta en cuatrocientos años y no ha necesitado hacerlo. Sombría."
+      ],
+      [
+       "Los [[Escribientes de la Escarcha|Hoarfrost Clerks]]",
+       "La gente menuda del Invierno, que escribe cada promesa en hielo y la archiva."
+      ]
+     ],
+     "caption": "Feéricos de la Corte"
+    }
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "El 22 de Okram, el Largo Silencio, la [[Corte del Invierno|Winter Court]] guarda silencio una noche, y nadie en la [[Extensión Helada|Icy Expanse]] habla más fuerte que un susurro hasta el alba. El primer Rey del Invierno desterró a los antepasados de los [[Elfos de la Escarcha|Frost Elves]], y después él mismo dejó el Salón Pálido. Nadie lo ha visto desde entonces. Es la única Corte a la que le importa cuánto vale la Krysta."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Alguien le dio un abrigo a un feérico del Invierno hace cuarenta años. Acaba de llegar el tercer pago, y es demasiado grande.",
+     "El grupo tiene la palabra del Invierno sobre algo, y el Invierno la está cumpliendo de una manera que nadie quiso.",
+     "Una banda de guerra de los Elfos de la Escarcha encontró en el hielo algo con un sello de una Corte, y quiere saber qué se le debe."
+    ]
+   },
+   {
+    "title": "La pelea con la Primavera",
+    "paragraphs": [
+     "La casa del Invierno detesta a la [[Corte de la Primavera|Spring Court]]. Cada año, dice, la Primavera llega temprano por el Cambio, con un chiste y una flor, y se roba una semana de frío. Los Escribientes de la Escarcha tienen las fechas archivadas desde la [[Guerra Orka|Orka War]]. La Emperatriz nunca, ni una vez, los ha dejado actuar en consecuencia."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Isolwen la Sin Deshielo habló el invierno pasado. Una palabra. Nadie en el Salón Pálido la quiere repetir.” (un comerciante de Bastión de Escarcha)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIHByaW1lciBSZXkgZGVsIEludmllcm5vIGVzdMOhIHZpdm8uKiogU2UgbGxhbWEgQ2FsZHJpdGguIERlc3B1w6lzIGRlbCBkZXN0aWVycm8gZGVqw7MgZWwgW1tTYWzDs24gUMOhbGlkb3xQYWxlIEhhbGxdXSB5IHNlIGVzY29uZGnDsywgYXZlcmdvbnphZG8sIHkgYSBsYSBbW0NvcnRlfENvdXJ0XV0gbGEgbGxhbWFuIGVsIFtbTGFyZ28gU2lsZW5jaW98TG9uZyBTaWxlbmNlXV0gcG9yIMOpbC4gTW9ydGhyeW4gdG9tw7MgZWwgdHJvbm8sIHkgZXMgbGEgw7puaWNhIHF1ZSBzYWJlIHF1ZSB2aXZlLCB5IGTDs25kZS4gQWxndW5vcyBkaWNlbiBxdWUgw6lsIGF6dXrDsyBhIGxvcyBiZXJzZXJrZXJzIHkgZGVzcHXDqXMgbG9zIGhpem8gc3VzIGNoaXZvcyBleHBpYXRvcmlvcy4gTnVuY2EgbG8gaGEgbmVnYWRvLCB5IHVuIHJleSBhbCBxdWUgc29sbyBodWJpZXJhbiB0cmFpY2lvbmFkbyBubyBzZSBoYWJyw61hIGVzY29uZGlkbyBkdXJhbnRlIGRpZXogbWlsIGHDsW9zLiIsICIqKkxvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gbm8gZXJhbiBjb2JhcmRlcy4qKiBFbiBsYSBbW0d1ZXJyYSBPcmthfE9ya2EgV2FyXV0sIHVuYSBmYWNjacOzbiBkZWwgSW52aWVybm8gc2UgcHVzbyBhIG1hdGFyIHBvciBtYXRhciwgeSBlbiBzdXMgaW5jdXJzaW9uZXMgYWJhdMOtYSBhIG90cm9zIGZlw6lyaWNvcyBzaWVtcHJlIHF1ZSBtdXJpZXJhbiBtw6FzIG9yY29zIHF1ZSBmZcOpcmljb3MuIEVsIHByaW1lciBSZXkgZGVsIEludmllcm5vIGxvcyBkZXN0ZXJyw7MgYWwgbXVuZG8gZGVzcGllcnRvLCBiYWpvIHVuYSBtYWxkaWNpw7NuIHF1ZSBtYXJjaGl0YSBzdSBtYWdpYSBmZcOpcmljYSB1biBwb2NvIG3DoXMgY29uIGNhZGEgZ2VuZXJhY2nDs24uIFN1cyBkZXNjZW5kaWVudGVzIG5vIHJlY3VlcmRhbiBwYXJhIG5hZGEgaGFiZXIgc2lkbyBmZcOpcmljb3MuIiwgIlRvZGFzIGxhcyBDb3J0ZXMgbGUgZ3VhcmRhbiByZW5jb3IgYWwgSW52aWVybm8gcG9yIGxvcyBiZXJzZXJrZXJzLiBUb2RhcyBsYXMgQ29ydGVzIHNhYmVuIHRhbWJpw6luIHF1ZSBlbCBJbnZpZXJubyBmdWUgbGEgw7puaWNhIGRlIGVsbGFzIHF1ZSBhbGd1bmEgdmV6IGlndWFsw7MgYSBsb3Mgb3JrYSBnb2xwZSBwb3IgZ29scGUuIiwgIioqTGFzIENvcnRlcyBsbyBlbnRpZW5kZW4gYWwgcmV2w6lzLioqIENhZGEgY2FzYSBjcmVlIHF1ZSBsYSBvdHJhIGVzdMOhIGNvbnNwaXJhbmRvIHBhcmEgZXN0aXJhciBzdSBlc3RhY2nDs24uIE5pbmd1bmEgZGUgbGFzIGRvcyBSZWluYXMgcHVlZGUgY29ycmVnaXJsYXMgc2luIGRhciBleHBsaWNhY2lvbmVzLiBFbCBbW1Nlw7FvciBHdWFyZGFlc2NhcmNoYXxMb3JkIFJpbWV3YXJkXV0geSBsYSBbW0RhbWEgWmFyemF8RGFtZSBCcmFtYmxlXV0gbG8gc2FiZW4sIHkgc2UgZXNjcmliZW4gY2FydGFzIG11eSBjdWlkYWRvc2FzLiIsICIqKk1vcnRocnluLioqIEFtYSBhIEFvaWZlbCwgeSBlcyBjdWlkYWRvc2EgY29uIGVzby4gTGEgcHJpbWVyYSB2ZXogbGEgYW3DsyB1biBzZcOxb3IgcXVlIGNvcnRlamFiYSBjdWF0cm8gdHJvbm9zLCB5IG5vIGxvIGhhIG9sdmlkYWRvLiBFbGxhIGVzIGxhIHByw6FjdGljYTogZW50cmVnYSBlbCBDYW1iaW8gZWwgZMOtYSBxdWUgdG9jYSwgeSBubyBsZSBwaWRlIGEgQW9pZmVsIHF1ZSBzZSBxdWVkZS4iLCAiKipDYWxkcml0aCBlc3TDoSBlbnRyZSBlbGxvcyAocHJvcHVlc3RhKS4qKiBFbCBwcmltZXIgUmV5IGRlbCBJbnZpZXJubyBzZSBlc2NvbmRlIGNvbiBlbCBwdWVibG8gcXVlIGRlc3RlcnLDszogdW4gdmllam8gY2F6YWRvciBzaW4gcGludGFyIGVuIHVuIHNhbMOzbiBkZWwgaW50ZXJpb3IgaG9uZG8sIHF1ZSBoYSBtYW50ZW5pZG8gZW5jZW5kaWRhIHN1IGzDoW1wYXJhIGR1cmFudGUgbcOhcyB0aWVtcG8gZGVsIHF1ZSBsYSBiYW5kYSBoYSB0ZW5pZG8gbm9tYnJlLiBObyBzYWJlbiBxdWnDqW4gZXMuIE1vcnRocnluIHNhYmUgZW4gcXXDqSBzYWzDs24uIiwgIioqTG8gcXVlIGxlcyBkZWJlbiBsYXMgQ29ydGVzLioqIFRvZGFzIGxhcyBDb3J0ZXMgbGUgZ3VhcmRhbiByZW5jb3IgYWwgSW52aWVybm8gcG9yIGxvcyBiZXJzZXJrZXJzLCB5IHRvZGFzIHNhYmVuIHF1ZSBmdWVyb24gbG9zIMO6bmljb3MgZmXDqXJpY29zIHF1ZSBhbGd1bmEgdmV6IGlndWFsYXJvbiBhIGxvcyBvcmthIGdvbHBlIHBvciBnb2xwZS4gTG9zIGNhYmFsbGVyb3MgZGVsIFZlcmFubyBubyBwZWxlYW4gY29udHJhIHVuYSBiYW5kYSBkZSBndWVycmEgZGUgbG9zIEVsZm9zIGRlIGxhIEVzY2FyY2hhLCB5IG5vIGRpY2VuIHF1ZSBlc3RhIGVzIGxhIHJhesOzbi4iXX0="
+   }
+  ],
+  "title": "La Corte del Invierno"
  }
 }
