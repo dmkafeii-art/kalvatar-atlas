@@ -26,7 +26,7 @@
     // Where "Make landfall" leads. Change to '#start' once the Start here page exists.
     newcomerHref: '#start',
     // The carousel goes after this element on the home page (falls back to the hero).
-    carouselAfter: '.stats-strip',
+    carouselAfter: '.home-paths + .atlas-ornament',
     carouselSize: 10,
     perCategory: 3,
     autoAdvanceSeconds: 7,
@@ -365,7 +365,7 @@
     var content = document.getElementById('content');
     if (!content || !content.querySelector('.hero') || content.querySelector('.kv-tide')) return;
     if (!atlas().entries.length) return;
-    var anchor = content.querySelector(CONFIG.carouselAfter) || content.querySelector('.hero');
+    var anchor = content.querySelector(CONFIG.carouselAfter) || content.querySelector('.stats-strip') || content.querySelector('.hero');
     var section = document.createElement('section');
     section.className = 'section kv-tide';
     section.setAttribute('aria-labelledby', 'kv-tide-heading');
