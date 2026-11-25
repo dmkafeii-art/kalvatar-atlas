@@ -33281,5 +33281,219 @@
    }
   ],
   "title": "Kettik del Noveno Escalón"
+ },
+ "radan-sunmere": {
+  "gloss": "Radan Sunmere",
+  "aliases": [
+   "Radan Solmar",
+   "Radan"
+  ],
+  "subtitle": "Un poco de trabajo, un poco de suerte, y por fin un sueldo",
+  "summary": "Un hechicero musculoso y tranquilo que vive de trabajos sueltos y de una buena suerte improbable, recién elegido para un año con sueldo como uno de los tres Árbitros de Ventoro.",
+  "epigraph": {
+   "quote": "Dime qué lanzaste. Después dime quién estaba parado al lado.",
+   "by": "Radan Solmar"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "Humano"
+   ],
+   [
+    "Edad",
+    "34"
+   ],
+   [
+    "Oficio de siempre",
+    "Trabajos sueltos; hechicero"
+   ],
+   [
+    "Cargo",
+    "[[Árbitro|Arbiter]], recién elegido para el 175 EC"
+   ],
+   [
+    "Mandato",
+    "Un año completo, de un [[Día de la Carta|Charter Day]] al siguiente"
+   ],
+   [
+    "Destino",
+    "[[Ventoro|Goldwind]]"
+   ],
+   [
+    "Finanzas",
+    "Poco dinero; el servicio de Árbitro le da un sueldo regular"
+   ],
+   [
+    "Suerte",
+    "Notable; se rumora una bendición divina"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un humano apuesto, muy bronceado, de complexión musculosa y poderosa, rizos oscuros y una sonrisa ancha y fácil. Su enorme sombrero puntiagudo se dobla bajo su propia extravagancia: turquesa, magenta y oro, con un ojo bordado. Un chaleco abierto sin mangas le deja los brazos desnudos; unos pantalones amplios, sandalias y una faja lujosa completan el conjunto. Collares, anillos, aretes y brazaletes pesados atrapan la luz cada vez que se mueve."
+    ]
+   },
+   {
+    "title": "Antes del hilo",
+    "paragraphs": [
+     "Radan tiene poco dinero y se gana la vida con el trabajo que se le cruce. Un mandado pagado, un contrato corto o un trabajo que necesita un hechicero lo mantienen en movimiento hasta que aparece la siguiente oportunidad. Su aspecto extravagante es una mala guía de sus finanzas.",
+     "Su magia es innata, y tiene la costumbre de improvisar en situaciones para las que otra gente se prepararía. Asombrosamente a menudo, le funciona. La persona indicada justo va pasando, un mal giro abre una puerta inesperada, o un plan inventado a mitad del problema resulta suficiente.",
+     "Que lo sortearan como Árbitro por fin le da un sueldo durante un año entero. Está contento con la idea de una paga regular y parece del todo seguro de que las responsabilidades se van a arreglar solas."
+    ]
+   },
+   {
+    "title": "El año recién elegido",
+    "paragraphs": [
+     "Recién elegido en el sorteo del Día de la Carta para el 175 EC, cumple un mandato completo de un año, que termina el próximo Día de la Carta. Su destino es Ventoro.",
+     "Su sombrero y sus galas tejidas están sintonizados con él. Siente una magia poderosa a través de su resonancia y puede mostrar u ocultar el ojo bordado a voluntad. Disfruta el lado público del cargo, aunque es muy capaz de esconder el ojo cuando le conviene la discreción."
+    ]
+   },
+   {
+    "title": "Modales y juicio",
+    "paragraphs": [
+     "Radan es sociable, seguro de su cuerpo y excepcionalmente relajado. Suele recibir un problema nuevo con la expectativa de que algo útil va a aparecer. Escucha, habla con soltura y ajusta su manera de actuar según van pasando las cosas. Pocas veces una larga preparación viene antes del ajuste.",
+     "Esa soltura puede tranquilizar a los testigos asustados y enfurecer a un colega que ya identificó todo lo que podría salir mal. Su confianza alegre sobrevive a los tropiezos, muchas veces justo el tiempo suficiente para que otro golpe de suerte le dé la razón."
+    ]
+   },
+   {
+    "title": "Amarise ya lo conocía",
+    "paragraphs": [
+     "Radan y Amarise se conocían antes del sorteo del Día de la Carta. Ella ya conocía su costumbre de improvisar, y su aparente habilidad para salirse con la suya. Compartir destino le da un año entero de exposición cercana a las dos cosas.",
+     "Sus quejas rara vez lo despeinan. Puede escuchar un recuento detallado de sus defectos con la misma atención relajada que le presta a una historia interesante. Esa familiaridad hace que cualquiera que esté cerca note enseguida sus intercambios."
+    ]
+   },
+   {
+    "title": "En la mesa",
+    "paragraphs": [
+     "Es un funcionario accesible para una tripulación cuya magia llamó la atención. Su método es conversado e improvisado, y su falta de dinero le da al empleo regular un atractivo muy práctico.",
+     "Su buena suerte debería aparecer a través de las circunstancias y las oportunidades. Si de verdad lo favorece un poder de la suerte sigue siendo un rumor, y su actitud relajada no prueba por sí misma una protección divina."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Algún poder de la suerte tiene que tenerle cariño a Radan Solmar. Nadie llega tan lejos solo con ‘seguro que sale bien’.” (un parroquiano de Ventoro)"
+    ]
+   }
+  ],
+  "title": "Radan Solmar"
+ },
+ "lysandra-vellune": {
+  "aliases": [
+   "Amarise Vellune",
+   "Amarise"
+  ],
+  "subtitle": "Un sombrero muy grande y muy poca paciencia con el sol",
+  "summary": "Una dueña pálida e impecablemente arreglada de una tienda de moda y objetos encantados, celebridad local, destinada a servir en Ventoro junto al exasperantemente relajado Radan Solmar.",
+  "epigraph": {
+   "quote": "Podemos hablar de tu Mandato bajo ese toldo. El sol ya aportó bastante.",
+   "by": "Amarise Vellune"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "Humana"
+   ],
+   [
+    "Edad",
+    "36"
+   ],
+   [
+    "Oficio de siempre",
+    "Dueña de una tienda de moda y objetos encantados; ilusionista"
+   ],
+   [
+    "Cargo",
+    "[[Árbitro|Arbiter]], recién elegida para el 175 EC"
+   ],
+   [
+    "Mandato",
+    "Un año completo, de un [[Día de la Carta|Charter Day]] al siguiente"
+   ],
+   [
+    "Destino",
+    "[[Ventoro|Goldwind]]"
+   ],
+   [
+    "Libro de conjuros",
+    "Cuero marfil, con grabados y broche de oro"
+   ],
+   [
+    "Perfil público",
+    "Una celebridad local de la moda"
+   ],
+   [
+    "Conocido de antes",
+    "[[Radan Solmar|Radan Sunmere]]"
+   ],
+   [
+    "Pidió cambio de destino",
+    "Rechazado; ofreció dos años más"
+   ],
+   [
+    "Tienda",
+    "Vellune: Galas y Encantamientos, Ventoro"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Una mujer humana atractiva y pálida, de pelo largo y claro y uñas impecables pintadas con esmalte de concha color coral. Se viste para la costa con una blusa fina y ligera, una falda de marea vaporosa y sandalias delicadas. Su enorme sombrero para el sol le echa una sombra generosa sobre la cara. Un ojo bordado descansa entre sus elegantes dibujos de hilo de oro.",
+     "Su disgusto por el sol directo se nota enseguida. Acomoda un ala, busca un toldo o mueve una conversación dos pasos de lado hacia la sombra sin interrumpir lo que está diciendo."
+    ]
+   },
+   {
+    "title": "Antes del hilo",
+    "paragraphs": [
+     "Amarise es la dueña de Vellune: Galas y Encantamientos, una tienda de Ventoro que vende moda y artículos encantados. Su gusto, su presentación y su estilo reconocible la han vuelto algo así como una celebridad local. La ropa fina, el arreglo cuidadoso y los clientes exigentes son partes conocidas de su vida de trabajo.",
+     "Es una ilusionista en ejercicio, con un libro de conjuros muy bien cuidado. Espera que las cosas se hagan como se debe, y tiene poca paciencia con la idea de que la preparación siempre puede esperar a que llegue el problema."
+    ]
+   },
+   {
+    "title": "El libro de conjuros",
+    "paragraphs": [
+     "Amarise lleva un libro de conjuros grueso, encuadernado en cuero marfil, con grabados geométricos dorados, cantos de página dorados y un broche elegante. Su cuidadoso trabajo de conjuros convive cómodamente con la moda y los objetos encantados de su tienda. Lo tiene siempre a mano durante su año como Árbitro."
+    ]
+   },
+   {
+    "title": "El año recién elegido",
+    "paragraphs": [
+     "Recién elegida en el sorteo del Día de la Carta para el 175 EC, Amarise cumple un mandato completo de un año, que termina el próximo Día de la Carta. Su destino es Ventoro.",
+     "El [[hilo de Krysta|Krysta-thread]] de sus galas está sintonizado con ella. Siente su resonancia bajo el ala ancha, y puede hacer aparecer o desaparecer el ojo bordado a voluntad. Con la marca oculta, su sombrero puede pasar por una respuesta particularmente decidida al clima."
+    ]
+   },
+   {
+    "title": "Modales y juicio",
+    "paragraphs": [
+     "Amarise es serena, observadora y de un humor seco. Nota las pequeñas contradicciones de un relato y detesta una explicación elaborada que deja sin contestar la pregunta sencilla. Muchas veces deja que una persona termine de hablar antes de repetirle sus propias palabras.",
+     "Su trato puede ser frío, pero está atenta a la vergüenza y a la intimidad. Una persona que coopera puede encontrarla dispuesta a llevar en voz baja una conversación difícil. Un intento de influir en ella con halagos suele ganarse una mirada paciente y otra vez la pregunta original."
+    ]
+   },
+   {
+    "title": "Un destino que intentó cambiar",
+    "paragraphs": [
+     "Amarise y Radan se conocían antes de que los sortearan. Ella detesta sus modales relajados, su improvisación y lo seguido que las cosas le salen bien de todos modos. Encontrar el nombre de él al lado del suyo en el destino de Ventoro le dio todas las razones para esperar un año difícil.",
+     "Intentó que le cambiaran el destino. Hasta ofreció servir dos años más como Árbitro si el [[Registro|Registry]] la ponía lejos de él. El destino era inapelable. La oferta no consiguió ningún cambio, y su mandato real sigue siendo el año único original.",
+     "Van a servir juntos en Ventoro junto a Kettik del [[Noveno Escalón|Ninth Step]]. La compostura de Radan ante sus quejas ha hecho muy poco por mejorar la opinión que ella tiene del arreglo."
+    ]
+   },
+   {
+    "title": "Vellune, mientras ella sirve",
+    "paragraphs": [
+     "[[Tessa Pliegacampana|Tessa Bellfold]] lleva el negocio diario de la tienda mientras [[Oren Juncia|Oren Sedge]] mantiene en marcha el trabajo de corte y arreglo. Amarise vuelve para las pruebas importantes y los encargos de conjuros durante su año como Árbitro. La tienda sigue siendo un lugar habitual para encontrarla y, a veces, a los colegas que le interrumpen las citas."
+    ]
+   },
+   {
+    "title": "En la mesa",
+    "paragraphs": [
+     "Su tienda y su fama pública le dan a una tripulación razones para conocerla antes de ver el ojo bordado. Un cliente que busca un artículo encantado puede descubrir que la mujer detrás del mostrador es también una de las Árbitros recién elegidas de la ciudad.",
+     "Con Radan, dale historia a la irritación: ella conoce la cara que pone él cuando no tiene plan, y él reconoce el tono que quiere decir que ella se dio cuenta. Su familiaridad puede invitar a las especulaciones sin resolver lo que cada uno siente en privado. Kettik sigue siendo su colega, nombrado igual que ellos."
+    ]
+   }
+  ],
+  "title": "Amarise Vellune"
  }
 }
