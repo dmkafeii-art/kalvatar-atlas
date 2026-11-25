@@ -431,6 +431,7 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "coinage": ["scenes", "The four coins of Kalvatar: a holed copper Bit, a silver Tide, a gold Anchor, and a square Orsal stamped with the sun face of Ors.", "Las cuatro monedas de Kalvatar: una Ola de cobre perforada, una Marea de plata, un Ancla de oro y un Orsal cuadrado con el rostro solar de Ors.", "coinage-approved-v1"],
  "serpents-coil": ["scenes", "A schooner threads the reefs at low tide.", "Una goleta cruza los arrecifes en bajamar.", "serpents-coil", {"width": 1536, "height": 864}],
  "halfwake": ["scenes", "Lanterns reflect in the glass vault above Halfwake.", "Los faroles se reflejan en la bóveda de vidrio de Halfwake.", "halfwake", {"width": 1536, "height": 864}],
  "suns-grave": ["scenes", "Two fishers find gold leaf in their net.", "Dos pescadores encuentran una lámina de oro en su red.", "suns-grave", {"width": 1536, "height": 864}],
