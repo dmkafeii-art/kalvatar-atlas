@@ -19019,36 +19019,75 @@
  },
  "halsof-varselis": {
   "title": "Halsof Varselis",
-  "subtitle": "Un nombre en boca de todos",
-  "summary": "El asiento de los Nobles en el Consejo: joven, ambicioso, calculador y, muchas veces, más frío de lo que es.",
+  "subtitle": "La Mano Justa en el Consejo",
+  "summary": "El escaño de los Nobles en el Consejo: joven, ambicioso, calculador, y muchas veces más frío de lo que es.",
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Antecedentes",
     "paragraphs": [
-     "Halsof Varselis ocupa el asiento de los Nobles en el Consejo de las Islas Cartografiadas.",
-     "Es el heredero de la Casa Varselis, la Mano Justa, cuyo jefe es su padre, el viejo Señor Linus Varhall Varselis. La casa es lo más parecido a una conciencia que tiene la nobleza, y el principal freno legal a la ambición de Vol Kaern.",
+     "Halsof Varselis tiene el [[escaño de los Nobles|Nobles' seat]] en el Consejo de las [[Islas Cartografiadas|Charted Isles]].",
+     "Es el heredero de la Casa Varselis, la Mano Justa, cuya cabeza es su padre, el viejo señor Linus Varhall Varselis. La casa es lo más parecido a una conciencia que tiene la nobleza, y el principal freno legal a la ambición de los Vol Kaern.",
      "En la mesa del Consejo es joven, serio y calculador, y muchas veces parece más frío de lo que es."
+    ]
+   },
+   {
+    "title": "La herencia de la Mano Justa",
+    "paragraphs": [
+     "La Casa Varselis gobierna desde el Salón de las Balanzas, en el [[Corazón Central|Central Heartland]]. Su balanza de plata se alza sobre un libro abierto en campo gris azulado, y su lema es “Pesado, no apostado”. La ley, la justicia y el equilibrio son los compromisos públicos de la familia.",
+     "El señor Linus sigue siendo la cabeza de la casa. Halsof es a la vez su heredero y la voz de la nobleza en el Consejo, y carga responsabilidades que ya van más allá de la sucesión. Los Varselis son aliados cercanos de la [[Universidad|University]] y el principal freno legal a la ambición de la Casa Vol Kaern."
+    ]
+   },
+   {
+    "title": "Familia y aliados",
+    "paragraphs": [
+     "La dama Octavia Varselis trabaja para que las familias nobles no se tiren al cuello unas de otras. Julius, un mago entregado al saber, tiende el puente con la Universidad. Calista es una negociadora de talento; Aelius manda la guardia de la casa y defiende sus intereses cuando se acaban las palabras.",
+     "El escaño de Halsof en el Consejo descansa, así, sobre una familia que trabaja, con la diplomacia, el estudio y la protección armada sosteniendo la posición de la casa. El representante de los Nobles habla por una nobleza cuyos miembros no comparten un solo interés."
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Es joven, ambicioso, serio y calculador. Muchas veces parece más frío de lo que es, y el peso de representar a la nobleza le cae encima en una época que se resquebraja.",
+     "La pregunta abierta es qué va a hacer con los principios de su padre. La Mano Justa tiene una reputación que vale la pena proteger; Halsof tiene que decidir cómo llevarla por un mundo político que premia la presión, las deudas de favor y el compromiso."
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Su nombre une un voto del Consejo con el Salón de las Balanzas, la alianza con la Universidad y las ambiciones de las grandes casas. Ahí hay que buscar lo que está en juego detrás de su medido porte público: quién le pide a la ley protección, quién le pide permiso, y qué pedido llega al escaño de los nobles."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“A Halsof Varselis le han pedido que ocupe la silla de los Cinco, y ha dicho que no tres veces. La cuarta podría decir que sí.” (se oye en Ventoro)"
+     "“A Halsof Varselis le han pedido que ocupe la silla de los Cinco, y ha dicho que no tres veces. La cuarta puede que diga que sí.” (se oye en Ventoro)"
     ]
    }
   ],
   "facts": [
    [
-    "Asiento",
-    "Los Nobles, en el Consejo"
+    "Escaño",
+    "Los Nobles, en el [[Consejo|Council]]"
    ],
    [
     "Casa",
-    "Varselis, la Mano Justa"
+    "Varselis, la [[Mano Justa|Even Hand]]"
    ],
    [
     "Padre",
-    "[[Señor|Lord]] Linus Varhall Varselis"
+    "el señor Linus Varhall Varselis"
+   ],
+   [
+    "Posición",
+    "Heredero de la Casa Varselis"
+   ],
+   [
+    "Sede de la casa",
+    "El [[Salón de las Balanzas|Hall of Scales]]"
+   ],
+   [
+    "Lema de la casa",
+    "Pesado, no apostado"
    ]
   ]
  },
@@ -19084,15 +19123,42 @@
   ]
  },
  "arios-and-alina-fafner": {
-  "title": "Arios and Alina Fafner",
-  "subtitle": "Un nombre en boca de todos",
-  "summary": "El asiento de la Marina en el Consejo es de Arios Fafner. Lo ocupa su hija Alina, que ha empezado a hablar por sí misma.",
+  "title": "Arios y Alina Fafner",
+  "subtitle": "Un escaño, dos voces",
+  "summary": "El escaño de la Armada en el Consejo es de Arios Fafner. Su hija Alina se sienta en él, y ha empezado a hablar por sí misma.",
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Antecedentes",
     "paragraphs": [
-     "Arios Fafner tiene el asiento de la Marina en el Consejo de las Islas Cartografiadas, y rara vez asiste en persona.",
-     "Su hija, Alina Fafner, se sienta en su lugar. Lleva sus opiniones sobre seguridad y defensa, y últimamente ha empezado a llevar las suyas."
+     "Arios Fafner tiene el escaño de la Armada en el Consejo de las [[Islas Cartografiadas|Charted Isles]], y rara vez va en persona.",
+     "Su hija, Alina Fafner, se sienta en su lugar. Lleva sus puntos de vista sobre seguridad y defensa, y últimamente ha empezado a traer los suyos."
+    ]
+   },
+   {
+    "title": "El trabajo del escaño",
+    "paragraphs": [
+     "La seguridad y la defensa llegan al Consejo por medio del representante de la Armada. En un archipiélago, esos asuntos viajan en barco: pasos protegidos, rutas de convoy, defensas de puerto y las consecuencias de cerrar un tramo de agua.",
+     "Arios tiene el escaño, y Alina hace su trabajo de todos los días en la sala. El arreglo pone el juicio de una hija al lado de los puntos de vista que le encargaron llevar. Sus intervenciones están empezando a tener voz propia."
+    ]
+   },
+   {
+    "title": "El Consejo y el Almirantazgo",
+    "paragraphs": [
+     "El Consejo gobierna bajo la Carta desde [[Ventoro|Goldwind]]. El mando operativo de la Armada está en manos del [[Gran Almirante|Grand Admiral]] Kalivos Durant y del [[Almirantazgo|Admiralty]], con nueve [[Señores de Flota|Fleetlords]] a cargo de sus propias flotas y aguas. El escaño de los Fafner trae los asuntos navales al debate político entre cinco.",
+     "Los otros representantes responden a los nobles, los [[Cazadores|Hunters]], el Congreso y la [[Universidad|University]]. Una cuestión de defensa en su mesa también toca el comercio, el estudio con licencia, las obligaciones nobles y las tripulaciones independientes que cruzan el mismo mar."
+    ]
+   },
+   {
+    "title": "Una historia detrás de las discusiones",
+    "paragraphs": [
+     "El [[Rompeolas|Breakwater]] sigue siendo parte de la relación entre la armada y los Cazadores. En el 91 EC, un mandato de cuarentena y un contrato de rescate chocaron en la niebla; murieron treinta y una personas. Los protocolos que salieron de ahí obligan a que las órdenes y los contratos en conflicto se retiren ante el oficial del Consejo más cercano.",
+     "El encargo de Alina sobre seguridad y defensa está en un mundo donde la protección tiene un costo humano y los deberes distintos pueden chocar. Los protocolos, la Armada y el [[Código de los Cazadores|Hunters’ Code]] le dan a ese debate una historia que va más allá de la sala."
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Arios y Alina comparten una entrada porque comparten la historia pública de este escaño. Uno lo tiene; la otra se está volviendo su voz conocida. Lee su lugar en el Consejo junto con las [[Nueve Flotas|Nine Fleets]] y el Rompeolas para ver las instituciones y las consecuencias que hay detrás de ese cambio."
     ]
    },
    {
@@ -19104,26 +19170,65 @@
   ],
   "facts": [
    [
-    "Asiento",
-    "La Marina, en el Consejo"
+    "Escaño",
+    "La Armada, en el [[Consejo|Council]]"
    ],
    [
-    "Ocupa su lugar",
+    "Se sienta en su lugar",
     "Alina Fafner"
+   ],
+   [
+    "Encargo en el Consejo",
+    "Seguridad y defensa"
+   ],
+   [
+    "Padre e hija",
+    "Arios Fafner; Alina Fafner"
    ]
+  ],
+  "aliases": [
+   "Arios Fafner",
+   "Alina Fafner"
   ]
  },
  "thessaly-kane": {
   "title": "Thessaly Kane",
-  "subtitle": "Un nombre en boca de todos",
-  "summary": "Directora de la Universidad de Kalvatar y su asiento en el Consejo; sucedió a su padre, Thobias Kane.",
+  "subtitle": "La voz de la Universidad en la mesa",
+  "summary": "Cabeza de la Universidad de Kalvatar y de su escaño en el Consejo, que sucedió a su padre, Thobias Kane.",
   "sections": [
    {
-    "title": "Panorama",
+    "title": "El escaño de la Universidad",
     "paragraphs": [
-     "Thessaly Kane dirige la Universidad de Kalvatar, con sede en [[Ventoro|Goldwind]], y ocupa el asiento de la Universidad en el Consejo de las Islas Cartografiadas.",
-     "Sucedió a su padre, Thobias Kane. El viejo rector, ya retirado, todavía la aconseja desde su biblioteca, y el Consejo todavía le pregunta a él lo que piensa ella.",
+     "Cuando la Universidad de Kalvatar tiene asuntos ante el Consejo, Thessaly Kane habla por ella. Recibió de su padre, Thobias, tanto el escaño del Consejo como la dirección de la Universidad.",
+     "Sucedió a su padre, Thobias Kane. El viejo rector, ya retirado, todavía la aconseja desde su biblioteca, y el Consejo todavía le pregunta a él qué piensa ella.",
      "Cada mago con licencia de la Universidad lleva su anillo de cobre."
+    ]
+   },
+   {
+    "title": "La institución que dirige",
+    "paragraphs": [
+     "La Universidad es la escuela de lo arcano más vieja y más grande del archipiélago. Sus agujas de anillos de cobre se alzan sobre el barrio de la banca de [[Ventoro|Goldwind]], y sus archivos guardan más cartas viejas que los de los propios [[Cartógrafos|Chartwrights]].",
+     "Sus dos grandes escuelas son la [[Academia de Ventoro|Goldwind Academy]], dedicada a la ciencia marítima, el comercio y las artes, y el [[Instituto Sylariel de Estudios Arcanos|Sylariel Institute of Arcane Studies]]. Thessaly dirige una institución cuyo trabajo va desde los cálculos de un navegante hasta la práctica arcana con licencia."
+    ]
+   },
+   {
+    "title": "Anillos de cobre y autoridad pública",
+    "paragraphs": [
+     "La Universidad lleva el [[Registro Arcano|Arcane Registry]] y sus anillos de cobre. En Ventoro, el estudio y el lanzamiento de conjuros se encuentran con una vida pública muy regulada; el anillo une a un mago con ese sistema de enseñanza y licencia.",
+     "En el Consejo, Thessaly le da a la Universidad una voz junto a los nobles, los [[Cazadores|Hunters]], el Congreso y la Armada. El saber de la institución es parte del gobierno de las islas cartografiadas, además del trabajo de sus aulas y sus archivos."
+    ]
+   },
+   {
+    "title": "Una sucesión todavía en la sala",
+    "paragraphs": [
+     "Thobias se retiró a su biblioteca, donde todavía aconseja a su hija. Sus viejos colegas todavía le preguntan qué piensa ella. Thessaly tiene ahora el cargo. Algunos de los que quieren una respuesta del cargo todavía tienen la costumbre de tocar a la puerta de su padre.",
+     "Thessaly tiene ahora la dirección y el escaño del Consejo. Su historia en la mesa está atada a ese solapamiento: una responsabilidad presente, un predecesor muy conocido y una institución acostumbrada al apellido Kane."
+    ]
+   },
+   {
+    "title": "Por las puertas de la Universidad",
+    "paragraphs": [
+     "En Ventoro, alguien puede ir a la Universidad por una formación práctica en la Academia, para estudiar lo arcano en el Instituto, o para seguir un rumbo en una carta vieja de los archivos. Un mago que busca un anillo de cobre va por otra razón. Thessaly responde por todo ese trabajo cuando el Consejo tiene preguntas."
     ]
    },
    {
@@ -19131,17 +19236,37 @@
     "paragraphs": [
      "“El viejo Thobias contesta las cartas dirigidas a su hija, y ella lo deja. Le ahorra tiempo.” (un portero de la Universidad)"
     ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlF1acOpbiBzYWJlLCBhcnJpYmE6KiogZWwgW1tHcmFuIEFsbWlyYW50ZXxHcmFuZCBBZG1pcmFsXV0gKipLYWxpdm9zIER1cmFudCoqOyAqKmxhIFtbTW9ydGFqYXxTaHJvdWRdXSoqOyAqKltbVWhhIGxhIFNvbnJpZW50ZXxTbWlsaW5nIFVoYV1dKio7IGVsIGVzY2HDsW8gZGUgbGEgW1tVbml2ZXJzaWRhZHxVbml2ZXJzaXR5XV0sICoqVGhlc3NhbHkgS2FuZSoqOyB5IGVsIGVzY2HDsW8gZGUgbG9zIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSwgKipMYWN0aW5pdXMgW1tMbGFtYXZpZW50b3N8V2luZGNhbGxlcl1dKiosIHF1ZSBzYWJlIG3DoXMgcXVlIG5hZGllIHkgZGljZSBtZW5vcy4iXX0="
    }
   ],
   "facts": [
    [
-    "Asiento",
-    "La Universidad, en el Consejo"
+    "Escaño",
+    "La [[Universidad|University]], en el [[Consejo|Council]]"
    ],
    [
     "Padre",
     "Thobias Kane, rector antes que ella"
+   ],
+   [
+    "Cargo",
+    "Cabeza de la Universidad de Kalvatar"
+   ],
+   [
+    "Predecesor",
+    "Thobias Kane"
+   ],
+   [
+    "Señal de la Universidad",
+    "El anillo de cobre"
    ]
+  ],
+  "aliases": [
+   "Thobias Kane"
   ]
  },
  "maera-blackstrand": {
@@ -32879,5 +33004,188 @@
    }
   ],
   "title": "Eamos Ventoro"
+ },
+ "patchwork": {
+  "gloss": "The Patchwork",
+  "aliases": [
+   "retacero",
+   "retaceros",
+   "la Lista",
+   "Nueve Parches Difíciles",
+   "abrigo completo"
+  ],
+  "subtitle": "Los que viajan por el abrigo",
+  "summary": "Una hermandad suelta de andariegos que van de puerto en puerto solo por los parches. No tienen sala, ni cuotas, ni jefe, y llevan una lista de todos los parches que existen.",
+  "epigraph": {
+   "quote": "Me han disparado, he naufragado y me he casado dos veces. Pregúntame por qué y te muestro la manga izquierda.",
+   "by": "Un retacero en la Feria de los Artesanos"
+  },
+  "facts": [
+   [
+    "Qué son",
+    "una hermandad, no un gremio"
+   ],
+   [
+    "Llevan",
+    "la Lista: todos los parches que se sabe que existen"
+   ],
+   [
+    "Se juntan",
+    "una vez al año, en la Feria de los Artesanos de [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Quieren",
+    "los [[Nueve Parches Difíciles|Nine Hard Patches]]"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Quiénes son",
+    "paragraphs": [
+     "Cualquiera que viaje por parches es un retacero, y los retaceros juntos son los [[Retazos|Patchwork]]. Algunos son [[Cazadores|Hunters]] entre contratos, otros son ricos y aburridos, otros son marineros a los que se les pegó la costumbre. Lo que comparten es un abrigo y una lista.",
+     "Son bienvenidos casi en todas partes, porque un retacero llega con ganas de hacer justo aquello de lo que el pueblo está más orgulloso."
+    ]
+   },
+   {
+    "title": "La Lista",
+    "paragraphs": [
+     "La Lista es la relación de todos los parches que se sabe que existen, con su lugar y su hazaña. Se copia de abrigo en abrigo y se corrige una vez al año, cuando los Retazos se juntan en la Feria de los Artesanos de Ventoro a comparar abrigos, a discutir sobre falsificaciones y a agregar lo nuevo."
+    ]
+   },
+   {
+    "title": "Los Nueve Parches Difíciles",
+    "paragraphs": [
+     "La Lista nombra nueve que casi nadie tiene."
+    ],
+    "list": [
+     "**La Escalera:** nadar la [[Escalera de Malim|Malim’s Stair]], de arriba abajo.",
+     "**La Piedra:** llevar tu piedra al [[Primer Ascenso|First Ascent]].",
+     "**Lo [[No Dicho|Unspoken]]:** cruzar el borde de las [[Tierras de Huesos|Bonewilds]] según el rito. El parche es blanco liso.",
+     "**La Luz Fantasma:** pararse en el piso de la [[Bóveda Auroral|Auroral Vault]] la noche de la [[Vigilia|Vigil]].",
+     "**La Olla del Guiso:** ganarla, ante las abuelas.",
+     "**El [[Tirón Largo|Long Pull]]:** ganarlo en los [[Juegos del Merrin|Merrin Games]].",
+     "**El Último Puesto:** pasar el invierno en Snowvah.",
+     "**El [[Espinazo del Sol|Sunspine]]:** terminar la Carrera en Jakupur.",
+     "**El Negro:** se da en [[Cayo Hueco|Hollowkey]], por una hazaña que los feudos libres no quieren describir."
+    ]
+   },
+   {
+    "title": "El abrigo completo",
+    "paragraphs": [
+     "Nadie vivo tiene los nueve. Los Retazos dicen que un abrigo los tuvo, hace mucho tiempo, y discuten cada año sobre dónde cuelga."
+    ]
+   },
+   {
+    "title": "Si viajas con uno",
+    "paragraphs": [],
+    "list": [
+     "Saben dónde comer, dónde dormir y de qué está orgulloso cada pueblo.",
+     "No se van hasta que se lo han ganado.",
+     "Llevan una aguja de parches y no la prestan."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "A los Retazos les falta una página para tener la Lista completa: una retacera murió con ella cosida en el forro, y vendieron su abrigo.",
+     "Alguien está cortándoles parches sueltos a retaceros dormidos y dejándoles los abrigos. Siempre el mismo parche.",
+     "Le piden al grupo que sea testigo de una hazaña, para que esta vez nadie pueda discutir el parche."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El abrigo completo existe. Está en una pared de Cayo Hueco, y el noveno parche no es el Negro. Es uno que no está en la Lista.” (un retacero, tarde en la Feria)",
+     "“Una retacera salió el año pasado por Lo No Dicho y volvió con el parche. No ha dicho una palabra desde entonces. Nadie sabe si es el rito o es otra cosa.” (un posadero de Puerto Sur)"
+    ]
+   }
+  ],
+  "title": "Los Retazos"
+ },
+ "kettik-ninth-step": {
+  "gloss": "Kettik of the Ninth Step",
+  "aliases": [
+   "Kettik del Noveno Escalón",
+   "Kettik"
+  ],
+  "subtitle": "Tres pies de alto, con cada pregunta por escrito",
+  "summary": "Un kóbold anciano, tasador, recién elegido Árbitro para el 175 EC, con un turbante negro, una libretita y la costumbre de toda una vida de fijarse en lo que los demás pasan por alto.",
+  "epigraph": {
+   "quote": "Empieza otra vez. Esta vez, solo la parte que viste.",
+   "by": "Kettik del Noveno Escalón"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "Kóbold"
+   ],
+   [
+    "Edad",
+    "78"
+   ],
+   [
+    "Estatura",
+    "Unos 3 pies / 90 cm; Pequeño"
+   ],
+   [
+    "Cubil",
+    "El [[Noveno Escalón|Ninth Step]], debajo de los muelles de [[Ventoro|Goldwind]]"
+   ],
+   [
+    "Oficio de siempre",
+    "Tasador de almacén y examinador arcano de carga"
+   ],
+   [
+    "Cargo",
+    "[[Árbitro|Arbiter]], recién elegido para el 175 EC"
+   ],
+   [
+    "Mandato",
+    "Un año completo, de un [[Día de la Carta|Charter Day]] al siguiente"
+   ],
+   [
+    "Destino",
+    "Ventoro"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un kóbold anciano y nervudo, de unos tres pies de alto, con escamas curtidas de color cobre pardo, un hocico reptiliano anguloso, ojos ámbar y una cola corta. Su turbante negro lleva un ojo bordado en plata. La túnica color carbón, las costuras sutiles de [[hilo de Krysta|Krysta-thread]], los zapatos de cuero a la medida y una bolsa muy usada le dan una silueta sobria al lado de sus vistosos compañeros Árbitros.",
+     "Su libreta le cabe justa en una mano. Mira hacia arriba a la gente más alta sin que parezca concederle ninguna ventaja en particular."
+    ]
+   },
+   {
+    "title": "Antes del hilo",
+    "paragraphs": [
+     "Kettik es del cubil del Noveno Escalón, debajo de los muelles de Ventoro. Trabajó como tasador de almacén y examinador arcano de carga, rastreando las diferencias entre un manifiesto y lo que de verdad bajaba a tierra. Los materiales útiles vuelven al cubil, y él detesta el desperdicio tanto como una cuenta que lo esconde.",
+     "Conoce de primera mano los depósitos estrechos y los pasadizos bajo los muelles. Sabe dónde cabe una persona, dónde pudieron mover un cajón y con qué facilidad una sala supuestamente sellada consigue otra entrada."
+    ]
+   },
+   {
+    "title": "El año recién elegido",
+    "paragraphs": [
+     "Recién elegido en el sorteo del Día de la Carta para el 175 EC, cumple un mandato completo de un año, que termina el próximo Día de la Carta. Su destino es Ventoro.",
+     "El hilo de su turbante y su túnica está sintonizado con él y lleva la resonancia de una magia poderosa. Puede esconder o mostrar el ojo bordado a voluntad. Con la marca oculta, puede volver a su trabajo de siempre, haciendo preguntas de almacén sin anunciar su cargo."
+    ]
+   },
+   {
+    "title": "Modales y juicio",
+    "paragraphs": [
+     "Kettik es paciente, práctico y discretamente insistente. Prefiere las preguntas cortas, y anota las respuestas antes de hacer la siguiente. Escucha el relato de un cargador cualquiera con el mismo cuidado que el de un capitán. Que lo ignoren mientras la gente más alta discute un problema a menudo le da tiempo para revisarlo.",
+     "Él decide cómo encara cada investigación. Donde Radan Solmar puede empezar con una conversación y Amarise con una contradicción, Kettik suele empezar por preguntar quién fue el último que tocó el objeto, abrió la puerta o cambió el manifiesto."
+    ]
+   },
+   {
+    "title": "En la mesa",
+    "paragraphs": [
+     "Es un contacto natural para misterios de carga, pasadizos ocultos e incidentes mágicos a bordo de barcos mercantes. Aprecia un croquis claro, un objeto intacto y los testigos que distinguen lo que vieron de lo que supusieron.",
+     "Las joyas de Radan le parecen excesivas pero bien cuidadas, una salvedad importante. El cuidado de Amarise por los materiales finos se gana su respeto. Espera que los dos aguarden mientras él termina de escribir."
+    ]
+   }
+  ],
+  "title": "Kettik del Noveno Escalón"
  }
 }
