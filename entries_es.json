@@ -34127,5 +34127,196 @@
    }
   ],
   "title": "Hyacinth Alastor"
+ },
+ "ioranger-lyrianis": {
+  "aliases": [
+   "Ioranger Lyrianis"
+  ],
+  "subtitle": "Un buen nombre es capital de trabajo",
+  "summary": "Mercader y bardo, elfo del sol, que cree que todo el mundo es un cliente hasta que se demuestre lo contrario.",
+  "epigraph": {
+   "quote": "Si me das tu palabra, espero mucho de ella.",
+   "by": "Ioranger Lyrianis"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "Alto elfo"
+   ],
+   [
+    "Estatura",
+    "1.78 m (5'10\")"
+   ],
+   [
+    "Profesión",
+    "Mercader, bardo"
+   ],
+   [
+    "Hogar",
+    "la isla de su padre, una de los cientos del norte del archipiélago"
+   ],
+   [
+    "Familia",
+    "su padre, Ioremir Lyrianis, jefe del pueblo"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un alto elfo delgado y sereno, de pelo dorado y corto que le cae en ondas sueltas alrededor de las largas orejas puntiagudas. Tiene la piel pálida, y sus ojos de un amarillo brillante parecen pesar en silencio todo lo que miran. Se viste con un cuidado deliberado: en sus mejores galas, una casaca marfil bordada con hilo de oro sobre una camisa de cuello alto y un pañuelo de cuello, cerrada con un broche de oro; en los días tranquilos, una camisa blanca impecable con las mangas arremangadas, un chaleco oscuro abotonado y pantalones a rayas finas. El anillo con el emblema de su familia nunca sale de su dedo."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Desde joven, Ioremir, el padre de Ioranger, estuvo a cargo de una de los cientos de islas del archipiélago. Su talento para los acuerdos y los tratos, a pesar de no tener educación formal, le trajo estabilidad y bienestar a la isla y le ganó su lugar como jefe del pueblo.",
+     "A diferencia de su padre, Ioranger tuvo la ayuda de tutores: maestros de oratoria, especialistas en monedas y, por supuesto, las enseñanzas de su propio padre. Lo volvieron un usuario hábil de las palabras y las letras, introspectivo y empático, capaz de leer a una persona como un libro a medida que avanza una conversación.",
+     "Al ver lo bien que le va al negocio de su padre, ahora busca apoyarlo mientras se hace un nombre propio. Decidió pasar una temporada lejos de su rincón del norte del archipiélago, buscando nuevos negocios y oportunidades de aprender que le sumen valor a sus bienes y, sobre todo, a sus empresas.",
+     "Ioranger tiene unos modales notables. Es diplomático en su trato y siempre está pendiente de dejar una buena impresión, porque todo el mundo es un cliente hasta que se demuestre lo contrario."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Genio de la perspicacia: en una conversación, tantea e insiste en temas concretos para evaluar a la gente con la que habla. Casi siempre puede entender la verdad detrás de sus palabras y las intenciones de la mayoría de sus interlocutores, siempre que tenga un trato directo con ellos.",
+     "Ojo para el detalle: su educación y su trabajo en el comercio le permiten estimar el valor de las cosas con solo mirarlas. No hasta la última Ola, pero lo bastante cerca para que importe.",
+     "Lengua de plata: su habilidad con las palabras le permite no solo leer el trasfondo de lo que dicen los demás, sino también usarlo a su favor, ganarse la confianza y cerrar tratos con más facilidad, y colar alguna que otra mentira piadosa.",
+     "Entrenamiento con la espada: no es su fuerte. Lo entrenaron sobre todo en técnicas defensivas, y apenas en las ofensivas, y siempre intenta evitar el combate."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Dos mudas de ropa fina",
+     "Una muda de ropa común",
+     "Una libreta que usa como bitácora",
+     "Una libreta que usa como diario de ideas",
+     "Una espada larga",
+     "25 [[Anclas|Anchors]]",
+     "Un anillo con el emblema de su familia",
+     "Tabaco y una pipa"
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Ioranger es amable dentro de lo razonable, y la diplomacia es una de sus armas, si le preguntas. Cree que vale la pena cuidar el nombre y la palabra de una persona, y se exige lo mismo cuando da la suya. Su única gran debilidad es su odio a los mosquitos."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Hacerse un nombre propio en su gremio de mercaderes del [[Congreso Mercantil|Mercantile Congress]].",
+     "Aumentar la riqueza de su familia.",
+     "Aprender todo lo que pueda enseñarle una temporada lejos de casa."
+    ]
+   },
+   {
+    "title": "En sus propias palabras",
+    "paragraphs": [
+     "“Si me das tu palabra, espero mucho de ella.”",
+     "“¿[[Cazadores|Hunters]]? ¿Marineros? ¿Nobles? No, lo mío son los negocios.”",
+     "“¿No lo sabes? La reputación sola puede cerrarte tratos... o arruinártelos.”"
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "El negocio de su familia empieza en una isla del norte del archipiélago. Su temporada fuera tiene que traer de vuelta oportunidades y una reputación ganada por él mismo.",
+     "Los mercados y las rutas del mar le importan como lugares para aprender, negociar y encontrar empresas. Su padre se ganó la vida con acuerdos; Ioranger espera llevar a ese mismo trabajo la educación de un tutor."
+    ]
+   }
+  ],
+  "title": "Ioranger Lyrianis"
+ },
+ "dalan-sylenas": {
+  "aliases": [
+   "Florian Vientoplata",
+   "Dalan Sylenas"
+  ],
+  "subtitle": "Un nombre nuevo con muy poco sueño",
+  "summary": "Un brujo semielfo que negoció su salida de una jaula dorada, y que ahora sube los rangos de los Cazadores durmiendo muy poco.",
+  "facts": [
+   [
+    "Pueblo",
+    "Semielfo"
+   ],
+   [
+    "Estatura",
+    "1.72 m"
+   ],
+   [
+    "Profesión",
+    "Brujo, [[Cazador|Hunter]] de Rango Plata"
+   ],
+   [
+    "Facción",
+    "Los Cazadores (Rango Plata)"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un semielfo esbelto y atlético, de estatura mediana, con el pelo negro como la tinta y un bonito brillo azulado, ojos morados, piel clara y orejas apenas puntiagudas. Cómo se ve depende de lo poco que haya dormido: casi siempre tiene ojeras y una expresión cansada, de párpados pesados. Viste ropa oscura a la medida o una armadura de cuero ajustada, casi siempre bajo una capa color berenjena. Un relicario de oro le cuelga del cuello, y lleva a la espalda su arco, [[Ensueño|Reverie]]."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Dalan nació como [[Florian Vientoplata|Florian Silverwind]], hijo de una familia noble que valoraba la destreza arcana tanto como su linaje “puro” de lanzadores. Florian no nació con ninguna de las dos cosas: no tenía magia, y era medio humano. La familia culpó a lo segundo de lo primero. Le recordaban sus valores con palabras que cortaban como dagas, y con abandono. Encerrado en la mansión familiar como un secreto vergonzoso, se fue volviendo cada vez más resentido y rencoroso.",
+     "Una noche, perdido en sueños de represalia y con ganas de libertad, llamó, y una voz le contestó. Le ofreció un trato que no dudó en aceptar, y con la ayuda de su nuevo amo rompió la jaula de pájaro que lo tenía preso.",
+     "Florian volvió a nacer esa noche. Tomó un nombre nuevo, su pelo plateado se oscureció hasta volverse negro como la tinta, y sus intenciones se volvieron tan veladas como la niebla en la que ahora desaparece. Encontró el camino hasta los Cazadores y ha subido a Rango Plata. ¿Fue poder lo que negoció? ¿O venganza? Solo el tiempo lo dirá."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Ojo certero: un tirador hábil que prefiere el arco, con las flechas encantadas como su conjuro favorito. También presta mucha atención a amigos y enemigos por igual, lo que lo vuelve muy observador de la gente y de los lugares.",
+     "Magia feérica: su don le permite manejar la magia de los feéricos, con el encantamiento y la ilusión como sus estilos favoritos.",
+     "Escape brumoso: cuando su vida está en peligro, puede desaparecer en una bocanada de niebla y reaparecer en otro lado. Solo puede hacerlo una vez hasta que su amo vuelva a alimentarse.",
+     "Atado por sueños y pesadillas: su patrón vive en sus sueños y se alimenta de ellos. Las pesadillas son su comida favorita, y eso hace que Dalan no quiera descansar como se debe."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Un relicario de oro, con un ala de duendecillo adentro",
+     "Su arco, Ensueño",
+     "Una daga retráctil",
+     "Un diario encuadernado en cuero",
+     "Armadura de cuero y una capa color berenjena"
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Dalan es reservado casi siempre, aunque agradable cuando alguien se le acerca. Oscila entre mariposa social y solitario taciturno según cuánto haya dormido. Su crianza entre nobles le dejó una manera de hablar formal y cortés. Es amable con los pocos con los que siente una conexión, pero no es cariñoso ni especialmente sensible. Su empeño en subir los rangos de los Cazadores lo ha vuelto casi obsesivo con su trabajo, y bastante ensimismado y orgulloso. Su ego no es frágil, pero guarda rencor rápido, y está más que feliz de actuar en consecuencia."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Subir los rangos de los Cazadores y ganar fama.",
+     "Encontrar un lugar donde se sienta en casa.",
+     "Llevar a la ruina a su antigua familia."
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Dalan llegó a Plata entre los Cazadores. La orden le da a su ambición una escalera, y a su trabajo un nombre más allá de la casa noble que dejó.",
+     "Su magia viene de un trato feérico y de sus sueños. El don que le abrió la salida de su vida anterior también hace que el descanso sea algo que no quiere aceptar."
+    ]
+   }
+  ],
+  "title": "Dalan Sylenas"
  }
 }
