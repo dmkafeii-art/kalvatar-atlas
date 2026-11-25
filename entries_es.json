@@ -182,7 +182,7 @@
     "title": "Geografía",
     "paragraphs": [
      "El Corazón es un racimo de islas cerca del centro del mar cartografiado, con las ricas tierras de cultivo de las laderas del oeste, las terrazas luminosas de Bastión del Sol, las ciénagas del golfo de Ventoro y la costa este de [[Puerto Plata|Silverport]] y [[Bastión del Este|Easthold]], de cara al agua abierta. La tierra es templada, de inviernos suaves y veranos tibios, y los vientos del Corazón son famosos. El golfo de Ventoro tiene la brisa de navegar más constante del archipiélago, que es por lo que Eamos fundó su pueblo ahí, y por lo que las cometas de los grandes duelos de cometas del Corazón vuelan con hilos empolvados de vidrio sobre el puerto en las tardes de verano.",
-     "El golfo de Ventoro es el corazón de la región. El puerto, el barrio de los bancos, la Universidad y el [[Salón del Consejo|Council Hall]] se levantan en anillos que suben sobre él, y las alturas Vol Kaern coronan toda la ciudad. Las Terrazas de Bastión del Sol trepan las colinas del oeste en jardines de té tallados en escalones, de [[hoja clara|brightleaf]] y de viñas. Aguja Alta es una isla aguja de la casa [[Cunaestrella|Starborn]], con torres que suben por encima de las nubes y los [[Acantilados que Cantan|Singing Cliffs]] a lo largo de su orilla. Aurelion está en la costa norte, entre el humo de sus forjas. Caída Eterna es una isla volcánica del este, con cráteres y campos de vidrio sobre el [[Señor Salvaje|Savage Lord]] dormido KakanKal y las minas de Darlath. Puerto Plata y Bastión del Este miran al mar abierto por el este, y [[Atalaya del Oeste|Westwatch]] tiene la piedra y el carbón de las alturas del oeste. El [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, la fuente del púrpura de arrecife que tiñe las túnicas del Consejo y del alto clero."
+     "El golfo de Ventoro es el corazón de la región. El puerto, el barrio de los bancos, la Universidad y el [[Salón del Consejo|Council Hall]] se levantan en anillos que suben sobre él, y las alturas Vol Kaern coronan toda la ciudad. Las Terrazas de Bastión del Sol trepan las colinas del oeste en jardines de té tallados en escalones, de [[hoja clara|brightleaf]] y de viñas. Aguja Alta es una isla aguja de la casa [[Cunaestrella|Starborn]], con torres que suben por encima de las nubes y los [[Acantilados que Cantan|Singing Cliffs]] a lo largo de su orilla. Aurelion está en la costa norte, entre el humo de sus forjas. Caída Eterna es una isla volcánica del este, con cráteres y campos de vidrio sobre el [[Señor Salvaje|Savage Lord]] dormido KakanKal y las minas de Darlath. Puerto Plata y Bastión del Este miran al mar abierto por el este, y [[Atalaya del Oeste|Westwatch]] tiene la piedra y el carbón de las alturas del oeste. El [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, la fuente del [[púrpura de arrecife|reefpurple]] que tiñe las túnicas del Consejo y del alto clero."
     ]
    },
    {
@@ -7018,167 +7018,381 @@
  },
  "glint-mole": {
   "gloss": "Glint Mole",
-  "subtitle": "Cava en línea recta hacia una veta, y los mineros lo siguen tratando de llegar primero.",
+  "subtitle": "El rival reluciente del minero",
   "summary": "Un topo ciego de enormes garras pálidas y un pelaje de terciopelo que brilla apenas, porque come Krysta en bruto.",
   "epigraph": {
    "quote": "Cada topo del destello es un ladrón y un guía.",
-   "by": "Lo que se dice en los puertos"
+   "by": "Un dicho del puerto"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las minas de Krysta"
    ]
   ],
-  "title": "Topo del Destello"
+  "title": "Topo del Destello",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Cava derecho hacia una veta, y los mineros lo siguen e intentan llegar primero."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Rankar paga por cada uno vivo."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "No, salvo que no te importe perder tu Krysta."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los topos del destello de una mina de la Frontera están cavando hacia abajo, no hacia ninguna veta, y los mineros dejaron de seguirlos.” (se oye en las minas de la Frontera)"
+    ]
+   }
+  ]
  },
  "herd-otter": {
   "gloss": "Herd Otter",
-  "subtitle": "Arrean los peces hacia las nasas del río.",
-  "summary": "Una nutria de río parda y lustrosa, de bigotes blancos y voz de bisagra que chirría, criada por los clanes fluviales Oruma, que las llaman las primitas de Malim.",
+  "subtitle": "Los pescadores más ruidosos del río",
+  "summary": "Una nutria de río parda y lustrosa, de bigotes blancos y voz de bisagra que chirría, criada por los clanes fluviales oruma, que las llaman las primitas de Malim.",
   "epigraph": {
    "quote": "Las nutrias arrean los peces, nosotros cuidamos las nasas, y todos comemos.",
-   "by": "Un aldeano del río de las Nueve Bocas"
+   "by": "Un aldeano de los ríos de las Nueve Bocas"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
-    "Los ríos de las Nueve Bocas"
+    "Dónde se encuentra",
+    "Los ríos de las [[Nueve Bocas|Nine Mouths]]"
    ]
   ],
-  "title": "Nutria Pastora"
+  "title": "Nutria Pastora",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Arrean los peces hacia las nasas del río."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "En el [[Agua que Ríe|Laughing Water]], la fiesta del río de Malim, las nutrias encabezan el desfile."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Sí. Es el compañero más ruidoso del sur."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las nutrias pastoras de las Nueve Bocas empezaron a arrear los peces lejos de una aldea del río. La aldea hizo algo.” (se oye en los ríos de las Nueve Bocas)"
+    ]
+   }
+  ]
  },
  "rimehound": {
   "gloss": "Rimehound",
-  "subtitle": "La vida de trabajo de las islas",
-  "summary": "Un enorme perro de trineo blanco, de doble pelaje y ojos azul pálido, que duerme enterrado en la nieve y despierta de buen humor.",
+  "subtitle": "Los perros de trineo del hielo",
+  "summary": "Un enorme perro de trineo blanco, de doble pelaje y ojos azul pálido, que duerme enterrado en la nieve y se despierta de buen humor.",
   "epigraph": {
    "quote": "Confía en los perros. Huelen la grieta antes de que tú la veas.",
    "by": "Un conductor de trineo de Bastión de Escarcha"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "La [[Extensión Helada|Icy Expanse]]"
    ]
   ],
-  "title": "Perro de la Escarcha"
+  "title": "Perro de la Escarcha",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Las jaurías de perros de la escarcha tiran de los trineos por el hielo, y huelen una grieta antes de que el trineo llegue a ella."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "En el hielo, la riqueza de una familia se cuenta en perros. Prestarle a alguien tu jauría es confiarle la vida de tu familia."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Sí, un solo perro. Una jauría entera es una bestia de trabajo, y una fortuna."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una jauría de perros de la escarcha se paró en seco en el hielo y no quiso seguir. El trineo dio la vuelta. La grieta que olieron todavía la están midiendo.” (se oye en Bastión de Escarcha)"
+    ]
+   }
+  ]
  },
  "whale-wolves": {
   "gloss": "Whale-Wolves",
-  "subtitle": "Arrean a las ballenas hacia los botes y, a cambio, se quedan con la lengua de cada presa.",
+  "subtitle": "El pacto más viejo de los balleneros",
   "summary": "Una manada de orcas salvajes, blancas y negras y muy listas, que caza junto a los balleneros de Bastión de Escarcha desde hace generaciones.",
   "epigraph": {
-   "quote": "Cuando los lobos golpean el agua frente al puerto, corre a los botes.",
-   "by": "Un dicho de Bastión de Escarcha"
+   "quote": "Ellos se quedan con la lengua. Nosotros con el resto. Nadie de ninguno de los dos lados ha hecho trampa nunca.",
+   "by": "Un arponero de Bastión de Escarcha"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "[[Bastión de Escarcha|Frosthold]] y los mares balleneros"
    ]
   ],
-  "title": "Lobos Balleneros"
+  "title": "Lobos Balleneros",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Arrean las ballenas hacia los botes, y a cambio se quedan con la lengua de cada presa."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Cuando los lobos balleneros golpean el agua frente al puerto, es que traen una ballena, y todo Bastión de Escarcha corre a los botes."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "No. El pacto es con la manada, no con una sola persona."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Romper el pacto, quedarse con la lengua o hacerle daño a un lobo ballenero es el único crimen que los balleneros castigan ellos mismos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los lobos balleneros no vinieron por la lengua después de la última presa. Bastión de Escarcha todavía no decide si preocuparse.” (se oye en Bastión de Escarcha)"
+    ]
+   }
+  ]
  },
  "strider-crab": {
   "gloss": "Strider Crab",
-  "subtitle": "Los pueblos del Coral lo usan para llevar carga entre las cortes y los puertos de mercado de la costa.",
-  "summary": "Un cangrejo araña gigante, de patas más largas que un hombre, que camina por el lecho del mar con canastas amarradas al lomo.",
+  "subtitle": "El mercado que sale caminando de las olas",
+  "summary": "Un cangrejo araña gigante, de patas más largas que la estatura de un hombre, que camina por el lecho del mar con canastas amarradas al lomo.",
   "epigraph": {
    "quote": "Camina por el lecho del mar con el mercado a cuestas.",
    "by": "Un comerciante de la costa"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
-    "Las Cortes de Coral, y los puertos de mercado que comercian con ellas"
+    "Dónde se encuentra",
+    "Las [[Cortes de Coral|Coral Courts]], y los puertos de mercado que comercian con ellas"
    ]
   ],
-  "title": "Cangrejo Zancudo"
+  "title": "Cangrejo Zancudo",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Los [[Pueblos del Coral|Coral peoples]] lo usan para llevar carga entre las cortes y los puertos de mercado de la costa."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "En los puertos que comercian con las cortes, el [[Monedía|Coinsday]] empieza cuando los cangrejos salen caminando de las olas, cargados de canastas."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Solo para un personaje del Coral, y en tierra se cansa rápido."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un cangrejo zancudo salió del mar en un puerto de mercado sin jinete y con una canasta llena de campanas.” (se oye en la costa del Corazón)"
+    ]
+   }
+  ]
  },
  "tidesteed": {
   "gloss": "Tidesteed",
-  "subtitle": "Es la montura de los pueblos del Coral, para viajar y para la guerra.",
+  "subtitle": "La montura de las cortes del Coral",
   "summary": "Un caballito de mar del tamaño de un caballo, el primo gigante del caballito de burbuja, con una cresta acanalada y una silla de concha.",
   "epigraph": {
    "quote": "Un corcel de la marea no se monta. Acepta ir a algún lado contigo.",
-   "by": "Una jinete de una corte del Coral"
+   "by": "Un jinete de una corte del Coral"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
-    "Las Cortes de Coral"
+    "Dónde se encuentra",
+    "Las [[Cortes de Coral|Coral Courts]]"
    ]
   ],
-  "title": "Corcel de la Marea"
+  "title": "Corcel de la Marea",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Es la montura de los [[Pueblos del Coral|Coral peoples]], para viajar y para la guerra."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Alguien de la superficie montado en uno es huésped de las cortes, y todos allá abajo lo saben."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Solo bajo el agua, y solo con permiso de las cortes."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hace tres noches seguidas que se ve un corcel de la marea con la silla de concha vacía frente a Bastión del Este.” (se oye en Bastión del Este)"
+    ]
+   }
+  ]
  },
  "lamp-shoal": {
   "gloss": "Lamp-Shoal",
-  "subtitle": "Alumbran las calles de las ciudades de coral.",
-  "summary": "Cardúmenes de pececitos luminosos, verdeazules y dorados, adiestrados por los pueblos del Coral.",
+  "subtitle": "Los faroles de las ciudades de coral",
+  "summary": "Cardúmenes de pececitos luminosos, verdeazules y dorados, adiestrados por los Pueblos del Coral.",
   "epigraph": {
    "quote": "Cada noche, la misma ronda, para que nadie se pierda nunca en las ciudades de coral.",
-   "by": "Una buzo de perlas"
+   "by": "Un pescador de perlas"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las calles de las ciudades de coral"
    ]
   ],
-  "title": "Cardumen Farol"
+  "title": "Cardumen Farol",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Alumbran las calles de las ciudades de coral. Cada cardumen nada la misma ronda todas las noches."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Desde un barco, en una noche sin luna, a veces se ven las calles de una corte brillando bajo el agua."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "No."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un cardumen farol de Thalassar empezó a nadar una ronda nueva, y las cortes discuten adónde lleva.” (se oye entre los pescadores de perlas)"
+    ]
+   }
+  ]
  },
  "reefpurple-whelk": {
   "gloss": "Reefpurple Whelk",
-  "subtitle": "Los pueblos del Coral lo crían en corrales de arrecife.",
+  "subtitle": "El caracol detrás del púrpura",
   "summary": "El caracol de mar que da el púrpura de arrecife, el tinte más raro de las islas.",
   "epigraph": {
    "quote": "Un caracol, una gota. Por eso el púrpura cuesta treinta Anclas.",
-   "by": "Un tintorero del Surco de Perlas"
+   "by": "Un tintorero de Surco de Perlas"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
-    "Los corrales de arrecife de los pueblos del Coral, y las tintorerías del [[Surco de Perlas|Pearl Groove]]"
+    "Dónde se encuentra",
+    "Los corrales de arrecife de los [[Pueblos del Coral|Coral peoples]], y las tintorerías de [[Surco de Perlas|Pearl Groove]]"
    ]
   ],
-  "title": "Caracol del Púrpura de Arrecife"
+  "title": "Caracol del Púrpura de Arrecife",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Los Pueblos del Coral lo crían en corrales de arrecife. Cada caracol da una sola gota de tinte, y por eso un frasquito cuesta treinta [[Anclas|Anchors]]."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Los tintoreros de Surco de Perlas tienen las manos moradas de por vida. Por costumbre, solo los asientos del [[Consejo|Council]] y el alto clero de la [[Concordia|Concord]] visten [[púrpura de arrecife|reefpurple]]; cualquier otro que lo lleve está reclamando algo."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "No."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Alguien está vendiendo tinte de púrpura de arrecife en Puerto Plata a mitad de precio. Los Pueblos del Coral quieren saber de dónde sale.” (se oye en Puerto Plata)"
+    ]
+   }
+  ]
  },
  "haulbeetle": {
   "gloss": "Haulbeetle",
-  "subtitle": "La vida de trabajo de las islas",
+  "subtitle": "El acarreador paciente de los mineros",
   "summary": "Un escarabajo del tamaño de un poni, de caparazón negro y opaco, patas cortas y fuertes y un apetito tranquilo por el musgo de roca.",
   "epigraph": {
    "quote": "Tira del carro, y sabe cuándo se va a caer el techo.",
@@ -7186,15 +7400,41 @@
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
-    "Los túneles enanos y las minas de la [[Frontera del Norte|Northern Frontier]]"
+    "Dónde se encuentra",
+    "Los túneles enanos, y las minas de la [[Frontera del Norte|Northern Frontier]]"
    ]
   ],
-  "title": "Escarabajo de Carga"
+  "title": "Escarabajo de Carga",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Los enanos lo usan para arrastrar las carretillas de mineral por los túneles, y las minas de la Frontera del Norte también."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Los mineros llevan hombreras cortadas de los caparazones que mudan los escarabajos."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Sí, para alguien que baja [[Abajo|Below]] seguido. No necesita luz."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un escarabajo de carga se paró en un túnel enano y no quiso moverse, y los mineros encontraron una puerta detrás de la roca donde se detuvo.” (se oye en una fortaleza enana)"
+    ]
+   }
+  ]
  },
  "chartback-tortoise": {
   "gloss": "Chartback Tortoise",
@@ -10044,7 +10284,7 @@
    {
     "title": "Panorama",
     "paragraphs": [
-     "[[Atalaya del Oeste|Westwatch]] es el pueblo minero de las alturas del oeste, y sus canteras y minas de carbón le dan al [[Corazón|Heartland]] su piedra y su combustible. [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, donde los buzos trabajan los bancos bajo los ojos atentos de la casa Belmaris y su señora de las campanas. Las perlas y el púrpura de arrecife, teñido con múrice, son las exportaciones más exclusivas de la región, y el comercio de sonido de los [[Reinos de Coral|Coral Kingdoms]] pasa por el Surco camino del Congreso."
+     "[[Atalaya del Oeste|Westwatch]] es el pueblo minero de las alturas del oeste, y sus canteras y minas de carbón le dan al [[Corazón|Heartland]] su piedra y su combustible. [[Surco de Perlas|Pearl Groove]] es una laguna poco profunda de clanes perleros, donde los buzos trabajan los bancos bajo los ojos atentos de la casa Belmaris y su señora de las campanas. Las perlas y el [[púrpura de arrecife|reefpurple]], teñido con múrice, son las exportaciones más exclusivas de la región, y el comercio de sonido de los [[Reinos de Coral|Coral Kingdoms]] pasa por el Surco camino del Congreso."
     ]
    }
   ]
@@ -11369,7 +11609,7 @@
    ],
    [
     "El Surco de Perlas",
-    "perlas y púrpura de arrecife, bajo la Casa Belmaris"
+    "perlas y [[púrpura de arrecife|reefpurple]], bajo la Casa Belmaris"
    ],
    [
     "La isla Pelagar",
