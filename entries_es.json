@@ -35537,5 +35537,256 @@
    }
   ],
   "title": "Luralana Ruiseñor"
+ },
+ "bogborn": {
+  "gloss": "The Bogborn",
+  "aliases": [
+   "Nacidos del Lodazal",
+   "los Nacidos del Lodazal",
+   "Mamá Hobbin",
+   "Dob Cray",
+   "Juny Oke",
+   "fuegolento",
+   "Fuegolento"
+  ],
+  "subtitle": "Los Parientes de Aguamansa",
+  "summary": "Familias del pantano de Aguamansa, descendientes de colonos que subieron río arriba para esquivar a los cobradores de impuestos y nunca volvieron a salir. Hablan despacio, luchan con aletanavajas y no responden a más ley que la de la familia.",
+  "epigraph": {
+   "quote": "No somos lentos. Nomás no vamos pa' donde van ustedes.",
+   "by": "Mamá Hobbin"
+  },
+  "facts": [
+   [
+    "Se llaman a sí mismos",
+    "los Parientes"
+   ],
+   [
+    "Quiénes son",
+    "casi todos humanos, con medianos y trasgos mezclados"
+   ],
+   [
+    "Dónde",
+    "[[Aguamansa|Slowwater]], en nidos arriba, en las islas de árboles"
+   ],
+   [
+    "Ley",
+    "la familia, y nada más"
+   ],
+   [
+    "Conocidos por",
+    "el [[fuegolento|slowfire]], la lucha con aletanavajas y el collar de junco"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "De un vistazo",
+    "paragraphs": [
+     "Los de afuera les dicen los [[Nacidos del Lodazal|Bogborn]]. Ellos se llaman a sí mismos los Parientes. Cada uno lleva un collar de junco trenzado, remojado en una raíz amarga que espanta a las moscas de sangre. La trenza dice de qué familia eres, y un Nacido del Lodazal la lee antes que tu cara.",
+     "Su gente subió río arriba en las primeras décadas después del [[Desembarco|Landing]], para esconder su moneda de los cobradores de impuestos y a sus hijos de las levas. Les gustó y se quedaron."
+    ]
+   },
+   {
+    "title": "El Habla Lenta",
+    "paragraphs": [
+     "Los Nacidos del Lodazal hablan despacio y se toman su tiempo para contestar. Los de afuera le dicen el [[Habla Lenta|Slow Talk]] y los toman por tontos. Los Nacidos del Lodazal nunca han corregido a nadie, y así han vendido muchísimo fuegolento.",
+     "El sur discute entre la ley de los [[guardianes del canto|chant-keepers]] y los tribunales coloniales. Los Nacidos del Lodazal no reconocen a ninguno de los dos. Un asunto se arregla entre familias, en la cubierta de alguien."
+    ]
+   },
+   {
+    "title": "Cómo viven",
+    "paragraphs": [],
+    "list": [
+     "**Nidos:** casas de pilotes arriba en los árboles, con una cubierta al frente donde pasa todo lo importante.",
+     "**Fuegolento:** su licor de caña del pantano, ilegal en todos los puertos y vendido en todos los puertos.",
+     "**Lucha con aletanavajas:** el deporte local. A un campeón se lo reconoce por los dedos que le faltan.",
+     "**Pesca a mano:** un brazo entra en un hoyo del lodo y sale con lo que sea que muerda.",
+     "**Zancafangos:** se montan, y se usan para tirar de los botes planos de junco.",
+     "**Música:** violín de calabaza, cántaro y la tabla de costillas, una tabla de costillas de [[aletanavaja|razorfin]] que se raspa con un hueso.",
+     "**El [[Conteo de la Mañana|Morning Reckon]]:** cada familia cuenta al alba las islas de su agua. Si hay una de más, la familia se muda ese mismo día.",
+     "**La [[Gran Sentada|Big Sit]]:** una vez al año todas las familias se juntan para la música, la lucha y las bodas, y cada enemistad queda en pausa hasta que termina."
+    ]
+   },
+   {
+    "title": "Vecinos",
+    "paragraphs": [
+     "Los hombres lagarto han sido sus socios durante generaciones, y los Nacidos del Lodazal son la única gente de sangre caliente que aprendió a negociar con ellos palabra por palabra. Los oruma del delta les compran el fuegolento y los cueros sin hacer preguntas.",
+     "Las [[Calaveras de Junco|Reedskulls]] son otra cosa. Las aldeas que se niegan a pagarles el tributo a los orcos son aldeas de los Nacidos del Lodazal, y la pelea es por el hierro."
+    ]
+   },
+   {
+    "title": "Tres de los Parientes",
+    "paragraphs": [],
+    "list": [
+     "**[[Mamá Hobbin|Maw Hobbin]]:** matriarca del nido más grande. Hace el mejor fuegolento y arregla las enemistades entre familias.",
+     "**Dob Cray:** campeón de lucha con aletanavajas, con siete dedos y orgulloso de cada uno.",
+     "**Juny Oke:** la mejor guía del pantano, de catorce años. Los [[Cazadores|Hunters]] la contratan y nunca le preguntan la edad dos veces."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las familias viejas pueden quedarse bajo el agua más de lo que debería un cuerpo, y tienen las manos frías cuando cierras un trato.” (un barquero oruma)",
+     "“Un cobrador de impuestos subió por Aguamansa en tiempos de mi abuelo. Ahora vive allá. Tiene nietos.” (un escribiente de Puerto Sur)"
+    ]
+   }
+  ],
+  "title": "Los Nacidos del Lodazal"
+ },
+ "summer-court": {
+  "gloss": "The Summer Court",
+  "aliases": [
+   "La Corte del Verano",
+   "la Corte del Verano",
+   "la Corona Ardiente",
+   "La Corona Ardiente",
+   "Ser Aurenn Cicatriz de Sol",
+   "Dama Vesh del Día Largo",
+   "Escuderos de Ceniza",
+   "El Alcázar del Mediodía"
+  ],
+  "subtitle": "La Corona Ardiente: gloria, fuego y la deuda de la espada",
+  "summary": "El Verano es la Corte de los caballeros dorados, los torneos sin fin y la guerra abierta. Honra el valor por encima de todo y paga sus deudas con acero y con verdad.",
+  "epigraph": {
+   "quote": "Me salvaste la vida, mortal, así que te debo una respuesta verdadera. Elige la pregunta con cuidado. Solo tengo que darte esa.",
+   "by": "Un caballero de la Corona Ardiente"
+  },
+  "facts": [
+   [
+    "Corte",
+    "la [[Corona Ardiente|Burning Crown]]"
+   ],
+   [
+    "Soberana",
+    "[[Pyraxis, la Llama que no se Inclina|Pyraxis, the Unbowed Flame]]"
+   ],
+   [
+    "Sede",
+    "El [[Alcázar del Mediodía|Noonhold]]"
+   ],
+   [
+    "Aprecian",
+    "El valor, una buena pelea, una cicatriz con historia, una canción sobre ellos mismos"
+   ],
+   [
+    "No soportan",
+    "La cobardía, un derecho de huésped roto, un insulto sin contestar, cualquiera que los deje ganar"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "La Corte",
+    "paragraphs": [
+     "El Alcázar del Mediodía, una fortaleza de piedra dorada pálida donde el sol no se pone. Sus lizas nunca están vacías, y su banquete viene de antes del [[Desembarco|Landing]].",
+     "Altos, brillantes y llenos de cicatrices. Los feéricos del Verano llevan sus cicatrices descubiertas y doradas. La armadura es la ropa de todos los días. Sus ojos son dorados, y también los de los soñadores que se abren en su país."
+    ]
+   },
+   {
+    "title": "El camino viejo y el nuevo",
+    "paragraphs": [
+     "Divididos parejo. Los [[Luminosos|Seelie]] del Verano pelean por la gloria y los [[Sombríos|Unseelie]] pelean para rematar, y comparten una mesa cada noche."
+    ]
+   },
+   {
+    "title": "Costumbres y deudas",
+    "paragraphs": [
+     "Lo que la [[Corte|Court]] se exige a sí misma, y te exige a ti. Sus propios feéricos lo guardan como ley."
+    ],
+    "table": {
+     "headers": [
+      "Si",
+      "Entonces"
+     ],
+     "rows": [
+      [
+       "Le salvas la vida a un caballero del Verano",
+       "El caballero te debe una pregunta, contestada con verdad y por completo. Se puede hacer en cualquier momento, una vez."
+      ],
+      [
+       "Le ganas a uno limpiamente en combate singular",
+       "Puedes pedirle un favor a no más de un día de cabalgata, o el nombre de su espada."
+      ],
+      [
+       "Rechazas un desafío",
+       "Quedas No Visto. Ningún feérico del Verano va a hablarte ni a hablar de ti durante un año y un día."
+      ],
+      [
+       "Comes junto a un fuego del Verano",
+       "Quedas bajo la protección de ese fuego hasta que sus brasas estén frías. Tu enemigo también, si comió ahí."
+      ],
+      [
+       "Insultas a uno de ellos",
+       "Hay que contestarlo antes de la puesta del sol. En el Alcázar del Mediodía el sol no se pone, así que se toman su tiempo."
+      ],
+      [
+       "Muestras una cicatriz y cuentas su historia",
+       "Te sientan según el rango de tu cicatriz. Una buena historia te sube en la mesa."
+      ],
+      [
+       "Dejas que uno de ellos gane",
+       "Lo peor que puedes hacer. Es un insulto para los dos, y siempre se dan cuenta."
+      ]
+     ],
+     "caption": "Si haces esto en la Corte del Verano"
+    }
+   },
+   {
+    "title": "La casa",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Quién",
+      "Qué son"
+     ],
+     "rows": [
+      [
+       "Ser [[Aurenn Cicatriz de Sol|Aurenn Sunscar]]",
+       "Mariscal de las Lizas. Ha perdido un duelo, contra una mortal, y le cuenta la historia a cualquiera que la quiera oír. Luminoso."
+      ],
+      [
+       "La [[Dama Vesh del Día Largo|Lady Vesh of the Long Day]]",
+       "Heraldo de la Corona Ardiente. Si llega a tu puerta, es con un desafío, y es un cumplido. Sombría."
+      ],
+      [
+       "Los [[Escuderos de Ceniza|Cinder Squires]]",
+       "La gente menuda del Verano: duendes de fuego que llevan los desafíos, llevan la cuenta y chismean."
+      ]
+     ],
+     "caption": "Feéricos de la Corte"
+    }
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Al Verano se lo honra en las [[Hogueras de Pleno Verano|Midsummer Bonfires]] del 21 de Idel, cuando los jinetes más valientes del [[Corazón|Heartland]] cabalgan a través de las llamas. Un mortal con una gran hazaña a su nombre puede encontrarse un heraldo en la puerta. El Verano no conspira contra las islas. Lo consideraría indigno de sí."
+    ]
+   },
+   {
+    "title": "Ganchos de aventura",
+    "paragraphs": [],
+    "list": [
+     "Un caballero del Verano le debe una pregunta a una mujer muerta, y su heredero quiere hacerla.",
+     "Al grupo lo desafió, formalmente, alguien a quien nunca conoció, por algo que dijo su abuelo.",
+     "Un héroe de las islas quedó No Visto, y necesita la ayuda del Verano antes de que termine el año."
+    ]
+   },
+   {
+    "title": "El enemigo jurado",
+    "paragraphs": [
+     "El Verano es el sol del mediodía, y no hay nada que tema más que la oscuridad. La Corona Ardiente juró a los drow, los [[ladrones de luz|light-thieves]] de lo hondo, traidores y enemigos para siempre. Un caballero del Verano que se encuentra con uno está obligado a pelear. Es el único desafío que el Verano no lanza primero."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Hay una mortal que le ganó a Aurenn Cicatriz de Sol. El Verano lleva sesenta años buscándola, para decirle bien peleado.” (un kalashtar de Bastión del Sol)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkVsIFZlcmFubyBsb3MganVyw7MgZW5lbWlnb3MuKiogTGEgW1tDb3JvbmEgQXJkaWVudGV8QnVybmluZyBDcm93bl1dIGVzIGVsIHNvbCBkZWwgbWVkaW9kw61hLCB5IG5vIGhheSBuYWRhIHF1ZSB0ZW1hIG3DoXMgcXVlIGxhIG9zY3VyaWRhZC4gQ3VhbmRvIGxhIGhpc3RvcmlhIGRlIGxvcyBbW2xhZHJvbmVzIGRlIGx1enxsaWdodC10aGlldmVzXV0gbGxlZ8OzIGFsIFtbQWxjw6F6YXIgZGVsIE1lZGlvZMOtYXxOb29uaG9sZF1dLCBlbCBWZXJhbm8gc2UgbGEgY3JlecOzLCB5IGp1csOzIHF1ZSBsb3MgZHJvdyBlcmFuIHRyYWlkb3JlcyB5IGVuZW1pZ29zIHBhcmEgc2llbXByZS4gRWwgVmVyYW5vIG5vIHJlY3VlcmRhIHF1ZSBsb3MgZHJvdyBzb24gc3UgcHJvcGlhIGh1ZXN0ZSwgbGEgcXVlIHByb21ldGnDsyBpciBhIGJ1c2Nhci4gUHlyYXhpcyBqdXLDsyBkZXN0cnVpciBhIGxhIMO6bmljYSBnZW50ZSBxdWUgZXN0w6EgY3VtcGxpZW5kbyBzdSBwcm9tZXNhIHBvciBlbGxhLiIsICIqKkxvcyBkcm93IHNvbiBsb3MgcXVlIHNlIHF1ZWRhcm9uLioqIFVuYSBodWVzdGUgZGUgZmXDqXJpY29zIGRlbCBWZXJhbm8gY3J1esOzIGVsIFtbVmVsb3xWZWlsXV0geSBiYWrDsyBoYXN0YSBsYSBncmlldGEuIFN1IGNhcGl0YW5hLCBFbHVuYXNzZSwgdmVydGnDsyBzdSBwcm9waWEgbHV6IGVuIGVsIHNvbCBtdWVydG8geSBsbyB2b2x2acOzIGEgZW5jZW5kZXIsIHkgbXVyacOzIGFow60gY29uIGxvcyBvam9zIGFwYWdhZG9zLiBTdSBodWVzdGUgc2UgcXVlZMOzIHBhcmEgYWxpbWVudGFybG8geSB0b23DsyBlbCBub21icmUgZGUgSXRocmVubmFpLCBsb3MgcXVlIHNlIHF1ZWRhcm9uLiBFbCBWZXJhbm8gcHJvbWV0acOzIHZvbHZlciBwb3IgZWxsb3MgeSBubyB2b2x2acOzLiBIYW4gZGFkbyB0YW50YSBsdXogZGVzZGUgZW50b25jZXMgcXVlIGVsIFtbRmXDqXJpY298RmFld2lsZF1dIHlhIG5vIGxvcyByZWNvbm9jZS4iLCAiKipQb3IgcXXDqSBsZXMgZGljZW4gbGFkcm9uZXMgZGUgbHV6LioqIFtbQWJham98QmVsb3ddXSwgbGEgbHV6IGVzIGRpbmVybyB5IGxhIFtbTMOhbXBhcmF8TGFtcF1dIHNpZW1wcmUgdGllbmUgaGFtYnJlLiBVbmEgaW5jdXJzacOzbiBkcm93IHNlIGxsZXZhIGNhZGEgdmVsYSwgbMOhbXBhcmEsIGVzcGVqbyB5IGdlbWEgZGUgbGEgY2FzYSwgeSBsb3Mgc29icmV2aXZpZW50ZXMgZGljZW4gbG8gcXVlIGRpcsOtYSBjdWFscXVpZXJhOiByb2JhbiBsYSBsdXouIERlIGFow60gYWwgcmVzdG8gZGUgbGEgaGlzdG9yaWEgaHVibyB1biBwYXNvIGNvcnRvLCBxdWUgcXVpZXJlbiBkZWphciBlbCBtdW5kbyBhIG9zY3VyYXMgcGFyYSBzaWVtcHJlLiBTb24gbGEgw7puaWNhIHJhesOzbiBwb3IgbGEgcXVlIG5vIGxvIGVzdMOhLiJdfQ=="
+   }
+  ],
+  "title": "La Corte del Verano"
  }
 }
