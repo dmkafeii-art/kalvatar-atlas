@@ -33495,5 +33495,176 @@
    }
   ],
   "title": "Amarise Vellune"
+ },
+ "victoria-wingate": {
+  "aliases": [
+   "Dama Victoria Wingate"
+  ],
+  "subtitle": "La dama que no volvió a casa",
+  "summary": "La Dama Victoria Wingate, de una familia militante de Assios: herida en el Cruce del Acebo en el 172 EC por una herida que ningún sanador pudo cerrar, zarpó hacia el sur en la Marea Rey del 174 EC con una expedición a una isla que las canciones viejas llaman Anukáli, y no volvió a casa.",
+  "facts": [
+   [
+    "Familia",
+    "los Wingate, una familia militante de mercenarios de Assios"
+   ],
+   [
+    "Hermanos",
+    "la mayor de cuatro: Henrietta, Evangeline, y Edmond, el menor"
+   ],
+   [
+    "Herida",
+    "en el Cruce del Acebo, 172 EC"
+   ],
+   [
+    "Zarpó",
+    "al sur, en la [[Marea Rey|King Tide]] del 174 EC"
+   ],
+   [
+    "Volvió a casa",
+    "no"
+   ],
+   [
+    "Hermano",
+    "Edmond Wingate, que sí volvió"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Una familia en guerra",
+    "paragraphs": [
+     "Los Wingate son mercenarios, los más selectos y exclusivos que se pueden comprar con dinero, una familia militante de Assios con tierras cerca del Frente, y la [[Guerra de los Mil Años|Thousand-Year War]] casi los ha consumido: los hombres se fueron, el dinero casi se fue. No han dejado de pelear. Victoria es la mayor de cuatro: sus hermanas Henrietta y Evangeline pelean en el Frente, una en tierra y otra en el mar, y Edmond es el menor.",
+     "La familia tiene una rama en Kalvatar, unos 2,500 hombres y siete barcos acampados en la abandonada [[Finca Espino|Thorne Estate]] y endeudados con la [[Casa de los Tesoreros|Reckoners' Hall]], y está ahí por dos cosas: para salvar a Victoria, y para encontrar la manera de que los Wingate sigan peleando."
+    ]
+   },
+   {
+    "title": "El Cruce del Acebo",
+    "paragraphs": [
+     "En el 172 EC la [[Hueste de Hierro|Iron Host]] tomó el Cruce del Acebo, y Victoria recibió ahí una herida que ningún sanador del continente ni de las islas pudo cerrar. No se detuvo. Salió a buscar algo que pudiera."
+    ]
+   },
+   {
+    "title": "La expedición",
+    "paragraphs": [
+     "En el 174 EC zarpó directo desde el continente con una erudita que había encontrado el camino, un forjado, un chico cambiante con cola de mono, un cocinero, un mercenario que llevaba años a su lado, una tripulación de veteranos Wingate que la habrían seguido a cualquier parte, y dos barcos alquilados esperando frente al arrecife. Encontraron la isla que las canciones viejas llaman Anukáli, en la Marea Rey.",
+     "Victoria no volvió a casa. Su hermano Edmond sí. Lo que pasó en la isla, la gente común no lo sabe. El [[Consejo|Council]] recibió el informe completo de los [[Cazadores|Hunters]], y no lo ha publicado."
+    ]
+   },
+   {
+    "title": "Como la recuerdan",
+    "paragraphs": [],
+    "list": [
+     "Encantadora, generosa y valiente, y amable con los desconocidos cuando tenía todas las razones para no serlo.",
+     "Muriéndose, y negándose a actuar como tal.",
+     "*“Este es nuestro último recurso.”* Lo que decía de la isla, a cualquiera que le preguntara por qué."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“No está muerta. Los marineros del Karnivool dicen que esa isla está más verde cada temporada, y que alguien lo está haciendo.” (un tabernero de Ventoro)",
+     "“Su mercenario volvió a Ventoro bajo guardia de los Cazadores. Pregúntale a la Logia por qué, y la Logia cambia de tema.” (un portero de la Logia)",
+     "“La erudita que encontró el camino está ahora en las islas, con el forjado y el chico. Ella tampoco habla de la isla.” (un boticario de Ventoro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFudWvDoWxpLCBbW01hcmVhIFJleXxLaW5nIFRpZGVdXSBkZWwgMTc0IEVDLioqIExhIERhbWEgVmljdG9yaWEgV2luZ2F0ZSwgbXVyacOpbmRvc2UgZGUgdW5hIGhlcmlkYSB2aWVqYSwgdmlubyBwb3IgZWwgW1tDb3JhesOzbiBkZWwgTWFyfEhlYXJ0IG9mIHRoZSBTZWFdXS4gUGFyYSBlbGxhIGVyYSBkb3MgY29zYXMgYSBsYSB2ZXo6IHN1IHZpZGEsIHkgbGEgw7psdGltYSBhcm1hIGRlIHN1IGdlbnRlIGNvbnRyYSBlbCBbW0ltcGVyaW98SW1wZXJpdW1dXS4gU3UgaG9tYnJlLCBMZW9yaWMgW1tFc3Bpbm98VGhvcm5lXV0sIGF0YWRvIHBvciBwYWN0byBhIHVuIHBvZGVyIHNlbGxhZG8gcXVlIGxhIG1hbnRlbsOtYSB2aXZhLCBtYXTDsyBhIGxhcyBbW0FsYXMgRG9yYWRhc3xHb2xkZW4gV2luZ3NdXSBlbiBsYSBjdWV2YSBkZWwgQ29yYXrDs24uIEVsIENvcmF6w7NuIHkgc3UgR3VhcmRpw6FuIHZlcnRpZXJvbiBzdXMgdmlkYXMgZW4gZWxsYXMuIFNlIGxldmFudGFyb24gcGFyYSB1bmEgcGVsZWEsIHZvbHZpZXJvbiBhIHNlbGxhciBhbCBwYXRyw7NuIHkgbGUgcXVpdGFyb24gYSBMZW9yaWMgc3UgcG9kZXIuIFZpY3RvcmlhLCBtdXJpw6luZG9zZSwgdG9tw7MgZWwgbHVnYXIgZGVsIENvcmF6w7NuIG1vcmlidW5kby4iLCAiKipWaWN0b3JpYSBXaW5nYXRlIGVzIGFob3JhIGVsIENvcmF6w7NuIGRlbCBNYXIsKiogYXRhZGEgYSBBbnVrw6FsaSBoYXN0YSBlbCAyNzQgRUMuIEVsIEd1YXJkacOhbiBlc3TDoSBtdWVydG8sIGxhIHByb3RlY2Npw7NuIHlhIG5vIGVzdMOhLCB5IGxhIGlzbGEgZXN0w6EgZW4gZWwgbXVuZG8sIHNpbiBndWFyZGlhLiBFbCAxNzcgRUMgc2Vyw6Egc3UgcHJpbWVyYSBNYXJlYSBSZXkgc2luIMOpbC4iLCAiKipRdWnDqW4gbG8gc2FiZS4qKiBMYSBnZW50ZSBjb23Dum4gbm8gc2FiZSBuYWRhIGRlIGVzby4gRWwgW1tDb25zZWpvfENvdW5jaWxdXSByZWNpYmnDsyBlbCBpbmZvcm1lIGNvbXBsZXRvIGRlIGxvcyBbW0NhemFkb3Jlc3xIdW50ZXJzXV0sIHkgbG8gc2FiZSB0b2RvLiJdfQ=="
+   }
+  ],
+  "title": "Victoria Wingate"
+ },
+ "erulisse": {
+  "aliases": [
+   "Erulisse"
+  ],
+  "subtitle": "Las preguntas nunca se acaban",
+  "summary": "Druida elfa, líder tribal y consejera de los Cazadores.",
+  "epigraph": {
+   "quote": "Haz de la naturaleza tu aliada, o te vas a arrepentir.",
+   "by": "Erulisse"
+  },
+  "facts": [
+   [
+    "Pueblo",
+    "Elfa"
+   ],
+   [
+    "Profesión",
+    "Druida, líder tribal, consejera de los Cazadores"
+   ],
+   [
+    "Facción",
+    "amiga de los [[Cazadores|Hunters]]"
+   ],
+   [
+    "Hogar",
+    "la isla de su tribu en las [[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Familia",
+    "su esposo, Turentar, colíder de la tribu"
+   ],
+   [
+    "Compañera",
+    "Giliel, una boa constrictora gigante"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Una elfa delgada con una melena salvaje de rizos rojo cobrizo que nunca se deja domar, y las largas orejas puntiagudas asomando entre la maraña. Tiene la piel pálida con un rubor cálido en las mejillas, y sus ojos verde mar siempre se mueven, siempre absorbiendo algo nuevo. Viste ropa de druida en capas, de telas terrosas trabajadas a mano, colgadas de baratijas y amuletos que hace ella misma. Giliel, una boa enorme, negra azabache con vetas azul eléctrico y ojos azules que brillan, va echada sobre sus hombros o enroscada muy cerca de ella."
+    ]
+   },
+   {
+    "title": "Antecedentes",
+    "paragraphs": [
+     "Erulisse es una druida elfa rara y excepcional, la primera entre los elfos de Alassand en más de un siglo en tener esos dones. Junto con su esposo, Turentar, dirige su tribu. La pareja tomó la difícil decisión de trasladar la tribu del continente a las Tierras Salvajes del Sur, lejos de una guerra que habían llegado a ver como inútil. Se asentaron en una isla deshabitada y empezaron a ofrecerles a los Cazadores un apoyo valioso: provisiones, guía y un conocimiento profundo de la tierra.",
+     "Con el tiempo, Erulisse se ha vuelto experta en la flora y la fauna del sur, y muchas veces acompaña a los Cazadores en sus misiones. En el continente, a ella y a Turentar todavía los recuerdan por sus esfuerzos heroicos para vencer a un peligroso culto de dragones."
+    ]
+   },
+   {
+    "title": "Poderes y habilidades",
+    "paragraphs": [],
+    "list": [
+     "Cambio de forma: Erulisse puede transformarse en distintos animales, incluidas criaturas exóticas propias de las Tierras Salvajes del Sur.",
+     "Saber del sur: conoce las plantas y las bestias del sur mejor que la mayoría de los nativos: qué hojas curan, cuáles matan, y con qué saurianos se puede razonar."
+    ]
+   },
+   {
+    "title": "Equipo",
+    "paragraphs": [],
+    "list": [
+     "Anillo de boda: le permite hablar con Turentar una vez al día.",
+     "Ficha de tripulación de la [[Marea Carmesí|Crimson Tide]]: un regalo del capitán Bramgard de la [[Marea|Tide]] Carmesí, en agradecimiento por su ayuda y su lealtad a los Cazadores. No es un [[Sello|Sigil]], pero cualquier Cazador de las islas sabe lo que significa.",
+     "Baratijas hechas a mano: amuletos y artesanías que hace con los materiales que encuentre."
+    ]
+   },
+   {
+    "title": "Personalidad",
+    "paragraphs": [
+     "Erulisse aprende con curiosidad, siempre buscando el saber de quienes la rodean. Su entusiasmo puede abrumar, pero su buen corazón es innegable. Los que llegan a conocerla muchas veces se descubren protegiéndola, igual que su compañera de siempre, Giliel. Habla muy bien de su esposo, pero rara vez habla de su tribu."
+    ]
+   },
+   {
+    "title": "Metas",
+    "paragraphs": [],
+    "list": [
+     "Conseguir telas y materias primas de las islas principales, para crear baratijas y artesanías únicas para su tribu.",
+     "Seguir apoyando a los Cazadores.",
+     "Proteger a su tribu.",
+     "Mantener fuerte su lazo con Turentar mientras él la espera en su isla."
+    ]
+   },
+   {
+    "title": "En Kalvatar",
+    "paragraphs": [
+     "Su tribu dejó Assios por una isla deshabitada de las Tierras Salvajes del Sur. Provisiones, guía y conocimiento de la tierra son la ayuda que les ofrece a los Cazadores.",
+     "El capitán Bramgard le dio una ficha de tripulación de la Marea Carmesí. Esa relación la une a la Marea Carmesí y a su primer oficial, [[Albion Tempestad|Albion Tempest]]."
+    ]
+   }
+  ],
+  "title": "Erulisse"
  }
 }
