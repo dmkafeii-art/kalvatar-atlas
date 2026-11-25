@@ -229,7 +229,7 @@ window.Adventurers = (() => {
    <h2>${t('Browse by task','Explora por tarea')}</h2><div class="adv-tool-groups">${toolGroups.map(([icon,en,es,tools])=>`<details><summary><span aria-hidden="true">${icon}</span>${t(en,es)}<small>${tools.length}</small></summary><nav aria-label="${t(en,es)}">${tools.map(toolLink).join('')}</nav></details>`).join('')}</div></div>
    <div id="adv-tool-matches" class="adv-tool-matches" aria-live="polite" hidden></div>`);
   const fold=s=>s.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu,'').replaceAll('’',"'");
-  const keywords={names:'character roll nombre personaje',folk:'npc pnjs personaje',purse:'budget costs wages rations salvage presupuesto viaje salarios',workshop:'crafting calculator making costs fabricar calculadora',trade:'prices profit calculator precios ganancias',law:'calculator multa delito'};
+  const keywords={names:'character roll nombre personaje',folk:'npc pnjs personaje',purse:'budget costs wages rations salvage presupuesto viaje salarios',workshop:'crafting calculator making costs fabricar calculadora',trade:'prices profit calculator precios ganancias',law:'calculator multa delito',black:'slaves slavery slave trade esclavos esclavitud trata de esclavos carga fantasma ghost-cargo'};
   $('#adv-tool-search').addEventListener('input',e=>{
    const query=fold(e.target.value.trim());
    $('#adv-tool-browse').hidden=!!query;
@@ -1026,7 +1026,7 @@ window.Adventurers = (() => {
  }
  function renderBlack() {
   const U = data.undertow, es = window.Pack2?.language === 'es';
-  frame('black', `<p class="adv-lead">${t('Everything the harbors will not carry moves through the Undertow. Here is what it has this week, what it pays, and what it charges. Your Game Master has the last word, and so does the Bell.', 'Todo lo que los puertos no quieren llevar se mueve por la Resaca. Aquí está lo que tiene esta semana, lo que paga y lo que cobra. Tu Máster tiene la última palabra, y la Campana también.')}</p>
+  frame('black', `<p class="adv-lead">${t('See what the Undertow has this week, what a fence pays, and which trades run through the black ports.', 'Consulta qué tiene la Resaca esta semana, cuánto paga un reducidor y qué negocios pasan por los puertos negros.')}</p>
   <section class="adv-panel adv-shop"><h2>${t('What is for sale', 'Qué hay a la venta')}</h2><p class="adv-hint">${t('The drugs and the goods about this week, by the size of the place and the region.', 'Las drogas y la mercancía que hay esta semana, según el tamaño del lugar y la región.')}</p>
   <div class="adv-controls"><label class="pack-label">${t('Where', 'Dónde')}${sel('bm-settle', U.settle.map(s => [s[0], es ? s[2] : s[1]]), bm.settle)}</label><label class="pack-label">${t('Region', 'Región')}${sel('bm-region', U.regions.map(r => [r[0], es ? r[2] : r[1]]), bm.region)}</label></div>
   <div class="pack-actions"><button type="button" class="button" id="bm-roll">${t('Ask around', 'Pregunta por ahí')} <span aria-hidden="true">✦</span></button></div>
@@ -1040,6 +1040,14 @@ window.Adventurers = (() => {
   <section class="adv-panel adv-shop"><h2>${t('Finding the door', 'Encontrar la puerta')}</h2><p class="adv-hint">${t('The turned hook, the five rules, and the cant.', 'El anzuelo volteado, las cinco reglas y la jerga.')}</p>
   <ul class="adv-rates">${(es ? U.finding_es : U.finding_en).map(r => `<li>${md(r)}</li>`).join('')}</ul>
   <h3>${t('The cant', 'La jerga')}</h3><div class="adv-table"><table><tbody>${U.cant.map(c => {const [a, b] = es ? c.es : c.en; return `<tr><td><strong>${h(a)}</strong></td><td>${h(b)}</td></tr>`;}).join('')}</tbody></table></div></section>
+  <section class="adv-panel adv-shop"><h2>${t('Slave trade', 'Trata de esclavos')}</h2>
+  <p class="adv-hint">${t('Who runs the trade in the south and who fights it.', 'Quién controla la trata en el sur y quién la combate.')}</p>
+  <div class="adv-news"><strong>${t('Ghost-cargo', 'Carga fantasma')}</strong><p>${t('The slaver rings call enslaved people in transit “ghost-cargo.” The Undertow refuses to carry them.', 'Las redes esclavistas llaman «carga fantasma» a las personas esclavizadas que trasladan. La Resaca se niega a transportarlas.')}</p></div>
+  <ul class="adv-loot">
+    <li><strong>${linkTo('varan-port', t('Varan Port', 'Puerto Varan'))}</strong> <span>${t('Elendor controls the slave trade for Mother Kess’s Fairweather Combine.', 'Elendor controla la trata de esclavos para el Consorcio de Buentiempo, que dirige Mother Kess.')}</span></li>
+    <li><strong>${linkTo('great-slave-rebellion', t('Abolition', 'Abolición'))}</strong> <span>${t('Slavery was abolished in Council lands around 60 EC. In the south, it still survives in mines, on plantations, and under contracts that bind people to debts they can never repay.', 'La esclavitud se abolió en las tierras del Consejo hacia 60 EC. En el sur persiste en minas, plantaciones y contratos que atan a personas a deudas que nunca pueden saldar.')}</span></li>
+    <li><strong>${linkTo('chainbreakers', t('The Chainbreakers', 'Los Rompecadenas'))}</strong> <span>${t('They raid the slaver rings, free captives, and burn the ledgers that bind people to those debts.', 'Atacan a las redes esclavistas, liberan a los cautivos y queman los libros de cuentas que los atan a esas deudas.')}</span></li>
+  </ul></section>
   <p class="adv-hint"><a href="#entry/undertow">${t('The Undertow', 'La Resaca')}</a> · <a href="#entry/vice-and-the-black-market">${t('Vice and the black market', 'El vicio y el mercado negro')}</a> · <a href="#entry/quiet-auction">${t('The Quiet Auction', 'La Subasta Callada')}</a> · <a href="#entry/ledger-wolves">${t('The Ledger Wolves', 'Los Lobos del Libro Mayor')}</a></p>`);
   $('#bm-settle').addEventListener('input', e => {bm.settle = e.target.value;});
   $('#bm-region').addEventListener('input', e => {bm.region = e.target.value;});
