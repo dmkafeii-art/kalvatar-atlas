@@ -30575,7 +30575,10 @@
    "hundred-and-fifty-ways",
    "undertow",
    "lighthouses"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "chalk-tide",
@@ -30605,7 +30608,10 @@
   "related": [
    "two-moons-and-the-tides",
    "tide-anemone"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "door-coins",
@@ -30632,7 +30638,10 @@
   "facts": [],
   "source": "Kalvatar Library · 175 EC",
   "aliases": [],
-  "related": []
+  "related": [],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "festivals-everywhere",
@@ -30659,7 +30668,10 @@
    "faewild",
    "king-tide",
    "cycle"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "festivals-of-the-frontier",
@@ -30690,7 +30702,10 @@
    "bastion",
    "echo-finch",
    "northern-frontier"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "festivals-of-the-heartland",
@@ -30721,7 +30736,10 @@
    "merrin-games",
    "sunhold",
    "calendar"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "festivals-of-the-ice",
@@ -30758,7 +30776,10 @@
    "icy-expanse",
    "vukharr-the-white-hunger",
    "winter-kin"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "festivals-of-the-wilds",
@@ -30788,7 +30809,10 @@
    "herd-otter",
    "liriath",
    "southern-wilds"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "first-bread",
@@ -30815,7 +30839,10 @@
   "facts": [],
   "source": "Kalvatar Library · 175 EC",
   "aliases": [],
-  "related": []
+  "related": [],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "mending",
@@ -30844,7 +30871,10 @@
   "aliases": [],
   "related": [
    "darning-spider"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "merrin-games",
@@ -30923,7 +30953,10 @@
   "aliases": [],
   "related": [
    "companions"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "returning-cup",
@@ -30956,7 +30989,10 @@
   "facts": [],
   "source": "Kalvatar Library · 175 EC",
   "aliases": [],
-  "related": []
+  "related": [],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "salt-promise",
@@ -30985,7 +31021,10 @@
   "aliases": [],
   "related": [
    "promise-doves"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "sea-customs",
@@ -31019,7 +31058,10 @@
    "armada",
    "southern-quarantine",
    "wrong-coast"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "sill",
@@ -31049,7 +31091,10 @@
   "related": [
    "lantern-mouse",
    "hundred-and-fifty-ways"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "winter-kin",
@@ -31077,7 +31122,10 @@
   "aliases": [],
   "related": [
    "festivals-of-the-ice"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "ascendants-war",
