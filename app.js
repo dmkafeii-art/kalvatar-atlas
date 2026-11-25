@@ -190,22 +190,90 @@ function renderArticleSection(s,i,current,art=''){
  const box={'Game Master’s secrets':'secret','The Code':'verse','Adventure hooks':'hooks','Tips':'tips','Did you know?':'curio','Ganchos de aventura':'hooks','Consejos':'tips','¿Sabías que?':'curio'}[s.title];
  return '<section id="article-section-'+i+'"'+(box?' class="article-box article-box-'+box+'"':'')+'><h2>'+esc(s.title)+'</h2>'+art+body+'</section>';
 }
+function mapRegionFor(entry){
+ return regions.find(r=>r.id===entry.id) || regions.find(r=>byId[r.id]?.region===entry.region);
+}
+function entryMapAction(entry){
+ const region=mapRegionFor(entry);
+ if(mapReturnEntry===entry.id)return `<a class="quick-action" href="#atlas">${Pack2.text('Back to map','Volver al mapa')}</a>`;
+ return region&&Pack2.canRead(region.id)?`<a class="quick-action" href="#atlas/${region.id}">${Pack2.text('View on map','Ver en el mapa')}</a>`:'';
+}
+function quickReference(entry){
+ if(entry.category!=='place')return '';
+ const t=(en,es)=>Pack2.text(en,es);
+ const readable=id=>id!==entry.id&&byId[id]&&Pack2.canRead(id);
+ const direct=(entry.related||[]).filter(readable).map(id=>byId[id]);
+ const folk=direct.filter(item=>item.category==='folk');
+ const known=new Set(folk.map(item=>item.id));
+ for(const item of entries){
+  if(item.category==='folk'&&!known.has(item.id)&&item.related?.includes(entry.id)&&readable(item.id)){
+   folk.push(item);known.add(item.id);
+  }
+ }
+ const section=(heading,html)=>html?`<section><h3>${heading}</h3>${html}</section>`:'';
+ const short=text=>{
+  const value=String(text||'').split(/(?<=[.!?])\s+/)[0];
+  return value.length>170?value.slice(0,170).replace(/\s+\S*$/,'')+'…':value;
+ };
+ const card=item=>`<li><a href="#entry/${item.id}">${esc(item.title)}</a>${item.summary?`<span>${esc(short(item.summary))}</span>`:''}</li>`;
+ const more=(items,item)=>items.length?`<ul>${items.slice(0,4).map(item).join('')}</ul>${items.length>4?`<details class="quick-more"><summary>${t('Show more','Ver más')} (${items.length-4})</summary><ul>${items.slice(4).map(item).join('')}</ul></details>`:''}`:'';
+ const districts=entry.sections.find(s=>['The parts of the city','Las partes de la ciudad'].includes(s.title)&&s.table);
+ const civic=districts?more(districts.table.rows,row=>{
+  const match=entry.id==='goldwind'&&['The Commons','El Común'].includes(row[0])&&readable('the-commons')?'the-commons':null;
+  return `<li>${match?`<a href="#entry/${match}">${esc(row[0])}</a>`:`<strong>${linkify(row[0],entry.id)}</strong>`}<span>${linkify(row[1],entry.id)}${row[2]?' · '+linkify(row[2],entry.id):''}</span></li>`;
+ }):'';
+ const publicRumors=entry.sections.find(s=>['Rumors','Rumores'].includes(s.title));
+ const rumors=more(publicRumors?.paragraphs||[],line=>`<li><span>${linkify(line,entry.id)}</span></li>`);
+ const secretIndex=entry.sections.findIndex(s=>s.secret||s.title==='Game Master’s secrets');
+ const region=mapRegionFor(entry);
+ const nameRegion=region?.id==='heartland'?'central-heartland':region?.surface!==false?region?.id:null;
+ const actions=`<nav class="quick-actions" aria-label="${t('Tools for this place','Herramientas para este lugar')}">
+  ${nameRegion?`<a class="quick-action" href="#adventurers/names?region=${nameRegion}">${t('Generate regional names','Generar nombres de la región')}</a>`:''}
+  <span data-quick-passage hidden></span>
+  ${secretIndex>=0?`<button class="quick-action quick-secret" type="button" data-scroll-to="article-section-${secretIndex}">${t('Game Master’s secrets','Secretos del Máster')}</button>`:''}
+ </nav>`;
+ return `<details class="quick-reference" id="quick-reference"><summary>${t('Quick reference','Consulta rápida')}</summary>
+ <div class="quick-reference-inner">
+  ${actions}${section(t('Districts','Distritos'),civic)}
+  ${section(t('People linked to this place','Personajes vinculados al lugar'),more(folk,card))}
+  ${section(t('Public rumors','Rumores públicos'),rumors)}
+  ${section(t('Related entries','Entradas relacionadas'),more(direct.filter(item=>item.category!=='folk'),card))}
+ </div></details>`;
+}
+
 function renderArticle(id){
  const e=byId[id];if(!e){renderNotFound();return}if(!Pack2.canRead(id)){Pack2.renderLocked();return}const categoryHref=e.category==='folk'?NotableFolk.returnHref(e):e.foeParent?'#entry/'+e.foeParent:'#category/'+e.category;setNavigation(e.category);$('#breadcrumb').innerHTML=`<a href="#">The world</a><span>/</span><a href="${esc(categoryHref)}">${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name}</a><span>/</span>${esc(e.title)}`;
  const art=articleArtwork(e);
  const titleContent=`<div class="article-title-copy"><p class="eyebrow">${categories[e.category].short.toUpperCase()} / ${esc(e.region.toUpperCase())}</p><h1 class="atlas-cartela">${esc(e.title)}</h1><p class="article-subtitle">${esc(e.subtitle)}</p>${art.main?`<p class="article-lead">${esc(e.summary)}</p>`:''}</div>`;
  const titleBlock=art.main?`<div class="article-cover">${art.main}${titleContent}</div>`:titleContent;
- $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header">${titleBlock}${Pack2.header(e)}${art.main?'':`<p class="article-lead">${esc(e.summary)}</p>`}<div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button><span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${window.NotableFolk?.articleLinks(e)||''}${e.id==='northern-frontier'?'<a class="frontier-article-cta" href="#map/northern-frontier">Explore the detailed Northern Frontier chart <span aria-hidden="true">↗</span></a>':''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id,art.sections.get(i))).join(atlasOrnament())}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-to="article-section-${i}">${esc(s.title)}</button>`).join('')}${art.gallery.length?`<button data-scroll-to="article-gallery">${Pack2.text('Gallery','Galería')}</button>`:''}${art.plates.length?`<button data-scroll-to="article-plates">${Pack2.text('Field guide','Guía de campo')}</button>`:''}</nav></aside></div>${articleFieldPlates(e,art.plates)}${articleGallery(e,art.gallery)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
+ $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header">${titleBlock}${Pack2.header(e)}${art.main?'':`<p class="article-lead">${esc(e.summary)}</p>`}<div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button>${e.category==='place'?`<button id="open-quick-reference" aria-expanded="false" aria-controls="quick-reference">${Pack2.text('Quick reference','Consulta rápida')}</button>`:''}${entryMapAction(e)}<span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${quickReference(e)}${window.NotableFolk?.articleLinks(e)||''}${e.id==='northern-frontier'?'<a class="frontier-article-cta" href="#map/northern-frontier">Explore the detailed Northern Frontier chart <span aria-hidden="true">↗</span></a>':''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id,art.sections.get(i))).join(atlasOrnament())}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-to="article-section-${i}">${esc(s.title)}</button>`).join('')}${art.gallery.length?`<button data-scroll-to="article-gallery">${Pack2.text('Gallery','Galería')}</button>`:''}${art.plates.length?`<button data-scroll-to="article-plates">${Pack2.text('Field guide','Guía de campo')}</button>`:''}</nav></aside></div>${articleFieldPlates(e,art.plates)}${articleGallery(e,art.gallery)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
+ const quick=$('#quick-reference'),quickButton=$('#open-quick-reference');
+ if(quick&&quickButton){
+  quickButton.addEventListener('click',()=>{
+   quick.open=!quick.open;
+   if(quick.open){quick.querySelector('summary').focus({preventScroll:true});quick.scrollIntoView({block:'start'});}
+  });
+  quick.addEventListener('toggle',()=>quickButton.setAttribute('aria-expanded',String(quick.open)));
+  window.Adventurers?.ready.then(()=>{
+   const target=quick.querySelector('[data-quick-passage]');
+   if(!quick.isConnected||!window.Adventurers.hasPort(e.id))return;
+   target.hidden=false;
+   target.innerHTML=`<a class="quick-action" href="#adventurers/travel?from=${e.id}">${Pack2.text('Plan a passage from here','Planear una travesía desde aquí')}</a>`;
+  });
+ }
  $('#save-article').addEventListener('click',()=>{const present=saved.has(e.id);if(present)saved.delete(e.id);else saved.add(e.id);saveList();const b=$('#save-article');b.classList.toggle('saved',!present);b.setAttribute('aria-pressed',String(!present));b.innerHTML=`<span aria-hidden="true">${!present?'◆':'◇'}</span>${!present?'Saved to reading list':'Save for later'}`;toast(readingStorage?(present?'Removed from your reading list.':'Saved for your next visit.'):'Saved for this visit. This browser could not keep the reading list.')});
  $('#copy-link').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);toast('Article link copied.')}catch(err){toast('Copy the article’s address from your browser to share it.')}});
 }
 const regions=[{id:'northern-frontier',x:30,y:34,places:['ironfort','tarvan','aurocs']},{id:'heartland',x:53,y:51,places:['goldwind','highspire','everfall']},{id:'southern-wilds',x:28,y:70,places:['jakupur','cathedral-green','liriath']},{id:'icy-expanse',x:59,y:89,places:['varan-port','auroral-vault','hospitality']},{id:'coral-kingdoms',x:77,y:64,places:['sea-pacts','coral-peoples','starfall-reef']},{id:'below',surface:false,places:['sporrn','haulbeetle','lantern-mouse']}];
+let mapSelection=null,mapReturnEntry=null;
 const mapText=(en,es)=>Pack2.text(en,es);
 const regionName=r=>Pack2.canRead(r.id)?byId[r.id]?.title:mapText('Uncharted','Sin cartografiar');
 
-function renderAtlas(){
+function renderAtlas(regionId){
  setNavigation('atlas');
- mapZoom=1;mapX=0;mapY=0;mapMove=false;
+ const requested=regions.find(region=>region.id===regionId&&Pack2.canRead(region.id));
+ if(requested&&requested.id!==mapSelection){mapZoom=1;mapX=0;mapY=0;}
+ mapMove=false;
  $('#breadcrumb').innerHTML=`<a href="#">${mapText('The world','El mundo')}</a><span>/</span> ${mapText('World atlas','Atlas del mundo')}`;
  const t=mapText;
  $('#content').innerHTML=`<div class="content-wrap atlas-map-page">
@@ -220,7 +288,7 @@ function renderAtlas(){
  <aside class="map-detail"><div class="region-detail" id="region-detail" aria-live="polite"></div></aside></div></div>`;
  const vp=$('#map-viewport');
  let drag=null;
- setRegion(regions.find(r=>r.id==='heartland'&&Pack2.canRead(r.id))?.id || regions.find(r=>Pack2.canRead(r.id))?.id || 'heartland');
+ setRegion(requested?.id || mapSelection || regions.find(r=>r.id==='heartland'&&Pack2.canRead(r.id))?.id || regions.find(r=>Pack2.canRead(r.id))?.id || 'heartland');
  $('#atlas-region').addEventListener('change',e=>setRegion(e.target.value));
  $('#map-move').addEventListener('click',()=>{mapMove=!mapMove;updateMapControls()});
  vp.addEventListener('pointerdown',e=>{
@@ -251,6 +319,10 @@ function renderAtlas(){
 function setRegion(id){
  const e=byId[id],region=regions.find(r=>r.id===id),detail=$('#region-detail');
  if(!e||!region||!detail)return;
+ mapSelection=id;
+ // Keep the URL aligned with the selected region so browser Back restores the same view.
+ const hash='#atlas/'+id;
+ if(location.hash!==hash)history.replaceState(history.state,'',hash);
  $('#atlas-region').value=id;
  document.querySelectorAll('.atlas-map-page [data-region]').forEach(el=>{
   const yes=el.dataset.region===id;
@@ -261,9 +333,9 @@ function setRegion(id){
  const localIds=[...new Set([...region.places,...entries.filter(x=>x.category==='place'&&x.region===e.region&&x.id!==id).map(x=>x.id)])].filter(id=>byId[id]&&Pack2.canRead(id));
  detail.innerHTML=`<h2>${esc(e.title)}</h2><p>${esc(e.summary)}</p>
  ${region.surface===false?`<p class="below-chart-note">${t('Below lies beneath the islands and has no surface marker.','Abajo yace bajo las islas y no tiene un marcador en la superficie.')}</p>`:''}
- <div class="atlas-region-actions"><a class="button" href="#entry/${e.id}">${t('Open region entry','Abrir entrada de la región')}</a>
+ <div class="atlas-region-actions"><a class="button" data-map-entry="${e.id}" href="#entry/${e.id}">${t('Open region entry','Abrir entrada de la región')}</a>
  ${id==='northern-frontier'?`<a class="button cream" href="#map/northern-frontier">${t('Detailed chart','Mapa detallado')}</a>`:''}</div>
- <div class="map-region-list"><p>${t('PLACES AND LOCAL THREADS','LUGARES E HISTORIAS LOCALES')}</p>${localIds.map(id=>`<a class="question-link" href="#entry/${id}">${esc(byId[id].title)}</a>`).join('')}</div>`;
+ <div class="map-region-list"><p>${t('PLACES AND LOCAL THREADS','LUGARES E HISTORIAS LOCALES')}</p>${localIds.map(id=>`<a class="question-link" data-map-entry="${id}" href="#entry/${id}">${esc(byId[id].title)}</a>`).join('')}</div>`;
 }
 function applyMapTransform(){
  const layer=$('#map-layer');if(!layer)return;
@@ -323,7 +395,7 @@ function route(){
  else if(view==='entry'){renderArticle(parts[1]);document.title=(Pack2.canRead(parts[1])?byId[parts[1]]?.title||'Uncharted':'Uncharted')+' | Kalvatar'}
  else if(view==='rumors'){Pack2.renderRumorsFor(parts[1]);document.title='Rumors | Kalvatar'}
  else if(view==='timeline'){renderTimeline();document.title='Timeline | Kalvatar'}
- else if(view==='atlas'){renderAtlas();document.title='World atlas | Kalvatar'}
+ else if(view==='atlas'){renderAtlas(parts[1]);document.title='World atlas | Kalvatar'}
  else if(view==='map'){renderRegionalChart(parts[1]);document.title='Northern Frontier chart | Kalvatar'}
  else if(view==='browse'){renderDirectory();document.title='All entries | Kalvatar'}
  else if(view==='category'&&parts[1]==='folk'){NotableFolk.render(parts[2]||'');document.title=NotableFolk.title(parts[2])+' | Kalvatar'}
@@ -355,7 +427,7 @@ function openSearch(){if(!entries.length)return;$('#global-search').value='';ren
 $('#open-search').addEventListener('click',openSearch);$('#global-search').addEventListener('input',e=>renderSearch(e.target.value));$('#global-search').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();const first=$('.search-result');if(first)first.click()}});
 $('#menu-toggle').addEventListener('click',()=>{const yes=!$('#sidebar').classList.contains('open');$('#sidebar').classList.toggle('open',yes);$('#mobile-backdrop').classList.toggle('visible',yes);$('#menu-toggle').setAttribute('aria-expanded',String(yes))});$('#mobile-backdrop').addEventListener('click',closeMenu);
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!e.ctrlKey&&!e.metaKey&&!e.altKey&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)&&!$('#search-dialog').open){e.preventDefault();openSearch()}if(e.key==='Escape')closeMenu()});
-document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(link?.getAttribute('href')==='#content'){e.preventDefault();$('#content').focus();$('#content').scrollIntoView();return}if(link){if($('#search-dialog').open)$('#search-dialog').close();if(link.getAttribute('href')===location.hash)closeMenu()}const close=e.target.closest('[data-close-search]');if(close)$('#search-dialog').close();const random=e.target.closest('[data-random]');if(random&&entries.length){const available=entries.filter(x=>Pack2.canRead(x.id)&&location.hash!==`#entry/${x.id}`);if(!available.length)return;location.hash=`entry/${available[Math.floor(Math.random()*available.length)].id}`}const pin=e.target.closest('[data-region]');if(pin)setRegion(pin.dataset.region);const zoom=e.target.closest('[data-zoom]');if(zoom)zoomMap(zoom.dataset.zoom);const section=e.target.closest('[data-scroll-to], [data-scroll-section]');if(section){const id=section.dataset.scrollTo||'article-section-'+section.dataset.scrollSection;document.getElementById(id)?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})}});
+document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(link?.hasAttribute('data-map-entry')&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey&&!e.altKey)mapReturnEntry=link.dataset.mapEntry;if(link?.getAttribute('href')==='#content'){e.preventDefault();$('#content').focus();$('#content').scrollIntoView();return}if(link){if($('#search-dialog').open)$('#search-dialog').close();if(link.getAttribute('href')===location.hash)closeMenu()}const close=e.target.closest('[data-close-search]');if(close)$('#search-dialog').close();const random=e.target.closest('[data-random]');if(random&&entries.length){const available=entries.filter(x=>Pack2.canRead(x.id)&&location.hash!==`#entry/${x.id}`);if(!available.length)return;location.hash=`entry/${available[Math.floor(Math.random()*available.length)].id}`}const pin=e.target.closest('[data-region]');if(pin)setRegion(pin.dataset.region);const zoom=e.target.closest('[data-zoom]');if(zoom)zoomMap(zoom.dataset.zoom);const section=e.target.closest('[data-scroll-to], [data-scroll-section]');if(section){const id=section.dataset.scrollTo||'article-section-'+section.dataset.scrollSection;document.getElementById(id)?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})}});
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {

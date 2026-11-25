@@ -168,13 +168,48 @@ window.Adventurers = (() => {
  const allTools=toolGroups.flatMap(group=>group[3]);
  const toolLabel=tool=>t(tool[2],tool[3]);
  const toolLink=tool=>`<a href="${tool[1]}">${h(toolLabel(tool))}</a>`;
+ const toolMemoryKey='kalvatar-adventurers-tools-v1';
+ let favorites=[],recentTools=[];
+ try{
+  const saved=JSON.parse(localStorage.getItem(toolMemoryKey)||'{}')||{};
+  const valid=list=>Array.isArray(list)?[...new Set(list)].filter(id=>allTools.some(tool=>tool[0]===id)):[];
+  favorites=valid(saved.favorites);
+  recentTools=valid(saved.recents).slice(0,5);
+ }catch{}
+ function saveToolMemory(){
+  try{localStorage.setItem(toolMemoryKey,JSON.stringify({favorites,recents:recentTools}));}catch{}
+ }
+ function recentTool(id){
+  recentTools=[id,...recentTools.filter(old=>old!==id)].slice(0,5);
+  saveToolMemory();
+ }
+ function drawFavorite(button,id){
+  const pinned=favorites.includes(id);
+  button.setAttribute('aria-pressed',String(pinned));
+  button.textContent=pinned?t('★ Favorited','★ En favoritos'):t('☆ Favorite','☆ Favorito');
+  button.setAttribute('aria-label',pinned?t('Remove from favorites','Quitar de favoritos'):t('Add to favorites','Agregar a favoritos'));
+ }
+ function toolShelf(ids,heading,kind){
+  const tools=ids.map(id=>allTools.find(tool=>tool[0]===id)).filter(Boolean);
+  return tools.length?`<section class="adv-tool-shelf" data-shelf="${kind}"><h2>${heading}</h2><nav aria-label="${heading}">${tools.map(toolLink).join('')}</nav></section>`:'';
+ }
+
  function frame(tab,body){
   window.setNavigation?.('adventurers');
   const hub=t('Adventurers','Aventureros'),tool=allTools.find(item=>item[0]===tab);
   const title=tool?toolLabel(tool):hub;
   document.title=title+' | Kalvatar';
   $('#breadcrumb').innerHTML=`<a href="#">${t('The world','El mundo')}</a><span>/</span><a href="#adventurers">${hub}</a>${tool?`<span>/</span>${h(title)}`:''}`;
-  $('#content').innerHTML=`<div class="content-wrap pack-page adventurers adv-workbench">${tool?`<a class="adv-back" href="#adventurers">‹ ${t('All tools','Todas las herramientas')}</a>`:''}<div class="page-intro"><h1 class="atlas-cartela">${h(title)}</h1></div>${body}</div>`;
+  $('#content').innerHTML=`<div class="content-wrap pack-page adventurers adv-workbench">${tool?`<div class="adv-tool-top"><a class="adv-back" href="#adventurers">‹ ${t('All tools','Todas las herramientas')}</a><button class="adv-favorite" type="button"></button></div>`:''}<div class="page-intro"><h1 class="atlas-cartela">${h(title)}</h1></div>${body}</div>`;
+  if(tool){
+   recentTool(tab);
+   const button=$('.adv-favorite');
+   drawFavorite(button,tab);
+   button.addEventListener('click',()=>{
+    favorites=favorites.includes(tab)?favorites.filter(id=>id!==tab):[...favorites,tab];
+    saveToolMemory();drawFavorite(button,tab);
+   });
+  }
  }
  function renderToolHub(){
   const quick=(id,icon,en,es)=>{
@@ -183,7 +218,10 @@ window.Adventurers = (() => {
   };
   frame('hub',`<p class="adv-lead">${t('Tools for characters, voyages and life between adventures.','Herramientas para personajes, viajes y la vida entre aventuras.')}</p>
    <label class="adv-tool-search"><span aria-hidden="true">⌕</span><input id="adv-tool-search" type="search" aria-label="${t('Find a tool','Busca una herramienta')}" placeholder="${t('Find a tool…','Busca una herramienta…')}"></label>
-   <div id="adv-tool-browse"><h2>${t('Quick access','Acceso rápido')}</h2><div class="adv-quick">
+   <div id="adv-tool-browse">
+   ${toolShelf(favorites,t('Favorites','Favoritos'),'favorites')}
+   ${toolShelf(recentTools.filter(id=>!favorites.includes(id)),t('Recently used','Usadas recientemente'),'recents')}
+   <h2>${t('Quick access','Acceso rápido')}</h2><div class="adv-quick">
     ${quick('names','✒','Roll a name from the Isles.','Genera un nombre de las Islas.')}
     ${quick('purse','⚓','Budget a voyage or split a prize.','Presupuesta un viaje o reparte una presa.')}
    </div><div class="atlas-ornament" aria-hidden="true"><span>✦</span><span>✦</span><span>✦</span></div>
@@ -616,10 +654,12 @@ window.Adventurers = (() => {
   if(o.shut) return `<p class="adv-roll">${t(`No harbor office sells a passage to or from ${o.shut.name}.`, `Ninguna oficina de puerto vende pasaje hacia o desde ${o.shut.name}.`)}</p><p class="adv-note">${t('Choose a quiet passage, or your own ship.', 'Elige un pasaje discreto, o tu propio barco.')}</p>`;
   if(o.none) return `<p class="adv-note">${t('No known route.', 'No hay ruta conocida.')}</p>`;
   const lo = Math.max(1, Math.round(o.total * .9)), hi = Math.round(o.total * 1.25), cyc = Math.round(o.total / 10 * 10) / 10, meet = Math.round(o.total * .15);
+  const portDays=Math.min(o.total,trip.skip?0:o.calls);
+  const purseParams=new URLSearchParams({sea:o.total-portDays,port:portDays,aboard:trip.size});
   const stops = o.legs.flatMap((l, n) => [...(trip.skip ? [] : l.stops.map(x => x.name)), ...(n < o.legs.length - 1 ? [l.to.name] : [])]);
   return `<dl class="adv-out">${row(t('Fair passage', 'Travesía normal'), `${days(o.total)} · ${cyc} Cycles`)}${row(t('With the weather', 'Según el clima'), `${lo} ${t('to', 'a')} ${days(hi)}`)}${row(t('Fare, each', 'Pasaje, cada uno'), coin(o.each))}${row(t('Fare, all of you', 'Pasaje, todos'), coin(Math.round(o.each * trip.size * 100) / 100))}${o.bribe ? row(t('To skip the ports of call', 'Por saltarse las escalas'), coin(o.bribe) + ' ' + t('to the captain', 'al capitán')) : ''}${row(t('Ports of call', 'Escalas'), stops.length ? `${stops.length}: ${h(stops.join(', '))}` : t('none', 'ninguna'))}</dl>
   <ol class="adv-legs">${o.legs.map(l => `<li><strong>${h(l.from.name)} → ${h(l.to.name)}</strong><span>${days(l.sail)} · ${coin(Math.round(l.bits) / 100)} ${t('each', 'cada uno')}${l.sure ? '' : ' · ' + t('estimated', 'estimado')}${trip.skip && l.stops.length ? ' · ' + t(`${l.stops.length} ${l.stops.length === 1 ? 'call' : 'calls'} skipped`, `${l.stops.length} ${l.stops.length === 1 ? 'escala saltada' : 'escalas saltadas'}`) : ''}</span>${!trip.skip && l.stops.length ? `<ul class="adv-calls">${l.stops.map(x => `<li><b>${t('Day', 'Día')} ${x.day}: ${h(x.name)}.</b> ${h(x.note)}</li>`).join('')}</ul>` : ''}</li>`).join('')}</ol>
-  <p class="adv-note">${h(o.mode.note)} ${t(`At sea, something finds a ship on an 18 or higher on a d20 each day: expect about ${meet} ${meet === 1 ? 'meeting' : 'meetings'} on this passage.`, `En el mar, algo encuentra al barco con 18 o más en un d20 cada día: espera unos ${meet} encuentros en esta travesía.`)}</p>${o.notes.length ? `<ul class="adv-loot">${o.notes.map(n => `<li>${h(n)}</li>`).join('')}</ul>` : ''}`;
+  <p class="adv-note">${h(o.mode.note)} ${t(`At sea, something finds a ship on an 18 or higher on a d20 each day: expect about ${meet} ${meet === 1 ? 'meeting' : 'meetings'} on this passage.`, `En el mar, algo encuentra al barco con 18 o más en un d20 cada día: espera unos ${meet} encuentros en esta travesía.`)}</p>${o.notes.length ? `<ul class="adv-loot">${o.notes.map(n => `<li>${h(n)}</li>`).join('')}</ul>` : ''}<div class="pack-actions"><a class="button cream" href="#adventurers/purse?${h(purseParams.toString())}">${t('Use this passage in Ship’s Purse','Usar esta travesía en la Bolsa del barco')}</a></div>`;
  }
  function renderTravel() {
   const T = data.travel, regs = [...new Set(T.ports.map(x => x.region))];
@@ -2373,16 +2413,51 @@ window.Adventurers = (() => {
   } else ES_DATA.forEach(k => {data[k] = enData[k];});
  }
 
+ let activeToolRoute=null;
+ function applyToolContext(tool,params){
+  if(tool==='names'){
+   const region=params.get('region');
+   if(region&&Object.hasOwn(data.regions,region)){
+    Object.assign(state,{region,home:'',everything:false,results:[]});
+   }
+  }
+  if(tool==='travel'){
+   const from=params.get('from');
+   if(hasPort(from)){
+    if(from===trip.to&&from!==trip.from)trip.to=trip.from;
+    trip.from=from;
+   }
+  }
+  if(tool==='purse'){
+   const limits={sea:3650,port:3650,aboard:500};
+   for(const [key,max] of Object.entries(limits)){
+    const raw=params.get(key);
+    if(!raw||!/^\d+$/.test(raw))continue;
+    const value=Number(raw);
+    if(!Number.isSafeInteger(value)||value>max)continue;
+    pu[key]=value;
+    purseMode='budget';
+   }
+  }
+ }
+ function hasPort(id){return !!data?.travel?.ports?.some(port=>port.id===id);}
  function route(view, parts) {
-  if(view !== 'adventurers') return false;
+  if(view !== 'adventurers'){activeToolRoute=null;return false;}
+  const requested=location.hash;
+  const [path,query='']=requested.slice(1).split('?');
+  parts=path.split('/');
   const draw = () => {
-   if(location.hash.slice(1).split('/')[0] !== 'adventurers') return;
-   if(failed || !data) {frame('names', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
+   if(location.hash!==requested) return;
+   if(failed || !data) {frame('hub', `<p class="adv-hint">${t('The adventurers’ tools could not be loaded. Try reloading the page.', 'No se pudieron cargar las herramientas. Recarga la página.')}</p>`); return;}
    advLang();
+   if(requested!==activeToolRoute){
+    activeToolRoute=requested;
+    applyToolContext(parts[1],new URLSearchParams(query));
+   }
    if(parts[1] === 'traits') renderTraits(parts[2]); else if(parts[1] === 'workshop') renderWorkshop(); else if(parts[1] === 'downtime') renderDowntime(); else if(parts[1] === 'side-quests') renderSide(); else if(parts[1] === 'treasure') renderTreasure(); else if(parts[1] === 'sigil') renderSigil(); else if(parts[1] === 'travel') renderTravel(); else if(parts[1] === 'sea') renderSea(); else if(parts[1] === 'hall') renderHall(); else if(parts[1] === 'wanted') renderWanted(); else if(parts[1] === 'coinsday') renderCoinsday(); else if(parts[1] === 'black-market') renderBlack(); else if(parts[1] === 'law') renderLaw(); else if(parts[1] === 'games') renderGames(); else if(parts[1] === 'almanac') renderAlmanac(); else if(parts[1] === 'trade') renderTrade(); else if(parts[1] === 'purse') renderPurse(); else if(parts[1] === 'folk') renderFolk(); else if(parts[1] === 'tavern') renderTavern(); else if(parts[1] === 'encounters') renderEncounters(); else if(parts[1] === 'names') renderNames(); else renderToolHub();
   };
-  if(data || failed) draw(); else {frame('names', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
+  if(data || failed) draw(); else {frame('hub', `<p class="adv-hint">${t('Loading…', 'Cargando…')}</p>`); ready.then(draw);}
   return true;
  }
- return {route, ready};
+ return {route, ready, hasPort};
 })();

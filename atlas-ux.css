@@ -199,3 +199,31 @@
  .adv-workbench .adv-controls:not(.adv-primary-fields):has(input[type=number])>*{grid-column:1/-1}
  .adv-workbench .adv-controls:not(.adv-primary-fields)>label:has(>input[type=number]):not(:has(select)){grid-column:auto}
 }
+
+.article-actions .quick-action,.article-actions #open-quick-reference{min-height:44px;display:inline-flex;align-items:center;padding:5px 8px}
+.quick-reference{margin:0 0 18px;border:1px solid var(--ux-line);border-radius:6px;background:var(--ux-surface);color:var(--ux-ink);scroll-margin-top:80px}
+.quick-reference>summary,.quick-more>summary{cursor:pointer;padding:8px 11px;color:var(--ux-ink);font-size:15px;font-weight:650}
+.quick-reference>summary{min-height:44px;line-height:28px}
+.quick-reference-inner{display:grid;gap:12px;padding:0 11px 11px}
+.quick-reference-inner h3{margin:0 0 6px;font:600 25px/1.05 var(--ux-serif);color:var(--ux-ink)}
+.quick-reference-inner ul{margin:0;padding:0;list-style:none;border:1px solid var(--ux-line);border-radius:4px;overflow:hidden}
+.quick-reference-inner li{padding:7px 8px;background:var(--ux-row);font-size:14px;line-height:1.45}
+.quick-reference-inner li+li{border-top:1px solid var(--ux-line)}
+.quick-reference-inner li:nth-child(even){background:var(--ux-stripe)}
+.quick-reference-inner li>a,.quick-reference-inner li>strong{display:block;font-weight:680}
+.quick-reference-inner li a{text-decoration:underline;text-underline-offset:.16em}
+.quick-reference-inner li>span{color:var(--ux-muted)}
+.quick-actions{display:flex;flex-wrap:wrap;gap:7px}
+.quick-actions [hidden]{display:none}
+.quick-actions .quick-action,.adv-favorite{display:inline-flex;min-height:44px;align-items:center;padding:6px 10px;border:1px solid var(--ux-line);border-radius:4px;background:var(--ux-stripe);color:var(--ux-ink);font-size:14px;text-align:left}
+.quick-actions .quick-secret{color:#f6dcc7;background:#381a22;border-color:#a65b56}
+.adv-tool-top{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:7px}
+.adv-tool-top .adv-back{margin:0}
+.adv-favorite[aria-pressed=true]{border-color:var(--ux-gold);color:var(--ux-gold)}
+.adv-tool-shelf{margin:0 0 12px}
+.adv-tool-shelf nav{display:flex;flex-wrap:wrap;gap:6px}
+.adv-tool-shelf nav a{display:flex;align-items:center;min-height:44px;padding:5px 9px;border:1px solid var(--ux-line);border-radius:4px;color:var(--ux-ink);background:var(--ux-surface);font-size:14px}
+@media(min-width:900px){
+ .quick-reference-inner{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .quick-reference-inner>.quick-actions{grid-column:1/-1}
+}
