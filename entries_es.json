@@ -3847,7 +3847,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlw7FvcmVzIHF1ZSBoYW4gY2HDrWRvKioiLCAiTG9zIFNlw7FvcmVzIG5vIHNvbiBpbm1vcnRhbGVzLiBNdWVyZW4gcG9jYXMgdmVjZXMsIHkgc29sbyBhIG1hbm9zIGRlIG90cm9zIFNlw7FvcmVzLiIsICIqKkVsIFtbU2XDsW9yfExvcmRdXSBhbnRlcyBkZSBWdWtoYXJyLioqIExhcyBjYW5jaW9uZXMgbcOhcyB2aWVqYXMgZGUgbG9zIFtbRWxmb3MgZGUgbGEgRXNjYXJjaGF8RnJvc3QgRWx2ZXNdXSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBbW0xhcmdhIE5vY2hlfExvbmcgTmlnaHRdXSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBFbCDDum5pY28gaW50ZW50byByZWdpc3RyYWRvIGRlIHVub3MgbW9ydGFsZXMgY29udHJhIHVuIFNlw7FvciB2aXZvLiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIGNvbiB2ZWludGludWV2ZSBbW0NhemFkb3Jlc3xIdW50ZXJzXV0geSB1bmEgZ3XDrWEgZGUgbG9zIFtbR3VhcmRpYW5lcyBkZSBDZW5pemF8QXNoIFdhcmRlbnNdXSwgYmFqw7MgYSBsYSBjYWxkZXJhIGRlIEtha2FuS2FsIG1pZW50cmFzIGRvcm3DrWEuIFZvbHZpw7MgdW5hIHNvbGEsIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gTG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphIHRvZGF2w61hIGNhbnRhbiBsb3MgdHJlaW50YSBub21icmVzLCB5IGVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyAqcmV0aXJhZG8gcG9yIGxhIFtbSnVudGF8Qm9hcmRdXSouIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlNlw7FvcmVzIHF1ZSBoYW4gY2HDrWRvKioiLCAiTG9zIFNlw7FvcmVzIG5vIHNvbiBpbm1vcnRhbGVzLiBNdWVyZW4gcG9jYXMgdmVjZXMsIHkgc29sbyBhIG1hbm9zIGRlIG90cm9zIFNlw7FvcmVzLiIsICIqKkVsIFtbU2XDsW9yfExvcmRdXSBhbnRlcyBkZSBWdWtoYXJyLioqIExhcyBjYW5jaW9uZXMgbcOhcyB2aWVqYXMgZGUgbG9zIFtbRWxmb3MgZGUgbGEgRXNjYXJjaGF8RnJvc3QgRWx2ZXNdXSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBbW0xhcmdhIE5vY2hlfExvbmcgTmlnaHRdXSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBFbCDDum5pY28gaW50ZW50byByZWdpc3RyYWRvIGRlIHVub3MgbW9ydGFsZXMgY29udHJhIHVuIFNlw7FvciB2aXZvLiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhIGRlIFZlbnRvcm98R29sZHdpbmQgTG9kZ2VdXSwgY29uIHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSB5IHVuYSBndcOtYSBkZSBsb3MgW1tHdWFyZGlhbmVzIGRlIENlbml6YXxBc2ggV2FyZGVuc11dLCBiYWrDsyBhIGxhIGNhbGRlcmEgZGUgS2FrYW5LYWwgbWllbnRyYXMgZG9ybcOtYS4gVm9sdmnDsyB1bmEgc29sYSwgbGEgZ3XDrWEsIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gS2FrYW5LYWwgbm8gZGVzcGVydMOzLiBMb3MgR3VhcmRpYW5lcyBkZSBDZW5pemEgdG9kYXbDrWEgY2FudGFuIGxvcyB0cmVpbnRhIG5vbWJyZXMsIHkgZWwgW1tMaWJybyBkZSBIYXphw7Fhc3xMZWRnZXIgb2YgRGVlZHNdXSByZWdpc3RyYSBlbCBjb250cmF0byBjb21vICpyZXRpcmFkbyBwb3IgbGEgW1tKdW50YXxCb2FyZF1dKi4iXX0="
    }
   ],
   "title": "Los Señores Salvajes",
@@ -4007,7 +4007,7 @@
     "paragraphs": [
      "Los Cazadores, o el Gremio de Cazadores, son el gremio de los escoltas, los exploradores y los matadores de monstruos. Se fundaron en Fuerte de Hierro en el primer año de la Carta, y su tradición viene de los guardias que pelearon por los convoyes del [[Éxodo|Exodus]].",
      "Sus casas de capítulo son las Logias, y cada una la dirigen un Maestro de Logia y una Junta:",
-     "La Logia de [[Ventoro|Goldwind]] es la casa principal.",
+     "La [[Logia de Ventoro|Goldwind Lodge]] es la casa principal.",
      "Trabajo: los contratos de la Junta son legales y se pagan con modestia; el trabajo del [[Mercado Gris|Grey Market]], sin publicar, paga el doble y cuesta reputación si sale a la luz.",
      "Patrocinadores: las casas y las firmas patrocinan tripulaciones como si fueran establos de carreras.",
      "El Ranking: una clasificación pública de popularidad de los Cazadores que se sigue como un deporte.",
@@ -4147,7 +4147,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSB5IHVuYSBndcOtYSBkZSBsb3MgR3VhcmRpYW5lcyBkZSBDZW5pemEsIGJhasOzIGEgbGEgY2FsZGVyYSBtaWVudHJhcyBLYWthbkthbCBkb3Jtw61hLiBTb2xvIHZvbHZpw7MgbGEgZ3XDrWEsIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gS2FrYW5LYWwgbm8gZGVzcGVydMOzLiBFbCBbW0xpYnJvIGRlIEhhemHDsWFzfExlZGdlciBvZiBEZWVkc11dIHJlZ2lzdHJhIGVsIGNvbnRyYXRvIGNvbW8gcmV0aXJhZG8gcG9yIGxhIEp1bnRhLiIsICIqKkFudWvDoWxpLCBbW01hcmVhIFJleXxLaW5nIFRpZGVdXSBkZWwgMTc0IEVDLioqIExhIERhbWEgVmljdG9yaWEgV2luZ2F0ZSwgcXVlIHNlIG1vcsOtYSBkZSB1bmEgdmllamEgaGVyaWRhLCB2aW5vIHBvciBlbCBbW0NvcmF6w7NuIGRlbCBNYXJ8SGVhcnQgb2YgdGhlIFNlYV1dLiBTdSBob21icmUsIExlb3JpYyBbW0VzcGlub3xUaG9ybmVdXSwgYXRhZG8gcG9yIHBhY3RvIGEgdW4gcG9kZXIgc2VsbGFkbywgbWF0w7MgYSBsYXMgW1tBbGFzIERvcmFkYXN8R29sZGVuIFdpbmdzXV0gZW4gbGEgY3VldmEgZGVsIENvcmF6w7NuLiBFbCBDb3JhesOzbiB5IHN1IEd1YXJkacOhbiB2b2xjYXJvbiBzdXMgdmlkYXMgZW4gZWxsb3MuIFNlIGxldmFudGFyb24gcGFyYSB1bmEgw7psdGltYSBwZWxlYSwgdm9sdmllcm9uIGEgc2VsbGFyIGFsIHBhdHLDs24geSBsZSBxdWl0YXJvbiBzdSBwb2RlciBhIExlb3JpYy4gVmljdG9yaWEsIG11cmnDqW5kb3NlLCB0b23DsyBlbCBsdWdhciBkZWwgQ29yYXrDs24gbW9yaWJ1bmRvLiIsICIqKlF1acOpbiBsbyBzYWJlLioqIExhIGdlbnRlIGNvbcO6biBubyBzYWJlIG5hZGEgZGUgZXNvLiBFbCBbW0NvbnNlam98Q291bmNpbF1dIHJlY2liacOzIGVsIGluZm9ybWUgY29tcGxldG8gZGUgbG9zIENhemFkb3JlcywgeSBsbyBzYWJlIHRvZG8uIiwgIioqRWwgW1tEcmFnw7NuIERvcmFkb3xHaWxkZWQgRHJhZ29uXV0qKiBxdWUgc2UgbGxldsOzIGEgbGEgcHJpbWVyYSBjb21wYcOxw61hIGRlIEFkZWx5biBbW1ZhbGVtYXJ8U2Vhd29ydGhdXSBlcmEgdW5hIGNvc2EgaGVjaGE6IHVuIGRyYWfDs24gZGUgbWV0YWwgZG9yYWRvLCBkZSBsYSBjbGFzZSBkZSBsb3MgZm9yamFkb3MuIiwgIioqUXVpw6luIGNvbm9jZSBhIGxvcyBkcmFnb25lcy4qKiBLYXJhIChvcm8pIHkgTGFjaGxhbiAocGxhdGEpIHNvbiBkcmFnb25lcyBjb24gZGlzZnJheiBtb3J0YWwgeSBjb25vY2VuIGxhIG5hdHVyYWxlemEgZGVsIG90cm8sIHkgc2FiZW4gZGUgdW5vIGRlIGxhdMOzbiBlc2NvbmRpZG8gZW50cmUgbG9zIFBsYXRpbm9zIChlbCBuLsK6IDIsIGVsIFtbRXh0cmFuamVybyBEb3JhZG98R2lsZGVkIFN0cmFuZ2VyXV0pLiBTeWxhcmllbCBsYSBTYWJpYSAoUGxhdGlubyBuLsK6IDgsIGxhIGZ1bmRhZG9yYSBhbHRhIGVsZmEpIGVzIGxvIGJhc3RhbnRlIHZpZWphIHkgcGVyc3BpY2F6IHBhcmEgc2FiZXIgbG8gcXVlIGNhbWluYSBlbnRyZSBzdSBvcmRlbi4gWSB1biBtb3J0YWwgYW5kYSByb25kYW5kbyBlbCBzZWNyZXRvOiBWZWxlbW5vcywgcXVlIGNhemEgdG9kb3MgbG9zIHNlY3JldG9zIHkgZW1wZXrDsyBhIHNvc3BlY2hhciBxdWUgYWxndW5vcyBkZSBsb3MgZ3VhcmRpYW5lcyBkZWwgbXVuZG8gbm8gc29uIGxvIHF1ZSBwYXJlY2VuLiBMb3Mgc2VpcyBkcmFnb25lcyBjcm9tw6F0aWNvcyBzZSBxdWVkYW4gZW4gbG8gc2FsdmFqZSB5IGVuIGxhIG9zY3VyaWRhZDsgc2Ugc3VzdXJyYSBxdWUgYWwgbWVub3MgdW5vIHRpZW5lIHN1IGd1YXJpZGEgZW4gZWwgZXh0cmVtbyBzdXIsIGNlcmNhIGRlIGxvcyBsdWdhcmVzIGFiaXNtYWxlcyBxdWUgY29kaWNpYSBWZWxlbW5vcywgeSBzaSBlbCBbW1BhdHLDs24gZGUgTWVkaWFub2NoZXxNaWRuaWdodCBQYXRyb25dXSBwaWVuc2EgbmVnb2NpYXIgY29uIMOpbCwgYXRhcmxvIG8gZGVzYW5ncmFybG8gZXMgdW5hIHByZWd1bnRhIHF1ZSBkZWJlcsOtYSBhc3VzdGFyIGEgdG9kbyBlbCBtdW5kby4iLCAiKipMb3MgRGlleiBkZSBQbGF0aW5vLCBjb21wbGV0b3MqKiIsICJMb3MgY3VhdHJvIGx1Z2FyZXMgYWJpZXJ0b3MsIHlhIG9jdXBhZG9zLCB5IHRvZG9zLCBhIGxhIG1hbmVyYSBkZSBsYSBvcmRlbiwgZXNjb25kZW4gbGEgY2FyYSAoVm9sdW1lbiBJLCDCpzkpOiIsICIqKk4uwrogNCwgVmFycmEsIFwibGEgTWFyY2FkYSBwb3IgZWwgU2XDsW9yXCIuKiogTGEgbWF0YWRvcmEgZGUgYmVzdGlhcyBkZSBsb3MgRGlleiwgbGEgw7puaWNhIFBsYXRpbm8gYSBsYSBxdWUgc2UgbGUgcmVjb25vY2UgaGFiZXIgbWF0YWRvIGRlIHZlcmRhZCBhIGxhICoqcHJvZ2VuaWUgcHJpbmNpcGFsIGRlIHVuIFtbU2XDsW9yIFNhbHZhamV8U2F2YWdlIExvcmRdXSoqLCB5IChkaWNlIGxhIGxleWVuZGEpIGhhYmVyICpoZXJpZG8qIGEgdW4gU2XDsW9yIHkgaGFiZXIgdml2aWRvLiBMbGV2YSBsYXMgY2ljYXRyaWNlcyBxdWUgcHJ1ZWJhbiBsbyBzZWd1bmRvIHkgc2UgbmllZ2EgYSBoYWJsYXIgZGUgZXNvLiIsICIqKk4uwrogNSwgU2Vua2EsIFwiZWwgSW52aXNpYmxlXCIuKiogRWwgUGxhdGlubyBjdXlhIGNhcmEgZGUgdmVyZGFkIG5hZGllIGNvbm9jZSwgbmkgZWwgcMO6YmxpY28sIG5pIGVsIENvbnNlam8sIG5pIGxhIG1heW9yw61hIGRlIGxvcyBvdHJvcyBEaWV6LiBMYSBtYW5vIG5lZ2FibGUgZGUgbGEgb3JkZW4sIHF1ZSBoYWNlIGVsIHRyYWJham8gcXVlIG5vIHNlIHB1ZWRlIHJlY29ub2NlciBxdWUgc2UgaGl6by4gQWxndW5vcyBkdWRhbiBkZSBxdWUgU2Vua2Egc2VhIHVuYSBzb2xhIHBlcnNvbmEuIiwgIioqTi7CuiA2LCBEcm9nYW4sIFwiZWwgQmFsdWFydGVcIi4qKiBFbCBtdXJvIHZpdm8sIHVuIGd1YXJkacOhbiBxdWUgbcOhcyBkZSB1bmEgdmV6IHNpbXBsZW1lbnRlICpzZSBwYXLDsyBlbiB1bmEgcHVlcnRhKiBlbnRyZSB1bmEgY2F0w6FzdHJvZmUgeSB1bmEgY2l1ZGFkIHkgc2UgbmVnw7MgYSBtb3ZlcnNlIGhhc3RhIHF1ZSBsYSBjYXTDoXN0cm9mZSBzZSByaW5kacOzLiBEb25kZSBvdHJvcyBhY2FiYW4gY29uIGxhcyBhbWVuYXphcywgRHJvZ2FuIGxhcyBhZ3VhbnRhLiIsICIqKkthcmEqKiwgbGEgZGUgb3JvIGRlIGxvcyBbW0RpZXogZGUgUGxhdGlub3xQbGF0aW51bSBUZW5dXSwgc2FiZSBleGFjdGFtZW50ZSBsbyBxdWUgaGF5IGJham8gbGEgW1tUdW1iYSBkZWwgU29sfFN1bidzIEdyYXZlXV0uIE51bmNhIGxvIGhhIGRpY2hvLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhIGRlIFZlbnRvcm98R29sZHdpbmQgTG9kZ2VdXSwgdmVpbnRpbnVldmUgW1tDYXphZG9yZXN8SHVudGVyc11dIHkgdW5hIGd1w61hIGRlIGxvcyBHdWFyZGlhbmVzIGRlIENlbml6YSwgYmFqw7MgYSBsYSBjYWxkZXJhIG1pZW50cmFzIEtha2FuS2FsIGRvcm3DrWEuIFNvbG8gdm9sdmnDsyBsYSBndcOtYSwgeSBudW5jYSB2b2x2acOzIGEgaGFibGFyLiBLYWthbkthbCBubyBkZXNwZXJ0w7MuIEVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyByZXRpcmFkbyBwb3IgbGEgSnVudGEuIiwgIioqQW51a8OhbGksIFtbTWFyZWEgUmV5fEtpbmcgVGlkZV1dIGRlbCAxNzQgRUMuKiogTGEgRGFtYSBWaWN0b3JpYSBXaW5nYXRlLCBxdWUgc2UgbW9yw61hIGRlIHVuYSB2aWVqYSBoZXJpZGEsIHZpbm8gcG9yIGVsIFtbQ29yYXrDs24gZGVsIE1hcnxIZWFydCBvZiB0aGUgU2VhXV0uIFN1IGhvbWJyZSwgTGVvcmljIFtbRXNwaW5vfFRob3JuZV1dLCBhdGFkbyBwb3IgcGFjdG8gYSB1biBwb2RlciBzZWxsYWRvLCBtYXTDsyBhIGxhcyBbW0FsYXMgRG9yYWRhc3xHb2xkZW4gV2luZ3NdXSBlbiBsYSBjdWV2YSBkZWwgQ29yYXrDs24uIEVsIENvcmF6w7NuIHkgc3UgR3VhcmRpw6FuIHZvbGNhcm9uIHN1cyB2aWRhcyBlbiBlbGxvcy4gU2UgbGV2YW50YXJvbiBwYXJhIHVuYSDDumx0aW1hIHBlbGVhLCB2b2x2aWVyb24gYSBzZWxsYXIgYWwgcGF0csOzbiB5IGxlIHF1aXRhcm9uIHN1IHBvZGVyIGEgTGVvcmljLiBWaWN0b3JpYSwgbXVyacOpbmRvc2UsIHRvbcOzIGVsIGx1Z2FyIGRlbCBDb3JhesOzbiBtb3JpYnVuZG8uIiwgIioqUXVpw6luIGxvIHNhYmUuKiogTGEgZ2VudGUgY29tw7puIG5vIHNhYmUgbmFkYSBkZSBlc28uIEVsIFtbQ29uc2Vqb3xDb3VuY2lsXV0gcmVjaWJpw7MgZWwgaW5mb3JtZSBjb21wbGV0byBkZSBsb3MgQ2F6YWRvcmVzLCB5IGxvIHNhYmUgdG9kby4iLCAiKipFbCBbW0RyYWfDs24gRG9yYWRvfEdpbGRlZCBEcmFnb25dXSoqIHF1ZSBzZSBsbGV2w7MgYSBsYSBwcmltZXJhIGNvbXBhw7HDrWEgZGUgQWRlbHluIFtbVmFsZW1hcnxTZWF3b3J0aF1dIGVyYSB1bmEgY29zYSBoZWNoYTogdW4gZHJhZ8OzbiBkZSBtZXRhbCBkb3JhZG8sIGRlIGxhIGNsYXNlIGRlIGxvcyBmb3JqYWRvcy4iLCAiKipRdWnDqW4gY29ub2NlIGEgbG9zIGRyYWdvbmVzLioqIEthcmEgKG9ybykgeSBMYWNobGFuIChwbGF0YSkgc29uIGRyYWdvbmVzIGNvbiBkaXNmcmF6IG1vcnRhbCB5IGNvbm9jZW4gbGEgbmF0dXJhbGV6YSBkZWwgb3RybywgeSBzYWJlbiBkZSB1bm8gZGUgbGF0w7NuIGVzY29uZGlkbyBlbnRyZSBsb3MgUGxhdGlub3MgKGVsIG4uwrogMiwgZWwgW1tFeHRyYW5qZXJvIERvcmFkb3xHaWxkZWQgU3RyYW5nZXJdXSkuIFN5bGFyaWVsIGxhIFNhYmlhIChQbGF0aW5vIG4uwrogOCwgbGEgZnVuZGFkb3JhIGFsdGEgZWxmYSkgZXMgbG8gYmFzdGFudGUgdmllamEgeSBwZXJzcGljYXogcGFyYSBzYWJlciBsbyBxdWUgY2FtaW5hIGVudHJlIHN1IG9yZGVuLiBZIHVuIG1vcnRhbCBhbmRhIHJvbmRhbmRvIGVsIHNlY3JldG86IFZlbGVtbm9zLCBxdWUgY2F6YSB0b2RvcyBsb3Mgc2VjcmV0b3MgeSBlbXBlesOzIGEgc29zcGVjaGFyIHF1ZSBhbGd1bm9zIGRlIGxvcyBndWFyZGlhbmVzIGRlbCBtdW5kbyBubyBzb24gbG8gcXVlIHBhcmVjZW4uIExvcyBzZWlzIGRyYWdvbmVzIGNyb23DoXRpY29zIHNlIHF1ZWRhbiBlbiBsbyBzYWx2YWplIHkgZW4gbGEgb3NjdXJpZGFkOyBzZSBzdXN1cnJhIHF1ZSBhbCBtZW5vcyB1bm8gdGllbmUgc3UgZ3VhcmlkYSBlbiBlbCBleHRyZW1vIHN1ciwgY2VyY2EgZGUgbG9zIGx1Z2FyZXMgYWJpc21hbGVzIHF1ZSBjb2RpY2lhIFZlbGVtbm9zLCB5IHNpIGVsIFtbUGF0csOzbiBkZSBNZWRpYW5vY2hlfE1pZG5pZ2h0IFBhdHJvbl1dIHBpZW5zYSBuZWdvY2lhciBjb24gw6lsLCBhdGFybG8gbyBkZXNhbmdyYXJsbyBlcyB1bmEgcHJlZ3VudGEgcXVlIGRlYmVyw61hIGFzdXN0YXIgYSB0b2RvIGVsIG11bmRvLiIsICIqKkxvcyBEaWV6IGRlIFBsYXRpbm8sIGNvbXBsZXRvcyoqIiwgIkxvcyBjdWF0cm8gbHVnYXJlcyBhYmllcnRvcywgeWEgb2N1cGFkb3MsIHkgdG9kb3MsIGEgbGEgbWFuZXJhIGRlIGxhIG9yZGVuLCBlc2NvbmRlbiBsYSBjYXJhIChWb2x1bWVuIEksIMKnOSk6IiwgIioqTi7CuiA0LCBWYXJyYSwgXCJsYSBNYXJjYWRhIHBvciBlbCBTZcOxb3JcIi4qKiBMYSBtYXRhZG9yYSBkZSBiZXN0aWFzIGRlIGxvcyBEaWV6LCBsYSDDum5pY2EgUGxhdGlubyBhIGxhIHF1ZSBzZSBsZSByZWNvbm9jZSBoYWJlciBtYXRhZG8gZGUgdmVyZGFkIGEgbGEgKipwcm9nZW5pZSBwcmluY2lwYWwgZGUgdW4gW1tTZcOxb3IgU2FsdmFqZXxTYXZhZ2UgTG9yZF1dKiosIHkgKGRpY2UgbGEgbGV5ZW5kYSkgaGFiZXIgKmhlcmlkbyogYSB1biBTZcOxb3IgeSBoYWJlciB2aXZpZG8uIExsZXZhIGxhcyBjaWNhdHJpY2VzIHF1ZSBwcnVlYmFuIGxvIHNlZ3VuZG8geSBzZSBuaWVnYSBhIGhhYmxhciBkZSBlc28uIiwgIioqTi7CuiA1LCBTZW5rYSwgXCJlbCBJbnZpc2libGVcIi4qKiBFbCBQbGF0aW5vIGN1eWEgY2FyYSBkZSB2ZXJkYWQgbmFkaWUgY29ub2NlLCBuaSBlbCBww7pibGljbywgbmkgZWwgQ29uc2VqbywgbmkgbGEgbWF5b3LDrWEgZGUgbG9zIG90cm9zIERpZXouIExhIG1hbm8gbmVnYWJsZSBkZSBsYSBvcmRlbiwgcXVlIGhhY2UgZWwgdHJhYmFqbyBxdWUgbm8gc2UgcHVlZGUgcmVjb25vY2VyIHF1ZSBzZSBoaXpvLiBBbGd1bm9zIGR1ZGFuIGRlIHF1ZSBTZW5rYSBzZWEgdW5hIHNvbGEgcGVyc29uYS4iLCAiKipOLsK6IDYsIERyb2dhbiwgXCJlbCBCYWx1YXJ0ZVwiLioqIEVsIG11cm8gdml2bywgdW4gZ3VhcmRpw6FuIHF1ZSBtw6FzIGRlIHVuYSB2ZXogc2ltcGxlbWVudGUgKnNlIHBhcsOzIGVuIHVuYSBwdWVydGEqIGVudHJlIHVuYSBjYXTDoXN0cm9mZSB5IHVuYSBjaXVkYWQgeSBzZSBuZWfDsyBhIG1vdmVyc2UgaGFzdGEgcXVlIGxhIGNhdMOhc3Ryb2ZlIHNlIHJpbmRpw7MuIERvbmRlIG90cm9zIGFjYWJhbiBjb24gbGFzIGFtZW5hemFzLCBEcm9nYW4gbGFzIGFndWFudGEuIiwgIioqS2FyYSoqLCBsYSBkZSBvcm8gZGUgbG9zIFtbRGlleiBkZSBQbGF0aW5vfFBsYXRpbnVtIFRlbl1dLCBzYWJlIGV4YWN0YW1lbnRlIGxvIHF1ZSBoYXkgYmFqbyBsYSBbW1R1bWJhIGRlbCBTb2x8U3VuJ3MgR3JhdmVdXS4gTnVuY2EgbG8gaGEgZGljaG8uIl19"
    }
   ],
   "title": "Los Cazadores",
@@ -6035,203 +6035,507 @@
  },
  "scarf-stoat": {
   "gloss": "Scarf Stoat",
-  "subtitle": "Mientras duerme alrededor de tu cuello, el frío de la noche no puede hacerte daño.",
-  "summary": "Un armiño blanco de invierno con la punta de la cola negra, que duerme enroscado al cuello de su persona como una bufanda y se queja cuando esta se da vuelta.",
+  "subtitle": "Calor que duerme en tus hombros",
+  "summary": "Un armiño blanco de invierno, con la punta de la cola negra, que duerme enrollado en el cuello de su persona como una bufanda y se queja cuando esta se da vuelta.",
   "epigraph": {
-   "quote": "El frío no puede llevarte mientras el armiño duerme.",
+   "quote": "El frío no te puede llevar mientras el armiño duerma.",
    "by": "Un dicho de Bastión de Escarcha"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "La [[Extensión Helada|Icy Expanse]]"
    ]
   ],
-  "title": "Armiño Bufanda"
+  "title": "Armiño Bufanda",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Mientras duerme alrededor de tu cuello, el frío de la noche no te puede hacer daño."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "En el hielo, se le regala uno al viajero que llega congelado. Negarle un armiño a alguien que se está congelando es casi tan malo como negarle fuego."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Un collar de armiño quiere decir que te recibieron como de la familia. En las noches más frías los armiños duermen de a dos, y una pareja que comparte una cama y dos armiños es la idea que el hielo tiene del romance.",
+     "Los niños del hielo aprenden a contar con armiños: un armiño, una noche fría; dos armiños, una [[Larga Noche|Long Night]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un Elfo de la Escarcha dejó un armiño bufanda en la puerta de un desconocido durante la Larga Noche, y el desconocido vivió.” (se oye en Bastión de Escarcha)"
+    ]
+   }
+  ]
  },
  "hush-owl": {
   "gloss": "Hush Owl",
-  "subtitle": "Se queda callada y se esponja cuando los muertos que caminan están cerca.",
-  "summary": "Una lechuza blanca y pequeña de ojos dorados que nunca se calla: chasquea, trina y murmura todo el día, hasta que se acercan los muertos.",
+  "subtitle": "El ave que se calla ante los muertos",
+  "summary": "Una lechuza chica y blanca, de ojos dorados, que nunca se calla: chasquea, trina y masculla todo el día, hasta que se acercan los muertos.",
   "epigraph": {
-   "quote": "La lechuza se calló.",
-   "by": "Lo que se dice en los puertos"
+   "quote": "En el hielo, “la lechuza se calló” es la peor frase que existe.",
+   "by": "Un sepulturero de Bastión de Escarcha"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "La [[Extensión Helada|Icy Expanse]], y los cementerios de todas partes"
    ]
   ],
-  "title": "Lechuza del Silencio"
+  "title": "Lechuza Callada",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Se queda en silencio y se esponja cuando hay muertos que caminan cerca."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Los polluelos se crían en los campanarios de los templos de Memnara, y el aprendiz de un sepulturero recibe una junto con la pala."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "En el hielo, ningún sepulturero trabaja sin una.",
+     "Una lechuza que se calla en un funeral vacía la sala."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una lechuza callada se quedó en silencio en una boda en Confín de Sal, en Agua de Tormenta del año pasado, y nadie ha vuelto a ver al novio.” (una taberna de la Frontera)",
+     "“Todas las lechuzas calladas de un cementerio de Snowvah se esponjaron a la vez en la última Marea Rey.” (se oye en la Extensión Helada)"
+    ]
+   }
+  ]
  },
  "landfall-petrel": {
   "gloss": "Landfall Petrel",
-  "subtitle": "Una vez al día sabe hacia dónde queda la tierra más cercana, y vuela en línea hacia ella.",
-  "summary": "Un pequeño petrel tiznado, de rabadilla blanca, que vuela bajo sobre las olas y duerme de pie en la borda.",
+  "subtitle": "El ave que sabe dónde queda la tierra",
+  "summary": "Un petrel chico y tiznado, de rabadilla blanca, que vuela bajo sobre las olas y duerme parado en la borda.",
   "epigraph": {
    "quote": "En la niebla del sur, el petrel vale más que una brújula.",
    "by": "Un capitán ballenero"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Los mares de niebla de la [[Extensión Helada|Icy Expanse]]"
    ]
   ],
-  "title": "Petrel de Tierra a la Vista"
+  "title": "Petrel de Recalada",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Una vez al día sabe hacia dónde queda la tierra más cercana, y vuela en línea recta hacia ella."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Los petreles suben a bordo con la niebla y eligen a un marinero. Dale pescado a uno y se queda todo el viaje. Dale de comer durante tres viajes y se queda toda la vida."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "El caracol te dice dónde está tu casa. El petrel te dice dónde está la tierra.",
+     "Los balleneros de [[Bastión de Escarcha|Frosthold]] no zarpan sin uno.",
+     "Un petrel que no quiere dejar la borda sabe que no hay tierra cerca. Reza."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un petrel de recalada llevó a un ballenero perdido a una isla que no estaba ahí cuando los Cartógrafos fueron a buscarla.” (se oye entre los balleneros)"
+    ]
+   }
+  ]
  },
  "bubble-seahorse": {
   "gloss": "Bubble Seahorse",
-  "subtitle": "Una vida pequeña junto a la tuya",
-  "summary": "Un diminuto caballito de mar dorado y coral que vive en un frasco de vidrio tapado, lleno de agua de mar y colgado del cinturón, y mira el mundo con enorme dignidad.",
+  "subtitle": "Un amigo de abajo, en tu cinturón",
+  "summary": "Un caballito de mar diminuto, dorado y coral, que vive en un frasco de vidrio tapado, lleno de agua de mar y colgado del cinturón, y mira el mundo con muchísima dignidad.",
   "epigraph": {
-   "quote": "Tengo amigos allá abajo.",
-   "by": "Lo que se dice en los puertos"
+   "quote": "Tengo amigos abajo.",
+   "by": "Lo que le dice al puerto un frasco con caballito en el cinturón"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Los puertos de buceo de perlas, y dondequiera que los pueblos del Coral tengan amigos"
+    "Dónde se encuentra",
+    "Los puertos de pescadores de perlas, y dondequiera que los [[Pueblos del Coral|Coral peoples]] tengan amigos"
    ]
   ],
-  "title": "Caballito de Mar de Burbuja"
+  "title": "Caballito de Burbuja",
+  "sections": [
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Una vez al día sopla una burbuja plateada sobre la boca de su persona, y esta puede respirar bajo el agua un rato."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Solo como regalo de los Pueblos del Coral. Comprar uno trae mala suerte, y los Pueblos del Coral se van a enterar."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "A los pescadores de perlas que llevan uno les pagan más, y bucean más hondo.",
+     "Cámbiale el agua todos los días, del mar, nunca de un barril."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“El caballito de un pescador de perlas sopló su burbuja para un desconocido que se ahogaba, y a la mañana siguiente los Jardines de Vidrio le mandaron una perla al pescador.” (se oye en Surco de Perlas)"
+    ]
+   }
+  ]
  },
  "tide-anemone": {
   "gloss": "Tide Anemone",
-  "subtitle": "Su cuidador siempre sabe exactamente cuándo cambia la marea en casa.",
-  "summary": "Una pequeña anémona de mar, rosa y crema, que vive en un frasco en el alféizar.",
+  "subtitle": "La marea de casa, en un frasco",
+  "summary": "Una anémona de mar chica, rosada y crema, que vive en un frasco en el alféizar.",
   "epigraph": {
-   "quote": "Estoy a un mes de casa, y sé que allá acaba de cambiar la marea.",
+   "quote": "Estoy a un mes de casa, y sé que allá la marea acaba de cambiar.",
    "by": "Un marinero de Bastión del Este lejos de casa"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Compañero"
    ],
    [
-    "Se encuentra en",
-    "Los alféizares de los amigos de las Cortes de Coral en tierra"
+    "Dónde se encuentra",
+    "Los alféizares de los amigos de las [[Cortes de Coral|Coral Courts]] en tierra"
    ]
   ],
-  "title": "Anémona de la Marea"
+  "title": "Anémona de Marea",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Se abre con la pleamar y se cierra con la bajamar, y sigue la hora del mar donde creció, por muy tierra adentro que vaya."
+    ]
+   },
+   {
+    "title": "Su don",
+    "paragraphs": [
+     "Quien la cuida siempre sabe exactamente cuándo va a cambiar la marea en casa."
+    ]
+   },
+   {
+    "title": "Ganarse su confianza",
+    "paragraphs": [
+     "Las Cortes de Coral se las regalan a los amigos que viven en tierra, para que no se olviden del agua."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los niños del puerto comparan sus anémonas con las marcas de la [[Marea de Tiza|Chalk Tide]] en las escaleras del puerto.",
+     "Los contrabandistas las aprecian para calcular los cruces de bajamar.",
+     "Una anémona que se cierra a destiempo es una advertencia de que las lunas están haciendo algo raro."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Todas las anémonas de marea de Puerto Sur se cerraron al mediodía del mismo día el año pasado, a destiempo, exactamente lo que dura decir una oración.” (una viuda del puerto de Puerto Sur)",
+     "“Una anémona en un alféizar de Bastión del Este supo que la marea había cambiado en casa, mientras quien la cuidaba estaba a un mes de navegación.” (se oye en Bastión del Este)"
+    ]
+   }
+  ]
  },
  "lodge-hound": {
   "gloss": "Lodge Hound",
-  "subtitle": "Rastrea monstruos.",
-  "summary": "Un sabueso grande y de pecho hondo, de orejas largas, cara grave y voz de campana, criado en la Logia de Ventoro desde que existen los Cazadores.",
+  "subtitle": "El rastreador de monstruos de los Cazadores",
+  "summary": "Un sabueso grande, de pecho hondo, orejas largas, cara seria y una voz como de campana, criado en la Logia de Ventoro desde que existen los Cazadores.",
   "epigraph": {
-   "quote": "El sabueso volvió solo. (La peor noticia que puede recibir una Logia.)",
-   "by": "Lo que se dice en los puertos"
+   "quote": "El sabueso volvió solo.",
+   "by": "Un dicho del puerto: la peor noticia que puede recibir una Logia"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las [[Logias|Lodges]] de los [[Cazadores|Hunters]], junto a sus Exploradores y cazadores de monstruos"
    ]
   ],
-  "title": "Sabueso de la Logia"
+  "title": "Sabueso de Logia",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Rastrea monstruos. Un sabueso de logia sigue el rastro de una bestia de hace días, bajo la lluvia y a través del agua, y no le tiene miedo a nada que tenga escamas."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "La [[Asamblea de los Sabuesos|Houndsmoot]], la gran reunión de los Cazadores, se llama así por ellos: los sabuesos de cada Logia se sientan en la sala junto a sus Cazadores. Un Cazador que llega con un sabueso está en un contrato de monstruo."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Solo un Cazador de la rama de los Exploradores, o uno que acepta contratos de monstruo, y solo cuando la Logia le asigna uno."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los sabuesos de logia son difíciles de entrenar y muy preciados. Un cachorro pasa tres años con el maestro de sabuesos de la Logia antes de que se lo entreguen a nadie.",
+     "Un sabueso de logia nunca se vende. Un Cazador que pierde uno por descuido puede que nunca reciba otro.",
+     "Casi todas las Logias tienen dos o tres. La [[Logia de Ventoro|Goldwind Lodge]] tiene una perrera del tamaño de una capilla.",
+     "Cuando un sabueso de logia muere en un contrato, su collar cuelga en la sala de la Logia junto a los nombres de los Cazadores caídos."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un sabueso de la Logia de Jakupur empezó a rastrear algo para lo que la Junta no ha publicado ningún contrato.” (se oye en la Logia de Jakupur)"
+    ]
+   }
+  ]
  },
  "roof-goats": {
   "gloss": "Roof Goats",
-  "subtitle": "Dan leche, queso, lana y carne, y son los vigías de la caravana.",
-  "summary": "Cabras paticortas de barba larga y astutos ojos amarillos, criadas por los Pocchin para vivir en los techos de sus casas andantes.",
+  "subtitle": "Las vigías de las caravanas pocchin",
+  "summary": "Cabras paticortas y de barba larga, con astutos ojos amarillos, criadas por los pocchin para vivir en los techos de sus casas que caminan.",
   "epigraph": {
    "quote": "Las cabras los vieron primero. Las cabras siempre los ven primero.",
    "by": "Un conductor de caravana pocchin"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Las caravanas pocchin"
    ]
   ],
-  "title": "Cabras del Tejado"
+  "title": "Cabras de Tejado",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Dan leche, queso, lana y carne, y son las vigías de la caravana. Desde los techos ven todo lo que viene y le balan a cada desconocido."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Las cabras de una caravana pocchin se ven antes que la caravana. La dote de una novia pocchin se cuenta en cabras."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Sí. Un pocchin sin cabra está de luto, o se peleó con la familia."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Los pocchin quieren a sus cabras casi tanto como a su grommoth, y les hablan más.",
+     "El queso de cabra de tejado es lo único que un pocchin vende a precio justo, y solo a un amigo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Las cabras de tejado de una caravana vieron a unos bandidos en el camino de la Frontera una hora entera antes que los conductores, y los bandidos todavía se preguntan cómo.” (se oye en los caminos de la Frontera)"
+    ]
+   }
+  ]
  },
  "tidehound": {
   "gloss": "Tidehound",
-  "subtitle": "Rescate.",
-  "summary": "Un perro de agua grande y lanudo, negro o pardo, de patas palmeadas, un pelaje que repele el agua y una cola como el timón de un barco.",
+  "subtitle": "El bote salvavidas con cola",
+  "summary": "Un perro de agua grande y lanudo, negro o pardo, con patas palmeadas, un pelaje que suelta el agua y una cola como el timón de un barco.",
   "epigraph": {
-   "quote": "¡Hombre al agua! No importa. El perro ya lo tiene.",
+   "quote": "¡Hombre al agua! No importa. El sabueso ya lo tiene.",
    "by": "Un contramaestre de la Armada"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
-    "Todas las costas: las estaciones de botes salvavidas y los grandes barcos de la Armada"
+    "Dónde se encuentra",
+    "Todas las costas: los puestos de botes salvavidas y los grandes barcos de la Armada"
    ]
   ],
-  "title": "Perro de la Marea"
+  "title": "Sabueso de Marea",
+  "sections": [
+   {
+    "title": "Aspecto",
+    "paragraphs": [
+     "Un sabueso de marea nada mejor que casi todos los marineros, y lo sabe."
+    ]
+   },
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "El rescate. Un sabueso de marea se tira por la borda detrás de cualquiera que caiga al agua, lleva cabos nadando hasta los naufragios y arrastra a los medio ahogados a la orilla por el cuello de la ropa. Cada puesto de botes salvavidas tiene una pareja, y cada gran barco de la Armada lleva uno."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Un sabueso de marea sentado en la boca del puerto quiere decir que ahí hay un puesto de botes salvavidas. Un sabueso de marea con collar rojo ha salvado una vida."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Sí, y es de los más queridos. Dicen que es la raza del propio [[Hermano Perro|Brother Dog]]."
+    ]
+   },
+   {
+    "title": "En la vida de las islas",
+    "paragraphs": [
+     "Un marinero al que sacó un sabueso de marea le lleva un hueso en esa fecha, cada año, por el resto de la vida del perro.",
+     "Un barco que pierde a su sabueso de marea iza una cinta negra en el tope del palo hasta que llega a puerto."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un sabueso de marea de Puerto Gris sacó del mar a un desconocido que no quiere decir de qué barco viene.” (se oye en Puerto Gris)"
+    ]
+   }
+  ]
  },
  "roadstead-tern": {
   "gloss": "Roadstead Tern",
-  "subtitle": "La vida de trabajo de las islas",
-  "summary": "Un charrán blanco de gorra negra y cola ahorquillada, que solo vuela entre un barco y el puerto que se ve desde su cubierta.",
+  "subtitle": "El mensajero del puerto",
+  "summary": "Un charrán blanco de gorro negro y cola ahorquillada, que solo vuela entre un barco y el puerto que se ve desde su cubierta.",
   "epigraph": {
-   "quote": "Se busca médico, decía la nota. El charrán fue más rápido que el médico.",
+   "quote": "Se necesita médico, decía la nota. El charrán fue más rápido que el médico.",
    "by": "Un capitán de puerto de Fuerte de Hierro"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
+    "Dónde se encuentra",
     "Todos los puertos con movimiento"
    ]
   ],
-  "title": "Charrán de la Rada"
+  "title": "Charrán de Rada",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Lleva mensajes entre los barcos fondeados y la torre del capitán de puerto: una lista de carga, un se necesita médico, las disculpas de un capitán."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Dentro de un puerto, las noticias viajan por charrán. Entre islas todavía viajan por barco, y por eso tardan meses."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "Sí, pero solo sirve mientras se vea la costa."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un charrán llevó a la torre de Fuerte de Hierro una nota pidiendo médico desde un barco que nunca entró al puerto.” (se oye en la rada de Fuerte de Hierro)"
+    ]
+   }
+  ]
  },
  "pilot-dolphins": {
   "gloss": "Pilot Dolphins",
-  "subtitle": "Guían a los barcos por los arrecifes a cambio de pescado.",
-  "summary": "Delfines grises salvajes que no son de nadie y que conocen los arrecifes mejor que cualquier carta.",
+  "subtitle": "Los prácticos de los arrecifes que no son de nadie",
+  "summary": "Delfines grises y salvajes que no le pertenecen a nadie, y que conocen los arrecifes mejor que cualquier carta.",
   "epigraph": {
-   "quote": "Pierdes el silbido, pierdes el trato.",
+   "quote": "Pierde el silbido, y pierdes el oficio.",
    "by": "La advertencia de un práctico de puerto"
   },
   "facts": [
    [
-    "Clase",
+    "Tipo",
     "Bestia de trabajo"
    ],
    [
-    "Se encuentra en",
-    "Los arrecifes y los pasos difíciles de todas las regiones"
+    "Dónde se encuentra",
+    "Los arrecifes y pasos difíciles de todas las regiones"
    ]
   ],
-  "title": "Delfines Prácticos"
+  "title": "Delfines Prácticos",
+  "sections": [
+   {
+    "title": "El trabajo",
+    "paragraphs": [
+     "Guían a los barcos por los arrecifes a cambio de pescado. Cada práctico de puerto los llama con un silbido propio, que pasa de padres a hijos."
+    ]
+   },
+   {
+    "title": "Lo que te dice",
+    "paragraphs": [
+     "Un práctico con un silbato de hueso al cuello tiene una manada que le responde."
+    ]
+   },
+   {
+    "title": "¿Puede tenerlo un aventurero?",
+    "paragraphs": [
+     "No, pero un personaje práctico puede tener una manada propia."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La manada que guía a los barcos por los Dientes de la Viuda dejó de responder al silbido de un práctico.” (se oye en Puerto Gris)"
+    ]
+   }
+  ]
  },
  "courier-eel": {
   "gloss": "Courier Eel",
@@ -11688,7 +11992,7 @@
   "facts": [
    [
     "Forjado en",
-    "la [[Forja de Sellos|Sigil-Forge]], [[Logia|Lodge]] de [[Ventoro|Goldwind]]"
+    "la [[Forja de Sellos|Sigil-Forge]], [[Logia de Ventoro|Goldwind Lodge]]"
    ],
    [
     "Ramas",
@@ -11731,7 +12035,7 @@
      "**Ramas honorarias:** un maestro de una rama puede apadrinar a un Cazador y nombrarlo miembro honorario, por un trabajo bien hecho por alguien que no puede dedicarle todo su tiempo. El maestro responde por ese trabajo. No lleva emblema. Se muestra con la piedra de esa rama, puesta pequeña al pie del Sello. Albion Tempestad es Artífice honorario.",
      "**Oro:** se vuelve a fundir en oro según el diseño del portador, con un clavo por cada gran hazaña del Libro, hasta ocho.",
      "**Platino:** pálido, y desnudo. Muestra su diseño a su portador y a nadie más.",
-     "**El pie y el reverso:** la marca de la Logia al pie; en el reverso, un nombre y un año."
+     "**El pie y el reverso:** la marca de la [[Logia|Lodge]] al pie; en el reverso, un nombre y un año."
     ]
    },
    {
@@ -15280,7 +15584,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSB5IHVuYSBndcOtYSBkZSBsb3MgR3VhcmRpYW5lcyBkZSBDZW5pemEsIGJhasOzIGEgbGEgY2FsZGVyYSBtaWVudHJhcyBLYWthbkthbCBkb3Jtw61hLiBTb2xvIHZvbHZpw7MgbGEgZ3XDrWEsIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gS2FrYW5LYWwgbm8gZGVzcGVydMOzLiBFbCBbW0xpYnJvIGRlIEhhemHDsWFzfExlZGdlciBvZiBEZWVkc11dIHJlZ2lzdHJhIGVsIGNvbnRyYXRvIGNvbW8gcmV0aXJhZG8gcG9yIGxhIEp1bnRhLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhIGRlIFZlbnRvcm98R29sZHdpbmQgTG9kZ2VdXSwgdmVpbnRpbnVldmUgW1tDYXphZG9yZXN8SHVudGVyc11dIHkgdW5hIGd1w61hIGRlIGxvcyBHdWFyZGlhbmVzIGRlIENlbml6YSwgYmFqw7MgYSBsYSBjYWxkZXJhIG1pZW50cmFzIEtha2FuS2FsIGRvcm3DrWEuIFNvbG8gdm9sdmnDsyBsYSBndcOtYSwgeSBudW5jYSB2b2x2acOzIGEgaGFibGFyLiBLYWthbkthbCBubyBkZXNwZXJ0w7MuIEVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyByZXRpcmFkbyBwb3IgbGEgSnVudGEuIl19"
    }
   ]
  },
@@ -15913,7 +16217,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkh1Ym8gdW4gU2XDsW9yIGRlbCBoaWVsbyBhbnRlcyBxdWUgw6lsLioqIFlzdmV0aCwgbGEgW1tMYXJnYSBOb2NoZXxMb25nIE5pZ2h0XV0sIGVyYSB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBMYSBjYW5jacOzbiBtw6FzIHZpZWphIGRlIGxvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIHkgbG8gZXNjb25kacOzIGRvbmRlIFZ1a2hhcnIgbm8gbGEgcG9kw61hIHNlZ3Vpci4iLCAiKipTZcOxb3JlcyBxdWUgaGFuIGNhw61kbyoqIiwgIkxvcyBTZcOxb3JlcyBubyBzb24gaW5tb3J0YWxlcy4gTXVlcmVuIHBvY2FzIHZlY2VzLCB5IHNvbG8gYSBtYW5vcyBkZSBvdHJvcyBTZcOxb3Jlcy4iLCAiKipFbCBTZcOxb3IgYW50ZXMgZGUgVnVraGFyci4qKiBMYXMgY2FuY2lvbmVzIG3DoXMgdmllamFzIGRlIGxvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBMYXJnYSBOb2NoZSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBFbCDDum5pY28gaW50ZW50byByZWdpc3RyYWRvIGRlIHVub3MgbW9ydGFsZXMgY29udHJhIHVuIFNlw7FvciB2aXZvLiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhfExvZGdlXV0gZGUgW1tWZW50b3JvfEdvbGR3aW5kXV0sIGNvbiB2ZWludGludWV2ZSBbW0NhemFkb3Jlc3xIdW50ZXJzXV0geSB1bmEgZ3XDrWEgZGUgbG9zIFtbR3VhcmRpYW5lcyBkZSBDZW5pemF8QXNoIFdhcmRlbnNdXSwgYmFqw7MgYSBsYSBjYWxkZXJhIGRlIEtha2FuS2FsIG1pZW50cmFzIGRvcm3DrWEuIFZvbHZpw7MgdW5hIHNvbGEsIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gTG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphIHRvZGF2w61hIGNhbnRhbiBsb3MgdHJlaW50YSBub21icmVzLCB5IGVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyAqcmV0aXJhZG8gcG9yIGxhIEp1bnRhKi4iLCAiKipWdWtoYXJyIG5vIGVzdMOhIHNvw7FhbmRvLioqIExvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSBjcmVlbiBxdWUgbGFzIGx1Y2VzIGRlIGxhIFtbQsOzdmVkYSBBdXJvcmFsfEF1cm9yYWwgVmF1bHRdXSBzb24gbG9zIHN1ZcOxb3MgZGVsIEhhbWJyZSBCbGFuY2EuIExvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSBbW1NpbiBQaW50YXJ8VW5wYWludGVkXV0sIGd1aWFkb3MgcG9yIEtoZWx2aSBbW1RyZW56YXBsYXRhfFNpbHZlcmJyYWlkXV0sIHNhYmVuIHF1ZSBsYXMgbHVjZXMgc29uIGxvcyBlc3Blam9zIGRlIHBsYXRhIGRlIGxhIFtbVmlnaWxpYXxWaWdpbF1dLCBxdWUgbWFuZGFuIHNlw7FhbGVzIGEgdHJhdsOpcyBkZWwgaGllbG8gYSBsb3MgYmFyY29zIG3DoXMgYWxsw6EgZGUgbGEgW1tFbXBhbGl6YWRhfFBhbGVdXS4iXX0="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkh1Ym8gdW4gU2XDsW9yIGRlbCBoaWVsbyBhbnRlcyBxdWUgw6lsLioqIFlzdmV0aCwgbGEgW1tMYXJnYSBOb2NoZXxMb25nIE5pZ2h0XV0sIGVyYSB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBMYSBjYW5jacOzbiBtw6FzIHZpZWphIGRlIGxvcyBbW0VsZm9zIGRlIGxhIEVzY2FyY2hhfEZyb3N0IEVsdmVzXV0gZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIHkgbG8gZXNjb25kacOzIGRvbmRlIFZ1a2hhcnIgbm8gbGEgcG9kw61hIHNlZ3Vpci4iLCAiKipTZcOxb3JlcyBxdWUgaGFuIGNhw61kbyoqIiwgIkxvcyBTZcOxb3JlcyBubyBzb24gaW5tb3J0YWxlcy4gTXVlcmVuIHBvY2FzIHZlY2VzLCB5IHNvbG8gYSBtYW5vcyBkZSBvdHJvcyBTZcOxb3Jlcy4iLCAiKipFbCBTZcOxb3IgYW50ZXMgZGUgVnVraGFyci4qKiBMYXMgY2FuY2lvbmVzIG3DoXMgdmllamFzIGRlIGxvcyBFbGZvcyBkZSBsYSBFc2NhcmNoYSByZWN1ZXJkYW4gYSB1biBTZcOxb3IgZGVsIGhpZWxvIGFudGVzIGRlbCBbW0hhbWJyZSBCbGFuY2F8V2hpdGUgSHVuZ2VyXV06ICoqWXN2ZXRoLCBsYSBMYXJnYSBOb2NoZSoqLCB1bmEgZ3JhbiBsZWNodXphIGJsYW5jYSBjdXlhcyBhbGFzIGFwYWdhYmFuIGxhcyBlc3RyZWxsYXMuIFZ1a2hhcnIgc2UgbGEgY29tacOzIGVuIHVuIGludmllcm5vIHF1ZSBkdXLDsyB0cmVzIGHDsW9zLiBTdXMgaHVlc29zIGVzdMOhbiBiYWpvIGVsIFtbU2luIEVzdHJlbGxhc3xTdGFybGVzc11dLCBxdWUgcHVlZGUgc2VyIGxhIHJhesOzbiBwb3IgbGEgcXVlIG5pIFZ1a2hhcnIgY2F6YSBhaMOtLiIsICIqKkVsIGh1ZXZvIGRlIFlzdmV0aC4qKiBFbCDDumx0aW1vIHZlcnNvIGRlIGxhcyBjYW5jaW9uZXMgZGljZSBxdWUgbGEgbGVjaHV6YSBwdXNvIHVuIGh1ZXZvIGVuIGVsIGludmllcm5vIGRlIHRyZXMgYcOxb3MgeSBsbyBlc2NvbmRpw7MgZG9uZGUgVnVraGFyciBubyBsYSBwb2TDrWEgc2VndWlyLiBOYWRpZSBsbyBoYSBlbmNvbnRyYWRvLCB5IGFsZ3Vub3MgZGljZW4gcXVlIGVzdMOhIGNvbiBzdXMgaHVlc29zIGJham8gZWwgU2luIEVzdHJlbGxhcy4gU2kgc2UgYWJyZSwgcHVlZGUgbmFjZXJsZSBhbCBoaWVsbyB1bmEgbGVjaHV6YSBudWV2YSwgeSBWdWtoYXJyIGxvIHNhYnLDoSBlbiBlbCBtb21lbnRvIGVuIHF1ZSBwYXNlLiIsICIqKkxvcyBbW1RyZWludGEgZGUgbGEgQ2FsZGVyYXxUaGlydHkgb2YgdGhlIENhbGRlcmFdXSAoMTMzIEVDKS4qKiBFbCDDum5pY28gaW50ZW50byByZWdpc3RyYWRvIGRlIHVub3MgbW9ydGFsZXMgY29udHJhIHVuIFNlw7FvciB2aXZvLiBVbmEgdHJpcHVsYWNpw7NuIGRlIE9ybyBkZSBsYSBbW0xvZ2lhIGRlIFZlbnRvcm98R29sZHdpbmQgTG9kZ2VdXSwgY29uIHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSB5IHVuYSBndcOtYSBkZSBsb3MgW1tHdWFyZGlhbmVzIGRlIENlbml6YXxBc2ggV2FyZGVuc11dLCBiYWrDsyBhIGxhIGNhbGRlcmEgZGUgS2FrYW5LYWwgbWllbnRyYXMgZG9ybcOtYS4gVm9sdmnDsyB1bmEgc29sYSwgbGEgZ3XDrWEsIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gS2FrYW5LYWwgbm8gZGVzcGVydMOzLiBMb3MgR3VhcmRpYW5lcyBkZSBDZW5pemEgdG9kYXbDrWEgY2FudGFuIGxvcyB0cmVpbnRhIG5vbWJyZXMsIHkgZWwgW1tMaWJybyBkZSBIYXphw7Fhc3xMZWRnZXIgb2YgRGVlZHNdXSByZWdpc3RyYSBlbCBjb250cmF0byBjb21vICpyZXRpcmFkbyBwb3IgbGEgSnVudGEqLiIsICIqKlZ1a2hhcnIgbm8gZXN0w6Egc2/DsWFuZG8uKiogTG9zIEVsZm9zIGRlIGxhIEVzY2FyY2hhIGNyZWVuIHF1ZSBsYXMgbHVjZXMgZGUgbGEgW1tCw7N2ZWRhIEF1cm9yYWx8QXVyb3JhbCBWYXVsdF1dIHNvbiBsb3Mgc3Vlw7FvcyBkZWwgSGFtYnJlIEJsYW5jYS4gTG9zIEVsZm9zIGRlIGxhIEVzY2FyY2hhIFtbU2luIFBpbnRhcnxVbnBhaW50ZWRdXSwgZ3VpYWRvcyBwb3IgS2hlbHZpIFtbVHJlbnphcGxhdGF8U2lsdmVyYnJhaWRdXSwgc2FiZW4gcXVlIGxhcyBsdWNlcyBzb24gbG9zIGVzcGVqb3MgZGUgcGxhdGEgZGUgbGEgW1tWaWdpbGlhfFZpZ2lsXV0sIHF1ZSBtYW5kYW4gc2XDsWFsZXMgYSB0cmF2w6lzIGRlbCBoaWVsbyBhIGxvcyBiYXJjb3MgbcOhcyBhbGzDoSBkZSBsYSBbW0VtcGFsaXphZGF8UGFsZV1dLiJdfQ=="
    }
   ]
  },
@@ -28367,7 +28671,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyB0cmVpbnRhIG5vbWJyZXMqKiBxdWUgbG9zIFtbR3VhcmRpYW5lc3xXYXJkZW5zXV0gY2FudGFuIGVuIGxhIFtbVmlnaWxpYXxWaWdpbF1dIHNvbiBsb3MgW1tUcmVpbnRhIGRlIGxhIENhbGRlcmF8VGhpcnR5IG9mIHRoZSBDYWxkZXJhXV06IHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSwgeSBzdSBwcm9waWEgZ3XDrWEsIHF1ZSB2b2x2acOzIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gTGEgcMOhZ2luYSBjb24gZWwgY2VybyBlcyBlc2UgZMOtYS4iLCAiKipMb3MgVHJlaW50YSBkZSBsYSBDYWxkZXJhICgxMzMgRUMpLioqIFVuYSB0cmlwdWxhY2nDs24gZGUgT3JvIGRlIGxhIFtbTG9naWF8TG9kZ2VdXSBkZSBbW1ZlbnRvcm98R29sZHdpbmRdXSwgdmVpbnRpbnVldmUgQ2F6YWRvcmVzIHkgdW5hIGd1w61hIGRlIGxvcyBHdWFyZGlhbmVzIGRlIENlbml6YSwgYmFqw7MgYSBsYSBjYWxkZXJhIG1pZW50cmFzIEtha2FuS2FsIGRvcm3DrWEuIFNvbG8gdm9sdmnDsyBsYSBndcOtYSwgeSBudW5jYSB2b2x2acOzIGEgaGFibGFyLiBLYWthbkthbCBubyBkZXNwZXJ0w7MuIEVsIFtbTGlicm8gZGUgSGF6YcOxYXN8TGVkZ2VyIG9mIERlZWRzXV0gcmVnaXN0cmEgZWwgY29udHJhdG8gY29tbyByZXRpcmFkbyBwb3IgbGEgSnVudGEuIiwgIioqTGFzIG1pbmFzIHRpZW5lbiByYXrDs24gZW4gdW5hIGNvc2EuKiogTGEgcmVzcGlyYWNpw7NuIGRlbCBFbXBlcmFkb3Igbm8gaGEgY2FtYmlhZG8gZW4gY3VhcmVudGEgYcOxb3MuIExvIHF1ZSBoYSBjYW1iaWFkbyBzb24gbG9zIFtbQ2FtaW5vcyBkZSBCcmFzYXxFbWJlciBSb2Fkc11dOiBkZXNkZSBlbCAxNzIgbGFzIGNhbXBhbmFkYXMgdGFtYmnDqW4gc3VlbmFuIHBvciBsbyBxdWUgc2UgbXVldmUgZW4gbG9zIHR1Ym9zLCB5IGxvcyBHdWFyZGlhbmVzIGhhbiBlc3RhZG8gY29udGFuZG8gaW5jdXJzaW9uZXMgZHJvdyBjb21vIGFsaWVudG9zIHNpbiBzYWJlcmxvLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxvcyB0cmVpbnRhIG5vbWJyZXMqKiBxdWUgbG9zIFtbR3VhcmRpYW5lc3xXYXJkZW5zXV0gY2FudGFuIGVuIGxhIFtbVmlnaWxpYXxWaWdpbF1dIHNvbiBsb3MgW1tUcmVpbnRhIGRlIGxhIENhbGRlcmF8VGhpcnR5IG9mIHRoZSBDYWxkZXJhXV06IHZlaW50aW51ZXZlIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSwgeSBzdSBwcm9waWEgZ3XDrWEsIHF1ZSB2b2x2acOzIHkgbnVuY2Egdm9sdmnDsyBhIGhhYmxhci4gTGEgcMOhZ2luYSBjb24gZWwgY2VybyBlcyBlc2UgZMOtYS4iLCAiKipMb3MgVHJlaW50YSBkZSBsYSBDYWxkZXJhICgxMzMgRUMpLioqIFVuYSB0cmlwdWxhY2nDs24gZGUgT3JvIGRlIGxhIFtbTG9naWEgZGUgVmVudG9yb3xHb2xkd2luZCBMb2RnZV1dLCB2ZWludGludWV2ZSBDYXphZG9yZXMgeSB1bmEgZ3XDrWEgZGUgbG9zIEd1YXJkaWFuZXMgZGUgQ2VuaXphLCBiYWrDsyBhIGxhIGNhbGRlcmEgbWllbnRyYXMgS2FrYW5LYWwgZG9ybcOtYS4gU29sbyB2b2x2acOzIGxhIGd1w61hLCB5IG51bmNhIHZvbHZpw7MgYSBoYWJsYXIuIEtha2FuS2FsIG5vIGRlc3BlcnTDsy4gRWwgW1tMaWJybyBkZSBIYXphw7Fhc3xMZWRnZXIgb2YgRGVlZHNdXSByZWdpc3RyYSBlbCBjb250cmF0byBjb21vIHJldGlyYWRvIHBvciBsYSBKdW50YS4iLCAiKipMYXMgbWluYXMgdGllbmVuIHJhesOzbiBlbiB1bmEgY29zYS4qKiBMYSByZXNwaXJhY2nDs24gZGVsIEVtcGVyYWRvciBubyBoYSBjYW1iaWFkbyBlbiBjdWFyZW50YSBhw7Fvcy4gTG8gcXVlIGhhIGNhbWJpYWRvIHNvbiBsb3MgW1tDYW1pbm9zIGRlIEJyYXNhfEVtYmVyIFJvYWRzXV06IGRlc2RlIGVsIDE3MiBsYXMgY2FtcGFuYWRhcyB0YW1iacOpbiBzdWVuYW4gcG9yIGxvIHF1ZSBzZSBtdWV2ZSBlbiBsb3MgdHVib3MsIHkgbG9zIEd1YXJkaWFuZXMgaGFuIGVzdGFkbyBjb250YW5kbyBpbmN1cnNpb25lcyBkcm93IGNvbW8gYWxpZW50b3Mgc2luIHNhYmVybG8uIl19"
    }
   ],
   "title": "Los Guardianes de Ceniza"

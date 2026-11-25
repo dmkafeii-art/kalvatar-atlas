@@ -2323,7 +2323,7 @@
  {
   "id": "rumor-leoric-under-guard",
   "text": "Leoric [[Espino|Thorne]] volvió a casa el año pasado en la bodega de un barco de Cazadores y no en su alcázar. Diez años desaparecido, y la [[Logia|Lodge]] no dice dónde lo encontró.",
-  "heardAt": "se oye en la [[Logia|Lodge]] de [[Ventoro|Goldwind]]",
+  "heardAt": "se oye en la [[Logia de Ventoro|Goldwind Lodge]]",
   "region": "Central Heartland",
   "entries": [
    "captain-magnus-and-leoric"
@@ -2380,7 +2380,7 @@
  {
   "id": "rumor-ledger-empty-line",
   "text": "Hay una línea en el [[Libro de Hazañas|Ledger of Deeds]] de [[Ventoro|Goldwind]] con el nombre de una compañía y ninguna firma debajo. El [[Cronista|Chronicler]] no quiere tacharla.",
-  "heardAt": "se oye en la [[Logia|Lodge]] de [[Ventoro|Goldwind]]",
+  "heardAt": "se oye en la [[Logia de Ventoro|Goldwind Lodge]]",
   "region": "Central Heartland",
   "entries": [
    "hunter-companies",
@@ -2579,7 +2579,7 @@
  {
   "id": "rumor-struck-twice",
   "text": "Hay un [[Cazador|Hunter]] que fue tachado, readmitido y tachado otra vez. El [[Libro Mayor|Ledger]] muestra un nombre con dos líneas encima, y la Junta de [[Ventoro|Goldwind]] no dice de quién es.",
-  "heardAt": "se oye en la [[Logia|Lodge]] de [[Ventoro|Goldwind]]",
+  "heardAt": "se oye en la [[Logia de Ventoro|Goldwind Lodge]]",
   "region": "Central Heartland",
   "entries": [
    "hunters"
