@@ -9090,23 +9090,56 @@
  },
  "the-keeping": {
   "gloss": "The Keeping",
-  "subtitle": "El que guarda come al último",
+  "subtitle": "El primer fuego, encendido para los que vienen después",
   "summary": "El callado rito del hogar de encender el fuego y empezar la comida para los que vienen después.",
   "epigraph": {
-   "quote": "El que guarda come al último, de pie, y no dice nada. Así sabes que es amor.",
+   "quote": "Quien guarda come al último, de pie, y no dice nada al respecto. Así es como sabes que es amor.",
    "by": "Una abuela de Bastión de Escarcha"
   },
   "facts": [
    [
     "Aspecto",
-    "El Hambre que Calienta"
+    "El [[Hambre que Calienta|Hunger That Warms]]"
    ],
    [
     "Compañero",
-    "El tritón del hogar"
+    "Tritón del hogar"
    ]
   ],
-  "title": "La Guarda"
+  "title": "La Guarda",
+  "sections": [
+   {
+    "title": "Antes de que los demás despierten",
+    "paragraphs": [
+     "Alguien se levanta solo en la oscuridad, enciende el fuego y empieza la comida lenta. El acto no se anuncia. Quien guarda come al último, de pie; es el rito más humilde del Hambre que Calienta."
+    ]
+   },
+   {
+    "title": "El paso de los hierros",
+    "paragraphs": [
+     "Ofrecidos sin una palabra, los hierros del fuego le pasan el cuidado y la pertenencia a la siguiente persona que guarda. Un recién llegado que no tiene a nadie a quien darle de comer enciende el fuego de todos modos. La gente llega porque el fuego está encendido."
+    ]
+   },
+   {
+    "title": "Alguien chiquito junto al fuego",
+    "paragraphs": [
+     "El tritón del hogar duerme sobre la primera brasa y la mantiene viva hasta el alba. Cuando los hierros pasan a una nueva persona que guarda, el tritón casi siempre la sigue."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "El paso de los hierros: cuando quien guarda le da en silencio a alguien los hierros del fuego, las tenazas y el atizador, esa persona quedó adoptada por la casa: ahora eres mío, y las mañanas son tuyas.",
+     "“Alguien mantuvo el fuego en esa” quiere decir un trabajo callado que nadie agradece."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“En una aldea de la Frontera el fuego se encendió cada mañana durante un año después de que murió la última persona que lo guardaba, y nadie vio nunca quién lo encendía.” (se oye en la Frontera)"
+    ]
+   }
+  ]
  },
  "hearth-customs": {
   "gloss": "Hearth and Harbor Customs",
@@ -10094,7 +10127,73 @@
     "[[Tumbadía|Graveday]]"
    ]
   ],
-  "title": "El Ciclo"
+  "title": "El Ciclo",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "La semana es el Ciclo: diez días, nombrados en orden. El Ciclo corre de corrido por los meses y los [[Días Quietos|Still Days]] sin volver a empezar nunca, así que un día se nombra por su nombre en el Ciclo y por su fecha."
+    ]
+   },
+   {
+    "title": "De un vistazo",
+    "paragraphs": [],
+    "table": {
+     "headers": [
+      "Día",
+      "Para qué es"
+     ],
+     "rows": [
+      [
+       "[[Albasol|Sunsdawn]]",
+       "Los comienzos, la ley, el culto de la [[Concordia|Concord]]"
+      ],
+      [
+       "[[Vuelvemarea|Tideturn]]",
+       "Navegar y comerciar: el día de levar anclas"
+      ],
+      [
+       "[[Hogardía|Hearthday]]",
+       "La casa y la familia"
+      ],
+      [
+       "[[Forjadía|Forgeday]]",
+       "El oficio, el trabajo, los gremios"
+      ],
+      [
+       "[[Guardadía|Wardsday]]",
+       "Los tribunales, los juramentos, la justicia"
+      ],
+      [
+       "[[Verdedía|Greenday]]",
+       "Los campos y la cosecha"
+      ],
+      [
+       "Tumbadía",
+       "Los muertos y los ancestros; nunca zarpes en Tumbadía"
+      ],
+      [
+       "[[Vientodía|Windsday]]",
+       "Los viajes, los caminos, las noticias"
+      ],
+      [
+       "Monedía",
+       "Día de mercado; se pagan las deudas; las caravanas pocchin entran al pueblo"
+      ],
+      [
+       "Reposadía",
+       "El día libre de las islas: templo, llamado de la marea y la comida larga"
+      ]
+     ]
+    }
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Los cindren de la Caída Eterna dicen que el Bosque de Vidrio sonó trece veces el último Tumbadía, y siempre ha sonado de a doce.” (un Guardián de Ceniza)"
+    ]
+   }
+  ]
  },
  "two-moons-and-the-tides": {
   "gloss": "The Two Moons and the Tides",
@@ -10114,7 +10213,26 @@
     "Ciel, 57 días"
    ]
   ],
-  "title": "Las dos lunas y las mareas"
+  "title": "Las dos lunas y las mareas",
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Ors es el sol. Te levantas con Ors, juras por Ors, y entrecierras los ojos contra Ors al mediodía.",
+     "Valtaire, la gran luna plateada cercana, da la vuelta en 36 días. Su vuelta es el mes.",
+     "Ciel, chica, pálida y lejana, da la vuelta en 57 días.",
+     "Cuando las lunas tiran juntas, las mareas suben alto; cuando tiran separadas, las mareas se aflojan.",
+     "Los enamorados de Liora. Los puertos dicen que las dos lunas aman a Liora. Valtaire llega llena el 18 de Liora para cortejarla; Ciel se va por ahí y vuelve. Cuando las dos la visitan a la vez, la [[Marea Rey|King Tide]] sube con la pelea.",
+     "Los niños del puerto aprenden las lunas marcando con tiza la línea de pleamar de la mañana en las escaleras del puerto: la [[Marea de Tiza|Chalk Tide]]."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Lunas pálidas. Las Mareas nuevas suenan apagadas, dicen los balanceros de Buentiempo, y empezaron a pesarlas. La Ceca no dice nada.” (lo que se comenta)"
+    ]
+   }
+  ]
  },
  "coins-and-prices": {
   "gloss": "Coins and Prices",
@@ -10152,13 +10270,63 @@
   "gloss": "Sayings You'll Hear",
   "subtitle": "Las islas tienen una palabra para eso.",
   "summary": "Resistir o ahogarse. La moneda recuerda. La selva cuida de los suyos. El hielo no perdona nada. Sé amable con el agua.",
-  "title": "Dichos que vas a oír"
+  "title": "Dichos que vas a oír",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "“Resistir o ahogarse.” La [[Frontera|Frontier]].",
+     "“La moneda recuerda.” El [[Corazón|Heartland]].",
+     "“Una sonrisa en [[Ventoro|Goldwind]] tiene dos caras.” El Corazón.",
+     "“La selva cuida de los suyos.” El sur.",
+     "“El papel se quema, la piel recuerda.” El sur.",
+     "“El hielo no perdona nada.” El hielo.",
+     "“Sé amable con el agua.” En todas partes.",
+     "“La marea lo dice.” Está decidido.",
+     "“Jugando la última agua.” El final desesperado de cualquier cosa.",
+     "“Ata tu nudo.” Pon tus asuntos en orden.",
+     "“¡Por las [[Tres Noches|Three Nights]]!” y “¡Por Ors!”",
+     "“Ahógame.”",
+     "“La marea está contigo.” Buena suerte.",
+     "“Alguien mantuvo el fuego en esa.” Un trabajo callado que nadie agradece.",
+     "“El alféizar provee.”",
+     "“Todavía tenemos sal entre nosotros.” Esto no se acabó.",
+     "“Todavía con el hierro.” Un novato que tiene un hierro y todavía no se presentó a las [[Pruebas|Trials]].",
+     "“El canto recuerda lo que la página olvida.”",
+     "“¡Sal y parientes!”, contestado con “¡Buena marea a casa!”. El brindis."
+    ]
+   }
+  ]
  },
  "talk-of-175-ec": {
   "gloss": "The Talk of 175 EC",
   "subtitle": "Lo que dicen los puertos.",
-  "summary": "La Marea Rey llega en 177, la Casacarta ganó el monopolio de la sal y la Legión avanza hacia el norte.",
-  "title": "De qué se habla en 175 EC"
+  "summary": "La Marea Rey llega en el 177, la Casacarta ganó el monopolio de la sal y la Legión avanza hacia el norte.",
+  "title": "Lo que se habla en el 175 EC",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Los titulares:",
+     "La [[Marea Rey|King Tide]] llega en el 177. La tierra de la costa está cambiando de manos en silencio.",
+     "La [[Compañía Casacarta|Charterhouse Company]] ganó el monopolio de la sal del sur. Dos puertos se amotinaron; los [[collares de latón|brass-collars]] “restablecieron el orden”.",
+     "Los saqueos de la [[Legión Carmesí|Crimson Legion]] avanzan al norte de Golgarma. La [[Ira Esmeralda|Emerald Wrath]] pidió otra escuadra; el [[Consejo|Council]] lo está “revisando”.",
+     "Una isla nueva salió a la superficie frente a las rutas del sur. Hay tres reclamos presentados, y la primera tripulación de exploración lleva una semana de retraso.",
+     "Siguen apareciendo en [[Fuerte de Hierro|Ironfort]] panfletos de la [[Corona Devuelta|Returned Crown]] que llaman a invitar al [[Imperio|Imperium]] a volver “en términos honorables”. Nadie ha encontrado a los impresores.",
+     "Los nombres en boca de todos:",
+     "La [[Última Sonrisa|Last Smile]], reina pirata de la [[Marea Libre|Free Tide]].",
+     "[[Harrow Melena|Harrow Mane]], el señor saqueador demasiado brutal incluso para ella.",
+     "La Legión Carmesí y la [[Madre Escarlata|Scarlet Mother]].",
+     "El [[Patrón de Medianoche|Midnight Patron]] de Karn Sorroch.",
+     "El [[Registrador|Registrar]], cazando lanzadores sin licencia en la niebla de [[Ventoro|Goldwind]].",
+     "La [[Madre Kess|Mother Kess]] de [[Puerto Varan|Varan Port]].",
+     "La Corona Devuelta y los [[Peajeros|Tollmen]], en el norte.",
+     "Los [[Rebeldes del Sur|Southern Rebels]], los [[Recuperadores|Reclaimers]] y los [[Rompecadenas|Chainbreakers]], en el sur."
+    ]
+   }
+  ]
  },
  "assios-and-the-wider-world": {
   "gloss": "Assios and the Wider World",
@@ -16939,9 +17107,26 @@
  },
  "manners-among-the-peoples": {
   "gloss": "Manners Among the Peoples",
-  "subtitle": "La vida diaria",
+  "subtitle": "Cómo no ofender",
   "summary": "Ríete de la Oferta Gorda de un pocchin, nunca hagas que un vorthani se repita y nunca toques los cuernos de un tarvan.",
-  "title": "Los modales entre los pueblos"
+  "title": "Modales entre los pueblos",
+  "facts": [],
+  "sections": [
+   {
+    "title": "Panorama",
+    "paragraphs": [
+     "Un pocchin abre cada trato con una [[Oferta Gorda|Fat Offer]] escandalosa. Ríete, escupe (es de buena educación) y regatea hacia abajo. Una vez que un pocchin da la mano, el trato es de hierro.",
+     "Un vorthani nunca dice una cosa dos veces; hacer que uno se repita anuncia que eres un tonto.",
+     "Nunca toques los cuernos de un tarvan ni de un vorthani.",
+     "Nunca leas las cuentas de un enano sin que te inviten. Nunca insultes la cuenta.",
+     "Un galven que se tapa los brazos está escondiendo algo.",
+     "Un cindren que tapa su brillo está de luto.",
+     "Los [[Elfos de la Escarcha|Frost Elves]] que se pintan la cara como una calavera están por salir de saqueo.",
+     "La puerta de un Marcado nunca se le cierra a un desconocido Marcado.",
+     "La gente del mar: salúdala cantando, hazle regalos de sonido, y nunca le muestres hierro frío desnudo."
+    ]
+   }
+  ]
  },
  "answering-light": {
   "gloss": "The Answering Light",

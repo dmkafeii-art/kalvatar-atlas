@@ -12395,7 +12395,10 @@
    "hearth-newt",
    "hospitality",
    "hearth-customs"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "hearth-customs",
@@ -13993,7 +13996,10 @@
    "counting-jackdaw",
    "elyria",
    "festivals-everywhere"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "two-moons-and-the-tides",
@@ -14046,7 +14052,10 @@
    "thalgorath-the-tide-tyrant",
    "concord",
    "merrin-games"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "coins-and-prices",
@@ -14325,7 +14334,10 @@
    "northern-frontier",
    "coral-kingdoms",
    "southern-wilds"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "talk-of-175-ec",
@@ -14368,7 +14380,10 @@
    "returned-crown-and-the-tollmen",
    "assios-and-the-wider-world",
    "ironfort"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "assios-and-the-wider-world",
@@ -30542,7 +30557,10 @@
    "cindren",
    "elves",
    "sea-pacts"
-  ]
+  ],
+  "translations": {
+   "es": "complete"
+  }
  },
  {
   "id": "answering-light",
