@@ -446,6 +446,10 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "northreach": ["scenes", "Northreach horses gallop along a moor road through heather and gorse.", "Caballos del Confín del Norte galopan por un camino entre brezos y tojos.", "northreach-moorland-horses-approved-v1"],
+ "pearl-groove-and-the-pelagar-isle": ["scenes", "A pearl diver surfaces above the oyster beds of Pearl Groove.", "Una buceadora sale a respirar sobre los bancos de ostras del Surco de Perlas.", "pearl-groove-lagoon-diver-approved-v1"],
+ "thin-places": ["scenes", "A still spring reflects a sunlit sky that does not match the clouds overhead.", "Un manantial refleja un cielo soleado bajo las nubes grises del páramo.", "thin-places-wrong-sky-approved-v1"],
+ "door-coins": ["scenes", "A visitor sets a holed copper Bit on the lintel of a new home.", "Una visitante coloca una Ola de cobre perforada en el dintel de una casa nueva.", "door-coins-lintel-approved-v1"],
  "first-bread": ["scenes", "An innkeeper sets a newcomer’s first meal before them. A stranger has already paid for it.", "Una posadera sirve la primera comida de un viajero recién llegado. Alguien ya pagó por ella.", "first-bread-harbor-inn-approved-v1"],
  "kellum": ["scenes", "A sailor offers the first drop of kellum to the sea.", "Un marinero ofrece al mar la primera gota de kellum.", "kellum-first-drop-approved-v1"],
  "the-keeping": ["scenes", "A keeper tends the hearth before dawn while a hearth newt sleeps on the first coal.", "Antes del amanecer, una mujer aviva el fuego mientras un tritón del hogar duerme sobre la primera brasa.", "the-keeping-first-coal-approved-v1"],
