@@ -446,6 +446,11 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "greyhaven": ["scenes", "A harbor bell guides a fishing boat through the murk at Greyhaven.", "Una campana guía a un pesquero entre la niebla de Puerto Gris.", "greyhaven-bell-in-the-murk-approved-v1"],
+ "elyria": ["scenes", "Two elves cross an old bridge between Elyria’s pale towers and ancient trees.", "Dos elfos cruzan un puente entre las torres claras y los árboles centenarios de Elyria.", "elyria-wooded-terraces-approved-v1"],
+ "grey-fathoms": ["scenes", "A keeper holds a pearl in the silver-lit caves of the Grey Fathoms as a drowned sailor stirs.", "Una guardiana sostiene una perla en las cuevas plateadas de las Brazas Grises mientras un marinero ahogado despierta.", "grey-fathoms-pearl-and-song-approved-v1"],
+ "winter-kin": ["scenes", "A traveler arrives through the snow to a warm meal and a place by the fire.", "Una viajera llega entre la nieve y encuentra un plato caliente y un sitio junto al fuego.", "winter-kin-place-by-the-fire-approved-v1"],
+ "patches": ["scenes", "A weathered sailor’s coat carries hand-stitched badges from ports across the islands.", "Un abrigo de marinero lleva parches bordados a mano de distintos puertos del archipiélago.", "patches-sailors-coat-approved-v1"],
  "tenants": ["scenes", "A single luminous eye fills Squint’s lens, framed by the bronze points of its wide rim.", "Un solo ojo luminoso llena la lente de Squint, enmarcado por las puntas de bronce de su aro.", "tenants-squint-approved-v2"],
  "northreach": ["scenes", "Northreach horses gallop along a moor road through heather and gorse.", "Caballos del Confín del Norte galopan por un camino entre brezos y tojos.", "northreach-moorland-horses-approved-v1"],
  "pearl-groove-and-the-pelagar-isle": ["scenes", "A pearl diver surfaces above the oyster beds of Pearl Groove.", "Una buceadora sale a respirar sobre los bancos de ostras del Surco de Perlas.", "pearl-groove-lagoon-diver-approved-v1"],
