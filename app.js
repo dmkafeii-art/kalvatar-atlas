@@ -446,7 +446,7 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
- "tenants": ["scenes", "Two silvery glints form eyes inside Squint, the tenanted spyglass, as it turns toward a ship on the horizon.", "Dos destellos plateados dibujan unos ojos en la lente de Squint, el catalejo poseído, mientras se orienta hacia un barco en el horizonte.", "tenants-squint-approved-v1"],
+ "tenants": ["scenes", "A single luminous eye fills Squint’s lens, framed by the bronze points of its wide rim.", "Un solo ojo luminoso llena la lente de Squint, enmarcado por las puntas de bronce de su aro.", "tenants-squint-approved-v2"],
  "northreach": ["scenes", "Northreach horses gallop along a moor road through heather and gorse.", "Caballos del Confín del Norte galopan por un camino entre brezos y tojos.", "northreach-moorland-horses-approved-v1"],
  "pearl-groove-and-the-pelagar-isle": ["scenes", "A pearl diver surfaces above the oyster beds of Pearl Groove.", "Una buceadora sale a respirar sobre los bancos de ostras del Surco de Perlas.", "pearl-groove-lagoon-diver-approved-v1"],
  "thin-places": ["scenes", "A still spring reflects a sunlit sky that does not match the clouds overhead.", "Un manantial refleja un cielo soleado bajo las nubes grises del páramo.", "thin-places-wrong-sky-approved-v1"],
