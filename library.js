@@ -130,7 +130,7 @@ window.AtlasLibrary = (() => {
   if(location.hash.startsWith('#library/')) {mountReading(); return;}
   if(!location.hash.startsWith('#entry/')) {cleanup(); return;}
   cleanup();
-  const e = byId[location.hash.slice(7)]; if(!e || !Pack2.canRead(e.id)) return;
+  const e = byId[location.hash.split('/')[1]]; if(!e || !Pack2.canRead(e.id)) return;
   profile(e);
   const related = books.filter(b => allowed(b) && (b.cast.includes(e.id) || b.related.includes(e.id)));
   if(!related.length) return;

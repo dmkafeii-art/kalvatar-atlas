@@ -208,6 +208,8 @@ function mapRegionFor(entry){
  return regions.find(r=>r.id===entry.id) || regions.find(r=>byId[r.id]?.region===entry.region);
 }
 function entryMapAction(entry){
+ const chart=AtlasCharts.chartFor(entry.id,Pack2.canRead);
+ if(chart)return `<a class="quick-action" href="#map/${chart.id}">${chart.id==='goldwind'?Pack2.text('City map','Mapa de la ciudad'):Pack2.text('Regional chart','Carta regional')}</a>`;
  const region=mapRegionFor(entry);
  if(mapReturnEntry===entry.id)return `<a class="quick-action" href="#atlas">${Pack2.text('Back to map','Volver al mapa')}</a>`;
  return region&&Pack2.canRead(region.id)?`<a class="quick-action" href="#atlas/${region.id}">${Pack2.text('View on map','Ver en el mapa')}</a>`:'';
@@ -261,7 +263,7 @@ function renderArticle(id){
  const titleContent=`<div class="article-title-copy"><p class="eyebrow">${categories[e.category].short.toUpperCase()} / ${esc(e.region.toUpperCase())}</p><h1 class="atlas-cartela">${esc(e.title)}</h1></div>`;
  const coverArt=art.cover?`<button class="article-cover-art" type="button" data-open-art="${e.id}" data-art-index="${art.cover.index}" aria-label="${Pack2.text('Enlarge illustration of','Ampliar ilustración de')} ${esc(e.title)}"><img src="${esc(art.cover.src)}" alt="" decoding="async"></button>`:'';
  const titleBlock=`<div class="article-cover${art.cover?' article-cover--illustrated':''}">${coverArt}${titleContent}</div>${art.main?`<div class="article-leading-art">${art.main}</div>`:''}`;
- $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header">${titleBlock}<div class="article-intro">${Pack2.header(e)}<p class="article-subtitle">${esc(e.subtitle)}</p><p class="article-lead">${esc(e.summary)}</p></div><div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button>${e.category==='place'?`<button id="open-quick-reference" aria-expanded="false" aria-controls="quick-reference">${Pack2.text('Quick reference','Consulta rápida')}</button>`:''}${entryMapAction(e)}<span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${quickReference(e)}${window.NotableFolk?.articleLinks(e)||''}${(e.id==='northern-frontier'||FrontierMap.sites.some(site=>site.id===e.id))&&Pack2.canRead('northern-frontier')?`<a class="frontier-article-cta" href="#map/northern-frontier">${Pack2.text('Explore the Northern Frontier chart','Explorar la carta de la Frontera del Norte')}</a>`:''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id,art.sections.get(i))).join(atlasOrnament())}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-to="article-section-${i}">${esc(s.title)}</button>`).join('')}${art.gallery.length?`<button data-scroll-to="article-gallery">${Pack2.text('Gallery','Galería')}</button>`:''}${art.plates.length?`<button data-scroll-to="article-plates">${Pack2.text('Field guide','Guía de campo')}</button>`:''}</nav></aside></div>${articleFieldPlates(e,art.plates)}${articleGallery(e,art.gallery)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
+ $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header">${titleBlock}<div class="article-intro">${Pack2.header(e)}<p class="article-subtitle">${esc(e.subtitle)}</p><p class="article-lead">${esc(e.summary)}</p></div><div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button>${e.category==='place'?`<button id="open-quick-reference" aria-expanded="false" aria-controls="quick-reference">${Pack2.text('Quick reference','Consulta rápida')}</button>`:''}${entryMapAction(e)}<span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${quickReference(e)}${window.NotableFolk?.articleLinks(e)||''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id,art.sections.get(i))).join(atlasOrnament())}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-to="article-section-${i}">${esc(s.title)}</button>`).join('')}${art.gallery.length?`<button data-scroll-to="article-gallery">${Pack2.text('Gallery','Galería')}</button>`:''}${art.plates.length?`<button data-scroll-to="article-plates">${Pack2.text('Field guide','Guía de campo')}</button>`:''}</nav></aside></div>${articleFieldPlates(e,art.plates)}${articleGallery(e,art.gallery)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
  const quick=$('#quick-reference'),quickButton=$('#open-quick-reference');
  if(quick&&quickButton){
   quickButton.addEventListener('click',()=>{
@@ -349,7 +351,8 @@ function setRegion(id){
  detail.innerHTML=`<h2>${esc(e.title)}</h2><p>${esc(e.summary)}</p>
  ${region.surface===false?`<p class="below-chart-note">${t('Below lies beneath the islands and has no surface marker.','Abajo yace bajo las islas y no tiene un marcador en la superficie.')}</p>`:''}
  <div class="atlas-region-actions"><a class="button" data-map-entry="${e.id}" href="#entry/${e.id}">${t('Open region entry','Abrir entrada de la región')}</a>
- ${id==='northern-frontier'?`<a class="button cream" href="#map/northern-frontier">${t('Detailed chart','Mapa detallado')}</a>`:''}</div>
+ ${id==='northern-frontier'?`<a class="button cream" href="#map/northern-frontier">${t('Detailed chart','Mapa detallado')}</a>`:''}
+ ${id==='heartland'&&Pack2.canRead('goldwind')?`<a class="button cream" href="#map/goldwind">${t('Goldwind city map','Mapa de Ventoro')}</a>`:''}</div>
  <div class="map-region-list"><p>${t('PLACES AND LOCAL THREADS','LUGARES E HISTORIAS LOCALES')}</p>${localIds.map(id=>`<a class="question-link" data-map-entry="${id}" href="#entry/${id}">${esc(byId[id].title)}</a>`).join('')}</div>`;
 }
 function applyMapTransform(){
@@ -383,14 +386,32 @@ function zoomMap(direction){
 window.addEventListener('resize',applyMapTransform);
 
 function renderRegionalChart(id){
- if(id!=='northern-frontier'||!Pack2.canRead(id)){renderNotFound();return}
+ const chart=Object.hasOwn(AtlasCharts.charts,id)?AtlasCharts.charts[id]:null;
+ if(!chart||!byId[id]||!Pack2.canRead(id)){renderNotFound();return}
  const t=(en,es)=>Pack2.text(en,es);
+ const title=byId[id].title;
  setNavigation('atlas');
- $('#breadcrumb').innerHTML=`<a href="#">${t('The world','El mundo')}</a><span>/</span><a href="#atlas">${t('World atlas','Atlas mundial')}</a><span>/</span> ${esc(byId[id].title)}`;
+ $('#breadcrumb').innerHTML=`<a href="#">${t('The world','El mundo')}</a><span>/</span><a href="#atlas">${t('World atlas','Atlas mundial')}</a><span>/</span> ${esc(title)}`;
  const content=$('#content');
- content.innerHTML=FrontierMap.render(byId,entryId=>Pack2.canRead(entryId),t);
- FrontierMap.mount(content);
- document.title=t('Northern Frontier chart | Kalvatar','Carta de la Frontera del Norte | Kalvatar');
+ content.innerHTML=AtlasCharts.render(chart,byId,entryId=>Pack2.canRead(entryId),t);
+ AtlasCharts.mount(content,chart);
+ document.title=`${title} | ${t('Map','Mapa')} · Kalvatar`;
+}
+function focusMappedDistrict(parts){
+ const [view,id,section,place]=parts;
+ if(view!=='entry'||id!=='goldwind'||section!=='parts-of-the-city'||!Pack2.canRead(id))return;
+ const entry=byId[id];
+ const cityParts=AtlasCharts.cityParts(entry);
+ const index=entry.sections.indexOf(cityParts);
+ const district=AtlasCharts.charts.goldwind.sites.find(site=>site.id===place&&site.target===id);
+ const sectionEl=document.getElementById('article-section-'+index);
+ const row=sectionEl?.querySelectorAll('tbody tr')[AtlasCharts.cityDistrictIndex(cityParts,district)];
+ const focus=row||sectionEl;
+ if(!focus)return;
+ focus.setAttribute('tabindex','-1');
+ focus.focus({preventScroll:true});
+ if(row)row.classList.add('mapped-district');
+ focus.scrollIntoView({block:'center',behavior:'instant'});
 }
 
 function renderRumors(){
@@ -421,7 +442,7 @@ function route(){
  else if(view==='saved'){renderDirectory('all','',true);document.title='Your reading list | Kalvatar'}
  else if(view==='search'){let query='';try{query=decodeURIComponent(parts.slice(1).join('/'))}catch(e){}renderDirectory('all',query);document.title='Search | Kalvatar'}
  else if(!view){renderHome();document.title='Kalvatar | The Living Atlas'}else{renderNotFound();document.title='Uncharted | Kalvatar'}
- window.scrollTo({top:0,behavior:'instant'});$('#content').focus({preventScroll:true});Pack2.afterRoute();syncArticleToc();
+ window.scrollTo({top:0,behavior:'instant'});$('#content').focus({preventScroll:true});Pack2.afterRoute();focusMappedDistrict(parts);syncArticleToc();
 }
 function syncArticleToc(){
  const links=[...document.querySelectorAll('.article-toc [data-scroll-to]')];

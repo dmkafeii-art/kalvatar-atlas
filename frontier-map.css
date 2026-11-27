@@ -99,17 +99,17 @@
 }
 .frontier-chart-svg .fm-water-names text {
   text-anchor: middle;
-  fill: #2d5252;
+  fill: #e5deb7;
   stroke: none;
-  font: 700 4.1px Georgia, serif;
-  letter-spacing: .65px;
+  font: 700 calc(4.1px * var(--chart-unit)) Georgia, serif;
+  letter-spacing: calc(.65px * var(--chart-unit));
   pointer-events: none;
 }
 .frontier-chart-svg .fm-water-names .fm-water-secondary {
-  font-size: 4.7px;
+  font-size: calc(4.7px * var(--chart-unit));
   font-style: italic;
   font-weight: 400;
-  letter-spacing: .12px;
+  letter-spacing: calc(.12px * var(--chart-unit));
 }
 .frontier-site {
   cursor: pointer;
@@ -121,7 +121,7 @@
 .frontier-site .fm-leader {
   fill: none;
   stroke: #534738;
-  stroke-width: .52;
+  stroke-width: calc(.52 * var(--chart-unit));
 }
 .fm-port {
   --pin: #833d2a;
@@ -132,27 +132,30 @@
 .fm-sea {
   --pin: #286468;
 }
+.fm-area {
+  --pin: #355b4e;
+}
 .fm-pin {
   stroke: #fcf3d9;
-  stroke-width: .8;
+  stroke-width: calc(.8 * var(--chart-unit));
   fill: var(--pin);
 }
 .fm-label {
   fill: #282f28;
   stroke: #f7ebcc;
-  stroke-width: 1.55;
+  stroke-width: calc(1.55 * var(--chart-unit));
   stroke-linejoin: round;
   paint-order: stroke;
-  font: 600 5.25px Georgia, serif;
+  font: 600 calc(5.25px * var(--chart-unit)) Georgia, serif;
 }
 .fm-port .fm-label {
-  font-size: 6.2px;
+  font-size: calc(6.2px * var(--chart-unit));
   font-weight: 700;
 }
 .frontier-site:hover .fm-pin, .frontier-site.is-related .fm-pin, .frontier-site:focus-visible .fm-pin {
   stroke: #49261c;
   fill: #ffdd8f;
-  stroke-width: 1.25;
+  stroke-width: calc(1.25 * var(--chart-unit));
 }
 .frontier-site:hover .fm-label, .frontier-site.is-related .fm-label, .frontier-site:focus-visible .fm-label {
   fill: #7c341c;
@@ -250,7 +253,10 @@
   font-size: .89rem;
 }
 .frontier-note p { margin: 0; max-width: 68ch; }
-.frontier-article-cta { display: inline-block; margin: 10px 0 18px; color: var(--ux-ink, var(--ink)); text-underline-offset: 3px; text-decoration: underline; }
+.frontier-symbol.city-landmark { --sample: #355b4e; border-radius: 3px; }
+.frontier-symbol.city-street { --sample: #ebd8ad; border: 1px solid #9e8862; }
+.frontier-symbol.city-wall { --sample: #ad9469; border: 2px solid #514c3f; }
+.mapped-district > :is(th,td) { box-shadow: inset 0 -2px var(--ux-gold, var(--gold)); }
 @media (max-width: 600px) {
   .frontier-toolbar { padding: 8px; }
   .frontier-toolbar button { padding-inline: 8px; }

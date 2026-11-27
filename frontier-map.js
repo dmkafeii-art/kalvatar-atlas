@@ -1,6 +1,6 @@
 /* Coordinates share the 1371 × 2078 grid of the world chart. Only relationships
    described in the atlas are canonical; locations within a shore are approximate. */
-window.FrontierMap = (() => {
+window.AtlasCharts = (() => {
   const bounds={x:250,y:580,width:370,height:390};
   const sites=[
     {id:'ironfort',x:390,y:611,lx:360,ly:644,anchor:'end',kind:'port',
@@ -46,32 +46,100 @@ window.FrontierMap = (() => {
     ['pans','Salt pans','Salinas'],['reef','Reefs and stacks','Arrecifes y farallones'],
     ['route','Sea routes','Rutas marítimas'],['bridge','Causeways','Calzadas']
   ];
+  const frontier = {
+    id:'northern-frontier',
+    bounds, sites, regions, labels, key,
+    image:'assets/northern-frontier-chart.svg?v=6',
+    intro:['Follow the Crown Route from Ironfort, cross the Tarvan moors and find the reef-ring below Stormreach.','Sigue la Ruta de la Corona desde Fuerte de Hierro, cruza los páramos tarvan y encuentra el anillo de arrecifes bajo Confín de Tormentas.'],
+    note:['The coast follows the world map. Precise placements, ridgelines and unnamed waterways are interpretations of the Atlas geography.','La costa sigue el mapa mundial. Las posiciones exactas, las crestas y los cauces sin nombre son interpretaciones de la geografía del Atlas.']
+  };
+  const city = {
+    id:'goldwind',
+    bounds:{x:0,y:0,width:1000,height:900}, unit:2.45,
+    image:'assets/goldwind-city-chart.svg?v=1',
+    intro:['Three harbors share one bay. The Commons spreads along the wide shore, and the city climbs from the working quays to the Council ring and the Vol Kaern heights.','Tres puertos comparten una bahía. El Común se extiende por la orilla más ancha y la ciudad sube desde los muelles hasta el anillo del Consejo y las alturas de Vol Kaern.'],
+    note:['The harbors, districts and landmarks follow their relationships in the Atlas. Street alignments, blocks and individual footprints are proposed placements.','La relación entre los puertos, barrios y lugares sigue el Atlas. El trazado exacto de las calles, las manzanas y los edificios es una propuesta cartográfica.'],
+    regions:[
+      {id:'commons',x:223,y:534,en:'The Commons',es:'El Común'},
+      {id:'rings',x:501,y:288,en:'Upper rings',es:'Anillos altos'},
+      {id:'harbors',x:574,y:529,en:'Harbors and quays',es:'Puertos y muelles'}
+    ],
+    labels:[
+      [555,730,'GOLDWIND GULF','GOLFO DE VENTORO'],
+      [555,758,'The bay of three harbors','La bahía de los tres puertos',true]
+    ],
+    key:[
+      ['city-landmark','Landmarks','Edificios y lugares'],['city-street','Streets and squares','Calles y plazas'],
+      ['city-wall','Walls and terraces','Murallas y terrazas'],['water','River and canals','Río y canales'],
+      ['bridge','Piers and bridges','Muelles y puentes'],['wood','Woodland','Bosque']
+    ],
+    sites:[
+      {id:'the-commons',x:242,y:553,lx:91,ly:483,kind:'area',en:'Seven working wards along the western shore',es:'Siete barrios de trabajadores en la orilla occidental'},
+      {id:'lower-harbor',x:290,y:614,lx:358,ly:652,kind:'port',en:'The Commons’ working harbor',es:'El puerto de trabajo de El Común'},
+      {id:'the-canals',x:167,y:614,lx:84,ly:592,kind:'land',en:'Bridges and homes opening onto the water',es:'Puentes y casas con puertas al agua'},
+      {id:'gullmarket',x:296,y:504,lx:212,ly:435,kind:'land',lines:[['Gullmarket'],['Mercado de','las Gaviotas']],en:'Market stalls serving the Commons',es:'Puestos del mercado de El Común'},
+      {id:'sovereign-harbor',target:'goldwind',district:['The Sovereign Harbor', 'El Puerto Soberano'],x:503,y:491,lx:479,ly:608,kind:'port',lines:[['Sovereign','Harbor'],['Puerto','Soberano']],en:'Merchant fleets, customs and the Turning',es:'Flotas mercantes, aduana y paseo de la Vuelta'},
+      {id:'sentinel-docks',target:'goldwind',district:['The Sentinel Docks', 'Los Muelles del Centinela'],x:760,y:580,lx:825,ly:755,kind:'port',lines:[['Sentinel','Docks'],['Muelles del','Centinela']],en:'Shipyards beside the lighthouse of Tholmar',es:'Astilleros bajo el faro de Tholmar'},
+      {id:'old-quarter',target:'goldwind',district:['The old quarter', 'El barrio viejo'],x:402,y:391,lx:299,ly:349,kind:'area',en:'Theaters and crooked streets above the wharves',es:'Teatros y calles sinuosas sobre los muelles'},
+      {id:'banking-quarter',target:'goldwind',district:['The banking quarter', 'El barrio de la banca'],x:595,y:403,lx:636,ly:442,kind:'area',lines:[['Banking','quarter'],['Barrio','bancario']],en:'The Reckoners’ Hall, the Mint and the Exchange',es:'La Casa de los Tesoreros, la Casa de Moneda y la Bolsa'},
+      {id:'university',x:481,y:261,lx:355,ly:209,kind:'area',lines:[['University'],['Universidad']],en:'The University and its schools in the scholar-quarter',es:'La Universidad y sus escuelas en el barrio académico'},
+      {id:'council',x:574,y:221,lx:644,ly:201,kind:'area',lines:[['Council ring'],['Anillo del Consejo']],en:'The white halls above the University',es:'Las salas blancas por encima de la Universidad'},
+      {id:'vol-kaern-heights',target:'goldwind',district:['The Vol Kaern Heights', 'Las Alturas de Vol Kaern'],x:541,y:176,lx:544,ly:107,anchor:'middle',kind:'area',en:'The castle at the crown of the city',es:'El castillo que corona la ciudad'},
+      {id:'hunters-citadel',x:816,y:260,lx:910,ly:219,anchor:'end',kind:'area',lines:[['Hunter’s Citadel'],['Ciudadela de los','Cazadores']],en:'The Hunters’ fortress beside the cataract',es:'La fortaleza de los Cazadores junto a la catarata'},
+      {id:'heartland-bazaar',target:'goldwind',district:['The Great Heartland Bazaar', 'El Gran Bazar del Corazón'],x:476,y:458,lx:482,ly:416,anchor:'middle',kind:'land',lines:[['Great Heartland','Bazaar'],['Gran Bazar','del Corazón']],en:'Food and merchandise below the rings',es:'Comida y mercancías al pie de los anillos'}
+    ]
+  };
+  const charts={'northern-frontier':frontier,goldwind:city};
   const escape=value=>String(value).replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
-  const viewBox=`${bounds.x} ${bounds.y} ${bounds.width} ${bounds.height}`;
 
-  function mapSvg(visible,t) {
-    return `<svg class="frontier-chart-svg" viewBox="${viewBox}" role="group" aria-label="${t('Northern Frontier map','Mapa de la Frontera del Norte')}">
-      <image href="assets/northern-frontier-chart.svg?v=5" x="${bounds.x}" y="${bounds.y}" width="${bounds.width}" height="${bounds.height}"/>
+
+  function mapSvg({bounds,image,labels,unit=1},visible,title,t) {
+    const viewBox=`${bounds.x} ${bounds.y} ${bounds.width} ${bounds.height}`;
+    const u=value=>value*unit;
+    return `<svg class="frontier-chart-svg" viewBox="${viewBox}" style="--chart-unit:${unit}" role="group" aria-label="${title}">
+      <image href="${image}" x="${bounds.x}" y="${bounds.y}" width="${bounds.width}" height="${bounds.height}"/>
       <g class="fm-water-names" aria-hidden="true">${labels.map(([x,y,en,es,secondary])=>`<text x="${x}" y="${y}"${secondary?' class="fm-water-secondary"':''}>${t(en,es)}</text>`).join('')}</g>
-      ${visible.map(({id,x,y,lx,ly,anchor='start',kind,lines,entry})=>{
-        const title=escape(entry.title);
-        const leaderX=anchor==='end'?lx+3:lx-3;
-        const label=lines?t(...lines).map((line,i)=>`<tspan x="${lx}" dy="${i?6.3:0}">${line}</tspan>`).join(''):title;
-        return `<a class="frontier-site fm-${kind}" href="#entry/${id}" aria-label="${title}" data-map-site="${id}">
-          <title>${title}</title><path class="fm-leader" d="M${x} ${y}L${leaderX} ${ly-1.5}"/>
-          <circle class="fm-hit" cx="${x}" cy="${y}" r="8.5"/><circle class="fm-pin" cx="${x}" cy="${y}" r="${kind==='port'?2.6:2}"/>
+      ${visible.map(({id,x,y,lx,ly,anchor='start',kind,lines,name,href})=>{
+        const leaderX=anchor==='end'?lx+u(3):anchor==='middle'?lx:lx-u(3);
+        const label=lines?t(...lines).map((line,i)=>`<tspan x="${lx}" dy="${i?u(6.3):0}">${escape(line)}</tspan>`).join(''):name;
+        return `<a class="frontier-site fm-${kind}" href="${href}" aria-label="${name}" data-map-site="${id}">
+          <title>${name}</title><path class="fm-leader" d="M${x} ${y}L${leaderX} ${ly-u(1.5)}"/>
+          <circle class="fm-hit" cx="${x}" cy="${y}" r="${u(8.5)}"/><circle class="fm-pin" cx="${x}" cy="${y}" r="${u(kind==='port'?2.6:2)}"/>
           <text class="fm-label" x="${lx}" y="${ly}" text-anchor="${anchor}">${label}</text>
         </a>`;
       }).join('')}
     </svg>`;
   }
 
-  function render(byId,canRead,t=(en)=>en) {
-    const visible=sites.flatMap(site=>byId[site.id]&&canRead(site.id)?[{...site,entry:byId[site.id]}]:[]);
-    return `<div class="content-wrap frontier-page">
+  function cityParts(entry) {
+    return entry.sections.find(section=>['The parts of the city','Las partes de la ciudad'].includes(section.title));
+  }
+
+  function cityDistrictIndex(section,site) {
+    return section?.table?.rows.findIndex(row=>site?.district?.includes(row[0]))??-1;
+  }
+
+  function chartFor(entryId,canRead) {
+    return Object.values(charts).find(chart=>canRead(chart.id)&&(chart.id===entryId||
+      chart.sites.some(site=>!site.target&&site.id===entryId)));
+  }
+
+  function render(chart,byId,canRead,t=(en)=>en) {
+    const {id,regions,key,intro,note}=chart;
+    const title=escape(byId[id].title);
+    const parts=id==='goldwind'?cityParts(byId[id]):null;
+    const visible=chart.sites.flatMap(site=>{
+      const target=site.target||site.id;
+      if(!byId[target]||!canRead(target))return [];
+      const row=parts?.table?.rows[cityDistrictIndex(parts,site)];
+      const href=site.target?`#entry/${target}/parts-of-the-city/${site.id}`:`#entry/${target}`;
+      return [{...site,name:escape(row?.[0]||(site.district?t(...site.district):byId[target].title)),href}];
+    });
+    const parent=id==='goldwind'?'heartland':id;
+    return `<div class="content-wrap frontier-page chart-${id}">
       <header class="frontier-header">
-        <div><h1>${t('Northern Frontier','Frontera del Norte')}</h1><p>${t('Follow the Crown Route from Ironfort, cross the Tarvan moors and find the reef-ring below Stormreach.','Sigue la Ruta de la Corona desde Fuerte de Hierro, cruza los páramos tarvan y encuentra el anillo de arrecifes bajo Confín de Tormentas.')}</p></div>
-        <a class="frontier-back" href="#atlas/northern-frontier">${t('World map','Mapa mundial')}</a>
+        <div><h1>${title}</h1><p>${t(...intro)}</p></div>
+        <a class="frontier-back" href="#atlas/${parent}">${id==='goldwind'?t('Central Heartland on the world map','Corazón Central en el mapa mundial'):t('World map','Mapa mundial')}</a>
       </header>
       <div class="frontier-map">
         <div class="frontier-toolbar" role="group" aria-label="${t('Map controls','Controles del mapa')}">
@@ -83,18 +151,19 @@ window.FrontierMap = (() => {
             <output class="frontier-scale" aria-live="polite">100%</output>
           </div>
         </div>
-        <div class="frontier-map-image" tabindex="0" role="region" aria-label="${t('Interactive chart. Scroll within the map when zoomed.','Carta interactiva. Desplázate dentro del mapa cuando esté ampliado.')}">${mapSvg(visible,t)}</div>
+        <div class="frontier-map-image" tabindex="0" role="region" aria-label="${t('Interactive chart. Scroll within the map when zoomed.','Carta interactiva. Desplázate dentro del mapa cuando esté ampliado.')}">${mapSvg(chart,visible,title,t)}</div>
         <div class="frontier-key" aria-label="${t('Map legend','Leyenda del mapa')}">${key.map(([symbol,en,es])=>`<span><i class="frontier-symbol ${symbol}" aria-hidden="true"></i>${t(en,es)}</span>`).join('')}</div>
       </div>
       <section class="frontier-rail" aria-labelledby="frontier-places">
         <h2 id="frontier-places">${t('Places on the chart','Lugares de la carta')}</h2>
-        <ul class="frontier-place-list">${visible.map(({id,kind,entry,en,es})=>`<li><a href="#entry/${id}" data-map-list="${id}"><i class="frontier-place-dot fm-${kind}" aria-hidden="true"></i><span><strong>${escape(entry.title)}</strong><small>${t(en,es)}</small></span></a></li>`).join('')}</ul>
+        <ul class="frontier-place-list">${visible.map(({id,kind,name,href,en,es})=>`<li><a href="${href}" data-map-list="${id}"><i class="frontier-place-dot fm-${kind}" aria-hidden="true"></i><span><strong>${name}</strong><small>${t(en,es)}</small></span></a></li>`).join('')}</ul>
       </section>
-      <div class="frontier-note"><p>${t('Coastline from the world map. The atlas establishes how the places relate. Exact positions, ridgelines and unnamed waterways are cartographic interpretations.','La costa sigue el mapa mundial. El Atlas establece la relación entre los lugares. Las posiciones exactas, las crestas y los cauces sin nombre son interpretaciones cartográficas.')}</p><a href="#entry/northern-frontier">${t('Read the region entry','Leer la entrada de la región')}</a></div>
+      <div class="frontier-note"><p>${t(...note)}</p><a href="#entry/${id}">${id==='goldwind'?t('Read the city entry','Leer la entrada de la ciudad'):t('Read the region entry','Leer la entrada de la región')}</a></div>
     </div>`;
   }
 
-  function mount(root) {
+  function mount(root,config) {
+    const {bounds,regions,sites}=config;
     const viewport=root.querySelector('.frontier-map-image');
     const chart=root.querySelector('.frontier-chart-svg');
     const scale=root.querySelector('.frontier-scale');
@@ -137,5 +206,5 @@ window.FrontierMap = (() => {
     }
     setZoom(1);
   }
-  return {render,mount,sites};
+  return {render,mount,charts,chartFor,cityParts,cityDistrictIndex};
 })();
