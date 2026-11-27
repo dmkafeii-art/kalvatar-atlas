@@ -111,6 +111,13 @@
   font-weight: 400;
   letter-spacing: calc(.12px * var(--chart-unit));
 }
+.chart-goldwind .fm-water-names text {
+  font-size: 19px;
+  letter-spacing: .18em;
+  stroke: #14364a;
+  stroke-width: 2px;
+  paint-order: stroke;
+}
 .frontier-site {
   cursor: pointer;
 }
@@ -134,6 +141,9 @@
 }
 .fm-area {
   --pin: #355b4e;
+}
+.fm-lighthouse {
+  --pin: #912d20;
 }
 .fm-pin {
   stroke: #fcf3d9;
@@ -254,8 +264,7 @@
 }
 .frontier-note p { margin: 0; max-width: 68ch; }
 .frontier-symbol.city-landmark { --sample: #355b4e; border-radius: 3px; }
-.frontier-symbol.city-street { --sample: #ebd8ad; border: 1px solid #9e8862; }
-.frontier-symbol.city-wall { --sample: #ad9469; border: 2px solid #514c3f; }
+.frontier-symbol.city-lighthouse { --sample: #912d20; border-radius: 50%; }
 .mapped-district > :is(th,td) { box-shadow: inset 0 -2px var(--ux-gold, var(--gold)); }
 @media (max-width: 600px) {
   .frontier-toolbar { padding: 8px; }
@@ -264,10 +273,7 @@
   .frontier-key { gap: 8px 15px; }
 }
 @media (max-width: 600px) {
-  .frontier-map-image:not(.is-zoomed) .frontier-site:not(.fm-port) .fm-label {
-    opacity: 0;
-  }
-  .frontier-map-image:not(.is-zoomed) .frontier-site:not(.fm-port) .fm-leader {
+  .frontier-map-image:not(.is-zoomed) .frontier-site:not(.fm-port, .fm-primary) :is(.fm-label, .fm-leader) {
     opacity: 0;
   }
   .frontier-map-image:not(.is-zoomed) .frontier-site:is(:focus-visible, .is-related) .fm-label,

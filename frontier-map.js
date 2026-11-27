@@ -55,38 +55,39 @@ window.AtlasCharts = (() => {
   };
   const city = {
     id:'goldwind',
-    bounds:{x:0,y:0,width:1000,height:900}, unit:2.45,
-    image:'assets/goldwind-city-chart.svg?v=1',
-    intro:['Three harbors share one bay. The Commons spreads along the wide shore, and the city climbs from the working quays to the Council ring and the Vol Kaern heights.','Tres puertos comparten una bahía. El Común se extiende por la orilla más ancha y la ciudad sube desde los muelles hasta el anillo del Consejo y las alturas de Vol Kaern.'],
+    bounds:{x:0,y:0,width:1000,height:813}, unit:2.65,
+    image:'assets/ventoro-city-chart.webp',
+    intro:['Two lighthouses mark the entrance to the C-shaped gulf. Below the cliffs, the Commons crowds around its waterways, and the city climbs from the three harbors to the Vol Kaern heights.','Dos faros marcan la entrada del golfo en forma de C. Al pie de los riscos, El Común se apiña alrededor de sus canales y la ciudad sube desde los tres puertos hasta las alturas de Vol Kaern.'],
     note:['The harbors, districts and landmarks follow their relationships in the Atlas. Street alignments, blocks and individual footprints are proposed placements.','La relación entre los puertos, barrios y lugares sigue el Atlas. El trazado exacto de las calles, las manzanas y los edificios es una propuesta cartográfica.'],
     regions:[
-      {id:'commons',x:223,y:534,en:'The Commons',es:'El Común'},
-      {id:'rings',x:501,y:288,en:'Upper rings',es:'Anillos altos'},
-      {id:'harbors',x:574,y:529,en:'Harbors and quays',es:'Puertos y muelles'}
+      {id:'commons',x:185,y:536,en:'The Commons',es:'El Común'},
+      {id:'canals',x:278,y:638,en:'The Canals',es:'Los Canales'},
+      {id:'rings',x:250,y:216,en:'Upper rings',es:'Anillos altos'},
+      {id:'harbors',x:425,y:364,en:'Harbors and quays',es:'Puertos y muelles'}
     ],
     labels:[
-      [555,730,'GOLDWIND GULF','GOLFO DE VENTORO'],
-      [555,758,'The bay of three harbors','La bahía de los tres puertos',true]
+      [714,391,'GOLDWIND GULF','GOLFO DE VENTORO']
     ],
     key:[
-      ['city-landmark','Landmarks','Edificios y lugares'],['city-street','Streets and squares','Calles y plazas'],
-      ['city-wall','Walls and terraces','Murallas y terrazas'],['water','River and canals','Río y canales'],
-      ['bridge','Piers and bridges','Muelles y puentes'],['wood','Woodland','Bosque']
+      ['city-landmark','Landmarks','Edificios y lugares'],['city-lighthouse','Lighthouses','Faros'],
+      ['upland','Cliffs and slopes','Riscos y laderas'],['water','Waterways','Cursos de agua']
     ],
     sites:[
-      {id:'the-commons',x:242,y:553,lx:91,ly:483,kind:'area',en:'Seven working wards along the western shore',es:'Siete barrios de trabajadores en la orilla occidental'},
-      {id:'lower-harbor',x:290,y:614,lx:358,ly:652,kind:'port',en:'The Commons’ working harbor',es:'El puerto de trabajo de El Común'},
-      {id:'the-canals',x:167,y:614,lx:84,ly:592,kind:'land',en:'Bridges and homes opening onto the water',es:'Puentes y casas con puertas al agua'},
-      {id:'gullmarket',x:296,y:504,lx:212,ly:435,kind:'land',lines:[['Gullmarket'],['Mercado de','las Gaviotas']],en:'Market stalls serving the Commons',es:'Puestos del mercado de El Común'},
-      {id:'sovereign-harbor',target:'goldwind',district:['The Sovereign Harbor', 'El Puerto Soberano'],x:503,y:491,lx:479,ly:608,kind:'port',lines:[['Sovereign','Harbor'],['Puerto','Soberano']],en:'Merchant fleets, customs and the Turning',es:'Flotas mercantes, aduana y paseo de la Vuelta'},
-      {id:'sentinel-docks',target:'goldwind',district:['The Sentinel Docks', 'Los Muelles del Centinela'],x:760,y:580,lx:825,ly:755,kind:'port',lines:[['Sentinel','Docks'],['Muelles del','Centinela']],en:'Shipyards beside the lighthouse of Tholmar',es:'Astilleros bajo el faro de Tholmar'},
-      {id:'old-quarter',target:'goldwind',district:['The old quarter', 'El barrio viejo'],x:402,y:391,lx:299,ly:349,kind:'area',en:'Theaters and crooked streets above the wharves',es:'Teatros y calles sinuosas sobre los muelles'},
-      {id:'banking-quarter',target:'goldwind',district:['The banking quarter', 'El barrio de la banca'],x:595,y:403,lx:636,ly:442,kind:'area',lines:[['Banking','quarter'],['Barrio','bancario']],en:'The Reckoners’ Hall, the Mint and the Exchange',es:'La Casa de los Tesoreros, la Casa de Moneda y la Bolsa'},
-      {id:'university',x:481,y:261,lx:355,ly:209,kind:'area',lines:[['University'],['Universidad']],en:'The University and its schools in the scholar-quarter',es:'La Universidad y sus escuelas en el barrio académico'},
-      {id:'council',x:574,y:221,lx:644,ly:201,kind:'area',lines:[['Council ring'],['Anillo del Consejo']],en:'The white halls above the University',es:'Las salas blancas por encima de la Universidad'},
-      {id:'vol-kaern-heights',target:'goldwind',district:['The Vol Kaern Heights', 'Las Alturas de Vol Kaern'],x:541,y:176,lx:544,ly:107,anchor:'middle',kind:'area',en:'The castle at the crown of the city',es:'El castillo que corona la ciudad'},
-      {id:'hunters-citadel',x:816,y:260,lx:910,ly:219,anchor:'end',kind:'area',lines:[['Hunter’s Citadel'],['Ciudadela de los','Cazadores']],en:'The Hunters’ fortress beside the cataract',es:'La fortaleza de los Cazadores junto a la catarata'},
-      {id:'heartland-bazaar',target:'goldwind',district:['The Great Heartland Bazaar', 'El Gran Bazar del Corazón'],x:476,y:458,lx:482,ly:416,anchor:'middle',kind:'land',lines:[['Great Heartland','Bazaar'],['Gran Bazar','del Corazón']],en:'Food and merchandise below the rings',es:'Comida y mercancías al pie de los anillos'}
+      {id:'the-commons',x:128,y:503,lx:33,ly:493,kind:'area',primary:true,en:'Seven densely built wards around the Lower Harbor',es:'Siete barrios de calles enmarañadas alrededor del Puerto Bajo'},
+      {id:'lower-harbor',x:409,y:521,lx:472,ly:521,kind:'port',en:'The Commons’ working harbor',es:'El puerto de trabajo de El Común'},
+      {id:'the-canals',x:278,y:614,lx:310,ly:643,kind:'land',primary:true,en:'An extensive maze of waterways, bridges and doors opening onto the water',es:'Una extensa red de canales, puentes y casas con puertas al agua'},
+      {id:'gullmarket',x:222,y:474,lx:242,ly:509,kind:'land',lines:[['Gullmarket'],['Mercado de','las Gaviotas']],en:'Market stalls serving the Commons',es:'Puestos del mercado de El Común'},
+      {id:'sovereign-harbor',target:'goldwind',district:['The Sovereign Harbor', 'El Puerto Soberano'],x:368,y:361,lx:427,ly:366,kind:'port',lines:[['Sovereign','Harbor'],['Puerto','Soberano']],en:'Merchant fleets, customs and the Turning',es:'Flotas mercantes, aduana y paseo de la Vuelta'},
+      {id:'sentinel-docks',target:'goldwind',district:['The Sentinel Docks', 'Los Muelles del Centinela'],x:595,y:175,lx:620,ly:225,kind:'port',lines:[['Sentinel','Docks'],['Muelles del','Centinela']],en:'Shipyards beside the lighthouse of Tholmar',es:'Astilleros bajo el faro de Tholmar'},
+      {id:'tholmar-light',target:'lighthouses',names:['Tholmar’s Lighthouse','Faro de Tholmar'],x:845,y:148,lx:874,ly:114,kind:'lighthouse',primary:true,lines:[['Tholmar’s','Lighthouse'],['Faro de','Tholmar']],en:'The lighthouse and shrine above the Sentinel Docks',es:'El faro y santuario sobre los Muelles del Centinela'},
+      {id:'outer-point-light',target:'lighthouses',names:['Lighthouse at the far point','Faro de la otra punta'],x:841,y:572,lx:870,ly:545,kind:'lighthouse',primary:true,lines:[['Lighthouse'],['Faro']],en:'The other light at the entrance to the gulf',es:'La otra luz en la entrada del golfo'},
+      {id:'old-quarter',target:'goldwind',district:['The old quarter', 'El barrio viejo'],x:198,y:370,lx:44,ly:366,kind:'area',en:'Theaters and crooked streets above the wharves',es:'Teatros y calles sinuosas sobre los muelles'},
+      {id:'banking-quarter',target:'goldwind',district:['The banking quarter', 'El barrio de la banca'],x:280,y:320,lx:408,ly:305,kind:'area',lines:[['Banking','quarter'],['Barrio','bancario']],en:'The Reckoners’ Hall, the Mint and the Exchange',es:'La Casa de los Tesoreros, la Casa de Moneda y la Bolsa'},
+      {id:'university',x:240,y:231,lx:57,ly:235,kind:'area',lines:[['University'],['Universidad']],en:'The University and its schools in the scholar-quarter',es:'La Universidad y sus escuelas en el barrio académico'},
+      {id:'council',x:284,y:187,lx:321,ly:158,kind:'area',lines:[['Council ring'],['Anillo del Consejo']],en:'The white halls above the University',es:'Las salas blancas por encima de la Universidad'},
+      {id:'vol-kaern-heights',target:'goldwind',district:['The Vol Kaern Heights', 'Las Alturas de Vol Kaern'],x:192,y:96,lx:48,ly:63,kind:'area',en:'The castle at the crown of the city',es:'El castillo que corona la ciudad'},
+      {id:'hunters-citadel',x:409,y:115,lx:547,ly:76,anchor:'end',kind:'area',lines:[['Hunter’s Citadel'],['Ciudadela de los','Cazadores']],en:'The Hunters’ fortress beside the cataract',es:'La fortaleza de los Cazadores junto a la catarata'},
+      {id:'heartland-bazaar',target:'goldwind',district:['The Great Heartland Bazaar', 'El Gran Bazar del Corazón'],x:323,y:449,lx:438,ly:447,anchor:'middle',kind:'land',lines:[['Great Heartland','Bazaar'],['Gran Bazar','del Corazón']],en:'Food and merchandise below the rings',es:'Comida y mercancías al pie de los anillos'}
     ]
   };
   const charts={'northern-frontier':frontier,goldwind:city};
@@ -99,10 +100,10 @@ window.AtlasCharts = (() => {
     return `<svg class="frontier-chart-svg" viewBox="${viewBox}" style="--chart-unit:${unit}" role="group" aria-label="${title}">
       <image href="${image}" x="${bounds.x}" y="${bounds.y}" width="${bounds.width}" height="${bounds.height}"/>
       <g class="fm-water-names" aria-hidden="true">${labels.map(([x,y,en,es,secondary])=>`<text x="${x}" y="${y}"${secondary?' class="fm-water-secondary"':''}>${t(en,es)}</text>`).join('')}</g>
-      ${visible.map(({id,x,y,lx,ly,anchor='start',kind,lines,name,href})=>{
+      ${visible.map(({id,x,y,lx,ly,anchor='start',kind,lines,name,href,primary})=>{
         const leaderX=anchor==='end'?lx+u(3):anchor==='middle'?lx:lx-u(3);
         const label=lines?t(...lines).map((line,i)=>`<tspan x="${lx}" dy="${i?u(6.3):0}">${escape(line)}</tspan>`).join(''):name;
-        return `<a class="frontier-site fm-${kind}" href="${href}" aria-label="${name}" data-map-site="${id}">
+        return `<a class="frontier-site fm-${kind}${primary?' fm-primary':''}" href="${href}" aria-label="${name}" data-map-site="${id}">
           <title>${name}</title><path class="fm-leader" d="M${x} ${y}L${leaderX} ${ly-u(1.5)}"/>
           <circle class="fm-hit" cx="${x}" cy="${y}" r="${u(8.5)}"/><circle class="fm-pin" cx="${x}" cy="${y}" r="${u(kind==='port'?2.6:2)}"/>
           <text class="fm-label" x="${lx}" y="${ly}" text-anchor="${anchor}">${label}</text>
@@ -132,8 +133,9 @@ window.AtlasCharts = (() => {
       const target=site.target||site.id;
       if(!byId[target]||!canRead(target))return [];
       const row=parts?.table?.rows[cityDistrictIndex(parts,site)];
-      const href=site.target?`#entry/${target}/parts-of-the-city/${site.id}`:`#entry/${target}`;
-      return [{...site,name:escape(row?.[0]||(site.district?t(...site.district):byId[target].title)),href}];
+      const href=site.district?`#entry/${target}/parts-of-the-city/${site.id}`:`#entry/${target}`;
+      const name=row?.[0]||(site.names?t(...site.names):site.district?t(...site.district):byId[target].title);
+      return [{...site,name:escape(name),href}];
     });
     const parent=id==='goldwind'?'heartland':id;
     return `<div class="content-wrap frontier-page chart-${id}">
