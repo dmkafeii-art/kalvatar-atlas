@@ -446,6 +446,10 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "games-and-pastimes": ["scenes", "Tidecall players chase the cork ball as the incoming tide reaches the callstone.", "Los jugadores de Tidecall persiguen la pelota de corcho mientras la marea alcanza la piedra que marca el final del partido.", "games-and-pastimes-tidecall-approved-v1"],
+ "travel": ["scenes", "An Armada courier cutter threads its way through a rough passage between islands.", "Un cúter correo de la Armada cruza un paso de fuerte oleaje entre las islas.", "travel-armada-courier-approved-v1"],
+ "manners-among-the-peoples": ["scenes", "A customer laughs at a Pocchin merchant’s extravagant opening offer.", "Una clienta se ríe de la primera oferta desorbitada de un mercader pocchin.", "manners-pocchin-fat-offer-approved-v1"],
+ "festivals-of-the-wilds": ["scenes", "Canoes race below Malim’s Stair during the Laughing Water festival, with music and offerings along the banks.", "Las canoas compiten al pie de las cascadas de Malim mientras hay música y ofrendas en las orillas.", "festivals-of-the-wilds-laughing-water-approved-v1"],
  "changelings": ["scenes", "A woman comes face to face with the changeling who borrowed her likeness.", "Una mujer se cruza con la cambiada que lleva su rostro prestado.", "changelings-borrowed-face-approved-v1"],
  "sea-customs": ["scenes", "A sailor slips a silver Tide into a boot before sailing south.", "Un marinero guarda una moneda de plata en la bota antes de zarpar hacia el sur.", "sea-customs-tide-in-a-boot-approved-v1"],
  "festivals-of-the-ice": ["scenes", "Families gather on the ice to watch the aurora at the Ghostlight Vigil.", "Las familias se reúnen sobre el hielo para ver la aurora durante la vigilia.", "festivals-of-the-ice-ghostlight-vigil-approved-v1"],
