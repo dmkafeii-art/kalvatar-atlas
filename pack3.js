@@ -183,7 +183,9 @@
 
   var css = '.kv-gloss{display:block;margin:.1rem 0 .45rem;font-style:italic;font-weight:400;font-size:.8rem;' +
     'line-height:1.3;letter-spacing:.01em;text-transform:none;opacity:.72}' +
-    '.article-header .kv-gloss-title{font-size:clamp(1rem,1.6vw,1.2rem);margin:-.25rem 0 .7rem}' +
+    '.article-header .kv-gloss-title{font-size:clamp(1rem,1.6vw,1.2rem);margin:-.25rem 0 .7rem;opacity:.9}' +
+    // over an illustrated masthead the English title is light ink with a shadow, in day and lantern mode alike (27 November)
+    '.article-cover--illustrated .kv-gloss-title{color:#f4e9ce;opacity:1;text-shadow:0 1px 2px #08191c,0 0 10px #08191c,0 0 22px #08191ccc}' +
     '.search-result .kv-gloss{margin:0 0 .2rem}';
   function start() {
     var st = document.createElement('style');
