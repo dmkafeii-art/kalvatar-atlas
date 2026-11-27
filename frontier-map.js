@@ -57,6 +57,7 @@ window.AtlasCharts = (() => {
     id:'goldwind',
     bounds:{x:0,y:0,width:1000,height:813}, unit:2.65,
     image:'assets/ventoro-city-chart-v3.webp',
+    overlay:{image:'assets/ventoro-beacon-temple.webp',viewBox:'0 0 1391 1131',x:921,y:640,width:470,height:375},
     intro:['Two lighthouses mark the entrance to the C-shaped gulf. Below the cliffs, the Commons crowds around its waterways, and the city climbs from the three harbors to the Vol Kaern heights.','Dos faros marcan la entrada del golfo en forma de C. Al pie de los riscos, El Común se apiña alrededor de sus canales y la ciudad sube desde los tres puertos hasta las alturas de Vol Kaern.'],
     note:['The harbors, districts and landmarks follow their relationships in the Atlas. Street alignments, blocks and individual footprints are proposed placements.','La relación entre los puertos, barrios y lugares sigue el Atlas. El trazado exacto de las calles, las manzanas y los edificios es una propuesta cartográfica.'],
     regions:[
@@ -80,7 +81,7 @@ window.AtlasCharts = (() => {
       {id:'sovereign-harbor',target:'goldwind',district:['The Sovereign Harbor', 'El Puerto Soberano'],x:368,y:361,lx:427,ly:366,kind:'port',lines:[['Sovereign','Harbor'],['Puerto','Soberano']],en:'Merchant fleets, customs and the Turning',es:'Flotas mercantes, aduana y paseo de la Vuelta'},
       {id:'sentinel-docks',target:'goldwind',district:['The Sentinel Docks', 'Los Muelles del Centinela'],x:595,y:175,lx:620,ly:225,kind:'port',lines:[['Sentinel','Docks'],['Muelles del','Centinela']],en:'Shipyards beside the lighthouse of Tholmar',es:'Astilleros bajo el faro de Tholmar'},
       {id:'tholmar-light',target:'lighthouses',names:['Tholmar’s Lighthouse','Faro de Tholmar'],x:845,y:148,lx:874,ly:114,kind:'lighthouse',primary:true,lines:[['Tholmar’s','Lighthouse'],['Faro de','Tholmar']],en:'The lighthouse and shrine above the Sentinel Docks',es:'El faro y santuario sobre los Muelles del Centinela'},
-      {id:'outer-point-light',target:'lighthouses',names:['Lighthouse at the far point','Faro de la otra punta'],x:841,y:572,lx:870,ly:545,kind:'lighthouse',primary:true,lines:[['Lighthouse'],['Faro']],en:'The other light at the entrance to the gulf',es:'La otra luz en la entrada del golfo'},
+      {id:'outer-point-light',target:'lighthouses',names:['Beacon Temple','Templo del Faro'],x:841,y:564,lx:887,ly:526,kind:'lighthouse',primary:true,lines:[['Beacon Temple'],['Templo del Faro']],en:'The temple and beacon on the point nearest the Commons',es:'El templo y faro en la punta más cercana a El Común'},
       {id:'old-quarter',target:'goldwind',district:['The old quarter', 'El barrio viejo'],x:198,y:370,lx:44,ly:366,kind:'area',en:'Theaters and crooked streets above the wharves',es:'Teatros y calles sinuosas sobre los muelles'},
       {id:'banking-quarter',target:'goldwind',district:['The banking quarter', 'El barrio de la banca'],x:280,y:320,lx:408,ly:305,kind:'area',lines:[['Banking','quarter'],['Barrio de','la banca']],en:'The Reckoners’ Hall, the Mint and the Exchange',es:'La Casa de los Tesoreros, la Ceca y la Bolsa'},
       {id:'university',x:240,y:231,lx:57,ly:235,kind:'area',lines:[['University'],['Universidad']],en:'The University and its schools in the scholar-quarter',es:'La Universidad y sus escuelas en el barrio académico'},
@@ -94,11 +95,14 @@ window.AtlasCharts = (() => {
   const escape=value=>String(value).replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 
 
-  function mapSvg({bounds,image,labels,unit=1},visible,title,t) {
+  function mapSvg({bounds,image,overlay,labels,unit=1},visible,title,t) {
     const viewBox=`${bounds.x} ${bounds.y} ${bounds.width} ${bounds.height}`;
     const u=value=>value*unit;
     return `<svg class="frontier-chart-svg" viewBox="${viewBox}" style="--chart-unit:${unit}" role="group" aria-label="${title}">
       <image href="${image}" x="${bounds.x}" y="${bounds.y}" width="${bounds.width}" height="${bounds.height}"/>
+      ${overlay?`<svg viewBox="${overlay.viewBox}" width="${bounds.width}" height="${bounds.height}" aria-hidden="true" pointer-events="none">
+        <image href="${overlay.image}" x="${overlay.x}" y="${overlay.y}" width="${overlay.width}" height="${overlay.height}"/>
+      </svg>`:''}
       <g class="fm-water-names" aria-hidden="true">${labels.map(([x,y,en,es,secondary])=>`<text x="${x}" y="${y}"${secondary?' class="fm-water-secondary"':''}>${t(en,es)}</text>`).join('')}</g>
       ${visible.map(({id,x,y,lx,ly,anchor='start',kind,lines,name,href,primary})=>{
         const leaderX=anchor==='end'?lx+u(3):anchor==='middle'?lx:lx-u(3);
