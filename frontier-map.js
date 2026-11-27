@@ -58,6 +58,7 @@ window.AtlasCharts = (() => {
     bounds:{x:0,y:0,width:1000,height:813}, unit:2.65,
     image:'assets/ventoro-city-chart-v3.webp',
     overlay:{image:'assets/ventoro-beacon-temple.webp',viewBox:'0 0 1391 1131',x:921,y:640,width:470,height:375},
+    mobileView:{zoom:2.5,x:390,y:420},
     intro:['Two lighthouses mark the entrance to the C-shaped gulf: Tholmar’s great light on the Commons’ point, and the Sentinel, half its height, across the mouth. Below the cliffs, the Commons crowds around its waterways, and the city climbs from the three harbors to the Vol Kaern heights.','Dos faros marcan la entrada del golfo en forma de C: el gran faro de Tholmar, en la punta del Común, y el Centinela, de la mitad de su altura, al otro lado de la boca. Al pie de los riscos, el Común se apiña alrededor de sus canales y la ciudad sube desde los tres puertos hasta las alturas de Vol Kaern.'],
     note:['The harbors, districts and landmarks follow their relationships in the Atlas. Street alignments, blocks and individual footprints are proposed placements.','La relación entre los puertos, barrios y lugares sigue el Atlas. El trazado exacto de las calles, las manzanas y los edificios es una propuesta cartográfica.'],
     regions:[
@@ -169,7 +170,7 @@ window.AtlasCharts = (() => {
   }
 
   function mount(root,config) {
-    const {bounds,regions,sites}=config;
+    const {bounds,regions,sites,mobileView}=config;
     const viewport=root.querySelector('.frontier-map-image');
     const chart=root.querySelector('.frontier-chart-svg');
     const scale=root.querySelector('.frontier-scale');
@@ -210,7 +211,8 @@ window.AtlasCharts = (() => {
         source.addEventListener('blur',()=>target.classList.remove('is-related'));
       }
     }
-    setZoom(1);
+    if(mobileView&&window.matchMedia('(max-width: 600px)').matches)setZoom(mobileView.zoom,mobileView);
+    else setZoom(1);
   }
   return {render,mount,charts,chartFor,cityParts,cityDistrictIndex};
 })();

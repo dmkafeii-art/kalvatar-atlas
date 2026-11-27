@@ -41,25 +41,27 @@ function articleCard(e,illustrated=false){
  return `<a class="entry-card" href="#entry/${e.id}">${visual}<div class="entry-card-copy"><span class="entry-type">${e.creatureKind?(e.creatureKind==='working'?'Working beast':e.creatureKind==='companion'?'Companion':'Saurian'):categories[e.category].short}</span><h3>${esc(e.title)} ${Pack2.newBadge(e.id)}</h3>${e.saurianParent?`<span class="entry-native">${esc(e.aliases?.[0]||e.subtitle.split(' · ')[0])}</span>`:''}<p>${esc(e.summary)}</p><div class="entry-card-bottom"><span>${esc(e.region)}</span><span aria-hidden="true">↗</span></div></div></a>`;
 }
 function articleImages(e){return [e.illustration,...(e.gallery||[])].filter(Boolean)}
-function articleArtFigure(e,a,index,showLabel=false,leading=false){
- const sizes='(max-width: 720px) calc(100vw - 36px), (max-width: 1180px) calc(100vw - 260px), 1100px';
+const articleArtSizes='(max-width: 720px) calc(100vw - 36px), (max-width: 1180px) calc(100vw - 260px), 1100px';
+function articleArtSources(a){
+ return `src="${esc(a.src)}" srcset="${esc(a.thumb)} 480w, ${esc(a.src)} 960w, ${esc(a.full)} ${a.width}w" sizes="${articleArtSizes}"`;
+}
+function articleArtFigure(e,a,index,showLabel=false){
  const label=esc(a.label||e.title);
  const openLabel=Pack2.text('Enlarge illustration of','Ampliar ilustración de');
  const hint=Pack2.text('View illustration ⤢','Ver ilustración ⤢');
- const captionAction=leading?`<button class="article-art-enlarge" type="button" data-open-art="${e.id}" data-art-index="${index}">${Pack2.text('Enlarge illustration','Ampliar ilustración')}</button>`:'';
- return `<figure class="article-art${a.kind==='plate'?' field-guide-plate':''}"><button class="article-art-open" data-open-art="${e.id}" data-art-index="${index}" aria-label="${openLabel} ${label}"><img style="aspect-ratio:${Number(a.width)}/${Number(a.height)}" src="${esc(a.src)}" srcset="${esc(a.thumb)} 480w, ${esc(a.src)} 960w, ${esc(a.full)} ${a.width}w" sizes="${sizes}" width="${a.width}" height="${a.height}" alt="${esc(a.alt)}" decoding="async" ${index===0?'fetchpriority="high"':'loading="lazy"'}>${leading?'':`<span class="art-open-hint" aria-hidden="true">${hint}</span>`}</button><figcaption>${showLabel?`<strong>${label}</strong><br>`:''}${esc(a.caption)}${captionAction}</figcaption></figure>`;
+ return `<figure class="article-art${a.kind==='plate'?' field-guide-plate':''}"><button class="article-art-open" data-open-art="${e.id}" data-art-index="${index}" aria-label="${openLabel} ${label}"><img style="aspect-ratio:${Number(a.width)}/${Number(a.height)}" ${articleArtSources(a)} width="${a.width}" height="${a.height}" alt="${esc(a.alt)}" decoding="async" loading="lazy"><span class="art-open-hint" aria-hidden="true">${hint}</span></button><figcaption>${showLabel?`<strong>${label}</strong><br>`:''}${esc(a.caption)}</figcaption></figure>`;
 }
 function articleArtwork(e){
  const placements=artSectionsByEntry.get(e.id);
  const sections=new Map(), gallery=[], plates=[];
- let main='', cover;
+ let cover;
  const seen=new Set();
  for(const [index,a] of articleImages(e).entries()){
   if(seen.has(a.full))continue;
   seen.add(a.full);
-  if(!main&&a.kind!=='plate'){
-   main=articleArtFigure(e,a,index,false,true);
-   cover={src:a.thumb,index};
+  if(!cover&&a.kind!=='plate'){
+   cover={a,index};
+   gallery.push(cover);
    continue;
   }
   const filename=a.full.split('/').pop().replace(/-1536\.webp$/,'');
@@ -77,13 +79,13 @@ function articleArtwork(e){
    (a.kind==='plate'?plates:gallery).push({a,index});
   }
  }
- return {main,cover,sections,gallery,plates};
+ return {cover,sections,gallery,plates};
 }
 function articleGallery(e,photos){
  if(!photos.length)return '';
  const goldwind=e.id==='goldwind';
  const eyebrow=goldwind?Pack2.text('SCENES FROM THE CITY','ESCENAS DE LA CIUDAD'):Pack2.text('THE ILLUSTRATED ATLAS','EL ATLAS ILUSTRADO');
- const heading=goldwind?Pack2.text('Everyday Goldwind.','La vida en Goldwind.'):Pack2.text('In pictures.','En imágenes.');
+ const heading=goldwind?Pack2.text('Everyday Goldwind.','La vida en Ventoro.'):Pack2.text('In pictures.','En imágenes.');
  const intro=goldwind?Pack2.text('Beyond the Council halls and the harbor fortunes, the lower streets have their own stories.','Más allá del Consejo y las fortunas del puerto, las calles bajas tienen sus propias historias.'):Pack2.text('A closer look at the places, people, and stories of this entry.','Una mirada más cercana a los lugares, personajes e historias de esta entrada.');
  return `<section id="article-gallery" class="atlas-photo-gallery" aria-label="${esc(Pack2.text(`Illustrations of ${e.title}`,`Ilustraciones de ${e.title}`))}"><div class="section-title"><div><p class="eyebrow">${eyebrow}</p><h2>${heading}</h2></div></div><p class="atlas-gallery-intro">${intro}</p><div class="atlas-gallery-grid">${photos.map(({a,index})=>articleArtFigure(e,a,index,true)).join('')}</div></section>`;
 }
@@ -261,8 +263,8 @@ function renderArticle(id){
  const e=byId[id];if(!e){renderNotFound();return}if(!Pack2.canRead(id)){Pack2.renderLocked();return}const categoryHref=e.category==='folk'?NotableFolk.returnHref(e):e.foeParent?'#entry/'+e.foeParent:'#category/'+e.category;setNavigation(e.category);$('#breadcrumb').innerHTML=`<a href="#">The world</a><span>/</span><a href="${esc(categoryHref)}">${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name}</a><span>/</span>${esc(e.title)}`;
  const art=articleArtwork(e);
  const titleContent=`<div class="article-title-copy"><p class="eyebrow">${categories[e.category].short.toUpperCase()} / ${esc(e.region.toUpperCase())}</p><h1 class="atlas-cartela">${esc(e.title)}</h1></div>`;
- const coverArt=art.cover?`<button class="article-cover-art" type="button" data-open-art="${e.id}" data-art-index="${art.cover.index}" aria-label="${Pack2.text('Enlarge illustration of','Ampliar ilustración de')} ${esc(e.title)}"><img src="${esc(art.cover.src)}" alt="" decoding="async"></button>`:'';
- const titleBlock=`<div class="article-cover${art.cover?' article-cover--illustrated':''}">${coverArt}${titleContent}</div>${art.main?`<div class="article-leading-art">${art.main}</div>`:''}`;
+ const coverArt=art.cover?`<button class="article-cover-art" type="button" data-open-art="${e.id}" data-art-index="${art.cover.index}" aria-label="${Pack2.text('Enlarge illustration of','Ampliar ilustración de')} ${esc(e.title)}"><img ${articleArtSources(art.cover.a)} alt="" decoding="async" fetchpriority="high"></button>`:'';
+ const titleBlock=`<div class="article-cover${art.cover?' article-cover--illustrated':''}">${coverArt}${titleContent}</div>`;
  $('#content').innerHTML=`<article class="content-wrap article-wrap"><header class="article-header">${titleBlock}<div class="article-intro">${Pack2.header(e)}<p class="article-subtitle">${esc(e.subtitle)}</p><p class="article-lead">${esc(e.summary)}</p></div><div class="article-actions"><button id="save-article" data-save="${e.id}" class="${saved.has(e.id)?'saved':''}" aria-pressed="${saved.has(e.id)}"><span aria-hidden="true">${saved.has(e.id)?'◆':'◇'}</span>${saved.has(e.id)?'Saved to reading list':'Save for later'}</button><button id="copy-link"><span aria-hidden="true">⧉</span> Copy article link</button>${e.category==='place'?`<button id="open-quick-reference" aria-expanded="false" aria-controls="quick-reference">${Pack2.text('Quick reference','Consulta rápida')}</button>`:''}${entryMapAction(e)}<span class="mono">THE CHARTED ISLES / 175 EC</span></div></header>${quickReference(e)}${window.NotableFolk?.articleLinks(e)||''}${Pack2.music(e)}${articleCollection(e)}<div class="article-layout"><div class="article-prose">${e.sections.map((s,i)=>renderArticleSection(s,i,e.id,art.sections.get(i))).join(atlasOrnament())}<div class="article-source"><strong>FROM THE WORLD REFERENCE</strong>${esc(e.source)}<br>An explorer’s account of Kalvatar, set in 175 EC.</div></div><aside class="article-side" aria-label="Article reference"><div class="article-facts"><span class="mono">AT A GLANCE</span><dl>${e.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></div><nav class="article-toc" aria-label="On this page"><span class="mono">ON THIS PAGE</span>${e.sections.map((s,i)=>`<button data-scroll-to="article-section-${i}">${esc(s.title)}</button>`).join('')}${art.gallery.length?`<button data-scroll-to="article-gallery">${Pack2.text('Gallery','Galería')}</button>`:''}${art.plates.length?`<button data-scroll-to="article-plates">${Pack2.text('Field guide','Guía de campo')}</button>`:''}</nav></aside></div>${articleFieldPlates(e,art.plates)}${articleGallery(e,art.gallery)}${Pack2.notePanel(e)}<section class="article-related"><div class="section-title"><div><p class="eyebrow">ANOTHER THREAD TO FOLLOW</p><h2>Connected to this story.</h2></div></div><div class="related-links">${e.related.map(id=>{const r=byId[id];if(!Pack2.canRead(id))return '<span class="related-link">'+Pack2.text('Uncharted','Sin cartografiar')+'</span>';return `<a class="related-link" href="#entry/${id}"><span><small>${categories[r.category].short} / ${esc(r.region)}</small>${esc(r.title)}</span><span aria-hidden="true">↗</span></a>`}).join('')}</div></section><div class="article-back"><a href="${esc(categoryHref)}">← Back to ${e.foeParent?esc(byId[e.foeParent].title):categories[e.category].name.toLowerCase()}</a><button class="text-link" data-random>Another discovery ⤨</button></div></article>`;
  const quick=$('#quick-reference'),quickButton=$('#open-quick-reference');
  if(quick&&quickButton){
@@ -428,6 +430,17 @@ function renderTimeline(){
 }
 
 function renderNotFound(){setNavigation('all');$('#breadcrumb').innerHTML='<a href="#">The world</a><span>/</span> Uncharted';$('#content').innerHTML='<div class="content-wrap"><div class="empty-state"><span>✦</span><h2>Beyond this chart.</h2><p>That entry is not in the atlas yet.</p><a class="button" href="#browse">Return to known waters →</a></div></div>'}
+function markCurrentBreadcrumb(){
+ const breadcrumb=$('#breadcrumb');
+ for(const node of [...breadcrumb.childNodes]){
+  if(node.nodeType!==Node.TEXT_NODE||!node.textContent.trim())continue;
+  const crumb=document.createElement('span');
+  node.replaceWith(crumb);
+  crumb.append(node);
+ }
+ breadcrumb.lastElementChild?.setAttribute('aria-current','page');
+}
+
 function route(){
  const parts=location.hash.slice(1).split('/');const view=parts[0];closeMenu();if($('#illustration-dialog').open)$('#illustration-dialog').close();if($('#search-dialog').open)$('#search-dialog').close();
  if(Pack2.customRoute(view,parts)){}
@@ -442,6 +455,7 @@ function route(){
  else if(view==='saved'){renderDirectory('all','',true);document.title='Your reading list | Kalvatar'}
  else if(view==='search'){let query='';try{query=decodeURIComponent(parts.slice(1).join('/'))}catch(e){}renderDirectory('all',query);document.title='Search | Kalvatar'}
  else if(!view){renderHome();document.title='Kalvatar | The Living Atlas'}else{renderNotFound();document.title='Uncharted | Kalvatar'}
+ markCurrentBreadcrumb();
  window.scrollTo({top:0,behavior:'instant'});$('#content').focus({preventScroll:true});Pack2.afterRoute();focusMappedDistrict(parts);syncArticleToc();
 }
 function syncArticleToc(){
