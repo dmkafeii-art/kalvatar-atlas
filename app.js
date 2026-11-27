@@ -558,7 +558,7 @@ const entryIllustrations = {
  "red-choir": ["scenes", "Sahuagin priests sing beneath the King Tide.", "Los sacerdotes sahuagin cantan bajo la gran marea.", "red-choir", {"width": 1536, "height": 864}],
  "silver-ships": ["scenes", "Unlit ships cross a moonlit sea.", "Barcos sin faroles cruzan un mar iluminado por la luna.", "silver-ships", {"width": 1536, "height": 786}],
  'azhani': ['folk', 'Azhani Emberstep dances on glowing embers at the Gullmarket.', 'Azhani Pisabrasas baila sobre las brasas en el Mercado de las Gaviotas.', 'azhani', {width:1024,height:1536}],
- "the-commons": ["scenes", "Neighbors trade and work along a street in the Commons.", "Los vecinos compran y trabajan en una calle de El Común.", "the-commons-approved-v1", {"width": 1536, "height": 1024}],
+ "the-commons": ["scenes", "Neighbors trade and work along a street in the Commons.", "Los vecinos compran y trabajan en una calle del Común.", "the-commons-approved-v1", {"width": 1536, "height": 1024}],
  "the-canals": ["scenes", "A boatwoman sings as she passes beneath the Kettle Bridge.", "Una barquera canta al pasar bajo el Puente de la Tetera.", "the-canals-approved-v1", {"width": 1536, "height": 1024}],
  "gullmarket": ["scenes", "The Gullmarket pricecaller calls from her crate as neighbors shop and eat.", "La pregonera del Mercado de las Gaviotas canta los precios desde su caja mientras los vecinos compran y comen.", "gullmarket-approved-v1", {"width": 1536, "height": 1024}],
  "lower-harbor": ["scenes", "A fisher leaves salt on the Salt Steps before the dawn departure.", "Una pescadora deja sal en los Escalones de la Sal antes de zarpar al amanecer.", "lower-harbor-approved-v1", {"width": 1536, "height": 1024}],

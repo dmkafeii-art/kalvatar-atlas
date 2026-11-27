@@ -316,7 +316,19 @@
   "Beside her": "A su lado",
   "Served": "Sirvió",
   "Head of the house": "Jefa de la casa",
-  "Outlaws": "Forajidos"
+  "Outlaws": "Forajidos",
+  "Trade & wages": "Comercio y sueldos",
+  "Trade": "Comercio",
+  "Foes": "Enemigos",
+  "Foe": "Enemigo",
+  "What a day's work is worth, and what every shore makes, sells, and needs.": "Lo que vale un día de trabajo, y lo que cada costa hace, vende y necesita.",
+  "Warbands, raiding tribes, and the old powers they serve.": "Bandas de guerra, tribus saqueadoras y los viejos poderes a los que sirven.",
+  "The gods islanders name, honor, and argue with.": "Los dioses que los isleños nombran, honran y con los que discuten.",
+  "The people whose names travel farther than their ships.": "La gente cuyo nombre viaja más lejos que sus barcos.",
+  "The past as an islander learns it, from the old stories to 175 EC.": "El pasado como lo aprende un isleño, de las historias viejas al 175 EC.",
+  "From the northern strait to the far ice. Ports, regions, and wonders worth a voyage.": "Del estrecho del norte al hielo lejano. Puertos, regiones y maravillas que valen el viaje.",
+  "The many lives of the archipelago, and the customs that make each people their own.": "Las muchas vidas del archipiélago, y las costumbres que hacen a cada pueblo lo que es.",
+  "The things islanders know: moons, money, magic, promises, and a place by the fire.": "Lo que saben los isleños: las lunas, el dinero, la magia, las promesas y un lugar junto al fuego."
  },
  "terms": {
   "note": "The Spanish names come with the build; ask Claude (through Kafeii) for a change."
