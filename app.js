@@ -446,6 +446,10 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "cycle": ["scenes", "Harvesters gather sheaves on terraces above the sea on Greenday.", "En el día de los campos y la cosecha, se recogen gavillas en las terrazas sobre el mar.", "cycle-greenday-harvest-approved-v1"],
+ "languages-of-the-archipelago": ["scenes", "A dragonborn shipper interprets between a mainland traveler and a clerk at Ironfort.", "Una dracónida hace de intérprete entre un viajero del continente y una escribana de Ironfort.", "languages-ironfort-interpreter-approved-v1"],
+ "talk-of-175-ec": ["scenes", "An island newly risen off the southern lanes emerges from the mist.", "Una isla recién emergida al margen de las rutas del sur asoma entre la niebla.", "talk-of-175-ec-uncharted-island-approved-v1"],
+ "month-names": ["scenes", "Korin of Ezra pauses on his threshold, with his bag on his shoulder and his eyes on a sail.", "Korin de Ezra se detiene en el umbral, con el equipaje al hombro y la mirada puesta en una vela.", "month-names-korin-of-ezra-approved-v1"],
  "easthold-westwatch-and-pearl-groove": ["scenes", "The fishing fleet returns to Easthold as the waterfront market opens at sunrise.", "La flota pesquera regresa a Bastión del Este mientras abre el mercado del puerto al amanecer.", "easthold-fishing-market-approved-v1"],
  "hundred-and-fifty-ways": ["scenes", "A mender watches a red thread find the eye of a needle on its own.", "Una costurera observa cómo un hilo rojo atraviesa por sí solo el ojo de la aguja.", "hundred-and-fifty-ways-self-threading-needle-approved-v1"],
  "common-beasts": ["scenes", "A pack of gray wolves watches deer across a misty Frontier moor.", "Una manada de lobos grises vigila a unos ciervos en un páramo brumoso de la Frontera.", "common-beasts-frontier-greycoats-approved-v1"],
