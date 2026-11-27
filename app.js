@@ -446,6 +446,10 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "still-days": ["scenes", "An iron chain closes the harbor on the first of the Still Days.", "Una cadena de hierro cierra el puerto el primero de los Días Quietos.", "still-days-the-shutting-approved-v1"],
+ "sill": ["scenes", "A neighbor pauses at a sill where someone has left boots, fruit, fish and a mended net.", "Una vecina se detiene ante un alféizar donde alguien dejó botas, fruta, pescado y una red remendada.", "sill-harbor-gifts-approved-v1"],
+ "bogborn": ["scenes", "Reed-collared kin gather on the deck of a stilt house above the Slowwater.", "Una familia con collares de junco se reúne en la terraza de una casa sobre pilotes en el Slowwater.", "bogborn-slowwater-roost-approved-v1"],
+ "thorne-estate": ["scenes", "The Wingates drill among the ruins of the Thorne Estate as dawn breaks over the old dock.", "Los Wingate se ejercitan entre las ruinas de la Finca Espino mientras amanece sobre el viejo muelle.", "thorne-estate-wingate-camp-approved-v1"],
  "greyhaven": ["scenes", "A harbor bell guides a fishing boat through the murk at Greyhaven.", "Una campana guía a un pesquero entre la niebla de Puerto Gris.", "greyhaven-bell-in-the-murk-approved-v1"],
  "elyria": ["scenes", "Two elves cross an old bridge between Elyria’s pale towers and ancient trees.", "Dos elfos cruzan un puente entre las torres claras y los árboles centenarios de Elyria.", "elyria-wooded-terraces-approved-v1"],
  "grey-fathoms": ["scenes", "A keeper holds a pearl in the silver-lit caves of the Grey Fathoms as a drowned sailor stirs.", "Una guardiana sostiene una perla en las cuevas plateadas de las Brazas Grises mientras un marinero ahogado despierta.", "grey-fathoms-pearl-and-song-approved-v1"],
