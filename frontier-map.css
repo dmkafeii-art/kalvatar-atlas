@@ -97,14 +97,15 @@
   height: auto;
   max-width: none;
 }
-.fm-water-names {
+.frontier-chart-svg .fm-water-names text {
   text-anchor: middle;
   fill: #2d5252;
+  stroke: none;
   font: 700 4.1px Georgia, serif;
   letter-spacing: .65px;
   pointer-events: none;
 }
-.fm-water-names .fm-water-secondary {
+.frontier-chart-svg .fm-water-names .fm-water-secondary {
   font-size: 4.7px;
   font-style: italic;
   font-weight: 400;
@@ -113,8 +114,9 @@
 .frontier-site {
   cursor: pointer;
 }
-.frontier-site .fm-hit {
+.frontier-chart-svg .frontier-site .fm-hit {
   fill: transparent;
+  stroke: none;
 }
 .frontier-site .fm-leader {
   fill: none;
