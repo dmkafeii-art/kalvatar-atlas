@@ -446,6 +446,10 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "hearth-customs": ["scenes", "A traveler hangs her childhood Naming Spoon on the kitchen wall when she returns home.", "Una viajera vuelve a colgar la cuchara de su infancia en la cocina al regresar a casa.", "hearth-customs-naming-spoon-approved-v1"],
+ "calendar": ["scenes", "A scholar watches Kalvatar’s moons at different phases from a coastal tower.", "Una estudiosa observa las dos lunas de Kalvatar en fases distintas desde una torre costera.", "charter-calendar-two-moons-approved-v1"],
+ "heartland": ["scenes", "Vineyards overlook the sails of Goldwind Gulf and the kites above the city.", "Desde los viñedos se ven las velas del golfo de Goldwind y las cometas sobre la ciudad.", "central-heartland-goldwind-gulf-vineyards-approved-v1"],
+ "veil": ["scenes", "A lamp still burns in the empty ward-house, and a dog refuses to cross an unseen line.", "Una lámpara sigue encendida en la casa de guardia vacía y un perro se niega a cruzar una línea invisible.", "veil-empty-wardhouse-approved-v1"],
  "cycle": ["scenes", "Harvesters gather sheaves on terraces above the sea on Greenday.", "En el día de los campos y la cosecha, se recogen gavillas en las terrazas sobre el mar.", "cycle-greenday-harvest-approved-v1"],
  "languages-of-the-archipelago": ["scenes", "A dragonborn shipper interprets between a mainland traveler and a clerk at Ironfort.", "Una dracónida hace de intérprete entre un viajero del continente y una escribana de Ironfort.", "languages-ironfort-interpreter-approved-v1"],
  "talk-of-175-ec": ["scenes", "An island newly risen off the southern lanes emerges from the mist.", "Una isla recién emergida al margen de las rutas del sur asoma entre la niebla.", "talk-of-175-ec-uncharted-island-approved-v1"],
