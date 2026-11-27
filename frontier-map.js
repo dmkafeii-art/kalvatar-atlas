@@ -56,7 +56,7 @@ window.AtlasCharts = (() => {
   const city = {
     id:'goldwind',
     bounds:{x:0,y:0,width:1000,height:813}, unit:2.65,
-    image:'assets/ventoro-city-chart.webp',
+    image:'assets/ventoro-city-chart-v2.webp',
     intro:['Two lighthouses mark the entrance to the C-shaped gulf. Below the cliffs, the Commons crowds around its waterways, and the city climbs from the three harbors to the Vol Kaern heights.','Dos faros marcan la entrada del golfo en forma de C. Al pie de los riscos, El Común se apiña alrededor de sus canales y la ciudad sube desde los tres puertos hasta las alturas de Vol Kaern.'],
     note:['The harbors, districts and landmarks follow their relationships in the Atlas. Street alignments, blocks and individual footprints are proposed placements.','La relación entre los puertos, barrios y lugares sigue el Atlas. El trazado exacto de las calles, las manzanas y los edificios es una propuesta cartográfica.'],
     regions:[
