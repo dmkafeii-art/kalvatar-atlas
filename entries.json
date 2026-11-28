@@ -5135,8 +5135,7 @@
    {
     "title": "The five seats",
     "paragraphs": [
-     "Five powers sit on the Council, and each chooses its own seat.",
-     "Reefpurple, the rarest dye in the islands, is worn by custom only by the Council’s seats and the Concord’s high clergy. Anyone else who wears it is making a claim."
+     "Five powers sit on the Council, and each chooses its own seat."
     ],
     "list": [
      "**The Nobles:** Halsof Varselis, young, ambitious, and calculating, and often colder than he is. The peerage chooses its seat at the Moot of Banners every fifth year; with two short gaps a Varselis has held it since the Landing, and its holder presides at the Moot.",
@@ -5150,7 +5149,7 @@
     "title": "The white halls",
     "paragraphs": [
      "The Council sits in the white halls of Goldwind’s Council ring, above the banking quarter and the University’s copper-ringed spires, and below the castle-heights of House Vol Kaern, whose shadow falls on a Council it does not rule. The halls were raised about 55 EC, of Whitecut stone, on ground that Vol Kaern still owns. The Lord Mayor’s offices share the ring.",
-     "The chamber is where the islands’ arguments end up. The best speaker in it, by common consent, is Lord Ignatius Emberheart, who does not hold a seat there."
+     "The chamber is where the islands’ arguments end up. The best speaker in it, by common consent, is Lord Ignatius Emberheart, who does not hold a seat there. Reefpurple, the rarest dye in the islands, is worn by custom only by the Council’s seats and the Concord’s high clergy, and anyone else who wears it into the chamber is making a claim."
     ]
    },
    {
@@ -14724,13 +14723,13 @@
   "category": "place",
   "region": "Northern Frontier",
   "subtitle": "The gate of the north",
-  "summary": "Bastion is the seat of House Faust and the gate-fortress of the north: a grey city of drill-yards and iron-works on a hill above the Ironfort road, with the Gate forts and the Bastion Holds strung along the sea-road below it.",
+  "summary": "Bastion is the seat of House Faust and the gate-fortress of the north: a grey island-city of drill-yards and iron-works at the mouth of the eastern sea-road, the first of the Bastion Holds, where the long road from Ironfort ends.",
   "sections": [
    {
-    "title": "The hill above the road",
+    "title": "The island at the gate",
     "paragraphs": [
-     "Bastion is a fortress-city on a hill above the long grey road from Ironfort, built of the dark stone of its own hill-mines: all grey stone and drilling yards. The founder of House Faust built it there, and the first of the Gate forts on the Fistrock, and the Council granted the house its Dominion in return. Every morning the drill-yards fill with the clash of practice steel.",
-     "The city looks down on the sea-road. The Gate forts stand along it, the first on the Fistrock, whose beacon fire can be seen from Bastion in the time it takes to say the house’s motto three times: *We Hold.* Beyond them lie the Bastion Holds, a chain of fortress islands linked by causeways and bridges that the Faust engineers built and rebuilt over four generations, and the Sunforge-cast batteries of Wakefort and Coldholm cover the strait."
+     "Bastion is a fortress-city on a fortified island at the mouth of the eastern sea-road: a hill of dark stone rising out of the water, built of the stone of its own hill-mines, all grey walls and drilling yards. The long grey road from Ironfort ends at the causeway that joins it to the shore. The founder of House Faust built it there, and the first of the Gate forts on the Fistrock, and the Council granted the house its Dominion in return. Every morning the drill-yards fill with the clash of practice steel.",
+     "The city watches the sea-road from its walls. The Gate forts stand along the coast, the first on the Fistrock, whose beacon fire can be seen from Bastion in the time it takes to say the house’s motto three times: *We Hold.* Bastion is the first and greatest of the Bastion Holds, and beyond it the chain runs on, fortress islands linked by causeways and bridges that the Faust engineers built and rebuilt over four generations, while the Sunforge-cast batteries of Wakefort and Coldholm cover the strait."
     ]
    },
    {
@@ -14743,7 +14742,7 @@
    {
     "title": "Arriving",
     "paragraphs": [
-     "Most people come to Bastion by the road from Ironfort, behind the Tannick carters, who haul everything on it. Ships come in along the sea-road under the guns of the Gate forts and tie up at the Mole. From Bastion, as from Ironfort, the Crown Route runs north to Castia: a fortnight against the Crown Current, and a week home again with it behind you.",
+     "Most people come to Bastion by the road from Ironfort, behind the Tannick carters, who haul everything on it, and cross the causeway under the gate-towers. Ships come in along the sea-road under the guns of the Gate forts and tie up at the Mole. From Bastion, as from Ironfort, the Crown Route runs north to Castia: a fortnight against the Crown Current, and a week home again with it behind you.",
      "Hospitality is law on the Frontier, and in Bastion the door must be held. In the hills near the town, the terraced hot springs of the Soldiers’ Rest are a truce-ground by iron custom: no steel is drawn there, and even feuds pause in the water."
     ]
    },
@@ -15363,7 +15362,7 @@
     "paragraphs": [
      "The Widow’s Teeth lie just off the harbor mouth, a fang-row of sea-stacks on which the fishing families lost boats every winter until about 10 EC, when the Stormweavers lit the first light of the north on the last of them. Its lantern holds a captive storm, pale lightning in a glass that has never been opened, and it shows through the Murk when no flame could.",
      "When the Plague of the Burning Sea came north, about 90 EC, three of the house’s mages kept the lights burning through a winter in which half Greyhaven was sick, and did not sleep for a week. In 92 EC the Council gave the house the Light-Warrant for it: the head of House Stormweaver is Warden of the Lights, and every charted light in the islands answers to Greyhaven. The light-due pays for oil and keepers and not for the town, and the Reckoners’ Hall checks every year that none of it stays.",
-     "Up the coast, House Vanris lit its own lantern on Stormguard Hold about 40 EC as an answer, and the two houses have argued ever since over whose lights the north should trust."
+     "Up the coast, House Vanris lit its own lantern on Stormguard Hold about 12 EC, two years later, as an answer, and the two houses have argued ever since over whose lights the north should trust."
     ]
    },
    {
@@ -15476,7 +15475,7 @@
      "**Guns.** Powder, shot, and guns are sold openly, at twice the Goldwind price, and Arcturus Ironheart, who builds the best weapons on the sea, sells his here to anyone.",
      "**Cargo.** Whatever went missing at sea last month. A ship that sank off Southhaven in a flat calm, fully insured, had her cargo sold in Hollowkey the week before.",
      "**Relics,** sold that should have stayed drowned.",
-     "**Payment.** Dark glass is welcome, coin is accepted, and paper is laughed at."
+     "**Payment.** Any metal will do, because at the end of the day gold is gold: Council coin, korvans, sols, or hacked silver by weight, and dark glass besides. IOUs and bank paper are laughed off the deck."
     ]
    },
    {
@@ -15559,7 +15558,7 @@
    "caption": "Trade and repairs carry on in Hollowkey’s floating market."
   },
   "epigraph": {
-   "quote": "Glass is welcome. Coin will do. Paper we keep for lighting the lamps.",
+   "quote": "Gold is gold. Paper we keep for lighting the lamps.",
    "by": "A Hollowkey drift-trader"
   },
   "translations": {
@@ -15774,43 +15773,64 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "Two reefs and a graveyard of fleets",
-  "summary": "A passage between two reefs in the southern sea, where the great battle of 165 EC was fought: ten years on, a graveyard of two fleets and the richest salvage in the islands.",
+  "summary": "A passage between two reefs in the southern sea, where the great battle of 165 EC was fought: a graveyard of two fleets, the richest salvage in the islands, and a place the salvagers say the battle never quite left.",
   "sections": [
    {
     "title": "The place",
     "paragraphs": [
      "The Kraken’s Maw is a narrow passage between two reefs in treacherous southern water. In 165 EC more than a hundred and sixty ships fought there for sixteen hours, and a great many of them never left.",
      "Admiral Blackheart brought more than a hundred and twelve ships into the passage against the Coalition of the Armada, the Hunters, and the volunteer crews. Admiral Thulissa of the Trident drove through his line to the *Dread Sovereign* and killed him on his own deck, the Crimson Tide breached and sank the colossal *Gaze of Abyss*, and the armada broke. The day itself has its own page; the Maw is what the day left behind.",
-     "The wrecks of the Armada and of Blackheart’s fleet lie together on the bottom. Divers say they still hum at dusk."
+     "The wrecks of the Armada and of Blackheart’s fleet lie together on the bottom, and ten years on the Maw has not settled. The water inside the passage lies flat and dark even when the sea outside is running, and the gulls that follow every boat in the south turn back at the reefs. Nothing grows on the wrecks: no weed, no coral, not one barnacle, as if the sea itself will not touch them."
+    ]
+   },
+   {
+    "title": "What the Maw does",
+    "paragraphs": [],
+    "list": [
+     "**The hum.** At dusk the wrecks hum, low and steady, like a ship’s company singing below decks. Divers feel it in their teeth before they hear it.",
+     "**The bells.** On still nights ship’s bells ring under the water, the watch-bells of ships that keep no watch, and they always strike the sixteenth hour.",
+     "**The fog.** Most evenings a fog rises out of a clear sky and lies along the passage in one long, straight bank, the length and shape of a line of battle.",
+     "**The needle.** Compasses inside the reefs drift toward the place where the *Dread Sovereign* went down, and settle there, and settle nowhere else until the boat is out past the reefs.",
+     "**The ropes.** Lines left in the water overnight come up knotted, in knots nobody aboard ties: Armada hitches, and pirate knots that went out of use when Blackheart died.",
+     "**The voices.** A crew that stays too late hears its names called from the water, in the voices of people who died there. Some answer. Those are the boats that are not found."
     ]
    },
    {
     "title": "The salvagers",
     "paragraphs": [
-     "Ten years on, the Maw is worked by salvage crews, who bring up guns, fittings, and now and then a strongbox. They work by daylight and are in their boats before dusk.",
+     "Ten years on, the Maw is worked by salvage crews, who bring up guns, fittings, and now and then a strongbox. They work by daylight, are in their boats before dusk, and are out past the reefs before the hum begins.",
      "When the battle was over, the Reckoners’ Hall registered every claim on Blackheart’s sunken armada, and it still takes its tenth on every piece that comes up: the finder takes a third, the owner or insurer the rest, less the Hall’s tenth. The licensed crews dive by the Wreck Office’s charts. The others dive when the Hall is not looking, and sell through Fairweather, where pieces of the *Gaze of Abyss* go by the piece and nobody asks which wreck they came from.",
-     "By custom nothing is taken from a wreck that still has dead aboard, and the names of both fleets are said over the water on the night of the battle."
+     "The Maw’s customs are older than its claims. Nothing is taken from a wreck that still has dead aboard. A measure of kellum goes over the side before the first dive of the day, for the watch below. Nobody whistles on the water, nobody says Blackheart’s name inside the reefs, and a salvager who brings up a piece with a name scratched into it says that name over it at supper, or puts it back."
+    ]
+   },
+   {
+    "title": "The night of the Maw",
+    "paragraphs": [
+     "On the night of the battle the names of both fleets are said over the water, the Coalition’s dead and Blackheart’s, by every crew that will come. It is the one night of the year the salvagers stay past dusk, and they lie off the reefs in a line with their lamps lit, as the Coalition lay ten years ago.",
+     "Most years, the old crews say, something answers. Lights move under the water in two lines that close and break apart. Guns are heard, far off, for an hour or for the whole night. And every year someone leaves a red-bladed knife on the reef where Blackheart fell, and nobody has ever seen who."
     ]
    },
    {
     "title": "What the Maw keeps",
     "paragraphs": [
      "Some of the dead have names that the whole archipelago knows. Thulissa came back from Blackheart’s deck to her own ship with wounds she would not survive. Captain Magnus of the *Sledgehammer* fell to Shade Serpentfang, and his son Leoric took the ship in the middle of the battle, fought her to the end, and swore at the Maw to avenge him. Falken Brightsight, who fought beside Thulissa, still commands the *Falkoner* he sailed through it, as Fleetlord of the Last Psalm.",
-     "The *Dread Sovereign* went down in the rout, and old sailors swear she has been raised, which is impossible, they admit, and keep swearing anyway."
+     "The *Dread Sovereign* went down in the rout, and old sailors swear she has been raised, which is impossible, they admit, and keep swearing anyway. Her berth on the bottom is empty, and the needle still points at it."
     ]
    },
    {
     "title": "In the islands",
     "paragraphs": [
      "The Maw is the reason the Armada and the Hunters, who squabble about everything else, still stand together when it counts. It is also the reason the south is full of men with nowhere to go: the Remnants of Blackheart are the crews who came out of it alive, and the Last Smile, Blackheart’s daughter, is gathering them into something like a nation.",
-     "Its salvage reaches every black market in the islands as wet goods, and the Icy Expanse counts it among its exports, because it is sold through Fairweather."
+     "Its salvage reaches every black market in the islands as wet goods, and the Icy Expanse counts it among its exports, because it is sold through Fairweather.",
+     "Twice the Last Psalm’s Tidecallers have sailed into the Maw to bless its dead to rest. Twice they came out before dawn and would not say what they had heard, and the Psalm has not gone back."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Every year on the night of the Maw, someone leaves a red-bladed knife on the reef where Blackheart fell.” (a Maw salvager)",
-     "“The Dread Sovereign’s berth on the bottom is empty. Has been for a while. Ask the Free Tide where she went.” (a Hollowkey drift-trader)"
+     "“The diver who goes down last on the night of the Maw counts the wrecks. There are always more than there were the year before.” (a Maw salvager)",
+     "“The Dread Sovereign’s berth on the bottom is empty. Has been for a while. Ask the Free Tide where she went.” (a Hollowkey drift-trader)",
+     "“A Coalition widow rowed out to the Maw alone last year and came back saying her husband had told her where he left the key to his sea-chest. It was there.” (a Southhaven boatwoman)"
     ]
    }
   ],
@@ -15834,6 +15854,10 @@
    [
     "Claims",
     "Registered at the Reckoners’ Hall, for a tenth"
+   ],
+   [
+    "After dusk",
+    "Nobody stays inside the reefs"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15861,7 +15885,8 @@
    "reckoners-hall",
    "varan-port",
    "vice-and-the-black-market",
-   "hollowkey"
+   "hollowkey",
+   "concord"
   ],
   "illustration": {
    "src": "assets/history/maw-wrecks-painterly-v1-960.webp",
@@ -20316,7 +20341,7 @@
     "title": "History",
     "paragraphs": [
      "**Before the Landing.** The Fausts were marcher lords on the old continental border, a family of fords and fortresses. When the great houses broke and fled south, the Fausts held the coast road to Castia while the last convoys loaded. They boarded last, in the final year of the Exodus, and the house's chronicle says that Lord Osric Faust was the last man of the Landing to step off continental ground.",
-     "**The Gate (1 to about 20 EC).** The Landing came ashore in the Northern Frontier, and the Council first sat at Ironfort. Osric Faust looked at the strait, the Chalk Coast across it, and the Crown Route beyond, and said that whoever held the islands' northern door would one day be asked to pay for holding it. He built Bastion on the hill above the Ironfort road and the first of the Gate forts on the Fistrock, and the Council granted the house its Dominion in return."
+     "**The Gate (1 to about 20 EC).** The Landing came ashore in the Northern Frontier, and the Council first sat at Ironfort. Osric Faust looked at the strait, the Chalk Coast across it, and the Crown Route beyond, and said that whoever held the islands' northern door would one day be asked to pay for holding it. He built Bastion on its island at the mouth of the eastern sea-road, where the Ironfort road ends, and the first of the Gate forts on the Fistrock, and the Council granted the house its Dominion in return."
     ],
     "list": [
      "**Left behind (about 50 to 55 EC).** When the Council's seat moved south to Goldwind, the Heartland houses went with it. Faust stayed. The house has never quite forgiven the Heartland for leaving, and the Heartland has never quite forgiven Faust for saying so.",
@@ -20329,7 +20354,7 @@
    {
     "title": "Bastion and the Gate forts",
     "paragraphs": [
-     "**Bastion** is a fortress-city on a hill above the long grey road from Ironfort, built of the dark stone of its own hill-mines. Its walls are the thickest in the islands and its streets are made for moving soldiers, not for shopping. The keep at the top is called the Fist. The yards below it hold the barracks, the armories, the iron-works, and the great tourney field, which is a drill-yard for the rest of the year.",
+     "**Bastion** is a fortress-city on a fortified island at the mouth of the eastern sea-road, where the long grey road from Ironfort ends at the causeway, built of the dark stone of its own hill-mines. Its walls are the thickest in the islands and its streets are made for moving soldiers, not for shopping. The keep at the top is called the Fist. The yards below it hold the barracks, the armories, the iron-works, and the great tourney field, which is a drill-yard for the rest of the year.",
      "**The Gate forts** stand on the rocks of the strait between Ironfort and the open sea.",
      "**Fistrock**, the northernmost, a bare rock with a round fort and a beacon, from which the Chalk Coast is visible on a clear day. A beacon fire on the Fistrock can be seen from Bastion in the time it takes to say the house's motto three times.",
      "**Coldholm**, the largest, with a harbor for the Gate Squadron and a garrison of a thousand.",
@@ -22291,7 +22316,7 @@
      "**Before the Landing.** The Stormweavers were Weathermakers of Berith's Storm Spire, the college of storm-callers that every navy wants. When the Exodus came, two of the family's storm-callers sailed with the convoys to keep the weather off them, and stayed.",
      "**Greyhaven (about 10 EC).** The fishing families of the Frontier had found the ring-harbor of Greyhaven and were losing boats on the Widow's Teeth every winter. The first Lady Stormweaver, Halcyra, lit the first light on the last of the Teeth, and the fishing fleets have paid the house to keep it lit since.",
      "**The captive storm (about 31 EC).** Halcyra's grandson, Lord Taran, caught a storm and set it in the lantern of the Stormweaver light, where it has burned ever since: pale blue-white lightning crackling in a glass that has never been opened. The light can be seen through the Murk when no flame could.",
-     "**The rivalry (from about 40 EC).** When Vanris lit its own lantern on Stormguard Hold, Greyhaven took it as a challenge, and Stormreach took Greyhaven's answer as an insult. The two houses have argued since over whose lights the north's sailors should trust, and the sailors trust both and say so to neither.",
+     "**The rivalry (from about 12 EC).** When Vanris lit its own lantern on Stormguard Hold, Greyhaven took it as a challenge, and Stormreach took Greyhaven's answer as an insult. The two houses have argued since over whose lights the north's sailors should trust, and the sailors trust both and say so to neither.",
      "**The Plague (about 90 EC).** When the Plague of the Burning Sea came north, the house kept the lights lit through a winter in which half Greyhaven was sick, with three mages who had not slept in a week. Greyhaven has never forgotten it, and the house has never let it.",
      "**Today (175 EC).** Lady Elara rules Greyhaven. When Vanris went to war with the Stormchanters this year, it asked the house for storm-mages, and Elara refused. *\"We do not fight storms with storms,\"* she wrote, and Stormreach has not forgiven the letter."
     ]
@@ -48241,7 +48266,7 @@
       [
        "The Stormguard lantern",
        "Stormguard Hold, near Stormreach",
-       "House Vanris lit it about 40 EC as an answer to Greyhaven. The two houses have argued ever since over whose lights the north should trust."
+       "House Vanris lit it about 12 EC, two years after Greyhaven's, as an answer to it. The two houses have argued ever since over whose lights the north should trust."
       ],
       [
        "The Kaernstone",
@@ -60158,10 +60183,10 @@
    "Imperium",
    "the Korvan Imperium"
   ],
-  "summary": "The militant autocracy of human supremacy on Assios that the Exodus fled: the Sun-Throne of Korvantis, the Iron Hosts and the Inquisition, at war with the Alliance for most of a thousand years, and pressing on the islands with coin and cult rather than with fleets.",
+  "summary": "The empire the Exodus fled, and the greatest power in the world: a hundred million souls under one throne, one creed, and one army, a third of them in iron collars, at war with the rest of the continent for a thousand years, and patient enough to wait for the islands.",
   "epigraph": {
-   "quote": "They don’t send ships. They send korvans, and the korvans do the sailing.",
-   "by": "A Faust officer at the Ironfort scale-tables"
+   "quote": "What were we? Chattel. Why? We were weak. And what is weakness? A choice.",
+   "by": "The Forged Catechism, which every imperial child can say before it can read"
   },
   "facts": [
    [
@@ -60174,15 +60199,23 @@
    ],
    [
     "Grand Inquisitor",
-    "Ghral"
+    "Ghral, a gold dragon"
    ],
    [
     "People",
     "About a hundred million, some thirty-five million of them Bound"
    ],
    [
+    "Under arms",
+    "About three million, and ten million at the full call"
+   ],
+   [
+    "The Iron Fleet",
+    "About 2,500 warships, some 200 of them ironclads"
+   ],
+   [
     "Coin",
-    "The korvan"
+    "The korvan, rimmed WEAKNESS IS A CHOICE"
    ],
    [
     "At war with",
@@ -60191,61 +60224,90 @@
   ],
   "sections": [
    {
-    "title": "The Sun-Throne",
+    "title": "Weakness is a choice",
     "paragraphs": [
-     "The Korvan Imperium is the militant autocracy of human supremacy that took half the continent of Assios before it was stopped, and the power the Exodus sailed away from. The Sun-Throne sits in Korvantis, the imperial city: white stone and black iron on a hill above three rivers, under a great dome gilded so that it shines like a second sun at noon. Under the dome the city falls away in rings, the court, the ministries, and the Host’s great halls, and at the bottom, where the rivers meet, the foundries and the Bound.",
-     "The Emperor Theomar Vol Sunessi, the Twelfth Sun, has ruled for forty-one years, cold and patient, the master of his court and his Host. He has twelve legitimate children, the Twelve Rays, numbered by birth, who circle one another until he names his heir, and he has not named one. The rumor in Castia is that the Twelfth Sun is dying, and that his children are already choosing sides."
+     "For seventeen thousand years after the Scattering, the Imperium teaches, humankind was a slave race: chattel to the elder peoples, owned, bred, and made to forget. Then a thrall-scholar in the frozen north found the truth in a Firstborn vault, and the humans of the north made a choice. They would never be weak again.",
+     "That choice is the whole of the Imperium. Its people call themselves the Inheritors, the rightful heirs of a world that was stolen from them, and they hold that weakness is not a misfortune but a decision, and a shameful one. Strength is owed: to the Sun-Throne, to the Host, and to the seventeen thousand years. The Forged Catechism is said at every imperial school-door, garrison, and grave:"
+    ],
+    "list": [
+     "What were we? *Chattel.*",
+     "Why? *We were weak.*",
+     "And what is weakness? *A choice.*",
+     "What did we choose? *The Forge.*",
+     "What does the world owe us? *Seventeen thousand years.*"
     ]
    },
    {
-    "title": "Iron and the Inquisition",
+    "title": "The Sun-Throne",
+    "paragraphs": [
+     "The Sun-Throne sits in Korvantis, the imperial city: white stone and black iron on a hill above three rivers, under a great dome gilded so that it shines like a second sun at noon. Under the dome the city falls away in rings, the court, the ministries, and the Host’s great halls, and at the bottom, where the rivers meet, the foundries and the Bound. Visitors are told to arrive at noon by the south road, when the dome catches the sun before the walls come into view. Pilgrims weep. Prisoners are brought in at the same hour, on purpose.",
+     "The Emperor is the Sun on Earth, and his word is law beyond appeal. Theomar Vol Sunessi, the Twelfth Sun, is seventy-one and has ruled for forty-one years, cold and patient, the master of his court and his Host. The Vol Sunessi do not crown the eldest: near the end of his reign the Emperor names his heir from among his twelve legitimate children, the Twelve Rays, and until he does, they circle one another. The rumor in Castia is that he is dying, and that his children are already choosing sides."
+    ]
+   },
+   {
+    "title": "The Inheritors and the Bound",
     "paragraphs": [],
     "list": [
-     "**The Iron Marches** face the Front, ruled by Margraves and War-Counts. Every imperial child serves the Year of Iron, and cowardice is the one unforgivable sin.",
-     "**The Forge-Lands** around Korvantis make the Imperium’s ironclads and Krysta-forged arms, from sciences recovered in the Forging. The ironclads are why the Armada builds its hulls thick.",
-     "**The Inquisition** answers to the Grand Inquisitor, the gold dragon Ghral, from the Maudan Palace in the hills above Korvantis. It is the militant creed of human supremacy and forced registration, with ten High Inquisitors and the dragonborn of the Gilded Scales for its soldiers, and its cells in Kalvatar hunt heretics, rogue mages, and the non-human.",
-     "**The Bound** are the Imperium’s unfree, some thirty-five million of its hundred million souls. A tiefling in the Imperium is Bound: collared, owned, and without law."
+     "**The Inheritors** are the humans of the Imperium: citizens, soldiers, and subjects of the Sun. At fourteen every Inheritor child leaves home for the Year of Iron in one of the Host’s training-cities, where the children of farmers and the children of the Sun-Throne sleep in the same barracks and learn the drill, the Catechism, and the rule that cowardice is the one unforgivable sin. At the end of the year each child is asked one question, *What do you choose?*, and the answer is written in the city’s rolls forever.",
+     "**The Bound** are everyone else inside the Imperium’s borders: elves, dwarves, halflings, gnomes, orcs, goblinkin, and tieflings. They have no law but their owner’s, and they wear an iron collar stamped with the owner’s mark. In the Forge-Lands the Bound do the hottest work, and the foundry-masters say a dwarf lasts longer at the furnace than a man. They say it as praise.",
+     "**The conquered** stay conquered. The old kingdom of Valghi was taken in the first years of the Imperium’s bursting, and the half of its people who were not human have been Bound for fifteen centuries.",
+     "**At the border,** Castia asks for no papers. The Imperium asks for blood: no non-human sets foot on imperial ground and leaves it free.",
+     "**Sevrin the Chainbreaker** may not be worshipped in the Imperium. It is a hanging matter, which is why every collar-smith in the Imperium can tell you what a broken collar means."
+    ]
+   },
+   {
+    "title": "The Inquisition",
+    "paragraphs": [
+     "The Inquisition answers to the Grand Inquisitor, the gold dragon Ghral, from the Maudan Palace in the hills above Korvantis: a house of gold-veined marble built a thousand years ago for something too large for doors. Its Inner Circle meets there. Its prisoners do not leave. That a gold dragon commands the engine of human supremacy is a paradox the Inquisition does not discuss.",
+     "It is the militant creed of human supremacy and forced registration. It polices what little magic the Imperium has, roots out heresy, and burns what it cannot convert. Ten High Inquisitors serve under Ghral, and the dragonborn clans who swore to him a thousand years ago march as the Gilded Scales, its own soldiers; the clans who would not swear became the Bound, or fled. A name with *Sol* before it belongs to someone sworn to the faith of the Iron Sun and answerable to the Inquisition, and the Inquisition’s cells in Kalvatar hunt heretics, rogue mages, and the non-human."
     ]
    },
    {
     "title": "The measure of it",
     "paragraphs": [
-     "Beside the islands the Imperium is vast. It counts about a hundred million souls against the islands’ three million seven hundred thousand, takes in some thirty-five times what all twenty noble houses take together, keeps some eighty Iron Hosts of twenty thousand in the Marches and at the Front, and sails an Iron Fleet of about 2,500 warships, some 200 of them ironclads: about eight times the Armada.",
-     "It has not won because the Alliance, the Principalities, the Oslirion Baronies, and the Free Cities together are nearly its size, and because the stalemate holds on what the Imperium cannot make: the Alliance’s war-mages, and the islands’ Krysta that powers them. In 172 EC the Iron Host took the fortress-town of Hollin’s Cross and held it for a winter, and Asteroth’s cavalry took it back in the spring."
+     "Beside the islands the Imperium is vast. It counts about a hundred million souls against the islands’ three million seven hundred thousand, and takes in some thirty-five times what all twenty noble houses take together. About three million are under arms: some eighty Iron Hosts of twenty thousand in the Marches and at the Front, and as many again in the garrisons, with the Gilded Scales, and in the Inquisition. Because every Inheritor has done the Year of Iron, the Sun-Throne could call perhaps ten million to the banners.",
+     "The Forge-Lands around Korvantis make its guns, its armored wagons, and the plates of its ironclads, from sciences recovered in the Forging: smoke by day and fire by night. The Iron Fleet counts about 2,500 warships, some 200 of them ironclads, about eight times the Armada, and the ironclads are why the Armada builds its hulls thick.",
+     "Between the Imperium and the Alliance lies the Front, a belt of burned country a hundred leagues deep, where the war has stood for most of a thousand years and moves a few miles a generation. In 172 EC the Iron Host took the fortress-town of Hollin’s Cross and held it for a winter, and Asteroth’s cavalry took it back in the spring."
+    ]
+   },
+   {
+    "title": "Why it has not come south",
+    "paragraphs": [
+     "Not yet. The Alliance, the Principalities, the Oslirion Baronies, and the Free Cities together are nearly its size, and the stalemate holds on what the Imperium cannot make: the Alliance’s war-mages, and the islands’ Krysta that powers them. Most of the Iron Host is held at the Front, most of the Iron Fleet by Soleda’s and the Free Cities’ navies, and the ironclads have never come south of the strait, where the Chalk Coast has no harbor, the Crown Route runs against the Crown Current to Alliance Castia, and the Second Fleet waits.",
+     "So the Imperium does not invade the islands. It infiltrates them, for now, because the islands’ Krysta is the fulcrum of the Thousand-Year War: cut it from the Alliance, or take it, and the stalemate breaks. Every season the islands’ registered Krysta goes north through the Gate to the Alliance’s war-mages, and every season the Imperium’s agents try to stop it."
     ]
    },
    {
     "title": "What the islands see",
-    "paragraphs": [
-     "The Imperium does not press Kalvatar with open fleets. Its ironclads have never come south of the strait, where the Chalk Coast has no harbor, the Crown Route runs against the Crown Current to Alliance Castia, and the Second Fleet waits. It presses with coin and cult instead, because the islands’ Krysta is the fulcrum of the Thousand-Year War."
-    ],
+    "paragraphs": [],
     "list": [
-     "Korvans at the Ironfort scale-tables: imperial gold stamped with the Sun-Throne, heavier than an Anchor, worth eleven Tides by weight, and changed by Ostrel for ten.",
+     "Korvans at the Ironfort scale-tables: imperial gold stamped with the Sun-Throne, heavier than an Anchor, worth eleven Tides by weight, changed by Ostrel for ten, and rimmed WEAKNESS IS A CHOICE. The Fogrunners of Black Harbor call the coin itself *a choice*, as in “he paid me three choices to forget his face.”",
      "The Rankar Corporation’s mining claims, the deep seams of the Darlath mines under Everfall among them, and its money everywhere.",
-     "Janus Rune’s *Tormentor* on the horizon.",
+     "Janus Rune’s *Tormentor* on the horizon, and imperial gold under half the Undertow, paying for dark glass that goes north.",
      "Returned Crown pamphlets in Ironfort, calling on the islands to invite the Imperium back on honorable terms, which nobody admits to printing.",
      "Dragonborn deserters with stitch-marks where an insignia used to be.",
-     "Five dark ships of the Southern Survey in the Strangers’ Roads off Ironfort, there since 171 EC under the Council’s safe-conduct."
+     "Five dark ships of the Southern Survey in the Strangers’ Roads off Ironfort, there since 171 EC under the Council’s safe-conduct, sketching coastlines and asking polite questions."
     ]
    },
    {
     "title": "In the islands",
     "paragraphs": [
-     "The families who came south in the Exodus still remember the names of their first towns on Assios, and some of them still hold the deeds. Few islanders have been north, and fewer have been north and come back. A few hundred refugees a year come south through the Gate, and more through Black Harbor.",
-     "The noble houses send soldiers to the Alliance’s war every year, and the Moot of Banners votes how many. What Kalvatar sends that matters is its Krysta and its storm-mages, and every season the Imperium’s agents try to stop the Krysta going north."
+     "Every family in the islands came from Assios, and almost none of them have been back. They still remember the names of their first towns, and some of them still hold the deeds. A few hundred refugees a year come south through the Gate, and more through Black Harbor, and they bring the Imperium with them in the way they flinch.",
+     "The noble houses send soldiers to the Alliance’s war every year, and the Moot of Banners votes how many. What Kalvatar sends that matters is its Krysta and its storm-mages, and the Imperium knows exactly who sends them."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
      "“An imperial deserter came ashore at Black Harbor with the Catechism still sewn into his coat. He wants to sell it, and three different people want to buy it.” (a Black Harbor boatman)",
-     "“The Imperium has offered to honor a Frontier lord’s deed to land outside Sonte, signed before the Exodus. On terms.” (heard in Ironfort)"
+     "“The Imperium has offered to honor a Frontier lord’s deed to land outside Sonte, signed before the Exodus. On terms.” (heard in Ironfort)",
+     "“A collar-smith in Goldwind was asked to make a collar small enough for a child, with no owner’s mark. The customer paid in korvans.” (a Goldwind smith)"
     ]
    },
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFnZW50cyBpbiB0aGUgQ291bmNpbC4qKiBUaGUgQ291bmNpbCBiZWxpZXZlcyB0aGUgSW1wZXJpdW0gaGFzIHRocmVlIGFnZW50cyBpbiBpdHMgb2ZmaWNlcy4gSXQgaGFzIGEgZG96ZW4sIGFuZCBvbmUgb2YgdGhlbSBzaXRzIG9uIGEgQ291bmNpbCBjb21taXR0ZWUuIl19"
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFnZW50cyBpbiB0aGUgQ291bmNpbC4qKiBUaGUgQ291bmNpbCBiZWxpZXZlcyB0aGUgSW1wZXJpdW0gaGFzIHRocmVlIGFnZW50cyBpbiBpdHMgb2ZmaWNlcy4gSXQgaGFzIGEgZG96ZW4sIGFuZCBvbmUgb2YgdGhlbSBzaXRzIG9uIGEgQ291bmNpbCBjb21taXR0ZWUuIiwgIioqVGhlIG1ldGhvZC4qKiBGb3Igc29tZSB0aGlydHktZml2ZSB5ZWFycyB0aGUgSW1wZXJpdW0ncyBhZ2VudHMgaGF2ZSB3b3JrZWQgdGhlIGlzbGFuZHMgdG8gb25lIHBsYW46IGZ1bmQgdGhlIHBpcmF0ZXMgYW5kIHRoZSBDcmltc29uIExlZ2lvbiwgYXJtIHRoZSByZWJlbHMsIGJ1eSB0aGUgbm9ibGVzLCBhbmQgcHJvdm9rZSB0aGUgY29uZmxpY3RzIHRoZSBJbXBlcml1bSBtZWFucyB0byByZXNvbHZlIGJ5IGFycml2aW5nIGFzIG9yZGVyIGFtaWQgdGhlIGNoYW9zIGl0IG1hZGUuIFRoZWlyIHNvdXRoZXJuIGNvb3JkaW5hdG9yIGlzIEphbnVzIFJ1bmUsIGFuZCB0aGVpciBtaW5pbmcgY2F0J3MtcGF3IGlzIHRoZSBSYW5rYXIgQ29ycG9yYXRpb24uIiwgIioqVGhlIFN1cnZleS4qKiBUaGUgZml2ZSBzaGlwcyBpbiB0aGUgU3RyYW5nZXJzJyBSb2FkcyBhcmUgbm90IHdoYXQgdGhleSBzZWVtOyB0aGVpciBvd24gcGFnZSBob2xkcyB0aGUgcmVzdC4iXX0="
    }
   ],
   "related": [
@@ -60258,6 +60320,7 @@
    "the-southern-survey",
    "returned-crown-and-the-tollmen",
    "dragonborn",
+   "sevrin-the-chainbreaker",
    "house-alastor",
    "house-faust",
    "ironfort",

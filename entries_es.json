@@ -320,7 +320,7 @@
    {
     "title": "La vida en el borde",
     "paragraphs": [
-     "[[Bastión de Escarcha|Frosthold]] es un pueblo ballenero honrado. [[Puerto Varan|Varan Port]], al que llaman [[Buentiempo|Fairweather]], es el mayor mercado negro de las islas. Kaldmark es la sede de su casa; [[Refugio de Cristal|Crystalhaven]] se alza entre el hielo azul, y Snowvah es el último asentamiento con nombre."
+     "[[Bastión de Escarcha|Frosthold]] es un pueblo ballenero honrado. [[Puerto Varan|Varan Port]], al que llaman [[Buentiempo|Fairweather]], es el mayor mercado negro de las islas. [[Kaldmarca|Kaldmark]] es la sede de su casa; [[Refugio de Cristal|Crystalhaven]] se alza entre el hielo azul, y Snowvah es el último asentamiento con nombre."
     ]
    },
    {
@@ -334,14 +334,14 @@
     "paragraphs": [
      "La [[Extensión Helada|Icy Expanse]] es el continente helado del extremo sur del mar cartografiado, y el último lugar donde se siente el mandato del Consejo antes de que se congele. La gente que vive aquí es poca y dura como cuero viejo: balleneros, pescadores de hielo, cazadores, contrabandistas y los elfos de la escarcha, que comparten con ellos la oscuridad. Es gente supersticiosa, y con razón. Vive junto al hambre de Vukharr, y un pueblo que vive tan cerca de un hambre aprende a tomarse en serio los presagios. Con ese frío, el destierro es una condena a muerte más lenta.",
      "La [[Extensión|Expanse]] produce las cosas sin las que el resto del archipiélago no puede vivir. El aceite de ballena arde en cada lámpara de [[Ventoro|Goldwind]]. El ámbar gris fija cada perfume del [[Corazón|Heartland]]. Las pieles forran las capuchas de la [[Frontera|Frontier]], y el ardehielo, destilado por congelación y ahumado, es el licor favorito del sur al empezar la Larga Noche. A cambio, la Extensión importa madera y grano, que el hielo no puede dar, y hierro, que el hielo no puede hacer. Es una tierra pobre que le vende sus huesos al resto del mundo, y ha aprendido a venderlos caro.",
-     "La Extensión es también el país del [[Consorcio de Buentiempo|Fairweather Combine]]. La Casa Kaldmark pelea contra el [[Consorcio|Combine]] en la frontera y no puede ganar, y los barcos del Consorcio entran y salen en las narices del propio Consejo con la bendición del corrupto [[Logia|Lodge]] de Varan. El [[Voto Helado|Frozen Vow]], la Octava Flota de la Armada, está estirado al límite a lo largo de la costa, medio comprado y sin romperse. El Voto no se deshiela."
+     "La Extensión es también el país del [[Consorcio de Buentiempo|Fairweather Combine]]. La Casa Kaldmarca pelea contra el [[Consorcio|Combine]] en la frontera y no puede ganar, y los barcos del Consorcio entran y salen en las narices del propio Consejo con la bendición del corrupto [[Logia|Lodge]] de Varan. El [[Voto Helado|Frozen Vow]], la Octava Flota de la Armada, está estirado al límite a lo largo de la costa, medio comprado y sin romperse. El Voto no se deshiela."
     ]
    },
    {
     "title": "Geografía",
     "paragraphs": [
      "La Extensión es un país de hielo y mar. Su costa norte está rodeada de fiordos, ríos glaciares y bahías balleneras, y su interior es una meseta de hielo cortada por cañones que el viento talla en formas extrañas. El hielo marino cierra las bahías del otoño a la primavera, y debajo se abren los [[Caminos de Escarcha|Rime Ways]], una red de canales que usan tanto los enanos como los contrabandistas. El sol se pone durante semanas en la Larga Noche, y la aurora ilumina el cielo en franjas verdes y blancas durante casi toda la oscuridad.",
-     "En la costa están los pueblos. Bastión de Escarcha se alza en una península rocosa sobre la bahía de las flotas balleneras, con sus grandes murallas de fortaleza y sus casas de aceite. Kaldmark es un bastión fortificado en las colinas más allá de Bastión de Escarcha, que vigila la frontera con el Consorcio. Puerto Varan está en un puerto abrigado de la costa este, detrás de una línea de naufragios que los rescatadores del Consorcio nunca terminaron de despejar. Refugio de Cristal es un pueblo de saqueadores de naufragios en la costa de hielo azul, donde las [[Luces Falsas|False Lights]] cuelgan sus faroles. El interior está vacío, salvo por las bandas de guerra de los elfos de la escarcha, los cañones de la [[Bóveda Auroral|Auroral Vault]] y los [[Jardines de las Ballenas Caídas|Whalefall Gardens]], una bahía poco profunda donde las caídas de los leviatanes siembran jardines de vida pálida. Snowvah, en el borde norte del hielo habitado, es el último pueblo antes de las aguas en cuarentena."
+     "En la costa están los pueblos. Bastión de Escarcha se alza en una península rocosa sobre la bahía de las flotas balleneras, con sus grandes murallas de fortaleza y sus casas de aceite. Kaldmarca es un bastión fortificado en las colinas más allá de Bastión de Escarcha, que vigila la frontera con el Consorcio. Puerto Varan está en un puerto abrigado de la costa este, detrás de una línea de naufragios que los rescatadores del Consorcio nunca terminaron de despejar. Refugio de Cristal es un pueblo de saqueadores de naufragios en la costa de hielo azul, donde las [[Luces Falsas|False Lights]] cuelgan sus faroles. El interior está vacío, salvo por las bandas de guerra de los elfos de la escarcha, los cañones de la [[Bóveda Auroral|Auroral Vault]] y los [[Jardines de las Ballenas Caídas|Whalefall Gardens]], una bahía poco profunda donde las caídas de los leviatanes siembran jardines de vida pálida. Snowvah, en el borde norte del hielo habitado, es el último pueblo antes de las aguas en cuarentena."
     ]
    },
    {
@@ -3992,8 +3992,7 @@
    {
     "title": "Los cinco asientos",
     "paragraphs": [
-     "Cinco poderes se sientan en el Consejo, y cada uno elige su propio asiento.",
-     "El púrpura de arrecife, el tinte más raro de las islas, por costumbre solo lo visten los asientos del Consejo y el alto clero de la [[Concordia|Concord]]. Cualquier otro que lo lleve está haciendo una afirmación."
+     "Cinco poderes se sientan en el Consejo, y cada uno elige su propio asiento."
     ],
     "list": [
      "**La Nobleza:** Halsof Varselis, joven, ambicioso y calculador, y muchas veces más frío de lo que es. La nobleza elige su asiento en la [[Asamblea de las Banderas|Moot of Banners]] cada cinco años; salvo dos huecos cortos, un Varselis lo ha tenido desde el [[Desembarco|Landing]], y quien lo ocupa preside la Asamblea.",
@@ -4007,7 +4006,7 @@
     "title": "Los salones blancos",
     "paragraphs": [
      "El Consejo sesiona en los salones blancos del anillo del Consejo de Ventoro, por encima del barrio de la banca y de las agujas anilladas de cobre de la Universidad, y por debajo de las alturas del castillo de la Casa Vol Kaern, cuya sombra cae sobre un Consejo que no gobierna. Los salones se levantaron hacia 55 EC, de piedra de [[Cortablanca|Whitecut]], en un terreno que todavía es de Vol Kaern. Las oficinas del [[Alcalde Mayor|Lord Mayor]] comparten el anillo.",
-     "La sala es donde terminan las discusiones de las islas. El mejor orador que hay en ella, según todo el mundo, es [[Señor|Lord]] Ignatius [[Corascua|Emberheart]], que no tiene asiento ahí."
+     "La sala es donde terminan las discusiones de las islas. El mejor orador que hay en ella, según todo el mundo, es [[Señor|Lord]] Ignatius [[Corascua|Emberheart]], que no tiene asiento ahí. El púrpura de arrecife, el tinte más raro de las islas, por costumbre solo lo visten los asientos del Consejo y el alto clero de la [[Concordia|Concord]], y cualquier otro que entre a la sala vestido de él está haciendo una afirmación."
     ]
    },
    {
@@ -4981,7 +4980,7 @@
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Un tritón del hogar de Kaldmark durmió sobre la misma brasa todo un invierno, y el bastión que lo guardaba no perdió a nadie por el frío.” (se oye en la Extensión Helada)"
+     "“Un tritón del hogar de Kaldmarca durmió sobre la misma brasa todo un invierno, y el bastión que lo guardaba no perdió a nadie por el frío.” (se oye en la Extensión Helada)"
     ]
    }
   ]
@@ -10960,7 +10959,7 @@
  "bastion": {
   "gloss": "Bastion",
   "subtitle": "La puerta del norte",
-  "summary": "Bastión es la sede de la Casa Faust y la fortaleza-puerta del norte: una ciudad gris de patios de instrucción y herrerías sobre una colina por encima del camino de Fuerte de Hierro, con los fuertes de la Puerta y las Fortalezas de Bastión tendidos a lo largo del camino de mar, a sus pies.",
+  "summary": "Bastión es la sede de la Casa Faust y la fortaleza-puerta del norte: una ciudad-isla gris de patios de instrucción y herrerías en la boca del camino de mar del este, la primera de las Fortalezas de Bastión, donde termina el largo camino de Fuerte de Hierro.",
   "facts": [
    [
     "Región",
@@ -10990,10 +10989,10 @@
   },
   "sections": [
    {
-    "title": "La colina sobre el camino",
+    "title": "La isla en la puerta",
     "paragraphs": [
-     "[[Bastión|Bastion]] es una ciudad-fortaleza sobre una colina por encima del largo camino gris que viene de [[Fuerte de Hierro|Ironfort]], construida con la piedra oscura de sus propias minas de la colina: toda piedra gris y patios de instrucción. El fundador de la Casa Faust la levantó ahí, y el primero de los [[fuertes de la Puerta|Gate forts]] en la [[Roca del Puño|Fistrock]], y el [[Consejo|Council]] le concedió a la casa su Dominio a cambio. Cada mañana los patios de instrucción se llenan del choque del acero de práctica.",
-     "La ciudad mira desde arriba el camino de mar. Los fuertes de la Puerta se alzan a lo largo de él, el primero en la Roca del Puño, cuya hoguera de señales se ve desde Bastión en lo que se tarda en decir tres veces el lema de la casa: *Resistimos.* Más allá están las [[Fortalezas de Bastión|Bastion Holds]], una cadena de islas fortificadas unidas por calzadas y puentes que los ingenieros Faust construyeron y reconstruyeron durante cuatro generaciones, y las baterías de [[Fuerte Estela|Wakefort]] y del [[Islote Frío|Coldholm]], fundidas por Forjasol, cubren el estrecho."
+     "[[Bastión|Bastion]] es una ciudad-fortaleza sobre una isla fortificada en la boca del camino de mar del este: una colina de piedra oscura que sale del agua, construida con la piedra de sus propias minas de la colina, toda murallas grises y patios de instrucción. El largo camino gris de [[Fuerte de Hierro|Ironfort]] termina en la calzada que la une a la costa. El fundador de la Casa Faust la levantó ahí, y el primero de los [[fuertes de la Puerta|Gate forts]] en la [[Roca del Puño|Fistrock]], y el [[Consejo|Council]] le concedió a la casa su Dominio a cambio. Cada mañana los patios de instrucción se llenan del choque del acero de práctica.",
+     "La ciudad vigila el camino de mar desde sus murallas. Los fuertes de la Puerta se alzan a lo largo de la costa, el primero en la Roca del Puño, cuya hoguera de señales se ve desde Bastión en lo que se tarda en decir tres veces el lema de la casa: *Resistimos.* Bastión es la primera y la más grande de las [[Fortalezas de Bastión|Bastion Holds]], y más allá la cadena sigue, islas fortificadas unidas por calzadas y puentes que los ingenieros Faust construyeron y reconstruyeron durante cuatro generaciones, mientras las baterías de [[Fuerte Estela|Wakefort]] y del [[Islote Frío|Coldholm]], fundidas por Forjasol, cubren el estrecho."
     ]
    },
    {
@@ -11006,7 +11005,7 @@
    {
     "title": "Llegar",
     "paragraphs": [
-     "Casi todo el mundo llega a Bastión por el camino de Fuerte de Hierro, detrás de los carreteros Tannick, que acarrean todo lo que va por él. Los barcos entran por el camino de mar bajo los cañones de los fuertes de la Puerta y amarran en el Malecón. Desde Bastión, como desde Fuerte de Hierro, la [[Ruta de la Corona|Crown Route]] sube al norte hasta Castia: quince días contra la [[Corriente de la Corona|Crown Current]], y una semana de vuelta con ella a favor.",
+     "Casi todo el mundo llega a Bastión por el camino de Fuerte de Hierro, detrás de los carreteros Tannick, que acarrean todo lo que va por él, y cruza la calzada bajo las torres de la puerta. Los barcos entran por el camino de mar bajo los cañones de los fuertes de la Puerta y amarran en el Malecón. Desde Bastión, como desde Fuerte de Hierro, la [[Ruta de la Corona|Crown Route]] sube al norte hasta Castia: quince días contra la [[Corriente de la Corona|Crown Current]], y una semana de vuelta con ella a favor.",
      "La hospitalidad es ley en la Frontera, y en Bastión la puerta se sostiene. En las colinas cerca del pueblo, las termas en terrazas del [[Descanso de los Soldados|Soldiers’ Rest]] son tierra de tregua por costumbre de hierro: ahí no se desenvaina acero, y hasta las enemistades se detienen en el agua."
     ]
    },
@@ -11254,7 +11253,7 @@
    ],
    [
     "En manos de",
-    "Las casas de aceite de la Casa Brennvar, bajo la marca de la Casa Kaldmark"
+    "Las casas de aceite de la Casa Brennvar, bajo la marca de la Casa [[Kaldmarca|Kaldmark]]"
    ],
    [
     "La Hermandad",
@@ -11282,7 +11281,7 @@
    {
     "title": "La caza",
     "paragraphs": [
-     "A las ballenas las encuentran los [[lobos balleneros|whale-wolves]], una manada de orcas salvajes que caza junto a los balleneros de Bastión de Escarcha desde hace generaciones. Cuando golpean el agua frente al puerto es que traen una ballena, y todo el pueblo corre a los botes. Los lobos se quedan con la lengua de cada presa, y ningún barco Kaldmark ha lastimado nunca a uno. Ningún ballenero zarpa sin un [[petrel de recalada|landfall petrel]] a bordo, el pájaro que sabe dónde está la tierra.",
+     "A las ballenas las encuentran los [[lobos balleneros|whale-wolves]], una manada de orcas salvajes que caza junto a los balleneros de Bastión de Escarcha desde hace generaciones. Cuando golpean el agua frente al puerto es que traen una ballena, y todo el pueblo corre a los botes. Los lobos se quedan con la lengua de cada presa, y ningún barco Kaldmarca ha lastimado nunca a uno. Ningún ballenero zarpa sin un [[petrel de recalada|landfall petrel]] a bordo, el pájaro que sabe dónde está la tierra.",
      "Los balleneros de la [[Hermandad de la Salmuera|Brine Brotherhood]] navegan por partes, no por sueldo, y a un arponero se le paga por la tabla de la [[Hermandad|Brotherhood]]. Lo que traen a casa va a las cuadrillas de los hornos, un gremio en todo menos en el nombre, que funden el aceite y se declaran en huelga si falta leña para los fuegos. Alrededor trabajan los cortadores de hielo, que cortan los bloques que se empacan en aserrín y se venden en [[Puerto Sur|Southhaven]] a una Marea cada uno, por 2 [[Olas|Bits]] el bloque; los foqueros y los tallistas de marfil y barba de ballena; y los compradores de ámbar gris de la Casa Ambrey, que pasan el invierno en el hielo para comprarles a los balleneros antes de que el aceite esté siquiera fundido."
     ]
    },
@@ -11296,7 +11295,7 @@
    {
     "title": "Quién gobierna",
     "paragraphs": [
-     "Bastión de Escarcha es la capital de la marca ballenera de la Casa Kaldmark. La fortaleza de piedra negra del [[Señor de la Marca|Marchlord]], con su puerta de hueso de ballena, se alza en las colinas sobre el pueblo y vigila la frontera con el [[Consorcio|Combine]]. Kaldmark se lleva la leva del pueblo y manda a sus hijos menores a aprender el hielo en las cubiertas de Brennvar, y los pueblos más pequeños de la bahía, [[Aguahueso|Bonewater]], [[Bahía del Caldero|Kettlebay]] y el fuerte de [[Atalaya de Escarcha|Rimewatch]], también le responden.",
+     "Bastión de Escarcha es la capital de la marca ballenera de la Casa Kaldmarca. La fortaleza de piedra negra del [[Señor de la Marca|Marchlord]], con su puerta de hueso de ballena, se alza en las colinas sobre el pueblo y vigila la frontera con el [[Consorcio|Combine]]. Kaldmarca se lleva la leva del pueblo y manda a sus hijos menores a aprender el hielo en las cubiertas de Brennvar, y los pueblos más pequeños de la bahía, [[Aguahueso|Bonewater]], [[Bahía del Caldero|Kettlebay]] y el fuerte de [[Atalaya de Escarcha|Rimewatch]], también le responden.",
      "La bahía en sí es de la Casa Brennvar, la [[Casa de la Lámpara|Lamplight House]], que tiene las casas de aceite desde su sede en los Hornos de Aceite. Su cabeza, Astri Brennvar, [[Señora de la Lámpara|Lamp-Mistress]] de Bastión de Escarcha, gobierna la bahía con una justicia que la Hermandad respeta y que al Consorcio le molesta. Su marido Halvar es el maestro ballenero de la flota, y el capitán Jorundal, que no es pariente de sangre pero al que llaman primo, es el mejor piloto de hielo bajo la cola de Brennvar.",
      "En la costa, los consejos balleneros de la Hermandad de la Salmuera mantienen la paz. Los Tesoreros tienen una [[casa de cuentas|counting-house]] en el pueblo, donde el préstamo a la gruesa cuesta una parte de cada cinco y [[Madre Kess|Mother Kess]] tiene más deudas que la Casa: después de dos temporadas flacas compró las de Brennvar, y Astri ha ido a cenar con ella."
     ]
@@ -11445,7 +11444,7 @@
     "paragraphs": [
      "Los Dientes de la Viuda están justo frente a la boca del puerto, una hilera de colmillos de roca en los que las familias pescadoras perdían botes cada invierno hasta hacia 10 EC, cuando los Tejetormentas encendieron la primera luz del norte en el último de ellos. Su linterna guarda una tormenta cautiva, un relámpago pálido dentro de un vidrio que nunca se ha abierto, y se ve a través de la Bruma cuando ninguna llama podría.",
      "Cuando la [[Peste del Mar Ardiente|Plague of the Burning Sea]] llegó al norte, hacia 90 EC, tres magos de la casa mantuvieron las luces encendidas durante un invierno en que la mitad de Puerto Gris estaba enferma, y no durmieron en una semana. En 92 EC el [[Consejo|Council]] le dio a la casa la [[Cédula de las Luces|Light-Warrant]] por eso: la cabeza de la Casa Tejetormentas es [[Guardián de las Luces|Warden of the Lights]], y cada luz cartografiada de las islas le responde a Puerto Gris. El derecho de luz paga el aceite y a los fareros, no al pueblo, y la [[Casa de los Tesoreros|Reckoners’ Hall]] revisa cada año que nada se quede.",
-     "Costa arriba, la Casa Vanris encendió su propia linterna en la [[Fortaleza Guardatormentas|Stormguard Hold]] hacia 40 EC como respuesta, y las dos casas discuten desde entonces sobre en qué luces debe confiar el norte."
+     "Costa arriba, la Casa Vanris encendió su propia linterna en la [[Fortaleza Guardatormentas|Stormguard Hold]] hacia 12 EC, dos años después, como respuesta, y las dos casas discuten desde entonces sobre en qué luces debe confiar el norte."
     ]
    },
    {
@@ -11515,7 +11514,7 @@
   ],
   "title": "Cayo Hueco",
   "epigraph": {
-   "quote": "El vidrio es bienvenido. La moneda sirve. El papel lo guardamos para prender las lámparas.",
+   "quote": "El oro es oro. El papel lo guardamos para prender las lámparas.",
    "by": "Un mercader del mercado flotante de Cayo Hueco"
   },
   "sections": [
@@ -11534,7 +11533,7 @@
      "**Armas.** La pólvora, la munición y las armas se venden abiertamente, al doble del precio de [[Ventoro|Goldwind]], y [[Arcturus Corazón de Hierro|Arcturus Ironheart]], que hace las mejores armas del mar, vende aquí las suyas a cualquiera.",
      "**Carga.** Lo que se haya perdido en el mar el mes pasado. Un barco que se hundió frente a [[Puerto Sur|Southhaven]] en calma chicha, con seguro completo, tuvo su carga vendida en Cayo Hueco la semana anterior.",
      "**Reliquias,** vendidas cuando debieron quedarse ahogadas.",
-     "**Pago.** El vidrio oscuro es bienvenido, la moneda se acepta y del papel se ríen."
+     "**Pago.** Cualquier metal sirve, porque al final del día el oro es oro: moneda del Consejo, korvanes, soles o plata cortada a peso, y [[vidrio oscuro|dark glass]] además. A los pagarés y a los papeles de banco los echan de la cubierta a carcajadas."
     ]
    },
    {
@@ -11568,7 +11567,7 @@
  },
  "kaldmark": {
   "subtitle": "El torreón negro del hielo",
-  "summary": "Kaldmark es el bastión de la Casa Kaldmark, la única casa noble de verdad de la Extensión: un torreón de piedra negra con una puerta de hueso de ballena en las colinas sobre Bastión de Escarcha, desde donde la casa sostiene una marca de pueblos balleneros contra el hielo y contra Buentiempo.",
+  "summary": "Kaldmarca es el bastión de la Casa Kaldmarca, la única casa noble de verdad de la Extensión: un torreón de piedra negra con una puerta de hueso de ballena en las colinas sobre Bastión de Escarcha, desde donde la casa sostiene una marca de pueblos balleneros contra el hielo y contra Buentiempo.",
   "facts": [
    [
     "Región",
@@ -11576,7 +11575,7 @@
    ],
    [
     "En manos de",
-    "La Casa Kaldmark, bajo [[Señor|Lord]] Sten Kaldmark"
+    "La Casa [[Kaldmarca|Kaldmark]], bajo [[Señor|Lord]] Sten Kaldmarca"
    ],
    [
     "Fundación",
@@ -11591,16 +11590,17 @@
     "Perduramos"
    ]
   ],
-  "title": "Kaldmark",
+  "title": "Kaldmarca",
+  "gloss": "Kaldmark",
   "epigraph": {
    "quote": "Bebe en la puerta. A nadie le importa si no lo haces. Todos lo notan.",
-   "by": "Un huscarle de Kaldmark"
+   "by": "Un huscarle de Kaldmarca"
   },
   "sections": [
    {
     "title": "El bastión",
     "paragraphs": [
-     "Kaldmark es una fortaleza en las colinas sobre [[Bastión de Escarcha|Frosthold]] y su bahía ballenera: un torreón de piedra negra con muros de tres pasos de ancho, salones calentados con aceite de ballena y estandartes de la calavera de oso blanca sobre negro, con borde azul hielo. El primer Señor Kaldmark, Arnulf, lo construyó hacia 35 EC, después de cruzar las [[Tierras Salvajes|Wilds]] con tres barcos y doscientas personas, y solo la mitad vio la primera primavera.",
+     "Kaldmarca es una fortaleza en las colinas sobre [[Bastión de Escarcha|Frosthold]] y su bahía ballenera: un torreón de piedra negra con muros de tres pasos de ancho, salones calentados con aceite de ballena y estandartes de la calavera de oso blanca sobre negro, con borde azul hielo. El primer Señor Kaldmarca, Arnulf, lo construyó hacia 35 EC, después de cruzar las [[Tierras Salvajes|Wilds]] con tres barcos y doscientas personas, y solo la mitad vio la primera primavera.",
      "Su puerta está hecha con la quijada de una ballena que Arnulf mató en el primer invierno, y es la única puerta de las islas más vieja que su muralla. Adentro están el [[salón de la lista|roll-hall]], donde los nombres de todos los que han muerto sosteniendo la marca están tallados en las paredes, empezando por los cien que no vieron la primera primavera, y las destilerías, donde la casa destila el [[ardehielo|Icebrand]]."
     ]
    },
@@ -11608,7 +11608,7 @@
     "title": "La marca",
     "paragraphs": [
      "El bastión sostiene una marca de pueblos balleneros: Bastión de Escarcha, la capital de la costa ballenera; los tres pueblos de la Casa [[Marcaescarcha|Frostmark]]; y los pueblos más pequeños de la bahía, [[Aguahueso|Bonewater]], [[Bahía del Caldero|Kettlebay]] y [[Atalaya de Escarcha|Rimewatch]], el fuerte del norte de la casa, donde la Casa Askeld vigila el hielo por las cosas que vienen por encima. La casa cobra una leva a todos ellos, una parte de cada presa y de cada barril de aceite, a cambio de mantenerlos vivos.",
-     "La verdadera defensa de la casa es el hielo. Ningún ejército ha marchado nunca sobre Kaldmark, porque ningún ejército podría alimentarse por el camino."
+     "La verdadera defensa de la casa es el hielo. Ningún ejército ha marchado nunca sobre Kaldmarca, porque ningún ejército podría alimentarse por el camino."
     ]
    },
    {
@@ -11620,7 +11620,7 @@
    {
     "title": "Quién gobierna",
     "paragraphs": [
-     "Señor Sten Kaldmark gobierna con la ley dura del bastión: un hombre grande, gris y callado que ha ido a [[Ventoro|Goldwind]] una vez en su vida y se fue antes de la cena. El [[Corazón|Heartland]] lo tiene por bárbaro; la [[Extensión|Expanse]] lo tiene por el único señor que alguna vez le cumplió una promesa. Su hermana Runa, a la que llaman [[Mordida de Escarcha|Frostbite]], tiene la [[Octava Flota|Eighth Fleet]] de la Armada, el [[Voto Helado|Frozen Vow]], en las mismas aguas.",
+     "Señor Sten Kaldmarca gobierna con la ley dura del bastión: un hombre grande, gris y callado que ha ido a [[Ventoro|Goldwind]] una vez en su vida y se fue antes de la cena. El [[Corazón|Heartland]] lo tiene por bárbaro; la [[Extensión|Expanse]] lo tiene por el único señor que alguna vez le cumplió una promesa. Su hermana Runa, a la que llaman [[Mordida de Escarcha|Frostbite]], tiene la [[Octava Flota|Eighth Fleet]] de la Armada, el [[Voto Helado|Frozen Vow]], en las mismas aguas.",
      "Los huscarles, unos 700 con pieles negras y azul hielo, con hachas, ballestas y arcos de cuerno, cuidan el bastión, Atalaya de Escarcha y los caminos de la marca. Con los abanderados y los balleneros, la casa puede reunir unos 2,800. Los Tesoreros calculan sus ingresos en unos 5,000 [[Orsales|Orsals]] al año, los más pequeños de los Veinte, y la casa diría que los más difíciles de ganar."
     ]
    },
@@ -11634,7 +11634,7 @@
    {
     "title": "En las islas",
     "paragraphs": [
-     "El gran problema de Kaldmark está en su propia frontera: [[Puerto Varan|Varan Port]], al que su propia gente llama [[Buentiempo|Fairweather]], y con el que la casa está trabada en una lucha fría, corrupta e imposible de ganar. La casa sostiene una enemistad de sangre con la [[Logia de Varan|Varan Lodge]] de los [[Cazadores|Hunters]] desde hacia 70 EC, cuando la [[Logia|Lodge]] aceptó la moneda de Buentiempo y dejó morir en el hielo a un heredero Kaldmark, y ningún Kaldmark se sienta en un cuarto con un Cazador de esa logia.",
+     "El gran problema de Kaldmarca está en su propia frontera: [[Puerto Varan|Varan Port]], al que su propia gente llama [[Buentiempo|Fairweather]], y con el que la casa está trabada en una lucha fría, corrupta e imposible de ganar. La casa sostiene una enemistad de sangre con la [[Logia de Varan|Varan Lodge]] de los [[Cazadores|Hunters]] desde hacia 70 EC, cuando la [[Logia|Lodge]] aceptó la moneda de Buentiempo y dejó morir en el hielo a un heredero Kaldmarca, y ningún Kaldmarca se sienta en un cuarto con un Cazador de esa logia.",
      "Ahora [[Madre Kess|Mother Kess]] compró las deudas de Brennvar, y ha ido a cenar con la [[Señora de la Lámpara|Lamp-Mistress]]. El bastión lo ha notado."
     ]
    },
@@ -11728,7 +11728,7 @@
  "krakens-maw": {
   "gloss": "The Kraken's Maw",
   "subtitle": "Dos arrecifes y un cementerio de flotas",
-  "summary": "Un paso entre dos arrecifes en el mar del sur, donde se peleó la gran batalla del 165 EC: diez años después, un cementerio de dos flotas y el rescate más rico de las islas.",
+  "summary": "Un paso entre dos arrecifes en el mar del sur, donde se peleó la gran batalla del 165 EC: un cementerio de dos flotas, el rescate más rico de las islas y un lugar del que, según los recuperadores, la batalla nunca terminó de irse.",
   "facts": [
    [
     "Región",
@@ -11749,6 +11749,10 @@
    [
     "Reclamos",
     "Se registran en la [[Casa de los Tesoreros|Reckoners’ Hall]], por un décimo"
+   ],
+   [
+    "Después del atardecer",
+    "Nadie se queda dentro de los arrecifes"
    ]
   ],
   "title": "Las Fauces del Kraken",
@@ -11762,36 +11766,57 @@
     "paragraphs": [
      "Las [[Fauces del Kraken|Kraken’s Maw]] son un paso estrecho entre dos arrecifes en aguas traicioneras del sur. En el 165 EC más de ciento sesenta barcos pelearon ahí durante dieciséis horas, y muchísimos nunca salieron.",
      "El almirante [[Corazón Negro|Blackheart]] metió más de ciento doce barcos en el paso contra la Coalición de la Armada, los [[Cazadores|Hunters]] y las tripulaciones voluntarias. La almirante Thulissa del [[Tridente|Trident]] atravesó su línea hasta el *[[Soberano del Pavor|Dread Sovereign]]* y lo mató en su propia cubierta, la [[Marea Carmesí|Crimson Tide]] abrió y hundió la colosal *[[Mirada del Abismo|Gaze of Abyss]]*, y la armada se rompió. El día tiene su propia página; las Fauces son lo que ese día dejó.",
-     "Los restos de la Armada y de la flota de Corazón Negro están juntos en el fondo. Los buzos dicen que todavía zumban al atardecer."
+     "Los restos de la Armada y de la flota de Corazón Negro están juntos en el fondo, y diez años después las Fauces no se han asentado. El agua dentro del paso está quieta y oscura aunque afuera el mar esté picado, y las gaviotas que siguen a cada bote del sur se dan la vuelta en los arrecifes. En los naufragios no crece nada: ni alga, ni coral, ni un solo percebe, como si el mismo mar no quisiera tocarlos."
+    ]
+   },
+   {
+    "title": "Lo que hacen las Fauces",
+    "paragraphs": [],
+    "list": [
+     "**El zumbido.** Al atardecer los naufragios zumban, bajo y parejo, como la tripulación de un barco cantando bajo cubierta. Los buzos lo sienten en los dientes antes de oírlo.",
+     "**Las campanas.** En las noches quietas suenan campanas de barco bajo el agua, las campanas de guardia de barcos que ya no hacen guardia, y siempre dan la hora decimosexta.",
+     "**La niebla.** Casi todas las tardes sube una niebla de un cielo despejado y se tiende a lo largo del paso en un solo banco largo y recto, del largo y la forma de una línea de batalla.",
+     "**La aguja.** Dentro de los arrecifes las brújulas se van hacia el lugar donde se hundió el *Soberano del Pavor*, y se quedan ahí, y no se quedan en ningún otro lado hasta que el bote sale más allá de los arrecifes.",
+     "**Los cabos.** Los cabos que se dejan en el agua de noche suben anudados, con nudos que nadie a bordo hace: vueltas de la Armada, y nudos piratas que dejaron de usarse cuando murió Corazón Negro.",
+     "**Las voces.** A la tripulación que se queda demasiado tarde la llaman por sus nombres desde el agua, con las voces de gente que murió ahí. Algunos contestan. Esos son los botes que no se encuentran."
     ]
    },
    {
     "title": "Los recuperadores",
     "paragraphs": [
-     "Diez años después, las Fauces las trabajan tripulaciones de rescate, que suben cañones, herrajes y de vez en cuando un cofre. Trabajan de día y están en sus botes antes del atardecer.",
+     "Diez años después, las Fauces las trabajan tripulaciones de rescate, que suben cañones, herrajes y de vez en cuando un cofre. Trabajan de día, están en sus botes antes del atardecer y salen de los arrecifes antes de que empiece el zumbido.",
      "Cuando terminó la batalla, la Casa de los Tesoreros registró cada reclamo sobre la armada hundida de Corazón Negro, y todavía se lleva su décimo de cada pieza que sube: quien la encuentra se queda con un tercio, el dueño o el asegurador con el resto, menos el décimo de la Casa. Las tripulaciones con licencia bucean con las cartas de la [[Oficina de Naufragios|Wreck Office]]. Las otras bucean cuando la Casa no está mirando, y venden por [[Buentiempo|Fairweather]], donde los pedazos de la *Mirada del Abismo* se venden por pieza y nadie pregunta de qué naufragio salieron.",
-     "Por costumbre no se saca nada de un naufragio que todavía tenga muertos a bordo, y los nombres de las dos flotas se dicen sobre el agua la noche de la batalla."
+     "Las costumbres de las Fauces son más viejas que sus reclamos. No se saca nada de un naufragio que todavía tenga muertos a bordo. Antes del primer buceo del día se echa por la borda un trago de kellum, para la guardia de abajo. Nadie silba en el agua, nadie dice el nombre de Corazón Negro dentro de los arrecifes, y el recuperador que sube una pieza con un nombre rayado la lleva a la cena y dice ese nombre sobre ella, o la devuelve."
+    ]
+   },
+   {
+    "title": "La noche de las Fauces",
+    "paragraphs": [
+     "La noche de la batalla se dicen sobre el agua los nombres de las dos flotas, los muertos de la Coalición y los de Corazón Negro, por cada tripulación que quiera venir. Es la única noche del año en que los recuperadores se quedan después del atardecer, y se tienden frente a los arrecifes en una línea con las lámparas encendidas, como se tendió la Coalición hace diez años.",
+     "Casi todos los años, dicen las tripulaciones viejas, algo contesta. Unas luces se mueven bajo el agua en dos líneas que se cierran y se rompen. Se oyen cañones, lejos, durante una hora o durante toda la noche. Y cada año alguien deja un cuchillo de hoja roja en el arrecife donde cayó Corazón Negro, y nadie ha visto nunca quién."
     ]
    },
    {
     "title": "Lo que guardan las Fauces",
     "paragraphs": [
      "Algunos de los muertos tienen nombres que todo el archipiélago conoce. Thulissa volvió de la cubierta de Corazón Negro a su propio barco con heridas a las que no sobreviviría. El capitán Magnus del *[[Mazo|Sledgehammer]]* cayó ante Sombra [[Colmillosierpe|Serpentfang]], y su hijo Leoric tomó el barco en medio de la batalla, lo peleó hasta el final y juró en las Fauces vengarlo. Falken [[Vistaclara|Brightsight]], que peleó junto a Thulissa, todavía manda el *Falkoner* con el que cruzó las Fauces, como [[Señor de Flota|Fleetlord]] del [[Último Salmo|Last Psalm]].",
-     "El *Soberano del Pavor* se hundió en la desbandada, y los marineros viejos juran que lo han sacado a flote, lo cual es imposible, admiten, y siguen jurándolo."
+     "El *Soberano del Pavor* se hundió en la desbandada, y los marineros viejos juran que lo han sacado a flote, lo cual es imposible, admiten, y siguen jurándolo. Su amarradero en el fondo está vacío, y la aguja todavía lo señala."
     ]
    },
    {
     "title": "En las islas",
     "paragraphs": [
      "Las Fauces son la razón por la que la Armada y los Cazadores, que pelean por todo lo demás, todavía se ponen del mismo lado cuando importa. También son la razón por la que el sur está lleno de hombres sin adónde ir: los [[Restos de Corazón Negro|Remnants of Blackheart]] son las tripulaciones que salieron vivas, y la [[Última Sonrisa|Last Smile]], la hija de Corazón Negro, los está juntando en algo parecido a una nación.",
-     "Su rescate llega a cada mercado negro de las islas como [[mercancía mojada|wet goods]], y la [[Extensión Helada|Icy Expanse]] lo cuenta entre lo que exporta, porque se vende por Buentiempo."
+     "Su rescate llega a cada mercado negro de las islas como [[mercancía mojada|wet goods]], y la [[Extensión Helada|Icy Expanse]] lo cuenta entre lo que exporta, porque se vende por Buentiempo.",
+     "Dos veces los [[Llamamareas|Tidecallers]] del Último Salmo han entrado en las Fauces para bendecir a sus muertos y dejarlos descansar. Las dos veces salieron antes del alba y no quisieron decir qué habían oído, y el Salmo no ha vuelto."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Cada año, la noche de las Fauces, alguien deja un cuchillo de hoja roja en el arrecife donde cayó Corazón Negro.” (un recuperador de las Fauces)",
-     "“El amarradero del Soberano del Pavor en el fondo está vacío. Hace rato. Pregúntale a la Marea Libre adónde se fue.” (un mercader del mercado flotante de Cayo Hueco)"
+     "“El buzo que baja último la noche de las Fauces cuenta los naufragios. Siempre hay más que el año anterior.” (un recuperador de las Fauces)",
+     "“El amarradero del Soberano del Pavor en el fondo está vacío. Hace rato. Pregúntale a la Marea Libre adónde se fue.” (un mercader del mercado flotante de Cayo Hueco)",
+     "“Una viuda de la Coalición remó sola hasta las Fauces el año pasado y volvió diciendo que su marido le había dicho dónde dejó la llave de su baúl de mar. Ahí estaba.” (una botera de Puerto Sur)"
     ]
    }
   ]
@@ -14396,7 +14421,7 @@
       [
        "8.ª, [[Voto Helado|Frozen Vow]]",
        "La [[Extensión Helada|Icy Expanse]]; una guardia exigida al límite",
-       "Runa Kaldmark",
+       "Runa [[Kaldmarca|Kaldmark]]",
        "[[Mordida de Escarcha|Frostbite]]",
        "[[Corazón de Escarcha|Rimeheart]]"
       ],
@@ -14941,23 +14966,23 @@
    ],
    [
     "Jefe",
-    "[[Señor|Lord]] Sten Kaldmark"
+    "[[Señor|Lord]] Sten [[Kaldmarca|Kaldmark]]"
    ]
   ],
   "sections": [
    {
     "title": "Panorama",
     "paragraphs": [
-     "Casa Kaldmark, el Bastión Frío.",
+     "Casa Kaldmarca, el Bastión Frío.",
      "Rango: Señor de la Marca.",
      "Sede: un bastión fortificado cerca de Bastión de Escarcha, Extensión Helada.",
      "Emblema: un cráneo de oso blanco sobre campo negro con borde azul hielo.",
      "Lema: \"Resistimos más.\"",
-     "Jefe: Señor Sten Kaldmark."
+     "Jefe: Señor Sten Kaldmarca."
     ]
    }
   ],
-  "title": "Casa Kaldmark"
+  "title": "Casa Kaldmarca"
  },
  "house-pelagar": {
   "gloss": "House Pelagar",
@@ -15587,7 +15612,7 @@
      "Vanris: Inquebrantable como la Tormenta, en [[Confín de Tormentas|Stormreach]].",
      "Alastor: la Casa de la Rosa.",
      "Los [[Grandes Señores|Highlords]]: Caelvaron, el Trono de los Cien Años de los altos elfos; [[Corascua|Emberheart]], el Fuego de Abajo; [[Espinaplata|Silverthorn]], el Cuchillo Callado de [[Corona de Zarzas|Briarcrown]]; [[Forjasol|Sunforge]], el Martillo de Oro; [[Cunaestrella|Starborn]], los Vigías del Cielo; Holst, el Orden antes que la Piedad, guardianes de los códigos de aduana; [[Hebranegra|Blackstrand]], el Señor del Libro Mayor; Pelagar, el Comercio Hondo; Veldane, la Red de Bodas; y Solenne, la Sede Fiel.",
-     "Los [[Señores de la Marca|Marchlords]]: [[Tejetormentas|Stormweaver]], Kaldmark, [[Paramogrís|Greymoor]] (la Mano Justa del Sur) y Vossreth.",
+     "Los [[Señores de la Marca|Marchlords]]: [[Tejetormentas|Stormweaver]], [[Kaldmarca|Kaldmark]], [[Paramogrís|Greymoor]] (la Mano Justa del Sur) y Vossreth.",
      "El [[Guardián|Warden]]: Quillane, los Señores Hechos de Monedas, que le venden estandartes a cualquiera que tenga dinero.",
      "Los vasallos: bajo las Veinte pululan más de doscientas casas menores, cada una con tierras o títulos otorgados por un señor mayor.",
      "Las órdenes de caballería: los Caballeros de la Rosa Pálida (juramentados a Alastor), la Guardia de Zafiro, las Doncellas Escuderas y los Caballeros del Alba.",
@@ -21873,19 +21898,19 @@
  "runa-kaldmark": {
   "title": "Runa Kaldmark",
   "subtitle": "El Juramento no se deshiela",
-  "summary": "Mordida de Escarcha sostiene la guardia de la Armada en el extremo sur. Desde el Corazón de Escarcha, Runa Kaldmark manda un Voto Helado que apenas alcanza a cubrir la Extensión Helada.",
+  "summary": "Mordida de Escarcha sostiene la guardia de la Armada en el extremo sur. Desde el Corazón de Escarcha, Runa Kaldmarca manda un Voto Helado que apenas alcanza a cubrir la Extensión Helada.",
   "sections": [
    {
     "title": "El último juramento del confín",
     "paragraphs": [
-     "Runa Kaldmark es [[Señor de Flota|Fleetlord]] de la Octava Flota, el Voto Helado, y la conocen como Mordida de Escarcha. Su barco es el Corazón de Escarcha. La Octava vigila la [[Extensión Helada|Icy Expanse]], muy al sur del [[Corazón|Heartland]] y del centro de poder del Almirantazgo.",
+     "Runa Kaldmarca es [[Señor de Flota|Fleetlord]] de la Octava Flota, el Voto Helado, y la conocen como Mordida de Escarcha. Su barco es el Corazón de Escarcha. La Octava vigila la [[Extensión Helada|Icy Expanse]], muy al sur del [[Corazón|Heartland]] y del centro de poder del Almirantazgo.",
      "La flota apenas alcanza a cubrir su territorio y sigue entera. “El Juramento no se deshiela” es su manera de describirse: una promesa de resistencia en aguas donde el clima y la distancia ya exigen mucho a cualquier barco."
     ]
    },
    {
     "title": "Perduramos",
     "paragraphs": [
-     "Runa pertenece a la Casa Kaldmark, la [[Fortaleza Fría|Cold Hold]], cuyo lema es “Perduramos”. Casa y flota hablan un lenguaje parecido de perseverancia. Su mando le da a ese lenguaje un lugar en el mapa de la Armada.",
+     "Runa pertenece a la Casa Kaldmarca, la [[Fortaleza Fría|Cold Hold]], cuyo lema es “Perduramos”. Casa y flota hablan un lenguaje parecido de perseverancia. Su mando le da a ese lenguaje un lugar en el mapa de la Armada.",
      "[[Bastión de Escarcha|Frosthold]] y los mares balleneros comparten la región de su guardia. La historia de la Octava se lee entre esos [[fortines|holds]], barcos y largas distancias del sur, donde ver un buque naval significa que el alcance del Consejo ha llegado hasta allí."
     ]
    },
@@ -21911,7 +21936,7 @@
    ],
    [
     "Casa",
-    "Kaldmark"
+    "[[Kaldmarca|Kaldmark]]"
    ]
   ]
  },
@@ -29666,7 +29691,7 @@
     "paragraphs": [],
     "list": [
      "Los balleneros de [[Bastión de Escarcha|Frosthold]] comercian y pelean con ellos desde antes de la Carta, muchas veces en la misma temporada.",
-     "La Casa Kaldmark guarda la marca contra las bandas de guerra, y se ha casado con dos de ellas.",
+     "La Casa [[Kaldmarca|Kaldmark]] guarda la marca contra las bandas de guerra, y se ha casado con dos de ellas.",
      "[[Albion Tempestad|Albion Tempest]], el Cazador de Oro y Primer Oficial de la *[[Marea Carmesí|Crimson Tide]]*, es un Elfo de la Escarcha de la Extensión. Sirve, dice, para cambiar cómo ven las islas a su pueblo.",
      "Un guía Elfo de la Escarcha es el mejor que se puede contratar en el hielo, y te deja en el momento en que rompes la ley del huésped."
     ]
@@ -29703,7 +29728,7 @@
    {
     "title": "Rumores",
     "paragraphs": [
-     "“El Hambre Pintada atacó la marca de Kaldmark llevando el sello de una casa de aceite de Bastión de Escarcha. La Hermandad dice que es falso. Los Kaldmark dicen que no.” (un jinete de la marca)",
+     "“El Hambre Pintada atacó la marca de Kaldmarca llevando el sello de una casa de aceite de Bastión de Escarcha. La Hermandad dice que es falso. Los Kaldmarca dicen que no.” (un jinete de la marca)",
      "“Hay un cazador viejo en uno de los salones hondos que nunca se ha pintado. Ya era viejo cuando sus abuelas eran niñas. A él le dan de comer primero.” (un guía Elfo de la Escarcha, después de la tercera copa)",
      "“Dejaron de saquear cerca de la Bóveda del todo. Dicen que el Hambre está soñando con algo nuevo.” (un ballenero de Bastión de Escarcha)",
      "“Los caballeros del Verano no quieren pelear con ellos. Con cualquier otro saqueador, encantados. Pregúntale a uno por qué y te cambia el tema a su espada.” (un kalashtar de Bastión del Sol)"
@@ -31894,7 +31919,7 @@
      "Cada casa juramentada manda a su cabeza o a su heredero. Casi todos los Veinte mandan a los dos, y algunos mandan a más de un heredero, así que la Herradura siempre está llena y las Gradas siempre están repletas. Una cabeza que no viene y no manda heredero se entiende que tiene algo que decir quedándose lejos.",
      "La Dama Elyria de Caelvaron viene una vez cada diez años.",
      "La Dama Elara de [[Tejetormentas|Stormweaver]] nunca ha venido, y cada año manda a un pariente distinto.",
-     "El Señor Sten de Kaldmark manda a su hijo mayor.",
+     "El Señor Sten de [[Kaldmarca|Kaldmark]] manda a su hijo mayor.",
      "El Señor Johann Faust viene cuando está en puerto, y cuando no, Gavriel se sienta en su silla."
     ]
    },
@@ -31950,7 +31975,7 @@
      "**Vol Kaern, Corascua y Quillane:** unos 300 cada uno, los de Corascua con una batería de cañones largos.",
      "**Varselis:** unos 200.",
      "**Caelvaron:** unos 150 arqueros del [[Bosque Antiguo|Elderwood]].",
-     "**[[Forjasol|Sunforge]], Holst, Solenne y Kaldmark:** unos 100 cada uno: armeros, soldados, sanadores y [[huscarles|huscarls]].",
+     "**[[Forjasol|Sunforge]], Holst, Solenne y Kaldmarca:** unos 100 cada uno: armeros, soldados, sanadores y [[huscarles|huscarls]].",
      "**Tejetormentas:** treinta magos de la tormenta, a los que la Alianza pide por su nombre.",
      "**Alastor:** doce [[Caballeros de la Rosa Pálida|Knights of the Pale Rose]], y la bolsa más grande.",
      "**El resto:** moneda, cartas, información, Krysta y, de la Casa Veldane, un regalo de bodas para cada compañía que zarpa."
@@ -33595,7 +33620,7 @@
        "unos 150 arqueros del [[Bosque Antiguo|Elderwood]]"
       ],
       [
-       "[[Forjasol|Sunforge]], Holst, Solenne, Kaldmark",
+       "[[Forjasol|Sunforge]], Holst, Solenne, [[Kaldmarca|Kaldmark]]",
        "unos 100 cada uno: armeros, soldados, sanadores y [[huscarles|huscarls]]"
       ],
       [
@@ -34845,7 +34870,7 @@
    {
     "title": "Las Escamas Doradas",
     "paragraphs": [
-     "Hace mil años Ghral reclamó a los clanes dracónidos como parientes suyos. Los que le juraron lealtad sirven como las Escamas Doradas, los soldados propios de la Inquisición. Los clanes que no quisieron jurar se volvieron los Atados, o huyeron. Por eso a los dracónidos de las islas los miran como imperiales dondequiera que vayan, y por eso tantos se arrancan las viejas insignias y llevan con orgullo las marcas de las puntadas."
+     "Hace mil años Ghral reclamó a los clanes dracónidos como parientes suyos. Los que le juraron lealtad sirven como las Escamas Doradas, los soldados propios de la Inquisición. Los clanes que no quisieron jurar se volvieron los [[Atados|Bound]], o huyeron. Por eso a los dracónidos de las islas los miran como imperiales dondequiera que vayan, y por eso tantos se arrancan las viejas insignias y llevan con orgullo las marcas de las puntadas."
     ]
    },
    {
@@ -37452,10 +37477,10 @@
    "el Imperio Korvan"
   ],
   "subtitle": "El imperio del que las islas se fueron navegando",
-  "summary": "La autocracia militante de la supremacía humana en Assios de la que huyó el Éxodo: el Trono del Sol de Korvantis, las Huestes de Hierro y la Inquisición, en guerra con la Alianza desde hace casi mil años, y que presiona a las islas con moneda y con culto en lugar de con flotas.",
+  "summary": "El imperio del que huyó el Éxodo, y el mayor poder del mundo: cien millones de almas bajo un trono, un credo y un ejército, un tercio de ellas con collares de hierro, en guerra con el resto del continente desde hace mil años, y con la paciencia de esperar a las islas.",
   "epigraph": {
-   "quote": "No mandan barcos. Mandan korvanes, y los korvanes hacen la navegación.",
-   "by": "Un oficial de Faust en las mesas de la balanza de Fuerte de Hierro"
+   "quote": "¿Qué éramos? Ganado. ¿Por qué? Éramos débiles. ¿Y qué es la debilidad? Una elección.",
+   "by": "El Catecismo Forjado, que cada niño imperial sabe recitar antes de saber leer"
   },
   "facts": [
    [
@@ -37468,15 +37493,23 @@
    ],
    [
     "Gran Inquisidor",
-    "Ghral"
+    "Ghral, un dragón dorado"
    ],
    [
     "Gente",
-    "Unos cien millones, unos treinta y cinco millones de ellos Atados"
+    "Unos cien millones, unos treinta y cinco millones de ellos [[Atados|Bound]]"
+   ],
+   [
+    "En armas",
+    "Unos tres millones, y diez millones con el llamado completo"
+   ],
+   [
+    "La Flota de Hierro",
+    "Unos 2,500 barcos de guerra, unos 200 de ellos acorazados"
    ],
    [
     "Moneda",
-    "El korvan"
+    "El korvan, con LA DEBILIDAD ES UNA ELECCIÓN en el canto"
    ],
    [
     "En guerra con",
@@ -37485,61 +37518,90 @@
   ],
   "sections": [
    {
-    "title": "El Trono del Sol",
+    "title": "La debilidad es una elección",
     "paragraphs": [
-     "El [[Imperio Korvan|Korvan Imperium]] es la autocracia militante de la supremacía humana que tomó la mitad del continente de Assios antes de que lo detuvieran, y el poder del que el [[Éxodo|Exodus]] se fue navegando. El [[Trono del Sol|Sun-Throne]] está en Korvantis, la ciudad imperial: piedra blanca y hierro negro sobre una colina por encima de tres ríos, bajo una gran cúpula dorada para que brille como un segundo sol al mediodía. Debajo de la cúpula la ciudad baja en anillos, la corte, los ministerios y los grandes salones de la Hueste, y abajo del todo, donde se juntan los ríos, las fundiciones y los Atados.",
-     "El Emperador Theomar Vol Sunessi, el Duodécimo Sol, lleva cuarenta y un años reinando, frío y paciente, dueño de su corte y de su Hueste. Tiene doce hijos legítimos, los [[Doce Rayos|Twelve Rays]], numerados por nacimiento, que se rondan unos a otros hasta que él nombre heredero, y no ha nombrado a ninguno. El rumor en Castia es que el Duodécimo Sol se está muriendo, y que sus hijos ya están escogiendo bandos."
+     "Durante diecisiete mil años después de la [[Dispersión|Scattering]], enseña el [[Imperio|Imperium]], la humanidad fue una raza esclava: ganado de los pueblos antiguos, poseída, criada y obligada a olvidar. Entonces un erudito siervo del norte helado encontró la verdad en una bóveda de los [[Primogénitos|Firstborn]], y los humanos del norte tomaron una decisión. Nunca volverían a ser débiles.",
+     "Esa decisión es todo el Imperio. Su gente se llama a sí misma los [[Herederos|Inheritors]], los dueños legítimos de un mundo que les robaron, y sostiene que la debilidad no es una desgracia sino una decisión, y una vergonzosa. La fuerza se debe: al [[Trono del Sol|Sun-Throne]], a la Hueste y a los diecisiete mil años. El [[Catecismo Forjado|Forged Catechism]] se recita en cada puerta de escuela imperial, en cada guarnición y en cada tumba:"
+    ],
+    "list": [
+     "¿Qué éramos? *Ganado.*",
+     "¿Por qué? *Éramos débiles.*",
+     "¿Y qué es la debilidad? *Una elección.*",
+     "¿Qué elegimos? *La Forja.*",
+     "¿Qué nos debe el mundo? *Diecisiete mil años.*"
     ]
    },
    {
-    "title": "Hierro e Inquisición",
+    "title": "El Trono del Sol",
+    "paragraphs": [
+     "El Trono del Sol está en Korvantis, la ciudad imperial: piedra blanca y hierro negro sobre una colina por encima de tres ríos, bajo una gran cúpula dorada para que brille como un segundo sol al mediodía. Bajo la cúpula la ciudad baja en anillos, la corte, los ministerios y los grandes salones de la Hueste, y abajo del todo, donde se juntan los ríos, las fundiciones y los Atados. A los visitantes les dicen que lleguen al mediodía por el camino del sur, cuando la cúpula agarra el sol antes de que se vean las murallas. Los peregrinos lloran. A los prisioneros los traen a la misma hora, a propósito.",
+     "El Emperador es el [[Sol en la Tierra|Sun on Earth]], y su palabra es ley sin apelación. Theomar Vol Sunessi, el Duodécimo Sol, tiene setenta y un años y lleva cuarenta y uno reinando, frío y paciente, dueño de su corte y de su Hueste. Los Vol Sunessi no coronan al mayor: cerca del final de su reinado, el Emperador nombra heredero entre sus doce hijos legítimos, los [[Doce Rayos|Twelve Rays]], y hasta que lo hace, ellos se rondan unos a otros. El rumor en Castia es que se está muriendo, y que sus hijos ya están escogiendo bandos."
+    ]
+   },
+   {
+    "title": "Los Herederos y los Atados",
     "paragraphs": [],
     "list": [
-     "**Las [[Marcas de Hierro|Iron Marches]]** dan la cara al Frente, gobernadas por margraves y [[Condes de Guerra|War-Counts]]. Cada niño imperial sirve el [[Año de Hierro|Year of Iron]], y la cobardía es el único pecado imperdonable.",
-     "**Las [[Tierras de la Forja|Forge-Lands]]**, alrededor de Korvantis, hacen los acorazados del [[Imperio|Imperium]] y sus armas forjadas con Krysta, con ciencias recuperadas en el Forjado. Los acorazados son la razón por la que la Armada construye sus cascos gruesos.",
-     "**La [[Inquisición|Inquisition]]** le responde al [[Gran Inquisidor|Grand Inquisitor]], el dragón dorado Ghral, desde el [[Palacio Maudan|Maudan Palace]] en las colinas sobre Korvantis. Es el credo militante de la supremacía humana y del registro forzado, con diez [[Altos Inquisidores|High Inquisitors]] y los dracónidos de las [[Escamas Doradas|Gilded Scales]] como soldados, y sus células en Kalvatar cazan herejes, magos sin registro y a los que no son humanos.",
-     "**Los Atados** son los no libres del Imperio, unos treinta y cinco millones de sus cien millones de almas. Un tiflin en el Imperio es un Atado: con collar, con dueño y sin ley."
+     "**Los Herederos** son los humanos del Imperio: ciudadanos, soldados y súbditos del Sol. A los catorce años cada niño Heredero deja su casa para el [[Año de Hierro|Year of Iron]] en una de las ciudades de instrucción de la Hueste, donde los hijos de los campesinos y los hijos del Trono del Sol duermen en las mismas barracas y aprenden la instrucción, el [[Catecismo|Catechism]] y la regla de que la cobardía es el único pecado imperdonable. Al final del año a cada niño se le hace una sola pregunta, *¿Qué eliges?*, y la respuesta queda escrita para siempre en los registros de la ciudad.",
+     "**Los Atados** son todos los demás dentro de las fronteras del Imperio: elfos, enanos, medianos, gnomos, orcos, trasgos y tiflins. No tienen más ley que la de su dueño, y llevan un collar de hierro con la marca del dueño. En las [[Tierras de la Forja|Forge-Lands]] los Atados hacen el trabajo más caliente, y los maestros fundidores dicen que un enano aguanta más en el horno que un hombre. Lo dicen como elogio.",
+     "**Los conquistados** siguen conquistados. El viejo reino de Valghi cayó en los primeros años del estallido del Imperio, y la mitad de su gente que no era humana lleva quince siglos Atada.",
+     "**En la frontera,** Castia no pide papeles. El Imperio pide sangre: ningún no humano pisa suelo imperial y sale libre.",
+     "**Sevrin el Rompecadenas** no puede adorarse en el Imperio. Es asunto de horca, y por eso cada herrero de collares del Imperio sabe decirte qué significa un collar roto."
+    ]
+   },
+   {
+    "title": "La Inquisición",
+    "paragraphs": [
+     "La [[Inquisición|Inquisition]] le responde al [[Gran Inquisidor|Grand Inquisitor]], el dragón dorado Ghral, desde el [[Palacio Maudan|Maudan Palace]] en las colinas sobre Korvantis: una casa de mármol con vetas de oro construida hace mil años para algo demasiado grande para las puertas. Su [[Círculo Interior|Inner Circle]] se reúne ahí. Sus prisioneros no salen. Que un dragón dorado mande la maquinaria de la supremacía humana es una paradoja de la que la Inquisición no habla.",
+     "Es el credo militante de la supremacía humana y del registro forzado. Vigila la poca magia que tiene el Imperio, arranca la herejía de raíz y quema lo que no puede convertir. Diez [[Altos Inquisidores|High Inquisitors]] sirven bajo Ghral, y los clanes dracónidos que le juraron lealtad hace mil años marchan como las [[Escamas Doradas|Gilded Scales]], sus propios soldados; los clanes que no juraron se volvieron Atados, o huyeron. Un nombre con *Sol* delante es de alguien jurado a la fe del Sol de Hierro y que le responde a la Inquisición, y las células de la Inquisición en Kalvatar cazan herejes, magos sin registro y a los que no son humanos."
     ]
    },
    {
     "title": "Lo que mide",
     "paragraphs": [
-     "Al lado de las islas, el Imperio es enorme. Cuenta unos cien millones de almas contra los tres millones setecientos mil de las islas, recibe unas treinta y cinco veces lo que reciben juntas las veinte casas nobles, tiene unas ochenta Huestes de Hierro de veinte mil en las Marcas y en el Frente, y navega una [[Flota de Hierro|Iron Fleet]] de unos 2,500 barcos de guerra, unos 200 de ellos acorazados: más o menos ocho veces la Armada.",
-     "No ha ganado porque la Alianza, los [[Principados|Principalities]], las [[Baronías de Oslirion|Oslirion Baronies]] y las [[Ciudades Libres|Free Cities]] juntos son casi de su tamaño, y porque el empate se sostiene en lo que el Imperio no puede hacer: los magos de guerra de la Alianza, y el Krysta de las islas que los alimenta. En 172 EC la [[Hueste de Hierro|Iron Host]] tomó el pueblo fortaleza de [[Cruce del Acebo|Hollin’s Cross]] y lo tuvo un invierno, y la caballería de Asteroth lo recuperó en la primavera."
+     "Al lado de las islas, el Imperio es enorme. Cuenta unos cien millones de almas contra los tres millones setecientos mil de las islas, y recibe unas treinta y cinco veces lo que reciben juntas las veinte casas nobles. Unos tres millones están en armas: unas ochenta Huestes de Hierro de veinte mil en las Marcas y en el Frente, y otros tantos en las guarniciones, con las Escamas Doradas y en la Inquisición. Como cada Heredero ha hecho el Año de Hierro, el Trono del Sol podría llamar a las banderas a unos diez millones.",
+     "Las Tierras de la Forja, alrededor de Korvantis, hacen sus cañones, sus carros acorazados y las planchas de sus acorazados, con ciencias recuperadas en el [[Forjado|Forging]]: humo de día y fuego de noche. La [[Flota de Hierro|Iron Fleet]] cuenta unos 2,500 barcos de guerra, unos 200 de ellos acorazados, más o menos ocho veces la Armada, y los acorazados son la razón por la que la Armada construye sus cascos gruesos.",
+     "Entre el Imperio y la Alianza está el Frente, una franja de tierra quemada de cien leguas de hondo, donde la guerra lleva casi mil años y avanza unas pocas millas por generación. En 172 EC la [[Hueste de Hierro|Iron Host]] tomó el pueblo fortaleza de [[Cruce del Acebo|Hollin’s Cross]] y lo tuvo un invierno, y la caballería de Asteroth lo recuperó en la primavera."
+    ]
+   },
+   {
+    "title": "Por qué no ha bajado al sur",
+    "paragraphs": [
+     "Todavía no. La Alianza, los [[Principados|Principalities]], las [[Baronías de Oslirion|Oslirion Baronies]] y las [[Ciudades Libres|Free Cities]] juntos son casi de su tamaño, y el empate se sostiene en lo que el Imperio no puede hacer: los magos de guerra de la Alianza, y el Krysta de las islas que los alimenta. Casi toda la Hueste de Hierro está atada al Frente, casi toda la Flota de Hierro a las marinas de Soleda y de las Ciudades Libres, y los acorazados nunca han bajado al sur del estrecho, donde la [[Costa de Tiza|Chalk Coast]] no tiene puerto, la [[Ruta de la Corona|Crown Route]] corre contra la [[Corriente de la Corona|Crown Current]] hasta Castia, que es de la Alianza, y la [[Segunda Flota|Second Fleet]] espera.",
+     "Así que el Imperio no invade las islas. Se infiltra en ellas, por ahora, porque el Krysta de las islas es el punto de apoyo de la [[Guerra de los Mil Años|Thousand-Year War]]: córtaselo a la Alianza, o tómalo, y el empate se rompe. Cada temporada el Krysta registrado de las islas sube al norte por la [[Puerta|Gate]] hacia los magos de guerra de la Alianza, y cada temporada los agentes del Imperio intentan impedirlo."
     ]
    },
    {
     "title": "Lo que ven las islas",
-    "paragraphs": [
-     "El Imperio no presiona a Kalvatar con flotas abiertas. Sus acorazados nunca han bajado al sur del estrecho, donde la [[Costa de Tiza|Chalk Coast]] no tiene puerto, la [[Ruta de la Corona|Crown Route]] corre contra la [[Corriente de la Corona|Crown Current]] hasta Castia, que es de la Alianza, y la [[Segunda Flota|Second Fleet]] espera. Presiona en cambio con moneda y con culto, porque el Krysta de las islas es el punto de apoyo de la [[Guerra de los Mil Años|Thousand-Year War]]."
-    ],
+    "paragraphs": [],
     "list": [
-     "Korvanes en las mesas de la balanza de [[Fuerte de Hierro|Ironfort]]: oro imperial con el sello del Trono del Sol, más pesado que un [[Ancla|Anchor]], que vale once [[Mareas|Tides]] por su peso y que Ostrel cambia por diez.",
+     "Korvanes en las mesas de la balanza de [[Fuerte de Hierro|Ironfort]]: oro imperial con el sello del Trono del Sol, más pesado que un [[Ancla|Anchor]], que vale once [[Mareas|Tides]] por su peso, que Ostrel cambia por diez y que lleva en el canto LA DEBILIDAD ES UNA ELECCIÓN. Los [[Corredores de la Niebla|Fogrunners]] de [[Puerto Negro|Black Harbor]] le dicen a la moneda misma *una elección*, como en “me pagó tres elecciones por olvidar su cara”.",
      "Las concesiones mineras de la [[Corporación Rankar|Rankar Corporation]], entre ellas las vetas hondas de las minas de Darlath bajo [[Caída Eterna|Everfall]], y su dinero en todas partes.",
-     "El *[[Atormentador|Tormentor]]* de Janus Rune en el horizonte.",
+     "El *[[Atormentador|Tormentor]]* de Janus Rune en el horizonte, y oro imperial debajo de la mitad de la [[Resaca|Undertow]], pagando el [[vidrio oscuro|dark glass]] que sube al norte.",
      "Panfletos de la [[Corona Devuelta|Returned Crown]] en Fuerte de Hierro, que llaman a las islas a invitar al Imperio de vuelta en términos honorables, y que nadie admite imprimir.",
      "Desertores dracónidos con marcas de costura donde antes había una insignia.",
-     "Cinco barcos oscuros del [[Reconocimiento del Sur|Southern Survey]] en la Rada de los Forasteros, frente a Fuerte de Hierro, ahí desde 171 EC con el salvoconducto del [[Consejo|Council]]."
+     "Cinco barcos oscuros del [[Reconocimiento del Sur|Southern Survey]] en la Rada de los Forasteros, frente a Fuerte de Hierro, ahí desde 171 EC con el salvoconducto del [[Consejo|Council]], dibujando costas y haciendo preguntas corteses."
     ]
    },
    {
     "title": "En las islas",
     "paragraphs": [
-     "Las familias que bajaron al sur en el Éxodo todavía recuerdan los nombres de sus primeros pueblos en Assios, y algunas todavía tienen las escrituras. Pocos isleños han ido al norte, y menos han ido al norte y han vuelto. Unos cuantos cientos de refugiados al año bajan por la [[Puerta|Gate]], y más por [[Puerto Negro|Black Harbor]].",
-     "Las casas nobles mandan soldados a la guerra de la Alianza cada año, y la [[Asamblea de las Banderas|Moot of Banners]] vota cuántos. Lo que Kalvatar manda que de verdad importa es su Krysta y sus magos de la tormenta, y cada temporada los agentes del Imperio intentan impedir que el Krysta suba al norte."
+     "Todas las familias de las islas vinieron de Assios, y casi ninguna ha vuelto. Todavía recuerdan los nombres de sus primeros pueblos, y algunas todavía tienen las escrituras. Unos cuantos cientos de refugiados al año bajan por la Puerta, y más por Puerto Negro, y traen el Imperio consigo en la manera en que se estremecen.",
+     "Las casas nobles mandan soldados a la guerra de la Alianza cada año, y la [[Asamblea de las Banderas|Moot of Banners]] vota cuántos. Lo que Kalvatar manda que de verdad importa es su Krysta y sus magos de la tormenta, y el Imperio sabe exactamente quién los manda."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
      "“Un desertor imperial desembarcó en Puerto Negro con el Catecismo todavía cosido dentro del abrigo. Quiere venderlo, y tres personas distintas lo quieren comprar.” (un botero de Puerto Negro)",
-     "“El Imperio ofreció honrar la escritura de un señor de la Frontera sobre unas tierras afuera de Sonte, firmada antes del Éxodo. Con condiciones.” (se oye en Fuerte de Hierro)"
+     "“El Imperio ofreció honrar la escritura de un señor de la Frontera sobre unas tierras afuera de Sonte, firmada antes del Éxodo. Con condiciones.” (se oye en Fuerte de Hierro)",
+     "“A un herrero de collares de Ventoro le pidieron un collar lo bastante chico para un niño, sin marca de dueño. El cliente pagó en korvanes.” (un herrero de Ventoro)"
     ]
    },
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFnZW50ZXMgZW4gZWwgW1tDb25zZWpvfENvdW5jaWxdXS4qKiBFbCBDb25zZWpvIGNyZWUgcXVlIGVsIFtbSW1wZXJpb3xJbXBlcml1bV1dIHRpZW5lIHRyZXMgYWdlbnRlcyBlbiBzdXMgb2ZpY2luYXMuIFRpZW5lIHVuYSBkb2NlbmEsIHkgdW5vIGRlIGVsbG9zIHNlIHNpZW50YSBlbiB1bmEgY29taXNpw7NuIGRlbCBDb25zZWpvLiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFnZW50ZXMgZW4gZWwgW1tDb25zZWpvfENvdW5jaWxdXS4qKiBFbCBDb25zZWpvIGNyZWUgcXVlIGVsIFtbSW1wZXJpb3xJbXBlcml1bV1dIHRpZW5lIHRyZXMgYWdlbnRlcyBlbiBzdXMgb2ZpY2luYXMuIFRpZW5lIHVuYSBkb2NlbmEsIHkgdW5vIGRlIGVsbG9zIHNlIHNpZW50YSBlbiB1bmEgY29taXNpw7NuIGRlbCBDb25zZWpvLiIsICIqKkVsIG3DqXRvZG8uKiogRGVzZGUgaGFjZSB1bm9zIHRyZWludGEgeSBjaW5jbyBhw7FvcyBsb3MgYWdlbnRlcyBkZWwgSW1wZXJpbyB0cmFiYWphbiBsYXMgaXNsYXMgY29uIHVuIHNvbG8gcGxhbjogZmluYW5jaWFyIGEgbG9zIHBpcmF0YXMgeSBhIGxhIFtbTGVnacOzbiBDYXJtZXPDrXxDcmltc29uIExlZ2lvbl1dLCBhcm1hciBhIGxvcyByZWJlbGRlcywgY29tcHJhciBhIGxvcyBub2JsZXMgeSBwcm92b2NhciBsb3MgY29uZmxpY3RvcyBxdWUgZWwgSW1wZXJpbyBwaWVuc2EgcmVzb2x2ZXIgbGxlZ2FuZG8gY29tbyBlbCBvcmRlbiBlbiBtZWRpbyBkZWwgY2FvcyBxdWUgw6lsIG1pc21vIGhpem8uIFN1IGNvb3JkaW5hZG9yIGRlbCBzdXIgZXMgSmFudXMgUnVuZSwgeSBzdSBwYXRhIGRlIGdhdG8gbWluZXJhIGVzIGxhIFtbQ29ycG9yYWNpw7NuIFJhbmthcnxSYW5rYXIgQ29ycG9yYXRpb25dXS4iLCAiKipFbCBSZWNvbm9jaW1pZW50by4qKiBMb3MgY2luY28gYmFyY29zIGRlIGxhIFtbUmFkYSBkZSBsb3MgRm9yYXN0ZXJvc3xTdHJhbmdlcnMnIFJvYWRzXV0gbm8gc29uIGxvIHF1ZSBwYXJlY2VuOyBzdSBwcm9waWEgcMOhZ2luYSBndWFyZGEgZWwgcmVzdG8uIl19"
    }
   ],
   "title": "El Imperio Korvan"
