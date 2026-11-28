@@ -484,6 +484,7 @@ document.addEventListener('click',e=>{const link=e.target.closest('a[href]');if(
 $('#search-dialog').addEventListener('click',e=>{if(e.target===$('#search-dialog')){const r=$('#search-dialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#search-dialog').close()}});
 window.addEventListener('hashchange',route);
 const entryIllustrations = {
+ "brother-dog": ["scenes", "A traveler fills a wayside bowl for her dog on a coastal road.", "Una viajera llena un cuenco junto al camino de la costa para su perro.", "brother-dog-wayside-bowl-approved-v1"],
  "ash-wardens": ["powers", "Two Ash Wardens listen among the obsidian trees of Everfall’s Glass Forest.", "Dos Guardianes de Ceniza escuchan entre los árboles de obsidiana del Bosque de Vidrio de Everfall.", "ash-wardens-glass-forest-approved-v1"],
  "patchwork": ["folk", "Travelers compare embroidered patches at the Artisans’ Faire in Goldwind.", "Unos viajeros comparan sus parches bordados en la feria de artesanos de Ventoro.", "patchwork-artisans-faire-approved-v1"],
  "trade-of-the-coral-courts": ["scenes", "A Pelagar pact-warden sings to a delegate of the Coral Courts beside pearls and a bell at Pearl Groove.", "En el Surco de Perlas, un guardián de la Casa Pelagar recibe con un canto a una delegada de las Cortes de Coral, junto a una campana y un cuenco de perlas.", "coral-courts-pearls-and-bells-approved-v1"],
