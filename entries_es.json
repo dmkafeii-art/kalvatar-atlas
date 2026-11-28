@@ -3953,10 +3953,10 @@
  "council": {
   "gloss": "Council of the Charted Isles",
   "subtitle": "Cinco asientos, una sexta parte cartografiada",
-  "summary": "El Consejo gobierna desde Ventoro bajo una Carta que se firmó por primera vez en Fuerte de Hierro.",
+  "summary": "El Consejo de las Islas Cartografiadas gobierna desde Ventoro bajo una Carta firmada por primera vez en Fuerte de Hierro en 1 EC: cinco asientos, una sexta parte cartografiada del mar y un mandato que viaja más lento que sus barcos.",
   "epigraph": {
-   "quote": "Cinco asientos, y cada uno está seguro de ser el importante.",
-   "by": "Un escribano de Ventoro"
+   "quote": "Cinco asientos, y cada uno está seguro de que es el importante.",
+   "by": "Un escribiente de Ventoro"
   },
   "facts": [
    [
@@ -3970,44 +3970,78 @@
    [
     "Asientos en el Consejo",
     "Cinco"
+   ],
+   [
+    "Su alcance",
+    "Más o menos una isla de cada seis"
+   ],
+   [
+    "Lo llaman",
+    "El [[Consejo|Council]], o, sin cariño, la Carta"
    ]
   ],
   "sections": [
    {
-    "title": "Los cinco asientos",
+    "title": "La Carta",
     "paragraphs": [
-     "A los Nobles los representa Halsof Varselis; a los [[Cazadores|Hunters]], Lactinius [[Llamavientos|Windcaller]]; al Congreso Mercantil, Horace [[Doraguja|Goldspire]]; a la Marina, Arios Fafner; y a la Universidad, Thessaly Kane."
+     "El Consejo de las [[Islas Cartografiadas|Charted Isles]] se fundó en 1 EC, cuando se firmó en [[Fuerte de Hierro|Ironfort]], donde el [[Éxodo|Exodus]] había tocado tierra, el gran pacto llamado la Carta, y el calendario todavía cuenta sus años desde ese día como la Era de la Carta. El Consejo sesionó primero en Fuerte de Hierro. Hacia 50 a 55 EC su sede se mudó al sur, a Ventoro, y las casas del [[Corazón|Heartland]] se fueron con ella.",
+     "Su nombre es su jurisdicción. El Consejo gobierna el mar cartografiado, más o menos una isla de cada seis, y en la [[lengua de las islas|Island tongue]] la palabra quiere decir a la vez la carta de navegar y la carta fundacional, de modo que *más allá de las cartas* quiere decir, en lenguaje llano, fuera de la ley. La distancia, la costumbre vieja y las travesías de meses hacen a las regiones más independientes en la práctica de lo que un mandato de Ventoro podría sugerir. En los muelles al Consejo le dicen, sin cariño, *la Carta*.",
+     "El [[Gremio de Cartógrafos|Chartwrights’ Guild]], los agrimensores con licencia del Consejo, paga en moneda contante por cartas verificadas de islas nuevas, pasos y peligros, así que cada viaje de exploración tiene quien lo pague. El sello de un [[Cartógrafo|Chartwright]] en un levantamiento es dinero; uno falso es la horca."
     ]
    },
    {
-    "title": "El alcance de la Carta",
+    "title": "Los cinco asientos",
     "paragraphs": [
-     "Más o menos una isla de cada seis está bajo la autoridad del Consejo. La distancia, la costumbre antigua y las travesías de meses hacen que, en la práctica, las regiones sean más independientes de lo que sugiere un mandato de Ventoro."
+     "Cinco poderes se sientan en el Consejo, y cada uno elige su propio asiento.",
+     "El púrpura de arrecife, el tinte más raro de las islas, por costumbre solo lo visten los asientos del Consejo y el alto clero de la [[Concordia|Concord]]. Cualquier otro que lo lleve está haciendo una afirmación."
+    ],
+    "list": [
+     "**La Nobleza:** Halsof Varselis, joven, ambicioso y calculador, y muchas veces más frío de lo que es. La nobleza elige su asiento en la [[Asamblea de las Banderas|Moot of Banners]] cada cinco años; salvo dos huecos cortos, un Varselis lo ha tenido desde el [[Desembarco|Landing]], y quien lo ocupa preside la Asamblea.",
+     "**Los [[Cazadores|Hunters]]:** Lactinius [[Llamavientos|Windcaller]], carismático, impredecible y querido por la ciudad. Sus colegas toleran el caos porque nadie conoce mejor los peligros del archipiélago.",
+     "**El [[Congreso Mercantil|Mercantile Congress]]:** el [[Señor Mercader|Merchant Lord]] Horace [[Doraguja|Goldspire]], pomposo, ostentoso, generoso, indispensable y, últimamente, asustado. El Consejo del Congreso elige el asiento del Congreso.",
+     "**La Marina:** Arios Fafner, que rara vez asiste en persona. Alina Fafner lleva sus opiniones sobre seguridad y defensa, y ha empezado a llevar las suyas.",
+     "**La [[Universidad|University]]:** Thessaly Kane, que tomó de su padre, Thobias, tanto el asiento como la dirección de la Universidad. El viejo rector todavía la aconseja desde su biblioteca."
+    ]
+   },
+   {
+    "title": "Los salones blancos",
+    "paragraphs": [
+     "El Consejo sesiona en los salones blancos del anillo del Consejo de Ventoro, por encima del barrio de la banca y de las agujas anilladas de cobre de la Universidad, y por debajo de las alturas del castillo de la Casa Vol Kaern, cuya sombra cae sobre un Consejo que no gobierna. Los salones se levantaron hacia 55 EC, de piedra de [[Cortablanca|Whitecut]], en un terreno que todavía es de Vol Kaern. Las oficinas del [[Alcalde Mayor|Lord Mayor]] comparten el anillo.",
+     "La sala es donde terminan las discusiones de las islas. El mejor orador que hay en ella, según todo el mundo, es [[Señor|Lord]] Ignatius [[Corascua|Emberheart]], que no tiene asiento ahí."
+    ]
+   },
+   {
+    "title": "Lo que hace el Consejo",
+    "paragraphs": [],
+    "list": [
+     "**La ley.** La ley de la Carta corre en las tierras del Consejo junto a los tribunales propios de las casas, el peso moral de la Concordia y los códigos de aduana de la Casa Holst, a la que el Consejo le paga por redactarlos y revisarlos.",
+     "**La magia.** El [[Registro Arcano|Arcane Registry]] inscribe y anilla a cada lanzador arcano en las tierras del Consejo, y se hace cumplir con un celo especial en el Corazón. La Concordia se niega a registrar a sus lanzadores, y todo el mundo finge no notar el pulso.",
+     "**La moneda.** La [[Ceca de la Carta|Charter Mint]] acuña el dinero de las islas, y el Consejo paga sus recompensas en [[Orsales|Orsals]], o en cosas que el dinero no compra.",
+     "**Las armas.** El Consejo tiene una lista de cada armero de las islas, y todos rompen sus leyes de armas.",
+     "**Las concesiones.** Los monopolios y los peajes son del Consejo para darlos: el dinero del estrecho de Vanris, el Dominio de Faust, el arriendo del [[Diezmo de la Puerta|Gate-Tithe]] de Ostrel y las concesiones de la [[Compañía Casacarta|Charterhouse Company]].",
+     "**La guerra.** En una guerra que declara el Consejo, cada barco de guerra registrado de una casa pasa a la Armada por el [[Llamado de la Carta|Charter Call]]. Una coalición no es una guerra declarada, y en las [[Fauces del Kraken|Kraken’s Maw]] nunca se hizo el Llamado. Este año, a moción del asiento de la Nobleza, el Consejo declaró a los [[Cantatormentas|Stormchanters]] enemigos de Kalvatar.",
+     "**La [[Abolición|Abolition]].** La esclavitud terminó en las tierras del Consejo después de la [[Gran Rebelión de los Esclavos|Great Slave Rebellion]], hacia 60 EC. Nunca terminó en Karn Sorroch, y el Consejo nunca ha encontrado la voluntad de hacer que termine."
     ]
    },
    {
     "title": "El poder fuera de la sala",
     "paragraphs": [
-     "La Concordia no tiene asiento ni lo necesita. La Casa de los Tesoreros, los gremios y las casas nobles ejercen su influencia a través de derechos y obligaciones que no se limitan a un voto del Consejo."
+     "La Concordia no tiene asiento y no lo necesita. La [[Casa de los Tesoreros|Reckoners’ Hall]], los gremios y las casas nobles ejercen su influencia por medio de deberes y obligaciones que no se limitan a un voto del Consejo, y la [[Primera Tesorera|First Reckoner]] no necesita asiento para gobernar el Congreso.",
+     "Tampoco es el Consejo la guerra. Al norte del estrecho, el [[Imperio Korvan|Korvan Imperium]] y la [[Alianza|Alliance]] llevan peleando casi mil años; el Consejo no es parte de eso, las casas nobles sí, y la Asamblea vota cada año cuántos mandar. El Consejo le dio su salvoconducto al [[Reconocimiento del Sur|Southern Survey]] imperial en 171 EC, y la nobleza lo ha protestado en cada Asamblea desde entonces."
     ]
    },
    {
     "title": "En las islas",
     "paragraphs": [
-     "En la lengua de las islas, la palabra significa a la vez la carta de navegar y la carta fundacional.",
-     "Halsof Varselis es joven, ambicioso y calculador, y muchas veces parece más frío de lo que es.",
-     "Lactinius Llamavientos es carismático, impredecible y querido por la ciudad. Sus colegas toleran el caos porque nadie conoce mejor los peligros del archipiélago.",
-     "Horace Doraguja es pomposo, ostentoso e indispensable.",
-     "Arios Fafner rara vez asiste en persona. Alina Fafner lleva sus opiniones sobre seguridad y defensa, y ha empezado a llevar las suyas.",
-     "Thessaly Kane sucedió a su padre, Thobias Kane, al frente de la Universidad. El viejo rector todavía la aconseja desde su biblioteca.",
-     "El mandato del Consejo viaja más despacio que sus barcos.",
-     "El Gremio de Cartógrafos da licencia a los levantamientos y paga en moneda dura por las cartas verificadas."
+     "En la lengua de las islas, la palabra quiere decir a la vez la carta de navegar y la carta fundacional.",
+     "Las noticias viajan en meses, y el mandato del Consejo viaja más lento que sus barcos, así que las regiones casi se gobiernan solas. El mandato es más delgado en el sur, y en la [[Extensión Helada|Icy Expanse]] es lo último que se alcanza a sentir antes de que todo se congele."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“La semana pasada alguien le quitó el polvo a la silla vacía del Alto Mando del Almirantazgo. Nadie admite haberlo ordenado.” (se oye entre los escribientes de Ventoro)"
+     "“La semana pasada alguien le quitó el polvo a la silla vacía del Alto Mando del Almirantazgo. Nadie admite haberlo ordenado.” (se oye entre los escribientes de Ventoro)",
+     "“Vol Kaern le ofreció algo a cada uno de los cinco asientos este año, y solo cuatro lo han dicho.” (un escribiente de Ventoro)"
     ]
    }
   ],
@@ -13330,44 +13364,78 @@
  },
  "charterhouse-company": {
   "subtitle": "Collares de latón y pueblos de la compañía",
-  "summary": "Una compañía comercial con carta del Consejo que se salta a los gremios: monopolios, pueblos de la compañía y matones llamados collares de latón.",
+  "summary": "Una compañía comercial con carta del Consejo que le da la vuelta a los gremios: monopolios por concesión del propio Consejo, sus propios barcos, almacenes y pueblos de la compañía, y ejecutores a los que los muelles llaman collares de latón.",
   "facts": [
    [
     "Gobernadora",
     "Imelda Roque, la [[Señora de los Mandatos|Lady of Writs]]"
    ],
    [
-    "Matones",
+    "Sus ejecutores",
     "los [[collares de latón|brass-collars]]"
+   ],
+   [
+    "Concesiones",
+    "La sal del sur, el jade [[de Verdaya|Verdayan]] y los contratos de servidumbre"
+   ],
+   [
+    "Oficinas del sur",
+    "[[Puerto Sur|Southhaven]]"
+   ],
+   [
+    "Lo que quiere",
+    "El decimotercer encaje del [[Piso de la Aguja|Spire Floor]]"
    ]
   ],
   "title": "La Compañía Casacarta",
   "gloss": "The Charterhouse Company",
-  "aliases": [
-   "la Compañía",
-   "el latón de la Compañía",
-   "pueblo de la Compañía",
-   "pueblos de la Compañía",
-   "tienda de la Compañía",
-   "hombres de mandato",
-   "hombre de mandato",
-   "collares de latón"
-  ],
+  "epigraph": {
+   "quote": "La Compañía no rompe la ley. Trae la suya.",
+   "by": "Un estibador del Mercado de las Gaviotas"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Fuera de los gremios",
     "paragraphs": [
-     "Fuera de los gremios está la [[Compañía Casacarta|Charterhouse Company]], una compañía comercial con carta del Consejo, con monopolios, pueblos de la compañía y matones a los que los muelles llaman collares de latón.",
-     "Gobernadora: Imelda Roque, \"la Señora de los Mandatos\".",
-     "Posesiones: el monopolio de la sal del sur (ganado en el 175 EC; dos puertos se amotinaron), la concesión del jade verdayano y los contratos de servidumbre del sur.",
-     "Sus oficinas del sur están en [[Puerto Sur|Southhaven]].",
-     "Todo el mundo sabe que quiere con muchas ganas el decimotercer encaje de bandera del [[Piso de la Aguja|Spire Floor]]."
+     "La [[Compañía Casacarta|Charterhouse Company]] no es un gremio y no le responde al [[Congreso Mercantil|Mercantile Congress]]. Tiene sus monopolios por concesión del propio [[Consejo|Council]], y los usa para darles la vuelta a los gremios: sus propios barcos, sus propios almacenes, sus propios pueblos de la compañía y sus propios ejecutores, los hombres de mandato, a los que los muelles llaman collares de latón. Los gremios la odian. Los Tesoreros les prestan a los dos lados y ganan de cualquier modo.",
+     "Su Gobernadora es Imelda Roque, la Señora de los Mandatos, de la que se dice que firma con tinta verde, para que los collares de latón sepan cuáles órdenes son de verdad suyas. Sus oficinas del sur están en Puerto Sur."
+    ]
+   },
+   {
+    "title": "Las concesiones",
+    "paragraphs": [],
+    "list": [
+     "**El monopolio de la sal del sur.** La primera concesión de sal de la Compañía llegó en la crisis de la [[Peste del Mar Ardiente|Plague of the Burning Sea]]; este año ganó el monopolio entero del sur. Dos puertos se amotinaron, los collares de latón “restablecieron el orden”, y el precio de un saco en el sur pasó de 4 [[Olas|Bits]] a una [[Marea|Tide]].",
+     "**La concesión del jade de Verdaya.** Los campos de jade del interior, que las Confederaciones trabajan desde hace mil años. Las Confederaciones no han aceptado, y la Compañía también mandó collares de latón a medir un campo de [[Paramogrís|Greymoor]].",
+     "**Los contratos de servidumbre.** Trabajo por deudas en las plantaciones del sur, legal en el papel y una herida abierta en todo lo demás.",
+     "**Los peajes de la Compañía.** Dondequiera que la Compañía tiene un monopolio, todos los demás pagan por pasar."
+    ]
+   },
+   {
+    "title": "Los pueblos de la compañía",
+    "paragraphs": [
+     "En la costa de la caña, río arriba de Puerto Sur, una docena de pueblos de la Compañía cultivan azúcar con trabajadores bajo contrato de servidumbre, y Campo de Latón no es el peor. A sus trabajadores se les paga en [[latón de la compañía|company brass]], fichas de mandato que solo sirven en las tiendas de la propia Compañía, a las que los trabajadores llaman [[dinero de collar|collar-money]]. Se cambia a la mitad de su valor detrás de la tienda, alguien se lo vende de vuelta a los propios escribientes de la Compañía a tres cuartos, y cada tienda de la Compañía le suma un poco a cada deuda.",
+     "Los [[Corredores de la Hoja Negra|Blackleaf Runners]] de [[Hermana Humo|Sister Smoke]] pasan de contrabando [[hoja del sur|southleaf]] y café por fuera de las licencias de la Compañía, y pasan de contrabando, hacia afuera, a sus trabajadores bajo contrato."
+    ]
+   },
+   {
+    "title": "Lo que quiere",
+    "paragraphs": [
+     "Todo el mundo sabe que la Compañía quiere el decimotercer encaje de bandera en el centro del Piso de la Aguja, que nunca ha tenido bandera, y lo quiere con muchas ganas.",
+     "Después de dos malos años de arenque ofreció comprar las salinas de [[Confín de Sal|Saltreach]], que le darían la sal de todo el archipiélago. Hallorn y los Oruma son sus blancos principales entre las [[Doce Banderas|Twelve Flags]], y Corvane lleva su carga y se odia por ello."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La Compañía es la respuesta del Consejo a los gremios, y la prueba favorita de los gremios de que al Consejo no se le deberían confiar respuestas. Dondequiera que hay collares de latón parados, hay un monopolio detrás de ellos y un motín en algún lugar delante."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“El encaje del centro. El Piso de la Aguja tiene un decimotercer encaje de bandera en el centro que nunca ha tenido bandera, y la Compañía Casacarta lo quiere con muchas ganas.” (lo que dice todo el mundo)"
+     "“El encaje del centro. El Piso de la Aguja tiene un decimotercer encaje de bandera en el centro que nunca ha tenido bandera, y la Compañía Casacarta lo quiere con muchas ganas.” (lo que dice todo el mundo)",
+     "“Dos de los puertos que se amotinaron por la sal tienen capitanes de puerto nuevos este año, y los dos antes llevaban collar de latón.” (un cargador de Puerto Sur)"
     ]
    },
    {
@@ -31188,7 +31256,7 @@
      "**Sexta, Velantha.** Profesora en Er Ingenis, el [[Taller de Engranajes|Gearworks]], en Berith. El escándalo de la corte: les enseña a los no humanos.",
      "**Séptimo, Kestrian.** La [[Mano del Sur|Southern Hand]]: la política del [[Imperio|Imperium]] hacia Kalvatar. Janus Rune le reporta a él.",
      "**Octava, Liadra.** Enviada ante las [[Ciudades Libres|Free Cities]], en Castia. Le vende al enemigo, y el Imperio necesita que lo haga.",
-     "**Noveno, Ivren.** Desaparecido en el Cruce del Acebo en el 172 EC. Muerto, dice la corte. Nadie ha encontrado el cuerpo.",
+     "**Noveno, Ivren.** Desaparecido en el [[Cruce del Acebo|Hollin's Cross]] en el 172 EC. Muerto, dice la corte. Nadie ha encontrado el cuerpo.",
      "**Décimo, Lioren.** Dieciséis años, y todavía no tiene nada. El favorito del Emperador, y la pieza de todos.",
      "**Undécima, Ondessa.** [[Condesa de Guerra|War-Count]] de Drakengarde, la más joven de la Hueste. Tomó el Cruce del Acebo, y Ardric no se lo ha perdonado.",
      "**Duodécimo, Aldren.** Un niño enfermizo de nueve años. El rumor es que el Emperador va a nombrar al más chico, para fastidiarlos a todos."
@@ -35493,7 +35561,7 @@
    ],
    [
     "Herida",
-    "en el Cruce del Acebo, 172 EC"
+    "en el [[Cruce del Acebo|Hollin's Cross]], 172 EC"
    ],
    [
     "Zarpó",
@@ -37373,5 +37441,107 @@
    }
   ],
   "title": "Los Días Quietos"
+ },
+ "korvan-imperium": {
+  "gloss": "The Korvan Imperium",
+  "aliases": [
+   "Imperio Korvan",
+   "el Imperio",
+   "El Imperio",
+   "Imperio",
+   "el Imperio Korvan"
+  ],
+  "subtitle": "El imperio del que las islas se fueron navegando",
+  "summary": "La autocracia militante de la supremacía humana en Assios de la que huyó el Éxodo: el Trono del Sol de Korvantis, las Huestes de Hierro y la Inquisición, en guerra con la Alianza desde hace casi mil años, y que presiona a las islas con moneda y con culto en lugar de con flotas.",
+  "epigraph": {
+   "quote": "No mandan barcos. Mandan korvanes, y los korvanes hacen la navegación.",
+   "by": "Un oficial de Faust en las mesas de la balanza de Fuerte de Hierro"
+  },
+  "facts": [
+   [
+    "Sede",
+    "Korvantis, en Assios"
+   ],
+   [
+    "Emperador",
+    "Theomar Vol Sunessi, el [[Duodécimo Sol|Twelfth Sun]]"
+   ],
+   [
+    "Gran Inquisidor",
+    "Ghral"
+   ],
+   [
+    "Gente",
+    "Unos cien millones, unos treinta y cinco millones de ellos Atados"
+   ],
+   [
+    "Moneda",
+    "El korvan"
+   ],
+   [
+    "En guerra con",
+    "La [[Alianza|Alliance]], desde hace casi mil años"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "El Trono del Sol",
+    "paragraphs": [
+     "El [[Imperio Korvan|Korvan Imperium]] es la autocracia militante de la supremacía humana que tomó la mitad del continente de Assios antes de que lo detuvieran, y el poder del que el [[Éxodo|Exodus]] se fue navegando. El [[Trono del Sol|Sun-Throne]] está en Korvantis, la ciudad imperial: piedra blanca y hierro negro sobre una colina por encima de tres ríos, bajo una gran cúpula dorada para que brille como un segundo sol al mediodía. Debajo de la cúpula la ciudad baja en anillos, la corte, los ministerios y los grandes salones de la Hueste, y abajo del todo, donde se juntan los ríos, las fundiciones y los Atados.",
+     "El Emperador Theomar Vol Sunessi, el Duodécimo Sol, lleva cuarenta y un años reinando, frío y paciente, dueño de su corte y de su Hueste. Tiene doce hijos legítimos, los [[Doce Rayos|Twelve Rays]], numerados por nacimiento, que se rondan unos a otros hasta que él nombre heredero, y no ha nombrado a ninguno. El rumor en Castia es que el Duodécimo Sol se está muriendo, y que sus hijos ya están escogiendo bandos."
+    ]
+   },
+   {
+    "title": "Hierro e Inquisición",
+    "paragraphs": [],
+    "list": [
+     "**Las [[Marcas de Hierro|Iron Marches]]** dan la cara al Frente, gobernadas por margraves y [[Condes de Guerra|War-Counts]]. Cada niño imperial sirve el [[Año de Hierro|Year of Iron]], y la cobardía es el único pecado imperdonable.",
+     "**Las [[Tierras de la Forja|Forge-Lands]]**, alrededor de Korvantis, hacen los acorazados del [[Imperio|Imperium]] y sus armas forjadas con Krysta, con ciencias recuperadas en el Forjado. Los acorazados son la razón por la que la Armada construye sus cascos gruesos.",
+     "**La [[Inquisición|Inquisition]]** le responde al [[Gran Inquisidor|Grand Inquisitor]], el dragón dorado Ghral, desde el [[Palacio Maudan|Maudan Palace]] en las colinas sobre Korvantis. Es el credo militante de la supremacía humana y del registro forzado, con diez [[Altos Inquisidores|High Inquisitors]] y los dracónidos de las [[Escamas Doradas|Gilded Scales]] como soldados, y sus células en Kalvatar cazan herejes, magos sin registro y a los que no son humanos.",
+     "**Los Atados** son los no libres del Imperio, unos treinta y cinco millones de sus cien millones de almas. Un tiflin en el Imperio es un Atado: con collar, con dueño y sin ley."
+    ]
+   },
+   {
+    "title": "Lo que mide",
+    "paragraphs": [
+     "Al lado de las islas, el Imperio es enorme. Cuenta unos cien millones de almas contra los tres millones setecientos mil de las islas, recibe unas treinta y cinco veces lo que reciben juntas las veinte casas nobles, tiene unas ochenta Huestes de Hierro de veinte mil en las Marcas y en el Frente, y navega una [[Flota de Hierro|Iron Fleet]] de unos 2,500 barcos de guerra, unos 200 de ellos acorazados: más o menos ocho veces la Armada.",
+     "No ha ganado porque la Alianza, los [[Principados|Principalities]], las [[Baronías de Oslirion|Oslirion Baronies]] y las [[Ciudades Libres|Free Cities]] juntos son casi de su tamaño, y porque el empate se sostiene en lo que el Imperio no puede hacer: los magos de guerra de la Alianza, y el Krysta de las islas que los alimenta. En 172 EC la [[Hueste de Hierro|Iron Host]] tomó el pueblo fortaleza de [[Cruce del Acebo|Hollin’s Cross]] y lo tuvo un invierno, y la caballería de Asteroth lo recuperó en la primavera."
+    ]
+   },
+   {
+    "title": "Lo que ven las islas",
+    "paragraphs": [
+     "El Imperio no presiona a Kalvatar con flotas abiertas. Sus acorazados nunca han bajado al sur del estrecho, donde la [[Costa de Tiza|Chalk Coast]] no tiene puerto, la [[Ruta de la Corona|Crown Route]] corre contra la [[Corriente de la Corona|Crown Current]] hasta Castia, que es de la Alianza, y la [[Segunda Flota|Second Fleet]] espera. Presiona en cambio con moneda y con culto, porque el Krysta de las islas es el punto de apoyo de la [[Guerra de los Mil Años|Thousand-Year War]]."
+    ],
+    "list": [
+     "Korvanes en las mesas de la balanza de [[Fuerte de Hierro|Ironfort]]: oro imperial con el sello del Trono del Sol, más pesado que un [[Ancla|Anchor]], que vale once [[Mareas|Tides]] por su peso y que Ostrel cambia por diez.",
+     "Las concesiones mineras de la [[Corporación Rankar|Rankar Corporation]], entre ellas las vetas hondas de las minas de Darlath bajo [[Caída Eterna|Everfall]], y su dinero en todas partes.",
+     "El *[[Atormentador|Tormentor]]* de Janus Rune en el horizonte.",
+     "Panfletos de la [[Corona Devuelta|Returned Crown]] en Fuerte de Hierro, que llaman a las islas a invitar al Imperio de vuelta en términos honorables, y que nadie admite imprimir.",
+     "Desertores dracónidos con marcas de costura donde antes había una insignia.",
+     "Cinco barcos oscuros del [[Reconocimiento del Sur|Southern Survey]] en la Rada de los Forasteros, frente a Fuerte de Hierro, ahí desde 171 EC con el salvoconducto del [[Consejo|Council]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Las familias que bajaron al sur en el Éxodo todavía recuerdan los nombres de sus primeros pueblos en Assios, y algunas todavía tienen las escrituras. Pocos isleños han ido al norte, y menos han ido al norte y han vuelto. Unos cuantos cientos de refugiados al año bajan por la [[Puerta|Gate]], y más por [[Puerto Negro|Black Harbor]].",
+     "Las casas nobles mandan soldados a la guerra de la Alianza cada año, y la [[Asamblea de las Banderas|Moot of Banners]] vota cuántos. Lo que Kalvatar manda que de verdad importa es su Krysta y sus magos de la tormenta, y cada temporada los agentes del Imperio intentan impedir que el Krysta suba al norte."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Un desertor imperial desembarcó en Puerto Negro con el Catecismo todavía cosido dentro del abrigo. Quiere venderlo, y tres personas distintas lo quieren comprar.” (un botero de Puerto Negro)",
+     "“El Imperio ofreció honrar la escritura de un señor de la Frontera sobre unas tierras afuera de Sonte, firmada antes del Éxodo. Con condiciones.” (se oye en Fuerte de Hierro)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFnZW50ZXMgZW4gZWwgW1tDb25zZWpvfENvdW5jaWxdXS4qKiBFbCBDb25zZWpvIGNyZWUgcXVlIGVsIFtbSW1wZXJpb3xJbXBlcml1bV1dIHRpZW5lIHRyZXMgYWdlbnRlcyBlbiBzdXMgb2ZpY2luYXMuIFRpZW5lIHVuYSBkb2NlbmEsIHkgdW5vIGRlIGVsbG9zIHNlIHNpZW50YSBlbiB1bmEgY29taXNpw7NuIGRlbCBDb25zZWpvLiJdfQ=="
+   }
+  ],
+  "title": "El Imperio Korvan"
  }
 }

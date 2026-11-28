@@ -5122,43 +5122,69 @@
   "category": "power",
   "region": "Central Heartland",
   "subtitle": "Five seats, a charted sixth",
-  "summary": "The Council governs from Goldwind under a Charter first signed at Ironfort.",
+  "summary": "The Council of the Charted Isles governs from Goldwind under a Charter first signed at Ironfort in 1 EC: five seats, a charted sixth of the sea, and a writ that travels slower than its ships.",
   "sections": [
    {
-    "title": "The five seats",
+    "title": "The Charter",
     "paragraphs": [
-     "The Nobles are represented by Halsof Varselis, the Hunters by Lactinius Windcaller, the Mercantile Congress by Horace Goldspire, the Navy by Arios Fafner, and the University by Thessaly Kane."
+     "The Council of the Charted Isles was founded in 1 EC, when the great compact called the Charter was signed at Ironfort, where the Exodus had made its landfall, and the calendar still counts its years from that day as the Era of the Charter. The Council sat first at Ironfort. Around 50 to 55 EC its seat moved south to Goldwind, and the Heartland houses went with it.",
+     "Its name is its jurisdiction. The Council governs the charted sea, about one island in six, and in the Island tongue the word means both the chart and the charter, so that *beyond the charts* means, in plain speech, beyond the law. Distance, old custom, and months-long passages make the regions more independent in practice than a Goldwind writ may suggest. The docks call the Council, unkindly, *the Chart*.",
+     "The Chartwrights’ Guild, the Council’s licensed surveyors, pays hard coin for verified charts of new islands, passages, and hazards, so that every voyage of exploration has a paymaster. A Chartwright’s stamp on a survey is money; a forged one is a hanging."
     ]
    },
    {
-    "title": "The reach of the Charter",
+    "title": "The five seats",
     "paragraphs": [
-     "Roughly one island in six falls under the Council’s authority. Distance, old custom, and months-long passages make the regions more independent in practice than a Goldwind writ may suggest."
+     "Five powers sit on the Council, and each chooses its own seat.",
+     "Reefpurple, the rarest dye in the islands, is worn by custom only by the Council’s seats and the Concord’s high clergy. Anyone else who wears it is making a claim."
+    ],
+    "list": [
+     "**The Nobles:** Halsof Varselis, young, ambitious, and calculating, and often colder than he is. The peerage chooses its seat at the Moot of Banners every fifth year; with two short gaps a Varselis has held it since the Landing, and its holder presides at the Moot.",
+     "**The Hunters:** Lactinius Windcaller, charismatic, unpredictable, and beloved by the city. His colleagues tolerate the chaos because no one knows the archipelago’s dangers better.",
+     "**The Mercantile Congress:** Merchant Lord Horace Goldspire, pompous, ostentatious, generous, indispensable, and lately frightened. The Congress Council chooses the Congress’s seat.",
+     "**The Navy:** Arios Fafner, who rarely attends in person. Alina Fafner carries his views on security and defense, and has begun to bring her own.",
+     "**The University:** Thessaly Kane, who took both the seat and the headship of the University from her father, Thobias. The old headmaster still advises her from his library."
+    ]
+   },
+   {
+    "title": "The white halls",
+    "paragraphs": [
+     "The Council sits in the white halls of Goldwind’s Council ring, above the banking quarter and the University’s copper-ringed spires, and below the castle-heights of House Vol Kaern, whose shadow falls on a Council it does not rule. The halls were raised about 55 EC, of Whitecut stone, on ground that Vol Kaern still owns. The Lord Mayor’s offices share the ring.",
+     "The chamber is where the islands’ arguments end up. The best speaker in it, by common consent, is Lord Ignatius Emberheart, who does not hold a seat there."
+    ]
+   },
+   {
+    "title": "What the Council does",
+    "paragraphs": [],
+    "list": [
+     "**Law.** The Charter’s law runs in Council lands beside the houses’ own courts, the Concord’s moral weight, and House Holst’s customs-codes, which the Council pays the house to draft and revise.",
+     "**Magic.** The Arcane Registry enrolls and rings every arcane caster in Council lands, and is enforced with particular zeal in the Heartland. The Concord refuses to register its casters, and everyone pretends not to notice the standoff.",
+     "**Coin.** The Charter Mint strikes the islands’ money, and the Council pays its bounties in Orsals, or in things money cannot buy.",
+     "**Arms.** The Council keeps a list of every gunsmith in the islands, and its arms-laws are broken by everyone.",
+     "**Grants.** Monopolies and tolls are the Council’s to give: Vanris’s strait-money, Faust’s Dominion, Ostrel’s farm of the Gate-Tithe, and the Charterhouse Company’s concessions.",
+     "**War.** In a war the Council declares, every registered house warship comes under the Armada by the Charter Call. A coalition is not a declared war, and at the Kraken’s Maw the Call was never made. This year, at the Nobles’ seat’s motion, the Council declared the Stormchanters enemies of Kalvatar.",
+     "**Abolition.** Slavery ended in Council lands after the Great Slave Rebellion, about 60 EC. It never ended at Karn Sorroch, and the Council has never found the will to make it."
     ]
    },
    {
     "title": "Power outside the chamber",
     "paragraphs": [
-     "The Concord has no seat and needs none. The Reckoners’ Hall, guilds, and noble houses exercise influence through duties and obligations that are not confined to a Council vote."
+     "The Concord has no seat and needs none. The Reckoners’ Hall, the guilds, and the noble houses exercise influence through duties and obligations that are not confined to a Council vote, and the First Reckoner needs no seat to rule the Congress.",
+     "Nor is the Council the war. North of the strait the Korvan Imperium and the Alliance have been fighting for most of a thousand years; the Council is not part of it, the noble houses are, and the Moot votes every year how many to send. The Council gave the imperial Southern Survey its safe-conduct in 171 EC, and the peerage has protested it at every Moot since."
     ]
    },
    {
     "title": "In the islands",
     "paragraphs": [
      "In the Island tongue, the word means both the chart and the charter.",
-     "Halsof Varselis is young, ambitious, and calculating, and often seems colder than he is.",
-     "Lactinius Windcaller is charismatic, unpredictable, and beloved by the city. His colleagues tolerate the chaos because no one knows the archipelago's dangers better.",
-     "Horace Goldspire is pompous, ostentatious, and indispensable.",
-     "Arios Fafner rarely attends in person. Alina Fafner carries his views on security and defense, and has begun to bring her own.",
-     "Thessaly Kane succeeded her father, Thobias Kane, as head of the University. The old headmaster still advises her from his library.",
-     "The Council's writ travels slower than its ships.",
-     "The Chartwrights' Guild licenses surveys and pays hard coin for verified charts."
+     "News travels in months, and the Council’s writ travels slower than its ships, so the regions largely run themselves. The writ is thinnest in the south, and in the Icy Expanse it is the last thing that can be felt before everything freezes."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The empty chair in the Admiralty's High Command was dusted last week. Nobody admits to ordering it.” (heard among Goldwind clerks)"
+     "“The empty chair in the Admiralty's High Command was dusted last week. Nobody admits to ordering it.” (heard among Goldwind clerks)",
+     "“Vol Kaern has offered something to every one of the five seats this year, and only four of them have said so.” (a Goldwind clerk)"
     ]
    }
   ],
@@ -5174,6 +5200,14 @@
    [
     "Council seats",
     "Five"
+   ],
+   [
+    "Its reach",
+    "About one island in six"
+   ],
+   [
+    "Called",
+    "The Council, or, unkindly, the Chart"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -5191,7 +5225,22 @@
    "hunters",
    "armada",
    "mercantile-congress",
-   "university"
+   "university",
+   "chartwrights",
+   "halsof-varselis",
+   "lactinius-windcaller",
+   "horace-goldspire",
+   "arios-and-alina-fafner",
+   "thessaly-kane",
+   "the-moot-of-banners",
+   "arcane-registry",
+   "concord",
+   "reckoners-hall",
+   "house-vol-kaern",
+   "korvan-imperium",
+   "long-war",
+   "the-southern-survey",
+   "charterhouse-company"
   ],
   "illustration": {
    "src": "assets/powers/council-painterly-v3-960.webp",
@@ -5201,6 +5250,9 @@
    "height": 1024,
    "alt": "The Council debates an island chart in Goldwind, with the exceptionally beautiful platinum-blond elf Lactinius Windcaller seated beside the merchant representative.",
    "caption": "Five seats. One sea between them."
+  },
+  "translations": {
+   "es": "complete"
   }
  },
  {
@@ -17853,22 +17905,50 @@
   "category": "power",
   "region": "All regions",
   "subtitle": "Brass collars and company towns",
-  "summary": "A Council-chartered trading company that bypasses the guilds: monopolies, company towns, and enforcers called brass-collars.",
+  "summary": "A Council-chartered trading company that goes around the guilds: monopolies by the Council’s own grant, its own ships, warehouses, and company towns, and enforcers the docks call brass-collars.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Outside the guilds",
     "paragraphs": [
-     "Outside the guilds stands the Charterhouse Company, a Council-chartered trading company with monopolies, company towns, and enforcers the docks call brass-collars.",
-     "Governor: Imelda Roque, \"the Lady of Writs.\"",
-     "Holdings: the southern salt monopoly (won in 175 EC; two ports rioted), the Verdayan jade concession, and indenture contracts in the south.",
-     "Its southern offices are in Southhaven.",
-     "Everyone knows it wants the thirteenth flag-socket on the Spire Floor very badly."
+     "The Charterhouse Company is not a guild and does not answer to the Mercantile Congress. It holds its monopolies by grant of the Council itself, and it uses them to go around the guilds: its own ships, its own warehouses, its own company towns, and its own enforcers, the writ-men, whom the docks call brass-collars. The guilds hate it. The Reckoners lend to both sides and win either way.",
+     "Its Governor is Imelda Roque, the Lady of Writs, who is said to sign in green ink, so that the brass-collars know which orders are really hers. Its southern offices are in Southhaven."
+    ]
+   },
+   {
+    "title": "The concessions",
+    "paragraphs": [],
+    "list": [
+     "**The southern salt monopoly.** The Company’s first salt grant came in the crisis of the Plague of the Burning Sea; this year it won the whole southern monopoly. Two ports rioted, the brass-collars “restored order,” and the price of a sack in the south went from 4 Bits to a Tide.",
+     "**The Verdayan jade concession.** The interior jade-fields, worked by the Confederacies for a thousand years. The Confederacies have not agreed, and the Company has sent brass-collars to measure a Greymoor field as well.",
+     "**The indentures.** Debt-labor on the southern plantations, legal on paper and an open wound everywhere else.",
+     "**Company tolls.** Wherever the Company holds a monopoly, everyone else pays to pass through it."
+    ]
+   },
+   {
+    "title": "The company towns",
+    "paragraphs": [
+     "On the cane coast above Southhaven, a dozen Company towns grow sugar with indentured workers, and Brassfield is not the worst of them. Their workers are paid in company brass, writ-tokens good only at the Company’s own stores, which the workers call collar-money. It changes at half its face behind the store, somebody sells it back to the Company’s own clerks at three-quarters, and every Company store adds a little to every debt.",
+     "The Blackleaf Runners of Sister Smoke smuggle southleaf and coffee around the Company’s licenses, and smuggle its indentured workers out."
+    ]
+   },
+   {
+    "title": "What it wants",
+    "paragraphs": [
+     "Everyone knows the Company wants the thirteenth flag-socket at the center of the Spire Floor, which has never held a flag, and wants it very badly.",
+     "After two bad herring years it has offered to buy the Saltreach pans, which would give it the salt of the whole archipelago. Hallorn and the Oruma are its chief targets among the Twelve Flags, and Corvane carries its cargo and hates itself for it."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The Company is the Council’s answer to the guilds, and the guilds’ favorite proof that the Council should not be trusted with answers. Wherever its brass-collars stand, there is a monopoly behind them and a riot somewhere in front."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The center socket. The Spire Floor has a thirteenth flag-socket at its center that has never held a flag, and the Charterhouse Company wants it very badly.” (common talk)"
+     "“The center socket. The Spire Floor has a thirteenth flag-socket at its center that has never held a flag, and the Charterhouse Company wants it very badly.” (common talk)",
+     "“Two of the ports that rioted over the salt have new harbor-masters this year, and both of them used to wear brass collars.” (a Southhaven porter)"
     ]
    },
    {
@@ -17885,6 +17965,18 @@
    [
     "Enforcers",
     "the brass-collars"
+   ],
+   [
+    "Holdings",
+    "Southern salt, Verdayan jade, and the indentures"
+   ],
+   [
+    "Southern offices",
+    "Southhaven"
+   ],
+   [
+    "Wants",
+    "The thirteenth socket on the Spire Floor"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -17909,8 +18001,18 @@
    "sister-smoke",
    "vesper-zane",
    "coinsday-reading",
-   "brassfield"
+   "brassfield",
+   "imelda-roque",
+   "jobs-and-wages",
+   "field-mine-and-herd",
+   "trade-of-the-southern-wilds",
+   "council",
+   "reckoners-hall"
   ],
+  "epigraph": {
+   "quote": "The Company doesn’t break the law. It brings its own.",
+   "by": "A Gullmarket stevedore"
+  },
   "translations": {
    "es": "complete"
   }
@@ -60042,5 +60144,132 @@
    "bellowback",
    "aurocs"
   ]
+ },
+ {
+  "id": "korvan-imperium",
+  "title": "The Korvan Imperium",
+  "category": "power",
+  "region": "All regions",
+  "subtitle": "The empire the islands sailed away from",
+  "aliases": [
+   "Korvan Imperium",
+   "the Imperium",
+   "The Imperium",
+   "Imperium",
+   "the Korvan Imperium"
+  ],
+  "summary": "The militant autocracy of human supremacy on Assios that the Exodus fled: the Sun-Throne of Korvantis, the Iron Hosts and the Inquisition, at war with the Alliance for most of a thousand years, and pressing on the islands with coin and cult rather than with fleets.",
+  "epigraph": {
+   "quote": "They don’t send ships. They send korvans, and the korvans do the sailing.",
+   "by": "A Faust officer at the Ironfort scale-tables"
+  },
+  "facts": [
+   [
+    "Seat",
+    "Korvantis, on Assios"
+   ],
+   [
+    "Emperor",
+    "Theomar Vol Sunessi, the Twelfth Sun"
+   ],
+   [
+    "Grand Inquisitor",
+    "Ghral"
+   ],
+   [
+    "People",
+    "About a hundred million, some thirty-five million of them Bound"
+   ],
+   [
+    "Coin",
+    "The korvan"
+   ],
+   [
+    "At war with",
+    "The Alliance, for most of a thousand years"
+   ]
+  ],
+  "sections": [
+   {
+    "title": "The Sun-Throne",
+    "paragraphs": [
+     "The Korvan Imperium is the militant autocracy of human supremacy that took half the continent of Assios before it was stopped, and the power the Exodus sailed away from. The Sun-Throne sits in Korvantis, the imperial city: white stone and black iron on a hill above three rivers, under a great dome gilded so that it shines like a second sun at noon. Under the dome the city falls away in rings, the court, the ministries, and the Host’s great halls, and at the bottom, where the rivers meet, the foundries and the Bound.",
+     "The Emperor Theomar Vol Sunessi, the Twelfth Sun, has ruled for forty-one years, cold and patient, the master of his court and his Host. He has twelve legitimate children, the Twelve Rays, numbered by birth, who circle one another until he names his heir, and he has not named one. The rumor in Castia is that the Twelfth Sun is dying, and that his children are already choosing sides."
+    ]
+   },
+   {
+    "title": "Iron and the Inquisition",
+    "paragraphs": [],
+    "list": [
+     "**The Iron Marches** face the Front, ruled by Margraves and War-Counts. Every imperial child serves the Year of Iron, and cowardice is the one unforgivable sin.",
+     "**The Forge-Lands** around Korvantis make the Imperium’s ironclads and Krysta-forged arms, from sciences recovered in the Forging. The ironclads are why the Armada builds its hulls thick.",
+     "**The Inquisition** answers to the Grand Inquisitor, the gold dragon Ghral, from the Maudan Palace in the hills above Korvantis. It is the militant creed of human supremacy and forced registration, with ten High Inquisitors and the dragonborn of the Gilded Scales for its soldiers, and its cells in Kalvatar hunt heretics, rogue mages, and the non-human.",
+     "**The Bound** are the Imperium’s unfree, some thirty-five million of its hundred million souls. A tiefling in the Imperium is Bound: collared, owned, and without law."
+    ]
+   },
+   {
+    "title": "The measure of it",
+    "paragraphs": [
+     "Beside the islands the Imperium is vast. It counts about a hundred million souls against the islands’ three million seven hundred thousand, takes in some thirty-five times what all twenty noble houses take together, keeps some eighty Iron Hosts of twenty thousand in the Marches and at the Front, and sails an Iron Fleet of about 2,500 warships, some 200 of them ironclads: about eight times the Armada.",
+     "It has not won because the Alliance, the Principalities, the Oslirion Baronies, and the Free Cities together are nearly its size, and because the stalemate holds on what the Imperium cannot make: the Alliance’s war-mages, and the islands’ Krysta that powers them. In 172 EC the Iron Host took the fortress-town of Hollin’s Cross and held it for a winter, and Asteroth’s cavalry took it back in the spring."
+    ]
+   },
+   {
+    "title": "What the islands see",
+    "paragraphs": [
+     "The Imperium does not press Kalvatar with open fleets. Its ironclads have never come south of the strait, where the Chalk Coast has no harbor, the Crown Route runs against the Crown Current to Alliance Castia, and the Second Fleet waits. It presses with coin and cult instead, because the islands’ Krysta is the fulcrum of the Thousand-Year War."
+    ],
+    "list": [
+     "Korvans at the Ironfort scale-tables: imperial gold stamped with the Sun-Throne, heavier than an Anchor, worth eleven Tides by weight, and changed by Ostrel for ten.",
+     "The Rankar Corporation’s mining claims, the deep seams of the Darlath mines under Everfall among them, and its money everywhere.",
+     "Janus Rune’s *Tormentor* on the horizon.",
+     "Returned Crown pamphlets in Ironfort, calling on the islands to invite the Imperium back on honorable terms, which nobody admits to printing.",
+     "Dragonborn deserters with stitch-marks where an insignia used to be.",
+     "Five dark ships of the Southern Survey in the Strangers’ Roads off Ironfort, there since 171 EC under the Council’s safe-conduct."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The families who came south in the Exodus still remember the names of their first towns on Assios, and some of them still hold the deeds. Few islanders have been north, and fewer have been north and come back. A few hundred refugees a year come south through the Gate, and more through Black Harbor.",
+     "The noble houses send soldiers to the Alliance’s war every year, and the Moot of Banners votes how many. What Kalvatar sends that matters is its Krysta and its storm-mages, and every season the Imperium’s agents try to stop the Krysta going north."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“An imperial deserter came ashore at Black Harbor with the Catechism still sewn into his coat. He wants to sell it, and three different people want to buy it.” (a Black Harbor boatman)",
+     "“The Imperium has offered to honor a Frontier lord’s deed to land outside Sonte, signed before the Exodus. On terms.” (heard in Ironfort)"
+    ]
+   },
+   {
+    "title": "Game Master’s secrets",
+    "paragraphs": [],
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkFnZW50cyBpbiB0aGUgQ291bmNpbC4qKiBUaGUgQ291bmNpbCBiZWxpZXZlcyB0aGUgSW1wZXJpdW0gaGFzIHRocmVlIGFnZW50cyBpbiBpdHMgb2ZmaWNlcy4gSXQgaGFzIGEgZG96ZW4sIGFuZCBvbmUgb2YgdGhlbSBzaXRzIG9uIGEgQ291bmNpbCBjb21taXR0ZWUuIl19"
+   }
+  ],
+  "related": [
+   "long-war",
+   "assios-and-the-wider-world",
+   "theomar-vol-sunessi",
+   "twelve-rays",
+   "ghral",
+   "janus-rune",
+   "the-southern-survey",
+   "returned-crown-and-the-tollmen",
+   "dragonborn",
+   "house-alastor",
+   "house-faust",
+   "ironfort",
+   "krysta",
+   "everfall",
+   "black-harbor",
+   "council",
+   "trade-of-the-northern-frontier"
+  ],
+  "source": "Kalvatar Library · 175 EC",
+  "translations": {
+   "es": "complete"
+  }
  }
 ]
