@@ -14536,12 +14536,54 @@
   "category": "place",
   "region": "Central Heartland",
   "subtitle": "Smoke you can see from Goldwind",
-  "summary": "Aurelion is the forge-city of the north coast, and the seat of the Sunforge house.",
+  "summary": "Aurelion is the forge-city of the Heartland’s north coast and the seat of House Sunforge: coal, iron, and a deep harbor, the only proof-house in the Heartland, and smoke you can see from Goldwind.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The forge-city",
     "paragraphs": [
-     "Aurelion’s smoke is visible from Goldwind on a clear day, and its metalwork, firearms, and goldsmithery fill the Congress's warehouses. The Sunforge house is the master-smith house of the Heartland, fabulously wealthy and deeply tied to the Congress. Its forges, the Sunforge works, are the only place in the Heartland where a firearm can be made to proof standard, and the Aurelion smiths guard the secret of that proof as closely as the Council guards its seats."
+     "Aurelion stands on the north coast of the Heartland, where House Sunforge found coal, iron, and a deep harbor together about 12 EC and built the city around them. Its smoke is visible from Goldwind on a clear day. The Sunforge works, the great forges along the harbor, make blades, firearms, and fine metal, and every forge in the city has a bellows toad to blow it. A smith with a toad is a master, and the Smiths keep a stud-book of famous ones.",
+     "The city runs on the shift-bells of the works. Aurelion children are named at the works, under the bells, and the bell that rings at the moment of naming is written on the child’s record. In the Ascendant’s War of 105 EC the works ran day and night for a year to arm the first Grand Coalition, and the bells rang the shifts so often that the children born that year were called *bell-babies*."
+    ]
+   },
+   {
+    "title": "The proof",
+    "paragraphs": [
+     "The Smiths’ Guild was founded in Aurelion about 30 EC, under Sunforge patronage, to stamp honest work, and everything ordinary in the islands now comes in harbor make or proof make; the best proof is Aurelion’s. The Sunforge works are the only place in the Heartland where a firearm can be made to proof standard. An Anvell proves every Aurelion firearm and keeps the proof’s secret with the family, and only Sunforges and the masters of House Anvell may enter the inner room.",
+     "The Guild pays the house for its hall, and the house takes a small fee for every stamp struck in the city. On the jewelers’ row, the gold-assayers test every ingot that comes into Aurelion and many that only pass through. The Jewelers’ Guild sets the price of sapphire from here and from the Sapphire Isle, and the refiners sell gold to the Charter Mint at a price the Guild sets every spring."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "A Holst rider on a domestic auroc can carry a letter from Goldwind to Aurelion in a day, and about eighteen merchant hulls carry Aurelion’s work to the rest of the islands. The harbor is the works’ front door, and a visitor hears the city before he sees it."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "House Sunforge, the Golden Hammer, is one of the ten Highlords: master-smiths of the continent’s Free Cities before the Landing, raised to the nobility for arming the Alliance in a war it nearly lost. Lord Eamon rules Aurelion today. Every Sunforge, of every branch, learns a craft at the forge or the bench before learning to ride, and eight houses are sworn to it, most of them guild families raised to the nobility for their craft.",
+     "The house keeps a small force, armed better than anyone’s: the Hammer Guard, about 800 soldiers in gold and white, each with a proof-made blade, a Sunforge breastplate, and an Aurelion musket. Its real strength is the works, because in a war Aurelion’s forges arm everyone else. It is the noble house closest to the Mercantile Congress, and the Reckoners keep a counting-house in the city, where firearms are bought on credit, which the Hall finds very sensible and the Smiths find very expensive."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "A good sword costs 20 to 100 Anchors; a Sunforge blade costs more, and the blades of Fergus Sunforge are never sold, only given, to someone the house judges worthy. An Aurelion fine-work pistol costs 200 Anchors and up, and is the most coveted firearm in the islands, carried by captains, duelists, and House Faust’s younger sons.",
+     "House Faust buys its finest war-gear here every year and has never once admitted that it is the best. The Frontier’s forts buy Aurelion firearms at half again over Goldwind’s price, the south buys its worked tools, and the ice its harpoon-steel."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Aurelion and Everfall make the islands’ guns, and the islands have only what they make, against an Imperium that has field-guns in quantity. Firearms are governed by the Council’s arms-laws and broken by everyone, and the guns that reach rebels and pirates are Free City imports or a skim from Aurelion, at two or three times the legal price.",
+     "The golden hammer is stamped on more fine metal than any other mark in the islands, and the house’s motto is stamped on its people: *By Hand and Fire.*"
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Half the guns the Legion carries came out of Aurelion by the back door, a crate at a time, and every crate had a proof-mark.” (heard in the Southern Wilds)",
+     "“There’s an Anvell proof-mark on a Free City pistol in Hollowkey, and the Anvells swear they have never seen the pistol.” (a Goldwind gunsmith)"
     ]
    }
   ],
@@ -14549,6 +14591,22 @@
    [
     "Region",
     "The Central Heartland"
+   ],
+   [
+    "Known for",
+    "Metalwork, firearms, and goldsmithery"
+   ],
+   [
+    "Held by",
+    "House Sunforge, under Lord Eamon"
+   ],
+   [
+    "Founded",
+    "About 12 EC"
+   ],
+   [
+    "The proof",
+    "The only proof-house in the Heartland"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14558,8 +14616,20 @@
    "goldwind",
    "heartland",
    "mercantile-congress",
-   "bellows-toad"
+   "bellows-toad",
+   "guilds-of-the-congress",
+   "reckoners-hall",
+   "charter-mint",
+   "house-faust",
+   "everfall",
+   "trade-of-the-central-heartland",
+   "luxuries-of-the-isles",
+   "undertow"
   ],
+  "epigraph": {
+   "quote": "Ask an Aurelion child when she was born, and she will tell you which bell.",
+   "by": "A Goldwind clerk"
+  },
   "translations": {
    "es": "complete"
   }
@@ -14570,18 +14640,56 @@
   "category": "place",
   "region": "Northern Frontier",
   "subtitle": "The gate of the north",
-  "summary": "Bastion is the seat of House Faust, the gate-fortress of the north.",
+  "summary": "Bastion is the seat of House Faust and the gate-fortress of the north: a grey city of drill-yards and iron-works on a hill above the Ironfort road, with the Gate forts and the Bastion Holds strung along the sea-road below it.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The hill above the road",
     "paragraphs": [
-     "Bastion stands on a fortified island at the mouth of the eastern sea-road, with a curtain wall that has held off every fleet that tested it. The Faust garrison is the largest standing force in the archipelago outside the Armada, and the house's remount farms supply horses to half the Frontier. The Bastion tourneys, held each spring in Ezra, are the great martial spectacle of the north, and the winners carry the Faust sigil home with them as a mark of standing. Johann Faust, the captain of the Jubilant and a celebrated Hunter, is the house's most famous son, and his divided loyalty between blood and oath is the house's most discussed private trouble."
+     "Bastion is a fortress-city on a hill above the long grey road from Ironfort, built of the dark stone of its own hill-mines: all grey stone and drilling yards. The founder of House Faust built it there, and the first of the Gate forts on the Fistrock, and the Council granted the house its Dominion in return. Every morning the drill-yards fill with the clash of practice steel.",
+     "The city looks down on the sea-road. The Gate forts stand along it, the first on the Fistrock, whose beacon fire can be seen from Bastion in the time it takes to say the house’s motto three times: *We Hold.* Beyond them lie the Bastion Holds, a chain of fortress islands linked by causeways and bridges that the Faust engineers built and rebuilt over four generations, and the Sunforge-cast batteries of Wakefort and Coldholm cover the strait."
+    ]
+   },
+   {
+    "title": "Iron and horses",
+    "paragraphs": [
+     "Bastion’s hill-mines dig the Frontier’s iron and a little silver, and their miners earn 1½ to 2 Anchors a month. The iron-works below the fortress make the Frontier’s best iron and a great deal of its steel. A Corrick has run them since the first furnace was lit, and Wilhelm Faust has quarreled with every one of them. A bar of Bastion iron costs a Tide at the works, 2 in the Heartland, and 4 on the ice, where it becomes harpoons, nails, and stoves. Continental steel, which comes south through the Gate, is finer, and nobody in Bastion says so aloud.",
+     "Horses come down to Bastion from the north. The Northreach drovers bring the herds off the moors to the remount-yards, sleeping out in the heather on the way, and the house’s remount farms at Northreach mount half the Frontier. A score of Tarvan far-walkers serve in the garrison for the house’s coin, with the mauls and axes of their clans."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "Most people come to Bastion by the road from Ironfort, behind the Tannick carters, who haul everything on it. Ships come in along the sea-road under the guns of the Gate forts and tie up at the Mole. From Bastion, as from Ironfort, the Crown Route runs north to Castia: a fortnight against the Crown Current, and a week home again with it behind you.",
+     "Hospitality is law on the Frontier, and in Bastion the door must be held. In the hills near the town, the terraced hot springs of the Soldiers’ Rest are a truce-ground by iron custom: no steel is drawn there, and even feuds pause in the water."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "House Faust, the Gate of the North, holds Bastion, the Gate forts, and the Northreach remount farms. Its head, Lord Johann Faust, is the most celebrated Hunter of the north and captain of the *Jubilant*, and he rules from Bastion and from his own deck. His divided loyalty between blood and oath is the house’s most discussed private trouble.",
+     "The Bastion garrison is about 6,500 soldiers in iron-grey, on Bastion and the Gate forts, with 800 horse: 3,500 of the soldiers are the house’s and 3,000 the Council’s. The Council pays its half, about 9,000 Orsals a year, and pays it late. The Reckoners keep a counting-house in the city, and most of its business is soldiers’ pay and the debts of soldiers."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "In Ezra, every spring, the Bastion tourneys bring half the Frontier to the hill. They are the great martial spectacle of the north, where House Faust shows its prowess and the Frontier’s young prove themselves, and every seat, stall, and stable is let by the house. A good seat at the tourney is one of the Frontier’s luxuries. Winners are given a small grey fist-and-sword pin, and wear it for life.",
+     "A Faust does not drink continental wine at Bastion. The house buys its finest war-gear from House Sunforge of Aurelion, and has never once admitted that it is the best.",
+     "Children raised inside the walls grow up garrison-born, and when the levy is called for the Long War, Bastion’s company sails, like every company, under the name of its quay: the Bastion Mole."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Bastion is the Frontier’s sword, as Ironfort is its purse. Its garrisons eat Greyhaven salt-fish and Hallorn salt, its iron goes to every forge in the islands, and when the Twenty raised the levy of 175 EC, Faust sent 2,000 of its 4,100 soldiers.",
+     "The north has a saying for hard winters, bad news, and long sieges alike, and it is about this city."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Kastan Vol Kaern is buying Bastion's debts through the Zane house. He will own the Frontier's gate before the Council knows he has begun.” (heard in the Central Heartland)"
+     "“Kastan Vol Kaern is buying Bastion's debts through the Zane house. He will own the Frontier's gate before the Council knows he has begun.” (heard in the Central Heartland)",
+     "“The Corricks have banked a furnace at Bastion that nobody is allowed to see, and the slag that comes out of it is blue.” (a Tannick carter)"
     ]
    }
   ],
@@ -14589,6 +14697,22 @@
    [
     "Region",
     "The Northern Frontier"
+   ],
+   [
+    "Known for",
+    "The Ezra tourneys, iron, and the Gate garrison"
+   ],
+   [
+    "Held by",
+    "House Faust, under Lord Johann Faust"
+   ],
+   [
+    "The garrison",
+    "About 6,500 soldiers and 800 horse"
+   ],
+   [
+    "Built of",
+    "The dark stone of its own hill-mines"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14601,8 +14725,19 @@
    "johann-faust",
    "great-hunter-crews",
    "noble-houses",
-   "soldiers-rest"
+   "soldiers-rest",
+   "ironfort",
+   "ezra",
+   "reckoners-hall",
+   "long-war",
+   "aurelion",
+   "trade-of-the-northern-frontier",
+   "aurocs"
   ],
+  "epigraph": {
+   "quote": "Bastion stands, so we stand.",
+   "by": "A Frontier saying"
+  },
   "translations": {
    "es": "complete"
   }
@@ -14613,18 +14748,56 @@
   "category": "place",
   "region": "Northern Frontier",
   "subtitle": "Where the fog pays no duty",
-  "summary": "Black Harbor is the smugglers' capital of the Frontier, a warren of wharves and sea-caves in the fog below Greyhaven.",
+  "summary": "Black Harbor is the smugglers’ capital of the Frontier, a warren of wharves and sea-caves in the fog below Greyhaven.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The harbor in the fog",
     "paragraphs": [
-     "Black Harbor is the home of the Fogrunners, who carry untaxed cargo through the Murk by bell-codes so exact they can thread the Widow's Teeth blind. Its leader, Wenna Hollis, the Bellmistress, has never been caught, because no officer of the Gate-Tithe has ever been able to hear what she is saying. The Gullet, a tide-cave that leads down into the Below, opens at the harbor's north end, and the Fogrunners use it when the Council's patrols are thickest on the surface."
+     "Black Harbor is a warren of wharves and sea-caves in the Greyhaven Murk, and the smugglers’ capital of the Frontier. The Gate-Tithe made Ironfort rich and Black Harbor necessary: a tenth on everything that passes to or from Assios is reason enough to land it somewhere else, and Black Harbor is where it lands.",
+     "Untaxed goods come in at 10 to 20 parts in 100 under market, and refugees, spies, and imperial korvans come with them, all finding Black Harbor instead of the tithe. A few hundred refugees a year come through the Gate, and more through Black Harbor, where nobody counts. Black Harbor is for people who would rather not be counted."
+    ]
+   },
+   {
+    "title": "The Fogrunners",
+    "paragraphs": [
+     "The Fogrunners run untaxed cargo through the Murk by bell-codes so exact that they can thread the Widow’s Teeth blind. Their sign is a cracked bell. They carry untaxed goods south, and dark glass north to the Free Cities.",
+     "They are led by Wenna Hollis, the Bellmistress, who has never been caught, because no one has ever seen her in clear weather, and no officer of the Gate-Tithe has ever been able to hear what she is saying. The Free Sails have no master, but every one of them knows whose mooring to ask for in Black Harbor."
+    ]
+   },
+   {
+    "title": "What is sold here",
+    "paragraphs": [],
+    "list": [
+     "**Paper.** Black Harbor’s forgers, with Goldwind’s, make stone, the forged Chartwrights’ stamps, at 50 Anchors, and false customs seals.",
+     "**Brass Sigils.** False Hunter badges, at 30 Anchors. A true Sigil is bound to its bearer and useless to a thief, and the Lodges hang the forger and strip the buyer of his badge.",
+     "**A new name,** with papers, for 20 Anchors.",
+     "**Dark glass,** unregistered Krysta, for Fairweather, the Free City agents, rebels, and the Legion.",
+     "**Passage.** A refugee family will pay everything it owns to be landed at Black Harbor, and some smugglers land their passengers on a reef instead."
+    ]
+   },
+   {
+    "title": "The Gullet",
+    "paragraphs": [
+     "At the harbor’s north end opens the Gullet, a tide-cave under the narrow water between Black Harbor and the next island of the Murk, which leads down into the Below. It is passable only at low water, and the Fogrunners time it by bell-codes; they use it when the Council’s patrols are thickest on the surface."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "No lord holds Black Harbor, and no clerk goes into the Murk. What keeps the peace is the Undertow’s Code: a struck deal holds, and a crew that breaks the Code is cut loose. House Stormweaver keeps the bells of the coast, the Fogrunners use them, and the house has never asked how they learned them."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Black Harbor is one of the black ports, with Fairweather and Hollowkey. House Ostrel, which collects the Gate-Tithe at Ironfort, counts Black Harbor’s smugglers as its rivals, and they return the compliment."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The dry road. The roads Below run island to island, and a smuggler who knew them could walk a cargo from Black Harbor to Goldwind without paying a single harbor due.” (common talk)"
+     "“The dry road. The roads Below run island to island, and a smuggler who knew them could walk a cargo from Black Harbor to Goldwind without paying a single harbor due.” (common talk)",
+     "“Somebody saw the Bellmistress in clear weather once. He bought a boat the next morning and sailed south, and he hasn’t been back.” (a Greyhaven net-mender)"
     ]
    }
   ],
@@ -14632,6 +14805,18 @@
    [
     "Region",
     "The Northern Frontier"
+   ],
+   [
+    "Known for",
+    "Untaxed goods, forged paper, and new names"
+   ],
+   [
+    "Held by",
+    "Nobody who would admit it"
+   ],
+   [
+    "The Gullet",
+    "A tide-cave down to the Below, passable at low water"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14642,7 +14827,14 @@
    "undertow",
    "widows-teeth",
    "hospitality",
-   "below"
+   "below",
+   "house-stormweaver",
+   "ironfort",
+   "long-war",
+   "vice-and-the-black-market",
+   "varan-port",
+   "hollowkey",
+   "trade-of-the-northern-frontier"
   ],
   "illustration": {
    "src": "assets/scenes/black-harbor-painterly-v1-960.webp",
@@ -14652,6 +14844,10 @@
    "height": 1024,
    "alt": "Sailors unload a boat on the fog-bound wharves of Black Harbor beneath Greyhaven.",
    "caption": "Fog and bell-codes shelter the Frontier’s untaxed trade."
+  },
+  "epigraph": {
+   "quote": "Ring twice for a friend, once for the tithe-man, and never for the Bellmistress.",
+   "by": "A Black Harbor boatman"
   },
   "translations": {
    "es": "complete"
@@ -15112,7 +15308,7 @@
    {
     "title": "In the islands",
     "paragraphs": [
-     "Below Greyhaven, in the same fog, lies Black Harbor, the smugglers’ capital of the Frontier, a warren of wharves and sea-caves. The Fogrunners land untaxed cargo there by bell-codes so exact that they can thread the Widow’s Teeth blind: the same codes every Greyhaven child learns, which the house has never found a way to stop anyone learning.",
+     "Below Greyhaven, in the same fog, lies Black Harbor, the smugglers’ capital of the Frontier, a warren of wharves and sea-caves. The Fogrunners land untaxed cargo there by bell-codes so exact that they can thread the Widow’s Teeth blind: the same codes every Greyhaven child learns, and the house has never asked how they learned them.",
      "Greyhaven sells its salt-fish and smoked herring to the whole north and to the Heartland at 8 Tides a barrel, keeps the lights of every coast, and has never once been a comfortable place to live. Its people would not live anywhere else."
     ]
    },
@@ -15475,18 +15671,47 @@
   "category": "place",
   "region": "Northern Frontier",
   "subtitle": "The salt of the whole north",
-  "summary": "Saltreach is a flat coast of pans, sluices, and salt-sheds, held by the Hallorn trading house, whose Lord-Mistress holds the Frontier's salt monopoly.",
+  "summary": "Saltreach is a flat coast of pans, sluices, and salt-sheds on the Frontier’s western shore: the salt of the whole north, held by House Hallorn, and wanted by the Charterhouse Company.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The pans",
     "paragraphs": [
-     "The salt-workers are the most organized labor in the north, and they have struck four times in living memory. The pans are the source of the salt that the Charterhouse Company buys to hold its southern monopoly, and the trade between the Hallorn sheds and the Company's agents in Southhaven is one of the most profitable and least discussed secrets of the Frontier."
+     "Saltreach is a sprawling fishing-and-salt town on the flat western coast of the Frontier, and its salt-pans stretch for miles. The sea is let in through sluices and left to dry in the wind, and from spring to autumn the panners rake the salt for a little more than a field hand’s wage. A fifty-pound sack costs 2 Bits at the pans and 5 in the Heartland.",
+     "The salt-workers are the most organized labor in the north, and they have struck four times in living memory. The pan-wardens keep the sluices and the shares, and every Hallorn barrel is a Pennick barrel, made by the coopers of House Pennick.",
+     "The Saltreach light is a low tower on a flat coast of salt pans, and its keeper trusts her lantern mouse over her own eyes."
+    ]
+   },
+   {
+    "title": "Salt and herring",
+    "paragraphs": [
+     "House Hallorn, Salt Keeps, holds the Saltreach pans and the Greyhaven fish-halls, and with them the salt and the herring of the north. It victuals the garrisons and the fleets: House Faust’s soldiers eat Hallorn salt-fish, the Armada’s contracts are Hallorn’s, and the house helps pay for Greyhaven’s harbor-lights. In a bad year the Hallorn salt-houses are rich enough to buy a Council seat’s worth of influence.",
+     "The Charterhouse Company buys Saltreach salt to hold its southern monopoly, and the trade between the Hallorn sheds and the Company’s agents in Southhaven is one of the most profitable and least discussed secrets of the Frontier."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "Aldric Hallorn heads the house: broad, blunt, and losing. His daughter Wynne runs the Armada contracts. His son Rowan, a Silver Hunter who left the trade, is the only Hallorn who is not worried."
+    ]
+   },
+   {
+    "title": "The Company’s offer",
+    "paragraphs": [
+     "After two bad herring years in a row, the Charterhouse Company has offered to buy the Saltreach pans. If it gets them, it will hold the salt of the whole archipelago, north and south, and with it every barrel of salt-fish that feeds the fleets. Aldric has not said no.",
+     "A Company writ-man has been seen walking the pans with a measuring-chain, and a panner’s family has been offered more for its pans than the pans are worth. Among the Twelve Flags, Hallorn and the Oruma are the Company’s chief targets, and Aldric would take any honest offer that let him say no."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Salt keeps the islands. It keeps the herring of Greyhaven, the meat of the garrisons, and the stores of every ship that sails for more than a week, and salt and salt-fish from Saltreach and Greyhaven reach the Heartland at 5 Bits a sack and 8 Tides a barrel. Whoever holds Saltreach holds the north’s larder."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“A hush owl went quiet at a wedding in Saltreach last Storm Water, and the groom has not been seen since.” (a Frontier tavern)"
+     "“A hush owl went quiet at a wedding in Saltreach last Storm Water, and the groom has not been seen since.” (a Frontier tavern)",
+     "“The panners say the Company man’s chain is a link short, and he measures every pan a little smaller than it is.” (a Saltreach panner)"
     ]
    }
   ],
@@ -15494,6 +15719,22 @@
    [
     "Region",
     "The Northern Frontier"
+   ],
+   [
+    "Known for",
+    "Salt, and the salt-fish it keeps"
+   ],
+   [
+    "Held by",
+    "House Hallorn, under Aldric Hallorn"
+   ],
+   [
+    "The light",
+    "A low tower on the flat coast"
+   ],
+   [
+    "The offer",
+    "The Charterhouse Company wants the pans"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15502,8 +15743,18 @@
    "twelve-flags",
    "charterhouse-company",
    "southhaven",
-   "northern-frontier"
+   "northern-frontier",
+   "greyhaven",
+   "lantern-mouse",
+   "lighthouses",
+   "field-mine-and-herd",
+   "trade-of-the-northern-frontier",
+   "house-faust"
   ],
+  "epigraph": {
+   "quote": "Salt keeps everything but a secret.",
+   "by": "A Saltreach pan-warden"
+  },
   "translations": {
    "es": "complete"
   }
@@ -15810,12 +16061,48 @@
   "category": "place",
   "region": "Northern Frontier",
   "subtitle": "Where the north builds its ships",
-  "summary": "Stormreach is the seat of House Vanris and the largest shipbuilding yard in the north.",
+  "summary": "Stormreach is the seat of House Vanris and the hardest water in the islands: the strait between the Frontier and the Heartland, the largest shipyards in the north, and the storm-watch.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The strait",
     "paragraphs": [
-     "The Stormguard Hold is a fortress on a rock above the strait, and the house's yards build the best storm-hulls in the islands and charge a premium for them. The Ninth Fleet, the Standing Storm, keeps its base here, and the Galven crews of the great Juggernaut storm-runners sleep in the lower wards. The town is named for the weather and lives by it. Its spring water fizzes naturally from the rock, and the Galven call it stormwater, shaking it into their kellum and swearing that lightning tastes the same. Mortimer Vanris holds the seat, and his brother Rodrick and the spymaster Cassandra Dosslas hold the house together around him."
+     "Stormreach is a strait and the four places that hold it. Stormguard Hold, the Vanris seat, is a fortress on a rock above the water: grey towers, green banners, and a lantern at the top that a member of the family lights every night, or whoever the family has failed to send. Keelhaven, the yard-town, lies under it on the northern shore. Pilot’s Isle sits in the strait, and the Coilward, a fort and harbor on the southern shore, stands where the Heartland begins.",
+     "The strait is the Stormreach Coil, where the currents pull hard between the islands and the wind comes around the headlands with a shriek that sailors learn to hear before they see the squall. In it lies the Serpent’s Coil, a ring of reefs shaped like a serpent coiled about a tower; ships bound for the yards take a Stormreach pilot through it or go the long way round, and only the Vanris pilots of Pilot’s Isle are allowed to learn its channels.",
+     "The town is named for the weather and lives by it. Its spring water fizzes from the rock, and the Galven call it stormwater, shake it into their kellum, and swear that lightning tastes the same. On its beaches the lightning fuses the sand into stormglass, which the Galven gather and the lantern-makers prize at 5 to 50 Anchors a piece."
+    ]
+   },
+   {
+    "title": "The yards",
+    "paragraphs": [
+     "Keelhaven grew under the Hold from about 20 EC, and the Vanris yards became the largest in the north: slipways, ropewalks, timber-ponds, and sail-lofts, and the noise of hammers from before dawn to after dark. They build the best storm-hulls in the islands and charge for it, launch some thirty hulls in a good year, and in 78 EC launched the first Juggernaut, built for the Galven crews who would sail her into weather no one else would. On the day a head of the house dies, the hammers do not start at all.",
+     "The yards build for the Armada and the merchant fleets alike, Corvane’s great hulls among them, and the Shipwrights’ Guild counts them with Goldwind’s Sentinel Docks as its two great yards. The rope-makers and sail-makers of Keelhaven are rich, quiet, and owed money by everyone on the slipways. The Reckoners’ counting-house beside the yards writes more bottomry on new storm-hulls than any other, and the strait-money passes through its books."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "Every ship that passes the strait pays the strait-money, one Tide a mast, counted at the Coilward, and every ship bound for the yards takes a pilot. The Galven crews of the great Juggernaut storm-runners sleep in the lower wards, and the Ninth Fleet of the Armada, the Standing Storm, keeps its base here for heavy-weather work under Skarrei Ninth-Squall, called Thunderhead.",
+     "The sea-road from Ironfort to Stormreach belongs, in their own opinion, to the Tollmen: decorated veterans who run a protection racket on its shipping, genuinely convinced that the Council owes them for a war it never paid out."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "House Vanris, Unyielding as the Storm, holds the strait, and so holds a great deal of who and what moves between the Frontier and the Heartland. Lord Mortimer Vanris holds the seat. His younger brother, Sir Rodrick, is the man the house’s captains actually follow, and Rodrick and the spymaster, Lady Cassandra Dosslas, hold the house together around him. Everyone in Stormreach knows it.",
+     "The Coil Marines, about 2,200 in storm-grey and green, man the house’s warships, garrison Stormguard and the Coilward, and board anything that does not stop; the Hold Guard, about 600, keeps the Hold and Keelhaven. House Quellin is Warden of Pilot’s Isle and House Callant of the Coilward. The Coil, the pilots, and the guns of the Hold and the Coilward make the strait the hardest water in the islands to force, and the house knows it."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "Stormreach keeps the storm-watch of the north. House Vanris lit its lantern on Stormguard Hold as an answer to Greyhaven’s light, and the two houses have argued ever since over whose lights the north should trust; Vanris has petitioned the Council three times to split the Light-Warrant. This year, when Vanris went to war with the Stormchanters, it asked Greyhaven for storm-mages, and Lady Elara’s answer, *We do not fight storms with storms*, has not been forgiven.",
+     "In the Long War, Stormreach’s company sails as the Keelhaven Stairs. In the Council, the Strait Case needs a witness who has counted the masts at Stormreach, and Vanris would rather that witness never arrived."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Everything that sails between the north and the Heartland passes Stormreach, pays it, and is counted. The Vanris fleet is the largest house fleet afloat, its yards are on the Congress’s board, and the house’s Floating Pavilion, which is not in Stormreach at all, cost more than the Stormguard’s new wall."
     ]
    },
    {
@@ -15830,6 +16117,22 @@
    [
     "Region",
     "The Northern Frontier"
+   ],
+   [
+    "Known for",
+    "Storm-hulls, the strait-money, and stormwater"
+   ],
+   [
+    "Held by",
+    "House Vanris, under Lord Mortimer Vanris"
+   ],
+   [
+    "The strait-money",
+    "One Tide a mast, counted at the Coilward"
+   ],
+   [
+    "The fleet",
+    "The Ninth, the Standing Storm"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15840,8 +16143,20 @@
    "galven",
    "noble-houses",
    "northern-frontier",
-   "serpents-coil"
+   "serpents-coil",
+   "skarrei-ninth-squall",
+   "reckoners-hall",
+   "greyhaven",
+   "house-stormweaver",
+   "lighthouses",
+   "long-war",
+   "returned-crown-and-the-tollmen",
+   "trade-of-the-northern-frontier"
   ],
+  "epigraph": {
+   "quote": "Pay the mast-money, take the pilot, and don’t argue with the Coil.",
+   "by": "A Keelhaven pilot"
+  },
   "translations": {
    "es": "complete"
   }

@@ -4871,7 +4871,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIEd1ZXJyYSBkZWwgW1tBc2NlbmRlbnRlfEFzY2VuZGFudF1dKioiLCAiTGEgY2F0w6FzdHJvZmUgYSBsYSBxdWUgYW50ZXMgbGxhbWFiYW4gXCJlbCBbW0luY2lkZW50ZSBkZWwgTWFnbyBMb2NvfE1hZCBNYWdlIEluY2lkZW50XV1cIiBhaG9yYSB0aWVuZSB1biBub21icmUgY29tbyBzZSBkZWJlIHkgdW4gdmlsbGFubyBjb21vIHNlIGRlYmUuIiwgIkhhY2Ugc2V0ZW50YSBhw7FvcyAoaGFjaWEgZWwgMTA1IEVDKSwgZWwgYXJjaGltYWdvICoqRWxkcmljIE1vcnZhbmUsIGxsYW1hZG8gZWwgQXNjZW5kZW50ZSoqLCBkZWNsYXLDsyBxdWUgbGEgbWFnaWEgcmVnaXN0cmFkYSwgY29udHJvbGFkYSB5IGNvbiBjb3JyZWEgZXJhIHVuYSBqYXVsYSBjb25zdHJ1aWRhIHBvciBsb3MgcGVxdWXDsW9zIHBhcmEgYXRhciBhIGxvcyBncmFuZGVzLCB5IHF1ZSBsb3MgbWFnb3MgZXJhbiBsb3MgZ29iZXJuYW50ZXMgbmF0dXJhbGVzIGRlbCBtdW5kby4gUmV1bmnDsyB1biBlasOpcmNpdG8gZGUgdm9sdW50YXJpb3MsIGRlIG9ibGlnYWRvcyB5IGRlICoqYXRhZG9zIGEgbGEgS3J5c3RhKiogKGVzY2xhdml6YWRvcyBwb3IgdW5hIHRhdW1hdHVyZ2lhIHByb2hpYmlkYSBkZSBzdSBwcm9waWEgaW52ZW5jacOzbikgeSBjYXNpIGNvbnF1aXN0YSBsYXMgaXNsYXMgZGVsIFtbQ29yYXrDs258SGVhcnRsYW5kXV0gYW50ZXMgZGUgcXVlIGxhIHByaW1lcmEgKipbW0dyYW4gQ29hbGljacOzbnxHcmFuZCBDb2FsaXRpb25dXSoqLCBbW0NhemFkb3Jlc3xIdW50ZXJzXV0sIEFybWFkYSwgY2FzYXMgbm9ibGVzIHkgW1tVbml2ZXJzaWRhZHxVbml2ZXJzaXR5XV0ganVudG9zLCBsbyBkZXJyaWJhcmEgZW4gbGEgZ3VlcnJhIHF1ZSBsbGV2YSBzdSBub21icmUsICoqbGEgR3VlcnJhIGRlbCBBc2NlbmRlbnRlLioqIiwgIkxhIGFtYXJnYSBpcm9uw61hIGVzIHN1IGxlZ2FkbzogbGEgZGVycm90YSBkZSBNb3J2YW5lIGNyZcOzIGVsICoqW1tSZWdpc3RybyBBcmNhbm98QXJjYW5lIFJlZ2lzdHJ5XV0qKiwgbGEgbWlzbWEgamF1bGEgY29udHJhIGxhIHF1ZSBtdXJpw7MgZGVzcG90cmljYW5kbywgY2VycmFkYSBhaG9yYSBzb2JyZSBjYWRhIGFyY2FuaXN0YSBkZSBsYXMgdGllcnJhcyBkZWwgW1tDb25zZWpvfENvdW5jaWxdXS4gUGVybyBlbCBwZWxpZ3JvIG3DoXMgaG9uZG8gZXMgc3UgKippbnZlc3RpZ2FjacOzbi4qKiBMYXMgdMOpY25pY2FzIHByb2hpYmlkYXMgZGUgTW9ydmFuZSBwYXJhIGF0YXIgYSBsYSBLcnlzdGEsIGxhIGVzY2xhdml0dWQgZGUgbGEgbWVudGUgeSBsYSBtYWdpYSBhIHRyYXbDqXMgZGUgbGEgcGllZHJhIGNhdGFsaXphZG9yYSwgbm8gbXVyaWVyb24gY29uIMOpbC4gU3VzIGdyaW1vcmlvcyB5IHN1cyBub3RhcyBzZSAqKmRpc3BlcnNhcm9uKio6IGFsZ3Vub3Mgc2VsbGFkb3MgZW4gbGFzIGLDs3ZlZGFzIG3DoXMgaG9uZGFzIGRlIGxhIFVuaXZlcnNpZGFkLCBhbGd1bm9zIGVuIGxhIGNvbGVjY2nDs24gcHJpdmFkYSBkZSBsb3MgW1tFc3BpbmFwbGF0YXxTaWx2ZXJ0aG9ybl1dLCBhbGd1bm9zIHBlcmRpZG9zIGVuIGVsIG1lcmNhZG8gbmVncm8uIFkgZXNlIGxpbmFqZSBkZSB0YXVtYXR1cmdpYSBwcm9oaWJpZGEgZGUgbGEgS3J5c3RhIGVzIGVsICoqYW50ZXBhc2FkbyBkaXJlY3RvKiogZGUgbG8gcXVlIGhhY2UgaG95IGxhICoqW1tDb3Jwb3JhY2nDs24gUmFua2FyfFJhbmthciBDb3Jwb3JhdGlvbl1dKiogZW4gbGFzIGN1YmFzIHF1ZSBtYW50aWVuZW4gYWwgZmFsc28gRGlvOiBhdGFyIGxhIGNvbmNpZW5jaWEgYSB0cmF2w6lzIGRlIGxhIEtyeXN0YS4gTW9ydmFuZSBwZXJkacOzIHN1IGd1ZXJyYSBoYWNlIHNldGVudGEgYcOxb3M7IHN1IGNpZW5jaWEgc2lndWUgZ2FuYW5kbywgY2FsbGFkYSwgZW4gbGEgb3NjdXJpZGFkLiAoVW4gY2FibyBzdWVsdG8sIHF1ZSBzZSBkZWphIHZpdm86IHVuICoqaGVyZWRlcm8gbyDDumx0aW1vIGFwcmVuZGl6KiogZXNjb25kaWRvIGRlbCBBc2NlbmRlbnRlLCB5IGVsIGdyYW4gaW50ZXLDqXMgZGVsICoqW1tJbXBlcmlvfEltcGVyaXVtXV0qKiBwb3IgcmVjdXBlcmFyIHN1IG9icmEuKSJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbR3VlcnJhIGRlbCBBc2NlbmRlbnRlfEFzY2VuZGFudCdzIFdhcl1dKioiLCAiTGEgY2F0w6FzdHJvZmUgYSBsYSBxdWUgYW50ZXMgbGxhbWFiYW4gXCJlbCBbW0luY2lkZW50ZSBkZWwgTWFnbyBMb2NvfE1hZCBNYWdlIEluY2lkZW50XV1cIiBhaG9yYSB0aWVuZSB1biBub21icmUgY29tbyBzZSBkZWJlIHkgdW4gdmlsbGFubyBjb21vIHNlIGRlYmUuIiwgIkhhY2Ugc2V0ZW50YSBhw7FvcyAoaGFjaWEgZWwgMTA1IEVDKSwgZWwgYXJjaGltYWdvICoqRWxkcmljIE1vcnZhbmUsIGxsYW1hZG8gZWwgW1tBc2NlbmRlbnRlfEFzY2VuZGFudF1dKiosIGRlY2xhcsOzIHF1ZSBsYSBtYWdpYSByZWdpc3RyYWRhLCBjb250cm9sYWRhIHkgY29uIGNvcnJlYSBlcmEgdW5hIGphdWxhIGNvbnN0cnVpZGEgcG9yIGxvcyBwZXF1ZcOxb3MgcGFyYSBhdGFyIGEgbG9zIGdyYW5kZXMsIHkgcXVlIGxvcyBtYWdvcyBlcmFuIGxvcyBnb2Jlcm5hbnRlcyBuYXR1cmFsZXMgZGVsIG11bmRvLiBSZXVuacOzIHVuIGVqw6lyY2l0byBkZSB2b2x1bnRhcmlvcywgZGUgb2JsaWdhZG9zIHkgZGUgKiphdGFkb3MgYSBsYSBLcnlzdGEqKiAoZXNjbGF2aXphZG9zIHBvciB1bmEgdGF1bWF0dXJnaWEgcHJvaGliaWRhIGRlIHN1IHByb3BpYSBpbnZlbmNpw7NuKSB5IGNhc2kgY29ucXVpc3RhIGxhcyBpc2xhcyBkZWwgW1tDb3JhesOzbnxIZWFydGxhbmRdXSBhbnRlcyBkZSBxdWUgbGEgcHJpbWVyYSAqKltbR3JhbiBDb2FsaWNpw7NufEdyYW5kIENvYWxpdGlvbl1dKiosIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSwgQXJtYWRhLCBjYXNhcyBub2JsZXMgeSBbW1VuaXZlcnNpZGFkfFVuaXZlcnNpdHldXSBqdW50b3MsIGxvIGRlcnJpYmFyYSBlbiBsYSBndWVycmEgcXVlIGxsZXZhIHN1IG5vbWJyZSwgKipsYSBHdWVycmEgZGVsIEFzY2VuZGVudGUuKioiLCAiTGEgYW1hcmdhIGlyb27DrWEgZXMgc3UgbGVnYWRvOiBsYSBkZXJyb3RhIGRlIE1vcnZhbmUgY3Jlw7MgZWwgKipbW1JlZ2lzdHJvIEFyY2Fub3xBcmNhbmUgUmVnaXN0cnldXSoqLCBsYSBtaXNtYSBqYXVsYSBjb250cmEgbGEgcXVlIG11cmnDsyBkZXNwb3RyaWNhbmRvLCBjZXJyYWRhIGFob3JhIHNvYnJlIGNhZGEgYXJjYW5pc3RhIGRlIGxhcyB0aWVycmFzIGRlbCBbW0NvbnNlam98Q291bmNpbF1dLiBQZXJvIGVsIHBlbGlncm8gbcOhcyBob25kbyBlcyBzdSAqKmludmVzdGlnYWNpw7NuLioqIExhcyB0w6ljbmljYXMgcHJvaGliaWRhcyBkZSBNb3J2YW5lIHBhcmEgYXRhciBhIGxhIEtyeXN0YSwgbGEgZXNjbGF2aXR1ZCBkZSBsYSBtZW50ZSB5IGxhIG1hZ2lhIGEgdHJhdsOpcyBkZSBsYSBwaWVkcmEgY2F0YWxpemFkb3JhLCBubyBtdXJpZXJvbiBjb24gw6lsLiBTdXMgZ3JpbW9yaW9zIHkgc3VzIG5vdGFzIHNlICoqZGlzcGVyc2Fyb24qKjogYWxndW5vcyBzZWxsYWRvcyBlbiBsYXMgYsOzdmVkYXMgbcOhcyBob25kYXMgZGUgbGEgVW5pdmVyc2lkYWQsIGFsZ3Vub3MgZW4gbGEgY29sZWNjacOzbiBwcml2YWRhIGRlIGxvcyBbW0VzcGluYXBsYXRhfFNpbHZlcnRob3JuXV0sIGFsZ3Vub3MgcGVyZGlkb3MgZW4gZWwgbWVyY2FkbyBuZWdyby4gWSBlc2UgbGluYWplIGRlIHRhdW1hdHVyZ2lhIHByb2hpYmlkYSBkZSBsYSBLcnlzdGEgZXMgZWwgKiphbnRlcGFzYWRvIGRpcmVjdG8qKiBkZSBsbyBxdWUgaGFjZSBob3kgbGEgKipbW0NvcnBvcmFjacOzbiBSYW5rYXJ8UmFua2FyIENvcnBvcmF0aW9uXV0qKiBlbiBsYXMgY3ViYXMgcXVlIG1hbnRpZW5lbiBhbCBmYWxzbyBEaW86IGF0YXIgbGEgY29uY2llbmNpYSBhIHRyYXbDqXMgZGUgbGEgS3J5c3RhLiBNb3J2YW5lIHBlcmRpw7Mgc3UgZ3VlcnJhIGhhY2Ugc2V0ZW50YSBhw7Fvczsgc3UgY2llbmNpYSBzaWd1ZSBnYW5hbmRvLCBjYWxsYWRhLCBlbiBsYSBvc2N1cmlkYWQuIChVbiBjYWJvIHN1ZWx0bywgcXVlIHNlIGRlamEgdml2bzogdW4gKipoZXJlZGVybyBvIMO6bHRpbW8gYXByZW5kaXoqKiBlc2NvbmRpZG8gZGVsIEFzY2VuZGVudGUsIHkgZWwgZ3JhbiBpbnRlcsOpcyBkZWwgKipbW0ltcGVyaW98SW1wZXJpdW1dXSoqIHBvciByZWN1cGVyYXIgc3Ugb2JyYS4pIl19"
    }
   ]
  },
@@ -10821,19 +10821,81 @@
  },
  "aurelion": {
   "subtitle": "Un humo que se ve desde Ventoro",
-  "summary": "Aurelion es la ciudad-forja de la costa norte y la sede de la casa Forjasol.",
+  "summary": "Aurelion es la ciudad-forja de la costa norte del Corazón y la sede de la Casa Forjasol: carbón, hierro y un puerto hondo, la única casa de prueba del Corazón y un humo que se ve desde Ventoro.",
   "facts": [
    [
     "Región",
-    "El [[Corazón Central|Central Heartland]]"
+    "[[Corazón Central|Central Heartland]]"
+   ],
+   [
+    "Conocido por",
+    "Metalurgia, armas de fuego y orfebrería"
+   ],
+   [
+    "En manos de",
+    "La Casa [[Forjasol|Sunforge]], bajo [[Señor|Lord]] Eamon"
+   ],
+   [
+    "Fundación",
+    "Hacia 12 EC"
+   ],
+   [
+    "La prueba",
+    "La única [[casa de prueba|proof-house]] del [[Corazón|Heartland]]"
    ]
   ],
   "title": "Aurelion",
+  "epigraph": {
+   "quote": "Pregúntale a una niña de Aurelion cuándo nació, y te dirá qué campana.",
+   "by": "Un escribiente de Ventoro"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "La ciudad-forja",
     "paragraphs": [
-     "El humo de Aurelion se ve desde [[Ventoro|Goldwind]] en un día claro, y su metalurgia, sus armas de fuego y su orfebrería llenan los almacenes del Congreso. La casa [[Forjasol|Sunforge]] es la casa de maestros herreros del [[Corazón|Heartland]], fabulosamente rica y muy atada al Congreso. Sus forjas, las obras de Forjasol, son el único lugar del Corazón donde se puede hacer un arma de fuego con la prueba reglamentaria, y los herreros de Aurelion guardan el secreto de esa prueba con el mismo cuidado con que el [[Consejo|Council]] guarda sus escaños."
+     "Aurelion está en la costa norte del Corazón, donde la Casa Forjasol encontró juntos carbón, hierro y un puerto hondo hacia 12 EC y construyó la ciudad alrededor de ellos. Su humo se ve desde [[Ventoro|Goldwind]] en un día claro. Las obras Forjasol, las grandes fraguas a lo largo del puerto, hacen hojas, armas de fuego y metal fino, y cada fragua de la ciudad tiene un sapo fuelle que la sopla. Un herrero con sapo es un maestro, y los [[Herreros|Smiths]] llevan un libro de crianza de sapos famosos.",
+     "La ciudad vive al ritmo de las campanas de turno de las obras. A los niños de Aurelion se les pone nombre en las obras, bajo las campanas, y la campana que suena en el momento del nombre queda escrita en el registro del niño. En la [[Guerra del Ascendente|Ascendant’s War]], en 105 EC, las obras trabajaron día y noche durante un año para armar a la primera [[Gran Coalición|Grand Coalition]], y las campanas tocaron los turnos tan seguido que a los niños nacidos ese año les dijeron *[[niños de campana|bell-babies]]*."
+    ]
+   },
+   {
+    "title": "La prueba",
+    "paragraphs": [
+     "El [[Gremio de Herreros|Smiths’ Guild]] se fundó en Aurelion hacia 30 EC, bajo el patronazgo de los Forjasol, para sellar el trabajo honrado, y todo lo ordinario de las islas viene hoy en [[hechura de puerto|harbor make]] o en [[hechura probada|proof make]]; la mejor prueba es la de Aurelion. Las obras Forjasol son el único lugar del Corazón donde un arma de fuego se puede hacer con norma de prueba. Un Anvell prueba cada arma de fuego de Aurelion y guarda el secreto de la prueba en la familia, y solo los Forjasol y los maestros de la Casa Anvell pueden entrar al cuarto de adentro.",
+     "El Gremio le paga a la casa por su salón, y la casa cobra una pequeña cuota por cada sello que se golpea en la ciudad. En la calle de los joyeros, los ensayadores de oro prueban cada lingote que entra en Aurelion y muchos que solo pasan. El [[Gremio de Joyeros|Jewelers’ Guild]] fija desde aquí y desde la [[Isla del Zafiro|Sapphire Isle]] el precio del zafiro, y los refinadores le venden oro a la [[Ceca de la Carta|Charter Mint]] a un precio que el Gremio fija cada primavera."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Un jinete Holst en un [[uro|auroc]] doméstico puede llevar una carta de Ventoro a Aurelion en un día, y unos dieciocho cascos mercantes llevan el trabajo de Aurelion al resto de las islas. El puerto es la puerta de entrada de las obras, y un visitante oye la ciudad antes de verla."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Forjasol, el [[Martillo Dorado|Golden Hammer]], es uno de los diez [[Grandes Señores|Highlords]]: maestros herreros de las [[Ciudades Libres|Free Cities]] del continente antes del [[Desembarco|Landing]], elevados a la nobleza por armar a la [[Alianza|Alliance]] en una guerra que casi perdió. Señor Eamon gobierna Aurelion hoy. Cada Forjasol, de cada rama, aprende un oficio en la fragua o en el banco antes de aprender a montar, y ocho casas le han jurado lealtad, casi todas familias de gremio elevadas a la nobleza por su oficio.",
+     "La casa tiene una fuerza pequeña, mejor armada que la de nadie: la [[Guardia del Martillo|Hammer Guard]], unos 800 soldados de oro y blanco, cada uno con una hoja de hechura probada, un peto Forjasol y un mosquete de Aurelion. Su verdadera fuerza son las obras, porque en una guerra las fraguas de Aurelion arman a todos los demás. Es la casa noble más cercana al [[Congreso Mercantil|Mercantile Congress]], y los Tesoreros tienen una [[casa de cuentas|counting-house]] en la ciudad, donde las armas de fuego se compran a crédito, cosa que a la Casa le parece muy sensata y a los Herreros muy cara."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Una buena espada cuesta de 20 a 100 [[Anclas|Anchors]]; una hoja Forjasol cuesta más, y las hojas de Fergus Forjasol nunca se venden: se regalan, a alguien que la casa juzga digno. Una pistola de obra fina de Aurelion cuesta 200 Anclas o más, y es el arma de fuego más codiciada de las islas, que llevan capitanes, duelistas y los hijos menores de la Casa Faust.",
+     "La Casa Faust compra aquí su mejor equipo de guerra cada año y nunca, ni una vez, ha admitido que es el mejor. Los fuertes de la [[Frontera|Frontier]] compran armas de fuego de Aurelion a la mitad más del precio de Ventoro, el sur compra sus herramientas y el hielo su acero de arpón."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Aurelion y [[Caída Eterna|Everfall]] hacen las armas de fuego de las islas, y las islas tienen solo lo que ellas hacen, frente a un [[Imperio|Imperium]] que tiene cañones de campaña en cantidad. Las armas de fuego las gobiernan las leyes de armas del [[Consejo|Council]] y las rompen todos, y las armas que llegan a rebeldes y piratas son importadas de las Ciudades Libres o desviadas de Aurelion, a dos o tres veces el precio legal.",
+     "El martillo dorado está estampado en más metal fino que ninguna otra marca de las islas, y el lema de la casa está estampado en su gente: *A mano y a fuego.*"
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“La mitad de las armas que carga la Legión salieron de Aurelion por la puerta de atrás, una caja a la vez, y cada caja llevaba sello de prueba.” (se oye en las Tierras Salvajes del Sur)",
+     "“Hay un sello de prueba Anvell en una pistola de las Ciudades Libres en Cayo Hueco, y los Anvell juran que nunca han visto esa pistola.” (un armero de Ventoro)"
     ]
    }
   ]
@@ -10841,25 +10903,83 @@
  "bastion": {
   "gloss": "Bastion",
   "subtitle": "La puerta del norte",
-  "summary": "Bastión es la sede de la Casa Faust, la fortaleza-puerta del norte.",
+  "summary": "Bastión es la sede de la Casa Faust y la fortaleza-puerta del norte: una ciudad gris de patios de instrucción y herrerías sobre una colina por encima del camino de Fuerte de Hierro, con los fuertes de la Puerta y las Fortalezas de Bastión tendidos a lo largo del camino de mar, a sus pies.",
   "facts": [
    [
     "Región",
-    "La [[Frontera del Norte|Northern Frontier]]"
+    "[[Frontera del Norte|Northern Frontier]]"
+   ],
+   [
+    "Conocido por",
+    "Los torneos de Ezra, el hierro y la guarnición de la [[Puerta|Gate]]"
+   ],
+   [
+    "En manos de",
+    "La Casa Faust, bajo [[Señor|Lord]] Johann Faust"
+   ],
+   [
+    "La guarnición",
+    "Unos 6,500 soldados y 800 jinetes"
+   ],
+   [
+    "Construido con",
+    "La piedra oscura de sus propias minas"
    ]
   ],
   "title": "Bastión",
+  "epigraph": {
+   "quote": "Bastión resiste, así que resistimos.",
+   "by": "Un dicho de la Frontera"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "La colina sobre el camino",
     "paragraphs": [
-     "[[Bastión|Bastion]] se alza en una isla fortificada en la boca del camino de mar del este, con una muralla que ha resistido a todas las flotas que la pusieron a prueba. La guarnición Faust es la fuerza permanente más grande del archipiélago fuera de la Armada, y las granjas de remonta de la casa le dan caballos a media [[Frontera|Frontier]]. Los torneos de Bastión, que se hacen cada primavera en Ezra, son el gran espectáculo marcial del norte, y los ganadores se llevan a casa el sello de los Faust como señal de rango. Johann Faust, capitán del *[[Jubiloso|Jubilant]]* y [[Cazador|Hunter]] célebre, es el hijo más famoso de la casa, y su lealtad partida entre la sangre y el juramento es el problema privado de la casa del que más se habla."
+     "[[Bastión|Bastion]] es una ciudad-fortaleza sobre una colina por encima del largo camino gris que viene de [[Fuerte de Hierro|Ironfort]], construida con la piedra oscura de sus propias minas de la colina: toda piedra gris y patios de instrucción. El fundador de la Casa Faust la levantó ahí, y el primero de los [[fuertes de la Puerta|Gate forts]] en la [[Roca del Puño|Fistrock]], y el [[Consejo|Council]] le concedió a la casa su Dominio a cambio. Cada mañana los patios de instrucción se llenan del choque del acero de práctica.",
+     "La ciudad mira desde arriba el camino de mar. Los fuertes de la Puerta se alzan a lo largo de él, el primero en la Roca del Puño, cuya hoguera de señales se ve desde Bastión en lo que se tarda en decir tres veces el lema de la casa: *Resistimos.* Más allá están las [[Fortalezas de Bastión|Bastion Holds]], una cadena de islas fortificadas unidas por calzadas y puentes que los ingenieros Faust construyeron y reconstruyeron durante cuatro generaciones, y las baterías de [[Fuerte Estela|Wakefort]] y del [[Islote Frío|Coldholm]], fundidas por Forjasol, cubren el estrecho."
+    ]
+   },
+   {
+    "title": "Hierro y caballos",
+    "paragraphs": [
+     "Las minas de la colina de Bastión sacan el hierro de la [[Frontera|Frontier]] y un poco de plata, y sus mineros ganan de 1½ a 2 [[Anclas|Anchors]] al mes. Las herrerías al pie de la fortaleza hacen el mejor hierro de la Frontera y buena parte de su acero. Un Corrick dirige las herrerías desde que se encendió el primer horno, y Wilhelm Faust se ha peleado con cada uno de ellos. Una barra de hierro de Bastión cuesta una [[Marea|Tide]] en la herrería, 2 en el [[Corazón|Heartland]] y 4 en el hielo, donde se vuelve arpones, clavos y estufas. El acero del continente, que baja por la Puerta, es más fino, y nadie en Bastión lo dice en voz alta.",
+     "Los caballos le llegan a Bastión del norte. Los arrieros de [[Confín del Norte|Northreach]] bajan las manadas de los páramos a los corrales de remonta, durmiendo entre el brezo por el camino, y las granjas de remonta de la casa en Confín del Norte montan a media Frontera. Una veintena de caminantes lejanos tarvan sirven en la guarnición por la moneda de la casa, con los mazos y las hachas de sus clanes."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Casi todo el mundo llega a Bastión por el camino de Fuerte de Hierro, detrás de los carreteros Tannick, que acarrean todo lo que va por él. Los barcos entran por el camino de mar bajo los cañones de los fuertes de la Puerta y amarran en el Malecón. Desde Bastión, como desde Fuerte de Hierro, la [[Ruta de la Corona|Crown Route]] sube al norte hasta Castia: quince días contra la [[Corriente de la Corona|Crown Current]], y una semana de vuelta con ella a favor.",
+     "La hospitalidad es ley en la Frontera, y en Bastión la puerta se sostiene. En las colinas cerca del pueblo, las termas en terrazas del [[Descanso de los Soldados|Soldiers’ Rest]] son tierra de tregua por costumbre de hierro: ahí no se desenvaina acero, y hasta las enemistades se detienen en el agua."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Faust, la [[Puerta del Norte|Gate of the North]], tiene Bastión, los fuertes de la Puerta y las granjas de remonta de Confín del Norte. Su cabeza, Señor Johann Faust, es el [[Cazador|Hunter]] más célebre del norte y capitán del *[[Jubiloso|Jubilant]]*, y gobierna desde Bastión y desde su propia cubierta. Su lealtad dividida entre la sangre y el juramento es el problema privado de la casa del que más se habla.",
+     "La guarnición de Bastión son unos 6,500 soldados de gris hierro, en Bastión y en los fuertes de la Puerta, con 800 jinetes: 3,500 de los soldados son de la casa y 3,000 del Consejo. El Consejo paga su mitad, unos 9,000 [[Orsales|Orsals]] al año, y la paga tarde. Los Tesoreros tienen una [[casa de cuentas|counting-house]] en la ciudad, y casi todo su negocio es la paga de los soldados y las deudas de los soldados."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "En Ezra, cada primavera, los torneos de Bastión traen a media Frontera a la colina. Son el gran espectáculo marcial del norte, donde la Casa Faust muestra su destreza y los jóvenes de la Frontera se ponen a prueba, y cada asiento, cada puesto y cada establo los alquila la casa. Un buen asiento en el torneo es uno de los lujos de la Frontera. A los ganadores se les da un pequeño alfiler gris de puño y espada, y lo llevan toda la vida.",
+     "Un Faust no toma vino del continente en Bastión. La casa le compra su mejor equipo de guerra a la Casa [[Forjasol|Sunforge]] de Aurelion, y nunca, ni una vez, ha admitido que es el mejor.",
+     "Los niños que crecen dentro de las murallas crecen como hijos de guarnición, y cuando se llama la leva para la [[Guerra Larga|Long War]], la compañía de Bastión zarpa, como todas, con el nombre de su muelle: el [[Malecón de Bastión|Bastion Mole]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Bastión es la espada de la Frontera, como Fuerte de Hierro es su bolsa. Sus guarniciones comen pescado salado de [[Puerto Gris|Greyhaven]] y sal de Hallorn, su hierro va a cada fragua de las islas, y cuando los Veinte levantaron la leva de 175 EC, Faust mandó 2,000 de sus 4,100 soldados.",
+     "El norte tiene un dicho para los inviernos duros, las malas noticias y los sitios largos por igual, y es sobre esta ciudad."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Kastan Vol Kaern está comprando las deudas de Bastión a través de la casa Zane. Va a ser dueño de la puerta de la Frontera antes de que el Consejo sepa que empezó.” (se oye en el Corazón Central)"
+     "“Kastan Vol Kaern está comprando las deudas de Bastión a través de la casa Zane. Va a ser dueño de la puerta de la Frontera antes de que el Consejo sepa que empezó.” (se oye en el Corazón Central)",
+     "“Los Corrick tienen un horno tapado en Bastión que nadie puede ver, y la escoria que sale de él es azul.” (un carretero Tannick)"
     ]
    }
   ]
@@ -10867,25 +10987,79 @@
  "black-harbor": {
   "gloss": "Black Harbor",
   "subtitle": "Donde la niebla no paga derechos",
-  "summary": "Puerto Negro es la capital de los contrabandistas de la Frontera, un laberinto de muelles y cuevas marinas en la niebla bajo Puerto Gris.",
+  "summary": "Puerto Negro es la capital de los contrabandistas de la Frontera, un laberinto de muelles y cuevas de mar en la niebla bajo Puerto Gris.",
   "facts": [
    [
     "Región",
-    "La [[Frontera del Norte|Northern Frontier]]"
+    "[[Frontera del Norte|Northern Frontier]]"
+   ],
+   [
+    "Conocido por",
+    "Mercancías sin impuestos, papel falso y nombres nuevos"
+   ],
+   [
+    "En manos de",
+    "Nadie que lo vaya a admitir"
+   ],
+   [
+    "El Gaznate",
+    "Una cueva de marea que baja hasta [[Abajo|Below]], solo con la marea baja"
    ]
   ],
   "title": "Puerto Negro",
+  "epigraph": {
+   "quote": "Dos campanadas para un amigo, una para el hombre del diezmo, y ninguna para la Señora de las Campanas.",
+   "by": "Un botero de Puerto Negro"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "El puerto en la niebla",
     "paragraphs": [
-     "[[Puerto Negro|Black Harbor]] es el hogar de los [[Corredores de la Niebla|Fogrunners]], que llevan carga sin impuestos a través de la [[Bruma|Murk]] con códigos de campanas tan exactos que pueden enhebrar los [[Dientes de la Viuda|Widow's Teeth]] a ciegas. Su jefa, Wenna Hollis, la [[Señora de las Campanas|Bellmistress]], nunca ha sido atrapada, porque ningún oficial del [[Diezmo de la Puerta|Gate-Tithe]] ha podido oír nunca lo que dice. El [[Gaznate|Gullet]], una cueva de marea que baja hacia [[Abajo|Below]], se abre en el extremo norte del puerto, y los Corredores de la Niebla lo usan cuando las patrullas del [[Consejo|Council]] están más espesas en la superficie."
+     "[[Puerto Negro|Black Harbor]] es un laberinto de muelles y cuevas de mar en la [[Bruma|Murk]] de [[Puerto Gris|Greyhaven]], y la capital de los contrabandistas de la [[Frontera|Frontier]]. El [[Diezmo de la Puerta|Gate-Tithe]] hizo rica a [[Fuerte de Hierro|Ironfort]] y necesario a Puerto Negro: un décimo de todo lo que pasa hacia Assios o desde Assios es razón suficiente para desembarcarlo en otra parte, y Puerto Negro es donde se desembarca.",
+     "Las mercancías sin impuestos entran a 10 o 20 partes de cada 100 por debajo del mercado, y con ellas llegan refugiados, espías y korvanes imperiales, que encuentran Puerto Negro en lugar del diezmo. Unos cuantos cientos de refugiados al año pasan por la [[Puerta|Gate]], y más por Puerto Negro, donde nadie cuenta. Puerto Negro es para la gente que prefiere que no la cuenten."
+    ]
+   },
+   {
+    "title": "Los Corredores de la Niebla",
+    "paragraphs": [
+     "Los [[Corredores de la Niebla|Fogrunners]] pasan carga sin impuestos por la Bruma con códigos de campana tan exactos que pueden cruzar los [[Dientes de la Viuda|Widow’s Teeth]] a ciegas. Su señal es una campana rajada. Llevan mercancías sin impuestos al sur, y [[vidrio oscuro|dark glass]] al norte, a las [[Ciudades Libres|Free Cities]].",
+     "Los dirige Wenna Hollis, la [[Señora de las Campanas|Bellmistress]], a la que nunca han atrapado, porque nadie la ha visto nunca con tiempo claro, y ningún oficial del Diezmo de la Puerta ha podido oír nunca lo que dice. Las [[Velas Libres|Free Sails]] no tienen maestro, pero cada una sabe por cuál amarradero preguntar en Puerto Negro."
+    ]
+   },
+   {
+    "title": "Lo que se vende aquí",
+    "paragraphs": [],
+    "list": [
+     "**Papel.** Los falsificadores de Puerto Negro, con los de [[Ventoro|Goldwind]], hacen piedra, los sellos falsos de los [[Cartógrafos|Chartwrights]], a 50 [[Anclas|Anchors]], y sellos de aduana falsos.",
+     "**[[Sellos de Latón|Brass Sigils]].** Insignias falsas de [[Cazador|Hunter]], a 30 Anclas. Un [[Sello|Sigil]] verdadero está atado a quien lo lleva y no le sirve de nada a un ladrón, y las [[Logias|Lodges]] cuelgan al falsificador y le quitan la insignia al comprador.",
+     "**Un nombre nuevo,** con papeles, por 20 Anclas.",
+     "**Vidrio oscuro,** Krysta sin registrar, para [[Buentiempo|Fairweather]], los agentes de las Ciudades Libres, los rebeldes y la [[Legión|Legion]].",
+     "**Pasaje.** Una familia de refugiados paga todo lo que tiene para que la desembarquen en Puerto Negro, y algunos contrabandistas desembarcan a sus pasajeros en un arrecife."
+    ]
+   },
+   {
+    "title": "El Gaznate",
+    "paragraphs": [
+     "En el extremo norte del puerto se abre el [[Gaznate|Gullet]], una cueva de marea bajo el agua angosta entre Puerto Negro y la isla siguiente de la Bruma, que baja hasta Abajo. Solo se puede cruzar con la marea baja, y los Corredores de la Niebla la calculan por códigos de campana; la usan cuando las patrullas del [[Consejo|Council]] son más espesas en la superficie."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "Ningún señor tiene Puerto Negro, y ningún escribiente entra en la Bruma. Lo que mantiene la paz es el [[Código|Code]] de la [[Resaca|Undertow]]: un trato cerrado se respeta, y a la tripulación que rompe el Código la sueltan. La Casa [[Tejetormentas|Stormweaver]] cuida las campanas de la costa, los Corredores de la Niebla las usan, y la casa nunca ha preguntado cómo aprendieron."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Puerto Negro es uno de los puertos negros, con Buentiempo y [[Cayo Hueco|Hollowkey]]. La Casa Ostrel, que cobra el Diezmo de la Puerta en Fuerte de Hierro, tiene a los contrabandistas de Puerto Negro por rivales, y ellos le devuelven el cumplido."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“El camino seco. Los caminos de Abajo van de isla en isla, y un contrabandista que los conociera podría llevar una carga a pie de Puerto Negro a Ventoro sin pagar un solo derecho de puerto.” (lo que dice todo el mundo)"
+     "“El camino seco. Los caminos de Abajo van de isla en isla, y un contrabandista que los conociera podría llevar una carga a pie de Puerto Negro a Ventoro sin pagar un solo derecho de puerto.” (lo que dice todo el mundo)",
+     "“Alguien vio una vez a la Señora de las Campanas con tiempo claro. Se compró un bote a la mañana siguiente y se fue al sur, y no ha vuelto.” (una remendadora de redes de Puerto Gris)"
     ]
    }
   ]
@@ -11015,7 +11189,7 @@
   "facts": [
    [
     "Región",
-    "La [[Extensión Helada|Icy Expanse]]"
+    "[[Extensión Helada|Icy Expanse]]"
    ],
    [
     "Conocido por",
@@ -11176,7 +11350,7 @@
   "facts": [
    [
     "Región",
-    "La [[Frontera del Norte|Northern Frontier]]"
+    "[[Frontera del Norte|Northern Frontier]]"
    ],
    [
     "Conocido por",
@@ -11243,7 +11417,7 @@
    {
     "title": "En las islas",
     "paragraphs": [
-     "Debajo de Puerto Gris, en la misma niebla, está [[Puerto Negro|Black Harbor]], la capital de los contrabandistas de la Frontera, un laberinto de muelles y cuevas de mar. Los [[Corredores de la Niebla|Fogrunners]] desembarcan ahí carga sin impuestos con códigos de campana tan exactos que pueden cruzar los Dientes de la Viuda a ciegas: los mismos códigos que aprende cada niño de Puerto Gris, y que la casa nunca ha encontrado cómo impedir que alguien aprenda.",
+     "Debajo de Puerto Gris, en la misma niebla, está [[Puerto Negro|Black Harbor]], la capital de los contrabandistas de la Frontera, un laberinto de muelles y cuevas de mar. Los [[Corredores de la Niebla|Fogrunners]] desembarcan ahí carga sin impuestos con códigos de campana tan exactos que pueden cruzar los Dientes de la Viuda a ciegas: los mismos códigos que aprende cada niño de Puerto Gris, y la casa nunca ha preguntado cómo los aprendieron.",
      "Puerto Gris le vende su pescado salado y su arenque ahumado a todo el norte y al [[Corazón|Heartland]] a 8 Mareas el barril, cuida las luces de todas las costas y nunca, ni una vez, ha sido un lugar cómodo para vivir. Su gente no viviría en ningún otro."
     ]
    },
@@ -11455,25 +11629,74 @@
  "saltreach": {
   "gloss": "Saltreach",
   "subtitle": "La sal de todo el norte",
-  "summary": "Confín de Sal es una costa llana de salinas, compuertas y galpones de sal, en manos de la casa comercial Hallorn, cuya Señora tiene el monopolio de la sal de la Frontera.",
+  "summary": "Confín de Sal es una costa llana de salinas, compuertas y galpones de sal en la orilla oeste de la Frontera: la sal de todo el norte, en manos de la Casa Hallorn, y deseada por la Compañía Casacarta.",
   "facts": [
    [
     "Región",
-    "La [[Frontera del Norte|Northern Frontier]]"
+    "[[Frontera del Norte|Northern Frontier]]"
+   ],
+   [
+    "Conocido por",
+    "La sal, y el pescado salado que conserva"
+   ],
+   [
+    "En manos de",
+    "La Casa Hallorn, bajo Aldric Hallorn"
+   ],
+   [
+    "La luz",
+    "Una torre baja en la costa llana"
+   ],
+   [
+    "La oferta",
+    "La [[Compañía Casacarta|Charterhouse Company]] quiere las salinas"
    ]
   ],
   "title": "Confín de Sal",
+  "epigraph": {
+   "quote": "La sal conserva todo menos un secreto.",
+   "by": "Un guardián de las salinas de Confín de Sal"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Las salinas",
     "paragraphs": [
-     "Los salineros son los trabajadores más organizados del norte, y han ido a la huelga cuatro veces en la memoria de los vivos. Las salinas son la fuente de la sal que la [[Compañía Casacarta|Charterhouse Company]] compra para sostener su monopolio del sur, y el comercio entre los galpones Hallorn y los agentes de la Compañía en [[Puerto Sur|Southhaven]] es uno de los secretos más rentables y menos comentados de la [[Frontera|Frontier]]."
+     "[[Confín de Sal|Saltreach]] es un pueblo extendido de pesca y sal en la costa llana del oeste de la [[Frontera|Frontier]], y sus salinas se extienden por millas. El mar entra por compuertas y se deja secar al viento, y de la primavera al otoño los salineros rastrillan la sal por un poco más del sueldo de un peón de campo. Un saco de cincuenta libras cuesta 2 [[Olas|Bits]] en las salinas y 5 en el [[Corazón|Heartland]].",
+     "Los trabajadores de la sal son la mano de obra más organizada del norte, y han ido a la huelga cuatro veces en la memoria de los vivos. Los [[guardianes de las salinas|pan-wardens]] cuidan las compuertas y las partes, y cada barril Hallorn es un barril Pennick, hecho por los toneleros de la Casa Pennick.",
+     "La luz de Confín de Sal es una torre baja en una costa llana de salinas, y su farera confía más en su ratón farol que en sus propios ojos."
+    ]
+   },
+   {
+    "title": "Sal y arenque",
+    "paragraphs": [
+     "La Casa Hallorn, *La Sal Conserva*, tiene las salinas de Confín de Sal y las naves de pescado de [[Puerto Gris|Greyhaven]], y con ellas la sal y el arenque del norte. Abastece a las guarniciones y a las flotas: los soldados de la Casa Faust comen pescado salado Hallorn, los contratos de la Armada son de Hallorn, y la casa ayuda a pagar las luces del puerto de Puerto Gris. En un mal año, las casas de la sal Hallorn son lo bastante ricas para comprar la influencia de un asiento del [[Consejo|Council]].",
+     "La Compañía Casacarta compra sal de Confín de Sal para sostener su monopolio del sur, y el comercio entre los galpones Hallorn y los agentes de la Compañía en [[Puerto Sur|Southhaven]] es uno de los secretos más rentables y menos comentados de la Frontera."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "Aldric Hallorn es la cabeza de la casa: ancho, directo y perdiendo. Su hija Wynne lleva los contratos de la Armada. Su hijo Rowan, un [[Cazador de Plata|Silver Hunter]] que dejó el negocio, es el único Hallorn que no está preocupado."
+    ]
+   },
+   {
+    "title": "La oferta de la Compañía",
+    "paragraphs": [
+     "Después de dos malos años de arenque seguidos, la Compañía Casacarta ofreció comprar las salinas de Confín de Sal. Si las consigue, tendrá la sal de todo el archipiélago, norte y sur, y con ella cada barril de pescado salado que alimenta a las flotas. Aldric no ha dicho que no.",
+     "Han visto a un hombre de mandato de la Compañía recorriendo las salinas con una cadena de medir, y a la familia de un salinero le ofrecieron por sus salinas más de lo que valen. Entre las [[Doce Banderas|Twelve Flags]], Hallorn y los Oruma son los blancos principales de la Compañía, y Aldric aceptaría cualquier oferta honrada que le permitiera decir que no."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La sal sostiene a las islas. Conserva el arenque de Puerto Gris, la carne de las guarniciones y las provisiones de cada barco que navega más de una semana, y la sal y el pescado salado de Confín de Sal y Puerto Gris llegan al Corazón a 5 Olas el saco y 8 [[Mareas|Tides]] el barril. Quien tiene Confín de Sal tiene la despensa del norte."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Una lechuza del silencio se calló en una boda en Confín de Sal la última Agua de Tormenta, y al novio no se lo ha vuelto a ver.” (una taberna de la Frontera)"
+     "“Una lechuza del silencio se calló en una boda en Confín de Sal la última Agua de Tormenta, y al novio no se lo ha vuelto a ver.” (una taberna de la Frontera)",
+     "“Los salineros dicen que a la cadena del hombre de la Compañía le falta un eslabón, y que mide cada salina un poco más chica de lo que es.” (un salinero de Confín de Sal)"
     ]
    }
   ]
@@ -11485,7 +11708,7 @@
   "facts": [
    [
     "Región",
-    "El [[Corazón Central|Central Heartland]]"
+    "[[Corazón Central|Central Heartland]]"
    ],
    [
     "Conocido por",
@@ -11627,7 +11850,7 @@
   "facts": [
    [
     "Región",
-    "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
+    "[[Tierras Salvajes del Sur|Southern Wilds]]"
    ],
    [
     "Conocido por",
@@ -11685,7 +11908,7 @@
     "title": "Lo que pasa aquí",
     "paragraphs": [
      "El sur se levanta antes que el sol, porque las horas frescas son las únicas horas. El mercado de la mañana termina antes de que llegue el calor, y desde el mediodía el calor quieto cierra el pueblo: las persianas cerradas, los muelles vacíos, los hacendados a la sombra con hielo en el vaso. Los negocios vuelven con la tarde, y con ellos los mercados, que son el mejor lugar del sur para enterarse de cualquier cosa sobre cualquiera, y el peor para que te vean enterándote.",
-     "El [[Monedía|Coinsday]] es el gran mercado. Los arrieros traen sus lomogredas para la venta del Monedía, el Gremio de Joyeros vigila los puestos de zafiros, donde la mitad de las piedras son vidrio cindren, y cada tienda de la Compañía en la costa de la caña le suma un poco a cada deuda. La [[Ceca de Puerto Sur|Southhaven Mint]] acuña solo Olas, bajo una palmera, y el sur se queja de que nunca consigue suficientes.",
+     "El [[Monedía|Coinsday]] es el gran mercado. Los arrieros traen sus lomogredas para la venta del Monedía, el [[Gremio de Joyeros|Jewelers’ Guild]] vigila los puestos de zafiros, donde la mitad de las piedras son vidrio cindren, y cada tienda de la Compañía en la costa de la caña le suma un poco a cada deuda. La [[Ceca de Puerto Sur|Southhaven Mint]] acuña solo Olas, bajo una palmera, y el sur se queja de que nunca consigue suficientes.",
      "Las familias coloniales celebran los juegos del merrin cada Liora, con tanta fidelidad como cualquier puerto del Corazón, y los Oruma hacen los suyos en las [[Nueve Bocas|Nine Mouths]], en canoas de río."
     ]
    },
@@ -11710,19 +11933,75 @@
  "stormreach": {
   "gloss": "Stormreach",
   "subtitle": "Donde el norte construye sus barcos",
-  "summary": "Confín de Tormentas es la sede de la Casa Vanris y el astillero más grande del norte.",
+  "summary": "Confín de Tormentas es la sede de la Casa Vanris y el agua más difícil de las islas: el estrecho entre la Frontera y el Corazón, los astilleros más grandes del norte y la vigilancia de las tormentas.",
   "facts": [
    [
     "Región",
-    "La [[Frontera del Norte|Northern Frontier]]"
+    "[[Frontera del Norte|Northern Frontier]]"
+   ],
+   [
+    "Conocido por",
+    "Cascos de tormenta, el dinero del estrecho y el agua de tormenta"
+   ],
+   [
+    "En manos de",
+    "La Casa Vanris, bajo [[Señor|Lord]] Mortimer Vanris"
+   ],
+   [
+    "El dinero del estrecho",
+    "Una [[Marea|Tide]] por mástil, que se cuenta en [[Guardaespiral|Coilward]]"
+   ],
+   [
+    "La flota",
+    "La Novena, la [[Tormenta en Pie|Standing Storm]]"
    ]
   ],
   "title": "Confín de Tormentas",
+  "epigraph": {
+   "quote": "Paga el dinero del mástil, toma al práctico y no le discutas a la Espiral.",
+   "by": "Un práctico de Puertoquilla"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "El estrecho",
     "paragraphs": [
-     "La [[Fortaleza Guardatormentas|Stormguard Hold]] se alza sobre una roca encima del estrecho, y los astilleros de la casa construyen los mejores cascos de tormenta de las islas y los cobran caros. La [[Novena Flota|Ninth Fleet]], la [[Tormenta en Pie|Standing Storm]], tiene aquí su base, y las tripulaciones galven de los grandes corredores de tormenta Colosos duermen en los barrios de abajo. El pueblo lleva el nombre del tiempo y vive de él. El agua de su manantial burbujea sola desde la roca, y los galven la llaman agua de tormenta, la sacuden dentro de su kellum y juran que el rayo sabe igual. Mortimer Vanris tiene la sede, y su hermano Rodrick y la jefa de espías Cassandra Dosslas mantienen unida a la casa a su alrededor."
+     "[[Confín de Tormentas|Stormreach]] es un estrecho y los cuatro lugares que lo tienen. La [[Fortaleza Guardatormentas|Stormguard Hold]], la sede de los Vanris, es una fortaleza sobre una roca por encima del agua: torres grises, estandartes verdes y una linterna en lo alto que enciende cada noche alguien de la familia, o quien sea que la familia no logró mandar. [[Puertoquilla|Keelhaven]], el pueblo de los astilleros, queda a sus pies en la orilla norte. La Isla del Práctico está en medio del estrecho, y Guardaespiral, un fuerte y un puerto en la orilla sur, se alza donde empieza el [[Corazón|Heartland]].",
+     "El estrecho es la [[Espiral de Confín de Tormentas|Stormreach Coil]], donde las corrientes tiran fuerte entre las islas y el viento da la vuelta a los cabos con un chillido que los marineros aprenden a oír antes de ver la borrasca. En él está el [[Anillo de la Serpiente|Serpent’s Coil]], un anillo de arrecifes con forma de serpiente enroscada alrededor de una torre; los barcos que van a los astilleros toman un práctico de Confín de Tormentas para cruzarlo o dan la vuelta larga, y solo los prácticos Vanris de la Isla del Práctico pueden aprender sus canales.",
+     "El pueblo lleva el nombre del tiempo y vive de él. El agua de su manantial burbujea al salir de la roca, y los galven la llaman agua de tormenta, la agitan dentro de su kellum y juran que el rayo sabe igual. En sus playas el rayo funde la arena en [[vidrio de tormenta|stormglass]], que los galven recogen y que los fabricantes de faroles pagan de 5 a 50 [[Anclas|Anchors]] la pieza."
+    ]
+   },
+   {
+    "title": "Los astilleros",
+    "paragraphs": [
+     "Puertoquilla creció bajo la Fortaleza desde hacia 20 EC, y los astilleros Vanris se volvieron los más grandes del norte: gradas, cordelerías, estanques de madera y talleres de velas, y el ruido de los martillos desde antes del alba hasta después del anochecer. Construyen los mejores cascos de tormenta de las islas y los cobran, botan unos treinta cascos en un buen año, y en 78 EC botaron el primer [[Coloso|Juggernaut]], construido para las tripulaciones galven que lo llevarían a un tiempo en que nadie más navegaría. El día que muere una cabeza de la casa, los martillos no empiezan.",
+     "Los astilleros construyen para la Armada y para las flotas mercantes por igual, los grandes cascos de Corvane entre ellos, y el [[Gremio de los Carpinteros de Ribera|Shipwrights’ Guild]] los cuenta, con los [[Muelles del Centinela|Sentinel Docks]] de [[Ventoro|Goldwind]], como sus dos grandes astilleros. Los cordeleros y los veleros de Puertoquilla son ricos, callados, y todo el mundo en las gradas les debe dinero. La [[casa de cuentas|counting-house]] de los Tesoreros junto a los astilleros firma más préstamos a la gruesa sobre cascos de tormenta nuevos que ninguna otra, y el dinero del estrecho pasa por sus libros."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Cada barco que cruza el estrecho paga el dinero del estrecho, una Marea por mástil, que se cuenta en Guardaespiral, y cada barco que va a los astilleros toma un práctico. Las tripulaciones galven de los grandes Colosos corretormentas duermen en los barrios bajos, y la [[Novena Flota|Ninth Fleet]] de la Armada, la Tormenta en Pie, tiene aquí su base para el trabajo de mal tiempo, bajo Skarrei [[Novena Borrasca|Ninth-Squall]], a la que llaman [[Nubarrón|Thunderhead]].",
+     "El camino de mar de [[Fuerte de Hierro|Ironfort]] a Confín de Tormentas es, en su propia opinión, de los [[Peajeros|Tollmen]]: veteranos condecorados que cobran protección a los barcos de la costa, convencidos de verdad de que el [[Consejo|Council]] les debe una guerra que nunca les pagó."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Vanris, [[Inquebrantable como la Tormenta|Unyielding as the Storm]], tiene el estrecho, y con él buena parte de quién y qué pasa entre la [[Frontera|Frontier]] y el Corazón. Señor Mortimer Vanris tiene la sede. Su hermano menor, [[Ser|Sir]] Rodrick, es el hombre al que de verdad siguen los capitanes de la casa, y Rodrick y la jefa de espías, [[Dama|Lady]] Cassandra Dosslas, mantienen la casa unida alrededor de él. Todo el mundo en Confín de Tormentas lo sabe.",
+     "Los [[Infantes de la Espiral|Coil Marines]], unos 2,200 de gris tormenta y verde, tripulan los barcos de guerra de la casa, guarnecen [[Guardatormentas|Stormguard]] y Guardaespiral, y abordan cualquier cosa que no se detenga; la [[Guardia de la Fortaleza|Hold Guard]], unos 600, cuida la Fortaleza y Puertoquilla. La Casa Quellin es Guardiana de la Isla del Práctico y la Casa Callant de Guardaespiral. La Espiral, los prácticos y los cañones de la Fortaleza y de Guardaespiral hacen del estrecho el agua más difícil de forzar de las islas, y la casa lo sabe."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Confín de Tormentas hace la vigilancia de las tormentas del norte. La Casa Vanris encendió su linterna en la Fortaleza Guardatormentas como respuesta a la luz de [[Puerto Gris|Greyhaven]], y las dos casas discuten desde entonces sobre en qué luces debe confiar el norte; Vanris le ha pedido tres veces al Consejo que divida la [[Cédula de las Luces|Light-Warrant]]. Este año, cuando Vanris entró en guerra con los [[Cantatormentas|Stormchanters]], le pidió magos de la tormenta a Puerto Gris, y la respuesta de Dama Elara, *No peleamos contra las tormentas con tormentas*, no ha sido perdonada.",
+     "En la [[Guerra Larga|Long War]], la compañía de Confín de Tormentas zarpa como las [[Escaleras de Puertoquilla|Keelhaven Stairs]]. En el Consejo, el [[Pleito del Estrecho|Strait Case]] necesita un testigo que haya contado los mástiles en Confín de Tormentas, y Vanris preferiría que ese testigo no llegara nunca."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Todo lo que navega entre el norte y el Corazón pasa por Confín de Tormentas, le paga y queda contado. La flota Vanris es la flota de casa más grande a flote, sus astilleros están en el tablero del Congreso, y el [[Pabellón Flotante|Floating Pavilion]] de la casa, que no está en Confín de Tormentas, costó más que la muralla nueva de Guardatormentas."
     ]
    },
    {
@@ -11741,7 +12020,7 @@
   "facts": [
    [
     "Región",
-    "El [[Corazón Central|Central Heartland]]"
+    "[[Corazón Central|Central Heartland]]"
    ],
    [
     "Conocido por",
@@ -13522,7 +13801,7 @@
      "Bronce: un dolor de cabeza leve, y un adormecimiento en la mano que se extiende con el tiempo.",
      "Plata: náuseas y vómitos, desmayos y una pérdida lenta de fuerza.",
      "Oro: como un veneno mortal que se apodera del cuerpo: fiebre, debilidad y un dolor que crece hora tras hora.",
-     "El rango protege. Un [[Cazador|Hunter]] de Plata es inmune a un Sello de Bronce, y un Cazador de Oro a los de Plata y Bronce.",
+     "El rango protege. Un [[Cazador de Plata|Silver Hunter]] es inmune a un Sello de Bronce, y un [[Cazador|Hunter]] de Oro a los de Plata y Bronce.",
      "Ramas. Cada Cazador pertenece a una rama, y la rama se trabaja en el Sello:",
      "Mago: motivos arcanos, cristales y glifos.",
      "Explorador: plumas, flechas y depredadores.",
@@ -18403,7 +18682,7 @@
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIEd1ZXJyYSBkZWwgW1tBc2NlbmRlbnRlfEFzY2VuZGFudF1dKioiLCAiTGEgY2F0w6FzdHJvZmUgYSBsYSBxdWUgYW50ZXMgbGxhbWFiYW4gXCJlbCBbW0luY2lkZW50ZSBkZWwgTWFnbyBMb2NvfE1hZCBNYWdlIEluY2lkZW50XV1cIiBhaG9yYSB0aWVuZSB1biBub21icmUgY29tbyBzZSBkZWJlIHkgdW4gdmlsbGFubyBjb21vIHNlIGRlYmUuIiwgIkhhY2Ugc2V0ZW50YSBhw7FvcyAoaGFjaWEgZWwgMTA1IEVDKSwgZWwgYXJjaGltYWdvICoqRWxkcmljIE1vcnZhbmUsIGxsYW1hZG8gZWwgQXNjZW5kZW50ZSoqLCBkZWNsYXLDsyBxdWUgbGEgbWFnaWEgcmVnaXN0cmFkYSwgY29udHJvbGFkYSB5IGNvbiBjb3JyZWEgZXJhIHVuYSBqYXVsYSBjb25zdHJ1aWRhIHBvciBsb3MgcGVxdWXDsW9zIHBhcmEgYXRhciBhIGxvcyBncmFuZGVzLCB5IHF1ZSBsb3MgbWFnb3MgZXJhbiBsb3MgZ29iZXJuYW50ZXMgbmF0dXJhbGVzIGRlbCBtdW5kby4gUmV1bmnDsyB1biBlasOpcmNpdG8gZGUgdm9sdW50YXJpb3MsIGRlIG9ibGlnYWRvcyB5IGRlICoqYXRhZG9zIGEgbGEgS3J5c3RhKiogKGVzY2xhdml6YWRvcyBwb3IgdW5hIHRhdW1hdHVyZ2lhIHByb2hpYmlkYSBkZSBzdSBwcm9waWEgaW52ZW5jacOzbikgeSBjYXNpIGNvbnF1aXN0YSBsYXMgaXNsYXMgZGVsIFtbQ29yYXrDs258SGVhcnRsYW5kXV0gYW50ZXMgZGUgcXVlIGxhIHByaW1lcmEgKipbW0dyYW4gQ29hbGljacOzbnxHcmFuZCBDb2FsaXRpb25dXSoqLCBbW0NhemFkb3Jlc3xIdW50ZXJzXV0sIEFybWFkYSwgY2FzYXMgbm9ibGVzIHkgW1tVbml2ZXJzaWRhZHxVbml2ZXJzaXR5XV0ganVudG9zLCBsbyBkZXJyaWJhcmEgZW4gbGEgZ3VlcnJhIHF1ZSBsbGV2YSBzdSBub21icmUsICoqbGEgR3VlcnJhIGRlbCBBc2NlbmRlbnRlLioqIiwgIkxhIGFtYXJnYSBpcm9uw61hIGVzIHN1IGxlZ2FkbzogbGEgZGVycm90YSBkZSBNb3J2YW5lIGNyZcOzIGVsICoqW1tSZWdpc3RybyBBcmNhbm98QXJjYW5lIFJlZ2lzdHJ5XV0qKiwgbGEgbWlzbWEgamF1bGEgY29udHJhIGxhIHF1ZSBtdXJpw7MgZGVzcG90cmljYW5kbywgY2VycmFkYSBhaG9yYSBzb2JyZSBjYWRhIGFyY2FuaXN0YSBkZSBsYXMgdGllcnJhcyBkZWwgW1tDb25zZWpvfENvdW5jaWxdXS4gUGVybyBlbCBwZWxpZ3JvIG3DoXMgaG9uZG8gZXMgc3UgKippbnZlc3RpZ2FjacOzbi4qKiBMYXMgdMOpY25pY2FzIHByb2hpYmlkYXMgZGUgTW9ydmFuZSBwYXJhIGF0YXIgYSBsYSBLcnlzdGEsIGxhIGVzY2xhdml0dWQgZGUgbGEgbWVudGUgeSBsYSBtYWdpYSBhIHRyYXbDqXMgZGUgbGEgcGllZHJhIGNhdGFsaXphZG9yYSwgbm8gbXVyaWVyb24gY29uIMOpbC4gU3VzIGdyaW1vcmlvcyB5IHN1cyBub3RhcyBzZSAqKmRpc3BlcnNhcm9uKio6IGFsZ3Vub3Mgc2VsbGFkb3MgZW4gbGFzIGLDs3ZlZGFzIG3DoXMgaG9uZGFzIGRlIGxhIFVuaXZlcnNpZGFkLCBhbGd1bm9zIGVuIGxhIGNvbGVjY2nDs24gcHJpdmFkYSBkZSBsb3MgW1tFc3BpbmFwbGF0YXxTaWx2ZXJ0aG9ybl1dLCBhbGd1bm9zIHBlcmRpZG9zIGVuIGVsIG1lcmNhZG8gbmVncm8uIFkgZXNlIGxpbmFqZSBkZSB0YXVtYXR1cmdpYSBwcm9oaWJpZGEgZGUgbGEgS3J5c3RhIGVzIGVsICoqYW50ZXBhc2FkbyBkaXJlY3RvKiogZGUgbG8gcXVlIGhhY2UgaG95IGxhICoqW1tDb3Jwb3JhY2nDs24gUmFua2FyfFJhbmthciBDb3Jwb3JhdGlvbl1dKiogZW4gbGFzIGN1YmFzIHF1ZSBtYW50aWVuZW4gYWwgZmFsc28gRGlvOiBhdGFyIGxhIGNvbmNpZW5jaWEgYSB0cmF2w6lzIGRlIGxhIEtyeXN0YS4gTW9ydmFuZSBwZXJkacOzIHN1IGd1ZXJyYSBoYWNlIHNldGVudGEgYcOxb3M7IHN1IGNpZW5jaWEgc2lndWUgZ2FuYW5kbywgY2FsbGFkYSwgZW4gbGEgb3NjdXJpZGFkLiAoVW4gY2FibyBzdWVsdG8sIHF1ZSBzZSBkZWphIHZpdm86IHVuICoqaGVyZWRlcm8gbyDDumx0aW1vIGFwcmVuZGl6KiogZXNjb25kaWRvIGRlbCBBc2NlbmRlbnRlLCB5IGVsIGdyYW4gaW50ZXLDqXMgZGVsICoqW1tJbXBlcmlvfEltcGVyaXVtXV0qKiBwb3IgcmVjdXBlcmFyIHN1IG9icmEuKSJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKkxhIFtbR3VlcnJhIGRlbCBBc2NlbmRlbnRlfEFzY2VuZGFudCdzIFdhcl1dKioiLCAiTGEgY2F0w6FzdHJvZmUgYSBsYSBxdWUgYW50ZXMgbGxhbWFiYW4gXCJlbCBbW0luY2lkZW50ZSBkZWwgTWFnbyBMb2NvfE1hZCBNYWdlIEluY2lkZW50XV1cIiBhaG9yYSB0aWVuZSB1biBub21icmUgY29tbyBzZSBkZWJlIHkgdW4gdmlsbGFubyBjb21vIHNlIGRlYmUuIiwgIkhhY2Ugc2V0ZW50YSBhw7FvcyAoaGFjaWEgZWwgMTA1IEVDKSwgZWwgYXJjaGltYWdvICoqRWxkcmljIE1vcnZhbmUsIGxsYW1hZG8gZWwgW1tBc2NlbmRlbnRlfEFzY2VuZGFudF1dKiosIGRlY2xhcsOzIHF1ZSBsYSBtYWdpYSByZWdpc3RyYWRhLCBjb250cm9sYWRhIHkgY29uIGNvcnJlYSBlcmEgdW5hIGphdWxhIGNvbnN0cnVpZGEgcG9yIGxvcyBwZXF1ZcOxb3MgcGFyYSBhdGFyIGEgbG9zIGdyYW5kZXMsIHkgcXVlIGxvcyBtYWdvcyBlcmFuIGxvcyBnb2Jlcm5hbnRlcyBuYXR1cmFsZXMgZGVsIG11bmRvLiBSZXVuacOzIHVuIGVqw6lyY2l0byBkZSB2b2x1bnRhcmlvcywgZGUgb2JsaWdhZG9zIHkgZGUgKiphdGFkb3MgYSBsYSBLcnlzdGEqKiAoZXNjbGF2aXphZG9zIHBvciB1bmEgdGF1bWF0dXJnaWEgcHJvaGliaWRhIGRlIHN1IHByb3BpYSBpbnZlbmNpw7NuKSB5IGNhc2kgY29ucXVpc3RhIGxhcyBpc2xhcyBkZWwgW1tDb3JhesOzbnxIZWFydGxhbmRdXSBhbnRlcyBkZSBxdWUgbGEgcHJpbWVyYSAqKltbR3JhbiBDb2FsaWNpw7NufEdyYW5kIENvYWxpdGlvbl1dKiosIFtbQ2F6YWRvcmVzfEh1bnRlcnNdXSwgQXJtYWRhLCBjYXNhcyBub2JsZXMgeSBbW1VuaXZlcnNpZGFkfFVuaXZlcnNpdHldXSBqdW50b3MsIGxvIGRlcnJpYmFyYSBlbiBsYSBndWVycmEgcXVlIGxsZXZhIHN1IG5vbWJyZSwgKipsYSBHdWVycmEgZGVsIEFzY2VuZGVudGUuKioiLCAiTGEgYW1hcmdhIGlyb27DrWEgZXMgc3UgbGVnYWRvOiBsYSBkZXJyb3RhIGRlIE1vcnZhbmUgY3Jlw7MgZWwgKipbW1JlZ2lzdHJvIEFyY2Fub3xBcmNhbmUgUmVnaXN0cnldXSoqLCBsYSBtaXNtYSBqYXVsYSBjb250cmEgbGEgcXVlIG11cmnDsyBkZXNwb3RyaWNhbmRvLCBjZXJyYWRhIGFob3JhIHNvYnJlIGNhZGEgYXJjYW5pc3RhIGRlIGxhcyB0aWVycmFzIGRlbCBbW0NvbnNlam98Q291bmNpbF1dLiBQZXJvIGVsIHBlbGlncm8gbcOhcyBob25kbyBlcyBzdSAqKmludmVzdGlnYWNpw7NuLioqIExhcyB0w6ljbmljYXMgcHJvaGliaWRhcyBkZSBNb3J2YW5lIHBhcmEgYXRhciBhIGxhIEtyeXN0YSwgbGEgZXNjbGF2aXR1ZCBkZSBsYSBtZW50ZSB5IGxhIG1hZ2lhIGEgdHJhdsOpcyBkZSBsYSBwaWVkcmEgY2F0YWxpemFkb3JhLCBubyBtdXJpZXJvbiBjb24gw6lsLiBTdXMgZ3JpbW9yaW9zIHkgc3VzIG5vdGFzIHNlICoqZGlzcGVyc2Fyb24qKjogYWxndW5vcyBzZWxsYWRvcyBlbiBsYXMgYsOzdmVkYXMgbcOhcyBob25kYXMgZGUgbGEgVW5pdmVyc2lkYWQsIGFsZ3Vub3MgZW4gbGEgY29sZWNjacOzbiBwcml2YWRhIGRlIGxvcyBbW0VzcGluYXBsYXRhfFNpbHZlcnRob3JuXV0sIGFsZ3Vub3MgcGVyZGlkb3MgZW4gZWwgbWVyY2FkbyBuZWdyby4gWSBlc2UgbGluYWplIGRlIHRhdW1hdHVyZ2lhIHByb2hpYmlkYSBkZSBsYSBLcnlzdGEgZXMgZWwgKiphbnRlcGFzYWRvIGRpcmVjdG8qKiBkZSBsbyBxdWUgaGFjZSBob3kgbGEgKipbW0NvcnBvcmFjacOzbiBSYW5rYXJ8UmFua2FyIENvcnBvcmF0aW9uXV0qKiBlbiBsYXMgY3ViYXMgcXVlIG1hbnRpZW5lbiBhbCBmYWxzbyBEaW86IGF0YXIgbGEgY29uY2llbmNpYSBhIHRyYXbDqXMgZGUgbGEgS3J5c3RhLiBNb3J2YW5lIHBlcmRpw7Mgc3UgZ3VlcnJhIGhhY2Ugc2V0ZW50YSBhw7Fvczsgc3UgY2llbmNpYSBzaWd1ZSBnYW5hbmRvLCBjYWxsYWRhLCBlbiBsYSBvc2N1cmlkYWQuIChVbiBjYWJvIHN1ZWx0bywgcXVlIHNlIGRlamEgdml2bzogdW4gKipoZXJlZGVybyBvIMO6bHRpbW8gYXByZW5kaXoqKiBlc2NvbmRpZG8gZGVsIEFzY2VuZGVudGUsIHkgZWwgZ3JhbiBpbnRlcsOpcyBkZWwgKipbW0ltcGVyaW98SW1wZXJpdW1dXSoqIHBvciByZWN1cGVyYXIgc3Ugb2JyYS4pIl19"
    }
   ],
   "title": "La Guerra del Ascendente"
@@ -31838,7 +32117,7 @@
    {
     "title": "Hace setenta años",
     "paragraphs": [
-     "En la Guerra del [[Ascendente|Ascendant]], los orcos de la isla fueron a la guerra junto a las otras tribus en la primera [[Gran Coalición|Grand Coalition]]. Es la única guerra que han peleado, y la pelearon por Kalvatar. Algunos isleños dicen que los últimos guardias de la prisión zarparon hacia [[Ventoro|Goldwind]] ese año y nunca volvieron."
+     "En la [[Guerra del Ascendente|Ascendant's War]], los orcos de la isla fueron a la guerra junto a las otras tribus en la primera [[Gran Coalición|Grand Coalition]]. Es la única guerra que han peleado, y la pelearon por Kalvatar. Algunos isleños dicen que los últimos guardias de la prisión zarparon hacia [[Ventoro|Goldwind]] ese año y nunca volvieron."
     ]
    },
    {
@@ -34430,7 +34709,7 @@
    ],
    [
     "Guerra",
-    "la Guerra del Ascendente, 105 EC"
+    "la [[Guerra del Ascendente|Ascendant's War]], 105 EC"
    ],
    [
     "Legado",
@@ -34570,7 +34849,7 @@
     "list": [
      "Que murió en su torre, ya viejo.",
      "Que yace en la Tumba del Fundador, debajo de la Universidad.",
-     "Que su ciudad estuvo más cerca de la ruina en la Guerra del [[Ascendente|Ascendant]] del 105 EC, cuando el ejército de magos de Eldric Morvane casi llegó a sus puertas."
+     "Que su ciudad estuvo más cerca de la ruina en la [[Guerra del Ascendente|Ascendant's War]] del 105 EC, cuando el ejército de magos de Eldric Morvane casi llegó a sus puertas."
     ]
    },
    {
