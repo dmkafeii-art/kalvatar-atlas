@@ -486,7 +486,7 @@ window.Adventurers = (() => {
  function rollLoot() {
   const T = data.sidequests.treasure, tier = T.tiers.find(x => loot.level <= x.to), reg = T.regions.find(r => r.id === loot.region);
   const xpEach = T.xp[loot.level - 1][loot.hard], total = Math.max(1, Math.round(tier.base * [1, 2, 4][loot.hard] * loot.kind * loot.size / 4 * (0.8 + Math.random() * 0.4)));
-  const L = data.loot, low = x => /^(Tarvan|Aurelion|Frost|Galven|Korvan|Sporrn|Pocchin|Goldwind|Jakupur|Vorthani)/.test(x) ? x : x.charAt(0).toLowerCase() + x.slice(1), bits = v => Math.max(.01, Math.round(v * 100) / 100);
+  const L = data.loot, low = x => /^(Tarvan|Aurelion|Frost|Galven|Kohr|Sporrn|Pocchin|Goldwind|Jakupur|Vorthani)/.test(x) ? x : x.charAt(0).toLowerCase() + x.slice(1), bits = v => Math.max(.01, Math.round(v * 100) / 100);
   const thing = () => {
    const k = pick(['gem', 'gem', 'jewel', 'jewel', 'jewel', 'art', 'art', 'made', 'made', 'clothes', 'clothes', 'arms', 'arms', 'kit', 'kit', 'papers', 'curio', 'curio', 'drink', 'drink', 'trade', 'trade']);
    if(k === 'gem') {const g = pick(L.gems); return {k, name: g[0], value: g[1], many: 1};}

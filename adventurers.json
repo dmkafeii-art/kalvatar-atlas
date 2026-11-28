@@ -7505,7 +7505,7 @@
     1.4
    ],
    [
-    ", in the old Korvan style",
+    ", in the old Kohr style",
     1.6
    ],
    [
@@ -8246,7 +8246,7 @@
    "in Anchors and Tides",
    "mostly in Bits, in a sock",
    "in clean new Tides",
-   "in old Korvan coin, worth its weight",
+   "in old Kohr coin, worth its weight",
    "sewn into a coat lining",
    "in a locked cashbox with no key",
    "in a purse with somebody's initials",
@@ -12675,8 +12675,8 @@
     "min": 2
    },
    {
-    "en": "Imperial goods: Korvan silk, arms, and papers",
-    "es": "Bienes del Imperio: seda, armas y papeles de Korvan",
+    "en": "Imperial goods: Kohr silk, arms, and papers",
+    "es": "Bienes del Imperio: seda, armas y papeles de Kohr",
     "price_en": "the Game Master's price",
     "price_es": "el precio que diga el Máster",
     "min": 1
@@ -31453,7 +31453,7 @@
   ", engraved with a ship's name": ", grabado con el nombre de un barco",
   ", engraved with initials nobody here has": ", grabado con iniciales que nadie aquí tiene",
   ", stamped with a guild mark": ", con la marca de un gremio",
-  ", in the old Korvan style": ", al viejo estilo korvano",
+  ", in the old Kohr style": ", al viejo estilo kohr",
   ", set with a chip of garnet": ", con una astilla de granate",
   ", set with a small pearl": ", con una perla pequeña",
   ", set with a chip of sapphire": ", con una astilla de zafiro",
@@ -31635,7 +31635,7 @@
   "in Anchors and Tides": "en Anclas y Mareas",
   "mostly in Bits, in a sock": "casi todo en Olas, en un calcetín",
   "in clean new Tides": "en Mareas nuevas y limpias",
-  "in old Korvan coin, worth its weight": "en vieja moneda korvana, que vale su peso",
+  "in old Kohr coin, worth its weight": "en vieja moneda kohr, que vale su peso",
   "sewn into a coat lining": "cosido en el forro de un abrigo",
   "in a locked cashbox with no key": "en una caja de caudales cerrada y sin llave",
   "in a purse with somebody's initials": "en una bolsa con las iniciales de alguien",
