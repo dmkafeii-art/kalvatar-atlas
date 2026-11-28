@@ -10970,6 +10970,401 @@
    ]
   }
  ],
+ "kohr-imperium": [
+  {
+   "name": "Iron Host Veteran",
+   "meta": "Medium Humanoid (Human), Lawful Evil",
+   "top": [
+    [
+     "Armor Class",
+     "17"
+    ],
+    [
+     "Initiative",
+     "+1 (11)"
+    ],
+    [
+     "Hit Points",
+     "65 (10d8 + 20)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "16",
+     "+3"
+    ],
+    [
+     "DEX",
+     "13",
+     "+1"
+    ],
+    [
+     "CON",
+     "14",
+     "+2"
+    ],
+    [
+     "INT",
+     "10",
+     "+0"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "10",
+     "+0"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Str +5, Con +4"
+    ],
+    [
+     "Skills",
+     "Athletics +5, Perception +3"
+    ],
+    [
+     "Senses",
+     "Passive Perception 13"
+    ],
+    [
+     "Languages",
+     "Common, Kohrane"
+    ],
+    [
+     "Challenge",
+     "3 (XP 700; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Weakness Is a Choice.** The veteran has Advantage on saving throws against the Frightened condition, and it can't be Frightened while it can see another Inheritor."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The veteran makes two Longsword attacks, or one Musket attack.",
+      "**Longsword.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage.",
+      "**Musket.** *Ranged Attack Roll:* +3, range 40/120 ft. *Hit:* 7 (1d12 + 1) Piercing damage."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "items": [
+      "**Close the Line.** *Trigger:* An ally within 5 feet of the veteran is hit by an attack. *Response:* The veteran makes one Longsword attack against the attacker, if it is within reach."
+     ]
+    }
+   ],
+   "notes": [
+    "There is no word for retreat in Kohrane. A veteran's Host has a number, not a name."
+   ]
+  },
+  {
+   "name": "Inquisitor of the Iron Sun",
+   "meta": "Medium Humanoid (Human), Lawful Evil",
+   "top": [
+    [
+     "Armor Class",
+     "16"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "82 (15d8 + 15)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "12",
+     "+1"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "12",
+     "+1"
+    ],
+    [
+     "INT",
+     "14",
+     "+2"
+    ],
+    [
+     "WIS",
+     "16",
+     "+3"
+    ],
+    [
+     "CHA",
+     "15",
+     "+2"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Wis +6, Cha +5"
+    ],
+    [
+     "Skills",
+     "Insight +9, Intimidation +5, Perception +6, Religion +5"
+    ],
+    [
+     "Senses",
+     "Passive Perception 16"
+    ],
+    [
+     "Languages",
+     "Common, Kohrane, and one other"
+    ],
+    [
+     "Challenge",
+     "5 (XP 1,800; PB +3)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Unshakable Faith.** The inquisitor has Advantage on saving throws against the Charmed and Frightened conditions."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The inquisitor makes two Krysta-Forged Blade attacks, or one Krysta-Forged Blade attack and one Pistol attack.",
+      "**Krysta-Forged Blade.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d8 + 2) Slashing damage plus 7 (2d6) Fire damage.",
+      "**Pistol.** *Ranged Attack Roll:* +5, range 30/90 ft. *Hit:* 7 (1d10 + 2) Piercing damage.",
+      "**Verdict (Recharge 5–6).** *Wisdom Saving Throw:* DC 14, one creature the inquisitor can see within 30 feet that can hear it. A creature that is not human has Disadvantage on the save. *Failure:* The target has the Frightened condition for 1 minute, and its Speed is 0 while it is Frightened. It repeats the save at the end of each of its turns, ending the effect on itself on a success."
+     ]
+    }
+   ],
+   "notes": [
+    "An inquisitor's name has Sol before it. The night before it takes someone, its cell drives a gilded nail into the door."
+   ]
+  },
+  {
+   "name": "Gilded Scale",
+   "meta": "Medium Humanoid (Dragonborn), Lawful Evil",
+   "top": [
+    [
+     "Armor Class",
+     "18"
+    ],
+    [
+     "Initiative",
+     "+0 (10)"
+    ],
+    [
+     "Hit Points",
+     "67 (9d8 + 27)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "18",
+     "+4"
+    ],
+    [
+     "DEX",
+     "10",
+     "+0"
+    ],
+    [
+     "CON",
+     "16",
+     "+3"
+    ],
+    [
+     "INT",
+     "10",
+     "+0"
+    ],
+    [
+     "WIS",
+     "12",
+     "+1"
+    ],
+    [
+     "CHA",
+     "12",
+     "+1"
+    ]
+   ],
+   "mid": [
+    [
+     "Saving Throws",
+     "Str +6, Con +5"
+    ],
+    [
+     "Skills",
+     "Athletics +6, Intimidation +3"
+    ],
+    [
+     "Resistances",
+     "Fire"
+    ],
+    [
+     "Senses",
+     "Darkvision 60 ft.; Passive Perception 11"
+    ],
+    [
+     "Languages",
+     "Common, Draconic, Kohrane"
+    ],
+    [
+     "Challenge",
+     "4 (XP 1,100; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Sworn to Ghral.** The Scale has Advantage on saving throws against the Charmed condition."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Multiattack.** The Scale makes two Glaive attacks.",
+      "**Glaive.** *Melee Attack Roll:* +6, reach 10 ft. *Hit:* 9 (1d10 + 4) Slashing damage.",
+      "**Fire Breath (Recharge 5–6).** *Dexterity Saving Throw:* DC 13, each creature in a 15-foot Cone. *Failure:* 17 (5d6) Fire damage. *Success:* Half damage."
+     ]
+    },
+    {
+     "title": "Reactions",
+     "items": [
+      "**Gilded Guard.** *Trigger:* A creature the Scale can see makes an attack roll against an ally within 5 feet of the Scale. *Response:* The Scale imposes Disadvantage on the attack roll."
+     ]
+    }
+   ],
+   "notes": [
+    "A deserter has stitch-marks where the gold insignia was, and no Sworn to Ghral trait. The recall teams know the stitch-marks."
+   ]
+  },
+  {
+   "name": "Survey Envoy",
+   "meta": "Medium Humanoid (Human), Lawful Evil",
+   "top": [
+    [
+     "Armor Class",
+     "12"
+    ],
+    [
+     "Initiative",
+     "+2 (12)"
+    ],
+    [
+     "Hit Points",
+     "27 (6d8)"
+    ],
+    [
+     "Speed",
+     "30 ft."
+    ]
+   ],
+   "abilities": [
+    [
+     "STR",
+     "9",
+     "−1"
+    ],
+    [
+     "DEX",
+     "14",
+     "+2"
+    ],
+    [
+     "CON",
+     "10",
+     "+0"
+    ],
+    [
+     "INT",
+     "16",
+     "+3"
+    ],
+    [
+     "WIS",
+     "15",
+     "+2"
+    ],
+    [
+     "CHA",
+     "17",
+     "+3"
+    ]
+   ],
+   "mid": [
+    [
+     "Skills",
+     "Deception +7, History +5, Insight +6, Persuasion +5"
+    ],
+    [
+     "Senses",
+     "Passive Perception 12"
+    ],
+    [
+     "Languages",
+     "Common, Kohrane, and two others"
+    ],
+    [
+     "Challenge",
+     "1 (XP 200; PB +2)"
+    ]
+   ],
+   "sections": [
+    {
+     "title": "Traits",
+     "items": [
+      "**Perfect Courtesy.** Wisdom (Insight) checks made to read the envoy's intentions have Disadvantage, and the envoy reveals nothing it does not mean to unless it is magically compelled.",
+      "**Never Forgets a Name.** The envoy remembers every name it has heard, and the face that went with it."
+     ]
+    },
+    {
+     "title": "Actions",
+     "items": [
+      "**Courtier's Blade.** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage plus 7 (2d6) Poison damage.",
+      "**Measured Offer.** *Wisdom Saving Throw:* DC 13, one creature within 30 feet that can hear the envoy. *Failure:* The target has the Charmed condition for 1 hour, or until the envoy or its allies harm it."
+     ]
+    }
+   ],
+   "notes": [
+    "An envoy never eats what it is served. Everything it signs under the Sun's seal, it keeps."
+   ]
+  }
+ ],
  "house-wingate": [
   {
    "name": "Wingate Sellsword",

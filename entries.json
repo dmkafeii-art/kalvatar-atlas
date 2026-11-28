@@ -60227,6 +60227,7 @@
     "title": "Weakness is a choice",
     "paragraphs": [
      "Those four words are the whole of the Imperium. Its people call themselves the Inheritors, the rightful heirs of a world that was taken from them, and they hold that weakness is not a misfortune but a decision, and a shameful one. Strength is owed: to the Sun-Throne, to the Host, and to the debt that has no end. An Inheritor does not apologize, does not bargain, and does not look back, and the Imperium runs the way its people do: one throne, one creed, one army, and no waste.",
+     "And it works. There are no beggars in Kohrvantis and nobody goes hungry; the roads run straight, the granaries are full, the ships sail on the hour, and every child can read the roll its name is written in. Some islanders admire it, quietly, and the Returned Crown is what that admiration looks like when it prints pamphlets. The Inheritors do not think of themselves as villains. They think they are the only people in the world who have stopped lying about what the world is.",
      "Every imperial child learns the Forged Catechism before it can read. It is said at every school-door, every garrison gate, and every grave:"
     ],
     "list": [
@@ -60256,8 +60257,17 @@
    {
     "title": "The Sun-Throne",
     "paragraphs": [
-     "The Sun-Throne sits in Kohrvantis, the imperial city: white stone and black iron on a hill above three rivers, under a great dome gilded so that it shines like a second sun at noon. Under the dome the city falls away in rings, the court, the ministries, and the Host’s great halls, and at the bottom, where the rivers meet, the foundries and the Bound. Visitors are told to arrive at noon by the south road, when the dome catches the sun before the walls come into view. Pilgrims weep. Prisoners are brought in at the same hour, on purpose.",
-     "The Emperor is the Sun on Earth, and his word is law beyond appeal. Therroc Vol Kohr’Hal, the Twelfth Sun, is seventy-one and has ruled for forty-one years, cold and patient, the master of his court and his Host. The Vol Kohr’Hal do not crown the eldest: near the end of his reign the Emperor names his heir from among his twelve legitimate children, the Twelve Rays, and until he does, they circle one another like blades in the same sheath. The rumor in Castia is that he is dying, and that his children are already choosing sides."
+     "The Sun-Throne sits in Kohrvantis, the imperial city: white stone and black iron on a hill above three rivers, under a great dome gilded so that it shines like a second sun at noon. Under the dome the city falls away in rings, the court, the ministries, and the Host’s great halls, and at the bottom, where the rivers meet, the foundries and the Bound. Visitors are told to arrive at noon by the south road, when the dome catches the sun before the walls come into view. Pilgrims weep. Prisoners are brought in at the same hour, on purpose. From the ribs of the dome hang the armors of the eleven Suns before this one, looking down.",
+     "The Emperor is the Sun on Earth, and his word is law beyond appeal. Therroc Vol Kohr’Hal, the Twelfth Sun, is seventy-one and has ruled for forty-one years, cold and patient, the master of his court and his Host. The Vol Kohr’Hal do not crown the eldest: near the end of his reign the Emperor names his heir from among his twelve legitimate children, the Twelve Rays, and until he does, they circle one another like blades in the same sheath. When an Emperor dies the dome is darkened for a year, the Year Without Sun, and if he has named no heir, the Rays settle it among themselves before the year is out. The Imperium calls it the last examination. The rumor in Castia is that the Twelfth Sun is dying, and that his children are already choosing sides."
+    ]
+   },
+   {
+    "title": "The rites",
+    "paragraphs": [],
+    "list": [
+     "**The Sun Hour.** At noon the whole Imperium stops, in the field, the foundry, and the barracks, and turns to face Kohrvantis for as long as it takes to say the Catechism. Anyone who does not turn is noted, and the note is kept.",
+     "**The iron name.** At the end of the Year of Iron each child is given a second name, and the birth-name is written on a slip and burned in front of them. To call an Inheritor by the old name is an insult that is answered with steel.",
+     "**The Weighing.** Imperial graves carry no names. An iron plate records what the dead paid, *Served forty-one years. Debt: not settled*, and a generation later the plates are gathered and melted down for shot. Even the dead pay."
     ]
    },
    {
@@ -60279,6 +60289,13 @@
     ]
    },
    {
+    "title": "The Sun’s seal",
+    "paragraphs": [
+     "There is one thing an Inheritor will not do, even when it would profit them. Nothing written under the Sun’s seal has ever been broken. An envoy will lie to the Unforged across a dinner table without a flicker, but a treaty, a bill, or a safe-conduct sealed in gold with the Sun-Throne is kept to the letter, by the Throne and by every Inheritor, at a loss, to a traitor, and when breaking it would win a war.",
+     "It is the only promise in the world that can be trusted absolutely, and so the most dangerous thing an islander can sign. Read every word. The Imperium will."
+    ]
+   },
+   {
     "title": "The Inquisition",
     "paragraphs": [
      "The Inquisition answers to the Grand Inquisitor, the gold dragon Ghral, from the Maudan Palace in the hills above Kohrvantis: a house of gold-veined marble built a thousand years ago for something too large for doors. Its Inner Circle meets there. Its prisoners do not leave. That a gold dragon commands the engine of human supremacy is a paradox the Inquisition does not discuss, and nobody who has raised it has raised it twice.",
@@ -60288,9 +60305,9 @@
    {
     "title": "The measure of it",
     "paragraphs": [
-     "Beside the islands the Imperium is vast. It counts about a hundred million souls against the islands’ three million seven hundred thousand, and takes in some thirty-five times what all twenty noble houses take together. About three million are under arms: some eighty Iron Hosts of twenty thousand in the Marches and at the Front, and as many again in the garrisons, with the Gilded Scales, and in the Inquisition. Because every Inheritor has done the Year of Iron, the Sun-Throne could call perhaps ten million to the banners, and every one of them would come.",
-     "The Forge-Lands around Kohrvantis make its guns, its armored wagons, and the plates of its ironclads, from sciences recovered in the Forging: smoke by day and fire by night. The Iron Fleet counts about 2,500 warships, some 200 of them ironclads, about eight times the Armada, and the ironclads are why the Armada builds its hulls thick.",
-     "Between the Imperium and the Alliance lies the Front, a belt of burned country a hundred leagues deep, where the war has stood for most of a thousand years and moves a few miles a generation. An Iron Host does not retreat; it is withdrawn, and the officer who withdrew it answers for every yard. In 172 EC the Iron Host took the fortress-town of Hollin’s Cross and held it for a winter, and Asteroth’s cavalry took it back in the spring."
+     "Beside the islands the Imperium is vast. It counts about a hundred million souls against the islands’ three million seven hundred thousand, and takes in some thirty-five times what all twenty noble houses take together. About three million are under arms: some eighty Iron Hosts of twenty thousand in the Marches and at the Front, and as many again in the garrisons, with the Gilded Scales, and in the Inquisition. Because every Inheritor has done the Year of Iron, the Sun-Throne could call perhaps ten million to the banners, and every one of them would come. The Iron Hosts have numbers, not names. A Host that breaks is unmade: its number is never given again, and every roll in the Imperium keeps the gap where it stood.",
+     "The Forge-Lands around Kohrvantis make its guns, its armored wagons, and the plates of its ironclads, from sciences recovered in the Forging: smoke by day and fire by night. The Iron Fleet counts about 2,500 warships, some 200 of them ironclads, about eight times the Armada, and the ironclads are why the Armada builds its hulls thick. They are named for the sayings of the Forge, *Mercy Refused*, *Debt Unpaid*, *The Sun Does Not Bargain*, and an Armada captain who sees *Mercy Refused* on the horizon knows exactly what he will not find.",
+     "Between the Imperium and the Alliance lies the Front, a belt of burned country a hundred leagues deep, where the war has stood for most of a thousand years and moves a few miles a generation. There is no word for *retreat* in Kohrane. The Host’s word is *reforge*, and the officer who orders a reforging answers for every yard of it. In 172 EC the Iron Host took the fortress-town of Hollin’s Cross and held it for a winter, and Asteroth’s cavalry took it back in the spring."
     ]
    },
    {
@@ -60308,7 +60325,8 @@
      "The Rankar Corporation’s mining claims, the deep seams of the Darlath mines under Everfall among them, and its money everywhere.",
      "Janus Rune’s *Tormentor* on the horizon, and imperial gold under half the Undertow, paying for dark glass that goes north.",
      "Returned Crown pamphlets in Ironfort, calling on the islands to invite the Imperium back on honorable terms, which nobody admits to printing.",
-     "Dragonborn deserters with stitch-marks where an insignia used to be.",
+     "Dragonborn deserters with stitch-marks where an insignia used to be, and the recall teams who come ashore after them: quiet men who leave again with the deserter, or with his insignia.",
+     "Imperial envoys who never eat what they are served and never forget a name.",
      "Five dark ships of the Southern Survey in the Strangers’ Roads off Ironfort, there since 171 EC under the Council’s safe-conduct, sketching coastlines and asking polite questions."
     ]
    },
@@ -60325,13 +60343,14 @@
      "“An imperial deserter came ashore at Black Harbor with the Catechism still sewn into his coat. He wants to sell it, and three different people want to buy it.” (a Black Harbor boatman)",
      "“The Imperium has offered to honor a Frontier lord’s deed to land outside Sonte, signed before the Exodus. On terms.” (heard in Ironfort)",
      "“A collar-smith in Goldwind was asked to make a collar small enough for a child, with no owner’s mark. The customer paid in kohrvals.” (a Goldwind smith)",
+     "“Somebody drove a gilded nail into a door in Ironfort last month. The family that lived behind it has moved, the neighbors say. Nobody saw them go.” (an Ironfort carter)",
      "“The Survey’s envoy has dined at eleven island tables this year and thanked every host by name. Not one of them has had a good night’s sleep since.” (a Goldwind steward)"
     ]
    },
    {
     "title": "Game Master’s secrets",
     "paragraphs": [],
-    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBmaXJzdCBsaW5lcy4qKiBUaGUgRm9yZ2VkIENhdGVjaGlzbSBoYXMgdHdvIGZpcnN0IGxpbmVzIHRoYXQgb25seSB0aGUgdG9wIGV2ZXIgc2F5OiAqV2hhdCB3ZXJlIHdlPyBDaGF0dGVsLiBXaHk/IFdlIHdlcmUgd2Vhay4qIEZvciBzZXZlbnRlZW4gdGhvdXNhbmQgeWVhcnMgYWZ0ZXIgdGhlIFNjYXR0ZXJpbmcgaHVtYW5raW5kIHdhcyBhIHNsYXZlIHJhY2UsIGNoYXR0ZWwgdG8gdGhlIGVsZGVyIHBlb3BsZXMsIG93bmVkLCBicmVkLCBhbmQgbWFkZSB0byBmb3JnZXQsIHVudGlsIGEgdGhyYWxsLXNjaG9sYXIgb2YgdGhlIGZyb3plbiBub3J0aCBmb3VuZCB0aGUgdHJ1dGggaW4gYSBGaXJzdGJvcm4gdmF1bHQgYW5kIHRoZSBodW1hbnMgb2YgdGhlIG5vcnRoIGNob3NlIHRoZSBGb3JnZS4gVGhlIFN1bi1UaHJvbmUsIHRoZSBUd2VsdmUgUmF5cywgdGhlIElucXVpc2l0aW9uJ3MgSW5uZXIgQ2lyY2xlLCBhbmQgdGhlIGdyZWF0IGhvdXNlcyBvZiBLb2hydmFudGlzIGtub3cgaXQgYW5kIHNheSBpdCBpbiBwcml2YXRlLiBBbiBvcmRpbmFyeSBJbmhlcml0b3IgaGFzIG5ldmVyIGhlYXJkIGl0LCBhbmQgb25lIHdobyBzYWlkIGl0IGFsb3VkIHdvdWxkIGJlIHRha2VuIGZvciBhIGhlcmV0aWMuIFdoYXQgdGhlIEltcGVyaXVtIGlzIHJ1bm5pbmcgZnJvbSBpcyB0aGUgcmVhc29uIGl0IG5ldmVyIHN0b3BzIHJ1bm5pbmcuIiwgIioqQWdlbnRzIGluIHRoZSBDb3VuY2lsLioqIFRoZSBDb3VuY2lsIGJlbGlldmVzIHRoZSBJbXBlcml1bSBoYXMgdGhyZWUgYWdlbnRzIGluIGl0cyBvZmZpY2VzLiBJdCBoYXMgYSBkb3plbiwgYW5kIG9uZSBvZiB0aGVtIHNpdHMgb24gYSBDb3VuY2lsIGNvbW1pdHRlZS4iLCAiKipUaGUgbWV0aG9kLioqIEZvciBzb21lIHRoaXJ0eS1maXZlIHllYXJzIHRoZSBJbXBlcml1bSdzIGFnZW50cyBoYXZlIHdvcmtlZCB0aGUgaXNsYW5kcyB0byBvbmUgcGxhbjogZnVuZCB0aGUgcGlyYXRlcyBhbmQgdGhlIENyaW1zb24gTGVnaW9uLCBhcm0gdGhlIHJlYmVscywgYnV5IHRoZSBub2JsZXMsIGFuZCBwcm92b2tlIHRoZSBjb25mbGljdHMgdGhlIEltcGVyaXVtIG1lYW5zIHRvIHJlc29sdmUgYnkgYXJyaXZpbmcgYXMgb3JkZXIgYW1pZCB0aGUgY2hhb3MgaXQgbWFkZS4gVGhlaXIgc291dGhlcm4gY29vcmRpbmF0b3IgaXMgSmFudXMgUnVuZSwgYW5kIHRoZWlyIG1pbmluZyBjYXQncy1wYXcgaXMgdGhlIFJhbmthciBDb3Jwb3JhdGlvbi4iLCAiKipUaGUgU3VydmV5LioqIFRoZSBmaXZlIHNoaXBzIGluIHRoZSBTdHJhbmdlcnMnIFJvYWRzIGFyZSBub3Qgd2hhdCB0aGV5IHNlZW07IHRoZWlyIG93biBwYWdlIGhvbGRzIHRoZSByZXN0LiJdfQ=="
+    "secret": "eyJwYXJhZ3JhcGhzIjogWyIqKlRoZSBmaXJzdCBsaW5lcy4qKiBUaGUgRm9yZ2VkIENhdGVjaGlzbSBoYXMgdHdvIGZpcnN0IGxpbmVzIHRoYXQgb25seSB0aGUgdG9wIGV2ZXIgc2F5OiAqV2hhdCB3ZXJlIHdlPyBDaGF0dGVsLiBXaHk/IFdlIHdlcmUgd2Vhay4qIEZvciBzZXZlbnRlZW4gdGhvdXNhbmQgeWVhcnMgYWZ0ZXIgdGhlIFNjYXR0ZXJpbmcgaHVtYW5raW5kIHdhcyBhIHNsYXZlIHJhY2UsIGNoYXR0ZWwgdG8gdGhlIGVsZGVyIHBlb3BsZXMsIG93bmVkLCBicmVkLCBhbmQgbWFkZSB0byBmb3JnZXQsIHVudGlsIGEgdGhyYWxsLXNjaG9sYXIgb2YgdGhlIGZyb3plbiBub3J0aCBmb3VuZCB0aGUgdHJ1dGggaW4gYSBGaXJzdGJvcm4gdmF1bHQgYW5kIHRoZSBodW1hbnMgb2YgdGhlIG5vcnRoIGNob3NlIHRoZSBGb3JnZS4gVGhlIFN1bi1UaHJvbmUsIHRoZSBUd2VsdmUgUmF5cywgdGhlIElucXVpc2l0aW9uJ3MgSW5uZXIgQ2lyY2xlLCBhbmQgdGhlIGdyZWF0IGhvdXNlcyBvZiBLb2hydmFudGlzIGtub3cgaXQgYW5kIHNheSBpdCBpbiBwcml2YXRlLiBBbiBvcmRpbmFyeSBJbmhlcml0b3IgaGFzIG5ldmVyIGhlYXJkIGl0LCBhbmQgb25lIHdobyBzYWlkIGl0IGFsb3VkIHdvdWxkIGJlIHRha2VuIGZvciBhIGhlcmV0aWMuIFdoYXQgdGhlIEltcGVyaXVtIGlzIHJ1bm5pbmcgZnJvbSBpcyB0aGUgcmVhc29uIGl0IG5ldmVyIHN0b3BzIHJ1bm5pbmcuIiwgIioqQWdlbnRzIGluIHRoZSBDb3VuY2lsLioqIFRoZSBDb3VuY2lsIGJlbGlldmVzIHRoZSBJbXBlcml1bSBoYXMgdGhyZWUgYWdlbnRzIGluIGl0cyBvZmZpY2VzLiBJdCBoYXMgYSBkb3plbiwgYW5kIG9uZSBvZiB0aGVtIHNpdHMgb24gYSBDb3VuY2lsIGNvbW1pdHRlZS4iLCAiKipUaGUgbWV0aG9kLioqIEZvciBzb21lIHRoaXJ0eS1maXZlIHllYXJzIHRoZSBJbXBlcml1bSdzIGFnZW50cyBoYXZlIHdvcmtlZCB0aGUgaXNsYW5kcyB0byBvbmUgcGxhbjogZnVuZCB0aGUgcGlyYXRlcyBhbmQgdGhlIENyaW1zb24gTGVnaW9uLCBhcm0gdGhlIHJlYmVscywgYnV5IHRoZSBub2JsZXMsIGFuZCBwcm92b2tlIHRoZSBjb25mbGljdHMgdGhlIEltcGVyaXVtIG1lYW5zIHRvIHJlc29sdmUgYnkgYXJyaXZpbmcgYXMgb3JkZXIgYW1pZCB0aGUgY2hhb3MgaXQgbWFkZS4gVGhlaXIgc291dGhlcm4gY29vcmRpbmF0b3IgaXMgSmFudXMgUnVuZSwgYW5kIHRoZWlyIG1pbmluZyBjYXQncy1wYXcgaXMgdGhlIFJhbmthciBDb3Jwb3JhdGlvbi4iLCAiKipUaGUgU3VydmV5LioqIFRoZSBmaXZlIHNoaXBzIGluIHRoZSBTdHJhbmdlcnMnIFJvYWRzIGFyZSBub3Qgd2hhdCB0aGV5IHNlZW07IHRoZWlyIG93biBwYWdlIGhvbGRzIHRoZSByZXN0LiIsICIqKlRoZSBnaWxkZWQgbmFpbC4qKiBUaGUgbmlnaHQgYmVmb3JlIHRoZSBJbnF1aXNpdGlvbiB0YWtlcyBzb21lb25lLCB0aGUgY2VsbCBkcml2ZXMgYSBnaWxkZWQgbmFpbCBpbnRvIHRoZSBkb29yLiBJdCBpcyBub3QgYSB3YXJuaW5nOyBpdCBpcyBhIHJlY29yZCwgc28gdGhhdCB0aGUgY2VsbCdzIGxlZGdlciBhbmQgdGhlIGRvb3IgYWdyZWUuIExldCB0aGUgcGxheWVycyBzZWUgb25lIHR3byBvciB0aHJlZSB0aW1lcywgaW4gZGlmZmVyZW50IHRvd25zLCBiZWZvcmUgYW55b25lIGV4cGxhaW5zIGl0LiJdfQ=="
    }
   ],
   "related": [
