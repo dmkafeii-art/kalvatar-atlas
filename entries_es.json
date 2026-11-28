@@ -7257,7 +7257,7 @@
    {
     "title": "Lo que te dice",
     "paragraphs": [
-     "Cuando los lobos balleneros golpean el agua frente al puerto, es que traen una ballena, y todo Bastión de Escarcha corre a los botes."
+     "Cuando los [[lobos balleneros|whale-wolves]] golpean el agua frente al puerto, es que traen una ballena, y todo Bastión de Escarcha corre a los botes."
     ]
    },
    {
@@ -11011,25 +11011,85 @@
  "frosthold": {
   "gloss": "Frosthold",
   "subtitle": "Piedra de hielo, hueso de ballena y aceite",
-  "summary": "Bastión de Escarcha es la capital de la costa ballenera y la sede más fuerte de la Hermandad de la Salmuera, los pescadores y balleneros que mantienen viva la Extensión.",
+  "summary": "Bastión de Escarcha es la capital de la costa ballenera, el asentamiento honrado más grande del hielo y la sede más fuerte de la Hermandad de la Salmuera: el pueblo cuyo aceite arde en cada lámpara de las islas.",
   "facts": [
    [
     "Región",
     "La [[Extensión Helada|Icy Expanse]]"
+   ],
+   [
+    "Conocido por",
+    "Aceite de ballena, ámbar gris y hielo empacado"
+   ],
+   [
+    "En manos de",
+    "Las casas de aceite de la Casa Brennvar, bajo la marca de la Casa Kaldmark"
+   ],
+   [
+    "La Hermandad",
+    "Más fuerte aquí que en ningún otro puerto"
+   ],
+   [
+    "La bahía",
+    "Cerrada por el hielo marino del otoño a la primavera"
    ]
   ],
   "title": "Bastión de Escarcha",
+  "epigraph": {
+   "quote": "Cuando los lobos golpean el agua, corres. La sopa te la terminas en el bote.",
+   "by": "Un arponero de Bastión de Escarcha"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "La lámpara de las islas",
     "paragraphs": [
-     "Las murallas de la fortaleza están hechas de piedra de hielo y hueso de ballena, y las casas de aceite a lo largo de la bahía funden la grasa de ballena que arde en cada lámpara del [[Corazón|Heartland]]. La casa Brennvar tiene las casas de aceite, y su [[Señora de la Lámpara|Lamp-Mistress]], Astri, gobierna la bahía con una justicia que la [[Hermandad|Brotherhood]] respeta y que al [[Consorcio|Combine]] le molesta. Los [[Llamamareas|Tidecallers]] de la [[Concordia|Concord]] tienen un templo pequeño en el muro del puerto, y su bendición del mar es lo primero que recibe cada flota ballenera antes de salir. [[Bastión de Escarcha|Frosthold]] es el último lugar de la [[Extensión|Expanse]] donde un forastero puede comprar un cuarto caliente por una [[Marea|Tide]] de plata."
+     "[[Bastión de Escarcha|Frosthold]] se alza en una península rocosa sobre la bahía de las flotas balleneras. Sus murallas son de piedra de hielo y hueso de ballena, y a lo largo de la bahía, a sus pies, están las casas de aceite y los [[Hornos de Aceite|Tryworks]], donde la grasa de ballena se funde en el aceite que arde en cada lámpara del [[Corazón|Heartland]]. En verano los hornos humean del alba al anochecer, y todo el pueblo huele a aceite y a dinero.",
+     "Es el asentamiento honrado más grande del hielo, y sabe que la palabra *honrado* está trabajando un poco. [[Puerto Varan|Varan Port]], el puerto del [[Consorcio de Buentiempo|Fairweather Combine]], queda en la misma costa, y Bastión de Escarcha tiene un orgullo callado de ser todo lo que [[Buentiempo|Fairweather]] no es.",
+     "La ley del pueblo es la ley del hielo. Al huésped se le da grasa y fuego sin preguntar, porque echar a alguien al frío es asesinato y se castiga como asesinato, y Bastión de Escarcha es el último lugar de la [[Extensión|Expanse]] donde un forastero puede comprar un cuarto caliente por una [[Marea|Tide]] de plata."
+    ]
+   },
+   {
+    "title": "La caza",
+    "paragraphs": [
+     "A las ballenas las encuentran los [[lobos balleneros|whale-wolves]], una manada de orcas salvajes que caza junto a los balleneros de Bastión de Escarcha desde hace generaciones. Cuando golpean el agua frente al puerto es que traen una ballena, y todo el pueblo corre a los botes. Los lobos se quedan con la lengua de cada presa, y ningún barco Kaldmark ha lastimado nunca a uno. Ningún ballenero zarpa sin un [[petrel de recalada|landfall petrel]] a bordo, el pájaro que sabe dónde está la tierra.",
+     "Los balleneros de la [[Hermandad de la Salmuera|Brine Brotherhood]] navegan por partes, no por sueldo, y a un arponero se le paga por la tabla de la [[Hermandad|Brotherhood]]. Lo que traen a casa va a las cuadrillas de los hornos, un gremio en todo menos en el nombre, que funden el aceite y se declaran en huelga si falta leña para los fuegos. Alrededor trabajan los cortadores de hielo, que cortan los bloques que se empacan en aserrín y se venden en [[Puerto Sur|Southhaven]] a una Marea cada uno, por 2 [[Olas|Bits]] el bloque; los foqueros y los tallistas de marfil y barba de ballena; y los compradores de ámbar gris de la Casa Ambrey, que pasan el invierno en el hielo para comprarles a los balleneros antes de que el aceite esté siquiera fundido."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Bastión de Escarcha es el final de los caminos del mar. El hielo marino cierra su bahía del otoño a la primavera, y el último barco de grano del año tiene que ganarle al hielo, porque el pueblo vive de un pan que no puede cultivar. Cuando ningún barco puede moverse, la carga sigue cruzando entre Bastión de Escarcha y Puerto Varan en patín y trineo por los [[Caminos de Escarcha|Rime Ways]], bajo el hielo marino, y a los corredores que la llevan les pagan como a capitanes.",
+     "Los barcos que llegan pasan junto al templo pequeño que los [[Llamamareas|Tidecallers]] de la [[Concordia|Concord]] tienen en la muralla del puerto, donde cada flota ballenera recibe su bendición del mar antes de salir. En la [[Larga Noche|Long Night]] el sol se pone durante semanas, la aurora ilumina el pueblo de verde y blanco, y la lámpara de cada salón se mantiene encendida."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "Bastión de Escarcha es la capital de la marca ballenera de la Casa Kaldmark. La fortaleza de piedra negra del [[Señor de la Marca|Marchlord]], con su puerta de hueso de ballena, se alza en las colinas sobre el pueblo y vigila la frontera con el [[Consorcio|Combine]]. Kaldmark se lleva la leva del pueblo y manda a sus hijos menores a aprender el hielo en las cubiertas de Brennvar, y los pueblos más pequeños de la bahía, [[Aguahueso|Bonewater]], [[Bahía del Caldero|Kettlebay]] y el fuerte de [[Atalaya de Escarcha|Rimewatch]], también le responden.",
+     "La bahía en sí es de la Casa Brennvar, la [[Casa de la Lámpara|Lamplight House]], que tiene las casas de aceite desde su sede en los Hornos de Aceite. Su cabeza, Astri Brennvar, [[Señora de la Lámpara|Lamp-Mistress]] de Bastión de Escarcha, gobierna la bahía con una justicia que la Hermandad respeta y que al Consorcio le molesta. Su marido Halvar es el maestro ballenero de la flota, y el capitán Jorundal, que no es pariente de sangre pero al que llaman primo, es el mejor piloto de hielo bajo la cola de Brennvar.",
+     "En la costa, los consejos balleneros de la Hermandad de la Salmuera mantienen la paz. Los Tesoreros tienen una [[casa de cuentas|counting-house]] en el pueblo, donde el préstamo a la gruesa cuesta una parte de cada cinco y [[Madre Kess|Mother Kess]] tiene más deudas que la Casa: después de dos temporadas flacas compró las de Brennvar, y Astri ha ido a cenar con ella."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Cada gran presa termina en un festín ballenero, y en los más grandes se cierran los contratos de aceite del año con los compradores del Corazón. Los contratos de una mala temporada son los tratos más duros de las islas: un ballenero de Bastión de Escarcha puede ser rico en aceite y morirse de hambre de pan en el mismo invierno.",
+     "El primer barril de cada temporada no se vende. Bastión de Escarcha lo quema en su propia lámpara, y ningún barco carga hasta que está encendido. Después el aceite sale a cada lámpara y cada faro de las islas, el ámbar gris a los perfumistas de [[Puerto Plata|Silverport]], las pieles y el marfil a la [[Frontera|Frontier]], y el hielo al sur, a los hacendados.",
+     "El pueblo bebe [[ardehielo|icebrand]], el kellum destilado por congelación y ahumado sobre lámparas de aceite de ballena, y [[té de grasa|fat-tea]], [[hoja clara|brightleaf]] batida con grasa, a 2 Mareas el ladrillo. Ha comerciado y peleado con los [[Elfos de la Escarcha|Frost Elves]] desde antes de la Carta, muchas veces en la misma temporada, y cada niño del pueblo conoce la cara de calavera pintada de una banda de guerra."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Cada lámpara de [[Ventoro|Goldwind]] y cada faro de las islas queman aceite de Bastión de Escarcha, y el [[Consejo|Council]] vigila el aceite como vigila el Krysta. El Corazón lo paga a 5 Olas la pinta y los fuertes de la Frontera a 6. Los fundidores de Puerto Plata lo convierten en las velas blancas que alumbran los salones, y una [[Vela de la Larga Noche|Long-Night Candle]] de aceite de Bastión de Escarcha arde cuarenta días.",
+     "Un pueblo ballenero en el fondo del mundo tiene en sus manos la luz de todo el archipiélago, y los dos lo saben."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Las lámparas de Ventoro arden más limpias desde que Bastión de Escarcha cambió su aceite. Los faroleros dicen que el humo huele apenas a monedas.” (un farolero de Ventoro)"
+     "“Las lámparas de Ventoro arden más limpias desde que Bastión de Escarcha cambió su aceite. Los faroleros dicen que el humo huele apenas a monedas.” (un farolero de Ventoro)",
+     "“A la Casa de la Lámpara le falta el aceite de una temporada entera, y Astri Brennvar no quiere decir dónde ha estado cazando su flota.” (un escribiente de una casa de aceite de Bastión de Escarcha)"
     ]
    }
   ]
@@ -11112,25 +11172,86 @@
  "greyhaven": {
   "gloss": "Greyhaven",
   "subtitle": "Pescado salado y campanas",
-  "summary": "Puerto Gris es un puerto gris y duro que vive dentro de la niebla.",
+  "summary": "Puerto Gris es un puerto gris y duro que vive dentro de la niebla: el puerto de pescado salado más rico de la Frontera y la casa de la primera luz del norte.",
   "facts": [
    [
     "Región",
     "La [[Frontera del Norte|Northern Frontier]]"
+   ],
+   [
+    "Conocido por",
+    "Pescado salado, la [[Bruma|Murk]] y los códigos de campana"
+   ],
+   [
+    "En manos de",
+    "La Casa [[Tejetormentas|Stormweaver]], bajo [[Dama|Lady]] Elara"
+   ],
+   [
+    "Frente al puerto",
+    "Los [[Dientes de la Viuda|Widow’s Teeth]] y el [[Paso de los Pesares|Gap of Sorrows]]"
+   ],
+   [
+    "La primera luz",
+    "Hacia 10 EC, en el último de los Dientes"
    ]
   ],
   "title": "Puerto Gris",
+  "epigraph": {
+   "quote": "Primero las campanas. Las letras pueden esperar. Las rocas no.",
+   "by": "Una abuela de Puerto Gris"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Dentro de la niebla",
     "paragraphs": [
-     "El puerto de [[Puerto Gris|Greyhaven]] es el puerto de pescado salado más rico de la [[Frontera|Frontier]], y sus campanas no paran nunca durante la [[Bruma|Murk]]. La casa [[Tejetormentas|Stormweaver]], un linaje de Señores de la Marca de hechiceros de la tormenta, mantiene encendidas las luces de Puerto Gris a través de la niebla, y las flotas pesqueras de la [[Hermandad de la Salmuera|Brine Brotherhood]] les pagan a los magos de la casa para que mantengan a los botes lejos de las rocas. Los [[Dientes de la Viuda|Widow's Teeth]] están justo frente a la boca del puerto, y cada niño de Puerto Gris aprende los códigos de campanas antes que las letras, porque un bote que no sabe leer las campanas no encuentra el puerto. El barrio viejo tiene una capilla en el acantilado donde las viudas de los perdidos encienden lámparas por los botes que no han vuelto."
+     "[[Puerto Gris|Greyhaven]] está construido en un anillo de acantilados cortados a pico alrededor de un puerto redondo y tranquilo, y durante buena parte del año no se ve a sí mismo. La Bruma de Puerto Gris entra desde el mar frío y puede no levantarse en todo el día, una niebla tan espesa que los barcos tocan campanas para encontrarse, y en la temporada de niebla las campanas no paran nunca. Cada bote lleva una y cada muelle tiene la suya.",
+     "Cada niño de Puerto Gris aprende los códigos de campana antes que las letras, porque un bote que no sabe leer las campanas no encuentra el puerto. Los códigos llegan hasta una milla a través de la niebla y dicen lo que un marinero necesita saber: el nombre y el rumbo de un bote, *rocas*, *auxilio*, *aquí el puerto*, *aléjate*.",
+     "La [[Casa de la Tormenta|Storm House]], la sede de los señores del pueblo, está en lo alto del acantilado: una casa gris llena de barómetros y vidrios de tormenta, cuyas ventanas tiemblan con cada viento. En el barrio viejo hay una capilla en el acantilado donde las viudas de los que se perdieron encienden lámparas por los botes que no han vuelto, y los rollos de las lámparas que se guardan ahí anotan cada bote perdido frente a Puerto Gris desde 10 EC."
+    ]
+   },
+   {
+    "title": "La luz de los Dientes",
+    "paragraphs": [
+     "Los Dientes de la Viuda están justo frente a la boca del puerto, una hilera de colmillos de roca en los que las familias pescadoras perdían botes cada invierno hasta hacia 10 EC, cuando los Tejetormentas encendieron la primera luz del norte en el último de ellos. Su linterna guarda una tormenta cautiva, un relámpago pálido dentro de un vidrio que nunca se ha abierto, y se ve a través de la Bruma cuando ninguna llama podría.",
+     "Cuando la [[Peste del Mar Ardiente|Plague of the Burning Sea]] llegó al norte, hacia 90 EC, tres magos de la casa mantuvieron las luces encendidas durante un invierno en que la mitad de Puerto Gris estaba enferma, y no durmieron en una semana. En 92 EC el [[Consejo|Council]] le dio a la casa la [[Cédula de las Luces|Light-Warrant]] por eso: la cabeza de la Casa Tejetormentas es [[Guardián de las Luces|Warden of the Lights]], y cada luz cartografiada de las islas le responde a Puerto Gris. El derecho de luz paga el aceite y a los fareros, no al pueblo, y la [[Casa de los Tesoreros|Reckoners’ Hall]] revisa cada año que nada se quede.",
+     "Costa arriba, la Casa Vanris encendió su propia linterna en la [[Fortaleza Guardatormentas|Stormguard Hold]] hacia 40 EC como respuesta, y las dos casas discuten desde entonces sobre en qué luces debe confiar el norte."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Los barcos que entran a Puerto Gris y los que salen cruzan el Paso de los Pesares entre los Dientes a la luz de las lámparas, con un práctico y una oración. Los [[prácticos de la Bruma|Murk pilots]] pasan un barco por campana y por oído, a la manera honrada, por la paga de práctico y un plato caliente al final. Un capitán que pasa frente al santuario del acantilado sin bajar una vez su propia luz no es bienvenido de vuelta.",
+     "En las noches quietas el viento pasa por los huecos de la roca, y los Dientes dan un acorde que la gente de Puerto Gris toma por las voces de los ahogados."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Tejetormentas, los [[Cantados por la Tormenta|Storm-Sung]], tiene Puerto Gris y los Dientes de la Viuda: la más pequeña de las casas de Señores de la Marca, con voz en cada puerto de las islas y con el mismo dinero que antes. Dama Elara Tejetormentas, de pelo blanco, curtida y de palabra llana, gobierna el pueblo, y el norte la quiere por ser la única cabeza de una casa que le ha dicho que no a Mortimer Vanris, y por escrito.",
+     "La [[Guardia de Puerto Gris|Greyhaven Guard]], unos 550 soldados de gris y oro pálido, cuida la Casa de la Tormenta, la luz y el puerto. Ninguna flota puede encontrar Puerto Gris en la niebla sin las campanas, y las campanas le responden a la casa.",
+     "El dinero del pueblo es el pescado. La Casa Hallorn tiene las naves de pescado de Puerto Gris además de sus salinas de [[Confín de Sal|Saltreach]], los [[Doce de la Bruma|Murk Twelve]], las doce familias de patrones de la flota del arenque, navegan bajo ella, y las flotas de la [[Hermandad de la Salmuera|Brine Brotherhood]] les pagan a los magos de la casa para que mantengan sus botes lejos de las rocas."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "El arenque entra con la marea de la tarde y para la mañana ya está salado. La pesca se vende en el muelle a primera luz, y el precio de un barril de pescado salado, 4 [[Mareas|Tides]], se fija antes de que los botes estén amarrados; a las mujeres que lo destripan les pagan 2 [[Olas|Bits]] el barril. El pescado salado de Puerto Gris es la pesca más rica de la [[Frontera|Frontier]], y alimenta a las guarniciones de Faust y a medio norte.",
+     "Las lectoras de sueños de Skaia aconsejan a los soñadores en Puerto Gris desde que alguien lleva la cuenta. Una lectora cobra una Ola por un sueño en una feria del puerto, y mucho más a un mercader que quiere un sueño de buena fortuna. En los barrios bajos tienen las casas donde cuidan a los [[Agrisados|Greyed]], y son amables con ellos.",
+     "Puerto Gris adoptó los juegos del merrin hace una generación, con merrines de lana roja y un [[Nado del Puerto|Harbor Swim]] en agua tan fría que puede parar un corazón, y las viudas encienden sus lámparas para el [[Desate|Untying]]. Cuando se llama la leva para la [[Guerra Larga|Long War]], la compañía del pueblo zarpa, como todas, con el nombre de su muelle: la [[Luz de Puerto Gris|Greyhaven Light]]. La [[Alianza|Alliance]] pide por su nombre a los magos de la tormenta de Puerto Gris, treinta al año."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Debajo de Puerto Gris, en la misma niebla, está [[Puerto Negro|Black Harbor]], la capital de los contrabandistas de la Frontera, un laberinto de muelles y cuevas de mar. Los [[Corredores de la Niebla|Fogrunners]] desembarcan ahí carga sin impuestos con códigos de campana tan exactos que pueden cruzar los Dientes de la Viuda a ciegas: los mismos códigos que aprende cada niño de Puerto Gris, y que la casa nunca ha encontrado cómo impedir que alguien aprenda.",
+     "Puerto Gris le vende su pescado salado y su arenque ahumado a todo el norte y al [[Corazón|Heartland]] a 8 Mareas el barril, cuida las luces de todas las costas y nunca, ni una vez, ha sido un lugar cómodo para vivir. Su gente no viviría en ningún otro."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Vieron a Johann Faust en una taberna de Puerto Gris con un hombre que lleva la insignia del Último Salmo. Nadie sabe de qué lado piensa ponerse.” (se oye en la Frontera del Norte)"
+     "“Vieron a Johann Faust en una taberna de Puerto Gris con un hombre que lleva la insignia del Último Salmo. Nadie sabe de qué lado piensa ponerse.” (se oye en la Frontera del Norte)",
+     "“Hay un bote en los rollos de las lámparas que todavía no ha zarpado. Su nombre está ahí, en la tinta vieja, y el astillero le puso la quilla el mes pasado.” (un campanero de Puerto Gris)"
     ]
    }
   ]
@@ -11360,25 +11481,82 @@
  "silverport": {
   "gloss": "Silverport",
   "subtitle": "Seda, incienso y piedra pálida",
-  "summary": "Puerto Plata es el puerto de la seda del este, una ciudad de piedra pálida y jardines perfumados.",
+  "summary": "Puerto Plata es el puerto de la seda del este del Corazón, una ciudad de piedra pálida y jardines perfumados frente al mar abierto, donde se hacen la seda, el incienso y el perfume de las islas, y donde se pelea por ellos.",
   "facts": [
    [
     "Región",
     "El [[Corazón Central|Central Heartland]]"
+   ],
+   [
+    "Conocido por",
+    "Seda, incienso, perfume y velas blancas"
+   ],
+   [
+    "Los Perfumistas",
+    "Los dirige Madame Ilsabet Saffrane"
+   ],
+   [
+    "La costa",
+    "El este del [[Corazón|Heartland]], frente a los [[Reinos de Coral|Coral Kingdoms]]"
+   ],
+   [
+    "El pleito",
+    "Las familias pocchin, más viejo que cualquiera de los que lo pelean hoy"
    ]
   ],
   "title": "Puerto Plata",
+  "epigraph": {
+   "quote": "Puerto Plata se puede cruzar a ciegas. Cada calle huele a algo distinto, y las caras no huelen a nada.",
+   "by": "Un cargador de Puerto Plata"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Piedra pálida y perfume",
     "paragraphs": [
-     "Las granjas de seda y las casas de incienso de [[Puerto Plata|Silverport]] le dan al [[Corazón|Heartland]] su seda, su perfume y sus aceites finos. Los [[Perfumistas|Perfumers]] de Puerto Plata están en guerra abierta con las familias pocchin, que se niegan a entrar al gremio, venden más barato que todos y roban recetas por deporte. La casa Saffrane tiene el comercio de la seda. Los mercados de la ciudad venden los mejores perfumes de las islas, y los más raros llevan ámbar gris de [[Bastión de Escarcha|Frosthold]]."
+     "[[Puerto Plata|Silverport]] está en la costa del este del Corazón, junto a [[Bastión del Este|Easthold]], frente al mar abierto y a los Reinos de Coral que hay más allá. Es una ciudad de piedra pálida y jardines perfumados, y sus botes huelen a perfume desde una milla.",
+     "Las granjas de seda que rodean la ciudad crían la polilla de la seda de Puerto Plata en cuartos tibios entre las hojas, y su seda es la seda del archipiélago. Las muchachas de las granjas de seda llevan las polillas en los hombros como broches vivos, y en Puerto Plata eso se ha vuelto la moda. Las casas de incienso perfuman las calles, y la cocina especiada con incienso de Puerto Plata es la más apreciada en una mesa del Corazón."
+    ]
+   },
+   {
+    "title": "La guerra del perfume",
+    "paragraphs": [
+     "Los [[Perfumistas|Perfumers]] de Puerto Plata hacen el perfume, el incienso y los aceites finos de las islas, y por vieja costumbre la cabeza de la Casa Saffrane es la cabeza del gremio. Hoy es Madame Ilsabet Saffrane, [[Señora de los Perfumistas|Mistress of the Perfumers]]. Su hijo Corin, al que llaman *la Nariz*, es el mejor perfumista de las islas fuera de una caravana pocchin, y está muy cansado de la salvedad; su sobrina Aurore lleva la seda.",
+     "Alrededor de la [[Casa Perfumada|Scented House]] trabajan las casas de seda Quell, los mercaderes de incienso Lisk y los cereros de la [[Calle de las Velas|Candle Row]], cuyas velas blancas, fundidas de aceite de [[Bastión de Escarcha|Frosthold]], alumbran cada salón de [[Ventoro|Goldwind]] a 2 [[Olas|Bits]] cada una. Los perfumes más raros se fijan con ámbar gris del hielo, que compra la Casa Ambrey antes de que el aceite esté siquiera fundido. Un frasco de perfume de Puerto Plata cuesta de 5 a 50 [[Anclas|Anchors]], y la casa hace la *[[Rosa Negra|Black Rose]]* para la [[Casa de la Rosa|Rose House]] de Alastor.",
+     "Los Perfumistas están en guerra abierta con las familias pocchin, que se niegan a entrar al gremio, venden más barato que todos y roban recetas por deporte, la manada Tobbin antes que ninguna. La guerra es más vieja que cualquiera de los que la pelean hoy. Un perfume de Puerto Plata y uno pocchin servidos lado a lado son muy difíciles de distinguir, y cada bando lo toma como un insulto."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Los barcos llegan del hielo con aceite de ballena y ámbar gris, y con especias que volverán a salir, reexportadas, bajo el sello Saffrane. El frente del puerto es todo almacenes, fundiciones y tintorerías, y el olor cambia cada pocas puertas.",
+     "En los juegos del merrin, desde hace una generación, las mujeres de Puerto Plata también navegan por merrines, y los hombres caminan por el muelle. Casi todos los puertos del Corazón lo han dejado pasar sin admitirlo del todo. Puerto Plata lo admite."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "Ninguna gran casa tiene Puerto Plata. Su primera familia es una familia mercante: la Casa Saffrane, una de las [[Doce Banderas|Twelve Flags]] del [[Congreso Mercantil|Mercantile Congress]], cuyas tres hebras de azafrán cruzadas sobre violeta ondean sobre la seda y el perfume, y cuyo lema es *Recordados por el aroma*. Los Tesoreros tienen una [[casa de cuentas|counting-house]] en la ciudad, conocida por los [[contables|counters]] más callados del Corazón."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Las casas de juego de Puerto Plata prohíben en las mesas los gecos de la fortuna y las [[grajillas contadoras|counting jackdaws]], y tienen uno de cada uno detrás de la barra. Últimamente algunas han empezado a revisarles los bolsillos a los clientes en la puerta.",
+     "El barrio de los factores es uno de los hogares de los semielfos, como los de [[Puerto Sur|Southhaven]] y Ventoro, y sus intérpretes son muy buscados en las mesas de los tratados. Sus tintoreros compran cada color que dan las islas, y sus mercados venden los mejores perfumes de las islas; los más raros llevan ámbar gris de Bastión de Escarcha."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Puerto Plata viste de seda a los ricos de todas partes, perfuma los salones del Corazón y los alumbra con sus velas blancas. La Casa Saffrane les vende a la Casa de la Rosa y a la Casa Veldane, y pagará una fortuna por la receta de una familia pocchin, y una mayor por el silencio sobre cómo se consiguió.",
+     "Entre los pocchin se dice que un perfume pocchin a veces es perfume de Puerto Plata con etiqueta pocchin, y a veces al revés, y que solo los pocchin saben cuál es cuál."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“La manada Tobbin dice que la famosa Rosa Negra de Saffrane fue suya primero, y que todavía tiene el recibo de venta.” (un pocchin, a gritos)"
+     "“La manada Tobbin dice que la famosa Rosa Negra de Saffrane fue suya primero, y que todavía tiene el recibo de venta.” (un pocchin, a gritos)",
+     "“Una casa de juego de Puerto Plata va a levantar por una noche la prohibición de los gecos y las grajillas, para un torneo que todos quieren ganar y nadie puede darse el lujo de perder.” (un crupier de Puerto Plata)"
     ]
    }
   ]
@@ -11445,19 +11623,77 @@
  "southhaven": {
   "gloss": "Southhaven",
   "subtitle": "La casa de cuentas de las Tierras Salvajes",
-  "summary": "Puerto Sur es el puerto colonial de la costa sur y el corazón comercial de las Tierras Salvajes.",
+  "summary": "Puerto Sur es el puerto colonial de la costa sur y el corazón comercial de las Tierras Salvajes: café en las colinas, azúcar en los ríos y un mayordomo de cada gran casa en el muelle, contando.",
   "facts": [
    [
     "Región",
     "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Conocido por",
+    "Café, [[hoja del sur|southleaf]], azúcar de caña y algodón"
+   ],
+   [
+    "Quién tiene sede aquí",
+    "Los tribunales coloniales, las oficinas del sur de la [[Compañía Casacarta|Charterhouse Company]], la Casa Fennick y la Casa Quillane"
+   ],
+   [
+    "Marca de ceca",
+    "Una palmera, solo en las [[Olas|Bits]]"
+   ],
+   [
+    "Desde Ventoro",
+    "Unas seis semanas"
    ]
   ],
   "title": "Puerto Sur",
+  "epigraph": {
+   "quote": "Tómate el café. Pregunta en qué colina creció. No preguntes dos veces.",
+   "by": "Un escribiente de Fennick en las escaleras del Almacén Largo"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "El puerto colonial",
     "paragraphs": [
-     "El puerto de [[Puerto Sur|Southhaven]] está bordeado por los almacenes de las grandes casas de plantación, y sus colinas dan el café, la [[hoja del sur|southleaf]], el azúcar de caña y el algodón que consume cada salón del [[Corazón|Heartland]]. La [[Compañía Casacarta|Charterhouse Company]] tiene aquí sus oficinas del sur, y sus hombres de mandato, los [[collares de latón|brass-collars]], patrullan las calles de los almacenes. Las plantaciones se reparten entre las fincas justas de la Casa [[Paramogrís|Greymoor]] y las fincas no libres de la Casa Vossreth, y el boicot del sur es simple: \"café de Paramogrís o nada\". Los [[Corredores de la Hoja Negra|Blackleaf Runners]] meten la hoja del sur de contrabando y sacan a los trabajadores en servidumbre por los puertos de río. Los mercados de Puerto Sur son el mejor lugar del sur para enterarse de cualquier cosa sobre cualquiera, y el peor lugar para que te vean enterándote."
+     "[[Puerto Sur|Southhaven]] está en el borde templado del norte de las Tierras Salvajes del Sur, a orillas del mar interior, cálido y poco profundo, que comparte con Jakupur y con las viejas escaleras orka. Su puerto está bordeado por los almacenes de las grandes casas de plantación, y sus muelles huelen a café, a brea y a ají de fuego. Detrás del pueblo, las colinas suben en terrazas de café y árboles de sombra, y más allá corre la costa de la caña, a lo largo de ríos pardos y lentos.",
+     "El pueblo tiene dos mitades. Las calles de los almacenes, junto al agua, son del comercio: el [[Almacén Largo|Long Warehouse]] de los factores Fennick, los clasificadores Tessel, cuyo sello fija el precio de un saco, y las oficinas del sur de la Compañía Casacarta, cuyos hombres de mandato, los [[collares de latón|brass-collars]], patrullan las calles entre unos y otros. La parte alta es de las familias coloniales, de sus magistrados y de sus mesas de señores, y sobre ella se alza la [[Casa de la Pluma|Quill House]] de la Casa Quillane: grande, nueva y chillona, con demasiadas ventanas, construida al estilo de un gran solar del [[Corazón|Heartland]]."
+    ]
+   },
+   {
+    "title": "Dos clases de café",
+    "paragraphs": [
+     "Las colinas de Puerto Sur dan el café, la hoja del sur, el azúcar de caña y el algodón que consume cada salón del Corazón, y se las reparten dos casas que no se sientan a la misma mesa. Las fincas justas de la Casa [[Paramogrís|Greymoor]] empezaron hacia 40 EC, cuando la primera señora Paramogrís, Havisa, les compró tierra en las colinas a la gente que ya vivía ahí, al precio que ellos pusieron, y escribió el trato en las dos lenguas. [[Buenamano|Fairhand]], la casa de hacienda de la familia, de piedra roja y madera oscura, sigue en pie entre las terrazas. Las fincas de la Casa Vossreth las trabajan manos que no son libres.",
+     "El gran boicot del sur cabe en cuatro palabras: *Café Paramogrís o nada.* Una libra de café Paramogrís cuesta 3 [[Mareas|Tides]] en el Corazón contra 2 la del resto, y la gente paga la diferencia para que la vean pagándola. Los factores Fennick son los únicos que reciben las dos casas, y les compran a las dos, muchas veces antes de que se siembre la cosecha.",
+     "En la costa de la caña, río arriba, una docena de pueblos de la Compañía Casacarta cultivan azúcar con trabajadores bajo contrato de servidumbre, y Campo de Latón no es el peor. Las barcazas de azúcar bajan por los ríos hasta Puerto Sur, y se supone que nada sube. Buena parte de la hoja del sur la cultivan los medianos en sus propias fincas pequeñas y la venden por trenzas, y los [[Corredores de la Hoja Negra|Blackleaf Runners]] de [[Hermana Humo|Sister Smoke]] la pasan de contrabando, sin impuestos, por fuera de las licencias de la Compañía, junto con los propios trabajadores de la Compañía, que van en sentido contrario."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Una travesía normal desde [[Ventoro|Goldwind]] tarda unas seis semanas y cuesta 3 [[Anclas|Anchors]] en cubierta o 12 en camarote. Los barcos entran por aguas cálidas y poco profundas, pasan junto a las cañoneras de la [[Ira Esmeralda|Emerald Wrath]], la flota de la Armada que patrulla los ríos del sur, y amarran bajo la casa de aduanas, donde los escribientes Holst cobran los derechos de puerto por contrato del [[Consejo|Council]]. La casa del [[Registro|Registry]] de Puerto Sur es una puerta con una campana que nadie toca.",
+     "Lo primero que compra un marinero en tierra es una taza de café, fuerte y dulce. Lo segundo, si el viaje dejó ganancia, es un bloque de hielo de [[Bastión de Escarcha|Frosthold]], empacado en aserrín y traído de punta a punta de las islas: una Marea el bloque, el lujo más caro del sur, que se echa en un vaso de [[quemaboca|burnmouth]] en el [[calor quieto|still-heat]] de la tarde. Desde Puerto Sur, la costa de Jakupur queda a dos o tres semanas, y [[Puerto Varan|Varan Port]] a siete u ocho."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "Ningún señor tiene Puerto Sur. Los tribunales coloniales sesionan en la parte alta y juzgan por la Carta; más allá de la última plantación, los [[guardianes del canto|chant-keepers]] juzgan por una ley más vieja, y el sur nunca ha decidido cuál de las dos es la ley de la tierra. Los elfos del [[Bosque del Sol|Sunwood]] hacen de intermediarios entre unos y otros, y la Casa Senrith, abanderada de Paramogrís, habla por los Oruma ante los tribunales coloniales.",
+     "Lo que pesa en el pueblo es el dinero. La Compañía Casacarta vende desde sus oficinas de aquí la sal del sur y los contratos de servidumbre, y las grandes casas mandan a sus mayordomos a contar el café. La Casa Quillane, a la que hicieron [[Guardianes|Wardens]] por llevar los registros de tierras del sur durante la [[Peste del Mar Ardiente|Plague of the Burning Sea]], cuando la mitad de los escribientes de Puerto Sur estaban muertos, vende títulos desde su sala de concesiones a cualquiera que tenga monedas y un uso para uno. La [[casa de cuentas|counting-house]] de los Tesoreros presta aquí menos que en ninguna otra parte de las islas, porque los pueblos nativos llevan su oro en los brazos, donde no llega ningún mandato."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "El sur se levanta antes que el sol, porque las horas frescas son las únicas horas. El mercado de la mañana termina antes de que llegue el calor, y desde el mediodía el calor quieto cierra el pueblo: las persianas cerradas, los muelles vacíos, los hacendados a la sombra con hielo en el vaso. Los negocios vuelven con la tarde, y con ellos los mercados, que son el mejor lugar del sur para enterarse de cualquier cosa sobre cualquiera, y el peor para que te vean enterándote.",
+     "El [[Monedía|Coinsday]] es el gran mercado. Los arrieros traen sus lomogredas para la venta del Monedía, el Gremio de Joyeros vigila los puestos de zafiros, donde la mitad de las piedras son vidrio cindren, y cada tienda de la Compañía en la costa de la caña le suma un poco a cada deuda. La [[Ceca de Puerto Sur|Southhaven Mint]] acuña solo Olas, bajo una palmera, y el sur se queja de que nunca consigue suficientes.",
+     "Las familias coloniales celebran los juegos del merrin cada Liora, con tanta fidelidad como cualquier puerto del Corazón, y los Oruma hacen los suyos en las [[Nueve Bocas|Nine Mouths]], en canoas de río."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Puerto Sur es donde el sur se encuentra con el dinero del Consejo. Las guarniciones de la [[Frontera|Frontier]] funcionan con su café, a 3 Mareas la libra; el Corazón lo toma a 2, y en los años duros el norte come grano de sus campos coloniales. Sus cosechas se venden antes de crecer: el papel de cosecha de la Casa Fennick se negocia en el [[Piso de la Aguja|Spire Floor]] de Ventoro, y una mala temporada en las colinas de Puerto Sur se nota en la capital antes de que lleguen los barcos.",
+     "Una taza de café de Puerto Sur cuesta 2 Olas en una casa de café de Ventoro, y el boicot ha vuelto la pregunta de en qué colina creció un asunto de buenos modales en la capital. Casi todos la contestan. Menos gente la contesta igual todas las mañanas."
     ]
    },
    {
@@ -11465,7 +11701,8 @@
     "paragraphs": [
      "“Vieron a un sacerdote de la Madre Escarlata en Puerto Sur comprando al por mayor el café de los factores Fennick. Nadie dice qué quiere con tanto.” (se oye en las Tierras Salvajes del Sur)",
      "“El barco de Damyel hizo de Puerto Sur a Mumit en cinco días, contra el viento. El Justiciero más rápido de la Ira Esmeralda necesita dos semanas.” (se oye en las Tierras Salvajes del Sur)",
-     "“Todas las anémonas de marea de Puerto Sur se cerraron al mediodía el mismo día del año pasado, a destiempo, exactamente lo que se tarda en decir una oración.” (una viuda del puerto de Puerto Sur)"
+     "“Todas las anémonas de marea de Puerto Sur se cerraron al mediodía el mismo día del año pasado, a destiempo, exactamente lo que se tarda en decir una oración.” (una viuda del puerto de Puerto Sur)",
+     "“El sello Tessel de un saco de café Vossreth es el mismo que le ponen al de Paramogrís. Pregúntale a un clasificador cómo los distingue y mira cómo voltea a ver la puerta.” (un cargador de Puerto Sur)"
     ]
    }
   ]
@@ -11500,26 +11737,83 @@
  "sunhold": {
   "gloss": "Sunhold",
   "subtitle": "Terrazas, muros blancos y hoja clara",
-  "summary": "Bastión del Sol es la ciudad más luminosa del Corazón, un pueblo de terrazas y muros blancos sobre la costa del oeste.",
+  "summary": "Bastión del Sol es la isla más grande del Corazón y su pueblo más luminoso: muros blancos y terrazas sobre la costa del oeste, la hoja clara y el vino, y una rivalidad con Ventoro que todos llaman amistosa.",
   "facts": [
    [
     "Región",
     "El [[Corazón Central|Central Heartland]]"
+   ],
+   [
+    "Conocido por",
+    "Hoja clara, vino y el [[Acuerdo de Bastión del Sol|Sunhold Accord]]"
+   ],
+   [
+    "En manos de",
+    "La Casa Solenne, bajo [[Señor|Lord]] Aurelian Solenne"
+   ],
+   [
+    "Fundación",
+    "Hacia 25 EC"
+   ],
+   [
+    "El Acuerdo",
+    "El 6 de Veriden, cada año"
    ]
   ],
   "title": "Bastión del Sol",
+  "epigraph": {
+   "quote": "En Ventoro toman café para estar despiertos. Aquí tomamos hoja clara, porque ya estábamos despiertos.",
+   "by": "Una recolectora del Gremio de las Terrazas"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "Muros blancos sobre el mar",
     "paragraphs": [
-     "Las colinas de [[Bastión del Sol|Sunhold]] dan la [[hoja clara|brightleaf]] que el [[Gremio de las Terrazas|Terrace Guild]] prensa en ladrillos de hoja, y sus viñas dan los vinos de Bastión del Sol que los bancos de [[Ventoro|Goldwind]] juzgan por el sabor. El [[Acuerdo de Bastión del Sol|Sunhold Accord]], firmado el 6 de Veriden, es un tratado de la [[Concordia|Concord]] y el [[Consejo|Council]] que el pueblo acoge cada año. El Gremio de las Terrazas pelea con las casas de café de Ventoro como cuestión de identidad, y la pelea es tema de cien canciones."
+     "[[Bastión del Sol|Sunhold]] es la isla más grande del [[Corazón|Heartland]], orgullosa y poblada, y su pueblo es el más luminoso de las islas: muros blancos y terrazas sobre la costa del oeste, donde el alba sale por las colinas de detrás y enciende el agua de delante. La Casa Solenne lo construyó hacia 25 EC en las terrazas del oeste que le concedieron, y lo tiene desde entonces.",
+     "Las terrazas suben por las colinas en jardines escalonados de [[hoja clara|brightleaf]] y viñas. El primer gran santuario de la [[Concordia|Concord]] en el Corazón estuvo en Bastión del Sol antes de que se construyera el [[Gran Templo|Grand Temple]] de [[Ventoro|Goldwind]], y el pueblo sigue siendo la gran casa del sol del Corazón: un centro del culto de Law, el [[Rey Sol|Sun King]], y el hogar de la [[Casa del Alba|Dawn House]], donde todavía está la piedra de altar que los Solenne trajeron al sur en el [[Éxodo|Exodus]]."
+    ]
+   },
+   {
+    "title": "Hoja y viña",
+    "paragraphs": [
+     "El [[Gremio de las Terrazas|Terrace Guild]] cultiva la hoja clara y la prensa en ladrillos de hoja, que duran años, viajan a cualquier parte y pasan por dinero en el mar. Su cabeza, la [[Señora de la Hoja|Leaf-Mistress]] Odile [[Buenaorilla|Fairbank]], prensa hoja en las mismas terrazas que su familia ha trabajado durante cinco generaciones. Un ladrillo cuesta 6 [[Olas|Bits]] en la terraza y 1½ [[Mareas|Tides]] en una cocina de la [[Frontera|Frontier]], donde se vuelve [[té de fortaleza|hold-tea]], con mantequilla y sal.",
+     "Los cultivadores pasean patos de las terrazas entre las matas para que se coman los escarabajos de la hoja, y el desfile de los patos terrazas abajo al alba es lo más famoso de Bastión del Sol después del té. El cerdo de viña, engordado con uvas caídas, es el manjar del pueblo.",
+     "Las viñas dan los vinos de Bastión del Sol que los bancos de Ventoro juzgan por el sabor: 3 Olas la botella de mesa, una Marea la buena y hasta 10 [[Anclas|Anchors]] la de un gran año. Los viñateros Tallis llevan el suyo al mercado bajo el sello [[Doraguja|Goldspire]], y los viñateros Calloh de las terrazas del templo hacen el vino que se sirve en el Acuerdo. Esta es la tierra de [[Cael el Vinatero|Cael the Vintner]], y ninguna fiesta empieza aquí sin una copa derramada en el suelo para él.",
+     "El Gremio pelea con las casas de café de Ventoro como cuestión de identidad, y la pelea es el tema de cien canciones."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "El puerto de Bastión del Sol está al pie del pueblo blanco, y cada barco que se bota en él lo bendice un Solenne antes que un [[Llamamareas|Tidecaller]], para que tenga las dos bendiciones. La [[Guardia del Alba|Dawnward]], los guardias del templo de la casa, de blanco y azul profundo, cuida la Casa del Alba, el [[Salón del Acuerdo|Accord Hall]] y los santuarios de las terrazas.",
+     "En Liora el pueblo viste sus botes con hojas de parra para los juegos del merrin y jura que su Olla del Guiso es mejor que la de Ventoro, y sus tripulaciones de falúas reman sus propias regatas contra el [[Tirón Largo|Long Pull]] de Ventoro con la seriedad de un día santo."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Solenne, la [[Sede Fiel|Faithful Seat]], gobierna Bastión del Sol, y está más atada a la Concordia que al [[Consejo|Council]]. Señor Aurelian Solenne es un hombre alto y grave, de cara bondadosa y voz que llega lejos, cuya primera lealtad, todos lo entienden, es la fe. Los fieles de Bastión del Sol le pagan el diezmo a la Concordia a través de la casa, y las terrazas del templo se trabajan para la fe."
+    ]
+   },
+   {
+    "title": "El Acuerdo de Bastión del Sol",
+    "paragraphs": [
+     "El 6 de Veriden de cada año, la Concordia y el Consejo se reúnen en Bastión del Sol para renovar el Acuerdo de Bastión del Sol, el tratado que mantiene a cada uno fuera de la casa del otro. Las campanas de Bastión del Sol suenan al alba. El [[Mirasol|Sunward]] entra al Salón del Acuerdo por la puerta del este y la delegación del Consejo por la del oeste; Señor Aurelian lee el Acuerdo en voz alta, como siempre lo ha hecho un Solenne, y las dos partes firman.",
+     "Oficialmente el día celebra la fundación del Consejo y la unidad de las islas. En la práctica es una exhibición fría de la rivalidad entre Bastión del Sol y Ventoro, con regatas rivales y competencias “amistosas” que todo el mundo se toma muy en serio, y en la cena de después nadie menciona el [[Registro|Registry]]."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La hoja y el vino de Bastión del Sol van a todas partes. La Frontera no da vino y compra el de Bastión del Sol a 5 Olas la botella de mesa; el hielo toma su hoja clara como [[té de grasa|fat-tea]], a 2 Mareas el ladrillo; en el sur compite con la [[hoja de pimienta|pepperleaf]] y casi siempre pierde contra el café de [[Puerto Sur|Southhaven]].",
+     "Un gran vino de Bastión del Sol, abierto delante de testigos, es la manera en que el Corazón dice *esto es una disculpa*, y los testigos están ahí para asegurarse de que se acepte."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
      "“Vieron a Dio Corascua caminando por los jardines de Bastión del Sol. Los que lo vieron dicen que no era del todo el mismo hombre que caminaba ahí el año pasado.” (se oye en el Corazón Central)",
-     "“Las terrazas de Bastión del Sol cultivan una hoja clara de la que el Registro compra hasta la última hoja, y a nadie lo han dejado probarla nunca.” (una recolectora del Gremio de las Terrazas)"
+     "“Las terrazas de Bastión del Sol cultivan una hoja clara de la que el Registro compra hasta la última hoja, y nunca han dejado que nadie la pruebe.” (una recolectora del Gremio de las Terrazas)"
     ]
    }
   ]
@@ -27234,7 +27528,7 @@
      "**Dedal de la Primera Puntada.** Un dedal de acero. Apretado contra un parche, se entibia si el parche se dio con una primera puntada verdadera, y se queda frío con hilo prestado. Los posaderos cansados de los mentirosos tienen uno detrás de la barra.",
      "**Frasco que Nunca se Derrama.** Un frasco que no se puede derramar, gotear ni tumbar, en ninguna cubierta y en ningún mar. Igual hay que abrirlo para servir.",
      "**Sarta de [[Monedía|Coinsday]].** Un cordón para [[Olas|Bits]]. Las monedas ensartadas en él no se pueden cortar ni sacar con ninguna mano que no sea la de su dueño.",
-     "**Vela de la [[Larga Noche|Long Night]].** Una vela de aceite de [[Bastión de Escarcha|Frosthold]] que arde cuarenta días y que ningún viento puede apagar bajo techo. Con una, una casa pasa la Larga Noche.",
+     "**[[Vela de la Larga Noche|Long-Night Candle]].** Una vela de aceite de [[Bastión de Escarcha|Frosthold]] que arde cuarenta días y que ningún viento puede apagar bajo techo. Con una, una casa pasa la [[Larga Noche|Long Night]].",
      "**Guantes de Señas de Cubierta.** Guantes grises. Las señas de manos que se hacen con ellos se leen con claridad hasta a 120 pies, con niebla, lluvia u oscuridad, por cualquiera que sepa [[señas de cubierta|Deck-sign]]. Para cualquier otro, son guantes grises.",
      "**Silbato de Delfín.** Un silbato de hueso de un tono demasiado alto para la gente. Como acción de Magia, lo soplas: cualquier delfín práctico a una milla o menos viene, y guía a tu barco a través de un arrecife o un bajío si lo tratas como a un huésped. No se puede volver a usar hasta el siguiente amanecer.",
      "**Lente de Aurora.** Anteojos de vidrio de hielo ahumado de la [[Extensión|Expanse]]. Mientras los lleves, no te puede cegar el resplandor, la nieve ni una luz repentina, tienes Ventaja en las tiradas de salvación contra el estado Cegado, y puedes leer a la luz de las estrellas.",

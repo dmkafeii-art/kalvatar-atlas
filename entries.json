@@ -14855,18 +14855,58 @@
   "category": "place",
   "region": "Icy Expanse",
   "subtitle": "Ice-stone, whale-bone, and oil",
-  "summary": "Frosthold is the capital of the whaling coast and the strongest seat of the Brine Brotherhood, the fishers and whalers who keep the Expanse alive.",
+  "summary": "Frosthold is the capital of the whaling coast, the largest honest settlement on the ice, and the strongest seat of the Brine Brotherhood: the town whose oil burns in every lamp in the islands.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The lamp of the islands",
     "paragraphs": [
-     "The fortress-walls are built of ice-stone and whale-bone, and the oil-houses along the bay burn the whale-fat that every lamp in the Heartland burns. The Brennvar house holds the oil-houses, and its Lamp-Mistress, Astri, rules the bay with a fairness that the Brotherhood respects and the Combine resents. The Tidecallers of the Concord keep a small temple on the harbor wall, and their sea-blessing is the first thing every whaling fleet receives before it goes out. Frosthold is the last place in the Expanse where a stranger can buy a warm room for a silver Tide."
+     "Frosthold stands on a rocky peninsula above the bay of the whale-fleets. Its fortress-walls are built of ice-stone and whale-bone, and along the bay below them stand the oil-houses and the Tryworks, where the whale-fat is rendered into the oil that every lamp in the Heartland burns. In summer the tryworks smoke from dawn to dusk, and the whole town smells of oil and money.",
+     "It is the largest honest settlement on the ice, and it knows the word *honest* is doing some work. Varan Port, the Fairweather Combine’s harbor, lies along the same coast, and Frosthold takes a quiet pride in being everything Fairweather is not.",
+     "The law of the town is the law of the ice. A guest is given fat and fire without question, because turning someone out into the cold is murder and is punished as murder, and Frosthold is the last place in the Expanse where a stranger can buy a warm room for a silver Tide."
+    ]
+   },
+   {
+    "title": "The hunt",
+    "paragraphs": [
+     "The whales are found by the whale-wolves, a pod of wild orcas that has hunted beside the Frosthold whalers for generations. When they slap the water outside the harbor they are bringing a whale, and the whole town runs for the boats. The wolves take the tongue of every kill, and no Kaldmark ship has ever harmed one. No whaler sails without a landfall petrel aboard, the bird that knows where land lies.",
+     "The Brine Brotherhood’s whalers sail for shares, not wages, and a harpooner is paid by the Brotherhood’s table. What they bring home goes to the tryworks crews, a guild in everything but name, who render the oil and will strike if the fires are short. Around them work the ice-cutters, who cut the blocks that are packed in sawdust and sold in Southhaven at a Tide apiece, for 2 Bits a block; the sealers and the carvers of ivory and whalebone; and the ambergris-buyers of House Ambrey, who winter on the ice to buy from the whalers before the oil is even rendered."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "Frosthold is the far end of the sea-roads. The sea-ice closes its bay from autumn to spring, and the last grain-ship of the year has to beat the ice in, because the town lives on bread it cannot grow. When no ship can move, cargo still crosses between Frosthold and Varan Port by skate and sled through the Rime Ways under the sea-ice, and the runners who carry it are paid like captains.",
+     "Arriving ships pass the small temple that the Tidecallers of the Concord keep on the harbor wall, where every whaling fleet takes its sea-blessing before it goes out. In the Long Night the sun sets for weeks, the aurora lights the town in green and white, and the lamp in every hall is kept lit."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "Frosthold is the capital of House Kaldmark’s whaling march. The Marchlord’s black stone keep, with its gate of whale-bone, stands in the hills above the town and watches the border with the Combine. Kaldmark takes the town’s levy and sends its younger sons to learn the ice on Brennvar decks, and the smaller towns along the bay, Bonewater, Kettlebay, and the fort at Rimewatch, answer to it too.",
+     "The bay itself belongs to House Brennvar, the Lamplight House, which holds the oil-houses from its seat at the Tryworks. Its head, Astri Brennvar, Lamp-Mistress of Frosthold, rules the bay with a fairness that the Brotherhood respects and the Combine resents. Her husband Halvar is whaling-master of the fleet, and Captain Jorundal, no blood kin but called cousin, is the best ice-pilot under the Brennvar fluke.",
+     "Out on the coast, the Brine Brotherhood’s whaling councils keep the peace. The Reckoners keep a counting-house in the town, where bottomry costs one part in five and Mother Kess holds more debts than the Hall does: after two lean seasons she bought Brennvar’s, and Astri has been to supper."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "Every great kill ends in a whaling-feast, and at the greatest of them the year’s oil-contracts are struck with the Heartland’s buyers. A bad season’s contracts are the hardest bargains in the islands: a Frosthold whaler can be rich in oil and starving for bread in the same winter.",
+     "The first barrel of each season is not sold. Frosthold burns it in its own lamp, and no ship loads until it is lit. Then the oil goes out to every lamp and lighthouse in the islands, the ambergris to the perfumers of Silverport, the furs and ivory to the Frontier, and the ice south to the planters.",
+     "The town drinks icebrand, the kellum that is freeze-distilled and smoked over whale-oil lamps, and fat-tea, brightleaf brewed with fat, at 2 Tides a brick. It has traded and fought with the Frost Elves since before the Charter, often in the same season, and every child in it knows the painted skull-face of a warband."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Every lamp in Goldwind and every lighthouse in the islands burns Frosthold oil, and the Council watches the oil the way it watches Krysta. The Heartland pays 5 Bits a pint for it and the Frontier’s forts 6. Silverport’s renderers turn it into the white candles that light the salons, and a Long-Night Candle of Frosthold oil burns for forty days.",
+     "A whaling town at the bottom of the world holds the light of the whole archipelago, and both of them know it."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Goldwind's lamps burn cleaner since Frosthold changed its oil. The lamplighters say the smoke smells faintly of coins.” (a Goldwind lamplighter)"
+     "“Goldwind's lamps burn cleaner since Frosthold changed its oil. The lamplighters say the smoke smells faintly of coins.” (a Goldwind lamplighter)",
+     "“The Lamplight House is a full season’s oil short, and Astri Brennvar won’t say where her fleet has been whaling.” (a Frosthold oil-house clerk)"
     ]
    }
   ],
@@ -14874,6 +14914,22 @@
    [
     "Region",
     "The Icy Expanse"
+   ],
+   [
+    "Known for",
+    "Whale-oil, ambergris, and packed ice"
+   ],
+   [
+    "Held by",
+    "House Brennvar’s oil-houses, under House Kaldmark’s march"
+   ],
+   [
+    "The Brotherhood",
+    "Stronger here than in any other port"
+   ],
+   [
+    "The bay",
+    "Closed by the sea-ice from autumn to spring"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -14886,8 +14942,22 @@
    "concord",
    "house-kaldmark",
    "landfall-petrel",
-   "silverport"
+   "silverport",
+   "whale-wolves",
+   "rime-ways",
+   "varan-port",
+   "reckoners-hall",
+   "mother-kess",
+   "frost-elves",
+   "lighthouses",
+   "trade-of-the-icy-expanse",
+   "kellum",
+   "southhaven"
   ],
+  "epigraph": {
+   "quote": "When the wolves slap the water, you run. You can finish your soup in the boat.",
+   "by": "A Frosthold harpooner"
+  },
   "translations": {
    "es": "complete"
   }
@@ -14998,18 +15068,59 @@
   "category": "place",
   "region": "Northern Frontier",
   "subtitle": "Salt-fish and bells",
-  "summary": "Greyhaven is a grey, hard port that lives inside the fog.",
+  "summary": "Greyhaven is a grey, hard port that lives inside the fog: the richest salt-fish harbor of the Frontier, and the home of the first light of the north.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Inside the fog",
     "paragraphs": [
-     "Greyhaven’s harbor is the richest salt-fish harbor in the Frontier, and its bells never stop during the Murk. The Stormweaver house, a Marchlord line of storm-sorcerers, keeps the Greyhaven lights burning through the fog, and the house's mages are paid by the Brine Brotherhood's fishing fleets to keep the fishing boats off the rocks. The Widow's Teeth lie just off the harbor mouth, and every Greyhaven child learns the bell-codes before they learn their letters, because a boat that cannot read the bells cannot find the harbor. The old quarter has a chapel on the cliff where the widows of the lost light lamps for the boats that have not come home."
+     "Greyhaven is built in a ring of sheer cliffs around a round, calm harbor, and for much of the year it cannot see itself. The Greyhaven Murk comes in off the cold sea and may not lift all day, a fog so thick that ships ring bells to find one another, and in fog-season the bells never stop. Every boat carries one and every pier has one.",
+     "Every Greyhaven child learns the bell-codes before their letters, because a boat that cannot read the bells cannot find the harbor. The codes carry up to a mile through fog and say what a sailor needs to know: a boat’s name and heading, *rocks*, *help*, *harbor here*, *keep off*.",
+     "Storm House, the seat of the town’s lords, stands on the cliff-top, a grey hall of barometers and storm-glasses whose windows rattle in every wind. In the old quarter is a chapel on the cliff where the widows of the lost light lamps for the boats that have not come home, and the lamp-rolls kept there record every boat lost off Greyhaven since 10 EC."
+    ]
+   },
+   {
+    "title": "The light on the Teeth",
+    "paragraphs": [
+     "The Widow’s Teeth lie just off the harbor mouth, a fang-row of sea-stacks on which the fishing families lost boats every winter until about 10 EC, when the Stormweavers lit the first light of the north on the last of them. Its lantern holds a captive storm, pale lightning in a glass that has never been opened, and it shows through the Murk when no flame could.",
+     "When the Plague of the Burning Sea came north, about 90 EC, three of the house’s mages kept the lights burning through a winter in which half Greyhaven was sick, and did not sleep for a week. In 92 EC the Council gave the house the Light-Warrant for it: the head of House Stormweaver is Warden of the Lights, and every charted light in the islands answers to Greyhaven. The light-due pays for oil and keepers and not for the town, and the Reckoners’ Hall checks every year that none of it stays.",
+     "Up the coast, House Vanris lit its own lantern on Stormguard Hold about 40 EC as an answer, and the two houses have argued ever since over whose lights the north should trust."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "Ships into Greyhaven and out of it thread the Gap of Sorrows between the Teeth by lamplight, with a pilot and a prayer. The Murk pilots take a ship through by bell and by ear, the honest way, for a pilot’s fee and a hot bowl at the end of it. A captain who passes the cliff-shrine without dipping his own light once is not welcome back.",
+     "On still nights the wind moves through the holes in the rock, and the Teeth make a chord that the Greyhaven folk take for the voices of the drowned."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "House Stormweaver, the Storm-Sung, holds Greyhaven and the Widow’s Teeth: the smallest of the Marchlord houses, with a voice in every harbor in the islands and no more money than before. Lady Elara Stormweaver, white-haired, weathered, and plain-spoken, rules the town, and the north loves her for being the only head of a house who has refused Mortimer Vanris anything, and in writing.",
+     "The Greyhaven Guard, about 550 soldiers in grey and pale gold, keeps Storm House, the light, and the harbor. No fleet can find Greyhaven in the fog without the bells, and the bells answer to the house.",
+     "The town’s money is fish. House Hallorn keeps the Greyhaven fish-halls as well as its salt-pans at Saltreach, the Murk Twelve, the twelve skipper-families of the herring fleet, sail under it, and the Brine Brotherhood’s fleets pay the house’s mages to keep their boats off the rocks."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "The herring comes in on the evening tide and is salted by morning. The catch is sold on the quay at first light, and the price of a barrel of salt-fish, 4 Tides, is set before the boats are tied up; the women who gut it are paid 2 Bits a barrel. Greyhaven’s salt-fish is the richest catch in the Frontier, and it feeds Faust’s garrisons and half the north.",
+     "Skaia’s dream-readers have counseled dreamers in Greyhaven for as long as anyone has kept count. A reader will take a Bit for a dream at a harbor fair, and a great deal more from a merchant who wants a dream of good fortune. In the lower quarters they keep the houses where the Greyed are looked after, and they are kind to them.",
+     "Greyhaven took up the merrin games a generation ago, with merrins of red wool and a Harbor Swim through water cold enough to stop a heart, and the widows light their lamps for the Untying. When the levy is called for the Long War, the town’s company sails, like every company, under the name of its quay: the Greyhaven Light. The Alliance asks for Greyhaven’s storm-mages by name, thirty a year."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Below Greyhaven, in the same fog, lies Black Harbor, the smugglers’ capital of the Frontier, a warren of wharves and sea-caves. The Fogrunners land untaxed cargo there by bell-codes so exact that they can thread the Widow’s Teeth blind: the same codes every Greyhaven child learns, which the house has never found a way to stop anyone learning.",
+     "Greyhaven sells its salt-fish and smoked herring to the whole north and to the Heartland at 8 Tides a barrel, keeps the lights of every coast, and has never once been a comfortable place to live. Its people would not live anywhere else."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Johann Faust has been seen in a Greyhaven tavern with a man who wears the Last Psalm's badge. Nobody knows which side he means to take.” (heard in the Northern Frontier)"
+     "“Johann Faust has been seen in a Greyhaven tavern with a man who wears the Last Psalm's badge. Nobody knows which side he means to take.” (heard in the Northern Frontier)",
+     "“There’s a boat in the lamp-rolls that hasn’t sailed yet. Her name is there in the old ink, and the yard laid her keel last month.” (a Greyhaven bell-ringer)"
     ]
    }
   ],
@@ -15017,6 +15128,22 @@
    [
     "Region",
     "The Northern Frontier"
+   ],
+   [
+    "Known for",
+    "Salt-fish, the Murk, and the bell-codes"
+   ],
+   [
+    "Held by",
+    "House Stormweaver, under Lady Elara"
+   ],
+   [
+    "Off the harbor",
+    "The Widow’s Teeth and the Gap of Sorrows"
+   ],
+   [
+    "The first light",
+    "About 10 EC, on the last of the Teeth"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15027,8 +15154,21 @@
    "widows-teeth",
    "black-harbor",
    "merrin-games",
-   "lighthouses"
+   "lighthouses",
+   "skaia",
+   "dream-eaters",
+   "saltreach",
+   "stormreach",
+   "house-vanris",
+   "house-faust",
+   "long-war",
+   "plague-of-the-burning-sea",
+   "trade-of-the-northern-frontier"
   ],
+  "epigraph": {
+   "quote": "Learn the bells first. Your letters will wait. The rocks won’t.",
+   "by": "A Greyhaven grandmother"
+  },
   "translations": {
    "es": "complete"
   }
@@ -15374,18 +15514,55 @@
   "category": "place",
   "region": "Central Heartland",
   "subtitle": "Silk, incense, and pale stone",
-  "summary": "Silverport is the eastern silk-port, a city of pale stone and fragrant gardens.",
+  "summary": "Silverport is the eastern silk-port of the Heartland, a city of pale stone and fragrant gardens facing the open sea, where the islands’ silk, incense, and perfume are made, and fought over.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "Pale stone and scent",
     "paragraphs": [
-     "Silverport’s silk-farms and incense-houses supply the Heartland's silk, perfume, and fine oils. The Perfumers of Silverport are at open war with the Pocchin families, who refuse to join the guild, undersell everyone, and steal recipes for sport. The Saffrane house holds the silk trade. The city's markets sell the finest perfumes in the islands, and the rarest of them contain ambergris from Frosthold."
+     "Silverport stands on the Heartland’s eastern coast, beside Easthold, facing the open sea and the Coral Kingdoms beyond it. It is a city of pale stone and fragrant gardens, and its boats smell of perfume from a mile off.",
+     "The silk-farms around the city raise the Silverport silkmoth in warm rooms among the leaves, and its silk is the silk of the archipelago. The girls of the silk-farms wear the moths on their shoulders like living brooches, and in Silverport that has become the fashion. The incense-houses scent the streets, and Silverport’s incense-spiced fare is prized above all others at a Heartland table."
+    ]
+   },
+   {
+    "title": "The perfume war",
+    "paragraphs": [
+     "The Perfumers of Silverport make the islands’ scent, incense, and fine oils, and by long custom the head of House Saffrane is the head of the guild. Today that is Madame Ilsabet Saffrane, Mistress of the Perfumers. Her son Corin, called *the Nose*, is the finest perfumer in the islands outside a Pocchin caravan, and very tired of the qualification; her niece Aurore runs the silk.",
+     "Around the Scented House work the Quell silk-houses, the Lisk incense-traders, and the chandlers of Candle Row, whose white candles, rendered from Frosthold oil, light every salon in Goldwind at 2 Bits apiece. The rarest scents are fixed with ambergris from the ice, bought by House Ambrey before the oil is even rendered. A vial of Silverport scent costs 5 to 50 Anchors, and the house makes *Black Rose* for the Rose House of Alastor.",
+     "The Perfumers are at open war with the Pocchin families, who refuse to join the guild, undersell everyone, and steal recipes for sport, the Tobbin pride above all. The war is older than anyone now fighting it. A Silverport scent and a Pocchin perfume poured side by side are very hard to tell apart, and each side takes that as an insult."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "Ships come in from the ice with whale-oil and ambergris, and with spice that will leave again, re-exported, under the Saffrane seal. The harbor-front is all warehouses, renderers, and dye-works, and the smell changes every few doors.",
+     "At the merrin games, for a generation now, the women of Silverport have sailed for merrins too, and the men walk the quay. Most Heartland ports have let it happen without ever quite admitting it. Silverport admits it."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "No great house holds Silverport. Its first family is a merchant one: House Saffrane, one of the Twelve Flags of the Mercantile Congress, whose three crossed saffron threads on violet fly over the silk and the scent, and whose motto is *Remembered by Scent*. The Reckoners keep a counting-house in the city, known for the Heartland’s quietest counters."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "Silverport’s gaming houses ban fortune geckos and counting jackdaws at the tables, and keep one of each behind the bar. Lately some have started checking guests’ pockets at the door.",
+     "The factors’ quarter is one of the homes of the half-elves, as Southhaven’s and Goldwind’s are, and its interpreters are much in demand at treaty tables. Its dyers buy every color the islands make, and its markets sell the finest perfumes in the islands; the rarest of them carry ambergris from Frosthold."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Silverport dresses the rich everywhere in silk and scents the Heartland’s salons, and its white candles light them. The Saffrane house sells to the Rose House and to House Veldane, and will pay a fortune for a Pocchin family’s recipe, and a larger one for silence about how it was obtained.",
+     "Among the Pocchin it is said that a Pocchin perfume is sometimes Silverport scent with a Pocchin label, and sometimes the other way round, and that only the Pocchin know which."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“The Tobbin pride say Saffrane's famous Black Rose was theirs first, and that they still have the bill of sale.” (a Pocchin, loudly)"
+     "“The Tobbin pride say Saffrane's famous Black Rose was theirs first, and that they still have the bill of sale.” (a Pocchin, loudly)",
+     "“A Silverport gaming house is lifting its ban on geckos and jackdaws for one night, for a tournament everybody wants to win and nobody can afford to lose.” (a Silverport croupier)"
     ]
    }
   ],
@@ -15393,6 +15570,22 @@
    [
     "Region",
     "The Central Heartland"
+   ],
+   [
+    "Known for",
+    "Silk, incense, perfume, and white candles"
+   ],
+   [
+    "The Perfumers",
+    "Led by Madame Ilsabet Saffrane"
+   ],
+   [
+    "The coast",
+    "The Heartland’s east, facing the Coral Kingdoms"
+   ],
+   [
+    "The feud",
+    "The Pocchin families, older than anyone now fighting it"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15405,8 +15598,20 @@
    "counting-jackdaw",
    "fortune-gecko",
    "half-elves",
-   "silverport-silkmoth"
+   "silverport-silkmoth",
+   "house-alastor",
+   "reckoners-hall",
+   "merrin-games",
+   "coral-kingdoms",
+   "easthold-westwatch-and-pearl-groove",
+   "trade-of-the-central-heartland",
+   "luxuries-of-the-isles",
+   "heartland"
   ],
+  "epigraph": {
+   "quote": "You could cross Silverport blind. Every street smells of something different, and the dear ones smell of nothing at all.",
+   "by": "A Silverport porter"
+  },
   "translations": {
    "es": "complete"
   }
@@ -15489,12 +15694,50 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "The counting-house of the Wilds",
-  "summary": "Southhaven is the colonial port of the southern coast and the commercial heart of the Wilds.",
+  "summary": "Southhaven is the colonial port of the southern coast and the commercial heart of the Wilds: coffee on the hills, sugar on the rivers, and a steward from every great house on the quay, counting.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The colonial port",
     "paragraphs": [
-     "Southhaven’s harbor is lined with the warehouses of the great plantation houses, and its hills grow the coffee, southleaf, cane-sugar, and cotton that every Heartland salon consumes. The Charterhouse Company keeps its southern offices here, and its writ-men, the brass-collars, patrol the warehouse streets. The plantations are divided between the fair estates of House Greymoor and the unfree estates of House Vossreth, and the southern boycott is simple: \"Greymoor coffee or none.\" The Blackleaf Runners smuggle southleaf in and indentured workers out through the river-ports. The Southhaven markets are the best place in the south to learn anything about anyone, and the worst place to be seen learning it."
+     "Southhaven stands on the temperate northern edge of the Southern Wilds, on the warm, shallow inner sea that it shares with Jakupur and the old Orka stairs. Its harbor is lined with the warehouses of the great plantation houses, and its quays smell of coffee, tar, and fire-pepper. Behind the town the hills climb in terraces of coffee and shade trees, and beyond them the cane coast runs along slow brown rivers.",
+     "The town has two halves. The warehouse streets by the water belong to trade: the Long Warehouse of the Fennick factors, the Tessel graders whose stamp sets the price of a sack, and the Charterhouse Company’s southern offices, whose writ-men, the brass-collars, patrol the streets between them. The upper town belongs to the colonial families, their magistrates, and their lords’ tables, and over it stands the Quill House of House Quillane: large, new, and gaudy, with too many windows, built in the style of a great Heartland seat."
+    ]
+   },
+   {
+    "title": "Two kinds of coffee",
+    "paragraphs": [
+     "Southhaven’s hills grow the coffee, southleaf, cane-sugar, and cotton that every Heartland salon consumes, and they are divided between two houses that will not sit at one table. House Greymoor’s fair estates began about 40 EC, when the first Lady Greymoor, Havisa, bought land in the hills from the people who already lived there, at a price they named, and wrote the bargain down in both tongues. Fairhand, the house’s estate-hall of red stone and dark wood, still stands among the terraces. House Vossreth’s estates are worked by unfree hands.",
+     "The south’s great boycott is four words long: *Greymoor coffee or none.* A pound of Greymoor coffee costs 3 Tides in the Heartland against 2 for the rest, and people pay the difference to be seen paying it. The Fennick factors are the only factors both houses will receive, and they buy from both, often before the crop is planted.",
+     "On the cane coast above the town, a dozen Charterhouse Company towns grow sugar with indentured workers, and Brassfield is not the worst of them. The sugar barges come down the rivers to Southhaven, and nothing is supposed to go up. Much of the southleaf is grown by halflings on small farms of their own and sold by the twist, and the Blackleaf Runners of Sister Smoke smuggle it, untaxed, around the Company’s licenses, along with the Company’s own workers, going the other way."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "A fair passage from Goldwind takes about six weeks and costs 3 Anchors on deck or 12 in a cabin. Ships come in over warm, shallow water, past the gunboats of the Emerald Wrath, the Armada fleet that patrols the southern rivers, and tie up under the customs-house, where Holst clerks take the harbor dues under the Council’s contract. Southhaven’s Registry house is a door with a bell that nobody rings.",
+     "The first thing a sailor buys ashore is a cup of coffee, strong and sweet. The second, if the voyage paid, is a block of Frosthold ice, packed in sawdust and carried the length of the islands: a Tide a block, the richest luxury in the south, dropped into a glass of burnmouth in the still-heat. From Southhaven the Jakupur coast is two or three weeks on, and Varan Port seven or eight."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "No lord holds Southhaven. The colonial courts sit in the upper town and judge by the Charter; out past the last plantation the chant-keepers judge by an older law, and the south has never settled which of the two is the law of the land. The Sunwood elves stand between them as go-betweens, and House Senrith, a Greymoor banneret, acts for the Oruma in the colonial courts.",
+     "The weight in the town is money. The Charterhouse Company sells the southern salt and the indentures from its offices here, and the great houses send their stewards to count the coffee. House Quillane, made Wardens for keeping the south’s land-registers through the Plague of the Burning Sea, when half the clerks of Southhaven were dead, sells titles from its grant-room to anyone with coin and a use for one. The Reckoners’ counting-house lends less here than anywhere in the islands, because the native peoples wear their gold on their arms, where no writ can reach it."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "The south rises before the sun, because the cool hours are the only hours. The morning market is done by the time the heat arrives, and from midday the still-heat shuts the town: shutters closed, the quays empty, the planters in the shade with ice in their glasses. Business comes back with the evening, and so do the markets, which are the best place in the south to learn anything about anyone and the worst place to be seen learning it.",
+     "Coinsday is the great market. The drovers bring their Loambacks in for the Coinsday sale, the Jewelers’ Guild watches the sapphire stalls, where half the stones are Cindren glass, and every Company store on the cane coast adds a little to every debt. The Southhaven Mint strikes Bits only, under a palm, and the south complains that it can never get enough of them.",
+     "The colonial families keep the merrin games every Liora, as faithfully as any Heartland port, and the Oruma run their own on the Nine Mouths in river canoes."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Southhaven is where the south meets the Council’s money. The Frontier’s garrisons run on its coffee at 3 Tides a pound, the Heartland drinks it at 2, and in hard years the north eats grain from its colonial fields. Its crops are sold before they are grown: House Fennick’s crop-paper is traded on the Spire Floor at Goldwind, and a bad season on Southhaven’s hills is felt in the capital before the ships come in.",
+     "A cup of Southhaven coffee costs 2 Bits in a Goldwind coffee-house, and the boycott has made the question of whose hill it grew on a matter of manners in the capital. Most people answer it. Fewer answer it the same way every morning."
     ]
    },
    {
@@ -15502,7 +15745,8 @@
     "paragraphs": [
      "“A Scarlet Mother's priest was seen in Southhaven buying the Fennick factors' coffee in bulk. Nobody says what he wants with so much of it.” (heard in the Southern Wilds)",
      "“Damyel's ship made Mumit from Southhaven in five days, against the wind. The fastest Justicar in the Emerald Wrath needs two weeks.” (heard in the Southern Wilds)",
-     "“Every tide anemone in Southhaven closed at noon on the same day last year, out of turn, for exactly as long as it takes to say a prayer.” (a Southhaven harbor-widow)"
+     "“Every tide anemone in Southhaven closed at noon on the same day last year, out of turn, for exactly as long as it takes to say a prayer.” (a Southhaven harbor-widow)",
+     "“The Tessel stamp on a sack of Vossreth coffee is the same stamp they put on Greymoor’s. Ask a grader how he tells them apart and watch him look at the door.” (a Southhaven porter)"
     ]
    }
   ],
@@ -15510,6 +15754,22 @@
    [
     "Region",
     "The Southern Wilds"
+   ],
+   [
+    "Known for",
+    "Coffee, southleaf, cane-sugar, and cotton"
+   ],
+   [
+    "Who sits here",
+    "The colonial courts, the Charterhouse Company’s southern offices, House Fennick, and House Quillane"
+   ],
+   [
+    "Mint-mark",
+    "A palm, on Bits only"
+   ],
+   [
+    "From Goldwind",
+    "About six weeks"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15523,8 +15783,23 @@
    "undertow",
    "coins-and-prices",
    "games-and-pastimes",
-   "brassfield"
+   "brassfield",
+   "house-quillane",
+   "twelve-flags",
+   "sister-smoke",
+   "reckoners-hall",
+   "charter-mint",
+   "trade-of-the-southern-wilds",
+   "jakupur",
+   "varan-port",
+   "halflings",
+   "plague-of-the-burning-sea",
+   "merrin-games"
   ],
+  "epigraph": {
+   "quote": "Drink the coffee. Ask whose hill it grew on. Don’t ask twice.",
+   "by": "A Fennick clerk on the Long Warehouse steps"
+  },
   "translations": {
    "es": "complete"
   }
@@ -15577,12 +15852,49 @@
   "category": "place",
   "region": "Central Heartland",
   "subtitle": "Terraces, white walls, and brightleaf",
-  "summary": "Sunhold is the brightest city in the Heartland, a town of terraces and white walls above the western coast.",
+  "summary": "Sunhold is the largest island of the Heartland and its brightest town: white walls and terraces above the western coast, the brightleaf and the wine, and a rivalry with Goldwind that everyone calls friendly.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "White walls above the sea",
     "paragraphs": [
-     "Sunhold’s hills grow the brightleaf that the Terrace Guild presses into leaf-bricks, and its vines produce the Sunhold wines that the Goldwind banks judge by taste. The Sunhold Accord, signed on Veriden 6th, is a treaty of the Concord and the Council that the town hosts every year. The Terrace Guild feuds with the coffee-houses of Goldwind as a matter of identity, and the feud is the subject of a hundred songs."
+     "Sunhold is the largest island of the Heartland, proud and populous, and its town is the brightest in the islands: white walls and terraces above the western coast, where the dawn comes up over the hills behind it and lights the water in front. House Solenne built it about 25 EC on the western terraces it was granted, and has held it since.",
+     "The terraces climb the hills in step-cut gardens of brightleaf and vines. The Concord’s first great shrine in the Heartland stood in Sunhold before Goldwind’s Grand Temple was built, and the town is still the Heartland’s great house of the sun: a center of the worship of Law, the Sun King, and the home of the Dawn House, where the altar-stone that the Solennes carried south in the Exodus still stands."
+    ]
+   },
+   {
+    "title": "Leaf and vine",
+    "paragraphs": [
+     "The Terrace Guild grows the brightleaf and presses it into leaf-bricks, which keep for years, travel anywhere, and pass as money at sea. Its head, the Leaf-Mistress Odile Fairbank, presses leaf on the same terraces her family has worked for five generations. A brick costs 6 Bits at the terrace and 1½ Tides in a Frontier kitchen, where it becomes hold-tea, with butter and salt.",
+     "The growers walk terrace ducks through the bushes to eat the leaf-beetles, and the duck parade down the terraces at dawn is the most famous thing in Sunhold after the tea. The vine-pig, fattened on fallen grapes, is the town’s delicacy.",
+     "The vines make the Sunhold wines that the Goldwind banks judge by taste: 3 Bits for a table bottle, a Tide for a good one, and up to 10 Anchors for a great year. The Tallis vintners send theirs to market under the Goldspire seal, and the Calloh vintners of the temple-terraces make the wine that is poured at the Accord. This is Cael the Vintner’s country, and no festival in it begins without a cup poured on the ground for him.",
+     "The Guild feuds with Goldwind’s coffee-houses as a matter of identity, and the feud is the subject of a hundred songs."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "Sunhold’s harbor lies under the white town, and every ship launched from it is blessed by a Solenne before a Tidecaller blesses it, so that it has both. The Dawnward, the house’s temple guards in white and deep blue, keep the Dawn House, the Accord Hall, and the shrines along the terraces.",
+     "In Liora the town dresses its boats in vine-leaves for the merrin games and swears its Chowder Pot is better than Goldwind’s, and its gig-crews row their own regattas against Goldwind’s Long Pull with the seriousness of a holy day."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "House Solenne, the Faithful Seat, rules Sunhold, and it is bound to the Concord more closely than to the Council. Lord Aurelian Solenne is a tall, grave man with a kind face and a voice that carries, whose first loyalty, everyone understands, is to the faith. The faithful of Sunhold tithe to the Concord through the house, and the temple-terraces are worked for the faith."
+    ]
+   },
+   {
+    "title": "The Sunhold Accord",
+    "paragraphs": [
+     "On Veriden 6th every year, the Concord and the Council meet at Sunhold to renew the Sunhold Accord, the treaty that keeps each out of the other’s house. Sunhold’s bells ring at dawn. The Sunward comes into the Accord Hall by the east door and the Council’s delegation by the west; Lord Aurelian reads the Accord aloud, as a Solenne always has, and both sides sign.",
+     "Officially the day celebrates the founding of the Council and the unity of the islands. In practice it is a cold display of the rivalry between Sunhold and Goldwind, with rival regattas and “friendly” contests that everyone takes very seriously, and at the dinner afterward nobody mentions the Registry."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Sunhold’s leaf and wine go everywhere. The Frontier grows no wine and buys Sunhold’s at 5 Bits a table bottle; the ice drinks its brightleaf as fat-tea at 2 Tides a brick; in the south it competes with pepperleaf and usually loses to Southhaven coffee.",
+     "A great Sunhold vintage, opened in front of witnesses, is how the Heartland says *this is an apology*, and the witnesses are there to make sure it is accepted."
     ]
    },
    {
@@ -15597,6 +15909,22 @@
    [
     "Region",
     "The Central Heartland"
+   ],
+   [
+    "Known for",
+    "Brightleaf, wine, and the Sunhold Accord"
+   ],
+   [
+    "Held by",
+    "House Solenne, under Lord Aurelian Solenne"
+   ],
+   [
+    "Founded",
+    "About 25 EC"
+   ],
+   [
+    "The Accord",
+    "Veriden 6th, every year"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15609,8 +15937,21 @@
    "festivals-of-the-heartland",
    "concord",
    "food-of-the-islands",
-   "terrace-ducks"
+   "terrace-ducks",
+   "house-solenne",
+   "cael-the-vintner",
+   "law-the-sun-king",
+   "veriden-the-oathkeeper",
+   "horace-goldspire",
+   "merrin-games",
+   "guilds-of-the-congress",
+   "trade-of-the-central-heartland",
+   "luxuries-of-the-isles"
   ],
+  "epigraph": {
+   "quote": "In Goldwind they drink coffee to stay awake. Here we drink brightleaf, because we were already awake.",
+   "by": "A Terrace Guild picker"
+  },
   "translations": {
    "es": "complete"
   }
