@@ -3,6 +3,15 @@
 window.AtlasLibrary = (() => {
  const h = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const progressKey = 'kalvatar-library-reading-v1';
+ const mawChapterArt = {
+  'chapter-1': ['opposing-fleets', 'The Coalition and Blackheart’s pirate fleet take up positions across the Maw under a crimson sunset.'],
+  'chapter-2': ['leoric-first-command', 'Leoric takes command beside the fallen Magnus as the Iron Swan cuts through the opening broadsides.'],
+  'chapter-3': ['gaze-of-abyss-falls', 'The crew of the battered Crimson Tide watches the Gaze of Abyss founder.'],
+  'chapter-4': ['islanders-rescue', 'Volunteers pull a sailor from the water as more island boats arrive by lantern light.'],
+  'chapter-5': ['thulissa-returns', 'Thulissa collapses on the Trident’s deck after returning from the Dread Sovereign.'],
+  'chapter-6': ['broken-armada', 'The remnants of Blackheart’s fleet scatter through the reefs under moonlight.'],
+  'chapter-7': ['what-victory-left', 'Two survivors keep watch among the wrecks at dawn.']
+ };
  let books = [], failed = false, query = '', kind = '', active = null, scrollHandler = null, jump = null;
  const ready = fetch('library.json').then(r => {if(!r.ok) throw Error(); return r.json();})
   .then(value => {books = value;}).catch(() => {failed = true;});
@@ -63,6 +72,19 @@ window.AtlasLibrary = (() => {
    (breaks.has(index) ? '<div class="library-scene-break" role="separator" aria-label="New scene"><span aria-hidden="true">✦ ✦ ✦</span></div>' : '') +
    `<p${/^[“"]/.test(text) ? ' class="story-dialogue"' : ''}>${inlineProse(text)}</p>`).join('');
  }
+ function chapterFigure(illustration) {
+  if(!illustration) return '';
+  return `<figure class="library-chapter-art"><img src="${h(illustration.src)}" alt="${h(illustration.alt)}" width="960" height="640" loading="lazy" decoding="async"><figcaption>${h(illustration.caption || '')}</figcaption></figure>`;
+ }
+ function chapterBody(book, chapter) {
+  const scene = book.id === 'krakens-maw' && mawChapterArt[chapter.id];
+  const prose = chapterProse(chapter);
+  const existing = chapterFigure(chapter.illustration);
+  if(!scene) return existing + prose;
+  const [filename, caption] = scene;
+  const figure = chapterFigure({src: `assets/history/maw-chronicle-${filename}-960.webp`, alt: caption, caption});
+  return chapter.id === 'chapter-5' ? existing + prose + figure : figure + prose;
+ }
  function renderBook(id, requestedChapter) {
   cleanup(); selectNavigation();
   const book = books.find(b => b.id === id);
@@ -75,7 +97,7 @@ window.AtlasLibrary = (() => {
   const chapter = requestedChapter && /^\d+$/.test(requestedChapter) ? Math.max(0, Math.min(book.chapters.length - 1, Number(requestedChapter) - 1)) : 0;
   jump = requestedChapter ? chapter : null;
   document.title = book.title + ' | Kalvatar Library';
-  const prose = book.chapters.map((s, i) => `<section id="book-chapter-${i}" class="library-chapter" data-book-chapter="${i}"><p class="library-chapter-number">${String(i + 1).padStart(2, '0')}</p><h2>${h(s.title)}</h2>${s.illustration ? `<figure class="library-chapter-art">${art({illustration:s.illustration},true)}<figcaption>${h(s.illustration.caption || "")}</figcaption></figure>` : ""}${chapterProse(s)}${i < book.chapters.length - 1 ? `<button class="text-link book-next" data-book-jump="${i + 1}">Next: ${h(book.chapters[i + 1].title)} ↓</button>` : '<p class="library-colophon" aria-label="End of this account">✦ ✦ ✦</p>'}</section>`).join('');
+  const prose = book.chapters.map((s, i) => `<section id="book-chapter-${i}" class="library-chapter" data-book-chapter="${i}"><p class="library-chapter-number">${String(i + 1).padStart(2, '0')}</p><h2>${h(s.title)}</h2>${chapterBody(book, s)}${i < book.chapters.length - 1 ? `<button class="text-link book-next" data-book-jump="${i + 1}">Next: ${h(book.chapters[i + 1].title)} ↓</button>` : '<p class="library-colophon" aria-label="End of this account">✦ ✦ ✦</p>'}</section>`).join('');
   const resumed = place(book);
   document.querySelector('#content').innerHTML = `<article class="content-wrap library-reader" data-content-lang lang="en"><header class="library-book-header"><a class="library-return" href="#library">← Back to the library</a><p class="eyebrow">${h(book.kind)} · ${h(book.region)} · ${book.readingMinutes} MIN READ</p><h1>${h(book.title)}</h1><p class="article-subtitle">${h(book.subtitle)}</p><div class="library-book-meta"><span>${h(book.edition)}</span><span>${book.chapters.length} chapters</span><span>English edition</span>${book.sourceStatus === 'opening-missing' ? '<span class="library-fragment-label">Preserved fragment</span>' : ''}</div>${resumed && !requestedChapter ? `<button class="button book-resume" data-book-jump="${resumed}">Resume chapter ${resumed + 1}: ${h(book.chapters[resumed].title)} ↓</button>` : ''}</header>${book.illustration ? `<figure class="library-frontispiece">${art(book, true)}<figcaption>${h(book.illustration.caption || '')}</figcaption></figure>` : ''}<div class="library-reading-layout"><aside class="library-contents"><p class="eyebrow">IN THIS BOOK</p><nav aria-label="Book chapters">${book.chapters.map((s, i) => `<button data-book-jump="${i}"><span>${String(i + 1).padStart(2, '0')}</span>${h(s.title)}</button>`).join('')}</nav><p class="library-place" id="library-reading-place" aria-live="polite">Your place is kept on this device.</p><div class="library-progress-track" aria-hidden="true"><span id="library-reading-progress"></span></div></aside><div class="library-prose">${prose}<aside class="library-edition-note"><p class="eyebrow">ABOUT THIS EDITION</p><p>${h(book.sourceNote)}</p><p>Spanish translation pending.</p></aside><section class="library-cast"><p class="eyebrow">PEOPLE IN THESE PAGES</p><div>${entryLinks(book.cast)}</div>${book.castNotes.map(p => `<p>${h(p)}</p>`).join('')}</section><section class="library-related"><p class="eyebrow">BACK TO THE ATLAS</p><div>${entryLinks(book.related)}</div></section><a class="library-return" href="#library">← Return to the shelves</a></div></div></article>`;
   document.querySelectorAll('[data-book-jump]').forEach(button => button.addEventListener('click', () => jumpTo(Number(button.dataset.bookJump))));

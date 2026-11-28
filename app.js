@@ -177,18 +177,45 @@ function drawDirectory(savedOnly=false){
 }
 let aliases=[];
 function buildAliases(){const map=new Map();for(const e of entries){map.set(e.title,e.id);for(const name of e.aliases||[])map.set(name,e.id);if(e.title.startsWith('The '))map.set(e.title.slice(4),e.id)}for(const [name,id]of Object.entries({'Council':'council','Concord':'concord','Hunters':'hunters','Armada':'armada','University':'university','Aethyn':'aethyn','Cindren':'cindren','Galven':'galven','Liriath':'liriath','Florians':'florians','Vorthani':'vorthani','Tarvan':'tarvan','Pocchin':'pocchin','Sporrn':'sporrn','Chartwrights':'chartwrights','King Tide':'king-tide','Still Days':'calendar','sea-pacts':'sea-pacts','saurians':'saurians','aurocs':'aurocs'}))map.set(name,id);aliases=[...map].sort((a,b)=>b[0].length-a[0].length)}
+const nameConnectors='(?:of|the|de|del|el|la|las|los)';
+const precedingNameWord=new RegExp(String.raw`(?<![\p{L}\p{N}_])(?!The[ \t])\p{Lu}[\p{L}\p{M}\p{N}’'-]*(?:[ \t]+${nameConnectors})*[ \t]+$`,'u');
+const followingNameWord=new RegExp(String.raw`^(?:[ \t]+${nameConnectors})*[ \t]+\p{Lu}`,'u');
+function isAliasInContext(match,id,text){
+ const name=match[0];
+ const before=text.slice(0,match.index);
+ const after=text.slice(match.index+name.length);
+ const sentenceStart=/(?:^|[.!?…])[\s"'“”‘’«»()[\]*¿¡]*$/u.test(before);
+ if(sentenceStart){
+  const title=fold(byId[id]?.title || '');
+  const prefix=fold(name);
+  if(!title.startsWith(prefix)||/^[\p{L}\p{M}\p{N}_]/u.test(title.slice(prefix.length)))return false;
+  // In this position, "Below" can also introduce an ordinary location.
+  if(id==='below'&&prefix==='below'&&/^(?:,|[ \t]+(?:the|a|an|this|that|these|those|my|your|his|her|its|our|their|me|you|him|it|us|them)\b)/i.test(after))return false;
+ }
+ const coreName=name.replace(/^the[ \t]+/i,'');
+ return /\s/.test(coreName)||!/^\p{Lu}/u.test(coreName)||!(
+  precedingNameWord.test(before)||followingNameWord.test(after)
+ );
+}
 function linkify(text,current){
- const valid=aliases.filter(([,id])=>id!==current&&Pack2.canRead(id));
- const names=valid.map(([name])=>name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|');
+ // Alternations are tried in order, so try the longest registered name first.
+ const names=aliases.map(([name])=>name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|');
  const fishbread=/\[\[(panpescado)\|fishbread\]\]|\b(fishbread\b(?: \(food\))?|panpescado\b(?: \(comida\))?)/;
- const re=new RegExp(fishbread.source+(names?'|\\b(?:'+names+')\\b':''),'gi');let result='',last=0;
- for(const m of text.matchAll(re)){
+ const re=new RegExp(fishbread.source+(names?'|(?<![\\p{L}\\p{M}\\p{N}_])(?:'+names+')(?![\\p{L}\\p{M}\\p{N}_])':''),'giu');let result='',last=0;
+ let m;
+ while((m=re.exec(text))){
   const word=m[1]||m[2];
   // The food overview also uses the capitalized spelling at the start of its description.
   const id=word
    ? (word.includes('(')||word===word.toLowerCase()||current==='food-of-the-islands'?'fishbread-food':'fishbread')
-   : valid.find(([name])=>fold(name)===fold(m[0]))?.[1];
-  if(!id||id===current||!Pack2.canRead(id))continue;
+   : aliases.find(([name])=>fold(name)===fold(m[0]))?.[1];
+  if(!id)continue;
+  if(!word&&!isAliasInContext(m,id,text)){
+   // A rejected article-prefixed match may overlap the start of a longer name.
+   if(/^the[ \t]+/i.test(m[0]))re.lastIndex=m.index+1;
+   continue;
+  }
+  if(id===current||!Pack2.canRead(id))continue;
   result+=esc(text.slice(last,m.index))+'<a class="wiki-link" href="#entry/'+id+'">'+esc(m[0])+'</a>';
   last=m.index+m[0].length;
  }
