@@ -678,7 +678,7 @@
  "highspire": {
   "gloss": "Highspire",
   "subtitle": "El cielo tiene sus propios archivos",
-  "summary": "Observatorios, la Casa Cunaestrella y los nidos de los aethyn en los acantilados.",
+  "summary": "Aguja Alta es la isla-aguja de la Casa Cunaestrella: una ciudad de torres amurallada sobre una repisa por encima de las nubes, con los mejores observatorios de las islas, los talleres de lentes y los Acantilados que Cantan, donde anidan los aethyn.",
   "epigraph": {
    "quote": "Abajo en el puerto hay niebla. Aquí arriba, es mañana.",
    "by": "Un pulidor de lentes de los Cunaestrella"
@@ -689,44 +689,67 @@
     "[[Corazón Central|Central Heartland]]"
    ],
    [
-    "Casa asociada",
-    "[[Cunaestrella|Starborn]]"
+    "En manos de",
+    "La Casa [[Cunaestrella|Starborn]], bajo Dama Astraea"
    ],
    [
-    "Conocida por",
-    "Los observatorios y los nidos de los aethyn"
+    "Conocido por",
+    "Cartas de estrellas, lentes y el [[Almanaque Cunaestrella|Starborn Almanac]]"
+   ],
+   [
+    "Fundación",
+    "Hacia 20 EC"
+   ],
+   [
+    "El camino de subida",
+    "El camino del acantilado y el elevador"
    ]
   ],
   "title": "Aguja Alta",
   "sections": [
    {
-    "title": "Por encima del puerto",
+    "title": "Por encima de las nubes",
     "paragraphs": [
-     "Las alturas de [[Aguja Alta|Highspire]] les pertenecen a los astrónomos, a las listas de estrellas y a los aethyn alados. La Casa Cunaestrella comparte su atención paciente a los cielos."
+     "[[Aguja Alta|Highspire]] es una ciudad de torres amurallada sobre una repisa angosta, a media altura de un acantilado colosal, por encima de la línea de las nubes. La Casa Cunaestrella encontró la repisa hacia 20 EC, donde el cielo era más claro que en ninguna otra parte de las islas, y encontró a los aethyn ya anidando en los acantilados de arriba. Muchas mañanas el pueblo está al sol mientras el puerto de abajo se pierde en la niebla.",
+     "Las torres son observatorios. Al anochecer sus cúpulas se abren con un ruido como de un campo de persianas; en las azoteas los astrónomos les dictan números a sus escribientes, y por encima de ellos, contra las estrellas, los aethyn salen planeando de los [[Acantilados que Cantan|Singing Cliffs]] para hacer su propia guardia."
     ]
    },
    {
     "title": "Los Acantilados que Cantan",
     "paragraphs": [
-     "Unos riscos horadados por el viento cerca de Aguja Alta suenan en acordes cuando cambia el tiempo. Los capitanes de puerto escuchan su tono cambiante para saber cómo estará mañana, mientras los nidos se alzan por encima."
+     "Por encima de la ciudad se alzan unos riscos horadados por el viento, llenos de agujeros, y los aethyn anidan en ellos. Cuando cambia el tiempo, los acantilados suenan en acordes, y los capitanes de puerto de Aguja Alta leen en el tono el tiempo de mañana. Los niños aprenden los acordes antes que las letras, y un marinero de Aguja Alta te tararea el tiempo de mañana si se lo pides."
+    ]
+   },
+   {
+    "title": "Lentes y el Almanaque",
+    "paragraphs": [
+     "Los [[talleres de lentes|lens-works]], donde pulidores gnomos y aethyn tallan las lentes de Aguja Alta, se mantienen tan limpios que a los visitantes se les pide dejar las botas en la puerta. El vidrio viene de [[Caída Eterna|Everfall]], trabajado por los cindren. Un maestro pulidor de lentes gana 10 [[Anclas|Anchors]] al mes, un catalejo de Aguja Alta cuesta 100 Anclas, y los mejores capitanes pagan el doble por uno pulido por Relbic.",
+     "Desde hacia 95 EC la casa publica el Almanaque Cunaestrella cada [[Día del Desembarco|Landing-Day]]: las mareas, las lunas, los eclipses y las fechas de fiesta del año, con páginas del tiempo que los capitanes de puerto escriben a partir del tono de los acantilados. El primer ejemplar impreso del Almanaque de cada año se sube a los Acantilados que Cantan y se les deja a los aethyn."
     ]
    },
    {
     "title": "Llegar",
     "paragraphs": [
-     "A Aguja Alta se llega con una larga subida. El puerto está abajo, y la ciudad de torres se alza en su acantilado por encima de la línea de las nubes, de modo que muchas mañanas el pueblo está al sol mientras el puerto de abajo se pierde en la niebla. Los aethyn planean entre las torres y los [[Acantilados que Cantan|Singing Cliffs]]."
+     "A Aguja Alta se llega con una larga subida. El puerto está abajo, bajo la niebla, y los únicos caminos de subida son el camino del acantilado y el elevador. Los capitanes de puerto Sennet cobran los derechos de puerto de la casa, y los aethyn planean entre las torres y los Acantilados que Cantan por encima de la cabeza de todos los que caminan."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Cunaestrella, los [[Vigías del Cielo|Watchers of Heaven]], tiene Aguja Alta, y Dama Astraea la lleva como un observatorio: todo en su lugar, todo anotado y nada con prisa. La casa es aliada de la [[Universidad|University]] y de la [[Casa Caelvaron|House Caelvaron]], y está enredada en silencio con los aethyn, que miraban el cielo de Aguja Alta mucho antes de que se levantara ninguna casa. Si los Cunaestrella aprendieron las estrellas de los alados o solo a su lado es una pregunta que cada lado contesta a su manera."
     ]
    },
    {
     "title": "Lo que pasa aquí",
     "paragraphs": [
-     "Cartas de estrellas y lentes. Los observatorios de los Cunaestrella son los mejores de las islas, y los navegantes pagan caro por sus cartas. Los capitanes de puerto leen el tiempo de mañana por el acorde que suenan los acantilados cuando gira el viento."
+     "Cartas de estrellas y lentes. Los observatorios de los Cunaestrella son los mejores de las islas, y los navegantes pagan caro por sus cartas. Los aethyn escriben sus grandes rollos de estrellas en vessai, la lengua del aire abierto, y toman [[agua de estrellas|starwater]], [[hoja clara|brightleaf]] reposada toda la noche en una repisa de nido bajo las lunas; insisten en que la luz de la luna importa, y nadie ha probado nunca que no.",
+     "Su vuelo crece y mengua con las dos lunas, fuerte bajo la atracción llena, y en esas noches el cielo sobre Aguja Alta está lleno de alas. Por encima de todo, sobre Aguja Alta y los mares de tormenta, van los vientos altos de Badron, la Reina de las Plumas."
     ]
    },
    {
     "title": "En las islas",
     "paragraphs": [
-     "El pueblo alado de los aethyn anida en los Acantilados que Cantan, por encima del pueblo, y los astrónomos aethyn comparten su guardia con los Cunaestrella en una sociedad incómoda que cada lado describe a su manera."
+     "Cada capitán que tiene un catalejo de Aguja Alta lo presume, y cada uno que no lo tiene lo quiere. El Almanaque les dice a las islas sus mareas y sus días de fiesta, y la Universidad mantiene una correspondencia con Aguja Alta a la que le paga a un magíster por contestar. Los aethyn y los Cunaestrella comparten su guardia en una sociedad incómoda que cada lado describe a su manera."
     ]
    },
    {
@@ -8306,7 +8329,7 @@
    {
     "title": "Nombres",
     "paragraphs": [
-     "Entre los nombres del norte están Aldric, Maren, Halvis y Selen, con Castillogrís o [[Doraguja|Goldspire]]. Entre los del sur, Jaseh, Lumai, Tiagu y Ayanu, con Veyani u Okonja. El borde frío usa Halvar, Astri, Bjarn y Senna, con Marcaescarcha o Kaldsen."
+     "Entre los nombres del norte están Aldric, Maren, Halvis y Selen, con Castillogrís o [[Doraguja|Goldspire]]. Entre los del sur, Jaseh, Lumai, Tiagu y Ayanu, con Veyani u Okonja. El borde frío usa Halvar, Astri, Bjarn y Senna, con [[Marcaescarcha|Frostmark]] o Kaldsen."
     ]
    },
    {
@@ -11433,63 +11456,232 @@
  "hollowkey": {
   "gloss": "Hollowkey",
   "subtitle": "La laguna que ninguna carta admite",
-  "summary": "Cayo Hueco es una laguna escondida en el sur sin cartografiar, el más grande de los Feudos Libres Piratas: un mercado flotante de cascos amarrados unos con otros donde los Restos de Corazón Negro, las tripulaciones de la Marea Libre y todos los capitanes fuera de la ley del sur…",
+  "summary": "Cayo Hueco es una laguna escondida en el sur sin cartografiar, el más grande de los Feudos Libres Piratas: un mercado flotante de cascos amarrados unos a otros donde los Restos de Corazón Negro, las tripulaciones de la Marea Libre y cada capitán fuera de la ley del sur comercian, se reparan y beben.",
   "facts": [
    [
     "Región",
-    "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
+    "[[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "Conocido por",
+    "El mercado flotante"
+   ],
+   [
+    "Un barco robado",
+    "Un tercio de lo que vale"
+   ],
+   [
+    "El capitán de puerto",
+    "Un [[Alférez de Espada|Blade-Ensign]] retirado de la Armada"
+   ],
+   [
+    "Su patrono",
+    "Vael el que Llama a la Tormenta"
    ]
   ],
   "title": "Cayo Hueco",
+  "epigraph": {
+   "quote": "El vidrio es bienvenido. La moneda sirve. El papel lo guardamos para prender las lámparas.",
+   "by": "Un mercader del mercado flotante de Cayo Hueco"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "La laguna",
     "paragraphs": [
-     "[[Cayo Hueco|Hollowkey]] es una laguna escondida en el sur sin cartografiar, el más grande de los [[Feudos Libres Piratas|Pirate Freeholds]]: un mercado flotante de cascos amarrados unos con otros donde los [[Restos de Corazón Negro|Remnants of Blackheart]], las tripulaciones de la [[Marea Libre|Free Tide]] y todos los capitanes fuera de la ley del sur comercian, reparan y beben. Sus reglas son las reglas de la [[Marea|Tide]] Libre. Ahí no ondea ninguna bandera del [[Consejo|Council]], no se acepta ninguna moneda del Consejo, y cada trato lo sella el mar. El capitán de puerto de Cayo Hueco es un [[Alférez de Espada|Blade-Ensign]] retirado de la Armada que perdió un brazo por la [[Estrella que se Ahoga|Drowning Star]], y que le cuenta a cualquiera que le invite un trago exactamente cómo se disparó la Estrella."
+     "[[Cayo Hueco|Hollowkey]] es una laguna escondida en el sur sin cartografiar, y ninguna carta del [[Consejo|Council]] admite que existe. El más grande de los [[Feudos Libres Piratas|Pirate Freeholds]] es menos un pueblo que un mercado que flota: presas viejas, mercantes desarbolados y cascos demasiado cansados para navegar, amarrados unos a otros a lo ancho de la laguna, de modo que las calles son pasarelas y el suelo bajo los pies del visitante cambia cada pocos pasos.",
+     "Los Feudos Libres Piratas son la red amplia de puertos ilegales, calas escondidas y mercados flotantes que sirven a los fuera de la ley del archipiélago, más ancha que los [[Restos de Corazón Negro|Remnants of Blackheart]] y más suelta que la [[Marea Libre|Free Tide]]. Cayo Hueco es el más grande: tierra neutral para contrabandistas, desertores y desesperados, y el lugar para vender lo que no se puede vender a la luz del día. Algunas flotillas de los Nacidos a la Deriva también amarran ahí, y tienen cuidado de irse antes de que alguien pregunte de qué lado están."
+    ]
+   },
+   {
+    "title": "El mercado flotante",
+    "paragraphs": [],
+    "list": [
+     "**Barcos.** Un barco robado se vende por un tercio de lo que vale, y una presa por la mitad.",
+     "**Armas.** La pólvora, la munición y las armas se venden abiertamente, al doble del precio de [[Ventoro|Goldwind]], y [[Arcturus Corazón de Hierro|Arcturus Ironheart]], que hace las mejores armas del mar, vende aquí las suyas a cualquiera.",
+     "**Carga.** Lo que se haya perdido en el mar el mes pasado. Un barco que se hundió frente a [[Puerto Sur|Southhaven]] en calma chicha, con seguro completo, tuvo su carga vendida en Cayo Hueco la semana anterior.",
+     "**Reliquias,** vendidas cuando debieron quedarse ahogadas.",
+     "**Pago.** El vidrio oscuro es bienvenido, la moneda se acepta y del papel se ríen."
+    ]
+   },
+   {
+    "title": "Las reglas",
+    "paragraphs": [
+     "Las reglas de Cayo Hueco son las de la Marea Libre: el mar no es de nadie. Ninguna bandera del Consejo ondea ahí, y cada trato lo sella el mar. Es tierra neutral, casi siempre. Las manadas de lobos de [[Harrow Melena|Harrow Mane]] no son bienvenidas, y vienen de todos modos.",
+     "El capitán de puerto es un Alférez de Espada retirado de la Armada que perdió un brazo con la [[Estrella que se Ahoga|Drowning Star]], y que le cuenta a cualquiera que le invite un trago exactamente cómo se disparó la Estrella."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "Los capitanes libres, los contrabandistas y los Feudos Libres Piratas navegan bajo Vael el que Llama a la Tormenta, la libertad salvaje del mar, y Cayo Hueco brinda por él más de lo que le reza. El parche más difícil de los [[Retazos|Patchwork]] se da aquí: el Negro, por una hazaña que los feudos no describen.",
+     "Sus loros son los mejor informados de las islas. Un loro de alcantarilla de Cayo Hueco sabe cómo le dice en privado un almirante del Consejo a su esposa, y lo repite cada tarde a la sexta campanada."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Cayo Hueco es el tercero de los puertos negros, con [[Buentiempo|Fairweather]] en el hielo y [[Puerto Negro|Black Harbor]] en la niebla, y el único que ninguna carta del Consejo puede encontrar. Lo que se roba en el mar en el sur termina ahí, y lo que los fuera de la ley del sur necesitan para seguir en el mar sale de ahí."
     ]
    },
    {
     "title": "Rumores",
     "paragraphs": [
-     "“Reinhardt Holst le invita un trago a cada pirata viejo de Cayo Hueco y a cada uno le hace la misma pregunta: ¿qué colores hundieron al Serafín del Mar?” (un tabernero de Cayo Hueco)"
+     "“Reinhardt Holst le invita un trago a cada pirata viejo de Cayo Hueco y a cada uno le hace la misma pregunta: ¿qué colores hundieron al Serafín del Mar?” (un tabernero de Cayo Hueco)",
+     "“Hay un casco amarrado en medio del mercado al que nadie sube, y las tripulaciones de la Marea Libre lo saludan cuando pasan.” (un marinero de los Nacidos a la Deriva)"
     ]
    }
   ]
  },
  "kaldmark": {
   "subtitle": "El torreón negro del hielo",
-  "summary": "Kaldmark es el bastión de la Casa Kaldmark, la única casa noble de verdad de la Extensión.",
+  "summary": "Kaldmark es el bastión de la Casa Kaldmark, la única casa noble de verdad de la Extensión: un torreón de piedra negra con una puerta de hueso de ballena en las colinas sobre Bastión de Escarcha, desde donde la casa sostiene una marca de pueblos balleneros contra el hielo y contra Buentiempo.",
   "facts": [
    [
     "Región",
-    "La [[Extensión Helada|Icy Expanse]]"
+    "[[Extensión Helada|Icy Expanse]]"
+   ],
+   [
+    "En manos de",
+    "La Casa Kaldmark, bajo [[Señor|Lord]] Sten Kaldmark"
+   ],
+   [
+    "Fundación",
+    "Hacia 35 EC"
+   ],
+   [
+    "La guarnición",
+    "Unos 700 [[huscarles|huscarls]]"
+   ],
+   [
+    "Lema",
+    "Perduramos"
    ]
   ],
   "title": "Kaldmark",
+  "epigraph": {
+   "quote": "Bebe en la puerta. A nadie le importa si no lo haces. Todos lo notan.",
+   "by": "Un huscarle de Kaldmark"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "El bastión",
     "paragraphs": [
-     "Kaldmark es una fortaleza en las colinas, con un torreón de piedra negra y una puerta de hueso de ballena, y sus estandartes llevan la calavera de oso blanca sobre campo negro ribeteado de azul hielo. La Casa sostiene una marca de pueblos balleneros y de hielo frente a una frontera que mata a los descuidados. Su [[Señor de la Marca|Marchlord]], Sten Kaldmark, gobierna con la ley severa del bastión, y ha aprendido exactamente lo que quiere decir el lema de su casa. Las destilerías de [[ardehielo|icebrand]] de Kaldmark abastecen a los guerreros de la casa, y la venganza de sangre de la casa con la [[Logia de Varan|Varan Lodge]] es más vieja que cualquier Kaldmark vivo."
+     "Kaldmark es una fortaleza en las colinas sobre [[Bastión de Escarcha|Frosthold]] y su bahía ballenera: un torreón de piedra negra con muros de tres pasos de ancho, salones calentados con aceite de ballena y estandartes de la calavera de oso blanca sobre negro, con borde azul hielo. El primer Señor Kaldmark, Arnulf, lo construyó hacia 35 EC, después de cruzar las [[Tierras Salvajes|Wilds]] con tres barcos y doscientas personas, y solo la mitad vio la primera primavera.",
+     "Su puerta está hecha con la quijada de una ballena que Arnulf mató en el primer invierno, y es la única puerta de las islas más vieja que su muralla. Adentro están el [[salón de la lista|roll-hall]], donde los nombres de todos los que han muerto sosteniendo la marca están tallados en las paredes, empezando por los cien que no vieron la primera primavera, y las destilerías, donde la casa destila el [[ardehielo|Icebrand]]."
+    ]
+   },
+   {
+    "title": "La marca",
+    "paragraphs": [
+     "El bastión sostiene una marca de pueblos balleneros: Bastión de Escarcha, la capital de la costa ballenera; los tres pueblos de la Casa [[Marcaescarcha|Frostmark]]; y los pueblos más pequeños de la bahía, [[Aguahueso|Bonewater]], [[Bahía del Caldero|Kettlebay]] y [[Atalaya de Escarcha|Rimewatch]], el fuerte del norte de la casa, donde la Casa Askeld vigila el hielo por las cosas que vienen por encima. La casa cobra una leva a todos ellos, una parte de cada presa y de cada barril de aceite, a cambio de mantenerlos vivos.",
+     "La verdadera defensa de la casa es el hielo. Ningún ejército ha marchado nunca sobre Kaldmark, porque ningún ejército podría alimentarse por el camino."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "A cada huésped del bastión se le da una copa de ardehielo en la puerta. Rechazarla no es un insulto; solo se nota. Los enanos de las fortalezas profundas no pasan de esa puerta: ahí cambian hierro y Krysta por aceite de ballena y pieles, y en todos los años de la paz ningún lado ha entrado en los salones del otro."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "Señor Sten Kaldmark gobierna con la ley dura del bastión: un hombre grande, gris y callado que ha ido a [[Ventoro|Goldwind]] una vez en su vida y se fue antes de la cena. El [[Corazón|Heartland]] lo tiene por bárbaro; la [[Extensión|Expanse]] lo tiene por el único señor que alguna vez le cumplió una promesa. Su hermana Runa, a la que llaman [[Mordida de Escarcha|Frostbite]], tiene la [[Octava Flota|Eighth Fleet]] de la Armada, el [[Voto Helado|Frozen Vow]], en las mismas aguas.",
+     "Los huscarles, unos 700 con pieles negras y azul hielo, con hachas, ballestas y arcos de cuerno, cuidan el bastión, Atalaya de Escarcha y los caminos de la marca. Con los abanderados y los balleneros, la casa puede reunir unos 2,800. Los Tesoreros calculan sus ingresos en unos 5,000 [[Orsales|Orsals]] al año, los más pequeños de los Veinte, y la casa diría que los más difíciles de ganar."
+    ]
+   },
+   {
+    "title": "Lo que pasa aquí",
+    "paragraphs": [
+     "En el festín de pleno invierno la casa se sienta en el salón de la lista, a la luz de lámparas de aceite de ballena, bajo los nombres, y lee en voz alta los nombres de los cien que murieron el primer invierno; la carne es de foca y la bebida es ardehielo. Un señor nuevo toma su asiento saliendo solo por la puerta de hueso de ballena a medianoche, y el salón espera en silencio hasta el alba para ver si vuelve a entrar.",
+     "Las destilerías de la Casa Thorvess hacen el ardehielo: 4 [[Olas|Bits]] la botella en la puerta de la destilería, 2 [[Mareas|Tides]] en el Corazón y 2 [[Anclas|Anchors]] en Ventoro por la reserva clara, que compra la gente que quiere hablar del hielo sin ir."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "El gran problema de Kaldmark está en su propia frontera: [[Puerto Varan|Varan Port]], al que su propia gente llama [[Buentiempo|Fairweather]], y con el que la casa está trabada en una lucha fría, corrupta e imposible de ganar. La casa sostiene una enemistad de sangre con la [[Logia de Varan|Varan Lodge]] de los [[Cazadores|Hunters]] desde hacia 70 EC, cuando la [[Logia|Lodge]] aceptó la moneda de Buentiempo y dejó morir en el hielo a un heredero Kaldmark, y ningún Kaldmark se sienta en un cuarto con un Cazador de esa logia.",
+     "Ahora [[Madre Kess|Mother Kess]] compró las deudas de Brennvar, y ha ido a cenar con la [[Señora de la Lámpara|Lamp-Mistress]]. El bastión lo ha notado."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Atalaya de Escarcha vio algo en el hielo, y el bastión anda buscando a alguien que no sea huscarle para que salga a ver.” (un escribiente del puerto de Bastión de Escarcha)",
+     "“Los huscarles viejos dicen que el hombre que volvió a entrar por la puerta al alba, el invierno en que Señor Sten tomó su asiento, hablaba menos que el que salió. Y nunca habló mucho.” (un huscarle viejo)"
     ]
    }
   ]
  },
  "karn-sorroch": {
   "subtitle": "Las minas del Patrón de Medianoche",
-  "summary": "Karn Sorroch es el dominio de Velemnos, el Patrón de Medianoche, una tierra oscura y selvática de minas de Krysta infames, trabajadas por los no libres.",
+  "summary": "Karn Sorroch es el pueblo minero fortificado de la Casa Vossreth en una curva de río en la selva del sur profundo: el Krysta más rico del sur, sacado por manos que no son libres, y el dominio de Velemnos, el Patrón de Medianoche.",
   "facts": [
    [
     "Región",
-    "Las [[Tierras Salvajes del Sur|Southern Wilds]]"
+    "[[Tierras Salvajes del Sur|Southern Wilds]]"
+   ],
+   [
+    "En manos de",
+    "La Casa Vossreth, bajo [[Señor|Lord]] Caldren Vossreth"
+   ],
+   [
+    "Conocido por",
+    "Krysta en bruto y [[vidrio oscuro|dark glass]]"
+   ],
+   [
+    "Fundación",
+    "Hacia 45 EC"
+   ],
+   [
+    "Dominio de",
+    "Velemnos, el [[Patrón de Medianoche|Midnight Patron]]"
    ]
   ],
   "title": "Karn Sorroch",
+  "epigraph": {
+   "quote": "Entras de día y sales de día. Si no puedes con lo segundo, no intentes lo primero.",
+   "by": "Un mercader del río"
+  },
   "sections": [
    {
-    "title": "Panorama",
+    "title": "El campamento que se volvió pueblo",
     "paragraphs": [
-     "El pueblo de Karn Sorroch es un campamento minero fortificado en un recodo del río, con las puertas custodiadas por los siervos de la Casa Vossreth, y sus calles se alumbran con lámparas de Krysta de baja ley cuyos conjuros guardados brillan azules dentro de las piedras. La Krysta sale de las minas hondas en carretas bajo el sello de los Vossreth, y las minas son la fuente más rica de [[vidrio oscuro|dark glass]] del sur. A ningún visitante se le permite ver al Patrón, y la mayoría de los visitantes que lo intentan no vuelven a salir."
+     "La Casa Vossreth encontró las vetas de Krysta en una curva de río en la selva del sur profundo hacia 45 EC y construyó ahí un campamento minero fortificado, Karn Sorroch, que se volvió pueblo sin dejar nunca de ser campamento. Tiene murallas del lado de la selva y del lado del río, y las murallas miran hacia adentro tanto como hacia afuera. Sus puertas las cuidan los siervos de la casa, y sus calles se alumbran con lámparas de Krysta de baja calidad cuyas obras guardadas brillan azules dentro de las piedras.",
+     "Por encima de las minas, en lo alto, está [[Manorroja|Redhand]], la sede de la casa: un palacio negro y morado con una gema roja del tamaño de un puño sobre la puerta. Bajo el pueblo y bajo el río corren [[las Profundidades|the Deeps]], las minas de la casa. Todo el pueblo huele a piedra mojada y a Krysta."
+    ]
+   },
+   {
+    "title": "Las Profundidades",
+    "paragraphs": [
+     "Desde hacia 70 EC Karn Sorroch se volvió la gran fuente de Krysta del sur, y el Krysta de las minas de Darlath llega al sur pasando por ella. El Krysta sale de las Profundidades en carretas bajo el sello Vossreth y se vende por medio de corredores al precio del corredor, más el décimo del [[Registro|Registry]], que la casa paga sobre una parte. Las minas son la fuente más rica de vidrio oscuro del sur, y el Krysta sin registrar que sale de ellas llega a [[Buentiempo|Fairweather]], a [[Puerto Negro|Black Harbor]], a los agentes de las Ciudades Libres, a los rebeldes y a la [[Legión|Legion]] a entre una vez y media y tres veces el precio legal.",
+     "Las Profundidades las trabajan manos que no son libres. La esclavitud terminó en las tierras del [[Consejo|Council]] con la [[Abolición|Abolition]]; nunca terminó en Karn Sorroch, y el Consejo nunca ha encontrado la voluntad de hacer que termine. Las redes de esclavistas alimentan las minas, unos 800 capataces armados impiden que los mineros se vayan, y los capataces les dan mula, una raíz negra que les deja trabajar sin dormir, para que el trabajo no pare nunca."
+    ]
+   },
+   {
+    "title": "Llegar",
+    "paragraphs": [
+     "Los visitantes suben por el río de día y los hace pasar por la puerta del río un Crell, de la casa que cuida la puerta y las barcazas de Krysta. Una audiencia en Manorroja se da en un cuarto fresco con las persianas cerradas, con un señor encantador que te ofrece un vino que él no toma; al ponerse el sol te acompañan, con cortesía, a la barcaza. Nada de lo que entra en Karn Sorroch sale sin el permiso de la casa, sea Krysta, moneda o una persona."
+    ]
+   },
+   {
+    "title": "Quién gobierna",
+    "paragraphs": [
+     "La Casa Vossreth, la [[Corona Hueca del Sur|Hollow Crown of the South]], tiene Karn Sorroch como un reino privado, y su lema es todo el programa de la casa: *Lo que es mío, lo guardo.* Señor Caldren Vossreth, pálido, elegante y siempre cortés, gobierna desde Manorroja, y sube solo por el río la noche de cada luna nueva; la casa no lo explica. Los Vossreth son pocos, callados y casi nunca se los ve fuera de Karn Sorroch, y los salones han notado que los jóvenes de la familia no parecen envejecer mucho, y que sus viejos no parecen morirse.",
+     "Karn Sorroch es también el dominio del Patrón de Medianoche, el antiguo señor vampiro cuyo nombre es Velemnos y cuyo nombre usan las madres para asustar a los niños. A ningún visitante se le permite ver al Patrón, y la mayoría de los que lo intentan no vuelven a salir. Qué es el Patrón para la casa, y la casa para el Patrón, nadie que lo sepa lo ha dicho nunca."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "La mitad del [[Corazón|Heartland]] compra lo que vende Karn Sorroch, y la otra mitad lo compra por medio de alguien más. El Registro quiere pruebas de que la casa vende Krysta sin registrar, y nadie de los que ha mandado ha vuelto. Los [[Rompecadenas|Chainbreakers]] cuentan las minas entre sus primeros enemigos, y golpear una mina Vossreth es cruzarse con el Patrón de Medianoche, que lo nota todo."
+    ]
+   },
+   {
+    "title": "Rumores",
+    "paragraphs": [
+     "“Una barcaza subió a Karn Sorroch en luna nueva con un pasajero y bajó al alba sin ninguno, y a los barqueros les pagaron el doble por no contar.” (un mercader del río)",
+     "“Los capataces están comprando mula por barril este año. La casa quiere sacar más de las Profundidades que el año pasado, y no dice por qué.” (un corredor de Puerto Sur)"
     ]
    },
    {
@@ -11502,7 +11694,7 @@
  "krakens-maw": {
   "gloss": "The Kraken's Maw",
   "subtitle": "Dos arrecifes y un cementerio de flotas",
-  "summary": "Un paso entre dos arrecifes en el mar del sur, donde se peleó la gran batalla del 165 EC y donde todavía están sus restos.",
+  "summary": "Un paso entre dos arrecifes en el mar del sur, donde se peleó la gran batalla del 165 EC: diez años después, un cementerio de dos flotas y el rescate más rico de las islas.",
   "facts": [
    [
     "Región",
@@ -11519,6 +11711,10 @@
    [
     "Lo trabajan",
     "los recuperadores"
+   ],
+   [
+    "Reclamos",
+    "Se registran en la [[Casa de los Tesoreros|Reckoners’ Hall]], por un décimo"
    ]
   ],
   "title": "Las Fauces del Kraken",
@@ -11531,14 +11727,30 @@
     "title": "El lugar",
     "paragraphs": [
      "Las [[Fauces del Kraken|Kraken’s Maw]] son un paso estrecho entre dos arrecifes en aguas traicioneras del sur. En el 165 EC más de ciento sesenta barcos pelearon ahí durante dieciséis horas, y muchísimos nunca salieron.",
-     "Los restos de la Armada y de la flota de [[Corazón Negro|Blackheart]] están juntos en el fondo. Los buzos dicen que todavía zumban al atardecer."
+     "El almirante [[Corazón Negro|Blackheart]] metió más de ciento doce barcos en el paso contra la Coalición de la Armada, los [[Cazadores|Hunters]] y las tripulaciones voluntarias. La almirante Thulissa del [[Tridente|Trident]] atravesó su línea hasta el *[[Soberano del Pavor|Dread Sovereign]]* y lo mató en su propia cubierta, la [[Marea Carmesí|Crimson Tide]] abrió y hundió la colosal *[[Mirada del Abismo|Gaze of Abyss]]*, y la armada se rompió. El día tiene su propia página; las Fauces son lo que ese día dejó.",
+     "Los restos de la Armada y de la flota de Corazón Negro están juntos en el fondo. Los buzos dicen que todavía zumban al atardecer."
     ]
    },
    {
     "title": "Los recuperadores",
     "paragraphs": [
      "Diez años después, las Fauces las trabajan tripulaciones de rescate, que suben cañones, herrajes y de vez en cuando un cofre. Trabajan de día y están en sus botes antes del atardecer.",
+     "Cuando terminó la batalla, la Casa de los Tesoreros registró cada reclamo sobre la armada hundida de Corazón Negro, y todavía se lleva su décimo de cada pieza que sube: quien la encuentra se queda con un tercio, el dueño o el asegurador con el resto, menos el décimo de la Casa. Las tripulaciones con licencia bucean con las cartas de la [[Oficina de Naufragios|Wreck Office]]. Las otras bucean cuando la Casa no está mirando, y venden por [[Buentiempo|Fairweather]], donde los pedazos de la *Mirada del Abismo* se venden por pieza y nadie pregunta de qué naufragio salieron.",
      "Por costumbre no se saca nada de un naufragio que todavía tenga muertos a bordo, y los nombres de las dos flotas se dicen sobre el agua la noche de la batalla."
+    ]
+   },
+   {
+    "title": "Lo que guardan las Fauces",
+    "paragraphs": [
+     "Algunos de los muertos tienen nombres que todo el archipiélago conoce. Thulissa volvió de la cubierta de Corazón Negro a su propio barco con heridas a las que no sobreviviría. El capitán Magnus del *[[Mazo|Sledgehammer]]* cayó ante Sombra [[Colmillosierpe|Serpentfang]], y su hijo Leoric tomó el barco en medio de la batalla, lo peleó hasta el final y juró en las Fauces vengarlo. Falken [[Vistaclara|Brightsight]], que peleó junto a Thulissa, todavía manda el *Falkoner* con el que cruzó las Fauces, como [[Señor de Flota|Fleetlord]] del [[Último Salmo|Last Psalm]].",
+     "El *Soberano del Pavor* se hundió en la desbandada, y los marineros viejos juran que lo han sacado a flote, lo cual es imposible, admiten, y siguen jurándolo."
+    ]
+   },
+   {
+    "title": "En las islas",
+    "paragraphs": [
+     "Las Fauces son la razón por la que la Armada y los Cazadores, que pelean por todo lo demás, todavía se ponen del mismo lado cuando importa. También son la razón por la que el sur está lleno de hombres sin adónde ir: los [[Restos de Corazón Negro|Remnants of Blackheart]] son las tripulaciones que salieron vivas, y la [[Última Sonrisa|Last Smile]], la hija de Corazón Negro, los está juntando en algo parecido a una nación.",
+     "Su rescate llega a cada mercado negro de las islas como [[mercancía mojada|wet goods]], y la [[Extensión Helada|Icy Expanse]] lo cuenta entre lo que exporta, porque se vende por Buentiempo."
     ]
    },
    {
@@ -31670,7 +31882,7 @@
      "**Vol Kaern, Corascua y Quillane:** unos 300 cada uno, los de Corascua con una batería de cañones largos.",
      "**Varselis:** unos 200.",
      "**Caelvaron:** unos 150 arqueros del [[Bosque Antiguo|Elderwood]].",
-     "**[[Forjasol|Sunforge]], Holst, Solenne y Kaldmark:** unos 100 cada uno: armeros, soldados, sanadores y huscarles.",
+     "**[[Forjasol|Sunforge]], Holst, Solenne y Kaldmark:** unos 100 cada uno: armeros, soldados, sanadores y [[huscarles|huscarls]].",
      "**Tejetormentas:** treinta magos de la tormenta, a los que la Alianza pide por su nombre.",
      "**Alastor:** doce [[Caballeros de la Rosa Pálida|Knights of the Pale Rose]], y la bolsa más grande.",
      "**El resto:** moneda, cartas, información, Krysta y, de la Casa Veldane, un regalo de bodas para cada compañía que zarpa."
@@ -33316,7 +33528,7 @@
       ],
       [
        "[[Forjasol|Sunforge]], Holst, Solenne, Kaldmark",
-       "unos 100 cada uno: armeros, soldados, sanadores y huscarles"
+       "unos 100 cada uno: armeros, soldados, sanadores y [[huscarles|huscarls]]"
       ],
       [
        "[[Tejetormentas|Stormweaver]]",

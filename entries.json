@@ -898,36 +898,51 @@
   "category": "place",
   "region": "Central Heartland",
   "subtitle": "The sky has its own archives",
-  "summary": "Observatories, House Starborn, and the cliffside eyries of the Aethyn.",
+  "summary": "Highspire is the spire-island of House Starborn: a walled tower-city on a shelf above the clouds, with the best observatories in the islands, the lens-works, and the Singing Cliffs where the Aethyn nest.",
   "sections": [
    {
-    "title": "Above the harbor",
+    "title": "Above the clouds",
     "paragraphs": [
-     "Highspire’s heights belong to astronomers, star-rolls, and the winged Aethyn. House Starborn shares their patient attention to the heavens."
+     "Highspire is a walled tower-city on a narrow shelf halfway up a colossal cliff, above the cloud-line. House Starborn found the shelf about 20 EC, where the sky was clearer than anywhere in the islands, and found the Aethyn already nesting in the cliffs above it. On many mornings the town is in sunshine while the harbor below is lost in fog.",
+     "The towers are observatories. At dusk their domes open with a sound like a field of shutters; on the rooftops the astronomers call numbers to their clerks, and above them, against the stars, the Aethyn glide out from the Singing Cliffs to keep their own watch."
     ]
    },
    {
     "title": "The Singing Cliffs",
     "paragraphs": [
-     "Wind-bored crags near Highspire sound in chords as the weather turns. Harbor-masters listen to their changing pitch for tomorrow’s conditions, while the eyries rise above them."
+     "Wind-bored crags full of holes rise above the city, and the Aethyn nest in them. When the weather turns, the cliffs sound in chords, and Highspire’s harbor-masters read tomorrow’s weather by the pitch. Children learn the chords before their letters, and a Highspire sailor will hum you tomorrow’s weather if you ask."
+    ]
+   },
+   {
+    "title": "Lenses and the Almanac",
+    "paragraphs": [
+     "The lens-works, where gnome and Aethyn grinders shape Highspire’s lenses, are kept so clean that visitors are asked to leave their boots at the door. The glass comes from Everfall, worked by the Cindren. A master lens-grinder earns 10 Anchors a month, a Highspire spyglass costs 100 Anchors, and the best captains will pay twice that for one ground by Relbic.",
+     "Since about 95 EC the house has published the Starborn Almanac each Landing-Day: the year’s tides, moons, eclipses, and festival dates, with weather pages that the harbor-masters write from the cliffs’ pitch. The first printed copy of each year’s Almanac is carried up to the Singing Cliffs and left for the Aethyn."
     ]
    },
    {
     "title": "Arriving",
     "paragraphs": [
-     "Highspire is reached by a long climb. The harbor sits low, and the tower-city rises on its cliff above the cloud-line, so that on many mornings the town is in sunshine while the harbor below is lost in fog. Aethyn glide between the towers and the Singing Cliffs."
+     "Highspire is reached by a long climb. The harbor sits low, under the fog, and the only ways up are the cliff-road and the lift. The Sennet harbor-masters collect the house’s harbor dues, and Aethyn glide between the towers and the Singing Cliffs over the heads of everyone who walks."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "House Starborn, the Watchers of Heaven, holds Highspire, and Lady Astraea runs it like an observatory: everything in its place, everything recorded, and nothing hurried. The house is allied with the University and House Caelvaron, and quietly entangled with the Aethyn, who watched Highspire’s skies long before any house was raised there. Whether the Starborn learned the stars from the skykin or only beside them is a question that each side answers differently."
     ]
    },
    {
     "title": "What happens here",
     "paragraphs": [
-     "Star-charts and lenses. The Starborn observatories are the best in the islands, and navigators pay dearly for their charts. The harbor-masters read tomorrow's weather by the chord the cliffs sound when the wind turns."
+     "Star-charts and lenses. The Starborn observatories are the best in the islands, and navigators pay dearly for their charts. The Aethyn write their great star-rolls in Vessai, the speech of the open air, and drink starwater, brightleaf steeped overnight on an eyrie ledge under the moons; they insist the moonlight matters, and no one has ever proved it does not.",
+     "Their flight waxes and wanes with the two moons, strong under the full pull, and on those nights the sky over Highspire is full of wings. Above everything, over Highspire and the storm-seas, ride the high winds of Badron, the Queen of Feathers."
     ]
    },
    {
     "title": "In the islands",
     "paragraphs": [
-     "The Aethyn winged folk nest in the Singing Cliffs above the town, and the Aethyn astronomers share their watch with the Starborn in an uneasy partnership that both sides describe differently."
+     "Every captain who has a Highspire spyglass shows it off, and every one who does not wants one. The Almanac tells the islands their tides and festival days, and the University keeps up a correspondence with Highspire that it pays a magister to answer. The Aethyn and the Starborn share their watch in an uneasy partnership that both sides describe differently."
     ]
    },
    {
@@ -941,15 +956,23 @@
   "facts": [
    [
     "Region",
-    "Central Heartland"
+    "The Central Heartland"
    ],
    [
-    "Associated house",
-    "Starborn"
+    "Held by",
+    "House Starborn, under Lady Astraea"
    ],
    [
     "Known for",
-    "Observatories and Aethyn eyries"
+    "Star-charts, lenses, and the Starborn Almanac"
+   ],
+   [
+    "Founded",
+    "About 20 EC"
+   ],
+   [
+    "The way up",
+    "The cliff-road and the lift"
    ]
   ],
   "source": "What Everyone Knows · 175 EC",
@@ -962,7 +985,16 @@
    "aethyn",
    "singing-cliffs",
    "heartland",
-   "king-tide"
+   "king-tide",
+   "house-starborn",
+   "gnomes",
+   "everfall",
+   "cindren",
+   "house-caelvaron",
+   "university",
+   "badron-queen-of-feathers",
+   "crafts-and-guilds",
+   "trade-of-the-central-heartland"
   ],
   "illustration": {
    "src": "assets/scenes/highspire-painterly-v2-960.webp",
@@ -15375,18 +15407,51 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "The lagoon no chart admits to",
-  "summary": "Hollowkey is a hidden lagoon in the uncharted south, the greatest of the Pirate Freeholds: a drift-market of lashed-together hulks where the Remnants of Blackheart, the Free Tide crews, and every outlaw captain in the south…",
+  "summary": "Hollowkey is a hidden lagoon in the uncharted south, the greatest of the Pirate Freeholds: a drift-market of lashed-together hulks where the Remnants of Blackheart, the Free Tide crews, and every outlaw captain in the south trade, refit, and drink.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The lagoon",
     "paragraphs": [
-     "Hollowkey is a hidden lagoon in the uncharted south, the greatest of the Pirate Freeholds: a drift-market of lashed-together hulks where the Remnants of Blackheart, the Free Tide crews, and every outlaw captain in the south trade, refit, and drink. Its rules are the Free Tide's rules. No Council flag flies there, no Council coin is accepted, and every deal is sealed by the sea. The Hollowkey harbor-master is a retired Armada Blade-Ensign who lost an arm to the Drowning Star, and who will tell anyone who buys him a tot exactly how the Star was fired."
+     "Hollowkey is a hidden lagoon in the uncharted south, and no Council chart admits it exists. The greatest of the Pirate Freeholds is less a town than a market that floats: old prizes, dismasted merchantmen, and hulks too tired to sail, lashed together across the lagoon, so that the streets are gangplanks and the ground under a visitor’s feet changes every few steps.",
+     "The Pirate Freeholds are the broad network of illegal ports, hidden coves, and floating markets that serve the archipelago’s outlaws, wider than the Remnants of Blackheart and looser than the Free Tide. Hollowkey is the greatest of them: neutral ground for smugglers, deserters, and the desperate, and the place to sell what cannot be sold in daylight. Some of the Driftborn flotillas tie up there too, and are careful to leave before anyone asks which side they are on."
+    ]
+   },
+   {
+    "title": "The drift-market",
+    "paragraphs": [],
+    "list": [
+     "**Ships.** A stolen ship sells for a third of her worth, and a prize for half.",
+     "**Guns.** Powder, shot, and guns are sold openly, at twice the Goldwind price, and Arcturus Ironheart, who builds the best weapons on the sea, sells his here to anyone.",
+     "**Cargo.** Whatever went missing at sea last month. A ship that sank off Southhaven in a flat calm, fully insured, had her cargo sold in Hollowkey the week before.",
+     "**Relics,** sold that should have stayed drowned.",
+     "**Payment.** Dark glass is welcome, coin is accepted, and paper is laughed at."
+    ]
+   },
+   {
+    "title": "The rules",
+    "paragraphs": [
+     "Hollowkey’s rules are the Free Tide’s: the sea belongs to no one. No Council flag flies there, and every deal is sealed by the sea. It is neutral ground, mostly. Harrow Mane’s wolf-packs are not welcome, and they come anyway.",
+     "The harbor-master is a retired Armada Blade-Ensign who lost an arm to the Drowning Star, and who will tell anyone who buys him a tot exactly how the Star was fired."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "Free captains, smugglers, and the Pirate Freeholds sail under Stormcaller Vael, the sea’s wild freedom, and Hollowkey drinks to him more than it prays. The Patchwork’s hardest patch is given here: the Black, for a deed the freeholds will not describe.",
+     "Its parrots are the best informed in the islands. A gutter parrot in Hollowkey knows a Council admiral’s private name for his wife, and says it every evening at the sixth bell."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Hollowkey is the third of the black ports, with Fairweather in the ice and Black Harbor in the fog, and the only one no Council chart can find. What is stolen at sea in the south ends up there, and what the south’s outlaws need to stay at sea comes from there."
     ]
    },
    {
     "title": "Rumors",
     "paragraphs": [
-     "“Reinhardt Holst buys a drink for every old pirate in Hollowkey and asks each of them the same question: whose colors sank the Sea Seraph?” (a Hollowkey barkeep)"
+     "“Reinhardt Holst buys a drink for every old pirate in Hollowkey and asks each of them the same question: whose colors sank the Sea Seraph?” (a Hollowkey barkeep)",
+     "“There’s a hulk moored at the middle of the market that nobody boards, and the Free Tide crews salute it when they pass.” (a Driftborn deckhand)"
     ]
    }
   ],
@@ -15394,6 +15459,22 @@
    [
     "Region",
     "The Southern Wilds"
+   ],
+   [
+    "Known for",
+    "The drift-market"
+   ],
+   [
+    "A stolen ship",
+    "A third of her worth"
+   ],
+   [
+    "The harbor-master",
+    "A retired Armada Blade-Ensign"
+   ],
+   [
+    "Its patron",
+    "Stormcaller Vael"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15401,7 +15482,20 @@
   "related": [
    "free-tide",
    "armada",
-   "coats-and-ranks-of-the-armada"
+   "coats-and-ranks-of-the-armada",
+   "southern-wilds",
+   "harrow-mane",
+   "seren-blackheart-the-last-smile",
+   "stormcaller-vael",
+   "driftborn",
+   "arcturus-ironheart",
+   "patchwork",
+   "gutter-parrot",
+   "krakens-maw",
+   "black-harbor",
+   "varan-port",
+   "vice-and-the-black-market",
+   "reinhardt-holst"
   ],
   "illustration": {
    "src": "assets/scenes/hollowkey-painterly-v1-960.webp",
@@ -15411,6 +15505,10 @@
    "height": 1024,
    "alt": "A hidden southern pirate lagoon is filled with lashed-together hulls, wooden walkways, boats and market stalls.",
    "caption": "Trade and repairs carry on in Hollowkey’s floating market."
+  },
+  "epigraph": {
+   "quote": "Glass is welcome. Coin will do. Paper we keep for lighting the lamps.",
+   "by": "A Hollowkey drift-trader"
   },
   "translations": {
    "es": "complete"
@@ -15422,12 +15520,54 @@
   "category": "place",
   "region": "Icy Expanse",
   "subtitle": "The black keep of the ice",
-  "summary": "Kaldmark is the hold of House Kaldmark, the one true noble house of the Expanse.",
+  "summary": "Kaldmark is the hold of House Kaldmark, the one true noble house of the Expanse: a black stone keep with a gate of whale-bone in the hills above Frosthold, from which the house holds a march of whaling-towns against the ice and against Fairweather.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The hold",
     "paragraphs": [
-     "Kaldmark is a fortified stronghold in the hills, with a black stone keep and a gate of whale-bone, and its banners carry the white bear-skull on a black field rimmed in ice-blue. The House holds a march of whaling-towns and ice against a frontier that kills the careless. Its Marchlord, Sten Kaldmark, governs with the hold's grim law, and he has learned exactly what his house's motto means. The Kaldmark icebrand stillhouses supply the house's warriors, and the house's blood-feud with the Varan Lodge is older than any living Kaldmark."
+     "Kaldmark is a fortified stronghold in the hills above Frosthold and its whaling bay: a black stone keep with walls three paces thick, halls heated by whale-oil, and banners of the white bear-skull on black, rimmed in ice-blue. The first Lord Kaldmark, Arnulf, built it about 35 EC, after crossing the Wilds with three ships and two hundred people, and only half of them saw the first spring.",
+     "Its gate is made of the jaw of a whale that Arnulf killed in the first winter, and it is the only gate in the islands older than its wall. Inside are the roll-hall, where the names of everyone who has died holding the march are cut into the walls, beginning with the hundred who did not see the first spring, and the stillhouses, where the house distils Icebrand."
+    ]
+   },
+   {
+    "title": "The march",
+    "paragraphs": [
+     "The hold keeps a march of whaling-towns: Frosthold, the capital of the whaling coast; the three towns of House Frostmark; and the smaller towns along the bay, Bonewater, Kettlebay, and Rimewatch, the house’s northern fort, where House Askeld watches the ice for the things that come over it. The house takes a levy on all of them, a share of every catch and every barrel of oil, in return for keeping them alive.",
+     "The house’s real defense is the ice. No army has ever marched on Kaldmark, because no army could feed itself on the way."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "Every guest at the hold is given a cup of Icebrand at the gate. Refusing it is not an insult; it is only noticed. The dwarves of the deep holds come no farther than that gate: they trade iron and Krysta there for whale-oil and furs, and in all the years of the peace neither side has entered the other’s halls."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "Lord Sten Kaldmark governs with the hold’s grim law: a big, grey, silent man who has come to Goldwind once in his life and left before the dinner. The Heartland thinks him a barbarian; the Expanse thinks him the only lord who has ever kept a promise to it. His sister Runa, called Frostbite, holds the Armada’s Eighth Fleet, the Frozen Vow, in the same waters.",
+     "The huscarls, about 700 in black furs and ice-blue, with axes, crossbows, and horn-bows, keep the hold, Rimewatch, and the roads of the march. With the bannermen and the whalers, the house can muster about 2,800. The Reckoners put its income at about 5,000 Orsals a year, the smallest of the Twenty, and the house would say the hardest won."
+    ]
+   },
+   {
+    "title": "What happens here",
+    "paragraphs": [
+     "At the midwinter feast the house sits in the roll-hall by whale-oil lamps, under the names, and reads aloud the names of the hundred who died in the first winter; the meat is seal and the drink is Icebrand. A new lord is seated by walking out through the whale-bone gate alone at midnight, and the hall waits in silence until dawn to see whether he walks back.",
+     "The stillhouses of House Thorvess make the Icebrand: 4 Bits a bottle at the stillhouse door, 2 Tides in the Heartland, and 2 Anchors in Goldwind for the clear reserve, which is bought by people who want to talk about the ice without going."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Kaldmark’s great problem sits on its own border: Varan Port, which its own people call Fairweather, and with which the house is locked in a cold, corrupt, unwinnable struggle. The house has held a blood-feud with the Varan Lodge of the Hunters since about 70 EC, when the Lodge took Fairweather’s coin and let a Kaldmark heir die on the ice, and no Kaldmark will sit in a room with a Hunter of that lodge.",
+     "Now Mother Kess has bought the Brennvar debts, and has been to supper with the Lamp-Mistress. The hold has noticed."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“Rimewatch has seen something on the ice, and the hold is looking for someone to go out and look who isn’t a huscarl.” (a Frosthold harbor-clerk)",
+     "“The old huscarls say the man who walked back through the gate at dawn, the winter Lord Sten was seated, spoke less than the one who walked out. And he never spoke much.” (an old huscarl)"
     ]
    }
   ],
@@ -15435,6 +15575,22 @@
    [
     "Region",
     "The Icy Expanse"
+   ],
+   [
+    "Held by",
+    "House Kaldmark, under Lord Sten Kaldmark"
+   ],
+   [
+    "Founded",
+    "About 35 EC"
+   ],
+   [
+    "The garrison",
+    "About 700 huscarls"
+   ],
+   [
+    "Motto",
+    "We Outlast"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15444,8 +15600,18 @@
    "icy-expanse",
    "kellum",
    "varan-port",
-   "noble-houses"
+   "noble-houses",
+   "runa-kaldmark",
+   "frosthold",
+   "dwarves",
+   "whale-wolves",
+   "reckoners-hall",
+   "trade-of-the-icy-expanse"
   ],
+  "epigraph": {
+   "quote": "Drink at the gate. Nobody minds if you don’t. Everybody notices.",
+   "by": "A Kaldmark huscarl"
+  },
   "translations": {
    "es": "complete"
   }
@@ -15456,12 +15622,46 @@
   "category": "place",
   "region": "Southern Wilds",
   "subtitle": "The Midnight Patron’s mines",
-  "summary": "Karn Sorroch is the domain of Velemnos, the Midnight Patron, a dark and jungled land of infamous Krysta-mines worked by the unfree.",
+  "summary": "Karn Sorroch is the fortified mining-town of House Vossreth on a jungle river-bend in the deep south: the richest Krysta of the south, dug by the unfree, and the domain of Velemnos, the Midnight Patron.",
   "sections": [
    {
-    "title": "Overview",
+    "title": "The camp that became a town",
     "paragraphs": [
-     "The town of Karn Sorroch is a fortified mining-camp on a river-bend, its gates kept by the thralls of the House of Vossreth, and its streets are lit by low-grade Krysta lamps whose stored workings glow blue within the stones. The Krysta comes out of the deep mines in carts under the Vossreth seal, and the mines are the richest source of dark glass in the south. No visitor is allowed to see the Patron, and most visitors who try do not come back out."
+     "House Vossreth found the Krysta seams on a jungle river-bend in the deep south about 45 EC and built a fortified mining-camp there, Karn Sorroch, which became a town without ever ceasing to be a camp. It has walls on the jungle side and the river side, and the walls face inward as much as out. Its gates are kept by the house’s thralls, and its streets are lit by low-grade Krysta lamps whose stored workings glow blue within the stones.",
+     "Above the mines, on the high ground, stands Redhand, the house’s seat: a black-and-purple palace with a red gem the size of a fist set over its door. Under the town and under the river run the Deeps, the house’s mines. The whole town smells of wet stone and Krysta."
+    ]
+   },
+   {
+    "title": "The Deeps",
+    "paragraphs": [
+     "From about 70 EC Karn Sorroch became the great Krysta source of the south, and the Krysta of the Darlath mines reaches the south by way of it. The Krysta comes out of the Deeps in carts under the Vossreth seal and is sold through brokers at the broker’s price, plus the Registry’s tenth, which the house pays on some of it. The mines are the richest source of dark glass in the south, and the unregistered Krysta from them reaches Fairweather, Black Harbor, the Free City agents, rebels, and the Legion at one and a half to three times the legal price.",
+     "The Deeps are worked by the unfree. Slavery ended in Council lands in the Abolition; it never ended at Karn Sorroch, and the Council has never found the will to make it. The slaver-rings feed the mines, about 800 armed overseers keep the miners from leaving, and the overseers give them mule, a black root that lets them work without sleep, so that the work never stops."
+    ]
+   },
+   {
+    "title": "Arriving",
+    "paragraphs": [
+     "Visitors come upriver by day and are brought through the river gate by a Crell, of the house that keeps the gate and the Krysta barges. An audience at Redhand is given in a cool room with the shutters closed, by a lord who is charming and offers you wine he does not drink; at sunset you are shown, politely, to the barge. Nothing that comes into Karn Sorroch leaves it without the house’s leave, whether it is Krysta, coin, or a person."
+    ]
+   },
+   {
+    "title": "Who rules",
+    "paragraphs": [
+     "House Vossreth, the Hollow Crown of the South, holds Karn Sorroch as a private kingdom, and its motto is the house’s whole program: *What Is Mine, I Keep.* Lord Caldren Vossreth, pale, elegant, and unfailingly courteous, rules from Redhand, and travels upriver alone on the night of every new moon; the house does not explain it. The Vossreths are few, quiet, and rarely seen outside Karn Sorroch, and the salons have noticed that the family’s young do not seem to age much, and that its old do not seem to die.",
+     "Karn Sorroch is also the domain of the Midnight Patron, the ancient vampire-lord whose name is Velemnos and whose name mothers use to frighten children. No visitor is allowed to see the Patron, and most visitors who try do not come back out. What the Patron is to the house, and the house to the Patron, nobody who knows has ever said."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "Half the Heartland buys what Karn Sorroch sells, and the other half buys it through someone else. The Registry wants proof that the house sells unregistered Krysta, and nobody it has sent has come back. The Chainbreakers count the mines among their first enemies, and to strike a Vossreth mine is to cross the Midnight Patron, who notices everything."
+    ]
+   },
+   {
+    "title": "Rumors",
+    "paragraphs": [
+     "“A barge went up to Karn Sorroch at the new moon with one passenger and came down at dawn with none, and the bargemen were paid double not to count.” (a river trader)",
+     "“The overseers are buying mule by the barrel this year. The house wants more out of the Deeps than it did last year, and it isn’t saying why.” (a Southhaven broker)"
     ]
    },
    {
@@ -15474,6 +15674,22 @@
    [
     "Region",
     "The Southern Wilds"
+   ],
+   [
+    "Held by",
+    "House Vossreth, under Lord Caldren Vossreth"
+   ],
+   [
+    "Known for",
+    "Raw Krysta and dark glass"
+   ],
+   [
+    "Founded",
+    "About 45 EC"
+   ],
+   [
+    "Domain of",
+    "Velemnos, the Midnight Patron"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15482,8 +15698,20 @@
    "midnight-patron",
    "house-vossreth",
    "krysta",
-   "talk-of-175-ec"
+   "talk-of-175-ec",
+   "southern-wilds",
+   "mule",
+   "chainbreakers",
+   "arcane-registry",
+   "trade-of-the-southern-wilds",
+   "field-mine-and-herd",
+   "vice-and-the-black-market",
+   "southhaven"
   ],
+  "epigraph": {
+   "quote": "You go in by day and you come out by day. If you can’t manage the second, don’t try the first.",
+   "by": "A river trader"
+  },
   "translations": {
    "es": "complete"
   }
@@ -15494,12 +15722,13 @@
   "category": "place",
   "region": "The Sea",
   "subtitle": "Two reefs and a graveyard of fleets",
-  "summary": "A passage between two reefs in the southern sea, where the great battle of 165 EC was fought and its wrecks still lie.",
+  "summary": "A passage between two reefs in the southern sea, where the great battle of 165 EC was fought: ten years on, a graveyard of two fleets and the richest salvage in the islands.",
   "sections": [
    {
     "title": "The place",
     "paragraphs": [
      "The Kraken’s Maw is a narrow passage between two reefs in treacherous southern water. In 165 EC more than a hundred and sixty ships fought there for sixteen hours, and a great many of them never left.",
+     "Admiral Blackheart brought more than a hundred and twelve ships into the passage against the Coalition of the Armada, the Hunters, and the volunteer crews. Admiral Thulissa of the Trident drove through his line to the *Dread Sovereign* and killed him on his own deck, the Crimson Tide breached and sank the colossal *Gaze of Abyss*, and the armada broke. The day itself has its own page; the Maw is what the day left behind.",
      "The wrecks of the Armada and of Blackheart’s fleet lie together on the bottom. Divers say they still hum at dusk."
     ]
    },
@@ -15507,7 +15736,22 @@
     "title": "The salvagers",
     "paragraphs": [
      "Ten years on, the Maw is worked by salvage crews, who bring up guns, fittings, and now and then a strongbox. They work by daylight and are in their boats before dusk.",
+     "When the battle was over, the Reckoners’ Hall registered every claim on Blackheart’s sunken armada, and it still takes its tenth on every piece that comes up: the finder takes a third, the owner or insurer the rest, less the Hall’s tenth. The licensed crews dive by the Wreck Office’s charts. The others dive when the Hall is not looking, and sell through Fairweather, where pieces of the *Gaze of Abyss* go by the piece and nobody asks which wreck they came from.",
      "By custom nothing is taken from a wreck that still has dead aboard, and the names of both fleets are said over the water on the night of the battle."
+    ]
+   },
+   {
+    "title": "What the Maw keeps",
+    "paragraphs": [
+     "Some of the dead have names that the whole archipelago knows. Thulissa came back from Blackheart’s deck to her own ship with wounds she would not survive. Captain Magnus of the *Sledgehammer* fell to Shade Serpentfang, and his son Leoric took the ship in the middle of the battle, fought her to the end, and swore at the Maw to avenge him. Falken Brightsight, who fought beside Thulissa, still commands the *Falkoner* he sailed through it, as Fleetlord of the Last Psalm.",
+     "The *Dread Sovereign* went down in the rout, and old sailors swear she has been raised, which is impossible, they admit, and keep swearing anyway."
+    ]
+   },
+   {
+    "title": "In the islands",
+    "paragraphs": [
+     "The Maw is the reason the Armada and the Hunters, who squabble about everything else, still stand together when it counts. It is also the reason the south is full of men with nowhere to go: the Remnants of Blackheart are the crews who came out of it alive, and the Last Smile, Blackheart’s daughter, is gathering them into something like a nation.",
+     "Its salvage reaches every black market in the islands as wet goods, and the Icy Expanse counts it among its exports, because it is sold through Fairweather."
     ]
    },
    {
@@ -15534,6 +15778,10 @@
    [
     "Worked by",
     "salvagers"
+   ],
+   [
+    "Claims",
+    "Registered at the Reckoners’ Hall, for a tenth"
    ]
   ],
   "source": "Kalvatar Library · 175 EC",
@@ -15551,7 +15799,17 @@
    "great-hunter-crews",
    "coral-kingdoms",
    "titania-and-the-iron-swan",
-   "free-tide"
+   "free-tide",
+   "admiral-blackheart",
+   "admiral-thulissa",
+   "falken-brightsight",
+   "captain-magnus-and-leoric",
+   "captain-bramgard",
+   "seren-blackheart-the-last-smile",
+   "reckoners-hall",
+   "varan-port",
+   "vice-and-the-black-market",
+   "hollowkey"
   ],
   "illustration": {
    "src": "assets/history/maw-wrecks-painterly-v1-960.webp",
